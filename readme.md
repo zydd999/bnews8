@@ -1,6 +1,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298176.md" target="_blank">美大学刊文 吁清除中共对法轮功「非人化」宣传</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298229.md" target="_blank">命名中共病毒最准确 华人与美媒观点一致</a></li>
 
 
@@ -71,9 +74,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298081.md" target="_blank">海外华人回国辟疫 “祖国怀抱”一片冰凉</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298080.md" target="_blank">天亮时分：高盛对美国经济前景的悲观预计;中共经济恐怕更糟(政论天下第138集 20200321)</a></li>
 
 
 
