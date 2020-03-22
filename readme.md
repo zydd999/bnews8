@@ -1,6 +1,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298413.md" target="_blank">中共瞒2个月 99%传播本可免？ 甩锅美军未遂 再甩此国反火 追责 国际专家提连串方案</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298399.md" target="_blank">中媒急聘欧洲留学生拍摄新冠病毒导致歧视华人视频</a></li>
 
 
@@ -71,9 +74,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298144.md" target="_blank">谁在呼吁召开紧急政治局扩大会议讨论习近平问题？</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298084.md" target="_blank">白宫网站请愿：让我们改叫中共病毒</a></li>
 
 
 
