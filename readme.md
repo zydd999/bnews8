@@ -1,6 +1,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298399.md" target="_blank">中媒急聘欧洲留学生拍摄新冠病毒导致歧视华人视频</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298393.md" target="_blank">意大利北部伦巴底大区宣布严厉防控措施</a></li>
 
 
@@ -73,15 +76,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298084.md" target="_blank">白宫网站请愿：让我们改叫中共病毒</a></li>
 
 
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298083.md" target="_blank">中共另类瘟疫：特务五毛发难 潜入各国祸乱</a></li>
-
-
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298400.md" target="_blank">欧洲口罩荒！各国民间企业纷纷开设口罩生产线</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298376.md" target="_blank">打脸华春莹 美国务院发言人：1月3日中共早已下令销毁病毒样本 让医生噤声</a></li>
 
 
@@ -152,9 +155,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1296975.md" target="_blank">美财长再透露发钱详情：4人家庭首轮发3000美元</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1296948.md" target="_blank">福克斯新闻施压习近平说出真相 直斥中共“满手鲜血”</a></li>
 
 
 
