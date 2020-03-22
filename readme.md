@@ -1,6 +1,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298422.md" target="_blank">对北京掩盖疫情失望 川普：中共“非常诡秘”</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298413.md" target="_blank">中共瞒2个月 99%传播本可免？ 甩锅美军未遂 再甩此国反火 追责 国际专家提连串方案</a></li>
 
 
@@ -71,9 +74,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298146.md" target="_blank">异象频频：太恐怖了！刚刚还是晴空万里 突然天就黑了狂风大作…</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298144.md" target="_blank">谁在呼吁召开紧急政治局扩大会议讨论习近平问题？</a></li>
 
 
 
