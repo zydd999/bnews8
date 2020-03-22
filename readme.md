@@ -163,6 +163,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298500.md" target="_blank">欧洲各国宣布更严格防疫 药物进入临床实验</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298485.md" target="_blank">新冠疫情重创华为 生存是第一位问题</a></li>
 
 
@@ -233,9 +236,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200322/1297915.md" target="_blank">纪念721元朗事件8个月： 示威者遭港警施放催泪弹</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200322/1297914.md" target="_blank">吴斯怀称中共军机绕台不算挑衅 国民党：应谨言慎行</a></li>
 
 
 
