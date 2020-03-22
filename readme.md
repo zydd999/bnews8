@@ -1,6 +1,18 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298460.md" target="_blank">华邮：病毒应与促进其传播的政权永远连在一起</a></li>
+
+
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298454.md" target="_blank">抵京国际航班要到12个周边城市检疫</a></li>
+
+
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298453.md" target="_blank">大陆通报新增确诊病例显“诡异” 网民挞伐</a></li>
+
+
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298451.md" target="_blank">野火烧不尽，春风吹又生</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298441.md" target="_blank">女华侨回国避疫却中招：早知这样绝不回来！</a></li>
 
 
@@ -62,18 +74,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298178.md" target="_blank">美国会议员吁推特删除中共官方账号</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298177.md" target="_blank">中国连3天0确诊？武汉医受访揭内幕</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298149.md" target="_blank">蓬佩奥：中俄伊传播假信息 打击美防疫工作</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298148.md" target="_blank">两个月內不许出城！许进不许出！ 这就是0增长的武汉？</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298147.md" target="_blank">伊朗为何疫情严重？航班继续飞往中国</a></li>
 
 
 
