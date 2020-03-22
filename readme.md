@@ -163,6 +163,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298485.md" target="_blank">新冠疫情重创华为 生存是第一位问题</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298480.md" target="_blank">美国进一步考虑减免中国进口商品关税</a></li>
 
 
@@ -233,9 +236,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200322/1297914.md" target="_blank">吴斯怀称中共军机绕台不算挑衅 国民党：应谨言慎行</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200321/1297903.md" target="_blank">西铁元朗站7.21事件8个月　民众再堵路抗议</a></li>
 
 
 
