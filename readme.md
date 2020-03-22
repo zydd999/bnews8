@@ -82,6 +82,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298376.md" target="_blank">打脸华春莹 美国务院发言人：1月3日中共早已下令销毁病毒样本 让医生噤声</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298247.md" target="_blank">中共堡垒内幕:党员绝望大哭 医生说为何不得不“报零” 彭斯夫妇都检测呈阴性</a></li>
 
 
@@ -152,9 +155,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1296948.md" target="_blank">福克斯新闻施压习近平说出真相 直斥中共“满手鲜血”</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1296947.md" target="_blank">一针见血！巴西总统之子狠批中共：病毒爆发是中共的错</a></li>
 
 
 
