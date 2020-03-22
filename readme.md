@@ -1,6 +1,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298441.md" target="_blank">女华侨回国避疫却中招：早知这样绝不回来！</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298422.md" target="_blank">对北京掩盖疫情失望 川普：中共“非常诡秘”</a></li>
 
 
@@ -71,9 +74,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298147.md" target="_blank">伊朗为何疫情严重？航班继续飞往中国</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298146.md" target="_blank">异象频频：太恐怖了！刚刚还是晴空万里 突然天就黑了狂风大作…</a></li>
 
 
 
