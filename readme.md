@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200323/1298519.md">他娶三十九位老婆 每天安排不同人进房 如今真实遭到公开！他们竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298659.md">时机敏感 传四高官调动引而未发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298686.md">习近平“保留本色很重要”早年家庭生活 大陆全网不保留</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200323/1298828.md">惊！与中国专家研判不同 法国专家示警：病毒毒力前所未见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298875.md">中共党内“倒习”风波不止  建议书传言满天飞无人“认领”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298529.md">宝胜快讯：路透社独家：病毒爆发前几个月，美国CDC取消了在中国的专家工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298539.md">促中共高层开扩大会倒习 匿名网文热传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298544.md">天亮时分：政治局扩大会议罢免习近平？美律师起诉中共求偿20万亿美元；将改变中共国际环境的白宫联署正名运动（政论天下第139集 20200322） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200323/1298518.md">男子决定做一个月每天狂灌4公斤水的疯狂实验 10天后他的身体发生了变化！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298850.md">美国传染病专家到访过武汉 确定病毒来源自中国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299011.md">怒中共大外宣频甩锅 美驻华使馆连3推砲轰</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1298936.md" target="_blank">美国学者：中共为撇清武汉疫情责任无所不用其极</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299140.md" target="_blank">各国中共肺炎感染数据分析与中共的关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299139.md" target="_blank">美军舰南海射飞弹 中共预警机罕见现身东海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299138.md" target="_blank">沈阳挂横额庆贺美日疫情网友斥:泯灭人性</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md" target="_blank">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md" target="_blank">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298918.md" target="_blank">中国客惹人心惊胆战？香港澳洲谣传遭“入侵”抢购物资</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298917.md" target="_blank">南早：4.3万隐性“带毒者”中国未包括确诊数字之内</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299156.md" target="_blank">美中不信任加深，新冠疫情后，两国将面临进一步切割</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299155.md" target="_blank">武汉人要索赔：我的母亲不能冤死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299124.md" target="_blank">谷歌撤离中国已十年  中国没变  谷歌变了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299123.md" target="_blank">中国驻美大使不帮外交部发言人背书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299109.md" target="_blank">美中抗疫显合作迹象，能否成趋势有待观察</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298943.md" target="_blank">中国输入型感染病例下降 无症状感染者恐成疫情黑洞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298942.md" target="_blank">香港新冠肺炎个案「喷泉式」增长　林郑「哽咽」叹隔离者无视检疫令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298941.md" target="_blank">新冠肺炎索赔法律顾问团：扩大援助范围</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298932.md" target="_blank">新冠病毒疫情蔓延 台湾与中国大陆展开口罩外交角力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298931.md" target="_blank">武汉放宽新确诊病例标准  核酸检测阳性但无症状不算感染</a></li>
 
 </ul>
 </div>
