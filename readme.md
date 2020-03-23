@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298144.md">谁在呼吁召开紧急政治局扩大会议讨论习近平问题？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200322/1298175.md">任志强将被打入反党集团吗？一场政治大清洗正在到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298247.md">中共堡垒内幕:党员绝望大哭 医生说为何不得不“报零” 彭斯夫妇都检测呈阴性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298226.md">企业家吁召开紧急会议 矛头直指中共最高层</a></li>
@@ -10,8 +9,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298241.md">这些“英雄”都是假的 他欺骗了中国几代人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298236.md">针对中共 场面相当震撼！美舰在菲律宾海军演 发射标准二型飞弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298356.md">中国疫情目前到底有多严重？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298202.md">网传视频：太恐怖了！跳楼者直接砸进车里…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298441.md">女华侨回国避疫却中招：早知这样绝不回来！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298202.md">网传视频：太恐怖了！跳楼者直接砸进车里…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298239.md">一场疫情 让我们看到美军的实力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298219.md">网曝企业家吁政治局就习近平问题开紧急会议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298280.md">这些“英雄”都是假的 他欺骗了中国几代人(二)</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298413.md">中共瞒2个月 99%传播本可免？ 甩锅美军未遂 再甩此国反火 追责 国际专家提连串方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200322/1298269.md">今天才知道 这6种食物不怕过期 放得越久越有价值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200322/1298307.md">预期的日本疫情大爆发 为何没发生？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298464.md">赵立坚再次现身 “英文推”追问美国零号病人</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298660.md" target="_blank">川普与习近平通电话 叹对中共失望</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298659.md" target="_blank">时机敏感 传四高官调动引而未发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298658.md" target="_blank">武汉市肺炎病例「清零」？市民反驳：只有傻瓜才信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298628.md" target="_blank">天亮时分：政治局扩大会议罢免习近平？阳光卫视董事长陈平转发此消息。中共是否还有改革机会？（政论天下第139集***第一部分*** 20200322）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298620.md" target="_blank">为中共唱赞歌 谭德塞与北京关系有何内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298619.md" target="_blank">美前国安顾问：全世界必须行动起来 追究他们(中共)的责任</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298460.md" target="_blank">华邮：病毒应与促进其传播的政权永远连在一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298454.md" target="_blank">抵京国际航班要到12个周边城市检疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298453.md" target="_blank">大陆通报新增确诊病例显“诡异” 网民挞伐</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298451.md" target="_blank">野火烧不尽，春风吹又生</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298441.md" target="_blank">女华侨回国避疫却中招：早知这样绝不回来！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298422.md" target="_blank">对北京掩盖疫情失望 川普：中共“非常诡秘”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298657.md" target="_blank">淫魔温斯坦确诊中共肺炎 纽约监狱38人染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298400.md" target="_blank">欧洲口罩荒！各国民间企业纷纷开设口罩生产线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298376.md" target="_blank">打脸华春莹 美国务院发言人：1月3日中共早已下令销毁病毒样本 让医生噤声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298247.md" target="_blank">中共堡垒内幕:党员绝望大哭 医生说为何不得不“报零” 彭斯夫妇都检测呈阴性</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1297157.md" target="_blank">李文亮调查出炉 当局恐慌 30万狱警不许回家 疫情大爆发？美媒发聋振聩：打到共产党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1297144.md" target="_blank">摩纳哥亲王确诊“中共病毒” 全球国家元首第一例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1297104.md" target="_blank">知情人披露：疫情又在武昌集中爆发 医疗队赶去支援</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200320/1296975.md" target="_blank">美财长再透露发钱详情：4人家庭首轮发3000美元</a></li>
 
 </ul>
 </div>
