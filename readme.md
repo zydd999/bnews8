@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md" target="_blank">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299096.md" target="_blank">中国驻法大使馆推特转发疫情来源涉美文章 提 “特朗大流行病”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299095.md" target="_blank">萧铭：（大声版）德国总理隔离；美参议员阳性；美国将惩罚中共隐瞒；蓬佩奥和川普不同调？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299041.md" target="_blank">赵立坚重又出面追问美国零号病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299040.md" target="_blank">方方：所有的疑问，都无人回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299039.md" target="_blank">清零带来新维权 新冠肺炎复阳者遭拒 请律师求偿引关注</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298861.md" target="_blank">活摘器官“纵向证据链”分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298859.md" target="_blank">从苏共到中共 ——当人们反思历史</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md" target="_blank">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298854.md" target="_blank">微电影：中共病毒来袭 紧急时刻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298856.md" target="_blank">无数无症状者 遭指是中国疫情黑洞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298825.md" target="_blank">中国新报新增新冠确诊39例全部为境外输入 湖北连第五日无新增</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299109.md" target="_blank">美中抗疫显合作迹象，能否成趋势有待观察</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299108.md" target="_blank">美议员要求推特封杀中国政府账户    推特如何回应？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299088.md" target="_blank">世卫谭德赛惊呼新冠失控 欧洲死人过万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299087.md" target="_blank">章立凡：驱逐外媒符合习近平的“性格”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299086.md" target="_blank">北京异议人士胡佳因批评当局被禁外出</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298931.md" target="_blank">武汉放宽新确诊病例标准  核酸检测阳性但无症状不算感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298930.md" target="_blank">中国确诊定义变更   台湾专家质疑中国数字准确性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298929.md" target="_blank">疫情无碍台湾经济　1、2月工业生产仍增7.85％创新高</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298928.md" target="_blank">湖北确诊称零只因政治任务　医院拒收复发者瞒报重演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298927.md" target="_blank">共和党全国委员会点名批评中国「说谎」　史无前例</a></li>
 
 </ul>
 </div>
