@@ -1,6 +1,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298552.md" target="_blank">环球邮报：武汉冠状病毒暴露了谎言是中共的核心</a></li>
+
+
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298544.md" target="_blank">天亮时分：政治局扩大会议罢免习近平？美律师起诉中共求偿20万亿美元；将改变中共国际环境的白宫联署正名运动（政论天下第139集 20200322）</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298533.md" target="_blank">重症患者蜂拥而来 选择性抢救 医生不可承受之重 &#8211; 要闻分析</a></li>
 
 
@@ -68,12 +74,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298225.md" target="_blank">内蒙古女医生被病人持刀捅伤 仍未脱险</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298218.md" target="_blank">大陆新闻解读644期_严真点评+外交部大实话：美媒觉醒，为“中国病毒”正名，疫情的真正拐点到来？</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298213.md" target="_blank">中共病毒爆发后 外媒指把中共打回原形</a></li>
 
 
 
@@ -163,6 +163,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298548.md" target="_blank">美传染病专家：新冠病毒来自中国，称 “中国病毒”有些不公平</a></li>
+
+
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298540.md" target="_blank">武汉病例清零？市民：“只有傻瓜才相信”</a></li>
 
 
@@ -233,9 +236,6 @@
 
 
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200322/1297918.md" target="_blank">疫情简报：全球死亡人数破万 中国连续三日无本土新增病例</a></li>
-
-
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200322/1297917.md" target="_blank">中国国务院敦促地方政府确保稳定就业</a></li>
 
 
 
