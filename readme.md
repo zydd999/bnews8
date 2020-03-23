@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200323/1298519.md">他娶三十九位老婆 每天安排不同人进房 如今真实遭到公开！他们竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298659.md">时机敏感 传四高官调动引而未发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298509.md">陈破空：副主席提议召开政治局扩大会议？解决习近平！党内外最大共识 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298686.md">习近平“保留本色很重要”早年家庭生活 大陆全网不保留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298660.md">川普与习近平通电话 叹对中共失望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200323/1298626.md">慎入！看看这些运尸车就让中共的谎言不攻自破</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298544.md">天亮时分：政治局扩大会议罢免习近平？美律师起诉中共求偿20万亿美元；将改变中共国际环境的白宫联署正名运动（政论天下第139集 20200322） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200323/1298518.md">男子决定做一个月每天狂灌4公斤水的疯狂实验 10天后他的身体发生了变化！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299140.md" target="_blank">各国中共肺炎感染数据分析与中共的关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299139.md" target="_blank">美军舰南海射飞弹 中共预警机罕见现身东海</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299138.md" target="_blank">沈阳挂横额庆贺美日疫情网友斥:泯灭人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md" target="_blank">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md" target="_blank">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299096.md" target="_blank">中国驻法大使馆推特转发疫情来源涉美文章 提 “特朗大流行病”</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md" target="_blank">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298918.md" target="_blank">中国客惹人心惊胆战？香港澳洲谣传遭“入侵”抢购物资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298917.md" target="_blank">南早：4.3万隐性“带毒者”中国未包括确诊数字之内</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298916.md" target="_blank">陈秋实疑居家监视隔离 方斌与李泽华呢?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298861.md" target="_blank">活摘器官“纵向证据链”分析</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298859.md" target="_blank">从苏共到中共 ——当人们反思历史</a></li>
 
 </ul>
 </div>
