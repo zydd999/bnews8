@@ -17,12 +17,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298722.md">一位武汉市民因疫情起诉了美国政府 结果自己先害怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298466.md">网络疯传建议书：政治局扩大会议讨论习近平去留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298761.md">武汉病例清零内幕被曝光 北京通知露端倪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298798.md">武汉社区良知尚存的官员惊曝清零真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298835.md">【耳边风】政治局扩大会议搞甚么鬼？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298798.md">武汉社区良知尚存的官员惊曝清零真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200323/1298828.md">惊！与中国专家研判不同 法国专家示警：病毒毒力前所未见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298464.md">赵立坚再次现身 “英文推”追问美国零号病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298529.md">宝胜快讯：路透社独家：病毒爆发前几个月，美国CDC取消了在中国的专家工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298539.md">促中共高层开扩大会倒习 匿名网文热传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200323/1298828.md">惊！与中国专家研判不同 法国专家示警：病毒毒力前所未见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298544.md">天亮时分：政治局扩大会议罢免习近平？美律师起诉中共求偿20万亿美元；将改变中共国际环境的白宫联署正名运动（政论天下第139集 20200322） </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299012.md" target="_blank">陈破空：陈破空谈《常识》（之34）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299008.md" target="_blank">赵立坚获奖? 重又出面追问美国零号病人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299007.md" target="_blank">中国宣告第二针新冠疫苗注射了 军方首席生化武器专家第一针</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299006.md" target="_blank">福布斯或指华为遭疫情重创谋活命第一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298995.md" target="_blank">沈阳名店祝贺美国日本疫情爆满疫帆风顺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298989.md" target="_blank">韩国抗疫经验：大规模测试很重要</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298985.md" target="_blank">动态网发布免费翻墙软件：自由门7.78版</a></li>
@@ -53,16 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298799.md" target="_blank">陈秋实方斌李泽华武汉失踪逾月 网民呼唤“回家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298776.md" target="_blank">中共机密数据曝光 大量无症状者未列入官方统计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298775.md" target="_blank">现场视频：武汉隔离点工人求救 领不到工资(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298762.md" target="_blank">湖北病例零增长？台湾网红:中共谎言害惨世界</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298761.md" target="_blank">武汉病例清零内幕被曝光 北京通知露端倪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298760.md" target="_blank">瞒不住了？官媒承认武汉一家三口复阳或涉“假治愈”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298759.md" target="_blank">冲天大火从北烧到南 广深高速深圳段起火</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299011.md" target="_blank">怒中共大外宣频甩锅 美驻华使馆连3推砲轰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md" target="_blank">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298854.md" target="_blank">微电影：中共病毒来袭 紧急时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md" target="_blank">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200321/1297791.md" target="_blank">武汉肺炎 有件事是最可怕的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200321/1297747.md" target="_blank">【网传信息】紧急疫情通报：武昌区疫情再次爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200321/1297545.md" target="_blank">美国中共肺炎患者奔2万 彭斯办公室有人感染 伊州明起实施“全州居家防疫”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200321/1297345.md" target="_blank">现金流不够 彭博：近半中国上市零售商撑不过6个月</a></li>
 
 </ul>
 </div>
