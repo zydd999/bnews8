@@ -17,8 +17,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298239.md">一场疫情 让我们看到美军的实力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298441.md">女华侨回国避疫却中招：早知这样绝不回来！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298280.md">这些“英雄”都是假的 他欺骗了中国几代人(二)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298052.md">凄美！意大利封城 威尼斯人退海豚进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298219.md">网曝企业家吁政治局就习近平问题开紧急会议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298052.md">凄美！意大利封城 威尼斯人退海豚进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298313.md">川普拼了！十分之一GDP救经济和国民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200322/1298275.md">湖北“零增长”背后的真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298361.md">中共大外宣称捐赠千万片口罩 马国民众怒：是我们花钱买的！</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298566.md" target="_blank">湖北“民主派”官员痛批官僚病毒 尴尬地位引关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298565.md" target="_blank">【一线采访】武汉市民：对政府彻底失望</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298562.md" target="_blank">湖北人别进京  飞机请绕行 北京你怎么啦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298552.md" target="_blank">环球邮报：武汉冠状病毒暴露了谎言是中共的核心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298544.md" target="_blank">天亮时分：政治局扩大会议罢免习近平？美律师起诉中共求偿20万亿美元；将改变中共国际环境的白宫联署正名运动（政论天下第139集 20200322）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298533.md" target="_blank">重症患者蜂拥而来 选择性抢救 医生不可承受之重 &#8211; 要闻分析</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298176.md" target="_blank">美大学刊文 吁清除中共对法轮功「非人化」宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298229.md" target="_blank">命名中共病毒最准确 华人与美媒观点一致</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298228.md" target="_blank">北京隐瞒疫情酿大祸 死命推责的背后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298227.md" target="_blank">掩耳盗铃！成都餐厅推出“隔离火锅”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298226.md" target="_blank">企业家吁召开紧急会议 矛头直指中共最高层</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298225.md" target="_blank">内蒙古女医生被病人持刀捅伤 仍未脱险</a></li>
 
 </ul>
 </div>
