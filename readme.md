@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298226.md">企业家吁召开紧急会议 矛头直指中共最高层</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200322/1298367.md">邱家军：中共元老称一尊「令人作呕」，政治局扩大会议剪除恶习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298376.md">打脸华春莹 美国务院发言人：1月3日中共早已下令销毁病毒样本 让医生噤声</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200322/1298065.md">宝胜紧急直播：政变开始了吗？陈平转发的建议书是真是假？全球最新疫情！纽约危急！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298236.md">针对中共 场面相当震撼！美舰在菲律宾海军演 发射标准二型飞弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298241.md">这些“英雄”都是假的 他欺骗了中国几代人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298236.md">针对中共 场面相当震撼！美舰在菲律宾海军演 发射标准二型飞弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298356.md">中国疫情目前到底有多严重？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298053.md">网友直击：家人都没了 武汉再有人跳楼自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298202.md">网传视频：太恐怖了！跳楼者直接砸进车里…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298239.md">一场疫情 让我们看到美军的实力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298441.md">女华侨回国避疫却中招：早知这样绝不回来！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298280.md">这些“英雄”都是假的 他欺骗了中国几代人(二)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298219.md">网曝企业家吁政治局就习近平问题开紧急会议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298052.md">凄美！意大利封城 威尼斯人退海豚进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298313.md">川普拼了！十分之一GDP救经济和国民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200322/1298275.md">湖北“零增长”背后的真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200322/1298361.md">中共大外宣称捐赠千万片口罩 马国民众怒：是我们花钱买的！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298177.md">中国连3天0确诊？武汉医受访揭内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298148.md">两个月內不许出城！许进不许出！ 这就是0增长的武汉？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298461.md">宝胜快讯：美国启动紧急计划、如政府高层全感染将由四星将军管控全国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200322/1298269.md">今天才知道 这6种食物不怕过期 放得越久越有价值</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298413.md">中共瞒2个月 99%传播本可免？ 甩锅美军未遂 再甩此国反火 追责 国际专家提连串方案</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298577.md" target="_blank">《国家评论》社论：中国的另类病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298566.md" target="_blank">湖北“民主派”官员痛批官僚病毒 尴尬地位引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298565.md" target="_blank">【一线采访】武汉市民：对政府彻底失望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298562.md" target="_blank">湖北人别进京  飞机请绕行 北京你怎么啦</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298360.md" target="_blank">中共病毒》武汉一家三口出院后全复发 专家：可能假治癒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200322/1298176.md" target="_blank">美大学刊文 吁清除中共对法轮功「非人化」宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298229.md" target="_blank">命名中共病毒最准确 华人与美媒观点一致</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200322/1298228.md" target="_blank">北京隐瞒疫情酿大祸 死命推责的背后</a></li>
 
 </ul>
 </div>
