@@ -8,11 +8,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298686.md">习近平“保留本色很重要”早年家庭生活 大陆全网不保留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298660.md">川普与习近平通电话 叹对中共失望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200323/1298626.md">慎入！看看这些运尸车就让中共的谎言不攻自破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200323/1298505.md">〖兲朝浮世绘〗全球灭共浪潮已起 习近平你准备好了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298774.md">错批黄万里毁了中国的母亲河！ 三峡危矣！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298530.md">网传：书记谈清零真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298732.md">江峰：党内行动党外发力，政治局紧急扩大会议目标明确：拉习近平下马；为什麽会是任志强、陈平吹响号角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298835.md">【耳边风】政治局扩大会议搞甚么鬼？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298732.md">江峰：党内行动党外发力，政治局紧急扩大会议目标明确：拉习近平下马；为什麽会是任志强、陈平吹响号角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298798.md">武汉社区良知尚存的官员惊曝清零真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298722.md">一位武汉市民因疫情起诉了美国政府 结果自己先害怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298761.md">武汉病例清零内幕被曝光 北京通知露端倪</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298544.md">天亮时分：政治局扩大会议罢免习近平？美律师起诉中共求偿20万亿美元；将改变中共国际环境的白宫联署正名运动（政论天下第139集 20200322） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200323/1298518.md">男子决定做一个月每天狂灌4公斤水的疯狂实验 10天后他的身体发生了变化！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md" target="_blank">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md" target="_blank">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299096.md" target="_blank">中国驻法大使馆推特转发疫情来源涉美文章 提 “特朗大流行病”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299095.md" target="_blank">萧铭：（大声版）德国总理隔离；美参议员阳性；美国将惩罚中共隐瞒；蓬佩奥和川普不同调？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298916.md" target="_blank">陈秋实疑居家监视隔离 方斌与李泽华呢?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298861.md" target="_blank">活摘器官“纵向证据链”分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298859.md" target="_blank">从苏共到中共 ——当人们反思历史</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md" target="_blank">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299124.md" target="_blank">谷歌撤离中国已十年  中国没变  谷歌变了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299123.md" target="_blank">中国驻美大使不帮外交部发言人背书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299109.md" target="_blank">美中抗疫显合作迹象，能否成趋势有待观察</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299108.md" target="_blank">美议员要求推特封杀中国政府账户    推特如何回应？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299088.md" target="_blank">世卫谭德赛惊呼新冠失控 欧洲死人过万</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298941.md" target="_blank">新冠肺炎索赔法律顾问团：扩大援助范围</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298932.md" target="_blank">新冠病毒疫情蔓延 台湾与中国大陆展开口罩外交角力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298931.md" target="_blank">武汉放宽新确诊病例标准  核酸检测阳性但无症状不算感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298930.md" target="_blank">中国确诊定义变更   台湾专家质疑中国数字准确性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298929.md" target="_blank">疫情无碍台湾经济　1、2月工业生产仍增7.85％创新高</a></li>
 
 </ul>
 </div>
