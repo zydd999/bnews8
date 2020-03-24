@@ -7,13 +7,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298875.md">中共党内“倒习”风波不止  建议书传言满天飞无人“认领”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298991.md">邱家军：紧急直播：习近平下达国防动员令威胁台湾，美军第七舰队发射导弹震慑中共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299219.md">陈破空：党内分歧公开化！崔大使明确反对那个人。习近平要抛弃某常委？美军又有两个大动作 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/minyun/20200324/1299214.md">孙大骆：政治局紧急扩大会议抓捕习近平？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299179.md">责国贼习近平下台令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299179.md">责国贼习近平下台令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299231.md">川普转发推文：在所有人都完蛋以前 我们剩下的人要回去工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200324/1299196.md">中共马列专家“千里投毒”意大利 零号病人特殊身份被曝光</a></li>
@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299040.md">方方：所有的疑问，都无人回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299005.md">美驱逐舰今南海首次导弹试射 台议员指北京可能有大事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298958.md">热传促高层会议倒习网文 体制内外博弈显现?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299103.md">等不到纾困！外媒点名「4大产业」最惨 企业面临消灭边缘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299119.md">从&#8220;杨妈妈粥店&#8221;反人类标语说起&#65306;比病毒更可怕的是愚蠢</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298958.md">热传促高层会议倒习网文 体制内外博弈显现?</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md" target="_blank">【内幕】山东文件泄政法委分工和打击重点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md" target="_blank">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299443.md" target="_blank">又一勇者！女公民记者就李文亮案采访派出所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299434.md" target="_blank">天怒人怨！网传视频：贵州黔西南多地突下冰雹 街道瞬间成冰河！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md" target="_blank">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md" target="_blank">中国疫情深重 湖北人不答应了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299331.md" target="_blank">新冠确诊数破35万人次 英国进入全国封锁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md" target="_blank">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299308.md" target="_blank">湖北襄阳有人因感染“中共病毒”及生活压力跳江自杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299307.md" target="_blank">【一线采访】武汉民众：病毒或永留体内 最担心再爆发</a></li>
 
 </ul>
 </div>
