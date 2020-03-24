@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298835.md">【耳边风】政治局扩大会议搞甚么鬼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200323/1298828.md">惊！与中国专家研判不同 法国专家示警：病毒毒力前所未见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299011.md">怒中共大外宣频甩锅 美驻华使馆连3推砲轰</a></li>
@@ -13,8 +12,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298991.md">邱家军：紧急直播：习近平下达国防动员令威胁台湾，美军第七舰队发射导弹震慑中共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299219.md">陈破空：党内分歧公开化！崔大使明确反对那个人。习近平要抛弃某常委？美军又有两个大动作 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/minyun/20200324/1299214.md">孙大骆：政治局紧急扩大会议抓捕习近平？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299179.md">责国贼习近平下台令</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299231.md">川普转发推文：在所有人都完蛋以前 我们剩下的人要回去工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200324/1299196.md">中共马列专家“千里投毒”意大利 零号病人特殊身份被曝光</a></li>
@@ -22,6 +21,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299040.md">方方：所有的疑问，都无人回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299005.md">美驱逐舰今南海首次导弹试射 台议员指北京可能有大事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298958.md">热传促高层会议倒习网文 体制内外博弈显现?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299103.md">等不到纾困！外媒点名「4大产业」最惨 企业面临消灭边缘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299119.md">从&#8220;杨妈妈粥店&#8221;反人类标语说起&#65306;比病毒更可怕的是愚蠢</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
