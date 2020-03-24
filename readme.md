@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298686.md">习近平“保留本色很重要”早年家庭生活 大陆全网不保留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298774.md">错批黄万里毁了中国的母亲河！ 三峡危矣！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298835.md">【耳边风】政治局扩大会议搞甚么鬼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298798.md">武汉社区良知尚存的官员惊曝清零真相</a></li>
@@ -14,16 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298875.md">中共党内“倒习”风波不止  建议书传言满天飞无人“认领”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298991.md">邱家军：紧急直播：习近平下达国防动员令威胁台湾，美军第七舰队发射导弹震慑中共 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298850.md">美国传染病专家到访过武汉 确定病毒来源自中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298754.md">宝胜快讯：倒习扩大会最新进展、陈平否认他撰写但说有广泛民意、戴晴周舵海风热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200323/1298790.md">美国39岁健身女 重症监护室流泪警告民众爆红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298958.md">热传促高层会议倒习网文 体制内外博弈显现?</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md" target="_blank">中国疫情深重 湖北人不答应了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299331.md" target="_blank">新冠确诊数破35万人次 英国进入全国封锁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md" target="_blank">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299308.md" target="_blank">湖北襄阳有人因感染“中共病毒”及生活压力跳江自杀</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299008.md" target="_blank">赵立坚获奖? 重又出面追问美国零号病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299007.md" target="_blank">中国宣告第二针新冠疫苗注射了 军方首席生化武器专家第一针</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299006.md" target="_blank">福布斯或指华为遭疫情重创谋活命第一</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298995.md" target="_blank">沈阳名店祝贺美国日本疫情爆满疫帆风顺</a></li>
 
 </ul>
 </div>
