@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299011.md">怒中共大外宣频甩锅 美驻华使馆连3推砲轰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/minyun/20200324/1299214.md">孙大骆：政治局紧急扩大会议抓捕习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299384.md">川普习近平通话后崔天凯公开“手撕”赵立坚？中南海料有大乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200324/1299196.md">中共马列专家“千里投毒”意大利 零号病人特殊身份被曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299469.md">广西清秀女护士杀同院男医师「肉一片片割下」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299359.md">江峰：绝非痴人说梦：欧美不开工，高端生产链来中国；全球股灾，资本流向中国；论全球危机下的中共顶层设计，中共的邪恶与世界的无奈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299494.md">中共美国大使代表习近平 软了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299356.md">心累！我为啥退出国内所有亲戚朋友群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299005.md">美驱逐舰今南海首次导弹试射 台议员指北京可能有大事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299040.md">方方：所有的疑问，都无人回应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299103.md">等不到纾困！外媒点名「4大产业」最惨 企业面临消灭边缘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299649.md" target="_blank">安倍提议东京奥运延后一年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299648.md" target="_blank">特朗普称赞亚裔 美中新冠外交战降温</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299647.md" target="_blank">新冠肺炎全球攀升 美国成新爆发点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299646.md" target="_blank">武汉新添确诊 无症状感染者成焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299636.md" target="_blank">中国进行国防动员潜力调查      网民议论“要开战吗？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299635.md" target="_blank">专访英美留学港生　遭受歧视　要回家也难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299629.md" target="_blank">湖北解封在即 中国外防输入, 学者提议北京私家车松绑</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299481.md" target="_blank">【耳边风】中国手机用户突减1400多万之谜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299439.md" target="_blank">中国武汉市将解除封城 全球新冠病例已突破36万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299438.md" target="_blank">大陆复工后    随即面临  “订单荒”    倒闭潮或无可避免</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299415.md" target="_blank">新冠疫情酿史上重灾，中国法律顾问团索赔加码</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299401.md" target="_blank">崔天凯再批病毒源自美国是疯狂言论 中国外交界见分歧？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299256.md" target="_blank">美议员致函特朗普 吁成立工作组对抗中共疫情大外宣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299255.md" target="_blank">中国三大运营商流失上千万用户 专家:基本与疫情无关</a></li>
 
 </ul>
 </div>
