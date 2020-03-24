@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298850.md">美国传染病专家到访过武汉 确定病毒来源自中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298850.md">美国传染病专家到访过武汉 确定病毒来源自中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298754.md">宝胜快讯：倒习扩大会最新进展、陈平否认他撰写但说有广泛民意、戴晴周舵海风热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200323/1298790.md">美国39岁健身女 重症监护室流泪警告民众爆红</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299359.md" target="_blank">江峰：绝非痴人说梦：欧美不开工，高端生产链来中国；全球股灾，资本流向中国；论全球危机下的中共顶层设计，中共的邪恶与世界的无奈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md" target="_blank">中国疫情深重 湖北人不答应了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299331.md" target="_blank">新冠确诊数破35万人次 英国进入全国封锁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md" target="_blank">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299012.md" target="_blank">陈破空：陈破空谈《常识》（之34）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299008.md" target="_blank">赵立坚获奖? 重又出面追问美国零号病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299007.md" target="_blank">中国宣告第二针新冠疫苗注射了 军方首席生化武器专家第一针</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299006.md" target="_blank">福布斯或指华为遭疫情重创谋活命第一</a></li>
 
 </ul>
 </div>
