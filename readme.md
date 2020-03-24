@@ -12,17 +12,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/minyun/20200324/1299214.md">孙大骆：政治局紧急扩大会议抓捕习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299179.md">责国贼习近平下台令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299231.md">川普转发推文：在所有人都完蛋以前 我们剩下的人要回去工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299231.md">川普转发推文：在所有人都完蛋以前 我们剩下的人要回去工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200324/1299196.md">中共马列专家“千里投毒”意大利 零号病人特殊身份被曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298850.md">美国传染病专家到访过武汉 确定病毒来源自中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299378.md">异象频现 北京老人说 中国又要改朝换代了 4</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299384.md">川普习近平通话后崔天凯公开“手撕”赵立坚？中南海料有大乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299040.md">方方：所有的疑问，都无人回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299005.md">美驱逐舰今南海首次导弹试射 台议员指北京可能有大事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299119.md">从&#8220;杨妈妈粥店&#8221;反人类标语说起&#65306;比病毒更可怕的是愚蠢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298958.md">热传促高层会议倒习网文 体制内外博弈显现?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299103.md">等不到纾困！外媒点名「4大产业」最惨 企业面临消灭边缘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299494.md" target="_blank">中共美国大使代表习近平 软了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299493.md" target="_blank">纽约中国褐皮书指新冠疫情对中国经济的冲击令人“瞠目结舌”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299479.md" target="_blank">【一线采访】隐匿疫情酿祸 武汉人要求国赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299471.md" target="_blank">中国官方定武汉4月8日起“解封”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md" target="_blank">【内幕】山东文件泄政法委分工和打击重点</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299380.md" target="_blank">北京成防控重点？飞机绕行 不让湖北人返京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299379.md" target="_blank">还原历史 美媒披露中共病毒爆发初期记录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299378.md" target="_blank">异象频现 北京老人说 中国又要改朝换代了 4</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299359.md" target="_blank">江峰：绝非痴人说梦：欧美不开工，高端生产链来中国；全球股灾，资本流向中国；论全球危机下的中共顶层设计，中共的邪恶与世界的无奈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md" target="_blank">中国疫情深重 湖北人不答应了！</a></li>
 
 </ul>
 </div>
