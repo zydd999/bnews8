@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/minyun/20200324/1299214.md">孙大骆：政治局紧急扩大会议抓捕习近平？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299418.md">武汉解封？上万“毒源”游荡 武汉发热门诊为此事吵翻天 世界浩劫本周末恐有73万感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299219.md">陈破空：党内分歧公开化！崔大使明确反对那个人。习近平要抛弃某常委？美军又有两个大动作 </a></li>
@@ -23,6 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299500.md">特朗普息事宁人指病毒不是谁的错 不用中国病毒称呼了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299740.md" target="_blank">中共病毒 从英国亲中的几条路线 看中共病毒的凶猛来势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299739.md" target="_blank">湖北当局宣布4月8日起武汉“解封” 是福是祸？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md" target="_blank">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299730.md" target="_blank">战胜新冠病毒，打赢地缘政治之战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299725.md" target="_blank">AIT翻译美国务院推特 3时间点戳破中共甩锅谎言</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299493.md" target="_blank">纽约中国褐皮书指新冠疫情对中国经济的冲击令人“瞠目结舌”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299479.md" target="_blank">【一线采访】隐匿疫情酿祸 武汉人要求国赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299471.md" target="_blank">中国官方定武汉4月8日起“解封”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md" target="_blank">【内幕】山东文件泄政法委分工和打击重点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md" target="_blank">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299757.md" target="_blank">华人漫画师：无论如何  武汉都是我的家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299756.md" target="_blank">疫情严重 白宫不忘抗击中国大外宣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299755.md" target="_blank">CBB：疫情冲击中国经济程度“瞠目结舌”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299754.md" target="_blank">美国三大报社呼吁中国撤回驱逐记者决定</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299753.md" target="_blank">新冠疫情：特朗普冀望复活节美国恢复正常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299734.md" target="_blank">五角大楼称新冠病毒蔓延或导致国际安全环境更加复杂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299733.md" target="_blank">疫情会致全球衰退   中国经济受创令人“瞠目结舌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299707.md" target="_blank">美国联储大举释放货币 股市反弹</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299585.md" target="_blank">武汉、湖北即将解禁， 全球疫情加速 4天感染10万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299582.md" target="_blank">香港408宗违检疫令　医护忧隔离失效源头失控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299581.md" target="_blank">台湾防陆方趁疫情犯境　进行大规模拦截演习</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299561.md" target="_blank">日本同意东京奥运会延后一年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299543.md" target="_blank">美国报纸呼吁中国撤销驱逐美国记者的决定</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299542.md" target="_blank">台8架F-16拂晓升空拦截演练 吓阻解放军挑衅空防</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299541.md" target="_blank">抗疫药物竞赛美国再下一城　瑞德西韦获批「孤儿药」资格</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299540.md" target="_blank">联合国专家对三名人权律师被强迫失踪表示严重关切</a></li>
 
 </ul>
 </div>
