@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298659.md">时机敏感 传四高官调动引而未发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200323/1298626.md">慎入！看看这些运尸车就让中共的谎言不攻自破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298686.md">习近平“保留本色很重要”早年家庭生活 大陆全网不保留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298660.md">川普与习近平通电话 叹对中共失望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298774.md">错批黄万里毁了中国的母亲河！ 三峡危矣！</a></li>
@@ -13,14 +12,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200323/1298828.md">惊！与中国专家研判不同 法国专家示警：病毒毒力前所未见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298722.md">一位武汉市民因疫情起诉了美国政府 结果自己先害怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298761.md">武汉病例清零内幕被曝光 北京通知露端倪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299011.md">怒中共大外宣频甩锅 美驻华使馆连3推砲轰</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298858.md">中共病毒首登美主流 川普转发 北京最新禁令难敌筛子效应？武汉市民痛：我们要完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200323/1298875.md">中共党内“倒习”风波不止  建议书传言满天飞无人“认领”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298919.md">崔天凯称病毒源自美国是一“疯癫”阴谋论并与其撇清关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298948.md">共产党政策朝令夕改小粉红手足无措 病毒不受中共控制 福建帮也遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298991.md">邱家军：紧急直播：习近平下达国防动员令威胁台湾，美军第七舰队发射导弹震慑中共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298721.md">不怕天打雷劈？！大陆医生：我看到副主任在推那个药...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298850.md">美国传染病专家到访过武汉 确定病毒来源自中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200323/1298845.md">中国经济进入至暗时刻 “大不了学习朝鲜”的说法根本行不通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298754.md">宝胜快讯：倒习扩大会最新进展、陈平否认他撰写但说有广泛民意、戴晴周舵海风热议</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md" target="_blank">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299308.md" target="_blank">湖北襄阳有人因感染“中共病毒”及生活压力跳江自杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299307.md" target="_blank">【一线采访】武汉民众：病毒或永留体内 最担心再爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299288.md" target="_blank">天亮时分：川普对习近平表示失望；战狼赵立坚再撕咬，武汗市民梁旭光起诉美国政府；华邮说：中美经济这些方面应该脱钩（政论天下第140集 20200323）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md" target="_blank">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299265.md" target="_blank">反驳伊朗中共病毒谎言 蓬佩奥列出五大事实</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299006.md" target="_blank">福布斯或指华为遭疫情重创谋活命第一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298995.md" target="_blank">沈阳名店祝贺美国日本疫情爆满疫帆风顺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298989.md" target="_blank">韩国抗疫经验：大规模测试很重要</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298985.md" target="_blank">动态网发布免费翻墙软件：自由门7.78版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298984.md" target="_blank">武汉疫情清零 美媒说当地无人信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200323/1298959.md" target="_blank">官方银行称今年经济增长仅2.6%但明年爆9.0%</a></li>
 
 </ul>
 </div>
