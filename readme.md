@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299133.md">文昭：倒习力量急动员，喊习近平下课！3+1政变模式那款适合 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299107.md">专栏 | 夜话中南海：习近平当局为何要力保赵立坚？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/minyun/20200324/1299214.md">孙大骆：政治局紧急扩大会议抓捕习近平？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200323/1298991.md">邱家军：紧急直播：习近平下达国防动员令威胁台湾，美军第七舰队发射导弹震慑中共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299418.md">武汉解封？上万“毒源”游荡 武汉发热门诊为此事吵翻天 世界浩劫本周末恐有73万感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299219.md">陈破空：党内分歧公开化！崔大使明确反对那个人。习近平要抛弃某常委？美军又有两个大动作 </a></li>
@@ -15,13 +14,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299378.md">异象频现 北京老人说 中国又要改朝换代了 4</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299384.md">川普习近平通话后崔天凯公开“手撕”赵立坚？中南海料有大乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200324/1299196.md">中共马列专家“千里投毒”意大利 零号病人特殊身份被曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299469.md">广西清秀女护士杀同院男医师「肉一片片割下」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299359.md">江峰：绝非痴人说梦：欧美不开工，高端生产链来中国；全球股灾，资本流向中国；论全球危机下的中共顶层设计，中共的邪恶与世界的无奈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299469.md">广西清秀女护士杀同院男医师「肉一片片割下」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299356.md">心累！我为啥退出国内所有亲戚朋友群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299005.md">美驱逐舰今南海首次导弹试射 台议员指北京可能有大事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299040.md">方方：所有的疑问，都无人回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299634.md" target="_blank">29具尸检 揭新冠病毒攻击性超强击垮免疫系统致命</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md" target="_blank">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299632.md" target="_blank">联合国关切“1226大抓捕”家属吁国际究责北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299624.md" target="_blank">谁是意大利的朋友？法国反思中俄援助 &#8211; 要闻解说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299623.md" target="_blank">纽时指中共高层罕见不一致外漏?  中国驻美大使反驳外交部发言人“病毒来自美国”论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299600.md" target="_blank">武肺荼毒全球 关键4个字 愤怒！美国来了个史无前例 中国人要补贴透明走上街头</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299425.md" target="_blank">前凤凰卫视记者揭中共如何操纵疫情舆论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299413.md" target="_blank">除了中共病毒 中共还在哪些问题上撒谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299412.md" target="_blank">法网在收 山东省审计厅副厅长李宁被举报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299411.md" target="_blank">美学者：北京瞒疫罔顾生命 令全球看清中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299410.md" target="_blank">参议员促川普 多管齐下回击中共疫情大外宣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299409.md" target="_blank">法国学者：中共利用全球疫情达其政经目的</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299636.md" target="_blank">中国进行国防动员潜力调查      网民议论“要开战吗？”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299635.md" target="_blank">专访英美留学港生　遭受歧视　要回家也难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299629.md" target="_blank">湖北解封在即 中国外防输入, 学者提议北京私家车松绑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299628.md" target="_blank">世界最大猪肉食品企业去年利润猛增32%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299627.md" target="_blank">港府周三正式封关 海外留学生遭歧视面临去留抉择</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299401.md" target="_blank">崔天凯再批病毒源自美国是疯狂言论 中国外交界见分歧？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299256.md" target="_blank">美议员致函特朗普 吁成立工作组对抗中共疫情大外宣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299255.md" target="_blank">中国三大运营商流失上千万用户 专家:基本与疫情无关</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299239.md" target="_blank">纽约能否避免意大利局面？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299213.md" target="_blank">美国华人疫期很忙  一边募捐一边道歉</a></li>
 
 </ul>
 </div>
