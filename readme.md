@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md" target="_blank">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299730.md" target="_blank">战胜新冠病毒，打赢地缘政治之战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299725.md" target="_blank">AIT翻译美国务院推特 3时间点戳破中共甩锅谎言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299724.md" target="_blank">电影《永恒的五十分钟》(《为你而来2》)_预告片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299691.md" target="_blank">方方日记完结篇：那美好的仗我已经打过了</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299471.md" target="_blank">中国官方定武汉4月8日起“解封”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md" target="_blank">【内幕】山东文件泄政法委分工和打击重点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md" target="_blank">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299443.md" target="_blank">又一勇者！女公民记者就李文亮案采访派出所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299434.md" target="_blank">天怒人怨！网传：贵州黔西南多地突下冰雹 街道瞬间成冰河！</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299734.md" target="_blank">五角大楼称新冠病毒蔓延或导致国际安全环境更加复杂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299733.md" target="_blank">疫情会致全球衰退   中国经济受创令人“瞠目结舌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299707.md" target="_blank">美国联储大举释放货币 股市反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299706.md" target="_blank">联合国人权专家关切中国人权律师处境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299682.md" target="_blank">世卫组织：美国有可能成为下一个疫情“震中”</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299542.md" target="_blank">台8架F-16拂晓升空拦截演练 吓阻解放军挑衅空防</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299541.md" target="_blank">抗疫药物竞赛美国再下一城　瑞德西韦获批「孤儿药」资格</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299540.md" target="_blank">联合国专家对三名人权律师被强迫失踪表示严重关切</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299528.md" target="_blank">连续5天零感染后武汉新增一例  医院恐再成重灾区</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299527.md" target="_blank">专访英美留学港生　遭受歧视要回家也难</a></li>
 
 </ul>
 </div>
