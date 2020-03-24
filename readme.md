@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200324/1299580.md">邱家军：李克强公开批评习近平「清零行动」，江胡首度联手甩锅粪坑 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299356.md">心累！我为啥退出国内所有亲戚朋友群</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299309.md">鬼影幢幢！中共病毒疫苗去年9月就在研发？惊曝两大疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299266.md">陈秋实在哪 中共驻美大使谎言被当场揭穿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299500.md">特朗普息事宁人指病毒不是谁的错 不用中国病毒称呼了</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299691.md" target="_blank">方方日记完结篇：那美好的仗我已经打过了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md" target="_blank">华邮：北京的后病毒战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299666.md" target="_blank">陈破空：陈破空说段子：领导人问：今天你感恩了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299659.md" target="_blank">专栏 | 夜话中南海：赵立坚武汉病毒“祸源美军”的说法已经被中共当局默认</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299434.md" target="_blank">天怒人怨！网传：贵州黔西南多地突下冰雹 街道瞬间成冰河！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md" target="_blank">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299427.md" target="_blank">剑指中共！美B-52轰炸机飞越索马利亚示威</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299426.md" target="_blank">台湾专家发现：中共少将陈薇身后两大破 绽诡异时间线藏玄机</a></li>
 
 </ul>
 </div>
