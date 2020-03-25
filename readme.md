@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299418.md">武汉解封？上万“毒源”游荡 武汉发热门诊为此事吵翻天 世界浩劫本周末恐有73万感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299231.md">川普转发推文：在所有人都完蛋以前 我们剩下的人要回去工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299378.md">异象频现 北京老人说 中国又要改朝换代了 4</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299384.md">川普习近平通话后崔天凯公开“手撕”赵立坚？中南海料有大乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299426.md">台湾专家发现：中共少将陈薇身后两大破 绽诡异时间线藏玄机</a></li>
@@ -22,6 +21,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299395.md">谁能相信？ 河南新密监狱：他的肺部已全部烂完</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200324/1299329.md">李亚鹏新店生意惨淡 独坐室外吞云吐雾 一脸愁容很沧桑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md">中国疫情深重 湖北人不答应了！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299880.md" target="_blank">疫情下的增长现实与习近平的小康目标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299849.md" target="_blank">美国会提议案向中国索赔新冠疫情的损失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299848.md" target="_blank">中国通报一例汉坦病毒死亡病例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299801.md" target="_blank">沈阳粥店庆美、日疫情 仇恨教育导致畸形国民</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299628.md" target="_blank">世界最大猪肉食品企业去年利润猛增32%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299627.md" target="_blank">港府周三正式封关 海外留学生遭歧视面临去留抉择</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299606.md" target="_blank">专家调查：中国一季度经济收缩之大文革以来所未见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299605.md" target="_blank">王全璋出狱前提最基本要求　盼无看管下与妻儿团聚</a></li>
 
 </ul>
 </div>
