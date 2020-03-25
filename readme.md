@@ -7,8 +7,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299384.md">川普习近平通话后崔天凯公开“手撕”赵立坚？中南海料有大乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299426.md">台湾专家发现：中共少将陈薇身后两大破 绽诡异时间线藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200324/1299580.md">邱家军：李克强公开批评习近平「清零行动」，江胡首度联手甩锅粪坑 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299494.md">中共美国大使代表习近平 软了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299469.md">广西清秀女护士杀同院男医师「肉一片片割下」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299494.md">中共美国大使代表习近平 软了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299359.md">江峰：绝非痴人说梦：欧美不开工，高端生产链来中国；全球股灾，资本流向中国；论全球危机下的中共顶层设计，中共的邪恶与世界的无奈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299500.md">特朗普息事宁人指病毒不是谁的错 不用中国病毒称呼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299395.md">谁能相信？ 河南新密监狱：他的肺部已全部烂完</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200324/1299329.md">李亚鹏新店生意惨淡 独坐室外吞云吐雾 一脸愁容很沧桑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200324/1299329.md">李亚鹏新店生意惨淡 独坐室外吞云吐雾 一脸愁容很沧桑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md">中国疫情深重 湖北人不答应了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299652.md">习近平会铤而走险吗？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299911.md" target="_blank">替中共组织站台 芬兰华裔女市议员遭罢免</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299910.md" target="_blank">最终人类必须审判中共 就像当年国际法庭审判纳粹！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299909.md" target="_blank">中国1工人染汉他病毒3小时即死亡 全车29人急送隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299871.md" target="_blank">廖亦武：李泽华和隔离中的德国总理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299860.md" target="_blank">文昭：准确数字：中国手机用户2月份减少1945万！人去哪儿了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299854.md" target="_blank">视频：藏字蛋-神已来到</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299623.md" target="_blank">纽时指中共高层罕见不一致外漏?  中国驻美大使反驳外交部发言人“病毒来自美国”论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299600.md" target="_blank">武肺荼毒全球 关键4个字 愤怒！美国来了个史无前例 中国人要补贴透明走上街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299597.md" target="_blank">代表中国国家元首和政府 中国驻美大使没为中国外交部发言人背书 引关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299575.md" target="_blank">中共武汉疫情大外宣？抱歉！西方民众并不买单</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299560.md" target="_blank">中共超限战反制川普说“中国病毒” 煽动海外华人当炮灰？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299502.md" target="_blank">大陆传媒自我踢爆一对中国夫妇乃意大利首例确诊者</a></li>
 
 </ul>
 </div>
