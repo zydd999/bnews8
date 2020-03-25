@@ -10,19 +10,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299500.md">特朗普息事宁人指病毒不是谁的错 不用中国病毒称呼了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299652.md">习近平会铤而走险吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299395.md">谁能相信？ 河南新密监狱：他的肺部已全部烂完</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299808.md">陈破空：局势微妙！国内媒体大赞习近平近期的两个对头。美中发言人互呛，谁在耍宝 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1299939.md">感觉有大事！川普转发推文 直戳中共一大死穴！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md">华邮：北京的后病毒战略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299808.md">陈破空：局势微妙！国内媒体大赞习近平近期的两个对头。美中发言人互呛，谁在耍宝 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299394.md">又一位陈秋实方斌！女公民记者就李文亮案采访派出所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299600.md">武肺荼毒全球 关键4个字 愤怒！美国来了个史无前例 中国人要补贴透明走上街头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299878.md">孙大骆：台海战争一年内可能爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299765.md">抢泡面卫生纸错了！WHO：最该准备的东西是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200325/1299679.md">首位非裔巨星因冠状病毒去世 确诊仅仅6天</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300020.md" target="_blank">海外华人拒绝沉默 录视频向中共追责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300000.md" target="_blank">中纪委通报揭开房地产内幕又涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299999.md" target="_blank">中共援助捷克15万检测试剂 错误率80%没法用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299998.md" target="_blank">美议员提决议案 谴责中共瞒疫及散播谣言</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299724.md" target="_blank">电影《永恒的五十分钟》(《为你而来2》)_预告片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299691.md" target="_blank">方方日记完结篇：那美好的仗我已经打过了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md" target="_blank">华邮：北京的后病毒战略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299666.md" target="_blank">陈破空：陈破空说段子：领导人问：今天你感恩了吗？</a></li>
 
 </ul>
 </div>
