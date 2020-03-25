@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300484.md" target="_blank">中共拿禁止出口药品威胁美国？川普：自给自足</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md" target="_blank">华盛顿邮报： 现在是疏远中共的时候了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300482.md" target="_blank">武汉6成感染者未被发现 会引发新一轮疫情大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300455.md" target="_blank">中共宣传援鄂医护零感染 广西病危护士引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300408.md" target="_blank">武汉肺炎蔓延全球 看懂习近平对外通话三段论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300391.md" target="_blank">武汉日记完结篇 方方仍忧生者忽略死者为何而死</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300206.md" target="_blank">瘟疫中这家武汉企业始终未停工 原来另有原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300200.md" target="_blank">加国家邮报：中共是威胁人类生存的最大病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300205.md" target="_blank">美媒称平头百姓红二代大亨无处躲 任志强传遭列重案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300041.md" target="_blank">老中医遇鬼：再来就把你扎散了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300156.md" target="_blank">关于Chinese virus “采访民主救国阵线主席唐柏桥先生的谈话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md" target="_blank">中共当局公布死亡812人 实际情况惨烈无比</a></li>
 
 </ul>
 </div>
