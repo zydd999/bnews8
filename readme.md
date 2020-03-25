@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299808.md">陈破空：局势微妙！国内媒体大赞习近平近期的两个对头。美中发言人互呛，谁在耍宝 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299962.md">中国疫情控制住了？看李克强怎么说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299878.md">孙大骆：台海战争一年内可能爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300031.md">武汉市民：还有一个很吓人的问题...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299996.md">“武汉肺炎”未完 中国又现汉坦病毒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md">华邮：北京的后病毒战略</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300408.md" target="_blank">武汉肺炎蔓延全球 看懂习近平对外通话三段论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300391.md" target="_blank">武汉日记完结篇 方方仍忧生者忽略死者为何而死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300390.md" target="_blank">研究指武汉6成感染者尚潜伏 应大抽查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300384.md" target="_blank">研究：武汉6成感染者尚未被发现 需展开大抽查</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300156.md" target="_blank">关于Chinese virus “采访民主救国阵线主席唐柏桥先生的谈话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md" target="_blank">中共当局公布死亡812人 实际情况惨烈无比</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300154.md" target="_blank">超级肺炎死亡425人超萨斯 中共军^副司令之子染病不治</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300152.md" target="_blank">二战中国民国飞虎队员听父言回国 文革家破人亡</a></li>
 
 </ul>
 </div>
