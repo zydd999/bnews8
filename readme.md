@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1299939.md">感觉有大事！川普转发推文 直戳中共一大死穴！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299962.md">中国疫情控制住了？看李克强怎么说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299652.md">习近平会铤而走险吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299962.md">中国疫情控制住了？看李克强怎么说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299808.md">陈破空：局势微妙！国内媒体大赞习近平近期的两个对头。美中发言人互呛，谁在耍宝 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299878.md">孙大骆：台海战争一年内可能爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300000.md">中纪委通报揭开房地产内幕又涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299765.md">抢泡面卫生纸错了！WHO：最该准备的东西是…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1299955.md">特朗普和拜登谁领先？最新民调出笼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299869.md">一波未平一波又起 陕西现另一可怕病毒！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299999.md">中共援助捷克15万检测试剂 错误率80%没法用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300031.md">武汉市民：还有一个很吓人的问题...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1299955.md">特朗普和拜登谁领先？最新民调出笼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299999.md">中共援助捷克15万检测试剂 错误率80%没法用</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299869.md">一波未平一波又起 陕西现另一可怕病毒！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299798.md">一名女子到西藏看「天葬」后的感想：万般带不走，唯有业随身…！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299600.md">武肺荼毒全球 关键4个字 愤怒！美国来了个史无前例 中国人要补贴透明走上街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200325/1299679.md">首位非裔巨星因冠状病毒去世 确诊仅仅6天</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299636.md">中国进行国防动员潜力调查      网民议论“要开战吗？”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299600.md">武肺荼毒全球 关键4个字 愤怒！美国来了个史无前例 中国人要补贴透明走上街头</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300156.md" target="_blank">关于Chinese virus “采访民主救国阵线主席唐柏桥先生的谈话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md" target="_blank">中共当局公布死亡812人 实际情况惨烈无比</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300154.md" target="_blank">超级肺炎死亡425人超萨斯 中共军^副司令之子染病不治</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300152.md" target="_blank">二战中国民国飞虎队员听父言回国 文革家破人亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300151.md" target="_blank">韩国脱北者参与保守派集会示威游行被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md" target="_blank">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300133.md" target="_blank">美军脸书披露 第七舰队穿越&quot;菲律宾海&quot;行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300132.md" target="_blank">预测兑现！6万武汉人传170国 试剂出口8成有错！大陆人咋办？ 美国中央党校 校长夫妇感染</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300032.md" target="_blank">蓬佩奥：“是（中共等）应该受到控诉的时候到了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300031.md" target="_blank">武汉市民：还有一个很吓人的问题&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300020.md" target="_blank">海外华人拒绝沉默 录视频向中共追责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300000.md" target="_blank">中纪委通报揭开房地产内幕又涉曾庆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299999.md" target="_blank">中共援助捷克15万检测试剂 错误率80%没法用</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299998.md" target="_blank">美议员提决议案 谴责中共瞒疫及散播谣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299996.md" target="_blank">“武汉肺炎”未完 中国又现汉坦病毒！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299992.md" target="_blank">欧洲国家进口中国医疗物资 谁“罩”谁?</a></li>
 
 </ul>
 </div>
