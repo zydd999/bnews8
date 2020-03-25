@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299494.md">中共美国大使代表习近平 软了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1299939.md">感觉有大事！川普转发推文 直戳中共一大死穴！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299808.md">陈破空：局势微妙！国内媒体大赞习近平近期的两个对头。美中发言人互呛，谁在耍宝 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299962.md">中国疫情控制住了？看李克强怎么说</a></li>
@@ -17,12 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md">华邮：北京的后病毒战略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1299934.md">工程师泄密：490岁外星人曾为美军工作</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299765.md">抢泡面卫生纸错了！WHO：最该准备的东西是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299869.md">一波未平一波又起 陕西现另一可怕病毒！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200325/1299679.md">首位非裔巨星因冠状病毒去世 确诊仅仅6天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1299955.md">特朗普和拜登谁领先？最新民调出笼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299996.md">“武汉肺炎”未完 中国又现汉坦病毒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299798.md">一名女子到西藏看「天葬」后的感想：万般带不走，唯有业随身…！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300108.md" target="_blank">疫情未止 中国广交会延期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md" target="_blank">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300045.md" target="_blank">中共院士发声定调：第二次大疫情由海归华人背锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300044.md" target="_blank">她是什么学校校长被举报？ 罪大了…</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299808.md" target="_blank">陈破空：局势微妙！国内媒体大赞习近平近期的两个对头。美中发言人互呛，谁在耍宝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299804.md" target="_blank">欧盟高级外交官：警惕中国的“慷慨政策”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299740.md" target="_blank">中共病毒 从英国亲中的几条路线 看中共病毒的凶猛来势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299739.md" target="_blank">湖北当局宣布4月8日起武汉“解封” 是福是祸？</a></li>
 
 </ul>
 </div>
