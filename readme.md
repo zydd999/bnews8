@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1299939.md">感觉有大事！川普转发推文 直戳中共一大死穴！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299652.md">习近平会铤而走险吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
@@ -22,8 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1299955.md">特朗普和拜登谁领先？最新民调出笼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300033.md">德国媒体：来自北京的无耻宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299869.md">一波未平一波又起 陕西现另一可怕病毒！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299798.md">一名女子到西藏看「天葬」后的感想：万般带不走，唯有业随身…！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300045.md">中共院士发声定调：第二次大疫情由海归华人背锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200325/1299798.md">一名女子到西藏看「天葬」后的感想：万般带不走，唯有业随身…！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200325/1299679.md">首位非裔巨星因冠状病毒去世 确诊仅仅6天</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
