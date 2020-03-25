@@ -3,7 +3,7 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299457.md">三峡大坝危在旦夕？传上游大面积山体滑坡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299418.md">武汉解封？上万“毒源”游荡 武汉发热门诊为此事吵翻天 世界浩劫本周末恐有73万感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299378.md">异象频现 北京老人说 中国又要改朝换代了 4</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299378.md">异象频现 北京老人说 中国又要改朝换代了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299384.md">川普习近平通话后崔天凯公开“手撕”赵立坚？中南海料有大乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299426.md">台湾专家发现：中共少将陈薇身后两大破 绽诡异时间线藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200324/1299580.md">邱家军：李克强公开批评习近平「清零行动」，江胡首度联手甩锅粪坑 </a></li>
