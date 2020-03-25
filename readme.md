@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299356.md">心累！我为啥退出国内所有亲戚朋友群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299500.md">特朗普息事宁人指病毒不是谁的错 不用中国病毒称呼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200324/1299500.md">特朗普息事宁人指病毒不是谁的错 不用中国病毒称呼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299458.md">【内幕】山东文件泄政法委分工和打击重点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299652.md">习近平会铤而走险吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299395.md">谁能相信？ 河南新密监狱：他的肺部已全部烂完</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1299652.md">习近平会铤而走险吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md">华邮：北京的后病毒战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299348.md">中国疫情深重 湖北人不答应了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299996.md" target="_blank">“武汉肺炎”未完 中国又现汉坦病毒！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299992.md" target="_blank">欧洲国家进口中国医疗物资 谁“罩”谁?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299989.md" target="_blank">天亮时分：东京奥运会推迟一年;武汗4月8日解封;美国计划复活节恢复正常;美好时光在四月降临?(政论天下第141集 20200324)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299975.md" target="_blank">“沉默带原者”恐成防疫破口 韩国如何成功阻绝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299962.md" target="_blank">中国疫情控制住了？看李克强怎么说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299911.md" target="_blank">替中共组织站台 芬兰华裔女市议员遭罢免</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299659.md" target="_blank">专栏 | 夜话中南海：赵立坚武汉病毒“祸源美军”的说法已经被中共当局默认</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299634.md" target="_blank">29具尸检 揭新冠病毒攻击性超强击垮免疫系统致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md" target="_blank">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299632.md" target="_blank">联合国关切“1226大抓捕”家属吁国际究责北京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299624.md" target="_blank">谁是意大利的朋友？法国反思中俄援助 &#8211; 要闻解说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299623.md" target="_blank">纽时指中共高层罕见不一致外漏?  中国驻美大使反驳外交部发言人“病毒来自美国”论</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299990.md" target="_blank">从平头百姓到红二代大亨，谁能躲过思想警察来敲门？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299880.md" target="_blank">疫情下的增长现实与习近平的小康目标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299849.md" target="_blank">美国会提议案向中国索赔新冠疫情的损失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1299848.md" target="_blank">中国通报一例汉坦病毒死亡病例</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299629.md" target="_blank">湖北解封在即 中国外防输入, 学者提议北京私家车松绑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299628.md" target="_blank">世界最大猪肉食品企业去年利润猛增32%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299627.md" target="_blank">港府周三正式封关 海外留学生遭歧视面临去留抉择</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200324/1299606.md" target="_blank">专家调查：中国一季度经济收缩之大文革以来所未见</a></li>
 
 </ul>
 </div>
