@@ -10,9 +10,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200324/1299469.md">广西清秀女护士杀同院男医师「肉一片片割下」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299494.md">中共美国大使代表习近平 软了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299359.md">江峰：绝非痴人说梦：欧美不开工，高端生产链来中国；全球股灾，资本流向中国；论全球危机下的中共顶层设计，中共的邪恶与世界的无奈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299626.md">川习谈崩？中美热战前奏？白宫女再呛华春莹踩中共痛点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200324/1299356.md">心累！我为啥退出国内所有亲戚朋友群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200324/1299449.md">惊魂未定 中共病毒（武汉肺炎）的原因找到了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299433.md">食宿费2万8！明起入境北京一律集中隔离筛检</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200325/1299711.md">比尔&#183;盖茨&#65306;新冠病毒是一次&#8220;伟大的纠错&#8221;&#65292;还在提醒我们什么&#65311;</a></li>
@@ -22,8 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299395.md">谁能相信？ 河南新密监狱：他的肺部已全部烂完</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md">华邮：北京的后病毒战略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299731.md">中国一人染汉坦病毒亡　同车29人被隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299501.md">中国四地重现本地确诊 清零疑破功</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299394.md">又一位陈秋实方斌！女公民记者就李文亮案采访派出所</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299600.md">武肺荼毒全球 关键4个字 愤怒！美国来了个史无前例 中国人要补贴透明走上街头</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300000.md" target="_blank">中纪委通报揭开房地产内幕又涉曾庆红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299999.md" target="_blank">中共援助捷克15万检测试剂 错误率80%没法用</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299998.md" target="_blank">美议员提决议案 谴责中共瞒疫及散播谣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299996.md" target="_blank">“武汉肺炎”未完 中国又现汉坦病毒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299992.md" target="_blank">欧洲国家进口中国医疗物资 谁“罩”谁?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299989.md" target="_blank">天亮时分：东京奥运会推迟一年;武汗4月8日解封;美国计划复活节恢复正常;美好时光在四月降临?(政论天下第141集 20200324)</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299691.md" target="_blank">方方日记完结篇：那美好的仗我已经打过了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299688.md" target="_blank">华邮：北京的后病毒战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299666.md" target="_blank">陈破空：陈破空说段子：领导人问：今天你感恩了吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299659.md" target="_blank">专栏 | 夜话中南海：赵立坚武汉病毒“祸源美军”的说法已经被中共当局默认</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299634.md" target="_blank">29具尸检 揭新冠病毒攻击性超强击垮免疫系统致命</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200324/1299633.md" target="_blank">新冠肺炎未了 专家又警告“10倍”厉害结核病</a></li>
 
 </ul>
 </div>
