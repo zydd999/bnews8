@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300430.md" target="_blank">王全璋即将出狱 有可能被送往户籍地管控</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md" target="_blank">美国决定对中国部分商品征收高额关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300421.md" target="_blank">假新闻：「武汉肺炎源自意大利」　李克强：不能为追求「零报告」瞒报漏报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300399.md" target="_blank">台湾加大力度批评中国曾隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300398.md" target="_blank">台湾专家建议4周结束疫情的措施：就怕做不到</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300354.md" target="_blank">西班牙病故人数超过中国 查尔斯王储中招</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300353.md" target="_blank">李克强：不要为了零记录 瞒报病例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300235.md" target="_blank">武汉风险级别下调至中风险，上海、泉州亮红灯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300234.md" target="_blank">中国今年GDP遭大幅下修 供应链恢复还要等欧美需求</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300233.md" target="_blank">湖北解除通道管控 民众外出感染须自费</a></li>
 
 </ul>
 </div>
