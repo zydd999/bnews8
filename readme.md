@@ -18,10 +18,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300088.md">重磅！美众院两党提案： 要求中共赔偿 至少四大方法！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md">中共当局公布死亡812人 实际情况惨烈无比</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1300254.md">万炮齐轰习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300033.md">德国媒体：来自北京的无耻宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300117.md">葫芦里卖的什么药？！解封前武汉干部突收获美国N95口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1299955.md">特朗普和拜登谁领先？最新民调出笼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1300254.md">万炮齐轰习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1300106.md">赵立坚不知影踪 北京当局加速甩锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299869.md">一波未平一波又起 陕西现另一可怕病毒！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300455.md" target="_blank">中共宣传援鄂医护零感染 广西病危护士引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300408.md" target="_blank">武汉肺炎蔓延全球 看懂习近平对外通话三段论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300391.md" target="_blank">武汉日记完结篇 方方仍忧生者忽略死者为何而死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300390.md" target="_blank">研究指武汉6成感染者尚潜伏 应大抽查</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300041.md" target="_blank">老中医遇鬼：再来就把你扎散了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300156.md" target="_blank">关于Chinese virus “采访民主救国阵线主席唐柏桥先生的谈话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md" target="_blank">中共当局公布死亡812人 实际情况惨烈无比</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300154.md" target="_blank">超级肺炎死亡425人超萨斯 中共军^副司令之子染病不治</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300466.md" target="_blank">中国和伊朗相互放大病毒可能源自美国的说法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300465.md" target="_blank">疫情导致军工厂财务吃紧 五角大楼担心敌方资本趁虚而入</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300463.md" target="_blank">美国务卿: &quot;中国共产党对我们的健康和生活方式构成严重威胁&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300432.md" target="_blank">全国第一：新疆中小学职校复课　上海市民：若北京复课沪跟进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300430.md" target="_blank">王全璋即将出狱 有可能被送往户籍地管控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md" target="_blank">美国决定对中国部分商品征收高额关税</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300358.md" target="_blank">公民党「义无反顾支持泛民协调」务求议会过半实现五大诉求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300357.md" target="_blank">立法会通过2158亿临时拨款　当中涉香港警队庞大开支</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300356.md" target="_blank">任志强失联两周 网传其失联日记</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300355.md" target="_blank">学者建议用李文亮命名新冠病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300354.md" target="_blank">西班牙病故人数超过中国 查尔斯王储中招</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300353.md" target="_blank">李克强：不要为了零记录 瞒报病例</a></li>
 
 </ul>
 </div>
