@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md" target="_blank">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301209.md" target="_blank">陈破空：高层动态，韩正不知去向！中美日：三个情景的对照。心动时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301108.md" target="_blank">揭秘如何躲过武汉肺炎：两部电影的启示（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301111.md" target="_blank">中国28日起 暂停一般外籍人士入境</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300848.md" target="_blank">中共病毒武汉“甩锅” 取消免费治疗 40万高额医疗费患者承担</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300847.md" target="_blank">推责“甩锅” 中共专家称疫情爆发时 见不到湖北官员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300846.md" target="_blank">中共官媒企图甩锅意大利 遭意专家打脸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300844.md" target="_blank">或忧疫情 中国股市今又跌了</a></li>
 
 </ul>
 </div>
