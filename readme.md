@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300208.md">任志强被抓的细节曝光 儿子秘书也被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1300254.md">万炮齐轰习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300154.md">超级肺炎死亡425人超萨斯 中共军^副司令之子染病不治</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300340.md">打翻习近平的独门武器？陈薇合作研发者不可告人！中共病毒疫苗早就研发成功？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md">中共当局公布死亡812人 实际情况惨烈无比</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300088.md">重磅！美众院两党提案： 要求中共赔偿 至少四大方法！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300033.md">德国媒体：来自北京的无耻宣传</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1300106.md">赵立坚不知影踪 北京当局加速甩锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300045.md">中共院士发声定调：第二次大疫情由海归华人背锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300160.md">外星人每隔16天重复来电？提醒人类注意武汉肺炎？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300050.md">文睿：习近平行路将尽 当下中共权斗解析 不想斗都不行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200326/1300412.md">中纪委横跨20年倒查内蒙古煤矿问题，胡春华或面临从政以来最严重危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300774.md" target="_blank">防军中蔓延 五角大厦宣布一新举措</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300773.md" target="_blank">洪博学：习近平会铤而走险吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300766.md" target="_blank">李克强挑战习近平？专家：对中共内斗 美国或将出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300765.md" target="_blank">绑架高九云 国保大队长：“我知道他们都是好人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300756.md" target="_blank">报复美国 北京终止对美企抗癌药紫杉醇的进口</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300653.md" target="_blank">几十名警察抓一位女士 中共警察做坏事心虚至此</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md" target="_blank">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300394.md" target="_blank">大疫下如何自救 看这个电影《危难时刻》就行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300613.md" target="_blank">直呼“武汉病毒” 蓬佩奥：G7国家都深知中共在虚假宣传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300612.md" target="_blank">消息被封！成千上万湖北人在贵州被强制自费隔离</a></li>
 
 </ul>
 </div>
