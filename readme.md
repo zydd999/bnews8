@@ -1,12 +1,10 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300845.md">武肺 中央高层禁令曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300766.md">李克强挑战习近平？专家：对中共内斗 美国或将出手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300845.md">武肺 中央高层禁令曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
@@ -15,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300837.md">中国经济1季度低到文革前 裁员！世界工厂停产或倒闭 不要遮羞布？东莞令按摩院复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200326/1300604.md">越南美女副机长爆红 逆龄超高颜值让网友沦陷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300826.md">重磅：蓬佩奥G7峰会发言 利剑直指中共!(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200326/1300792.md">今晚的失业数据究竟多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200326/1300792.md">今晚的失业数据究竟多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300691.md">【独家】江苏官称8天零确诊 医务人员爆实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
@@ -24,6 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300714.md">疑涉“秘密人体实验” 武汉监狱400服刑人员被“无名氏”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300612.md">消息被封！成千上万湖北人在贵州被强制自费隔离</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md" target="_blank">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md" target="_blank">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301090.md" target="_blank">义大利右派领袖轰中共 隐匿疫情危害全人类 质疑人工研发中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md" target="_blank">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298774.md" target="_blank">错批黄万里毁了中国的母亲河！ 三峡危矣！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298757.md" target="_blank">跟党走 马屁拍在马脚上 吴晗被送上“文革”祭坛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298686.md" target="_blank">习近平“保留本色很重要”早年家庭生活 大陆全网不保留</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298657.md" target="_blank">淫魔温斯坦确诊中共肺炎 纽约监狱38人染疫</a></li>
 
 </ul>
 </div>
