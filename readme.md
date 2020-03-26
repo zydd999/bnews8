@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300340.md">打翻习近平的独门武器？陈薇合作研发者不可告人！中共病毒疫苗早就研发成功？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md">中共当局公布死亡812人 实际情况惨烈无比</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300088.md">重磅！美众院两党提案： 要求中共赔偿 至少四大方法！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300117.md">葫芦里卖的什么药？！解封前武汉干部突收获美国N95口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1300106.md">赵立坚不知影踪 北京当局加速甩锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300045.md">中共院士发声定调：第二次大疫情由海归华人背锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300160.md">外星人每隔16天重复来电？提醒人类注意武汉肺炎？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300050.md">文睿：习近平行路将尽 当下中共权斗解析 不想斗都不行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200326/1300412.md">中纪委横跨20年倒查内蒙古煤矿问题，胡春华或面临从政以来最严重危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300136.md">才解除封城几天？ 湖北随州市中心医院发热病人排长队挂号</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md" target="_blank">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300807.md" target="_blank">陆女子为寻出走男友报警称其染疫 结果…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300805.md" target="_blank">武汉疫情再次大爆发？6成感染者潜伏 感染要自费治疗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300793.md" target="_blank">中共病毒蔓延 脱离邪恶保平安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300791.md" target="_blank">都匀监狱阴毒招： 饭菜中 放入细菌病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300785.md" target="_blank">疫情期间美舰发射实弹 外媒分析美中军事较劲</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md" target="_blank">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300692.md" target="_blank">网传视频：广西南宁突降暴雨 如同泽国 汽车被淹…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300691.md" target="_blank">【独家】江苏官称8天零确诊 医务人员爆实情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md" target="_blank">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300677.md" target="_blank">入境健康证明!!! 还有什么是不可以卖的吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300655.md" target="_blank">网友直击：安葬亲人 武汉扁担山公墓门外排逾百米长队</a></li>
 
 </ul>
 </div>
