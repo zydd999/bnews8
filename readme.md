@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299962.md">中国疫情控制住了？看李克强怎么说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300031.md">武汉市民：还有一个很吓人的问题...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300208.md">任志强被抓的细节曝光 儿子秘书也被带走</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300160.md">外星人每隔16天重复来电？提醒人类注意武汉肺炎？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300050.md">文睿：习近平行路将尽 当下中共权斗解析 不想斗都不行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300009.md">哈佛校长夫妇确诊却找不到感染源 原因可能在这</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300009.md">哈佛校长夫妇确诊却找不到感染源 原因可能在这</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300136.md">才解除封城几天？ 湖北随州市中心医院发热病人排长队挂号</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300694.md" target="_blank">甩锅美国 赵立坚绑架女子推特</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md" target="_blank">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300692.md" target="_blank">网传视频：广西南宁突降暴雨 如同泽国 汽车被淹…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300691.md" target="_blank">【独家】江苏官称8天零确诊 医务人员爆实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md" target="_blank">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300677.md" target="_blank">入境健康证明!!! 还有什么是不可以卖的吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300655.md" target="_blank">网友直击：安葬亲人 武汉扁担山公墓门外排逾百米长队</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300390.md" target="_blank">研究指武汉6成感染者尚潜伏 应大抽查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300384.md" target="_blank">研究：武汉6成感染者尚未被发现 需展开大抽查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md" target="_blank">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300340.md" target="_blank">打翻习近平的独门武器？陈薇合作研发者不可告人！中共病毒疫苗早就研发成功？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300338.md" target="_blank">抗疫组长李克强发声禁为清零瞒报漏报 促防疫情再爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300337.md" target="_blank">杨恒均遭正式指控间谍罪 案或送最高检</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300336.md" target="_blank">《视频》湖北解封第一天，北京市民怎么看</a></li>
 
 </ul>
 </div>
