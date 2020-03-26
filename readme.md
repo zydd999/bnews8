@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1300254.md">万炮齐轰习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299999.md">中共援助捷克15万检测试剂 错误率80%没法用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300088.md">重磅！美众院两党提案： 要求中共赔偿 至少四大方法！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300340.md">打翻习近平的独门武器？陈薇合作研发者不可告人！中共病毒疫苗早就研发成功？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300088.md">重磅！美众院两党提案： 要求中共赔偿 至少四大方法！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md">中共当局公布死亡812人 实际情况惨烈无比</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300033.md">德国媒体：来自北京的无耻宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300117.md">葫芦里卖的什么药？！解封前武汉干部突收获美国N95口罩</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300160.md">外星人每隔16天重复来电？提醒人类注意武汉肺炎？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300050.md">文睿：习近平行路将尽 当下中共权斗解析 不想斗都不行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300009.md">哈佛校长夫妇确诊却找不到感染源 原因可能在这</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300136.md">才解除封城几天？ 湖北随州市中心医院发热病人排长队挂号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300723.md" target="_blank">专家：为保政权 中共展开病毒信息战</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300706.md" target="_blank">“上面”让来的… 已经在“犯罪”了…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300705.md" target="_blank">中共输出病毒再遭起诉 佛州原告列五大罪状</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300704.md" target="_blank">研究：武汉6成感染者未被发现 需展开大抽查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300703.md" target="_blank">投书：疫情中我妈死了 她本来可以活下来的…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300694.md" target="_blank">甩锅美国 赵立坚绑架女子推特</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md" target="_blank">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300692.md" target="_blank">网传视频：广西南宁突降暴雨 如同泽国 汽车被淹…</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md" target="_blank">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300482.md" target="_blank">武汉6成感染者未被发现 会引发新一轮疫情大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300455.md" target="_blank">中共宣传援鄂医护零感染 广西病危护士引关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300408.md" target="_blank">武汉肺炎蔓延全球 看懂习近平对外通话三段论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300391.md" target="_blank">武汉日记完结篇 方方仍忧生者忽略死者为何而死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300390.md" target="_blank">研究指武汉6成感染者尚潜伏 应大抽查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300384.md" target="_blank">研究：武汉6成感染者尚未被发现 需展开大抽查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md" target="_blank">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
 
 </ul>
 </div>
