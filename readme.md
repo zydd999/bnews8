@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300136.md">才解除封城几天？ 湖北随州市中心医院发热病人排长队挂号</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300813.md" target="_blank">“武汉肺炎”一词被消失 中共官媒悄悄窜改新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md" target="_blank">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300807.md" target="_blank">陆女子为寻出走男友报警称其染疫 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300805.md" target="_blank">武汉疫情再次大爆发？6成感染者潜伏 感染要自费治疗</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300694.md" target="_blank">甩锅美国 赵立坚绑架女子推特</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md" target="_blank">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300692.md" target="_blank">网传视频：广西南宁突降暴雨 如同泽国 汽车被淹…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300691.md" target="_blank">【独家】江苏官称8天零确诊 医务人员爆实情</a></li>
 
 </ul>
 </div>
