@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300136.md">才解除封城几天？ 湖北随州市中心医院发热病人排长队挂号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300132.md">预测兑现！6万武汉人传170国 试剂出口8成有错！大陆人咋办？ 美国中央党校 校长夫妇感染</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300843.md" target="_blank">中国或倾力消灭武汉肺炎词 涉清删旧日官报遗迹包括英文稿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300842.md" target="_blank">美专家谈向中国索赔的法理依据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300835.md" target="_blank">新冠病毒 中国连报国土清零 指境外传入多增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300834.md" target="_blank">香港专家警告慎防中国复市掀起第二波疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300833.md" target="_blank">中国正与英美德3国合作研发新冠肺炎疫苗 此前中国高调宣布已试疫苗</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300753.md" target="_blank">中纪委通报揭开房地产内幕 又涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300741.md" target="_blank">看清中共邪恶 中国民众“三退”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300723.md" target="_blank">专家：为保政权 中共展开病毒信息战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300706.md" target="_blank">“上面”让来的… 已经在“犯罪”了…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300705.md" target="_blank">中共输出病毒再遭起诉 佛州原告列五大罪状</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300837.md" target="_blank">中国经济1季度低到文革前 裁员！世界工厂停产或倒闭 不要遮羞布？东莞令按摩院复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300394.md" target="_blank">大疫下如何自救 看这个电影《危难时刻》就行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300617.md" target="_blank">北京权威定调：第二波疫情或由海归华人背锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300569.md" target="_blank">美律师集体控告中共瞒报疫情 索赔或达数十万亿美元</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298247.md" target="_blank">中共堡垒内幕:党员绝望大哭 医生说为何不得不“报零” 彭斯夫妇都检测呈阴性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298236.md" target="_blank">针对中共 场面相当震撼！美舰在菲律宾海军演 发射标准二型飞弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298145.md" target="_blank">快讯！美国副总统彭斯夫妇中共病毒检测呈阴性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298052.md" target="_blank">凄美！意大利封城 威尼斯人退海豚进</a></li>
 
 </ul>
 </div>
