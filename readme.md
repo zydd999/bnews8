@@ -2,10 +2,9 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300845.md">武肺 中央高层禁令曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200326/1300412.md">中纪委横跨20年倒查内蒙古煤矿问题，胡春华或面临从政以来最严重危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300766.md">李克强挑战习近平？专家：对中共内斗 美国或将出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300837.md">中国经济1季度低到文革前 裁员！世界工厂停产或倒闭 不要遮羞布？东莞令按摩院复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200326/1300604.md">越南美女副机长爆红 逆龄超高颜值让网友沦陷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300826.md">重磅：蓬佩奥G7峰会发言 利剑直指中共!(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200326/1300792.md">今晚的失业数据究竟多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300691.md">【独家】江苏官称8天零确诊 医务人员爆实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300482.md">武汉6成感染者未被发现 会引发新一轮疫情大爆发</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301035.md" target="_blank">石英：作家方方最后一篇封城日记</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301022.md" target="_blank">陈破空：陈破空谈《常识》（之35）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301009.md" target="_blank">全球50万人联署轰下台 习近平今却力挺谭德塞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300995.md" target="_blank">港媒分析新冠病毒源头阴谋论赵立坚奇袭为何未在世界奏效</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300835.md" target="_blank">新冠病毒 中国连报国土清零 指境外传入多增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300834.md" target="_blank">香港专家警告慎防中国复市掀起第二波疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300833.md" target="_blank">中国正与英美德3国合作研发新冠肺炎疫苗 此前中国高调宣布已试疫苗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300825.md" target="_blank">疫情缓解？多城市解封 北京仍严控</a></li>
 
 </ul>
 </div>
