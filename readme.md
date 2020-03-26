@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300798.md">被中共激怒！ 美议员提法案 中国国企将无法…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300894.md">任志强被纪委立案调查  舆论倒逼官方表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300837.md">中国经济1季度低到文革前 裁员！世界工厂停产或倒闭 不要遮羞布？东莞令按摩院复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200326/1300604.md">越南美女副机长爆红 逆龄超高颜值让网友沦陷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300826.md">重磅：蓬佩奥G7峰会发言 利剑直指中共!(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200326/1300792.md">今晚的失业数据究竟多可怕？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300691.md">【独家】江苏官称8天零确诊 医务人员爆实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md" target="_blank">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301130.md" target="_blank">二十国集团就新冠疫情发表联合声明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301129.md" target="_blank">本周六起 中国暂时停止外国人入境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301115.md" target="_blank">新冠疫情中的美国华人(1) “我们是美国人”，支援医护，保卫家园</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301114.md" target="_blank">台湾当选副总统染疫去世？盘点疫情下的假新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301099.md" target="_blank">美国务卿: “中国共产党对我们的健康和生活方式构成严重威胁”</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300931.md" target="_blank">疫情之下共军威胁未停    美台大动作反制示警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300930.md" target="_blank">大陆界定为「低风险」就可「寛松处理」？   湖北回港人士检疫安排惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300921.md" target="_blank">北京画家创作《甩锅》遭公安深夜约谈   温州人证春节大流动致欧洲疫情失控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300920.md" target="_blank">疑为「国家安全」立法「试水温」  中西区区议会主席郑丽琼被捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300898.md" target="_blank">美驻英大使批评中国隐瞒武汉疫情危害全球</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300897.md" target="_blank">全球病毒感染接近50万 G20召开特别峰会共谋应对之策</a></li>
 
 </ul>
 </div>
