@@ -9,8 +9,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300894.md">任志强被纪委立案调查  舆论倒逼官方表态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300798.md">被中共激怒！ 美议员提法案 中国国企将无法…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200326/1300604.md">越南美女副机长爆红 逆龄超高颜值让网友沦陷</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300482.md">武汉6成感染者未被发现 会引发新一轮疫情大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300482.md">武汉6成感染者未被发现 会引发新一轮疫情大爆发</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301084.md" target="_blank">武汉染疫亡者家属排队办理安葬 压抑下的哀悼期开始？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301074.md" target="_blank">美国参议院通过经济刺激法案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md" target="_blank">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301011.md" target="_blank">台湾将开启“类包机”接回滞留湖北台人</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300891.md" target="_blank">【耳边风】G20峰会应该邀请一位「特别嘉宾」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300680.md" target="_blank">新冠疫情大流行 美参众议员推决议吁国际调查并向中共问责求偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300629.md" target="_blank">新冠病毒重击美中两国电影业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300466.md" target="_blank">中国和伊朗相互放大病毒可能源自美国的说法</a></li>
 
 </ul>
 </div>
