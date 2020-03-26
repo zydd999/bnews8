@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300031.md">武汉市民：还有一个很吓人的问题...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300208.md">任志强被抓的细节曝光 儿子秘书也被带走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1299996.md">“武汉肺炎”未完 中国又现汉坦病毒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300000.md">中纪委通报揭开房地产内幕又涉曾庆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300154.md">超级肺炎死亡425人超萨斯 中共军^副司令之子染病不治</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1300254.md">万炮齐轰习近平</a></li>
@@ -20,10 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300160.md">外星人每隔16天重复来电？提醒人类注意武汉肺炎？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300050.md">文睿：习近平行路将尽 当下中共权斗解析 不想斗都不行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300009.md">哈佛校长夫妇确诊却找不到感染源 原因可能在这</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300009.md">哈佛校长夫妇确诊却找不到感染源 原因可能在这</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200326/1300412.md">中纪委横跨20年倒查内蒙古煤矿问题，胡春华或面临从政以来最严重危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300741.md" target="_blank">看清中共邪恶 中国民众“三退”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300723.md" target="_blank">专家：为保政权 中共展开病毒信息战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300706.md" target="_blank">“上面”让来的… 已经在“犯罪”了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300705.md" target="_blank">中共输出病毒再遭起诉 佛州原告列五大罪状</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300484.md" target="_blank">中共拿禁止出口药品威胁美国？川普：自给自足</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md" target="_blank">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300482.md" target="_blank">武汉6成感染者未被发现 会引发新一轮疫情大爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300455.md" target="_blank">中共宣传援鄂医护零感染 广西病危护士引关注</a></li>
 
 </ul>
 </div>
