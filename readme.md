@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md" target="_blank">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300394.md" target="_blank">大疫下如何自救 看这个电影《危难时刻》就行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300613.md" target="_blank">直呼“武汉病毒” 蓬佩奥：G7国家都深知中共在虚假宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300612.md" target="_blank">消息被封！成千上万湖北人在贵州被强制自费隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md" target="_blank">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
@@ -55,14 +57,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md" target="_blank">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300212.md" target="_blank">查尔斯王子确诊感染中共病毒 英国8167确诊423例死 英国首相：“非常亲中”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300211.md" target="_blank">首位染疫国家元首和中共关系密切</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300210.md" target="_blank">美华人捐赠物资被卖回美国？ 爆料人遭威胁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300209.md" target="_blank">组图：重庆等地雷电交加 冰雹大如手掌</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300394.md" target="_blank">大疫下如何自救 看这个电影《危难时刻》就行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300617.md" target="_blank">北京权威定调：第二波疫情或由海归华人背锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300569.md" target="_blank">美律师集体控告中共瞒报疫情 索赔或达数十万亿美元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300568.md" target="_blank">看看川普政府与国会达成的2万亿美元纾困法案怎么花这些钱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300161.md" target="_blank">哈佛大学校长夫妇确诊感染“中共病毒” 但愿没传染他人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300159.md" target="_blank">找回传统家庭是正路  现代观念违背人类天性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299854.md" target="_blank">视频：藏字蛋-神已来到</a></li>
@@ -84,16 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298236.md" target="_blank">针对中共 场面相当震撼！美舰在菲律宾海军演 发射标准二型飞弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298145.md" target="_blank">快讯！美国副总统彭斯夫妇中共病毒检测呈阴性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298052.md" target="_blank">凄美！意大利封城 威尼斯人退海豚进</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1298011.md" target="_blank">比金融海啸时还惨！欧美订单骤减 中国「无工可复」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200322/1297908.md" target="_blank">疫情反带来工作机会！美国这些行业大举招兵买马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200321/1297882.md" target="_blank">通用汽车将借出工厂给医疗设备公司做呼吸机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200321/1297881.md" target="_blank">日经：日政府想降低对中国依赖 有意开放台湾入CPTPP</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300629.md" target="_blank">新冠病毒重击美中两国电影业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300466.md" target="_blank">中国和伊朗相互放大病毒可能源自美国的说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300465.md" target="_blank">疫情导致军工厂财务吃紧 五角大楼担心敌方资本趁虚而入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300463.md" target="_blank">美国务卿: &quot;中国共产党对我们的健康和生活方式构成严重威胁&quot;</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300359.md" target="_blank">林郑突出台「禁酒令」惹争议     三名班子核心成员拒为其背书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300358.md" target="_blank">公民党「义无反顾支持泛民协调」务求议会过半实现五大诉求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300357.md" target="_blank">立法会通过2158亿临时拨款　当中涉香港警队庞大开支</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200325/1300356.md" target="_blank">任志强失联两周 网传其失联日记</a></li>
 
 </ul>
 </div>
