@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300031.md">武汉市民：还有一个很吓人的问题...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300093.md">华春莹惹大祸 北京被板上钉钉 美两党联合议案谴责中共 欧盟罕见警告习中央野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300208.md">任志强被抓的细节曝光 儿子秘书也被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200325/1300254.md">万炮齐轰习近平</a></li>
@@ -10,7 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300155.md">中共当局公布死亡812人 实际情况惨烈无比</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300088.md">重磅！美众院两党提案： 要求中共赔偿 至少四大方法！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300033.md">德国媒体：来自北京的无耻宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300117.md">葫芦里卖的什么药？！解封前武汉干部突收获美国N95口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200325/1300106.md">赵立坚不知影踪 北京当局加速甩锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
@@ -21,9 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200326/1300412.md">中纪委横跨20年倒查内蒙古煤矿问题，胡春华或面临从政以来最严重危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300793.md" target="_blank">中共病毒蔓延 脱离邪恶保平安</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300791.md" target="_blank">都匀监狱阴毒招： 饭菜中 放入细菌病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300785.md" target="_blank">疫情期间美舰发射实弹 外媒分析美中军事较劲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300782.md" target="_blank">疫情下长沙一动物园多种动物饿死 尸体变干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300774.md" target="_blank">防军中蔓延 五角大厦宣布一新举措</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md" target="_blank">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300677.md" target="_blank">入境健康证明!!! 还有什么是不可以卖的吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300655.md" target="_blank">网友直击：安葬亲人 武汉扁担山公墓门外排逾百米长队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300654.md" target="_blank">雷神山医院建设工人被隔离一个多月 上网求救</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300653.md" target="_blank">几十名警察抓一位女士 中共警察做坏事心虚至此</a></li>
 
 </ul>
 </div>
