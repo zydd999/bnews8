@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300613.md" target="_blank">直呼“武汉病毒” 蓬佩奥：G7国家都深知中共在虚假宣传</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300612.md" target="_blank">消息被封！成千上万湖北人在贵州被强制自费隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md" target="_blank">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300521.md" target="_blank">文昭：美国国会欲向中共索赔，怎麽赔？彭培奥谈将有重大决定，暗示什麽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md" target="_blank">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300484.md" target="_blank">中共拿禁止出口药品威胁美国？川普：自给自足</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300211.md" target="_blank">首位染疫国家元首和中共关系密切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300210.md" target="_blank">美华人捐赠物资被卖回美国？ 爆料人遭威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300209.md" target="_blank">组图：重庆等地雷电交加 冰雹大如手掌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300208.md" target="_blank">任志强被抓的细节曝光 儿子秘书也被带走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300207.md" target="_blank">甩锅再战？中共卫健委专家甩给湖北官员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300206.md" target="_blank">瘟疫中这家武汉企业始终未停工 原来另有原因</a></li>
 
 </ul>
 </div>
