@@ -9,20 +9,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300134.md">港媒：中共隐瞒疫情 大量患者“自然死亡” 尸体埋山中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300117.md">葫芦里卖的什么药？！解封前武汉干部突收获美国N95口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300513.md">陈破空：美国决议案：索赔！李克强高呼不得瞒报。习近平恨上一个人。胡公子三度受阻 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300160.md">外星人每隔16天重复来电？提醒人类注意武汉肺炎？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300497.md">〖兲朝浮世绘〗论作秀，习近平在普京面前就是个乡巴佬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300396.md">中国将正式起诉杨恒均 最重可能死刑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200326/1300412.md">中纪委横跨20年倒查内蒙古煤矿问题，胡春华或面临从政以来最严重危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1300429.md">美国决定对中国部分商品征收高额关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200326/1300517.md">天然“青霉素”被发现了 每天吃两口 杀菌消炎 清肺健胃 肺病肺癌躲着走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200326/1300485.md">震惊考古界！日俄怀孕古尸冰冻600年后竟产活婴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300483.md">华盛顿邮报： 现在是疏远中共的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300217.md">杨妈妈粥店热烈祝贺美国疫情的背后黑手是谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200325/1300222.md">快要崩溃！莫斯科市长当面向普京吐实情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200326/1300604.md">越南美女副机长爆红 逆龄超高颜值让网友沦陷</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200325/1300383.md">中国疫情恐死灰复燃？ 德专家：一个月后或见分晓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200325/1300136.md">才解除封城几天？ 湖北随州市中心医院发热病人排长队挂号</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300825.md" target="_blank">疫情缓解？多城市解封 北京仍严控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md" target="_blank">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300813.md" target="_blank">“武汉肺炎”一词被消失 中共官媒悄悄窜改新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md" target="_blank">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300704.md" target="_blank">研究：武汉6成感染者未被发现 需展开大抽查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300703.md" target="_blank">投书：疫情中我妈死了 她本来可以活下来的…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300694.md" target="_blank">甩锅美国 赵立坚绑架女子推特</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md" target="_blank">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 
 </ul>
 </div>
