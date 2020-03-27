@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200326/1300792.md">今晚的失业数据究竟多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301236.md">网传马云、柳传志、潘石屹等集体上书习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200327/1301243.md">邱家军：马云发布九条反习令 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300773.md">洪博学：习近平会铤而走险吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300827.md">英国研究：感染后「6大轻微症状」往往难以察觉</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301356.md" target="_blank">以“智慧社区”之名 中共加紧监控民众</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301334.md" target="_blank">武汉老人死垃圾桶边 尸体生蛆才被发现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301302.md" target="_blank">警察填坑？广东福建抽调大量警察增援武汉女子监狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md" target="_blank">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301111.md" target="_blank">中国28日起 暂停一般外籍人士入境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md" target="_blank">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301071.md" target="_blank">上海华东师大法学院教授提出新冠疫情信息公开申请</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301035.md" target="_blank">石英：作家方方最后一篇封城日记</a></li>
 
 </ul>
 </div>
