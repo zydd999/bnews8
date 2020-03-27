@@ -1,10 +1,9 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301236.md">网传马云、柳传志、潘石屹等集体上书习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301319.md">啥前兆！北京突发布两重磅新闻 刘鹤报告藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200327/1301243.md">邱家军：马云发布九条反习令 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301319.md">啥前兆！北京突发布两重磅新闻 刘鹤报告藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
@@ -14,16 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301688.md" target="_blank">疫情控制“成功”之际中国重新关闭电影院</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301687.md" target="_blank">台湾经验：疫情接触者追踪比照重大刑案</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301686.md" target="_blank">特朗普签完《台北法案》  转头跟习近平通话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301685.md" target="_blank">北京画家作《甩锅》 遭公安约谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301684.md" target="_blank">特朗普、习近平通话 要联手抗疫？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301683.md" target="_blank">特朗普签署《台北法案》</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301682.md" target="_blank">武汉可能有六成的感染者没有被发现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301665.md" target="_blank">中国公司对西班牙表示要替换不合格病毒测试盒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301647.md" target="_blank">西班牙媒体称中国制病毒试剂盒「品质低劣 」    责任谁属演成罗生门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301646.md" target="_blank">香港疫情恶化林郑推加辣防疫措施      女警拒戴口罩医护要隔离警方罕有道歉</a></li>
@@ -112,13 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301519.md" target="_blank">武汉七大殡仪馆骨灰盒数量暴露死亡人数   与官方死亡数字相差甚远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301518.md" target="_blank">武汉肺炎死亡数字扑朔迷离    骨灰盒出货量能见真章？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301483.md" target="_blank">特朗普签「台北法案」撑宝岛巩固邦交   中共表达「坚决反对」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301446.md" target="_blank">特朗普跟习近平通电话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301267.md" target="_blank">国务院：美国为其他国家提供2.74亿美元对抗新冠疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md" target="_blank">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301130.md" target="_blank">二十国集团就新冠疫情发表联合声明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301129.md" target="_blank">本周六起 中国暂时停止外国人入境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301115.md" target="_blank">新冠疫情中的美国华人(1) “我们是美国人”，支援医护，保卫家园</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301114.md" target="_blank">台湾当选副总统染疫去世？盘点疫情下的假新闻</a></li>
 
 </ul>
 </div>
