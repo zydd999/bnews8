@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300643.md">中共党媒发出威胁 令美国惊醒！美议员：现在该改变它了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300808.md">中共在做疫情再次爆发的准备？大陆知情医生：中共病毒只能靠自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300798.md">被中共激怒！ 美议员提法案 中国国企将无法…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300678.md">网传“外籍华人”煽情视频 原来是个唐山演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300894.md">任志强被纪委立案调查  舆论倒逼官方表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200326/1300604.md">越南美女副机长爆红 逆龄超高颜值让网友沦陷</a></li>
@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300612.md">消息被封！成千上万湖北人在贵州被强制自费隔离</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200326/1300714.md">疑涉“秘密人体实验” 武汉监狱400服刑人员被“无名氏”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301236.md" target="_blank">网传马云、柳传志、潘石屹等集体上书习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301232.md" target="_blank">天亮时分：国内经济大跌与国外索赔要求,击垮中共的风暴正在形成,兼谈”国家主权豁免“和为何要”正名“?(政论天下第142集 20200325)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301231.md" target="_blank">红二代地产大佬因批习和独裁政权 被抓捕立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md" target="_blank">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300875.md" target="_blank">疫情或展机遇 中国过去两月一带一路投资大增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300838.md" target="_blank">武汉六成感染者未被发现 解封或存隐忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md" target="_blank">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300848.md" target="_blank">中共病毒武汉“甩锅” 取消免费治疗 40万高额医疗费患者承担</a></li>
 
 </ul>
 </div>
