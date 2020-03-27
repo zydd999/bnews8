@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301319.md">啥前兆！北京突发布两重磅新闻 刘鹤报告藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200327/1301243.md">邱家军：马云发布九条反习令 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
@@ -16,14 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md" target="_blank">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301834.md" target="_blank">新冠病毒：德国决定检测、检测、检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301808.md" target="_blank">武汉排队领骨灰数量曝光 死者恐远超官方公布20倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301800.md" target="_blank">专栏 | 夜话中南海：习近平和特朗普通话了，赵立坚的目的也达到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301793.md" target="_blank">不让湖北人过桥 鄂赣两省警察爆发冲突  北京被指开了坏头</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301422.md" target="_blank">美国会议员跨党联袂 发起决议案谴责中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301447.md" target="_blank">细胞生物专家：为什么“九字真言”能解中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301438.md" target="_blank">绿地集团曾疯狂采购澳洲医疗物资 运往中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301437.md" target="_blank">悲惨！武汉老人死在垃圾桶旁…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301430.md" target="_blank">【现场视频】武汉民众扫码上车 网友忧集体感染</a></li>
 
 </ul>
 </div>
