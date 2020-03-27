@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301430.md" target="_blank">【现场视频】武汉民众扫码上车 网友忧集体感染</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301405.md" target="_blank">《梅花诗》道破天机 世人多是天上来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301411.md" target="_blank">沪女教授要求卫健委公开中共病毒10大信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301394.md" target="_blank">上海保安抓女子颈部猛撞警车 警方拒受理</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301286.md" target="_blank">“开发商逼我儿子说 你从那跳下来 我就给你钱！我儿子就…”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301280.md" target="_blank">美学者批驳钟南山：混淆科学概念误导大众</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md" target="_blank">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md" target="_blank">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301271.md" target="_blank">网传视频：哇！陕西交大一附院排队现场 场面惊人</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md" target="_blank">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301370.md" target="_blank">川习通话中 川普质疑中国检测数字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301333.md" target="_blank">路透社：美国准备变更规则 打击华为全球芯片供应</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298960.md" target="_blank">亲共默克尔被隔离 内幕触目惊心！培训大批中国涉活摘医生 德首批感染者都是医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200323/1298854.md" target="_blank">微电影：中共病毒来袭 紧急时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298806.md" target="_blank">忍无可忍？体制内倒习文热传 陈平回应 江系曝习瞒4.3万人 美密件：大爆中共害了全人类</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200323/1298798.md" target="_blank">武汉社区良知尚存的官员惊曝清零真相</a></li>
 
 </ul>
 </div>
