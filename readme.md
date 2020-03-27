@@ -9,7 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
@@ -19,10 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301910.md" target="_blank">流行病医生描述急诊室的一天，冠状病毒使他恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md" target="_blank">习近平：中国愿给美国提供援助，但是，</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301891.md" target="_blank">法国累计新冠病毒感染死亡近2000例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301887.md" target="_blank">文昭：时间大限逼近，习近平演绎“墨菲定律”；川普示范撒钱；四百年前有一课</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301524.md" target="_blank">台媒指谭德塞怒斥台湾操作网军批他亲中总统府否认再批谭废话多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301515.md" target="_blank">24岁小伙发热、头痛、浑身乏力 不是中共病毒而是老鼠惹的祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md" target="_blank">视频集：湖北黄梅和江西九江开战了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md" target="_blank">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 
 </ul>
 </div>
