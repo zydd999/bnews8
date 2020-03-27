@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301209.md">陈破空：高层动态，韩正不知去向！中美日：三个情景的对照。心动时刻 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md" target="_blank">中国媒体导向：又一“首富”全家跑美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301643.md" target="_blank">严防境外输入新冠病例 中国发布更加严厉措施</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301641.md" target="_blank">江西警察禁湖北人入境 九江桥省界爆群体冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301597.md" target="_blank">焦点对话：庆贺美日疫情被骂翻 “战狼外交”踩刹车？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301596.md" target="_blank">时事大家谈：美国自顾不暇，中国趁机扩展软实力？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301595.md" target="_blank">英首相约翰逊确诊新冠肺炎   唐宁街隔离继续领导政府</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301099.md" target="_blank">美国务卿: “中国共产党对我们的健康和生活方式构成严重威胁”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301098.md" target="_blank">G20领袖急开网络峰会  美中暂搁敌意共同防疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301092.md" target="_blank">疫情肆虐之际    美国报告：中国黑客攻击剧增</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301091.md" target="_blank">中国劣质测试剂错误率达80%  捷克寻求与台湾合作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301084.md" target="_blank">武汉染疫亡者家属排队办理安葬 压抑下的哀悼期开始？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301074.md" target="_blank">美国参议院通过经济刺激法案</a></li>
 
 </ul>
 </div>
