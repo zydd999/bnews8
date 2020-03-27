@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301800.md" target="_blank">专栏 | 夜话中南海：习近平和特朗普通话了，赵立坚的目的也达到了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301793.md" target="_blank">不让湖北人过桥 鄂赣两省警察爆发冲突  北京被指开了坏头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301731.md" target="_blank">中国最先开学省份！贵州传出逾200名学生发烧腹泻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301730.md" target="_blank">上海28日起 入境者一律集中隔离14天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301729.md" target="_blank">意大利单日死亡近千 新冠疫情爆发以来全球仅有</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301437.md" target="_blank">悲惨！武汉老人死在垃圾桶旁…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301430.md" target="_blank">【现场视频】武汉民众扫码上车 网友忧集体感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301405.md" target="_blank">《梅花诗》道破天机 世人多是天上来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301411.md" target="_blank">沪女教授要求卫健委公开中共病毒10大信息</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301799.md" target="_blank">美国证券业巨头获准在中国控股合资企业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301798.md" target="_blank">中国在亚洲邻邦推行“口罩外交”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301745.md" target="_blank">东京奥运延期限量纪念品更抢手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301744.md" target="_blank">消失的档案　穆罕默德.赵立坚上位传奇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301714.md" target="_blank">时事大家谈推特上的中国：中国发旅行禁令，世卫组织成舆论焦点</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301581.md" target="_blank">【耳边风】耿爽和中共元老耿飈是爷孙关系吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301571.md" target="_blank">“脱中”供应链热话题 中媒也议论“外资撤出论”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301570.md" target="_blank">一平方米补偿仅600多元  副镇长带人入村强拆起冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301569.md" target="_blank">美中元首通电话讨论疫情    双方暂时停止互相指责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301568.md" target="_blank">解封令虽下江西坚拒湖北人入境    两省公安爆发大混战警车被掀翻</a></li>
 
 </ul>
 </div>
