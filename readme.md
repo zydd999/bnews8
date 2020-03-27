@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301614.md" target="_blank">英国首相约翰逊确诊感染新冠病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301610.md" target="_blank">中国外交部：G20新冠肺炎特别峰会取得3大重要成果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301609.md" target="_blank">中美元首通电话谈抗疫外 习近平称“合作是唯一正确的选择”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301525.md" target="_blank">“华侨爱国煽情片”被起底 中共欲阻华人回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301524.md" target="_blank">台媒指谭德塞怒斥台湾操作网军批他亲中总统府否认再批谭废话多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301515.md" target="_blank">24岁小伙发热、头痛、浑身乏力 不是中共病毒而是老鼠惹的祸</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md" target="_blank">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md" target="_blank">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301380.md" target="_blank">温州商人：中共传播病毒“一路带一路”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301379.md" target="_blank">有关疫情趋势 钟南山言论怎么越来越离谱？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301378.md" target="_blank">天安门附近遍布警察 行人稀少 街道空空如也</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301371.md" target="_blank">对抗疫情 美军暂停旅行及海外活动</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301597.md" target="_blank">焦点对话：庆贺美日疫情被骂翻 “战狼外交”踩刹车？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301596.md" target="_blank">时事大家谈：美国自顾不暇，中国趁机扩展软实力？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301595.md" target="_blank">英首相约翰逊确诊新冠肺炎   唐宁街隔离继续领导政府</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301589.md" target="_blank">习近平与特朗普通话 表示愿意援助美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301581.md" target="_blank">【耳边风】耿爽和中共元老耿飈是爷孙关系吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301571.md" target="_blank">“脱中”供应链热话题 中媒也议论“外资撤出论”</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301091.md" target="_blank">中国劣质测试剂错误率达80%  捷克寻求与台湾合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301084.md" target="_blank">武汉染疫亡者家属排队办理安葬 压抑下的哀悼期开始？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301074.md" target="_blank">美国参议院通过经济刺激法案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md" target="_blank">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301011.md" target="_blank">台湾将开启“类包机”接回滞留湖北台人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301010.md" target="_blank">美侦察机、作战舰接连在台湾周边巡弋</a></li>
 
 </ul>
 </div>
