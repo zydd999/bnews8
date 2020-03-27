@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301209.md">陈破空：高层动态，韩正不知去向！中美日：三个情景的对照。心动时刻 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301589.md" target="_blank">习近平与特朗普通话 表示愿意援助美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301581.md" target="_blank">【耳边风】耿爽和中共元老耿飈是爷孙关系吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301571.md" target="_blank">“脱中”供应链热话题 中媒也议论“外资撤出论”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301570.md" target="_blank">一平方米补偿仅600多元  副镇长带人入村强拆起冲突</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md" target="_blank">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301011.md" target="_blank">台湾将开启“类包机”接回滞留湖北台人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301010.md" target="_blank">美侦察机、作战舰接连在台湾周边巡弋</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200326/1301005.md" target="_blank">泰国澄清：不存在向中方请求医疗援助后向美国出口口罩</a></li>
 
 </ul>
 </div>
