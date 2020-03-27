@@ -7,12 +7,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301236.md">网传马云、柳传志、潘石屹等集体上书习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300837.md">中国经济1季度低到文革前 裁员！世界工厂停产或倒闭 不要遮羞布？东莞令按摩院复工</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200327/1301243.md">邱家军：马云发布九条反习令 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301319.md">啥前兆！北京突发布两重磅新闻 刘鹤报告藏玄机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200327/1301243.md">邱家军：马云发布九条反习令 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301023.md">武汉殡仪馆现人龙　消息指：不哭不闹低调下葬可获3000元补助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301421.md" target="_blank">美国国务卿：“中共对我们的健康构成严重威胁”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301422.md" target="_blank">美国会议员跨党联袂 发起决议案谴责中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301447.md" target="_blank">细胞生物专家：为什么“九字真言”能解中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301438.md" target="_blank">绿地集团曾疯狂采购澳洲医疗物资 运往中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301437.md" target="_blank">悲惨！武汉老人死在垃圾桶旁…</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301334.md" target="_blank">武汉老人死垃圾桶边 尸体生蛆才被发现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301302.md" target="_blank">警察填坑？广东福建抽调大量警察增援武汉女子监狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md" target="_blank">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301295.md" target="_blank">美要求UN安理会决议案明示中共病毒起源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301294.md" target="_blank">G20前中共推特急转向 三男齐露笑脸 网友：十分瘆人</a></li>
 
 </ul>
 </div>
