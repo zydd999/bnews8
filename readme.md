@@ -14,15 +14,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301096.md">【一线采访】张展：大陆民怨已沸腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200327/1301028.md">马伊琍不再隐瞒 坦言与文章离婚的致命原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -63,6 +63,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301700.md" target="_blank">中共病毒烧到客户！中企出口欧美订单急速萎缩、内外交迫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md" target="_blank">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301693.md" target="_blank">英女嫌台湾隔离像监狱被骂翻 BBC删除报导</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md" target="_blank">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md" target="_blank">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md" target="_blank">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
@@ -85,9 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300161.md" target="_blank">哈佛大学校长夫妇确诊感染“中共病毒” 但愿没传染他人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300159.md" target="_blank">找回传统家庭是正路  现代观念违背人类天性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1299854.md" target="_blank">视频：藏字蛋-神已来到</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299418.md" target="_blank">武汉解封？上万“毒源”游荡 武汉发热门诊为此事吵翻天 世界浩劫本周末恐有73万感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299417.md" target="_blank">网传视频：中共新闻造假现场：快快快 雪别停 雪别停</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200324/1299393.md" target="_blank">王洪文的沉浮</a></li>
 
 </ul>
 </div>
