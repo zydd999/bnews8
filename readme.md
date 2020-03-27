@@ -20,8 +20,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md" target="_blank">习近平：中国愿给美国提供援助，但是，</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301891.md" target="_blank">法国累计新冠病毒感染死亡近2000例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301887.md" target="_blank">文昭：时间大限逼近，习近平演绎“墨菲定律”；川普示范撒钱；四百年前有一课</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301867.md" target="_blank">美国会议员呼吁世卫撤回对冠状病毒疫情误导性评论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md" target="_blank">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301515.md" target="_blank">24岁小伙发热、头痛、浑身乏力 不是中共病毒而是老鼠惹的祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md" target="_blank">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md" target="_blank">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301473.md" target="_blank">重庆为何雷电霹雳 重庆人：对人良心的警告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301421.md" target="_blank">美国国务卿：“中共对我们的健康构成严重威胁”</a></li>
 
 </ul>
 </div>
