@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301887.md" target="_blank">文昭：时间大限逼近，习近平演绎“墨菲定律”；川普示范撒钱；四百年前有一课</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301867.md" target="_blank">美国会议员呼吁世卫撤回对冠状病毒疫情误导性评论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md" target="_blank">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md" target="_blank">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md" target="_blank">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301473.md" target="_blank">重庆为何雷电霹雳 重庆人：对人良心的警告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301421.md" target="_blank">美国国务卿：“中共对我们的健康构成严重威胁”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301422.md" target="_blank">美国会议员跨党联袂 发起决议案谴责中共</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md" target="_blank">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301870.md" target="_blank">港人梦魇！1997年亚洲金融风暴征兆乍现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md" target="_blank">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301719.md" target="_blank">纽时：美官员拟推动驱逐涉间谍工作中共媒体雇员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301700.md" target="_blank">中共病毒烧到客户！中企出口欧美订单急速萎缩、内外交迫</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300394.md" target="_blank">大疫下如何自救 看这个电影《危难时刻》就行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300617.md" target="_blank">北京权威定调：第二波疫情或由海归华人背锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300569.md" target="_blank">美律师集体控告中共瞒报疫情 索赔或达数十万亿美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300568.md" target="_blank">看看川普政府与国会达成的2万亿美元纾困法案怎么花这些钱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200325/1300161.md" target="_blank">哈佛大学校长夫妇确诊感染“中共病毒” 但愿没传染他人</a></li>
 
 </ul>
 </div>
