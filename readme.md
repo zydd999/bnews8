@@ -8,11 +8,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301131.md">多国禁出口粮食 中国会爆发粮食危机吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301135.md">重磅！缉捕委国前总统马杜罗 美悬赏1500万美元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301745.md" target="_blank">东京奥运延期限量纪念品更抢手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301744.md" target="_blank">消失的档案　穆罕默德.赵立坚上位传奇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301714.md" target="_blank">时事大家谈推特上的中国：中国发旅行禁令，世卫组织成舆论焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301688.md" target="_blank">疫情控制“成功”之际中国重新关闭电影院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301687.md" target="_blank">台湾经验：疫情接触者追踪比照重大刑案</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301570.md" target="_blank">一平方米补偿仅600多元  副镇长带人入村强拆起冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301569.md" target="_blank">美中元首通电话讨论疫情    双方暂时停止互相指责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301568.md" target="_blank">解封令虽下江西坚拒湖北人入境    两省公安爆发大混战警车被掀翻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301519.md" target="_blank">武汉七大殡仪馆骨灰盒数量暴露死亡人数   与官方死亡数字相差甚远</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301518.md" target="_blank">武汉肺炎死亡数字扑朔迷离    骨灰盒出货量能见真章？</a></li>
 
 </ul>
 </div>
