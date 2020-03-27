@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300693.md">暗讽中共“甩锅”？刘三姐甩锅视频爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1301000.md">【独家】武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300817.md">与官方唱反调？陆媒整理“消失的41篇报导”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300585.md">病毒来自中国！但我决定不再用&quot;中国病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200326/1300942.md">美中对抗加剧 习帝再败退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200326/1300916.md">童温层：2020.03.26｜中共内斗浮上水面？是谁写信要求撤换习近平｜邦邦童童看天下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300612.md">消息被封！成千上万湖北人在贵州被强制自费隔离</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301232.md" target="_blank">天亮时分：国内经济大跌与国外索赔要求,击垮中共的风暴正在形成,兼谈”国家主权豁免“和为何要”正名“?(政论天下第142集 20200325)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301231.md" target="_blank">红二代地产大佬因批习和独裁政权 被抓捕立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301223.md" target="_blank">希望之声：武汉医生哭诉疫情隐瞒 预警五大城市最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301209.md" target="_blank">陈破空：高层动态，韩正不知去向！中美日：三个情景的对照。心动时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301108.md" target="_blank">揭秘如何躲过武汉肺炎：两部电影的启示（视频）</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300838.md" target="_blank">武汉六成感染者未被发现 解封或存隐忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300849.md" target="_blank">见风使舵 G20前赵立坚 崔天凯 胡锡进推特对美示“善意”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300848.md" target="_blank">中共病毒武汉“甩锅” 取消免费治疗 40万高额医疗费患者承担</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300847.md" target="_blank">推责“甩锅” 中共专家称疫情爆发时 见不到湖北官员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200326/1300846.md" target="_blank">中共官媒企图甩锅意大利 遭意专家打脸</a></li>
 
 </ul>
 </div>
