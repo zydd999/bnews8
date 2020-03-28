@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301278.md">武昌殡仪馆骨灰盒数泄密？中共病毒死亡数据遭严重质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301333.md">路透社：美国准备变更规则 打击华为全球芯片供应</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301975.md" target="_blank">详细视频集 江西拒湖北人入境 两省公安混战警车被掀翻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301963.md" target="_blank">澳洲华人“我要实名起诉中共及其领导人”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301962.md" target="_blank">都知道湖北零增长是假的？不只江西拒湖北人 安徽也加入</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301961.md" target="_blank">法国支持意大利 马克龙暗示不要被中俄宣传毒害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md" target="_blank">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301577.md" target="_blank">美国国会推出议案追究中国隐瞒武汉疫情危害全球之责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301913.md" target="_blank">受新冠病毒冲击太阳马戏团考虑破产</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301673.md" target="_blank">欧美专家再度确认新冠病毒源自中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301667.md" target="_blank">中国外交部复信美国三家报社：如有怨气，你们应该去找美国政府发泄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301637.md" target="_blank">清明期间“不祭扫不报道”？ 难以祭奠的武汉亡灵</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301614.md" target="_blank">英国首相约翰逊确诊感染新冠病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301610.md" target="_blank">中国外交部：G20新冠肺炎特别峰会取得3大重要成果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301609.md" target="_blank">中美元首通电话谈抗疫外 习近平称“合作是唯一正确的选择”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301525.md" target="_blank">“华侨爱国煽情片”被起底 中共欲阻华人回国</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301969.md" target="_blank">追责中国！美国会共和党领袖：美中关系回不去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301956.md" target="_blank">疫情缓解后中国经济复苏将是V型还是U型？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301949.md" target="_blank">白宫拟禁止使用美国设备的芯片商与华为往来 台积电恐受波及</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301832.md" target="_blank">视频会议平台Zoom引发安全担忧</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301643.md" target="_blank">严防境外输入新冠病例 中国发布更加严厉措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301641.md" target="_blank">江西警察禁湖北人入境 九江桥省界爆群体冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301597.md" target="_blank">焦点对话：庆贺美日疫情被骂翻 “战狼外交”踩刹车？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301596.md" target="_blank">时事大家谈：美国自顾不暇，中国趁机扩展软实力？</a></li>
 
 </ul>
 </div>
