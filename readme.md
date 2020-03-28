@@ -6,16 +6,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301301.md">前中纪委官员：王沪宁一步步将习近平引向悬崖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md">视频集：湖北黄梅和江西九江开战了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
@@ -23,6 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200328/1301857.md">古代一穷书生赶考途中睡了90多位小姐之后，得出如下耐人寻味的结论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301333.md">路透社：美国准备变更规则 打击华为全球芯片供应</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md" target="_blank">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301992.md" target="_blank">那些领取骨灰以及购买墓地的人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301988.md" target="_blank">武汉市民：母亲进ICU半小时死亡 1小时火化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md" target="_blank">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301975.md" target="_blank">详细视频集 江西拒湖北人入境 两省公安混战警车被掀翻</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301731.md" target="_blank">中国最先开学省份！贵州传出逾200名学生发烧腹泻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301730.md" target="_blank">上海28日起 入境者一律集中隔离14天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301729.md" target="_blank">意大利单日死亡近千 新冠疫情爆发以来全球仅有</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301678.md" target="_blank">北京大外宣移师推特 中文大号成招揽目标</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301673.md" target="_blank">欧美专家再度确认新冠病毒源自中国</a></li>
 
 </ul>
 </div>
