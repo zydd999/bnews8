@@ -18,10 +18,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md">中共病毒是怎么登上美军航母的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
