@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301482.md">“拳头硬是哥！” 江西与湖北公安大打出手</a></li>
@@ -12,18 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200328/1301857.md">古代一穷书生赶考途中睡了90多位小姐之后，得出如下耐人寻味的结论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301885.md">生存指南：乱世之中要备足哪些硬通货? 一定要心中有数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301885.md">生存指南：乱世之中要备足哪些硬通货? 一定要心中有数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md">习近平：中国愿给美国提供援助，但是，</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301962.md">都知道湖北零增长是假的？不只江西拒湖北人 安徽也加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301519.md">武汉七大殡仪馆骨灰盒数量暴露死亡人数   与官方死亡数字相差甚远</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301672.md">习近平火并太子党之“疫”？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md" target="_blank">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302126.md" target="_blank">前韩国务总理：以发源地命名病毒有意义</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302125.md" target="_blank">贵州率先复学即爆出事 一中学209人集体发烧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302123.md" target="_blank">微信过渡疫情敏感词 海外华人被屏蔽</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302122.md" target="_blank">中共又暗指病毒源于意大利 惨遭专家举铁证打脸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302117.md" target="_blank">了解真相 三退保平安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md" target="_blank">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md" target="_blank">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302056.md" target="_blank">擦肩而过几秒就感染 42岁亚裔回忆可怕经历</a></li>
@@ -51,12 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md" target="_blank">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301577.md" target="_blank">美国国会推出议案追究中国隐瞒武汉疫情危害全球之责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301913.md" target="_blank">受新冠病毒冲击太阳马戏团考虑破产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301910.md" target="_blank">流行病医生描述急诊室的一天，冠状病毒使他恐惧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md" target="_blank">习近平：中国愿给美国提供援助，但是，</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301891.md" target="_blank">法国累计新冠病毒感染死亡近2000例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301887.md" target="_blank">文昭：时间大限逼近，习近平演绎“墨菲定律”；川普示范撒钱；四百年前有一课</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301867.md" target="_blank">美国会议员呼吁世卫撤回对冠状病毒疫情误导性评论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md" target="_blank">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语</a></li>
 
 </ul>
 </div>
