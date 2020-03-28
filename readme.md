@@ -16,9 +16,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301913.md" target="_blank">受新冠病毒冲击太阳马戏团考虑破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301910.md" target="_blank">流行病医生描述急诊室的一天，冠状病毒使他恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md" target="_blank">习近平：中国愿给美国提供援助，但是，</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301891.md" target="_blank">法国累计新冠病毒感染死亡近2000例</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301525.md" target="_blank">“华侨爱国煽情片”被起底 中共欲阻华人回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301524.md" target="_blank">台媒指谭德塞怒斥台湾操作网军批他亲中总统府否认再批谭废话多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301515.md" target="_blank">24岁小伙发热、头痛、浑身乏力 不是中共病毒而是老鼠惹的祸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301471.md" target="_blank">视频集：湖北黄梅和江西九江开战了</a></li>
 
 </ul>
 </div>
