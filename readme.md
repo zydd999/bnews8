@@ -9,8 +9,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301962.md">都知道湖北零增长是假的？不只江西拒湖北人 安徽也加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md">习近平：中国愿给美国提供援助，但是，</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302045.md">对习近平失去信仰 黑龙江高官被双开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302056.md">擦肩而过几秒就感染 42岁亚裔回忆可怕经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md" target="_blank">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302281.md" target="_blank">BBC记者眼中的欧洲各国抗疫与隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302277.md" target="_blank">应对新冠疫情蔓延物资紧缺 法国已向中国订购总10亿只口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302258.md" target="_blank">间谍与民主小贩：澳籍公民杨恒均复杂的人生真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302251.md" target="_blank">武汉天河机场4月8日起复飞国内航班 全国电影院突然暂停复业</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302126.md" target="_blank">前韩国务总理：以发源地命名病毒有意义</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302125.md" target="_blank">贵州率先复学即爆出事 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302123.md" target="_blank">微信过渡疫情敏感词 海外华人被屏蔽</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302122.md" target="_blank">中共又暗指病毒源于意大利 惨遭专家举铁证打脸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302117.md" target="_blank">了解真相 三退保平安</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302279.md" target="_blank">习近平上演惊人一幕 马云柳传志领头要放任志强？惊人大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md" target="_blank">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302237.md" target="_blank">亲共拜登顾问及好友拉里·拉斯基染疫去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md" target="_blank">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301090.md" target="_blank">义大利右派领袖轰中共 隐匿疫情危害全人类 质疑人工研发中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md" target="_blank">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md" target="_blank">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300845.md" target="_blank">武肺 中央高层禁令曝光</a></li>
 
 </ul>
 </div>
