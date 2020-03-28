@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md">中共病毒是怎么登上美军航母的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302292.md" target="_blank">台外长：欢迎遭中国驱逐的美籍记者来台驻点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302291.md" target="_blank">联合国全球86员工感染 禁核扩散条约检讨会延期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302290.md" target="_blank">中国成千上万家涉及民生小企业 复工开业率不理想</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302287.md" target="_blank">北京大外宣进军推特 　专家分析目前成效不彰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302271.md" target="_blank">香港警方再检怀疑枪械 　3涉案青年提堂拒保释</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302270.md" target="_blank">香港实施紧急防疫措施　 6类场所周六晚起要关门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302265.md" target="_blank">美国新冠肺炎确诊逾10万　特朗普令增产呼吸机应急</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301744.md" target="_blank">消失的档案　穆罕默德.赵立坚上位传奇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301714.md" target="_blank">时事大家谈推特上的中国：中国发旅行禁令，世卫组织成舆论焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301688.md" target="_blank">疫情控制“成功”之际中国重新关闭电影院</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301687.md" target="_blank">台湾经验：疫情接触者追踪比照重大刑案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301686.md" target="_blank">特朗普签完《台北法案》  转头跟习近平通话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301685.md" target="_blank">北京画家作《甩锅》 遭公安约谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301684.md" target="_blank">特朗普、习近平通话 要联手抗疫？</a></li>
 
 </ul>
 </div>
