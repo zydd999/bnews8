@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302161.md" target="_blank">可悲又心酸！ 湖北人复工到处碰壁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md" target="_blank">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302150.md" target="_blank">习近平最后的机会来了！为何中共国周边疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md" target="_blank">“归零”？湖北开通的火车站又出现重症病人</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md" target="_blank">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301992.md" target="_blank">那些领取骨灰以及购买墓地的人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301988.md" target="_blank">武汉市民：母亲进ICU半小时死亡 1小时火化</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md" target="_blank">“上面有指示…就是要使他们倾家荡产”</a></li>
 
 </ul>
 </div>
