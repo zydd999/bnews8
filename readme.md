@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md">习近平：中国愿给美国提供援助，但是，</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302045.md">对习近平失去信仰 黑龙江高官被双开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md">上海警方内部消息 曝疫情吃紧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301672.md">习近平火并太子党之“疫”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md">上海警方内部消息 曝疫情吃紧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301808.md">武汉排队领骨灰数量曝光 死者恐远超官方公布20倍</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302213.md" target="_blank">小布什总统政研主管：中国借着疫情挑拨欧洲各国关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md" target="_blank">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md" target="_blank">大陆医学专家承认：无症状感染者越来越多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302161.md" target="_blank">可悲又心酸！ 湖北人复工到处碰壁</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302022.md" target="_blank">《国家评论》：别让中共利用冠状病毒取得优势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302010.md" target="_blank">美确诊人数超中国？分析：中共隐瞒真实疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302009.md" target="_blank">【现场视频】不只江西拒湖北人 安徽也加入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md" target="_blank">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
 
 </ul>
 </div>
