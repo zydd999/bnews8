@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301885.md">生存指南：乱世之中要备足哪些硬通货? 一定要心中有数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md">上海警方内部消息 曝疫情吃紧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301962.md">都知道湖北零增长是假的？不只江西拒湖北人 安徽也加入</a></li>
@@ -13,16 +12,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md">中共病毒是怎么登上美军航母的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md">“归零”？湖北开通的火车站又出现重症病人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302279.md">习近平上演惊人一幕 马云柳传志领头要放任志强？惊人大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302214.md">三峡大坝定时炸弹 首冲武汉其次中国政局(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302412.md" target="_blank">路透：因疫情暂停集会，支持香港民主诉求比例仍攀升</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302395.md" target="_blank">新冠病毒全球蔓延 山东口罩企业市值暴增</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302394.md" target="_blank">特朗普：考虑隔离纽约等三个州 阻止疫情扩大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302393.md" target="_blank">新冠肺炎：全球超过60万人确诊 意大利死亡突破一万例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md" target="_blank">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md" target="_blank">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302371.md" target="_blank">抗击疫情：德国继续接收意大利和法国重症患者</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302213.md" target="_blank">小布什总统政研主管：中国借着疫情挑拨欧洲各国关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md" target="_blank">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md" target="_blank">大陆医学专家承认：无症状感染者越来越多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302161.md" target="_blank">可悲又心酸！ 湖北人复工到处碰壁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md" target="_blank">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302150.md" target="_blank">习近平最后的机会来了！为何中共国周边疫情轻？两岸对比 华人之光连连突破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md" target="_blank">“归零”？湖北开通的火车站又出现重症病人</a></li>
 
 </ul>
 </div>
