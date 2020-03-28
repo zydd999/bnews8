@@ -17,11 +17,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md">习近平：中国愿给美国提供援助，但是，</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301519.md">武汉七大殡仪馆骨灰盒数量暴露死亡人数   与官方死亡数字相差甚远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301672.md">习近平火并太子党之“疫”？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302150.md" target="_blank">习近平最后的机会来了！为何中共国周边疫情轻？两岸对比 华人之光连连突破</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md" target="_blank">“归零”？湖北开通的火车站又出现重症病人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md" target="_blank">中共病毒是怎么登上美军航母的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302140.md" target="_blank">医疗物资作政治筹码 中共疯狂搜刮海外资源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302137.md" target="_blank">翻墙电视推荐：爱博电视软件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md" target="_blank">上海警方内部消息 曝疫情吃紧</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301988.md" target="_blank">武汉市民：母亲进ICU半小时死亡 1小时火化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md" target="_blank">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301975.md" target="_blank">详细视频集 江西拒湖北人入境 两省公安混战警车被掀翻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301963.md" target="_blank">澳洲华人“我要实名起诉中共及其领导人”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301962.md" target="_blank">都知道湖北零增长是假的？不只江西拒湖北人 安徽也加入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301961.md" target="_blank">法国支持意大利 马克龙暗示不要被中俄宣传毒害</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md" target="_blank">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302135.md" target="_blank">中共病毒/西班牙王室成员“红色公主” 离世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md" target="_blank">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301870.md" target="_blank">港人梦魇！1997年亚洲金融风暴征兆乍现</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300845.md" target="_blank">武肺 中央高层禁令曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300837.md" target="_blank">中国经济1季度低到文革前 裁员！世界工厂停产或倒闭 不要遮羞布？东莞令按摩院复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300394.md" target="_blank">大疫下如何自救 看这个电影《危难时刻》就行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200326/1300617.md" target="_blank">北京权威定调：第二波疫情或由海归华人背锅</a></li>
 
 </ul>
 </div>
