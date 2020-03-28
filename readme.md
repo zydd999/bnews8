@@ -10,10 +10,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md">习近平：中国愿给美国提供援助，但是，</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302045.md">对习近平失去信仰 黑龙江高官被双开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302056.md">擦肩而过几秒就感染 42岁亚裔回忆可怕经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md">“归零”？湖北开通的火车站又出现重症病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md">中共病毒是怎么登上美军航母的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md" target="_blank">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md" target="_blank">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302281.md" target="_blank">BBC记者眼中的欧洲各国抗疫与隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302277.md" target="_blank">应对新冠疫情蔓延物资紧缺 法国已向中国订购总10亿只口罩</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md" target="_blank">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302126.md" target="_blank">前韩国务总理：以发源地命名病毒有意义</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302125.md" target="_blank">贵州率先复学即爆出事 一中学209人集体发烧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302123.md" target="_blank">微信过渡疫情敏感词 海外华人被屏蔽</a></li>
 
 </ul>
 </div>
