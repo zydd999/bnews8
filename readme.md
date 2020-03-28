@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302214.md">三峡大坝定时炸弹 首冲武汉其次中国政局(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md" target="_blank">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302371.md" target="_blank">抗击疫情：德国继续接收意大利和法国重症患者</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302370.md" target="_blank">无症状感染者不被列入确诊引发各方隐忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302369.md" target="_blank">法国总理警告四月份疫情更加严峻 快速排查将增至每日10万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302341.md" target="_blank">法国拉乌尔特团队宣布 最新研究证实使用羟氯喹治疗新冠病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302338.md" target="_blank">NPR：冠状病毒大流行，急诊室医生害怕传染家人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md" target="_blank">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302150.md" target="_blank">习近平最后的机会来了！为何中共国周边疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md" target="_blank">“归零”？湖北开通的火车站又出现重症病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md" target="_blank">中共病毒是怎么登上美军航母的？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302140.md" target="_blank">医疗物资作政治筹码 中共疯狂搜刮海外资源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302137.md" target="_blank">翻墙电视推荐：爱博电视软件</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md" target="_blank">上海警方内部消息 曝疫情吃紧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md" target="_blank">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302367.md" target="_blank">追责中共：中共对美国人的健康和生活方式构成威胁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302366.md" target="_blank">武汉机场即将复飞国内航班 全国电影院突暂停复业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302365.md" target="_blank">全球确诊逾60万人 世卫将启动4种药物临床试验</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302364.md" target="_blank">特朗普总统签署《台北法案》 中国国台办：阻挡不了国家统一</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302363.md" target="_blank">武汉逐步解封 无症状感染者隐患依然存在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302297.md" target="_blank">新冠疫情蔓延 中国医疗外援为何换不到真正的信任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302292.md" target="_blank">台外长：欢迎遭中国驱逐的美籍记者来台驻点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302291.md" target="_blank">联合国全球86员工感染 禁核扩散条约检讨会延期</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301832.md" target="_blank">视频会议平台Zoom引发安全担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301828.md" target="_blank">特习电话外交能阻止美中关系的急速下滑吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301824.md" target="_blank">病毒专家：“复阳”并非再感染，质疑“核酸”可靠性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301799.md" target="_blank">美国证券业巨头获准在中国控股合资企业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301798.md" target="_blank">中国在亚洲邻邦推行“口罩外交”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301745.md" target="_blank">东京奥运延期限量纪念品更抢手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301744.md" target="_blank">消失的档案　穆罕默德.赵立坚上位传奇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301714.md" target="_blank">时事大家谈推特上的中国：中国发旅行禁令，世卫组织成舆论焦点</a></li>
 
 </ul>
 </div>
