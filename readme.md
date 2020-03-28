@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301319.md">啥前兆！北京突发布两重磅新闻 刘鹤报告藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301431.md">突发：广东又一次封关</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200328/1301857.md">古代一穷书生赶考途中睡了90多位小姐之后，得出如下耐人寻味的结论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200328/1301857.md">古代一穷书生赶考途中睡了90多位小姐之后，得出如下耐人寻味的结论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301333.md">路透社：美国准备变更规则 打击华为全球芯片供应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301885.md">生存指南：乱世之中要备足哪些硬通货? 一定要心中有数</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302035.md" target="_blank">哈尔滨政法委书记那几年干的事… “罪”大了…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302022.md" target="_blank">《国家评论》：别让中共利用冠状病毒取得优势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302010.md" target="_blank">美确诊人数超中国？分析：中共隐瞒真实疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302009.md" target="_blank">【现场视频】不只江西拒湖北人 安徽也加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md" target="_blank">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301992.md" target="_blank">那些领取骨灰以及购买墓地的人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301988.md" target="_blank">武汉市民：母亲进ICU半小时死亡 1小时火化</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301834.md" target="_blank">新冠病毒：德国决定检测、检测、检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301808.md" target="_blank">武汉排队领骨灰数量曝光 死者恐远超官方公布20倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301800.md" target="_blank">专栏 | 夜话中南海：习近平和特朗普通话了，赵立坚的目的也达到了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301793.md" target="_blank">不让湖北人过桥 鄂赣两省警察爆发冲突  北京被指开了坏头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301731.md" target="_blank">中国最先开学省份！贵州传出逾200名学生发烧腹泻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301730.md" target="_blank">上海28日起 入境者一律集中隔离14天</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301729.md" target="_blank">意大利单日死亡近千 新冠疫情爆发以来全球仅有</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302041.md" target="_blank">美中“媒体战”或再升级 华盛顿拟驱逐在美官媒“间谍”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301969.md" target="_blank">追责中国！美国会共和党领袖：美中关系回不去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301956.md" target="_blank">疫情缓解后中国经济复苏将是V型还是U型？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301949.md" target="_blank">白宫拟禁止使用美国设备的芯片商与华为往来 台积电恐受波及</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md" target="_blank">中国媒体导向：又一“首富”全家跑美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301643.md" target="_blank">严防境外输入新冠病例 中国发布更加严厉措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301641.md" target="_blank">江西警察禁湖北人入境 九江桥省界爆群体冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301597.md" target="_blank">焦点对话：庆贺美日疫情被骂翻 “战狼外交”踩刹车？</a></li>
 
 </ul>
 </div>
