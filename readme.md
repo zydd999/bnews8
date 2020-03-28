@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md" target="_blank">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301577.md" target="_blank">美国国会推出议案追究中国隐瞒武汉疫情危害全球之责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301913.md" target="_blank">受新冠病毒冲击太阳马戏团考虑破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301910.md" target="_blank">流行病医生描述急诊室的一天，冠状病毒使他恐惧</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301610.md" target="_blank">中国外交部：G20新冠肺炎特别峰会取得3大重要成果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301609.md" target="_blank">中美元首通电话谈抗疫外 习近平称“合作是唯一正确的选择”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301525.md" target="_blank">“华侨爱国煽情片”被起底 中共欲阻华人回国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301524.md" target="_blank">台媒指谭德塞怒斥台湾操作网军批他亲中总统府否认再批谭废话多</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301956.md" target="_blank">疫情缓解后中国经济复苏将是V型还是U型？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301949.md" target="_blank">白宫拟禁止使用美国设备的芯片商与华为往来 台积电恐受波及</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301832.md" target="_blank">视频会议平台Zoom引发安全担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301828.md" target="_blank">特习电话外交能阻止美中关系的急速下滑吗？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301641.md" target="_blank">江西警察禁湖北人入境 九江桥省界爆群体冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301597.md" target="_blank">焦点对话：庆贺美日疫情被骂翻 “战狼外交”踩刹车？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301596.md" target="_blank">时事大家谈：美国自顾不暇，中国趁机扩展软实力？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301595.md" target="_blank">英首相约翰逊确诊新冠肺炎   唐宁街隔离继续领导政府</a></li>
 
 </ul>
 </div>
