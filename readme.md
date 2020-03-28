@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语 </a></li>
@@ -17,12 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301884.md">毛泽东淫乱 随从上行下效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301672.md">习近平火并太子党之“疫”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200328/1301974.md">任志强署名炮轰文章原文全文《剥光衣服坚持当皇帝的小丑》（全）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301672.md">习近平火并太子党之“疫”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302251.md" target="_blank">武汉天河机场4月8日起复飞国内航班 全国电影院突然暂停复业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302245.md" target="_blank">是时候隔离中共了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302238.md" target="_blank">从中国采购新冠病毒试剂盒错误率80% 中使馆回应：用法不当</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302230.md" target="_blank">中国驱逐美国三大报社驻华美籍记者 台外长：欢迎来台驻点</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302117.md" target="_blank">了解真相 三退保平安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md" target="_blank">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md" target="_blank">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302056.md" target="_blank">擦肩而过几秒就感染 42岁亚裔回忆可怕经历</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302257.md" target="_blank">湖北省除武汉外周日起恢复国内客运航班</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302256.md" target="_blank">中方逐3美媒驻京人员 　台湾招手欢迎到台设驻点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302255.md" target="_blank">国台办坚决反对美国实施《台北法案》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302143.md" target="_blank">藉武汉肺炎防疫采集居民信息 中共抓捕刑讯百余基督徒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302225.md" target="_blank">台湾邀请被北京驱逐的美国三大报记者到台湾工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302041.md" target="_blank">美中“媒体战”或再升级 华盛顿拟驱逐在美官媒“间谍”</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301683.md" target="_blank">特朗普签署《台北法案》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301682.md" target="_blank">武汉可能有六成的感染者没有被发现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301665.md" target="_blank">中国公司对西班牙表示要替换不合格病毒测试盒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301647.md" target="_blank">西班牙媒体称中国制病毒试剂盒「品质低劣 」    责任谁属演成罗生门</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301646.md" target="_blank">香港疫情恶化林郑推加辣防疫措施      女警拒戴口罩医护要隔离警方罕有道歉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md" target="_blank">中国媒体导向：又一“首富”全家跑美国</a></li>
 
 </ul>
 </div>
