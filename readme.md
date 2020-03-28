@@ -12,12 +12,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301382.md">气氛诡异！天安门附近遍布警察 市民：也没有人啊 抓谁啊？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200327/1301644.md">中国媒体导向：又一“首富”全家跑美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301381.md">网传视频：这咋的了？警察把警察背铐起来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301674.md">陆媒造反！武汉死这么多人！华春莹屡战屡败这回输更惨 中共竟当全世界面做这件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301494.md">纽约医生给重症患者注射维他命C 结果发现…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301364.md">川习通电再谈贸易战 川普道破中共美梦：想等我...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301988.md" target="_blank">武汉市民：母亲进ICU半小时死亡 1小时火化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301981.md" target="_blank">“上面有指示…就是要使他们倾家荡产”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301975.md" target="_blank">详细视频集 江西拒湖北人入境 两省公安混战警车被掀翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301963.md" target="_blank">澳洲华人“我要实名起诉中共及其领导人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301962.md" target="_blank">都知道湖北零增长是假的？不只江西拒湖北人 安徽也加入</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301729.md" target="_blank">意大利单日死亡近千 新冠疫情爆发以来全球仅有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301678.md" target="_blank">北京大外宣移师推特 中文大号成招揽目标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301673.md" target="_blank">欧美专家再度确认新冠病毒源自中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301667.md" target="_blank">中国外交部复信美国三家报社：如有怨气，你们应该去找美国政府发泄</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301637.md" target="_blank">清明期间“不祭扫不报道”？ 难以祭奠的武汉亡灵</a></li>
 
 </ul>
 </div>
