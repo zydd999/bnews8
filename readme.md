@@ -1,9 +1,7 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301236.md">网传马云、柳传志、潘石屹等集体上书习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301319.md">啥前兆！北京突发布两重磅新闻 刘鹤报告藏玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200327/1301243.md">邱家军：马云发布九条反习令 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301409.md">抓了任志强！传中共五老上书习近平 接下来又是一场腥风血雨？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301363.md">班农：我向你们保证 中共这次绝对要灭亡了！</a></li>
@@ -21,9 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301279.md">美发言人回击华春莹：习总书记讲媒体姓党</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301577.md" target="_blank">美国国会推出议案追究中国隐瞒武汉疫情危害全球之责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301913.md" target="_blank">受新冠病毒冲击太阳马戏团考虑破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301910.md" target="_blank">流行病医生描述急诊室的一天，冠状病毒使他恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md" target="_blank">习近平：中国愿给美国提供援助，但是，</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301609.md" target="_blank">中美元首通电话谈抗疫外 习近平称“合作是唯一正确的选择”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301525.md" target="_blank">“华侨爱国煽情片”被起底 中共欲阻华人回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301524.md" target="_blank">台媒指谭德塞怒斥台湾操作网军批他亲中总统府否认再批谭废话多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200327/1301515.md" target="_blank">24岁小伙发热、头痛、浑身乏力 不是中共病毒而是老鼠惹的祸</a></li>
 
 </ul>
 </div>
