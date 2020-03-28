@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200328/1301857.md">古代一穷书生赶考途中睡了90多位小姐之后，得出如下耐人寻味的结论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301630.md">贵州抢先复学出事了 一中学209人集体发烧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301885.md">生存指南：乱世之中要备足哪些硬通货? 一定要心中有数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301662.md">中共1天遭遇川普2大重击 美参院索赔 但有个怪现象 报复 北京不顾中国人死活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1301885.md">生存指南：乱世之中要备足哪些硬通货? 一定要心中有数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301408.md">慎点：无症状过几天变这样！肺损伤清晰影片曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301579.md">中共病毒传到全球最高级别 亲共英国首相确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200327/1301484.md">武汉究竟死了多少人  民间智慧寻找真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301892.md">习近平：中国愿给美国提供援助，但是，</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200327/1301516.md">他碰到确诊者几秒就感染：42岁亚裔痛述可怕经历</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md" target="_blank">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md" target="_blank">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302056.md" target="_blank">擦肩而过几秒就感染 42岁亚裔回忆可怕经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302045.md" target="_blank">对习近平失去信仰 黑龙江高官被双开</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301887.md" target="_blank">文昭：时间大限逼近，习近平演绎“墨菲定律”；川普示范撒钱；四百年前有一课</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301867.md" target="_blank">美国会议员呼吁世卫撤回对冠状病毒疫情误导性评论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301863.md" target="_blank">陈破空：任案升级！习近平想扳倒副主席？遭五名政治老人警告。与特朗普通话，四大隐语</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md" target="_blank">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 
 </ul>
 </div>
