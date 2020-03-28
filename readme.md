@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301950.md">视频集：江西湖北两省公安大混战 “黑压压的一片”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301835.md">网友直击：湖北与江西冲突持续发酵 湖北黄冈增派更多特警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中国禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302341.md" target="_blank">法国拉乌尔特团队宣布 最新研究证实使用羟氯喹治疗新冠病毒有效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302338.md" target="_blank">NPR：冠状病毒大流行，急诊室医生害怕传染家人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md" target="_blank">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md" target="_blank">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302281.md" target="_blank">BBC记者眼中的欧洲各国抗疫与隔离</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302137.md" target="_blank">翻墙电视推荐：爱博电视软件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md" target="_blank">上海警方内部消息 曝疫情吃紧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md" target="_blank">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302126.md" target="_blank">前韩国务总理：以发源地命名病毒有意义</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302125.md" target="_blank">贵州率先复学即爆出事 一中学209人集体发烧</a></li>
 
 </ul>
 </div>
