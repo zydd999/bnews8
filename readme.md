@@ -15,14 +15,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302214.md">三峡大坝定时炸弹 首冲武汉其次中国政局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302313.md">疫情之中或过后，这10个行业或将爆发式赚钱！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302165.md">击碎谣言 美国防疫的真相是这样的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302141.md">跑在病毒前 他把2700万美元变成26亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200328/1302092.md">广东复工37家影院只卖55元绣花厂老板投河自杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302555.md" target="_blank">一张图看懂：“中共病毒”全球入侵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md" target="_blank">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302512.md" target="_blank">网友直击：湖北解除封城 安徽宿松不放行 民众打横幅抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md" target="_blank">网友直击：二次爆发？武汉又开始死人了</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md" target="_blank">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md" target="_blank">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302371.md" target="_blank">抗击疫情：德国继续接收意大利和法国重症患者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302370.md" target="_blank">无症状感染者不被列入确诊引发各方隐忧</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md" target="_blank">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302279.md" target="_blank">习近平上演惊人一幕 马云柳传志领头要放任志强？惊人大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md" target="_blank">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302237.md" target="_blank">亲共拜登顾问及好友拉里·拉斯基染疫去世</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301103.md" target="_blank">中共病毒疫情延烧 中国经济面临5大后遗症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301090.md" target="_blank">义大利右派领袖轰中共 隐匿疫情危害全人类 质疑人工研发中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1301004.md" target="_blank">川普态度强硬 北京这事哑忍 蓬佩奥首次披露中南海内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200326/1300950.md" target="_blank">李克强公然挑战习近平？胡锦涛和习近平也掰了？中纪委通报内幕涉曾庆红</a></li>
 
 </ul>
 </div>
