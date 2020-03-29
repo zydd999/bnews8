@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302887.md" target="_blank">美国科学家是否说过武汉绝不是新冠病毒源头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302886.md" target="_blank">意大利确诊感染病例“趋缓”死亡人数连续两日递减</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302885.md" target="_blank">调查显示：在华美国企业对‘复工’后前景悲观</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302884.md" target="_blank">法国军机及高速列车运送病患“大转院” 缓解东部医院紧张局面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302845.md" target="_blank">抗击新冠疫情：德国科赫研究所警告人们避免接触珍稀动物</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302843.md" target="_blank">加拿大制片人：冠状病毒揭示了北京“宣传机器”的力量</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302826.md" target="_blank">Zoom远程会议软件到底有多安全？</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302601.md" target="_blank">大疫有眼 西方政要为什么频频中招！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302600.md" target="_blank">组图：湖北返北京人员遭最严监管</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302599.md" target="_blank">湖北解封 专家：世人不信疫情“得到控制”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302564.md" target="_blank">敏感时刻王小洪特勤局亮相 放风保卫习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302555.md" target="_blank">一张图看懂：“中共病毒”全球入侵</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md" target="_blank">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302512.md" target="_blank">网友直击：湖北解除封城 安徽宿松不放行 民众打横幅抗议</a></li>
 
 </ul>
 </div>
