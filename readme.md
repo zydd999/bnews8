@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302507.md">老北京茶馆：习近平之惑：割据真开始了？员警助孙春兰扳回一局？领取装亲人盒子泄密，清零真相再曝光！（第275集/2020/03/28） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302360.md">《石涛.News》「网传：王岐山辞职相逼 朱熔基介入 任志强自由3天」政治局昨天27日开会「中南海黑云压城 难脱大劫年」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302845.md" target="_blank">抗击新冠疫情：德国科赫研究所警告人们避免接触珍稀动物</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302843.md" target="_blank">加拿大制片人：冠状病毒揭示了北京“宣传机器”的力量</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302826.md" target="_blank">Zoom远程会议软件到底有多安全？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302821.md" target="_blank">英国卫报：“他们看到了我的蓝眼睛，吓得跳开了”</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302555.md" target="_blank">一张图看懂：“中共病毒”全球入侵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md" target="_blank">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302512.md" target="_blank">网友直击：湖北解除封城 安徽宿松不放行 民众打横幅抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md" target="_blank">网友直击：二次爆发？武汉又开始死人了</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302848.md" target="_blank">“新基建”是否水月镜花 各方观点有异</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302847.md" target="_blank">中国学者“最不自由” 国际排行垫底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302846.md" target="_blank">朝鲜再次发射疑似导弹飞行器</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302825.md" target="_blank">钟南山说中国无大量无症状患者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md" target="_blank">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302823.md" target="_blank">陈志武：逆全球化加速 疫情更胜中美贸易战</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302363.md" target="_blank">武汉逐步解封 无症状感染者隐患依然存在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302297.md" target="_blank">新冠疫情蔓延 中国医疗外援为何换不到真正的信任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302292.md" target="_blank">台外长：欢迎遭中国驱逐的美籍记者来台驻点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302291.md" target="_blank">联合国全球86员工感染 禁核扩散条约检讨会延期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302290.md" target="_blank">中国成千上万家涉及民生小企业 复工开业率不理想</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302287.md" target="_blank">北京大外宣进军推特 　专家分析目前成效不彰</a></li>
 
 </ul>
 </div>
