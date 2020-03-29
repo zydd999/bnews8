@@ -10,11 +10,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/xgmyd/20200329/1302465.md">希望之声：任志强被抓继续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md">武汉市民披露重磅内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md">武汉市民披露重磅内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302761.md">孙大骆：习近平被逼宫在20大下台？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302635.md">【独家】习不会放过任志强 房产商内定成民怨替罪羊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302360.md">《石涛.News》「网传：王岐山辞职相逼 朱熔基介入 任志强自由3天」政治局昨天27日开会「中南海黑云压城 难脱大劫年」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302843.md" target="_blank">加拿大制片人：冠状病毒揭示了北京“宣传机器”的力量</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302826.md" target="_blank">Zoom远程会议软件到底有多安全？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302821.md" target="_blank">英国卫报：“他们看到了我的蓝眼睛，吓得跳开了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302819.md" target="_blank">走近意大利抗疫超级英雄</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md" target="_blank">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302512.md" target="_blank">网友直击：湖北解除封城 安徽宿松不放行 民众打横幅抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md" target="_blank">网友直击：二次爆发？武汉又开始死人了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302510.md" target="_blank">网友直击：武汉解封后医护仍全副武装 不收120普通病人</a></li>
 
 </ul>
 </div>
