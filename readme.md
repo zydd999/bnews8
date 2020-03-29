@@ -20,8 +20,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302165.md">击碎谣言 美国防疫的真相是这样的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302446.md">天亮时分：中央对地方权威下坠,党内反习势力集结,习近平日子很难过;任志强儿子和秘书被抓,对党内大佬与民营企业家上书营救的分析(政论天下第143集 20200328) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302141.md">跑在病毒前 他把2700万美元变成26亿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200328/1302092.md">广东复工37家影院只卖55元绣花厂老板投河自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302339.md">林保华&#65306;陈平发难&#65311;王岐山摊牌&#65311;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200328/1302092.md">广东复工37家影院只卖55元绣花厂老板投河自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302454.md">传上海警方内部曝疫情真实情况 直到9月也开不了学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
