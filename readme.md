@@ -5,25 +5,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302214.md">三峡大坝定时炸弹 首冲武汉其次中国政局(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302446.md">天亮时分：中央对地方权威下坠,党内反习势力集结,习近平日子很难过;任志强儿子和秘书被抓,对党内大佬与民营企业家上书营救的分析(政论天下第143集 20200328) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302313.md">疫情之中或过后，这10个行业或将爆发式赚钱！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302454.md">传上海警方内部曝疫情真实情况 直到9月也开不了学</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302564.md">敏感时刻王小洪特勤局亮相 放风保卫习近平</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200329/1302417.md">大器晚成的生肖！你家老公若是这个生肖，有朝一日可富贵，有钱更不忘宠老婆！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302339.md">林保华&#65306;陈平发难&#65311;王岐山摊牌&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/xgmyd/20200329/1302465.md">希望之声：任志强被抓继续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302332.md">宋喆入狱2年近况堪忧 前妻杨慧传来好消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302360.md">《石涛.News》「网传：王岐山辞职相逼 朱熔基介入 任志强自由3天」政治局昨天27日开会「中南海黑云压城 难脱大劫年」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md" target="_blank">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302696.md" target="_blank">中国投机滥造口罩成风 投资300万3周回本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302674.md" target="_blank">大陆新闻解读645期_严真点评+外交部大实话：要中共赔偿呼声渐起，甩锅不成战狼转向。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302636.md" target="_blank">大陆新闻解读645期_时事小品：赵妈粥店</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302469.md" target="_blank">反击中共时候已到 专家：美国应采四策略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302468.md" target="_blank">图集：疫情下的北京 时尚场所冷清乏人问津</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302462.md" target="_blank">北韩今晨再次向东海方向发射2枚短程飞弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302454.md" target="_blank">传上海警方内部曝疫情真实情况 直到9月也开不了学</a></li>
 
 </ul>
 </div>
