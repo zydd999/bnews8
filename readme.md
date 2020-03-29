@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302446.md">天亮时分：中央对地方权威下坠,党内反习势力集结,习近平日子很难过;任志强儿子和秘书被抓,对党内大佬与民营企业家上书营救的分析(政论天下第143集 20200328) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200329/1302417.md">大器晚成的生肖！你家老公若是这个生肖，有朝一日可富贵，有钱更不忘宠老婆！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302454.md">传上海警方内部曝疫情真实情况 直到9月也开不了学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302564.md">敏感时刻王小洪特勤局亮相 放风保卫习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
@@ -12,10 +11,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md">武汉市民披露重磅内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302761.md">孙大骆：习近平被逼宫在20大下台？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302635.md">【独家】习不会放过任志强 房产商内定成民怨替罪羊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302507.md">老北京茶馆：习近平之惑：割据真开始了？员警助孙春兰扳回一局？领取装亲人盒子泄密，清零真相再曝光！（第275集/2020/03/28） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302908.md" target="_blank">加拿大向老人及弱势群体提供疫情资助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302897.md" target="_blank">上海等地部分景点再度关闭 引发外界对中国疫情真实情况猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md" target="_blank">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302887.md" target="_blank">美国科学家是否说过武汉绝不是新冠病毒源头</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302626.md" target="_blank">西安地铁站百元大钞散落一地 结果….！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md" target="_blank">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302607.md" target="_blank">西安地铁出口散落大量现金 无人敢捡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302601.md" target="_blank">大疫有眼 西方政要为什么频频中招！</a></li>
 
 </ul>
 </div>
