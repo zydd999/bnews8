@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200329/1302417.md">大器晚成的生肖！你家老公若是这个生肖，有朝一日可富贵，有钱更不忘宠老婆！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302564.md">敏感时刻王小洪特勤局亮相 放风保卫习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302339.md">林保华&#65306;陈平发难&#65311;王岐山摊牌&#65311;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/xgmyd/20200329/1302465.md">希望之声：任志强被抓继续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302635.md">【独家】习不会放过任志强 房产商内定成民怨替罪羊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302507.md">老北京茶馆：习近平之惑：割据真开始了？员警助孙春兰扳回一局？领取装亲人盒子泄密，清零真相再曝光！（第275集/2020/03/28） </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md">武汉市民披露重磅内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302332.md">宋喆入狱2年近况堪忧 前妻杨慧传来好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302360.md">《石涛.News》「网传：王岐山辞职相逼 朱熔基介入 任志强自由3天」政治局昨天27日开会「中南海黑云压城 难脱大劫年」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302819.md" target="_blank">走近意大利抗疫超级英雄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302783.md" target="_blank">英国首相执政有何缺失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302776.md" target="_blank">天下大乱，对中国正是形势大好？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302774.md" target="_blank">澳洲议员：和中共走的近的人最危险</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302510.md" target="_blank">网友直击：武汉解封后医护仍全副武装 不收120普通病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302501.md" target="_blank">中共警察鬼子进村了！抢走:6头猪、4只羊、10只兔子、5斤瓜子…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302485.md" target="_blank">CDC主任：中共早期一直否定病毒会人传人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302484.md" target="_blank">中共央视造谣病毒来自美国航母 被揭漏洞百出</a></li>
 
 </ul>
 </div>
