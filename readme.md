@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302332.md">宋喆入狱2年近况堪忧 前妻杨慧传来好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302360.md">《石涛.News》「网传：王岐山辞职相逼 朱熔基介入 任志强自由3天」政治局昨天27日开会「中南海黑云压城 难脱大劫年」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302507.md">老北京茶馆：习近平之惑：割据真开始了？员警助孙春兰扳回一局？领取装亲人盒子泄密，清零真相再曝光！（第275集/2020/03/28） </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302783.md" target="_blank">英国首相执政有何缺失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302776.md" target="_blank">天下大乱，对中国正是形势大好？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302774.md" target="_blank">澳洲议员：和中共走的近的人最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302763.md" target="_blank">深圳：全面开放公共场所 口岸通关异常情况不实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md" target="_blank">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md" target="_blank">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302501.md" target="_blank">中共警察鬼子进村了！抢走:6头猪、4只羊、10只兔子、5斤瓜子…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302485.md" target="_blank">CDC主任：中共早期一直否定病毒会人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302484.md" target="_blank">中共央视造谣病毒来自美国航母 被揭漏洞百出</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302473.md" target="_blank">中共想拉拢欧盟抗美 专家：难以成功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302472.md" target="_blank">深圳湾航道疏浚工程环评涉抄袭 网友嘲讽</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302469.md" target="_blank">反击中共时候已到 专家：美国应采四策略</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md" target="_blank">武汉市民披露重磅内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md" target="_blank">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md" target="_blank">大陆“无工可复” 人民币将继续贬值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302625.md" target="_blank">疫情当前 美国大银行存款激增5000亿美元</a></li>
@@ -87,13 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301574.md" target="_blank">任志强案引发中南海大乱？“比任总公开信之事严重千倍” 王岐山朱镕基汪洋都卷入？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301377.md" target="_blank">川习通电再谈贸易战 川普道破中共如意算盘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200327/1301370.md" target="_blank">川习通话中 川普质疑中国检测数字</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302782.md" target="_blank">官媒为医疗物资不达标辩护　不应将问题上纲上线</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302781.md" target="_blank">国家卫健委认为　中国本土疫情传播已基本阻断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302728.md" target="_blank">澳洲议员：我们永远不应再相信中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302766.md" target="_blank">世卫高官受港媒采访涉台湾问题疑刻意回避</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302765.md" target="_blank">中国输外抗疫产品再触礁　 荷兰召回60万个不达标口罩</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302225.md" target="_blank">台湾邀请被北京驱逐的美国三大报记者到台湾工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1302041.md" target="_blank">美中“媒体战”或再升级 华盛顿拟驱逐在美官媒“间谍”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301969.md" target="_blank">追责中国！美国会共和党领袖：美中关系回不去了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301956.md" target="_blank">疫情缓解后中国经济复苏将是V型还是U型？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200328/1301949.md" target="_blank">白宫拟禁止使用美国设备的芯片商与华为往来 台积电恐受波及</a></li>
 
 </ul>
 </div>
