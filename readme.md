@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302091.md">4千亿蝗虫直逼中国 犹如186艘航空母舰横扫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302056.md">擦肩而过几秒就感染 42岁亚裔回忆可怕经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302279.md">习近平上演惊人一幕 马云柳传志领头要放任志强？惊人大逆转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302146.md">中共病毒是怎么登上美军航母的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md">“归零”？湖北开通的火车站又出现重症病人</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302214.md">三峡大坝定时炸弹 首冲武汉其次中国政局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302078.md">江峰：马云、柳传志民企大家上书，李瑞环、温家宝五老上书，中共政权飘零；川习通话，川普被骗背书习近平？美国两万亿救济金让权贵走开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302313.md">疫情之中或过后，这10个行业或将爆发式赚钱！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1301993.md">“死了几万人 这是谋杀” 武汉人领骨灰泣诉：追究凶手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302165.md">击碎谣言 美国防疫的真相是这样的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302313.md">疫情之中或过后，这10个行业或将爆发式赚钱！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302127.md">成立三个新的小组！美国务院：我们有专门部门评估中共虚假宣传</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302165.md">击碎谣言 美国防疫的真相是这样的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302141.md">跑在病毒前 他把2700万美元变成26亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200328/1302092.md">广东复工37家影院只卖55元绣花厂老板投河自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
