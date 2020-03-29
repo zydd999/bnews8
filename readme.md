@@ -15,13 +15,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/xgmyd/20200329/1302465.md">希望之声：任志强被抓继续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302332.md">宋喆入狱2年近况堪忧 前妻杨慧传来好消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302360.md">《石涛.News》「网传：王岐山辞职相逼 朱熔基介入 任志强自由3天」政治局昨天27日开会「中南海黑云压城 难脱大劫年」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302320.md">彭博社：武汉大批骨灰盒引发对中国死亡人数质疑</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md" target="_blank">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md" target="_blank">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302696.md" target="_blank">中国投机滥造口罩成风 投资300万3周回本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302674.md" target="_blank">大陆新闻解读645期_严真点评+外交部大实话：要中共赔偿呼声渐起，甩锅不成战狼转向。</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302472.md" target="_blank">深圳湾航道疏浚工程环评涉抄袭 网友嘲讽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302469.md" target="_blank">反击中共时候已到 专家：美国应采四策略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302468.md" target="_blank">图集：疫情下的北京 时尚场所冷清乏人问津</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302462.md" target="_blank">北韩今晨再次向东海方向发射2枚短程飞弹</a></li>
 
 </ul>
 </div>
