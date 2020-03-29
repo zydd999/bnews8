@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302129.md">上海警方内部消息 曝疫情吃紧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302279.md">习近平上演惊人一幕 马云柳传志领头要放任志强？惊人大逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302204.md">湖北江西警察爆冲突 网民调侃：“你湖北怎么能骗的了我们江西官员啊？”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302282.md">习近平G20上演惊人一幕 马云领头要放任志强？大逆转</a></li>
@@ -10,20 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302239.md">关系大变 川普这样对习近平 中南海精准定位新战略武器 分析：三次世界大战已经开打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302149.md">“归零”？湖北开通的火车站又出现重症病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302446.md">天亮时分：中央对地方权威下坠,党内反习势力集结,习近平日子很难过;任志强儿子和秘书被抓,对党内大佬与民营企业家上书营救的分析(政论天下第143集 20200328) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302132.md">孙春兰再视察武汉 这次居民楼传出了肉麻口号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302372.md">陈破空：副总理因何事大笑？王沪宁指控官员：对习近平失去信仰！北朝鲜金氏神药 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200328/1302214.md">三峡大坝定时炸弹 首冲武汉其次中国政局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302313.md">疫情之中或过后，这10个行业或将爆发式赚钱！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302454.md">传上海警方内部曝疫情真实情况 直到9月也开不了学</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302156.md">“假的 假的 都是假的！” 孙春兰武汉再视察…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200328/1302195.md">大陆医学专家承认：无症状感染者越来越多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302165.md">击碎谣言 美国防疫的真相是这样的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302339.md">林保华&#65306;陈平发难&#65311;王岐山摊牌&#65311;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200328/1302141.md">跑在病毒前 他把2700万美元变成26亿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200329/1302417.md">大器晚成的生肖！你家老公若是这个生肖，有朝一日可富贵，有钱更不忘宠老婆！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200329/1302448.md">一剑飘尘&#65306;五十多位企业家致习近平的信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302334.md">昔日“好声音”顶流吴莫愁 沦落到在县城舞台商演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302377.md">大西洋：北京炫耀胜利带来的问题</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200329/1302317.md">77岁英国演员自曝他在一年多以前就染上了冠状病毒</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
