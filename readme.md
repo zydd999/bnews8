@@ -13,14 +13,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302898.md">美国美女宇航员临终前惊爆惊天内幕！上太空竟惨遭外星人蹂躏，隔天竟被外星人送回地球！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302607.md">西安地铁出口散落大量现金 无人敢捡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303216.md" target="_blank">地狱景象：网络热传《武汉殡葬工自述》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303199.md" target="_blank">川普亲述纽约医院惨状:从未见过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md" target="_blank">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303007.md" target="_blank">中共继续隐瞒疫情 零确诊谎言欺骗人民</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302845.md" target="_blank">抗击新冠疫情：德国科赫研究所警告人们避免接触珍稀动物</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302843.md" target="_blank">加拿大制片人：冠状病毒揭示了北京“宣传机器”的力量</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302826.md" target="_blank">Zoom远程会议软件到底有多安全？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302821.md" target="_blank">英国卫报：“他们看到了我的蓝眼睛，吓得跳开了”</a></li>
 
 </ul>
 </div>
