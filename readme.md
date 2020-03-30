@@ -13,16 +13,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303355.md" target="_blank">武汉肺炎大事记：中共得负责，证据在这里</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303353.md" target="_blank">中国无症状感染危机四伏  习近平赴浙江考察促复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303345.md" target="_blank">中国重启特别国债 预计发行规模达4万亿元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303317.md" target="_blank">新冠肆虐全球中共内外宣力避追责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303154.md" target="_blank">武汉病毒：中国在美国遭起诉，却反诉这是「美国」病毒</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302728.md" target="_blank">澳洲议员：我们永远不应再相信中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302766.md" target="_blank">世卫高官受港媒采访涉台湾问题疑刻意回避</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302765.md" target="_blank">中国输外抗疫产品再触礁　 荷兰召回60万个不达标口罩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302367.md" target="_blank">追责中共：中共对美国人的健康和生活方式构成威胁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302366.md" target="_blank">武汉机场即将复飞国内航班 全国电影院突暂停复业</a></li>
 
 </ul>
 </div>
