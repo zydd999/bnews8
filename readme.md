@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302761.md">孙大骆：习近平被逼宫在20大下台？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302533.md">他靠告密出卖方励之而成“国家领导人” 胡耀邦被牵连</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302635.md">【独家】习不会放过任志强 房产商内定成民怨替罪羊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302607.md">西安地铁出口散落大量现金 无人敢捡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302624.md">5分钟测定是否感染中共肺炎 已获美FDA认可</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303199.md" target="_blank">川普亲述纽约医院惨状:从未见过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md" target="_blank">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303007.md" target="_blank">中共继续隐瞒疫情 零确诊谎言欺骗人民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302993.md" target="_blank">警醒！站在悬崖边上的人…</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302843.md" target="_blank">加拿大制片人：冠状病毒揭示了北京“宣传机器”的力量</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302826.md" target="_blank">Zoom远程会议软件到底有多安全？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302821.md" target="_blank">英国卫报：“他们看到了我的蓝眼睛，吓得跳开了”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302819.md" target="_blank">走近意大利抗疫超级英雄</a></li>
 
 </ul>
 </div>
