@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302635.md">【独家】习不会放过任志强 房产商内定成民怨替罪羊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302507.md">老北京茶馆：习近平之惑：割据真开始了？员警助孙春兰扳回一局？领取装亲人盒子泄密，清零真相再曝光！（第275集/2020/03/28） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302607.md">西安地铁出口散落大量现金 无人敢捡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302624.md">5分钟测定是否感染中共肺炎 已获美FDA认可</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302972.md" target="_blank">疫情未除 经济形势不妙 习近平去浙江催动复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302954.md" target="_blank">法学家:病毒流行对中共追责 可索赔上万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302953.md" target="_blank">外国人隔离享受超国民待遇 引发中国人不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302952.md" target="_blank">商业内幕：英政府对北京或谎报中国疫情严重程度愤怒</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302776.md" target="_blank">天下大乱，对中国正是形势大好？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302774.md" target="_blank">澳洲议员：和中共走的近的人最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302763.md" target="_blank">深圳：全面开放公共场所 口岸通关异常情况不实</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md" target="_blank">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302967.md" target="_blank">被令签保密协议不得泄实情 武汉肺炎抗疫医护人员述遭遇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302871.md" target="_blank">中国劣质口罩: 荷兰回收 法囯忧心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302848.md" target="_blank">“新基建”是否水月镜花 各方观点有异</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302847.md" target="_blank">中国学者“最不自由” 国际排行垫底</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302365.md" target="_blank">全球确诊逾60万人 世卫将启动4种药物临床试验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302364.md" target="_blank">特朗普总统签署《台北法案》 中国国台办：阻挡不了国家统一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302363.md" target="_blank">武汉逐步解封 无症状感染者隐患依然存在</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302297.md" target="_blank">新冠疫情蔓延 中国医疗外援为何换不到真正的信任？</a></li>
 
 </ul>
 </div>
