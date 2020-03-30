@@ -7,9 +7,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303308.md">突发！湖南郴州重大火车事故 官方称零死亡 网民：又在撒谎！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
@@ -19,6 +18,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303489.md">习近平下个目标定了是他？ 李强胡春华内定接班靠谱？ 任志强被急救？五老有下文？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md">澳媒爆料：“发哨人”艾芬失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303266.md">武汉肺炎又有新后遗症 或带来致命后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
