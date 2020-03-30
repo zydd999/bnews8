@@ -1,8 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md">武汉市民披露重磅内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302761.md">孙大骆：习近平被逼宫在20大下台？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
@@ -16,14 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302696.md">中国投机滥造口罩成风 投资300万3周回本</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303269.md" target="_blank">希望之声：一天500骨灰盒连发半年？武汉居民爆惊人内情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303264.md" target="_blank">真的假的？ 钟南山推断：中国没有大量&quot;无症状感染者&quot;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md" target="_blank">澳媒爆料：“发哨人”艾芬失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303262.md" target="_blank">感染源不明 河南出现3名无症状患者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303261.md" target="_blank">这些人间惨剧 看完令人泪奔！如果中共不隐瞒疫情 也许都不会发生…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303260.md" target="_blank">澳洲议员：和中共走得近的人最危险</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302948.md" target="_blank">&quot;警察让我打开保险柜 包括珠宝、现金、手表等在内大约有百万美金&#8230;&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302947.md" target="_blank">英国首相严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md" target="_blank">武汉多地再增确诊病例 中共持续造假</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302921.md" target="_blank">费加罗报：中国如何利用病毒反攻？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302918.md" target="_blank">“每天都生活在恐惧中”：冠状病毒时代的法国葬礼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302908.md" target="_blank">加拿大向老人及弱势群体提供疫情资助</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303268.md" target="_blank">中共病毒再曝狡猾之处 隐形病人和重症患者又添变数！(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md" target="_blank">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md" target="_blank">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md" target="_blank">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301870.md" target="_blank">港人梦魇！1997年亚洲金融风暴征兆乍现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md" target="_blank">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301719.md" target="_blank">纽时：美官员拟推动驱逐涉间谍工作中共媒体雇员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301700.md" target="_blank">中共病毒烧到客户！中企出口欧美订单急速萎缩、内外交迫</a></li>
 
 </ul>
 </div>
