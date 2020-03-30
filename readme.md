@@ -12,17 +12,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303400.md" target="_blank">被指以抗疫扩张影响力 华春莹：难道希望中国无动于衷、见死不救？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303385.md" target="_blank">郝柏村去世 郝龙斌: 父亲临走无遗憾愿台湾和平安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303382.md" target="_blank">台湾行政院前院长郝柏村辞世享年101岁疫情严峻婉谢吊唁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303372.md" target="_blank">滞留秘鲁台湾人大多已离开  80名滞留港人继续痴等一人因武肺客死异乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303371.md" target="_blank">日本著名笑星志村健感染新冠去世</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303262.md" target="_blank">感染源不明 河南出现3名无症状患者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303261.md" target="_blank">这些人间惨剧 看完令人泪奔！如果中共不隐瞒疫情 也许都不会发生…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303260.md" target="_blank">澳洲议员：和中共走得近的人最危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303255.md" target="_blank">“它撒谎 它掩盖” 澳洲议员：我们永远不应该再相信中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303239.md" target="_blank">看清中共邪恶 “三退”自救</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303389.md" target="_blank">台湾称曾准备一万件防护服捐给中国大陆但被拒绝</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303388.md" target="_blank">邓炳强称得大学生敬重　认为下一代都有希望</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303387.md" target="_blank">香港单日新增41宗确诊　港府拟派飞机接载滞留秘鲁和摩洛哥港人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303386.md" target="_blank">【耳边风】武汉人封城期间狂写段子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303377.md" target="_blank">新冠病毒疫情中心武汉解封 当局推金融政策救助经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303375.md" target="_blank">台湾前行政院长郝柏村逝世　跟李登辉恩怨情仇画下句号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303362.md" target="_blank">世卫高官挂电话避答台湾议题  央视评论斥港记提问居心叵测</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302801.md" target="_blank">贵州复课高中200学生集体腹泻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302798.md" target="_blank">世卫助理总干事接受专访 疑回避台湾世卫资格问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302797.md" target="_blank">上海重新关闭诸多观光场所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302793.md" target="_blank">深圳市向香港送赠50万个儿童口罩　质量是否达标有待调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302792.md" target="_blank">防疫措施演变成冲突　南非警射橡胶子弹驱散集结民众</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302786.md" target="_blank">美中各自加紧海上军事演练 南中国海军事较劲升级</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302782.md" target="_blank">官媒为医疗物资不达标辩护　不应将问题上纲上线</a></li>
 
 </ul>
 </div>
