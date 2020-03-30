@@ -5,25 +5,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302761.md">孙大骆：习近平被逼宫在20大下台？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md">大陆“无工可复” 人民币将继续贬值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302635.md">【独家】习不会放过任志强 房产商内定成民怨替罪羊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302898.md">美国美女宇航员临终前惊爆惊天内幕！上太空竟惨遭外星人蹂躏，隔天竟被外星人送回地球！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302696.md">中国投机滥造口罩成风 投资300万3周回本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302696.md">中国投机滥造口罩成风 投资300万3周回本</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302703.md">汶川地震灵异事件：石头中的半张脸 央视主持人的孩子说自己是北川人</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303278.md" target="_blank">“重点”人物 “610”警察动用部队特务连三十余人设局诱捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303269.md" target="_blank">希望之声：一天500骨灰盒连发半年？武汉居民爆惊人内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303264.md" target="_blank">真的假的？ 钟南山推断：中国没有大量&quot;无症状感染者&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md" target="_blank">澳媒爆料：“发哨人”艾芬失联</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302952.md" target="_blank">商业内幕：英政府对北京或谎报中国疫情严重程度愤怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302948.md" target="_blank">&quot;警察让我打开保险柜 包括珠宝、现金、手表等在内大约有百万美金&#8230;&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302947.md" target="_blank">英国首相严厉谴责中共疫情造假 或取消华为5G合作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md" target="_blank">武汉多地再增确诊病例 中共持续造假</a></li>
 
 </ul>
 </div>
