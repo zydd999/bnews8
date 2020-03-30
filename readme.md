@@ -14,8 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302898.md">美国美女宇航员临终前惊爆惊天内幕！上太空竟惨遭外星人蹂躏，隔天竟被外星人送回地球！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303239.md" target="_blank">看清中共邪恶 “三退”自救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303238.md" target="_blank">深圳惊传中学女生坠楼双尸案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md" target="_blank">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md" target="_blank">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303230.md" target="_blank">习考察浙江当天 上海宣布重新关闭三大地标建筑 出啥事了？</a></li>
@@ -55,14 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md" target="_blank">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302887.md" target="_blank">美国科学家是否说过武汉绝不是新冠病毒源头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302886.md" target="_blank">意大利确诊感染病例“趋缓”死亡人数连续两日递减</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302885.md" target="_blank">调查显示：在华美国企业对‘复工’后前景悲观</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302884.md" target="_blank">法国军机及高速列车运送病患“大转院” 缓解东部医院紧张局面</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md" target="_blank">实在看不下去！杜汶泽痛批这舔共老头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md" target="_blank">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md" target="_blank">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md" target="_blank">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md" target="_blank">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301807.md" target="_blank">美中关系变微妙 川普让习近平等90分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301719.md" target="_blank">纽时：美官员拟推动驱逐涉间谍工作中共媒体雇员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301700.md" target="_blank">中共病毒烧到客户！中企出口欧美订单急速萎缩、内外交迫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301694.md" target="_blank">武汉医生痛连医护都不给确诊 中共调大量外省警察增援监狱 上海急！江苏医疗队驰援</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301693.md" target="_blank">英女嫌台湾隔离像监狱被骂翻 BBC删除报导</a></li>
 
 </ul>
 </div>
