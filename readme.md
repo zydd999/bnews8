@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302564.md">敏感时刻王小洪特勤局亮相 放风保卫习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/xgmyd/20200329/1302465.md">希望之声：任志强被抓继续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302773.md">武汉市民披露重磅内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
@@ -21,6 +20,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302607.md">西安地铁出口散落大量现金 无人敢捡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302624.md">5分钟测定是否感染中共肺炎 已获美FDA认可</a></li>
@@ -32,6 +32,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302954.md" target="_blank">法学家:病毒流行对中共追责 可索赔上万亿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302953.md" target="_blank">外国人隔离享受超国民待遇 引发中国人不满</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302952.md" target="_blank">商业内幕：英政府对北京或谎报中国疫情严重程度愤怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302948.md" target="_blank">&quot;警察让我打开保险柜 包括珠宝、现金、手表等在内大约有百万美金&#8230;&quot;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302947.md" target="_blank">英国首相严厉谴责中共疫情造假 或取消华为5G合作</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md" target="_blank">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302921.md" target="_blank">费加罗报：中国如何利用病毒反攻？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302918.md" target="_blank">“每天都生活在恐惧中”：冠状病毒时代的法国葬礼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302908.md" target="_blank">加拿大向老人及弱势群体提供疫情资助</a></li>
@@ -51,12 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302774.md" target="_blank">澳洲议员：和中共走的近的人最危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302763.md" target="_blank">深圳：全面开放公共场所 口岸通关异常情况不实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md" target="_blank">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302706.md" target="_blank">Twitter拒绝删除中共散播假消息账户因“公众人物”言论可豁免</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302696.md" target="_blank">中国投机滥造口罩成风 投资300万3周回本</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302674.md" target="_blank">大陆新闻解读645期_严真点评+外交部大实话：要中共赔偿呼声渐起，甩锅不成战狼转向。</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302636.md" target="_blank">大陆新闻解读645期_时事小品：赵妈粥店</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md" target="_blank">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302626.md" target="_blank">西安地铁站百元大钞散落一地 结果….！</a></li>
 
 </ul>
 </div>
