@@ -11,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303489.md">习近平下个目标定了是他？ 李强胡春华内定接班靠谱？ 任志强被急救？五老有下文？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1303413.md">【独家】安徽官员最新调研：大饥荒、大萧条、大崩溃将临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1302942.md">变脸始祖？ 为武汉立过功的人都栽了 请保持警惕</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md" target="_blank">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303644.md" target="_blank">武汉到底多少人死于新冠疫情  法国媒体集体质疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303641.md" target="_blank">文昭：“赳赳老秦，共赴国难”在美国！追责中共新“八国联军”呼之欲出；大时大事的逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303634.md" target="_blank">微电影《希望的声音》（武汉肺炎）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303622.md" target="_blank">世卫：新冠病毒气溶胶传播科学发现需审慎解读</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303621.md" target="_blank">意大利预期7到10天后达到峰值 西班牙祭出更严厉限行措施：禁止举行葬礼</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md" target="_blank">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303275.md" target="_blank">古人对瘟疫的理解与做法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303276.md" target="_blank">女子的柔顺与女汉子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303400.md" target="_blank">被指以抗疫扩张影响力 华春莹：难道希望中国无动于衷、见死不救？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303385.md" target="_blank">郝柏村去世 郝龙斌: 父亲临走无遗憾愿台湾和平安全</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303382.md" target="_blank">台湾行政院前院长郝柏村辞世享年101岁疫情严峻婉谢吊唁</a></li>
 
 </ul>
 </div>
