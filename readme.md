@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303308.md">突发！湖南郴州重大火车事故 官方称零死亡 网民：又在撒谎！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303593.md" target="_blank">专栏 | 夜话中南海：愿整个世界都将会对中共政治病毒群体免疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303581.md" target="_blank">湖北“健康码”受质疑 咸宁男子在兰州确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303572.md" target="_blank">新冠病毒我们至今不知的五件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303552.md" target="_blank">影片曝光！湖南惊传火车脱轨 多节车厢翻覆、车头起火</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303371.md" target="_blank">日本著名笑星志村健感染新冠去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303365.md" target="_blank">《金融时报》揭：武汉有医院收120名病人却全无通报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md" target="_blank">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303358.md" target="_blank">袁国勇︰香港疫情「少少失控」</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303594.md" target="_blank">中国物资品质受质疑  加拿大政府称将严格检验</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303591.md" target="_blank">五角大楼：会利用《国防生产法》减少美军对中国药品高度依赖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303587.md" target="_blank">贛鄂公安桥头开打  受歧视的湖北人震怒了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303586.md" target="_blank">中国疫情数字成谜    七十年的数据政治学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303577.md" target="_blank">捷克警方没收口罩 媒体追踪中共关系人</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303423.md" target="_blank">华春莹指中方收到援助物资也些不合格的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303417.md" target="_blank">中国向欧洲出口医防用品质量低劣重创“抗疫外交”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303411.md" target="_blank">约翰逊政府对中国感愤怒　或改变容许华为替英开发5G决定</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303410.md" target="_blank">湖南火车脱轨侧翻最少1死127人伤　短片显示有人清理死亡者尸体</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303356.md" target="_blank">湖南列车脱轨 多节车厢翻覆 车头起火</a></li>
 
 </ul>
 </div>
