@@ -14,8 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303567.md" target="_blank">《刘晓波纪念文集》英文版将在美国出版</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303518.md" target="_blank">各国纷禁粮食出口 中国面临粮荒？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303517.md" target="_blank">河南再现本土病例 无症状感染拉警报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303516.md" target="_blank">湖南郴州火车侧翻起火 造成人员死伤</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303387.md" target="_blank">香港单日新增41宗确诊　港府拟派飞机接载滞留秘鲁和摩洛哥港人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303386.md" target="_blank">【耳边风】武汉人封城期间狂写段子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303377.md" target="_blank">新冠病毒疫情中心武汉解封 当局推金融政策救助经济</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303375.md" target="_blank">台湾前行政院长郝柏村逝世　跟李登辉恩怨情仇画下句号</a></li>
 
 </ul>
 </div>
