@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302804.md">上海大爆发？不确诊只隔离 11家酒店被征用？派出所：开学要到9月份</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302898.md">美国美女宇航员临终前惊爆惊天内幕！上太空竟惨遭外星人蹂躏，隔天竟被外星人送回地球！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1302942.md">变脸始祖？ 为武汉立过功的人都栽了 请保持警惕</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303327.md" target="_blank">武汉肺炎》说一套做一套 美参议员痛批：中共仍在说谎</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303322.md" target="_blank">大疫下 政法委下令迫害法轮功 骚扰绑架多人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303321.md" target="_blank">大陆列车湖南发生事故 车厢翻覆 车头起火官方隐瞒死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303313.md" target="_blank">大肿脸充胖子！ 疫情期间中共向非洲“撒粮”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303298.md" target="_blank">武汉人：手捧的骨灰在催我追责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303294.md" target="_blank">秦岭违建别墅无视习近平 陕西五虎再遭点名</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303216.md" target="_blank">地狱景象：网络热传《武汉殡葬工自述》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303199.md" target="_blank">川普亲述纽约医院惨状:从未见过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md" target="_blank">红二代戴方明染中共病毒去世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303007.md" target="_blank">中共继续隐瞒疫情 零确诊谎言欺骗人民</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302993.md" target="_blank">警醒！站在悬崖边上的人…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302992.md" target="_blank">【现场视频】大连街头再现人倒地不起(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md" target="_blank">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303308.md" target="_blank">突发！湖南郴州重大火车事故 官方称零死亡 网民：又在撒谎！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md" target="_blank">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md" target="_blank">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302237.md" target="_blank">亲共拜登顾问及好友拉里·拉斯基染疫去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302148.md" target="_blank">习近平最后的机会来了！为何这些国家疫情轻？两岸对比 华人之光连连突破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1302135.md" target="_blank">中共病毒/西班牙王室成员“红色公主” 离世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200328/1301882.md" target="_blank">野村警告：疫情拖累外贸 中国恐1800万人失业</a></li>
 
 </ul>
 </div>
