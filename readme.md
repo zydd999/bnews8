@@ -7,19 +7,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302898.md">美国美女宇航员临终前惊爆惊天内幕！上太空竟惨遭外星人蹂躏，隔天竟被外星人送回地球！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200329/1302787.md">中国面临疫情再次爆发 民众需自救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302891.md">朋友关系再好 也别暴露这4个隐私 容易被抓住软肋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303365.md" target="_blank">《金融时报》揭：武汉有医院收120名病人却全无通报</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md" target="_blank">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303358.md" target="_blank">袁国勇︰香港疫情「少少失控」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md" target="_blank">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303327.md" target="_blank">武汉肺炎》说一套做一套 美参议员痛批：中共仍在说谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303322.md" target="_blank">大疫下 政法委下令迫害法轮功 骚扰绑架多人</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303238.md" target="_blank">深圳惊传中学女生坠楼双尸案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md" target="_blank">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md" target="_blank">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303230.md" target="_blank">习考察浙江当天 上海宣布重新关闭三大地标建筑 出啥事了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303216.md" target="_blank">地狱景象：网络热传《武汉殡葬工自述》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303199.md" target="_blank">川普亲述纽约医院惨状:从未见过</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303362.md" target="_blank">世卫高官挂电话避答台湾议题  央视评论斥港记提问居心叵测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303361.md" target="_blank">澳媒：「发哨人」艾芬失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303355.md" target="_blank">武汉肺炎大事记：中共得负责，证据在这里</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303353.md" target="_blank">中国无症状感染危机四伏  习近平赴浙江考察促复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303345.md" target="_blank">中国重启特别国债 预计发行规模达4万亿元</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302782.md" target="_blank">官媒为医疗物资不达标辩护　不应将问题上纲上线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302781.md" target="_blank">国家卫健委认为　中国本土疫情传播已基本阻断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302728.md" target="_blank">澳洲议员：我们永远不应再相信中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302766.md" target="_blank">世卫高官受港媒采访涉台湾问题疑刻意回避</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200329/1302765.md" target="_blank">中国输外抗疫产品再触礁　 荷兰召回60万个不达标口罩</a></li>
 
 </ul>
 </div>
