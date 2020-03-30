@@ -7,15 +7,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1302868.md">诡！大批蝙蝠集体暴毙坠地引恐慌：圣经预言末日场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302824.md">习近平浙江巡视复工复产 并不轻松</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303308.md">突发！湖南郴州重大火车事故 官方称零死亡 网民：又在撒谎！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302854.md">中国失业潮下消费者违约潮浮现 彭博：恐蔓延全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md">澳媒爆料：“发哨人”艾芬失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303474.md" target="_blank">中国厂商扬言“製假测温枪害美国人”   事后称出于“爱国情怀”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303473.md" target="_blank">患脑退化退休学者疑因转载肺炎资讯遭刑拘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303472.md" target="_blank">《刘晓波纪念文集》英文版将在美国发行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303468.md" target="_blank">东莞厂商扬言制假测温枪害美国人　事后道歉称出于「爱国情怀」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303436.md" target="_blank">从口罩抢购到粮食囤积：中国舆情和媒体导向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303435.md" target="_blank">疫情之下大陆资金链断裂：由高尔夫球场会员会籍开始？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303424.md" target="_blank">三百多名滞鄂台胞经上海返台</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303345.md" target="_blank">中国重启特别国债 预计发行规模达4万亿元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303317.md" target="_blank">新冠肆虐全球中共内外宣力避追责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303154.md" target="_blank">武汉病毒：中国在美国遭起诉，却反诉这是「美国」病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302967.md" target="_blank">被令签保密协议不得泄实情 武汉肺炎抗疫医护人员述遭遇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302871.md" target="_blank">中国劣质口罩: 荷兰回收 法囯忧心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302848.md" target="_blank">“新基建”是否水月镜花 各方观点有异</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1302847.md" target="_blank">中国学者“最不自由” 国际排行垫底</a></li>
 
 </ul>
 </div>
