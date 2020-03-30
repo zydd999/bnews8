@@ -1,8 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302896.md">陈破空：大事情！习近平顶不住了，接班人出炉！副主席发挥关键作用。全球退货中国 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200330/1302898.md">美国美女宇航员临终前惊爆惊天内幕！上太空竟惨遭外星人蹂躏，隔天竟被外星人送回地球！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302911.md">中国疫情趋缓都是假？上海三大地标突宣布重新关闭</a></li>
@@ -14,16 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303489.md">习近平下个目标定了是他？ 李强胡春华内定接班靠谱？ 任志强被急救？五老有下文？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md">澳媒爆料：“发哨人”艾芬失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303266.md">武汉肺炎又有新后遗症 或带来致命后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1303413.md">【独家】安徽官员最新调研：大饥荒、大萧条、大崩溃将临</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/wenxuesj/20200330/1302906.md">殡葬工自述武汉封城期间的经历：凄惨</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303634.md" target="_blank">微电影《希望的声音》（武汉肺炎）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303622.md" target="_blank">世卫：新冠病毒气溶胶传播科学发现需审慎解读</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303621.md" target="_blank">意大利预期7到10天后达到峰值 西班牙祭出更严厉限行措施：禁止举行葬礼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303620.md" target="_blank">法国新冠死亡创单日新高  “法中空中桥梁”：850万只医用口罩运抵巴黎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303593.md" target="_blank">专栏 | 夜话中南海：愿整个世界都将会对中共政治病毒群体免疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303581.md" target="_blank">湖北“健康码”受质疑 咸宁男子在兰州确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303572.md" target="_blank">新冠病毒我们至今不知的五件事</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303400.md" target="_blank">被指以抗疫扩张影响力 华春莹：难道希望中国无动于衷、见死不救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303385.md" target="_blank">郝柏村去世 郝龙斌: 父亲临走无遗憾愿台湾和平安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303382.md" target="_blank">台湾行政院前院长郝柏村辞世享年101岁疫情严峻婉谢吊唁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303372.md" target="_blank">滞留秘鲁台湾人大多已离开  80名滞留港人继续痴等一人因武肺客死异乡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303371.md" target="_blank">日本著名笑星志村健感染新冠去世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303365.md" target="_blank">《金融时报》揭：武汉有医院收120名病人却全无通报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md" target="_blank">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
 
 </ul>
 </div>
