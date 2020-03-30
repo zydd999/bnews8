@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302511.md">网友直击：二次爆发？武汉又开始死人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302564.md">敏感时刻王小洪特勤局亮相 放风保卫习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302454.md">传上海警方内部曝疫情真实情况 直到9月也开不了学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200329/1302631.md">没想到第三次世界大战就这样开始 我们瞬间看到美军的实力！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/xgmyd/20200329/1302465.md">希望之声：任志强被抓继续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302629.md">赣鄂“内战” 透露了北京一个不可告人的秘密</a></li>
@@ -16,14 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302695.md">翠西为何被解雇刘欣狠踩 美确诊破12万 1/3在纽约 抗疫抗左 川普民调节节升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200329/1302507.md">老北京茶馆：习近平之惑：割据真开始了？员警助孙春兰扳回一局？领取装亲人盒子泄密，清零真相再曝光！（第275集/2020/03/28） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302513.md">网友直击：湖北进入河南高速遭封堵 湖北人无法北上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302796.md">捷克突袭中共侨领仓库收割N95 武肺源头在那？武汉人揭秘 习近平心腹出面要求维护他</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md">偶然？必然？疫情最严重的国家竟然都是...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302554.md">750家破产 10万家注销大陆企业复工谈何容易</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302612.md">网传视频集：上海造币厂发生大火！浓烟滚滚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302713.md">外出后需要换洗衣服吗？专家建议这样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302733.md">钟南山：推断中国无大量无症状感染者 国家卫健委：本土疫情传播基本阻挡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200329/1302685.md">美国最新重要研究：新冠病毒在轻症时传染性最强 随着病情发展传染可能减弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200329/1302607.md">西安地铁出口散落大量现金 无人敢捡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302624.md">5分钟测定是否感染中共肺炎 已获美FDA认可</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
