@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md">澳媒爆料：“发哨人”艾芬失联</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1303413.md">【独家】安徽官员最新调研：大饥荒、大萧条、大崩溃将临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303266.md">武汉肺炎又有新后遗症 或带来致命后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1303413.md">【独家】安徽官员最新调研：大饥荒、大萧条、大崩溃将临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1302946.md">武汉多地再增确诊病例 中共持续造假</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1302942.md">变脸始祖？ 为武汉立过功的人都栽了 请保持警惕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303293.md">科学家发现中共病毒传播新途径 上厕所要小心了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
