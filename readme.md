@@ -4,14 +4,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303652.md">任志强朋友致北京市委公开信（3月30日）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md">难得今天有个大好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303574.md">徐少骅&#65306;红二代里应外合围堵习近平&#65292;美国索偿随时演变成热战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303892.md">一个更大的感染群体 成北京高度机密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md">还敢笑话美国？中国失业人口或达两亿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303572.md">新冠病毒我们至今不知的五件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303921.md">警惕！疫情二次大爆发就在眼前 如何甩锅已内定！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303510.md">宝胜视频：任志强释放出来了，照片为证？国内大学生张文斌和公民赵凯无畏喊出“共产党下课、习近平下课”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304006.md">任志强被抓 企业界行动了 党内倒习党外倒共风起云涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
