@@ -3,27 +3,27 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303489.md">习近平下个目标定了是他？ 李强胡春华内定接班靠谱？ 任志强被急救？五老有下文？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303652.md">任志强朋友致北京市委公开信（3月30日）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md">难得今天有个大好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303574.md">徐少骅&#65306;红二代里应外合围堵习近平&#65292;美国索偿随时演变成热战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303892.md">一个更大的感染群体 成北京高度机密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md">难得今天有个大好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303892.md">一个更大的感染群体 成北京高度机密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303572.md">新冠病毒我们至今不知的五件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md">还敢笑话美国？中国失业人口或达两亿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303921.md">警惕！疫情二次大爆发就在眼前 如何甩锅已内定！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303510.md">宝胜视频：任志强释放出来了，照片为证？国内大学生张文斌和公民赵凯无畏喊出“共产党下课、习近平下课”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303642.md">新冠治愈者自述：煎熬才刚开始</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304006.md">任志强被抓 企业界行动了 党内倒习党外倒共风起云涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303590.md">〖兲朝浮世绘〗不骗就不是中共 只为了保持拥有酒池肉林的权力</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304020.md">宝胜突发快评：任志强真的出来了！形势对习越来越不利、习地位危急！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md" target="_blank">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md" target="_blank">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md" target="_blank">难得今天有个大好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md" target="_blank">还敢笑话美国？中国失业人口或达两亿！</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302675.md" target="_blank">大陆“无工可复” 人民币将继续贬值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302625.md" target="_blank">疫情当前 美国大银行存款激增5000亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302624.md" target="_blank">5分钟测定是否感染中共肺炎 已获美FDA认可</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200329/1302616.md" target="_blank">偶然？必然？疫情最严重的国家竟然都是&#8230;</a></li>
 
 </ul>
 </div>
