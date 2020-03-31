@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303652.md">任志强朋友致北京市委公开信（3月30日）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md">难得今天有个大好消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303892.md">一个更大的感染群体 成北京高度机密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
@@ -20,10 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303850.md">耿爽和中共元老耿飚有关系？曝外交部上位套路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303966.md">习近平亲自指令外交官以战狼态度回应西方</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303931.md">X博士｜溃败北漂青年们正在闲鱼抛售所有家当</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
