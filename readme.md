@@ -13,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md">澳媒爆料：“发哨人”艾芬失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303266.md">武汉肺炎又有新后遗症 或带来致命后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303659.md" target="_blank">天亮时分：英国首相对中共出离愤怒,华为5G欧洲泡汤,当前危机将重塑全球秩序(哲思心语第8集 20200330)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303646.md" target="_blank">商业内幕：武汉居民说死亡人数可能远超官方数字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md" target="_blank">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303644.md" target="_blank">武汉到底多少人死于新冠疫情  法国媒体集体质疑</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303432.md" target="_blank">中国工信部：全国中小企业复工率已达76% 疫情对工业经济影响可控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303431.md" target="_blank">武汉“解封”在即 当地居民质疑官方数字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md" target="_blank">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303275.md" target="_blank">古人对瘟疫的理解与做法</a></li>
 
 </ul>
 </div>
