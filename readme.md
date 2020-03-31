@@ -5,12 +5,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1303413.md">【独家】安徽官员最新调研：大饥荒、大萧条、大崩溃将临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303652.md">任志强朋友致北京市委公开信（3月30日）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303574.md">徐少骅&#65306;红二代里应外合围堵习近平&#65292;美国索偿随时演变成热战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md">难得今天有个大好消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303574.md">徐少骅&#65306;红二代里应外合围堵习近平&#65292;美国索偿随时演变成热战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md">还敢笑话美国？中国失业人口或达两亿！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303572.md">新冠病毒我们至今不知的五件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
@@ -22,6 +21,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303892.md">一个更大的感染群体 成北京高度机密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303435.md">疫情之下大陆资金链断裂：由高尔夫球场会员会籍开始？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303950.md" target="_blank">华人回国被封门 留学生隔离卫生极差</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303921.md" target="_blank">警惕！疫情二次大爆发就在眼前 如何甩锅已内定！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303911.md" target="_blank">出门遛狗 小狗被中共警察“执法”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md" target="_blank">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303716.md" target="_blank">防不胜防！河南等多地无症状感染者成传播者 民众恐慌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md" target="_blank">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303708.md" target="_blank">【现场视频】她死在通山县政府门前 竟然没人管！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303695.md" target="_blank">突发：四川凉山再起山火 火光冲天</a></li>
 
 </ul>
 </div>
