@@ -9,8 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303652.md">任志强朋友致北京市委公开信（3月30日）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200330/1303413.md">【独家】安徽官员最新调研：大饥荒、大萧条、大崩溃将临</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303263.md">澳媒爆料：“发哨人”艾芬失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303266.md">武汉肺炎又有新后遗症 或带来致命后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303574.md">徐少骅&#65306;红二代里应外合围堵习近平&#65292;美国索偿随时演变成热战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
@@ -18,12 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303293.md">科学家发现中共病毒传播新途径 上厕所要小心了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303380.md">网传任志强因绝食致心脏衰竭被送医抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303380.md">网传任志强因绝食致心脏衰竭被送医抢救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200330/1303457.md">还会有多少高官向习近平效忠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303510.md">宝胜视频：任志强释放出来了，照片为证？国内大学生张文斌和公民赵凯无畏喊出“共产党下课、习近平下课”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md">还敢笑话美国？中国失业人口或达两亿！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303269.md">希望之声：一天500骨灰盒连发半年？武汉居民爆惊人内情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303642.md">新冠治愈者自述：煎熬才刚开始</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md" target="_blank">网传任志强出来了?可能是假消息？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303883.md" target="_blank">四川森林大火持续烧 逼近卫星发射中心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303868.md" target="_blank">瘟疫大流行 美参议员：现在是追究北京责任的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303850.md" target="_blank">耿爽和中共元老耿飚有关系？曝外交部上位套路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303817.md" target="_blank">江峰：从犹太人的黄标到中国人的黄码，歧视在大国的骄狂中蔓延；帮助中共打造全民监控的美国科技巨头会有现世报麽？</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303676.md" target="_blank">加拿大民调：疫情过后社会将更富同情心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303667.md" target="_blank">内忧外患  李克强要求加强筛查无症状感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303659.md" target="_blank">天亮时分：英国首相对中共出离愤怒,华为5G欧洲泡汤,当前危机将重塑全球秩序(哲思心语第8集 20200330)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303646.md" target="_blank">商业内幕：武汉居民说死亡人数可能远超官方数字</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md" target="_blank">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说</a></li>
 
 </ul>
 </div>
