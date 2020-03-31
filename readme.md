@@ -13,11 +13,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303510.md">宝胜视频：任志强释放出来了，照片为证？国内大学生张文斌和公民赵凯无畏喊出“共产党下课、习近平下课”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303642.md">新冠治愈者自述：煎熬才刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304006.md">任志强被抓 企业界行动了 党内倒习党外倒共风起云涌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304020.md">宝胜突发快评：任志强真的出来了！形势对习越来越不利、习地位危急！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303642.md">新冠治愈者自述：煎熬才刚开始</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304113.md" target="_blank">驻港解放军直升机大榄郊野公园失事　延后一日通报</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304112.md" target="_blank">中国驻港部队一直升机失事    官方：正执行任务</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304111.md" target="_blank">台湾外交部：持续深化美台全球合作伙伴关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304110.md" target="_blank">孟晚舟案法官：近期不会就双重犯罪辩护做裁决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304101.md" target="_blank">聆听达赖喇嘛弘法  西藏父子遭中国当局拘捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304090.md" target="_blank">达赖喇嘛发公开信 吁坦然面对疫情勿恐慌忧虑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304082.md" target="_blank">江苏老访民17年上访维权案或“出现转机”</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303974.md" target="_blank">官称武汉疫情基本稳定   但小区封闭居民仍感恐慌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303970.md" target="_blank">华为去年利润增幅为三年最小 外部环境日趋复杂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303969.md" target="_blank">公开呼吁「习近平下课」  山东青年张文斌失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303968.md" target="_blank">港台节目顾问团成员周三见广播处长    表达25万市民支持《头条新闻》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303967.md" target="_blank">警察午市到黎智英次子餐厅巡查　要求拉围栏逐个客查身分证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303966.md" target="_blank">习近平亲自指令外交官以战狼态度回应西方</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303919.md" target="_blank">世界银行：新冠疫情将减缓东亚及中国经济成长</a></li>
 
 </ul>
 </div>
