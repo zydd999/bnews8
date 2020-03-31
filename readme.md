@@ -16,10 +16,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303642.md">新冠治愈者自述：煎熬才刚开始</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304088.md" target="_blank">英国外交大臣回应“疫情后对华关系应面临清算”言论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304085.md" target="_blank">卫健委：中国至少有1541名无症状感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304052.md" target="_blank">四川凉山西昌发生森林大火 19名救火人员丧生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304044.md" target="_blank">李兰娟团队踏上返程：武汉疫情大局已定 谨防境外输入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304040.md" target="_blank">中国籍渔船与日本军舰东海相撞 一渔民受伤 日军舰受损</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md" target="_blank">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303800.md" target="_blank">起诉云南社保局 云大职工养老金被停发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303799.md" target="_blank">公开喊“共产党下课” 山东勇士张文斌失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md" target="_blank">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303739.md" target="_blank">中共把老百姓不当人 火车湖南脱轨 现场视频打脸</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304090.md" target="_blank">达赖喇嘛发公开信 吁坦然面对疫情勿恐慌忧虑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304082.md" target="_blank">江苏老访民17年上访维权案或“出现转机”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304081.md" target="_blank">台湾推行社交距离1公尺 口号：“爱有多深距离有多远”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304080.md" target="_blank">世银料中国经济增长大幅放缓 习近平灭贫大计难以实现</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303966.md" target="_blank">习近平亲自指令外交官以战狼态度回应西方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303919.md" target="_blank">世界银行：新冠疫情将减缓东亚及中国经济成长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303829.md" target="_blank">时事大家谈：批美“封号禁言”，中国如何运作“推特大外宣”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303828.md" target="_blank">时事大家谈： 方方日记推出终结篇，倒映一个撕裂的中国？</a></li>
 
 </ul>
 </div>
