@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304169.md" target="_blank">中国大外宣出征 推特脸书油管寸草难生？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304151.md" target="_blank">无症状感染者比比皆是  中国复工路上危机四伏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304127.md" target="_blank">时事大家谈热点快评：美中各自加紧演练 南中国海波澜再起？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304118.md" target="_blank">传抖音禁粤语直播　自媒体促尊重「中国是个多语言环境的现实」</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303992.md" target="_blank">台湾逾7成民众赞成护照名改为Taiwan</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303991.md" target="_blank">3月分经济数据回升无法挽回颓势  中国面临全球供应链“去中国化”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303982.md" target="_blank">中国担心疫情回潮决定推迟高考一个月</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303981.md" target="_blank">抢救任志强    海内外网民联署公开信</a></li>
 
 </ul>
 </div>
