@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303921.md">警惕！疫情二次大爆发就在眼前 如何甩锅已内定！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304006.md">任志强被抓 企业界行动了 党内倒习党外倒共风起云涌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304020.md">宝胜突发快评：任志强真的出来了！形势对习越来越不利、习地位危急！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303664.md">老北京茶馆：庆功！中共外交部耿爽离奇预言给习近平成功挖坑！世界各国感谢中共，感谢清单出炉啦……（第277集/2020/03/30） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1303642.md">新冠治愈者自述：煎熬才刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303607.md">植物人昏迷十二年后 他说出沉睡中看到的恐怖世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200331/1303632.md">司马懿临终遗言：后代不准为我扫墓！1769年后 发现真是深有远见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304043.md">邱家军：定性叛国集团，庆丰变身查理一世？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304127.md" target="_blank">时事大家谈热点快评：美中各自加紧演练 南中国海波澜再起？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304118.md" target="_blank">传抖音禁粤语直播　自媒体促尊重「中国是个多语言环境的现实」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304113.md" target="_blank">驻港解放军直升机大榄郊野公园失事　延后一日通报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304112.md" target="_blank">中国驻港部队一直升机失事    官方：正执行任务</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303982.md" target="_blank">中国担心疫情回潮决定推迟高考一个月</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303981.md" target="_blank">抢救任志强    海内外网民联署公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303974.md" target="_blank">官称武汉疫情基本稳定   但小区封闭居民仍感恐慌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303970.md" target="_blank">华为去年利润增幅为三年最小 外部环境日趋复杂</a></li>
 
 </ul>
 </div>
