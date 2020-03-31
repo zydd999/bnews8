@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303428.md">美国疫情狂飙轻重泾渭分明？FDA急批治疗药 病毒变异40种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303266.md">武汉肺炎又有新后遗症 或带来致命后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303236.md">剧本将被更改？专家：瘟疫大流行过后 世卫将被重新评估</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303293.md">科学家发现中共病毒传播新途径 上厕所要小心了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303204.md">各位 中国经济最困难的时候还没到来…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303695.md" target="_blank">突发：四川凉山再起山火 火光冲天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303694.md" target="_blank">爆料：红黄绿“健康码”成武汉人的移动监狱</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303678.md" target="_blank">方斌陈秋实之后 再有勇士震撼发声：共产党下课！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303676.md" target="_blank">加拿大民调：疫情过后社会将更富同情心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303667.md" target="_blank">内忧外患  李克强要求加强筛查无症状感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303659.md" target="_blank">天亮时分：英国首相对中共出离愤怒,华为5G欧洲泡汤,当前危机将重塑全球秩序(哲思心语第8集 20200330)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303646.md" target="_blank">商业内幕：武汉居民说死亡人数可能远超官方数字</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303495.md" target="_blank">肺炎疫情：世卫组织避谈台湾抗疫经验引争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303458.md" target="_blank">台湾曾准备一万件防护服捐给大陆抗疫被东航拒收</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303450.md" target="_blank">德国疫情出现新“灾区” 经济衰退无可避免</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303438.md" target="_blank">“抗疫外交”遇退货潮？ 中国疑外销劣质医疗品</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303433.md" target="_blank">中疾控主任高福受访权威期刊：当时没人能预言病毒会大流行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303432.md" target="_blank">中国工信部：全国中小企业复工率已达76% 疫情对工业经济影响可控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303431.md" target="_blank">武汉“解封”在即 当地居民质疑官方数字</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303689.md" target="_blank">美情报机构无法了解中俄朝伊四国的新冠疫情精确情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303594.md" target="_blank">中国物资品质受质疑  加拿大政府称将严格检验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303591.md" target="_blank">五角大楼：会利用《国防生产法》减少美军对中国药品高度依赖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303587.md" target="_blank">贛鄂公安桥头开打  受歧视的湖北人震怒了</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303424.md" target="_blank">三百多名滞鄂台胞经上海返台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303423.md" target="_blank">华春莹指中方收到援助物资也些不合格的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303417.md" target="_blank">中国向欧洲出口医防用品质量低劣重创“抗疫外交”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303411.md" target="_blank">约翰逊政府对中国感愤怒　或改变容许华为替英开发5G决定</a></li>
 
 </ul>
 </div>
