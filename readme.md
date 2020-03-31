@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1302991.md">二十大未至习近平已开始磨刀 目标可能是他？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303155.md">英国首相怒了！严厉谴责中共疫情造假 或取消华为5G合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303231.md">传任志强因绝食抗议致心脏衰竭 被送院抢救</a></li>
@@ -11,7 +10,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303489.md">习近平下个目标定了是他？ 李强胡春华内定接班靠谱？ 任志强被急救？五老有下文？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303229.md">歧视武汉人后果很严重 一场政治风暴正在到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303415.md">湖南火车事故曝官场乱局 广铁火速下令封口 却没防住应急管理部 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303006.md">川习通话都讲了些什么？结果被川普 一句话道破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303235.md">江峰：禁止外国人入境，结果一看，赶回来的都是华裔；复工等於停产，习近平再提新时代劳动教育，上山下乡你准备好了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303156.md">红二代戴方明染中共病毒去世</a></li>
@@ -24,6 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303293.md">科学家发现中共病毒传播新途径 上厕所要小心了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200330/1303204.md">各位 中国经济最困难的时候还没到来…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303380.md">网传任志强因绝食致心脏衰竭被送医抢救</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md" target="_blank">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303708.md" target="_blank">【现场视频】她死在通山县政府门前 竟然没人管！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303695.md" target="_blank">突发：四川凉山再起山火 火光冲天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303694.md" target="_blank">爆料：红黄绿“健康码”成武汉人的移动监狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303678.md" target="_blank">方斌陈秋实之后 再有勇士震撼发声：共产党下课！</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303520.md" target="_blank">陈破空：陈破空谈《常识》（之36）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303499.md" target="_blank">世卫组织避谈台湾抗疫经验引争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303495.md" target="_blank">肺炎疫情：世卫组织避谈台湾抗疫经验引争议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303458.md" target="_blank">台湾曾准备一万件防护服捐给大陆抗疫被东航拒收</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303450.md" target="_blank">德国疫情出现新“灾区” 经济衰退无可避免</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303698.md" target="_blank">蓬佩奥：在各国如何抗疫及外援的问题上要抗击中国虚假信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303689.md" target="_blank">美情报机构无法了解中俄朝伊四国的新冠疫情精确情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303594.md" target="_blank">中国物资品质受质疑  加拿大政府称将严格检验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303591.md" target="_blank">五角大楼：会利用《国防生产法》减少美军对中国药品高度依赖</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303435.md" target="_blank">疫情之下大陆资金链断裂：由高尔夫球场会员会籍开始？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303424.md" target="_blank">三百多名滞鄂台胞经上海返台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303423.md" target="_blank">华春莹指中方收到援助物资也些不合格的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303417.md" target="_blank">中国向欧洲出口医防用品质量低劣重创“抗疫外交”</a></li>
 
 </ul>
 </div>
