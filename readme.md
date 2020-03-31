@@ -12,11 +12,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303340.md">震惊！中国村民们竟放鞭炮庆祝美国染疫超10万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md">还敢笑话美国？中国失业人口或达两亿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303572.md">新冠病毒我们至今不知的五件事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303740.md">钟南山竟隔空挑战李克强 谁在给钟南山撑腰？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303528.md">中国版「N号房」！逾860万名会员付费看儿童色情影像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md">难得今天有个大好消息</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303645.md">陈破空：习近平不安全，寸步不离两个人！设局监视所有高官。中共抄台湾作业。多国有话说 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200330/1303364.md">张文宏：今年疫情恐延绵不绝 10月后是高峰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200330/1303457.md">还会有多少高官向习近平效忠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1303510.md">宝胜视频：任志强释放出来了，照片为证？国内大学生张文斌和公民赵凯无畏喊出“共产党下课、习近平下课”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200330/1303380.md">网传任志强因绝食致心脏衰竭被送医抢救</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303921.md" target="_blank">警惕！疫情二次大爆发就在眼前 如何甩锅已内定！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303911.md" target="_blank">出门遛狗 小狗被中共警察“执法”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md" target="_blank">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303899.md" target="_blank">美议员：大瘟疫是中共领导层应对失败所致</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md" target="_blank">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303708.md" target="_blank">【现场视频】她死在通山县政府门前 竟然没人管！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303695.md" target="_blank">突发：四川凉山再起山火 火光冲天</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303694.md" target="_blank">爆料：红黄绿“健康码”成武汉人的移动监狱</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303919.md" target="_blank">世界银行：新冠疫情将减缓东亚及中国经济成长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303829.md" target="_blank">时事大家谈：批美“封号禁言”，中国如何运作“推特大外宣”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303828.md" target="_blank">时事大家谈： 方方日记推出终结篇，倒映一个撕裂的中国？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303737.md" target="_blank">伊斯兰阿语学校遭关十万《古兰经》被焚 中共狠打回族穆斯林</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303473.md" target="_blank">患脑退化退休学者疑因转载肺炎资讯遭刑拘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303472.md" target="_blank">《刘晓波纪念文集》英文版将在美国发行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303468.md" target="_blank">东莞厂商扬言制假测温枪害美国人　事后道歉称出于「爱国情怀」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200330/1303436.md" target="_blank">从口罩抢购到粮食囤积：中国舆情和媒体导向</a></li>
 
 </ul>
 </div>
