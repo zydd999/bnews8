@@ -11,18 +11,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303751.md">网传视频：这女的这下火了！网友：害的我们华人背锅！这种祸害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304043.md">邱家军：定性叛国集团，庆丰变身查理一世？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1304094.md">李克强示警疫情 中南海捂不住了 现史无前例举动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303709.md">崔天凯打赵立坚嘴巴是上面的意思？ 前中共外交官一语点破</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304157.md">〖兲朝浮世绘〗习近平亲自从各大头版消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303850.md">耿爽和中共元老耿飚有关系？曝外交部上位套路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303966.md">习近平亲自指令外交官以战狼态度回应西方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303931.md">X博士｜溃败北漂青年们正在闲鱼抛售所有家当</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304157.md">〖兲朝浮世绘〗习近平亲自从各大头版消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303799.md">公开喊“共产党下课” 山东勇士张文斌失联</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304288.md" target="_blank">国家评论：不祥的报道表明中国尚未遏制住疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304070.md" target="_blank">意大利媒体：让我们脱离中共！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304084.md" target="_blank">中共病毒有多诡异？五大迷团至今难倒专家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304275.md" target="_blank">美联储预测：新冠将使4700万美国人失业  超过1930年代大萧条</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303963.md" target="_blank">【现场视频】中共雷神山庆功 被指丧事当喜事办</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303962.md" target="_blank">【现场视频】维稳办主任嚣张 业委会主任不示弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303961.md" target="_blank">从黑马到诺奖得主—刘晓波纪念文集英文版4月1日在美出版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303950.md" target="_blank">华人回国被封门 留学生隔离卫生极差</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304302.md" target="_blank">追责中共再加码！美共和党议员吁调查世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304072.md" target="_blank">四川森林大火直逼卫星发射中心 致19死3伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304179.md" target="_blank">疫情阴影下，874万高校毕业生何去何从</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304169.md" target="_blank">中国大外宣出征 推特脸书油管寸草难生？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304008.md" target="_blank">超过50名香港确诊者未能住院    政府顾问hk-admit：未料大批病人滞留院内</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304007.md" target="_blank">【耳边风】自认小丑和流氓的「人民领袖」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304000.md" target="_blank">台民调显示逾七成民众支持将护照标示改称「台湾」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303992.md" target="_blank">台湾逾7成民众赞成护照名改为Taiwan</a></li>
 
 </ul>
 </div>
