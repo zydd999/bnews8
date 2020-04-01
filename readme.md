@@ -17,9 +17,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304749.md" target="_blank">新冠肺炎全美确诊破势19万　东西岸港人细说家居避疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304727.md" target="_blank">武汉留学生：墙内外疫情信息差异造成与家人隔阂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304719.md" target="_blank">台湾清明劝退万人祭祖 郑成功祭典改采视讯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304718.md" target="_blank">出口劣质新冠病毒试剂挫大国外交　4月起抗疫产品未得注册证书禁出口</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304559.md" target="_blank">苹果公司捐款中国抗疫翻番达五千万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304548.md" target="_blank">港831纪念警涉滥用防疫令    当事人专访谈人权遭打压</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304547.md" target="_blank">台湾加入防疫外交战幔　　向疫情严重国捐一千万个口罩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304514.md" target="_blank">解放军直升机香港坠毁4名机组人员死亡</a></li>
 
 </ul>
 </div>
