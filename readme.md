@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200401/1304107.md">姐弟恋凉了?谢霆锋店铺租金大跌64% 月租20万变7.3万 王菲却忙着跟李亚鹏聚会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304411.md">微博精粹：习总突然中了？要反？各大党媒头版不正常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304476.md">别不信！临夏机密文件曝光 鄂州强行关闭粮油店铺 接下来会发生什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304476.md">别不信！临夏机密文件曝光 鄂州强行关闭粮油店铺 接下来会发生什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304472.md">前卫生高官：估计有那么一天大爆发 就彻底就完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304170.md">美国务院发言人：习近平向特朗普承诺 遏制虚假信息宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1304096.md">美国疫情越重，中国未来越惨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304624.md" target="_blank">华为威胁美国将受中国反制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304615.md" target="_blank">传习近平向特朗普承诺遏制虚假信息宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304614.md" target="_blank">中国情势虽好转 世界市场情绪却未随之起舞并恶化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304588.md" target="_blank">北京8天无本地新增确诊严厉防疫 清明或允扫墓推返城隔离14天</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304464.md" target="_blank">罕见！美军昨分派2军机巡弋南海丶东海及黄海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304435.md" target="_blank">被克扣补贴发国难财 武汉志愿者上街抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304434.md" target="_blank">女留学生被送洗浴中心隔离：烟味大、被发黄、水壶生锈长毛</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304429.md" target="_blank">鄂州现恐慌性抢购粮油 当局“辟谣”无果强制关店</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304625.md" target="_blank">焦点对话：习总“无罩”访浙催复工 李克强忧疫情复发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304619.md" target="_blank">世界能源市场严重过剩，中国买家疯狂扫货</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304616.md" target="_blank">传北京海外搜刮医疗物资运　分析指涉中美外交博奕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304589.md" target="_blank">蔡英文宣布：向疫情严重国家捐赠1000万片口罩</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304110.md" target="_blank">孟晚舟案法官：近期不会就双重犯罪辩护做裁决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304101.md" target="_blank">聆听达赖喇嘛弘法  西藏父子遭中国当局拘捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304090.md" target="_blank">达赖喇嘛发公开信 吁坦然面对疫情勿恐慌忧虑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304082.md" target="_blank">江苏老访民17年上访维权案或“出现转机”</a></li>
 
 </ul>
 </div>
