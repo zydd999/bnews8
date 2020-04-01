@@ -12,7 +12,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304399.md">重大动向？人民日报头版没报习近平 李克强汪洋占位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304262.md">如何处理任志强 习近平骑虎难下？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200401/1304107.md">姐弟恋凉了?谢霆锋店铺租金大跌64% 月租20万变7.3万 王菲却忙着跟李亚鹏聚会</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304170.md">美国务院发言人：习近平向特朗普承诺 遏制虚假信息宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1304018.md">中国已出现超1500例无症状感染者 明起卫健委将每日通报其情况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200331/1304096.md">美国疫情越重，中国未来越惨</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304579.md" target="_blank">严重依赖中共医药供应链 各国尝恶果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md" target="_blank">湖北医生：中共数据的冰山一角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304545.md" target="_blank">世界疫情泛滥 访美学者道歉说致爱国玻璃心崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304544.md" target="_blank">小心病毒 北京严加防疫电梯倡用牙签摁楼层</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304543.md" target="_blank">安倍说日本现在不是宣布紧急状态的状况</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md" target="_blank">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304426.md" target="_blank">株洲服装批发市场外民众要求减租</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304425.md" target="_blank">大陆无症状感染导致复工复产危机四伏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304421.md" target="_blank">疫情下 经营14年的郑州“金博大”商城关门</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304418.md" target="_blank">中共隐疫祸害全球 美议员痛批：人类史上最恶劣</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304562.md" target="_blank">雷神山医院农民工遭剥削打压     工人薪金是国家原定工资六分之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304560.md" target="_blank">中国首次公布无症病毒感染人数，外界质疑数字失真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304559.md" target="_blank">苹果公司捐款中国抗疫翻番达五千万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304548.md" target="_blank">港831纪念警涉滥用防疫令    当事人专访谈人权遭打压</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304081.md" target="_blank">台湾推行社交距离1公尺 口号：“爱有多深距离有多远”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304080.md" target="_blank">世银料中国经济增长大幅放缓 习近平灭贫大计难以实现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304060.md" target="_blank">日本护卫舰和中国渔船在东海公海上相撞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304055.md" target="_blank">山东青年受香港、台湾人启发 实名呼吁习近平下台安危堪忧</a></li>
 
 </ul>
 </div>
