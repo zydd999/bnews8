@@ -4,19 +4,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303892.md">一个更大的感染群体 成北京高度机密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303921.md">警惕！疫情二次大爆发就在眼前 如何甩锅已内定！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200331/1303939.md">中共做梦也想不到铁哥们俄罗斯 开始落井下石啦！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304006.md">任志强被抓 企业界行动了 党内倒习党外倒共风起云涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304020.md">宝胜突发快评：任志强真的出来了！形势对习越来越不利、习地位危急！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304006.md">任志强被抓 企业界行动了 党内倒习党外倒共风起云涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304043.md">邱家军：定性叛国集团，庆丰变身查理一世？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1304094.md">李克强示警疫情 中南海捂不住了 现史无前例举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304157.md">〖兲朝浮世绘〗习近平亲自从各大头版消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304184.md">陈破空：美情每日速览！习近平南下有因：习李再起冲突。王沪宁放风：那事不是他干的 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304278.md">看中国的狗哥: 突发消息：赵立坚叛逃美国大使馆（视屏）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304262.md">如何处理任志强 习近平骑虎难下？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200401/1304107.md">姐弟恋凉了?谢霆锋店铺租金大跌64% 月租20万变7.3万 王菲却忙着跟李亚鹏聚会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304170.md">美国务院发言人：习近平向特朗普承诺 遏制虚假信息宣传</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303931.md">X博士｜溃败北漂青年们正在闲鱼抛售所有家当</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304444.md" target="_blank">中国经济现复苏迹象 但外需恶化恐致无法实现增长目标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304433.md" target="_blank">家庭主要劳动力被关再教育营成免费劳工 维族老幼生计艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304302.md" target="_blank">追责中共再加码！美共和党议员吁调查世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304072.md" target="_blank">四川森林大火直逼卫星发射中心 致19死3伤</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304010.md" target="_blank">西昌31森林消防员殉职一周年 　当地再有19名灭火队员遇难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304009.md" target="_blank">谈「廿三条」立法林郑突转口风    学者指其任内「国安法」难上马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304008.md" target="_blank">超过50名香港确诊者未能住院    政府顾问hk-admit：未料大批病人滞留院内</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1304007.md" target="_blank">【耳边风】自认小丑和流氓的「人民领袖」</a></li>
 
 </ul>
 </div>
