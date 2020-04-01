@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304399.md">重大动向？人民日报头版没报习近平 李克强汪洋占位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304262.md">如何处理任志强 习近平骑虎难下？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304476.md">别不信！临夏机密文件曝光 鄂州强行关闭粮油店铺 接下来会发生什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304539.md">钟南山先生这回又要打脸了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304539.md">钟南山先生这回又要打脸了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304411.md">微博精粹：习总突然中了？要反？各大党媒头版不正常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304472.md">前卫生高官：估计有那么一天大爆发 就彻底就完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304672.md">邀请同坐6人小船 习近平以人多为由婉拒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md" target="_blank">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md" target="_blank">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304779.md" target="_blank">法国和美国爆发中国口罩争抢事件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304703.md" target="_blank">从自助到助人：台湾如何稳住口罩供给的脚步？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304678.md" target="_blank">新冠病毒正凶 15000中国小留学生陷英国</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304505.md" target="_blank">爱国与质差病毒试剂 中国说要管</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md" target="_blank">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304495.md" target="_blank">美国制裁奏效 华为2019年营收减少120亿美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304494.md" target="_blank">新冠肺炎 中国统计列新增无症状感染者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304486.md" target="_blank">内幕：瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304798.md" target="_blank">河南郏县因出现无症状感染者全面封村封小区</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304790.md" target="_blank">新冠肺炎肆虐全球: “大国担当”成中共宣传最新热词</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304784.md" target="_blank">无症状感染者对疫情影响有多大？钟南山等海内外专家意见各异</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304782.md" target="_blank">欧盟主席感谢台湾捐赠口罩   台媒：意义重大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304776.md" target="_blank">捷克查获70万片口罩   中方侨领兼统战干部涉案</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304645.md" target="_blank">赵立坚执行「战狼外交」的背后 　传习下令外交官要有「战斗精神」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304644.md" target="_blank">【耳边风】昔有东南互保    今有东南互打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304643.md" target="_blank">3月份中国制造业PMI大幅回升？　外界质疑数字有可能「造假」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304625.md" target="_blank">焦点对话：习总“无罩”访浙催复工 李克强忧疫情复发？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304619.md" target="_blank">世界能源市场严重过剩，中国买家疯狂扫货</a></li>
 
 </ul>
 </div>
