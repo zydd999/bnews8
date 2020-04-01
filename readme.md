@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304020.md">宝胜突发快评：任志强真的出来了！形势对习越来越不利、习地位危急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200331/1304043.md">邱家军：定性叛国集团，庆丰变身查理一世？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1304094.md">李克强示警疫情 中南海捂不住了 现史无前例举动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304157.md">〖兲朝浮世绘〗习近平亲自从各大头版消失？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303904.md">直击：夜深了！川普拖着疲惫的身体回家(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303816.md">【微博精粹】北京惊现车载“流氓下台” 啥情况？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304184.md">陈破空：美情每日速览！习近平南下有因：习李再起冲突。王沪宁放风：那事不是他干的 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303881.md">网传任志强出来了?可能是假消息？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303804.md">福布斯：武汉冠状病毒正成为北京的公关灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1303850.md">耿爽和中共元老耿飚有关系？曝外交部上位套路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303966.md">习近平亲自指令外交官以战狼态度回应西方</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304184.md">陈破空：美情每日速览！习近平南下有因：习李再起冲突。王沪宁放风：那事不是他干的 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200401/1304107.md">姐弟恋凉了?谢霆锋店铺租金大跌64% 月租20万变7.3万 王菲却忙着跟李亚鹏聚会</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304278.md">看中国的狗哥: 突发消息：赵立坚叛逃美国大使馆（视屏）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1303931.md">X博士｜溃败北漂青年们正在闲鱼抛售所有家当</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200331/1304018.md">中国已出现超1500例无症状感染者 明起卫健委将每日通报其情况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200331/1303876.md">无症状别大意！美国医界：肺部「雪崩式恶化」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200331/1303901.md">惊！这个中共病毒的传播热点你可能忽略了…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304425.md" target="_blank">大陆无症状感染导致复工复产危机四伏</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304421.md" target="_blank">疫情下 经营14年的郑州“金博大”商城关门</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304418.md" target="_blank">中共隐疫祸害全球 美议员痛批：人类史上最恶劣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304417.md" target="_blank">中共造势刺激消费 民众：公共场所不安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304407.md" target="_blank">《光复民国肖像组画》向世界吹响剿灭中共的号角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304409.md" target="_blank">李文足：请大家帮我一起想一想 我该怎么办？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md" target="_blank">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304145.md" target="_blank">瘟疫大流行 美参议员：调查中共 让其赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304144.md" target="_blank">各国发钱救助民众 中共“抄作业”言论突消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304125.md" target="_blank">巴黎警方没收数万只从中国寄来的口罩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304088.md" target="_blank">英国外交大臣回应“疫情后对华关系应面临清算”言论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304085.md" target="_blank">卫健委：中国至少有1541名无症状感染者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304052.md" target="_blank">四川凉山西昌发生森林大火 19名救火人员丧生</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200331/1304044.md" target="_blank">李兰娟团队踏上返程：武汉疫情大局已定 谨防境外输入</a></li>
 
 </ul>
 </div>
