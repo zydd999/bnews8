@@ -13,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304472.md">前卫生高官：估计有那么一天大爆发 就彻底就完了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
@@ -22,7 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304672.md">邀请同坐6人小船 习近平以人多为由婉拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304770.md" target="_blank">关系升温？中国有意全面开放加拿大油菜籽进口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304763.md" target="_blank">陈平专访： 沉默十年后转发公开信 人心思稳变最大公约数 ？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304762.md" target="_blank">防疫政策: 台捷发表伙伴关系声明  欧盟警告匈牙利勿危害民主</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304761.md" target="_blank">王全璋律师出狱在即   山东家属至今未获通知</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304616.md" target="_blank">传北京海外搜刮医疗物资运　分析指涉中美外交博奕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304589.md" target="_blank">蔡英文宣布：向疫情严重国家捐赠1000万片口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304562.md" target="_blank">雷神山医院农民工遭剥削打压     工人薪金是国家原定工资六分之一</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304560.md" target="_blank">中国首次公布无症病毒感染人数，外界质疑数字失真</a></li>
 
 </ul>
 </div>
