@@ -14,8 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304472.md">前卫生高官：估计有那么一天大爆发 就彻底就完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304763.md" target="_blank">陈平专访： 沉默十年后转发公开信 人心思稳变最大公约数 ？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304762.md" target="_blank">防疫政策: 台捷发表伙伴关系声明  欧盟警告匈牙利勿危害民主</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304761.md" target="_blank">王全璋律师出狱在即   山东家属至今未获通知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304749.md" target="_blank">新冠肺炎全美确诊破势19万　东西岸港人细说家居避疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304727.md" target="_blank">武汉留学生：墙内外疫情信息差异造成与家人隔阂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304719.md" target="_blank">台湾清明劝退万人祭祖 郑成功祭典改采视讯</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304589.md" target="_blank">蔡英文宣布：向疫情严重国家捐赠1000万片口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304562.md" target="_blank">雷神山医院农民工遭剥削打压     工人薪金是国家原定工资六分之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304560.md" target="_blank">中国首次公布无症病毒感染人数，外界质疑数字失真</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304559.md" target="_blank">苹果公司捐款中国抗疫翻番达五千万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304548.md" target="_blank">港831纪念警涉滥用防疫令    当事人专访谈人权遭打压</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304547.md" target="_blank">台湾加入防疫外交战幔　　向疫情严重国捐一千万个口罩</a></li>
 
 </ul>
 </div>
