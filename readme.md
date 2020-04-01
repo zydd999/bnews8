@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304184.md">陈破空：美情每日速览！习近平南下有因：习李再起冲突。王沪宁放风：那事不是他干的 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304262.md">如何处理任志强 习近平骑虎难下？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304399.md">重大动向？人民日报头版没报习近平 李克强汪洋占位</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304262.md">如何处理任志强 习近平骑虎难下？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200331/1303989.md">不出几周 油市将面临比油价下跌还可怕危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200401/1304107.md">姐弟恋凉了?谢霆锋店铺租金大跌64% 月租20万变7.3万 王菲却忙着跟李亚鹏聚会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304411.md">微博精粹：习总突然中了？要反？各大党媒头版不正常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200331/1303966.md">习近平亲自指令外交官以战狼态度回应西方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200401/1304170.md">美国务院发言人：习近平向特朗普承诺 遏制虚假信息宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200401/1304206.md">公子时评：中国爆发粮食危机会饿死多少人？全国大中小学加强马克思主义劳动观，“上山下乡”又要来？中共号召“劳动教育”的两个原因... </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304535.md" target="_blank">肯定武汉经验 专家指挡下70万起感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md" target="_blank">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304519.md" target="_blank">习近平再讲话 首提严防境外输入重中之重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304518.md" target="_blank">东海撞船 日本军舰不敌中国渔船钢坚 引军事举措分析</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304417.md" target="_blank">中共造势刺激消费 民众：公共场所不安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304407.md" target="_blank">《光复民国肖像组画》向世界吹响剿灭中共的号角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304409.md" target="_blank">李文足：请大家帮我一起想一想 我该怎么办？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md" target="_blank">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 
 </ul>
 </div>
