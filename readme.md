@@ -19,9 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304222.md">文昭：任志强的生死传闻发酵，两个圈子或有连锁反应，习近平又应了《周易》哪一卦 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304474.md">别不信！临夏机密文件 鄂州强行关闭粮油店铺 接下来是什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304715.md">习近平被夺位？任志强搅动中南海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md">湖北医生：中共数据的冰山一角</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
