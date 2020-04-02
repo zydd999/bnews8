@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304715.md">习近平被夺位？任志强搅动中南海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304789.md">宝胜政论：赵立坚叛逃？北京发生政变？美情报部门向白宫提交中共隐瞒疫情秘密报告！欧美向中共秋后算账箭在弦上！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304970.md">重磅！追讨中共隐瞒疫情 重要证据来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200402/1304788.md">鱼眼观察 &#124; 人民日报这次“翻车”了</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200402/1304757.md">大S曾倒追的对象 当年的颜值迷倒一大片 如今却成油腻大叔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305354.md" target="_blank">1.05兆纾困预算护台湾 砸千亿稳住百万人就业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305347.md" target="_blank">全球疫情快报：全球病例超90万 美国病例破20万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305328.md" target="_blank">陈破空：陈破空谈《常识》（之37）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305315.md" target="_blank">不再是遭训诫案底 李文亮评为烈士了</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305112.md" target="_blank">探寻疫情起源 美专家促中共披露实验室记录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304918.md" target="_blank">作曲家真人视频：患重症肺炎 诚念法轮功九字真言康复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305091.md" target="_blank">索赔声音渐起！澳洲参议员：应就疫情向中共追责索赔</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305090.md" target="_blank">中共借防疫之名打压 “吹哨人” 各地迫害不断！</a></li>
 
 </ul>
 </div>
