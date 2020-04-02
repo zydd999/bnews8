@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305149.md">涨价在即？中国各地大抢粮 虚假一场？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200402/1304757.md">大S曾倒追的对象 当年的颜值迷倒一大片 如今却成油腻大叔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305279.md" target="_blank">应对疫情冲击    中国将发行千亿超规模国债</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305278.md" target="_blank">路透社：美国特朗普政府将进一步限制对华高科技出口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305274.md" target="_blank">时事大家谈：专访林培瑞：中共将为疫情付出代价 美中关系必将转舵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md" target="_blank">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305267.md" target="_blank">商经局斥责港台向世卫提台湾问题     锺剑华：邱腾华做法非常愚蠢</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305123.md" target="_blank">武汉肺炎期间中共再发文件打击宗教 多处家庭教会遭取缔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305120.md" target="_blank">甘肃密件动员群众储粮 多地再掀抢购潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304905.md" target="_blank">继续追责中共 议员要求美国务院调查三名失踪中国公民记者下落</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304870.md" target="_blank">人权团体呼吁中国停止打压网上言论自由</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304833.md" target="_blank">香港警方：8·31纪念活动54人被拘捕</a></li>
 
 </ul>
 </div>
