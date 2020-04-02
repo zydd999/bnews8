@@ -8,16 +8,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md">中共“战狼”发言人赵立坚25天未露面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200402/1305282.md">全球化彻底结束，战争一触即发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305195.md">上海一幼儿园男幼师性侵多名女童 网警狂删帖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305145.md">涨价在即？中国各地大抢粮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305195.md">上海一幼儿园男幼师性侵多名女童 网警狂删帖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304965.md">川普警告伊朗：伊朗计划偷袭美军 真敢干将面临严重后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304980.md">美论文曝江苏公共浴场群体感染 高温无阻病毒传播</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305552.md" target="_blank">潘石屹儿子连发敏感信息暗批体制 网络关切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305532.md" target="_blank">电影《永恒的五十分钟》（为你而来2）预告片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305518.md" target="_blank">陈破空：美情深重，纽约人为何不逃不抢不乱？高层内战：常委提议放人，习近平一票否决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305466.md" target="_blank">马克龙致电塞总统:欧盟援助也很多 比中国给的多</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md" target="_blank">陈平指倒习不太可能但中国人心思稳变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305099.md" target="_blank">民间传说：梦里地狱走一遭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305164.md" target="_blank">认清中共 选择美好未来！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305162.md" target="_blank">中国疫情本土确诊续唱风景独好 无症状感染例小步增</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md" target="_blank">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md" target="_blank">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md" target="_blank">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305194.md" target="_blank">中共病毒肆虐 大陆四大国有银行利润受损</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md" target="_blank">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304174.md" target="_blank">武汉肺炎零确诊？惊传朝鲜一家5口隔离关到死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md" target="_blank">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md" target="_blank">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 
 </ul>
 </div>
