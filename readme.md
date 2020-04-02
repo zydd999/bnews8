@@ -13,7 +13,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200402/1305282.md">全球化彻底结束，战争一触即发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304980.md">美论文曝江苏公共浴场群体感染 高温无阻病毒传播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1305116.md">中共爆生化疫情 日本早知晓 只是怕这个没说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1305088.md">数据惊人！中共病毒在美欧引发的真正危机才刚刚开始</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305532.md" target="_blank">电影《永恒的五十分钟》（为你而来2）预告片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305518.md" target="_blank">陈破空：美情深重，纽约人为何不逃不抢不乱？高层内战：常委提议放人，习近平一票否决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305466.md" target="_blank">马克龙致电塞总统:欧盟援助也很多 比中国给的多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305456.md" target="_blank">【现场视频】西昌大火复燃 山东两地起火</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305099.md" target="_blank">民间传说：梦里地狱走一遭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305164.md" target="_blank">认清中共 选择美好未来！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305162.md" target="_blank">中国疫情本土确诊续唱风景独好 无症状感染例小步增</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305150.md" target="_blank">意大利记者:不要称中国病毒 要称中共病毒</a></li>
 
 </ul>
 </div>
