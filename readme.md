@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200402/1304757.md">大S曾倒追的对象 当年的颜值迷倒一大片 如今却成油腻大叔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md" target="_blank">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305194.md" target="_blank">中共病毒肆虐 大陆四大国有银行利润受损</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305149.md" target="_blank">涨价在即？中国各地大抢粮 虚假一场？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305108.md" target="_blank">研究：武汉肺炎患者发病前1至3天即可传染他人</a></li>
@@ -87,13 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304098.md" target="_blank">武汉走多少人？医护透内幕 专家:2年不接触康复者非危言 研究:1人可传6万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1304078.md" target="_blank">世界停摆 中国哀鸿遍野 深渊中坠落 底在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303798.md" target="_blank">难得今天有个大好消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200331/1303672.md" target="_blank">还敢笑话美国？中国失业人口或达两亿！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305252.md" target="_blank">法国种猪乘飞机到中国，帮助恢复养猪业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305251.md" target="_blank">台湾宣布研发出快筛试剂 最快10分钟筛出武汉肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305225.md" target="_blank">中国报告新增病例下降 防输入感染严限国际航班</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305204.md" target="_blank">深圳成为中国首个明确禁止食用猫狗的城市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305203.md" target="_blank">河南防疫出现缺口 郏县医院出现感染群组封锁社区</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304812.md" target="_blank">搜刮外国医疗用品再捐赠   中国大外宣很“拼命 ”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304811.md" target="_blank">美议员吁调查世卫组织协助中共掩盖疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304798.md" target="_blank">河南郏县因出现无症状感染者全面封村封小区</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304790.md" target="_blank">新冠肺炎肆虐全球: “大国担当”成中共宣传最新热词</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304784.md" target="_blank">无症状感染者对疫情影响有多大？钟南山等海内外专家意见各异</a></li>
 
 </ul>
 </div>
