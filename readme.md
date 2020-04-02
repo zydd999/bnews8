@@ -17,8 +17,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304694.md">公子时评：赵立坚叛逃美国大使馆了吗？任志强还活着吗？聊聊时政自媒体的底线 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304474.md">别不信！临夏机密文件 鄂州强行关闭粮油店铺 接下来是什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200402/1304788.md">鱼眼观察 &#124; 人民日报这次“翻车”了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304474.md">别不信！临夏机密文件 鄂州强行关闭粮油店铺 接下来是什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md">湖北医生：中共数据的冰山一角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304518.md">东海撞船 日本军舰不敌中国渔船钢坚 引军事举措分析</a></li>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305041.md" target="_blank">“健康码”秒变 是隔离还大肆敛财？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md" target="_blank">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305022.md" target="_blank">四川西昌泸山大火复燃 当局急下“封口令”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md" target="_blank">中共“战狼”发言人赵立坚25天未露面</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md" target="_blank">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md" target="_blank">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304995.md" target="_blank">山东威海物流园突发大火 浓烟滚滚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304983.md" target="_blank">对比中美对外捐款 中共并不慷慨 有据为证</a></li>
@@ -52,17 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304779.md" target="_blank">法国和美国爆发中国口罩争抢事件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304703.md" target="_blank">从自助到助人：台湾如何稳住口罩供给的脚步？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304678.md" target="_blank">新冠病毒正凶 15000中国小留学生陷英国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304672.md" target="_blank">邀请同坐6人小船 习近平以人多为由婉拒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304642.md" target="_blank">外宣疫情全控 习近平西溪除口罩传递信心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304636.md" target="_blank">美国前司法部长：对冠状病毒撒谎，中共是邪恶政权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304624.md" target="_blank">华为威胁美国将受中国反制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304615.md" target="_blank">传习近平向特朗普承诺遏制虚假信息宣传</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md" target="_blank">杠上美国务卿 华春莹再次说错话被嘲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304965.md" target="_blank">川普警告伊朗：伊朗计划偷袭美军 真敢干将面临严重后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304964.md" target="_blank">石正丽去年3月蹊跷发文 预警蝙蝠病毒大疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md" target="_blank">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303326.md" target="_blank">李克强发声 挑战习近平？习近平考察 上海突发异常 湖北零增长？各地纷打脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303308.md" target="_blank">突发！湖南郴州重大火车事故 官方称零死亡 网民：又在撒谎！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md" target="_blank">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md" target="_blank">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
 
 </ul>
 </div>
