@@ -20,8 +20,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200402/1304757.md">大S曾倒追的对象 当年的颜值迷倒一大片 如今却成油腻大叔</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305321.md" target="_blank">武汉李文亮医生被“烈士”，“发哨人”艾芬医生疑失踪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305318.md" target="_blank">香港电台采访世卫提问涉台  遭“有违一中”问责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305317.md" target="_blank">台湾“口罩外交”获欧美政界赞赏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305312.md" target="_blank">新疆哈萨克族人被判刑19年  狱中患白血病官拒保释</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305187.md" target="_blank">【耳边风】「三个老刘」和「两种忠诚」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305186.md" target="_blank">疫情拖累香港4分1雇员放无薪假  　泛民吁抗疫基金惠受相关群组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305185.md" target="_blank">彭博：美情报机构认定中国隐匿疫情、数字造假 已向白宫报告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305184.md" target="_blank">蔡英文口罩外交奏效    欧盟主席感谢台湾</a></li>
 
 </ul>
 </div>
