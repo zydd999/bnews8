@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304715.md">习近平被夺位？任志强搅动中南海</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304672.md">邀请同坐6人小船 习近平以人多为由婉拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304789.md">宝胜政论：赵立坚叛逃？北京发生政变？美情报部门向白宫提交中共隐瞒疫情秘密报告！欧美向中共秋后算账箭在弦上！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304694.md">公子时评：赵立坚叛逃美国大使馆了吗？任志强还活着吗？聊聊时政自媒体的底线 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304970.md">重磅！追讨中共隐瞒疫情 重要证据来了</a></li>
@@ -14,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md">中共“战狼”发言人赵立坚25天未露面</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305149.md">涨价在即？中国各地大抢粮 虚假一场？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200402/1304757.md">大S曾倒追的对象 当年的颜值迷倒一大片 如今却成油腻大叔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305307.md" target="_blank">记者无疆界敦促中国大使们停止攻击媒体报道新冠病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305306.md" target="_blank">《视频》湖北张先生想为感染新冠病毒去世的父亲讨个说法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md" target="_blank">新冠病毒零号病人传是她?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305264.md" target="_blank">捐助国际各大组织 四张图看懂美中差异</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305223.md" target="_blank">病毒致市场消费乱局 中国眼光抢购美国原油</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md" target="_blank">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md" target="_blank">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305071.md" target="_blank">新招对抗中共 美国官员达成一致</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305066.md" target="_blank">湖北医生：医院一出一进 中共肺炎患者没了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md" target="_blank">当局政策突变引猜测 中国疫情二次爆发？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305041.md" target="_blank">“健康码”秒变 是隔离还大肆敛财？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md" target="_blank">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305312.md" target="_blank">新疆哈萨克族人被判刑19年  狱中患白血病官拒保释</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305288.md" target="_blank">本台揭发四川森林大火涉行政失误   地方宣传部急向记者官员下封口令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305285.md" target="_blank">大疫下在中国的“老外”陷入“嫌外困境”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305279.md" target="_blank">应对疫情冲击    中国将发行千亿超规模国债</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305184.md" target="_blank">蔡英文口罩外交奏效    欧盟主席感谢台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305175.md" target="_blank">港府斥責港台記者向世衛提台灣問題</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305137.md" target="_blank">香港上诉庭裁定警方可未经法院批准搜查被捕者手机内容</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305123.md" target="_blank">武汉肺炎期间中共再发文件打击宗教 多处家庭教会遭取缔</a></li>
 
 </ul>
 </div>
