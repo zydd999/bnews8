@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305264.md" target="_blank">捐助国际各大组织 四张图看懂美中差异</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305223.md" target="_blank">病毒致市场消费乱局 中国眼光抢购美国原油</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md" target="_blank">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305197.md" target="_blank">多国军队爆发感染 潜舰成最恐怖之地</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md" target="_blank">当局政策突变引猜测 中国疫情二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305041.md" target="_blank">“健康码”秒变 是隔离还大肆敛财？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md" target="_blank">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305022.md" target="_blank">四川西昌泸山大火复燃 当局急下“封口令”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305274.md" target="_blank">时事大家谈：专访林培瑞：中共将为疫情付出代价 美中关系必将转舵</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md" target="_blank">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305267.md" target="_blank">商经局斥责港台向世卫提台湾问题     锺剑华：邱腾华做法非常愚蠢</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305266.md" target="_blank">上诉庭裁定警方无手令仍可查手机内容   「合理基础」成争议焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305252.md" target="_blank">法国种猪乘飞机到中国，帮助恢复养猪业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305251.md" target="_blank">台湾宣布研发出快筛试剂 最快10分钟筛出武汉肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305225.md" target="_blank">中国报告新增病例下降 防输入感染严限国际航班</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304905.md" target="_blank">继续追责中共 议员要求美国务院调查三名失踪中国公民记者下落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304870.md" target="_blank">人权团体呼吁中国停止打压网上言论自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304833.md" target="_blank">香港警方：8·31纪念活动54人被拘捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304813.md" target="_blank">美情报部门报告：中国瞒报新冠感染和死亡人数</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304812.md" target="_blank">搜刮外国医疗用品再捐赠   中国大外宣很“拼命 ”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304811.md" target="_blank">美议员吁调查世卫组织协助中共掩盖疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304798.md" target="_blank">河南郏县因出现无症状感染者全面封村封小区</a></li>
 
 </ul>
 </div>
