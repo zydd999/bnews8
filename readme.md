@@ -8,7 +8,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304539.md">钟南山先生这回又要打脸了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304472.md">前卫生高官：估计有那么一天大爆发 就彻底就完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
@@ -18,12 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304789.md">宝胜政论：赵立坚叛逃？北京发生政变？美情报部门向白宫提交中共隐瞒疫情秘密报告！欧美向中共秋后算账箭在弦上！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304694.md">公子时评：赵立坚叛逃美国大使馆了吗？任志强还活着吗？聊聊时政自媒体的底线 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304789.md">宝胜政论：赵立坚叛逃？北京发生政变？美情报部门向白宫提交中共隐瞒疫情秘密报告！欧美向中共秋后算账箭在弦上！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304474.md">别不信！临夏机密文件 鄂州强行关闭粮油店铺 接下来是什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md">湖北医生：中共数据的冰山一角</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304953.md" target="_blank">【一线采访】中共改抗疫补贴标准 医护愤怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304629.md" target="_blank">获32项国际奖 《归途》即将网络首映</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304871.md" target="_blank">天亮时分：从佛州女疯狂囤货落法网,说说中共对全世界的隐形战争(政论天下第144集 20200401)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304823.md" target="_blank">夫妻双双死在通山县政府门前 政府不理</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304543.md" target="_blank">安倍说日本现在不是宣布紧急状态的状况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304535.md" target="_blank">肯定武汉经验 专家指挡下70万起感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md" target="_blank">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304519.md" target="_blank">习近平再讲话 首提严防境外输入重中之重</a></li>
 
 </ul>
 </div>
