@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304539.md">钟南山先生这回又要打脸了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304672.md">邀请同坐6人小船 习近平以人多为由婉拒</a></li>
@@ -11,9 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304694.md">公子时评：赵立坚叛逃美国大使馆了吗？任志强还活着吗？聊聊时政自媒体的底线 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200402/1304788.md">鱼眼观察 &#124; 人民日报这次“翻车”了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304970.md">重磅！追讨中共隐瞒疫情 重要证据来了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200402/1304788.md">鱼眼观察 &#124; 人民日报这次“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304843.md">美医生治愈699例成功率100%！药方揭秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304964.md">石正丽去年3月蹊跷发文 预警蝙蝠病毒大疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
@@ -24,6 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304792.md">彭博社：美国情报部门称北京的疫情数字是假的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304848.md">纽约州长出巨资从中国买1.7万台呼吸机 被指“糊涂到家”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305145.md" target="_blank">涨价在即？中国各地大抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305131.md" target="_blank">美国情报指中国隐瞒疫情 欧盟报告控华俄发假消息削团结 世卫吁勿轻易指责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305112.md" target="_blank">探寻疫情起源 美专家促中共披露实验室记录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304918.md" target="_blank">作曲家真人视频：患重症肺炎 诚念法轮功九字真言康复</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304967.md" target="_blank">多部门联手 白宫正式反击中共舆论战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304966.md" target="_blank">美前司法部长怒了 吁国会立即调查中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304953.md" target="_blank">【一线采访】中共改抗疫补贴标准 医护愤怒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304629.md" target="_blank">获32项国际奖 《归途》即将网络首映</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305137.md" target="_blank">香港上诉庭裁定警方可未经法院批准搜查被捕者手机内容</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305123.md" target="_blank">武汉肺炎期间中共再发文件打击宗教 多处家庭教会遭取缔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305120.md" target="_blank">甘肃密件动员群众储粮 多地再掀抢购潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304905.md" target="_blank">继续追责中共 议员要求美国务院调查三名失踪中国公民记者下落</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304700.md" target="_blank">抗击疫情 中国和澳大利亚瞄准太平洋岛国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304695.md" target="_blank">台湾的国号烦恼：台湾做好事，中国被感激</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304690.md" target="_blank">病毒检测试剂盒准确性受质疑 中国取缔无证产品出口</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200401/1304668.md" target="_blank">太子站831事件七个月 市民悼念疑遭打压</a></li>
 
 </ul>
 </div>
