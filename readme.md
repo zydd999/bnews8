@@ -1,29 +1,29 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304399.md">重大动向？人民日报头版没报习近平 李克强汪洋占位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304476.md">别不信！临夏机密文件曝光 鄂州强行关闭粮油店铺 接下来会发生什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304411.md">微博精粹：习总突然中了？要反？各大党媒头版不正常</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md">中南海激战 习近平被卖了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304496.md">大陆二次大爆发就在眼前 习近平向川普如此承诺 日本学者爆料惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304539.md">钟南山先生这回又要打脸了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304427.md">江峰：习近平下台？任志强回家？党内政变完成？真假消息的背後；西方“去中共化” 逐渐完成合力，清算追责从官员海外资产开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304472.md">前卫生高官：估计有那么一天大爆发 就彻底就完了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304400.md">临近二十大中南海内斗激烈 是卖主还是借刀目标都是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304672.md">邀请同坐6人小船 习近平以人多为由婉拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304715.md">习近平被夺位？任志强搅动中南海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200401/1304536.md">中国多地民众抢购粮油大米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304789.md">宝胜政论：赵立坚叛逃？北京发生政变？美情报部门向白宫提交中共隐瞒疫情秘密报告！欧美向中共秋后算账箭在弦上！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200401/1304461.md">美国护士警告：其护理的患者中都发现了这个症状...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200402/1304694.md">公子时评：赵立坚叛逃美国大使馆了吗？任志强还活着吗？聊聊时政自媒体的底线 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200401/1304498.md">老年痴呆“元凶”已找到：睡前这个坏习惯 或会让痴呆几率翻倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200401/1304474.md">别不信！临夏机密文件 鄂州强行关闭粮油店铺 接下来是什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md">湖北医生：中共数据的冰山一角</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200402/1304788.md">鱼眼观察 &#124; 人民日报这次“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304429.md">鄂州现恐慌性抢购粮油 当局“辟谣”无果强制关店</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304983.md" target="_blank">对比中美对外捐款 中共并不慷慨 有据为证</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304982.md" target="_blank">突发：美国情报部门机密文件 中共隐瞒病毒爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304981.md" target="_blank">河南郏县再封城 只因…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304980.md" target="_blank">美论文曝江苏公共浴场群体感染 高温无阻病毒传播</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304975.md" target="_blank">外媒：中国与邻国的对比显示了中共政权的本色</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304967.md" target="_blank">多部门联手 白宫正式反击中共舆论战</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304966.md" target="_blank">美前司法部长怒了 吁国会立即调查中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304953.md" target="_blank">【一线采访】中共改抗疫补贴标准 医护愤怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304629.md" target="_blank">获32项国际奖 《归途》即将网络首映</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304871.md" target="_blank">天亮时分：从佛州女疯狂囤货落法网,说说中共对全世界的隐形战争(政论天下第144集 20200401)</a></li>
@@ -50,19 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304615.md" target="_blank">传习近平向特朗普承诺遏制虚假信息宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304614.md" target="_blank">中国情势虽好转 世界市场情绪却未随之起舞并恶化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304588.md" target="_blank">北京8天无本地新增确诊严厉防疫 清明或允扫墓推返城隔离14天</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304579.md" target="_blank">严重依赖中共医药供应链 各国尝恶果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md" target="_blank">湖北医生：中共数据的冰山一角</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304545.md" target="_blank">世界疫情泛滥 访美学者道歉说致爱国玻璃心崩溃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304544.md" target="_blank">小心病毒 北京严加防疫电梯倡用牙签摁楼层</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304543.md" target="_blank">安倍说日本现在不是宣布紧急状态的状况</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304535.md" target="_blank">肯定武汉经验 专家指挡下70万起感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md" target="_blank">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304965.md" target="_blank">川普警告伊朗：伊朗计划偷袭美军 真敢干将面临严重后果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304964.md" target="_blank">石正丽去年3月蹊跷发文 预警蝙蝠病毒大疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md" target="_blank">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304715.md" target="_blank">习近平被夺位？任志强搅动中南海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304684.md" target="_blank">中国经济到底惨到什么程度？当局连遮羞布都不要了</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303308.md" target="_blank">突发！湖南郴州重大火车事故 官方称零死亡 网民：又在撒谎！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303292.md" target="_blank">约翰逊亲共 川普勃然大怒 华为和疫情巧合不可思议 英政府大反转要清算中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303284.md" target="_blank">习考察浙江当天 上海惊爆异常信号 出啥事了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303268.md" target="_blank">中共病毒再曝狡猾之处 隐形病人和重症患者又添变数！(图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200330/1303237.md" target="_blank">实在看不下去！杜汶泽痛批这舔共老头</a></li>
 
 </ul>
 </div>
