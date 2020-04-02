@@ -13,9 +13,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304843.md">美医生治愈699例成功率100%！药方揭秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md">杠上美国务卿 华春莹再次说错话被嘲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md">中共“战狼”发言人赵立坚25天未露面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305223.md" target="_blank">病毒致市场消费乱局 中国眼光抢购美国原油</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md" target="_blank">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305197.md" target="_blank">多国军队爆发感染 潜舰成最恐怖之地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305196.md" target="_blank">厂商偷工减料欲发财 中国制口罩缺陷率翻倍</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305041.md" target="_blank">“健康码”秒变 是隔离还大肆敛财？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md" target="_blank">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305022.md" target="_blank">四川西昌泸山大火复燃 当局急下“封口令”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md" target="_blank">中共“战狼”发言人赵立坚25天未露面</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305225.md" target="_blank">中国报告新增病例下降 防输入感染严限国际航班</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305204.md" target="_blank">深圳成为中国首个明确禁止食用猫狗的城市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305203.md" target="_blank">河南防疫出现缺口 郏县医院出现感染群组封锁社区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305200.md" target="_blank">美国官员透露：对华高科技出口门槛将会提高</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304798.md" target="_blank">河南郏县因出现无症状感染者全面封村封小区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304790.md" target="_blank">新冠肺炎肆虐全球: “大国担当”成中共宣传最新热词</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304784.md" target="_blank">无症状感染者对疫情影响有多大？钟南山等海内外专家意见各异</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1304782.md" target="_blank">欧盟主席感谢台湾捐赠口罩   台媒：意义重大</a></li>
 
 </ul>
 </div>
