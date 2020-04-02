@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md">湖北医生：中共数据的冰山一角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304518.md">东海撞船 日本军舰不敌中国渔船钢坚 引军事举措分析</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
