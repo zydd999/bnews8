@@ -13,11 +13,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200402/1304841.md">霍金竟然来自未来，曾亲眼目睹人类结局！穿越的结果细思极恐！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200402/1305282.md">全球化彻底结束，战争一触即发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200402/1304866.md">不囤米粮囤积卫生纸的原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305466.md" target="_blank">马克龙致电塞总统:欧盟援助也很多 比中国给的多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305456.md" target="_blank">【现场视频】西昌大火复燃 山东两地起火</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305455.md" target="_blank">广州女护士被非洲籍确诊男子殴打撕咬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305428.md" target="_blank">法兰西岛大区主席:美国的确抢购中国口罩 但我们选的货到付款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305354.md" target="_blank">1.05兆纾困预算护台湾 砸千亿稳住百万人就业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305347.md" target="_blank">全球疫情快报：全球病例超90万 美国病例破20万</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305162.md" target="_blank">中国疫情本土确诊续唱风景独好 无症状感染例小步增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305150.md" target="_blank">意大利记者:不要称中国病毒 要称中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305145.md" target="_blank">涨价在即？中国各地大抢粮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305131.md" target="_blank">美国情报指中国隐瞒疫情 欧盟报告控华俄发假消息削团结 世卫吁勿轻易指责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305112.md" target="_blank">探寻疫情起源 美专家促中共披露实验室记录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304918.md" target="_blank">作曲家真人视频：患重症肺炎 诚念法轮功九字真言康复</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305461.md" target="_blank">美国情报部门质疑中国疫情数据</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305460.md" target="_blank">加拿大确诊人数破万  舆论指中国隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305450.md" target="_blank">疫情致中国出口骤减   美国外贸逆差大幅下降</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305423.md" target="_blank">人权组织：中国驻外使节应停止攻击报道新冠疫情的新闻媒体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305414.md" target="_blank">台湾捐千万口罩   受赠国感谢 “台湾真朋友”</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305251.md" target="_blank">台湾宣布研发出快筛试剂 最快10分钟筛出武汉肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305225.md" target="_blank">中国报告新增病例下降 防输入感染严限国际航班</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305204.md" target="_blank">深圳成为中国首个明确禁止食用猫狗的城市</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305203.md" target="_blank">河南防疫出现缺口 郏县医院出现感染群组封锁社区</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305200.md" target="_blank">美国官员透露：对华高科技出口门槛将会提高</a></li>
 
 </ul>
 </div>
