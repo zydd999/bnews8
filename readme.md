@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304512.md">武汉4月8日“解封”未到 武汉钢城青山昨日再被封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304578.md">湖北医生：中共数据的冰山一角</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304518.md">东海撞船 日本军舰不敌中国渔船钢坚 引军事举措分析</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200401/1304526.md">费解！中国无病徵感染人数单日较确诊2.6倍 港专家推算染疫总人数约为官方3倍</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305091.md" target="_blank">索赔声音渐起！澳洲参议员：应就疫情向中共追责索赔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305090.md" target="_blank">中共借防疫之名打压 “吹哨人” 各地迫害不断！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305073.md" target="_blank">粮食危机迫在眉睫 网曝官方密令党员屯粮 中国多地爆抢米潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305071.md" target="_blank">新招对抗中共 美国官员达成一致</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305066.md" target="_blank">湖北医生：医院一出一进 中共肺炎患者没了！</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304871.md" target="_blank">天亮时分：从佛州女疯狂囤货落法网,说说中共对全世界的隐形战争(政论天下第144集 20200401)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304823.md" target="_blank">夫妻双双死在通山县政府门前 政府不理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304822.md" target="_blank">纽约时报：“新冠危机中，中国年轻一代走向政治觉醒”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304820.md" target="_blank">陈破空：美情今日速览！习近平给特朗普礼物。内定习家军反党？日本教授揭秘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304793.md" target="_blank">文昭：粮食短缺迫近，要备粮备荒吗？川普做最坏交底，习近平呢？</a></li>
 
 </ul>
 </div>
