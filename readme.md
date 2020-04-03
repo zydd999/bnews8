@@ -9,8 +9,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305689.md">网传中共军方专家内部讲话：武汉第一代病人死了1/3</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305904.md">内部爆料！中共狂印20多万亿假美元 想干什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305689.md">网传中共军方专家内部讲话：武汉第一代病人死了1/3</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305195.md">上海一幼儿园男幼师性侵多名女童 网警狂删帖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305591.md">白邦瑞：川普对习近平说话委婉有缘由</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305264.md">捐助国际各大组织 四张图看懂美中差异</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1305313.md">酒肉穿肠过，佛祖心中留 后面两句让你听了脊背发凉</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306250.md" target="_blank">疑封关触怒中国 　澳新新任驻港领事签证受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306240.md" target="_blank">中国各地店铺纷纷求售  企业倒闭呈多米诺骨牌效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306239.md" target="_blank">港府偏袒亲共组织违规标语     连侬墙却被无理清拆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306209.md" target="_blank">中国名牌咖啡店造假数严重   美国投资者势追讨巨额赔偿</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305342.md" target="_blank">邱腾华斥港台提问有违「一个中国」原则　港台工会声明：令人心寒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305341.md" target="_blank">武汉疫情“吹哨人”李文亮医生   由造谣者该评烈士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305334.md" target="_blank">外国订单纷纷取消，中国失业率势必上升</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305321.md" target="_blank">武汉李文亮医生被“烈士”，“发哨人”艾芬医生疑失踪</a></li>
 
 </ul>
 </div>
