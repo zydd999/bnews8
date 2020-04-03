@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304970.md">重磅！追讨中共隐瞒疫情 重要证据来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304964.md">石正丽去年3月蹊跷发文 预警蝙蝠病毒大疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md">杠上美国务卿 华春莹再次说错话被嘲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305149.md">涨价在即？中国各地大抢粮 虚假一场？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md">杠上美国务卿 华春莹再次说错话被嘲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md">中共“战狼”发言人赵立坚25天未露面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md">面临美国致命打击 华为疼的直跳脚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200403/1305464.md">〖兲朝浮世绘〗为了刺激经济，中共居然把卖淫嫖娼放开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305195.md">上海一幼儿园男幼师性侵多名女童 网警狂删帖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305145.md">涨价在即？中国各地大抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200403/1305464.md">〖兲朝浮世绘〗为了刺激经济，中共居然把卖淫嫖娼放开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304965.md">川普警告伊朗：伊朗计划偷袭美军 真敢干将面临严重后果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1305116.md">中共爆生化疫情 日本早知晓 只是怕这个没说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304980.md">美论文曝江苏公共浴场群体感染 高温无阻病毒传播</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305623.md" target="_blank">美国会重量级共和党人呼吁中国不要恢复闭活禽市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305519.md" target="_blank">党媒记者获奖“战疫巾帼英雄”  打了谁的脸？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305504.md" target="_blank">中国外交部力挺中国口罩  医疗产业链将转移</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305478.md" target="_blank">原世卫总干事陈冯富珍清华高就   谭德赛感谢习近平</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305278.md" target="_blank">路透社：美国特朗普政府将进一步限制对华高科技出口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305274.md" target="_blank">时事大家谈：专访林培瑞：中共将为疫情付出代价 美中关系必将转舵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md" target="_blank">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305267.md" target="_blank">商经局斥责港台向世卫提台湾问题     锺剑华：邱腾华做法非常愚蠢</a></li>
 
 </ul>
 </div>
