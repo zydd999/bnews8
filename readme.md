@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305552.md">潘石屹儿子连发敏感信息暗批体制 网络关切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200403/1305464.md">〖兲朝浮世绘〗为了刺激经济，中共居然把卖淫嫖娼放开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305195.md">上海一幼儿园男幼师性侵多名女童 网警狂删帖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305689.md">网传中共军方专家内部讲话：武汉第一代病人死了1/3</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305145.md">涨价在即？中国各地大抢粮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200403/1305445.md">疫情何时结束？命理师恐怖预言：这个月更可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305904.md">内部爆料！中共狂印20多万亿假美元 想干什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200403/1305445.md">疫情何时结束？命理师恐怖预言：这个月更可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1305059.md">“中共病毒”正在有选择的定位杀人，《魔戒》早就预演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200402/1305163.md">新冠病毒打击世界七零八落 俄罗斯援助特朗普欧洲瞠目结舌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306180.md" target="_blank">武汉解封添变数 复发频传社区封闭管理持续</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306179.md" target="_blank">习近平浙江行 官媒加大对外宣传中国信心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306159.md" target="_blank">先见之明！美国军事学院去年兵推&quot;都市疫情&quot; 预测今年危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306158.md" target="_blank">深圳宣布5月起禁吃猫肉、狗肉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306156.md" target="_blank">中国明日下半旗为疫情牺牲人士致哀</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305578.md" target="_blank">不惧威胁！印媒赞扬台湾 转头炮轰中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305552.md" target="_blank">潘石屹儿子连发敏感信息暗批体制 网络关切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305532.md" target="_blank">电影《永恒的五十分钟》（为你而来2）预告片</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305518.md" target="_blank">陈破空：美情深重，纽约人为何不逃不抢不乱？高层内战：常委提议放人，习近平一票否决</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305466.md" target="_blank">马克龙致电塞总统:欧盟援助也很多 比中国给的多</a></li>
 
 </ul>
 </div>
