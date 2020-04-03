@@ -13,16 +13,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306331.md">任案显落地? 王岐山今露面陪同习近平植树活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md" target="_blank">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306523.md" target="_blank">专栏 | 夜话中南海：宣称中国政府完全透明，钟南山为习近平政权再立新功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306497.md" target="_blank">法美希望五常急开新冠峰会 中美病毒起源吵瘫安理会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306392.md" target="_blank">自述：诚念法轮功九字真言 重症艾滋病患者康复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md" target="_blank">养虎为患 美国疫情为何严重</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306233.md" target="_blank">武汉李文亮吹哨被“烈士”，“发哨人”艾芬医生疑失踪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306195.md" target="_blank">台湾一石四鸟 中共羡慕嫉妒恨 西方大国要反省</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md" target="_blank">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306182.md" target="_blank">新冠病毒 中国新报疫情无症状感染者新增60例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306180.md" target="_blank">武汉解封添变数 复发频传社区封闭管理持续</a></li>
 
 </ul>
 </div>
