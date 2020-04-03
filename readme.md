@@ -18,11 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
