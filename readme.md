@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306434.md" target="_blank">天气和暖阻不了瘟疫步伐　泰国宵禁新加坡关闭非必要办公场所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306425.md" target="_blank">VOA连线(叶兵)：清明节中国哀悼染疫死难者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306424.md" target="_blank">究责北京？美国会起草《李文亮法案》制裁瞒报外国官员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306423.md" target="_blank">「美国胖媳妇儿」爆买口罩　「一点不剩给美国人」</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306311.md" target="_blank">中联部发言人首条推文宣扬「人类健康共同体」    开局不利成大外宣「翻车现场」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306289.md" target="_blank">解封在即 武汉发出疫情警示要求市民不要出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306288.md" target="_blank">中国央行称，有充足的政策工具应对疫情影响</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306287.md" target="_blank">华驻外使馆怕承担责任  　侨民回国须签免责声明</a></li>
 
 </ul>
 </div>
