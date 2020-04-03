@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305195.md">上海一幼儿园男幼师性侵多名女童 网警狂删帖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305145.md">涨价在即？中国各地大抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200403/1305445.md">疫情何时结束？命理师恐怖预言：这个月更可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305689.md">网传中共军方专家内部讲话：武汉第一代病人死了1/3</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1305116.md">中共爆生化疫情 日本早知晓 只是怕这个没说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1305059.md">“中共病毒”正在有选择的定位杀人，《魔戒》早就预演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305904.md">内部爆料！中共狂印20多万亿假美元 想干什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1305059.md">“中共病毒”正在有选择的定位杀人，《魔戒》早就预演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200402/1305163.md">新冠病毒打击世界七零八落 俄罗斯援助特朗普欧洲瞠目结舌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305264.md">捐助国际各大组织 四张图看懂美中差异</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md" target="_blank">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md" target="_blank">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306116.md" target="_blank">大疫有眼？川普第二次病毒检测呈阴性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306100.md" target="_blank">无症状感染者传播率低？中共专家信口胡编穿帮</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305456.md" target="_blank">【现场视频】西昌大火复燃 山东两地起火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305455.md" target="_blank">广州女护士被非洲籍确诊男子殴打撕咬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305428.md" target="_blank">法兰西岛大区主席:美国的确抢购中国口罩 但我们选的货到付款</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305354.md" target="_blank">1.05兆纾困预算护台湾 砸千亿稳住百万人就业</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md" target="_blank">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md" target="_blank">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md" target="_blank">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304735.md" target="_blank">拉比警告还将有另一种病毒 致命性比中共病毒更高</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304353.md" target="_blank">梵蒂冈感染率高于意平均数 亲共教宗：感到恐惧和迷失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304352.md" target="_blank">令人震惊！中国学者携带活病毒瓶进出美国海关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304351.md" target="_blank">三记耳光 打脸世卫!台湾外交部严吁WHO继续检讨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304196.md" target="_blank">两分钟搞定 美国快筛中共病毒迈出一大步</a></li>
 
 </ul>
 </div>
