@@ -1,9 +1,8 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200402/1305282.md">全球化彻底结束，战争一触即发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200403/1305464.md">〖兲朝浮世绘〗为了刺激经济，中共居然把卖淫嫖娼放开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305552.md">潘石屹儿子连发敏感信息暗批体制 网络关切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
@@ -12,18 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305689.md">网传中共军方专家内部讲话：武汉第一代病人死了1/3</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200403/1305445.md">疫情何时结束？命理师恐怖预言：这个月更可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305591.md">白邦瑞：川普对习近平说话委婉有缘由</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305708.md">冰岛实验室检测结果：这类患者更可怕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306303.md" target="_blank">陈冯富珍任职清华高干 谭德塞道贺也谢习主席领导</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306286.md" target="_blank">圈钱补窟窿！中国10省市鼓励民众养老金“多缴”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306252.md" target="_blank">病毒冲击中国财政收入锐减 浙江拜科技福一枝独秀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306236.md" target="_blank">觉醒！认清中共 不再受愚弄</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305904.md" target="_blank">内部爆料！中共狂印20多万亿假美元 想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md" target="_blank">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305721.md" target="_blank">驻港部队坠机4死 中共王牌直升机半年失事2次</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md" target="_blank">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md" target="_blank">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md" target="_blank">武肺2条大新闻撞到一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306157.md" target="_blank">世卫因应疫情不当 美参议员吁谭德塞辞职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md" target="_blank">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
@@ -87,13 +88,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304665.md" target="_blank">中南海激战 习近平被卖了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304511.md" target="_blank">内幕：全球瘟疫笼罩 各国医疗物资匮乏 背后的黑手终于找到了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304471.md" target="_blank">借意大利医院报导“纽约疫情” 左媒CBS公开道歉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200401/1304458.md" target="_blank">纽时 消失的任志强：中共为何容不下一位忠诚的批评者</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306289.md" target="_blank">解封在即 武汉发出疫情警示要求市民不要出门</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306288.md" target="_blank">中国央行称，有充足的政策工具应对疫情影响</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306287.md" target="_blank">华驻外使馆怕承担责任  　侨民回国须签免责声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306274.md" target="_blank">中国船只在南中国海撞沉越南渔船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306267.md" target="_blank">【耳边风】瑞幸「骗局」星光熠熠？　</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306266.md" target="_blank">瑞幸咖啡造假涉22亿　　闹出丑闻高层「元气满满」　</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305478.md" target="_blank">原世卫总干事陈冯富珍清华高就   谭德赛感谢习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305477.md" target="_blank">新冠疫情蔓延全球  朝鲜放宽对外国人防控管制措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305473.md" target="_blank">凉山山火重演去年悲剧   知情者透露真情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305461.md" target="_blank">美国情报部门质疑中国疫情数据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305460.md" target="_blank">加拿大确诊人数破万  舆论指中国隐瞒疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305450.md" target="_blank">疫情致中国出口骤减   美国外贸逆差大幅下降</a></li>
 
 </ul>
 </div>
