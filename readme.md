@@ -11,16 +11,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306331.md">任案显落地? 王岐山今露面陪同习近平植树活动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md" target="_blank">养虎为患 美国疫情为何严重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306327.md" target="_blank">澳洲知名专家：瘟疫蔓延 中共难逃罪责</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306264.md" target="_blank">中共被任命人权高专小组，联合国观察：何德何能？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306318.md" target="_blank">网传内部讲话 透露武汉死亡惊人数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md" target="_blank">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306356.md" target="_blank">中国官方呛 世界抗疫领导权不是吹出来争出来的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md" target="_blank">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306180.md" target="_blank">武汉解封添变数 复发频传社区封闭管理持续</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306179.md" target="_blank">习近平浙江行 官媒加大对外宣传中国信心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306159.md" target="_blank">先见之明！美国军事学院去年兵推&quot;都市疫情&quot; 预测今年危机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306158.md" target="_blank">深圳宣布5月起禁吃猫肉、狗肉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306156.md" target="_blank">中国明日下半旗为疫情牺牲人士致哀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md" target="_blank">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md" target="_blank">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306490.md" target="_blank">美学者联名发出公开信呼吁美中合作，拯救全球生命</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306489.md" target="_blank">隐瞒？试剂不准？看中国专家如何解释</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306488.md" target="_blank">美中两封百人联署公开信谈疫情 目的大不同</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306454.md" target="_blank">中国央行：疫情影响尚未超过2008年金融危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306453.md" target="_blank">云南旱情持续  上百万人饮水困难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306452.md" target="_blank">十余家国际团体发声明  敦促当局确保王全璋人权</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306363.md" target="_blank">全球确诊病例破百万  中国悼念新冠肺炎烈士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306351.md" target="_blank">美台视频会议：加强双边防疫合作，推动台湾加入世卫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306350.md" target="_blank">联合国要求香港解释港警无差别和恶意使用催泪弹问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306349.md" target="_blank">美台举行电话会议商讨如何帮助台湾扩大国际参与</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306323.md" target="_blank">香港电台提问台湾遭施压 美国促北京尊重两制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306313.md" target="_blank">港府褫夺刘梦熊铜紫荆星章勋衔</a></li>
 
 </ul>
 </div>
