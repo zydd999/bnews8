@@ -12,12 +12,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200403/1305445.md">疫情何时结束？命理师恐怖预言：这个月更可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306389.md" target="_blank">妻子：王全璋出狱后将被隔离14天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306388.md" target="_blank">中国央行释放4000亿元助实体经济</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306387.md" target="_blank">深圳成大陆首个立法禁食猫狗城市</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306379.md" target="_blank">焦点对话：谁是真朋友？比较中国和台湾的’“口罩外交”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306370.md" target="_blank">维权律师王全璋出狱日子或有变，人权组织呼吁确保其合法权益</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306363.md" target="_blank">全球确诊病例破百万  中国悼念新冠肺炎烈士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306351.md" target="_blank">美台视频会议：加强双边防疫合作，推动台湾加入世卫</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306250.md" target="_blank">疑封关触怒中国 　澳新新任驻港领事签证受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306240.md" target="_blank">中国各地店铺纷纷求售  企业倒闭呈多米诺骨牌效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306239.md" target="_blank">港府偏袒亲共组织违规标语     连侬墙却被无理清拆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306209.md" target="_blank">中国名牌咖啡店造假数严重   美国投资者势追讨巨额赔偿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306172.md" target="_blank">全国财政收入大滑坡    唯独浙江一枝独秀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306138.md" target="_blank">全球基督教团结联盟：中国的另一种病毒——宗教迫害</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306153.md" target="_blank">超严格管控：维族人入住须详细报备公安局 一酒店未登记遭罚</a></li>
 
 </ul>
 </div>
