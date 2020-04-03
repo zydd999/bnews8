@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1304970.md">重磅！追讨中共隐瞒疫情 重要证据来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304964.md">石正丽去年3月蹊跷发文 预警蝙蝠病毒大疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md">杠上美国务卿 华春莹再次说错话被嘲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305149.md">涨价在即？中国各地大抢粮 虚假一场？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md">杠上美国务卿 华春莹再次说错话被嘲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304996.md">外籍人士广州酒店染“武汉肺炎”死亡 特警封街</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305021.md">中共“战狼”发言人赵立坚25天未露面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305020.md">习近平讲话 ：一篇反外宣的大内宣 或引来众怒！</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305045.md">当局政策突变引猜测 中国疫情二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305040.md">【一线采访】北京人生活艰难 男子崩溃痛哭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304965.md">川普警告伊朗：伊朗计划偷袭美军 真敢干将面临严重后果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1304980.md">美论文曝江苏公共浴场群体感染 高温无阻病毒传播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1305116.md">中共爆生化疫情 日本早知晓 只是怕这个没说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305179.md">陈平指倒习不太可能但中国人心思稳变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200402/1305088.md">数据惊人！中共病毒在美欧引发的真正危机才刚刚开始</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
