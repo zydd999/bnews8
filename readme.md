@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200402/1305282.md">全球化彻底结束，战争一触即发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200402/1305268.md">「习近平病毒头像」漫画登瑞典报纸    中国大使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200403/1305464.md">〖兲朝浮世绘〗为了刺激经济，中共居然把卖淫嫖娼放开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305552.md">潘石屹儿子连发敏感信息暗批体制 网络关切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305304.md">新冠病毒零号病人传是她?</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305591.md">白邦瑞：川普对习近平说话委婉有缘由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305591.md">白邦瑞：川普对习近平说话委婉有缘由</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306320.md" target="_blank">美一众议员推特投票征病毒名 中共病毒称冠 传中国人投票多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306303.md" target="_blank">陈冯富珍任职清华高干 谭德塞道贺也谢习主席领导</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306286.md" target="_blank">圈钱补窟窿！中国10省市鼓励民众养老金“多缴”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306252.md" target="_blank">病毒冲击中国财政收入锐减 浙江拜科技福一枝独秀</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306075.md" target="_blank">江峰：习近平敢吹响武统台湾的号角麽？罗斯福号航母中招，官兵上岸，美军战力锐减；戴旭谎言操控举国欢腾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305904.md" target="_blank">内部爆料！中共狂印20多万亿假美元 想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md" target="_blank">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305721.md" target="_blank">驻港部队坠机4死 中共王牌直升机半年失事2次</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306313.md" target="_blank">港府褫夺刘梦熊铜紫荆星章勋衔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md" target="_blank">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306311.md" target="_blank">中联部发言人首条推文宣扬「人类健康共同体」    开局不利成大外宣「翻车现场」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306289.md" target="_blank">解封在即 武汉发出疫情警示要求市民不要出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306288.md" target="_blank">中国央行称，有充足的政策工具应对疫情影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306287.md" target="_blank">华驻外使馆怕承担责任  　侨民回国须签免责声明</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305623.md" target="_blank">美国会重量级共和党人呼吁中国不要恢复闭活禽市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305519.md" target="_blank">党媒记者获奖“战疫巾帼英雄”  打了谁的脸？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305504.md" target="_blank">中国外交部力挺中国口罩  医疗产业链将转移</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305478.md" target="_blank">原世卫总干事陈冯富珍清华高就   谭德赛感谢习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305477.md" target="_blank">新冠疫情蔓延全球  朝鲜放宽对外国人防控管制措施</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305473.md" target="_blank">凉山山火重演去年悲剧   知情者透露真情</a></li>
 
 </ul>
 </div>
