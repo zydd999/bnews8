@@ -15,12 +15,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306331.md">任案显落地? 王岐山今露面陪同习近平植树活动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306425.md" target="_blank">VOA连线(叶兵)：清明节中国哀悼染疫死难者</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306424.md" target="_blank">究责北京？美国会起草《李文亮法案》制裁瞒报外国官员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306423.md" target="_blank">「美国胖媳妇儿」爆买口罩　「一点不剩给美国人」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306412.md" target="_blank">英国计划提升新冠疫情检测规模   发放免疫证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306402.md" target="_blank">疫情防控成为台湾与中国较力的新战场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306401.md" target="_blank">中情局2月「吹哨」　中国疫情数据严重失实　「习权」制度加剧瞒报</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306289.md" target="_blank">解封在即 武汉发出疫情警示要求市民不要出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306288.md" target="_blank">中国央行称，有充足的政策工具应对疫情影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306287.md" target="_blank">华驻外使馆怕承担责任  　侨民回国须签免责声明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306274.md" target="_blank">中国船只在南中国海撞沉越南渔船</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306267.md" target="_blank">【耳边风】瑞幸「骗局」星光熠熠？　</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306266.md" target="_blank">瑞幸咖啡造假涉22亿　　闹出丑闻高层「元气满满」　</a></li>
 
 </ul>
 </div>
