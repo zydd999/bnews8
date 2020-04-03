@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305467.md">70名美大生无视警告包机度假 44人回国确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200403/1305445.md">疫情何时结束？命理师恐怖预言：这个月更可怕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305699.md">中共病毒患者现罕见并发症：这个也很可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305207.md">影像记录者李振盛 我拍下的那些疯狂文革照</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305591.md">白邦瑞：川普对习近平说话委婉有缘由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200402/1305264.md">捐助国际各大组织 四张图看懂美中差异</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305708.md">冰岛实验室检测结果：这类患者更可怕</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306267.md" target="_blank">【耳边风】瑞幸「骗局」星光熠熠？　</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306266.md" target="_blank">瑞幸咖啡造假涉22亿　　闹出丑闻高层「元气满满」　</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306265.md" target="_blank">美台官员论坛论扩宝岛全球参与     华府新闻稿以「台湾外交部」相称</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306261.md" target="_blank">港府偏袒亲共组织违规标语 连侬墙却被无理清拆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306260.md" target="_blank">疑封关触怒中国 澳新新任驻港领事签证受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306250.md" target="_blank">疑封关触怒中国 　澳新新任驻港领事签证受阻</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305460.md" target="_blank">加拿大确诊人数破万  舆论指中国隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305450.md" target="_blank">疫情致中国出口骤减   美国外贸逆差大幅下降</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305423.md" target="_blank">人权组织：中国驻外使节应停止攻击报道新冠疫情的新闻媒体</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305414.md" target="_blank">台湾捐千万口罩   受赠国感谢 “台湾真朋友”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305343.md" target="_blank">藏区牧民子女“网课”遇阻 边境藏民被强制参与维稳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1305342.md" target="_blank">邱腾华斥港台提问有违「一个中国」原则　港台工会声明：令人心寒</a></li>
 
 </ul>
 </div>
