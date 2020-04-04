@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306318.md">网传内部讲话 透露武汉死亡惊人数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306495.md">邱家军：快电：北京疑似出现政变  683 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md">北京府右街方向突发枪声？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306326.md">邱家军：武汉正酝酿民变 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200404/1306417.md">林青霞亲姐姐：嫁到河南 退休金450元 姐妹分散36年才见面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306374.md">宝胜突发快评：第八常委王岐山陪习植树显示地位稳固、习四面楚歌不得不让任志强案软着陆？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306374.md">宝胜突发快评：第八常委王岐山陪习植树显示地位稳固、习四面楚歌不得不让任志强案软着陆？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306676.md" target="_blank">美国病毒专家:中共病毒可能从武汉实验室泄漏</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306675.md" target="_blank">中共肺炎海外感染超百万 澳专家称实际是5-10倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306751.md" target="_blank">陈破空：大动作调兵，习近平原是怕这个？某周刊被指卖国，影射副主席。美国动议制裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306734.md" target="_blank">为防止病床罄尽 日本借用酒店作新冠病房</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306733.md" target="_blank">武汉一例新增确诊涉封城后未外出者 查社区感染疑问</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md" target="_blank">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306356.md" target="_blank">中国官方呛 世界抗疫领导权不是吹出来争出来的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md" target="_blank">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306347.md" target="_blank">瑞典报纸直呼近平冠状病毒 中国使馆怒呛反科学</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306337.md" target="_blank">临阵改口 世卫拟促民众戴口罩</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306764.md" target="_blank">中国央行下调小银行准备金率，释放4000亿元流动性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306663.md" target="_blank">中共再拆大批清真寺伊斯兰教标志 阿语宣礼词被迫换国歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306630.md" target="_blank">武汉肺炎：维吾尔人被逐至外省沦奴工以恢复经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306557.md" target="_blank">一把骨灰：武汉，监视下的安葬与逝者的尊严</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306388.md" target="_blank">中国央行释放4000亿元助实体经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306387.md" target="_blank">深圳成大陆首个立法禁食猫狗城市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306379.md" target="_blank">焦点对话：谁是真朋友？比较中国和台湾的’“口罩外交”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306370.md" target="_blank">维权律师王全璋出狱日子或有变，人权组织呼吁确保其合法权益</a></li>
 
 </ul>
 </div>
