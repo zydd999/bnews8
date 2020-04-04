@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306255.md">“扫光口罩”的美国华人女子：为了祖国问心无愧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306145.md">阻止N95口罩优先供给中共 川普对3M发布国防生产令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306326.md">邱家军：武汉正酝酿民变 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306144.md">张文宏 ：疫情期间发烧 这两件事特别重要</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200403/1306137.md">中共病毒来源新线索：武汉研究员分离蝙蝠病毒并感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306144.md">张文宏 ：疫情期间发烧 这两件事特别重要</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md" target="_blank">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md" target="_blank">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了&#8230;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306635.md" target="_blank">天主教界第一枪！缅甸枢机主教：中共让全球陷入危机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md" target="_blank">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306633.md" target="_blank">死因疑点重重… 吉林女子监狱给“整过容”…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md" target="_blank">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306392.md" target="_blank">自述：诚念法轮功九字真言 重症艾滋病患者康复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md" target="_blank">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
@@ -83,11 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304918.md" target="_blank">作曲家真人视频：患重症肺炎 诚念法轮功九字真言康复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305072.md" target="_blank">面临美国致命打击 华为疼的直跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305044.md" target="_blank">疫情之下 世界各地的生存者在做什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305019.md" target="_blank">杠上美国务卿 华春莹再次说错话被嘲</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304965.md" target="_blank">川普警告伊朗：伊朗计划偷袭美军 真敢干将面临严重后果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304964.md" target="_blank">石正丽去年3月蹊跷发文 预警蝙蝠病毒大疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304732.md" target="_blank">教宗背书活摘器官 梵蒂冈感染率是意大利5倍 惊爆中国科学家带活SARS病毒到美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1304715.md" target="_blank">习近平被夺位？任志强搅动中南海</a></li>
 
 </ul>
 </div>
