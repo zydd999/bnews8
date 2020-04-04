@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306751.md">陈破空：大动作调兵，习近平原是怕这个？某周刊被指卖国，影射副主席。美国动议制裁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306676.md">美国病毒专家:中共病毒可能从武汉实验室泄漏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306801.md">中企倒闭多米诺骨牌效应初显 失全球订单!世界工厂前景黯 客流腰斩零售跌 旅游业零收入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
