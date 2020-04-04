@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md" target="_blank">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306843.md" target="_blank">中国以国家哀悼日纪念逝者 距离道歉、谢罪、追责，还都很远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306822.md" target="_blank">〖博谈编译〗冠状病毒并发症可能会持续一生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306814.md" target="_blank">美媒指中国再推重磅经济刺激政策</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md" target="_blank">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306523.md" target="_blank">专栏 | 夜话中南海：宣称中国政府完全透明，钟南山为习近平政权再立新功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306497.md" target="_blank">法美希望五常急开新冠峰会 中美病毒起源吵瘫安理会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306392.md" target="_blank">自述：诚念法轮功九字真言 重症艾滋病患者康复</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306853.md" target="_blank">瑞幸造假面对国际集体诉讼 董责险会理赔吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306850.md" target="_blank">用出口口罩擦鞋视频网络热传 美司法部长转发 中方称要调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306839.md" target="_blank">白衣天使：顶着最大的风险，筑起全球抗疫的防线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306835.md" target="_blank">中国加紧管控与东南亚接壤边界以防堵新冠病毒输入</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306434.md" target="_blank">天气和暖阻不了瘟疫步伐　泰国宵禁新加坡关闭非必要办公场所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306425.md" target="_blank">VOA连线(叶兵)：清明节中国哀悼染疫死难者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306424.md" target="_blank">究责北京？美国会起草《李文亮法案》制裁瞒报外国官员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306423.md" target="_blank">「美国胖媳妇儿」爆买口罩　「一点不剩给美国人」</a></li>
 
 </ul>
 </div>
