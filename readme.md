@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md">北京府右街方向突发枪声？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306839.md" target="_blank">白衣天使：顶着最大的风险，筑起全球抗疫的防线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306835.md" target="_blank">中国加紧管控与东南亚接壤边界以防堵新冠病毒输入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306828.md" target="_blank">河南女律师发布新冠疫情消息被警告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306824.md" target="_blank">疫情大流行不太可能阻止中国在伊朗建立影响力</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306424.md" target="_blank">究责北京？美国会起草《李文亮法案》制裁瞒报外国官员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306423.md" target="_blank">「美国胖媳妇儿」爆买口罩　「一点不剩给美国人」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306412.md" target="_blank">英国计划提升新冠疫情检测规模   发放免疫证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306402.md" target="_blank">疫情防控成为台湾与中国较力的新战场</a></li>
 
 </ul>
 </div>
