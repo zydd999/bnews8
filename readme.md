@@ -7,17 +7,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md">北京府右街方向突发枪声？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306721.md">陈秋实这个秘密揭底了 医生揭秘如何做出0病患 习发信号 北京情况重了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306751.md">陈破空：大动作调兵，习近平原是怕这个？某周刊被指卖国，影射副主席。美国动议制裁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306676.md">美国病毒专家:中共病毒可能从武汉实验室泄漏</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306801.md">中企倒闭多米诺骨牌效应初显 失全球订单!世界工厂前景黯 客流腰斩零售跌 旅游业零收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306882.md" target="_blank">天主教界第一枪： 缅甸枢机主教要中共为疫情向世界道歉赔偿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306881.md" target="_blank">逆流而上： 张文宏指中药治疗新冠病毒疗效难评估</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306880.md" target="_blank">台湾抗疫出色：疫情防控成为台湾与中国较力新战场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306853.md" target="_blank">瑞幸造假面对国际集体诉讼 董责险会理赔吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306850.md" target="_blank">用出口口罩擦鞋视频网络热传 美司法部长转发 中方称要调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306839.md" target="_blank">白衣天使：顶着最大的风险，筑起全球抗疫的防线</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306453.md" target="_blank">云南旱情持续  上百万人饮水困难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306452.md" target="_blank">十余家国际团体发声明  敦促当局确保王全璋人权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306451.md" target="_blank">美台官员参与虚拟论坛  提升台湾国际地位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306434.md" target="_blank">天气和暖阻不了瘟疫步伐　泰国宵禁新加坡关闭非必要办公场所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306425.md" target="_blank">VOA连线(叶兵)：清明节中国哀悼染疫死难者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306424.md" target="_blank">究责北京？美国会起草《李文亮法案》制裁瞒报外国官员</a></li>
 
 </ul>
 </div>
