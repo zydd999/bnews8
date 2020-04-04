@@ -1,10 +1,8 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306318.md">网传内部讲话 透露武汉死亡惊人数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306495.md">邱家军：快电：北京疑似出现政变  683 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
@@ -18,11 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306843.md" target="_blank">中国以国家哀悼日纪念逝者 距离道歉、谢罪、追责，还都很远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306822.md" target="_blank">〖博谈编译〗冠状病毒并发症可能会持续一生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306814.md" target="_blank">美媒指中国再推重磅经济刺激政策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306800.md" target="_blank">逆流高层赞扬之说? 张文宏指中药疗效较难评估</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306523.md" target="_blank">专栏 | 夜话中南海：宣称中国政府完全透明，钟南山为习近平政权再立新功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306497.md" target="_blank">法美希望五常急开新冠峰会 中美病毒起源吵瘫安理会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306392.md" target="_blank">自述：诚念法轮功九字真言 重症艾滋病患者康复</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md" target="_blank">养虎为患 美国疫情为何严重</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md" target="_blank">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306801.md" target="_blank">中企倒闭多米诺骨牌效应初显 失全球订单!世界工厂前景黯 客流腰斩零售跌 旅游业零收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306725.md" target="_blank">钟南山看诊挂号费1200元 网民叹看不起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306721.md" target="_blank">陈秋实这个秘密揭底了 医生揭秘如何做出0病患 习发信号 北京情况重了</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md" target="_blank">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md" target="_blank">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md" target="_blank">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md" target="_blank">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 
 </ul>
 </div>
