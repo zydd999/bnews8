@@ -9,7 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306721.md">陈秋实这个秘密揭底了 医生揭秘如何做出0病患 习发信号 北京情况重了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306751.md">陈破空：大动作调兵，习近平原是怕这个？某周刊被指卖国，影射副主席。美国动议制裁 </a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306618.md">老黑：那位在美国因为囤积物资被网络攻击的女性，我不识相的替她说几句话。 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306892.md" target="_blank">法治吹哨人王全璋刑满释放被强制隔离老家 709家属致信公安司法部长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md" target="_blank">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306843.md" target="_blank">中国以国家哀悼日纪念逝者 距离道歉、谢罪、追责，还都很远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306822.md" target="_blank">〖博谈编译〗冠状病毒并发症可能会持续一生</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md" target="_blank">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md" target="_blank">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306523.md" target="_blank">专栏 | 夜话中南海：宣称中国政府完全透明，钟南山为习近平政权再立新功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306497.md" target="_blank">法美希望五常急开新冠峰会 中美病毒起源吵瘫安理会</a></li>
 
 </ul>
 </div>
