@@ -14,14 +14,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306495.md">邱家军：快电：北京疑似出现政变  683 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200403/1306171.md">演戏? 陈道明凶小鲜肉：装什么大牌 不能演就滚蛋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200403/1306171.md">演戏? 陈道明凶小鲜肉：装什么大牌 不能演就滚蛋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306145.md">阻止N95口罩优先供给中共 川普对3M发布国防生产令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306255.md">“扫光口罩”的美国华人女子：为了祖国问心无愧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
