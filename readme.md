@@ -2,28 +2,28 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306331.md">任案显落地? 王岐山今露面陪同习近平植树活动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md">武肺2条大新闻撞到一起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306318.md">网传内部讲话 透露武汉死亡惊人数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306495.md">邱家军：快电：北京疑似出现政变  683 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306255.md">“扫光口罩”的美国华人女子：为了祖国问心无愧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md">北京府右街方向突发枪声？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306326.md">邱家军：武汉正酝酿民变 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200404/1306417.md">林青霞亲姐姐：嫁到河南 退休金450元 姐妹分散36年才见面</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306374.md">宝胜突发快评：第八常委王岐山陪习植树显示地位稳固、习四面楚歌不得不让任志强案软着陆？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306347.md">瑞典报纸直呼近平冠状病毒 中国使馆怒呛反科学</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306699.md" target="_blank">新冠病毒中国疫情今报武汉一例新增 境外再传入18例</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306698.md" target="_blank">清明节 中国举行隆重祭拜 悼念新冠肺炎病毒死亡者 微信一片纪念苍生唏嘘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md" target="_blank">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md" target="_blank">北京府右街方向突发枪声？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md" target="_blank">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403)</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306286.md" target="_blank">圈钱补窟窿！中国10省市鼓励民众养老金“多缴”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306252.md" target="_blank">病毒冲击中国财政收入锐减 浙江拜科技福一枝独秀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306236.md" target="_blank">觉醒！认清中共 不再受愚弄</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306235.md" target="_blank">武汉解封倒计时 变数或也与时俱增</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306234.md" target="_blank">法国智库评估世卫组织应对新冠危机方式及中国影响</a></li>
 
 </ul>
 </div>
