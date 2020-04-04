@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306312.md">武汉解封在即突然变卦  　发出公告维持「封闭管理」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200403/1306171.md">演戏? 陈道明凶小鲜肉：装什么大牌 不能演就滚蛋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306194.md">爆料：美国情报部门揭中共疫情通报中三大谎言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306255.md">“扫光口罩”的美国华人女子：为了祖国问心无愧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306145.md">阻止N95口罩优先供给中共 川普对3M发布国防生产令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306326.md">邱家军：武汉正酝酿民变 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306144.md">张文宏 ：疫情期间发烧 这两件事特别重要</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306144.md">张文宏 ：疫情期间发烧 这两件事特别重要</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306663.md" target="_blank">中共再拆大批清真寺伊斯兰教标志 阿语宣礼词被迫换国歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306630.md" target="_blank">武汉肺炎：维吾尔人被逐至外省沦奴工以恢复经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306557.md" target="_blank">一把骨灰：武汉，监视下的安葬与逝者的尊严</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306490.md" target="_blank">美学者联名发出公开信呼吁美中合作，拯救全球生命</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306387.md" target="_blank">深圳成大陆首个立法禁食猫狗城市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306379.md" target="_blank">焦点对话：谁是真朋友？比较中国和台湾的’“口罩外交”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306370.md" target="_blank">维权律师王全璋出狱日子或有变，人权组织呼吁确保其合法权益</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200403/1306363.md" target="_blank">全球确诊病例破百万  中国悼念新冠肺炎烈士</a></li>
 
 </ul>
 </div>
