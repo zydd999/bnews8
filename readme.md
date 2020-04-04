@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305904.md">内部爆料！中共狂印20多万亿假美元 想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306140.md">潘石屹公子发文直击中共死穴 内部大崩溃即将来临</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305689.md">网传中共军方专家内部讲话：武汉第一代病人死了1/3</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200403/1305572.md">火车司机故意使火车脱轨 试图撞毁海军医疗船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305728.md">萧铭：习近平不拿真金白银救经济的真正原因；美国拿⅓ GDP 救经济，中共拿不出还是不愿意拿？习近平去浙江释放什么信号？川普准备再拿2万亿建基础设施 </a></li>
@@ -14,9 +14,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1305712.md">袁隆平：如果别国不卖粮 中国就要挨饿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306178.md">当全球担心粮食危机时 美国人担心的是…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306078.md">《今日点击》中南海定已出事 习近平世交陈平自视频出头 很奇怪 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306117.md">瑞典媒体罕见全版炮轰中共 中使馆发声明回避焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306074.md">宝胜视频：武汉封城时公安大规模枪杀民众视频流出 The Chinese security forces  made the massacre  when Wu Han city locked down</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1305730.md">超恐怖！大陆多次急订10万、20万个尸袋…</a></li>
