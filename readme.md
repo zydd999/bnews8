@@ -13,12 +13,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306255.md">“扫光口罩”的美国华人女子：为了祖国问心无愧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md">北京府右街方向突发枪声？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200403/1306255.md">“扫光口罩”的美国华人女子：为了祖国问心无愧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200403/1306326.md">邱家军：武汉正酝酿民变 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200404/1306417.md">林青霞亲姐姐：嫁到河南 退休金450元 姐妹分散36年才见面</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306374.md">宝胜突发快评：第八常委王岐山陪习植树显示地位稳固、习四面楚歌不得不让任志强案软着陆？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306710.md" target="_blank">王全璋明出狱但即隔离14天 11人权团体促让王回京与妻儿团聚要求落空</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306709.md" target="_blank">中国恢复有信心 称疫情影响尚未超过08年金融危机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306708.md" target="_blank">无症状感染威胁疫情翻船？ 他们是谁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306699.md" target="_blank">新冠病毒中国疫情今报武汉一例新增 境外再传入18例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306698.md" target="_blank">清明节 中国举行隆重祭拜 悼念新冠肺炎病毒死亡者 微信一片纪念苍生唏嘘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md" target="_blank">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
@@ -54,15 +57,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306322.md" target="_blank">高层关注无症状感染 钟南山吁警惕密切接触与自重点疫区的传染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306320.md" target="_blank">美一众议员推特投票征病毒名 中共病毒称冠 传中国人投票多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306303.md" target="_blank">陈冯富珍任职清华高干 谭德塞道贺也谢习主席领导</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306286.md" target="_blank">圈钱补窟窿！中国10省市鼓励民众养老金“多缴”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306252.md" target="_blank">病毒冲击中国财政收入锐减 浙江拜科技福一枝独秀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306236.md" target="_blank">觉醒！认清中共 不再受愚弄</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306721.md" target="_blank">陈秋实这个秘密揭底了 医生揭秘如何做出0病患 习发信号 北京情况重了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306720.md" target="_blank">客流量减半 中国零售商业绩下滑 企业倒闭 多米诺骨牌效应初显</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306719.md" target="_blank">睡醒了？WHO专家：口罩或可防止传染</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md" target="_blank">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306717.md" target="_blank">“跑回来是找死” 听信中共宣传 传菲律宾华人偷渡回福建避疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md" target="_blank">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md" target="_blank">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md" target="_blank">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
@@ -83,11 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305551.md" target="_blank">北京大使馆出击！转发美国务院批党媒姓党 非报导新闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304735.md" target="_blank">拉比警告还将有另一种病毒 致命性比中共病毒更高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305316.md" target="_blank">彭斯披露多个重要信息 竟然被忽视了 阿波罗网独家分析</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305250.md" target="_blank">习近平对任志强骑虎难下? “是个有梦想的人 不会做这么绝”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305194.md" target="_blank">中共病毒肆虐 大陆四大国有银行利润受损</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305149.md" target="_blank">涨价在即？中国各地大抢粮 虚假一场？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200402/1305108.md" target="_blank">研究：武汉肺炎患者发病前1至3天即可传染他人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200402/1304918.md" target="_blank">作曲家真人视频：患重症肺炎 诚念法轮功九字真言康复</a></li>
 
 </ul>
 </div>
