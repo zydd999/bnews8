@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306331.md">任案显落地? 王岐山今露面陪同习近平植树活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306366.md">陈破空：北京，似乎发生大事！大量士兵进京。就在习近平返京次日。俄罗斯站队美国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306318.md">网传内部讲话 透露武汉死亡惊人数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306495.md">邱家军：快电：北京疑似出现政变  683 </a></li>
@@ -11,19 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306586.md">军车载共军集结京城 习王露面植树 任志强命运引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md">北京府右街方向突发枪声？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200403/1306348.md">风向或闯祸? 财新陷“卖国媒体”口水浪尖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200404/1306417.md">林青霞亲姐姐：嫁到河南 退休金450元 姐妹分散36年才见面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200404/1306417.md">林青霞亲姐姐：嫁到河南 退休金450元 姐妹分散36年才见面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306721.md">陈秋实这个秘密揭底了 医生揭秘如何做出0病患 习发信号 北京情况重了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200404/1306502.md">震惊世界的发现！菲律宾惊现美人鱼群 0.57秒 美人鱼竟然长这样 不忍直视！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306329.md">养虎为患 美国疫情为何严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306380.md">《石涛聚焦》「突发：王岐山与习近平七常委露面北京：气色不错 笑容尴尬」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306828.md" target="_blank">河南女律师发布新冠疫情消息被警告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306824.md" target="_blank">疫情大流行不太可能阻止中国在伊朗建立影响力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306817.md" target="_blank">王全璋周日获释后仍要隔离  　有家归不得妻子愁断肠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306816.md" target="_blank">全球新冠肺炎确诊突破100万　  美疫情最严重抢购物资惹盟国怨言</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306412.md" target="_blank">英国计划提升新冠疫情检测规模   发放免疫证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306402.md" target="_blank">疫情防控成为台湾与中国较力的新战场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306401.md" target="_blank">中情局2月「吹哨」　中国疫情数据严重失实　「习权」制度加剧瞒报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306399.md" target="_blank">下属机场替上司接机染疫  招致台湾全社会谴责</a></li>
 
 </ul>
 </div>
