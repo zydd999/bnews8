@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306751.md">陈破空：大动作调兵，习近平原是怕这个？某周刊被指卖国，影射副主席。美国动议制裁 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306801.md">中企倒闭多米诺骨牌效应初显 失全球订单!世界工厂前景黯 客流腰斩零售跌 旅游业零收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306676.md">美国病毒专家:中共病毒可能从武汉实验室泄漏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
@@ -16,10 +16,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1306866.md">第三次世界大战就这样开始了？世人的选择可能改变历史的轨迹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1306878.md">《石涛聚焦》「川习通话後川普傻了：习默认造假数据 坑苦美国」川普改口30天封国 预计死亡24万 调动海军医疗舰 但口罩手套防护服呼吸机不得不从中国进口「中共国死亡不低13万 感染过300万」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306725.md">钟南山看诊挂号费1200元 网民叹看不起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306814.md">美媒指中国再推重磅经济刺激政策</a></li>
