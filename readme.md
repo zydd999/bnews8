@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1306866.md">第三次世界大战就这样开始了？世人的选择可能改变历史的轨迹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1306878.md">《石涛聚焦》「川习通话後川普傻了：习默认造假数据 坑苦美国」川普改口30天封国 预计死亡24万 调动海军医疗舰 但口罩手套防护服呼吸机不得不从中国进口「中共国死亡不低13万 感染过300万」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306725.md">钟南山看诊挂号费1200元 网民叹看不起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306814.md">美媒指中国再推重磅经济刺激政策</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306717.md">“跑回来是找死” 听信中共宣传 传菲律宾华人偷渡回福建避疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306982.md">记者不断失踪 华春莹面对记者提问一反常态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306717.md">“跑回来是找死” 听信中共宣传 传菲律宾华人偷渡回福建避疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1306889.md">公子时评：【公子快报】再晚就不能回国了？国务卿蓬佩奥号召海外美国人尽快回家！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306807.md">全国哀悼日，一场集体性的政治作秀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200405/1306911.md">无症状感染者传播病毒使美国新冠防疫政策急转弯：由不提倡民众戴口罩到建议戴口罩</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
