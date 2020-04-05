@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306725.md">钟南山看诊挂号费1200元 网民叹看不起</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306618.md">老黑：那位在美国因为囤积物资被网络攻击的女性，我不识相的替她说几句话。 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306814.md">美媒指中国再推重磅经济刺激政策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306624.md">鱼肠雁足 &#124; 在这个虚无的悼念日，请恕我不加入悲伤的和鸣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306717.md">“跑回来是找死” 听信中共宣传 传菲律宾华人偷渡回福建避疫</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306983.md" target="_blank">哀悼日中国网络一片黑白 中共七常委全彩一脸春风</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306982.md" target="_blank">记者不断失踪 华春莹面对记者提问一反常态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306981.md" target="_blank">巴基斯坦主播怒斥受骗：中共援助口罩是内衣做的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306980.md" target="_blank">中共抗疫邮票疑犯“政治错误” 传被紧急销毁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306979.md" target="_blank">女律师转发武汉人排队领骨灰照 50万人阅读后…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md" target="_blank">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306801.md" target="_blank">中企倒闭多米诺骨牌效应初显 失全球订单!世界工厂前景黯 客流腰斩零售跌 旅游业零收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306725.md" target="_blank">钟南山看诊挂号费1200元 网民叹看不起</a></li>
@@ -83,11 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md" target="_blank">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md" target="_blank">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md" target="_blank">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306183.md" target="_blank">武肺2条大新闻撞到一起</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306157.md" target="_blank">世卫因应疫情不当 美参议员吁谭德塞辞职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306150.md" target="_blank">川普愤怒了！“对他们做的事情感到非常吃惊 他们会付出巨大代价！”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306139.md" target="_blank">发现3M口罩真相之后 川普怒了：将付出巨大代价</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1305903.md" target="_blank">零收入！中共病毒瘫痪旅游业 大陆从业者失业</a></li>
 
 </ul>
 </div>
