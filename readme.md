@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306570.md">2049年之前中共不会垮台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306563.md">任志强谈中国人为什么没有财富 结论惊呆所有人(视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200404/1306618.md">老黑：那位在美国因为囤积物资被网络攻击的女性，我不识相的替她说几句话。 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
