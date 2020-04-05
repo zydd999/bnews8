@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307082.md">“大国战疫”成功？美顶级卫生专家:不知道接下来会发生什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306981.md">巴基斯坦主播怒斥受骗：中共援助口罩是内衣做的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307052.md">2亿人可能失业 大陆将遭遇经济瘟疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1306925.md">疫情特殊时期中国地王频出 什么信号？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307123.md">王沪宁对习近平不上心 好好的机会穿帮了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1306925.md">疫情特殊时期中国地王频出 什么信号？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306980.md">中共抗疫邮票疑犯“政治错误” 传被紧急销毁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200405/1307041.md">新冠肺炎有解了 澳洲发现「这药物」2天杀光病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200405/1306897.md">罗时汉 &#124; 4.4：请不要404这篇方方写不出来的日记</a></li>
