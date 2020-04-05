@@ -2,16 +2,13 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306721.md">陈秋实这个秘密揭底了 医生揭秘如何做出0病患 习发信号 北京情况重了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306674.md">莫大的讽刺！哀悼“中共肺炎”死难者 这日子真没选错！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306668.md">怪！习近平视察浙江多地不戴口罩 在北京种树却戴口罩...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306751.md">陈破空：大动作调兵，习近平原是怕这个？某周刊被指卖国，影射副主席。美国动议制裁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306718.md">王岐山消失一个月后陪习露面 任志强案引猜测</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306639.md">财新周刊封面或影射中共为病源 被五毛骂卖国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306676.md">美国病毒专家:中共病毒可能从武汉实验室泄漏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306801.md">中企倒闭多米诺骨牌效应初显 失全球订单!世界工厂前景黯 客流腰斩零售跌 旅游业零收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306636.md">笑喷！委内瑞拉军舰蓄意撞德国邮轮 结果军舰沉了...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
@@ -24,6 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306725.md">钟南山看诊挂号费1200元 网民叹看不起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306814.md">美媒指中国再推重磅经济刺激政策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306717.md">“跑回来是找死” 听信中共宣传 传菲律宾华人偷渡回福建避疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306982.md">记者不断失踪 华春莹面对记者提问一反常态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1306889.md">公子时评：【公子快报】再晚就不能回国了？国务卿蓬佩奥号召海外美国人尽快回家！ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306807.md">全国哀悼日，一场集体性的政治作秀</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307017.md" target="_blank">大陆新闻解读646期_时事小品：李文亮回访</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306892.md" target="_blank">法治吹哨人王全璋刑满释放被强制隔离老家 709家属致信公安司法部长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md" target="_blank">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306843.md" target="_blank">中国以国家哀悼日纪念逝者 距离道歉、谢罪、追责，还都很远</a></li>
@@ -56,13 +57,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306581.md" target="_blank">北京府右街方向突发枪声？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306564.md" target="_blank">天亮时分：惊悚的政变传闻与美元伪钞案,被误读的3月PMI与实实在在的粮荒(政论天下第145集 20200403)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306535.md" target="_blank">文昭：CIA情报使习近平甩锅破功？川普的历史性抉择；北京浮现两个司令部；二度流行的风险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306523.md" target="_blank">专栏 | 夜话中南海：宣称中国政府完全透明，钟南山为习近平政权再立新功</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307015.md" target="_blank">订单潮涌！瑞幸门店遭挤兑式消费 神州系股票集体砸趴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307014.md" target="_blank">毛钦点批判的史学家翦伯赞之死 留字条呼毛万岁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307013.md" target="_blank">周恩来受雇斯大林 留法学生暴力运动都是他组织的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307012.md" target="_blank">清明赵紫阳墓地如同监狱 胡耀邦墓地现大批便衣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307011.md" target="_blank">瑞幸咖啡面临破产 股东和高管已套现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306983.md" target="_blank">哀悼日中国网络一片黑白 中共七常委全彩一脸春风</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306982.md" target="_blank">记者不断失踪 华春莹面对记者提问一反常态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306981.md" target="_blank">巴基斯坦主播怒斥受骗：中共援助口罩是内衣做的</a></li>
@@ -83,17 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306635.md" target="_blank">天主教界第一枪！缅甸枢机主教：中共让全球陷入危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306634.md" target="_blank">锁国前兆？连发撤侨资讯美国务院：全体公民应立刻回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306633.md" target="_blank">死因疑点重重… 吉林女子监狱给“整过容”…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306572.md" target="_blank">台湾捐口罩中共动怒？黄创夏一句话呛爆中共肺管子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306392.md" target="_blank">自述：诚念法轮功九字真言 重症艾滋病患者康复</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306403.md" target="_blank">川普对习近平大变？要大怒？美引领世界反共成复苏关键 美死亡率按人口世界最低之一</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306368.md" target="_blank">潘石屹公子直击中共死穴 党臭成这样 改强制绑架了 连伊朗都不如 美大使提要求</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200403/1306304.md" target="_blank">内部消息曝中共狂印假美元 金融战爆发？中国Q1负12% 补窟窿！北京等10省市大忽悠</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307016.md" target="_blank">中国大陆冠状病毒病例增加</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307008.md" target="_blank">再灭佛：各省佛寺景区大量佛像遭强拆 大佛遭改成荷花</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306882.md" target="_blank">天主教界第一枪： 缅甸枢机主教要中共为疫情向世界道歉赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306881.md" target="_blank">逆流而上： 张文宏指中药治疗新冠病毒疗效难评估</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306488.md" target="_blank">美中两封百人联署公开信谈疫情 目的大不同</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306454.md" target="_blank">中国央行：疫情影响尚未超过2008年金融危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306453.md" target="_blank">云南旱情持续  上百万人饮水困难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306452.md" target="_blank">十余家国际团体发声明  敦促当局确保王全璋人权</a></li>
 
 </ul>
 </div>
