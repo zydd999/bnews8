@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306690.md">【立此存照】“404哀悼日”的中国网站是黑白的 但他们是彩色的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306705.md">德国妓院因疫情关门数千性工作者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306643.md">「现在，病毒炸弹攻击正要爆发！」 体制内名医悲观的原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1306866.md">第三次世界大战就这样开始了？世人的选择可能改变历史的轨迹</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200404/1306641.md">宁波奉化传市面粮尽 启动粮食应急供应点（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200404/1306768.md">出口口罩擦鞋视频闹大 美司法部长传转发 官方或调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200404/1306689.md">高福痛哭&#65292;王广发急怒&#65292;抗疫绝代双骄拔不出&#8220;犬儒的刺&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200404/1306845.md">王岐山露面陪习近平植树 习会不会对任志强下狠手？</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307008.md" target="_blank">再灭佛：各省佛寺景区大量佛像遭强拆 大佛遭改成荷花</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306882.md" target="_blank">天主教界第一枪： 缅甸枢机主教要中共为疫情向世界道歉赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306881.md" target="_blank">逆流而上： 张文宏指中药治疗新冠病毒疗效难评估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306880.md" target="_blank">台湾抗疫出色：疫情防控成为台湾与中国较力新战场</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306454.md" target="_blank">中国央行：疫情影响尚未超过2008年金融危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306453.md" target="_blank">云南旱情持续  上百万人饮水困难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306452.md" target="_blank">十余家国际团体发声明  敦促当局确保王全璋人权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200404/1306451.md" target="_blank">美台官员参与虚拟论坛  提升台湾国际地位</a></li>
 
 </ul>
 </div>
