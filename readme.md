@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307194.md">中国留学生在欧美处境艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307076.md">陈破空：全国特别日，中南海上演大戏，谁是潘金莲？外交部突出习李有深意。中央警卫局换人？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1307151.md">邱家军：北京城装甲车运兵，中南海大翻船异动 686 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307059.md">印度上联合国人权理事会控告中国隐瞒病毒致全球蔓延 索赔20万亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307059.md">印度上联合国人权理事会控告中国隐瞒病毒致全球蔓延 索赔20万亿美元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200405/1307041.md">新冠肺炎有解了 澳洲发现「这药物」2天杀光病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307031.md">香港特首办新闻主任辞职后坠楼身亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307015.md">订单潮涌！瑞幸门店遭挤兑式消费 神州系股票集体砸趴</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,16 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md" target="_blank">“战狼外交”生是非 学者析王毅现象</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307437.md" target="_blank">中共肺炎疫情真相 党员成高危人群</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307436.md" target="_blank">中共抹黑台湾疫情求“维稳”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307435.md" target="_blank">美议员：法国欲购10亿口罩 中共强迫捆绑接受华为5G</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307434.md" target="_blank">法媒质疑中共造假：中共需承担巨大责任</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307433.md" target="_blank">北京热传二次爆发开始了 中国人说中央这事最恶心 印律协向中共索赔20万亿美元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307432.md" target="_blank">王沪宁对习近平不上心 好好的机会穿帮了 红后代叶大鹰要求清君侧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307431.md" target="_blank">这个党啥都作假 刚&quot;种&quot;的鲜花怒放、松树参天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307430.md" target="_blank">王岐山地位巩固 前大秘主导金融反腐</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307429.md" target="_blank">中共如意算盘：利用疫情大流行改变世界格局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307342.md" target="_blank">广东现本土病例甩锅「湖北」但湖北已0确诊14天…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307341.md" target="_blank">网传视频：终于听到王全璋真人的声音了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307340.md" target="_blank">四川达州市又出现随地倒 路人不敢靠近</a></li>
@@ -47,16 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307276.md" target="_blank">美众议员提法案 为起诉中共开绿灯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md" target="_blank">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307176.md" target="_blank">赴海外抗疫 古巴医生何以愿冒生命危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307146.md" target="_blank">病毒指消减 中国公路交通全面恢复运营</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307143.md" target="_blank">肺炎疫情严峻 英国女王历史性讲话发出的鲜明信号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307141.md" target="_blank">欧盟今促北京无条件释放王全璋 指应调查狱中是否遭酷刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307139.md" target="_blank">港媒指美《外交政策》刊文：世卫如何变成中国共犯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307136.md" target="_blank">疫情尚未结束 中国自夸太早</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307129.md" target="_blank">王全璋今出狱被急送济南隔离 外卖鲜花小哥全遭捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307110.md" target="_blank">猫咪传染新冠病毒否 包括石正丽专家说法不一样</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307076.md" target="_blank">陈破空：全国特别日，中南海上演大戏，谁是潘金莲？外交部突出习李有深意。中央警卫局换人？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307071.md" target="_blank">中国瑞幸咖啡严重&quot;兑水&quot; 重刑重罚否?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307059.md" target="_blank">印度上联合国人权理事会控告中国隐瞒病毒致全球蔓延 索赔20万亿美元</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307455.md" target="_blank">军人揭中共镇压疆藏行动恐怖真相 武警当新兵送入驻港部队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307317.md" target="_blank">贸易战后又来了新冠疫情，中国就业面临严重冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307225.md" target="_blank">貌波枢机谈武汉肺炎：中共显然应承担责任并作出赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307224.md" target="_blank">武汉肺炎、推特、诺查丹玛斯：中国假新闻正感染全世界</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307051.md" target="_blank">709律师王全璋获释 能否回北京舆论瞩目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307016.md" target="_blank">中国大陆冠状病毒病例增加</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307008.md" target="_blank">再灭佛：各省佛寺景区大量佛像遭强拆 大佛遭改成荷花</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1306882.md" target="_blank">天主教界第一枪： 缅甸枢机主教要中共为疫情向世界道歉赔偿</a></li>
 
 </ul>
 </div>
