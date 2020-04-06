@@ -1,8 +1,8 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md">大批军人进京 北京出事了？真相来了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307866.md" target="_blank">战狼外交毁损中国 学者建议放弃高调</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md" target="_blank">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307815.md" target="_blank">法国新冠肺炎死亡将近9000 将展开大规模排查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307814.md" target="_blank">北京严防在俄华人从陆地口岸返国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307801.md" target="_blank">跟进NASA、英国防部 纽约下令学校全面禁用Zoom</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307538.md" target="_blank">她被绑架… 之前曾有20多岁的警察拿录像机上门…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307518.md" target="_blank">山东博平镇派出所长商景强带警察锯民众家门 怕罪行被记录 抢走手机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md" target="_blank">大批军人进京 北京出事了？真相来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307497.md" target="_blank">武汉市民领取的是“百家灰” 中共违反国际法 遭索赔6.5兆美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md" target="_blank">这作业中共想抄也抄不了！美国州长带领全州居民要&#8230;</a></li>
 
 </ul>
 </div>
