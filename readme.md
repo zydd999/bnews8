@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307033.md">货架一扫而空！组图：忧疫情再爆发 北京市民抢购粮食</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1307053.md">英内阁：有证据显示 “中共病毒”由实验室工作人员带出的说法很可靠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307060.md">官方辟谣反泄密 北京开抢?阿波罗网独家粮食消息 3M公司是中共绑架美企典型</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307012.md">清明赵紫阳墓地如同监狱 胡耀邦墓地现大批便衣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307149.md">北京热传二次爆发开始了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307123.md">王沪宁对习近平不上心 好好的机会穿帮了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307086.md">抢粮、基建狂潮、房价泡沫和对外逆差——历史上的1993</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200405/1307041.md">新冠肺炎有解了 澳洲发现「这药物」2天杀光病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307031.md">香港特首办新闻主任辞职后坠楼身亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307015.md">订单潮涌！瑞幸门店遭挤兑式消费 神州系股票集体砸趴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307460.md" target="_blank">英媒：英政府不排除是武汉P4实验室病毒外泄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md" target="_blank">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md" target="_blank">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md" target="_blank">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307011.md" target="_blank">瑞幸咖啡面临破产 股东和高管已套现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306983.md" target="_blank">哀悼日中国网络一片黑白 中共七常委全彩一脸春风</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306982.md" target="_blank">记者不断失踪 华春莹面对记者提问一反常态</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306981.md" target="_blank">巴基斯坦主播怒斥受骗：中共援助口罩是内衣做的</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307458.md" target="_blank">美国国会议员批评中国官员加入联合国人权理事会协商小组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307455.md" target="_blank">军人揭中共镇压疆藏行动恐怖真相 武警当新兵送入驻港部队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307317.md" target="_blank">贸易战后又来了新冠疫情，中国就业面临严重冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307225.md" target="_blank">貌波枢机谈武汉肺炎：中共显然应承担责任并作出赔偿</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307094.md" target="_blank">中国 90 后因言获罪 祁怡元获刑两年张盼成一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307051.md" target="_blank">709律师王全璋获释 能否回北京舆论瞩目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307016.md" target="_blank">中国大陆冠状病毒病例增加</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307008.md" target="_blank">再灭佛：各省佛寺景区大量佛像遭强拆 大佛遭改成荷花</a></li>
 
 </ul>
 </div>
