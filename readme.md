@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307052.md">2亿人可能失业 大陆将遭遇经济瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307082.md">“大国战疫”成功？美顶级卫生专家:不知道接下来会发生什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307143.md">肺炎疫情严峻 英国女王历史性讲话发出的鲜明信号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307194.md">中国留学生在欧美处境艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307076.md">陈破空：全国特别日，中南海上演大戏，谁是潘金莲？外交部突出习李有深意。中央警卫局换人？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1307151.md">邱家军：北京城装甲车运兵，中南海大翻船异动 686 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307059.md">印度上联合国人权理事会控告中国隐瞒病毒致全球蔓延 索赔20万亿美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307194.md">中国留学生在欧美处境艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200405/1307041.md">新冠肺炎有解了 澳洲发现「这药物」2天杀光病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307031.md">香港特首办新闻主任辞职后坠楼身亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307015.md">订单潮涌！瑞幸门店遭挤兑式消费 神州系股票集体砸趴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200406/1307183.md">美卫生总监:下周将是珍珠港时刻 9.11时刻 很多美国人毕生最艰难时刻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,15 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307342.md" target="_blank">广东现本土病例甩锅「湖北」但湖北已0确诊14天…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307341.md" target="_blank">网传视频：终于听到王全璋真人的声音了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307340.md" target="_blank">四川达州市又出现随地倒 路人不敢靠近</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307339.md" target="_blank">一线采访： 武汉150餐馆面临破产 向政府请愿管用吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307338.md" target="_blank">中共肺炎疫情真相 这个群体为何成高危人群？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307337.md" target="_blank">辽宁农妇行使宪法权利遭冤判 女儿被恐吓致疯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307336.md" target="_blank">现场视频：楚河汉街已人来人往 武汉可以高枕无忧了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307335.md" target="_blank">网传视频：这大雪下的 一宿没停啊！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307334.md" target="_blank">上海医护抢救忙 政府新闻被市民喷“胡扯”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307331.md" target="_blank">江峰：印度联合国开启索赔中共； 美国情报机构交川普秘密报告，启动世界各国清算制裁；口罩如何成为战略物资的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307285.md" target="_blank">凉山大火为何重演去年悲剧 知情者揭真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307277.md" target="_blank">临沂监狱恐爆发疫情 王全璋释放后不能按时回家</a></li>
@@ -48,21 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307076.md" target="_blank">陈破空：全国特别日，中南海上演大戏，谁是潘金莲？外交部突出习李有深意。中央警卫局换人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307071.md" target="_blank">中国瑞幸咖啡严重&quot;兑水&quot; 重刑重罚否?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307059.md" target="_blank">印度上联合国人权理事会控告中国隐瞒病毒致全球蔓延 索赔20万亿美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307058.md" target="_blank">缅甸枢机貌波促中共就疫情祸及全球道歉及赔偿评论指中国甩祸失败</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307057.md" target="_blank">王全璋出狱后转到济南「隔离」料未来5年续失人权自由</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307052.md" target="_blank">2亿人可能失业 大陆将遭遇经济瘟疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307050.md" target="_blank">新冠病毒未消 中国仍报有新确诊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307035.md" target="_blank">大陆新闻解读646期_外交部大实话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307034.md" target="_blank">大陆新闻解读646期_严真点评+《永恒的五十分钟》预告片：中共病毒是冲着中共来的，中共的解体指日可待。</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307017.md" target="_blank">大陆新闻解读646期_时事小品：李文亮回访</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306892.md" target="_blank">法治吹哨人王全璋刑满释放被强制隔离老家 709家属致信公安司法部长</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1306856.md" target="_blank">因忘关话筒道歉:称中国悼新冠死者为“埋神奇宝贝” 法国一记者引舆论二度爆炸</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md" target="_blank">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md" target="_blank">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md" target="_blank">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md" target="_blank">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306983.md" target="_blank">哀悼日中国网络一片黑白 中共七常委全彩一脸春风</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306982.md" target="_blank">记者不断失踪 华春莹面对记者提问一反常态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306981.md" target="_blank">巴基斯坦主播怒斥受骗：中共援助口罩是内衣做的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306980.md" target="_blank">中共抗疫邮票疑犯“政治错误” 传被紧急销毁</a></li>
 
 </ul>
 </div>
