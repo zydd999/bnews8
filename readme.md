@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307086.md">抢粮、基建狂潮、房价泡沫和对外逆差——历史上的1993</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307082.md">“大国战疫”成功？美顶级卫生专家:不知道接下来会发生什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1307151.md">邱家军：北京城装甲车运兵，中南海大翻船异动 686 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307143.md">肺炎疫情严峻 英国女王历史性讲话发出的鲜明信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307194.md">中国留学生在欧美处境艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307185.md">〖兲朝浮世绘〗下毒的是你哭丧的也是你，最后作秀的还是你</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200406/1307183.md">美卫生总监:下周将是珍珠港时刻 9.11时刻 很多美国人毕生最艰难时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307202.md">快讯：自行隔离10日 英相约翰逊“中共病毒”症状未退 被送入医院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md">大批军人进京 北京出事了？真相来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200405/1307130.md">公子时评：中国各地爆发抢米潮？大饥荒距离中国人有多远？粮食危机真相：习近平恢复供销社与中共历史上的统购统销... </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md" target="_blank">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md" target="_blank">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307460.md" target="_blank">英媒：英政府不排除是武汉P4实验室病毒外泄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md" target="_blank">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307013.md" target="_blank">周恩来受雇斯大林 留法学生暴力运动都是他组织的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307012.md" target="_blank">清明赵紫阳墓地如同监狱 胡耀邦墓地现大批便衣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307011.md" target="_blank">瑞幸咖啡面临破产 股东和高管已套现</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1306983.md" target="_blank">哀悼日中国网络一片黑白 中共七常委全彩一脸春风</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307570.md" target="_blank">撑公共广播运动与广播处长会晤：顾委会无权介入日常事务及处理投诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307562.md" target="_blank">武汉肺炎期间中共严控网络宗教活动 禁讲道直播、微信群组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307559.md" target="_blank">中国追悼会落幕追责声响起  武汉民间及死者家属要真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307555.md" target="_blank">美国首例　纽约动物园老虎确诊新冠肺炎</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307133.md" target="_blank">恐传播新冠病毒英5G设施受破坏　 中国医疗队抵英受排斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307132.md" target="_blank">袁国勇担心香港出现第三波新冠疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307126.md" target="_blank">又一艘游轮靠岸美国港口 船上12人染疫2人死亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307125.md" target="_blank">新冠病毒危机犹在　数万游客逼爆黄山</a></li>
 
 </ul>
 </div>
