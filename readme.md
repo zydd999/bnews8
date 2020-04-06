@@ -11,18 +11,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307433.md">北京热传二次爆发开始了 中国人说中央这事最恶心 印律协向中共索赔20万亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307185.md">〖兲朝浮世绘〗下毒的是你哭丧的也是你，最后作秀的还是你</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307732.md" target="_blank">富豪因疫情财富大损之际，Zoom创始人财富激增</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307731.md" target="_blank">中国驻美大使：中美应同舟共济抗疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307730.md" target="_blank">武汉新冠死者家属建微信群被警方传唤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307721.md" target="_blank">美国务院发言人声明 严重关切中国据报撞沉越南渔船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307718.md" target="_blank">在“甩锅”议论蜂起之际 北京表示愿接在美留学生回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307717.md" target="_blank">陈奕迅、蔡依林为医护打气 遭利用为大外宣工具</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307554.md" target="_blank">清明假期两岸民众逼爆景区　台湾速补救防疫情复燃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307539.md" target="_blank">【耳边风】新庚子赔款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307522.md" target="_blank">疫情后，我们会活在另一世界么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307458.md" target="_blank">美国国会议员批评中国官员加入联合国人权理事会协商小组</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307455.md" target="_blank">军人揭中共镇压疆藏行动恐怖真相 武警当新兵送入驻港部队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307317.md" target="_blank">贸易战后又来了新冠疫情，中国就业面临严重冲击</a></li>
 
 </ul>
 </div>
