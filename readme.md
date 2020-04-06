@@ -4,21 +4,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md">大批军人进京 北京出事了？真相来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307194.md">中国留学生在欧美处境艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307194.md">中国留学生在欧美处境艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307433.md">北京热传二次爆发开始了 中国人说中央这事最恶心 印律协向中共索赔20万亿美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307815.md" target="_blank">法国新冠肺炎死亡将近9000 将展开大规模排查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307814.md" target="_blank">北京严防在俄华人从陆地口岸返国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307801.md" target="_blank">跟进NASA、英国防部 纽约下令学校全面禁用Zoom</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307792.md" target="_blank">陈破空：美情速览！英印向中国讨说法。北京向法国提要求。有人写信给习近平女儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md" target="_blank">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307781.md" target="_blank">专栏 | 夜话中南海：诅咒美国的人等来的只会是“天灭中共”</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md" target="_blank">大批军人进京 北京出事了？真相来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307497.md" target="_blank">武汉市民领取的是“百家灰” 中共违反国际法 遭索赔6.5兆美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md" target="_blank">这作业中共想抄也抄不了！美国州长带领全州居民要&#8230;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307485.md" target="_blank">央视记者采访社区 测量体温竟高烧40度</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307473.md" target="_blank">草菅人命 亲历者谈吉林女子监狱医院的黑幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307472.md" target="_blank">中共病毒挑人？死亡者中党员占比88%</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307806.md" target="_blank">新冠疫情对美中关系带来的变与不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307795.md" target="_blank">当选UN人权理事会要职，中国被指“纵火犯当上消防局长”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307794.md" target="_blank">中国改变态度接海外小留学生回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307793.md" target="_blank">新基建：中国政府加强信息控制的新武器？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307624.md" target="_blank">时事大家谈： 美欧掀起追责中国浪潮，北京应接不暇？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307623.md" target="_blank">区诺轩大声公袭警罪成　民主派批制造寒蝉效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307608.md" target="_blank">新疆放宽哈族人境外通讯限制  新疆人在内地仍受歧视</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307586.md" target="_blank">习近平豪捐10亿口罩给法国　美众议员爆：交换华为5G订单</a></li>
 
 </ul>
 </div>
