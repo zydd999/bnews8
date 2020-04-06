@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307433.md">北京热传二次爆发开始了 中国人说中央这事最恶心 印律协向中共索赔20万亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307185.md">〖兲朝浮世绘〗下毒的是你哭丧的也是你，最后作秀的还是你</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307185.md">〖兲朝浮世绘〗下毒的是你哭丧的也是你，最后作秀的还是你</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md" target="_blank">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307781.md" target="_blank">专栏 | 夜话中南海：诅咒美国的人等来的只会是“天灭中共”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307759.md" target="_blank">中巴再爆争议 巴西部长指中国是瘟疫大流行之源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307716.md" target="_blank">陈破空：陈破空谈《常识》（之38）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md" target="_blank">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307473.md" target="_blank">草菅人命 亲历者谈吉林女子监狱医院的黑幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307472.md" target="_blank">中共病毒挑人？死亡者中党员占比88%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md" target="_blank">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md" target="_blank">“战狼外交”生是非 学者析王毅现象</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307437.md" target="_blank">中共肺炎疫情真相 党员成高危人群</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307786.md" target="_blank">华盛顿吁北京勿趁疫搞南海扩张</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307785.md" target="_blank">中国制造新冠测试盒被爆假冒伪劣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307777.md" target="_blank">舆论批中国隐瞒疫情  加拿大卫生部长为其辩解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307776.md" target="_blank">中国加大惩罚瞒报疫情信息的入境者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307775.md" target="_blank">中国驻美使馆着手包机撤回小留学生</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307578.md" target="_blank">台湾清明连假景点涌现人潮 恐成防疫破口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307574.md" target="_blank">王全璋耳膜穿孔听力受损　妻子疑夫狱中受虐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307573.md" target="_blank">专访雷神山工人：我们舍命逆行　利用完就被抛弃了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307570.md" target="_blank">撑公共广播运动与广播处长会晤：顾委会无权介入日常事务及处理投诉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307562.md" target="_blank">武汉肺炎期间中共严控网络宗教活动 禁讲道直播、微信群组</a></li>
 
 </ul>
 </div>
