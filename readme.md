@@ -1,12 +1,10 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200405/1307053.md">英内阁：有证据显示 “中共病毒”由实验室工作人员带出的说法很可靠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307060.md">官方辟谣反泄密 北京开抢?阿波罗网独家粮食消息 3M公司是中共绑架美企典型</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307149.md">北京热传二次爆发开始了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307123.md">王沪宁对习近平不上心 好好的机会穿帮了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307086.md">抢粮、基建狂潮、房价泡沫和对外逆差——历史上的1993</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200405/1307052.md">2亿人可能失业 大陆将遭遇经济瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307082.md">“大国战疫”成功？美顶级卫生专家:不知道接下来会发生什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
@@ -20,10 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307185.md">〖兲朝浮世绘〗下毒的是你哭丧的也是你，最后作秀的还是你</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200406/1307183.md">美卫生总监:下周将是珍珠港时刻 9.11时刻 很多美国人毕生最艰难时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307202.md">快讯：自行隔离10日 英相约翰逊“中共病毒”症状未退 被送入医院</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307538.md" target="_blank">她被绑架… 之前曾有20多岁的警察拿录像机上门…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307518.md" target="_blank">山东博平镇派出所长商景强带警察锯民众家门 怕罪行被记录 抢走手机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md" target="_blank">大批军人进京 北京出事了？真相来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307497.md" target="_blank">武汉市民领取的是“百家灰” 中共违反国际法 遭索赔6.5兆美元</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307339.md" target="_blank">一线采访： 武汉150餐馆面临破产 向政府请愿管用吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307338.md" target="_blank">中共肺炎疫情真相 这个群体为何成高危人群？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307337.md" target="_blank">辽宁农妇行使宪法权利遭冤判 女儿被恐吓致疯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307336.md" target="_blank">现场视频：楚河汉街已人来人往 武汉可以高枕无忧了吗？</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307539.md" target="_blank">【耳边风】新庚子赔款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307522.md" target="_blank">疫情后，我们会活在另一世界么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307458.md" target="_blank">美国国会议员批评中国官员加入联合国人权理事会协商小组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307455.md" target="_blank">军人揭中共镇压疆藏行动恐怖真相 武警当新兵送入驻港部队</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307116.md" target="_blank">外佣聚集违「限聚令」受关注　　议员酒吧聚会不获豁免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307111.md" target="_blank">中国规定有关新冠病毒所有临床研究需经审核立项</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307094.md" target="_blank">中国 90 后因言获罪 祁怡元获刑两年张盼成一年半</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200405/1307051.md" target="_blank">709律师王全璋获释 能否回北京舆论瞩目</a></li>
 
 </ul>
 </div>
