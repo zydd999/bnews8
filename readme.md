@@ -11,12 +11,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307433.md">北京热传二次爆发开始了 中国人说中央这事最恶心 印律协向中共索赔20万亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307433.md">北京热传二次爆发开始了 中国人说中央这事最恶心 印律协向中共索赔20万亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307213.md">天亮时分：用胸罩做口罩,中共可能面临全球双重起诉;印度的起诉找错了仲裁(政论天下第146集 20200405) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307185.md">〖兲朝浮世绘〗下毒的是你哭丧的也是你，最后作秀的还是你</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307716.md" target="_blank">陈破空：陈破空谈《常识》（之38）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md" target="_blank">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307694.md" target="_blank">回应财务造假 瑞幸咖啡董事长陆正耀：我个人非常自责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307638.md" target="_blank">隐瞒疫情 中共面对巨额索赔和追责</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md" target="_blank">“战狼外交”生是非 学者析王毅现象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307437.md" target="_blank">中共肺炎疫情真相 党员成高危人群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307436.md" target="_blank">中共抹黑台湾疫情求“维稳”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307435.md" target="_blank">美议员：法国欲购10亿口罩 中共强迫捆绑接受华为5G</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307721.md" target="_blank">美国务院发言人声明 严重关切中国据报撞沉越南渔船</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307718.md" target="_blank">在“甩锅”议论蜂起之际 北京表示愿接在美留学生回国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307717.md" target="_blank">陈奕迅、蔡依林为医护打气 遭利用为大外宣工具</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307707.md" target="_blank">中国首季46万家企业倒闭 新公司注册率同比下降近三成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307698.md" target="_blank">反对习近平倒行逆施 90后祁怡元、张盼成被判刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307696.md" target="_blank">中国在新冠病毒疫情发源地武汉恢复舰船制造</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307458.md" target="_blank">美国国会议员批评中国官员加入联合国人权理事会协商小组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307455.md" target="_blank">军人揭中共镇压疆藏行动恐怖真相 武警当新兵送入驻港部队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307317.md" target="_blank">贸易战后又来了新冠疫情，中国就业面临严重冲击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307225.md" target="_blank">貌波枢机谈武汉肺炎：中共显然应承担责任并作出赔偿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307224.md" target="_blank">武汉肺炎、推特、诺查丹玛斯：中国假新闻正感染全世界</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307171.md" target="_blank">北京疫情严峻 外交部要各国外交人员5月份再回北京</a></li>
 
 </ul>
 </div>
