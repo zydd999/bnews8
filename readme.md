@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200406/1307203.md">我的儿子不是英雄，他是被害死的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307229.md">网友直击：武汉小区有人放火烧自己的家？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307859.md" target="_blank">中国巴西因疫情再起争端</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307852.md" target="_blank">中国被指囤积医疗物资 特朗普政府或采取法律行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307806.md" target="_blank">新冠疫情对美中关系带来的变与不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307795.md" target="_blank">当选UN人权理事会要职，中国被指“纵火犯当上消防局长”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307794.md" target="_blank">中国改变态度接海外小留学生回国</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307651.md" target="_blank">中共入联合国人权理事会协商小组　人权组织批「纵火狂成消防队长」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307625.md" target="_blank">中国无证状感染和输入病例增加 武汉45个“无疫小区”被摘牌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307624.md" target="_blank">时事大家谈： 美欧掀起追责中国浪潮，北京应接不暇？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307623.md" target="_blank">区诺轩大声公袭警罪成　民主派批制造寒蝉效应</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307608.md" target="_blank">新疆放宽哈族人境外通讯限制  新疆人在内地仍受歧视</a></li>
 
 </ul>
 </div>
