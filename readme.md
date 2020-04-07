@@ -9,17 +9,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307754.md">范冰冰近况惹人担忧 穿79元毛衣 瘦到颧骨外扩左右不对称</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307921.md">老黑：赵家的狗疯了······ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307921.md">老黑：赵家的狗疯了······ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307985.md">张文宏“公示财产”挑战钟南山？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308048.md">这央视主播完了 竟把“习近平”说成“习病”？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308171.md" target="_blank">王沪宁这是啥意思？能取而代之习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md" target="_blank">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md" target="_blank">中南海在世界突遇四面楚歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308126.md" target="_blank">太恐怖！“武汉情况比封闭时候还危险 一定不要…”</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307228.md" target="_blank">武汉家属骨灰曝惊悚真相：市民领取的是“百家灰”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307227.md" target="_blank">国家粮储局曝实情:中国大中城市粮食储备仅够10天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307226.md" target="_blank">现场视频：复工体检 百人中六位无症状感染者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307149.md" target="_blank">北京热传二次爆发开始了</a></li>
 
 </ul>
 </div>
