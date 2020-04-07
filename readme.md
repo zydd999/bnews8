@@ -8,9 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307824.md">重大突破！利用SARS抗体 美专家抓到武汉肺炎病毒「罩门」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307754.md">范冰冰近况惹人担忧 穿79元毛衣 瘦到颧骨外扩左右不对称</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
@@ -20,8 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307478.md">武汉病毒研究所被踢爆 去年底征人研究&quot;新病毒&quot;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200407/1307737.md">喝啤酒庆祝！ 美国新冠肺炎新增和死亡病例首次下降</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307741.md">《石涛.News》「网传：中央警卫局被攻陷 4.3北京大批军人调动」同期习近平4天躲在浙江 钟南山对无症状表现出尔反尔「习近平把怀仁堂变灵堂-4.4全国悼念」与930拜毛灵堂-对应「天灭中共-生与灭」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307921.md">老黑：赵家的狗疯了······ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200407/1307737.md">喝啤酒庆祝！ 美国新冠肺炎新增和死亡病例首次下降</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200407/1307791.md">〖兲朝浮世绘〗这场瘟疫是中共的阴谋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200407/1307860.md">中共传统盟友伊朗巴基斯坦开始谴责中共</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
