@@ -7,23 +7,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307921.md">老黑：赵家的狗疯了······ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308171.md">王沪宁这是啥意思？能取而代之习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308126.md">太恐怖！“武汉情况比封闭时候还危险 一定不要…”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307985.md">张文宏“公示财产”挑战钟南山？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308048.md">这央视主播完了 竟把“习近平”说成“习病”？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md">中南海在世界突遇四面楚歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308354.md" target="_blank">报告：疫情大流行期间中国政府和驻外机构VPN遭黑客攻击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308353.md" target="_blank">陈时中遭死亡威胁？中国网民频发对台仇恨言论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308352.md" target="_blank">法国逾百人挺台 中国驻法使馆发信痛批</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308347.md" target="_blank">武汉解封：首日逾二万人涌珠三角　「广交会」铁定线上举行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308343.md" target="_blank">北京公开任志强下落，称其正在接受调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308342.md" target="_blank">中国政府疫情后重新开始拆除清真寺标识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md" target="_blank">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308264.md" target="_blank">时事大家谈：中国色彩浓厚，全球警惕Zoom安全隐患</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md" target="_blank">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308257.md" target="_blank">亚投行批准向中国提供24.8亿元贷款提升防疫能力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308256.md" target="_blank">英国首相约翰逊新冠病情恶化　转入深切治疗部</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308214.md" target="_blank">五警殴打曾健超终极败诉　受害人：判决对警暴无阻吓力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308213.md" target="_blank">广东4地区调高疫情级别　否认越秀区「封村」传言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308205.md" target="_blank">瑞幸咖啡丑闻不减魅力，免费咖啡赢得其APP下载量狂飙</a></li>
 
 </ul>
 </div>
