@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307985.md">张文宏“公示财产”挑战钟南山？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308048.md">这央视主播完了 竟把“习近平”说成“习病”？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308140.md" target="_blank">伊朗官员质疑中国疫情数据造假     战狼外交官闻风而至</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308075.md" target="_blank">中国海外民运人士发起联署书 要求习近平下台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308005.md" target="_blank">两省再曝取缔340处家庭、三自教会场所 大量十字架遭强拆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307925.md" target="_blank">伊朗卫生部发言人称中国疫情数据是“惨痛的笑话”</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307717.md" target="_blank">陈奕迅、蔡依林为医护打气 遭利用为大外宣工具</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307707.md" target="_blank">中国首季46万家企业倒闭 新公司注册率同比下降近三成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307698.md" target="_blank">反对习近平倒行逆施 90后祁怡元、张盼成被判刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307696.md" target="_blank">中国在新冠病毒疫情发源地武汉恢复舰船制造</a></li>
 
 </ul>
 </div>
