@@ -17,9 +17,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md">中南海在世界突遇四面楚歌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308364.md" target="_blank">康复者血浆治疗新冠 韩国两年长病患康复 法国开始临床实验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308340.md" target="_blank">武汉即将解封 专家：无症状感染者还有1至2万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md" target="_blank">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308326.md" target="_blank">东京都为移住酒店的新冠感染者提供公费食宿</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308064.md" target="_blank">青岛“一对一服务”外籍隔离人员 遭网民痛批</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308061.md" target="_blank">江峰：十九国“零号”都指向一处； 习近平拿十亿口罩勒索法国马克龙换5G订单；美国“地下党”与中共同时行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308048.md" target="_blank">这央视主播完了 竟把“习近平”说成“习病”？（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308047.md" target="_blank">网友直击：广州三元里因大量黑人感染被封闭店铺关门</a></li>
 
 </ul>
 </div>
