@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307754.md">范冰冰近况惹人担忧 穿79元毛衣 瘦到颧骨外扩左右不对称</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307921.md">老黑：赵家的狗疯了······ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307741.md">《石涛.News》「网传：中央警卫局被攻陷 4.3北京大批军人调动」同期习近平4天躲在浙江 钟南山对无症状表现出尔反尔「习近平把怀仁堂变灵堂-4.4全国悼念」与930拜毛灵堂-对应「天灭中共-生与灭」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307985.md">张文宏“公示财产”挑战钟南山？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200407/1307737.md">喝啤酒庆祝！ 美国新冠肺炎新增和死亡病例首次下降</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200407/1307791.md">〖兲朝浮世绘〗这场瘟疫是中共的阴谋</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307741.md">《石涛.News》「网传：中央警卫局被攻陷 4.3北京大批军人调动」同期习近平4天躲在浙江 钟南山对无症状表现出尔反尔「习近平把怀仁堂变灵堂-4.4全国悼念」与930拜毛灵堂-对应「天灭中共-生与灭」 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md" target="_blank">中南海在世界突遇四面楚歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308126.md" target="_blank">太恐怖！“武汉情况比封闭时候还危险 一定不要…”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md" target="_blank">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md" target="_blank">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307226.md" target="_blank">现场视频：复工体检 百人中六位无症状感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307149.md" target="_blank">北京热传二次爆发开始了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307123.md" target="_blank">王沪宁对习近平不上心 好好的机会穿帮了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200405/1307086.md" target="_blank">抢粮、基建狂潮、房价泡沫和对外逆差——历史上的1993</a></li>
 
 </ul>
 </div>
