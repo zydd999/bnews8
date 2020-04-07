@@ -12,15 +12,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307824.md">重大突破！利用SARS抗体 美专家抓到武汉肺炎病毒「罩门」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307754.md">范冰冰近况惹人担忧 穿79元毛衣 瘦到颧骨外扩左右不对称</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308020.md" target="_blank">清明节禁扫墓 武汉人各种街头祭典曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308004.md" target="_blank">中共船只撞沉越南船 美国发声警告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307995.md" target="_blank">援鄂医疗队：国家说是在可控范围之内 所以全部都不报 武汉疫情二波再起？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307994.md" target="_blank">中共病毒》中国黄山风景区免费开放 万人塞爆「2小时走不到1公里」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307988.md" target="_blank">湖北汉中大批商户维权 挑头人遭拘留</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md" target="_blank">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307781.md" target="_blank">专栏 | 夜话中南海：诅咒美国的人等来的只会是“天灭中共”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307759.md" target="_blank">中巴再爆争议 巴西部长指中国是瘟疫大流行之源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307716.md" target="_blank">陈破空：陈破空谈《常识》（之38）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md" target="_blank">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308005.md" target="_blank">两省再曝取缔340处家庭、三自教会场所 大量十字架遭强拆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307925.md" target="_blank">伊朗卫生部发言人称中国疫情数据是“惨痛的笑话”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307859.md" target="_blank">中国巴西因疫情再起争端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307852.md" target="_blank">中国被指囤积医疗物资 特朗普政府或采取法律行动</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307698.md" target="_blank">反对习近平倒行逆施 90后祁怡元、张盼成被判刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307696.md" target="_blank">中国在新冠病毒疫情发源地武汉恢复舰船制造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307651.md" target="_blank">中共入联合国人权理事会协商小组　人权组织批「纵火狂成消防队长」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307625.md" target="_blank">中国无证状感染和输入病例增加 武汉45个“无疫小区”被摘牌</a></li>
 
 </ul>
 </div>
