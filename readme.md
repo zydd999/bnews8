@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308061.md">江峰：十九国“零号”都指向一处； 习近平拿十亿口罩勒索法国马克龙换5G订单；美国“地下党”与中共同时行动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308284.md">首度回应“推特门”事件 赵立坚：个人账户对美政客污名化中国的反应</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308444.md" target="_blank">“绿色通道”不够绿，武汉鱼遭嫌弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308433.md" target="_blank">中国医疗物资出口收紧  全球供应跟得上吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308418.md" target="_blank">客串央视主持   中国官方力捧几位美国“公民记者”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308403.md" target="_blank">武汉解封市民恢复正常生活同时悼念死难同胞</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308318.md" target="_blank">加纳财长：中国必须加大减免非洲债务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308311.md" target="_blank">中国假疫苗受害者寄语新冠病毒疫苗研制和使用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308289.md" target="_blank">法议员和学者挺台湾加入世卫　中国驻法使馆发文批斗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308287.md" target="_blank">林郑月娥：香港电台必须维护一国两制 记者无国界呼吁修改审查约章</a></li>
 
 </ul>
 </div>
