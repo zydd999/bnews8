@@ -10,15 +10,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308048.md">这央视主播完了 竟把“习近平”说成“习病”？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md">中南海在世界突遇四面楚歌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308454.md" target="_blank">英国：约翰逊“情况稳定”无需呼吸机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308453.md" target="_blank">武汉正式解封恢复对外交通强化小区管控</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308452.md" target="_blank">法国新冠肺炎累计死亡病例“破万”峰值尚未到来 政府收紧“禁足令”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md" target="_blank">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308422.md" target="_blank">特朗普怒斥世卫组织亲北京 搞砸了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308364.md" target="_blank">康复者血浆治疗新冠 韩国两年长病患康复 法国开始临床实验</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md" target="_blank">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308085.md" target="_blank">组图：疫情下的清明节 北京祭坛警察密布</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308077.md" target="_blank">英媒：英政府不可再对中共的恶行视而不见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308072.md" target="_blank">腾讯健康码覆盖7亿人 分析：被戴电子脚镣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308065.md" target="_blank">“战狼”外交撞南墙了？崔天凯纽时登文煽情吁美中互助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308064.md" target="_blank">青岛“一对一服务”外籍隔离人员 遭网民痛批</a></li>
 
 </ul>
 </div>
