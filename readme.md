@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md">大批军人进京 北京出事了？真相来了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200406/1307249.md">冷眼飞: 突发：马杜罗投降了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307388.md">敏感时刻有人给习近平女儿写信 内容火爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200406/1307323.md">【独家】国家粮食储备局人员家属：吃草的日子不远了</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307465.md">希望之声：国家粮食储备局人员家属揭露“吃草的日子不远了”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307486.md">这作业中共想抄也抄不了！美国州长带领全州居民要...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307784.md">约翰逊病情恶化转入重症监护室 指示外交大臣拉布必要时暂代首相职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307824.md">重大突破！利用SARS抗体 美专家抓到武汉肺炎病毒「罩门」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307754.md">范冰冰近况惹人担忧 穿79元毛衣 瘦到颧骨外扩左右不对称</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
