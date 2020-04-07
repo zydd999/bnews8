@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307567.md">中国经济擎天五柱陷萎缩 央行绝不钱荒看这票子印的 只发消费券 百姓怨声载道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307395.md">瘟疫大流行后 这些职业恐将消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307319.md">网友直击：四川达州市又出现“路倒” 路人不敢靠近</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307925.md" target="_blank">伊朗卫生部发言人称中国疫情数据是“惨痛的笑话”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307859.md" target="_blank">中国巴西因疫情再起争端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307852.md" target="_blank">中国被指囤积医疗物资 特朗普政府或采取法律行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307806.md" target="_blank">新冠疫情对美中关系带来的变与不变</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307696.md" target="_blank">中国在新冠病毒疫情发源地武汉恢复舰船制造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307651.md" target="_blank">中共入联合国人权理事会协商小组　人权组织批「纵火狂成消防队长」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307625.md" target="_blank">中国无证状感染和输入病例增加 武汉45个“无疫小区”被摘牌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200406/1307624.md" target="_blank">时事大家谈： 美欧掀起追责中国浪潮，北京应接不暇？</a></li>
 
 </ul>
 </div>
