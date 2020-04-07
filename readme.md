@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307498.md">大批军人进京 北京出事了？真相来了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307517.md">武汉家属曝惊悚 网络炸锅 英内阁:中共病毒实验室泄露 利前总理疫死 被中共拉过去？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307695.md">传二波疫情大爆发 大陆医界人员翻墙急“吹哨”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307556.md">陈破空：美国最大规模撤侨有深意？党媒：就怕一件事！习近平面临选择：战争还是和平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307564.md">七国集团将就人造病毒事件 向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307824.md">重大突破！利用SARS抗体 美专家抓到武汉肺炎病毒「罩门」</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307754.md">范冰冰近况惹人担忧 穿79元毛衣 瘦到颧骨外扩左右不对称</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md">川普解雇美国情报总监阿特金森</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307714.md">《今日点击》川普电话与习近平确认中国死亡人数 态度逆转 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307478.md">武汉病毒研究所被踢爆 去年底征人研究&quot;新病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307741.md">《石涛.News》「网传：中央警卫局被攻陷 4.3北京大批军人调动」同期习近平4天躲在浙江 钟南山对无症状表现出尔反尔「习近平把怀仁堂变灵堂-4.4全国悼念」与930拜毛灵堂-对应「天灭中共-生与灭」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307478.md">武汉病毒研究所被踢爆 去年底征人研究&quot;新病毒&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200407/1307737.md">喝啤酒庆祝！ 美国新冠肺炎新增和死亡病例首次下降</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307741.md">《石涛.News》「网传：中央警卫局被攻陷 4.3北京大批军人调动」同期习近平4天躲在浙江 钟南山对无症状表现出尔反尔「习近平把怀仁堂变灵堂-4.4全国悼念」与930拜毛灵堂-对应「天灭中共-生与灭」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200407/1307791.md">〖兲朝浮世绘〗这场瘟疫是中共的阴谋</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307460.md">英媒：英政府不排除是武汉P4实验室病毒外泄</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200407/1307860.md">中共传统盟友伊朗巴基斯坦开始谴责中共</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308094.md" target="_blank">习近平频提疫情“教训” 中共渐被国际孤立</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308093.md" target="_blank">美专家曝光中共造假疫情三部曲</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308092.md" target="_blank">亲共媒体记者提问中美合作抗疫 川普回应了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308089.md" target="_blank">巴西教育部长：中共利用疫情牟取暴利</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md" target="_blank">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308085.md" target="_blank">组图：疫情下的清明节 北京祭坛警察密布</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308077.md" target="_blank">英媒：英政府不可再对中共的恶行视而不见</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307957.md" target="_blank">中共禁美企医疗产品回美 川普律师：一级谋杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307956.md" target="_blank">云南前省委副书记王天玺病亡 生前这坏事没少干！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307955.md" target="_blank">无声的控诉！武汉漫山遍野的无字墓碑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307954.md" target="_blank">吓人！ 小区现无症感染者 楼长紧急通知</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307953.md" target="_blank">太难了！ 哈尔滨一区民众买菜等要电话预约</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307944.md" target="_blank">美资深议员：必须重新评估中共在联合国的角色</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307932.md" target="_blank">中共传撞沉越南船 美国吁勿趁疫情扩张南海势力</a></li>
 
 </ul>
 </div>
