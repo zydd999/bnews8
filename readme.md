@@ -19,10 +19,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307861.md">震惊！60人捐血，其中40个居然是无症状感染者 ！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1307897.md">中国一线城市二手房价全跌 上海跌幅最大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200407/1307927.md">周五的会议才是重中之重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1307741.md">《石涛.News》「网传：中央警卫局被攻陷 4.3北京大批军人调动」同期习近平4天躲在浙江 钟南山对无症状表现出尔反尔「习近平把怀仁堂变灵堂-4.4全国悼念」与930拜毛灵堂-对应「天灭中共-生与灭」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308126.md">太恐怖！“武汉情况比封闭时候还危险 一定不要…”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200407/1307791.md">〖兲朝浮世绘〗这场瘟疫是中共的阴谋</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308254.md" target="_blank">伊朗卫生部发言人称中国疫情数据为“苦涩的笑话”后改口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308158.md" target="_blank">北京拟包机接在美留学生回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308118.md" target="_blank">法媒：盘子印习近平头像 武汉万家宴是病毒元凶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308109.md" target="_blank">中共病毒疫情中 看到邪党丑态毕露！民众要求退党！</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307987.md" target="_blank">中国四川惊见口罩男 持菜刀进卖场追着员警跑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307986.md" target="_blank">武汉死者数据严重低估？骨灰数量疑「少了一个零」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307985.md" target="_blank">张文宏“公示财产”挑战钟南山？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307958.md" target="_blank">中共强迫意大利购回它捐助的医疗品</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308256.md" target="_blank">英国首相约翰逊新冠病情恶化　转入深切治疗部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308214.md" target="_blank">五警殴打曾健超终极败诉　受害人：判决对警暴无阻吓力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308213.md" target="_blank">广东4地区调高疫情级别　否认越秀区「封村」传言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308205.md" target="_blank">瑞幸咖啡丑闻不减魅力，免费咖啡赢得其APP下载量狂飙</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307793.md" target="_blank">新基建：中国政府加强信息控制的新武器？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307786.md" target="_blank">华盛顿吁北京勿趁疫搞南海扩张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307785.md" target="_blank">中国制造新冠测试盒被爆假冒伪劣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1307777.md" target="_blank">舆论批中国隐瞒疫情  加拿大卫生部长为其辩解</a></li>
 
 </ul>
 </div>
