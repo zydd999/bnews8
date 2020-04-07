@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200406/1307438.md">“战狼外交”生是非 学者析王毅现象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200406/1307453.md">马杜罗投降，美国主导委内瑞拉民主化过渡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200407/1307763.md">奶茶妹妹和刘强东恋爱照片曝光 才发现奶茶妹妹好主动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md">揭华为内幕 《红龙之爪》网络首播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200406/1307478.md">武汉病毒研究所被踢爆 去年底征人研究&quot;新病毒&quot;</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308072.md" target="_blank">腾讯健康码覆盖7亿人 分析：被戴电子脚镣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308065.md" target="_blank">“战狼”外交撞南墙了？崔天凯纽时登文煽情吁美中互助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308064.md" target="_blank">青岛“一对一服务”外籍隔离人员 遭网民痛批</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308061.md" target="_blank">江峰：十九国“零号”都指向一处； 习近平拿十亿口罩勒索法国马克龙换5G订单；美国“地下党”与中共同时行动</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307866.md" target="_blank">战狼外交毁损中国 学者建议放弃高调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307863.md" target="_blank">文昭：向中共索赔天价清单开出，追责第一案启动；中南海政变传闻再现，不可信与真内容</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307815.md" target="_blank">法国新冠肺炎死亡将近9000 将展开大规模排查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307814.md" target="_blank">北京严防在俄华人从陆地口岸返国</a></li>
 
 </ul>
 </div>
