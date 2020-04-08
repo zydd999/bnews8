@@ -4,8 +4,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308404.md">宝胜政论：任志强被纪监委审查调查、王岐山势力大涨会否施以援手？习若严惩任必落千古骂名！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308761.md">广州大爆发 抓人后自打脸认了 武汉无症状感染者200万？解封近10万人出逃奔2地</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308703.md">大疫下习近平“后事”诡传 中南海凶险异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308720.md">中国会不会闹粮荒？袁隆平突然改口</a></li>
@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308639.md">中国疫情数据可信吗？张文宏：上海的数据是真的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308757.md">任志强案传由蔡奇拍板 需向中南海交代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308434.md">〖兲朝浮世绘〗大变革的狂风骤雨没有来，又让大家失望了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308880.md">任志强被调查缺2个字 什么信号？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200408/1308490.md">非洲士兵放豹归山 来不急关车窗 花豹钻进车里对士兵猛烈撒咬</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md" target="_blank">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308928.md" target="_blank">中国外交部：中方将一如既往坚定支持世卫组织工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308920.md" target="_blank">武汉疾控中心《自然》子刊发文：1月初就出现新冠“人传人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308905.md" target="_blank">轻微症状到加护病房 英国首相的新冠历程</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308689.md" target="_blank">1至3月疫情下 至少70名法轮功学员遭冤判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308676.md" target="_blank">疫情下武汉民众生活百态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md" target="_blank">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308674.md" target="_blank">中共病毒在俄扩散 俄中关系变得微妙</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1308941.md" target="_blank">被视为大外宣伎俩 凤凰卫视记者现身白宫备受质疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1308940.md" target="_blank">新疆立法预防禁止家庭暴力 “去极端化“无孔不入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308938.md" target="_blank">学者谈任志强案：北京决心封杀一切挑战习近平权威的声音</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308902.md" target="_blank">何柱国头版「问候」林郑月娥　香港正经历天灾人祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308885.md" target="_blank">中国人权律师团谴责打压刘莹莹律师   呼吁言论自由</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308783.md" target="_blank">官方公布任志强涉嫌严重违纪违法被查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308752.md" target="_blank">警员佐级协会申禁公开选民名册败诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308751.md" target="_blank">世卫组织被西方国家问责   面临大削经费或另起炉灶威胁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308649.md" target="_blank">新冠肆虐美国时，一名华裔小企业家如何跨洋筹货捐助医院</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308564.md" target="_blank">中国黑客组织攻击linux服务器长达10年 窃取知识产权</a></li>
 
 </ul>
 </div>
