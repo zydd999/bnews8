@@ -4,26 +4,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308171.md">王沪宁这是啥意思？能取而代之习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308126.md">太恐怖！“武汉情况比封闭时候还危险 一定不要…”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1307985.md">张文宏“公示财产”挑战钟南山？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308048.md">这央视主播完了 竟把“习近平”说成“习病”？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md">中南海在世界突遇四面楚歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308284.md">首度回应“推特门”事件 赵立坚：个人账户对美政客污名化中国的反应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308129.md">央视主播竟把“习近平”说成“习病”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308061.md">江峰：十九国“零号”都指向一处； 习近平拿十亿口罩勒索法国马克龙换5G订单；美国“地下党”与中共同时行动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308118.md">法媒：盘子印习近平头像 武汉万家宴是病毒元凶</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308199.md">【耳边风】  华为任正非绝招营救孟晚舟？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308620.md" target="_blank">黑龙江佳木斯小区再封闭 市民恐慌抢粮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308593.md" target="_blank">令人忧虑 ？网传解封后每天数千武汉人到上海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308585.md" target="_blank">恐怖！毒矿大量泄漏黑龙江上游沿线20水厂停供水</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308570.md" target="_blank">川普质疑世卫：为何拿美国钱 却围着中共转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308536.md" target="_blank">甩不掉的锅 友邦也怀疑北京隐瞒疫情</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308104.md" target="_blank">中共病毒长眼睛 ─ 中西方科学有共识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308254.md" target="_blank">伊朗卫生部发言人称中国疫情数据为“苦涩的笑话”后改口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308158.md" target="_blank">北京拟包机接在美留学生回国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308118.md" target="_blank">法媒：盘子印习近平头像 武汉万家宴是病毒元凶</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308109.md" target="_blank">中共病毒疫情中 看到邪党丑态毕露！民众要求退党！</a></li>
 
 </ul>
 </div>
