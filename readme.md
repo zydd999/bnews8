@@ -1,20 +1,19 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308761.md">广州大爆发 抓人后自打脸认了 武汉无症状感染者200万？解封近10万人出逃奔2地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308703.md">大疫下习近平“后事”诡传 中南海凶险异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308880.md">任志强被调查缺2个字 什么信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308720.md">中国会不会闹粮荒？袁隆平突然改口</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308535.md">华人在自己家地下室隔离 靠服此药自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308639.md">中国疫情数据可信吗？张文宏：上海的数据是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308757.md">任志强案传由蔡奇拍板 需向中南海交代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
@@ -23,7 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200408/1308490.md">非洲士兵放豹归山 来不急关车窗 花豹钻进车里对士兵猛烈撒咬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308877.md">凤凰卫视前员工曝光内部指示：原来女记者不敢向川普承认的是这个</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309107.md" target="_blank">文昭：习近平发话：准备长期应付外部压力！任志强被查，将被定性“颠覆势力”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309048.md" target="_blank">世贸称新冠病毒疫情“史无前例” 预测今年全球贸易将萎缩13%到32%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309047.md" target="_blank">法国新冠死亡病例逼近1万一千例“禁足令”将再次延长 马克龙将发表讲话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md" target="_blank">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308702.md" target="_blank">凤凰卫视挤入白宫简报会 美议员要采取行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308701.md" target="_blank">谁在甩锅 至少20个国家首例患者来自武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308699.md" target="_blank">中共自吹抗疫 大事纪要继续隐瞒疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308690.md" target="_blank">病毒祸害全球 如何让中共付出代价？</a></li>
 
 </ul>
 </div>
