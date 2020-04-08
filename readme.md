@@ -2,9 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308535.md">华人在自己家地下室隔离 靠服此药自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308199.md">【耳边风】  华为任正非绝招营救孟晚舟？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308639.md">中国疫情数据可信吗？张文宏：上海的数据是真的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308434.md">〖兲朝浮世绘〗大变革的狂风骤雨没有来，又让大家失望了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308285.md">新里程碑：川普宣布退出全球化!? 中国经济撑不住 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200408/1308490.md">非洲士兵放豹归山 来不急关车窗 花豹钻进车里对士兵猛烈撒咬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308703.md">大疫下习近平“后事”诡传 中南海凶险异常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308720.md">中国会不会闹粮荒？袁隆平突然改口</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md" target="_blank">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308762.md" target="_blank">是喜是忧？武汉解封中共作秀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308747.md" target="_blank">又一个！网传视频：让我搜刮到了这最后一批口罩&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md" target="_blank">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308656.md" target="_blank">记者白宫被呛 凤凰卫视的背景引热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308655.md" target="_blank">【一线采访】广州黑人染疫 当地封路 民恐慌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308654.md" target="_blank">【一线采访】趁解封赶紧走 武汉数万人出城</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308653.md" target="_blank">疫情缓解？清明节北京宗教场所仍关闭</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md" target="_blank">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308761.md" target="_blank">广州大爆发 抓人后自打脸认了 武汉无症状感染者200万？解封近10万人出逃奔2地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md" target="_blank">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md" target="_blank">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307460.md" target="_blank">英媒：英政府不排除是武汉P4实验室病毒外泄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307333.md" target="_blank">听着感觉心碎！网友直击：清明节来自武汉的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307321.md" target="_blank">再次令人想起华春莹的威胁！美医务总监称疫情危如“9.11”和“珍珠港”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307320.md" target="_blank">“这都是头 人头的头…” 疫情未完 安徽黄山万人扎堆爬山</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308838.md" target="_blank">律师刘莹莹转发武汉长龙领骨灰被处分   疑遭官方施压放弃申诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308820.md" target="_blank">新疆「反家暴法」包藏祸心  藉「去极端化」打压人权？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308819.md" target="_blank">【耳边风】强国组建千万网军？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308793.md" target="_blank">陆方快筛试剂准确存疑　  台军方参制产品三个月内上市</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308353.md" target="_blank">陈时中遭死亡威胁？中国网民频发对台仇恨言论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308352.md" target="_blank">法国逾百人挺台 中国驻法使馆发信痛批</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308347.md" target="_blank">武汉解封：首日逾二万人涌珠三角　「广交会」铁定线上举行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308343.md" target="_blank">北京公开任志强下落，称其正在接受调查</a></li>
 
 </ul>
 </div>
