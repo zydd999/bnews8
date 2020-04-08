@@ -10,19 +10,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308535.md">华人在自己家地下室隔离 靠服此药自愈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308639.md">中国疫情数据可信吗？张文宏：上海的数据是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308757.md">任志强案传由蔡奇拍板 需向中南海交代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308866.md">习近平 :  做好较长时间应对外部环境变化的思想和工作准备</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200408/1308490.md">非洲士兵放豹归山 来不急关车窗 花豹钻进车里对士兵猛烈撒咬</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309068.md" target="_blank">爱奇艺遇到“狼群”    被曝财务造假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309042.md" target="_blank">武汉“解封”  居民在不安中雀跃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309037.md" target="_blank">新华社“疫情纪事”距离真相有多远？ (国内篇）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309027.md" target="_blank">四个关键时间点：世卫是否以中国为中心误导世界？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308853.md" target="_blank">香港主要官员减薪一成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308846.md" target="_blank">特朗普批世卫「以中国为中心」　　警告考虑暂停提供资金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308845.md" target="_blank">林郑班子减薪一成       称已考虑多时非学他国提出</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308838.md" target="_blank">律师刘莹莹转发武汉长龙领骨灰被处分   疑遭官方施压放弃申诉</a></li>
 
 </ul>
 </div>
