@@ -7,10 +7,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md">中南海在世界突遇四面楚歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308284.md">首度回应“推特门”事件 赵立坚：个人账户对美政客污名化中国的反应</a></li>
@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308118.md">法媒：盘子印习近平头像 武汉万家宴是病毒元凶</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308199.md">【耳边风】  华为任正非绝招营救孟晚舟？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308199.md">【耳边风】  华为任正非绝招营救孟晚舟？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308535.md">华人在自己家地下室隔离 靠服此药自愈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308285.md">新里程碑：川普宣布退出全球化!? 中国经济撑不住 真实失业率超过25％</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308434.md">〖兲朝浮世绘〗大变革的狂风骤雨没有来，又让大家失望了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308705.md" target="_blank">法学家指中共发动生物战 国际法学会到联合国索赔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md" target="_blank">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308703.md" target="_blank">大疫下习近平“后事”诡传 中南海凶险异常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308702.md" target="_blank">凤凰卫视挤入白宫简报会 美议员要采取行动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308701.md" target="_blank">谁在甩锅 至少20个国家首例患者来自武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308699.md" target="_blank">中共自吹抗疫 大事纪要继续隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308690.md" target="_blank">病毒祸害全球 如何让中共付出代价？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308689.md" target="_blank">1至3月疫情下 至少70名法轮功学员遭冤判</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308570.md" target="_blank">川普质疑世卫：为何拿美国钱 却围着中共转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308536.md" target="_blank">甩不掉的锅 友邦也怀疑北京隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308532.md" target="_blank">中共宣布红二代地产大亨任志强正在接受当局调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308504.md" target="_blank">文昭：伊朗也喷中共了！川普怼凤凰卫视；英国首相进ICU；旧恨未了添新怨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md" target="_blank">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md" target="_blank">任志强下落公开 习近平或下重手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308454.md" target="_blank">英国：约翰逊“情况稳定”无需呼吸机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308453.md" target="_blank">武汉正式解封恢复对外交通强化小区管控</a></li>
 
 </ul>
 </div>
