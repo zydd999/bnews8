@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308585.md" target="_blank">恐怖！毒矿大量泄漏黑龙江上游沿线20水厂停供水</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308570.md" target="_blank">川普质疑世卫：为何拿美国钱 却围着中共转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308536.md" target="_blank">甩不掉的锅 友邦也怀疑北京隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308532.md" target="_blank">中共宣布红二代地产大亨任志强正在接受当局调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308504.md" target="_blank">文昭：伊朗也喷中共了！川普怼凤凰卫视；英国首相进ICU；旧恨未了添新怨</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308158.md" target="_blank">北京拟包机接在美留学生回国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308118.md" target="_blank">法媒：盘子印习近平头像 武汉万家宴是病毒元凶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308109.md" target="_blank">中共病毒疫情中 看到邪党丑态毕露！民众要求退党！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308094.md" target="_blank">习近平频提疫情“教训” 中共渐被国际孤立</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308093.md" target="_blank">美专家曝光中共造假疫情三部曲</a></li>
 
 </ul>
 </div>
