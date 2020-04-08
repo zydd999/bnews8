@@ -6,19 +6,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md">不同消息源：病毒来源指向武汉实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md">中南海在世界突遇四面楚歌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200407/1308260.md">媒体放风指 习若染疫退位 由王岐山接手替位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308284.md">首度回应“推特门”事件 赵立坚：个人账户对美政客污名化中国的反应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308129.md">央视主播竟把“习近平”说成“习病”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308404.md">宝胜政论：任志强被纪监委审查调查、王岐山势力大涨会否施以援手？习若严惩任必落千古骂名！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308118.md">法媒：盘子印习近平头像 武汉万家宴是病毒元凶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308199.md">【耳边风】  华为任正非绝招营救孟晚舟？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308676.md" target="_blank">疫情下武汉民众生活百态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md" target="_blank">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308674.md" target="_blank">中共病毒在俄扩散 俄中关系变得微妙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308670.md" target="_blank">〖博谈编译〗如果北京诚实的话，本次大流行是可防止的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308665.md" target="_blank">病毒爆发 中共劫持和假冒推特账号搞大外宣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308664.md" target="_blank">信用破产 中国昨新增死亡首挂零 BBC：可信度存疑</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308452.md" target="_blank">法国新冠肺炎累计死亡病例“破万”峰值尚未到来 政府收紧“禁足令”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md" target="_blank">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308422.md" target="_blank">特朗普怒斥世卫组织亲北京 搞砸了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308364.md" target="_blank">康复者血浆治疗新冠 韩国两年长病患康复 法国开始临床实验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308340.md" target="_blank">武汉即将解封 专家：无症状感染者还有1至2万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md" target="_blank">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 
 </ul>
 </div>
