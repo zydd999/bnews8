@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200407/1308305.md">遭强迫失踪的著名退休企业家&#12289;公众人物任志强今证实遭中共纪检部门扣押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308404.md">宝胜政论：任志强被纪监委审查调查、王岐山势力大涨会否施以援手？习若严惩任必落千古骂名！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308404.md">宝胜政论：任志强被纪监委审查调查、王岐山势力大涨会否施以援手？习若严惩任必落千古骂名！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308284.md">首度回应“推特门”事件 赵立坚：个人账户对美政客污名化中国的反应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308535.md">华人在自己家地下室隔离 靠服此药自愈</a></li>
@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308434.md">〖兲朝浮世绘〗大变革的狂风骤雨没有来，又让大家失望了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308285.md">新里程碑：川普宣布退出全球化!? 中国经济撑不住 真实失业率超过25％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308532.md">中共宣布红二代地产大亨任志强正在接受当局调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200407/1308303.md">邱家军：「习明泽公开信」救得了习近平全家吗？ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200408/1308490.md">非洲士兵放豹归山 来不急关车窗 花豹钻进车里对士兵猛烈撒咬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308532.md">中共宣布红二代地产大亨任志强正在接受当局调查</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308793.md" target="_blank">陆方快筛试剂准确存疑　  台军方参制产品三个月内上市</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308784.md" target="_blank">美国惠及百姓的“发钱”VS中共宣传的“自愿捐款”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308783.md" target="_blank">官方公布任志强涉嫌严重违纪违法被查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308752.md" target="_blank">警员佐级协会申禁公开选民名册败诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308751.md" target="_blank">世卫组织被西方国家问责   面临大削经费或另起炉灶威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308649.md" target="_blank">新冠肆虐美国时，一名华裔小企业家如何跨洋筹货捐助医院</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308343.md" target="_blank">北京公开任志强下落，称其正在接受调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308342.md" target="_blank">中国政府疫情后重新开始拆除清真寺标识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308341.md" target="_blank">“倒习”新风波：北京纪委宣布任志强因违纪违法接受调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308339.md" target="_blank">中共当局为疫情责任问题打造叙事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308335.md" target="_blank">北京纪委监委通告：任志强接受纪律审查监察调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308330.md" target="_blank">美中两国的新冠外援反映世界新秩序</a></li>
 
 </ul>
 </div>
