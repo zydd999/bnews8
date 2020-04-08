@@ -3,9 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308497.md">任志强下落公开 习近平或下重手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308404.md">宝胜政论：任志强被纪监委审查调查、王岐山势力大涨会否施以援手？习若严惩任必落千古骂名！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308761.md">广州大爆发 抓人后自打脸认了 武汉无症状感染者200万？解封近10万人出逃奔2地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308761.md">广州大爆发 抓人后自打脸认了 武汉无症状感染者200万？解封近10万人出逃奔2地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308703.md">大疫下习近平“后事”诡传 中南海凶险异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308720.md">中国会不会闹粮荒？袁隆平突然改口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
@@ -16,13 +15,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308434.md">〖兲朝浮世绘〗大变革的狂风骤雨没有来，又让大家失望了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308757.md">任志强案传由蔡奇拍板 需向中南海交代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308434.md">〖兲朝浮世绘〗大变革的狂风骤雨没有来，又让大家失望了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308533.md">武汉解封 火车站等待出城的民众百态（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200408/1308490.md">非洲士兵放豹归山 来不急关车窗 花豹钻进车里对士兵猛烈撒咬</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md" target="_blank">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md" target="_blank">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308928.md" target="_blank">中国外交部：中方将一如既往坚定支持世卫组织工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308920.md" target="_blank">武汉疾控中心《自然》子刊发文：1月初就出现新冠“人传人”</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308690.md" target="_blank">病毒祸害全球 如何让中共付出代价？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308689.md" target="_blank">1至3月疫情下 至少70名法轮功学员遭冤判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308676.md" target="_blank">疫情下武汉民众生活百态</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308675.md" target="_blank">江峰：任志强正式被查办，对照四年前，习近平怕的原来是它！粮食丰足下的粮荒，一探究竟：中共把持的世界粮农组织</a></li>
 
 </ul>
 </div>
