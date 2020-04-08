@@ -17,11 +17,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308051.md">中国女记者诡异提问 川普当场戳破「你替政府工作？」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308086.md">纳瓦罗：有一个数字会让所有美国人都震惊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308133.md">一片土豆1.5元 一碗饭7元… 蘑了两个多月的刀开宰了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308284.md">首度回应“推特门”事件 赵立坚：个人账户对美政客污名化中国的反应</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308423.md">陈破空：老任最新消息！党报开始下架习近平。央视故意读错他的名字？伊朗说中国是笑话 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200407/1308129.md">央视主播竟把“习近平”说成“习病”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308332.md">中共北京纪委：任志强涉严重违纪违法被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308258.md">推特上的中国：中国前副外长隐晦批“战狼”，“炮打司令部”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200407/1308061.md">江峰：十九国“零号”都指向一处； 习近平拿十亿口罩勒索法国马克龙换5G订单；美国“地下党”与中共同时行动</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308564.md" target="_blank">中国黑客组织攻击linux服务器长达10年 窃取知识产权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308530.md" target="_blank">美国七名参议员联署联合国     反对蒋端加入人权理事会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308502.md" target="_blank">江苏辽宁取缔三百多家三自及家庭教会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308480.md" target="_blank">新疆通过《反家暴法》     “去极端化”进入普通人家</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308329.md" target="_blank">英国首相约翰逊新冠病情恶化 英國中國製測試劑不合格</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308328.md" target="_blank">网上转发武汉排队领骨灰情景 河南女律师遭律协处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308327.md" target="_blank">中国关闭中俄最后一个陆路口岸   国民回乡无期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200407/1308322.md" target="_blank">2019年中国首次超越美国成为专利申请最多的国家</a></li>
 
 </ul>
 </div>
