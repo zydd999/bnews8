@@ -13,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200408/1308639.md">中国疫情数据可信吗？张文宏：上海的数据是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308503.md">天亮时分：任志强案更新;川普回答凤凰卫视时给出重要暗示,英国首相进ICU,全球追责中共的四大选项(政论天下第147集 20200407) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308757.md">任志强案传由蔡奇拍板 需向中南海交代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309042.md" target="_blank">武汉“解封”  居民在不安中雀跃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309037.md" target="_blank">新华社“疫情纪事”距离真相有多远？ (国内篇）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309027.md" target="_blank">四个关键时间点：世卫是否以中国为中心误导世界？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309023.md" target="_blank">芬兰卫生部长宣布：200万件从中国购买的防护面罩不符合医疗标准</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309016.md" target="_blank">留美学生：不会因疫情辍学，被录取不应放弃</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308846.md" target="_blank">特朗普批世卫「以中国为中心」　　警告考虑暂停提供资金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308845.md" target="_blank">林郑班子减薪一成       称已考虑多时非学他国提出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308838.md" target="_blank">律师刘莹莹转发武汉长龙领骨灰被处分   疑遭官方施压放弃申诉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308820.md" target="_blank">新疆「反家暴法」包藏祸心  藉「去极端化」打压人权？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308819.md" target="_blank">【耳边风】强国组建千万网军？</a></li>
 
 </ul>
 </div>
