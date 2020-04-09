@@ -14,10 +14,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309314.md">真的二次爆发？武汉火车站出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309117.md">习近平休得逞狂——春江水暖任先知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309695.md" target="_blank">武汉疫情最早期的几个关键时间点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309678.md" target="_blank">德国抗击新冠疫情措施取得初步成果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309677.md" target="_blank">联合国前环境署长:冠状病毒大流行责任在中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309600.md" target="_blank">陈破空：陈破空谈《常识》（之39）</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md" target="_blank">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309290.md" target="_blank">啥预警？ 11天内3次 北京顺义双峰街道地震频发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309287.md" target="_blank">分析：北京何时解封</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md" target="_blank">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309702.md" target="_blank">美国务院批评世卫组织无视台湾早期疫情预警</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309701.md" target="_blank">美国司法部等多个部门敦促取消“中国电信”在美经营业务</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309687.md" target="_blank">美国国防部对中国撞沉越南渔船事件表示严重关切</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309686.md" target="_blank">美国国务卿蓬佩奥：台湾是患难与共的真朋友 有效管控新冠疫情 全球典范</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309685.md" target="_blank">违法成本低 瑞幸咖啡丑闻再曝中概股信任危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309684.md" target="_blank">方方日记出海 引发左派讨伐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309683.md" target="_blank">中国金援利率高    美智库忧疫情加剧债务国风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309682.md" target="_blank">“两会”尚无定期    江苏访民已遭监控</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309505.md" target="_blank">台湾抗议谭德塞攻击，中国力挺世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309502.md" target="_blank">疫情未灭中国多省市竟称可不戴口罩     专家直指「这是很危险做法」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309492.md" target="_blank">IMF警告全球面临90年来最严重经济衰退</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309491.md" target="_blank">台湾向世卫总干事谭德塞提出抗议 要求公开道歉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309474.md" target="_blank">时事大家谈: 专访陈平：处理任志强，习近平不得已而为之？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309473.md" target="_blank">香港上诉庭：禁蒙面法不违宪　但仅适用于非法集结</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309472.md" target="_blank">谭德塞称台北外交部发动人身攻击     蔡英文邀其访台体验被孤立感受</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309455.md" target="_blank">推特上的中国：任志强们比许章润们更令习近平“不自信”？</a></li>
 
 </ul>
 </div>
