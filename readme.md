@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308877.md">凤凰卫视前员工曝光内部指示：原来女记者不敢向川普承认的是这个</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308919.md">邱家军：面对各国索赔，中共正在做包括战争在内的十项准备 691 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309117.md">习近平休得逞狂——春江水暖任先知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308847.md">前凤凰网记者张真瑜揭露中共操纵疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309332.md" target="_blank">河北多所天主教学校被关闭 新文件严禁青少年宗教教育</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309303.md" target="_blank">张文宏分享上海经验：抗疫“密匙”是时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309233.md" target="_blank">谭德塞称特朗普把病毒政治化 特朗普当天回怼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309225.md" target="_blank">「维吾尔人没有人权」：你从电视上就能了解到的悲剧</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308867.md" target="_blank">特朗普威胁冻结资助    世卫否认“以中国为中心”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308866.md" target="_blank">习近平 :  做好较长时间应对外部环境变化的思想和工作准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308862.md" target="_blank">世卫组织否认以“中国为中心”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308861.md" target="_blank">时事大家谈：武汉解封话封城：为何中国式封城世界不敢效仿？</a></li>
 
 </ul>
 </div>
