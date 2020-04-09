@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md" target="_blank">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309253.md" target="_blank">美国国会议员呼吁将北京送上国际刑事法庭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309247.md" target="_blank">天津还在容忍… 绑架 致疯 致残…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309246.md" target="_blank">萧铭：任志强会软着陆吗？川普对贸易协议执行不满意，还给习多少时间？川普质问凤凰卫视记者，习近平将失去川普最后支持？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309240.md" target="_blank">如何处理任志强 专家：习近平当局&#8230;</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md" target="_blank">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308928.md" target="_blank">中国外交部：中方将一如既往坚定支持世卫组织工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308920.md" target="_blank">武汉疾控中心《自然》子刊发文：1月初就出现新冠“人传人”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308905.md" target="_blank">轻微症状到加护病房 英国首相的新冠历程</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308887.md" target="_blank">武汉解封首日 当地人民保持谨慎小心</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md" target="_blank">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md" target="_blank">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md" target="_blank">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md" target="_blank">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md" target="_blank">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307951.md" target="_blank">啥情况？武汉70个“无疫小区”被摘牌和暂停认定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307931.md" target="_blank">「新冠病毒是生物武器」 国际法学家协会要求中共赔偿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307824.md" target="_blank">重大突破！利用SARS抗体 美专家抓到武汉肺炎病毒「罩门」</a></li>
 
 </ul>
 </div>
