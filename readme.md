@@ -8,7 +8,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200409/1309076.md">12生肖智商排行榜！看看你第几名！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200409/1309333.md">WHO：朝鲜用中国试剂盒对709人检测 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309240.md">如何处理任志强 专家：习近平当局...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309314.md">真的二次爆发？武汉火车站出现随地倒</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309714.md" target="_blank">英国首相约翰逊离开重症监护室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md" target="_blank">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309695.md" target="_blank">武汉疫情最早期的几个关键时间点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309678.md" target="_blank">德国抗击新冠疫情措施取得初步成果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309677.md" target="_blank">联合国前环境署长:冠状病毒大流行责任在中国</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309298.md" target="_blank">萧铭：川普对贸易协议执行不满意，还给习多少时间？川普质问凤凰卫视记者，习近平将失去川普最后支持？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md" target="_blank">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md" target="_blank">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309290.md" target="_blank">啥预警？ 11天内3次 北京顺义双峰街道地震频发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309287.md" target="_blank">分析：北京何时解封</a></li>
 
 </ul>
 </div>
