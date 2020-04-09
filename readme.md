@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309000.md">联合国秘书长：疫情过后必将全面调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200409/1309076.md">12生肖智商排行榜！看看你第几名！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200409/1309333.md">WHO：朝鲜用中国试剂盒对709人检测 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309240.md">如何处理任志强 专家：习近平当局...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309314.md">真的二次爆发？武汉火车站出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309117.md">习近平休得逞狂——春江水暖任先知</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309600.md" target="_blank">陈破空：陈破空谈《常识》（之39）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309573.md" target="_blank">赵立坚：中国从不输出中国模式，也从未要求抄作业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309553.md" target="_blank">谭德塞控台湾人身攻击 蔡英文表达抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309538.md" target="_blank">港警现离职潮 投考更少学历更低</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md" target="_blank">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309284.md" target="_blank">我们多次求助社区…骨灰是不是自己亲人的… 中共肺炎疫亡者家属索赔维权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309271.md" target="_blank">【博谈编译】武汉从疫情中解封，要关注的五件事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309265.md" target="_blank">云南动物园惊现“钓老虎”项目 被批丑恶</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md" target="_blank">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309575.md" target="_blank">中国首季萧条 8000万人失去工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md" target="_blank">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309540.md" target="_blank">纳瓦罗：中共欲控制多个联合国机构 谭德塞是代理人之一</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308137.md" target="_blank">凤凰卫视女记者诡异提问 川普直接呛声：你替谁工作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308135.md" target="_blank">中南海在世界突遇四面楚歌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308126.md" target="_blank">太恐怖！“武汉情况比封闭时候还危险 一定不要…”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md" target="_blank">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
 
 </ul>
 </div>
