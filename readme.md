@@ -17,10 +17,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309678.md" target="_blank">德国抗击新冠疫情措施取得初步成果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309677.md" target="_blank">联合国前环境署长:冠状病毒大流行责任在中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309600.md" target="_blank">陈破空：陈破空谈《常识》（之39）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309573.md" target="_blank">赵立坚：中国从不输出中国模式，也从未要求抄作业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309553.md" target="_blank">谭德塞控台湾人身攻击 蔡英文表达抗议</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309290.md" target="_blank">啥预警？ 11天内3次 北京顺义双峰街道地震频发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309287.md" target="_blank">分析：北京何时解封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md" target="_blank">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309284.md" target="_blank">我们多次求助社区…骨灰是不是自己亲人的… 中共肺炎疫亡者家属索赔维权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309271.md" target="_blank">【博谈编译】武汉从疫情中解封，要关注的五件事</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309684.md" target="_blank">方方日记出海 引发左派讨伐</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309683.md" target="_blank">中国金援利率高    美智库忧疫情加剧债务国风险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309682.md" target="_blank">“两会”尚无定期    江苏访民已遭监控</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309681.md" target="_blank">封锁疫情信息     活动人士：全球为中共专制付出代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309669.md" target="_blank">不得食用狗肉：狗成为中国疫情的获益者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309624.md" target="_blank">疫情政治化: 世卫总干事谭德塞反驳特朗普  指控台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309621.md" target="_blank">武汉封城后遗症：恐惧、歧视、经济压力和回不去的惆怅</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309473.md" target="_blank">香港上诉庭：禁蒙面法不违宪　但仅适用于非法集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309472.md" target="_blank">谭德塞称台北外交部发动人身攻击     蔡英文邀其访台体验被孤立感受</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309455.md" target="_blank">推特上的中国：任志强们比许章润们更令习近平“不自信”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309454.md" target="_blank">无症感染成中国防疫新重点，一旦发现须2小时上报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309453.md" target="_blank">忧国安隐患华府否决光纤电缆连接香港     特区互联网枢纽地位临重大考验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309428.md" target="_blank">中国考虑取消外国人寿企业在中国的市场份额限制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md" target="_blank">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
 
 </ul>
 </div>
