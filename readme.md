@@ -3,13 +3,12 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308880.md">任志强被调查缺2个字 什么信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308866.md">习近平 :  做好较长时间应对外部环境变化的思想和工作准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309006.md">〖兲朝浮世绘〗中国即将到来大变局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309107.md">文昭：习近平发话：准备长期应付外部压力！任志强被查，将被定性“颠覆势力”？ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309000.md">联合国秘书长：疫情过后必将全面调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309492.md" target="_blank">IMF警告全球面临90年来最严重经济衰退</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309491.md" target="_blank">台湾向世卫总干事谭德塞提出抗议 要求公开道歉</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309474.md" target="_blank">时事大家谈: 专访陈平：处理任志强，习近平不得已而为之？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309473.md" target="_blank">香港上诉庭：禁蒙面法不违宪　但仅适用于非法集结</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309472.md" target="_blank">谭德塞称台北外交部发动人身攻击     蔡英文邀其访台体验被孤立感受</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309455.md" target="_blank">推特上的中国：任志强们比许章润们更令习近平“不自信”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309454.md" target="_blank">无症感染成中国防疫新重点，一旦发现须2小时上报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309453.md" target="_blank">忧国安隐患华府否决光纤电缆连接香港     特区互联网枢纽地位临重大考验</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309027.md" target="_blank">四个关键时间点：世卫是否以中国为中心误导世界？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309023.md" target="_blank">芬兰卫生部长宣布：200万件从中国购买的防护面罩不符合医疗标准</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309016.md" target="_blank">留美学生：不会因疫情辍学，被录取不应放弃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309012.md" target="_blank">华为“主场报复”　反告以色列太阳能公司SolarEdge专利侵权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1308973.md" target="_blank">世卫组织: 欧洲疫情仍严峻  美总统不应停止资助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1308941.md" target="_blank">被视为大外宣伎俩 凤凰卫视记者现身白宫备受质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1308940.md" target="_blank">新疆立法预防禁止家庭暴力 “去极端化“无孔不入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308938.md" target="_blank">学者谈任志强案：北京决心封杀一切挑战习近平权威的声音</a></li>
 
 </ul>
 </div>
