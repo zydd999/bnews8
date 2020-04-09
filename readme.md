@@ -13,15 +13,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200409/1309076.md">12生肖智商排行榜！看看你第几名！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309240.md">如何处理任志强 专家：习近平当局...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200409/1309333.md">WHO：朝鲜用中国试剂盒对709人检测 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200408/1308919.md">邱家军：面对各国索赔，中共正在做包括战争在内的十项准备 691 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309117.md">习近平休得逞狂——春江水暖任先知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309314.md">真的二次爆发？武汉火车站出现随地倒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309117.md">习近平休得逞狂——春江水暖任先知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200409/1309333.md">WHO：朝鲜用中国试剂盒对709人检测 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309553.md" target="_blank">谭德塞控台湾人身攻击 蔡英文表达抗议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309538.md" target="_blank">港警现离职潮 投考更少学历更低</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309520.md" target="_blank">中国再爆黑心口罩 黏有死苍蝇的口罩已透过亚马逊卖到欧美国家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309519.md" target="_blank">中国外交部：谭德赛领导世卫为协助各国应对疫情发挥了重要作用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309420.md" target="_blank">新冠瘟疫：回溯误区，惊见根源，根本治愈（1）</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309271.md" target="_blank">【博谈编译】武汉从疫情中解封，要关注的五件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309265.md" target="_blank">云南动物园惊现“钓老虎”项目 被批丑恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md" target="_blank">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309253.md" target="_blank">美国国会议员呼吁将北京送上国际刑事法庭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309247.md" target="_blank">天津还在容忍… 绑架 致疯 致残…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309540.md" target="_blank">纳瓦罗：中共欲控制多个联合国机构 谭德塞是代理人之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md" target="_blank">习近平下达四字强硬指令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md" target="_blank">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md" target="_blank">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
@@ -87,13 +88,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308063.md" target="_blank">借口罩搞鬼激怒美国 这一下北京麻烦大了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308046.md" target="_blank">广州惊传疫情大爆发！军警介入官方出面“辟谣”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307993.md" target="_blank">全民“冬眠”！西班牙疫情惨过意大利 都是因为&#8230;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307952.md" target="_blank">被猪队友误导！伊朗罕见轰中共：统计数字是在「开玩笑」</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309543.md" target="_blank">德国领跑「脱钩中国」    修法阻「外资」收购德企</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309542.md" target="_blank">中国影视霸王爱奇艺被指夸大业绩      中概股「火烧连环船」？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309535.md" target="_blank">中国教育部暂停今年陆生赴台升学就读 台湾表达遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309511.md" target="_blank">美国开市客拟在苏州兴建中国第二家大型会员制仓储超市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309506.md" target="_blank">时事大家谈: 热点快评：一周内两起造假丑闻 中概股成“雷区”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309505.md" target="_blank">台湾抗议谭德塞攻击，中国力挺世卫组织</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309225.md" target="_blank">「维吾尔人没有人权」：你从电视上就能了解到的悲剧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309164.md" target="_blank">报告揭示新疆强迫劳动 全球品牌谨慎对待供货来源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309140.md" target="_blank">美专家: 全球化2.0将重创中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309099.md" target="_blank">研究：如果放松监控，中国可能出现第二波疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309068.md" target="_blank">爱奇艺遇到“狼群”    被曝财务造假</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309042.md" target="_blank">武汉“解封”  居民在不安中雀跃</a></li>
 
 </ul>
 </div>
