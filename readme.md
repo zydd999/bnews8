@@ -14,12 +14,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309314.md">真的二次爆发？武汉火车站出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309117.md">习近平休得逞狂——春江水暖任先知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
