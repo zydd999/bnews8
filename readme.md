@@ -16,8 +16,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308866.md">习近平 :  做好较长时间应对外部环境变化的思想和工作准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309006.md">〖兲朝浮世绘〗中国即将到来大变局</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309000.md">联合国秘书长：疫情过后必将全面调查</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309271.md" target="_blank">【博谈编译】武汉从疫情中解封，要关注的五件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309265.md" target="_blank">云南动物园惊现“钓老虎”项目 被批丑恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md" target="_blank">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309253.md" target="_blank">美国国会议员呼吁将北京送上国际刑事法庭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309247.md" target="_blank">天津还在容忍… 绑架 致疯 致残…</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309047.md" target="_blank">法国新冠死亡病例逼近1万一千例“禁足令”将再次延长 马克龙将发表讲话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md" target="_blank">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md" target="_blank">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308928.md" target="_blank">中国外交部：中方将一如既往坚定支持世卫组织工作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308920.md" target="_blank">武汉疾控中心《自然》子刊发文：1月初就出现新冠“人传人”</a></li>
 
 </ul>
 </div>
