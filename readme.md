@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309107.md">文昭：习近平发话：准备长期应付外部压力！任志强被查，将被定性“颠覆势力”？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
@@ -18,12 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309736.md" target="_blank">法国重症监护室病人首次减少</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309729.md" target="_blank">黑龙江绥芬河境外输入个案急增 实施交通管制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309714.md" target="_blank">英国首相约翰逊离开重症监护室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md" target="_blank">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md" target="_blank">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309299.md" target="_blank">武汉保安：亲见孤独死去的老人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309298.md" target="_blank">萧铭：川普对贸易协议执行不满意，还给习多少时间？川普质问凤凰卫视记者，习近平将失去川普最后支持？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md" target="_blank">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 
 </ul>
 </div>
