@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308877.md">凤凰卫视前员工曝光内部指示：原来女记者不敢向川普承认的是这个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309000.md">联合国秘书长：疫情过后必将全面调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308877.md">凤凰卫视前员工曝光内部指示：原来女记者不敢向川普承认的是这个</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309211.md" target="_blank">武汉硚口区物业与业主爆冲突</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309196.md" target="_blank">班农炮轰基辛格：你一开始就是中共的代言人&#8230;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309195.md" target="_blank">高岗遗孀李力群在京去世</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309194.md" target="_blank">刚解封 武汉汉华社区再被封闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309177.md" target="_blank">武汉解封首日 商业街人流稀疏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309176.md" target="_blank">组图：武汉解封 北京各教堂仍紧闭警察巡逻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309165.md" target="_blank">江峰：《江峰时刻》2020年4月8日，50万订阅铭志、明志；同日，武汉解封</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md" target="_blank">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308762.md" target="_blank">是喜是忧？武汉解封中共作秀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308747.md" target="_blank">又一个！网传视频：让我搜刮到了这最后一批口罩&#8230;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308726.md" target="_blank">澳洲华女回国刚下机就晕倒 倒地20分钟猝死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md" target="_blank">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308720.md" target="_blank">中国会不会闹粮荒？袁隆平突然改口</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308719.md" target="_blank">武汉今解封 多数社区继续24小时封控管理</a></li>
 
 </ul>
 </div>
