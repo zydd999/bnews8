@@ -1,8 +1,8 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309006.md">〖兲朝浮世绘〗中国即将到来大变局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309006.md">〖兲朝浮世绘〗中国即将到来大变局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309107.md">文昭：习近平发话：准备长期应付外部压力！任志强被查，将被定性“颠覆势力”？ </a></li>
@@ -18,11 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
