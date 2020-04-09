@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308757.md">任志强案传由蔡奇拍板 需向中南海交代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308866.md">习近平 :  做好较长时间应对外部环境变化的思想和工作准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309006.md">〖兲朝浮世绘〗中国即将到来大变局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308847.md">前凤凰网记者张真瑜揭露中共操纵疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308823.md">英首相约翰逊在重症室度过两夜 医生团队称未来一周很关键</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309338.md" target="_blank">萧铭：（双声道）任志强被调查，习近平达到目的了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309318.md" target="_blank">五毛变七毛  至少近千万五毛大军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309311.md" target="_blank">英国呼吁成立“G20卫生组织”谴责世卫组织屈从中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md" target="_blank">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309211.md" target="_blank">武汉硚口区物业与业主爆冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309196.md" target="_blank">班农炮轰基辛格：你一开始就是中共的代言人&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309195.md" target="_blank">高岗遗孀李力群在京去世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309194.md" target="_blank">刚解封 武汉汉华社区再被封闭</a></li>
 
 </ul>
 </div>
