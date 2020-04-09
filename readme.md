@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309006.md">〖兲朝浮世绘〗中国即将到来大变局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308996.md">中共病毒》才刚解封！武汉惊见又有路人倒卧街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200409/1309106.md">是不是有些象？ “国富民强 军队强大”照片的背后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309583.md" target="_blank">中国地方当局对广州等地“小非洲”突击检疫引关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md" target="_blank">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309566.md" target="_blank">中国进口美国农产品数量今年看涨，玉米进口量上调百万吨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309565.md" target="_blank">芬兰指中国口罩不适宜医院使用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309543.md" target="_blank">德国领跑「脱钩中国」    修法阻「外资」收购德企</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309351.md" target="_blank">这次真的出重拳？中国野味禁令能坚持多久</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309332.md" target="_blank">河北多所天主教学校被关闭 新文件严禁青少年宗教教育</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309303.md" target="_blank">张文宏分享上海经验：抗疫“密匙”是时间</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309233.md" target="_blank">谭德塞称特朗普把病毒政治化 特朗普当天回怼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309225.md" target="_blank">「维吾尔人没有人权」：你从电视上就能了解到的悲剧</a></li>
 
 </ul>
 </div>
