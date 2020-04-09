@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308749.md">东方航空竞价登机 回国留学生被坑惨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308667.md">【微博精粹】上海艾芬：武汉危险！现在医院每天都有确诊病人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308866.md">习近平 :  做好较长时间应对外部环境变化的思想和工作准备</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200408/1308725.md">美国大数据预测：六月就是疫情尽头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308841.md">最大的错误 是低估美国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308723.md">赵立坚露面改口：甩锅美国只是为“泄愤”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308825.md">中国外汇外贸均出大问题 中国企业主充满悲观 甘肃现银行挤兑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200408/1308877.md">凤凰卫视前员工曝光内部指示：原来女记者不敢向川普承认的是这个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1308943.md">陈破空：不同寻常！香港亲中媒体忽然大谈习近平身后事。八十二军起到逼宫作用？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200408/1308722.md">致中共无锡市委黄钦书记的公开信</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309000.md">联合国秘书长：疫情过后必将全面调查</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309165.md" target="_blank">江峰：《江峰时刻》2020年4月8日，50万订阅铭志、明志；同日，武汉解封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309151.md" target="_blank">德国建空中桥梁 运来中国口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309150.md" target="_blank">芬兰发现从中国购买的200万只口罩不合标准</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309139.md" target="_blank">世界报解开法国零号病人之谜 与中国的神秘关系</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308719.md" target="_blank">武汉今解封 多数社区继续24小时封控管理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308705.md" target="_blank">法学家指中共发动生物战 国际法学会到联合国索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308704.md" target="_blank">川普揭穿凤凰女记身份 凤凰卫视内部通知曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200408/1308703.md" target="_blank">大疫下习近平“后事”诡传 中南海凶险异常</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md" target="_blank">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md" target="_blank">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309154.md" target="_blank">习近平的父亲被栽赃陷害16年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md" target="_blank">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1307824.md" target="_blank">重大突破！利用SARS抗体 美专家抓到武汉肺炎病毒「罩门」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307673.md" target="_blank">习近平绑架马克龙 被泄给川普？敏感时刻 有人给习明泽写信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307607.md" target="_blank">川普解雇美国情报总监阿特金森</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200406/1307605.md" target="_blank">揭华为内幕 《红龙之爪》网络首播</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309164.md" target="_blank">报告揭示新疆强迫劳动 全球品牌谨慎对待供货来源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309140.md" target="_blank">美专家: 全球化2.0将重创中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309099.md" target="_blank">研究：如果放松监控，中国可能出现第二波疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309068.md" target="_blank">爱奇艺遇到“狼群”    被曝财务造假</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308860.md" target="_blank">武汉解封，全国紧张，中国抗疫之路依然漫长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308859.md" target="_blank">华为「主场报复」     反告以色列太阳能公司SolarEdge专利侵权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308858.md" target="_blank">律师覃永沛被捕株连家人　　妻子遭警告女儿受骚扰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200408/1308853.md" target="_blank">香港主要官员减薪一成</a></li>
 
 </ul>
 </div>
