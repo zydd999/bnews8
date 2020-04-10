@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309634.md">《石涛.News》「网传：王沪宁为任志强专案组组长 王岐山有习近平的材料」习最怕政变 王沪宁被称康生 借任志强案再次文革-打倒腐朽的资产阶级「王岐山部分被故意掩盖 突出周书记-周永康？」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309984.md" target="_blank">天灾不断！安阳也开始暴雪了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md" target="_blank">中共内外交困 习近平仍念念不忘两件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309982.md" target="_blank">唯恐不及！武汉解封首日 公共交通量逾62万人次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309969.md" target="_blank">饭菜里放药 酷刑… 中共警察的罪恶…</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309736.md" target="_blank">法国重症监护室病人首次减少</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309729.md" target="_blank">黑龙江绥芬河境外输入个案急增 实施交通管制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309714.md" target="_blank">英国首相约翰逊离开重症监护室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md" target="_blank">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309985.md" target="_blank">官方畜禽目录拟将删除狗类 专家说中国狗肉来源多为毒盗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309834.md" target="_blank">中共全面清缴非官方宗教书籍 信徒忧未来只有中共版《圣经》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309825.md" target="_blank">数千美国人加入诉讼 要求中国政府赔偿新冠病毒损失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309781.md" target="_blank">美国拟取消中国电信在美的经营许可</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309566.md" target="_blank">中国进口美国农产品数量今年看涨，玉米进口量上调百万吨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309565.md" target="_blank">芬兰指中国口罩不适宜医院使用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309543.md" target="_blank">德国领跑「脱钩中国」    修法阻「外资」收购德企</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309542.md" target="_blank">中国影视霸王爱奇艺被指夸大业绩      中概股「火烧连环船」？</a></li>
 
 </ul>
 </div>
