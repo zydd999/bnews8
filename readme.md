@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
@@ -12,15 +11,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309909.md">宝胜惊爆：习明泽致父亲习近平的信、谈当前中国最紧要的事：疫情、任志强等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309634.md">《石涛.News》「网传：王沪宁为任志强专案组组长 王岐山有习近平的材料」习最怕政变 王沪宁被称康生 借任志强案再次文革-打倒腐朽的资产阶级「王岐山部分被故意掩盖 突出周书记-周永康？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
