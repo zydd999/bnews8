@@ -5,25 +5,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309634.md">《石涛.News》「网传：王沪宁为任志强专案组组长 王岐山有习近平的材料」习最怕政变 王沪宁被称康生 借任志强案再次文革-打倒腐朽的资产阶级「王岐山部分被故意掩盖 突出周书记-周永康？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309909.md">宝胜惊爆：习明泽致父亲习近平的信、谈当前中国最紧要的事：疫情、任志强等</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200409/1309537.md">李天笑：习近平到了最危险时刻 川普给他最后机会</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310054.md" target="_blank">大陆一些地区建隔离处所 网友忧二次爆发将至</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md" target="_blank">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310044.md" target="_blank">涉恶搞武汉肺炎与习谭 任天堂动物森友会传中国下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310032.md" target="_blank">中国疫情今日报42新确诊 无症状47 武汉开封称连续两天挂零</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310027.md" target="_blank">北京疫情常态化 四川紧急修建5.2万隔离处所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310016.md" target="_blank">批世卫偏袒中共 美议员要谭德塞到国会作证</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309912.md" target="_blank">非洲首例埃及律师起诉习近平 索偿10兆美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309904.md" target="_blank">河南惨剧：一家陷入绝境挂牌“转让”女儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309865.md" target="_blank">失联女孩陈春华已证实遇害 公安局介入调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309845.md" target="_blank">谭德塞遭各国斥责 非洲力挺 华春莹抢当啦啦队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309769.md" target="_blank">网文：岁月静好婊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md" target="_blank">习近平对全球会追责似有清醒认识</a></li>
 
 </ul>
 </div>
