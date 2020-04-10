@@ -7,14 +7,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309909.md">宝胜惊爆：习明泽致父亲习近平的信、谈当前中国最紧要的事：疫情、任志强等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310292.md" target="_blank">世卫组织被控为中国传声筒      美学者讨论是否该另起炉灶？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310291.md" target="_blank">企业高管性侵养女给中国法制上了什么课？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310280.md" target="_blank">加拿大不愿批评中国    真能换回遭羁押公民吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310260.md" target="_blank">对话基金会：中国的刑事审判统计与台湾的有关案件（2）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310259.md" target="_blank">中国维权律师关注组呼吁中国政府：尽快让王全璋与家人团聚</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310099.md" target="_blank">台湾调查局发现大陆网民冒充台湾人营造攻击世卫总干事假象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310098.md" target="_blank">台人众筹登《纽约时报》全版广告　摆事实反驳谭德塞恶意攻击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310089.md" target="_blank">台湾调查局揪出 中国网军冒台湾之名向谭德塞道歉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310088.md" target="_blank">热爆游戏《动物森友会》遭大陆下架     疑涉敏感政治话题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310087.md" target="_blank">谭德塞抹黑台湾「人身攻击」   调查发现中国网军冒充宝岛网民</a></li>
 
 </ul>
 </div>
