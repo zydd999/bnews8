@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309322.md">港风水师：天要击杀共党 大疫后面还有核爆</a></li>
@@ -19,11 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200409/1309326.md">“高管性侵养女”视频震动资本圈 网传涉及两上市公司</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309433.md">一些新冠肺炎患者的肺部扫描使医生感到困惑</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md" target="_blank">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309772.md" target="_blank">方方日记将在美出版 遭遇甩锅者群攻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md" target="_blank">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309736.md" target="_blank">法国重症监护室病人首次减少</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309338.md" target="_blank">萧铭：（双声道）任志强被调查，习近平达到目的了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309318.md" target="_blank">五毛变七毛  至少近千万五毛大军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309311.md" target="_blank">英国呼吁成立“G20卫生组织”谴责世卫组织屈从中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md" target="_blank">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 
 </ul>
 </div>
