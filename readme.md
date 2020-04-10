@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
@@ -11,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309909.md">宝胜惊爆：习明泽致父亲习近平的信、谈当前中国最紧要的事：疫情、任志强等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md" target="_blank">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310332.md" target="_blank">〖博谈编译〗新冠病毒是中共终结的开始吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310297.md" target="_blank">陈破空：习近平安排此人出任要职，准备迎接八十国联军？王毅急忙求助一小国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310222.md" target="_blank">中兴独立非执行董事遭控性侵幼女被双辞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310209.md" target="_blank">华为指照顾生意才用美国零配件 销路好缺货缺的一塌糊涂</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310016.md" target="_blank">批世卫偏袒中共 美议员要谭德塞到国会作证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309999.md" target="_blank">中共长征运载火箭升空不到一分钟坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md" target="_blank">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309984.md" target="_blank">天灾不断！安阳也开始暴雪了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md" target="_blank">中共内外交困 习近平仍念念不忘两件事</a></li>
 
 </ul>
 </div>
