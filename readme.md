@@ -13,12 +13,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310260.md" target="_blank">对话基金会：中国的刑事审判统计与台湾的有关案件（2）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310259.md" target="_blank">中国维权律师关注组呼吁中国政府：尽快让王全璋与家人团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310230.md" target="_blank">台湾捐赠口罩抵欧洲   欧盟赞扬展现团结精神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310229.md" target="_blank">美众议员提案停止金援世卫　文本以「中华民国」称台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310200.md" target="_blank">任天堂动森游戏因政治原因下架中国电商平台</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310088.md" target="_blank">热爆游戏《动物森友会》遭大陆下架     疑涉敏感政治话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310087.md" target="_blank">谭德塞抹黑台湾「人身攻击」   调查发现中国网军冒充宝岛网民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310070.md" target="_blank">疫情及两岸关系同告急     中共叫停陆生赴台升学</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310069.md" target="_blank">黑龙江闭关阻止公民回国      大批国人滞留俄中边境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310068.md" target="_blank">新冠疫情重创荷李活    一周内11位猛人去世</a></li>
 
 </ul>
 </div>
