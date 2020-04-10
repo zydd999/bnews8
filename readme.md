@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309291.md">处理任志强 习近平很棘手？王岐山温家宝李瑞环说话了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
@@ -12,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309314.md">真的二次爆发？武汉火车站出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309256.md">网友直击：哈尔滨医院挂号排队数百米 黑龙江危险了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200409/1309326.md">“高管性侵养女”视频震动资本圈 网传涉及两上市公司</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309433.md">一些新冠肺炎患者的肺部扫描使医生感到困惑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
