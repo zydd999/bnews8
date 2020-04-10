@@ -1,19 +1,19 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309909.md">宝胜惊爆：习明泽致父亲习近平的信、谈当前中国最紧要的事：疫情、任志强等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310297.md" target="_blank">陈破空：习近平安排此人出任要职，准备迎接八十国联军？王毅急忙求助一小国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310222.md" target="_blank">中兴独立非执行董事遭控性侵幼女被双辞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310209.md" target="_blank">华为指照顾生意才用美国零配件 销路好缺货缺的一塌糊涂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310208.md" target="_blank">四个关键时间点：世卫以中共为中心误导世界</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md" target="_blank">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309984.md" target="_blank">天灾不断！安阳也开始暴雪了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md" target="_blank">中共内外交困 习近平仍念念不忘两件事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309982.md" target="_blank">唯恐不及！武汉解封首日 公共交通量逾62万人次</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md" target="_blank">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310296.md" target="_blank">「反送中」港警声誉一落千丈 爆离职潮还招不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md" target="_blank">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md" target="_blank">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md" target="_blank">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
@@ -86,14 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md" target="_blank">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md" target="_blank">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309154.md" target="_blank">习近平的父亲被栽赃陷害16年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1308959.md" target="_blank">川普轰世卫以中共为重 拟撤资！白邦瑞：疫情结束后开铡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308933.md" target="_blank">网传视频：武汉刚刚宣布解封就又有人躺下了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310302.md" target="_blank">广西人权律师覃永沛案被检察院退回 目前仍在押</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310301.md" target="_blank">摩门教在中国建首座圣殿 宗教自由抑或外交统战？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310292.md" target="_blank">世卫组织被控为中国传声筒      美学者讨论是否该另起炉灶？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310291.md" target="_blank">企业高管性侵养女给中国法制上了什么课？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310280.md" target="_blank">加拿大不愿批评中国    真能换回遭羁押公民吗？</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md" target="_blank">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310100.md" target="_blank">全球疫情重创世界经济，中国官员：外贸出口形势严峻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310099.md" target="_blank">台湾调查局发现大陆网民冒充台湾人营造攻击世卫总干事假象</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310098.md" target="_blank">台人众筹登《纽约时报》全版广告　摆事实反驳谭德塞恶意攻击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310089.md" target="_blank">台湾调查局揪出 中国网军冒台湾之名向谭德塞道歉</a></li>
 
 </ul>
 </div>
