@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310230.md" target="_blank">台湾捐赠口罩抵欧洲   欧盟赞扬展现团结精神</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310229.md" target="_blank">美众议员提案停止金援世卫　文本以「中华民国」称台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310200.md" target="_blank">任天堂动森游戏因政治原因下架中国电商平台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310199.md" target="_blank">国民党曾布建5千线民监控学生  受害者忧心中国仍是“进行时”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310198.md" target="_blank">中国暂停学生赴台湾就读   因疫情及“两岸形势”</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310070.md" target="_blank">疫情及两岸关系同告急     中共叫停陆生赴台升学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310069.md" target="_blank">黑龙江闭关阻止公民回国      大批国人滞留俄中边境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310068.md" target="_blank">新冠疫情重创荷李活    一周内11位猛人去世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310061.md" target="_blank">抗疫不忘抗争    香港众志推过百万个「自救口罩」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310060.md" target="_blank">疫情爆发牵动粮食危机 　国家粮食和物资储备局二把手换马</a></li>
 
 </ul>
 </div>
