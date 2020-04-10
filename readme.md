@@ -14,13 +14,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309827.md">风起云涌！她们起诉中共政府 誓为近400万美国医护人员讨回公道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200410/1310010.md">韩国研究：外科口罩无法完全阻挡飞沫！防新冠要做到关键3件事</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310382.md" target="_blank">文昭：白宫炮轰自家人！四川要增52000床位；黑龙江输入案例激增；习近平担心的真要来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md" target="_blank">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310332.md" target="_blank">〖博谈编译〗新冠病毒是中共终结的开始吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310297.md" target="_blank">陈破空：习近平安排此人出任要职，准备迎接八十国联军？王毅急忙求助一小国</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310027.md" target="_blank">北京疫情常态化 四川紧急修建5.2万隔离处所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310016.md" target="_blank">批世卫偏袒中共 美议员要谭德塞到国会作证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309999.md" target="_blank">中共长征运载火箭升空不到一分钟坠落</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md" target="_blank">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 
 </ul>
 </div>
