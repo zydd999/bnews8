@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309634.md">《石涛.News》「网传：王沪宁为任志强专案组组长 王岐山有习近平的材料」习最怕政变 王沪宁被称康生 借任志强案再次文革-打倒腐朽的资产阶级「王岐山部分被故意掩盖 突出周书记-周永康？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309575.md">中国首季萧条 8000万人失去工作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309743.md">英最新情报：中共病毒很可能源于武汉实验室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310128.md" target="_blank">《福布斯》:中共主导全球化已过时 美国企业离开中国 德国领跑脱钩中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310083.md" target="_blank">新冠病毒疫苗试入二期中国招募500名受试者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310066.md" target="_blank">日本新冠感染者激增  面临爆发式增长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310062.md" target="_blank">大陆广州非洲人流浪街头 成为疫情大隐患</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309943.md" target="_blank">美军战斗力强盛 五角大楼警告敌对者勿犯致命错误</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309942.md" target="_blank">推特不删中共大外宣假信息 引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309934.md" target="_blank">【现场视频】北京口音男痛批中共救济不力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309928.md" target="_blank">纳瓦罗：谭德塞是中共在联合国的殖民代理人</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310112.md" target="_blank">足禁解除后，武汉居民仍要时常接受病毒检测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310111.md" target="_blank">中国通胀轻微回落 粮价仍维持双位数增长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md" target="_blank">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310100.md" target="_blank">全球疫情重创世界经济，中国官员：外贸出口形势严峻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310099.md" target="_blank">台湾调查局发现大陆网民冒充台湾人营造攻击世卫总干事假象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310098.md" target="_blank">台人众筹登《纽约时报》全版广告　摆事实反驳谭德塞恶意攻击</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309755.md" target="_blank">绥芬河疫情风波乍起  俄罗斯排华？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309735.md" target="_blank">台外长警告：中国正借疫情推销&#8221;威权体制&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309702.md" target="_blank">美国务院批评世卫组织无视台湾早期疫情预警</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309701.md" target="_blank">美国司法部等多个部门敦促取消“中国电信”在美经营业务</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309687.md" target="_blank">美国国防部对中国撞沉越南渔船事件表示严重关切</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309686.md" target="_blank">美国国务卿蓬佩奥：台湾是患难与共的真朋友 有效管控新冠疫情 全球典范</a></li>
 
 </ul>
 </div>
