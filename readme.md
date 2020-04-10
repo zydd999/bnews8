@@ -10,19 +10,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200409/1309326.md">“高管性侵养女”视频震动资本圈 网传涉及两上市公司</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309962.md" target="_blank">广州网约司机提升防护 车里“全副武装”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309961.md" target="_blank">反常！陕西商洛突降冰雹 街道成冰河</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309955.md" target="_blank">前中国核安局长空降山东 料接任省长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309944.md" target="_blank">中国粮食铁定短缺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309943.md" target="_blank">美军战斗力强盛 五角大楼警告敌对者勿犯致命错误</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309942.md" target="_blank">推特不删中共大外宣假信息 引关注</a></li>
@@ -54,15 +57,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309678.md" target="_blank">德国抗击新冠疫情措施取得初步成果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309677.md" target="_blank">联合国前环境署长:冠状病毒大流行责任在中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309600.md" target="_blank">陈破空：陈破空谈《常识》（之39）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309573.md" target="_blank">赵立坚：中国从不输出中国模式，也从未要求抄作业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309553.md" target="_blank">谭德塞控台湾人身攻击 蔡英文表达抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309538.md" target="_blank">港警现离职潮 投考更少学历更低</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md" target="_blank">中国粮食铁定短缺 希望这个预言不准吧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309959.md" target="_blank">《柳叶刀》最新论文:复工潮将催生中国第二波疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309958.md" target="_blank">美公司注定离开中国！《福布斯》:中共主导全球化已过时</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md" target="_blank">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309911.md" target="_blank">白宫：美国之音为中共宣传 浪费纳税人的钱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309827.md" target="_blank">风起云涌！她们起诉中共政府 誓为近400万美国医护人员讨回公道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md" target="_blank">出口不振 中共靠借外债填补外汇收入</a></li>
@@ -84,10 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308833.md" target="_blank">中国外汇3月下滑460亿美元 深圳一个工业区只剩几家企业 甘肃挤兑银行黑龙江抢粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308761.md" target="_blank">广州大爆发 抓人后自打脸认了 武汉无症状感染者200万？解封近10万人出逃奔2地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200408/1308663.md" target="_blank">广州先抓人 一夜后不得不承认已隔离六千余名外籍人员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308334.md" target="_blank">第二波爆发? 官方认武汉沦陷 一级谋杀 川普律师团要诉中共 广州封区传军警挨户排查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308280.md" target="_blank">新里程碑：川普宣布退出全球化！？ 中国经济撑不住了 真实失业率超过25％</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308185.md" target="_blank">不同消息源：病毒来源指向武汉实验室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200407/1308171.md" target="_blank">王沪宁这是啥意思？能取而代之习近平？</a></li>
 
 </ul>
 </div>
