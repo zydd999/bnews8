@@ -13,9 +13,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309297.md">希望之声：钟南山自动变身维稳派 北京学者曝隐秘内情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309285.md">「东方卫视」记者被川普点名 一句回答瞬间引爆两岸夹击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309255.md">谭德塞怒批台湾人身攻击 宅神：狗屁！骂你刚好而已 委屈个屁！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309772.md" target="_blank">方方日记将在美出版 遭遇甩锅者群攻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md" target="_blank">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309736.md" target="_blank">法国重症监护室病人首次减少</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309729.md" target="_blank">黑龙江绥芬河境外输入个案急增 实施交通管制</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309318.md" target="_blank">五毛变七毛  至少近千万五毛大军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309311.md" target="_blank">英国呼吁成立“G20卫生组织”谴责世卫组织屈从中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309300.md" target="_blank">“5毛不复存在了！7毛崛起了！涨价了！” 中共信息员转贴收入单曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309299.md" target="_blank">武汉保安：亲见孤独死去的老人</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309781.md" target="_blank">美国拟取消中国电信在美的经营许可</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309780.md" target="_blank">调查称中国人对美国式民主好感下降</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309755.md" target="_blank">绥芬河疫情风波乍起  俄罗斯排华？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309735.md" target="_blank">台外长警告：中国正借疫情推销&#8221;威权体制&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309702.md" target="_blank">美国务院批评世卫组织无视台湾早期疫情预警</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309542.md" target="_blank">中国影视霸王爱奇艺被指夸大业绩      中概股「火烧连环船」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309535.md" target="_blank">中国教育部暂停今年陆生赴台升学就读 台湾表达遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309511.md" target="_blank">美国开市客拟在苏州兴建中国第二家大型会员制仓储超市</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309506.md" target="_blank">时事大家谈: 热点快评：一周内两起造假丑闻 中概股成“雷区”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309505.md" target="_blank">台湾抗议谭德塞攻击，中国力挺世卫组织</a></li>
 
 </ul>
 </div>
