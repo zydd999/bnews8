@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309403.md">习近平下达四字强硬指令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200409/1309333.md">WHO：朝鲜用中国试剂盒对709人检测 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200409/1309530.md">习近平，急什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309572.md">中南海隐瞒坏帐全民买单 海外债翻7倍发行遇阻 全球格局变!中美脱钩日企回迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
@@ -10,20 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200409/1309391.md">疫情凶险谈复工 习近平下达四字强硬指令 哈尔滨广州出现这样场景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309350.md">法国皮肤科医生发现另一种不寻常的中共病毒症状</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309634.md">《石涛.News》「网传：王沪宁为任志强专案组组长 王岐山有习近平的材料」习最怕政变 王沪宁被称康生 借任志强案再次文革-打倒腐朽的资产阶级「王岐山部分被故意掩盖 突出周书记-周永康？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200409/1309400.md">华为余承东：P40手机已完全没有Google的东西海外正陆续铺货</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200409/1309433.md">一些新冠肺炎患者的肺部扫描使医生感到困惑</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310016.md" target="_blank">批世卫偏袒中共 美议员要谭德塞到国会作证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309999.md" target="_blank">中共长征运载火箭升空不到一分钟坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md" target="_blank">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309984.md" target="_blank">天灾不断！安阳也开始暴雪了</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md" target="_blank">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309772.md" target="_blank">方方日记将在美出版 遭遇甩锅者群攻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md" target="_blank">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309736.md" target="_blank">法国重症监护室病人首次减少</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310013.md" target="_blank">武汉肺炎期间思政课、「学习强国」齐上 迫师生爱党第一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309985.md" target="_blank">官方畜禽目录拟将删除狗类 专家说中国狗肉来源多为毒盗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309834.md" target="_blank">中共全面清缴非官方宗教书籍 信徒忧未来只有中共版《圣经》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309825.md" target="_blank">数千美国人加入诉讼 要求中国政府赔偿新冠病毒损失</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md" target="_blank">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309566.md" target="_blank">中国进口美国农产品数量今年看涨，玉米进口量上调百万吨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309565.md" target="_blank">芬兰指中国口罩不适宜医院使用</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309543.md" target="_blank">德国领跑「脱钩中国」    修法阻「外资」收购德企</a></li>
 
 </ul>
 </div>
