@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309426.md">特朗普罕有连续两天点名批评谭德塞　  但学者指其提前离任可能性不大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200409/1309501.md">特朗普询问“你来自哪里？” 上海东方卫视台籍记者：台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309575.md">中国首季萧条 8000万人失去工作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200409/1309537.md">李天笑：习近平到了最危险时刻 川普给他最后机会</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310066.md" target="_blank">日本新冠感染者激增  面临爆发式增长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310062.md" target="_blank">大陆广州非洲人流浪街头 成为疫情大隐患</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310057.md" target="_blank">批质差疑过多 中国海关祭出口严查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310054.md" target="_blank">大陆一些地区建隔离处所 网友忧二次爆发将至</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309934.md" target="_blank">【现场视频】北京口音男痛批中共救济不力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309928.md" target="_blank">纳瓦罗：谭德塞是中共在联合国的殖民代理人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md" target="_blank">王沪宁和栗战书把习近平吹晕了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309912.md" target="_blank">非洲首例埃及律师起诉习近平 索偿10兆美元</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310070.md" target="_blank">疫情及两岸关系同告急     中共叫停陆生赴台升学</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310069.md" target="_blank">黑龙江闭关阻止公民回国      大批国人滞留俄中边境</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310068.md" target="_blank">新冠疫情重创荷李活    一周内11位猛人去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310061.md" target="_blank">抗疫不忘抗争    香港众志推过百万个「自救口罩」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310060.md" target="_blank">疫情爆发牵动粮食危机 　国家粮食和物资储备局二把手换马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310059.md" target="_blank">【耳边风】种族主义也是无赖最后的避难所</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309682.md" target="_blank">“两会”尚无定期    江苏访民已遭监控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309681.md" target="_blank">封锁疫情信息     活动人士：全球为中共专制付出代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309669.md" target="_blank">不得食用狗肉：狗成为中国疫情的获益者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309624.md" target="_blank">疫情政治化: 世卫总干事谭德塞反驳特朗普  指控台湾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309621.md" target="_blank">武汉封城后遗症：恐惧、歧视、经济压力和回不去的惆怅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1309620.md" target="_blank">上海东方卫视记者答美总统：「我来自台湾」</a></li>
 
 </ul>
 </div>
