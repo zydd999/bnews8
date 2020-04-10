@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309700.md">中国长征三号火箭载卫星升空 不到50秒爆炸坠落</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309705.md">陈破空：政治局常委会，习近平一语惊人！让某人长期神隐，那是最后的备胎？谭书记受不了 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
@@ -12,18 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309815.md">中外预言中的武肺 警示中共可能炸三峡销毁证据(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309909.md">宝胜惊爆：习明泽致父亲习近平的信、谈当前中国最紧要的事：疫情、任志强等</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1309634.md">《石涛.News》「网传：王沪宁为任志强专案组组长 王岐山有习近平的材料」习最怕政变 王沪宁被称康生 借任志强案再次文革-打倒腐朽的资产阶级「王岐山部分被故意掩盖 突出周书记-周永康？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310200.md" target="_blank">任天堂动森游戏因政治原因下架中国电商平台</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310199.md" target="_blank">国民党曾布建5千线民监控学生  受害者忧心中国仍是“进行时”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310198.md" target="_blank">中国暂停学生赴台湾就读   因疫情及“两岸形势”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310178.md" target="_blank">钟南山又发声：病毒不看人种 大城市完全清零不现实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310177.md" target="_blank">亚洲国家和地区挑战中国“新冠外交”垄断地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310176.md" target="_blank">白宫支招促美国企业回流中国： 将为搬迁费用买单</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310068.md" target="_blank">新冠疫情重创荷李活    一周内11位猛人去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310061.md" target="_blank">抗疫不忘抗争    香港众志推过百万个「自救口罩」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310060.md" target="_blank">疫情爆发牵动粮食危机 　国家粮食和物资储备局二把手换马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310059.md" target="_blank">【耳边风】种族主义也是无赖最后的避难所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310022.md" target="_blank">再有解放军军机飞近台湾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310013.md" target="_blank">武汉肺炎期间思政课、「学习强国」齐上 迫师生爱党第一</a></li>
 
 </ul>
 </div>
