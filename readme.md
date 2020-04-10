@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309590.md">张嘉译退出娱乐圈？太突然了 网友纷纷表示舍不得</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309814.md">习近平对全球会追责似有清醒认识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1309644.md">翻车！李湘直播卖货一件没卖出 商家哭诉：请她5分钟花了80万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200410/1309724.md">俗话说“色字头上一把刀” 其实下一句才是精华 不可不知！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309753.md">天亮时分：任志强必遭重判,危机四伏中,习近平的心理分析(政论天下第148集 20200409) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309606.md">全球索偿: “中共几乎要毁灭整个世界 必须向法院与上帝交代”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309616.md">出口不振 中共靠借外债填补外汇收入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309733.md">美众院冻结金援世卫提案曝光 罕见提及ROC与PRC</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200409/1309577.md">习近平称要有长期应对外部变化准备 北京学者形容中国面对 “八十国联军”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310197.md" target="_blank">钟南山质疑病毒不认人大城市完全清零不现实</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310183.md" target="_blank">治愈患者检测仍呈阳性 德州市武汉肺炎清零回溯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310184.md" target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈（2）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310182.md" target="_blank">北京“口罩外交”为何引发越来越多反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310162.md" target="_blank">疫未定先思痛 日本政府巨资助企业撤离中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310140.md" target="_blank">梵蒂冈及时感谢北京赠送抗疫物资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310128.md" target="_blank">《福布斯》:中共主导全球化已过时 美国企业离开中国 德国领跑脱钩中国</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309969.md" target="_blank">饭菜里放药 酷刑… 中共警察的罪恶…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309964.md" target="_blank">这啥水呀？伊春市鹿鸣钼矿污染河流</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309962.md" target="_blank">广州网约司机提升防护 车里“全副武装”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309961.md" target="_blank">反常！陕西商洛突降冰雹 街道成冰河</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309955.md" target="_blank">前中国核安局长空降山东 料接任省长</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309944.md" target="_blank">中国粮食铁定短缺</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309943.md" target="_blank">美军战斗力强盛 五角大楼警告敌对者勿犯致命错误</a></li>
 
 </ul>
 </div>
