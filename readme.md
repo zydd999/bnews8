@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310535.md">白宫罕见重批美国之音 前中文部主任痛批美国之音荒唐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310583.md">谭德塞快看！非裔被中共指控成病毒来源 黑人惨遭种族歧视</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310601.md">中国删帖员：武汉肺炎期间日删万条政府不许可敏感言论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200411/1310605.md">美中关系回不去了？！疫情蔓延！全球向中共求偿？！中共无法容忍美台合作抗疫？！【2020.04.11『年代向钱看』周末精选】</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
