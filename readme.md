@@ -2,28 +2,28 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309966.md">信不信由你！中国的粮荒就在眼前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200410/1310010.md">韩国研究：外科口罩无法完全阻挡飞沫！防新冠要做到关键3件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310262.md">〖兲朝浮世绘〗谭德塞的猪队友弄穿帮了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200411/1310340.md">跟中共算总账的日子正在到来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200410/1310130.md">【网络民议】我觉得今天北京有点热</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310012.md">谭德塞骂完台湾推特狂取暖 24小时推文破30次</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200411/1310340.md">跟中共算总账的日子正在到来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1310040.md">魅力女王陨落！爱马仕传奇总监因中共病毒病逝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309959.md">《柳叶刀》最新论文:复工潮将催生中国第二波疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310060.md">疫情爆发牵动粮食危机 　国家粮食和物资储备局二把手换马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200410/1310152.md">习近平自罚三杯 中国人都醉了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310571.md" target="_blank">“终于到家了！” 武汉回京人员默默无声 西客站分区隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310570.md" target="_blank">江峰：独家解析谭德赛对台湾指控背後的中共因素； 川普暂停世卫组织经费，并调查其运作将是联合国各机构大整肃，去中共化的开端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md" target="_blank">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310545.md" target="_blank">尼日利亚人在广州遭隔离 大使夺人爆冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310536.md" target="_blank">美媒：各界问责中共及谭德塞并非找替罪羊…</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310332.md" target="_blank">〖博谈编译〗新冠病毒是中共终结的开始吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310222.md" target="_blank">中兴独立非执行董事遭控性侵幼女被双辞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310209.md" target="_blank">华为指照顾生意才用美国零配件 销路好缺货缺的一塌糊涂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310208.md" target="_blank">四个关键时间点：世卫以中共为中心误导世界</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310197.md" target="_blank">钟南山质疑病毒不认人大城市完全清零不现实</a></li>
 
 </ul>
 </div>
