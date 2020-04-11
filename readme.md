@@ -9,11 +9,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309913.md">王沪宁和栗战书把习近平吹晕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310048.md">中共病毒疫情下户外就绝对安全？研究令人吃惊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200410/1309835.md">“染疫尸体直接丢海里”视频疯传 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200410/1310139.md">邱家军：要当副主席？王沪宁换帅处理任志强案有好戏看了 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310297.md">陈破空：习近平安排此人出任要职，准备迎接八十国联军？王毅急忙求助一小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310297.md">陈破空：习近平安排此人出任要职，准备迎接八十国联军？王毅急忙求助一小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200410/1310010.md">韩国研究：外科口罩无法完全阻挡飞沫！防新冠要做到关键3件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200410/1310130.md">【网络民议】我觉得今天北京有点热</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310012.md">谭德塞骂完台湾推特狂取暖 24小时推文破30次</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310262.md">〖兲朝浮世绘〗谭德塞的猪队友弄穿帮了！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310464.md" target="_blank">美舰过台海 美太平洋舰队：支持印太安全与稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310428.md" target="_blank">红歌毒染总统府 意国最黑暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310423.md" target="_blank">华春莹的“欢迎到中国享受自由”成网络黑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md" target="_blank">日本疫情令专家费解 日本到底做对了什么？</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310140.md" target="_blank">梵蒂冈及时感谢北京赠送抗疫物资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310128.md" target="_blank">《福布斯》:中共主导全球化已过时 美国企业离开中国 德国领跑脱钩中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310083.md" target="_blank">新冠病毒疫苗试入二期中国招募500名受试者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310066.md" target="_blank">日本新冠感染者激增  面临爆发式增长</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310463.md" target="_blank">载入历史的一幕！世界第一强国 面对瘟疫做出令人震撼之举</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310189.md" target="_blank">读《转法轮》，台湾教授对量子力学的疑惑都解开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md" target="_blank">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310296.md" target="_blank">「反送中」港警声誉一落千丈 爆离职潮还招不满</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309239.md" target="_blank">震惊！美退役准将把这场瘟疫形容为“一场高强度超限战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md" target="_blank">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md" target="_blank">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md" target="_blank">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
 
 </ul>
 </div>
