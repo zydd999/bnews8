@@ -11,17 +11,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310297.md">陈破空：习近平安排此人出任要职，准备迎接八十国联军？王毅急忙求助一小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200410/1310010.md">韩国研究：外科口罩无法完全阻挡飞沫！防新冠要做到关键3件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200410/1310130.md">【网络民议】我觉得今天北京有点热</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310262.md">〖兲朝浮世绘〗谭德塞的猪队友弄穿帮了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310012.md">谭德塞骂完台湾推特狂取暖 24小时推文破30次</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1310040.md">魅力女王陨落！爱马仕传奇总监因中共病毒病逝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1309935.md">【微博精粹】习总承认土共面临灭顶 人民公敌谭德塞海牙归案不远</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310536.md" target="_blank">美媒：各界问责中共及谭德塞并非找替罪羊…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310535.md" target="_blank">白宫罕见重批美国之音 前中文部主任痛批美国之音荒唐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310502.md" target="_blank">华春莹推文称欢迎来中国享受自由 遭怒怼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md" target="_blank">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md" target="_blank">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310208.md" target="_blank">四个关键时间点：世卫以中共为中心误导世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310197.md" target="_blank">钟南山质疑病毒不认人大城市完全清零不现实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310183.md" target="_blank">治愈患者检测仍呈阳性 德州市武汉肺炎清零回溯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310184.md" target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈（2）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310182.md" target="_blank">北京“口罩外交”为何引发越来越多反弹</a></li>
 
 </ul>
 </div>
