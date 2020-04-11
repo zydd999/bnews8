@@ -14,9 +14,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310588.md">北韩出事了？官媒罕见未报导最高人民会议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md">日本疫情令专家费解 日本到底做对了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310479.md">英国科学家发现新冠病毒的弱点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200411/1310218.md">谢谢你 周润发 你的拒绝成全了我的开挂人生</a></li>
