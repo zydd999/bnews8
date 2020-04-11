@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200411/1310605.md">美中关系回不去了？！疫情蔓延！全球向中共求偿？！中共无法容忍美台合作抗疫？！【2020.04.11『年代向钱看』周末精选】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310583.md">谭德塞快看！非裔被中共指控成病毒来源 黑人惨遭种族歧视</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310601.md">中国删帖员：武汉肺炎期间日删万条政府不许可敏感言论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310606.md">中共将世卫做傀儡 英国呼吁成立“公卫20国集团”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310601.md">中国删帖员：武汉肺炎期间日删万条政府不许可敏感言论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310502.md">华春莹推文称欢迎来中国享受自由 遭怒怼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310595.md">组图：武汉回京人员默默无声 西客站分区隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310600.md">陕西再强拆封盖150余佛寺道观 习近平画像语录取代佛像</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310620.md" target="_blank">陈破空：习近平很本事，让特朗普睡不着。美日大计划：撤离在华企业！华春莹创作最新名言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310618.md" target="_blank">天亮时分：面对全球“去中国化”,习近平这一心理特征极为致命;世卫组织陷入追责风暴(政论天下第149集 20200411)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310607.md" target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈（3）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md" target="_blank">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310189.md" target="_blank">读《转法轮》，台湾教授对量子力学的疑惑都解开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md" target="_blank">体制内学者警告“去中国化”危机 文章遭删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310393.md" target="_blank">美疾控发布火神山研究 距带毒者4米处仍有病毒 强烈建议消毒鞋子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310392.md" target="_blank">世界报：疫情引发三重危机 加剧中国政治紧张 &#8211; 法国世界报</a></li>
 
 </ul>
 </div>
