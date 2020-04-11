@@ -15,7 +15,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200410/1310021.md">他与徐帆同居22年 曾同时拥有2妻子 让徐帆当7年小三</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309957.md">怪诞的一幕惊现法拉盛 人类是否应该反思眼前的一切</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1309874.md">美国或有大量持H1-B签证华人被“逐”出境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200410/1310130.md">【网络民议】我觉得今天北京有点热</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310012.md">谭德塞骂完台湾推特狂取暖 24小时推文破30次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310262.md">〖兲朝浮世绘〗谭德塞的猪队友弄穿帮了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1310040.md">魅力女王陨落！爱马仕传奇总监因中共病毒病逝</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
