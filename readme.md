@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309827.md">风起云涌！她们起诉中共政府 誓为近400万美国医护人员讨回公道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200410/1310010.md">韩国研究：外科口罩无法完全阻挡飞沫！防新冠要做到关键3件事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310189.md" target="_blank">读《转法轮》，台湾教授对量子力学的疑惑都解开了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md" target="_blank">体制内学者警告“去中国化”危机 文章遭删</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310393.md" target="_blank">美疾控发布火神山研究 距带毒者4米处仍有病毒 强烈建议消毒鞋子</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310392.md" target="_blank">世界报：疫情引发三重危机 加剧中国政治紧张 &#8211; 法国世界报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310385.md" target="_blank">【内幕】刀笔齐握 中共政法网军运作解密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310382.md" target="_blank">文昭：白宫炮轰自家人！四川要增52000床位；黑龙江输入案例激增；习近平担心的真要来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md" target="_blank">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国</a></li>
@@ -53,16 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310057.md" target="_blank">批质差疑过多 中国海关祭出口严查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310054.md" target="_blank">大陆一些地区建隔离处所 网友忧二次爆发将至</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310053.md" target="_blank">传非洲铁杆友国讼控中国疫责索赔10万亿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310044.md" target="_blank">涉恶搞武汉肺炎与习谭 任天堂动物森友会传中国下架</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310032.md" target="_blank">中国疫情今日报42新确诊 无症状47 武汉开封称连续两天挂零</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310027.md" target="_blank">北京疫情常态化 四川紧急修建5.2万隔离处所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1310016.md" target="_blank">批世卫偏袒中共 美议员要谭德塞到国会作证</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310189.md" target="_blank">读《转法轮》，台湾教授对量子力学的疑惑都解开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md" target="_blank">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310296.md" target="_blank">「反送中」港警声誉一落千丈 爆离职潮还招不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md" target="_blank">习近平念念不忘2件事</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309227.md" target="_blank">网友直击：广州三元里大量黑人流落街头广州告急！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309157.md" target="_blank">疫情冲击消费急冻 中国多地爆发倒店潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309155.md" target="_blank">全球格局正转变！日本斥171亿 资助企业撤出中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200409/1309154.md" target="_blank">习近平的父亲被栽赃陷害16年</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310396.md" target="_blank">研究报告主张美国动用私掠船对抗中国的海洋扩张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310348.md" target="_blank">世卫回复本台电邮：否认台湾曾警告武汉肺炎会人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310302.md" target="_blank">广西人权律师覃永沛案被检察院退回 目前仍在押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310301.md" target="_blank">摩门教在中国建首座圣殿 宗教自由抑或外交统战？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310112.md" target="_blank">足禁解除后，武汉居民仍要时常接受病毒检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310111.md" target="_blank">中国通胀轻微回落 粮价仍维持双位数增长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md" target="_blank">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310100.md" target="_blank">全球疫情重创世界经济，中国官员：外贸出口形势严峻</a></li>
 
 </ul>
 </div>
