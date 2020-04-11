@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309995.md">四川紧急修建5.2万隔离处所网友惊：二次爆发将至？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310028.md">天生自带免疫力 科学家发现可抵抗艾滋病毒人群</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200410/1309983.md">中共内外交困 习近平仍念念不忘两件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200411/1310340.md">跟中共算总账的日子正在到来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310262.md">〖兲朝浮世绘〗谭德塞的猪队友弄穿帮了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200410/1310010.md">韩国研究：外科口罩无法完全阻挡飞沫！防新冠要做到关键3件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200410/1310130.md">【网络民议】我觉得今天北京有点热</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310012.md">谭德塞骂完台湾推特狂取暖 24小时推文破30次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310423.md">华春莹的“欢迎到中国享受自由”成网络黑话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200410/1310012.md">谭德塞骂完台湾推特狂取暖 24小时推文破30次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200410/1310040.md">魅力女王陨落！爱马仕传奇总监因中共病毒病逝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310060.md">疫情爆发牵动粮食危机 　国家粮食和物资储备局二把手换马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200410/1310152.md">习近平自罚三杯 中国人都醉了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310463.md">载入历史的一幕！世界第一强国 面对瘟疫做出令人震撼之举</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md" target="_blank">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310595.md" target="_blank">组图：武汉回京人员默默无声 西客站分区隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310584.md" target="_blank">时隔百年！新研究：美应重启私掠船 打击中共海洋扩张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310583.md" target="_blank">谭德塞快看！非裔被中共指控成病毒来源 黑人惨遭种族歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310571.md" target="_blank">“终于到家了！” 武汉回京人员默默无声 西客站分区隔离</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310392.md" target="_blank">世界报：疫情引发三重危机 加剧中国政治紧张 &#8211; 法国世界报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310385.md" target="_blank">【内幕】刀笔齐握 中共政法网军运作解密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310382.md" target="_blank">文昭：白宫炮轰自家人！四川要增52000床位；黑龙江输入案例激增；习近平担心的真要来了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md" target="_blank">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310332.md" target="_blank">〖博谈编译〗新冠病毒是中共终结的开始吗？</a></li>
 
 </ul>
 </div>
