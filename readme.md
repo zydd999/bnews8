@@ -17,8 +17,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200411/1310576.md">俄市长视频会上多次摸女副市长大腿 全程画面曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310479.md">英国科学家发现新冠病毒的弱点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310338.md">《石涛.News》「习近平抓捕任志强 惹下天大祸根」与王岐山彻底翻脸 与红二代实力派完全冲突「陈平：任志强软落地&amp;硬着陆 游说与威胁」习近平主动撞死在王岐山上「铁板图」天灭中共 生与灭 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310562.md">中共肺炎、推特、诺查丹玛斯：中共假新闻正感染全世界</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310338.md">《石涛.News》「习近平抓捕任志强 惹下天大祸根」与王岐山彻底翻脸 与红二代实力派完全冲突「陈平：任志强软落地&amp;硬着陆 游说与威胁」习近平主动撞死在王岐山上「铁板图」天灭中共 生与灭 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310535.md">白宫罕见重批美国之音 前中文部主任痛批美国之音荒唐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200411/1310605.md">美中关系回不去了？！疫情蔓延！全球向中共求偿？！中共无法容忍美台合作抗疫？！【2020.04.11『年代向钱看』周末精选】</a></li>
