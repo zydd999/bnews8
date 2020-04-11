@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md">习近平念念不忘2件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310110.md">中国发射长征三号乙火箭失败    无美国晶片失败率急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310423.md">华春莹的“欢迎到中国享受自由”成网络黑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200411/1310340.md">跟中共算总账的日子正在到来(图)</a></li>
@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md">体制内学者警告“去中国化”危机 文章遭删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310545.md">尼日利亚人在广州遭隔离 大使夺人爆冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200410/1310152.md">习近平自罚三杯 中国人都醉了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md">日本疫情令专家费解 日本到底做对了什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md">日本疫情令专家费解 日本到底做对了什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200411/1310218.md">谢谢你 周润发 你的拒绝成全了我的开挂人生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310479.md">英国科学家发现新冠病毒的弱点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310284.md">德国研究：再次爆发只是时间问题  全球数千万感染者未被发现</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310588.md">北韩出事了？官媒罕见未报导最高人民会议</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
