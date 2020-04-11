@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310333.md">陈破空：人事变动有文章！此人出马，要助习近平大干一场？大国外长求助小国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310423.md">华春莹的“欢迎到中国享受自由”成网络黑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200411/1310340.md">跟中共算总账的日子正在到来(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310262.md">〖兲朝浮世绘〗谭德塞的猪队友弄穿帮了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md">体制内学者警告“去中国化”危机 文章遭删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310463.md">载入历史的一幕！世界第一强国 面对瘟疫做出令人震撼之举</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310545.md">尼日利亚人在广州遭隔离 大使夺人爆冲突</a></li>
@@ -12,18 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310588.md">北韩出事了？官媒罕见未报导最高人民会议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md">日本疫情令专家费解 日本到底做对了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310479.md">英国科学家发现新冠病毒的弱点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200411/1310576.md">俄市长视频会上多次摸女副市长大腿 全程画面曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310338.md">《石涛.News》「习近平抓捕任志强 惹下天大祸根」与王岐山彻底翻脸 与红二代实力派完全冲突「陈平：任志强软落地&amp;硬着陆 游说与威胁」习近平主动撞死在王岐山上「铁板图」天灭中共 生与灭 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310562.md">中共肺炎、推特、诺查丹玛斯：中共假新闻正感染全世界</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310535.md">白宫罕见重批美国之音 前中文部主任痛批美国之音荒唐！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310338.md">《石涛.News》「习近平抓捕任志强 惹下天大祸根」与王岐山彻底翻脸 与红二代实力派完全冲突「陈平：任志强软落地&amp;硬着陆 游说与威胁」习近平主动撞死在王岐山上「铁板图」天灭中共 生与灭 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310382.md">文昭：白宫炮轰自家人！四川要增52000床位；黑龙江输入案例激增；习近平担心的真要来了 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310535.md">白宫罕见重批美国之音 前中文部主任痛批美国之音荒唐！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310583.md">谭德塞快看！非裔被中共指控成病毒来源 黑人惨遭种族歧视</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310601.md">中国删帖员：武汉肺炎期间日删万条政府不许可敏感言论</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
