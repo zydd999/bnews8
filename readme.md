@@ -14,11 +14,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md">体制内学者警告“去中国化”危机 文章遭删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310545.md">尼日利亚人在广州遭隔离 大使夺人爆冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200410/1310152.md">习近平自罚三杯 中国人都醉了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md">日本疫情令专家费解 日本到底做对了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310288.md">专家揭恐怖真相：中共病毒可在治愈者体内复活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200411/1310218.md">谢谢你 周润发 你的拒绝成全了我的开挂人生</a></li>
