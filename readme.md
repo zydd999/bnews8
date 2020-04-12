@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310423.md">华春莹的“欢迎到中国享受自由”成网络黑话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md">体制内学者警告“去中国化”危机 文章遭删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310463.md">载入历史的一幕！世界第一强国 面对瘟疫做出令人震撼之举</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310545.md">尼日利亚人在广州遭隔离 大使夺人爆冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310502.md">华春莹推文称欢迎来中国享受自由 遭怒怼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310595.md">组图：武汉回京人员默默无声 西客站分区隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310600.md">陕西再强拆封盖150余佛寺道观 习近平画像语录取代佛像</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310610.md">疫情死亡数字：打开“黑匣子”的“钥匙”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
