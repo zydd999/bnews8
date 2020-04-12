@@ -1,13 +1,11 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310423.md">华春莹的“欢迎到中国享受自由”成网络黑话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310463.md">载入历史的一幕！世界第一强国 面对瘟疫做出令人震撼之举</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310545.md">尼日利亚人在广州遭隔离 大使夺人爆冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310588.md">北韩出事了？官媒罕见未报导最高人民会议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310192.md">日本疫情令专家费解 日本到底做对了什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
@@ -24,6 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310595.md">组图：武汉回京人员默默无声 西客站分区隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310600.md">陕西再强拆封盖150余佛寺道观 习近平画像语录取代佛像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310610.md">疫情死亡数字：打开“黑匣子”的“钥匙”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310611.md">宝胜快评：台湾公布给世卫邮件、习帝谭书记恼羞成怒欲铤而走险、台海战事升温美舰驶入海峡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310547.md">纽约疫情爆发史追踪 病毒来源出人意料</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310617.md" target="_blank">十年前《传染病》预演纽约大瘟疫，人类需要寻找生命的《归途》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310620.md" target="_blank">陈破空：习近平很本事，让特朗普睡不着。美日大计划：撤离在华企业！华春莹创作最新名言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310618.md" target="_blank">天亮时分：面对全球“去中国化”,习近平这一心理特征极为致命;世卫组织陷入追责风暴(政论天下第149集 20200411)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310607.md" target="_blank">新冠瘟疫：回溯误区 惊见根源 根本治愈（3）</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310418.md" target="_blank">看神韵为什么能够获得身心健康？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310189.md" target="_blank">读《转法轮》，台湾教授对量子力学的疑惑都解开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310395.md" target="_blank">体制内学者警告“去中国化”危机 文章遭删</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310393.md" target="_blank">美疾控发布火神山研究 距带毒者4米处仍有病毒 强烈建议消毒鞋子</a></li>
 
 </ul>
 </div>
