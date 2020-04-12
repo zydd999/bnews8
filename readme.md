@@ -6,11 +6,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310588.md">北韩出事了？官媒罕见未报导最高人民会议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310491.md">胡锡进领头 甩锅派围攻方方 崔永元也看不下去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310444.md">谭德塞惨了！美媒：川普政府考虑成立新组织取代WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310492.md">网传视频：尼日利亚领事毫不含糊 从中共官员手里抢下三本护照！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310479.md">英国科学家发现新冠病毒的弱点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200411/1310576.md">俄市长视频会上多次摸女副市长大腿 全程画面曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310479.md">英国科学家发现新冠病毒的弱点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310562.md">中共肺炎、推特、诺查丹玛斯：中共假新闻正感染全世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310535.md">白宫罕见重批美国之音 前中文部主任痛批美国之音荒唐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
@@ -23,7 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310600.md">陕西再强拆封盖150余佛寺道观 习近平画像语录取代佛像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310610.md">疫情死亡数字：打开“黑匣子”的“钥匙”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310611.md">宝胜快评：台湾公布给世卫邮件、习帝谭书记恼羞成怒欲铤而走险、台海战事升温美舰驶入海峡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310547.md">纽约疫情爆发史追踪 病毒来源出人意料</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310607.md">新冠瘟疫：回溯误区 惊见根源 根本治愈（3）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200411/1310449.md">美国回敬中共？国防部证实 美舰通过台海</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
