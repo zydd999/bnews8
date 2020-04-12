@@ -2,10 +2,10 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200411/1310605.md">美中关系回不去了？！疫情蔓延！全球向中共求偿？！中共无法容忍美台合作抗疫？！【2020.04.11『年代向钱看』周末精选】</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310623.md">精彩图片：中共赠送德国的马克思塑像最新情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310674.md">笑喷！长征三号火箭坠毁四川 村民现场配音太有才了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310620.md">陈破空：习近平很本事，让特朗普睡不着。美日大计划：撤离在华企业！华春莹创作最新名言 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310623.md">精彩图片：中共赠送德国的马克思塑像最新情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310676.md">动荡前兆？减租抗议四起 武汉四川爆镇压</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310620.md">陈破空：习近平很本事，让特朗普睡不着。美日大计划：撤离在华企业！华春莹创作最新名言 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310690.md">广州的事闹大了 尼日利亚议长召见中共大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310606.md">中共将世卫做傀儡 英国呼吁成立“公卫20国集团”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310618.md">天亮时分：面对全球“去中国化”,习近平这一心理特征极为致命;世卫组织陷入追责风暴(政论天下第149集 20200411) </a></li>
@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310610.md">疫情死亡数字：打开“黑匣子”的“钥匙”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310689.md">如果习近平助委国马杜罗 川普回答简单而意味深长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310855.md">天将变？红二代陈平再爆“逼宫”习近平内情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310607.md">新冠瘟疫：回溯误区 惊见根源 根本治愈（3）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200412/1310652.md">非洲人在广州：非盟与美国务院发怒 中方急称确保非洲公民合法权益</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310607.md">新冠瘟疫：回溯误区 惊见根源 根本治愈（3）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1310622.md">《石涛聚焦》「习近平口罩外交大胜 白宫-为美企撤出中共国 承担一切费用」全球感染逼近200万亡过10万 美国疫情高位拉横 川普已考虑复工—发誓重塑全球供应链「日本出资24亿美元 鼓励企业撤离中共国」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310594.md">未来的人们都将在善恶间抉择——1950年宋美龄《在纽约向全美广播演说》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1310760.md">68％疗效也没用 跟瑞德西韦沾上边中国上市公司惨遭官方警告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310625.md">新冠肺炎——应向中共索赔4万亿美元：原因就在这里</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200412/1310627.md">范畴&#65306;第三次世界大战即将开打&#65288;五&#65289;台湾篇</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310968.md">受反送中启发？广州民众以共享单车堵路</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310625.md">新冠肺炎——应向中共索赔4万亿美元：原因就在这里</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311099.md" target="_blank">中国先进075两栖攻击舰上海船厂失火 消息速删</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311098.md" target="_blank">传缺少美国芯片中国载星火箭一月两次升空失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md" target="_blank">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311092.md" target="_blank">崔永元谈“正能量”与义和团的帖子为啥“一发就没”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311091.md" target="_blank">中国疫情南北双忧 与俄边境继续关闭</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310870.md" target="_blank">法新社：疫情之下间隔几米才安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310869.md" target="_blank">太空数据显示：中国经济仍未反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310868.md" target="_blank">中国买通非洲操纵世卫 欧洲不满</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310696.md" target="_blank">中共元老高岗遗孀去世 习近平母亲和胞弟送花圈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310695.md" target="_blank">中共瞒疫 川普：已告知中方我们很不高兴</a></li>
 
 </ul>
 </div>
