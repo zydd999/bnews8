@@ -2,10 +2,7 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200411/1310588.md">北韩出事了？官媒罕见未报导最高人民会议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310563.md">开枪了！ 收费过高成都水果批发商抗议 警察维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200411/1310576.md">俄市长视频会上多次摸女副市长大腿 全程画面曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310561.md">谭德塞这回该面对了！世卫错误应对疫情 彭斯表示美将问责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310562.md">中共肺炎、推特、诺查丹玛斯：中共假新闻正感染全世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310596.md">【现场视频】武汉病人为何多 专家轰居家隔离失败了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310583.md">谭德塞快看！非裔被中共指控成病毒来源 黑人惨遭种族歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200411/1310605.md">美中关系回不去了？！疫情蔓延！全球向中共求偿？！中共无法容忍美台合作抗疫？！【2020.04.11『年代向钱看』周末精选】</a></li>
@@ -14,16 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310606.md">中共将世卫做傀儡 英国呼吁成立“公卫20国集团”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310595.md">组图：武汉回京人员默默无声 西客站分区隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310600.md">陕西再强拆封盖150余佛寺道观 习近平画像语录取代佛像</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310620.md">陈破空：习近平很本事，让特朗普睡不着。美日大计划：撤离在华企业！华春莹创作最新名言 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310610.md">疫情死亡数字：打开“黑匣子”的“钥匙”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310611.md">宝胜快评：台湾公布给世卫邮件、习帝谭书记恼羞成怒欲铤而走险、台海战事升温美舰驶入海峡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310607.md">新冠瘟疫：回溯误区 惊见根源 根本治愈（3）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310620.md">陈破空：习近平很本事，让特朗普睡不着。美日大计划：撤离在华企业！华春莹创作最新名言 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310623.md">精彩图片：中共赠送德国的马克思塑像最新情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310594.md">未来的人们都将在善恶间抉择——1950年宋美龄《在纽约向全美广播演说》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310584.md">时隔百年！新研究：美应重启私掠船 打击中共海洋扩张</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310623.md">精彩图片：中共赠送德国的马克思塑像最新情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310570.md">江峰：独家解析谭德赛对台湾指控背後的中共因素； 川普暂停世卫组织经费，并调查其运作将是联合国各机构大整肃，去中共化的开端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1310613.md">石涛.News》「陈平再专访-呼吁习近平：留得英名 否则万世骂名」中美再也回不去了 全球索赔越来越多 大萧条在即 还权於民-唯一生路「陈平已失去与习近平的联系 渠道被堵塞」红二代四分五裂 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200412/1310619.md">窥衣眼&#65306;算数和愚蠢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1310612.md">《石涛聚焦》「中共国“海军神器”-075两栖登陆舰 黑烟滚滚着火了」4.8逾越节——武汉解封-常务开会 4.9火箭炸了 4.10军舰烧了-网传：万宝路火柴点雪茄 顺手把舰艇点着了 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310602.md">二大爷│世卫梦魇：谭书记为啥和台湾过不去？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200411/1310573.md">被谭德塞激怒 美国网友怒轰「WHO是耻辱」抓一点电爆</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,24 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310806.md" target="_blank">中国海关要求所有医护用品出口需出具符合出口地的质量证明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310805.md" target="_blank">武汉肺炎疫情禁令限制   欧洲教会寂静度过圣周五</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310804.md" target="_blank">新铜锣湾书店25日台北开业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310803.md" target="_blank">专家指新冠病毒基因突变　 传播力强死亡率比流感高20倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310802.md" target="_blank">台湾世卫就新冠病毒扩散全球驳火　 「人传人」警示成罗生门</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310801.md" target="_blank">英专家有八成信心  秋季可推出对抗新冠病毒疫苗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310800.md" target="_blank">英报责中方隐瞒疫情吁视为敌对国家　 中使馆致函反驳批刻意诋毁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310799.md" target="_blank">解放军军机今年第6度威胁台海　中台战机美舰互相监视</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310798.md" target="_blank">美国共和党籍参议员泰德-克鲁兹发视频： 抨击中共隐瞒疫情导致无数生命丧失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310797.md" target="_blank">安倍推特感谢蔡英文 中国向日本提出抗议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310796.md" target="_blank">广州非侨受歧视：非盟与美国务院谴责针对非洲人的仇外现象</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310795.md" target="_blank">中国辽宁号等舰艇从东海航至太平洋 日本警戒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310794.md" target="_blank">中国刺激国内市场救汽车业 业者：难解根本问题</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310793.md" target="_blank">台湾反应强烈：作为全球最高公共卫生权威机构 世卫还需什么样的警讯才警示新冠病毒人传人？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310792.md" target="_blank">方方再发声：温和的武汉日记却引发仇恨 让人害怕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310791.md" target="_blank">反击谭德塞 欧洲127位政要指WHO歧视台湾民众</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310790.md" target="_blank">美海军 “贝瑞号”导弹驱逐舰驶经台湾海峡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310789.md" target="_blank">上海一日新增80起疑似病例 全部来自俄罗斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310629.md" target="_blank">因李文亮之死要求言论自由的人们成功了吗？以受惩戒告终</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310625.md" target="_blank">新冠肺炎——应向中共索赔4万亿美元：原因就在这里</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310601.md" target="_blank">中国删帖员：武汉肺炎期间日删万条政府不许可敏感言论</a></li>
@@ -101,24 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310507.md" target="_blank">美国会追究世卫组织之声不断 共和党领袖称其为中共“同谋”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310506.md" target="_blank">二度爆发隐患尚存，武汉市民继续“家里蹲”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310436.md" target="_blank">联调局警告Zoom有安全风险 美国军方和政府雇员仍在使用</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310424.md" target="_blank">“战狼发言人”与美中关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310396.md" target="_blank">研究报告主张美国动用私掠船对抗中国的海洋扩张</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310348.md" target="_blank">世卫回复本台电邮：否认台湾曾警告武汉肺炎会人传人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310302.md" target="_blank">广西人权律师覃永沛案被检察院退回 目前仍在押</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310301.md" target="_blank">摩门教在中国建首座圣殿 宗教自由抑或外交统战？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310292.md" target="_blank">世卫组织被控为中国传声筒      美学者讨论是否该另起炉灶？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310291.md" target="_blank">企业高管性侵养女给中国法制上了什么课？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310280.md" target="_blank">加拿大不愿批评中国    真能换回遭羁押公民吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310260.md" target="_blank">对话基金会：中国的刑事审判统计与台湾的有关案件（2）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310259.md" target="_blank">中国维权律师关注组呼吁中国政府：尽快让王全璋与家人团聚</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310230.md" target="_blank">台湾捐赠口罩抵欧洲   欧盟赞扬展现团结精神</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310229.md" target="_blank">美众议员提案停止金援世卫　文本以「中华民国」称台湾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310200.md" target="_blank">任天堂动森游戏因政治原因下架中国电商平台</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310199.md" target="_blank">国民党曾布建5千线民监控学生  受害者忧心中国仍是“进行时”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310198.md" target="_blank">中国暂停学生赴台湾就读   因疫情及“两岸形势”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310178.md" target="_blank">钟南山又发声：病毒不看人种 大城市完全清零不现实</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310177.md" target="_blank">亚洲国家和地区挑战中国“新冠外交”垄断地位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200410/1310176.md" target="_blank">白宫支招促美国企业回流中国： 将为搬迁费用买单</a></li>
 
 </ul>
 </div>
