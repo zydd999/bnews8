@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310676.md">动荡前兆？减租抗议四起 武汉四川爆镇压</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310618.md">天亮时分：面对全球“去中国化”,习近平这一心理特征极为致命;世卫组织陷入追责风暴(政论天下第149集 20200411) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310623.md">精彩图片：中共赠送德国的马克思塑像最新情况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310690.md">广州的事闹大了 尼日利亚议长召见中共大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200412/1310713.md">此文都删？中共亡期已近！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310855.md">天将变？红二代陈平再爆“逼宫”习近平内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310675.md">网传广州官方通报：三元里查出上千黑人染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310611.md">宝胜快评：台湾公布给世卫邮件、习帝谭书记恼羞成怒欲铤而走险、台海战事升温美舰驶入海峡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310673.md">环球时报又开始撒谎了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311004.md">中国各地纷发停工通知：所有订单暂停 无工可复！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310673.md">环球时报又开始撒谎了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310689.md">如果习近平助委国马杜罗 川普回答简单而意味深长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310968.md">受反送中启发？广州民众以共享单车堵路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310990.md">上海惊传一日80人有症状 蒙古黑龙江边城全沦陷？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200412/1310652.md">非洲人在广州：非盟与美国务院发怒 中方急称确保非洲公民合法权益</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1310760.md">68％疗效也没用 跟瑞德西韦沾上边中国上市公司惨遭官方警告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1310973.md">哪国敢拒绝美遣返移民… 川普：停发美签</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200412/1311021.md">白宫刚要“断供”世卫 伦敦却捐了2亿英镑 亦喜？亦忧？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1310622.md">《石涛聚焦》「习近平口罩外交大胜 白宫-为美企撤出中共国 承担一切费用」全球感染逼近200万亡过10万 美国疫情高位拉横 川普已考虑复工—发誓重塑全球供应链「日本出资24亿美元 鼓励企业撤离中共国」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1311112.md">上海地产圈巨震 中海高管被抓 万科华润两人失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310997.md">中纪委横跨20年倒查内蒙古 牵动胡春华？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200412/1310652.md">非洲人在广州：非盟与美国务院发怒 中方急称确保非洲公民合法权益</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200412/1311021.md">白宫刚要“断供”世卫 伦敦却捐了2亿英镑 亦喜？亦忧？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1310760.md">68％疗效也没用 跟瑞德西韦沾上边中国上市公司惨遭官方警告</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311020.md">北韩无疫情？ 脱北官员：可能会有300万人死亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1310622.md">《石涛聚焦》「习近平口罩外交大胜 白宫-为美企撤出中共国 承担一切费用」全球感染逼近200万亡过10万 美国疫情高位拉横 川普已考虑复工—发誓重塑全球供应链「日本出资24亿美元 鼓励企业撤离中共国」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1310973.md">哪国敢拒绝美遣返移民… 川普：停发美签</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311166.md" target="_blank">广州非洲籍涉疫情事态敏感 多国传召中大使 在京数使馆向王毅表关注 广州疑显强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311160.md" target="_blank">财新记者手记露敏感 官方要求医生政治觉悟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md" target="_blank">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311146.md" target="_blank">钟南山指中国疫情数据没有造假</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310991.md" target="_blank">大陆新闻解读647期_时事小品：凤凰拔毛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310990.md" target="_blank">上海惊传一日80人有症状 蒙古黑龙江边城全沦陷？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310989.md" target="_blank">网友直击：黑龙江绥芬河抢建方舱 内境如“大监狱”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310969.md" target="_blank">传中共首艘075两栖攻击舰失火 浓烟冲天</a></li>
 
 </ul>
 </div>
