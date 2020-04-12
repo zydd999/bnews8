@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310583.md">谭德塞快看！非裔被中共指控成病毒来源 黑人惨遭种族歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310606.md">中共将世卫做傀儡 英国呼吁成立“公卫20国集团”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310601.md">中国删帖员：武汉肺炎期间日删万条政府不许可敏感言论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310502.md">华春莹推文称欢迎来中国享受自由 遭怒怼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310595.md">组图：武汉回京人员默默无声 西客站分区隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200411/1310502.md">华春莹推文称欢迎来中国享受自由 遭怒怼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200411/1310600.md">陕西再强拆封盖150余佛寺道观 习近平画像语录取代佛像</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200411/1310610.md">疫情死亡数字：打开“黑匣子”的“钥匙”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200411/1310611.md">宝胜快评：台湾公布给世卫邮件、习帝谭书记恼羞成怒欲铤而走险、台海战事升温美舰驶入海峡</a></li>
