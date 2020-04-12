@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310623.md">精彩图片：中共赠送德国的马克思塑像最新情况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1311112.md">上海地产圈巨震 中海高管被抓 万科华润两人失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200412/1310713.md">此文都删？中共亡期已近！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310618.md">天亮时分：面对全球“去中国化”,习近平这一心理特征极为致命;世卫组织陷入追责风暴(政论天下第149集 20200411) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311156.md">张张停工通知刷爆了朋友圈 产量大省连遭天灾党媒不报了 学者:中国经济陷巨大衰退！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310690.md">广州的事闹大了 尼日利亚议长召见中共大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311149.md">跌入粪坑的张文宏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311156.md">张张停工通知刷爆了朋友圈 产量大省连遭天灾党媒不报了 学者:中国经济陷巨大衰退！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310675.md">网传广州官方通报：三元里查出上千黑人染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311004.md">中国各地纷发停工通知：所有订单暂停 无工可复！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310673.md">环球时报又开始撒谎了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310689.md">如果习近平助委国马杜罗 川普回答简单而意味深长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311092.md">崔永元谈“正能量”与义和团的帖子为啥“一发就没”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310968.md">受反送中启发？广州民众以共享单车堵路</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311166.md">广州非洲籍涉疫情事态敏感 多国传召中大使 在京数使馆向王毅表关注 广州疑显强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310990.md">上海惊传一日80人有症状 蒙古黑龙江边城全沦陷？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311166.md">广州非洲籍涉疫情事态敏感 多国传召中大使 在京数使馆向王毅表关注 广州疑显强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200412/1310652.md">非洲人在广州：非盟与美国务院发怒 中方急称确保非洲公民合法权益</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200412/1311021.md">白宫刚要“断供”世卫 伦敦却捐了2亿英镑 亦喜？亦忧？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311293.md" target="_blank">教皇吁取消最穷国债务  英国捐两亿英镑助弱国抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311291.md" target="_blank">武汉中南医院多次报告疑似病例 被批政治觉悟不高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311290.md" target="_blank">中国国际声誉堪忧 学者建言民间组织纾困</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311289.md" target="_blank">美国担心华为借疫情扩展监控触角</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310806.md" target="_blank">中国海关要求所有医护用品出口需出具符合出口地的质量证明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310805.md" target="_blank">武汉肺炎疫情禁令限制   欧洲教会寂静度过圣周五</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310804.md" target="_blank">新铜锣湾书店25日台北开业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310803.md" target="_blank">专家指新冠病毒基因突变　 传播力强死亡率比流感高20倍</a></li>
 
 </ul>
 </div>
