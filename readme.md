@@ -12,8 +12,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311168.md">反击中共 川普即将掀开新的一章</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
