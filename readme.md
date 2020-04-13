@@ -19,9 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310689.md">如果习近平助委国马杜罗 川普回答简单而意味深长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311092.md">崔永元谈“正能量”与义和团的帖子为啥“一发就没”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311180.md">谭德塞姓党不顺，任志强反习将成？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311247.md">〖兲朝浮世绘〗中共灭亡加速器习近平要被换掉了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310968.md">受反送中启发？广州民众以共享单车堵路</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311247.md">〖兲朝浮世绘〗中共灭亡加速器习近平要被换掉了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310990.md">上海惊传一日80人有症状 蒙古黑龙江边城全沦陷？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md" target="_blank">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311381.md" target="_blank">日媒驻中记者观察 武汉肺炎反映中共不道歉本质</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md" target="_blank">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md" target="_blank">〖博谈编译〗习近平的中国做了这些</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311301.md" target="_blank">拒隔离者暴力撕咬护士引广东反感 中国涉嫌歧视非洲人后续:外交部承诺改善工作方式</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311098.md" target="_blank">传缺少美国芯片中国载星火箭一月两次升空失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md" target="_blank">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311092.md" target="_blank">崔永元谈“正能量”与义和团的帖子为啥“一发就没”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311091.md" target="_blank">中国疫情南北双忧 与俄边境继续关闭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1311062.md" target="_blank">从“中共病毒”这一名称找出防疫方案</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md" target="_blank">网传崔永元文章：我的思考与不安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311156.md" target="_blank">张张停工通知刷爆了朋友圈 产量大省连遭天灾党媒不报了 学者:中国经济陷巨大衰退！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md" target="_blank">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311028.md" target="_blank">谭德塞又被打脸！ 白宫专家：病毒人传人早就发生</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md" target="_blank">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310133.md" target="_blank">重磅！德领跑欧盟脱钩中国 美脱勾加速要踢出中国电信 中国民企挣扎批当局不作为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310034.md" target="_blank">二次爆发？有3大讯号了！北京疫情常态化 啥意思？四川紧急修建5.2万隔离处所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1309960.md" target="_blank">中国粮食铁定短缺 希望这个预言不准吧</a></li>
 
 </ul>
 </div>
