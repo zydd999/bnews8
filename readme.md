@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311774.md" target="_blank">北京力图向世界推销应对疫情的中国模式</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311773.md" target="_blank">中国管控病毒溯源论文的发表  鲍彤：共产党怕真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311772.md" target="_blank">非洲国家抗议广州对非裔种族歧视</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311771.md" target="_blank">武汉商户再爆减租维权游行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311770.md" target="_blank">点赞中国抗疫？德国拒绝中国游说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311757.md" target="_blank">港澳办中联办点名谴责郭荣铿滥权　民主派：港人只会与中央政府愈行愈远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311740.md" target="_blank">中国最高检介入烟台一企业高官涉嫌性侵养女案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311735.md" target="_blank">中国军机、舰接连出动   美军机不甘示弱频繁现踪</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311654.md" target="_blank">专家预测：中国3月出口继续低迷 全年经济增幅或接近2%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311650.md" target="_blank">台星民间交火口罩话题 险酿外交纠纷 两国低调化解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311632.md" target="_blank">王全璋出狱后首与妻子视像通话　亲人被公安约谈受威胁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311631.md" target="_blank">受疫情打击家电业面临严峻考验　龙头企业传裁员逾万人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311543.md" target="_blank">新冠疫情吹哨人艾芬医生失联两周 无国界记者组织呼吁中国政府尽快说明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311367.md" target="_blank">中共持续强拆多地三自教堂十字架 武汉肺炎期间亦拆不停</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311293.md" target="_blank">教皇吁取消最穷国债务  英国捐两亿英镑助弱国抗疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311291.md" target="_blank">武汉中南医院多次报告疑似病例 被批政治觉悟不高</a></li>
 
 </ul>
 </div>
