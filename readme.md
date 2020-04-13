@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311168.md">反击中共 川普即将掀开新的一章</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1311154.md">宝胜快评：辽宁号驶入太平洋剑指珍珠港、高层流传倒习倡议书习要以战立威？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311652.md" target="_blank">中共做贼心虚？武汉新冠病毒论文未经审查不准发表</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311646.md" target="_blank">四直辖市、广东河北宣布高三开学时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311633.md" target="_blank">瘟疫促美国反思　多部门联手对抗中共舆论战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311624.md" target="_blank">谎言是党文化的核心 ——中共不等于中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311623.md" target="_blank">台湾拟捐口罩星国总理夫人脸书留言「呃」引论战台湾急灭火</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311518.md" target="_blank">中共补贴6%人群 网友：这是宣传需要</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311477.md" target="_blank">“将中共降级！”美国参议员科顿：要象对待恶疾一样对待中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md" target="_blank">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311456.md" target="_blank">疫情下 武汉老两口的挣扎…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311446.md" target="_blank">台湾怒掴世卫 阿波罗网率先惊觉人传人 谭德赛身份竟然是…</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311654.md" target="_blank">专家预测：中国3月出口继续低迷 全年经济增幅或接近2%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311650.md" target="_blank">台星民间交火口罩话题 险酿外交纠纷 两国低调化解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311632.md" target="_blank">王全璋出狱后首与妻子视像通话　亲人被公安约谈受威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311631.md" target="_blank">受疫情打击家电业面临严峻考验　龙头企业传裁员逾万人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311543.md" target="_blank">新冠疫情吹哨人艾芬医生失联两周 无国界记者组织呼吁中国政府尽快说明</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311147.md" target="_blank">非洲驻华大使集体致函中国政府要求解决在华非洲人遭歧视问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311145.md" target="_blank">大陆官场文化？　手可吃饭不能办公　坐办公室等发工资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311144.md" target="_blank">中国制口罩黑幕大曝光　  目击者：这样生产的口罩谁敢用？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311143.md" target="_blank">封城日记遭左派口诛笔伐    方方：几乎跟文革时差不多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311142.md" target="_blank">输入性病例成新忧虑 中国加强应对</a></li>
 
 </ul>
 </div>
