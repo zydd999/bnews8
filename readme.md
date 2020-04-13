@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311853.md" target="_blank">驻华非洲国家大使联名抗议非洲裔在广州受歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311833.md" target="_blank">防疫不忘反贪？中共两高官落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311832.md" target="_blank">中国出口二季度预测下滑20%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311831.md" target="_blank">金正恩撤消三分之一国务委员</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311682.md" target="_blank">非洲国家抗议其公民在华受歧视，中国否认歧视“非洲兄弟”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311674.md" target="_blank">中国邀德国官员对其防疫表现美言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311659.md" target="_blank">科研病毒源头变中共「禁区」　通过国务院审批始能发表论文</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311658.md" target="_blank">大「疫」当前　台星人民为口罩互轰</a></li>
 
 </ul>
 </div>
