@@ -4,8 +4,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311196.md">美金融大亨巴斯 惊爆邓小平家族势力密谋推翻习近平皇帝制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311247.md">〖兲朝浮世绘〗中共灭亡加速器习近平要被换掉了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311180.md">谭德塞姓党不顺，任志强反习将成？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
@@ -14,6 +14,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
@@ -22,8 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311168.md">反击中共 川普即将掀开新的一章</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311520.md">英媒：越来越多证据将中共病毒来源引至武汉病毒研究所</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311703.md" target="_blank">英国政界促政府干预 阻止中资收购战略资产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311701.md" target="_blank">中国发文严审论文国际发表 或引新批评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md" target="_blank">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311678.md" target="_blank">英媒：中国限制发表有关病毒起源的学术报告</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311554.md" target="_blank">纽约三餐免费拿 中国相反 什么都要钱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311551.md" target="_blank">中国疫情 境外移入与无症状忧增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311546.md" target="_blank">中共严控病毒论文发表 游说德国这样做被拒绝 华春莹推文惹祸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311545.md" target="_blank">【一线采访】志愿者：武汉解封后肉更贵了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md" target="_blank">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md" target="_blank">字谜动画：刘伯温预言的佐证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md" target="_blank">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md" target="_blank">美退役准将警告：不要忘记中国共产党是什么</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310672.md" target="_blank">中共买通非洲操纵世卫 欧洲不满 法媒曝光中共操纵国际组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310671.md" target="_blank">美国肉业突传数百病例引川普关注 粮食安全存隐忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310670.md" target="_blank">美企从中国回流美国 库德洛提议：可负担「搬家费」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310562.md" target="_blank">中共肺炎、推特、诺查丹玛斯：中共假新闻正感染全世界</a></li>
 
 </ul>
 </div>
