@@ -4,26 +4,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311196.md">美金融大亨巴斯 惊爆邓小平家族势力密谋推翻习近平皇帝制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311247.md">〖兲朝浮世绘〗中共灭亡加速器习近平要被换掉了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311743.md" target="_blank">广州危机发酵 中外交部急抚非洲使节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311733.md" target="_blank">陈破空：陈破空谈《常识》（之40）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311703.md" target="_blank">英国政界促政府干预 阻止中资收购战略资产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311701.md" target="_blank">中国发文严审论文国际发表 或引新批评</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md" target="_blank">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311585.md" target="_blank">中国导演陈家坪拍摄许志永纪录片被控煽动颠覆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311554.md" target="_blank">纽约三餐免费拿 中国相反 什么都要钱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311551.md" target="_blank">中国疫情 境外移入与无症状忧增</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311740.md" target="_blank">中国最高检介入烟台一企业高官涉嫌性侵养女案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311735.md" target="_blank">中国军机、舰接连出动   美军机不甘示弱频繁现踪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311728.md" target="_blank">王全璋出狱后首次曝光 与妻李文足视像对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311727.md" target="_blank">成都秋雨教会线上主日崇拜 被警方突袭调查</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311293.md" target="_blank">教皇吁取消最穷国债务  英国捐两亿英镑助弱国抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311291.md" target="_blank">武汉中南医院多次报告疑似病例 被批政治觉悟不高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311290.md" target="_blank">中国国际声誉堪忧 学者建言民间组织纾困</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311289.md" target="_blank">美国担心华为借疫情扩展监控触角</a></li>
 
 </ul>
 </div>
