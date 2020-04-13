@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311979.md" target="_blank">文昭：台海骤紧，“珍珠港时刻”逼近？“群聚风险”引中非友谊广州翻船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311918.md" target="_blank">天亮时分：政府发钱和强制消费,为什么两个我都不喜欢?频道开通一周年感言,点评江峰,文昭和萧茗的自媒体频道(政论天下第150集 20200413)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311914.md" target="_blank">陈破空：北京头疼事，非洲要求中国免债。军心不稳，习近平出招防变！辽宁号有动静</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311871.md" target="_blank">【一线采访】武汉人：不解封饿死 解封或病死</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311624.md" target="_blank">谎言是党文化的核心 ——中共不等于中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311623.md" target="_blank">台湾拟捐口罩星国总理夫人脸书留言「呃」引论战台湾急灭火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311622.md" target="_blank">日本首相用音乐视频呼吁“宅”在家里 获35万点赞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md" target="_blank">字谜动画：刘伯温预言的佐证</a></li>
 
 </ul>
 </div>
