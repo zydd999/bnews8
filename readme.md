@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311092.md">崔永元谈“正能量”与义和团的帖子为啥“一发就没”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310968.md">受反送中启发？广州民众以共享单车堵路</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310990.md">上海惊传一日80人有症状 蒙古黑龙江边城全沦陷？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311020.md">北韩无疫情？ 脱北官员：可能会有300万人死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311027.md">全力遏制中共病毒传播 川普一声令下 美军展开三个大动作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200412/1311021.md">白宫刚要“断供”世卫 伦敦却捐了2亿英镑 亦喜？亦忧？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311026.md">疫情是即将到来的大审判的前兆？民调：近半美国人相信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1310973.md">哪国敢拒绝美遣返移民… 川普：停发美签</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311106.md">大陆总裁性侵养女 章子怡发声痛斥官商勾结</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1310997.md">中纪委横跨20年倒查内蒙古 牵动胡春华？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md" target="_blank">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311487.md" target="_blank">美参议员：将中共从联合国等国际机构中的突出地位降级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md" target="_blank">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md" target="_blank">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md" target="_blank">网传崔永元文章：我的思考与不安</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200411/1310189.md" target="_blank">读《转法轮》，台湾教授对量子力学的疑惑都解开了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310310.md" target="_blank">外媒揭露解放军血腥镇压西藏新疆 还秘调武警进驻香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310296.md" target="_blank">「反送中」港警声誉一落千丈 爆离职潮还招不满</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200411/1310206.md" target="_blank">习近平念念不忘2件事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200410/1310163.md" target="_blank">惊呆！中国出口测试剂自带武肺病毒 英相震怒</a></li>
 
 </ul>
 </div>
