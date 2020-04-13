@@ -4,19 +4,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311541.md">北京大撒币 面对非洲多国抗议歧视“战狼”赵立坚大转性?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311586.md">深圳人悲喜交加：失业和房价上涨同时发生…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311586.md">深圳人悲喜交加：失业和房价上涨同时发生…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311541.md">北京大撒币 面对非洲多国抗议歧视“战狼”赵立坚大转性?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311896.md" target="_blank">英国情报机构据报敦促疫情后重新评估对华关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311876.md" target="_blank">新华社“疫情纪事”距离真相有多远?(2) (国际合作篇)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311857.md" target="_blank">Oslo Freedom Forum</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311856.md" target="_blank">西方发钱  中国发消费券  人们买账吗？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311724.md" target="_blank">吹哨人艾芬医生被失踪 人权组织关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311723.md" target="_blank">中国辽宁号航母群驶出第一岛链</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311719.md" target="_blank">非裔人士疑在穗受歧视酿外交风波　非洲多国致函王毅表关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311686.md" target="_blank">黑龙江省成为中国遏阻冠状病毒卷土重来的新前沿</a></li>
 
 </ul>
 </div>
