@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md">美退役准将警告：不要忘记中国共产党是什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md">美退役准将警告：不要忘记中国共产党是什么</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311982.md" target="_blank">美报告：中国解放军或将“借船出海”玩转推特</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311896.md" target="_blank">英国情报机构据报敦促疫情后重新评估对华关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311876.md" target="_blank">新华社“疫情纪事”距离真相有多远?(2) (国际合作篇)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311857.md" target="_blank">Oslo Freedom Forum</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311725.md" target="_blank">罗马教宗复活节哀悼新冠病亡者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311724.md" target="_blank">吹哨人艾芬医生被失踪 人权组织关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311723.md" target="_blank">中国辽宁号航母群驶出第一岛链</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311719.md" target="_blank">非裔人士疑在穗受歧视酿外交风波　非洲多国致函王毅表关注</a></li>
 
 </ul>
 </div>
