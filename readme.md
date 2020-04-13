@@ -6,14 +6,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311180.md">谭德塞姓党不顺，任志强反习将成？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311166.md">广州非洲籍涉疫情事态敏感 多国传召中大使 在京数使馆向王毅表关注 广州疑显强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
@@ -23,6 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311168.md">反击中共 川普即将掀开新的一章</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311701.md" target="_blank">中国发文严审论文国际发表 或引新批评</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md" target="_blank">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311678.md" target="_blank">英媒：中国限制发表有关病毒起源的学术报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311677.md" target="_blank">千万人恐失业 中国现劳工抗议声浪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311672.md" target="_blank">中国抗疫新难题 网曝广州麦当劳拒非裔入店 非洲不满发酵引关注</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311551.md" target="_blank">中国疫情 境外移入与无症状忧增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311546.md" target="_blank">中共严控病毒论文发表 游说德国这样做被拒绝 华春莹推文惹祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311545.md" target="_blank">【一线采访】志愿者：武汉解封后肉更贵了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311541.md" target="_blank">北京大撒币 面对非洲多国抗议歧视“战狼”赵立坚大转性?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311527.md" target="_blank">【思想领袖】斯伯丁将军：中共靠什么渗透西方</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311686.md" target="_blank">黑龙江省成为中国遏阻冠状病毒卷土重来的新前沿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311682.md" target="_blank">非洲国家抗议其公民在华受歧视，中国否认歧视“非洲兄弟”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311674.md" target="_blank">中国邀德国官员对其防疫表现美言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311659.md" target="_blank">科研病毒源头变中共「禁区」　通过国务院审批始能发表论文</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311190.md" target="_blank">一片质疑声中 钟南山坚称中国疫情数据真实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311189.md" target="_blank">中国接连两次火箭发射失败 是因芯片受美国制裁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311185.md" target="_blank">时事大家谈：引发国安顾虑 华盛顿拟将中国电信踢出美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311170.md" target="_blank">中国舰队再次穿越冲绳海域　  挑衅行动惹美台日三方关注</a></li>
 
 </ul>
 </div>
