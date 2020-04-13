@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200412/1311112.md">上海地产圈巨震 中海高管被抓 万科华润两人失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311156.md">张张停工通知刷爆了朋友圈 产量大省连遭天灾党媒不报了 学者:中国经济陷巨大衰退！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311149.md">跌入粪坑的张文宏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311196.md">美金融大亨巴斯 惊爆邓小平家族势力密谋推翻习近平皇帝制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311180.md">谭德塞姓党不顺，任志强反习将成？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311099.md">中国先进075两栖攻击舰上海船厂失火 消息速删</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200412/1311154.md">宝胜快评：辽宁号驶入太平洋剑指珍珠港、高层流传倒习倡议书习要以战立威？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311168.md">反击中共 川普即将掀开新的一章</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311546.md" target="_blank">中共严控病毒论文发表 游说德国这样做被拒绝 华春莹推文惹祸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311545.md" target="_blank">【一线采访】志愿者：武汉解封后肉更贵了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311541.md" target="_blank">北京大撒币 面对非洲多国抗议歧视“战狼”赵立坚大转性?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311527.md" target="_blank">【思想领袖】斯伯丁将军：中共靠什么渗透西方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311523.md" target="_blank">还原世卫协助中共隐瞒疫情的主要事实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md" target="_blank">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！&#8230;</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311300.md" target="_blank">病毒惹祸：俄罗斯的中国人回国难　广州有非洲人露宿街头？ &#8211; 要闻分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md" target="_blank">仅半个月 大陆再发生一起列车脱轨事故</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311231.md" target="_blank">北京市教委：4/27高三开学 7/7大学考试</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311224.md" target="_blank">大陆疫情还很糟！中共删帖员：比平常更忙</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311194.md" target="_blank">情报机关：北京试图拉拢德国为中国抗疫点赞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311186.md" target="_blank">港府抗疫措施 港人满意几分？</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311543.md" target="_blank">新冠疫情吹哨人艾芬医生失联两周 无国界记者组织呼吁中国政府尽快说明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311367.md" target="_blank">中共持续强拆多地三自教堂十字架 武汉肺炎期间亦拆不停</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311293.md" target="_blank">教皇吁取消最穷国债务  英国捐两亿英镑助弱国抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311291.md" target="_blank">武汉中南医院多次报告疑似病例 被批政治觉悟不高</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311142.md" target="_blank">输入性病例成新忧虑 中国加强应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1311030.md" target="_blank">中国新冠病毒感染新病例加倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310806.md" target="_blank">中国海关要求所有医护用品出口需出具符合出口地的质量证明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200412/1310805.md" target="_blank">武汉肺炎疫情禁令限制   欧洲教会寂静度过圣周五</a></li>
 
 </ul>
 </div>
