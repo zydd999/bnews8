@@ -5,24 +5,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311156.md">张张停工通知刷爆了朋友圈 产量大省连遭天灾党媒不报了 学者:中国经济陷巨大衰退！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200412/1311149.md">跌入粪坑的张文宏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311196.md">美金融大亨巴斯 惊爆邓小平家族势力密谋推翻习近平皇帝制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311180.md">谭德塞姓党不顺，任志强反习将成？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311180.md">谭德塞姓党不顺，任志强反习将成？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311247.md">〖兲朝浮世绘〗中共灭亡加速器习近平要被换掉了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311166.md">广州非洲籍涉疫情事态敏感 多国传召中大使 在京数使馆向王毅表关注 广州疑显强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311092.md">崔永元谈“正能量”与义和团的帖子为啥“一发就没”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311095.md">复工逼的？浙江厂房突发大火 传涉断臂求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311155.md">官方宣传新提“习兵法” 央视推习近平与史上大兵法家齐名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311253.md">仅半个月 大陆再发生一起列车脱轨事故</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200412/1311106.md">大陆总裁性侵养女 章子怡发声痛斥官商勾结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
