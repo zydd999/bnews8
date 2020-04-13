@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311247.md">〖兲朝浮世绘〗中共灭亡加速器习近平要被换掉了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311318.md">陈破空：六常委沉默，习近平在高层陷于孤立？突然下手整一个人。非洲国家反目 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311382.md">网传崔永元文章：我的思考与不安</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311342.md">双汇遭殃！美国加工厂238人确诊中共肺炎 宣布无限期停业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311307.md">〖博谈编译〗习近平的中国做了这些</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200413/1311315.md">一位35岁的离婚女士致天下女人的一封信 句句戳心！轰动女人圈！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md" target="_blank">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md" target="_blank">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311789.md" target="_blank">五毛早已变七、八毛！传中共网军4月加薪14.3％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311753.md" target="_blank">德情报机关：北京试图拉拢德国为中国抗疫点赞 或遭拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311743.md" target="_blank">广州危机发酵 中外交部急抚非洲使节</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311598.md" target="_blank">香港扣除史上最高财赤后仍有8000亿储备略低于2003年萨斯水平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311596.md" target="_blank">新冠病毒繁殖力惊超SARS3倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311595.md" target="_blank">法国新冠疫情似乎出现缓解</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311594.md" target="_blank">广州非裔外交风波发酵 网上轰大使辱国 官方连夜斥美挑拨并称非洲好兄弟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md" target="_blank">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 
 </ul>
 </div>
