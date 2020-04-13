@@ -7,12 +7,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311411.md">还有体温的她… 副省长坐镇火化 女警惊恐得声音都发颤了：“真是热的！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311457.md">自知将成“愤怒的头号标靶” 中共内心已慌！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311390.md">川普：确信北京及世卫隐瞒疫情 正和中共谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311591.md">想不到 地方财政已经如此吃紧…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200413/1311361.md">北大女孩包丽去世了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311840.md" target="_blank">法媒：疫情危机显示北京在联合国安插棋子运作有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md" target="_blank">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md" target="_blank">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311789.md" target="_blank">五毛早已变七、八毛！传中共网军4月加薪14.3％</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md" target="_blank">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311598.md" target="_blank">香港扣除史上最高财赤后仍有8000亿储备略低于2003年萨斯水平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311596.md" target="_blank">新冠病毒繁殖力惊超SARS3倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311595.md" target="_blank">法国新冠疫情似乎出现缓解</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311833.md" target="_blank">防疫不忘反贪？中共两高官落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311832.md" target="_blank">中国出口二季度预测下滑20%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311831.md" target="_blank">金正恩撤消三分之一国务委员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311830.md" target="_blank">步俄后尘 中国在脸书推特上发动信息战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311783.md" target="_blank">在病毒溯源争论日趋激烈之际，中共下令相关研究要严加控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311774.md" target="_blank">北京力图向世界推销应对疫情的中国模式</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311773.md" target="_blank">中国管控病毒溯源论文的发表  鲍彤：共产党怕真相</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311674.md" target="_blank">中国邀德国官员对其防疫表现美言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311659.md" target="_blank">科研病毒源头变中共「禁区」　通过国务院审批始能发表论文</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311658.md" target="_blank">大「疫」当前　台星人民为口罩互轰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311657.md" target="_blank">当局过桥抽板　冒死赶建雷神山医院民工遭暴力驱逐</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311656.md" target="_blank">北京的难题：疫情之下非洲要求减免巨额债务</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311654.md" target="_blank">专家预测：中国3月出口继续低迷 全年经济增幅或接近2%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311650.md" target="_blank">台星民间交火口罩话题 险酿外交纠纷 两国低调化解</a></li>
 
 </ul>
 </div>
