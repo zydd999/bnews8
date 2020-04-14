@@ -2,9 +2,7 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311837.md">大陆某军医系统专家的内部讲话传出可怕消息，免疫系统都毁了，中共病毒根本消灭不掉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312120.md">中南海内忧外患 习近平有不祥预感</a></li>
@@ -12,18 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312162.md">美华人：一夜之间 工作收入签证绿卡全没了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312162.md">美华人：一夜之间 工作收入签证绿卡全没了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312001.md">曹德旺：全球产业链去中国化是一个趋势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311914.md">陈破空：北京头疼事，非洲要求中国免债。军心不稳，习近平出招防变！辽宁号有动静 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312001.md">曹德旺：全球产业链去中国化是一个趋势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200414/1312047.md">宝胜突发视频：失踪两周发哨人艾芬突然直播、当局在国际压力下不得不回应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312292.md" target="_blank">中国地质船返回越南近海，加剧中越紧张关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312291.md" target="_blank">「台湾女孩」触发中泰骂战　泰民众对中共霸权忍无可忍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312280.md" target="_blank">新冠疫情发哨医生艾芬报平安　疑非自愿安全仍受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312269.md" target="_blank">台湾口罩外交 华航“China Airlines”易混淆 改名呼声再起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312255.md" target="_blank">「中华航空」名称引起误解　民间再掀改名要求</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311771.md" target="_blank">武汉商户再爆减租维权游行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311770.md" target="_blank">点赞中国抗疫？德国拒绝中国游说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311757.md" target="_blank">港澳办中联办点名谴责郭荣铿滥权　民主派：港人只会与中央政府愈行愈远</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311740.md" target="_blank">中国最高检介入烟台一企业高官涉嫌性侵养女案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311735.md" target="_blank">中国军机、舰接连出动   美军机不甘示弱频繁现踪</a></li>
 
 </ul>
 </div>
