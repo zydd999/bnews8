@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312229.md">iPhone 12全系曝光 这个卖点可确认</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312229.md">iPhone 12全系曝光 这个卖点可确认</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312279.md">极度雷人！这才是朝鲜人眼中的“中国”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312246.md">【耳边风】太子党又有白事</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312537.md" target="_blank">法国外长召见中国驻法大使卢沙野 指中国使馆相关疫情言词违背两国合作精神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312528.md" target="_blank">华邮：美官员两年前就示警 武汉病毒研究所蝙蝠研究恐致流行病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312521.md" target="_blank">北京为何对亚洲邻国不客气？ &#8211; 要闻分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312520.md" target="_blank">美官员传两年前就示警 武汉蝙蝠研究恐致流行病</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312227.md" target="_blank">中国疫情续指境外输入压力 无症状未减</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md" target="_blank">中共官媒又崩溃 美媒：气台湾成功了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312177.md" target="_blank">华春莹称中国享言论自由 美官员列9异议者打脸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312169.md" target="_blank">英国情报部门呼吁重估跟中共的关系</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312547.md" target="_blank">疫情当下 美中如何反垄断？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312530.md" target="_blank">国际政学界百人联署：中共威胁全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312522.md" target="_blank">疫情致农产品滞销 中国农民面临生存困境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312511.md" target="_blank">台湾全球防疫论坛  加拿大专家分享意见</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312322.md" target="_blank">推特上的中国：“中国民族主义到了疯狂的时候”，华裔记者推特救母遭网络围剿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312321.md" target="_blank">中国加紧对俄边境检查 新批2个新冠病毒灭活疫苗进入临床试验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312292.md" target="_blank">中国地质船返回越南近海，加剧中越紧张关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312291.md" target="_blank">「台湾女孩」触发中泰骂战　泰民众对中共霸权忍无可忍</a></li>
 
 </ul>
 </div>
