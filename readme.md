@@ -3,13 +3,13 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312120.md">中南海内忧外患 习近平有不祥预感</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312293.md">经济学者：中国是下一个委内瑞拉 人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312162.md">美华人：一夜之间 工作收入签证绿卡全没了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312293.md">经济学者：中国是下一个委内瑞拉 人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312229.md">iPhone 12全系曝光 这个卖点可确认</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311914.md">陈破空：北京头疼事，非洲要求中国免债。军心不稳，习近平出招防变！辽宁号有动静 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200414/1312034.md">宝马和雷克萨斯差距有多大？跑趟高速才明白 当初看走眼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312001.md">曹德旺：全球产业链去中国化是一个趋势</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md" target="_blank">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md" target="_blank">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312537.md" target="_blank">法国外长召见中国驻法大使卢沙野 指中国使馆相关疫情言词违背两国合作精神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312528.md" target="_blank">华邮：美官员两年前就示警 武汉病毒研究所蝙蝠研究恐致流行病</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312244.md" target="_blank">疫情未减 中共封群封号 网络言论再受控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312243.md" target="_blank">广州非裔事件 王毅出面安抚 警告不中某些势力离间计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312227.md" target="_blank">中国疫情续指境外输入压力 无症状未减</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md" target="_blank">中共官媒又崩溃 美媒：气台湾成功了</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312628.md" target="_blank">美国防部大部分员工在家工作 外来网络间谍活动剧增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312582.md" target="_blank">美国参议员克鲁兹议案：制裁隐瞒疫情打压公众的中共官员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312581.md" target="_blank">谭德赛也成“两面人”？ 台湾外交部回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312580.md" target="_blank">法国外交部召见中国大使  病毒言论再引风波</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312360.md" target="_blank">复活节遭冲击  四川成都秋雨教会多名信徒被警方带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312359.md" target="_blank">广州非洲裔居民遭宗族歧视  麦当劳背锅道歉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312340.md" target="_blank">习冀全球赞美中国防疫工作　梦境落空美议长以「痴线」回赠</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312339.md" target="_blank">担心Zoom安全　美众议员促停止使用</a></li>
 
 </ul>
 </div>
