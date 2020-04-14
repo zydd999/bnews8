@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311520.md">英媒：越来越多证据将中共病毒来源引至武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md">字谜动画：刘伯温预言的佐证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312145.md" target="_blank">江峰：川普揭“美国之音” 吃美国的饭砸美国的锅；台长阿曼达从第一份习近平家族贪腐调查到与中共的高层勾兑幕後</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312144.md" target="_blank">在俄华人偷渡回国躲疫 遭黑龙江悬赏抓捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312124.md" target="_blank">河北沧州地震 居民下楼避难 北京天津有震感</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md" target="_blank">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312122.md" target="_blank">在俄华人偷渡回国躲疫 没想到面临的竟是…</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md" target="_blank">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md" target="_blank">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311789.md" target="_blank">五毛早已变七、八毛！传中共网军4月加薪14.3％</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311753.md" target="_blank">德情报机关：北京试图拉拢德国为中国抗疫点赞 或遭拒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311743.md" target="_blank">广州危机发酵 中外交部急抚非洲使节</a></li>
 
 </ul>
 </div>
