@@ -6,22 +6,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312120.md">中南海内忧外患 习近平有不祥预感</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312162.md">美华人：一夜之间 工作收入签证绿卡全没了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311914.md">陈破空：北京头疼事，非洲要求中国免债。军心不稳，习近平出招防变！辽宁号有动静 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312001.md">曹德旺：全球产业链去中国化是一个趋势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200414/1312047.md">宝胜突发视频：失踪两周发哨人艾芬突然直播、当局在国际压力下不得不回应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200414/1312034.md">宝马和雷克萨斯差距有多大？跑趟高速才明白 当初看走眼</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312315.md" target="_blank">华为大动作? 上海子华为主管全退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312274.md" target="_blank">不准非裔进入！引众怒麦当劳广州分店道歉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312265.md" target="_blank">【明慧特稿】瘟疫有眼 退党脱险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312260.md" target="_blank">【明慧特稿】所谓“中国免费、美国自费”</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md" target="_blank">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312090.md" target="_blank">武汉疫情真相：持续现新病例 解封后仍严管</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md" target="_blank">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312072.md" target="_blank">单日暴增386例中共肺炎确诊</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md" target="_blank">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md" target="_blank">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md" target="_blank">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md" target="_blank">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312206.md" target="_blank">巴西逮捕10华人 上海同乡会长带头狂盗200万件医疗物资</a></li>
@@ -86,14 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311028.md" target="_blank">谭德塞又被打脸！ 白宫专家：病毒人传人早就发生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311027.md" target="_blank">全力遏制中共病毒传播 川普一声令下 美军展开三个大动作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311026.md" target="_blank">疫情是即将到来的大审判的前兆？民调：近半美国人相信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311020.md" target="_blank">北韩无疫情？ 脱北官员：可能会有300万人死亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311004.md" target="_blank">中国各地纷发停工通知：所有订单暂停 无工可复！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312322.md" target="_blank">推特上的中国：“中国民族主义到了疯狂的时候”，华裔记者推特救母遭网络围剿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312321.md" target="_blank">中国加紧对俄边境检查 新批2个新冠病毒灭活疫苗进入临床试验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312292.md" target="_blank">中国地质船返回越南近海，加剧中越紧张关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312291.md" target="_blank">「台湾女孩」触发中泰骂战　泰民众对中共霸权忍无可忍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312280.md" target="_blank">新冠疫情发哨医生艾芬报平安　疑非自愿安全仍受关注</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311773.md" target="_blank">中国管控病毒溯源论文的发表  鲍彤：共产党怕真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311772.md" target="_blank">非洲国家抗议广州对非裔种族歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311771.md" target="_blank">武汉商户再爆减租维权游行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311770.md" target="_blank">点赞中国抗疫？德国拒绝中国游说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311757.md" target="_blank">港澳办中联办点名谴责郭荣铿滥权　民主派：港人只会与中央政府愈行愈远</a></li>
 
 </ul>
 </div>
