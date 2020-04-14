@@ -16,13 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311837.md">大陆某军医系统专家的内部讲话传出可怕消息，免疫系统都毁了，中共病毒根本消灭不掉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311412.md">武汉嫂子怒骂围攻方方的小粉红是一群蛆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md">美退役准将警告：不要忘记中国共产党是什么</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311837.md">大陆某军医系统专家的内部讲话传出可怕消息，免疫系统都毁了，中共病毒根本消灭不掉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311817.md" target="_blank">自由亚洲电台重磅推出《岁月岂能静好》专题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md" target="_blank">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311985.md" target="_blank">等疫情结束后算帐？英情报机构：应重新审视与中共关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311979.md" target="_blank">文昭：台海骤紧，“珍珠港时刻”逼近？“群聚风险”引中非友谊广州翻船</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311652.md" target="_blank">中共做贼心虚？武汉新冠病毒论文未经审查不准发表</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311646.md" target="_blank">四直辖市、广东河北宣布高三开学时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311633.md" target="_blank">瘟疫促美国反思　多部门联手对抗中共舆论战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311624.md" target="_blank">谎言是党文化的核心 ——中共不等于中国</a></li>
 
 </ul>
 </div>
