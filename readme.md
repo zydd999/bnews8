@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312162.md">美华人：一夜之间 工作收入签证绿卡全没了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312229.md">iPhone 12全系曝光 这个卖点可确认</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312293.md">经济学者：中国是下一个委内瑞拉 人民币快变草纸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md">中共官媒又崩溃 美媒：气台湾成功了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311914.md">陈破空：北京头疼事，非洲要求中国免债。军心不稳，习近平出招防变！辽宁号有动静 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312279.md">极度雷人！这才是朝鲜人眼中的“中国”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md" target="_blank">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md" target="_blank">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md" target="_blank">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md" target="_blank">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200412/1310987.md" target="_blank">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311028.md" target="_blank">谭德塞又被打脸！ 白宫专家：病毒人传人早就发生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311027.md" target="_blank">全力遏制中共病毒传播 川普一声令下 美军展开三个大动作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1311026.md" target="_blank">疫情是即将到来的大审判的前兆？民调：近半美国人相信</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312396.md" target="_blank">香港泛民称北京指责立法会内务委员会“拉布”是践踏一国两制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312366.md" target="_blank">太平洋岛国瓦努阿图遭灾，中澳救援飞机机场较劲</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312362.md" target="_blank">时事大家谈：病毒起源 =政治红线？北京从严管控相关论文</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312361.md" target="_blank">时事大家谈：美国是否应该暂停对中国的惩罚性关税？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311856.md" target="_blank">西方发钱  中国发消费券  人们买账吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311853.md" target="_blank">驻华非洲国家大使联名抗议非洲裔在广州受歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311833.md" target="_blank">防疫不忘反贪？中共两高官落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311832.md" target="_blank">中国出口二季度预测下滑20%</a></li>
 
 </ul>
 </div>
