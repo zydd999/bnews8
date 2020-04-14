@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311586.md">深圳人悲喜交加：失业和房价上涨同时发生…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md">美退役准将警告：不要忘记中国共产党是什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311520.md">英媒：越来越多证据将中共病毒来源引至武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md">字谜动画：刘伯温预言的佐证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md">字谜动画：刘伯温预言的佐证</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312173.md" target="_blank">武汉肺炎期间网络严审宗教内容 信徒多个社交软件聚会遭封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311982.md" target="_blank">美报告：中国解放军或将“借船出海”玩转推特</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311896.md" target="_blank">英国情报机构据报敦促疫情后重新评估对华关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1311876.md" target="_blank">新华社“疫情纪事”距离真相有多远?(2) (国际合作篇)</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311726.md" target="_blank">中资公司控制英国芯片公司受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311725.md" target="_blank">罗马教宗复活节哀悼新冠病亡者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311724.md" target="_blank">吹哨人艾芬医生被失踪 人权组织关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200413/1311723.md" target="_blank">中国辽宁号航母群驶出第一岛链</a></li>
 
 </ul>
 </div>
