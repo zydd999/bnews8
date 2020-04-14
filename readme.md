@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311607.md">方方日记将在欧美出版 方方再发声怼胡锡进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200413/1311547.md">大陆5地已被列为重点疫区 美国面对疫情做出惊人举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311837.md">大陆某军医系统专家的内部讲话传出可怕消息，免疫系统都毁了，中共病毒根本消灭不掉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311541.md">北京大撒币 面对非洲多国抗议歧视“战狼”赵立坚大转性?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311586.md">深圳人悲喜交加：失业和房价上涨同时发生…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312002.md">性侵养女案牵出大陆送养黑产链 多卖给禽兽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312001.md">曹德旺：全球产业链去中国化是一个趋势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312120.md">中南海内忧外患 习近平有不祥预感</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md">字谜动画：刘伯温预言的佐证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
