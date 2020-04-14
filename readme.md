@@ -11,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311541.md">北京大撒币 面对非洲多国抗议歧视“战狼”赵立坚大转性?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311586.md">深圳人悲喜交加：失业和房价上涨同时发生…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311837.md">大陆某军医系统专家的内部讲话传出可怕消息，免疫系统都毁了，中共病毒根本消灭不掉</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311410.md">美日台脱中恐影响中国2.2亿人就业 对中共政权维稳造成庞大压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311455.md">台湾怒掴世卫 谭德赛身份竟然是 …阿波罗网率先惊觉人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312062.md" target="_blank">专栏作家：中共有渗透国际组织为己谋利历史</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312061.md" target="_blank">大陆八旬老太遭绑架 家人被讹4 000元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312022.md" target="_blank">美国参议员：中朝伊俄已成&quot;新邪恶轴心国&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md" target="_blank">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311817.md" target="_blank">自由亚洲电台重磅推出《岁月岂能静好》专题</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311677.md" target="_blank">千万人恐失业 中国现劳工抗议声浪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311672.md" target="_blank">中国抗疫新难题 网曝广州麦当劳拒非裔入店 非洲不满发酵引关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311667.md" target="_blank">经济界预测中国大举基建促复苏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311666.md" target="_blank">艾芬失联两周 记者无疆界寻人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311652.md" target="_blank">中共做贼心虚？武汉新冠病毒论文未经审查不准发表</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312060.md" target="_blank">北京公司萧条 一些商铺面临倒闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md" target="_blank">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md" target="_blank">字谜动画：刘伯温预言的佐证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md" target="_blank">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310673.md" target="_blank">环球时报又开始撒谎了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310672.md" target="_blank">中共买通非洲操纵世卫 欧洲不满 法媒曝光中共操纵国际组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310671.md" target="_blank">美国肉业突传数百病例引川普关注 粮食安全存隐忧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310670.md" target="_blank">美企从中国回流美国 库德洛提议：可负担「搬家费」</a></li>
 
 </ul>
 </div>
