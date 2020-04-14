@@ -15,11 +15,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md">美退役准将警告：不要忘记中国共产党是什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311520.md">英媒：越来越多证据将中共病毒来源引至武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1311799.md">「花木兰」全球票房仅847美元？中国网友全傻眼了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312156.md" target="_blank">大陆民企现状：失业者人山人海 工厂机器被砸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md" target="_blank">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312060.md" target="_blank">北京公司萧条 一些商铺面临倒闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311711.md" target="_blank">习近平迎大考 王沪宁有多大仇恨？中国惨不忍睹 卫视都发不出工资了</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310675.md" target="_blank">网传广州官方通报：三元里查出上千黑人染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310674.md" target="_blank">笑喷！长征三号火箭坠毁四川 村民现场配音太有才了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310673.md" target="_blank">环球时报又开始撒谎了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200412/1310672.md" target="_blank">中共买通非洲操纵世卫 欧洲不满 法媒曝光中共操纵国际组织</a></li>
 
 </ul>
 </div>
