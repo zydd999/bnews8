@@ -17,8 +17,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312246.md">【耳边风】太子党又有白事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md">中共官媒又崩溃 美媒：气台湾成功了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md" target="_blank">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312537.md" target="_blank">法国外长召见中国驻法大使卢沙野 指中国使馆相关疫情言词违背两国合作精神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312528.md" target="_blank">华邮：美官员两年前就示警 武汉病毒研究所蝙蝠研究恐致流行病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312521.md" target="_blank">北京为何对亚洲邻国不客气？ &#8211; 要闻分析</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312243.md" target="_blank">广州非裔事件 王毅出面安抚 警告不中某些势力离间计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312227.md" target="_blank">中国疫情续指境外输入压力 无症状未减</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md" target="_blank">中共官媒又崩溃 美媒：气台湾成功了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312177.md" target="_blank">华春莹称中国享言论自由 美官员列9异议者打脸</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312582.md" target="_blank">美国参议员克鲁兹议案：制裁隐瞒疫情打压公众的中共官员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312581.md" target="_blank">谭德赛也成“两面人”？ 台湾外交部回应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312580.md" target="_blank">法国外交部召见中国大使  病毒言论再引风波</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312547.md" target="_blank">疫情当下 美中如何反垄断？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312530.md" target="_blank">国际政学界百人联署：中共威胁全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312522.md" target="_blank">疫情致农产品滞销 中国农民面临生存困境</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312359.md" target="_blank">广州非洲裔居民遭宗族歧视  麦当劳背锅道歉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312340.md" target="_blank">习冀全球赞美中国防疫工作　梦境落空美议长以「痴线」回赠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312339.md" target="_blank">担心Zoom安全　美众议员促停止使用</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312322.md" target="_blank">推特上的中国：“中国民族主义到了疯狂的时候”，华裔记者推特救母遭网络围剿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312321.md" target="_blank">中国加紧对俄边境检查 新批2个新冠病毒灭活疫苗进入临床试验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312292.md" target="_blank">中国地质船返回越南近海，加剧中越紧张关系</a></li>
 
 </ul>
 </div>
