@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312419.md" target="_blank">法媒：疫情下广州排斥非洲人种族主义浪潮激怒非洲舆论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312408.md" target="_blank">习近平在塞尔维亚被称习大哥受感谢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312403.md" target="_blank">武汉封城76天后在重创余波中缓慢苏醒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312392.md" target="_blank">武汉官场人事大调整 或未显&quot;秋后算账&quot;</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312160.md" target="_blank">澳法学家：国际社会可以借鉴“纽伦堡审判” 让中共承担赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312159.md" target="_blank">绥芬河告急 官方疫情数据却自相冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312145.md" target="_blank">江峰：川普揭“美国之音” 吃美国的饭砸美国的锅；台长阿曼达从第一份习近平家族贪腐调查到与中共的高层勾兑幕後</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312144.md" target="_blank">在俄华人偷渡回国躲疫 遭黑龙江悬赏抓捕</a></li>
 
 </ul>
 </div>
