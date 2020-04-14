@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312120.md">中南海内忧外患 习近平有不祥预感</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312293.md">经济学者：中国是下一个委内瑞拉 人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1311835.md">再看火星男孩2020大灾难警示，惊出一身冷汗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312293.md">经济学者：中国是下一个委内瑞拉 人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312162.md">美华人：一夜之间 工作收入签证绿卡全没了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
@@ -18,11 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312279.md">极度雷人！这才是朝鲜人眼中的“中国”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312246.md">【耳边风】太子党又有白事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md">中共官媒又崩溃 美媒：气台湾成功了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312117.md">33秒眨眼31次 “发哨人”艾芬医生自拍视频报平安?</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
