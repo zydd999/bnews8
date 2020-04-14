@@ -12,10 +12,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312071.md">成龙魔咒再次惊现江湖 网友：挺谁谁死！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md">美退役准将警告：不要忘记中国共产党是什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311590.md">中国抗疫也打贪 官方称今年首虎落马了 隔夜前还坐主席台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311520.md">英媒：越来越多证据将中共病毒来源引至武汉病毒研究所</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200414/1311752.md">中共教育部宣布终止234个中外办学机构和项目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md">字谜动画：刘伯温预言的佐证</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312020.md">中国人权理事会公使被吁取消资格 赵立坚又飙了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312169.md" target="_blank">英国情报部门呼吁重估跟中共的关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312160.md" target="_blank">澳法学家：国际社会可以借鉴“纽伦堡审判” 让中共承担赔偿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312159.md" target="_blank">绥芬河告急 官方疫情数据却自相冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312145.md" target="_blank">江峰：川普揭“美国之音” 吃美国的饭砸美国的锅；台长阿曼达从第一份习近平家族贪腐调查到与中共的高层勾兑幕後</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312144.md" target="_blank">在俄华人偷渡回国躲疫 遭黑龙江悬赏抓捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312124.md" target="_blank">河北沧州地震 居民下楼避难 北京天津有震感</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311914.md" target="_blank">陈破空：北京头疼事，非洲要求中国免债。军心不稳，习近平出招防变！辽宁号有动静</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311871.md" target="_blank">【一线采访】武汉人：不解封饿死 解封或病死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311840.md" target="_blank">法媒：疫情危机显示北京在联合国安插棋子运作有效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311811.md" target="_blank">专栏 | 夜话中南海：赵立坚“美军投毒”论    源于中共“首席军事理论专家”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311805.md" target="_blank">武汉实地查访 香港记者打脸中共「美军投毒论」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311789.md" target="_blank">五毛早已变七、八毛！传中共网军4月加薪14.3％</a></li>
 
 </ul>
 </div>
