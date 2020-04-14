@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312124.md" target="_blank">河北沧州地震 居民下楼避难 北京天津有震感</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312123.md" target="_blank">重新封路、封村… 河北邢台疫情恐再次爆发了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312122.md" target="_blank">在俄华人偷渡回国躲疫 没想到面临的竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312114.md" target="_blank">武汉解封 北京有小区封锁提最高级别</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md" target="_blank">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312090.md" target="_blank">武汉疫情真相：持续现新病例 解封后仍严管</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311789.md" target="_blank">五毛早已变七、八毛！传中共网军4月加薪14.3％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311753.md" target="_blank">德情报机关：北京试图拉拢德国为中国抗疫点赞 或遭拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1311743.md" target="_blank">广州危机发酵 中外交部急抚非洲使节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311733.md" target="_blank">陈破空：陈破空谈《常识》（之40）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311703.md" target="_blank">英国政界促政府干预 阻止中资收购战略资产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311701.md" target="_blank">中国发文严审论文国际发表 或引新批评</a></li>
 
 </ul>
 </div>
