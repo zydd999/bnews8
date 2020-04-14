@@ -11,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200413/1311586.md">深圳人悲喜交加：失业和房价上涨同时发生…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200414/1311854.md">〖兲朝浮世绘〗中共急收护照，是要搞新疆模式吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311522.md">中共数据遭各国质疑 钟南山坚称：没造假 网友齐喷：老贼！...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200413/1311510.md">港大新研究：中共病毒不仅48小时繁殖百倍还藏有更可怕之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200413/1311647.md">早上起床 第一件事不是排便或喝水 早知道早受益</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312114.md" target="_blank">武汉解封 北京有小区封锁提最高级别</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312097.md" target="_blank">日媒指这次大瘟疫是中共“人祸” 赵立坚气炸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312090.md" target="_blank">武汉疫情真相：持续现新病例 解封后仍严管</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312089.md" target="_blank">哈尔滨急诊数千人排队挂号 二次爆发？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311733.md" target="_blank">陈破空：陈破空谈《常识》（之40）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311703.md" target="_blank">英国政界促政府干预 阻止中资收购战略资产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311701.md" target="_blank">中国发文严审论文国际发表 或引新批评</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200413/1311685.md" target="_blank">再提习近平写条子力挺 中国战狼外交发言 港媒撰指不利北京国际形象</a></li>
 
 </ul>
 </div>
