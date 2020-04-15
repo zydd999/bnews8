@@ -14,9 +14,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md" target="_blank">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313137.md" target="_blank">香港法律界选委：呼吁中央尊重《基本法》对司法独立所作出的庄严承诺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313106.md" target="_blank">中俄外长通话：同意保障在俄中国公民健康安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313073.md" target="_blank">中国多地出现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 中共封群封号加强网控</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312893.md" target="_blank">法国外长“训诫”中共驻法大使 因不当言词</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312888.md" target="_blank">陆媒报美国人排队领救济 评论区“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312878.md" target="_blank">推特账号被赵立坚屏蔽 美官员嘲讽：怕单挑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md" target="_blank">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313266.md" target="_blank">美国暂停金援世卫  欧盟深感遗憾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313265.md" target="_blank">批中隐瞒疫情  加拿大掀起制裁中国官员声浪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313254.md" target="_blank">俄罗斯台商: 俄罗斯驱逐百万非法中国移?是事实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313217.md" target="_blank">中共严控病毒溯源论文    发表须先报部委审批</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313202.md" target="_blank">二十国集团财长决议：暂停贫困国家债务  应对疫情</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313108.md" target="_blank">美国会启动新冠病毒调查    中方：严重关切暂停资助WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313107.md" target="_blank">全球新冠疫情感染者近200万   中方通报无症状者6700多人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313100.md" target="_blank">时事大家谈： 暴力驱离引发非洲国家抗议，北京否认“歧视非洲兄弟”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313099.md" target="_blank">印度高官减薪抗疫，受财政压力中国官员会否“抄作业”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313093.md" target="_blank">台湾以抗击新冠病毒外交涉入竞争激烈的太平洋政治</a></li>
 
 </ul>
 </div>
