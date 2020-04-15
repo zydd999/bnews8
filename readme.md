@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200414/1312293.md">经济学者：中国是下一个委内瑞拉 人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
@@ -12,18 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200415/1312503.md">共军别嚣张！美军关岛B-52H核战略轰炸机秀「大象漫步」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313041.md" target="_blank">台湾登纽时广告暗批WHO称遭孤立但能助防疫世卫反驳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313037.md" target="_blank">安倍在东盟与日中韩首脑视频峰会上强调要维持防护服供应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313033.md" target="_blank">吉林松原乾安县三车连撞 至少12死4伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312953.md" target="_blank">法国媒体揭露中共如何操控世界组织</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312869.md" target="_blank">灾祸连连 山东巨野县爆发禽流感 两个半小时数万只鸡暴毙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md" target="_blank">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312844.md" target="_blank">发起索赔！美参院法案追责中共隐瞒疫情 制裁涉事官员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312843.md" target="_blank">陆媒报美国人排队领救济 网友评论如潮</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313050.md" target="_blank">杨润雄：中学文凭试下周五开考　目标于7月22日放榜</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313049.md" target="_blank">台官员：中国上月购5000万吨米     陆学者：商人囤积粮食牟利</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md" target="_blank">【耳边风】任志强的红二代关系网</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313045.md" target="_blank">中国黑龙江成抗疫第一线，专家称绥芬河形势严峻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313039.md" target="_blank">中联办副主任人事变动         江西帮杨健被免职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312978.md" target="_blank">北京全方位向港府施压　司法体系同时告急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312930.md" target="_blank">全能神教会难民：意大利最高法院带来的希望</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312522.md" target="_blank">疫情致农产品滞销 中国农民面临生存困境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312511.md" target="_blank">台湾全球防疫论坛  加拿大专家分享意见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312510.md" target="_blank">IMF吁减免穷国债务 中国能否展现“大国担当”？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312509.md" target="_blank">华春莹翻墙自夸“言论自由”    遭美国官员呛声</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312508.md" target="_blank">广西人权律师覃永沛家属维权   妻子遭警方威胁抓捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312486.md" target="_blank">《纽时》全版广告：WHO能帮助？台湾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312462.md" target="_blank">研究显示：中国借助美国网络平台  打造“救世”形象</a></li>
 
 </ul>
 </div>
