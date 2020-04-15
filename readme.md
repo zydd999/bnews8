@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312220.md">中共官媒又崩溃 美媒：气台湾成功了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312526.md">〖兲朝浮世绘〗看来习近平的日子最近不好过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312526.md">〖兲朝浮世绘〗看来习近平的日子最近不好过</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200414/1312190.md">身体有4个表现 说明血液已“黏稠如粥” 谨记6个字 血管更畅通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200414/1312276.md">泰国正妹因像「台湾女孩」风格　中网民逼道歉反遭多国呛爆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1312170.md">任正非卸任上海华为董事 总裁孙亚芳也离职 华为高层大洗牌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312878.md" target="_blank">推特账号被赵立坚屏蔽 美官员嘲讽：怕单挑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md" target="_blank">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312876.md" target="_blank">英首相病重44万中国人点赞 崔永元：怎么这么多流氓？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312871.md" target="_blank">蚌埠出现随地倒 没人敢靠近</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312870.md" target="_blank">爆料梁家河工程欠薪 媒体人遭训</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312869.md" target="_blank">灾祸连连 山东巨野县爆发禽流感 两个半小时数万只鸡暴毙</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312520.md" target="_blank">美官员传两年前就示警 武汉蝙蝠研究恐致流行病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312419.md" target="_blank">法媒：疫情下广州排斥非洲人种族主义浪潮激怒非洲舆论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312408.md" target="_blank">习近平在塞尔维亚被称习大哥受感谢</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312403.md" target="_blank">武汉封城76天后在重创余波中缓慢苏醒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312392.md" target="_blank">武汉官场人事大调整 或未显&quot;秋后算账&quot;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200414/1312371.md" target="_blank">病毒杀伤力 疫情后全球产业链威胁去中国化</a></li>
 
 </ul>
 </div>
