@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313106.md" target="_blank">中俄外长通话：同意保障在俄中国公民健康安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313073.md" target="_blank">中国多地出现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 中共封群封号加强网控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313064.md" target="_blank">英国军情六局前局长：中国隐瞒了新冠病毒初期的暴发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313063.md" target="_blank">中国民航一季度全行业累计亏损逾398亿元 3月访港旅客下跌99%</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312878.md" target="_blank">推特账号被赵立坚屏蔽 美官员嘲讽：怕单挑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md" target="_blank">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312876.md" target="_blank">英首相病重44万中国人点赞 崔永元：怎么这么多流氓？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312871.md" target="_blank">蚌埠出现随地倒 没人敢靠近</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313105.md" target="_blank">第二波蝗虫大军来了！规模比上次大20倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313111.md" target="_blank">时事大家谈：脱钩呼声此起彼伏 疫情过后中国向谁开放？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313110.md" target="_blank">特朗普决暂停世卫经费 　 联国秘书长指抗疫时期应团结</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313109.md" target="_blank">美议员函谭德塞拿疫情通讯　  将办听证会查世卫助中国隐瞒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313108.md" target="_blank">美国会启动新冠病毒调查    中方：严重关切暂停资助WHO</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313107.md" target="_blank">全球新冠疫情感染者近200万   中方通报无症状者6700多人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313100.md" target="_blank">时事大家谈： 暴力驱离引发非洲国家抗议，北京否认“歧视非洲兄弟”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313099.md" target="_blank">印度高官减薪抗疫，受财政压力中国官员会否“抄作业”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313093.md" target="_blank">台湾以抗击新冠病毒外交涉入竞争激烈的太平洋政治</a></li>
@@ -113,12 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312930.md" target="_blank">全能神教会难民：意大利最高法院带来的希望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312926.md" target="_blank">大外宣转守为攻，解放军也想翻墙建推特？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312925.md" target="_blank">战狼外交思维再惹祸   哈萨克急召中国大使抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312902.md" target="_blank">新疆学校开「吃猪肉」课汉化维族师生 杜绝维语强推汉语教育</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312883.md" target="_blank">美国州议员：疫情染遍全世界，中共“红手”试图伸进美议会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312867.md" target="_blank">致函世卫索取资料 美国会正式启动新冠病毒调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312817.md" target="_blank">特朗普宣布暂停资助世卫组织</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312755.md" target="_blank">疫情吹哨人艾芬失联两周后首报平安 有网友质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312744.md" target="_blank">美科学家证实新冠病毒并非起源美国</a></li>
 
 </ul>
 </div>
