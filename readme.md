@@ -2,10 +2,10 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312526.md">〖兲朝浮世绘〗看来习近平的日子最近不好过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200415/1312503.md">共军别嚣张！美军关岛B-52H核战略轰炸机秀「大象漫步」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313175.md" target="_blank">在中国的非洲人抱怨与新冠病毒疫情有关的歧视</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313174.md" target="_blank">台湾抗疫超前部署  原来是看到了李文亮的贴文</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313167.md" target="_blank">搜狐发文称哈国渴望加入中国引起外交纠纷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313148.md" target="_blank">英国议员：中国正试图利用全球疫情控制高科技公司</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313147.md" target="_blank">世卫大会议题不含疫情   台媒：替中国背书</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313060.md" target="_blank">北京全方位向港府施压   司法独立岌岌可危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313059.md" target="_blank">科研竞争中方不择手段 　  美新冠肺炎药在华实验受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313054.md" target="_blank">被称为最开明中共总书记胡耀邦去世31周年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313050.md" target="_blank">杨润雄：中学文凭试下周五开考　目标于7月22日放榜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313049.md" target="_blank">台官员：中国上月购5000万吨米     陆学者：商人囤积粮食牟利</a></li>
 
 </ul>
 </div>
