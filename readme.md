@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312888.md">陆媒报美国人排队领救济 评论区“翻车”了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200415/1312503.md">共军别嚣张！美军关岛B-52H核战略轰炸机秀「大象漫步」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md" target="_blank">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313160.md" target="_blank">美国第2波裁员潮来袭！华尔街日报：白领也将受冲击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md" target="_blank">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md" target="_blank">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md" target="_blank">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md" target="_blank">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
@@ -85,15 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md" target="_blank">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md" target="_blank">美退役准将警告：不要忘记中国共产党是什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md" target="_blank">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311517.md" target="_blank">机密文件曝光：中共游说德国官员帮美言 结果…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311488.md" target="_blank">震惊！停尸房中 她竟然尚有呼吸 呼叫声中竟流下两行眼泪！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311487.md" target="_blank">美参议员：将中共从联合国等国际机构中的突出地位降级</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313167.md" target="_blank">搜狐发文称哈国渴望加入中国引起外交纠纷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313148.md" target="_blank">英国议员：中国正试图利用全球疫情控制高科技公司</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313147.md" target="_blank">世卫大会议题不含疫情   台媒：替中国背书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313144.md" target="_blank">美驻华大使：疫情防控当务之急，美中分歧留待疫后解决</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313054.md" target="_blank">被称为最开明中共总书记胡耀邦去世31周年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313050.md" target="_blank">杨润雄：中学文凭试下周五开考　目标于7月22日放榜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313049.md" target="_blank">台官员：中国上月购5000万吨米     陆学者：商人囤积粮食牟利</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md" target="_blank">【耳边风】任志强的红二代关系网</a></li>
 
 </ul>
 </div>
