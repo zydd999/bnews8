@@ -6,16 +6,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313356.md" target="_blank">陈破空：外交丰收！王沪宁惹毛了多少国？习主席救不了谭书记。中泰网民大战好精彩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313352.md" target="_blank">德国谨慎放宽防疫管控</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md" target="_blank">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313330.md" target="_blank">保持一米距离 足够安全吗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313324.md" target="_blank">法国航母戴高乐号三分一船员确诊感染新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313309.md" target="_blank">法国外长：应对新冠疫情 世卫运作存在“缺失”</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312957.md" target="_blank">防疫漏洞 多地出现持湖北绿码的确诊病患</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312945.md" target="_blank">加拿大人狂怒！总理特鲁多一家 长周末出游</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312934.md" target="_blank">纳瓦罗：世卫偏袒中共导致疫情大爆发 手上满沾鲜血</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312909.md" target="_blank">江峰：川普老辣，呛美国之音前先做这事儿；曝光王又又的凤凰卫视在美秘密行动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312905.md" target="_blank">非蝗20倍再袭！中国6月将进入高风险期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312904.md" target="_blank">多国禁出口 学者：大陆不动员种粮恐现粮荒</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313347.md" target="_blank">在华非洲人士受到不人道对待的背后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313346.md" target="_blank">艾芬现身  美官员要见她  华春莹说什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313286.md" target="_blank">蓬佩奥与杨洁篪通话，强调抗疫透明的重要性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313283.md" target="_blank">特朗普追责暂停注资    世卫：将寻求新资金来源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313266.md" target="_blank">美国暂停金援世卫  欧盟深感遗憾</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313105.md" target="_blank">第二波蝗虫大军来了！规模比上次大20倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313111.md" target="_blank">时事大家谈：脱钩呼声此起彼伏 疫情过后中国向谁开放？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313110.md" target="_blank">特朗普决暂停世卫经费 　 联国秘书长指抗疫时期应团结</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313109.md" target="_blank">美议员函谭德塞拿疫情通讯　  将办听证会查世卫助中国隐瞒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313108.md" target="_blank">美国会启动新冠病毒调查    中方：严重关切暂停资助WHO</a></li>
 
 </ul>
 </div>
