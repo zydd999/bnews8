@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
