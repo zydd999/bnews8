@@ -3,14 +3,13 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312914.md">一剑飘尘&#65306;武汉病毒到底是不是习近平预谋的&#65311;</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313309.md" target="_blank">法国外长：应对新冠疫情 世卫运作存在“缺失”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md" target="_blank">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313137.md" target="_blank">香港法律界选委：呼吁中央尊重《基本法》对司法独立所作出的庄严承诺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313106.md" target="_blank">中俄外长通话：同意保障在俄中国公民健康安全</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312904.md" target="_blank">多国禁出口 学者：大陆不动员种粮恐现粮荒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312893.md" target="_blank">法国外长“训诫”中共驻法大使 因不当言词</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312888.md" target="_blank">陆媒报美国人排队领救济 评论区“翻车”了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312878.md" target="_blank">推特账号被赵立坚屏蔽 美官员嘲讽：怕单挑</a></li>
 
 </ul>
 </div>
