@@ -2,28 +2,28 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312526.md">〖兲朝浮世绘〗看来习近平的日子最近不好过</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313202.md" target="_blank">二十国集团财长决议：暂停贫困国家债务  应对疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313201.md" target="_blank">澳大利亚沃加沃加市表决：终止与昆明友好城市关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313180.md" target="_blank">剑桥大学学者：新冠病毒传播始于中国，地点或是广东</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313179.md" target="_blank">覃永沛案牵涉国家机密恐遭秘密审讯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313178.md" target="_blank">中国网文激怒哈萨克斯坦  哈国急召中国大使提抗议</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313093.md" target="_blank">台湾以抗击新冠病毒外交涉入竞争激烈的太平洋政治</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313092.md" target="_blank">地方隐瞒疫情北京设防火墙  进京要经过多重审查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313091.md" target="_blank">世卫发声明还击台湾民众批评　立委指文过饰非不可信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313074.md" target="_blank">多项调查预测：今年中国经济增速创44年最低记录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313061.md" target="_blank">WHO can help？台湾登纽时广告 WHO13点声明回应</a></li>
 
 </ul>
 </div>
