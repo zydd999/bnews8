@@ -7,11 +7,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312279.md">极度雷人！这才是朝鲜人眼中的“中国”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312526.md">〖兲朝浮世绘〗看来习近平的日子最近不好过</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际 </a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312716.md">张杰：更大危机逼近 中共将迎来至暗时刻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200414/1312276.md">泰国正妹因像「台湾女孩」风格　中网民逼道歉反遭多国呛爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313033.md" target="_blank">吉林松原乾安县三车连撞 至少12死4伤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312953.md" target="_blank">法国媒体揭露中共如何操控世界组织</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312954.md" target="_blank">国际百名政要专家　谴责中共掩盖疫情真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313032.md" target="_blank">中国续推香港订定国家安全法例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313027.md" target="_blank">天灾人祸？湖北宜昌、四川攀枝花下大冰雹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313026.md" target="_blank">中泰网民骂战升至官方层面中使馆称泰人支持一中遭网民狂喷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312997.md" target="_blank">中共情报机构对外友协换人 李先念女退休</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312844.md" target="_blank">发起索赔！美参院法案追责中共隐瞒疫情 制裁涉事官员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312843.md" target="_blank">陆媒报美国人排队领救济 网友评论如潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md" target="_blank">一位大陆媒体人和警察在饭桌上的对话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312841.md" target="_blank">【现场视频】黑河对岸多名华人无法回国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312840.md" target="_blank">成都女护士拒领导“约饭”遭解聘 网络炸锅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md" target="_blank">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312763.md" target="_blank">武汉肺炎中共封锁讯息 美国参议员提案制裁中共官员</a></li>
 
 </ul>
 </div>
