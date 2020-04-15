@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200414/1312286.md">普京不再粉饰太平：必要时动用军队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200415/1312449.md">左媒记者为攻击川普不断变立场 彭斯一句话令其哑口无言</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200414/1312190.md">身体有4个表现 说明血液已“黏稠如粥” 谨记6个字 血管更畅通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200414/1312276.md">泰国正妹因像「台湾女孩」风格　中网民逼道歉反遭多国呛爆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200414/1312170.md">任正非卸任上海华为董事 总裁孙亚芳也离职 华为高层大洗牌</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312883.md" target="_blank">美国州议员：疫情染遍全世界，中共“红手”试图伸进美议会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312867.md" target="_blank">致函世卫索取资料 美国会正式启动新冠病毒调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312817.md" target="_blank">特朗普宣布暂停资助世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312755.md" target="_blank">疫情吹哨人艾芬失联两周后首报平安 有网友质疑</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1312409.md" target="_blank">蔡英文防疫有成登福布斯 台湾再次“清零”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312404.md" target="_blank">西藏首富多吉扎西申诉案律师被禁代理该案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312396.md" target="_blank">香港泛民称北京指责立法会内务委员会“拉布”是践踏一国两制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200414/1312366.md" target="_blank">太平洋岛国瓦努阿图遭灾，中澳救援飞机机场较劲</a></li>
 
 </ul>
 </div>
