@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313283.md" target="_blank">特朗普追责暂停注资    世卫：将寻求新资金来源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313266.md" target="_blank">美国暂停金援世卫  欧盟深感遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313265.md" target="_blank">批中隐瞒疫情  加拿大掀起制裁中国官员声浪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313254.md" target="_blank">俄罗斯台商: 俄罗斯驱逐百万非法中国移?是事实</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313109.md" target="_blank">美议员函谭德塞拿疫情通讯　  将办听证会查世卫助中国隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313108.md" target="_blank">美国会启动新冠病毒调查    中方：严重关切暂停资助WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313107.md" target="_blank">全球新冠疫情感染者近200万   中方通报无症状者6700多人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313100.md" target="_blank">时事大家谈： 暴力驱离引发非洲国家抗议，北京否认“歧视非洲兄弟”</a></li>
 
 </ul>
 </div>
