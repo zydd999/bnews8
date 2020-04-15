@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312550.md">爱马仕广州店一天业绩270万美金！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200415/1312620.md">一个富豪床上的4个女人 看完男人女人都沉默了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312526.md">〖兲朝浮世绘〗看来习近平的日子最近不好过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312629.md">陈破空：习近平还能撑多久？邓家族加盟倒习！特朗普重大暗示。蔡英文风光国际 </a></li>
@@ -18,12 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200415/1312523.md">“千万不可轻视”－一名26岁新冠患者的忠告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md" target="_blank">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md" target="_blank">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313160.md" target="_blank">美国第2波裁员潮来袭！华尔街日报：白领也将受冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md" target="_blank">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200413/1311530.md" target="_blank">字谜动画：刘伯温预言的佐证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311606.md" target="_blank">大撒币白瞎了 非洲多国抗议！战狼变哈士奇 赵立坚大转性？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311571.md" target="_blank">美退役准将警告：不要忘记中国共产党是什么</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200413/1311553.md" target="_blank">机密文件曝光：中共游说惨败 华春莹惹祸 美国要和任志强谈谈</a></li>
 
 </ul>
 </div>
