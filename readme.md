@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312914.md">一剑飘尘&#65306;武汉病毒到底是不是习近平预谋的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312888.md">陆媒报美国人排队领救济 评论区“翻车”了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313453.md" target="_blank">广州危急？广州天马服装批发市场门口出现随地倒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313442.md" target="_blank">中共的另类“一带一路” 谭德塞曾力挺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313437.md" target="_blank">江峰：中共外交官要求美参议员赞颂中共防疫措施，遭美参议员着名粗口回敬；美国参谋长联席会议主席称启动美军侦查手段搞清中共病毒来源，独家介绍美军侦测手段好用麽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313416.md" target="_blank">内幕：1月中关键6天 中共瞒疫情酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313122.md" target="_blank">疫情透视 小国比利时为何发生大疫情？</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313037.md" target="_blank">安倍在东盟与日中韩首脑视频峰会上强调要维持防护服供应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313033.md" target="_blank">吉林松原乾安县三车连撞 至少12死4伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312953.md" target="_blank">法国媒体揭露中共如何操控世界组织</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312954.md" target="_blank">国际百名政要专家　谴责中共掩盖疫情真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313032.md" target="_blank">中国续推香港订定国家安全法例</a></li>
 
 </ul>
 </div>
