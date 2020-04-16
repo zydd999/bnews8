@@ -1,22 +1,21 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313176.md">邓聿文：习近平为什么害怕任志强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313585.md">中共”红头文件“诡异曝光 是谁出卖习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313270.md">港媒：中国“病人”习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313453.md">广州危急？广州天马服装批发市场门口出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313534.md">揭秘中国银行存款大增噩耗 撤资潮兴起 经济靠债务拉动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313611.md">习近平这回真急了 全球追责 美日带头给中共大放血 中共要完活？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313570.md">失业飙高 中国官员：2020年后将回到朝鲜时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313647.md">中泰网战升级 中共驻泰大使馆再被完虐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313660.md">武汉惊现讨伐方方的大字报 艾芬被国安控制 习近平已草木皆兵！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313570.md">失业飙高 中国官员：2020年后将回到朝鲜时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313630.md">蝗虫敲响中国大门！上海现踪 规模恐超20倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313387.md">飞蛾扑火？传华尔街向中国市场押下重注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313476.md">联合国查中共病毒起源　若人工合成 将以反人类论处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313792.md" target="_blank">郭伯雄余毒未了？中共乘机在香港再推23条</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313791.md" target="_blank">美联社：中国高官1月14日即知疫情严重 中国驻意大使批“中方隐瞒疫情论”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313788.md" target="_blank">大陆多地现湖北绿码患者 河北疫情严重封闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313774.md" target="_blank">一季度中国关闭816家违法网站 网易新浪凤凰被约谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313764.md" target="_blank">巨压之下 《方方日记》德文版封面改版</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md" target="_blank">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313629.md" target="_blank">蝗虫在上海现踪 开始敲中国大门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313621.md" target="_blank">前美官员投书 吁川普推台湾专家任世卫秘书长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313615.md" target="_blank">公开起诉政府隐瞒疫情 谭军：必须有人担责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313614.md" target="_blank">现场视频：疫情下 中共又开始挖坟圈地</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313611.md" target="_blank">习近平这回真急了 全球追责 美日带头给中共大放血 中共要完活？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313596.md" target="_blank">突发！长沙月湖大市场着火 浓烟滚滚</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313795.md" target="_blank">中国舆论评说特朗普对世卫“动真格”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313794.md" target="_blank">百多名国际知名人士联署：中共隐瞒疫情  一党专制危害所有</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313793.md" target="_blank">中国官媒借台湾记者身份闯白宫   台湾陆委会：违法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313785.md" target="_blank">昆士兰大学学生声援香港批校亲中      面临被开除处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313777.md" target="_blank">美国表示中国可能进行了低当量核试爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313760.md" target="_blank">中国承诺不会限制防疫物质出口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313748.md" target="_blank">胡耀邦忌日亲朋故旧纪念 学者称中国知识界盼体改忧倒退</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313392.md" target="_blank">中国积极发展远程作战能力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313347.md" target="_blank">在华非洲人士受到不人道对待的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313346.md" target="_blank">艾芬现身  美官员要见她  华春莹说什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313286.md" target="_blank">蓬佩奥与杨洁篪通话，强调抗疫透明的重要性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313283.md" target="_blank">特朗普追责暂停注资    世卫：将寻求新资金来源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313266.md" target="_blank">美国暂停金援世卫  欧盟深感遗憾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313265.md" target="_blank">批中隐瞒疫情  加拿大掀起制裁中国官员声浪</a></li>
 
 </ul>
 </div>
