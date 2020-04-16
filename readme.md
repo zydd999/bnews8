@@ -15,7 +15,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313570.md">失业飙高 中国官员：2020年后将回到朝鲜时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313670.md">中国退休干部勾结境外召募「敢死队」企图颠覆政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313704.md">澳洲不戴口罩抗疫出奇迹 20天迎来疫情拐点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313476.md">联合国查中共病毒起源　若人工合成 将以反人类论处</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313495.md">为中共输血30年 德国汽车工业陷入空前危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313591.md">好恐怖！北京司机驾车途中猝死 疫情严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200416/1313463.md">在铁的事实面前 还好意思骂美国吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313671.md">马克龙后院放火，一带一路或遭毁灭打击</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313958.md" target="_blank">马克龙：中国处理新冠病毒疫情“存在灰色地带”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313857.md" target="_blank">亚马逊法国分公司复工日期有待确立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313847.md" target="_blank">方方遭大字报攻击 要她交出财产以死谢罪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313823.md" target="_blank">武汉街头惊现威胁方方大字报：要求“削发为尼或以死谢罪”</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313648.md" target="_blank">港媒揭谭德塞染红内幕：由陈冯富珍上位开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313637.md" target="_blank">谭德塞避谈“孤立台湾” 手下抛出“金挡箭牌”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313636.md" target="_blank">分析：中国疫情数据随中共政治决定“跳跃”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313635.md" target="_blank">霍尔木兹海峡新事件 武装分子登上中国船只</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313966.md" target="_blank">中国外交战狼层出不穷  要取悦习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313942.md" target="_blank">美媒：新冠病毒或源自武汉病毒所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313941.md" target="_blank">湄公河雨季闹旱灾  祸首是中国？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313933.md" target="_blank">新的户口改革是全面放开 还是新的长城？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313785.md" target="_blank">昆士兰大学学生声援香港批校亲中      面临被开除处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313777.md" target="_blank">美国表示中国可能进行了低当量核试爆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313760.md" target="_blank">中国承诺不会限制防疫物质出口</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313748.md" target="_blank">胡耀邦忌日亲朋故旧纪念 学者称中国知识界盼体改忧倒退</a></li>
 
 </ul>
 </div>
