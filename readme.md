@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313453.md">广州危急？广州天马服装批发市场门口出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313534.md">揭秘中国银行存款大增噩耗 撤资潮兴起 经济靠债务拉动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313611.md">习近平这回真急了 全球追责 美日带头给中共大放血 中共要完活？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313647.md">中泰网战升级 中共驻泰大使馆再被完虐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313660.md">武汉惊现讨伐方方的大字报 艾芬被国安控制 习近平已草木皆兵！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313647.md">中泰网战升级 中共驻泰大使馆再被完虐！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313534.md">揭秘中国银行存款大增噩耗 撤资潮兴起 经济靠债务拉动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313570.md">失业飙高 中国官员：2020年后将回到朝鲜时代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313611.md">习近平这回真急了 全球追责 美日带头给中共大放血 中共要完活？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313630.md">蝗虫敲响中国大门！上海现踪 规模恐超20倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313570.md">失业飙高 中国官员：2020年后将回到朝鲜时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313387.md">飞蛾扑火？传华尔街向中国市场押下重注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313717.md">3大院士联手迫停瑞德西韦 北京广州哈尔滨最新消息 细思极惨！官版:至少400孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313476.md">联合国查中共病毒起源　若人工合成 将以反人类论处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md" target="_blank">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313717.md" target="_blank">3大院士联手迫停瑞德西韦 北京广州哈尔滨最新消息 细思极惨！官版:至少400孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313693.md" target="_blank">重磅特稿：不禁足 台湾抗疫成绩亮眼的秘诀何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313706.md" target="_blank">与中共签署“一带一路” 深陷债务 厄瓜多尔出售亚马逊雨林给中企</a></li>
@@ -87,13 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md" target="_blank">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md" target="_blank">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md" target="_blank">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312206.md" target="_blank">巴西逮捕10华人 上海同乡会长带头狂盗200万件医疗物资</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313814.md" target="_blank">香港前立法会议员中联办前抗议遇袭 轻微受伤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313810.md" target="_blank">英国前情报总监:西方必须努力阻止中国购买西方技术</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313795.md" target="_blank">中国舆论评说特朗普对世卫“动真格”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313794.md" target="_blank">百多名国际知名人士联署：中共隐瞒疫情  一党专制危害所有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313793.md" target="_blank">中国官媒借台湾记者身份闯白宫   台湾陆委会：违法</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313707.md" target="_blank">【耳边风】「奶茶联盟」横空出世　「七毛网军」功不可抹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md" target="_blank">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313392.md" target="_blank">中国积极发展远程作战能力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313347.md" target="_blank">在华非洲人士受到不人道对待的背后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313346.md" target="_blank">艾芬现身  美官员要见她  华春莹说什么？</a></li>
 
 </ul>
 </div>
