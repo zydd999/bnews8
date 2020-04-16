@@ -12,17 +12,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313270.md">港媒：中国“病人”习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313176.md">邓聿文：习近平为什么害怕任志强</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200415/1313089.md">邱家军：中共为保船，欲换习乱乱 699 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312914.md">一剑飘尘&#65306;武汉病毒到底是不是习近平预谋的&#65311;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200415/1313089.md">邱家军：中共为保船，欲换习乱乱 699 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312945.md">加拿大人狂怒！总理特鲁多一家 长周末出游</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312945.md">加拿大人狂怒！总理特鲁多一家 长周末出游</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313387.md">飞蛾扑火？传华尔街向中国市场押下重注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313030.md">太子党又有白事</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313596.md" target="_blank">突发！长沙月湖大市场着火 浓烟滚滚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313591.md" target="_blank">好恐怖！北京司机驾车途中猝死 疫情严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313585.md" target="_blank">中共”红头文件“诡异曝光 是谁出卖习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313580.md" target="_blank">在俄台商：俄罗斯驱逐数十万非法中国移?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313579.md" target="_blank">外国人不戴口罩 被北京保安摁翻在地</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313122.md" target="_blank">疫情透视 小国比利时为何发生大疫情？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313382.md" target="_blank">西藏悲歌！海拔3250高山群爆发森林大火 全面燃烧中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313376.md" target="_blank">法国世界报：中国推进地缘政治棋子 试图改写疫情大流行历史 &#8211; 法国世界报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313356.md" target="_blank">陈破空：外交丰收！王沪宁惹毛了多少国？习主席救不了谭书记。中泰网民大战好精彩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313352.md" target="_blank">德国谨慎放宽防疫管控</a></li>
 
 </ul>
 </div>
