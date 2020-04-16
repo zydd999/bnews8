@@ -7,9 +7,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313048.md">【耳边风】任志强的红二代关系网</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313270.md">港媒：中国“病人”习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313176.md">邓聿文：习近平为什么害怕任志强</a></li>
@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312888.md">陆媒报美国人排队领救济 评论区“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313030.md">太子党又有白事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312945.md">加拿大人狂怒！总理特鲁多一家 长周末出游</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
