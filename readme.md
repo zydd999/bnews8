@@ -4,9 +4,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312826.md">疫情恐慌蔓延 传中共开始收缴个人护照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312877.md">中南海急了！汪洋罕见约谈县委书记胡春华旁听</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312704.md">大大变孙子是要打仗吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200415/1312860.md">周恩来死后竟从中南海运出一卡车…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md">谭德塞完了！川普宣布暂停金援WHO</a></li>
@@ -20,10 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313007.md">中共回归邓小平已无可能，中共必然而且正在回归毛泽东，小民如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312903.md">中国经济千疮百孔 金融危机恐爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312819.md">邓小平路线回不去了，中共要么垮台要么重归毛时代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200415/1313089.md">邱家军：中共为保船，欲换习乱乱 699 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312914.md">一剑飘尘&#65306;武汉病毒到底是不是习近平预谋的&#65311;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312842.md">一位大陆媒体人和警察在饭桌上的对话</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313389.md" target="_blank">天亮时分：川普对世卫的调查与问责;5月10日开两会?经济与外交危机同至,中共会否打台湾转移视线(政论天下第151集 20200415)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313382.md" target="_blank">西藏悲歌！海拔3250高山群爆发森林大火 全面燃烧中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313376.md" target="_blank">法国世界报：中国推进地缘政治棋子 试图改写疫情大流行历史 &#8211; 法国世界报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313356.md" target="_blank">陈破空：外交丰收！王沪宁惹毛了多少国？习主席救不了谭书记。中泰网民大战好精彩</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313027.md" target="_blank">天灾人祸？湖北宜昌、四川攀枝花下大冰雹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313026.md" target="_blank">中泰网民骂战升至官方层面中使馆称泰人支持一中遭网民狂喷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312997.md" target="_blank">中共情报机构对外友协换人 李先念女退休</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312957.md" target="_blank">防疫漏洞 多地出现持湖北绿码的确诊病患</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313392.md" target="_blank">中国积极发展远程作战能力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313347.md" target="_blank">在华非洲人士受到不人道对待的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313346.md" target="_blank">艾芬现身  美官员要见她  华春莹说什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313286.md" target="_blank">蓬佩奥与杨洁篪通话，强调抗疫透明的重要性</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313124.md" target="_blank">研究指中国限制上游流量       引发湄公河流域多国大旱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313105.md" target="_blank">第二波蝗虫大军来了！规模比上次大20倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313111.md" target="_blank">时事大家谈：脱钩呼声此起彼伏 疫情过后中国向谁开放？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313110.md" target="_blank">特朗普决暂停世卫经费 　 联国秘书长指抗疫时期应团结</a></li>
 
 </ul>
 </div>
