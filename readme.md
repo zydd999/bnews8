@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313704.md">澳洲不戴口罩抗疫出奇迹 20天迎来疫情拐点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313476.md">联合国查中共病毒起源　若人工合成 将以反人类论处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313884.md" target="_blank">多国急解封锁 欧盟吁统一免疫情再扩散</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313875.md" target="_blank">美国务院：中国限制大批美国救援物资离境     赵立坚否认</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313874.md" target="_blank">危机示警：穆迪下调中国房地产领域“负面”预期   五年来首次</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313873.md" target="_blank">美国联邦议员提案  打开追究中国疫情责任的法律之门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313852.md" target="_blank">台湾单日再“清零”  致死率远低于全球平均</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313844.md" target="_blank">非洲尼日利亚境内中资工厂遇袭　在地工人厂房内被隔离要求赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313843.md" target="_blank">特朗普下令彻查新冠病毒来源　中方：世卫已表明病毒非来自实验室</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313736.md" target="_blank">中国在西藏地区军演频繁      印度智库指要紧急加强防备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313735.md" target="_blank">中国商务部否认出现大规模撤资  　  专家：工厂撤走如箭在弦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313734.md" target="_blank">武汉肺炎：中共和世界卫生组织合夥瞒报？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313726.md" target="_blank">时事大家谈：小粉红、解放军、外交官齐动员，“中国战狼”出征推特结果会如何？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313723.md" target="_blank">中国称境外输入病例下降 本土病例小幅增加</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313722.md" target="_blank">推特上的中国：彭博社前总编录音曝光，称中共官员为“无处不在的纳粹”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313721.md" target="_blank">监警会司法覆核吕智恒败诉       独立调查反送中遥遥无期</a></li>
 
 </ul>
 </div>
