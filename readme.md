@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313176.md">邓聿文：习近平为什么害怕任志强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313270.md">港媒：中国“病人”习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200415/1313089.md">邱家军：中共为保船，欲换习乱乱 699 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313453.md">广州危急？广州天马服装批发市场门口出现随地倒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200415/1313089.md">邱家军：中共为保船，欲换习乱乱 699 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313387.md">飞蛾扑火？传华尔街向中国市场押下重注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312945.md">加拿大人狂怒！总理特鲁多一家 长周末出游</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1313030.md">太子党又有白事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200416/1313274.md">〖兲朝浮世绘〗他们这样残酷对待人民，凭什么我们会是例外？！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313656.md" target="_blank">护士不算一线？武汉感染护士曝补助不公</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313648.md" target="_blank">港媒揭谭德塞染红内幕：由陈冯富珍上位开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313637.md" target="_blank">谭德塞避谈“孤立台湾” 手下抛出“金挡箭牌”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313636.md" target="_blank">分析：中国疫情数据随中共政治决定“跳跃”</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313510.md" target="_blank">美国撤侨 武汉一家四口搭上末班机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313504.md" target="_blank">蓬佩奥与杨洁篪通话 要求中方抗疫资讯透明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313497.md" target="_blank">川普谈&quot;最可怕一天&quot;：我被告知缺少…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313496.md" target="_blank">美国务院：中共疑在新疆进行地下核试 违反国际禁令</a></li>
 
 </ul>
 </div>
