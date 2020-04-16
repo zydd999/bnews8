@@ -1,8 +1,8 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312931.md">民智已开！陆媒想笑话美国 评论区又“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200415/1312908.md">美国将公布“恐怖数据”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200415/1312914.md">一剑飘尘&#65306;武汉病毒到底是不是习近平预谋的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312888.md">陆媒报美国人排队领救济 评论区“翻车”了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312945.md">加拿大人狂怒！总理特鲁多一家 长周末出游</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313580.md" target="_blank">在俄台商：俄罗斯驱逐数十万非法中国移?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313579.md" target="_blank">外国人不戴口罩 被北京保安摁翻在地</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313573.md" target="_blank">川普问责世卫 以台湾去年预警人传人为证</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313572.md" target="_blank">法媒：中共象八爪鱼一样把触角悄悄地伸进联合国国际组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md" target="_blank">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313513.md" target="_blank">内幕：中共高层1月14日预见疫情大流行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313512.md" target="_blank">怕漏马脚　关于加强武汉肺炎科研论文发表管理工作的通知</a></li>
@@ -48,15 +52,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313437.md" target="_blank">江峰：中共外交官要求美参议员赞颂中共防疫措施，遭美参议员着名粗口回敬；美国参谋长联席会议主席称启动美军侦查手段搞清中共病毒来源，独家介绍美军侦测手段好用麽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313416.md" target="_blank">内幕：1月中关键6天 中共瞒疫情酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313122.md" target="_blank">疫情透视 小国比利时为何发生大疫情？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313389.md" target="_blank">天亮时分：川普对世卫的调查与问责;5月10日开两会?经济与外交危机同至,中共会否打台湾转移视线(政论天下第151集 20200415)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313382.md" target="_blank">西藏悲歌！海拔3250高山群爆发森林大火 全面燃烧中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313376.md" target="_blank">法国世界报：中国推进地缘政治棋子 试图改写疫情大流行历史 &#8211; 法国世界报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313356.md" target="_blank">陈破空：外交丰收！王沪宁惹毛了多少国？习主席救不了谭书记。中泰网民大战好精彩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313352.md" target="_blank">德国谨慎放宽防疫管控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313348.md" target="_blank">文昭：川普暂停世卫组织经费，是前哨战、大戏在後面！开始收缴个人护照，是什麽信号？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313330.md" target="_blank">保持一米距离 足够安全吗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313324.md" target="_blank">法国航母戴高乐号三分一船员确诊感染新冠病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313309.md" target="_blank">法国外长：应对新冠疫情 世卫运作存在“缺失”</a></li>
 
 </ul>
 </div>
