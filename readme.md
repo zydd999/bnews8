@@ -7,16 +7,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313176.md">邓聿文：习近平为什么害怕任志强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313270.md">港媒：中国“病人”习近平</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313585.md">中共”红头文件“诡异曝光 是谁出卖习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200415/1313089.md">邱家军：中共为保船，欲换习乱乱 699 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313453.md">广州危急？广州天马服装批发市场门口出现随地倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313585.md">中共”红头文件“诡异曝光 是谁出卖习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200416/1313198.md">国家一级演员蔡明私生活曝光 58岁颜值再惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313534.md">揭秘中国银行存款大增噩耗 撤资潮兴起 经济靠债务拉动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313268.md">忍无可忍？ 法国当局为什么召见中国驻法大使</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313570.md">失业飙高 中国官员：2020年后将回到朝鲜时代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1313094.md">中国病人习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313387.md">飞蛾扑火？传华尔街向中国市场押下重注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200416/1313280.md">美军方称中共病毒或为自然产生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200416/1313294.md">叫老公哄宝宝睡觉！才5分钟就没声音 妈妈冲进房间见陌生女人坐床上…</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313725.md" target="_blank">蓬佩奥与杨洁篪通电话 中美承诺合作抗击新冠病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313716.md" target="_blank">消息人士：美国反对IMF无条件向中国和伊朗提供资金支持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313715.md" target="_blank">福克斯新闻称新冠病毒源于武汉实验室 特朗普：正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313693.md" target="_blank">重磅特稿：不禁足 台湾抗疫成绩亮眼的秘诀何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313699.md" target="_blank">从光和声音上看现代科学的局限</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313585.md" target="_blank">中共”红头文件“诡异曝光 是谁出卖习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313580.md" target="_blank">在俄台商：俄罗斯驱逐数十万非法中国移?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313579.md" target="_blank">外国人不戴口罩 被北京保安摁翻在地</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313573.md" target="_blank">川普问责世卫 以台湾去年预警人传人为证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313572.md" target="_blank">法媒：中共象八爪鱼一样把触角悄悄地伸进联合国国际组织</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313717.md" target="_blank">3大院士联手迫停瑞德西韦 北京广州哈尔滨最新消息 细思极惨！官版:至少400孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313693.md" target="_blank">重磅特稿：不禁足 台湾抗疫成绩亮眼的秘诀何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313706.md" target="_blank">与中共签署“一带一路” 深陷债务 厄瓜多尔出售亚马逊雨林给中企</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313705.md" target="_blank">现场视频：安徽蚌埠一人倒地 无人问津</a></li>
@@ -87,13 +88,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312299.md" target="_blank">北京紧张干休所现惊人一幕 黑龙江高价悬赏抓捕归国百姓 非洲最先要求中共“巨额赔款”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312228.md" target="_blank">中国经济遭受重创！“中国出口的晴雨表”惨不忍睹 曹德旺：这非常可怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312206.md" target="_blank">巴西逮捕10华人 上海同乡会长带头狂盗200万件医疗物资</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312195.md" target="_blank">大陆百业凋敝 大规模裁员人心惶惶 各行“龙头企业”崩塌 地方财政吃紧&#8230;</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313726.md" target="_blank">时事大家谈：小粉红、解放军、外交官齐动员，“中国战狼”出征推特结果会如何？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313723.md" target="_blank">中国称境外输入病例下降 本土病例小幅增加</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313722.md" target="_blank">推特上的中国：彭博社前总编录音曝光，称中共官员为“无处不在的纳粹”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313721.md" target="_blank">监警会司法覆核吕智恒败诉       独立调查反送中遥遥无期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313720.md" target="_blank">川学护拒绝领导饭局被炒　  院方坚称「解聘符合正常规定」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313719.md" target="_blank">蔡英文摆事实反驳世卫：台湾参与七成被拒绝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313712.md" target="_blank">中国地质勘探船出现在马来西亚附近</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313709.md" target="_blank">台湾今年经济增长或降至-1％     仍为亚洲4小龙中最好</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313708.md" target="_blank">程渊妻子施明磊的父母被骚扰</a></li>
@@ -113,12 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313180.md" target="_blank">剑桥大学学者：新冠病毒传播始于中国，地点或是广东</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313179.md" target="_blank">覃永沛案牵涉国家机密恐遭秘密审讯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313178.md" target="_blank">中国网文激怒哈萨克斯坦  哈国急召中国大使提抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313175.md" target="_blank">在中国的非洲人抱怨与新冠病毒疫情有关的歧视</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313174.md" target="_blank">台湾抗疫超前部署  原来是看到了李文亮的贴文</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313167.md" target="_blank">搜狐发文称哈国渴望加入中国引起外交纠纷</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313148.md" target="_blank">英国议员：中国正试图利用全球疫情控制高科技公司</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313147.md" target="_blank">世卫大会议题不含疫情   台媒：替中国背书</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313144.md" target="_blank">美驻华大使：疫情防控当务之急，美中分歧留待疫后解决</a></li>
 
 </ul>
 </div>
