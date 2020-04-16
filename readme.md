@@ -8,9 +8,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312825.md">网民强烈要求美国重查去年「流感」样品 美国还真查了！结果是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200415/1312956.md">国际社会追责 中宣部紧急通知脱钩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312923.md">川普宣布停止资助世卫组织 谭德塞怕了：盼美国继续捐助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312762.md">中共党媒被众网友虐崩溃 尴尬之下悄悄删话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312859.md">细思极惨！中共官方泄密死亡数字：至少400家庭只剩孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313098.md">中国多地现持湖北绿码病患 ???????专家发现病毒突变阻疫苗 国际精英群起批中共害人</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313437.md" target="_blank">江峰：中共外交官要求美参议员赞颂中共防疫措施，遭美参议员着名粗口回敬；美国参谋长联席会议主席称启动美军侦查手段搞清中共病毒来源，独家介绍美军侦测手段好用麽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313416.md" target="_blank">内幕：1月中关键6天 中共瞒疫情酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313122.md" target="_blank">疫情透视 小国比利时为何发生大疫情？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313389.md" target="_blank">天亮时分：川普对世卫的调查与问责;5月10日开两会?经济与外交危机同至,中共会否打台湾转移视线(政论天下第151集 20200415)</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312953.md" target="_blank">法国媒体揭露中共如何操控世界组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1312954.md" target="_blank">国际百名政要专家　谴责中共掩盖疫情真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313032.md" target="_blank">中国续推香港订定国家安全法例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200415/1313027.md" target="_blank">天灾人祸？湖北宜昌、四川攀枝花下大冰雹</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md" target="_blank">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313392.md" target="_blank">中国积极发展远程作战能力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313347.md" target="_blank">在华非洲人士受到不人道对待的背后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313346.md" target="_blank">艾芬现身  美官员要见她  华春莹说什么？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313140.md" target="_blank">英国议会议员：中国正试图利用新冠病毒疫情危机谋利</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313124.md" target="_blank">研究指中国限制上游流量       引发湄公河流域多国大旱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313105.md" target="_blank">第二波蝗虫大军来了！规模比上次大20倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200415/1313111.md" target="_blank">时事大家谈：脱钩呼声此起彼伏 疫情过后中国向谁开放？</a></li>
 
 </ul>
 </div>
