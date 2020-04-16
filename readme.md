@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313972.md" target="_blank">英国宣布延长封锁禁令至少三周</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313958.md" target="_blank">马克龙：中国处理新冠病毒疫情“存在灰色地带”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313857.md" target="_blank">亚马逊法国分公司复工日期有待确立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1313847.md" target="_blank">方方遭大字报攻击 要她交出财产以死谢罪</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313656.md" target="_blank">护士不算一线？武汉感染护士曝补助不公</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313648.md" target="_blank">港媒揭谭德塞染红内幕：由陈冯富珍上位开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313637.md" target="_blank">谭德塞避谈“孤立台湾” 手下抛出“金挡箭牌”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313636.md" target="_blank">分析：中国疫情数据随中共政治决定“跳跃”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313979.md" target="_blank">中国的“人缘”与欧美对华战略的转变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313966.md" target="_blank">中国外交战狼层出不穷  要取悦习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313942.md" target="_blank">美媒：新冠病毒或源自武汉病毒所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313941.md" target="_blank">湄公河雨季闹旱灾  祸首是中国？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313793.md" target="_blank">中国官媒借台湾记者身份闯白宫   台湾陆委会：违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313785.md" target="_blank">昆士兰大学学生声援香港批校亲中      面临被开除处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313777.md" target="_blank">美国表示中国可能进行了低当量核试爆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313760.md" target="_blank">中国承诺不会限制防疫物质出口</a></li>
 
 </ul>
 </div>
