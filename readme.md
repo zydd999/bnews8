@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313585.md">中共”红头文件“诡异曝光 是谁出卖习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313717.md">3大院士联手迫停瑞德西韦 北京广州哈尔滨最新消息 细思极惨！官版:至少400孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313453.md">广州危急？广州天马服装批发市场门口出现随地倒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313388.md">惊！美国发现中共在进行低当量地下核爆实验 地点罗布泊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313660.md">武汉惊现讨伐方方的大字报 艾芬被国安控制 习近平已草木皆兵！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313522.md">华春莹称中国享自由被打脸 结果华干脆就不要了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313647.md">中泰网战升级 中共驻泰大使馆再被完虐！</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313991.md" target="_blank">台湾社团联署呼吁美国总统特朗普   修改台湾国际参与政策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313979.md" target="_blank">中国的“人缘”与欧美对华战略的转变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313966.md" target="_blank">中国外交战狼层出不穷  要取悦习近平？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313942.md" target="_blank">美媒：新冠病毒或源自武汉病毒所</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313794.md" target="_blank">百多名国际知名人士联署：中共隐瞒疫情  一党专制危害所有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313793.md" target="_blank">中国官媒借台湾记者身份闯白宫   台湾陆委会：违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313785.md" target="_blank">昆士兰大学学生声援香港批校亲中      面临被开除处分</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313777.md" target="_blank">美国表示中国可能进行了低当量核试爆</a></li>
 
 </ul>
 </div>
