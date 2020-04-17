@@ -2,9 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md">中国数字人民币开始试行 百姓将完全被控制？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314022.md">钱快花光了：中国中产阶级开始勒紧裤腰带</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314250.md">强令销毁病毒样本 中共卫健委“三号文”全文曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314328.md">疯了疯了！中共诡异调升武汉病亡人数  大陆网军居然狂赞？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314225.md">震撼！大陆首个公务员公开起诉中共政府隐瞒疫情</a></li>
@@ -19,10 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314403.md">任志强照片曝光 但被质疑非目前状况 中共史上最短命“两会”将这样召开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1314487.md">宝胜政论：习近平担心政变与“换人”、将呼吁党内直选定为抢夺弹药库等的暴力政变、习已将党内改良派逼上梁山！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314224.md">江峰：中共收护照，美国发救济；习近平底线思维与中国人的斯德哥尔摩综合症；辽宁号来了，台湾就安全了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md" target="_blank">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314647.md" target="_blank">天亮时分：一季度GDP暴跌,死亡人数突增,中共示弱意味着什么;破解中国经济增长的迷思(政论天下第152集 20200417)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314644.md" target="_blank">官方上修武汉死亡人数 仍然疑点重重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314640.md" target="_blank">文昭：中共还在核试验，折射“武统”短板；上调病逝数，习近平压力扛不住了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314610.md" target="_blank">法国航母戴高乐号近一半船员感染新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314589.md" target="_blank">美国国务卿蓬佩奥向中共提要求 让专家进武汉实验室调查</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314332.md" target="_blank">港府违诺削区议会拨款　区议员斥为打压民主派兼报复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314330.md" target="_blank">陆口罩厂激增 产业链乱套 原料涨价数十倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314326.md" target="_blank">北京出台严管措施 港媒：“维稳”胜于防疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314325.md" target="_blank">希望之声：中国粮食不稳恐改朝换代 全球粮食安全靠三国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314324.md" target="_blank">中国GDP首现收缩首季负6.8% 逊预期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314318.md" target="_blank">中共外交官被骂疯子 私信“求赞”细节曝光</a></li>
 
 </ul>
 </div>
