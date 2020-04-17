@@ -16,8 +16,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md">官方瞒报 黑龙江疫情恐大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314297.md">昔日首富跌落神坛？留给王健林的时间不多了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314329.md">浮亏巨大！四川国资委又踩雷了…</a></li>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314511.md" target="_blank">国际追责升温   法、英公开质疑中国隐瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314510.md" target="_blank">美记者：挺台参与世卫遭拒 美断金援内幕之一</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314509.md" target="_blank">美国务院：中国出口限制使输美抗疫医疗产品受阻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314508.md" target="_blank">不满方方日记海外发行 中国施压出版商改版封面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314507.md" target="_blank">香港支联会发起六四31周年联署 受疫情影响维园烛光集会或取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314502.md" target="_blank">疫情安全国家排名台湾落后中国  世卫终于联系台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314496.md" target="_blank">中国两会召开时间可望在本月底确定</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314376.md" target="_blank">中国首季经济按年下降6.8%　有纪录以来首次录得负增长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314371.md" target="_blank">指武汉日记影响国家形象     中共疑默许煽动袭击作家方方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314366.md" target="_blank">武汉在质疑声中修改了疫情死亡数字</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314365.md" target="_blank">“武汉病毒来自美国”已深入民间   反向宣传病毒论民信以为真</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314364.md" target="_blank">&#8220;北京有点热”   网民曲笔嘲讽中国言论空闲受限</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314361.md" target="_blank">立法会内会建制咬住郭荣铿不放     郑若骅称北京有权干预香港立法司法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314360.md" target="_blank">【耳边风】新冠肺炎关键六日之谜</a></li>
 
 </ul>
 </div>
