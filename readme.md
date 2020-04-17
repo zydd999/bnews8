@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313647.md">中泰网战升级 中共驻泰大使馆再被完虐！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313630.md">蝗虫敲响中国大门！上海现踪 规模恐超20倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313611.md">习近平这回真急了 全球追责 美日带头给中共大放血 中共要完活？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313670.md">中国退休干部勾结境外召募「敢死队」企图颠覆政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1313970.md">邱家军：爆炸性新闻：美国会拟立法抓捕公审习近平 702 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313866.md">福克斯释重磅消息：武汉实验室泄露病毒导致全球大瘟疫</a></li>
@@ -19,11 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313671.md">马克龙后院放火，一带一路或遭毁灭打击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313702.md">唐宋民：崔永元：“到网上看看，义和团越来越多”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313843.md">特朗普下令彻查新冠病毒来源　中方：世卫已表明病毒非来自实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313865.md">也许，危机才刚刚开始（二）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313949.md">1200美金到账了 华人纷纷晒信息分享喜悦！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md">中国数字人民币开始试行 百姓将完全被控制？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
