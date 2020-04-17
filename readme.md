@@ -16,11 +16,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314297.md">昔日首富跌落神坛？留给王健林的时间不多了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314329.md">浮亏巨大！四川国资委又踩雷了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313949.md">1200美金到账了 华人纷纷晒信息分享喜悦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md" target="_blank">武汉为何突修订确诊及死亡人数 专家解读</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314533.md" target="_blank">【一线采访】哈尔滨医护感染多 多小区封闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md" target="_blank">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314426.md" target="_blank">回应英法对中国疫情信息质疑 赵立坚：此时搞模式之争无济于事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314421.md" target="_blank">【瘟疫与中共】为何香港处高危之地 疫情却轻微的四大原因</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314262.md" target="_blank">经济学人：中共大外宣 要全世界感谢老大哥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314250.md" target="_blank">强令销毁病毒样本 中共卫健委“三号文”全文曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314243.md" target="_blank">中共治下乱象 某口罩作坊被停工</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314226.md" target="_blank">沈阳女子假扮警察诈骗 派出所涉包庇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314225.md" target="_blank">震撼！大陆首个公务员公开起诉中共政府隐瞒疫情</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314537.md" target="_blank">加拿大各界联署谴责中国   特鲁多低调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314514.md" target="_blank">台积电首季营收逆势大增  分析师预估台湾半导体今年优于全球</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314513.md" target="_blank">美国务卿：任何军备谈判必须包括中国 各国应重新考虑使用华为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314511.md" target="_blank">国际追责升温   法、英公开质疑中国隐瞒疫情</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314413.md" target="_blank">马克龙：中国举国体制跟民主国家之间没有可比性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314412.md" target="_blank">中国驻德国使馆批德媒《图片报》报道       主编反击斥习危害全世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314400.md" target="_blank">台政府认定上海东方卫视为中共党务组织       张经义涉嫌违反两岸条例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314376.md" target="_blank">中国首季经济按年下降6.8%　有纪录以来首次录得负增长</a></li>
 
 </ul>
 </div>
