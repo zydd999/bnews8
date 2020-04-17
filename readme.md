@@ -2,20 +2,17 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313717.md">3大院士联手迫停瑞德西韦 北京广州哈尔滨最新消息 细思极惨！官版:至少400孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313660.md">武汉惊现讨伐方方的大字报 艾芬被国安控制 习近平已草木皆兵！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313670.md">中国退休干部勾结境外召募「敢死队」企图颠覆政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313866.md">福克斯释重磅消息：武汉实验室泄露病毒导致全球大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1313970.md">邱家军：爆炸性新闻：美国会拟立法抓捕公审习近平 702 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313704.md">澳洲不戴口罩抗疫出奇迹 20天迎来疫情拐点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314022.md">钱快花光了：中国中产阶级开始勒紧裤腰带</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314015.md">陈破空：内外受敌！习近平图谋最后一搏：抢先开战？团派大员频现身。任志强不屈 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313867.md">美股投资人注意！专家：未来45天将是美金融史上最关键时期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md">中国数字人民币开始试行 百姓将完全被控制？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313671.md">马克龙后院放火，一带一路或遭毁灭打击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313867.md">美股投资人注意！专家：未来45天将是美金融史上最关键时期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313920.md">噩梦来临 中共病毒已出现严重变异 疫苗开发或成徒劳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313843.md">特朗普下令彻查新冠病毒来源　中方：世卫已表明病毒非来自实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313702.md">唐宋民：崔永元：“到网上看看，义和团越来越多”</a></li>
@@ -23,7 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313949.md">1200美金到账了 华人纷纷晒信息分享喜悦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313715.md">福克斯新闻称新冠病毒源于武汉实验室 特朗普：正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313764.md">巨压之下 《方方日记》德文版封面改版</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313788.md">大陆多地现湖北绿码患者 河北疫情严重封闭</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313831.md">【独家】黑龙江疫情告急 官方瞒报 民众忧大爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314011.md">大陆武汉街头出现要求作家方方削发为尼或以死谢罪的大字报</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314318.md" target="_blank">中共外交官被骂疯子 私信“求赞”细节曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314300.md" target="_blank">武汉肺炎中共死亡人数修改 网友：还是不靠谱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md" target="_blank">官方瞒报 黑龙江疫情恐大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md" target="_blank">大陆暗中列疫区？市民旅行时发现端倪</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314146.md" target="_blank">网友直击：哈尔滨各小区重新封闭 当局仍在辟谣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314145.md" target="_blank">希望之声：黑龙江疫情告急 官方瞒报 民众忧大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md" target="_blank">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314143.md" target="_blank">武汉大嫂怒斥小粉红们在构陷国家 祸国殃民</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314313.md" target="_blank">钱快花光 中国中产勒紧裤腰带 习近平刘鹤谈金融措辞起变化 体制开始崩溃 操控能力丧失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md" target="_blank">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md" target="_blank">中国数字人民币开始试行 百姓将完全被控制？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md" target="_blank">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1312714.md" target="_blank">谭德塞完了！川普宣布暂停金援WHO</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312395.md" target="_blank">习近平要退居二线了？邓家密谋推翻习近平? 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312317.md" target="_blank">中华民国国旗登WHO网页 成大研发1秒侦测中共肺炎特征</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200414/1312316.md" target="_blank">朝鲜采用铁榔头殴打 处决未经审判贪污女干部</a></li>
 
 </ul>
 </div>
