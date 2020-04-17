@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md">中国数字人民币开始试行 百姓将完全被控制？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314022.md">钱快花光了：中国中产阶级开始勒紧裤腰带</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314015.md">陈破空：内外受敌！习近平图谋最后一搏：抢先开战？团派大员频现身。任志强不屈 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314022.md">钱快花光了：中国中产阶级开始勒紧裤腰带</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314250.md">强令销毁病毒样本 中共卫健委“三号文”全文曝光</a></li>
@@ -18,11 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314329.md">浮亏巨大！四川国资委又踩雷了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314403.md">任志强照片曝光 但被质疑非目前状况 中共史上最短命“两会”将这样召开？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314610.md" target="_blank">法国航母戴高乐号近一半船员感染新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314589.md" target="_blank">美国国务卿蓬佩奥向中共提要求 让专家进武汉实验室调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314588.md" target="_blank">特朗普：新冠病毒中国实际死亡人数比官方数字“高得多”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314569.md" target="_blank">澳大利亚沃加沃加与昆明断交 市长忧断财路向中方发道歉信</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314324.md" target="_blank">中国GDP首现收缩首季负6.8% 逊预期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314318.md" target="_blank">中共外交官被骂疯子 私信“求赞”细节曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314300.md" target="_blank">武汉肺炎中共死亡人数修改 网友：还是不靠谱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md" target="_blank">官方瞒报 黑龙江疫情恐大爆发</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314624.md" target="_blank">俄罗斯新冠疫情肆虐 部分在俄华人选择自我封锁隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314623.md" target="_blank">习近平的地位因疫情而更稳固还是被削弱？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314585.md" target="_blank">中国两会何时召开？外界猜测4月底或见分晓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314578.md" target="_blank">中国勘探船与马来西亚船只在南海对峙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314560.md" target="_blank">美报告未明指中国违反核试验禁令 北京不打自招？</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314476.md" target="_blank">世界医学协会发函WHO 吁让台湾参加WHA 日本首相表示支持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314475.md" target="_blank">疫情有反弹风险 中国3省多地再延后开学时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314474.md" target="_blank">北京甩锅行为激起国际反感：中国必须回答疫情如何爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314473.md" target="_blank">武汉官方上调新冠肺炎死亡人数近50% 统计标准仍受质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314465.md" target="_blank">中国江苏查获猪只再现非洲猪瘟疫情</a></li>
 
 </ul>
 </div>
