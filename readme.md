@@ -14,13 +14,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313670.md">中国退休干部勾结境外召募「敢死队」企图颠覆政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313866.md">福克斯释重磅消息：武汉实验室泄露病毒导致全球大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313704.md">澳洲不戴口罩抗疫出奇迹 20天迎来疫情拐点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313476.md">联合国查中共病毒起源　若人工合成 将以反人类论处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313629.md">蝗虫在上海现踪 开始敲中国大门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313495.md">为中共输血30年 德国汽车工业陷入空前危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313591.md">好恐怖！北京司机驾车途中猝死 疫情严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313671.md">马克龙后院放火，一带一路或遭毁灭打击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313502.md">罂粟与记忆 &#124; “为黑暗辩护的人”：nmslese诞生记</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1313970.md">邱家军：爆炸性新闻：美国会拟立法抓捕公审习近平 702 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313702.md">唐宋民：崔永元：“到网上看看，义和团越来越多”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313715.md">福克斯新闻称新冠病毒源于武汉实验室 特朗普：正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313635.md">霍尔木兹海峡新事件 武装分子登上中国船只</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314108.md" target="_blank">“封城”式管控 绥芬河会成为下一个湖北？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314107.md" target="_blank">那些喊着「我爱中国」的外国网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314071.md" target="_blank">【思想领袖】埃利斯：更致命疫病是中国共产党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314063.md" target="_blank">美官员发推曝光谭德塞和赵立坚一唱一和</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314058.md" target="_blank">英国：中国必须回答新冠疫情如何爆发</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313725.md" target="_blank">蓬佩奥与杨洁篪通电话 中美承诺合作抗击新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313716.md" target="_blank">消息人士：美国反对IMF无条件向中国和伊朗提供资金支持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313715.md" target="_blank">福克斯新闻称新冠病毒源于武汉实验室 特朗普：正在彻查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313693.md" target="_blank">重磅特稿：不禁足 台湾抗疫成绩亮眼的秘诀何在？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313699.md" target="_blank">从光和声音上看现代科学的局限</a></li>
 
 </ul>
 </div>
