@@ -5,24 +5,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313866.md">福克斯释重磅消息：武汉实验室泄露病毒导致全球大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1313970.md">邱家军：爆炸性新闻：美国会拟立法抓捕公审习近平 702 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md">中国数字人民币开始试行 百姓将完全被控制？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314022.md">钱快花光了：中国中产阶级开始勒紧裤腰带</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md">中国数字人民币开始试行 百姓将完全被控制？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314015.md">陈破空：内外受敌！习近平图谋最后一搏：抢先开战？团派大员频现身。任志强不屈 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313867.md">美股投资人注意！专家：未来45天将是美金融史上最关键时期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313920.md">噩梦来临 中共病毒已出现严重变异 疫苗开发或成徒劳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200417/1314026.md">日媒曝江青绝命书 指“这个人”祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314225.md">震撼！大陆首个公务员公开起诉中共政府隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313843.md">特朗普下令彻查新冠病毒来源　中方：世卫已表明病毒非来自实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313949.md">1200美金到账了 华人纷纷晒信息分享喜悦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313865.md">也许，危机才刚刚开始（二）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314225.md">震撼！大陆首个公务员公开起诉中共政府隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313715.md">福克斯新闻称新冠病毒源于武汉实验室 特朗普：正在彻查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313764.md">巨压之下 《方方日记》德文版封面改版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313788.md">大陆多地现湖北绿码患者 河北疫情严重封闭</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314250.md">强令销毁病毒样本 中共卫健委“三号文”全文曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313788.md">大陆多地现湖北绿码患者 河北疫情严重封闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200417/1313907.md">追究中共责任 英国代理首相：英中关系回不去了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314376.md" target="_blank">中国首季经济按年下降6.8%　有纪录以来首次录得负增长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314371.md" target="_blank">指武汉日记影响国家形象     中共疑默许煽动袭击作家方方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314366.md" target="_blank">武汉在质疑声中修改了疫情死亡数字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314365.md" target="_blank">“武汉病毒来自美国”已深入民间   反向宣传病毒论民信以为真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314364.md" target="_blank">&#8220;北京有点热”   网民曲笔嘲讽中国言论空闲受限</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313991.md" target="_blank">台湾社团联署呼吁美国总统特朗普   修改台湾国际参与政策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313979.md" target="_blank">中国的“人缘”与欧美对华战略的转变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313966.md" target="_blank">中国外交战狼层出不穷  要取悦习近平？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313942.md" target="_blank">美媒：新冠病毒或源自武汉病毒所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313941.md" target="_blank">湄公河雨季闹旱灾  祸首是中国？</a></li>
 
 </ul>
 </div>
