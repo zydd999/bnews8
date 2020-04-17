@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313629.md">蝗虫在上海现踪 开始敲中国大门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313591.md">好恐怖！北京司机驾车途中猝死 疫情严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313671.md">马克龙后院放火，一带一路或遭毁灭打击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313502.md">罂粟与记忆 &#124; “为黑暗辩护的人”：nmslese诞生记</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313702.md">唐宋民：崔永元：“到网上看看，义和团越来越多”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313920.md">噩梦来临 中共病毒已出现严重变异 疫苗开发或成徒劳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313867.md">美股投资人注意！专家：未来45天将是美金融史上最关键时期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313715.md">福克斯新闻称新冠病毒源于武汉实验室 特朗普：正在彻查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1313920.md">噩梦来临 中共病毒已出现严重变异 疫苗开发或成徒劳</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313702.md">唐宋民：崔永元：“到网上看看，义和团越来越多”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200417/1313936.md">〖兲朝浮世绘〗他打不过男人，开始要打女人了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313865.md">也许，危机才刚刚开始（二）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,14 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314180.md" target="_blank">炒作“渴望回归中国”文章 中共大外宣受挫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314179.md" target="_blank">中共官员曝重症轻症都是传染源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314148.md" target="_blank">全球大瘟疫 凸显世卫和联合国被中共控制</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314147.md" target="_blank">中共封关防堵 在俄华人处境堪忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314146.md" target="_blank">网友直击：哈尔滨各小区重新封闭 当局仍在辟谣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314145.md" target="_blank">希望之声：黑龙江疫情告急 官方瞒报 民众忧大爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md" target="_blank">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314143.md" target="_blank">武汉大嫂怒斥小粉红们在构陷国家 祸国殃民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md" target="_blank">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314108.md" target="_blank">“封城”式管控 绥芬河会成为下一个湖北？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314107.md" target="_blank">那些喊着「我爱中国」的外国网红</a></li>
@@ -49,14 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313823.md" target="_blank">武汉街头惊现威胁方方大字报：要求“削发为尼或以死谢罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313817.md" target="_blank">陈破空：陈破空谈《常识》（之41）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313792.md" target="_blank">郭伯雄余毒未了？中共乘机在香港再推23条</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313791.md" target="_blank">美联社：中国高官1月14日即知疫情严重 中国驻意大使批“中方隐瞒疫情论”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313788.md" target="_blank">大陆多地现湖北绿码患者 河北疫情严重封闭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313774.md" target="_blank">一季度中国关闭816家违法网站 网易新浪凤凰被约谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313764.md" target="_blank">巨压之下 《方方日记》德文版封面改版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md" target="_blank">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313744.md" target="_blank">美质疑中方秘密进行核试验 中国外交部：颠倒黑白、倒打一耙</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313725.md" target="_blank">蓬佩奥与杨洁篪通电话 中美承诺合作抗击新冠病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313716.md" target="_blank">消息人士：美国反对IMF无条件向中国和伊朗提供资金支持</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314161.md" target="_blank">人权观察：中国投资几内亚水电站 迫使1.6万居民迁移危害生计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314067.md" target="_blank">路透：新冠病毒如何传遍中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314051.md" target="_blank">武汉肺炎中共假新闻失信 国民学会反看新闻信「谣言」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314038.md" target="_blank">中国据报采取新措施限制医疗物资运往美国</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313830.md" target="_blank">战狼外交受挫  中国驻塞浦路斯大使推特“违规”被封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313824.md" target="_blank">美国防部长与国务卿批评中国在疫情问题上误导</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313818.md" target="_blank">万达旗下美国AMC院线失利 印证中资难再往外闯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313814.md" target="_blank">香港前立法会议员中联办前抗议遇袭 轻微受伤</a></li>
 
 </ul>
 </div>
