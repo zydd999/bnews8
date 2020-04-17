@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313670.md">中国退休干部勾结境外召募「敢死队」企图颠覆政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313704.md">澳洲不戴口罩抗疫出奇迹 20天迎来疫情拐点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313476.md">联合国查中共病毒起源　若人工合成 将以反人类论处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313629.md">蝗虫在上海现踪 开始敲中国大门</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313438.md">福克斯新闻称新冠病毒由武汉实验室泄露 特朗普总统说美国正在彻查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313495.md">为中共输血30年 德国汽车工业陷入空前危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313591.md">好恐怖！北京司机驾车途中猝死 疫情严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200416/1313463.md">在铁的事实面前 还好意思骂美国吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313671.md">马克龙后院放火，一带一路或遭毁灭打击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313502.md">罂粟与记忆 &#124; “为黑暗辩护的人”：nmslese诞生记</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313866.md">福克斯释重磅消息：武汉实验室泄露病毒导致全球大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313759.md">中国商务部：没有也不会出现大规模外资撤离 工信部谈复工复产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313702.md">唐宋民：崔永元：“到网上看看，义和团越来越多”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200416/1313502.md">罂粟与记忆 &#124; “为黑暗辩护的人”：nmslese诞生记</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314033.md" target="_blank">新冠病毒三个想不到</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1313828.md" target="_blank">遭起底！明居正爆：谭德塞有共产党背景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314015.md" target="_blank">陈破空：内外受敌！习近平图谋最后一搏：抢先开战？团派大员频现身。任志强不屈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314011.md" target="_blank">大陆武汉街头出现要求作家方方削发为尼或以死谢罪的大字报</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313681.md" target="_blank">惹怒法国急召抗议 中共驻法大使卢沙野有前科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313674.md" target="_blank">现场视频：安徽蚌埠一人 无人问津</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313604.md" target="_blank">魔鬼在细节中：聚焦“中共疫情数据”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200416/1313660.md" target="_blank">武汉惊现讨伐方方的大字报 艾芬被国安控制 习近平已草木皆兵！</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314038.md" target="_blank">中国据报采取新措施限制医疗物资运往美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314037.md" target="_blank">活动人士吁国际社会向中国施压对新冠疫情负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313822.md" target="_blank">西藏高山群爆发森林大火 全面燃烧中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313991.md" target="_blank">台湾社团联署呼吁美国总统特朗普   修改台湾国际参与政策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1313979.md" target="_blank">中国的“人缘”与欧美对华战略的转变</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313814.md" target="_blank">香港前立法会议员中联办前抗议遇袭 轻微受伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313810.md" target="_blank">英国前情报总监:西方必须努力阻止中国购买西方技术</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313795.md" target="_blank">中国舆论评说特朗普对世卫“动真格”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313794.md" target="_blank">百多名国际知名人士联署：中共隐瞒疫情  一党专制危害所有</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200416/1313793.md" target="_blank">中国官媒借台湾记者身份闯白宫   台湾陆委会：违法</a></li>
 
 </ul>
 </div>
