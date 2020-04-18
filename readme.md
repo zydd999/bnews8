@@ -20,8 +20,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md" target="_blank">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315090.md" target="_blank">英国出巨资进口中国试剂盒 大失所望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315073.md" target="_blank">港府：中联办拥有监督权 须按《基本法》第22条遵守香港法律</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1315044.md" target="_blank">中国国务院批准南海三沙市设立市辖区 政府驻永兴岛、永暑礁</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314838.md" target="_blank">中共媒体篡改引述国外论文栽赃美国成笑料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314824.md" target="_blank">中共“六稳”变“六保” 就业粮食能源都在其中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314822.md" target="_blank">日经：安倍这一政策令习近平非常担忧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314796.md" target="_blank">于永满尸检肋骨骨裂 肺部有撕裂伤痕 辽阳看守所：“突发疾病”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md" target="_blank">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md" target="_blank">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md" target="_blank">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md" target="_blank">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200416/1313693.md" target="_blank">重磅特稿：不禁足 台湾抗疫成绩亮眼的秘诀何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313706.md" target="_blank">与中共签署“一带一路” 深陷债务 厄瓜多尔出售亚马逊雨林给中企</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313705.md" target="_blank">现场视频：安徽蚌埠一人倒地 无人问津</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313704.md" target="_blank">澳洲不戴口罩抗疫出奇迹 20天迎来疫情拐点</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315102.md" target="_blank">法诺贝尔医学家称病毒人工合成 学界反驳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315078.md" target="_blank">中共1月初曾发红头文件 显示对武汉疫情刻意隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315077.md" target="_blank">王全璋律师14天隔离期满　警察称仍不能回京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315076.md" target="_blank">中媒记者张经义称来自台湾 特朗普推文要其离开白宫</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314669.md" target="_blank">10万个测试盒的被阻与对KN95口罩的放行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314658.md" target="_blank">中国突然把武汉疫情死亡人数翻番 特朗普总统说实际数字高得多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314643.md" target="_blank">美国强调战略核武谈判必须包括中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314624.md" target="_blank">俄罗斯新冠疫情肆虐 部分在俄华人选择自我封锁隔离</a></li>
 
 </ul>
 </div>
