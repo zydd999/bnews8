@@ -18,9 +18,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md">安倍的这一举动 令习近平非常担忧</a></li>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315128.md" target="_blank">中国学者：战狼思维误国 加速世界与中国脱钩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315127.md" target="_blank">世界银行、IMF: 非洲各国急需外界金援以抗疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315126.md" target="_blank">抗疫期间 无锡市梁溪区一日发生两起野蛮强拆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315125.md" target="_blank">台外交部：台湾防疫获肯定 完整参与WHO创三赢</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315124.md" target="_blank">启动新冠病毒调查  美国会推法案要中国赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315102.md" target="_blank">法诺贝尔医学家称病毒人工合成 学界反驳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315078.md" target="_blank">中共1月初曾发红头文件 显示对武汉疫情刻意隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315077.md" target="_blank">王全璋律师14天隔离期满　警察称仍不能回京</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314907.md" target="_blank">港警大抓捕拘捕14名民主派人士   包括李柱黎智英</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314834.md" target="_blank">新冠病毒导致巨大损失 美国会推法案要中国赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314791.md" target="_blank">中国报告27例新增病例，数据修改后新冠死亡4,632</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314749.md" target="_blank">一人信神家族株连受迫害 基督徒逝世後仍影响孙子前途</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314748.md" target="_blank">花十亿美元买中国口罩，加州州长纽森被质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314669.md" target="_blank">10万个测试盒的被阻与对KN95口罩的放行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314658.md" target="_blank">中国突然把武汉疫情死亡人数翻番 特朗普总统说实际数字高得多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314643.md" target="_blank">美国强调战略核武谈判必须包括中国</a></li>
 
 </ul>
 </div>
