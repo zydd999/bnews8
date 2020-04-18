@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md">安倍的这一举动 令习近平非常担忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314682.md">武汉病毒研究所P4实验室到底发生泄漏没有</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314843.md">秋后算账 香港大抓捕！李柱铭黎智英吴霭仪等至少14人被捕</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315139.md" target="_blank">抗疫：德国外长期待中国提升透明度 改变文化习惯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md" target="_blank">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315137.md" target="_blank">特朗普呼吁部分州“解封” 纽约州单日死亡病例创半个多月来新低</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315136.md" target="_blank">全欧新冠病毒死亡病例突破10万 西班牙禁足措施将再延两周</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314880.md" target="_blank">中共病毒追责 法案允许美国人在联邦法院直接起诉中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314864.md" target="_blank">更多跨国企业正减少依赖中国 习近平感到忧虑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md" target="_blank">港媒：中共高层搬离中南海 避疫地曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md" target="_blank">安倍的这一举动 令习近平非常担忧</a></li>
 
 </ul>
 </div>
