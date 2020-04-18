@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md">武汉为何突修订确诊及死亡人数 专家解读</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314538.md">袁天罡预言2020年「五星连珠」人间出大事 会成真吗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314403.md">任志强照片曝光 但被质疑非目前状况 中共史上最短命“两会”将这样召开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314755.md">复旦美女硕士：绝不自杀！...要我家认命 给两颗子弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1314487.md">宝胜政论：习近平担心政变与“换人”、将呼吁党内直选定为抢夺弹药库等的暴力政变、习已将党内改良派逼上梁山！</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1314561.md">〖兲朝浮世绘〗白岩松的党性吃掉了他的人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314876.md">中央委员任总经理！一个新的巨人罩在中国地产商身前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314429.md">中共当局进行习近平个人宣传的力度与异象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314596.md">李么傻: 鲍毓明性侵养女案 其实就是江湖上的“养瘦马”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200418/1314535.md">凤凰传奇曾毅妻子曝光 美貌堪比当红女星 刀郎是红娘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
