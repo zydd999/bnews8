@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md" target="_blank">鲍毓明性侵一案细思极恐的12个细节</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md" target="_blank">中欧关系 风向大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315139.md" target="_blank">抗疫：德国外长期待中国提升透明度 改变文化习惯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md" target="_blank">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315137.md" target="_blank">特朗普呼吁部分州“解封” 纽约州单日死亡病例创半个多月来新低</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314910.md" target="_blank">美加曾资助武汉病毒研究所 美议员深感不安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314903.md" target="_blank">施展：战狼思维误中国 勿让国际社会不信任扩大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314880.md" target="_blank">中共病毒追责 法案允许美国人在联邦法院直接起诉中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314864.md" target="_blank">更多跨国企业正减少依赖中国 习近平感到忧虑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md" target="_blank">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315172.md" target="_blank">美国国务院发表声明： 谴责香港抓捕民主派人士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315128.md" target="_blank">中国学者：战狼思维误国 加速世界与中国脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315127.md" target="_blank">世界银行、IMF: 非洲各国急需外界金援以抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315126.md" target="_blank">抗疫期间 无锡市梁溪区一日发生两起野蛮强拆</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314959.md" target="_blank">中国卫生当局下令：武汉重点人群离汉必须接受检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314907.md" target="_blank">港警大抓捕拘捕14名民主派人士   包括李柱黎智英</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314834.md" target="_blank">新冠病毒导致巨大损失 美国会推法案要中国赔偿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314791.md" target="_blank">中国报告27例新增病例，数据修改后新冠死亡4,632</a></li>
 
 </ul>
 </div>
