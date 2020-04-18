@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md">官方瞒报 黑龙江疫情恐大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314297.md">昔日首富跌落神坛？留给王健林的时间不多了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314329.md">浮亏巨大！四川国资委又踩雷了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1314487.md">宝胜政论：习近平担心政变与“换人”、将呼吁党内直选定为抢夺弹药库等的暴力政变、习已将党内改良派逼上梁山！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314128.md">台立委披露数份大陆文件 各地新一波疫情抬头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314224.md">江峰：中共收护照，美国发救济；习近平底线思维与中国人的斯德哥尔摩综合症；辽宁号来了，台湾就安全了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314429.md">中共当局进行习近平个人宣传的力度与异象</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314658.md" target="_blank">中国突然把武汉疫情死亡人数翻番 特朗普总统说实际数字高得多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314643.md" target="_blank">美国强调战略核武谈判必须包括中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314624.md" target="_blank">俄罗斯新冠疫情肆虐 部分在俄华人选择自我封锁隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314623.md" target="_blank">习近平的地位因疫情而更稳固还是被削弱？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314479.md" target="_blank">拜拜中国 &#8211; 日本花20亿美元推进“供应链改革”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314478.md" target="_blank">中国一季度GDP直落14个百分点，开40年之首例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314476.md" target="_blank">世界医学协会发函WHO 吁让台湾参加WHA 日本首相表示支持</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314475.md" target="_blank">疫情有反弹风险 中国3省多地再延后开学时间</a></li>
 
 </ul>
 </div>
