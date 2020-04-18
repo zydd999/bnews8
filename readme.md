@@ -4,26 +4,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314328.md">疯了疯了！中共诡异调升武汉病亡人数  大陆网军居然狂赞？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314250.md">强令销毁病毒样本 中共卫健委“三号文”全文曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314225.md">震撼！大陆首个公务员公开起诉中共政府隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314313.md">钱快花光 中国中产勒紧裤腰带 习近平刘鹤谈金融措辞起变化 体制开始崩溃 操控能力丧失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314297.md">昔日首富跌落神坛？留给王健林的时间不多了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md">官方瞒报 黑龙江疫情恐大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md">武汉为何突修订确诊及死亡人数 专家解读</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314329.md">浮亏巨大！四川国资委又踩雷了…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314403.md">任志强照片曝光 但被质疑非目前状况 中共史上最短命“两会”将这样召开？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1314487.md">宝胜政论：习近平担心政变与“换人”、将呼吁党内直选定为抢夺弹药库等的暴力政变、习已将党内改良派逼上梁山！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314538.md">袁天罡预言2020年「五星连珠」人间出大事 会成真吗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1314561.md">〖兲朝浮世绘〗白岩松的党性吃掉了他的人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314429.md">中共当局进行习近平个人宣传的力度与异象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314224.md">江峰：中共收护照，美国发救济；习近平底线思维与中国人的斯德哥尔摩综合症；辽宁号来了，台湾就安全了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314596.md">李么傻: 鲍毓明性侵养女案 其实就是江湖上的“养瘦马”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200418/1314535.md">凤凰传奇曾毅妻子曝光 美貌堪比当红女星 刀郎是红娘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314824.md" target="_blank">中共“六稳”变“六保” 就业粮食能源都在其中</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314822.md" target="_blank">日经：安倍这一政策令习近平非常担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314796.md" target="_blank">于永满尸检肋骨骨裂 肺部有撕裂伤痕 辽阳看守所：“突发疾病”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314789.md" target="_blank">中共病毒终结了中共在非洲的蜜月</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md" target="_blank">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314647.md" target="_blank">天亮时分：一季度GDP暴跌,死亡人数突增,中共示弱意味着什么;破解中国经济增长的迷思(政论天下第152集 20200417)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314644.md" target="_blank">官方上修武汉死亡人数 仍然疑点重重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314640.md" target="_blank">文昭：中共还在核试验，折射“武统”短板；上调病逝数，习近平压力扛不住了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314610.md" target="_blank">法国航母戴高乐号近一半船员感染新冠病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314589.md" target="_blank">美国国务卿蓬佩奥向中共提要求 让专家进武汉实验室调查</a></li>
 
 </ul>
 </div>
