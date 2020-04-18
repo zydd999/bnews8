@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314538.md">袁天罡预言2020年「五星连珠」人间出大事 会成真吗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314429.md">中共当局进行习近平个人宣传的力度与异象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1314561.md">〖兲朝浮世绘〗白岩松的党性吃掉了他的人性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314198.md">英代理首相拉布:将追究中共责任 绝不退缩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314224.md">江峰：中共收护照，美国发救济；习近平底线思维与中国人的斯德哥尔摩综合症；辽宁号来了，台湾就安全了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314796.md" target="_blank">于永满尸检肋骨骨裂 肺部有撕裂伤痕 辽阳看守所：“突发疾病”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314789.md" target="_blank">中共病毒终结了中共在非洲的蜜月</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md" target="_blank">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314774.md" target="_blank">大陆经济44年来首现负增长 第一季度GDP萎缩6.8%</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314640.md" target="_blank">文昭：中共还在核试验，折射“武统”短板；上调病逝数，习近平压力扛不住了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314610.md" target="_blank">法国航母戴高乐号近一半船员感染新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314589.md" target="_blank">美国国务卿蓬佩奥向中共提要求 让专家进武汉实验室调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314588.md" target="_blank">特朗普：新冠病毒中国实际死亡人数比官方数字“高得多”</a></li>
 
 </ul>
 </div>
