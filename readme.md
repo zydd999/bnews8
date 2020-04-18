@@ -11,15 +11,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1314561.md">〖兲朝浮世绘〗白岩松的党性吃掉了他的人性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314596.md">李么傻: 鲍毓明性侵养女案 其实就是江湖上的“养瘦马”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200418/1314535.md">凤凰传奇曾毅妻子曝光 美貌堪比当红女星 刀郎是红娘</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315041.md" target="_blank">一哥强势回应拘捕事件　　与「6.12事件」即将 一周年无关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315021.md" target="_blank">时事大家谈：兵法指导大国战疫，习主席用兵真如神？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315015.md" target="_blank">李柱铭、黎智英等10多民主人士被捕　  民主派责警滥捕及秋后算账</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315005.md" target="_blank">台军舰3官兵感染新冠肺炎　  蔡及国防官员曾接触健康受关注</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314578.md" target="_blank">中国勘探船与马来西亚船只在南海对峙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314560.md" target="_blank">美报告未明指中国违反核试验禁令 北京不打自招？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314559.md" target="_blank">美学者：中国基本不会出现粮荒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314552.md" target="_blank">疫情下，美国将如何追责？</a></li>
 
 </ul>
 </div>
