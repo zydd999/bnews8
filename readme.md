@@ -3,27 +3,27 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md">武汉为何突修订确诊及死亡人数 专家解读</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314403.md">任志强照片曝光 但被质疑非目前状况 中共史上最短命“两会”将这样召开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314538.md">袁天罡预言2020年「五星连珠」人间出大事 会成真吗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314755.md">复旦美女硕士：绝不自杀！...要我家认命 给两颗子弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1314487.md">宝胜政论：习近平担心政变与“换人”、将呼吁党内直选定为抢夺弹药库等的暴力政变、习已将党内改良派逼上梁山！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1314561.md">〖兲朝浮世绘〗白岩松的党性吃掉了他的人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314596.md">李么傻: 鲍毓明性侵养女案 其实就是江湖上的“养瘦马”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314429.md">中共当局进行习近平个人宣传的力度与异象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200418/1314535.md">凤凰传奇曾毅妻子曝光 美貌堪比当红女星 刀郎是红娘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314662.md">日经：安倍远离中共的政策令习近平非常担忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314559.md">美学者：中国基本不会出现粮荒</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314934.md" target="_blank">中共大型军演 伊俄朝也同时向美军挑衅 专家：不寻常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md" target="_blank">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md" target="_blank">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314910.md" target="_blank">美加曾资助武汉病毒研究所 美议员深感不安</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314903.md" target="_blank">施展：战狼思维误中国 勿让国际社会不信任扩大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314880.md" target="_blank">中共病毒追责 法案允许美国人在联邦法院直接起诉中共</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314739.md" target="_blank">中共调升疫情数据 川普：远不及实际数字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314738.md" target="_blank">无固定住所 不能进哈尔滨…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314737.md" target="_blank">哈尔滨再封小区 一周之内天壤之别</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314727.md" target="_blank">哈尔滨爆发交叉感染 副市长等18人被追责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314726.md" target="_blank">肋骨骨裂、肺部撕裂、大蒜抹眼…74天内至少17人被迫害离世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314713.md" target="_blank">外媒涌入武汉 各医院对医护人员下令封口</a></li>
 
 </ul>
 </div>
