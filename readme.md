@@ -4,8 +4,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314408.md">傻眼！另一个任志强有消息了！任志强被抓后首张照片曝光？中共史上最短两会这样开？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200417/1314328.md">疯了疯了！中共诡异调升武汉病亡人数  大陆网军居然狂赞？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314250.md">强令销毁病毒样本 中共卫健委“三号文”全文曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314313.md">钱快花光 中国中产勒紧裤腰带 习近平刘鹤谈金融措辞起变化 体制开始崩溃 操控能力丧失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314313.md">钱快花光 中国中产勒紧裤腰带 习近平刘鹤谈金融措辞起变化 体制开始崩溃 操控能力丧失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314297.md">昔日首富跌落神坛？留给王健林的时间不多了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md">官方瞒报 黑龙江疫情恐大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200417/1314429.md">中共当局进行习近平个人宣传的力度与异象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314596.md">李么傻: 鲍毓明性侵养女案 其实就是江湖上的“养瘦马”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200418/1314535.md">凤凰传奇曾毅妻子曝光 美貌堪比当红女星 刀郎是红娘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314838.md" target="_blank">中共媒体篡改引述国外论文栽赃美国成笑料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314824.md" target="_blank">中共“六稳”变“六保” 就业粮食能源都在其中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314822.md" target="_blank">日经：安倍这一政策令习近平非常担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314796.md" target="_blank">于永满尸检肋骨骨裂 肺部有撕裂伤痕 辽阳看守所：“突发疾病”</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md" target="_blank">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314647.md" target="_blank">天亮时分：一季度GDP暴跌,死亡人数突增,中共示弱意味着什么;破解中国经济增长的迷思(政论天下第152集 20200417)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314644.md" target="_blank">官方上修武汉死亡人数 仍然疑点重重</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314640.md" target="_blank">文昭：中共还在核试验，折射“武统”短板；上调病逝数，习近平压力扛不住了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md" target="_blank">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md" target="_blank">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314811.md" target="_blank">公安无意中透露：她的死是因为她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314810.md" target="_blank">绥芬河疫情重 医院人满为患</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md" target="_blank">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
@@ -86,14 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313275.md" target="_blank">中共「红头文件」被曝光！北京1/3就知疫情严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313161.md" target="_blank">IMF敲风险警钟 中国586家银行可能遭遇「灾难式崩盘」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313160.md" target="_blank">美国第2波裁员潮来袭！华尔街日报：白领也将受冲击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313159.md" target="_blank">不识冷藏车装尸体 华人在旁挖荠菜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200415/1313139.md" target="_blank">习近平重用他让胡春华靠边站 火了！未来中国有两大奇观？经济学者：人民币快变草纸</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314834.md" target="_blank">新冠病毒导致巨大损失 美国会推法案要中国赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314791.md" target="_blank">中国报告27例新增病例，数据修改后新冠死亡4,632</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314749.md" target="_blank">一人信神家族株连受迫害 基督徒逝世後仍影响孙子前途</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314748.md" target="_blank">花十亿美元买中国口罩，加州州长纽森被质疑</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314502.md" target="_blank">疫情安全国家排名台湾落后中国  世卫终于联系台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314496.md" target="_blank">中国两会召开时间可望在本月底确定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314491.md" target="_blank">独派团体促蔡英文鼓励并补助台商撤出中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314490.md" target="_blank">三名福州公民遭判刑    因放鞭炮迎接维权人士出狱</a></li>
 
 </ul>
 </div>
