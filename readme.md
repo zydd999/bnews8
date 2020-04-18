@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314512.md">爱丽舍宫：目前无任何事实可证明新冠病毒源自武汉病毒研究所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315090.md" target="_blank">英国出巨资进口中国试剂盒 大失所望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315073.md" target="_blank">港府：中联办拥有监督权 须按《基本法》第22条遵守香港法律</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1315044.md" target="_blank">中国国务院批准南海三沙市设立市辖区 政府驻永兴岛、永暑礁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1315014.md" target="_blank">中国驻俄罗斯大使：有国人闯关回国输入病毒令人不齿</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314824.md" target="_blank">中共“六稳”变“六保” 就业粮食能源都在其中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314822.md" target="_blank">日经：安倍这一政策令习近平非常担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314796.md" target="_blank">于永满尸检肋骨骨裂 肺部有撕裂伤痕 辽阳看守所：“突发疾病”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314789.md" target="_blank">中共病毒终结了中共在非洲的蜜月</a></li>
 
 </ul>
 </div>
