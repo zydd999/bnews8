@@ -8,15 +8,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314225.md">震撼！大陆首个公务员公开起诉中共政府隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314313.md">钱快花光 中国中产勒紧裤腰带 习近平刘鹤谈金融措辞起变化 体制开始崩溃 操控能力丧失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314286.md">官方瞒报 黑龙江疫情恐大爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314443.md">川普对重磅P4泄露病毒表态 美防长：习近平现在也没实话 中共卫健委机密全文曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314297.md">昔日首富跌落神坛？留给王健林的时间不多了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314285.md">大陆暗中列疫区？市民旅行时发现端倪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314329.md">浮亏巨大！四川国资委又踩雷了…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md">武汉为何突修订确诊及死亡人数 专家解读</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200417/1314338.md">中共内部文件：内蒙古爆发鼠疫已传至北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200417/1314403.md">任志强照片曝光 但被质疑非目前状况 中共史上最短命“两会”将这样召开？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md">武汉为何突修订确诊及死亡人数 专家解读</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314462.md">美议长骂中共外交官疯子后 突然收到很多感谢！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200417/1314399.md">公子时评：【公子时评】太像了！习近平是中国历史上第二个王莽？习近平同志与社会主义者王莽的十大相同点... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314144.md">反讽中共箝制言论 “今天北京有点热”微博爆红</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md" target="_blank">深圳工厂大量停工 打工者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314682.md" target="_blank">武汉病毒研究所P4实验室到底发生泄漏没有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md" target="_blank">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314647.md" target="_blank">天亮时分：一季度GDP暴跌,死亡人数突增,中共示弱意味着什么;破解中国经济增长的迷思(政论天下第152集 20200417)</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314334.md" target="_blank">胡锡进炫耀推特上嘲讽美国官员 引网友热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314333.md" target="_blank">雷雷要揍”败家“女作家 徐晓东吁武林：保护方方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314332.md" target="_blank">港府违诺削区议会拨款　区议员斥为打压民主派兼报复</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200417/1314330.md" target="_blank">陆口罩厂激增 产业链乱套 原料涨价数十倍</a></li>
 
 </ul>
 </div>
