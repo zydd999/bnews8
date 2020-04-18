@@ -1,8 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314534.md">武汉为何突修订确诊及死亡人数 专家解读</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314538.md">袁天罡预言2020年「五星连珠」人间出大事 会成真吗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314876.md">中央委员任总经理！一个新的巨人罩在中国地产商身前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314755.md">复旦美女硕士：绝不自杀！...要我家认命 给两颗子弹</a></li>
@@ -11,19 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1314561.md">〖兲朝浮世绘〗白岩松的党性吃掉了他的人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314596.md">李么傻: 鲍毓明性侵养女案 其实就是江湖上的“养瘦马”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314652.md">陈破空：习近平突受高捧，隐秘如同朴槿惠？政治局定下一件事。北约戒备 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314598.md">二号头目: 为啥比尔·盖茨的名声越来越臭？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md">安倍的这一举动 令习近平非常担忧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
