@@ -1,29 +1,29 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314876.md">中央委员任总经理！一个新的巨人罩在中国地产商身前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md">安倍的这一举动 令习近平非常担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314934.md">中共大型军演 伊俄朝也同时向美军挑衅 专家：不寻常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314843.md">秋后算账 香港大抓捕！李柱铭黎智英吴霭仪等至少14人被捕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md">华为罕见道歉 被指“造假惯犯”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315396.md" target="_blank">东北疫情反弹 哈尔滨女副市长遭处分</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315395.md" target="_blank">大陆新闻解读648期_时事小品：为何渴望回归中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md" target="_blank">要打仗了？传习近平军改后首次给军官加薪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315323.md" target="_blank">阻维权迫放弃信仰 精神病院暴力「治疗」上访者、宗教信徒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md" target="_blank">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315206.md" target="_blank">不自由毋宁死，美国多个州发生反对居家避疫令示威</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315174.md" target="_blank">新冠病毒人工合成？  法国诺贝尔奖得主卷入风暴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md" target="_blank">鲍毓明性侵一案细思极恐的12个细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md" target="_blank">中欧关系 风向大变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315139.md" target="_blank">抗疫：德国外长期待中国提升透明度 改变文化习惯</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315399.md" target="_blank">美国强烈谴责香港逮捕民主活动人士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315289.md" target="_blank">新冠肺炎：中国隐瞒的致命6天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315265.md" target="_blank">武汉肺炎封锁措施解除 河南迫复营业商铺挂习思想宣传牌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315172.md" target="_blank">美国国务院发表声明： 谴责香港抓捕民主派人士</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314980.md" target="_blank">警方穷追猛打　 搜查陈淑庄聚会酒吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314979.md" target="_blank">医管局拟追究参加罢工的医护人员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314970.md" target="_blank">美国新冠确诊人数突破70万　   死亡上升至3.7万人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314959.md" target="_blank">中国卫生当局下令：武汉重点人群离汉必须接受检测</a></li>
 
 </ul>
 </div>
