@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md">安倍的这一举动 令习近平非常担忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314934.md">中共大型军演 伊俄朝也同时向美军挑衅 专家：不寻常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md">华为罕见道歉 被指“造假惯犯”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200419/1315219.md">美军B-52轰炸机 突然全撤离关岛</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315414.md" target="_blank">大陆新闻解读648期_严真点评+外交部大实话：中国人死了连个数字都摊不上；中共再次创造了流行病学史上精准死亡的奇蹟。</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315413.md" target="_blank">地位不稳疯传之际 习近平军改后首次给军官加薪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315411.md" target="_blank">中共驻俄大使怒责返国公民“吃饭砸锅”惹舆论大哗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315404.md" target="_blank">骗老板儿喝钢圈清洁剂 洗车工犯案画面曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315402.md" target="_blank">“上山下乡”重启？福建贵州试点大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315396.md" target="_blank">东北疫情反弹 哈尔滨女副市长遭处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315395.md" target="_blank">大陆新闻解读648期_时事小品：为何渴望回归中国</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315249.md" target="_blank">中共警察打脸华春莹 跟踪纽时记者吓跑受访者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315229.md" target="_blank">中共不等于中国 蓬佩奥：全面问责这个政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md" target="_blank">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315218.md" target="_blank">中共外交战狼增多 美媒：取悦领导人谋升迁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315217.md" target="_blank">加保守党领袖：纳税人的钱不应送给中共政权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315206.md" target="_blank">不自由毋宁死，美国多个州发生反对居家避疫令示威</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315174.md" target="_blank">新冠病毒人工合成？  法国诺贝尔奖得主卷入风暴</a></li>
 
 </ul>
 </div>
