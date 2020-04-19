@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314876.md">中央委员任总经理！一个新的巨人罩在中国地产商身前</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314755.md">复旦美女硕士：绝不自杀！...要我家认命 给两颗子弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314844.md">安倍的这一举动 令习近平非常担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314934.md">中共大型军演 伊俄朝也同时向美军挑衅 专家：不寻常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314843.md">秋后算账 香港大抓捕！李柱铭黎智英吴霭仪等至少14人被捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
