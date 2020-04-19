@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315537.md">宝胜突发快评：孙力军突然被抓、疫情泄密还是派系斗争？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315541.md">公安部党委委员、副部长孙力军被查 涉嫌违纪违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315416.md">中共开始试行数字人民币 百姓将完全被控制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315541.md">公安部党委委员、副部长孙力军被查 涉嫌违纪违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315455.md">范畴&#65306;算总帐的日子已经到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315462.md">大外宣惨遭各国反弹 纽时：重挫习近平国际地位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315567.md">中共穷途末路连这种事都做 黑龙江成湖北第二 高官急表态 究责中共 川普表态了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315571.md">今年大陆首名军老虎落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315402.md">“上山下乡”重启？福建贵州试点大学生下乡</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315653.md" target="_blank">巴黎非饮用水发现新冠病毒痕迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315586.md" target="_blank">倘若世卫起歪风 台湾如何吹正气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md" target="_blank">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315548.md" target="_blank">中国受官方承认“新冠疫情上报第一人”：不更早通报是为谨慎</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315395.md" target="_blank">大陆新闻解读648期_时事小品：为何渴望回归中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md" target="_blank">要打仗了？传习近平军改后首次给军官加薪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315323.md" target="_blank">阻维权迫放弃信仰 精神病院暴力「治疗」上访者、宗教信徒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md" target="_blank">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 
 </ul>
 </div>
