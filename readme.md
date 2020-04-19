@@ -7,13 +7,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314934.md">中共大型军演 伊俄朝也同时向美军挑衅 专家：不寻常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314843.md">秋后算账 香港大抓捕！李柱铭黎智英吴霭仪等至少14人被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315320.md" target="_blank">质疑中共防疫透明度 欧洲对中共立场更强硬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315316.md" target="_blank">中共暗中相助 朝鲜违反联合国规定暗度陈仓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315315.md" target="_blank">公民记者：武汉政治化如纳粹 感染人数仍上升 工厂机器空转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315296.md" target="_blank">又烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315295.md" target="_blank">疫情疑二次爆发 中国3省多地再延后开学时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315294.md" target="_blank">疫情下的哈尔滨 雾霾红色预警</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md" target="_blank">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315137.md" target="_blank">特朗普呼吁部分州“解封” 纽约州单日死亡病例创半个多月来新低</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315136.md" target="_blank">全欧新冠病毒死亡病例突破10万 西班牙禁足措施将再延两周</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md" target="_blank">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315090.md" target="_blank">英国出巨资进口中国试剂盒 大失所望</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315073.md" target="_blank">港府：中联办拥有监督权 须按《基本法》第22条遵守香港法律</a></li>
 
 </ul>
 </div>
