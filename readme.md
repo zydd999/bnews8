@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314755.md">复旦美女硕士：绝不自杀！...要我家认命 给两颗子弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314858.md">港媒：中共高层搬离中南海 避疫地曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md">中国米价全面上涨 当局紧急放粮维稳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315229.md" target="_blank">中共不等于中国 蓬佩奥：全面问责这个政权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md" target="_blank">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315218.md" target="_blank">中共外交战狼增多 美媒：取悦领导人谋升迁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315217.md" target="_blank">加保守党领袖：纳税人的钱不应送给中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315206.md" target="_blank">不自由毋宁死，美国多个州发生反对居家避疫令示威</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314978.md" target="_blank">陈破空：《中南海厚黑学》连载（1）：一部拆解红朝统治术的独特作品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314941.md" target="_blank">最新型F-15战斗机首飞 大秀维京爬升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md" target="_blank">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314934.md" target="_blank">中共大型军演 伊俄朝也同时向美军挑衅 专家：不寻常</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md" target="_blank">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
 
 </ul>
 </div>
