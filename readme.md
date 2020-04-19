@@ -3,12 +3,12 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md">华为罕见道歉 被指“造假惯犯”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315472.md" target="_blank">寻求俄美关系正常化 普京和川普频繁童话创纪录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315443.md" target="_blank">武汉追认千人死藏玄机 川普隐射北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315462.md" target="_blank">大外宣惨遭各国反弹 纽时：重挫习近平国际地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315457.md" target="_blank">回应质疑 武汉病毒所否认P4实验室“泄露”“人工合成”病毒</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315296.md" target="_blank">又烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315295.md" target="_blank">疫情疑二次爆发 中国3省多地再延后开学时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315294.md" target="_blank">疫情下的哈尔滨 雾霾红色预警</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315293.md" target="_blank">“拿10万块钱就放人 不拿就劳教 ”</a></li>
 
 </ul>
 </div>
