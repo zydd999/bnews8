@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
@@ -12,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md">华为罕见道歉 被指“造假惯犯”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200419/1315219.md">美军B-52轰炸机 突然全撤离关岛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md" target="_blank">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315445.md" target="_blank">貌合神离 尴尬的中俄抗疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315444.md" target="_blank">参众议员提法案 助美国人因病毒受损起诉中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315423.md" target="_blank">浙江高法前院长死亡 曾要求法院迫害法轮功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315416.md" target="_blank">中共开始试行数字人民币 百姓将完全被控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315414.md" target="_blank">大陆新闻解读648期_严真点评+外交部大实话：中国人死了连个数字都摊不上；中共再次创造了流行病学史上精准死亡的奇蹟。</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315292.md" target="_blank">现场视频：大陆商场白人能进 黑人不行？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315291.md" target="_blank">河北一中共政协委员撞死2名女生逃逸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315290.md" target="_blank">现场视频：哈尔滨传染链跨省传播 抚顺现疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315267.md" target="_blank">民众爆料 黑龙江海伦市今天开始封城</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315250.md" target="_blank">哈尔滨现22岁女&quot;毒王&quot; 内蒙禁黑龙江人进入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315249.md" target="_blank">中共警察打脸华春莹 跟踪纽时记者吓跑受访者</a></li>
 
 </ul>
 </div>
