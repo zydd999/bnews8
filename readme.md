@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
@@ -21,8 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315443.md" target="_blank">武汉追认千人死藏玄机 川普隐射北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315462.md" target="_blank">大外宣惨遭各国反弹 纽时：重挫习近平国际地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315457.md" target="_blank">回应质疑 武汉病毒所否认P4实验室“泄露”“人工合成”病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md" target="_blank">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315445.md" target="_blank">貌合神离 尴尬的中俄抗疫</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315295.md" target="_blank">疫情疑二次爆发 中国3省多地再延后开学时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315294.md" target="_blank">疫情下的哈尔滨 雾霾红色预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315293.md" target="_blank">“拿10万块钱就放人 不拿就劳教 ”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315292.md" target="_blank">现场视频：大陆商场白人能进 黑人不行？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315291.md" target="_blank">河北一中共政协委员撞死2名女生逃逸</a></li>
 
 </ul>
 </div>
