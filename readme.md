@@ -2,26 +2,26 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200418/1315012.md">邱家军：超级重磅：习近平的「身边人」公开倒习 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315239.md">倪萍终于走了 永远离开了我们…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200418/1315035.md">静悄悄的战争已经降临</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md">中欧关系 风向大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315207.md">邱家军：德媒：习近平的政治生命即将终结 707 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md">华为罕见道歉 被指“造假惯犯”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200419/1315219.md">美军B-52轰炸机 突然全撤离关岛</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315435.md">韩国第3大集团撤资中国 没钱了!地方官批中央大吐苦水 曹德旺:没人有远虑拖一年重一年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315402.md">“上山下乡”重启？福建贵州试点大学生下乡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200419/1315340.md">两女员工搞定领导后 一个升职 一个在晚上收到领导短信…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315229.md">中共不等于中国 蓬佩奥：全面问责这个政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315103.md">李咏女儿戴口罩爆粗口 不顾妈妈反对执意外出 疑已进入叛逆期</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315548.md" target="_blank">中国受官方承认“新冠疫情上报第一人”：不更早通报是为谨慎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md" target="_blank">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md" target="_blank">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315472.md" target="_blank">寻求俄美关系正常化 普京和川普频繁童话创纪录</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md" target="_blank">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315320.md" target="_blank">质疑中共防疫透明度 欧洲对中共立场更强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315316.md" target="_blank">中共暗中相助 朝鲜违反联合国规定暗度陈仓</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315315.md" target="_blank">公民记者：武汉政治化如纳粹 感染人数仍上升 工厂机器空转</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md" target="_blank">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315435.md" target="_blank">韩国第3大集团撤资中国 没钱了!地方官批中央大吐苦水 曹德旺:没人有远虑拖一年重一年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md" target="_blank">华为罕见道歉 被指“造假惯犯”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md" target="_blank">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
@@ -87,13 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314299.md" target="_blank">中国各地新一波疫情抬头 黑龙江已成重灾区官方隐瞒 纽约香港人口接近疫情相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200417/1314184.md" target="_blank">中国数字人民币开始试行 百姓将完全被控制？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313809.md" target="_blank">“中国17个家族资产达到5万亿以上” 恐败选中共香港硬推23条 江系中联办副主任下落不明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200416/1313717.md" target="_blank">3大院士联手迫停瑞德西韦 北京广州哈尔滨最新消息 细思极惨！官版:至少400孤儿</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315552.md" target="_blank">焦点对话：专访文贯中：“去中国化”思潮崛起 疫情下的美中&quot;零和博弈&quot;？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315551.md" target="_blank">台湾再爆官兵集体感染新冠病毒　19万军人即日起全天候配戴口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315535.md" target="_blank">隔离14天后续受软禁　王全璋出狱归家无期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315534.md" target="_blank">蓬佩奥批评北京违反《中英联合声明》　拘捕香港民主派人士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315533.md" target="_blank">中联办角色模糊　港府三改新闻稿掩饰</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315041.md" target="_blank">一哥强势回应拘捕事件　　与「6.12事件」即将 一周年无关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315021.md" target="_blank">时事大家谈：兵法指导大国战疫，习主席用兵真如神？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315015.md" target="_blank">李柱铭、黎智英等10多民主人士被捕　  民主派责警滥捕及秋后算账</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315005.md" target="_blank">台军舰3官兵感染新冠肺炎　  蔡及国防官员曾接触健康受关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314983.md" target="_blank">武汉修正市内累计死亡人数　 特朗普质疑中国不治者远高于美国</a></li>
 
 </ul>
 </div>
