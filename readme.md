@@ -13,15 +13,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315435.md">韩国第3大集团撤资中国 没钱了!地方官批中央大吐苦水 曹德旺:没人有远虑拖一年重一年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1315008.md">中国二次疫情大爆发 黑龙江成第二个湖北  高官急表态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315435.md">韩国第3大集团撤资中国 没钱了!地方官批中央大吐苦水 曹德旺:没人有远虑拖一年重一年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315402.md">“上山下乡”重启？福建贵州试点大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315229.md">中共不等于中国 蓬佩奥：全面问责这个政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200419/1315103.md">李咏女儿戴口罩爆粗口 不顾妈妈反对执意外出 疑已进入叛逆期</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315535.md" target="_blank">隔离14天后续受软禁　王全璋出狱归家无期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315534.md" target="_blank">蓬佩奥批评北京违反《中英联合声明》　拘捕香港民主派人士</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315533.md" target="_blank">中联办角色模糊　港府三改新闻稿掩饰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315529.md" target="_blank">澳大利亚要求独立调查新冠病毒问题增加对中国更多压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315507.md" target="_blank">709人权律师王全璋出狱遭强制“隔离检疫”后仍无自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315399.md" target="_blank">美国强烈谴责香港逮捕民主活动人士</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315015.md" target="_blank">李柱铭、黎智英等10多民主人士被捕　  民主派责警滥捕及秋后算账</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1315005.md" target="_blank">台军舰3官兵感染新冠肺炎　  蔡及国防官员曾接触健康受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314983.md" target="_blank">武汉修正市内累计死亡人数　 特朗普质疑中国不治者远高于美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314982.md" target="_blank">中哈两国因匿名文章陷外交风波　 《环时》补镬归咎外媒炒作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314981.md" target="_blank">口罩需求大增   主要材料出现倒卖价格暴升</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200418/1314980.md" target="_blank">警方穷追猛打　 搜查陈淑庄聚会酒吧</a></li>
 
 </ul>
 </div>
