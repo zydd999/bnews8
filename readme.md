@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315323.md" target="_blank">阻维权迫放弃信仰 精神病院暴力「治疗」上访者、宗教信徒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315386.md" target="_blank">内斗?中共前大使罕见批战狼外交：吓不倒人反而害了自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315320.md" target="_blank">质疑中共防疫透明度 欧洲对中共立场更强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315316.md" target="_blank">中共暗中相助 朝鲜违反联合国规定暗度陈仓</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md" target="_blank">中欧关系 风向大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315139.md" target="_blank">抗疫：德国外长期待中国提升透明度 改变文化习惯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315138.md" target="_blank">陈破空：习近平图谋港台。突然给军队加薪！藏身四条密道。任志强牵动高层暗斗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315137.md" target="_blank">特朗普呼吁部分州“解封” 纽约州单日死亡病例创半个多月来新低</a></li>
 
 </ul>
 </div>
