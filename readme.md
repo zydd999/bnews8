@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315097.md">“别招惹我老公”淘宝总裁妻呛声女网红</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200419/1315245.md">〖微博谈〗中国这是嫌自己死的不够快吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315455.md">范畴&#65306;算总帐的日子已经到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315416.md">中共开始试行数字人民币 百姓将完全被控制</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315455.md">范畴&#65306;算总帐的日子已经到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315226.md">中国驻俄大使指返国公民砸中俄合作这口锅网民大哗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315462.md">大外宣惨遭各国反弹 纽时：重挫习近平国际地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315402.md">“上山下乡”重启？福建贵州试点大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md">鲍毓明性侵一案细思极恐的12个细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200419/1315340.md">两女员工搞定领导后 一个升职 一个在晚上收到领导短信…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315595.md" target="_blank">中国驻俄大使言论惹议 哈尔滨爆群聚感染疫情反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315577.md" target="_blank">加拿大安老院护士怕死集体逃亡　长者被遗弃31人死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315575.md" target="_blank">中驻俄大使斥责带毒闯关中国人无道德底线惹反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315572.md" target="_blank">印度拟修改投资规则 防中资趁疫情收购印企</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315125.md" target="_blank">台外交部：台湾防疫获肯定 完整参与WHO创三赢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315124.md" target="_blank">启动新冠病毒调查  美国会推法案要中国赔偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315102.md" target="_blank">法诺贝尔医学家称病毒人工合成 学界反驳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315078.md" target="_blank">中共1月初曾发红头文件 显示对武汉疫情刻意隐瞒</a></li>
 
 </ul>
 </div>
