@@ -9,12 +9,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314744.md">距山东半岛仅43海里！美军导弹驱逐舰驶入黄海航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314904.md">罕见！中共政治局“六稳”变“六保” 保啥就是啥要不保？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314940.md">北京出台严管措施 根本目的不是防疫而是这个！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314689.md">深圳工厂大量停工 打工者流落街头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314879.md">中共隐瞒疫情遭全球问责 习近平打电话找大哥出头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314955.md">烧尸？哈尔滨疫情告急 PM2.5浓度超4000</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314788.md">公安无意中透露：她的死是因为儿子死后她讲的话太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200418/1314826.md">全球索赔将是庚子赔款4000倍！谢田：中国百姓如何才能不买单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200418/1314835.md">印度男孩精准预言中共病毒爆发时间！结束时间也那么准吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md">武汉等多地发放消费券 网友“笑翻”</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315206.md" target="_blank">不自由毋宁死，美国多个州发生反对居家避疫令示威</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315174.md" target="_blank">新冠病毒人工合成？  法国诺贝尔奖得主卷入风暴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315170.md" target="_blank">鲍毓明性侵一案细思极恐的12个细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315157.md" target="_blank">中欧关系 风向大变</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314925.md" target="_blank">禁黑龙江人员进入内蒙古根河市开第一枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314924.md" target="_blank">武汉等多地发放消费券 网友“笑翻”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314910.md" target="_blank">美加曾资助武汉病毒研究所 美议员深感不安</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200418/1314903.md" target="_blank">施展：战狼思维误中国 勿让国际社会不信任扩大</a></li>
 
 </ul>
 </div>
