@@ -4,21 +4,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315594.md">俞正声威胁王岐山信有大破绽？传习要打仗首次给军官加薪 惊人逆转 中共真怕什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315725.md">陈破空：突发：国保局长倒戈，习近平抢先下手！川普赶走中国记者。德国澳洲有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315725.md">陈破空：突发：国保局长倒戈，习近平抢先下手！川普赶走中国记者。德国澳洲有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315662.md">投资者要逃生了？今年“五穷”后半年料“没肉食”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316007.md">中共公安副部长孙力军落马 澳洲登记结婚 传妻银行存款数百亿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200420/1315711.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法 果然很尴尬！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315990.md">中共公安部副部长孙力军落马对习近平有四大好处 孙力军还有这些罪恶</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316156.md" target="_blank">传方济各秘密酝酿访华 首站武汉</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316153.md" target="_blank">中国公安部：孙力军与周永康孟宏伟并列</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316150.md" target="_blank">伤肝至深 新冠病毒捡命医生全身发黑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316142.md" target="_blank">中国公安部表态：孙力军与周永康孟宏伟并列</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316116.md" target="_blank">中联办凌驾《基本法》？ 民主派：比释法更差</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316109.md" target="_blank">CLONE &#8211; 日本准备21万间酒店客房接受冠状病毒轻症和无症状感染者</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316000.md" target="_blank">荒唐…江苏家具厂庆祝复工推这种比赛被骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315990.md" target="_blank">中共公安部副部长孙力军落马对习近平有四大好处 孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315989.md" target="_blank">要开战？美战略轰炸机16年来首次重大异动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315988.md" target="_blank">李文亮又被追授“青年五四奖章”  网友“哭墙”留言：你需要吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315987.md" target="_blank">中国疫情 新确诊续减无症状仍忧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315982.md" target="_blank">草菅人命！公民记者监狱回忆录(二) 审讯室的老虎凳</a></li>
 
 </ul>
 </div>
