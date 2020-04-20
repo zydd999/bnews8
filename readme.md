@@ -5,9 +5,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315594.md">俞正声威胁王岐山信有大破绽？传习要打仗首次给军官加薪 惊人逆转 中共真怕什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315541.md">公安部党委委员、副部长孙力军被查 涉嫌违纪违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315567.md">中共穷途末路连这种事都做 黑龙江成湖北第二 高官急表态 究责中共 川普表态了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315725.md">陈破空：突发：国保局长倒戈，习近平抢先下手！川普赶走中国记者。德国澳洲有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315571.md">今年大陆首名军老虎落马</a></li>
@@ -18,11 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200420/1315711.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法 果然很尴尬！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315443.md">武汉追认千人死藏玄机 川普隐射北京</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315982.md" target="_blank">草菅人命！公民记者监狱回忆录(二) 审讯室的老虎凳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md" target="_blank">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315965.md" target="_blank">美前议员：追责方法多有一招可重创中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315964.md" target="_blank">说明啥？沈阳：哈尔滨、牡丹江来沈人员须隔离观察14天</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315801.md" target="_blank">病毒大流行之际 压制香港仍是中共优先事项</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315800.md" target="_blank">专家：香港大抓捕 中共想转移世界追责视线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315799.md" target="_blank">不受疫情影响 美司法部加强打击中共间谍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315798.md" target="_blank">大瘟疫如何追究中共罪责？ 五专家出谋划策</a></li>
 
 </ul>
 </div>
