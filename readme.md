@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316236.md" target="_blank">湖北场景再现 网传哈尔滨封死楼门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md" target="_blank">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316226.md" target="_blank">中共利用脸书广告攻击美国 传播虚假信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316172.md" target="_blank">陈破空：陈破空谈《常识》（之42）</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316033.md" target="_blank">盘石舰确诊者足迹遍及半个台湾蔡英文要求军方坦诚以对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316032.md" target="_blank">排名第5分管疫情副部长落马案涉周永康? 公安部连夜表态拥护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316031.md" target="_blank">湖北高三5月6日复学</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316027.md" target="_blank">阿里巴巴巨资强化云领域</a></li>
 
 </ul>
 </div>
