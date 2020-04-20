@@ -7,9 +7,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315537.md">宝胜突发快评：孙力军突然被抓、疫情泄密还是派系斗争？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315416.md">中共开始试行数字人民币 百姓将完全被控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315541.md">公安部党委委员、副部长孙力军被查 涉嫌违纪违法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315567.md">中共穷途末路连这种事都做 黑龙江成湖北第二 高官急表态 究责中共 川普表态了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315571.md">今年大陆首名军老虎落马</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200419/1315340.md">两女员工搞定领导后 一个升职 一个在晚上收到领导短信…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315411.md">中共驻俄大使怒责返国公民“吃饭砸锅”惹舆论大哗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315772.md" target="_blank">生财有道！哈尔滨封闭小区 出门收费20元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315771.md" target="_blank">天象异常 有亿年藏字石的平塘县大降冰雹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md" target="_blank">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315747.md" target="_blank">法国戴高乐航母千名海员如何感染了新冠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315745.md" target="_blank">神奇的巧合！他们做了这件事情后 肺炎都消失了&#8230;</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md" target="_blank">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315445.md" target="_blank">貌合神离 尴尬的中俄抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315444.md" target="_blank">参众议员提法案 助美国人因病毒受损起诉中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315423.md" target="_blank">浙江高法前院长死亡 曾要求法院迫害法轮功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315416.md" target="_blank">中共开始试行数字人民币 百姓将完全被控制</a></li>
 
 </ul>
 </div>
