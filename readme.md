@@ -12,14 +12,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315662.md">投资者要逃生了？今年“五穷”后半年料“没肉食”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200420/1315711.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法 果然很尴尬！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316093.md" target="_blank">新冠病毒或引发新一轮全球粮食危机 官方称中国没危险</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316083.md" target="_blank">〖博谈编译〗法国诺贝尔医学奖得主：冠状病毒来源于武汉实验室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md" target="_blank">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315972.md" target="_blank">中共是祸害人类的病毒之源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316051.md" target="_blank">日本准备21万间酒店客房接受冠装病毒轻症和无症状感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316039.md" target="_blank">美国今年人口普查有人发起“香港人不是中国人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316034.md" target="_blank">尴尬：中企老板翻墙偷拍竞争对手被抓</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315965.md" target="_blank">美前议员：追责方法多有一招可重创中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315964.md" target="_blank">说明啥？沈阳：哈尔滨、牡丹江来沈人员须隔离观察14天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315960.md" target="_blank">纳瓦罗：中共垄断个人防护服市场 牟取暴利</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md" target="_blank">【独家】各地秘密培训 中共层层瞒疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md" target="_blank">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315948.md" target="_blank">“吃饭时发现孩子不见了” 4名儿童被埋身亡 涉事楼盘刚开工</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315944.md" target="_blank">河南4儿童疑被埋死亡 涉事工地被投诉违建</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316095.md" target="_blank">铜锣湾书店原定本周台北重开　突收律师信被指侵权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316094.md" target="_blank">王全璋归心似箭　希望尽快与家人团聚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316082.md" target="_blank">欧元区对全球其他地区2月份贸易顺差持续增长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316080.md" target="_blank">美中矛盾全面升级  香港成北京谈判筹码</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316079.md" target="_blank">美中矛盾全面升级　香港成北京谈判筹码</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316069.md" target="_blank">北京须回应国际间要求调查其隐瞒疫情问题的最新呼吁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316062.md" target="_blank">中联办自称不受《基本法》22条所限？　李柱铭轰西环自欺欺人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316061.md" target="_blank">中国禁旅俄公民回国避疫　网民戏言请《战狼》主角吴京打救</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315572.md" target="_blank">印度拟修改投资规则 防中资趁疫情收购印企</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315571.md" target="_blank">今年大陆首名军老虎落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315570.md" target="_blank">特朗普警告中国要为刻意隐瞒疫情面对后果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315569.md" target="_blank">谭德塞防疫工作惹争议　 乐坛天后力撑　 人道医生轰不力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315568.md" target="_blank">美证实CDC实验室受污染　  拖延生产试剂令疫情失控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315552.md" target="_blank">焦点对话：专访文贯中：“去中国化”思潮崛起 疫情下的美中&quot;零和博弈&quot;？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315551.md" target="_blank">台湾再爆官兵集体感染新冠病毒　19万军人即日起全天候配戴口罩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315535.md" target="_blank">隔离14天后续受软禁　王全璋出狱归家无期</a></li>
 
 </ul>
 </div>
