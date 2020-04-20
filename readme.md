@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316165.md">孙力军案不简单 传或涉肖建华铜锣湾709多案让习近平背黑锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200420/1315763.md">长期喝烧开的自来水 不碰桶装水、矿泉水 身体会变成什么样？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316316.md" target="_blank">五角大楼正式启用《国防生产法》减少对外国医药品的依赖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316311.md" target="_blank">生意惨淡  武汉酒店、餐饮业主求救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316285.md" target="_blank">美国政府因疫情允许推迟部分关税 对华商品除外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316269.md" target="_blank">黑龙江成新的重灾区   国人要回国“有违道德”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316268.md" target="_blank">德默克尔加入美英法澳促中国透明</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316069.md" target="_blank">北京须回应国际间要求调查其隐瞒疫情问题的最新呼吁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316062.md" target="_blank">中联办自称不受《基本法》22条所限？　李柱铭轰西环自欺欺人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316061.md" target="_blank">中国禁旅俄公民回国避疫　网民戏言请《战狼》主角吴京打救</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316057.md" target="_blank">哈萨克斯坦人权组织阿塔珠尔特负责人被警察带走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316052.md" target="_blank">台湾抗疫有成 美日声援 仍无缘参与世卫大会</a></li>
 
 </ul>
 </div>
