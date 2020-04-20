@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315662.md">投资者要逃生了？今年“五穷”后半年料“没肉食”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315725.md">陈破空：突发：国保局长倒戈，习近平抢先下手！川普赶走中国记者。德国澳洲有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316007.md">中共公安副部长孙力军落马 澳洲登记结婚 传妻银行存款数百亿</a></li>
@@ -15,8 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315990.md">中共公安部副部长孙力军落马对习近平有四大好处 孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315905.md">“中国的经济危机仅仅刚开始 真正难过的日子还在后面”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316257.md" target="_blank">武汉2染疫医生逃过生死劫 但肝损伤致全身发黑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316236.md" target="_blank">湖北场景再现 网传哈尔滨封死楼门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md" target="_blank">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316226.md" target="_blank">中共利用脸书广告攻击美国 传播虚假信息</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316034.md" target="_blank">尴尬：中企老板翻墙偷拍竞争对手被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316033.md" target="_blank">盘石舰确诊者足迹遍及半个台湾蔡英文要求军方坦诚以对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316032.md" target="_blank">排名第5分管疫情副部长落马案涉周永康? 公安部连夜表态拥护</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316031.md" target="_blank">湖北高三5月6日复学</a></li>
 
 </ul>
 </div>
