@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315594.md">俞正声威胁王岐山信有大破绽？传习要打仗首次给军官加薪 惊人逆转 中共真怕什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315537.md">宝胜突发快评：孙力军突然被抓、疫情泄密还是派系斗争？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315324.md">中共政治局常委迁至北京西山，是即将武统台湾的信号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315391.md">要打仗了？传习近平军改后首次给军官加薪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315416.md">中共开始试行数字人民币 百姓将完全被控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315541.md">公安部党委委员、副部长孙力军被查 涉嫌违纪违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315567.md">中共穷途末路连这种事都做 黑龙江成湖北第二 高官急表态 究责中共 川普表态了！</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315571.md">今年大陆首名军老虎落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315455.md">范畴&#65306;算总帐的日子已经到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315462.md">大外宣惨遭各国反弹 纽时：重挫习近平国际地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315402.md">“上山下乡”重启？福建贵州试点大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200419/1315394.md">德媒：“文革以来的最大崩溃”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200419/1315340.md">两女员工搞定领导后 一个升职 一个在晚上收到领导短信…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200419/1315340.md">两女员工搞定领导后 一个升职 一个在晚上收到领导短信…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315662.md">投资者要逃生了？今年“五穷”后半年料“没肉食”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,14 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315802.md" target="_blank">中共肺炎下“一带一路”重点国家反共潮起</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315801.md" target="_blank">病毒大流行之际 压制香港仍是中共优先事项</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315800.md" target="_blank">专家：香港大抓捕 中共想转移世界追责视线</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315799.md" target="_blank">不受疫情影响 美司法部加强打击中共间谍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315798.md" target="_blank">大瘟疫如何追究中共罪责？ 五专家出谋划策</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315797.md" target="_blank">湖北应城抗议高价菜 业主被捕 民众：秋后算账</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315796.md" target="_blank">网友直击：广州好世界广场星巴克员工感染 上千人检测排查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315795.md" target="_blank">1 200美元不敌50元RMB？陆媒贬美遭吐槽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315772.md" target="_blank">生财有道！哈尔滨封闭小区 出门收费20元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315771.md" target="_blank">天象异常 有亿年藏字石的平塘县大降冰雹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md" target="_blank">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
@@ -49,14 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315548.md" target="_blank">中国受官方承认“新冠疫情上报第一人”：不更早通报是为谨慎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md" target="_blank">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md" target="_blank">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315472.md" target="_blank">寻求俄美关系正常化 普京和川普频繁童话创纪录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200419/1315441.md" target="_blank">专访方方：如果我不“交代”，谣言就永远没完</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315443.md" target="_blank">武汉追认千人死藏玄机 川普隐射北京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315462.md" target="_blank">大外宣惨遭各国反弹 纽时：重挫习近平国际地位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315457.md" target="_blank">回应质疑 武汉病毒所否认P4实验室“泄露”“人工合成”病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315446.md" target="_blank">疫情凸显中共说谎本性 习近平的地位还能保多久？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315445.md" target="_blank">貌合神离 尴尬的中俄抗疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315444.md" target="_blank">参众议员提法案 助美国人因病毒受损起诉中共</a></li>
 
 </ul>
 </div>
