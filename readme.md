@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316280.md" target="_blank">陈破空：紧急会议：赵克志连用六个词，喊明孙力军反习。事关最大国际话题</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md" target="_blank">健康码原来这么可怕！人人自危</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316277.md" target="_blank">网友直击：哈尔滨将感染者楼门封死 恐发生人道灾难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316276.md" target="_blank">李文亮之后 又一位医生因“不当言论”被处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316257.md" target="_blank">武汉2染疫医生逃过生死劫 但肝损伤致全身发黑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316236.md" target="_blank">湖北场景再现 网传哈尔滨封死楼门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md" target="_blank">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md" target="_blank">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315972.md" target="_blank">中共是祸害人类的病毒之源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316051.md" target="_blank">日本准备21万间酒店客房接受冠装病毒轻症和无症状感染者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316039.md" target="_blank">美国今年人口普查有人发起“香港人不是中国人”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316034.md" target="_blank">尴尬：中企老板翻墙偷拍竞争对手被抓</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316033.md" target="_blank">盘石舰确诊者足迹遍及半个台湾蔡英文要求军方坦诚以对</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316032.md" target="_blank">排名第5分管疫情副部长落马案涉周永康? 公安部连夜表态拥护</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316285.md" target="_blank">美国政府因疫情允许推迟部分关税 对华商品除外</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316269.md" target="_blank">黑龙江成新的重灾区   国人要回国“有违道德”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316268.md" target="_blank">德默克尔加入美英法澳促中国透明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316217.md" target="_blank">铜锣湾书店台北开张前夕被人抢注商标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md" target="_blank">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316181.md" target="_blank">马来西亚和越南如何应对中国在南中国海有争议水域显示力量？</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316061.md" target="_blank">中国禁旅俄公民回国避疫　网民戏言请《战狼》主角吴京打救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316057.md" target="_blank">哈萨克斯坦人权组织阿塔珠尔特负责人被警察带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316052.md" target="_blank">台湾抗疫有成 美日声援 仍无缘参与世卫大会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316046.md" target="_blank">公安部副部长孙力军倒台  任内曾执行多起抓捕行动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316028.md" target="_blank">中联办坐拥757私窦值34亿　黄之锋质疑有逃税漏洞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316024.md" target="_blank">中国公安高官孙力军落马 舆论高度关注</a></li>
 
 </ul>
 </div>
