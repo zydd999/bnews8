@@ -17,11 +17,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200420/1315711.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法 果然很尴尬！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200420/1315730.md">爱国者雷雷出征，世界惊出一身冷汗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316051.md" target="_blank">日本准备21万间酒店客房接受冠装病毒轻症和无症状感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316039.md" target="_blank">美国今年人口普查有人发起“香港人不是中国人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316034.md" target="_blank">尴尬：中企老板翻墙偷拍竞争对手被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316033.md" target="_blank">盘石舰确诊者足迹遍及半个台湾蔡英文要求军方坦诚以对</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md" target="_blank">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315948.md" target="_blank">“吃饭时发现孩子不见了” 4名儿童被埋身亡 涉事楼盘刚开工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315944.md" target="_blank">河南4儿童疑被埋死亡 涉事工地被投诉违建</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315943.md" target="_blank">广州等城市与武汉并列疫区 “只有广州人还蒙在鼓里”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316052.md" target="_blank">台湾抗疫有成 美日声援 仍无缘参与世卫大会</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316046.md" target="_blank">公安部副部长孙力军倒台  任内曾执行多起抓捕行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316028.md" target="_blank">中联办坐拥757私窦值34亿　黄之锋质疑有逃税漏洞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316024.md" target="_blank">中国公安高官孙力军落马 舆论高度关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315994.md" target="_blank">【耳边风】418大抓捕　蓬佩奥亲自下令回应</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315533.md" target="_blank">中联办角色模糊　港府三改新闻稿掩饰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315529.md" target="_blank">澳大利亚要求独立调查新冠病毒问题增加对中国更多压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315507.md" target="_blank">709人权律师王全璋出狱遭强制“隔离检疫”后仍无自由</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315399.md" target="_blank">美国强烈谴责香港逮捕民主活动人士</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315289.md" target="_blank">新冠肺炎：中国隐瞒的致命6天</a></li>
 
 </ul>
 </div>
