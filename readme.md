@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315662.md">投资者要逃生了？今年“五穷”后半年料“没肉食”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200420/1315711.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法 果然很尴尬！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200420/1315730.md">爱国者雷雷出征，世界惊出一身冷汗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316069.md" target="_blank">北京须回应国际间要求调查其隐瞒疫情问题的最新呼吁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316062.md" target="_blank">中联办自称不受《基本法》22条所限？　李柱铭轰西环自欺欺人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316061.md" target="_blank">中国禁旅俄公民回国避疫　网民戏言请《战狼》主角吴京打救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316057.md" target="_blank">哈萨克斯坦人权组织阿塔珠尔特负责人被警察带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316052.md" target="_blank">台湾抗疫有成 美日声援 仍无缘参与世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316046.md" target="_blank">公安部副部长孙力军倒台  任内曾执行多起抓捕行动</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315552.md" target="_blank">焦点对话：专访文贯中：“去中国化”思潮崛起 疫情下的美中&quot;零和博弈&quot;？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315551.md" target="_blank">台湾再爆官兵集体感染新冠病毒　19万军人即日起全天候配戴口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315535.md" target="_blank">隔离14天后续受软禁　王全璋出狱归家无期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315534.md" target="_blank">蓬佩奥批评北京违反《中英联合声明》　拘捕香港民主派人士</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315533.md" target="_blank">中联办角色模糊　港府三改新闻稿掩饰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315529.md" target="_blank">澳大利亚要求独立调查新冠病毒问题增加对中国更多压力</a></li>
 
 </ul>
 </div>
