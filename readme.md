@@ -5,23 +5,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200419/1315537.md">宝胜突发快评：孙力军突然被抓、疫情泄密还是派系斗争？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315717.md">中国公安部副部孙力军突落马  有点荒诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315757.md">中共官媒宣传照泄密？武汉病毒所惊见…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315476.md">方方：如果我不“交代”谣言就永远没完 访谈被封</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315567.md">中共穷途末路连这种事都做 黑龙江成湖北第二 高官急表态 究责中共 川普表态了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200419/1315541.md">公安部党委委员、副部长孙力军被查 涉嫌违纪违法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315725.md">陈破空：突发：国保局长倒戈，习近平抢先下手！川普赶走中国记者。德国澳洲有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200419/1315571.md">今年大陆首名军老虎落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315725.md">陈破空：突发：国保局长倒戈，习近平抢先下手！川普赶走中国记者。德国澳洲有话说 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315566.md">中国公安部副部长孙力军被审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315662.md">投资者要逃生了？今年“五穷”后半年料“没肉食”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315821.md">中共的新闻要反着听！他妻子看到一条新闻 开始存粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315637.md">分管国保督导防疫 中共公安部副部长孙力军被查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200420/1315711.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法 果然很尴尬！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200420/1315641.md">《石涛聚焦》「孙力军最不该此时此刻被抓 习近平为什麽？」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315884.md">孙力军落马 刚推两女警入党 罪行涉阴谋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1315674.md">“同一个世界”全球联唱 独缺中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md">失业潮藏不住了 内需如何释放？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200419/1315477.md">失业威胁降临 福建贵州两省开始大学生下乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315732.md">报应来了！公安部副部长 前610副主任孙力军落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200420/1315730.md">爱国者雷雷出征，世界惊出一身冷汗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316039.md" target="_blank">美国今年人口普查有人发起“香港人不是中国人”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316034.md" target="_blank">尴尬：中企老板翻墙偷拍竞争对手被抓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316033.md" target="_blank">盘石舰确诊者足迹遍及半个台湾蔡英文要求军方坦诚以对</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316032.md" target="_blank">排名第5分管疫情副部长落马案涉周永康? 公安部连夜表态拥护</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316031.md" target="_blank">湖北高三5月6日复学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316027.md" target="_blank">阿里巴巴巨资强化云领域</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316022.md" target="_blank">中国高层布局疫情后 降息宽松加大扶持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316016.md" target="_blank">德国《画报》点名习近平为世界疫情负责 中国使馆再5文厉批</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315948.md" target="_blank">“吃饭时发现孩子不见了” 4名儿童被埋身亡 涉事楼盘刚开工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315944.md" target="_blank">河南4儿童疑被埋死亡 涉事工地被投诉违建</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315943.md" target="_blank">广州等城市与武汉并列疫区 “只有广州人还蒙在鼓里”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315925.md" target="_blank">东莞长安镇一工厂周末无人时起火 网友：有火 有保险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315924.md" target="_blank">上海凌晨发生地震 地震局称是爆破作业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315922.md" target="_blank">江峰：香港警察抓捕民主派人士，中共不怕《香港法案》的惩罚了吗？绝不是秋後算账那麽简单！南沙诸岛建区，南海重开战端？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315900.md" target="_blank">中共当局在一些地^试点实施大学生上山下乡运动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315891.md" target="_blank">川普警告：中共可能要对疫情爆发承担后果</a></li>
 
 </ul>
 </div>
