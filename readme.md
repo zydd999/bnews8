@@ -10,16 +10,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316611.md">周迅18岁露点照曝光 裸画被开价至千万人民币</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md" target="_blank">中国死亡率成笑话是美国&#8230;川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md" target="_blank">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316657.md" target="_blank">马克思诅咒全人类下地狱 其儿女惨遭横死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md" target="_blank">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md" target="_blank">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md" target="_blank">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md" target="_blank">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314992.md" target="_blank">中共暗设疫区?被曝上网有7处 武汉增死者数川普点评泄内幕 哈尔滨医护感染多隔离五百人</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316817.md" target="_blank">中国江苏强拆案频发，被指为缓解地方财政负担</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316808.md" target="_blank">高福否认曾说“没有人传人” 武汉人愤怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316807.md" target="_blank">“武将”取代“文官” 特区高官恐沦为北京棋子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316806.md" target="_blank">阿塔珠尔特负责人被警察带走扣查数小时获释</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316630.md" target="_blank">铜锣湾书店即将开幕　林荣基被泼漆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316608.md" target="_blank">警长自编自导汽油弹案　涉妨碍司法公正被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316600.md" target="_blank">【耳边风】  孙力军下马和公安一局</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316589.md" target="_blank">港澳办连发三文直接评论香港内部事务</a></li>
 
 </ul>
 </div>
