@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316242.md">最新公布的长寿办法，喝茶仅排第13，排第一的居然是……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md">中共吃相太难看 越南受不了了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316458.md">港媒：金正恩心血管手术后 传病危抢救中</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md">中共吃相太难看 越南受不了了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315984.md">向来只软不硬的谷歌 这次要对你的手机来狠的了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316016.md">德国《画报》点名习近平为世界疫情负责 中国使馆再5文厉批</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315989.md">要开战？美战略轰炸机16年来首次重大异动</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316593.md" target="_blank">澳媒：美万人参与向中共索偿4万亿美元 澳议员：应进行纽伦堡式审判</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md" target="_blank">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316585.md" target="_blank">变相承认疫情未受控？多地改用视频开“两会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316579.md" target="_blank">美议员推两法案 剥夺中共国家主权豁免权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md" target="_blank">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316383.md" target="_blank">网友直击：哈尔滨省医院有人跳楼 哈尔滨真的病了么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md" target="_blank">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md" target="_blank">中共吃相太难看 越南受不了了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316299.md" target="_blank">一传50人确诊 哈尔滨族群再跨省传内蒙古</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316289.md" target="_blank">美一些州使用大疆无人机抗疫 引发安全担忧</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md" target="_blank">“机密”泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md" target="_blank">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md" target="_blank">孙力军被抓后 中共司法部长傅政华职位突变&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316397.md" target="_blank">英政界黑幕：多名政客为中共效力 面临调查</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314876.md" target="_blank">中央委员任总经理！一个新的巨人罩在中国地产商身前</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314875.md" target="_blank">习近平忧虑跨国企业消依赖 失业者流落街头当局有新招？ 11国齐暂停对中国出口大豆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314843.md" target="_blank">秋后算账 香港大抓捕！李柱铭黎智英吴霭仪等至少14人被捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md" target="_blank">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316589.md" target="_blank">港澳办连发三文直接评论香港内部事务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316574.md" target="_blank">对於维吾尔人而言，「脱贫」意味着文化灭绝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316522.md" target="_blank">美议员称香港民主人士被捕“令人震惊” 呼吁特朗普政府提交报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316343.md" target="_blank">分析人士： 中共对国际追责索赔的辩解看起来很绝望</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316095.md" target="_blank">铜锣湾书店原定本周台北重开　突收律师信被指侵权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316094.md" target="_blank">王全璋归心似箭　希望尽快与家人团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316082.md" target="_blank">欧元区对全球其他地区2月份贸易顺差持续增长</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316080.md" target="_blank">美中矛盾全面升级  香港成北京谈判筹码</a></li>
 
 </ul>
 </div>
