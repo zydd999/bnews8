@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316165.md">孙力军案不简单 传或涉肖建华铜锣湾709多案让习近平背黑锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316242.md">最新公布的长寿办法，喝茶仅排第13，排第一的居然是……</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md">中共吃相太难看 越南受不了了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315984.md">向来只软不硬的谷歌 这次要对你的手机来狠的了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315905.md">“中国的经济危机仅仅刚开始 真正难过的日子还在后面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316016.md">德国《画报》点名习近平为世界疫情负责 中国使馆再5文厉批</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315989.md">要开战？美战略轰炸机16年来首次重大异动</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316541.md" target="_blank">机密泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316530.md" target="_blank">孙力军落马后 中共司法部长傅政华卸一职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316526.md" target="_blank">王全璋首次媒体露面：始终没有认罪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316515.md" target="_blank">“酷吏”孙力军：习近平身边的王立军</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316277.md" target="_blank">网友直击：哈尔滨将感染者楼门封死 恐发生人道灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316276.md" target="_blank">李文亮之后 又一位医生因“不当言论”被处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316257.md" target="_blank">武汉2染疫医生逃过生死劫 但肝损伤致全身发黑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316236.md" target="_blank">湖北场景再现 网传哈尔滨封死楼门</a></li>
 
 </ul>
 </div>
