@@ -7,23 +7,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316458.md">港媒：金正恩心血管手术后 传病危抢救中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316242.md">最新公布的长寿办法，喝茶仅排第13，排第一的居然是……</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md">中共吃相太难看 越南受不了了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316202.md">多数人无意购买新一代iPhone SE？ 网友曝其中缺点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316280.md">陈破空：紧急会议：赵克志连用六个词，喊明孙力军反习。事关最大国际话题 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316104.md">中共打落水狗列举孙力军「罪状」：妄议中央大政方针阳奉阴违当「两面人」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316379.md">孙力军习近平身边的王立军</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316370.md">屡犯众怒 中共“战狼”变“蟑螂”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md" target="_blank">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316678.md" target="_blank">成都小区发生天然气爆炸 居民从阳台掉下楼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316659.md" target="_blank">中国疫情抵御 提防外攻指责更专注国内“六稳与六保”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316656.md" target="_blank">中国专家称新冠病毒新变异又加19种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316655.md" target="_blank">习近平陕西调研 提秦岭北麓别墅案教训 曾6次批示遭软磨硬抗</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316552.md" target="_blank">又P图？党媒热炒瑞士山峰投影中共血旗 网友戳破真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316541.md" target="_blank">机密泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316530.md" target="_blank">孙力军落马后 中共司法部长傅政华卸一职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316526.md" target="_blank">王全璋首次媒体露面：始终没有认罪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316515.md" target="_blank">“酷吏”孙力军：习近平身边的王立军</a></li>
 
 </ul>
 </div>
