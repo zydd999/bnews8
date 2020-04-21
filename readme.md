@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md" target="_blank">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md" target="_blank">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316966.md" target="_blank">美国国务院声明呼吁中共给予律师王全璋充分行动自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316938.md" target="_blank">哈尔滨：检测隔离治疗全自费 药店禁卖发烧药</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316659.md" target="_blank">中国疫情抵御 提防外攻指责更专注国内“六稳与六保”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316656.md" target="_blank">中国专家称新冠病毒新变异又加19种</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316655.md" target="_blank">习近平陕西调研 提秦岭北麓别墅案教训 曾6次批示遭软磨硬抗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316648.md" target="_blank">武汉隔离点传出撕心裂肺的哭声</a></li>
 
 </ul>
 </div>
