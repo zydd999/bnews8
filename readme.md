@@ -12,7 +12,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316611.md">周迅18岁露点照曝光 裸画被开价至千万人民币</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316895.md" target="_blank">公民被捕五百天之际加拿大得不到中国医疗物资</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316894.md" target="_blank">特朗普扬言「暂停外国人移民美国申请」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316893.md" target="_blank">皮尤民调：66%美国民众对中国持负面看法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316872.md" target="_blank">《武汉封城日记》台湾出版 郭晶不同视角看封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316854.md" target="_blank">中国防疫用品劣质   美国疫情重灾州受害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316853.md" target="_blank">国际特赦：中国是2019年“最大刽子手”</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316701.md" target="_blank">美媒报道金正恩心脏手术后病危　学者料对中、美关系影响不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316692.md" target="_blank">北京为港府大规模拘捕民主派人士辩解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316691.md" target="_blank">中共「全面管治」香港　人事调整「习粉」上位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316686.md" target="_blank">铜锣湾书店开幕前夕 林荣基遇埋伏惨遭泼漆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316666.md" target="_blank">金正恩近期接受手术治疗  中国后备医疗队随时待命</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316650.md" target="_blank">政法系统大地震　孙力军落马后再传傅政华权力收缩</a></li>
 
 </ul>
 </div>
