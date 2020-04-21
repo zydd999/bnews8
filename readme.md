@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316007.md">中共公安副部长孙力军落马 澳洲登记结婚 传妻银行存款数百亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315956.md">广西紧急通知！惊曝北京朝阳区为疫情中高级风险地区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315990.md">中共公安部副部长孙力军落马对习近平有四大好处 孙力军还有这些罪恶</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316165.md">孙力军案不简单 传或涉肖建华铜锣湾709多案让习近平背黑锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316242.md">最新公布的长寿办法，喝茶仅排第13，排第一的居然是……</a></li>
@@ -16,13 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md">中共吃相太难看 越南受不了了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316458.md">港媒：金正恩心血管手术后 传病危抢救中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315984.md">向来只软不硬的谷歌 这次要对你的手机来狠的了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316458.md">港媒：金正恩心血管手术后 传病危抢救中</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316016.md">德国《画报》点名习近平为世界疫情负责 中国使馆再5文厉批</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md" target="_blank">内幕：危及习近平 孙力军案堪比周永康</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md" target="_blank">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316553.md" target="_blank">美议员探讨疫情视频 川普发推：精彩必看</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316552.md" target="_blank">又P图？党媒热炒瑞士山峰投影中共血旗 网友戳破真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316541.md" target="_blank">机密泄露… 中联办真身受关注</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316288.md" target="_blank">武汉百步亭小区居民染病毒 奇迹康复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316287.md" target="_blank">哈尔滨疫情失控沦第二个武汉 波及内蒙辽宁逼近关内</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316280.md" target="_blank">陈破空：紧急会议：赵克志连用六个词，喊明孙力军反习。事关最大国际话题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md" target="_blank">健康码原来这么可怕！人人自危</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316277.md" target="_blank">网友直击：哈尔滨将感染者楼门封死 恐发生人道灾难</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316574.md" target="_blank">对於维吾尔人而言，「脱贫」意味着文化灭绝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316522.md" target="_blank">美议员称香港民主人士被捕“令人震惊” 呼吁特朗普政府提交报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316343.md" target="_blank">分析人士： 中共对国际追责索赔的辩解看起来很绝望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316342.md" target="_blank">美国会议员将提出法案要求中国对新冠疫情负责</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316094.md" target="_blank">王全璋归心似箭　希望尽快与家人团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316082.md" target="_blank">欧元区对全球其他地区2月份贸易顺差持续增长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316080.md" target="_blank">美中矛盾全面升级  香港成北京谈判筹码</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316079.md" target="_blank">美中矛盾全面升级　香港成北京谈判筹码</a></li>
 
 </ul>
 </div>
