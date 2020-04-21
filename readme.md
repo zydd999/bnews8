@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1316099.md">中国南北失守 北京成高危 哈尔滨再封城 大量密件曝光 习李公开前 中共早已秘密行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316165.md">孙力军案不简单 传或涉肖建华铜锣湾709多案让习近平背黑锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
@@ -14,16 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316202.md">多数人无意购买新一代iPhone SE？ 网友曝其中缺点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316280.md">陈破空：紧急会议：赵克志连用六个词，喊明孙力军反习。事关最大国际话题 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316104.md">中共打落水狗列举孙力军「罪状」：妄议中央大政方针阳奉阴违当「两面人」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316379.md">孙力军习近平身边的王立军</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316752.md" target="_blank">无国界记者组织:威权政府趁疫情加紧控制新闻自由</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316751.md" target="_blank">美律师代理1万人起诉中国就新冠疫情要赔偿 分析指或局限于象征性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316690.md" target="_blank">新闻自由全球续排倒数第四 打脸“随时欢迎到中国享受自由” &#8211; 要闻解说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md" target="_blank">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316678.md" target="_blank">成都小区发生天然气爆炸 居民从阳台掉下楼</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md" target="_blank">内幕：危及习近平 孙力军案堪比周永康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md" target="_blank">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316553.md" target="_blank">美议员探讨疫情视频 川普发推：精彩必看</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316552.md" target="_blank">又P图？党媒热炒瑞士山峰投影中共血旗 网友戳破真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316541.md" target="_blank">机密泄露… 中联办真身受关注</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316753.md" target="_blank">中国获委人权理事会任命　全球82人权组织反对促取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316739.md" target="_blank">西安报告近30例自俄输入新冠病毒感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316734.md" target="_blank">时事大家谈：习一尊下，中共还会处置多少“不知敬畏”的孙力军？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316733.md" target="_blank">时事大家谈：中国改数据求解心疑，世界不买账疑上加疑？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316343.md" target="_blank">分析人士： 中共对国际追责索赔的辩解看起来很绝望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316342.md" target="_blank">美国会议员将提出法案要求中国对新冠疫情负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316316.md" target="_blank">五角大楼正式启用《国防生产法》减少对外国医药品的依赖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316311.md" target="_blank">生意惨淡  武汉酒店、餐饮业主求救</a></li>
 
 </ul>
 </div>
