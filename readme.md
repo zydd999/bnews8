@@ -16,11 +16,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316938.md" target="_blank">哈尔滨：检测隔离治疗全自费 药店禁卖发烧药</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316937.md" target="_blank">法国观点周刊：中国疫情死亡最少25000人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316931.md" target="_blank">江苏连云港化工厂发生剧烈爆炸 火光冲天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316930.md" target="_blank">黑龙江春播遇罕见雪灾 产粮大省遭重创</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md" target="_blank">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316648.md" target="_blank">武汉隔离点传出撕心裂肺的哭声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1315487.md" target="_blank">面对瘟疫 需借鉴古人的抗疫秘诀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316639.md" target="_blank">前美国务卿赖斯：绝不容许中国夺取疫情话语权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316638.md" target="_blank">新冠病毒 纳瓦罗称中国不分享病毒早期数据是为抢占疫苗先机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316627.md" target="_blank">中共代言记者白宫简报会对总统说谎 川普转发推文赶走</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316950.md" target="_blank">USCC报告：中国或借新冠疫情强加政府主导经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316933.md" target="_blank">中共审查延伸至Youtube？“财经冷眼”被封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316932.md" target="_blank">美国州政府起诉中国政府  中国能逃一劫？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316925.md" target="_blank">欧洲疫情当头 北约警惕北京可能趁火打劫掠取关键资源</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316733.md" target="_blank">时事大家谈：中国改数据求解心疑，世界不买账疑上加疑？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316732.md" target="_blank">国际特赦组织年度报告指中共执行死刑人数最多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316731.md" target="_blank">中国人权律师高智晟56岁生日   遭强迫失踪逾2年半</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316730.md" target="_blank">“2020全球新闻自由指数”：中国排名倒数第四</a></li>
 
 </ul>
 </div>
