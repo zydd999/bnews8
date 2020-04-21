@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316424.md">中共内部文件曝光！迫害如此惊人：全方位无死角的打压...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200421/1316294.md">〖兲朝浮世绘〗这个中共的老朋友终于要被清算了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316611.md">周迅18岁露点照曝光 裸画被开价至千万人民币</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316611.md">周迅18岁露点照曝光 裸画被开价至千万人民币</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316202.md">多数人无意购买新一代iPhone SE？ 网友曝其中缺点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316280.md">陈破空：紧急会议：赵克志连用六个词，喊明孙力军反习。事关最大国际话题 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316780.md" target="_blank">默克尔呼吁中国疫情透明 北京今回应自始至终透明合作</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316776.md" target="_blank">港官场大地震 武官掌政制局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316768.md" target="_blank">中国正在试图与其他国家商讨放松边境管制可能性 提建商贸快捷通道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316767.md" target="_blank">质差医疗出口谁之过?中国商业部外贸司罕见澄清</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316752.md" target="_blank">无国界记者组织:威权政府趁疫情加紧控制新闻自由</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md" target="_blank">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316585.md" target="_blank">变相承认疫情未受控？多地改用视频开“两会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316579.md" target="_blank">美议员推两法案 剥夺中共国家主权豁免权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md" target="_blank">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md" target="_blank">内幕：危及习近平 孙力军案堪比周永康</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316782.md" target="_blank">疫情危及日中关系   习近平访问日程搁浅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316781.md" target="_blank">傅政华卸任党务   孙力军被查   公安系统生变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316753.md" target="_blank">中国获委人权理事会任命　全球82人权组织反对促取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316739.md" target="_blank">西安报告近30例自俄输入新冠病毒感染者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316734.md" target="_blank">时事大家谈：习一尊下，中共还会处置多少“不知敬畏”的孙力军？</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316574.md" target="_blank">对於维吾尔人而言，「脱贫」意味着文化灭绝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316522.md" target="_blank">美议员称香港民主人士被捕“令人震惊” 呼吁特朗普政府提交报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316343.md" target="_blank">分析人士： 中共对国际追责索赔的辩解看起来很绝望</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316342.md" target="_blank">美国会议员将提出法案要求中国对新冠疫情负责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316316.md" target="_blank">五角大楼正式启用《国防生产法》减少对外国医药品的依赖</a></li>
 
 </ul>
 </div>
