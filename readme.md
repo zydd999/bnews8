@@ -12,17 +12,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316242.md">最新公布的长寿办法，喝茶仅排第13，排第一的居然是……</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315984.md">向来只软不硬的谷歌 这次要对你的手机来狠的了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md">中共吃相太难看 越南受不了了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315984.md">向来只软不硬的谷歌 这次要对你的手机来狠的了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315905.md">“中国的经济危机仅仅刚开始 真正难过的日子还在后面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316016.md">德国《画报》点名习近平为世界疫情负责 中国使馆再5文厉批</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315989.md">要开战？美战略轰炸机16年来首次重大异动</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316526.md" target="_blank">王全璋首次媒体露面：始终没有认罪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316515.md" target="_blank">“酷吏”孙力军：习近平身边的王立军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md" target="_blank">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316507.md" target="_blank">川普首提中共的故意责任 班农：击中要害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316370.md" target="_blank">屡犯众怒 中共“战狼”变“蟑螂”</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316257.md" target="_blank">武汉2染疫医生逃过生死劫 但肝损伤致全身发黑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316236.md" target="_blank">湖北场景再现 网传哈尔滨封死楼门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316230.md" target="_blank">专栏 | 夜话中南海：被世界孤立之后   中共反而没了武力犯台的外部忌讳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316226.md" target="_blank">中共利用脸书广告攻击美国 传播虚假信息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316172.md" target="_blank">陈破空：陈破空谈《常识》（之42）</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316522.md" target="_blank">美议员称香港民主人士被捕“令人震惊” 呼吁特朗普政府提交报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316343.md" target="_blank">分析人士： 中共对国际追责索赔的辩解看起来很绝望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316342.md" target="_blank">美国会议员将提出法案要求中国对新冠疫情负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316316.md" target="_blank">五角大楼正式启用《国防生产法》减少对外国医药品的依赖</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316082.md" target="_blank">欧元区对全球其他地区2月份贸易顺差持续增长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316080.md" target="_blank">美中矛盾全面升级  香港成北京谈判筹码</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316079.md" target="_blank">美中矛盾全面升级　香港成北京谈判筹码</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200420/1316069.md" target="_blank">北京须回应国际间要求调查其隐瞒疫情问题的最新呼吁</a></li>
 
 </ul>
 </div>
