@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md">孙力军被抓后 中共司法部长傅政华职位突变...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316458.md">港媒：金正恩心血管手术后 传病危抢救中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
@@ -22,8 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316280.md">陈破空：紧急会议：赵克志连用六个词，喊明孙力军反习。事关最大国际话题 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316925.md" target="_blank">欧洲疫情当头 北约警惕北京可能趁火打劫掠取关键资源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316907.md" target="_blank">九成美国人视中国为威胁     驻美大使与前朝官员寻解方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316895.md" target="_blank">公民被捕五百天之际加拿大得不到中国医疗物资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316894.md" target="_blank">特朗普扬言「暂停外国人移民美国申请」</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316730.md" target="_blank">“2020全球新闻自由指数”：中国排名倒数第四</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316702.md" target="_blank">中、马勘测船对峙，美两艘军舰进入南中国海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316701.md" target="_blank">美媒报道金正恩心脏手术后病危　学者料对中、美关系影响不大</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316692.md" target="_blank">北京为港府大规模拘捕民主派人士辩解</a></li>
 
 </ul>
 </div>
