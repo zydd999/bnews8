@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316165.md">孙力军案不简单 传或涉肖建华铜锣湾709多案让习近平背黑锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315736.md">冠状病毒的爆发源于武汉实验室，是中国与美国竞争的一部分|福克斯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315959.md">【独家】各地秘密培训 中共层层瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200420/1315763.md">长期喝烧开的自来水 不碰桶装水、矿泉水 身体会变成什么样？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1315976.md">粮食危机 中共官员要农民有政治责任 网民骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315984.md">向来只软不硬的谷歌 这次要对你的手机来狠的了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200420/1315905.md">“中国的经济危机仅仅刚开始 真正难过的日子还在后面”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200420/1315765.md">重大战争信号！16年来首次美军战略轰炸机异动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316016.md">德国《画报》点名习近平为世界疫情负责 中国使馆再5文厉批</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316278.md">健康码原来这么可怕！人人自危</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316213.md">孙力军2017年纽约「会」郭文贵　何谓「两面人」？刘彦平呢？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316399.md" target="_blank">疫情要二次爆发 北京当局怎么样“六保”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316384.md" target="_blank">现场视频：谷雨已过 黑龙江吉林突降大雪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316383.md" target="_blank">网友直击：哈尔滨省医院有人跳楼 哈尔滨真的病了么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316341.md" target="_blank">文昭：“国保”大总管突然栽倒，中南海急中生变；香港大搜捕民主派，是大招前奏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316300.md" target="_blank">中共吃相太难看 越南受不了了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316299.md" target="_blank">一传50人确诊 哈尔滨族群再跨省传内蒙古</a></li>
@@ -54,15 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316156.md" target="_blank">传方济各秘密酝酿访华 首站武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316153.md" target="_blank">中国公安部：孙力军与周永康孟宏伟并列</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316150.md" target="_blank">伤肝至深 新冠病毒捡命医生全身发黑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316142.md" target="_blank">中国公安部表态：孙力军与周永康孟宏伟并列</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316116.md" target="_blank">中联办凌驾《基本法》？ 民主派：比释法更差</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200420/1316109.md" target="_blank">CLONE &#8211; 日本准备21万间酒店客房接受冠状病毒轻症和无症状感染者</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316398.md" target="_blank">孙力军被抓后 中共司法部长傅政华职位突变&#8230;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316397.md" target="_blank">英政界黑幕：多名政客为中共效力 面临调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1316099.md" target="_blank">中国南北失守 北京成高危 哈尔滨再封城 大量密件曝光 习李公开前 中共早已秘密行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md" target="_blank">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md" target="_blank">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314843.md" target="_blank">秋后算账 香港大抓捕！李柱铭黎智英吴霭仪等至少14人被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314837.md" target="_blank">东方卫视记者太猥琐！ 川普火了 ：现在就把他赶出去！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314831.md" target="_blank">中国米价全面上涨 当局紧急放粮维稳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314811.md" target="_blank">公安无意中透露：她的死是因为她讲的话太多了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1314810.md" target="_blank">绥芬河疫情重 医院人满为患</a></li>
 
 </ul>
 </div>
