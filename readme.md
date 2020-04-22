@@ -11,14 +11,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317076.md">夏小强：特勤局长王小洪讲话 透露孙力军落马秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md">大陆二手房房源增多价格大跌 上千房企注销</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317445.md" target="_blank">疫情冲击 真善忍让女业主顺利脱困</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317438.md" target="_blank">外媒关注倒习近平遭整肃？指“狠角色”傅政华卸党职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317437.md" target="_blank">中国或让加拿大取载医用物资两飞机空返</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317415.md" target="_blank">江峰：谁会是金正恩的接班人，孙力军落马的原因。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317413.md" target="_blank">中国疾控中心主任高福否认曾说“没有人传人”  武汉人会愤怒中国网络会炸锅?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317412.md" target="_blank">湖北医生或因批评中医 遭惩扣诋毁国家防疫政策大帽子</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317236.md" target="_blank">耿爽怒了！分析人士：中共的辩解看起来很绝望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317232.md" target="_blank">司法部长傅政华传将由习之江系亲信取代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md" target="_blank">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317218.md" target="_blank">萧铭：美军太平洋舰队前情报主任采访要点；武力攻台可能吗？美国能保护台湾吗？中共不怕粮荒的原因源于3月特殊举措？中共最怕国内民变还是国外压力？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317217.md" target="_blank">江峰：习近平也有日记了？记录那些比蜜还甜的日子；《方方日记》遭围攻，“家丑不可外扬”之丑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317215.md" target="_blank">陈破空：党报悄然下架习近平？老任有消息。伊朗反目，巴西这样说中国</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317445.md" target="_blank">疫情冲击 真善忍让女业主顺利脱困</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317402.md" target="_blank">习近平和江曾交易玩完了？突访秦岭目的彰显 立竿见影傅政华消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md" target="_blank">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md" target="_blank">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
@@ -87,13 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md" target="_blank">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md" target="_blank">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md" target="_blank">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md" target="_blank">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317446.md" target="_blank">朝鲜官媒周三平静如常，脱北者称这非同寻常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317443.md" target="_blank">失踪公民记者李泽华突再现身      网民疑当局为制造文明假象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317414.md" target="_blank">美澳海军在南中国海联合军演 地点靠近中国勘测船</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317403.md" target="_blank">对华援助协会：中国人权律师高智晟获“林昭自由奖”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317396.md" target="_blank">焦点对话：暂停移民60天! 美中若皆锁国 世界谁领风骚？</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317304.md" target="_blank">牧师浏览境外疫情新闻   被控“煽颠罪”面临坐牢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317297.md" target="_blank">美国呼吁中国让王全彰与妻子团聚      李文足表示受到极大鼓励</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317296.md" target="_blank">澳美德法元首通电话     讨论合作调查疫情真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317295.md" target="_blank">疫情后全球供应链势将重组      新兴市场教父指企业将撤离中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317294.md" target="_blank">百度副总裁韦方涉贪腐     遭移送中国公安机关处理</a></li>
 
 </ul>
 </div>
