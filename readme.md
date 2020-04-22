@@ -7,8 +7,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317402.md">习近平和江曾交易玩完了？突访秦岭目的彰显 立竿见影傅政华消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md">厄运缠身… 公安部副部长孙力军被起底</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317415.md">江峰：谁会是金正恩的接班人，孙力军落马的原因。</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317624.md" target="_blank">陈破空：重要部长解职，孙力军牵涉更多高官？习近平重用那个人，看住党和国家领导人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317617.md" target="_blank">文昭：习近平“西狩”，既避险也冒险；美国第一起索赔中共公诉上路；庚子赔款2.0有多严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317584.md" target="_blank">哈尔滨疫情升级 南岗区全封 第二医院停诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317576.md" target="_blank">蓬佩奥重批中共：拖一个月才说病毒人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317575.md" target="_blank">一线采访：习近平突访西安 到处是便衣</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317437.md" target="_blank">中国或让加拿大取载医用物资两飞机空返</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317415.md" target="_blank">江峰：谁会是金正恩的接班人，孙力军落马的原因。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317413.md" target="_blank">中国疾控中心主任高福否认曾说“没有人传人”  武汉人会愤怒中国网络会炸锅?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317412.md" target="_blank">湖北医生或因批评中医 遭惩扣诋毁国家防疫政策大帽子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317401.md" target="_blank">诺贝尔奖获奖者称新冠病毒是中国研究所制造的说法 有无人听?</a></li>
 
 </ul>
 </div>
