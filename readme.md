@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317463.md" target="_blank">北京港府宣布内阁局部改组 民主派批民望低官员留任非向港人问责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317458.md" target="_blank">中国首季雾霾明显减少 救经济恐令空气质量急剧恶化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317446.md" target="_blank">朝鲜官媒周三平静如常，脱北者称这非同寻常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317443.md" target="_blank">失踪公民记者李泽华突再现身      网民疑当局为制造文明假象</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317307.md" target="_blank">【耳边风】  为打孙力军中央使出调虎离山之计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317306.md" target="_blank">中共正式公布香港班子换人     学者：中央对港路线更趋强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317304.md" target="_blank">牧师浏览境外疫情新闻   被控“煽颠罪”面临坐牢</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317297.md" target="_blank">美国呼吁中国让王全彰与妻子团聚      李文足表示受到极大鼓励</a></li>
 
 </ul>
 </div>
