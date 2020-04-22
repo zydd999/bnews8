@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317043.md" target="_blank">港澳办连发三稿 确立中联办监督权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317029.md" target="_blank">齐齐哈尔遇37年来最大暴雪 积雪最厚2米</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md" target="_blank">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316713.md" target="_blank">澳洲外交部长呼吁国际对武汉新冠疫情进行调查</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316752.md" target="_blank">无国界记者组织:威权政府趁疫情加紧控制新闻自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316751.md" target="_blank">美律师代理1万人起诉中国就新冠疫情要赔偿 分析指或局限于象征性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316690.md" target="_blank">新闻自由全球续排倒数第四 打脸“随时欢迎到中国享受自由” &#8211; 要闻解说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md" target="_blank">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317049.md" target="_blank">国际社会为何向中共追责？因为“他们手上沾了血”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316950.md" target="_blank">USCC报告：中国或借新冠疫情强加政府主导经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316933.md" target="_blank">中共审查延伸至Youtube？“财经冷眼”被封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316932.md" target="_blank">美国州政府起诉中国政府  中国能逃一劫？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316734.md" target="_blank">时事大家谈：习一尊下，中共还会处置多少“不知敬畏”的孙力军？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316733.md" target="_blank">时事大家谈：中国改数据求解心疑，世界不买账疑上加疑？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316732.md" target="_blank">国际特赦组织年度报告指中共执行死刑人数最多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316731.md" target="_blank">中国人权律师高智晟56岁生日   遭强迫失踪逾2年半</a></li>
 
 </ul>
 </div>
