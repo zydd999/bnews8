@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317076.md">夏小强：特勤局长王小洪讲话 透露孙力军落马秘密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316668.md">文革式洗脑下人民更加愚昧，乘闭关锁国前赶紧逃往东南亚！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317284.md" target="_blank">哈尔滨九旬患者传78人     哈尔滨第二医院瘫痪停诊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317282.md" target="_blank">香港维园六四晚会或31年来中断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317240.md" target="_blank">维园六四晚会或31年来中断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317229.md" target="_blank">中共全国性清除商铺阿语标志 再下文件整改伊斯兰风格建筑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317204.md" target="_blank">密苏里州新冠打响提告中国第一枪，美企先行索赔数万亿</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316825.md" target="_blank">传港府重要官员人事地震 民主派忧以警政官员为管治核心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316817.md" target="_blank">中国江苏强拆案频发，被指为缓解地方财政负担</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316808.md" target="_blank">高福否认曾说“没有人传人” 武汉人愤怒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316807.md" target="_blank">“武将”取代“文官” 特区高官恐沦为北京棋子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316806.md" target="_blank">阿塔珠尔特负责人被警察带走扣查数小时获释</a></li>
 
 </ul>
 </div>
