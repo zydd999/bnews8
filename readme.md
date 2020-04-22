@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200422/1316864.md">宝胜要文：传薄熙来秦城致习近平的公开信</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316658.md">纽约三中共肺炎康复者48小时内 同一隔离酒店身亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317135.md" target="_blank">四川再取缔340余佛寺道观 大量佛像被毁千年古寺亦遭拆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317102.md" target="_blank">中国扼杀新闻自由，全世界付出死亡代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317061.md" target="_blank">民调称三分之二美国人对中国持负面态度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317060.md" target="_blank">路透：美国官员力劝特朗普政府中止联邦退休金投资中企</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316782.md" target="_blank">疫情危及日中关系   习近平访问日程搁浅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316781.md" target="_blank">傅政华卸任党务   孙力军被查   公安系统生变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316753.md" target="_blank">中国获委人权理事会任命　全球82人权组织反对促取消</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316739.md" target="_blank">西安报告近30例自俄输入新冠病毒感染者</a></li>
 
 </ul>
 </div>
