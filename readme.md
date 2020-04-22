@@ -2,15 +2,15 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316592.md">传孙力军4月初深夜被抓 其秘书司机一并被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200422/1316864.md">宝胜要文：传薄熙来秦城致习近平的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316512.md">宝胜突发快评：傅政华突被撤司法部副书记、习近平正罗织反习集团大案、北京政治地震为应对内外危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200421/1316508.md">普通家庭生死抉择！中共急推数字货币背后的七大阴谋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316515.md">“酷吏”孙力军：习近平身边的王立军</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317104.md" target="_blank">打脸大外宣 中国新闻自由度排名全球倒数第4</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md" target="_blank">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317065.md" target="_blank">北京军区大院严防疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317064.md" target="_blank">黑龙江下“封口令” 禁网上谈论当地疫情</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316780.md" target="_blank">默克尔呼吁中国疫情透明 北京今回应自始至终透明合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316776.md" target="_blank">港官场大地震 武官掌政制局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316768.md" target="_blank">中国正在试图与其他国家商讨放松边境管制可能性 提建商贸快捷通道</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316767.md" target="_blank">质差医疗出口谁之过?中国商业部外贸司罕见澄清</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317102.md" target="_blank">中国扼杀新闻自由，全世界付出死亡代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317061.md" target="_blank">民调称三分之二美国人对中国持负面态度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317060.md" target="_blank">路透：美国官员力劝特朗普政府中止联邦退休金投资中企</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317049.md" target="_blank">国际社会为何向中共追责？因为“他们手上沾了血”</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316781.md" target="_blank">傅政华卸任党务   孙力军被查   公安系统生变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316753.md" target="_blank">中国获委人权理事会任命　全球82人权组织反对促取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316739.md" target="_blank">西安报告近30例自俄输入新冠病毒感染者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316734.md" target="_blank">时事大家谈：习一尊下，中共还会处置多少“不知敬畏”的孙力军？</a></li>
 
 </ul>
 </div>
