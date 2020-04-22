@@ -4,12 +4,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317402.md">习近平和江曾交易玩完了？突访秦岭目的彰显 立竿见影傅政华消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317293.md">中南海多事之秋 王岐山为何频频被聚焦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md">厄运缠身… 公安部副部长孙力军被起底</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317559.md" target="_blank">中共关注金正恩健康 传紧急医疗队随时待命</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317558.md" target="_blank">中国查获伪劣口罩约4800万个</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317552.md" target="_blank">澳洲朝野谴责中共 疫情快速扭转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317551.md" target="_blank">河南4童惨遭活埋 记者采访遭围殴抢手机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317539.md" target="_blank">从鸿蒙操作系统说起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317511.md" target="_blank">WHO差旅支出 医疗物资的2倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317481.md" target="_blank">欧洲朋友国家意大利率先提联署向中国索赔</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317287.md" target="_blank">一个海外华人给蔡英文总统的一封信 蔡英文总统你好</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317290.md" target="_blank">苏州13岁女孩遭生父性侵9年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317288.md" target="_blank">中央高调介入后香港政坛大换班习近平“信徒”升官</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317276.md" target="_blank">王全璋隔离期满后依然没自由</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317275.md" target="_blank">疫情维稳再加码 高层设立平安中国小组 首会官员上下引猜测</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317269.md" target="_blank">莫斯科飞西安航班28名中国人确诊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317261.md" target="_blank">崔天凯也批特朗普政治化 话语含蓄</a></li>
 
 </ul>
 </div>
