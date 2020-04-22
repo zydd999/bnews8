@@ -4,26 +4,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200422/1316864.md">宝胜要文：传薄熙来秦城致习近平的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317076.md">夏小强：特勤局长王小洪讲话 透露孙力军落马秘密</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316668.md">文革式洗脑下人民更加愚昧，乘闭关锁国前赶紧逃往东南亚！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1316871.md">姜文：我女儿是世界上最漂亮的 看了她的照片后 网友：我信了！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317290.md" target="_blank">苏州13岁女孩遭生父性侵9年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317288.md" target="_blank">中央高调介入后香港政坛大换班习近平“信徒”升官</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317276.md" target="_blank">王全璋隔离期满后依然没自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317275.md" target="_blank">疫情维稳再加码 高层设立平安中国小组 首会官员上下引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317269.md" target="_blank">莫斯科飞西安航班28名中国人确诊</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317183.md" target="_blank">江峰：南海发导弹、美舰过台湾海峡、国会索赔，美国行动力对抗中共嘴上功夫；外交外宣齐转风，保G20习近平的面子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317182.md" target="_blank">江峰：中共外交官直接侮辱川普，上一次对美国总统个人攻击发生在朝鲜战争时期； 微信号召海外华人组成自救群落，千万别上当</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md" target="_blank">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317177.md" target="_blank">大疫下 大陆山东法院法官退党记</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md" target="_blank">厄运缠身… 公安部副部长孙力军被起底</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317304.md" target="_blank">牧师浏览境外疫情新闻   被控“煽颠罪”面临坐牢</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317297.md" target="_blank">美国呼吁中国让王全彰与妻子团聚      李文足表示受到极大鼓励</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317296.md" target="_blank">澳美德法元首通电话     讨论合作调查疫情真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317295.md" target="_blank">疫情后全球供应链势将重组      新兴市场教父指企业将撤离中国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317294.md" target="_blank">百度副总裁韦方涉贪腐     遭移送中国公安机关处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317284.md" target="_blank">哈尔滨九旬患者传78人     哈尔滨第二医院瘫痪停诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317282.md" target="_blank">香港维园六四晚会或31年来中断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317240.md" target="_blank">维园六四晚会或31年来中断</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316893.md" target="_blank">皮尤民调：66%美国民众对中国持负面看法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316872.md" target="_blank">《武汉封城日记》台湾出版 郭晶不同视角看封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316854.md" target="_blank">中国防疫用品劣质   美国疫情重灾州受害</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316853.md" target="_blank">国际特赦：中国是2019年“最大刽子手”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316829.md" target="_blank">毋忘721事件9个月　西铁元朗站再现「光复香港」旗帜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316825.md" target="_blank">传港府重要官员人事地震 民主派忧以警政官员为管治核心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316817.md" target="_blank">中国江苏强拆案频发，被指为缓解地方财政负担</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316808.md" target="_blank">高福否认曾说“没有人传人” 武汉人愤怒</a></li>
 
 </ul>
 </div>
