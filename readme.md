@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
@@ -12,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1316871.md">姜文：我女儿是世界上最漂亮的 看了她的照片后 网友：我信了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316931.md">江苏连云港化工厂发生剧烈爆炸 火光冲天</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317308.md" target="_blank">澳美德法领导人通话商讨新冠病毒国际调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317307.md" target="_blank">【耳边风】  为打孙力军中央使出调虎离山之计</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317306.md" target="_blank">中共正式公布香港班子换人     学者：中央对港路线更趋强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317304.md" target="_blank">牧师浏览境外疫情新闻   被控“煽颠罪”面临坐牢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317297.md" target="_blank">美国呼吁中国让王全彰与妻子团聚      李文足表示受到极大鼓励</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317296.md" target="_blank">澳美德法元首通电话     讨论合作调查疫情真相</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316907.md" target="_blank">九成美国人视中国为威胁     驻美大使与前朝官员寻解方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316895.md" target="_blank">公民被捕五百天之际加拿大得不到中国医疗物资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316894.md" target="_blank">特朗普扬言「暂停外国人移民美国申请」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316893.md" target="_blank">皮尤民调：66%美国民众对中国持负面看法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316872.md" target="_blank">《武汉封城日记》台湾出版 郭晶不同视角看封城</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1316854.md" target="_blank">中国防疫用品劣质   美国疫情重灾州受害</a></li>
 
 </ul>
 </div>
