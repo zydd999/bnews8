@@ -4,8 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316811.md">传孙力军频打彭丽媛旗号行事 习近平大怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
@@ -18,9 +16,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317201.md" target="_blank">台湾约20万人至染疫海军停留点 收到警示简讯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317200.md" target="_blank">密苏里州率先起诉中共：疫情骗局 后果巨大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317190.md" target="_blank">向中共究责 专家：集体经济制裁是可行途径</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317186.md" target="_blank">文昭：《华邮》“首义”一鸣惊人，直怼中共要害部位！世界离大萧条有多远？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317183.md" target="_blank">江峰：南海发导弹、美舰过台湾海峡、国会索赔，美国行动力对抗中共嘴上功夫；外交外宣齐转风，保G20习近平的面子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317182.md" target="_blank">江峰：中共外交官直接侮辱川普，上一次对美国总统个人攻击发生在朝鲜战争时期； 微信号召海外华人组成自救群落，千万别上当</a></li>
@@ -54,15 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316966.md" target="_blank">美国国务院声明呼吁中共给予律师王全璋充分行动自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316938.md" target="_blank">哈尔滨：检测隔离治疗全自费 药店禁卖发烧药</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316937.md" target="_blank">法国观点周刊：中国疫情死亡最少25000人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316931.md" target="_blank">江苏连云港化工厂发生剧烈爆炸 火光冲天</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316930.md" target="_blank">黑龙江春播遇罕见雪灾 产粮大省遭重创</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md" target="_blank">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md" target="_blank">大陆二手房房源增多价格大跌 上千房企注销</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317198.md" target="_blank">“恶运”缠身… 公安部副部长孙力军被起底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md" target="_blank">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md" target="_blank">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317085.md" target="_blank">YouTube财经大V突被封 疑背后有中共因素</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315594.md" target="_blank">俞正声威胁王岐山信有大破绽？传习要打仗首次给军官加薪 惊人逆转 中共真怕什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315567.md" target="_blank">中共穷途末路连这种事都做 黑龙江成湖北第二 高官急表态 究责中共 川普表态了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md" target="_blank">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315435.md" target="_blank">韩国第3大集团撤资中国 没钱了!地方官批中央大吐苦水 曹德旺:没人有远虑拖一年重一年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md" target="_blank">华为罕见道歉 被指“造假惯犯”</a></li>
 
 </ul>
 </div>
