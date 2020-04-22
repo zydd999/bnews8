@@ -14,15 +14,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316515.md">“酷吏”孙力军：习近平身边的王立军</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316658.md">纽约三中共肺炎康复者48小时内 同一隔离酒店身亡</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md" target="_blank">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317104.md" target="_blank">打脸大外宣 中国新闻自由度排名全球倒数第4</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md" target="_blank">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317065.md" target="_blank">北京军区大院严防疫情</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316801.md" target="_blank">疫情或使中俄翻脸?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316780.md" target="_blank">默克尔呼吁中国疫情透明 北京今回应自始至终透明合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316776.md" target="_blank">港官场大地震 武官掌政制局</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316768.md" target="_blank">中国正在试图与其他国家商讨放松边境管制可能性 提建商贸快捷通道</a></li>
 
 </ul>
 </div>
