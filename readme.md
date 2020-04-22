@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
@@ -23,6 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md">厄运缠身… 公安部副部长孙力军被起底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317584.md" target="_blank">哈尔滨疫情升级 南岗区全封 第二医院停诊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317576.md" target="_blank">蓬佩奥重批中共：拖一个月才说病毒人传人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317575.md" target="_blank">一线采访：习近平突访西安 到处是便衣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317574.md" target="_blank">纽时：美官员指中共特务故意在美散布防疫假消息</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317573.md" target="_blank">福建罗源强拆渔排 渔民昏厥跌入海中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317564.md" target="_blank">牡丹江下疫情“封口令” 遭批故伎重演、自取毁灭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317559.md" target="_blank">中共关注金正恩健康 传紧急医疗队随时待命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317558.md" target="_blank">中国查获伪劣口罩约4800万个</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317413.md" target="_blank">中国疾控中心主任高福否认曾说“没有人传人”  武汉人会愤怒中国网络会炸锅?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317412.md" target="_blank">湖北医生或因批评中医 遭惩扣诋毁国家防疫政策大帽子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317401.md" target="_blank">诺贝尔奖获奖者称新冠病毒是中国研究所制造的说法 有无人听?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317384.md" target="_blank">皮尤新民调惊指美国人近百分之90视中国为威胁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317383.md" target="_blank">中国官方或列白海豚药用动物 曝光后急删</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317377.md" target="_blank">瑞典清零关闭所有孔子学院</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317287.md" target="_blank">一个海外华人给蔡英文总统的一封信 蔡英文总统你好</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317290.md" target="_blank">苏州13岁女孩遭生父性侵9年</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317580.md" target="_blank">蓬佩奥再次批评中国未及时向世卫组织通报新冠疫情信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317544.md" target="_blank">武毒所、盖茨基金会和WHO电邮密码疑遭黑客曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317543.md" target="_blank">自杀性的体制：农民工获救助的路漫漫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317542.md" target="_blank">菲律宾不满遭火控雷达瞄准   抗议中方南海霸</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317393.md" target="_blank">陈建仁：台湾遭世卫排挤  成全球公卫领域孤儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317386.md" target="_blank">时事大家谈：独立调查疫情源头呼声强烈，中国能否顶住国际压力？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317385.md" target="_blank">借鉴美式环保经验 她教会家乡乡村如何回收</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317378.md" target="_blank">港府主要官员调整 得北京信任是主要条件</a></li>
 
 </ul>
 </div>
