@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316514.md">多家外媒传北韩独裁者金正恩心脑血管手术後 出现危重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316575.md">内幕：危及习近平 孙力军案堪比周永康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316430.md">孙力军对习搞阴谋？赵克志深夜开会敲打谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途 </a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200422/1316864.md">宝胜要文：传薄熙来秦城致习近平的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316599.md">公安部副部长孙力军被查 在香港他都干了什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316512.md">宝胜突发快评：傅政华突被撤司法部副书记、习近平正罗织反习集团大案、北京政治地震为应对内外危机</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316713.md" target="_blank">澳洲外交部长呼吁国际对武汉新冠疫情进行调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316800.md" target="_blank">【瘟疫与中共】拉美震央厄瓜多尔 被“买断”的未来？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md" target="_blank">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md" target="_blank">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316966.md" target="_blank">美国国务院声明呼吁中共给予律师王全璋充分行动自由</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316684.md" target="_blank">陈破空：孙力军失手，副主席不妙？俞正声写信含重大暗示。中国或走入另途</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316678.md" target="_blank">成都小区发生天然气爆炸 居民从阳台掉下楼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316659.md" target="_blank">中国疫情抵御 提防外攻指责更专注国内“六稳与六保”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316656.md" target="_blank">中国专家称新冠病毒新变异又加19种</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316655.md" target="_blank">习近平陕西调研 提秦岭北麓别墅案教训 曾6次批示遭软磨硬抗</a></li>
 
 </ul>
 </div>
