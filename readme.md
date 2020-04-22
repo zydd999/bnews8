@@ -8,9 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md">中国死亡率成笑话是美国...川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200422/1316864.md">宝胜要文：传薄熙来秦城致习近平的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
@@ -18,12 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316658.md">纽约三中共肺炎康复者48小时内 同一隔离酒店身亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317269.md" target="_blank">莫斯科飞西安航班28名中国人确诊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317261.md" target="_blank">崔天凯也批特朗普政治化 话语含蓄</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317260.md" target="_blank">中国疫情报境外输入回弹 新确诊也增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317249.md" target="_blank">黑龙江疫情严重 青冈高三生又放假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md" target="_blank">关于金正恩 川普刚刚发话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md" target="_blank">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
@@ -54,15 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md" target="_blank">厄运缠身… 公安部副部长孙力军被起底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317157.md" target="_blank">北京仲裁所外排长龙 外记采访遭警驱逐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md" target="_blank">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317104.md" target="_blank">打脸大外宣 中国新闻自由度排名全球倒数第4</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md" target="_blank">中共发言人急于推卸国际追责 搞出乌龙</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317065.md" target="_blank">北京军区大院严防疫情</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md" target="_blank">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317242.md" target="_blank">港媒：傅政华或卸司法部长 传由习近平亲信顶替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317203.md" target="_blank">“完了 你这不是要断子绝孙吗？”… 山东法院法官退党记</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md" target="_blank">大陆二手房房源增多价格大跌 上千房企注销</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315920.md" target="_blank">央行示警 3只黑天鹅 疫后蠢动 德媒：“文革以来最大崩溃” 缺粮不买中共采购美农产落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315756.md" target="_blank">纳瓦罗痛斥中共4大罪 重申北京须为多人死亡负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315748.md" target="_blank">失业潮藏不住了 内需如何释放？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315594.md" target="_blank">俞正声威胁王岐山信有大破绽？传习要打仗首次给军官加薪 惊人逆转 中共真怕什么？</a></li>
 
 </ul>
 </div>
