@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317215.md">陈破空：党报悄然下架习近平？老任有消息。伊朗反目，巴西这样说中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317293.md">中南海多事之秋 王岐山为何频频被聚焦</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317511.md" target="_blank">WHO差旅支出 医疗物资的2倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317481.md" target="_blank">欧洲朋友国家意大利率先提联署向中国索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317391.md" target="_blank">【抗疫良方】村长率全村人“三退”自救</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317410.md" target="_blank">【瘟疫与中共】厄瓜多尔四月之灾</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317269.md" target="_blank">莫斯科飞西安航班28名中国人确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317261.md" target="_blank">崔天凯也批特朗普政治化 话语含蓄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317260.md" target="_blank">中国疫情报境外输入回弹 新确诊也增</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317249.md" target="_blank">黑龙江疫情严重 青冈高三生又放假</a></li>
 
 </ul>
 </div>
