@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316458.md">港媒：金正恩心血管手术后 传病危抢救中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316569.md">上海20日凌晨“地震”意外牵出江泽民家族势力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316693.md">孙力军落马 网络疯传多名央视女主播被带走</a></li>
@@ -16,7 +15,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316488.md">白宫简报会又现华裔记者呛川普 被川普一个反问噎回去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316578.md">体制造成的恶果 中共内部承认哈尔滨疫情失控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316446.md">奇迹！澳洲举国上下怒斥中共 成为西方“抗疫优等生”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316568.md">宝胜突发快评：金正恩被证实血管手术后病危、朝鲜恐政变中美角力危及中共政权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md">“机密”泄露… 中联办真身受关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
@@ -24,6 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200421/1316512.md">宝胜突发快评：傅政华突被撤司法部副书记、习近平正罗织反习集团大案、北京政治地震为应对内外危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200421/1316508.md">普通家庭生死抉择！中共急推数字货币背后的七大阴谋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316515.md">“酷吏”孙力军：习近平身边的王立军</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md" target="_blank">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317065.md" target="_blank">北京军区大院严防疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317064.md" target="_blank">黑龙江下“封口令” 禁网上谈论当地疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317043.md" target="_blank">港澳办连发三稿 确立中联办监督权</a></li>
@@ -56,13 +57,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316776.md" target="_blank">港官场大地震 武官掌政制局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316768.md" target="_blank">中国正在试图与其他国家商讨放松边境管制可能性 提建商贸快捷通道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316767.md" target="_blank">质差医疗出口谁之过?中国商业部外贸司罕见澄清</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200421/1316752.md" target="_blank">无国界记者组织:威权政府趁疫情加紧控制新闻自由</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md" target="_blank">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md" target="_blank">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317085.md" target="_blank">YouTube财经大V突被封 疑背后有中共因素</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316813.md" target="_blank">中国死亡率成笑话是美国&#8230;川普1句话 让人无言以对 健康码原来这么可怕！人人自危</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md" target="_blank">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316657.md" target="_blank">马克思诅咒全人类下地狱 其儿女惨遭横死</a></li>
@@ -85,9 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315550.md" target="_blank">川普真牛！说赶走中共官媒记者 隔天简报会都不见了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315435.md" target="_blank">韩国第3大集团撤资中国 没钱了!地方官批中央大吐苦水 曹德旺:没人有远虑拖一年重一年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315236.md" target="_blank">华为罕见道歉 被指“造假惯犯”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315235.md" target="_blank">曹德旺：全世界最高税负是中国 比美国高35%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200419/1315096.md" target="_blank">企业相继降薪裁员 就业或成中国经济最大问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200418/1315027.md" target="_blank">距山东仅43海里！美军舰进黄海 中南海变调 有6个保不住 党媒台湾记者太猥琐！川普火了</a></li>
 
 </ul>
 </div>
