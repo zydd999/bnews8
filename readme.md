@@ -10,18 +10,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317076.md">夏小强：特勤局长王小洪讲话 透露孙力军落马秘密</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md">大陆二手房房源增多价格大跌 上千房企注销</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md">厄运缠身… 公安部副部长孙力军被起底</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317384.md" target="_blank">皮尤新民调惊指美国人近百分之90视中国为威胁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317383.md" target="_blank">中国官方或列白海豚药用动物 曝光后急删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317377.md" target="_blank">瑞典清零关闭所有孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317287.md" target="_blank">一个海外华人给蔡英文总统的一封信 蔡英文总统你好</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317290.md" target="_blank">苏州13岁女孩遭生父性侵9年</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317201.md" target="_blank">台湾约20万人至染疫海军停留点 收到警示简讯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317200.md" target="_blank">密苏里州率先起诉中共：疫情骗局 后果巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317190.md" target="_blank">向中共究责 专家：集体经济制裁是可行途径</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317186.md" target="_blank">文昭：《华邮》“首义”一鸣惊人，直怼中共要害部位！世界离大萧条有多远？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317183.md" target="_blank">江峰：南海发导弹、美舰过台湾海峡、国会索赔，美国行动力对抗中共嘴上功夫；外交外宣齐转风，保G20习近平的面子</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317386.md" target="_blank">时事大家谈：独立调查疫情源头呼声强烈，中国能否顶住国际压力？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317385.md" target="_blank">借鉴美式环保经验 她教会家乡乡村如何回收</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317378.md" target="_blank">港府主要官员调整 得北京信任是主要条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317373.md" target="_blank">澳大利亚加入美、法、德协商    开展疫情国际调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317372.md" target="_blank">“六四天网”创办人黄琦狱中服刑    家属再次被拒绝探监</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317229.md" target="_blank">中共全国性清除商铺阿语标志 再下文件整改伊斯兰风格建筑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317204.md" target="_blank">密苏里州新冠打响提告中国第一枪，美企先行索赔数万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317135.md" target="_blank">四川再取缔340余佛寺道观 大量佛像被毁千年古寺亦遭拆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317102.md" target="_blank">中国扼杀新闻自由，全世界付出死亡代价</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317061.md" target="_blank">民调称三分之二美国人对中国持负面态度</a></li>
 
 </ul>
 </div>
