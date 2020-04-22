@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200421/1316826.md">惊! 玄商导师对2020年的14个预言 一半已应验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200421/1316679.md">“女不进藏 男不入川 老不入广”啥意思？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316910.md">〖兲朝浮世绘〗非要提8964的坦克人 胡锡进这回给党妈添堵了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316664.md">英媒引述中共消息：朝鲜领导人金正恩据信并非病重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200421/1316658.md">纽约三中共肺炎康复者48小时内 同一隔离酒店身亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200421/1316777.md">回声报：北京的噩梦——失业大军浩浩荡荡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316657.md">马克思诅咒全人类下地狱 其儿女惨遭横死</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md" target="_blank">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317237.md" target="_blank">中共为控制疫情叙事 在美国加强间谍活动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317236.md" target="_blank">耿爽怒了！分析人士：中共的辩解看起来很绝望</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317232.md" target="_blank">司法部长傅政华传将由习之江系亲信取代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md" target="_blank">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317218.md" target="_blank">萧铭：美军太平洋舰队前情报主任采访要点；武力攻台可能吗？美国能保护台湾吗？中共不怕粮荒的原因源于3月特殊举措？中共最怕国内民变还是国外压力？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317217.md" target="_blank">江峰：习近平也有日记了？记录那些比蜜还甜的日子；《方方日记》遭围攻，“家丑不可外扬”之丑</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317065.md" target="_blank">北京军区大院严防疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317064.md" target="_blank">黑龙江下“封口令” 禁网上谈论当地疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317043.md" target="_blank">港澳办连发三稿 确立中联办监督权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317029.md" target="_blank">齐齐哈尔遇37年来最大暴雪 积雪最厚2米</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md" target="_blank">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316713.md" target="_blank">澳洲外交部长呼吁国际对武汉新冠疫情进行调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316800.md" target="_blank">【瘟疫与中共】拉美震央厄瓜多尔 被“买断”的未来？</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317240.md" target="_blank">维园六四晚会或31年来中断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317229.md" target="_blank">中共全国性清除商铺阿语标志 再下文件整改伊斯兰风格建筑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317204.md" target="_blank">密苏里州新冠打响提告中国第一枪，美企先行索赔数万亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317135.md" target="_blank">四川再取缔340余佛寺道观 大量佛像被毁千年古寺亦遭拆</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316808.md" target="_blank">高福否认曾说“没有人传人” 武汉人愤怒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316807.md" target="_blank">“武将”取代“文官” 特区高官恐沦为北京棋子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316806.md" target="_blank">阿塔珠尔特负责人被警察带走扣查数小时获释</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200421/1316782.md" target="_blank">疫情危及日中关系   习近平访问日程搁浅</a></li>
 
 </ul>
 </div>
