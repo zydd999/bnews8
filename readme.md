@@ -4,22 +4,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200422/1316945.md">老公“偷拍老婆洗澡” 结果竟出现“意想不到画面”…超突然让网友吓得冒鸡皮疙瘩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316971.md">天亮时分：金正恩脑死亡?孙力军落马必涉政变阴谋,背后的主谋是谁?(政论天下第154集 20200421) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317020.md">陈破空：习近平突上秦岭，原因神秘！金正恩病倒？或找中国算账。谁是继承人 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317262.md">中国经济现历史性崩溃！天灾频发 粮食真要出现大麻烦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200422/1316924.md">中国四处挥铁拳  习近平想干什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316999.md">文昭：金正恩突传病危；中国受两大冲击，习近平进退为难 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317402.md">习近平和江曾交易玩完了？突访秦岭目的彰显 立竿见影傅政华消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317238.md">习近平突上秦岭 原因神秘 曾对别墅违建案6次“震怒”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317178.md">内斗激烈 中共公安部副部长落马 多名央视主播被带走调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317108.md">如何保存大量现金丨硬核生存指南</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317076.md">夏小强：特勤局长王小洪讲话 透露孙力军落马秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md">大陆二手房房源增多价格大跌 上千房企注销</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317266.md">美国情报显示金正恩术后两后果：非死即残</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317263.md">金正恩祖上两代都死于心脏问题 心脏科医生：手术「无可能100%安全」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317215.md">陈破空：党报悄然下架习近平？老任有消息。伊朗反目，巴西这样说中国 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317263.md">金正恩祖上两代都死于心脏问题 心脏科医生：手术「无可能100%安全」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1316929.md">中共病毒突变迅速 浙江11名患者体内发现33种变体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317293.md">中南海多事之秋 王岐山为何频频被聚焦</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317539.md" target="_blank">从鸿蒙操作系统说起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317511.md" target="_blank">WHO差旅支出 医疗物资的2倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317481.md" target="_blank">欧洲朋友国家意大利率先提联署向中国索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317391.md" target="_blank">【抗疫良方】村长率全村人“三退”自救</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317275.md" target="_blank">疫情维稳再加码 高层设立平安中国小组 首会官员上下引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317269.md" target="_blank">莫斯科飞西安航班28名中国人确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317261.md" target="_blank">崔天凯也批特朗普政治化 话语含蓄</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317260.md" target="_blank">中国疫情报境外输入回弹 新确诊也增</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317544.md" target="_blank">武毒所、盖茨基金会和WHO电邮密码疑遭黑客曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317543.md" target="_blank">自杀性的体制：农民工获救助的路漫漫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317542.md" target="_blank">菲律宾不满遭火控雷达瞄准   抗议中方南海霸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317541.md" target="_blank">意大利联署向中国索赔   消费者组织加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317523.md" target="_blank">微博大V“棒棒医生”因言获罪 成李文亮第二？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317510.md" target="_blank">台湾人捐款1.6亿  报恩意大利神父家乡防疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317509.md" target="_blank">河南新乡四童命案记者被打  书记：成立调查组</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317386.md" target="_blank">时事大家谈：独立调查疫情源头呼声强烈，中国能否顶住国际压力？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317385.md" target="_blank">借鉴美式环保经验 她教会家乡乡村如何回收</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317378.md" target="_blank">港府主要官员调整 得北京信任是主要条件</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317373.md" target="_blank">澳大利亚加入美、法、德协商    开展疫情国际调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317372.md" target="_blank">“六四天网”创办人黄琦狱中服刑    家属再次被拒绝探监</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317359.md" target="_blank">美密苏里州就疫情蔓延控中国政府　　打响官方追责第一枪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317358.md" target="_blank">谭德塞推特玩「无厘头」   「诚实」帖文遭网民群起反击</a></li>
 
 </ul>
 </div>
