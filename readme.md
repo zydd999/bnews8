@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318130.md" target="_blank">哈尔滨重现封闭防疫措施，并加强中俄边境新冠检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318125.md" target="_blank">陈破空：陈破空谈《常识》（之43）：如何看待中国城市「翻天覆地的变化」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md" target="_blank">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318111.md" target="_blank">美国第二州提告中国疫责索赔 北京斥滥诉</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317967.md" target="_blank">未获拆迁安置 浙江义乌70村民状告政府</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317966.md" target="_blank">国际调查中国疫责? 法国遭争抢 马克龙指现在还不是调查时候</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317959.md" target="_blank">中国疫情官方称再向好 清零疑似 确诊降至10</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317950.md" target="_blank">骨牌效应 瑞典第二大城市与上海断绝关系</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318133.md" target="_blank">蓬佩奥要求对世卫进行大胆改革，美国捐款未必会恢复</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318128.md" target="_blank">新冠病毒未消 中国恐遭非洲马瘟疫情侵入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318122.md" target="_blank">经历桂民海事件和疫情 瑞典下决心关闭所有孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318114.md" target="_blank">国际团体敦促英国：停止进口新疆强制劳工棉花产品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318113.md" target="_blank">台湾陆委会：如中共介入“林荣基案”将依法重罚</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318020.md" target="_blank">绵阳初中老师非礼女生持续10多年    多名受害女生现身指控官方装聋作哑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318019.md" target="_blank">【耳边风】  孙力军下马但「法不治众」？（孙力军下马系列三之三）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318002.md" target="_blank">中国银行原油投资产品出事      散户劲蚀各地酿维权抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318001.md" target="_blank">疫情国际调查    澳总理吁：世卫所有成员一同加入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318000.md" target="_blank">蓬佩奥抨击中共利用世界对疫情关注侵蚀香港的自治权</a></li>
 
 </ul>
 </div>
