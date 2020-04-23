@@ -18,11 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200423/1317869.md">看看这张照片,中共恶行远超过你想像(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317671.md">孙力军落马 习近平突访陕西 专家：别有深意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317671.md">孙力军落马 习近平突访陕西 专家：别有深意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317950.md">骨牌效应 瑞典第二大城市与上海断绝关系</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md" target="_blank">萧铭：美国暂停绿卡申请，意味着什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318199.md" target="_blank">中农业部警告：要高度警惕境外非洲马瘟传入风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318162.md" target="_blank">澳大利亚总理呼吁要让世卫组织拥有类似联合国武器调查员之权力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318130.md" target="_blank">哈尔滨重现封闭防疫措施，并加强中俄边境新冠检测</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317983.md" target="_blank">花言巧语 王毅致电法国外长：站在全人类健康角度支持世卫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317975.md" target="_blank">未雨绸缪防粮荒?中国适时自美购3000万吨粮扩储</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317968.md" target="_blank">外交杂志：美国不会将国际领导力拱手相让</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317967.md" target="_blank">未获拆迁安置 浙江义乌70村民状告政府</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318212.md" target="_blank">瑞典关闭最后一所孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318177.md" target="_blank">论文：中国如连续使用二月初诊断标准  确诊人数会是四倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318172.md" target="_blank">加拿大省长挺李柱铭  中方批干预内政</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318166.md" target="_blank">中国增加世卫资助    蓬佩奥：美国或将不再恢复拨款</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318039.md" target="_blank">与中国关系急转直下     瑞典关闭所有孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318038.md" target="_blank">大陆医院将爆发疫情　　 地方官为「政治纪律」瞒报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318030.md" target="_blank">澳大利亚呼吁世卫成员国支持对新冠病毒大流行展开调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318028.md" target="_blank">港警滥用限聚令打压人权？  　「敏感日子」告票量激增</a></li>
 
 </ul>
 </div>
