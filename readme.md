@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md">大陆二手房房源增多价格大跌 上千房企注销</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317266.md">美国情报显示金正恩术后两后果：非死即残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317215.md">陈破空：党报悄然下架习近平？老任有消息。伊朗反目，巴西这样说中国 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317263.md">金正恩祖上两代都死于心脏问题 心脏科医生：手术「无可能100%安全」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317293.md">中南海多事之秋 王岐山为何频频被聚焦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200422/1317263.md">金正恩祖上两代都死于心脏问题 心脏科医生：手术「无可能100%安全」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317230.md">加拿大总理特鲁多亲口证实 被北京放了鸽子</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317671.md" target="_blank">孙力军落马 习近平突访陕西 专家：别有深意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1310987.md" target="_blank">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317658.md" target="_blank">习近平突访西安 便衣林立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317629.md" target="_blank">云南冰雹大如手掌 庄稼屋顶全砸烂</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317444.md" target="_blank">人权律师：人们正在承担漠视中共活摘罪行的后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317449.md" target="_blank">无国界记者：新冠疫情假新闻泛滥，中国尤应承担责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317445.md" target="_blank">疫情冲击 真善忍让女业主顺利脱困</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317438.md" target="_blank">外媒关注倒习近平遭整肃？指“狠角色”傅政华卸党职</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317689.md" target="_blank">密苏里州因疫情向中国索赔 特朗普总统说这绝不会是最后一起</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317668.md" target="_blank">美中的“修昔底德陷阱”有多深？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317580.md" target="_blank">蓬佩奥再次批评中国未及时向世卫组织通报新冠疫情信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317544.md" target="_blank">武毒所、盖茨基金会和WHO电邮密码疑遭黑客曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317543.md" target="_blank">自杀性的体制：农民工获救助的路漫漫</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317395.md" target="_blank">泼漆案台警迅速拘3人　　林荣基称新铜锣湾书店如期开业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317394.md" target="_blank">金正恩官媒隐身   青瓦台：未发现朝鲜异动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317393.md" target="_blank">陈建仁：台湾遭世卫排挤  成全球公卫领域孤儿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317386.md" target="_blank">时事大家谈：独立调查疫情源头呼声强烈，中国能否顶住国际压力？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200422/1317385.md" target="_blank">借鉴美式环保经验 她教会家乡乡村如何回收</a></li>
 
 </ul>
 </div>
