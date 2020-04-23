@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318199.md" target="_blank">中农业部警告：要高度警惕境外非洲马瘟传入风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318162.md" target="_blank">澳大利亚总理呼吁要让世卫组织拥有类似联合国武器调查员之权力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318130.md" target="_blank">哈尔滨重现封闭防疫措施，并加强中俄边境新冠检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318125.md" target="_blank">陈破空：陈破空谈《常识》（之43）：如何看待中国城市「翻天覆地的变化」？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317975.md" target="_blank">未雨绸缪防粮荒?中国适时自美购3000万吨粮扩储</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317968.md" target="_blank">外交杂志：美国不会将国际领导力拱手相让</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317967.md" target="_blank">未获拆迁安置 浙江义乌70村民状告政府</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317966.md" target="_blank">国际调查中国疫责? 法国遭争抢 马克龙指现在还不是调查时候</a></li>
 
 </ul>
 </div>
