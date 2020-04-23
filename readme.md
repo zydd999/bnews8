@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317629.md" target="_blank">云南冰雹大如手掌 庄稼屋顶全砸烂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317624.md" target="_blank">陈破空：重要部长解职，孙力军牵涉更多高官？习近平重用那个人，看住党和国家领导人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317617.md" target="_blank">文昭：习近平“西狩”，既避险也冒险；美国第一起索赔中共公诉上路；庚子赔款2.0有多严重？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317584.md" target="_blank">哈尔滨疫情升级 南岗区全封 第二医院停诊</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317438.md" target="_blank">外媒关注倒习近平遭整肃？指“狠角色”傅政华卸党职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317437.md" target="_blank">中国或让加拿大取载医用物资两飞机空返</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317415.md" target="_blank">江峰：谁会是金正恩的接班人，孙力军落马的原因。</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317413.md" target="_blank">中国疾控中心主任高福否认曾说“没有人传人”  武汉人会愤怒中国网络会炸锅?</a></li>
 
 </ul>
 </div>
