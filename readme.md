@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317647.md">郎朗夫妇被拉下神坛？国籍不是最关键的 是什么让他们被反感了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317770.md">平壤封城 金与正升职 “朝鲜早已现异常动向”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317759.md">中南海内斗故事线：任志强事件，邓小平家族想让习近平下台，前全国政协主席俞正声施压《财新网》，习近平和李克强，汪洋和王岐山.....天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317946.md">孙力军落马的真正原因… 专家这么说…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318017.md">最新动态 “命危”疑云更浓 党内下达金与正权力指示文 此计划去年已启动 平壤封城</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317946.md">孙力军落马的真正原因… 专家这么说…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317665.md">内幕：习近平提前布下王小洪 孙力军中调虎离山计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317794.md">习近平视察秦岭地下核战争指挥中心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200423/1317483.md">《石涛聚焦》「最新：金正恩手术前 已知自己很可能‘不死也废’」习近平-最想结束金正恩的人 川普’不知详情 金正恩曾经心腹太永浩「极其不正常 一定出事了」 </a></li>
@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317532.md">日企「断开中国」首发！爱丽思欧雅玛自6月起将生产100%日制口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317671.md">孙力军落马 习近平突访陕西 专家：别有深意</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318154.md" target="_blank">专访众院亚太小组主席(1)：谈美国当前抗疫努力及供应链过度依赖中国问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318150.md" target="_blank">传央视将透过OTT登台 台湾：不会坐视民主破口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318133.md" target="_blank">蓬佩奥要求对世卫进行大胆改革，美国捐款未必会恢复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318128.md" target="_blank">新冠病毒未消 中国恐遭非洲马瘟疫情侵入</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318022.md" target="_blank">中行“原油宝”爆仓   数千散户血本无归还被追债</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318021.md" target="_blank">路透：中国一箭双雕      趁低价囤粮兼履行中美贸易协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318020.md" target="_blank">绵阳初中老师非礼女生持续10多年    多名受害女生现身指控官方装聋作哑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318019.md" target="_blank">【耳边风】  孙力军下马但「法不治众」？（孙力军下马系列三之三）</a></li>
 
 </ul>
 </div>
