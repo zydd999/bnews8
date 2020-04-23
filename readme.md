@@ -2,6 +2,7 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317243.md">关于金正恩 川普刚刚发话了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317123.md">孙力军落马 中南海暗潮汹涌、内斗升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317088.md">中共发言人急于推卸国际追责 搞出乌龙</a></li>
@@ -23,7 +24,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317163.md">厄运缠身… 公安部副部长孙力军被起底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200422/1317095.md">知名女星因武汉肺炎肺部感染超60% 昏迷七天体重暴瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317236.md">耿爽怒了！分析人士：中共的辩解看起来很绝望</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200422/1317239.md">惊传WHO员工运送病毒样本半路遭击毙</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1310987.md" target="_blank">震撼纪录片：解密中共病毒的起源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317658.md" target="_blank">习近平突访西安 便衣林立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317629.md" target="_blank">云南冰雹大如手掌 庄稼屋顶全砸烂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317624.md" target="_blank">陈破空：重要部长解职，孙力军牵涉更多高官？习近平重用那个人，看住党和国家领导人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317617.md" target="_blank">文昭：习近平“西狩”，既避险也冒险；美国第一起索赔中共公诉上路；庚子赔款2.0有多严重？</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317449.md" target="_blank">无国界记者：新冠疫情假新闻泛滥，中国尤应承担责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317445.md" target="_blank">疫情冲击 真善忍让女业主顺利脱困</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317438.md" target="_blank">外媒关注倒习近平遭整肃？指“狠角色”傅政华卸党职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317437.md" target="_blank">中国或让加拿大取载医用物资两飞机空返</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317415.md" target="_blank">江峰：谁会是金正恩的接班人，孙力军落马的原因。</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1310987.md" target="_blank">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317445.md" target="_blank">疫情冲击 真善忍让女业主顺利脱困</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317402.md" target="_blank">习近平和江曾交易玩完了？突访秦岭目的彰显 立竿见影傅政华消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md" target="_blank">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315999.md" target="_blank">习近平“斩”孙力军立威 一石四鸟！孙力军还有这些罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315998.md" target="_blank">《柳叶刀》证实川普是对的：羟氯喹对中共病毒有效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315963.md" target="_blank">囤4800卷厕纸现在想退货 遭澳超市高管怒斥</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200420/1315947.md" target="_blank">难！刚刚开始：46万家企业倒闭 874万毕业生等待就业…</a></li>
 
 </ul>
 </div>
