@@ -17,12 +17,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317880.md">张朴&#65306;前妻眼中的习近平&#8212;&#8212;从柯玲玲的一句话谈起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200423/1317869.md">看看这张照片,中共恶行远超过你想像(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317532.md">日企「断开中国」首发！爱丽思欧雅玛自6月起将生产100%日制口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317671.md">孙力军落马 习近平突访陕西 专家：别有深意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317950.md">骨牌效应 瑞典第二大城市与上海断绝关系</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
