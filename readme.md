@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318166.md" target="_blank">中国增加世卫资助    蓬佩奥：美国或将不再恢复拨款</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318165.md" target="_blank">东南亚联盟外长会议   美国批评中方：趁疫情推动南海野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318154.md" target="_blank">专访众院亚太小组主席(1)：谈美国当前抗疫努力及供应链过度依赖中国问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318150.md" target="_blank">传央视将透过OTT登台 台湾：不会坐视民主破口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318133.md" target="_blank">蓬佩奥要求对世卫进行大胆改革，美国捐款未必会恢复</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318028.md" target="_blank">港警滥用限聚令打压人权？  　「敏感日子」告票量激增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318023.md" target="_blank">世维会和法律团体呼吁英国停止进口新疆棉花产品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318022.md" target="_blank">中行“原油宝”爆仓   数千散户血本无归还被追债</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318021.md" target="_blank">路透：中国一箭双雕      趁低价囤粮兼履行中美贸易协议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318020.md" target="_blank">绵阳初中老师非礼女生持续10多年    多名受害女生现身指控官方装聋作哑</a></li>
 
 </ul>
 </div>
