@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200422/1317415.md">江峰：谁会是金正恩的接班人，孙力军落马的原因。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317759.md">中南海内斗故事线：任志强事件，邓小平家族想让习近平下台，前全国政协主席俞正声施压《财新网》，习近平和李克强，汪洋和王岐山.....天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317647.md">郎朗夫妇被拉下神坛？国籍不是最关键的 是什么让他们被反感了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317575.md">一线采访：习近平突访西安 到处是便衣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200423/1317483.md">《石涛聚焦》「最新：金正恩手术前 已知自己很可能‘不死也废’」习近平-最想结束金正恩的人 川普’不知详情 金正恩曾经心腹太永浩「极其不正常 一定出事了」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317794.md">习近平视察秦岭地下核战争指挥中心</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317371.md">重磅第一枪！美政府诉中共 美疾管局:第二波恐冬天爆发 大突破！美公众可自采样本</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200423/1317483.md">《石涛聚焦》「最新：金正恩手术前 已知自己很可能‘不死也废’」习近平-最想结束金正恩的人 川普’不知详情 金正恩曾经心腹太永浩「极其不正常 一定出事了」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317575.md">一线采访：习近平突访西安 到处是便衣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317665.md">内幕：习近平提前布下王小洪 孙力军中调虎离山计</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317532.md">日企「断开中国」首发！爱丽思欧雅玛自6月起将生产100%日制口罩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317621.md">兽财局 &#124; 全世界都跑了，就中国银行没跑！这一惨战能名垂金融史了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200423/1317869.md">看看这张照片,中共恶行远超过你想像(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317665.md">内幕：习近平提前布下王小洪 孙力军中调虎离山计</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317621.md">兽财局 &#124; 全世界都跑了，就中国银行没跑！这一惨战能名垂金融史了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317532.md">日企「断开中国」首发！爱丽思欧雅玛自6月起将生产100%日制口罩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317880.md">张朴&#65306;前妻眼中的习近平&#8212;&#8212;从柯玲玲的一句话谈起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317671.md">孙力军落马 习近平突访陕西 专家：别有深意</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317658.md">习近平突访西安 便衣林立</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317880.md">张朴&#65306;前妻眼中的习近平&#8212;&#8212;从柯玲玲的一句话谈起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317544.md">武毒所、盖茨基金会和WHO电邮密码疑遭黑客曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317658.md">习近平突访西安 便衣林立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317550.md">美国发现更早的中共病毒首例死亡 来自加州硅谷</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317481.md">欧洲朋友国家意大利率先提联署向中国索赔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318030.md" target="_blank">澳大利亚呼吁世卫成员国支持对新冠病毒大流行展开调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318028.md" target="_blank">港警滥用限聚令打压人权？  　「敏感日子」告票量激增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318023.md" target="_blank">世维会和法律团体呼吁英国停止进口新疆棉花产品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318022.md" target="_blank">中行“原油宝”爆仓   数千散户血本无归还被追债</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318021.md" target="_blank">路透：中国一箭双雕      趁低价囤粮兼履行中美贸易协议</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317509.md" target="_blank">河南新乡四童命案记者被打  书记：成立调查组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317508.md" target="_blank">蓬佩奥：中国共产党政府没有及时向世卫组织通报疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317505.md" target="_blank">准「珍珠港时刻」？　辽宁号航母编队疑南海「包围」美军美利坚号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317492.md" target="_blank">台湾海军群体感染 蔡英文首度道歉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1317470.md" target="_blank">三星公司200人乘中国包机抵西安援建三星闪存芯片厂</a></li>
 
 </ul>
 </div>
