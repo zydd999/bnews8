@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317759.md">中南海内斗故事线：任志强事件，邓小平家族想让习近平下台，前全国政协主席俞正声施压《财新网》，习近平和李克强，汪洋和王岐山.....天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318017.md">最新动态 “命危”疑云更浓 党内下达金与正权力指示文 此计划去年已启动 平壤封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317946.md">孙力军落马的真正原因… 专家这么说…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317665.md">内幕：习近平提前布下王小洪 孙力军中调虎离山计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317794.md">习近平视察秦岭地下核战争指挥中心</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317665.md">内幕：习近平提前布下王小洪 孙力军中调虎离山计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317575.md">一线采访：习近平突访西安 到处是便衣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317621.md">兽财局 &#124; 全世界都跑了，就中国银行没跑！这一惨战能名垂金融史了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200423/1317912.md">金正恩提不起劲求助卧室部 李雪主还保持微笑</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318172.md" target="_blank">加拿大省长挺李柱铭  中方批干预内政</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318166.md" target="_blank">中国增加世卫资助    蓬佩奥：美国或将不再恢复拨款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318165.md" target="_blank">东南亚联盟外长会议   美国批评中方：趁疫情推动南海野心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318154.md" target="_blank">专访众院亚太小组主席(1)：谈美国当前抗疫努力及供应链过度依赖中国问题</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318030.md" target="_blank">澳大利亚呼吁世卫成员国支持对新冠病毒大流行展开调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318028.md" target="_blank">港警滥用限聚令打压人权？  　「敏感日子」告票量激增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318023.md" target="_blank">世维会和法律团体呼吁英国停止进口新疆棉花产品</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318022.md" target="_blank">中行“原油宝”爆仓   数千散户血本无归还被追债</a></li>
 
 </ul>
 </div>
