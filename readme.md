@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318017.md">最新动态 “命危”疑云更浓 党内下达金与正权力指示文 此计划去年已启动 平壤封城</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317986.md">河南驻马店一学校传爆发疫情几被“团灭”有人死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
@@ -14,16 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md">萧铭：美国暂停绿卡申请，意味着什么？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318178.md">刘嘉玲周润发爬山 影帝白发苍苍认不出 亲密合影不怕配偶吃醋？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318157.md">罗志祥戒色不听！周扬青揭淫欲劣行反击…白龙王还有阻止他</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318170.md">有种“整容”叫离婚半年！宋仲基还是老样子 宋慧乔却像变了个人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318170.md">有种“整容”叫离婚半年！宋仲基还是老样子 宋慧乔却像变了个人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318157.md">罗志祥戒色不听！周扬青揭淫欲劣行反击…白龙王还有阻止他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318254.md">暗杀北京副市长 江泽民扳倒了陈希同</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200423/1318093.md">宝胜快评：金正恩状况仍然成谜、接班人是金平一而非金与正、中共买粮讨好美国但川普当仁不让</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318254.md">暗杀北京副市长 江泽民扳倒了陈希同</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318611.md" target="_blank">中共病毒全球向中共索赔国家曝光 金额惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318596.md" target="_blank">忧！深圳将复课 民间疑疫情已在校园内传开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318580.md" target="_blank">发布疫情需上级同意 中共Ⅰ级响应内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318571.md" target="_blank">王全璋：虽有恐惧 但也要坚持争取与家人团聚</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md" target="_blank">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318461.md" target="_blank">孙力军被爆命大陆公安跨境香港执法 遭强烈谴责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318456.md" target="_blank">武汉的故事 哈尔滨续演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md" target="_blank">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318607.md" target="_blank">中国宣布火星探测任务   命名为天问一号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318606.md" target="_blank">将军澳连侬墙斩伤3人判刑45月     区诺轩「大声公袭警」判社会服务令</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318605.md" target="_blank">习近平提枫桥经验及延安精神 形容疫情为中国带来机遇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318591.md" target="_blank">习近平疫情为中国带来机遇　战狼外交势祸及香港台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318547.md" target="_blank">武汉肺炎期间中共再拆多座教堂 七旬教堂负责人遭殴打骨折</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318518.md" target="_blank">错误信息 虚假信息 美中新冠病毒源头之争再起</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318128.md" target="_blank">新冠病毒未消 中国恐遭非洲马瘟疫情侵入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318122.md" target="_blank">经历桂民海事件和疫情 瑞典下决心关闭所有孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318114.md" target="_blank">国际团体敦促英国：停止进口新疆强制劳工棉花产品</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318113.md" target="_blank">台湾陆委会：如中共介入“林荣基案”将依法重罚</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318074.md" target="_blank">马来西亚呼吁以和平方式解决南中国海争端</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318072.md" target="_blank">中国准备大幅度增加粮食进口扩充国家储备</a></li>
 
 </ul>
 </div>
