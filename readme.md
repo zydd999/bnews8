@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318178.md">刘嘉玲周润发爬山 影帝白发苍苍认不出 亲密合影不怕配偶吃醋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md">萧铭：美国暂停绿卡申请，意味着什么？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318170.md">有种“整容”叫离婚半年！宋仲基还是老样子 宋慧乔却像变了个人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md">夏小强：习近平考察陕西的明线和暗线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318647.md">习近平为何突访&quot;祖脉&quot; 揭秘这小九九弯弯绕真多 形势所迫 中共中央变调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318254.md">暗杀北京副市长 江泽民扳倒了陈希同</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318750.md" target="_blank">瑞典多座城市近期相继解除与中国城市友城关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318749.md" target="_blank">江峰：习近平秦岭秘密视察，意欲何为？美国左右势力联手追诉中共责任，首次透露绝招</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318557.md" target="_blank">回忆一九九七年李洪志大师访台点滴（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318688.md" target="_blank">【瘟疫与中共】西非小国六位内阁部长染疫</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318524.md" target="_blank">面对瘟疫冲击及世界追责 中共改变两大基调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318523.md" target="_blank">斥借疫情霸凌邻国 蓬佩奥：各国应追究中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md" target="_blank">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318517.md" target="_blank">清洗“石油帮” 中石油前副总经理李新华被起诉 退休近7年</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318759.md" target="_blank">中国外交官在捍卫疫情的应对上被评展现“战狼”特性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318758.md" target="_blank">宜家母公司称中德多家商购中心重开后运营正常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md" target="_blank">又一致命疫情威胁中国 病死率高达95%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318721.md" target="_blank">王全璋律师获释被“检疫隔离”后仍遭软禁不能与家人团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318703.md" target="_blank">失踪25年的11世班禅喇嘛生日前夕     驻台湾藏人机构吁国际社会施压中共放人</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318607.md" target="_blank">中国宣布火星探测任务   命名为天问一号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318606.md" target="_blank">将军澳连侬墙斩伤3人判刑45月     区诺轩「大声公袭警」判社会服务令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318605.md" target="_blank">习近平提枫桥经验及延安精神 形容疫情为中国带来机遇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318591.md" target="_blank">习近平疫情为中国带来机遇　战狼外交势祸及香港台湾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318547.md" target="_blank">武汉肺炎期间中共再拆多座教堂 七旬教堂负责人遭殴打骨折</a></li>
 
 </ul>
 </div>
