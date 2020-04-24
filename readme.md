@@ -13,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317986.md">河南驻马店一学校传爆发疫情几被“团灭”有人死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317880.md">张朴&#65306;前妻眼中的习近平&#8212;&#8212;从柯玲玲的一句话谈起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200423/1317869.md">看看这张照片,中共恶行远超过你想像(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318273.md" target="_blank">一线采访：疫情严峻 北京居民深感紧张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md" target="_blank">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md" target="_blank">萧铭：美国暂停绿卡申请，意味着什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318199.md" target="_blank">中农业部警告：要高度警惕境外非洲马瘟传入风险</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317986.md" target="_blank">河南驻马店一学校传爆发疫情几被“团灭”有人死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317985.md" target="_blank">澳大利亚喊话世卫成员国 促支持新冠病毒大流行展开国际调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317983.md" target="_blank">花言巧语 王毅致电法国外长：站在全人类健康角度支持世卫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317975.md" target="_blank">未雨绸缪防粮荒?中国适时自美购3000万吨粮扩储</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318276.md" target="_blank">研究发现中国修改病例定义显示确诊人数被严重低估</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318265.md" target="_blank">极不寻常的疫情后 中国经济面临冲击后的艰难挑战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318251.md" target="_blank">观察人士：中国从俄罗斯“抄作业”，从“讲好中国故事”转向散布半真半假信息的“下三滥手段”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318221.md" target="_blank">报道：美国相信中国特工传播有关美国抗疫的虚假信息</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318065.md" target="_blank">应对粮荒？中国拟大举购买美国农产品填充国家储备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318064.md" target="_blank">日本出现中国伪造台湾口罩     无防疫效果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318041.md" target="_blank">越南否认参与对中国官方疫情网站进行黑客攻击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318040.md" target="_blank">中国首宗起诉政府瞒报疫情案件     公务员提告湖北政府</a></li>
 
 </ul>
 </div>
