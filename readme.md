@@ -3,12 +3,11 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318255.md">公子时评：【公子时评】金正恩已殁秘不发丧？接班人金与正妹妹的下场是什么？朝鲜未来局势推演：改革开放没有回头路... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318337.md">宝胜快评：孙力军情妇不是董卿是“全国最美政协委员”、报道此秘闻港媒曾遭抓捕与查封、万达王健林失踪已逾一百天传步吴小晖后尘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318337.md">宝胜快评：孙力军情妇不是董卿是“全国最美政协委员”、报道此秘闻港媒曾遭抓捕与查封、万达王健林失踪已逾一百天传步吴小晖后尘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318178.md">刘嘉玲周润发爬山 影帝白发苍苍认不出 亲密合影不怕配偶吃醋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md">萧铭：美国暂停绿卡申请，意味着什么？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318676.md">网传董卿李思思被抓 两人出面辟谣 李思思：好着呢 董卿：骗的就是你</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318795.md" target="_blank">女同分手后孩子归谁？中国首场官司引热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318786.md" target="_blank">联合国报告：港警阻挠医护人员救助示威者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318767.md" target="_blank">全球穆斯林进入斋月    欧洲防疫关闭清真寺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318766.md" target="_blank">蔡英文第二任期被传会改组国安外交团队</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318637.md" target="_blank">美16位参议员要求发展中国家披露对中国的债务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318634.md" target="_blank">习近平提枫桥经验及延安精神  形容疫情为中国带来机遇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318629.md" target="_blank">恐中国趁乱放「债务陷阱」   美16位参议员吁蓬佩奥紧盯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318628.md" target="_blank">【耳边风】 捉拿孙力军出动中央警卫局？（孙力军下马系列番外篇）</a></li>
 
 </ul>
 </div>
