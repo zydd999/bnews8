@@ -18,9 +18,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1318025.md">孙力军突然落马  血腥罪恶曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317964.md">王健林消失了100天 从首富变「负」翁 债务缺口4000亿人民币</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317936.md">疫情升级！进北京厦门须隔离21天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317977.md">金正恩骑白马登白头山…他4字超级酸 现可如释重负了吧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317825.md">渣男行为被公布 罗志祥慌了！半小时内微博频繁上线十几次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317884.md">恳求美重启WHO金援！谭德塞被问「要不要下台」竟然这么说…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317913.md">面对癌症 医生不敢说的秘密 终于被这专家捅破了</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md" target="_blank">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318412.md" target="_blank">网友直击：浙江舟山船员出海 回国无门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318411.md" target="_blank">哈尔滨道里区餐馆煤气中毒 多人死伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318397.md" target="_blank">网友直击：武汉公交车发现红码乘客 整车人面临隔离</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318086.md" target="_blank">为南海石油 马来西亚与中国勘探对峙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318085.md" target="_blank">中国推2035知识产权强国战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318071.md" target="_blank">习近平结束陕西调研 再提秦岭案并促做好六稳六保战脱贫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318010.md" target="_blank">武汉P4实验室 :法国帮助建成后被“踢”开始末</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md" target="_blank">他对2020年的14个预言 一半已应验(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318425.md" target="_blank">崩溃！中国产检测套件两次不达标 西班牙要求退款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md" target="_blank">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md" target="_blank">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md" target="_blank">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316694.md" target="_blank">“孙力军威胁大到可让习性命不保” 孙倒台 警察都忌若寒蝉 傅政华是下一个？有信号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316657.md" target="_blank">马克思诅咒全人类下地狱 其儿女惨遭横死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316640.md" target="_blank">中共财政萎缩央企利润暴跌 中国经济恶性循环百姓挣扎 粮荒?当局宣导农民政治责任</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316625.md" target="_blank">传习近平常委会讲话谈“反习集团”和任志强 惊人逆转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200421/1316586.md" target="_blank">“机密”泄露… 中联办真身受关注</a></li>
 
 </ul>
 </div>
