@@ -3,25 +3,25 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318017.md">最新动态 “命危”疑云更浓 党内下达金与正权力指示文 此计划去年已启动 平壤封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318255.md">公子时评：【公子时评】金正恩已殁秘不发丧？接班人金与正妹妹的下场是什么？朝鲜未来局势推演：改革开放没有回头路... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318337.md">宝胜快评：孙力军情妇不是董卿是“全国最美政协委员”、报道此秘闻港媒曾遭抓捕与查封、万达王健林失踪已逾一百天传步吴小晖后尘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1318025.md">孙力军突然落马  血腥罪恶曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md">萧铭：美国暂停绿卡申请，意味着什么？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318178.md">刘嘉玲周润发爬山 影帝白发苍苍认不出 亲密合影不怕配偶吃醋？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318170.md">有种“整容”叫离婚半年！宋仲基还是老样子 宋慧乔却像变了个人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318157.md">罗志祥戒色不听！周扬青揭淫欲劣行反击…白龙王还有阻止他</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318170.md">有种“整容”叫离婚半年！宋仲基还是老样子 宋慧乔却像变了个人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318157.md">罗志祥戒色不听！周扬青揭淫欲劣行反击…白龙王还有阻止他</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318254.md">暗杀北京副市长 江泽民扳倒了陈希同</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318620.md" target="_blank">日本官房长官谈特朗普否定金正恩“病危说”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318611.md" target="_blank">中共病毒全球向中共索赔国家曝光 金额惊人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318596.md" target="_blank">忧！深圳将复课 民间疑疫情已在校园内传开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318580.md" target="_blank">发布疫情需上级同意 中共Ⅰ级响应内幕</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318476.md" target="_blank">中国再遇非洲马瘟 官方急监测 民间热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md" target="_blank">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318461.md" target="_blank">孙力军被爆命大陆公安跨境香港执法 遭强烈谴责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318456.md" target="_blank">武汉的故事 哈尔滨续演</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md" target="_blank">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md" target="_blank">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md" target="_blank">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md" target="_blank">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318548.md" target="_blank">惊心动魄！“午夜以后极其的安静 我很小心地拿出…”</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317199.md" target="_blank">大陆二手房房源增多价格大跌 上千房企注销</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317198.md" target="_blank">“恶运”缠身… 公安部副部长孙力军被起底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317087.md" target="_blank">猪肉价格还要涨？农业部：猪肉供应将面临“最艰难时期”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317086.md" target="_blank">金正恩“露面”官媒 传北京医疗团队赴朝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317085.md" target="_blank">YouTube财经大V突被封 疑背后有中共因素</a></li>
 
 </ul>
 </div>
