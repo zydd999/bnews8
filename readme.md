@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317964.md">王健林消失了100天 从首富变「负」翁 债务缺口4000亿人民币</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317936.md">疫情升级！进北京厦门须隔离21天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317977.md">金正恩骑白马登白头山…他4字超级酸 现可如释重负了吧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317884.md">恳求美重启WHO金援！谭德塞被问「要不要下台」竟然这么说…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317825.md">渣男行为被公布 罗志祥慌了！半小时内微博频繁上线十几次</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318397.md" target="_blank">网友直击：武汉公交车发现红码乘客 整车人面临隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318388.md" target="_blank">哈尔滨疫情蔓延 缘何涉及上海惊动北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md" target="_blank">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318319.md" target="_blank">中共再捐3000万美元给世卫 网友 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318318.md" target="_blank">“我下葬了难道我就完了吗？”他说 “没完的 没完没了的”</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318010.md" target="_blank">武汉P4实验室 :法国帮助建成后被“踢”开始末</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318009.md" target="_blank">中国今再追赠世卫3000万美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317995.md" target="_blank">彭佩奥称赞中国支援口罩 但坚持要去查武汉病毒研究所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317994.md" target="_blank">港媒称中国确诊被大幅低估或因染疫界定一改再改</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317987.md" target="_blank">收买人心 中共再捐9亿现金给世卫</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318396.md" target="_blank">新冠肺炎：美国密苏里州起诉中国与中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318373.md" target="_blank">专访众院外委会首席共和党议员：国会将对疫情起源追查到底 让中共承担责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318346.md" target="_blank">世界能不再依赖中国的供应链吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318338.md" target="_blank">特鲁多：中国因疫情而禁止领事探视被扣加拿大公民</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318070.md" target="_blank">被当局两次“隔离”后 失踪独立记者李泽华现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318069.md" target="_blank">时事大家谈：大字报、立跪像，如何看待对方方的“文革式围攻”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318067.md" target="_blank">淋漆三犯交保释放    林荣基感不安全</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318066.md" target="_blank">中共渗透到位？    澳大利亚沃加沃加恢复与昆明姊妹市关系</a></li>
 
 </ul>
 </div>
