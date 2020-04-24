@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318337.md">宝胜快评：孙力军情妇不是董卿是“全国最美政协委员”、报道此秘闻港媒曾遭抓捕与查封、万达王健林失踪已逾一百天传步吴小晖后尘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318919.md" target="_blank">费加罗报：中共撒谎七十年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md" target="_blank">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md" target="_blank">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318899.md" target="_blank">世卫启动国际合作加快应对新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318879.md" target="_blank">法国卫生总署警告新冠病毒流行仍处“高位” 英国死亡人数迫近2万</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318596.md" target="_blank">忧！深圳将复课 民间疑疫情已在校园内传开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318580.md" target="_blank">发布疫情需上级同意 中共Ⅰ级响应内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318571.md" target="_blank">王全璋：虽有恐惧 但也要坚持争取与家人团聚</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md" target="_blank">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318537.md" target="_blank">脱北者偷渡共军开枪 击中送医竟验阳性</a></li>
 
 </ul>
 </div>
