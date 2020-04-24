@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318255.md">公子时评：【公子时评】金正恩已殁秘不发丧？接班人金与正妹妹的下场是什么？朝鲜未来局势推演：改革开放没有回头路... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
@@ -13,17 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318647.md">习近平为何突访&quot;祖脉&quot; 揭秘这小九九弯弯绕真多 形势所迫 中共中央变调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md">夏小强：习近平考察陕西的明线和暗线</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318676.md">网传董卿李思思被抓 两人出面辟谣 李思思：好着呢 董卿：骗的就是你</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
