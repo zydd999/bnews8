@@ -1,8 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317759.md">中南海内斗故事线：任志强事件，邓小平家族想让习近平下台，前全国政协主席俞正声施压《财新网》，习近平和李克强，汪洋和王岐山.....天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317770.md">平壤封城 金与正升职 “朝鲜早已现异常动向”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318017.md">最新动态 “命危”疑云更浓 党内下达金与正权力指示文 此计划去年已启动 平壤封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317946.md">孙力军落马的真正原因… 专家这么说…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317794.md">习近平视察秦岭地下核战争指挥中心</a></li>
@@ -12,7 +10,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200423/1317869.md">看看这张照片,中共恶行远超过你想像(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
@@ -23,7 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317964.md">王健林消失了100天 从首富变「负」翁 债务缺口4000亿人民币</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317936.md">疫情升级！进北京厦门须隔离21天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317977.md">金正恩骑白马登白头山…他4字超级酸 现可如释重负了吧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317825.md">渣男行为被公布 罗志祥慌了！半小时内微博频繁上线十几次</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317884.md">恳求美重启WHO金援！谭德塞被问「要不要下台」竟然这么说…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317913.md">面对癌症 医生不敢说的秘密 终于被这专家捅破了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318412.md" target="_blank">网友直击：浙江舟山船员出海 回国无门</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318411.md" target="_blank">哈尔滨道里区餐馆煤气中毒 多人死伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318397.md" target="_blank">网友直击：武汉公交车发现红码乘客 整车人面临隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318388.md" target="_blank">哈尔滨疫情蔓延 缘何涉及上海惊动北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md" target="_blank">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318085.md" target="_blank">中国推2035知识产权强国战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318071.md" target="_blank">习近平结束陕西调研 再提秦岭案并促做好六稳六保战脱贫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318010.md" target="_blank">武汉P4实验室 :法国帮助建成后被“踢”开始末</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1318009.md" target="_blank">中国今再追赠世卫3000万美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317995.md" target="_blank">彭佩奥称赞中国支援口罩 但坚持要去查武汉病毒研究所</a></li>
 
 </ul>
 </div>
