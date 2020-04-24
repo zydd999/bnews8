@@ -11,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318647.md">习近平为何突访&quot;祖脉&quot; 揭秘这小九九弯弯绕真多 形势所迫 中共中央变调</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md">夏小强：习近平考察陕西的明线和暗线</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318879.md" target="_blank">法国卫生总署警告新冠病毒流行仍处“高位” 英国死亡人数迫近2万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318855.md" target="_blank">专栏 | 夜话中南海：警告台湾“勿谓言之不预”   胡锡进级别不够</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318851.md" target="_blank">疫情坏了交情！瑞典与中共多个城市解除友好关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md" target="_blank">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318537.md" target="_blank">脱北者偷渡共军开枪 击中送医竟验阳性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318536.md" target="_blank">助中共建P4实验室惹议 法媒曝法方被“踢开”内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318535.md" target="_blank">中共官方称肃清孙力军流毒 政法系或又一轮清洗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318531.md" target="_blank">中共数据被指低估4倍 美议员：后面少个零</a></li>
 
 </ul>
 </div>
