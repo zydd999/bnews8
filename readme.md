@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md" target="_blank">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md" target="_blank">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318750.md" target="_blank">瑞典多座城市近期相继解除与中国城市友城关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318749.md" target="_blank">江峰：习近平秦岭秘密视察，意欲何为？美国左右势力联手追诉中共责任，首次透露绝招</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318531.md" target="_blank">中共数据被指低估4倍 美议员：后面少个零</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318530.md" target="_blank">深受其害 美国防长：是制止中共散播假信息的时候了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318524.md" target="_blank">面对瘟疫冲击及世界追责 中共改变两大基调</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318523.md" target="_blank">斥借疫情霸凌邻国 蓬佩奥：各国应追究中共</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318838.md" target="_blank">揭秘武汉病毒研究所P4实验室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318837.md" target="_blank">瑞德西韦中国临床试验失败？吉利德称尚无定论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318807.md" target="_blank">中国口罩不合格　促发加拿大政治议题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318806.md" target="_blank">梵蒂冈否认教宗近期将访中 称仍需要对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318805.md" target="_blank">担忧疫情卷土重来 中国东北实施新限制措施</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318683.md" target="_blank">美舰贝瑞号本月两度通过台海　  专家：警告中共勿对台轻举妄动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318682.md" target="_blank">香港政情形势严峻        学者：秋后算帐势必到来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318681.md" target="_blank">香港民主人士遭打压 台湾学者吁美国制裁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318678.md" target="_blank">建制派「忽然心急」产生内会主席　郭荣铿吁以集体智慧解破难题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318651.md" target="_blank">京教授转发武肺短片惹祸　  患血压高兼患脑退化</a></li>
 
 </ul>
 </div>
