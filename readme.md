@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1310987.md">震撼纪录片：解密中共病毒的起源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317647.md">郎朗夫妇被拉下神坛？国籍不是最关键的 是什么让他们被反感了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317759.md">中南海内斗故事线：任志强事件，邓小平家族想让习近平下台，前全国政协主席俞正声施压《财新网》，习近平和李克强，汪洋和王岐山.....天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317770.md">平壤封城 金与正升职 “朝鲜早已现异常动向”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318017.md">最新动态 “命危”疑云更浓 党内下达金与正权力指示文 此计划去年已启动 平壤封城</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317950.md">骨牌效应 瑞典第二大城市与上海断绝关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317658.md">习近平突访西安 便衣林立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1318025.md">孙力军突然落马  血腥罪恶曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317964.md">王健林消失了100天 从首富变「负」翁 债务缺口4000亿人民币</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
