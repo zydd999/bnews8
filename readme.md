@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318255.md">公子时评：【公子时评】金正恩已殁秘不发丧？接班人金与正妹妹的下场是什么？朝鲜未来局势推演：改革开放没有回头路... </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318337.md">宝胜快评：孙力军情妇不是董卿是“全国最美政协委员”、报道此秘闻港媒曾遭抓捕与查封、万达王健林失踪已逾一百天传步吴小晖后尘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317950.md">骨牌效应 瑞典第二大城市与上海断绝关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1318025.md">孙力军突然落马  血腥罪恶曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317964.md">王健林消失了100天 从首富变「负」翁 债务缺口4000亿人民币</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md">萧铭：美国暂停绿卡申请，意味着什么？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317936.md">疫情升级！进北京厦门须隔离21天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317977.md">金正恩骑白马登白头山…他4字超级酸 现可如释重负了吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318206.md">萧铭：美国暂停绿卡申请，意味着什么？ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317977.md">金正恩骑白马登白头山…他4字超级酸 现可如释重负了吧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318178.md">刘嘉玲周润发爬山 影帝白发苍苍认不出 亲密合影不怕配偶吃醋？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318170.md">有种“整容”叫离婚半年！宋仲基还是老样子 宋慧乔却像变了个人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318157.md">罗志祥戒色不听！周扬青揭淫欲劣行反击…白龙王还有阻止他</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318537.md" target="_blank">脱北者偷渡共军开枪 击中送医竟验阳性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318536.md" target="_blank">助中共建P4实验室惹议 法媒曝法方被“踢开”内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318535.md" target="_blank">中共官方称肃清孙力军流毒 政法系或又一轮清洗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318531.md" target="_blank">中共数据被指低估4倍 美议员：后面少个零</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318530.md" target="_blank">深受其害 美国防长：是制止中共散播假信息的时候了</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318411.md" target="_blank">哈尔滨道里区餐馆煤气中毒 多人死伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318397.md" target="_blank">网友直击：武汉公交车发现红码乘客 整车人面临隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318388.md" target="_blank">哈尔滨疫情蔓延 缘何涉及上海惊动北京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md" target="_blank">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318319.md" target="_blank">中共再捐3000万美元给世卫 网友 ：不要脸！</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318547.md" target="_blank">武汉肺炎期间中共再拆多座教堂 七旬教堂负责人遭殴打骨折</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318518.md" target="_blank">错误信息 虚假信息 美中新冠病毒源头之争再起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318396.md" target="_blank">新冠肺炎：美国密苏里州起诉中国与中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318373.md" target="_blank">专访众院外委会首席共和党议员：国会将对疫情起源追查到底 让中共承担责任</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318074.md" target="_blank">马来西亚呼吁以和平方式解决南中国海争端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318072.md" target="_blank">中国准备大幅度增加粮食进口扩充国家储备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318070.md" target="_blank">被当局两次“隔离”后 失踪独立记者李泽华现身</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318069.md" target="_blank">时事大家谈：大字报、立跪像，如何看待对方方的“文革式围攻”？</a></li>
 
 </ul>
 </div>
