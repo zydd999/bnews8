@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md">夏小强：习近平考察陕西的明线和暗线</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318676.md">网传董卿李思思被抓 两人出面辟谣 李思思：好着呢 董卿：骗的就是你</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318254.md">暗杀北京副市长 江泽民扳倒了陈希同</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md" target="_blank">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318899.md" target="_blank">世卫启动国际合作加快应对新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318879.md" target="_blank">法国卫生总署警告新冠病毒流行仍处“高位” 英国死亡人数迫近2万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318855.md" target="_blank">专栏 | 夜话中南海：警告台湾“勿谓言之不预”   胡锡进级别不够</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318851.md" target="_blank">疫情坏了交情！瑞典与中共多个城市解除友好关系</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318571.md" target="_blank">王全璋：虽有恐惧 但也要坚持争取与家人团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md" target="_blank">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318537.md" target="_blank">脱北者偷渡共军开枪 击中送医竟验阳性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318536.md" target="_blank">助中共建P4实验室惹议 法媒曝法方被“踢开”内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318535.md" target="_blank">中共官方称肃清孙力军流毒 政法系或又一轮清洗</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318896.md" target="_blank">蓬佩奥：相信中国将为疫情引发的痛苦和损失承担后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318859.md" target="_blank">特朗普与拜登的“谁对中国软弱”之争</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318838.md" target="_blank">揭秘武汉病毒研究所P4实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318837.md" target="_blank">瑞德西韦中国临床试验失败？吉利德称尚无定论</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318685.md" target="_blank">观察家：中共抗疫宣传在国际间适得其反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318684.md" target="_blank">美国反移民组织不满移民禁令 吁当务之急是控制工作签证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318683.md" target="_blank">美舰贝瑞号本月两度通过台海　  专家：警告中共勿对台轻举妄动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318682.md" target="_blank">香港政情形势严峻        学者：秋后算帐势必到来</a></li>
 
 </ul>
 </div>
