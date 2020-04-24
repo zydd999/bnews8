@@ -6,15 +6,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200424/1318337.md">宝胜快评：孙力军情妇不是董卿是“全国最美政协委员”、报道此秘闻港媒曾遭抓捕与查封、万达王健林失踪已逾一百天传步吴小晖后尘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200424/1318214.md">这7种动物不请自来，是吉兆！千万不要把财运赶出门</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318647.md">习近平为何突访&quot;祖脉&quot; 揭秘这小九九弯弯绕真多 形势所迫 中共中央变调</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md">夏小强：习近平考察陕西的明线和暗线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318236.md">陈破空：习近平远走西安，部署一件大事。特朗普警告伊朗，实际另有所指 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318254.md">暗杀北京副市长 江泽民扳倒了陈希同</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318341.md">各地频爆群集感染 中共官员因“政治要求”瞒报</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318855.md" target="_blank">专栏 | 夜话中南海：警告台湾“勿谓言之不预”   胡锡进级别不够</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318851.md" target="_blank">疫情坏了交情！瑞典与中共多个城市解除友好关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md" target="_blank">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md" target="_blank">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318750.md" target="_blank">瑞典多座城市近期相继解除与中国城市友城关系</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318536.md" target="_blank">助中共建P4实验室惹议 法媒曝法方被“踢开”内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318535.md" target="_blank">中共官方称肃清孙力军流毒 政法系或又一轮清洗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318531.md" target="_blank">中共数据被指低估4倍 美议员：后面少个零</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318530.md" target="_blank">深受其害 美国防长：是制止中共散播假信息的时候了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318524.md" target="_blank">面对瘟疫冲击及世界追责 中共改变两大基调</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318859.md" target="_blank">特朗普与拜登的“谁对中国软弱”之争</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318838.md" target="_blank">揭秘武汉病毒研究所P4实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318837.md" target="_blank">瑞德西韦中国临床试验失败？吉利德称尚无定论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318807.md" target="_blank">中国口罩不合格　促发加拿大政治议题</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318684.md" target="_blank">美国反移民组织不满移民禁令 吁当务之急是控制工作签证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318683.md" target="_blank">美舰贝瑞号本月两度通过台海　  专家：警告中共勿对台轻举妄动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318682.md" target="_blank">香港政情形势严峻        学者：秋后算帐势必到来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318681.md" target="_blank">香港民主人士遭打压 台湾学者吁美国制裁</a></li>
 
 </ul>
 </div>
