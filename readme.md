@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317880.md">张朴&#65306;前妻眼中的习近平&#8212;&#8212;从柯玲玲的一句话谈起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200423/1317869.md">看看这张照片,中共恶行远超过你想像(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1318096.md">反目!意率先索赔让世界参与 查!蓬佩奥首称涉多个实验室 内部文件曝哈市瞒报200多倍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317726.md">惊爆：中共肺炎病毒来自反华势力的纳米机器人杀手--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200423/1317776.md">卖豪宅抄底原油的人跳楼了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317960.md">大老虎落马的敏感时刻 赵乐际外出“脱贫”引猜测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1317892.md">孙力军出事原因竟传出5版本 专家提供第6个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317820.md">内幕：疫情早已爆发 中共一直隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200423/1317950.md">骨牌效应 瑞典第二大城市与上海断绝关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1318025.md">孙力军突然落马  血腥罪恶曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200423/1317964.md">王健林消失了100天 从首富变「负」翁 债务缺口4000亿人民币</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318173.md">中共新能源车补贴新政一出台，特斯拉要哭了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317936.md">疫情升级！进北京厦门须隔离21天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317977.md">金正恩骑白马登白头山…他4字超级酸 现可如释重负了吧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200423/1317825.md">渣男行为被公布 罗志祥慌了！半小时内微博频繁上线十几次</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200423/1317884.md">恳求美重启WHO金援！谭德塞被问「要不要下台」竟然这么说…</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318373.md" target="_blank">专访众院外委会首席共和党议员：国会将对疫情起源追查到底 让中共承担责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318346.md" target="_blank">世界能不再依赖中国的供应链吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318338.md" target="_blank">特鲁多：中国因疫情而禁止领事探视被扣加拿大公民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318276.md" target="_blank">研究发现中国修改病例定义显示确诊人数被严重低估</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318069.md" target="_blank">时事大家谈：大字报、立跪像，如何看待对方方的“文革式围攻”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318067.md" target="_blank">淋漆三犯交保释放    林荣基感不安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318066.md" target="_blank">中共渗透到位？    澳大利亚沃加沃加恢复与昆明姊妹市关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200423/1318065.md" target="_blank">应对粮荒？中国拟大举购买美国农产品填充国家储备</a></li>
 
 </ul>
 </div>
