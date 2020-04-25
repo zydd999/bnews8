@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319022.md">中共异动反映出金正恩已出事，朝鲜气数已尽.</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318984.md">辽宁沈阳突爆疫情 3千人感染 整个医院瘫痪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318627.md">传金正恩病危 川普：CNN报导不正确</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200425/1318884.md">中国最特别的县 人口仅3万却美女如云 出门就能看到3个国家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200425/1319100.md">港媒：中国医疗人员爆「金正恩成植物人」揭8分钟手术失败内幕</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
