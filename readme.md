@@ -2,14 +2,14 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318937.md">文昭：朝鲜「秘不发丧」？撑多久？倒习政变顺藤摸出反贼窝子 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319020.md">李肇星外甥女暗示金正恩已死？港媒：已成植物人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319022.md">中共异动反映出金正恩已出事，朝鲜气数已尽.</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md">内幕 让孙力军“搞出大动静”的丑闻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200425/1319100.md">港媒：中国医疗人员爆「金正恩成植物人」揭8分钟手术失败内幕</a></li>
@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md">习头号亲信掌控公安部？政法系清洗在即</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319109.md">真不带谭德塞玩了！WHO拟联手多国研发疫苗 美国：不加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200425/1318884.md">中国最特别的县 人口仅3万却美女如云 出门就能看到3个国家</a></li>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319331.md" target="_blank">俄专家支持病毒人造论 称中国科学家做了疯狂事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319330.md" target="_blank">世卫：无证据显示 新冠病毒患者康复后不会再染疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319329.md" target="_blank">防中国窃密 欧盟建议各大学设反间谍人员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319328.md" target="_blank">北京3名90后疫情志愿者被警方带走 目前被指定住所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md" target="_blank">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319311.md" target="_blank">中国关停18000多个网络营销账号 称将继续严打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319306.md" target="_blank">香港法制堪忧：法官借题大骂反修例 称赞凶手“情操高尚”</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319169.md" target="_blank">林荣基逃离香港落脚台湾，重开“铜锣湾”继续战斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319146.md" target="_blank">中共污蔑新冠病毒产自哈萨克斯坦（後记）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319138.md" target="_blank">新冠肺炎盛行期间的中国外交：离奇的哈萨克斯坦案例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319137.md" target="_blank">新疆转化营：维族人、宗教信徒终日受虐 非正常死亡频发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319122.md" target="_blank">洛杉矶视觉艺术家协会：请为香港签名，解救15民主人士</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319114.md" target="_blank">世卫协调新冠疫苗全球公平分配 美中两国皆缺席启动仪式</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319067.md" target="_blank">报告：胁迫性经济措施成美中竞争新“武器”</a></li>
 
 </ul>
 </div>
