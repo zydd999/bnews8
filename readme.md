@@ -5,12 +5,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1318784.md">世界日报: 专家大胆预言：新冠肺炎70天内几乎消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319020.md">李肇星外甥女暗示金正恩已死？港媒：已成植物人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319022.md">中共异动反映出金正恩已出事，朝鲜气数已尽.</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md">内幕 让孙力军“搞出大动静”的丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200425/1319100.md">港媒：中国医疗人员爆「金正恩成植物人」揭8分钟手术失败内幕</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319109.md">真不带谭德塞玩了！WHO拟联手多国研发疫苗 美国：不加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200425/1318884.md">中国最特别的县 人口仅3万却美女如云 出门就能看到3个国家</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md" target="_blank">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319311.md" target="_blank">中国关停18000多个网络营销账号 称将继续严打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319306.md" target="_blank">香港法制堪忧：法官借题大骂反修例 称赞凶手“情操高尚”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319305.md" target="_blank">香港青年在反修例运动中因侮辱国旗罪被判入狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319304.md" target="_blank">疫情期间因言获罪 北科大退休教师陈兆志被批捕</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319122.md" target="_blank">洛杉矶视觉艺术家协会：请为香港签名，解救15民主人士</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319114.md" target="_blank">世卫协调新冠疫苗全球公平分配 美中两国皆缺席启动仪式</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319067.md" target="_blank">报告：胁迫性经济措施成美中竞争新“武器”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319035.md" target="_blank">华为高管孟晚舟引渡听证会下周再开庭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319034.md" target="_blank">中国派遣医学团队前往朝鲜，商议金正恩健康</a></li>
 
 </ul>
 </div>
