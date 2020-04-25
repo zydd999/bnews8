@@ -3,27 +3,27 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318647.md">习近平为何突访&quot;祖脉&quot; 揭秘这小九九弯弯绕真多 形势所迫 中共中央变调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md">夏小强：习近平考察陕西的明线和暗线</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318471.md">傅政华下台即将宣布？北京律师透内情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318676.md">网传董卿李思思被抓 两人出面辟谣 李思思：好着呢 董卿：骗的就是你</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318477.md">习近平遇最大凶险 急访陕西拜“龙脉”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1318784.md">世界日报: 专家大胆预言：新冠肺炎70天内几乎消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200424/1318529.md">声道 &#124; 胡锡进“翻车”了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318537.md">脱北者偷渡共军开枪 击中送医竟验阳性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md" target="_blank">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319054.md" target="_blank">起诉中共隐瞒疫情 美国国会正扫清障碍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319053.md" target="_blank">追责中共 美国政界给北京送索赔账单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319052.md" target="_blank">加议员：权威制度不是效率 中共让世界陷危机</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md" target="_blank">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md" target="_blank">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318750.md" target="_blank">瑞典多座城市近期相继解除与中国城市友城关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318749.md" target="_blank">江峰：习近平秦岭秘密视察，意欲何为？美国左右势力联手追诉中共责任，首次透露绝招</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319067.md" target="_blank">报告：胁迫性经济措施成美中竞争新“武器”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319035.md" target="_blank">华为高管孟晚舟引渡听证会下周再开庭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319034.md" target="_blank">中国派遣医学团队前往朝鲜，商议金正恩健康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318943.md" target="_blank">曹长青：美国之音要成中共知音了？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318721.md" target="_blank">王全璋律师获释被“检疫隔离”后仍遭软禁不能与家人团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318703.md" target="_blank">失踪25年的11世班禅喇嘛生日前夕     驻台湾藏人机构吁国际社会施压中共放人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318702.md" target="_blank">北京借世卫发布对瑞德西韦不利数据？　业界疑中共「刻意阻挠美国新药研发进程」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318694.md" target="_blank">中缅边界发生武装冲突，边界过境点全部关闭</a></li>
 
 </ul>
 </div>
