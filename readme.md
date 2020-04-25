@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318458.md">孙力军“新”情人曝光？背后大靠山可能是这个“老常委”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318505.md">诡异！沈铁大停运 平壤封城 金正恩挂了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200424/1318392.md">金正恩挑女学生当性奴隶 朝鲜已成为&quot;毒品天堂&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318426.md">西安行揭祕：习近平考察秦岭 真实的目在这儿！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318550.md">金与正在人们眼中只是个毛孩 需关注的是他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318522.md">非洲废除“一带一路”开第一枪 坦桑尼亚总统：只有醉汉才接受</a></li>
@@ -19,11 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318450.md">我眼中大陆目前的真实现状 可能比你们想的还糟糕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1318784.md">世界日报: 专家大胆预言：新冠肺炎70天内几乎消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200424/1318529.md">声道 &#124; 胡锡进“翻车”了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319013.md" target="_blank">中共高层内斗激烈 习近平陕西吁听“指挥”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md" target="_blank">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md" target="_blank">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318990.md" target="_blank">十万火急！青岛小珠山大火蔓延到城市 街道居民急撤</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318720.md" target="_blank">管理失控 暴跌油价 新冠疫情压倒石油交易巨头新加坡兴隆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318719.md" target="_blank">中国国务院扶贫办：脱贫攻坚目标任务今年定能如期实现</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md" target="_blank">王小洪卸任北京市公安局局长</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318943.md" target="_blank">曹长青：美国之音要成中共知音了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318972.md" target="_blank">中国称关停18000多个网络恶意营销账号并将继续严厉打击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318959.md" target="_blank">专家：疫情处理不当和政策失败或使北京在台海加强挑衅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318896.md" target="_blank">蓬佩奥：相信中国将为疫情引发的痛苦和损失承担后果</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318694.md" target="_blank">中缅边界发生武装冲突，边界过境点全部关闭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318691.md" target="_blank">中国匈牙利签署匈塞铁路匈牙利段贷款协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318686.md" target="_blank">焦点对话：中国特工在美散布假讯息 疫情恐引爆&quot;第五代战争&quot;？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318685.md" target="_blank">观察家：中共抗疫宣传在国际间适得其反</a></li>
 
 </ul>
 </div>
