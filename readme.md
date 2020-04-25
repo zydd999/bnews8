@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200424/1318676.md">网传董卿李思思被抓 两人出面辟谣 李思思：好着呢 董卿：骗的就是你</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318937.md">文昭：朝鲜「秘不发丧」？撑多久？倒习政变顺藤摸出反贼窝子 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1318784.md">世界日报: 专家大胆预言：新冠肺炎70天内几乎消失</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319020.md">李肇星外甥女暗示金正恩已死？港媒：已成植物人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318984.md">辽宁沈阳突爆疫情 3千人感染 整个医院瘫痪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319022.md">中共异动反映出金正恩已出事，朝鲜气数已尽.</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318627.md">传金正恩病危 川普：CNN报导不正确</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200425/1318774.md">还记得那个拍戏嫌水脏 用140桶矿泉水拍戏女星吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200425/1318884.md">中国最特别的县 人口仅3万却美女如云 出门就能看到3个国家</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319168.md" target="_blank">中共频繁挑衅台海？ 专家：港台政策全面溃败 经济临界崩盘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319166.md" target="_blank">践踏国旗被判社服令港府上诉后法官改判被告入狱</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md" target="_blank">习头号亲信掌控公安部？政法系清洗在即</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319160.md" target="_blank">法官借题大骂反修例运动还称赞斩伤女记者凶徒“情操高尚”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319159.md" target="_blank">Zoom不但涉嫌充当北京海外耳目还被指打压国内宗教</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319151.md" target="_blank">中共路线政策导致3年大饥荒 令人挥之不去的人间惨剧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md" target="_blank">内幕 让孙力军“搞出大动静”的丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319120.md" target="_blank">发疫情言论被捕 北科大教授陈兆志获见律师</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319013.md" target="_blank">中共高层内斗激烈 习近平陕西吁听“指挥”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md" target="_blank">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md" target="_blank">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318990.md" target="_blank">十万火急！青岛小珠山大火蔓延到城市 街道居民急撤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318976.md" target="_blank">路透社独家：中国派医疗专家前往朝鲜救治金正恩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318975.md" target="_blank">深圳下周开始复课 官方首曝师生大面积感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318944.md" target="_blank">加拿大购自中国百万口罩不合标准</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318937.md" target="_blank">文昭：朝鲜「秘不发丧」？撑多久？倒习政变顺藤摸出反贼窝子</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319169.md" target="_blank">林荣基逃离香港落脚台湾，重开“铜锣湾”继续战斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319146.md" target="_blank">中共污蔑新冠病毒产自哈萨克斯坦（後记）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319138.md" target="_blank">新冠肺炎盛行期间的中国外交：离奇的哈萨克斯坦案例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319137.md" target="_blank">新疆转化营：维族人、宗教信徒终日受虐 非正常死亡频发</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318786.md" target="_blank">联合国报告：港警阻挠医护人员救助示威者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318767.md" target="_blank">全球穆斯林进入斋月    欧洲防疫关闭清真寺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318766.md" target="_blank">蔡英文第二任期被传会改组国安外交团队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1318759.md" target="_blank">中国外交官在捍卫疫情的应对上被评展现“战狼”特性</a></li>
 
 </ul>
 </div>
