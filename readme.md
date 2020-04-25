@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319013.md">中共高层内斗激烈 习近平陕西吁听“指挥”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319385.md" target="_blank">德国继续讨论松动防疫管控</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319384.md" target="_blank">新冠感染复原者等于获得免疫护照 世卫组织指缺乏证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319365.md" target="_blank">天亮时分：中朝边境列车停运,是否金正恩命危?相比美国,中共为何更怕非洲?(政论天下第155集 20200425)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319359.md" target="_blank">中共病毒疫情再起 大陆多地延长隔离期 最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md" target="_blank">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md" target="_blank">内幕 让孙力军“搞出大动静”的丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319120.md" target="_blank">发疫情言论被捕 北科大教授陈兆志获见律师</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319111.md" target="_blank">现场视频：沈阳疫情风险陡升 省医院医生隔离</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319110.md" target="_blank">一线采访：沈阳一医生疑感染 全市大排查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319104.md" target="_blank">孙力军落马 中共政法系或面临新一轮清洗</a></li>
 
 </ul>
 </div>
