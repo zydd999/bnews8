@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319020.md">李肇星外甥女暗示金正恩已死？港媒：已成植物人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md">内幕 让孙力军“搞出大动静”的丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318991.md">广州排查结果“异常” 网络视频曝出“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319022.md">中共异动反映出金正恩已出事，朝鲜气数已尽.</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200425/1319100.md">港媒：中国医疗人员爆「金正恩成植物人」揭8分钟手术失败内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318984.md">辽宁沈阳突爆疫情 3千人感染 整个医院瘫痪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318935.md">北京医疗专家小组紧急赴平壤  金正恩病危？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319109.md">真不带谭德塞玩了！WHO拟联手多国研发疫苗 美国：不加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200425/1318884.md">中国最特别的县 人口仅3万却美女如云 出门就能看到3个国家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200425/1318884.md">中国最特别的县 人口仅3万却美女如云 出门就能看到3个国家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319013.md">中共高层内斗激烈 习近平陕西吁听“指挥”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319264.md" target="_blank">做哨子的人与吹哨媒体-揭开被掩盖的中共肺炎内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319265.md" target="_blank">中缅边境地区发生武装冲突后 两国外长通话指加强管控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319262.md" target="_blank">中国银行：对客户投资原油宝受损深感不安 部分投资人欲集体诉讼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319232.md" target="_blank">中方施压下 欧盟淡化批评中国散播疫情假消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md" target="_blank">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319087.md" target="_blank">武汉肺炎疫亡者家属追责 律师顾问团受理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md" target="_blank">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319054.md" target="_blank">起诉中共隐瞒疫情 美国国会正扫清障碍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319053.md" target="_blank">追责中共 美国政界给北京送索赔账单</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319052.md" target="_blank">加议员：权威制度不是效率 中共让世界陷危机</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319264.md" target="_blank">做哨子的人与吹哨媒体-揭开被掩盖的中共肺炎内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md" target="_blank">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md" target="_blank">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md" target="_blank">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200423/1317933.md" target="_blank">史诗级失业海啸冲垮中共美梦 投资者被中行坑惨 韭菜们这下被连根刨了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200423/1310987.md" target="_blank">震撼纪录片：解密中共病毒的起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200422/1317445.md" target="_blank">疫情冲击 真善忍让女业主顺利脱困</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200422/1317402.md" target="_blank">习近平和江曾交易玩完了？突访秦岭目的彰显 立竿见影傅政华消失</a></li>
 
 </ul>
 </div>
