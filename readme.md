@@ -12,16 +12,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318504.md">北京疫情骤然升温 解封无期 李克强紧急发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1318850.md">中共病毒后最可怕的事情来了 人们将这样死去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1318784.md">世界日报: 专家大胆预言：新冠肺炎70天内几乎消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318937.md">文昭：朝鲜「秘不发丧」？撑多久？倒习政变顺藤摸出反贼窝子 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318706.md">王小洪卸任北京市公安局局长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200424/1318644.md">又一致命疫情威胁中国 病死率高达95%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318937.md">文昭：朝鲜「秘不发丧」？撑多久？倒习政变顺藤摸出反贼窝子 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200424/1318553.md">苹果用户注意了 收到这串神秘字符iPhone秒死机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200424/1318699.md">独！中国超限战！第三次世界大战来了？！美、英、义、德、印、埃及联手！对中国求偿1290兆？！高温杀死新冠病毒？！夏天疫情能趋缓？！【2020.04.24『年代向钱看』节目】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200424/1318529.md">声道 &#124; 胡锡进“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318824.md">费加罗报调查：新冠病毒 北京弥天大谎</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200424/1318529.md">声道 &#124; 胡锡进“翻车”了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318778.md">非洲人遭中国人暴打视频激化仇中情绪 可是</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200424/1318537.md">脱北者偷渡共军开枪 击中送医竟验阳性</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319104.md" target="_blank">孙力军落马 中共政法系或面临新一轮清洗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319102.md" target="_blank">取悦美国 江泽民将魏京生从囚室直送飞美国班机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319099.md" target="_blank">中朝边境异动火车停驶 疑与金正恩“命危”有关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319098.md" target="_blank">网友直击：广州疫情有异 网曝“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319095.md" target="_blank">黑龙江省再爆群聚感染事件 牡丹江两所医院卷入</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318917.md" target="_blank">速报：路透社指 中共帮助金正恩的医疗小组赶赴北韩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318901.md" target="_blank">陈破空：陕西行，习近平说话漏底！政敌就在那里。瑞典与中国脱钩，坦桑尼亚退出一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318899.md" target="_blank">世卫启动国际合作加快应对新冠病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318879.md" target="_blank">法国卫生总署警告新冠病毒流行仍处“高位” 英国死亡人数迫近2万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318855.md" target="_blank">专栏 | 夜话中南海：警告台湾“勿谓言之不预”   胡锡进级别不够</a></li>
 
 </ul>
 </div>
