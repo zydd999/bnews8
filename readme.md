@@ -7,8 +7,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319324.md">他是张学友“岳父” 向华强都不敢惹他 却因蓝洁瑛名声不保</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319266.md">美军事专家：若金正恩死亡朝鲜恐爆内战 美韩需准备应对</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319390.md">中国仅4千余人死于中共病毒？英政府从疫情排名表上剔除中方数据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319717.md" target="_blank">陕西访民遭强力维稳斥习近平回乡视察意在护龙脉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319683.md" target="_blank">怎么能让中国政府承担责任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319677.md" target="_blank">人权律师王全璋赴北京探患病妻子被阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319664.md" target="_blank">中国银行原油投资产品亏损可能超出90亿元</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319243.md" target="_blank">外籍华裔男子涉勾结境外势力反中乱港　 移送广州检察院审查起诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319242.md" target="_blank">警方禁止五一游行　　职工盟感遗憾决上诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319212.md" target="_blank">中国施压欧盟改动一份报告中批评中国的文字</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319211.md" target="_blank">中国严格防堵之下输入性新冠病毒病例仍增加</a></li>
 
 </ul>
 </div>
