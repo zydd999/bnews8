@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319274.md">北京位列全国最危！答案来了 沈阳突爆疫情 3千人确定检测 广州排查&quot;异常&quot; 曝&quot;大场面&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
@@ -11,19 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319324.md">他是张学友“岳父” 向华强都不敢惹他 却因蓝洁瑛名声不保</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319321.md">刘涛11岁女儿近照 浅浅一笑很倾城 网友：以后得多少人追啊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319324.md">他是张学友“岳父” 向华强都不敢惹他 却因蓝洁瑛名声不保</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319760.md" target="_blank">欧盟对4款国产口罩发出严重警示　 中国查获问题口罩近亿只</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319759.md" target="_blank">外交部驻港公署反驳美国际民主研究院反修例报告</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319758.md" target="_blank">台北市卡拉OK大火　 至少5死、2垂危另51人伤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319754.md" target="_blank">亚洲最新疫情简报：中国新增病例平缓 新加坡激增近千病例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319749.md" target="_blank">全球新冠肺炎死亡上升之际多国开始重启部分经济活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319717.md" target="_blank">陕西访民遭强力维稳斥习近平回乡视察意在护龙脉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319683.md" target="_blank">怎么能让中国政府承担责任？</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319263.md" target="_blank">中国电信等四家中国国企可能会被赶出美国市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319261.md" target="_blank">铜锣湾书店在台北重启 林荣基：台湾是香港最后堡垒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319257.md" target="_blank">朱凯廸称若郭荣铿被取消议员资格，将会带来很大涟漪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319256.md" target="_blank">美国警告或以国家安全风险为由　  关闭3间中国电讯公司在美营运</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319244.md" target="_blank">央视两女主播涉孙力军案被捕　官媒澄清纯属传言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319243.md" target="_blank">外籍华裔男子涉勾结境外势力反中乱港　 移送广州检察院审查起诉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319242.md" target="_blank">警方禁止五一游行　　职工盟感遗憾决上诉</a></li>
 
 </ul>
 </div>
