@@ -13,13 +13,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319423.md">习近平拥抱穿山甲 法国查理周刊讥讽中国隐瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319571.md">杨幂最好的年华 不是给了前夫刘恺威 而是给了他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319619.md">脸不要就算了 但百度你偷中国网民的5个亿 打算什么时候还？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md" target="_blank">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319856.md" target="_blank">约翰逊已返回唐宁街首相府今天恢复办公</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md" target="_blank">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319809.md" target="_blank">德国内政部：中国外交官曾鼓励德官员积极评价中国抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319783.md" target="_blank">各地派医疗队支援牡丹江医院 西南边境也告急 多地复学复课传出疫情</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319479.md" target="_blank">民政部：全国无因父母感染肺炎去世而造成的孤儿？看证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319462.md" target="_blank">收到9万个差评 中共援菲抗疫歌曲遭打脸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md" target="_blank">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319435.md" target="_blank">参议员克鲁兹：修法切断凤凰卫视等中共宣传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md" target="_blank">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 
 </ul>
 </div>
