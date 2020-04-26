@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319571.md">杨幂最好的年华 不是给了前夫刘恺威 而是给了他</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319423.md">习近平拥抱穿山甲 法国查理周刊讥讽中国隐瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319619.md">脸不要就算了 但百度你偷中国网民的5个亿 打算什么时候还？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319390.md">中国仅4千余人死于中共病毒？英政府从疫情排名表上剔除中方数据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md" target="_blank">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319809.md" target="_blank">德国内政部：中国外交官曾鼓励德官员积极评价中国抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319783.md" target="_blank">各地派医疗队支援牡丹江医院 西南边境也告急 多地复学复课传出疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319771.md" target="_blank">疑因备份遭删除新冠疫情报道 北京3名90后2人遭拘押1人失联</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md" target="_blank">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319435.md" target="_blank">参议员克鲁兹：修法切断凤凰卫视等中共宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md" target="_blank">中国人翻墙到底违不违法？网友热烈讨论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319426.md" target="_blank">密西西比检察长谈起诉：中共不能再欺骗美国</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319843.md" target="_blank">金正恩生死成谜 韩国认为可能有异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319833.md" target="_blank">别墅强拆风波不断 野三坡别墅暂缓拆除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319832.md" target="_blank">穆斯林斋月开启 流亡维族人呼吁世界关注新疆问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319831.md" target="_blank">艾未未：病毒强化了中国的“警察国家”体制</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319664.md" target="_blank">中国银行原油投资产品亏损可能超出90亿元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319331.md" target="_blank">俄专家支持病毒人造论 称中国科学家做了疯狂事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319330.md" target="_blank">世卫：无证据显示 新冠病毒患者康复后不会再染疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319329.md" target="_blank">防中国窃密 欧盟建议各大学设反间谍人员</a></li>
 
 </ul>
 </div>
