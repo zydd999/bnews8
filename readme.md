@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319274.md">北京位列全国最危！答案来了 沈阳突爆疫情 3千人确定检测 广州排查&quot;异常&quot; 曝&quot;大场面&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md">习头号亲信掌控公安部？政法系清洗在即</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319109.md">真不带谭德塞玩了！WHO拟联手多国研发疫苗 美国：不加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200425/1319108.md">中行紧急通知全行员工注意人身安全!加强安保严阵以待防范原油宝客户聚集！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319620.md" target="_blank">牡丹江医院发生大规模感染 各地派医疗队支援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319591.md" target="_blank">【中共：霸凌世界三部曲】中共肺炎疫情终将过去，但一个更为致命的威胁还在世间徘徊，威胁着人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319597.md" target="_blank">大陆新闻解读649期_时事小品：庚子历史重演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319547.md" target="_blank">中共：霸凌世界三部曲 欺骗 渗透 宰割</a></li>
@@ -56,13 +57,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319354.md" target="_blank">新冠病毒疫情全球死亡人数突破20万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319353.md" target="_blank">法国单日医院死亡病例创一个月新低 总理菲利普将提交政府“解封”行动计划</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319181.md" target="_blank">回忆一九九七年李洪志大师访台点滴（下）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319264.md" target="_blank">做哨子的人与吹哨媒体-揭开被掩盖的中共肺炎内幕</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319627.md" target="_blank">传奇知青：跟毛握手 亲自辨认林彪尸首 做过克格勃 在日本搞暗杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319626.md" target="_blank">“行了 中概股排队回国吧”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319619.md" target="_blank">脸不要就算了 但百度你偷中国网民的5个亿 打算什么时候还？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md" target="_blank">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319608.md" target="_blank">出来混早晚是要还的！30余年伴生中共 德国汽车业因疫情陷危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319591.md" target="_blank">【中共：霸凌世界三部曲】中共肺炎疫情终将过去，但一个更为致命的威胁还在世间徘徊，威胁着人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md" target="_blank">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
@@ -84,10 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318627.md" target="_blank">传金正恩病危 川普：CNN报导不正确</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318621.md" target="_blank">北韩无爱滋？ 金正恩被赞爆了 惊曝金正日验过HIV</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318615.md" target="_blank">北京疫情升温李克强紧发话 医院恐成新爆发点地方瞒报 法帮江泽民建武汉P4后被踢开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318560.md" target="_blank">大疫面前 中国经济五劳七伤 惨不忍睹！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md" target="_blank">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318548.md" target="_blank">惊心动魄！“午夜以后极其的安静 我很小心地拿出…”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md" target="_blank">夏小强：习近平考察陕西的明线和暗线</a></li>
 
 </ul>
 </div>
