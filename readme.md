@@ -1,12 +1,10 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319274.md">北京位列全国最危！答案来了 沈阳突爆疫情 3千人确定检测 广州排查&quot;异常&quot; 曝&quot;大场面&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
@@ -20,10 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319324.md">他是张学友“岳父” 向华强都不敢惹他 却因蓝洁瑛名声不保</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319266.md">美军事专家：若金正恩死亡朝鲜恐爆内战 美韩需准备应对</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319695.md" target="_blank">法广专访王全璋：妻子急病住院无法探望心急如焚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319688.md" target="_blank">白宫：川普与普京联合声明 抛弃分歧加强合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319668.md" target="_blank">中共借世卫发假数据针对瑞德西韦 业界质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md" target="_blank">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md" target="_blank">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319385.md" target="_blank">德国继续讨论松动防疫管控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319384.md" target="_blank">新冠感染复原者等于获得免疫护照 世卫组织指缺乏证据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319365.md" target="_blank">天亮时分：中朝边境列车停运,是否金正恩命危?相比美国,中共为何更怕非洲?(政论天下第155集 20200425)</a></li>
 
 </ul>
 </div>
