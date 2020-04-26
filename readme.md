@@ -14,9 +14,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md" target="_blank">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319641.md" target="_blank">我亲手将3份材料 送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319639.md" target="_blank">大陆新闻解读649期_严真点评+外交部大实话：班农爆料称武汉实验室研究员出逃；三胖陨落所引发的震荡或许能把老大哥也给震趴下&#8230;..</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319637.md" target="_blank">大陆律师赞4.25事件：维护人权、尊严与信仰</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319365.md" target="_blank">天亮时分：中朝边境列车停运,是否金正恩命危?相比美国,中共为何更怕非洲?(政论天下第155集 20200425)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319359.md" target="_blank">中共病毒疫情再起 大陆多地延长隔离期 最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md" target="_blank">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319356.md" target="_blank">中国制口罩质量不合标准欧盟连发严重警示</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319664.md" target="_blank">中国银行原油投资产品亏损可能超出90亿元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319331.md" target="_blank">俄专家支持病毒人造论 称中国科学家做了疯狂事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319330.md" target="_blank">世卫：无证据显示 新冠病毒患者康复后不会再染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319329.md" target="_blank">防中国窃密 欧盟建议各大学设反间谍人员</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319211.md" target="_blank">中国严格防堵之下输入性新冠病毒病例仍增加</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319169.md" target="_blank">林荣基逃离香港落脚台湾，重开“铜锣湾”继续战斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319146.md" target="_blank">中共污蔑新冠病毒产自哈萨克斯坦（後记）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319138.md" target="_blank">新冠肺炎盛行期间的中国外交：离奇的哈萨克斯坦案例</a></li>
 
 </ul>
 </div>
