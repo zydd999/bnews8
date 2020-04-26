@@ -2,10 +2,9 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md">内幕 让孙力军“搞出大动静”的丑闻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319077.md">震撼一幕出现！警察吓坏：“了不得啦！这都是真的 …！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200425/1319100.md">港媒：中国医疗人员爆「金正恩成植物人」揭8分钟手术失败内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md">习头号亲信掌控公安部？政法系清洗在即</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319274.md">北京位列全国最危！答案来了 沈阳突爆疫情 3千人确定检测 广州排查&quot;异常&quot; 曝&quot;大场面&quot;</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319098.md">网友直击：广州疫情有异 网曝“大场面”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319063.md">江泽民将魏京生从囚室直送飞美国班机内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319099.md">中朝边境异动火车停驶 疑与金正恩“命危”有关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200425/1319108.md">中行紧急通知全行员工注意人身安全!加强安保严阵以待防范原油宝客户聚集！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319177.md">孙力军情妇被查？这两位央视女主播都说「我很好」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
