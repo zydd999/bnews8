@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md">习头号亲信掌控公安部？政法系清洗在即</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319274.md">北京位列全国最危！答案来了 沈阳突爆疫情 3千人确定检测 广州排查&quot;异常&quot; 曝&quot;大场面&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319109.md">真不带谭德塞玩了！WHO拟联手多国研发疫苗 美国：不加入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1318992.md">内幕 对外不公开 黑龙江预警炭疽疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319013.md">中共高层内斗激烈 习近平陕西吁听“指挥”</a></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319435.md" target="_blank">参议员克鲁兹：修法切断凤凰卫视等中共宣传</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md" target="_blank">中国人翻墙到底违不违法？网友热烈讨论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319426.md" target="_blank">密西西比检察长谈起诉：中共不能再欺骗美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319423.md" target="_blank">习近平拥抱穿山甲 法国查理周刊讥讽中国隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md" target="_blank">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md" target="_blank">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319385.md" target="_blank">德国继续讨论松动防疫管控</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319168.md" target="_blank">中共频繁挑衅台海？ 专家：港台政策全面溃败 经济临界崩盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319166.md" target="_blank">践踏国旗被判社服令港府上诉后法官改判被告入狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md" target="_blank">习头号亲信掌控公安部？政法系清洗在即</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319160.md" target="_blank">法官借题大骂反修例运动还称赞斩伤女记者凶徒“情操高尚”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319159.md" target="_blank">Zoom不但涉嫌充当北京海外耳目还被指打压国内宗教</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319151.md" target="_blank">中共路线政策导致3年大饥荒 令人挥之不去的人间惨剧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md" target="_blank">内幕 让孙力军“搞出大动静”的丑闻</a></li>
 
 </ul>
 </div>
