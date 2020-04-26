@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319098.md">网友直击：广州疫情有异 网曝“大场面”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319099.md">中朝边境异动火车停驶 疑与金正恩“命危”有关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319597.md" target="_blank">大陆新闻解读649期_时事小品：庚子历史重演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319547.md" target="_blank">中共：霸凌世界三部曲 欺骗 渗透 宰割</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319494.md" target="_blank">中资公司雇员披露买口罩寄中国的政治任务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319493.md" target="_blank">在微信讨论华为在伊朗业务 5前员工被拘留</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319181.md" target="_blank">回忆一九九七年李洪志大师访台点滴（下）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319264.md" target="_blank">做哨子的人与吹哨媒体-揭开被掩盖的中共肺炎内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319265.md" target="_blank">中缅边境地区发生武装冲突后 两国外长通话指加强管控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319262.md" target="_blank">中国银行：对客户投资原油宝受损深感不安 部分投资人欲集体诉讼</a></li>
 
 </ul>
 </div>
