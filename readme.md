@@ -18,9 +18,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319098.md">网友直击：广州疫情有异 网曝“大场面”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319063.md">江泽民将魏京生从囚室直送飞美国班机内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319099.md">中朝边境异动火车停驶 疑与金正恩“命危”有关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319219.md">特朗普持股房产被曝欠中国银行巨额债务 2022年到期</a></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md" target="_blank">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md" target="_blank">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md" target="_blank">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md" target="_blank">大陆地方财政收入下滑50% 按时发工资难</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md" target="_blank">夏小强：习近平考察陕西的明线和暗线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md" target="_blank">他对2020年的14个预言 一半已应验(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318425.md" target="_blank">崩溃！中国产检测套件两次不达标 西班牙要求退款</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318340.md" target="_blank">中共再捐3000万美元给世卫 网友怒批 ：不要脸！</a></li>
 
 </ul>
 </div>
