@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319321.md">刘涛11岁女儿近照 浅浅一笑很倾城 网友：以后得多少人追啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319324.md">他是张学友“岳父” 向华强都不敢惹他 却因蓝洁瑛名声不保</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319324.md">他是张学友“岳父” 向华强都不敢惹他 却因蓝洁瑛名声不保</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319266.md">美军事专家：若金正恩死亡朝鲜恐爆内战 美韩需准备应对</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319390.md">中国仅4千余人死于中共病毒？英政府从疫情排名表上剔除中方数据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319747.md" target="_blank">原油宝总损失被指不少于90亿元 国家信访局将反馈事项转交中行、银保监会</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319695.md" target="_blank">法广专访王全璋：妻子急病住院无法探望心急如焚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319688.md" target="_blank">白宫：川普与普京联合声明 抛弃分歧加强合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319668.md" target="_blank">中共借世卫发假数据针对瑞德西韦 业界质疑</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319423.md" target="_blank">习近平拥抱穿山甲 法国查理周刊讥讽中国隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md" target="_blank">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md" target="_blank">金正恩继续隐身 朝鲜出事了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319385.md" target="_blank">德国继续讨论松动防疫管控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319384.md" target="_blank">新冠感染复原者等于获得免疫护照 世卫组织指缺乏证据</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md" target="_blank">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md" target="_blank">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319627.md" target="_blank">传奇知青：跟毛握手 亲自辨认林彪尸首 做过克格勃 在日本搞暗杀</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md" target="_blank">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318647.md" target="_blank">习近平为何突访&quot;祖脉&quot; 揭秘这小九九弯弯绕真多 形势所迫 中共中央变调</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318627.md" target="_blank">传金正恩病危 川普：CNN报导不正确</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319749.md" target="_blank">全球新冠肺炎死亡上升之际多国开始重启部分经济活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319717.md" target="_blank">陕西访民遭强力维稳斥习近平回乡视察意在护龙脉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319683.md" target="_blank">怎么能让中国政府承担责任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319677.md" target="_blank">人权律师王全璋赴北京探患病妻子被阻</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319244.md" target="_blank">央视两女主播涉孙力军案被捕　官媒澄清纯属传言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319243.md" target="_blank">外籍华裔男子涉勾结境外势力反中乱港　 移送广州检察院审查起诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319242.md" target="_blank">警方禁止五一游行　　职工盟感遗憾决上诉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200425/1319212.md" target="_blank">中国施压欧盟改动一份报告中批评中国的文字</a></li>
 
 </ul>
 </div>
