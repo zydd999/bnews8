@@ -7,10 +7,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319321.md">刘涛11岁女儿近照 浅浅一笑很倾城 网友：以后得多少人追啊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319571.md">杨幂最好的年华 不是给了前夫刘恺威 而是给了他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319312.md">法国查理周刊嘲讽习近平 西方与中国渐行渐远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319809.md" target="_blank">德国内政部：中国外交官曾鼓励德官员积极评价中国抗疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319783.md" target="_blank">各地派医疗队支援牡丹江医院 西南边境也告急 多地复学复课传出疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319771.md" target="_blank">疑因备份遭删除新冠疫情报道 北京3名90后2人遭拘押1人失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319747.md" target="_blank">原油宝总损失被指不少于90亿元 国家信访局将反馈事项转交中行、银保监会</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319435.md" target="_blank">参议员克鲁兹：修法切断凤凰卫视等中共宣传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md" target="_blank">中国人翻墙到底违不违法？网友热烈讨论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319426.md" target="_blank">密西西比检察长谈起诉：中共不能再欺骗美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319423.md" target="_blank">习近平拥抱穿山甲 法国查理周刊讥讽中国隐瞒疫情</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319810.md" target="_blank">中国大使馆对加拿大进口口罩不达标问题做出回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319791.md" target="_blank">北京90后公益志愿者为新冠疫情文章备份遭“寻滋”监居</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319790.md" target="_blank">中国查获问题口罩9000万只</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319787.md" target="_blank">河北空气污染改善 新冠病毒疫情所赐还是政府减排有效？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319306.md" target="_blank">香港法制堪忧：法官借题大骂反修例 称赞凶手“情操高尚”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319305.md" target="_blank">香港青年在反修例运动中因侮辱国旗罪被判入狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319304.md" target="_blank">疫情期间因言获罪 北科大退休教师陈兆志被批捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319303.md" target="_blank">Zoom涉嫌充当北京海外耳目 还打压国内宗教</a></li>
 
 </ul>
 </div>
