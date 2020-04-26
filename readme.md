@@ -9,7 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319423.md">习近平拥抱穿山甲 法国查理周刊讥讽中国隐瞒疫情</a></li>
@@ -21,9 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md">大陆地方财政收入下滑50% 按时发工资难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319630.md">【要闻集粹】习近平受大辱 中国特色魔幻惊世 世界正自食漠视活摘恶果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319627.md">传奇知青：跟毛握手 亲自辨认林彪尸首 做过克格勃 在日本搞暗杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319630.md">【要闻集粹】习近平受大辱 中国特色魔幻惊世 世界正自食漠视活摘恶果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319604.md">11岁女孩指出西游记漏洞 400年来专家竟没发现 网友：火眼金睛</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319510.md">中共异动反映出金正恩已出事 朝鲜气数已尽.</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md" target="_blank">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md" target="_blank">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md" target="_blank">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md" target="_blank">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319494.md" target="_blank">中资公司雇员披露买口罩寄中国的政治任务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319493.md" target="_blank">在微信讨论华为在伊朗业务 5前员工被拘留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319492.md" target="_blank">疫情失控？中共中央指导组派人急赴西南边境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319479.md" target="_blank">民政部：全国无因父母感染肺炎去世而造成的孤儿？看证据</a></li>
 
 </ul>
 </div>
