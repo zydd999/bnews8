@@ -11,18 +11,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319109.md">真不带谭德塞玩了！WHO拟联手多国研发疫苗 美国：不加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200425/1319108.md">中行紧急通知全行员工注意人身安全!加强安保严阵以待防范原油宝客户聚集！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319608.md" target="_blank">出来混早晚是要还的！30余年伴生中共 德国汽车业因疫情陷危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319591.md" target="_blank">【中共：霸凌世界三部曲】中共肺炎疫情终将过去，但一个更为致命的威胁还在世间徘徊，威胁着人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md" target="_blank">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md" target="_blank">李克强给六省市开会 凸显经济两大领域危急</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318549.md" target="_blank">中行动手了！最担心的事情发生：划扣倒欠资金 7旬老人亏95万 还欠银行超百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318548.md" target="_blank">惊心动魄！“午夜以后极其的安静 我很小心地拿出…”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318515.md" target="_blank">夏小强：习近平考察陕西的明线和暗线</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200424/1318446.md" target="_blank">他对2020年的14个预言 一半已应验(视频)</a></li>
 
 </ul>
 </div>
