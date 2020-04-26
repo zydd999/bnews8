@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319121.md">内幕 让孙力军“搞出大动静”的丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
@@ -9,21 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319292.md">班农：武汉病毒实验室研究员成功外逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319161.md">习头号亲信掌控公安部？政法系清洗在即</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319192.md">俄罗斯专家称中国武汉实验室「做了绝对疯狂的事」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md">川普和普京发表罕见联合声明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319372.md">中国实施超大工程 将黄河水引到沙漠中 结果发生了神奇反应！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200425/1319155.md">中共战机绕台挑衅小心了！ 对手来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319315.md">孙红雷和她拍吻戏后连吐三天 至今不拍吻戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319346.md">金正恩专列停靠元山领袖度假村</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200425/1319281.md">紧急关注&#65306;北京3名90后疫情志愿者7天前被警方带走 已被指定居所监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319179.md">金正恩成植物人 日媒爆料：医师手抖花8分钟才插入支架</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319392.md">金正恩继续隐身 朝鲜出事了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319338.md">《我为什么要拼命爬出底层社会》朱之文就是血泪教训！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319434.md">中国人翻墙到底违不违法？网友热烈讨论</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200425/1319189.md">63岁老人养老金被停 一听原因差点背过气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319411.md">陈破空：中朝边境异动！金正恩已经死亡？六人争位。可能爆发战争 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200425/1319180.md">专家大胆预言：新冠肺炎70天内几乎消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319641.md" target="_blank">我亲手将3份材料 送到尉健行手上 他接过信后说：“我一定看”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319639.md" target="_blank">大陆新闻解读649期_严真点评+外交部大实话：班农爆料称武汉实验室研究员出逃；三胖陨落所引发的震荡或许能把老大哥也给震趴下&#8230;..</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319637.md" target="_blank">大陆律师赞4.25事件：维护人权、尊严与信仰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319620.md" target="_blank">牡丹江医院发生大规模感染 各地派医疗队支援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319591.md" target="_blank">【中共：霸凌世界三部曲】中共肺炎疫情终将过去，但一个更为致命的威胁还在世间徘徊，威胁着人们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319597.md" target="_blank">大陆新闻解读649期_时事小品：庚子历史重演</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319359.md" target="_blank">中共病毒疫情再起 大陆多地延长隔离期 最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319358.md" target="_blank">陕西小学隐瞒感染致死学生 家长堵门喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319356.md" target="_blank">中国制口罩质量不合标准欧盟连发严重警示</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319354.md" target="_blank">新冠病毒疫情全球死亡人数突破20万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319353.md" target="_blank">法国单日医院死亡病例创一个月新低 总理菲利普将提交政府“解封”行动计划</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200425/1319181.md" target="_blank">回忆一九九七年李洪志大师访台点滴（下）</a></li>
 
 </ul>
 </div>
