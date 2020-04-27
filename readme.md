@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319604.md">11岁女孩指出西游记漏洞 400年来专家竟没发现 网友：火眼金睛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319630.md">【要闻集粹】习近平受大辱 中国特色魔幻惊世 世界正自食漠视活摘恶果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319674.md">美俄两国总统发表联合声明 或涉及北韩局势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319626.md">“行了 中概股排队回国吧”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319660.md">金正恩一旦死亡 北韩会何时及如何宣布成关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319662.md">今天才知道 原来保存大蒜这么简单 放一年不干瘪不发芽 真实用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319612.md">北韩官媒再发金正恩消息 但他死活就是不露面！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320058.md" target="_blank">突发疫情 广州增城区新塘镇小区企业商户全部关门放假</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320057.md" target="_blank">武汉鹦鹉洲大桥出现波形晃动 多位车主感头晕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320049.md" target="_blank">北京促给中国防疫打高分？德内政部：确有其事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320047.md" target="_blank">疫情蔓延 美议员：中共必须做三件事 否则等着被制裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320046.md" target="_blank">川普政府拟进一步限制移民 或限H-1B等签证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320045.md" target="_blank">刷爆网络 杭州小学生头戴这种帽子开学</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319590.md" target="_blank">中国问题首席战略家斯伯丁将军访谈： 中共制造了这场全球瘟疫！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md" target="_blank">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md" target="_blank">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md" target="_blank">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md" target="_blank">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319856.md" target="_blank">约翰逊已返回唐宁街首相府今天恢复办公</a></li>
 
 </ul>
 </div>
