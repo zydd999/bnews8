@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319449.md">大陆多地复学复课传出疫情 二次爆发没法控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319499.md">金正恩传说不断 专家：病情是这样的</a></li>
@@ -10,20 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319571.md">杨幂最好的年华 不是给了前夫刘恺威 而是给了他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319619.md">脸不要就算了 但百度你偷中国网民的5个亿 打算什么时候还？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319619.md">脸不要就算了 但百度你偷中国网民的5个亿 打算什么时候还？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319627.md">传奇知青：跟毛握手 亲自辨认林彪尸首 做过克格勃 在日本搞暗杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319630.md">【要闻集粹】习近平受大辱 中国特色魔幻惊世 世界正自食漠视活摘恶果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319604.md">11岁女孩指出西游记漏洞 400年来专家竟没发现 网友：火眼金睛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319510.md">中共异动反映出金正恩已出事 朝鲜气数已尽.</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200426/1319501.md">90岁的人 40岁心脏！他每天吃三片这个！才几毛钱！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319674.md">美俄两国总统发表联合声明 或涉及北韩局势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200426/1319501.md">90岁的人 40岁心脏！他每天吃三片这个！才几毛钱！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319660.md">金正恩一旦死亡 北韩会何时及如何宣布成关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319492.md">疫情失控？中共中央指导组派人急赴西南边境</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319626.md">“行了 中概股排队回国吧”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md" target="_blank">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319944.md" target="_blank">游说德官员赞北京防疫 中共外交官遭拒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319943.md" target="_blank">内幕：内部文件泄中共少报在俄公民数</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md" target="_blank">武汉解封后的真实状况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319931.md" target="_blank">金正恩什么状况 几种意见对立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md" target="_blank">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319918.md" target="_blank">武汉鹦鹉洲长江大桥波浪般剧烈晃动 当局辟谣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319588.md" target="_blank">「美国优先政策」政策主任埃利斯：更致命疫病是中国共产党！</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319668.md" target="_blank">中共借世卫发假数据针对瑞德西韦 业界质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md" target="_blank">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319641.md" target="_blank">我亲手将3份材料 送到尉健行手上 他接过信后说：“我一定看”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319639.md" target="_blank">大陆新闻解读649期_严真点评+外交部大实话：班农爆料称武汉实验室研究员出逃；三胖陨落所引发的震荡或许能把老大哥也给震趴下&#8230;..</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319637.md" target="_blank">大陆律师赞4.25事件：维护人权、尊严与信仰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319620.md" target="_blank">牡丹江医院发生大规模感染 各地派医疗队支援</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319591.md" target="_blank">【中共：霸凌世界三部曲】中共肺炎疫情终将过去，但一个更为致命的威胁还在世间徘徊，威胁着人们</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319597.md" target="_blank">大陆新闻解读649期_时事小品：庚子历史重演</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319937.md" target="_blank">瑞典关闭孔子学院 不接受中国独裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319843.md" target="_blank">金正恩生死成谜 韩国认为可能有异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319833.md" target="_blank">别墅强拆风波不断 野三坡别墅暂缓拆除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319832.md" target="_blank">穆斯林斋月开启 流亡维族人呼吁世界关注新疆问题</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319677.md" target="_blank">人权律师王全璋赴北京探患病妻子被阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319664.md" target="_blank">中国银行原油投资产品亏损可能超出90亿元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319331.md" target="_blank">俄专家支持病毒人造论 称中国科学家做了疯狂事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319330.md" target="_blank">世卫：无证据显示 新冠病毒患者康复后不会再染疫</a></li>
 
 </ul>
 </div>
