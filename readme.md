@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320117.md">网曝董卿售卖美国五千万豪宅 老公真实身份曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md">中共军委彻底收权 人大常委会修订武警法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320317.md" target="_blank">上海维权律师彭永和遭打压无法执业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320316.md" target="_blank">铜锣湾书店在台重开  蔡英文送花篮祝贺</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md" target="_blank">中国“原油宝”爆仓续发酵</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320314.md" target="_blank">美国公布对中国出口新限制措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320301.md" target="_blank">无锡49访民要求归还土地和物资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320300.md" target="_blank">陕西访民：习近平视察期间访民遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320299.md" target="_blank">学者报告：中国7000万失业 失业率超过20%</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320176.md" target="_blank">美法总统一致同意改革世卫　美国会领袖：世卫是「武汉卫生组织」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320173.md" target="_blank">拒绝中国经济讹诈 澳坚持要求就新冠病毒疫情进行独立调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320170.md" target="_blank">全球确诊逾297万 死亡破20万　俄罗斯确诊87147超越中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320169.md" target="_blank">「方方日记」继续发酵　梁艳萍教授支持揭露疫情真相被整肃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320168.md" target="_blank">班农：推翻中共　世界将走向和平与繁荣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320166.md" target="_blank">中国官方报称星期天新增三例新冠病毒确诊病例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320163.md" target="_blank">沙特无惧负评豪花2.65亿美元　向中国购900万套检测病毒工具</a></li>
 
 </ul>
 </div>
