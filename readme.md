@@ -7,23 +7,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320117.md">网曝董卿售卖美国五千万豪宅 老公真实身份曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320117.md">网曝董卿售卖美国五千万豪宅 老公真实身份曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320084.md">中国近9千万假口罩曝光 全球骂翻 欧盟发警告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200427/1319865.md">宝胜快评：俄罗斯给金正恩送花圈、解放军车急赴丹东、韩议员召开北韩剧变应对会、日媒确证中国医疗队在朝鲜</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320209.md" target="_blank">一季度中国工业企业利润同比下降逾3成 未来仍受不确定因素影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320192.md" target="_blank">王全璋在警方押送下赴京探病妻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320191.md" target="_blank">法国医生 : 新冠病毒重症病房致死率约30 %-40%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320172.md" target="_blank">日本将禁止入境国家增加到87个</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320046.md" target="_blank">川普政府拟进一步限制移民 或限H-1B等签证</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320045.md" target="_blank">刷爆网络 杭州小学生头戴这种帽子开学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320037.md" target="_blank">英国支持澳洲推动调查中共隐瞒疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320036.md" target="_blank">分析：北京瞒疫和无能 助美国鹰派加紧反共</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320211.md" target="_blank">欧盟调查发现中国散布疫情虚假信息，中国否认</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320210.md" target="_blank">后疫情时代的中国，引领复苏还是转向内在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320180.md" target="_blank">金正恩健康问题严重   朝鲜不披露争取时间？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320176.md" target="_blank">美法总统一致同意改革世卫　美国会领袖：世卫是「武汉卫生组织」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320173.md" target="_blank">拒绝中国经济讹诈 澳坚持要求就新冠病毒疫情进行独立调查</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319813.md" target="_blank">香港太古城市民“和你唱”抗议 防暴警察到场驱散</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319810.md" target="_blank">中国大使馆对加拿大进口口罩不达标问题做出回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319791.md" target="_blank">北京90后公益志愿者为新冠疫情文章备份遭“寻滋”监居</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319790.md" target="_blank">中国查获问题口罩9000万只</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319787.md" target="_blank">河北空气污染改善 新冠病毒疫情所赐还是政府减排有效？</a></li>
 
 </ul>
 </div>
