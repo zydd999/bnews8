@@ -14,15 +14,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md">第三只眼睛带你看世界 （上部）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319918.md">武汉鹦鹉洲长江大桥波浪般剧烈晃动 当局辟谣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319763.md">中共与西方渐行渐远 法媒刊登漫画讽刺习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319690.md">王沪宁对埋葬台湾民主的“构想”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
