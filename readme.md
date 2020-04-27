@@ -11,7 +11,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
@@ -23,6 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320084.md">中国近9千万假口罩曝光 全球骂翻 欧盟发警告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320065.md">助习拿下孙力军 王小洪或任公安部长</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320349.md" target="_blank">北京回应美国共和党备忘录指“抹黑中国”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320348.md" target="_blank">再次辩解谭德塞怪罪各国“不听从世卫建议”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320347.md" target="_blank">菲利普今天提交“解封方案” 法国失业率3月份创历史新高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320330.md" target="_blank">发文挺方方de 湖北大学教授梁艳萍遭“校方调查”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320322.md" target="_blank">专栏 | 夜话中南海：无论战狼吼还是孤狼嚎    都是在习近平斗争精神引领下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320285.md" target="_blank">陈破空：陈破空谈《常识》（之44）：中国经济高速增长，秘密何在？</a></li>
@@ -54,15 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md" target="_blank">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md" target="_blank">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320069.md" target="_blank">习近平到陕西 当地访民抱怨遭打压鸡犬不宁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320067.md" target="_blank">对抗中共科技野心 专家：美应成立晶圆联盟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320065.md" target="_blank">助习拿下孙力军 王小洪或任公安部长</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320058.md" target="_blank">突发疫情 广州增城区新塘镇小区企业商户全部关门放假</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320351.md" target="_blank">报告显示大陆失业人口达七千万 失业率20%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md" target="_blank">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md" target="_blank">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md" target="_blank">班农：中国人民一旦获知真相 将推翻中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320151.md" target="_blank">广州增城区疫情突发所有商户关门放假 美顶级专家：美疫情5月底大好转</a></li>
@@ -86,14 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md" target="_blank">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md" target="_blank">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md" target="_blank">大陆地方财政收入下滑50% 按时发工资难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319415.md" target="_blank">川普和普京发表罕见联合声明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319414.md" target="_blank">“什么都偷”中共黑客被指攻击美公卫机构 司法部点名中共觊觎病毒疫苗研究资讯</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320352.md" target="_blank">恐惧和野心并存   “中国模式”引发担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320343.md" target="_blank">中国第二艘两栖攻击舰下水 继续实施海外扩张战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320337.md" target="_blank">幕后：&#8221;美军投毒&#8221;阴谋论的三波操控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320328.md" target="_blank">美国对华高科技出口实施更严格限制</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320240.md" target="_blank">欧盟疫情报告突删对中共不利部份　传北京施压结果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320239.md" target="_blank">美资深参议员呼吁减少依赖中国医疗用品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320211.md" target="_blank">欧盟调查发现中国散布疫情虚假信息，中国否认</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320210.md" target="_blank">后疫情时代的中国，引领复苏还是转向内在</a></li>
 
 </ul>
 </div>
