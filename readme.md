@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md">中共军委彻底收权 人大常委会修订武警法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320151.md">广州增城区疫情突发所有商户关门放假 美顶级专家：美疫情5月底大好转</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320275.md" target="_blank">德国表示中国试图寻求德国就疫情问题为中国说好话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320274.md" target="_blank">澳大利亚不惧北京“经济讹诈”续呼吁独立调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320273.md" target="_blank">北京端点星网站志愿者遭监视居住</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320272.md" target="_blank">湖北教授因“不当言论”遭打压</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320271.md" target="_blank">王全璋终与妻儿团聚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320269.md" target="_blank">纸币退场 中国发行数字货币有助加强金融管控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320242.md" target="_blank">一别五年王全璋终一家团聚　三人相拥李文足泣不成声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320241.md" target="_blank">德国内政部确认　中国曾邀德官员为其防疫表现打高分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320240.md" target="_blank">欧盟疫情报告突删对中共不利部份　传北京施压结果</a></li>
@@ -113,12 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320156.md" target="_blank">政府下「零死亡」命令 医护人员被迫改写新冠肺炎病人病症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320125.md" target="_blank">【耳边风】当今强国比晚清更不济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320119.md" target="_blank">「入狱超三月禁选五年」成政治金刚箍？　黄浩铭提司法覆核周二开审</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319937.md" target="_blank">瑞典关闭孔子学院 不接受中国独裁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319843.md" target="_blank">金正恩生死成谜 韩国认为可能有异常</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319833.md" target="_blank">别墅强拆风波不断 野三坡别墅暂缓拆除</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319832.md" target="_blank">穆斯林斋月开启 流亡维族人呼吁世界关注新疆问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319831.md" target="_blank">艾未未：病毒强化了中国的“警察国家”体制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319830.md" target="_blank">美国政府可能撤销中国电信公司在美牌照</a></li>
 
 </ul>
 </div>
