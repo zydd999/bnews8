@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320328.md" target="_blank">美国对华高科技出口实施更严格限制</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320327.md" target="_blank">俄罗斯新冠病毒累计确诊病例超过中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320317.md" target="_blank">上海维权律师彭永和遭打压无法执业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320316.md" target="_blank">铜锣湾书店在台重开  蔡英文送花篮祝贺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md" target="_blank">中国“原油宝”爆仓续发酵</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320210.md" target="_blank">后疫情时代的中国，引领复苏还是转向内在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320180.md" target="_blank">金正恩健康问题严重   朝鲜不披露争取时间？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320176.md" target="_blank">美法总统一致同意改革世卫　美国会领袖：世卫是「武汉卫生组织」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320173.md" target="_blank">拒绝中国经济讹诈 澳坚持要求就新冠病毒疫情进行独立调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320170.md" target="_blank">全球确诊逾297万 死亡破20万　俄罗斯确诊87147超越中国</a></li>
 
 </ul>
 </div>
