@@ -3,8 +3,8 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320117.md">网曝董卿售卖美国五千万豪宅 老公真实身份曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320151.md">广州增城区疫情突发所有商户关门放假 美顶级专家：美疫情5月底大好转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md">中共军委彻底收权 人大常委会修订武警法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320065.md">助习拿下孙力军 王小洪或任公安部长</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320343.md" target="_blank">中国第二艘两栖攻击舰下水 继续实施海外扩张战略</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320337.md" target="_blank">幕后：&#8221;美军投毒&#8221;阴谋论的三波操控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320328.md" target="_blank">美国对华高科技出口实施更严格限制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320327.md" target="_blank">俄罗斯新冠病毒累计确诊病例超过中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320317.md" target="_blank">上海维权律师彭永和遭打压无法执业</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320239.md" target="_blank">美资深参议员呼吁减少依赖中国医疗用品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320211.md" target="_blank">欧盟调查发现中国散布疫情虚假信息，中国否认</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320210.md" target="_blank">后疫情时代的中国，引领复苏还是转向内在</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320180.md" target="_blank">金正恩健康问题严重   朝鲜不披露争取时间？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320176.md" target="_blank">美法总统一致同意改革世卫　美国会领袖：世卫是「武汉卫生组织」</a></li>
 
 </ul>
 </div>
