@@ -19,9 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319662.md">今天才知道 原来保存大蒜这么简单 放一年不干瘪不发芽 真实用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md">第三只眼睛带你看世界 （上部）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319641.md">我亲手将3份材料 送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319763.md">中共与西方渐行渐远 法媒刊登漫画讽刺习近平</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md" target="_blank">中共军委彻底收权 人大常委会修订武警法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320089.md" target="_blank">国际起诉烽烟四起 40多国民众向中共索赔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md" target="_blank">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md" target="_blank">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md" target="_blank">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320069.md" target="_blank">习近平到陕西 当地访民抱怨遭打压鸡犬不宁</a></li>
@@ -54,9 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md" target="_blank">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319944.md" target="_blank">游说德官员赞北京防疫 中共外交官遭拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319943.md" target="_blank">内幕：内部文件泄中共少报在俄公民数</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md" target="_blank">武汉解封后的真实状况</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319931.md" target="_blank">金正恩什么状况 几种意见对立</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md" target="_blank">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 
 </ul>
 </div>
