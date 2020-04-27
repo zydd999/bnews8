@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
@@ -14,14 +13,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md">第三只眼睛带你看世界 （上部）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200427/1319865.md">宝胜快评：俄罗斯给金正恩送花圈、解放军车急赴丹东、韩议员召开北韩剧变应对会、日媒确证中国医疗队在朝鲜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319918.md">武汉鹦鹉洲长江大桥波浪般剧烈晃动 当局辟谣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320121.md" target="_blank">美国CDC列表 新增六种中共病毒症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320155.md" target="_blank">法国医生 : 新冠病毒致死率约30 %-40%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320116.md" target="_blank">发文挺方方后 湖北大学教授梁艳萍遭“校方调查”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md" target="_blank">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320035.md" target="_blank">哈尔滨官员校长因疫情防控中不尽责遭处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320010.md" target="_blank">跳楼自杀 投资原油宝亏损几百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md" target="_blank">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319973.md" target="_blank">信访局不开门 北京大妈骂骗子</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320166.md" target="_blank">中国官方报称星期天新增三例新冠病毒确诊病例</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320163.md" target="_blank">沙特无惧负评豪花2.65亿美元　向中国购900万套检测病毒工具</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320162.md" target="_blank">油价插水：中国3大石油巨头预警「最黑暗时刻」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320157.md" target="_blank">台妇联会被强制解散　国民党指遭清算　民进党称不容长期获取公共资源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320156.md" target="_blank">政府下「零死亡」命令 医护人员被迫改写新冠肺炎病人病症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320125.md" target="_blank">【耳边风】当今强国比晚清更不济</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319760.md" target="_blank">欧盟对4款国产口罩发出严重警示　 中国查获问题口罩近亿只</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319759.md" target="_blank">外交部驻港公署反驳美国际民主研究院反修例报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319758.md" target="_blank">台北市卡拉OK大火　 至少5死、2垂危另51人伤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319754.md" target="_blank">亚洲最新疫情简报：中国新增病例平缓 新加坡激增近千病例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319749.md" target="_blank">全球新冠肺炎死亡上升之际多国开始重启部分经济活动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319717.md" target="_blank">陕西访民遭强力维稳斥习近平回乡视察意在护龙脉</a></li>
 
 </ul>
 </div>
