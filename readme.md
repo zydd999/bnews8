@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319674.md">美俄两国总统发表联合声明 或涉及北韩局势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md">第三只眼睛带你看世界 （上部）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319945.md">网友调侃：中共航母是名副其实的“拖油瓶”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200427/1319865.md">宝胜快评：俄罗斯给金正恩送花圈、解放军车急赴丹东、韩议员召开北韩剧变应对会、日媒确证中国医疗队在朝鲜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319918.md">武汉鹦鹉洲长江大桥波浪般剧烈晃动 当局辟谣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319690.md">王沪宁对埋葬台湾民主的“构想”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320125.md" target="_blank">【耳边风】当今强国比晚清更不济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320119.md" target="_blank">「入狱超三月禁选五年」成政治金刚箍？　黄浩铭提司法覆核周二开审</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319937.md" target="_blank">瑞典关闭孔子学院 不接受中国独裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1319843.md" target="_blank">金正恩生死成谜 韩国认为可能有异常</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319717.md" target="_blank">陕西访民遭强力维稳斥习近平回乡视察意在护龙脉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319683.md" target="_blank">怎么能让中国政府承担责任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319677.md" target="_blank">人权律师王全璋赴北京探患病妻子被阻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200426/1319664.md" target="_blank">中国银行原油投资产品亏损可能超出90亿元</a></li>
 
 </ul>
 </div>
