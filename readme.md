@@ -8,12 +8,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320151.md">广州增城区疫情突发所有商户关门放假 美顶级专家：美疫情5月底大好转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320084.md">中国近9千万假口罩曝光 全球骂翻 欧盟发警告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320065.md">助习拿下孙力军 王小洪或任公安部长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320116.md">发文挺方方后 湖北大学教授梁艳萍遭“校方调查”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md" target="_blank">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320349.md" target="_blank">北京回应美国共和党备忘录指“抹黑中国”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320348.md" target="_blank">再次辩解谭德塞怪罪各国“不听从世卫建议”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320347.md" target="_blank">菲利普今天提交“解封方案” 法国失业率3月份创历史新高</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md" target="_blank">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md" target="_blank">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md" target="_blank">中共国务院高层异动留疑团 有高官消失一年半</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320069.md" target="_blank">习近平到陕西 当地访民抱怨遭打压鸡犬不宁</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320357.md" target="_blank">时事大家谈：美国人对中国负面看法创新高 芮效俭：两国关系确需重新思考</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320356.md" target="_blank">教授力挺方方被查   “舆论场在退化”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320352.md" target="_blank">恐惧和野心并存   “中国模式”引发担忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320343.md" target="_blank">中国第二艘两栖攻击舰下水 继续实施海外扩张战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320337.md" target="_blank">幕后：&#8221;美军投毒&#8221;阴谋论的三波操控</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320242.md" target="_blank">一别五年王全璋终一家团聚　三人相拥李文足泣不成声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320241.md" target="_blank">德国内政部确认　中国曾邀德官员为其防疫表现打高分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320240.md" target="_blank">欧盟疫情报告突删对中共不利部份　传北京施压结果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320239.md" target="_blank">美资深参议员呼吁减少依赖中国医疗用品</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320211.md" target="_blank">欧盟调查发现中国散布疫情虚假信息，中国否认</a></li>
 
 </ul>
 </div>
