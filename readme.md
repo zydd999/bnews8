@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319630.md">【要闻集粹】习近平受大辱 中国特色魔幻惊世 世界正自食漠视活摘恶果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319674.md">美俄两国总统发表联合声明 或涉及北韩局势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319660.md">金正恩一旦死亡 北韩会何时及如何宣布成关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319626.md">“行了 中概股排队回国吧”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319660.md">金正恩一旦死亡 北韩会何时及如何宣布成关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319662.md">今天才知道 原来保存大蒜这么简单 放一年不干瘪不发芽 真实用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319612.md">北韩官媒再发金正恩消息 但他死活就是不露面！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200426/1319730.md">孟晚舟听证会或在线复庭 任正非：华为操作系统超越苹果、安卓不会超过300年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319641.md">我亲手将3份材料 送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320047.md" target="_blank">疫情蔓延 美议员：中共必须做三件事 否则等着被制裁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320046.md" target="_blank">川普政府拟进一步限制移民 或限H-1B等签证</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320045.md" target="_blank">刷爆网络 杭州小学生头戴这种帽子开学</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320037.md" target="_blank">英国支持澳洲推动调查中共隐瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320036.md" target="_blank">分析：北京瞒疫和无能 助美国鹰派加紧反共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320035.md" target="_blank">哈尔滨官员校长因疫情防控中不尽责遭处分</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320010.md" target="_blank">跳楼自杀 投资原油宝亏损几百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319994.md" target="_blank">网曝习近平陕西之行 曾秘密去了祖坟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319973.md" target="_blank">信访局不开门 北京大妈骂骗子</a></li>
@@ -51,18 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md" target="_blank">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319857.md" target="_blank">朝鲜官媒报道金正恩最新行踪 美官员指有关金正恩近况“都只是推测”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319856.md" target="_blank">约翰逊已返回唐宁街首相府今天恢复办公</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md" target="_blank">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕&#8211;天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319809.md" target="_blank">德国内政部：中国外交官曾鼓励德官员积极评价中国抗疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319783.md" target="_blank">各地派医疗队支援牡丹江医院 西南边境也告急 多地复学复课传出疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319771.md" target="_blank">疑因备份遭删除新冠疫情报道 北京3名90后2人遭拘押1人失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319747.md" target="_blank">原油宝总损失被指不少于90亿元 国家信访局将反馈事项转交中行、银保监会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md" target="_blank">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md" target="_blank">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md" target="_blank">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319260.md" target="_blank">懵！孙力军最神秘情妇是她 如今渺无踪影 习近平安内攘外 控香港恐吓台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319188.md" target="_blank">“金正恩成植物人”？ “可能很快露面”? 日英美那家消息准？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1319144.md" target="_blank">中国韭菜们刚被连根刨 叫苦连天 又要再割？中共通信公司在美运营要凉！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200425/1318989.md" target="_blank">大使馆只管删贴！钱尽粮绝 被困在这里的大量华人情况堪忧</a></li>
 
 </ul>
 </div>
