@@ -12,8 +12,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320151.md">广州增城区疫情突发所有商户关门放假 美顶级专家：美疫情5月底大好转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md">中共军委彻底收权 人大常委会修订武警法</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320301.md" target="_blank">无锡49访民要求归还土地和物资</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320300.md" target="_blank">陕西访民：习近平视察期间访民遭殃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320299.md" target="_blank">学者报告：中国7000万失业 失业率超过20%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320294.md" target="_blank">中国使馆制作中菲抗疫歌曲视频遭菲律宾网友强烈反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320287.md" target="_blank">约翰逊康复后首次公开讲话：不过度放宽封锁限制　报告：英国需3年才能完全恢复</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320275.md" target="_blank">德国表示中国试图寻求德国就疫情问题为中国说好话</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320168.md" target="_blank">班农：推翻中共　世界将走向和平与繁荣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320166.md" target="_blank">中国官方报称星期天新增三例新冠病毒确诊病例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320163.md" target="_blank">沙特无惧负评豪花2.65亿美元　向中国购900万套检测病毒工具</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320162.md" target="_blank">油价插水：中国3大石油巨头预警「最黑暗时刻」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320157.md" target="_blank">台妇联会被强制解散　国民党指遭清算　民进党称不容长期获取公共资源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320156.md" target="_blank">政府下「零死亡」命令 医护人员被迫改写新冠肺炎病人病症</a></li>
 
 </ul>
 </div>
