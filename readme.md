@@ -3,27 +3,27 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200426/1319663.md">一场疫情才发现 这么多中国富人把孩子送国外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200426/1319571.md">杨幂最好的年华 不是给了前夫刘恺威 而是给了他</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319618.md">毛泽东把收音机作为生日礼物送给刘少奇 刘彻底崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319627.md">传奇知青：跟毛握手 亲自辨认林彪尸首 做过克格勃 在日本搞暗杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319619.md">脸不要就算了 但百度你偷中国网民的5个亿 打算什么时候还？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200426/1319681.md">金正恩专列停靠元山3天中国红二代微博泄「出事了」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200426/1319604.md">11岁女孩指出西游记漏洞 400年来专家竟没发现 网友：火眼金睛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319630.md">【要闻集粹】习近平受大辱 中国特色魔幻惊世 世界正自食漠视活摘恶果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319674.md">美俄两国总统发表联合声明 或涉及北韩局势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319626.md">“行了 中概股排队回国吧”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319699.md">你知道王府井是谁家的井？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319660.md">金正恩一旦死亡 北韩会何时及如何宣布成关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200426/1319662.md">今天才知道 原来保存大蒜这么简单 放一年不干瘪不发芽 真实用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200426/1319612.md">北韩官媒再发金正恩消息 但他死活就是不露面！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320065.md" target="_blank">助习拿下孙力军 王小洪或任公安部长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320058.md" target="_blank">突发疫情 广州增城区新塘镇小区企业商户全部关门放假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320057.md" target="_blank">武汉鹦鹉洲大桥出现波形晃动 多位车主感头晕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320049.md" target="_blank">北京促给中国防疫打高分？德内政部：确有其事</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319588.md" target="_blank">「美国优先政策」政策主任埃利斯：更致命疫病是中国共产党！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319590.md" target="_blank">中国问题首席战略家斯伯丁将军访谈： 中共制造了这场全球瘟疫！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md" target="_blank">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md" target="_blank">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
 
 </ul>
 </div>
