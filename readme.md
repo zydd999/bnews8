@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319840.md">中南海内斗全面开战，习近平要保命走险棋，孙力军被拿下涉香港，中联办骆惠宁高调发声的内幕--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319922.md">网传视频：天安门广场人民大会堂附近 前门方向着火 浓烟滚滚！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319827.md">没在怕罗志祥！周扬青老爸是谁？超硬惊人背景曝</a></li>
@@ -12,16 +11,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319888.md">庚子年忧思 洋人结伴离去留也留不住一文疯传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319792.md">70%的人脸部都长满螨虫！只需几毛钱，就能把脸上螨虫杀光光！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319864.md">陈破空：金正恩专列出动？那是障眼法！美俄总统突发联合声明。德法如此表扬习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319866.md">广州国土局和街道办盗卖土地 爆流血冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320085.md">罕见！中共各大官媒齐轰美国共和党 网友：猪脑子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320073.md">中共国务院高层异动留疑团 有高官消失一年半</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319932.md">武汉解封后的真实状况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200427/1320013.md">邓小平泄密林彪913事件内幕：飞行员是卧底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200427/1319903.md">罗志祥昔日体检报告曝光 信息量大 每年都看泌尿科</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200427/1320103.md">5年暴肥40公斤 曾一餐配10瓶红酒 金正恩奢华菜单曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200427/1320038.md">【微博精粹】习近平这句话 往小了说是阿Q 往大了说是宣战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md">中共军委彻底收权 人大常委会修订武警法</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320263.md" target="_blank">法国舆论聚焦负责武汉P4实验室安全问题专家René Courcol</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320238.md" target="_blank">中国外交部：病毒溯源本身是科学问题 不是用于去搞追责和索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320209.md" target="_blank">一季度中国工业企业利润同比下降逾3成 未来仍受不确定因素影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320192.md" target="_blank">王全璋在警方押送下赴京探病妻</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320049.md" target="_blank">北京促给中国防疫打高分？德内政部：确有其事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320047.md" target="_blank">疫情蔓延 美议员：中共必须做三件事 否则等着被制裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320046.md" target="_blank">川普政府拟进一步限制移民 或限H-1B等签证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320045.md" target="_blank">刷爆网络 杭州小学生头戴这种帽子开学</a></li>
 
 </ul>
 </div>
