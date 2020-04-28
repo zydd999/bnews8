@@ -16,8 +16,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md">美专家提三建议重击中共 让北京高层吃不消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320709.md" target="_blank">长沙富能案：煽颠罪名指控十个月   检察官避而不见</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320708.md" target="_blank">质量不合格  印度取消订购新冠病毒试剂   中方不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320705.md" target="_blank">美台卫生部长连线 荷兰驻台机构升级 中方跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320703.md" target="_blank">香港绝大部分公务员5月4日正常上班</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320702.md" target="_blank">《纽约邮报》把台湾中国混为一谈 台湾抗议</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320570.md" target="_blank">荷兰驻台机构更名「在台办事处」　中国不满抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320569.md" target="_blank">金正恩病危传言令边境紧张　东三省封关朝方有逃兵被枪击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md" target="_blank">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md" target="_blank">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320551.md" target="_blank">防中共民用转军用　美再推新规限制对中出口高科技产品</a></li>
 
 </ul>
 </div>
