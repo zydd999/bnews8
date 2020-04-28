@@ -2,9 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320409.md">突然爆雷！又一金融“巨鳄”东窗事发！多人血本无归</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320423.md">金正恩生死又出大新闻 兔死狐悲中南海谁彻夜难眠？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320573.md">韩媒曝料：朝鲜流传金正恩去世影片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320466.md">火爆！央视女主播在新闻联播对美国高官破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320464.md">美国防部公布3段UFO影片 战机接近时…快速飞走</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320749.md" target="_blank">新冠疫情下美国出现公司倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md" target="_blank">德国在华企业重又上路了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md" target="_blank">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320740.md" target="_blank">研究：中国如果不隐瞒 全球疫情将可减少95%</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md" target="_blank">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320349.md" target="_blank">北京回应美国共和党备忘录指“抹黑中国”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320348.md" target="_blank">再次辩解谭德塞怪罪各国“不听从世卫建议”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320347.md" target="_blank">菲利普今天提交“解封方案” 法国失业率3月份创历史新高</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320750.md" target="_blank">美学者：中国正经历毛时代以来最差的外部环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320737.md" target="_blank">被误指的美军&#8221;零号病人&#8221;现身受访     阴谋论致其遭死亡威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320736.md" target="_blank">中共“抗疫外交”四面楚歌，但其推销“中国模式”的努力还将继续</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320732.md" target="_blank">中国指责美国军舰闯入西沙领海 美军称继续依照国际法航行</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320678.md" target="_blank">无畏中国警告 澳大利亚坚持调查中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320665.md" target="_blank">澳大利亚要求中国大使对经济威胁言论做出解释</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320655.md" target="_blank">中国“吊照门”十年 维权律师生存艰难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320644.md" target="_blank">成都秋雨教会打压持续   聚会信徒遭针对性传唤</a></li>
 
 </ul>
 </div>
