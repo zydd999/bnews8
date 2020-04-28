@@ -1,9 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320117.md">网曝董卿售卖美国五千万豪宅 老公真实身份曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md">班农：中国人民一旦获知真相 将推翻中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
@@ -11,19 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320409.md">突然爆雷！又一金融“巨鳄”东窗事发！多人血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320314.md">美国公布对中国出口新限制措施</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320116.md">发文挺方方后 湖北大学教授梁艳萍遭“校方调查”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200428/1320288.md">新冠疫情让美国大选变成对特朗普的全民公投</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md">中国“原油宝”爆仓续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320180.md">金正恩健康问题严重   朝鲜不披露争取时间？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320342.md">冯崇义: 任志强与习王的三角关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320155.md">法国医生 : 新冠病毒致死率约30 %-40%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320423.md">金正恩生死又出大新闻 兔死狐悲中南海谁彻夜难眠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320162.md">油价插水：中国3大石油巨头预警「最黑暗时刻」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320290.md">被告知死于肺炎 家人领到骨灰 突接到电话：还活着？！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320406.md">医师手抖让金正恩成植物人？心脏权威专家教你判断真假</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md" target="_blank">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md" target="_blank">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md" target="_blank">美专家提三建议重击中共 让北京高层吃不消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md" target="_blank">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320464.md" target="_blank">美国防部公布3段UFO影片 战机接近时…快速飞走</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md" target="_blank">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319751.md" target="_blank">美官员“捕捉到金正恩在元山走动” 金平日金与正谁会上位？朝鲜官方连日表现诡秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319701.md" target="_blank">我亲手将3份材料送到尉健行手上 他接过信后说：“我一定看”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319644.md" target="_blank">潘多拉盒子被打开 中国经济两大领域危急 全球经济遭受五大冲击</a></li>
 
 </ul>
 </div>
