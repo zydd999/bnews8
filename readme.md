@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320407.md" target="_blank">大陆湖北大学导师因支持方方日记遭中共当局调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md" target="_blank">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1319581.md" target="_blank">美国大学被极端化！知识精英更易接受极端共产主义意识形态？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320371.md" target="_blank">欧盟否认迫于北京压力修改报告 发言人说法尴尬</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320155.md" target="_blank">法国医生 : 新冠病毒致死率约30 %-40%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320116.md" target="_blank">发文挺方方后 湖北大学教授梁艳萍遭“校方调查”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1319477.md" target="_blank">武汉病人太多 到偏僻处用大型轧路机碾压之后‘处理’！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320102.md" target="_blank">美国封杀中共大外宣！「凤凰卫视」恐在美收摊…..</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320406.md" target="_blank">医师手抖让金正恩成植物人？心脏权威专家教你判断真假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320351.md" target="_blank">报告显示大陆失业人口达七千万 失业率20%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md" target="_blank">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md" target="_blank">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319517.md" target="_blank">微信“我可以证明 华为向伊朗出售(产品)” 5华为前员工被拘留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319418.md" target="_blank">李克强给六省市开会 凸显经济两大领域危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319417.md" target="_blank">班农:武汉P4实验室专家外逃 或公开爆料</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319416.md" target="_blank">大陆地方财政收入下滑50% 按时发工资难</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320408.md" target="_blank">特朗普总统: 新冠疫情损失数额巨大 有很多方式让中国承担责任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320405.md" target="_blank">联合国人权理事会：100多个组织抗议中国代表当选协商小组成员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320392.md" target="_blank">美国会议员提出法案以促进全球互联网自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320391.md" target="_blank">武汉称新冠肺炎住院患者清零 有居民怀疑为政治任务而作假</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320274.md" target="_blank">澳大利亚不惧北京“经济讹诈”续呼吁独立调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320273.md" target="_blank">北京端点星网站志愿者遭监视居住</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320272.md" target="_blank">湖北教授因“不当言论”遭打压</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320271.md" target="_blank">王全璋终与妻儿团聚</a></li>
 
 </ul>
 </div>
