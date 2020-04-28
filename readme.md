@@ -4,12 +4,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320409.md">突然爆雷！又一金融“巨鳄”东窗事发！多人血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320314.md">美国公布对中国出口新限制措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320423.md">金正恩生死又出大新闻 兔死狐悲中南海谁彻夜难眠？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320314.md">美国公布对中国出口新限制措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320573.md">韩媒曝料：朝鲜流传金正恩去世影片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md">中国“原油宝”爆仓续发酵</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320342.md">冯崇义: 任志强与习王的三角关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320628.md">果然不平安？官媒开挖董卿老公 上百亿身家疑似白手套</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200428/1320554.md">因行使党章赋予权利&#65292;原三十八军高宏毅今收到开除党籍处分的决定</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320710.md" target="_blank">中国大使施压禁止访台 捷克议长收恐吓信猝世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320709.md" target="_blank">长沙富能案：煽颠罪名指控十个月   检察官避而不见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320708.md" target="_blank">质量不合格  印度取消订购新冠病毒试剂   中方不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320705.md" target="_blank">美台卫生部长连线 荷兰驻台机构升级 中方跳脚</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320571.md" target="_blank">黄琦系狱三年不获见亲　蒲文清病榻留言祈见儿最后一面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320570.md" target="_blank">荷兰驻台机构更名「在台办事处」　中国不满抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320569.md" target="_blank">金正恩病危传言令边境紧张　东三省封关朝方有逃兵被枪击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md" target="_blank">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
 
 </ul>
 </div>
