@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200428/1320288.md">新冠疫情让美国大选变成对特朗普的全民公投</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320180.md">金正恩健康问题严重   朝鲜不披露争取时间？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320342.md">冯崇义: 任志强与习王的三角关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320406.md">医师手抖让金正恩成植物人？心脏权威专家教你判断真假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320290.md">被告知死于肺炎 家人领到骨灰 突接到电话：还活着？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320162.md">油价插水：中国3大石油巨头预警「最黑暗时刻」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320263.md">法国舆论聚焦负责武汉P4实验室安全问题专家René Courcol</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320238.md">中国外交部：病毒溯源本身是科学问题 不是用于去搞追责和索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200427/1320236.md">独！金正恩生死成谜！隐身元山躲疫情？！金正恩钦定7日并吞南韩计划！美国推5027作战计划反击？！【2020.04.27『年代向钱看』】</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md" target="_blank">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320551.md" target="_blank">防中共民用转军用　美再推新规限制对中出口高科技产品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320550.md" target="_blank">美累计确诊逾98万　美台卫生官员召开电话会议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320544.md" target="_blank">法媒追踪调查中共谭德塞的「危险关系」　关键三星期白白浪费</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md" target="_blank">中国“原油宝”爆仓续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320314.md" target="_blank">美国公布对中国出口新限制措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320301.md" target="_blank">无锡49访民要求归还土地和物资</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320300.md" target="_blank">陕西访民：习近平视察期间访民遭殃</a></li>
 
 </ul>
 </div>
