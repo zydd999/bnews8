@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200428/1320554.md">因行使党章赋予权利&#65292;原三十八军高宏毅今收到开除党籍处分的决定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320466.md">火爆！央视女主播在新闻联播对美国高官破口大骂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320629.md">为啥现在推特上管中国人都叫“Nmslese”？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
