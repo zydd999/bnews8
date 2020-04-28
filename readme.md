@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md">中国“原油宝”爆仓续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200428/1320288.md">新冠疫情让美国大选变成对特朗普的全民公投</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320342.md">冯崇义: 任志强与习王的三角关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md">美专家提三建议重击中共 让北京高层吃不消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320290.md">被告知死于肺炎 家人领到骨灰 突接到电话：还活着？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320406.md">医师手抖让金正恩成植物人？心脏权威专家教你判断真假</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md">美专家提三建议重击中共 让北京高层吃不消</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320406.md">医师手抖让金正恩成植物人？心脏权威专家教你判断真假</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320623.md" target="_blank">连线面对面拷问法轮功大V文睿，揭秘关于法轮功的流言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320614.md" target="_blank">就国际独立调查问题各持己见 澳大利亚与中国外交关系加速紧张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md" target="_blank">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320451.md" target="_blank">中共扣莫须有罪5年 王全璋终与妻儿团聚</a></li>
@@ -56,13 +57,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320209.md" target="_blank">一季度中国工业企业利润同比下降逾3成 未来仍受不确定因素影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320192.md" target="_blank">王全璋在警方押送下赴京探病妻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320191.md" target="_blank">法国医生 : 新冠病毒重症病房致死率约30 %-40%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320172.md" target="_blank">日本将禁止入境国家增加到87个</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320630.md" target="_blank">别过来！日本人在本国遭中国富豪驱逐</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320629.md" target="_blank">为啥现在推特上管中国人都叫“Nmslese”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320628.md" target="_blank">果然不平安？官媒开挖董卿老公 上百亿身家疑似白手套</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320615.md" target="_blank">黑龙江人成湖北人 哈急救车排长龙 川普：比德索赔高很多有很多方式</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md" target="_blank">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md" target="_blank">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
@@ -85,15 +88,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md" target="_blank">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320118.md" target="_blank">金正恩爆病危「恐成植物人」命理师看八字：极可能是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320117.md" target="_blank">网曝董卿售卖美国五千万豪宅 老公真实身份曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320084.md" target="_blank">中国近9千万假口罩曝光 全球骂翻 欧盟发警告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320044.md" target="_blank">风雨中的韭菜：投资者跳楼 帮人找工作的丢工作 央视竟还忽悠买买买</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200426/1319789.md" target="_blank">武肺二次爆发中国一日千里?失控?消息被删旅行被禁 复课传疫情 多地延长隔离最长35天</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320636.md" target="_blank">武汉病毒研究所负责人再次否认新冠病毒来源于该所P4实验室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320635.md" target="_blank">两办点名批评后郭荣铿不获政府续任竞委　泛民指属政治封杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320634.md" target="_blank">「一带一路」盟友因疫情翻脸　尼日利亚司法界起诉中国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320633.md" target="_blank">中国产试剂盒被指品质有问题　印度医学研究理事会要求停用退货</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320632.md" target="_blank">全球新冠感染破300万   特朗普：“多种方式”可让中国负责</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320631.md" target="_blank">韩国统一部：金正恩“失踪”或因躲避疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320595.md" target="_blank">病毒检测不准，印度要退货，中国抱怨不公平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320571.md" target="_blank">黄琦系狱三年不获见亲　蒲文清病榻留言祈见儿最后一面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320570.md" target="_blank">荷兰驻台机构更名「在台办事处」　中国不满抗议</a></li>
@@ -113,12 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320391.md" target="_blank">武汉称新冠肺炎住院患者清零 有居民怀疑为政治任务而作假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320372.md" target="_blank">白宫顾问纳瓦罗指责中国产检测盒不合格</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320357.md" target="_blank">时事大家谈：美国人对中国负面看法创新高 芮效俭：两国关系确需重新思考</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320356.md" target="_blank">教授力挺方方被查   “舆论场在退化”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320352.md" target="_blank">恐惧和野心并存   “中国模式”引发担忧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320343.md" target="_blank">中国第二艘两栖攻击舰下水 继续实施海外扩张战略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320337.md" target="_blank">幕后：&#8221;美军投毒&#8221;阴谋论的三波操控</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320328.md" target="_blank">美国对华高科技出口实施更严格限制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320327.md" target="_blank">俄罗斯新冠病毒累计确诊病例超过中国</a></li>
 
 </ul>
 </div>
