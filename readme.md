@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320371.md" target="_blank">欧盟否认迫于北京压力修改报告 发言人说法尴尬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md" target="_blank">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320361.md" target="_blank">法国世界报调查揭示中国与世卫危险关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320359.md" target="_blank">妻子阑尾炎急诊 王全璋被公安送回北京将李文足及孩子团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md" target="_blank">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320102.md" target="_blank">美国封杀中共大外宣！「凤凰卫视」恐在美收摊…..</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320094.md" target="_blank">王全璋今早致电妻：公安正开车送回京 未透露抵京后去向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320093.md" target="_blank">中共军委彻底收权 人大常委会修订武警法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320089.md" target="_blank">国际起诉烽烟四起 40多国民众向中共索赔</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320088.md" target="_blank">习近平真敢动武？内部消息曝中共征兵有异往年</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320372.md" target="_blank">白宫顾问纳瓦罗指责中国产检测盒不合格</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320357.md" target="_blank">时事大家谈：美国人对中国负面看法创新高 芮效俭：两国关系确需重新思考</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320356.md" target="_blank">教授力挺方方被查   “舆论场在退化”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320352.md" target="_blank">恐惧和野心并存   “中国模式”引发担忧</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320269.md" target="_blank">纸币退场 中国发行数字货币有助加强金融管控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320242.md" target="_blank">一别五年王全璋终一家团聚　三人相拥李文足泣不成声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320241.md" target="_blank">德国内政部确认　中国曾邀德官员为其防疫表现打高分</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200427/1320240.md" target="_blank">欧盟疫情报告突删对中共不利部份　传北京施压结果</a></li>
 
 </ul>
 </div>
