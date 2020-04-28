@@ -11,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md">美专家提三建议重击中共 让北京高层吃不消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320628.md">果然不平安？官媒开挖董卿老公 上百亿身家疑似白手套</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md" target="_blank">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320749.md" target="_blank">新冠疫情下美国出现公司倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md" target="_blank">德国在华企业重又上路了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md" target="_blank">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320359.md" target="_blank">妻子阑尾炎急诊 王全璋被公安送回北京将李文足及孩子团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md" target="_blank">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320349.md" target="_blank">北京回应美国共和党备忘录指“抹黑中国”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320348.md" target="_blank">再次辩解谭德塞怪罪各国“不听从世卫建议”</a></li>
 
 </ul>
 </div>
