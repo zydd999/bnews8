@@ -6,9 +6,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320423.md">金正恩生死又出大新闻 兔死狐悲中南海谁彻夜难眠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320573.md">韩媒曝料：朝鲜流传金正恩去世影片</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320494.md">荷兰驻台机构改名！中共使馆崩溃跳脚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320342.md">冯崇义: 任志强与习王的三角关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320727.md" target="_blank">黄琦入狱3年被禁见亲 老母蒲文清病危盼见儿子最后一面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320693.md" target="_blank">路透社：朝鲜经济代表团将在本周访华 探讨食品和贸易问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320682.md" target="_blank">王毅：中国开展国际抗疫合作 不寻求地缘政治私利</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320676.md" target="_blank">美海军驱逐舰航至西沙海域 解放军南部战区：跟踪监视并警告驱离</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320285.md" target="_blank">陈破空：陈破空谈《常识》（之44）：中国经济高速增长，秘密何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320283.md" target="_blank">与家人分离近5年后 王全璋终与妻儿在京团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320263.md" target="_blank">法国舆论聚焦负责武汉P4实验室安全问题专家René Courcol</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320238.md" target="_blank">中国外交部：病毒溯源本身是科学问题 不是用于去搞追责和索赔</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320732.md" target="_blank">中国指责美国军舰闯入西沙领海 美军称继续依照国际法航行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320731.md" target="_blank">推特上的中国：“自我审查无处不在”：中国崛起终结哈佛世纪？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320729.md" target="_blank">专访法汉学家侯芷明：《庚子年的忧思》引发的忧思</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320728.md" target="_blank">人权律师“吊照门”十周年：路在何方？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320726.md" target="_blank">美剥夺中国主权豁免的立法会引发什么后果？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320725.md" target="_blank">《2020国际宗教自由状况》报告：中国再成“特别关注国家”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320724.md" target="_blank">国际人权组织敦促中国：释放因公布疫情信息遭羁押公民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320719.md" target="_blank">「两办」不受制《基本法》第22条引关切　两美众议员去信林郑特首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320716.md" target="_blank">孟晚舟案将裁决是否属双重犯罪  有律师认为孟败诉机率大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320710.md" target="_blank">中国大使施压禁止访台 捷克议长收恐吓信猝世</a></li>
@@ -112,13 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320644.md" target="_blank">成都秋雨教会打压持续   聚会信徒遭针对性传唤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320643.md" target="_blank">荷兰驻台机构更名实现外交关系突破   中方：“严正交涉”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320636.md" target="_blank">武汉病毒研究所负责人再次否认新冠病毒来源于该所P4实验室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320635.md" target="_blank">两办点名批评后郭荣铿不获政府续任竞委　泛民指属政治封杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320634.md" target="_blank">「一带一路」盟友因疫情翻脸　尼日利亚司法界起诉中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320633.md" target="_blank">中国产试剂盒被指品质有问题　印度医学研究理事会要求停用退货</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320632.md" target="_blank">全球新冠感染破300万   特朗普：“多种方式”可让中国负责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320631.md" target="_blank">韩国统一部：金正恩“失踪”或因躲避疫情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320595.md" target="_blank">病毒检测不准，印度要退货，中国抱怨不公平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320571.md" target="_blank">黄琦系狱三年不获见亲　蒲文清病榻留言祈见儿最后一面</a></li>
 
 </ul>
 </div>
