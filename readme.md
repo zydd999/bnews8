@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320409.md">突然爆雷！又一金融“巨鳄”东窗事发！多人血本无归</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320314.md">美国公布对中国出口新限制措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320423.md">金正恩生死又出大新闻 兔死狐悲中南海谁彻夜难眠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320315.md">中国“原油宝”爆仓续发酵</a></li>
@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md">美专家提三建议重击中共 让北京高层吃不消</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320364.md">太震撼了！月亮居然是史前人类的杰作？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320573.md">韩媒曝料：朝鲜流传金正恩去世影片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320290.md">被告知死于肺炎 家人领到骨灰 突接到电话：还活着？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320573.md">韩媒曝料：朝鲜流传金正恩去世影片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320676.md" target="_blank">美海军驱逐舰航至西沙海域 解放军南部战区：跟踪监视并警告驱离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320623.md" target="_blank">连线面对面拷问法轮功大V文睿，揭秘关于法轮功的流言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320614.md" target="_blank">就国际独立调查问题各持己见 澳大利亚与中国外交关系加速紧张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md" target="_blank">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320238.md" target="_blank">中国外交部：病毒溯源本身是科学问题 不是用于去搞追责和索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320209.md" target="_blank">一季度中国工业企业利润同比下降逾3成 未来仍受不确定因素影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320192.md" target="_blank">王全璋在警方押送下赴京探病妻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200427/1320191.md" target="_blank">法国医生 : 新冠病毒重症病房致死率约30 %-40%</a></li>
 
 </ul>
 </div>
