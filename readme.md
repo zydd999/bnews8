@@ -12,10 +12,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200429/1320836.md">〖兲朝浮世绘〗习近平受辱，外交部这次要怎么抗议？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320973.md">中共北京两个对立中央</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320765.md">习近平诡异的秦岭之行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320766.md">庚子凶年+闰四凶月，中共国遭逢“双鬼拍门”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md">网友：金正恩何时葬礼？传金与正回应了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320959.md">中共新设“巨无霸”央企 阻止雷曼时刻来临？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320766.md">庚子凶年+闰四凶月，中共国遭逢“双鬼拍门”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320959.md">中共新设“巨无霸”央企 阻止雷曼时刻来临？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320998.md">孙力军落马，傅政华成焦点，习近平重击对手致命软肋，中南海内斗全面开战--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320750.md">美学者：中国正经历毛时代以来最差的外部环境</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321199.md" target="_blank">欧洲多国儿童罕见炎症急增 疑与武汉肺炎有关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321189.md" target="_blank">美8议员毋忘香港　去信蓬佩奥促采取「领导地位」压制威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321185.md" target="_blank">蓬佩奥促全球彻底调查新冠病毒如何起源于中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321184.md" target="_blank">新冠病毒源头？武汉病毒研究所主任再次否认</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321103.md" target="_blank">时事大家谈：习近平盛赞党和制度，疫后中国大步回归毛时代？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321102.md" target="_blank">时事大家谈：原油宝“穿仓”谁之责？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321101.md" target="_blank">疫情延宕 中国政协、人大敲定5月21日、22日召开</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321089.md" target="_blank">陈时中：台湾积极争取参与今年「世界卫生大会」视像会议</a></li>
 
 </ul>
 </div>
