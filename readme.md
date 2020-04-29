@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320973.md">中共北京两个对立中央</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320959.md">中共新设“巨无霸”央企 阻止雷曼时刻来临？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200429/1320836.md">〖兲朝浮世绘〗习近平受辱，外交部这次要怎么抗议？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320766.md">庚子凶年+闰四凶月，中共国遭逢“双鬼拍门”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320997.md">金正恩脑出血病情反复   叔叔金平日代掌军权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320750.md">美学者：中国正经历毛时代以来最差的外部环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320921.md">再打脸中共！美驻中使馆：中国未分享病毒样本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320997.md">金正恩脑出血病情反复   叔叔金平日代掌军权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320765.md">习近平诡异的秦岭之行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320710.md">中国大使施压禁止访台 捷克议长收恐吓信猝世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320920.md">中共跳脚也没用！美舰直入西沙 持续南海自由航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320734.md">诺贝尔医学奖得主日本人本庶佑是否说过新冠病毒人工制造</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320737.md">被误指的美军"零号病人"现身受访     阴谋论致其遭死亡威胁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320920.md">中共跳脚也没用！美舰直入西沙 持续南海自由航行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320990.md">美韩称金正恩健康？日本前外交官打脸：已脑死</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321114.md" target="_blank">在台湾的菲律宾籍看护批评本国总统事件持续发酵</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321113.md" target="_blank">中国首季经济仅西藏有增长     湖北衰退近4成</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321112.md" target="_blank">中共对号入座反对调查疫情      澳总理指调查非猎巫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321111.md" target="_blank">香港警方拒绝“五一游行”申请  劳工团体摆街设站表诉求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321110.md" target="_blank">香港高院驳回梁天琦等人上诉     旺角冲突中遭“暴动罪”判刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321109.md" target="_blank">台湾连4天0确诊　俄国医卫专家取经感谢宝岛分享经验</a></li>
@@ -116,9 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320997.md" target="_blank">金正恩脑出血病情反复   叔叔金平日代掌军权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320996.md" target="_blank">方方日记为何引发“爱国主义”洪水滔天？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320994.md" target="_blank">网购记录成追查购书者线索 中共大清剿未经批准境外书籍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320800.md" target="_blank">450万网格员重点监控维族人、宗教信徒 民众身家全了解</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320795.md" target="_blank">美议员敦促蓬佩奥全面执行《香港人权与民主法案》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320788.md" target="_blank">众多权益组织呼吁习近平等释放在押记者</a></li>
 
 </ul>
 </div>
