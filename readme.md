@@ -10,19 +10,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320511.md">董明珠失言！三桶油“至暗”！失业人口7000万！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320505.md">美专家提三建议重击中共 让北京高层吃不消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320628.md">果然不平安？官媒开挖董卿老公 上百亿身家疑似白手套</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md">特朗普似乎证实金正恩活着</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200428/1320554.md">因行使党章赋予权利&#65292;原三十八军高宏毅今收到开除党籍处分的决定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320629.md">为啥现在推特上管中国人都叫“Nmslese”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320466.md">火爆！央视女主播在新闻联播对美国高官破口大骂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320630.md">别过来！日本人在本国遭中国富豪驱逐</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320464.md">美国防部公布3段UFO影片 战机接近时…快速飞走</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1319561.md" target="_blank">金里奇专访：共产党是美国最大威胁？美国犯了什么错误</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1319560.md" target="_blank">大骗局！气候变暖不会导致全球危机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md" target="_blank">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320749.md" target="_blank">新冠疫情下美国出现公司倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md" target="_blank">德国在华企业重又上路了</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md" target="_blank">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320361.md" target="_blank">法国世界报调查揭示中国与世卫危险关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320359.md" target="_blank">妻子阑尾炎急诊 王全璋被公安送回北京将李文足及孩子团聚</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320358.md" target="_blank">陈破空：金正恩故意躲藏？朝鲜官媒开腔了！习近平加快换人，极度迷信那种事。美澳加发话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320349.md" target="_blank">北京回应美国共和党备忘录指“抹黑中国”</a></li>
 
 </ul>
 </div>
