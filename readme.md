@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320997.md">金正恩脑出血病情反复   叔叔金平日代掌军权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320958.md">疫情追查 传五眼联盟正在调查石正丽及周鹏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320973.md">中共北京两个对立中央</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320973.md">中共北京两个对立中央</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200429/1320836.md">〖兲朝浮世绘〗习近平受辱，外交部这次要怎么抗议？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320959.md">中共新设“巨无霸”央企 阻止雷曼时刻来临？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320766.md">庚子凶年+闰四凶月，中共国遭逢“双鬼拍门”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200429/1320836.md">〖兲朝浮世绘〗习近平受辱，外交部这次要怎么抗议？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320765.md">习近平诡异的秦岭之行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320998.md">孙力军落马，傅政华成焦点，习近平重击对手致命软肋，中南海内斗全面开战--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320750.md">美学者：中国正经历毛时代以来最差的外部环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md">网友：金正恩何时葬礼？传金与正回应了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320921.md">再打脸中共！美驻中使馆：中国未分享病毒样本</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320990.md">美韩称金正恩健康？日本前外交官打脸：已脑死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320920.md">中共跳脚也没用！美舰直入西沙 持续南海自由航行</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321168.md" target="_blank">“武汉肺炎”NO “非洲马瘟”YES，网友：双重标准</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321164.md" target="_blank">台高院仅对泼漆犯加保  林荣基仍然不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321155.md" target="_blank">709抓捕始作俑者 傅政华被免去司法部部长 唐一军接任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321152.md" target="_blank">减免非洲债务呼声高涨，中国沉默令人不解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321151.md" target="_blank">联合国人员反对香港研究以《反恐条例》检控抗议人士</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321075.md" target="_blank">澳大利亚直面中国经济威胁，成竞业大使似有意回避</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321067.md" target="_blank">政法委书记跨县嫖宿未成年女生断正 　 员警徇私放人爆官场丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321066.md" target="_blank">【耳边风】  独裁政权的特点：没有备位领导人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321061.md" target="_blank">助理警务处长陶辉涉违规住寮屋　   记者采访被指「游荡」拘捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321058.md" target="_blank">台独派大老辜宽敏力推制宪公投，大陆国台办和中国网民威胁武统</a></li>
 
 </ul>
 </div>
