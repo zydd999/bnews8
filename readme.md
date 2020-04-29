@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320447.md">37岁海归女博士带5个月的女儿跳楼自杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320629.md">为啥现在推特上管中国人都叫“Nmslese”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200428/1320554.md">因行使党章赋予权利&#65292;原三十八军高宏毅今收到开除党籍处分的决定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320630.md">别过来！日本人在本国遭中国富豪驱逐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320466.md">火爆！央视女主播在新闻联播对美国高官破口大骂</a></li>
