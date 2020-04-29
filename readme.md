@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320558.md">金正恩死里逃生已无大碍   特朗普希望其身体健康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320537.md">央视开启罕见骂战 专挑蓬佩奥3个原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200428/1320553.md">卫星照曝平壤正建大型阅兵台　准备金正恩葬礼？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320462.md">江峰：习近平重申“西迁精神”，距离重蹈毛泽东的重大误判与狂妄对民族的灾难有多远；延安精神整党，西迁精神整精英，枫桥经验治民，你读懂了麽？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320629.md">为啥现在推特上管中国人都叫“Nmslese”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md">德国在华企业重又上路了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/weiquan/20200428/1320554.md">因行使党章赋予权利&#65292;原三十八军高宏毅今收到开除党籍处分的决定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320630.md">别过来！日本人在本国遭中国富豪驱逐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320466.md">火爆！央视女主播在新闻联播对美国高官破口大骂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320615.md">黑龙江人成湖北人 哈急救车排长龙 川普：比德索赔高很多有很多方式</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320789.md">玩水骑马都是假？脱北议员爆：金正恩不能站不能走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320464.md">美国防部公布3段UFO影片 战机接近时…快速飞走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320789.md">玩水骑马都是假？脱北议员爆：金正恩不能站不能走</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200428/1320627.md">中共喉舌女主播海霞 新闻联播里变泼妇 大骂美国务卿彭培奥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320575.md">前朝鲜高官：金正恩无法起身或行走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320509.md">美国科学家在火星上的米拉斯峡谷上空拍摄到一张图片「龙」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320979.md" target="_blank">江峰：捷克议长赴台前中共大使馆密谈72小时後离奇身故，遗属现身指控中共与捷克亲共总统；中俄特工联手？习近平与捷克总统会面为何只有他在场？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320873.md" target="_blank">遗孀控中国威胁导致拟访台捷克前参院议长猝逝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320872.md" target="_blank">研究：中国若没隐瞒全球疫情将可减少95%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320871.md" target="_blank">媒体：中国施压下 欧盟删改抗疫信息政策报告</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320451.md" target="_blank">中共扣莫须有罪5年 王全璋终与妻儿团聚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320413.md" target="_blank">天亮时分：金正恩现状成谜,若尚未宣布则是因为这两件事;说说中国历史上几个不宣布情况的故事(政论天下第156集 20200427)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320407.md" target="_blank">大陆湖北大学导师因支持方方日记遭中共当局调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md" target="_blank">特朗普似乎证实金正恩活着</a></li>
 
 </ul>
 </div>
