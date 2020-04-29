@@ -3,11 +3,11 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md">德国在华企业重又上路了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320789.md">玩水骑马都是假？脱北议员爆：金正恩不能站不能走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320960.md">金与正距离「接任」一步之距 南韩国会：就等金正恩宣布</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md">网友：金正恩何时葬礼？传金与正回应了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320958.md">疫情追查 传五眼联盟正在调查石正丽及周鹏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320997.md">金正恩脑出血病情反复   叔叔金平日代掌军权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320973.md">中共北京两个对立中央</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321248.md" target="_blank">无国界记者组织呼吁世卫组织停止排斥台湾记者和媒体</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321247.md" target="_blank">英德驻美大使：全球应合作查病源与WHO改革</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321231.md" target="_blank">李柱铭：很高兴被捕再次唤起国际对香港关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321227.md" target="_blank">科学家：美中合作应对“新冠”有助建立互信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321224.md" target="_blank">病毒没走蝗虫要来   世界或面临“圣经规模”饥荒</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321125.md" target="_blank">传俄罗斯意图暗杀　布拉格亲台市长接受警方保护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321114.md" target="_blank">在台湾的菲律宾籍看护批评本国总统事件持续发酵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321113.md" target="_blank">中国首季经济仅西藏有增长     湖北衰退近4成</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321112.md" target="_blank">中共对号入座反对调查疫情      澳总理指调查非猎巫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321111.md" target="_blank">香港警方拒绝“五一游行”申请  劳工团体摆街设站表诉求</a></li>
 
 </ul>
 </div>
