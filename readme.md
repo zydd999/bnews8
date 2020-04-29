@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320464.md">美国防部公布3段UFO影片 战机接近时…快速飞走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200428/1320627.md">中共喉舌女主播海霞 新闻联播里变泼妇 大骂美国务卿彭培奥</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320575.md">前朝鲜高官：金正恩无法起身或行走</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md">德国在华企业重又上路了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320873.md" target="_blank">遗孀控中国威胁导致拟访台捷克前参院议长猝逝</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320872.md" target="_blank">研究：中国若没隐瞒全球疫情将可减少95%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320871.md" target="_blank">媒体：中国施压下 欧盟删改抗疫信息政策报告</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320870.md" target="_blank">17年后再次趁瘟疫强推第23条？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320869.md" target="_blank">昆士兰大学罗列“反共”学生186页指控 或将开除学籍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1319561.md" target="_blank">金里奇专访：共产党是美国最大威胁？美国犯了什么错误</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1319560.md" target="_blank">大骗局！气候变暖不会导致全球危机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md" target="_blank">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！</a></li>
@@ -52,11 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320413.md" target="_blank">天亮时分：金正恩现状成谜,若尚未宣布则是因为这两件事;说说中国历史上几个不宣布情况的故事(政论天下第156集 20200427)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320407.md" target="_blank">大陆湖北大学导师因支持方方日记遭中共当局调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320397.md" target="_blank">特朗普似乎证实金正恩活着</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1319581.md" target="_blank">美国大学被极端化！知识精英更易接受极端共产主义意识形态？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320371.md" target="_blank">欧盟否认迫于北京压力修改报告 发言人说法尴尬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320365.md" target="_blank">文昭：中行「原油宝」爆雷完整揭秘；朝鲜「皇叔」上位？金正恩专列透玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320361.md" target="_blank">法国世界报调查揭示中国与世卫危险关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200428/1320359.md" target="_blank">妻子阑尾炎急诊 王全璋被公安送回北京将李文足及孩子团聚</a></li>
 
 </ul>
 </div>
