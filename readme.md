@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200428/1320627.md">中共喉舌女主播海霞 新闻联播里变泼妇 大骂美国务卿彭培奥</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320575.md">前朝鲜高官：金正恩无法起身或行走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320766.md">庚子凶年+闰四凶月，中共国遭逢“双鬼拍门”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320575.md">前朝鲜高官：金正恩无法起身或行走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320750.md">美学者：中国正经历毛时代以来最差的外部环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320710.md">中国大使施压禁止访台 捷克议长收恐吓信猝世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320765.md">习近平诡异的秦岭之行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320734.md">诺贝尔医学奖得主日本人本庶佑是否说过新冠病毒人工制造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320960.md">金与正距离「接任」一步之距 南韩国会：就等金正恩宣布</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320765.md">习近平诡异的秦岭之行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320921.md">再打脸中共！美驻中使馆：中国未分享病毒样本</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md" target="_blank">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md" target="_blank">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320990.md" target="_blank">美韩称金正恩健康？日本前外交官打脸：已脑死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320989.md" target="_blank">统计局：全国没有发生大规模裁员现象 被网传视频打脸</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md" target="_blank">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md" target="_blank">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320417.md" target="_blank">犹太拉比：将出现另一种病毒 比中共病毒更致命</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320416.md" target="_blank">小粉红崩溃！日、印、马来西亚加入奶茶联盟 战线扩大</a></li>
 
 </ul>
 </div>
