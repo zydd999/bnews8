@@ -5,21 +5,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320789.md">玩水骑马都是假？脱北议员爆：金正恩不能站不能走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320960.md">金与正距离「接任」一步之距 南韩国会：就等金正恩宣布</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320744.md">陈破空：金正恩果然夺冠？习近平悄悄拜祖。特朗普终于提出那件事。尼日利亚起义 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320958.md">疫情追查 传五眼联盟正在调查石正丽及周鹏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320997.md">金正恩脑出血病情反复   叔叔金平日代掌军权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320958.md">疫情追查 传五眼联盟正在调查石正丽及周鹏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320973.md">中共北京两个对立中央</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320959.md">中共新设“巨无霸”央企 阻止雷曼时刻来临？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320766.md">庚子凶年+闰四凶月，中共国遭逢“双鬼拍门”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200429/1320836.md">〖兲朝浮世绘〗习近平受辱，外交部这次要怎么抗议？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200429/1320765.md">习近平诡异的秦岭之行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320998.md">孙力军落马，傅政华成焦点，习近平重击对手致命软肋，中南海内斗全面开战--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1320750.md">美学者：中国正经历毛时代以来最差的外部环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320755.md">文昭：准备丧事？朝鲜赶建大工程；川普挑明索赔：多种途径，数额巨大！ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320998.md">孙力军落马，傅政华成焦点，习近平重击对手致命软肋，中南海内斗全面开战--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320921.md">再打脸中共！美驻中使馆：中国未分享病毒样本</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320990.md">美韩称金正恩健康？日本前外交官打脸：已脑死</a></li>
@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md" target="_blank">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321162.md" target="_blank">第二波蝗虫大军压境? 中国动员虫口夺粮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321069.md" target="_blank">美宗教自由报告：中共继续强摘器官</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321085.md" target="_blank">【瘟疫与中共】与中共渐行渐近 梵蒂冈沦陷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321150.md" target="_blank">华为秘寻意法芯片合作 冀避绕美国制裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321149.md" target="_blank">传常委会聚焦抗疫成功 习近平罕见点名黑龙江</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321131.md" target="_blank">疫情以来中共升级首开政治局常委会 习近平指武汉抗疫决定性成果</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321003.md" target="_blank">路透社：武汉P4实验室主任否认是新馆病毒源头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320998.md" target="_blank">孙力军落马，傅政华成焦点，习近平重击对手致命软肋，中南海内斗全面开战&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320979.md" target="_blank">江峰：捷克议长赴台前中共大使馆密谈72小时後离奇身故，遗属现身指控中共与捷克亲共总统；中俄特工联手？习近平与捷克总统会面为何只有他在场？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320873.md" target="_blank">遗孀控中国威胁导致拟访台捷克前参院议长猝逝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320872.md" target="_blank">研究：中国若没隐瞒全球疫情将可减少95%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320871.md" target="_blank">媒体：中国施压下 欧盟删改抗疫信息政策报告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320870.md" target="_blank">17年后再次趁瘟疫强推第23条？</a></li>
 
 </ul>
 </div>
