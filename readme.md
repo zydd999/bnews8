@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320423.md">金正恩生死又出大新闻 兔死狐悲中南海谁彻夜难眠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320448.md">金与正是暴君？传她比金正恩更凶残</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200428/1320573.md">韩媒曝料：朝鲜流传金正恩去世影片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320510.md">不想去美国了？央视女主播在新闻联播对蓬佩奥破口大骂</a></li>
@@ -22,8 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320449.md">金正恩健康状态？川普：我知道但不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320464.md">美国防部公布3段UFO影片 战机接近时…快速飞走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200429/1320704.md">美国防部首度公布3段UFO影片 这是什么节奏？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200428/1320627.md">中共喉舌女主播海霞 新闻联播里变泼妇 大骂美国务卿彭培奥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320746.md">德国在华企业重又上路了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200428/1320627.md">中共喉舌女主播海霞 新闻联播里变泼妇 大骂美国务卿彭培奥</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200428/1320575.md">前朝鲜高官：金正恩无法起身或行走</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320921.md" target="_blank">再打脸中共！美驻中使馆：中国未分享病毒样本</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320920.md" target="_blank">中共跳脚也没用！美舰直入西沙 持续南海自由航行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md" target="_blank">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md" target="_blank">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320789.md" target="_blank">玩水骑马都是假？脱北议员爆：金正恩不能站不能走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320630.md" target="_blank">别过来！日本人在本国遭中国富豪驱逐</a></li>
@@ -85,9 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320351.md" target="_blank">报告显示大陆失业人口达七千万 失业率20%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320350.md" target="_blank">网络疯传“多国女子都想嫁到中国” 真相竟是…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320161.md" target="_blank">中共大使威胁澳洲：再查新冠病毒来源「将遭中国消费者抵制」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320160.md" target="_blank">班农：中国人民一旦获知真相 将推翻中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320151.md" target="_blank">广州增城区疫情突发所有商户关门放假 美顶级专家：美疫情5月底大好转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200427/1320139.md" target="_blank">韩朝4.27宣言两周年 金正恩未露面 韩委员长：金正恩可能情况危急</a></li>
 
 </ul>
 </div>
