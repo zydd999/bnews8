@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321254.md">陈破空：惊传：中朝边境爆发激战？习近平出动三十万大军。朝鲜准备大事 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321303.md">黑龙江基本封了省？习近平急了！知情人爆疫情内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md">广州上千人摸黑上车返乡</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321391.md">北京朝阳区恐怖一幕：我病了 谁都别想好！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321410.md">惊！香港风水师预言中国不久将有大地震 今年还有饥荒会饿死人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321430.md">中共甘肃省长喊话：经济“十万火急”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321263.md">文昭：傅政华免职是开始，习近平下一个清洗谁？捷克议长离奇去世；「血滴子」与假手俄罗斯特工 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321429.md">想象不到！这些世界顶尖科技 猜猜掌握在谁手里?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321263.md">文昭：傅政华免职是开始，习近平下一个清洗谁？捷克议长离奇去世；「血滴子」与假手俄罗斯特工 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321257.md">习近平担保也没用？德收到中国千万&quot;垃圾口罩&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321482.md">胡锦涛之子胡海峰接受电视专访</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321405.md">谁是金正恩幕后“导演”？揭秘金正恩之妹金与正</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321316.md">中国经济面临一连串多米诺骨牌效应！聊聊粮草与白银等若干问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200430/1321229.md">〖兲朝浮世绘〗这事儿中共即使做了也不敢承认啊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321678.md" target="_blank">美媒：美首席抗疫专家佛奇曾资助武汉研究冠状病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md" target="_blank">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md" target="_blank">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321474.md" target="_blank">习近平连续大动作两会谈接班？董卿老公上百亿身家疑似他家白手套？709黑手傅政华会被查?</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321122.md" target="_blank">金正恩继承人将是妹妹金与正 谁是枕边人？3版本宛如谜雾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md" target="_blank">网友：金正恩何时葬礼？传金与正回应了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321107.md" target="_blank">韩国会:金与正离接任差一步 金骑马?太勇浩:不能站不能走 日前外交官:脑死 川普:不能说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md" target="_blank">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321680.md" target="_blank">美国考虑对中国采取报复措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md" target="_blank">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321672.md" target="_blank">“十万火急”    甘肃省长呼吁抢救中小微企业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321655.md" target="_blank">英国疫情死亡人数居欧洲第二  英国会促政府追究中国责任</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321533.md" target="_blank">中国表示无意干预美国总统选举</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321532.md" target="_blank">香港将有一个没有内地游客的五一假期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321509.md" target="_blank">时事大家谈：后疫情下的中国两会有何看点？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321505.md" target="_blank">逾百名公民发起联署      望促成黄琦母子相聚</a></li>
 
 </ul>
 </div>
