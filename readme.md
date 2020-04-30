@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md">网友：金正恩何时葬礼？传金与正回应了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321254.md">陈破空：惊传：中朝边境爆发激战？习近平出动三十万大军。朝鲜准备大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200429/1321068.md">老黑：现在主流官媒已经提前给老百姓带节奏，如果饥荒，都肯定是害虫的错！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md">广州上千人摸黑上车返乡</a></li>
@@ -14,14 +13,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321107.md">韩国会:金与正离接任差一步 金骑马?太勇浩:不能站不能走 日前外交官:脑死 川普:不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321314.md">一线采访：北京警戒再升级 民众不堪压力逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321210.md">傅政华退休乃「迟来的消息」？　回顾郭文贵傅政华恩怨</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321257.md">习近平担保也没用？德收到中国千万&quot;垃圾口罩&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321052.md">司法部长重要任命 傅政华退 习旧部唐一军上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321124.md">金正恩掌权铲政敌 5年处决340人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321263.md">文昭：傅政华免职是开始，习近平下一个清洗谁？捷克议长离奇去世；「血滴子」与假手俄罗斯特工 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321122.md">金正恩继承人将是妹妹金与正 谁是枕边人？3版本宛如谜雾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321316.md">中国经济面临一连串多米诺骨牌效应！聊聊粮草与白银等若干问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321063.md">英媒指五眼联盟调查病毒源头 瞄准武汉研究所周鹏、石正丽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200430/1321229.md">〖兲朝浮世绘〗这事儿中共即使做了也不敢承认啊</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321460.md" target="_blank">中国4月制造业PMI回落 经济复苏坎坷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321444.md" target="_blank">疫情冲击 博鳌亚洲论坛今年不办了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321443.md" target="_blank">疫情中国 新确诊显减 境内清零</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321431.md" target="_blank">中共在城市实施武装巡逻试点 反恐车上街 武装公安手持冲锋枪</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321063.md" target="_blank">英媒指五眼联盟调查病毒源头 瞄准武汉研究所周鹏、石正丽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321060.md" target="_blank">东京都为首的日本全国知事要求延长紧急事态宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321057.md" target="_blank">联合国忧香港反恐例过宽损人权  港府改控示威者亦受关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321056.md" target="_blank">中国司法部长重要任命 傅政华退 习旧部唐一军上</a></li>
 
 </ul>
 </div>
