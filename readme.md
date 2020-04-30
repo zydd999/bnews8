@@ -8,22 +8,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md">广州上千人摸黑上车返乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321303.md">黑龙江基本封了省？习近平急了！知情人爆疫情内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321120.md">世界现有8国向中国索疫情赔偿775万亿 北京怒斥</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321292.md">「疫」波未平「疫」波又起！中国11省再爆「甲壳类谜之病毒」疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321123.md">援鄂护士遗体火化 竟被官媒明目张胆造假煽情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321292.md">「疫」波未平「疫」波又起！中国11省再爆「甲壳类谜之病毒」疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321307.md">就要惹你不爽！美官员红笔修改耿爽「假」推文 网笑翻狂赞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321107.md">韩国会:金与正离接任差一步 金骑马?太勇浩:不能站不能走 日前外交官:脑死 川普:不能说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321210.md">傅政华退休乃「迟来的消息」？　回顾郭文贵傅政华恩怨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321314.md">一线采访：北京警戒再升级 民众不堪压力逃离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321210.md">傅政华退休乃「迟来的消息」？　回顾郭文贵傅政华恩怨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321257.md">习近平担保也没用？德收到中国千万&quot;垃圾口罩&quot;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321052.md">司法部长重要任命 傅政华退 习旧部唐一军上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321124.md">金正恩掌权铲政敌 5年处决340人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321263.md">文昭：傅政华免职是开始，习近平下一个清洗谁？捷克议长离奇去世；「血滴子」与假手俄罗斯特工 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321122.md">金正恩继承人将是妹妹金与正 谁是枕边人？3版本宛如谜雾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321063.md">英媒指五眼联盟调查病毒源头 瞄准武汉研究所周鹏、石正丽</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321026.md">中国建楼封顶500米 不争抢世界第一摩天高了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321124.md">金正恩掌权铲政敌 5年处决340人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321263.md">文昭：傅政华免职是开始，习近平下一个清洗谁？捷克议长离奇去世；「血滴子」与假手俄罗斯特工 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321122.md">金正恩继承人将是妹妹金与正 谁是枕边人？3版本宛如谜雾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321063.md">英媒指五眼联盟调查病毒源头 瞄准武汉研究所周鹏、石正丽</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200430/1321229.md">〖兲朝浮世绘〗这事儿中共即使做了也不敢承认啊</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md" target="_blank">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321430.md" target="_blank">中共甘肃省长喊话：经济“十万火急”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321429.md" target="_blank">想象不到！这些世界顶尖科技 猜猜掌握在谁手里?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321426.md" target="_blank">45万人签署调查比尔·盖茨</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md" target="_blank">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320991.md" target="_blank">‘金正恩死亡’视频让朝鲜惶惶不安…加强检查打击力度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320990.md" target="_blank">美韩称金正恩健康？日本前外交官打脸：已脑死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320989.md" target="_blank">统计局：全国没有发生大规模裁员现象 被网传视频打脸</a></li>
 
 </ul>
 </div>
