@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321254.md">陈破空：惊传：中朝边境爆发激战？习近平出动三十万大军。朝鲜准备大事 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321303.md">黑龙江基本封了省？习近平急了！知情人爆疫情内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321303.md">黑龙江基本封了省？习近平急了！知情人爆疫情内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md">广州上千人摸黑上车返乡</a></li>
@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321405.md">谁是金正恩幕后“导演”？揭秘金正恩之妹金与正</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321316.md">中国经济面临一连串多米诺骨牌效应！聊聊粮草与白银等若干问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200430/1321229.md">〖兲朝浮世绘〗这事儿中共即使做了也不敢承认啊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
