@@ -1,10 +1,9 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321254.md">陈破空：惊传：中朝边境爆发激战？习近平出动三十万大军。朝鲜准备大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321303.md">黑龙江基本封了省？习近平急了！知情人爆疫情内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md">广州上千人摸黑上车返乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321292.md">「疫」波未平「疫」波又起！中国11省再爆「甲壳类谜之病毒」疫情</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321564.md">中共危机感空前 为将面临的风暴铺垫准备</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321689.md" target="_blank">黄琦被判12年其母蒲文清病重写下《最后自白》 &#8211; 要闻分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321686.md" target="_blank">新冠病毒：中国三款疫苗已进入临床试验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321614.md" target="_blank">陈破空：陈破空谈《常识》（之45）：当今中国，是「盛世」还是「末世」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321605.md" target="_blank">中国以经济罪重判一记者 曾多次实名举报官员与贪腐</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321203.md" target="_blank">监禁过500天 中国透露狱中两名加拿大人身体健康</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md" target="_blank">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321162.md" target="_blank">第二波蝗虫大军压境? 中国动员虫口夺粮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321069.md" target="_blank">美宗教自由报告：中共继续强摘器官</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321691.md" target="_blank">就疫情损失向中国索赔   美国最大的障碍是这个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321685.md" target="_blank">美情报机构称新冠病毒并非人造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321680.md" target="_blank">美国考虑对中国采取报复措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md" target="_blank">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321563.md" target="_blank">五一劳动节之际   人权组织敦促中国终止性别歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321562.md" target="_blank">藏语教育倡导者扎西文色青海服刑   蔺其磊律师申请会见遭拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321533.md" target="_blank">中国表示无意干预美国总统选举</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321532.md" target="_blank">香港将有一个没有内地游客的五一假期</a></li>
 
 </ul>
 </div>
