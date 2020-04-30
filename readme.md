@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md" target="_blank">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md" target="_blank">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321474.md" target="_blank">习近平连续大动作两会谈接班？董卿老公上百亿身家疑似他家白手套？709黑手傅政华会被查?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md" target="_blank">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md" target="_blank">网友：金正恩何时葬礼？传金与正回应了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321107.md" target="_blank">韩国会:金与正离接任差一步 金骑马?太勇浩:不能站不能走 日前外交官:脑死 川普:不能说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321036.md" target="_blank">东三省诡异黑龙江基本封省 中共两会定日期但会期大减 北京最新消息当局准备大爆发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321000.md" target="_blank">中国经济万劫不复三个征兆 中共新设巨无霸阻雷曼时刻？白宫新规针对习军民融合</a></li>
 
 </ul>
 </div>
