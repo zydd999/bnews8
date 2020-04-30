@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321686.md" target="_blank">新冠病毒：中国三款疫苗已进入临床试验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321614.md" target="_blank">陈破空：陈破空谈《常识》（之45）：当今中国，是「盛世」还是「末世」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321605.md" target="_blank">中国以经济罪重判一记者 曾多次实名举报官员与贪腐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321407.md" target="_blank">欧洲游客染瘟疫 痛斥中共后奇迹般康复</a></li>
@@ -56,13 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md" target="_blank">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321162.md" target="_blank">第二波蝗虫大军压境? 中国动员虫口夺粮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321069.md" target="_blank">美宗教自由报告：中共继续强摘器官</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321085.md" target="_blank">【瘟疫与中共】与中共渐行渐近 梵蒂冈沦陷</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md" target="_blank">海南大学退休女教授又被查 运动真来了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321683.md" target="_blank">英医疗界：中国产呼吸机可致病人于死地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321678.md" target="_blank">美媒：美首席抗疫专家佛奇曾资助武汉研究冠状病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md" target="_blank">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md" target="_blank">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
@@ -86,14 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321124.md" target="_blank">金正恩掌权铲政敌 5年处决340人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321123.md" target="_blank">援鄂护士遗体火化 竟被官媒明目张胆造假煽情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321122.md" target="_blank">金正恩继承人将是妹妹金与正 谁是枕边人？3版本宛如谜雾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321121.md" target="_blank">网友：金正恩何时葬礼？传金与正回应了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321107.md" target="_blank">韩国会:金与正离接任差一步 金骑马?太勇浩:不能站不能走 日前外交官:脑死 川普:不能说</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321685.md" target="_blank">美情报机构称新冠病毒并非人造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321680.md" target="_blank">美国考虑对中国采取报复措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md" target="_blank">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321672.md" target="_blank">“十万火急”    甘肃省长呼吁抢救中小微企业</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321562.md" target="_blank">藏语教育倡导者扎西文色青海服刑   蔺其磊律师申请会见遭拒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321533.md" target="_blank">中国表示无意干预美国总统选举</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321532.md" target="_blank">香港将有一个没有内地游客的五一假期</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321509.md" target="_blank">时事大家谈：后疫情下的中国两会有何看点？</a></li>
 
 </ul>
 </div>
