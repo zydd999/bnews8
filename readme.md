@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321120.md">世界现有8国向中国索疫情赔偿775万亿 北京怒斥</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320990.md">美韩称金正恩健康？日本前外交官打脸：已脑死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321107.md">韩国会:金与正离接任差一步 金骑马?太勇浩:不能站不能走 日前外交官:脑死 川普:不能说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320921.md">再打脸中共！美驻中使馆：中国未分享病毒样本</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320920.md">中共跳脚也没用！美舰直入西沙 持续南海自由航行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320989.md">统计局：全国没有发生大规模裁员现象 被网传视频打脸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321052.md">司法部长重要任命 傅政华退 习旧部唐一军上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md">广州上千人摸黑上车返乡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321052.md">司法部长重要任命 傅政华退 习旧部唐一军上</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321210.md">傅政华退休乃「迟来的消息」？　回顾郭文贵傅政华恩怨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321124.md">金正恩掌权铲政敌 5年处决340人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321026.md">中国建楼封顶500米 不争抢世界第一摩天高了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321333.md" target="_blank">那些年，神隐的朝鲜领袖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321310.md" target="_blank">天亮时分：金正恩咋了?川普为何就是不说?被骂成“人类公敌”,蓬佩奥该如何应对?全球经济崩溃是中共收购廉价资产的好时机吗?(政论天下第157集 20200429)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1319563.md" target="_blank">专访川普总统儿媳：揭秘川普在家庭生活中是个什么样的人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321267.md" target="_blank">法国《观点》周刊：不是中国病毒 是中共病毒，习近平的党对三件事应该负责</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321055.md" target="_blank">路透社：武汉P4实验室主任否认是新冠病毒源头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321052.md" target="_blank">司法部长重要任命 傅政华退 习旧部唐一军上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321043.md" target="_blank">京东上前台 香港再上市与遭初判刘强东性侵案连带责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1321042.md" target="_blank">中国人大会议5月22日在北京召开 重点谈防疫下复苏经济</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321330.md" target="_blank">金正恩列车又被拍到… 火车头被移动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321316.md" target="_blank">中国经济面临一连串多米诺骨牌效应！聊聊粮草与白银等若干问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321314.md" target="_blank">一线采访：北京警戒再升级 民众不堪压力逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321307.md" target="_blank">就要惹你不爽！美官员红笔修改耿爽「假」推文 网笑翻狂赞</a></li>
@@ -87,13 +88,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320919.md" target="_blank">比尔·盖茨就疫情为中共站台 纳瓦罗回击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320794.md" target="_blank">捷克议长访台前猝死 妻爆他曾警告：千万别吃中方提供的餐食饮料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1320789.md" target="_blank">玩水骑马都是假？脱北议员爆：金正恩不能站不能走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200428/1320630.md" target="_blank">别过来！日本人在本国遭中国富豪驱逐</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321335.md" target="_blank">克鲁兹推立法禁止美国防部与接受中国审查的好莱坞片商合作</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321328.md" target="_blank">新冠肺炎与宣传：中国腐败的新冠贸易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321317.md" target="_blank">武汉病毒研究所成为美两党议员关注焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321315.md" target="_blank">2020年知识产权特别301报告中国持续上榜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321301.md" target="_blank">特朗普称很快就世卫问题拿出建议 蓬佩奥呼吁北京允许调查武汉病毒所</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321168.md" target="_blank">“武汉肺炎”NO “非洲马瘟”YES，网友：双重标准</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321164.md" target="_blank">台高院仅对泼漆犯加保  林荣基仍然不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321155.md" target="_blank">709抓捕始作俑者 傅政华被免去司法部部长 唐一军接任</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321152.md" target="_blank">减免非洲债务呼声高涨，中国沉默令人不解</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200429/1321151.md" target="_blank">联合国人员反对香港研究以《反恐条例》检控抗议人士</a></li>
 
 </ul>
 </div>
