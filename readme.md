@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321487.md">瑞德西韦 西方渐红中国抛之何解?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321330.md">金正恩列车又被拍到… 火车头被移动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md">俄罗斯总理染中共病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321330.md">金正恩列车又被拍到… 火车头被移动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321494.md">【耳边风】邓小平「穿越时空」赏「一尊」耳光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321431.md">中共在城市实施武装巡逻试点 反恐车上街 武装公安手持冲锋枪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321693.md">美国情报局：中共病毒并非人工合成 也未经过基因改造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321347.md">金正恩已病废无疑！透视东北亚各方的“阿瞒”心态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321392.md">中国式“不好好说话”实录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321332.md">两会传涉三大议题无关接班 学者：习不会自己宣布下台</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
