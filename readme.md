@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321405.md">谁是金正恩幕后“导演”？揭秘金正恩之妹金与正</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321316.md">中国经济面临一连串多米诺骨牌效应！聊聊粮草与白银等若干问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200430/1321289.md">加拿大将就是否引渡华为太子女孟晚舟 做出重大判决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321564.md">中共危机感空前 为将面临的风暴铺垫准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321487.md">瑞德西韦 西方渐红中国抛之何解?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321330.md">金正恩列车又被拍到… 火车头被移动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321494.md">【耳边风】邓小平「穿越时空」赏「一尊」耳光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321431.md">中共在城市实施武装巡逻试点 反恐车上街 武装公安手持冲锋枪</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1319565.md" target="_blank">《纽约时报》因「推特暴民」更换头版头条 ！民主党与媒体合谋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321698.md" target="_blank">陈破空：党国机密：还有比孙力军更厉害的人物！新闻联播巧骂习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321689.md" target="_blank">黄琦被判12年其母蒲文清病重写下《最后自白》 &#8211; 要闻分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321686.md" target="_blank">新冠病毒：中国三款疫苗已进入临床试验</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321254.md" target="_blank">陈破空：惊传：中朝边境爆发激战？习近平出动三十万大军。朝鲜准备大事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321230.md" target="_blank">疫情趋缓 北京故宫5月1日重新开放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321203.md" target="_blank">监禁过500天 中国透露狱中两名加拿大人身体健康</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200429/1320980.md" target="_blank">抓捕孙力军是“江逼习反” 的迹象《李天笑快评》(214期）</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321727.md" target="_blank">武汉肺炎期间中共仍打压宗教 强拆佛庙砸基督教聚会点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321691.md" target="_blank">就疫情损失向中国索赔   美国最大的障碍是这个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321685.md" target="_blank">美情报机构称新冠病毒并非人造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321680.md" target="_blank">美国考虑对中国采取报复措施</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321567.md" target="_blank">“六四天网”创办人黄琦的重病母亲《最后告白》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321563.md" target="_blank">五一劳动节之际   人权组织敦促中国终止性别歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321562.md" target="_blank">藏语教育倡导者扎西文色青海服刑   蔺其磊律师申请会见遭拒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321533.md" target="_blank">中国表示无意干预美国总统选举</a></li>
 
 </ul>
 </div>
