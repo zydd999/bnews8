@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321426.md">45万人签署调查比尔·盖茨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321474.md">习近平连续大动作两会谈接班？董卿老公上百亿身家疑似他家白手套？709黑手傅政华会被查?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321307.md">就要惹你不爽！美官员红笔修改耿爽「假」推文 网笑翻狂赞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321314.md">一线采访：北京警戒再升级 民众不堪压力逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321391.md">北京朝阳区恐怖一幕：我病了 谁都别想好！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321410.md">惊！香港风水师预言中国不久将有大地震 今年还有饥荒会饿死人</a></li>
@@ -19,10 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321564.md">中共危机感空前 为将面临的风暴铺垫准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321487.md">瑞德西韦 西方渐红中国抛之何解?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md">海南大学退休女教授又被查 运动真来了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321330.md">金正恩列车又被拍到… 火车头被移动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321494.md">【耳边风】邓小平「穿越时空」赏「一尊」耳光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321431.md">中共在城市实施武装巡逻试点 反恐车上街 武装公安手持冲锋枪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md">海南大学退休女教授又被查 运动真来了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321347.md">金正恩已病废无疑！透视东北亚各方的“阿瞒”心态</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
