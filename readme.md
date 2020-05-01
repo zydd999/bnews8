@@ -11,9 +11,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321884.md">金正恩签发最新命令？韩媒爆“味道”有变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321675.md">你以为的结束，其实刚刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321886.md">年仅42岁 又一大陆女主持患癌过世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322097.md" target="_blank">【武汉病毒/COVID-19病毒追凶】中国没有新闻自由</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322096.md" target="_blank">中国车企「一哥」上汽集团首季度销量插水　同比跌逾55％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322085.md" target="_blank">美国空军两架B-1B超音速轰炸机飞越南中国海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322084.md" target="_blank">五一严防示威 香港防暴警察施放催泪瓦斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322083.md" target="_blank">世卫组织期望中国让其参与调查疫情源头</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321986.md" target="_blank">蓬佩奥被央视连骂三天    美国务卿在华人气急升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321965.md" target="_blank">时事大家谈：疫情重创并重塑世界，美中谁的国运走到尽头？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321952.md" target="_blank">五一劳动节警方不批游行     工会摆街站警察踩场</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321950.md" target="_blank">举报中国高官的媒体人遭重判十五年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321944.md" target="_blank">研究报告披露7000万新增失业人口  证券研究所所长否认因此被免职</a></li>
 
 </ul>
 </div>
