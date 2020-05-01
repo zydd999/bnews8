@@ -14,15 +14,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321698.md">陈破空：党国机密：还有比孙力军更厉害的人物！新闻联播巧骂习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321494.md">【耳边风】邓小平「穿越时空」赏「一尊」耳光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321822.md">这首网络疯传的「毒诗」 作者被挖出来了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200501/1321807.md">高级研究员出逃欧洲 携机密避难美国使馆 病毒来源瞄准武汉病毒所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321677.md">为什么出轨只有0次和无数次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321675.md">你以为的结束，其实刚刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321683.md">英医疗界：中国产呼吸机可致病人于死地</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321681.md">〖兲朝浮世绘〗中共一直有胆干坏事，就是没胆子承认</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200501/1321807.md">高级研究员出逃欧洲 携机密避难美国使馆 病毒来源瞄准武汉病毒所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200430/1321459.md">胡锡进口出惊言：美国破百万确诊若在中国早就闹革命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321681.md">〖兲朝浮世绘〗中共一直有胆干坏事，就是没胆子承认</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200430/1321459.md">胡锡进口出惊言：美国破百万确诊若在中国早就闹革命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321630.md">专栏 | 不同的声音：言多必失：从一年多前石正丽的一场“缉毒”演讲说开去</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321893.md" target="_blank">彭定康促英派团武汉了解疫情 责中联办角色论毁「一国两制」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md" target="_blank">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321816.md" target="_blank">天亮时分：两会日期确定,习近平的三大头疼问题;历史上皇叔即位的往事;民族主义将疯狂高涨(政论天下第158集 20200430)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321741.md" target="_blank">大陆湖北维权人士刘艳丽自辨书与最后陈述</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321333.md" target="_blank">那些年，神隐的朝鲜领袖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321310.md" target="_blank">天亮时分：金正恩咋了?川普为何就是不说?被骂成“人类公敌”,蓬佩奥该如何应对?全球经济崩溃是中共收购廉价资产的好时机吗?(政论天下第157集 20200429)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1319563.md" target="_blank">专访川普总统儿媳：揭秘川普在家庭生活中是个什么样的人？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321267.md" target="_blank">法国《观点》周刊：不是中国病毒 是中共病毒，习近平的党对三件事应该负责</a></li>
 
 </ul>
 </div>
