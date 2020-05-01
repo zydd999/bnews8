@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md">海南大学退休女教授又被查 运动真来了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321564.md">中共危机感空前 为将面临的风暴铺垫准备</a></li>
@@ -13,17 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321800.md">川普：美国很快解决世卫问题 下一个就是中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321677.md">为什么出轨只有0次和无数次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321837.md">传金正恩劳动节现身？日媒揭露「1事实」：他2月就生病了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321675.md">你以为的结束，其实刚刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321683.md">英医疗界：中国产呼吸机可致病人于死地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321737.md">特朗普总统说看到新冠病毒与武汉病毒研究所有关的证据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321681.md">〖兲朝浮世绘〗中共一直有胆干坏事，就是没胆子承认</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321630.md">专栏 | 不同的声音：言多必失：从一年多前石正丽的一场“缉毒”演讲说开去</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200501/1321726.md">万维: 中国大陆已消失的九所世界级大学</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321630.md">专栏 | 不同的声音：言多必失：从一年多前石正丽的一场“缉毒”演讲说开去</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321681.md">〖兲朝浮世绘〗中共一直有胆干坏事，就是没胆子承认</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321661.md">穿越时空真实存在,官方唯一承认的一例</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1319566.md" target="_blank">中共如何控制美国NBA教练和高管的言论？如何审查好莱坞电影？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321927.md" target="_blank">外媒称五一假期让中国旅游业枯木逢春</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321926.md" target="_blank">担忧新冠第二爆发 中国全面检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321918.md" target="_blank">文革阴魂传新刮 多间大学恶启调查 罪挺方方连带扒底反送中</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321558.md" target="_blank">? 世界报 ?：世卫 —— 被中国卫生战略削弱的国际组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321487.md" target="_blank">瑞德西韦 西方渐红中国抛之何解?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321460.md" target="_blank">中国4月制造业PMI回落 经济复苏坎坷</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321444.md" target="_blank">疫情冲击 博鳌亚洲论坛今年不办了</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321952.md" target="_blank">五一劳动节警方不批游行     工会摆街站警察踩场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321950.md" target="_blank">举报中国高官的媒体人遭重判十五年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321944.md" target="_blank">研究报告披露7000万新增失业人口  证券研究所所长否认因此被免职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321943.md" target="_blank">湖南民运人士谢文飞被捕 疑涉武汉疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321942.md" target="_blank">属于港人「黄色黄金周」    同路人齐撑黄店</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321633.md" target="_blank">菲律宾抗议中国将有争议的珊瑚礁定为行政中心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321626.md" target="_blank">中石油、中石化破A股市场亏损纪录　首季巨亏逾360亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321625.md" target="_blank">中国知名记者陈杰人举报高官   遭寻滋、敲诈等罪重判15 年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321624.md" target="_blank">澳大利亚举行有关《全球马格尼茨基人权问责法》立法听证</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321617.md" target="_blank">“人权观察” 发表声明谴责中国在员工招聘中性别歧视</a></li>
 
 </ul>
 </div>
