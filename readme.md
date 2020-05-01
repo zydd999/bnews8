@@ -9,9 +9,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321818.md">经济专家：...人民的财富就会严重的缩水了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200501/1321908.md">港媒：金正恩列车提供性服务专挑无性经验高妹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321884.md">金正恩签发最新命令？韩媒爆“味道”有变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321675.md">你以为的结束，其实刚刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321886.md">年仅42岁 又一大陆女主持患癌过世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md">俄罗斯总理染中共病毒</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322101.md" target="_blank">欧洲取消五一传统游行  法囯工会号召在家贴标语</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322100.md" target="_blank">加拿大国会要求世卫专家听证  问责声浪高企</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322097.md" target="_blank">【武汉病毒/COVID-19病毒追凶】中国没有新闻自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322096.md" target="_blank">中国车企「一哥」上汽集团首季度销量插水　同比跌逾55％</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322085.md" target="_blank">美国空军两架B-1B超音速轰炸机飞越南中国海</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321989.md" target="_blank">网上流传虐儿视频　传涉案41岁军装警员被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321988.md" target="_blank">陶辉牌照屋被指作民宿　 民政署称无旅馆牌照将跟进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321986.md" target="_blank">蓬佩奥被央视连骂三天    美国务卿在华人气急升</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321965.md" target="_blank">时事大家谈：疫情重创并重塑世界，美中谁的国运走到尽头？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321952.md" target="_blank">五一劳动节警方不批游行     工会摆街站警察踩场</a></li>
 
 </ul>
 </div>
