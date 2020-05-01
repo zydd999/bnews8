@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321474.md">习近平连续大动作两会谈接班？董卿老公上百亿身家疑似他家白手套？709黑手傅政华会被查?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321426.md">45万人签署调查比尔·盖茨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321410.md">惊！香港风水师预言中国不久将有大地震 今年还有饥荒会饿死人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321430.md">中共甘肃省长喊话：经济“十万火急”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321429.md">想象不到！这些世界顶尖科技 猜猜掌握在谁手里?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md">海南大学退休女教授又被查 运动真来了？</a></li>
@@ -19,11 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321494.md">【耳边风】邓小平「穿越时空」赏「一尊」耳光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321431.md">中共在城市实施武装巡逻试点 反恐车上街 武装公安手持冲锋枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321677.md">为什么出轨只有0次和无数次</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321683.md">英医疗界：中国产呼吸机可致病人于死地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200430/1321459.md">胡锡进口出惊言：美国破百万确诊若在中国早就闹革命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321675.md">你以为的结束，其实刚刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200501/1321681.md">〖兲朝浮世绘〗中共一直有胆干坏事，就是没胆子承认</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md" target="_blank">传民众听闻金正恩死讯超开心 希望成真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321837.md" target="_blank">传金正恩劳动节现身？日媒揭露「1事实」：他2月就生病了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md" target="_blank">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321822.md" target="_blank">这首网络疯传的「毒诗」 作者被挖出来了</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321430.md" target="_blank">中共甘肃省长喊话：经济“十万火急”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321429.md" target="_blank">想象不到！这些世界顶尖科技 猜猜掌握在谁手里?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321426.md" target="_blank">45万人签署调查比尔·盖茨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321405.md" target="_blank">谁是金正恩幕后“导演”？揭秘金正恩之妹金与正</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321840.md" target="_blank">美政坛又传要把中国学生挡在科技专业门外 学生签证更难拿？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321770.md" target="_blank">美国情报系统指新冠病毒不是人造或基因改造</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321737.md" target="_blank">特朗普总统说看到新冠病毒与武汉病毒研究所有关的证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321727.md" target="_blank">武汉肺炎期间中共仍打压宗教 强拆佛庙砸基督教聚会点</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321573.md" target="_blank">美国列出知识产权「优先监察国」      中国排首位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321572.md" target="_blank">安倍要求谭德塞让宝岛参与世卫    台外交部：感谢日本坚定情谊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321571.md" target="_blank">路透社：北京“竭尽所能”希望特朗普输掉连任竞选    耿爽：没兴趣干预</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321567.md" target="_blank">“六四天网”创办人黄琦的重病母亲《最后告白》</a></li>
 
 </ul>
 </div>
