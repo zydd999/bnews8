@@ -1,12 +1,10 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321303.md">黑龙江基本封了省？习近平急了！知情人爆疫情内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321386.md">房地产已经彻底走向了负面！中国经济真正崩盘将至！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200430/1321507.md">坊间热传孙力军落马内幕：向习近平座驾开枪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321531.md">出大事！北京不让军人回家 复员兵预备入伍 啥信号？ 北京更紧了 与官版正相反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321426.md">45万人签署调查比尔·盖茨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321292.md">「疫」波未平「疫」波又起！中国11省再爆「甲壳类谜之病毒」疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321474.md">习近平连续大动作两会谈接班？董卿老公上百亿身家疑似他家白手套？709黑手傅政华会被查?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321307.md">就要惹你不爽！美官员红笔修改耿爽「假」推文 网笑翻狂赞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321314.md">一线采访：北京警戒再升级 民众不堪压力逃离</a></li>
@@ -19,11 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321316.md">中国经济面临一连串多米诺骨牌效应！聊聊粮草与白银等若干问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321445.md">中共拼了推新4万亿 效果如何？中概股又曝丑闻要集体跑路？被禁足者创刚需 此物笃定涨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321564.md">中共危机感空前 为将面临的风暴铺垫准备</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321487.md">瑞德西韦 西方渐红中国抛之何解?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321396.md">华为「鸿蒙」到底蒙谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321330.md">金正恩列车又被拍到… 火车头被移动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321494.md">【耳边风】邓小平「穿越时空」赏「一尊」耳光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321431.md">中共在城市实施武装巡逻试点 反恐车上街 武装公安手持冲锋枪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md">海南大学退休女教授又被查 运动真来了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200430/1321347.md">金正恩已病废无疑！透视东北亚各方的“阿瞒”心态</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321741.md" target="_blank">大陆湖北维权人士刘艳丽自辨书与最后陈述</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1313848.md" target="_blank">街头采访视频：驻澳洲大使成竞业“经济威胁”澳洲 华人怎么看</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1319565.md" target="_blank">《纽约时报》因「推特暴民」更换头版头条 ！民主党与媒体合谋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321698.md" target="_blank">陈破空：党国机密：还有比孙力军更厉害的人物！新闻联播巧骂习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321689.md" target="_blank">黄琦被判12年其母蒲文清病重写下《最后自白》 &#8211; 要闻分析</a></li>
@@ -55,14 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321267.md" target="_blank">法国《观点》周刊：不是中国病毒 是中共病毒，习近平的党对三件事应该负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321263.md" target="_blank">文昭：傅政华免职是开始，习近平下一个清洗谁？捷克议长离奇去世；「血滴子」与假手俄罗斯特工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321254.md" target="_blank">陈破空：惊传：中朝边境爆发激战？习近平出动三十万大军。朝鲜准备大事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321230.md" target="_blank">疫情趋缓 北京故宫5月1日重新开放</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200430/1321203.md" target="_blank">监禁过500天 中国透露狱中两名加拿大人身体健康</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1313848.md" target="_blank">街头采访视频：驻澳洲大使成竞业“经济威胁”澳洲 华人怎么看</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321684.md" target="_blank">海南大学退休女教授又被查 运动真来了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321683.md" target="_blank">英医疗界：中国产呼吸机可致病人于死地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321678.md" target="_blank">美媒：美首席抗疫专家佛奇曾资助武汉研究冠状病毒</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200430/1321256.md" target="_blank">广州上千人摸黑上车返乡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321124.md" target="_blank">金正恩掌权铲政敌 5年处决340人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321123.md" target="_blank">援鄂护士遗体火化 竟被官媒明目张胆造假煽情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200429/1321122.md" target="_blank">金正恩继承人将是妹妹金与正 谁是枕边人？3版本宛如谜雾</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321737.md" target="_blank">特朗普总统说看到新冠病毒与武汉病毒研究所有关的证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321727.md" target="_blank">武汉肺炎期间中共仍打压宗教 强拆佛庙砸基督教聚会点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321691.md" target="_blank">就疫情损失向中国索赔   美国最大的障碍是这个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321685.md" target="_blank">美情报机构称新冠病毒并非人造</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321571.md" target="_blank">路透社：北京“竭尽所能”希望特朗普输掉连任竞选    耿爽：没兴趣干预</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321567.md" target="_blank">“六四天网”创办人黄琦的重病母亲《最后告白》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321563.md" target="_blank">五一劳动节之际   人权组织敦促中国终止性别歧视</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200430/1321562.md" target="_blank">藏语教育倡导者扎西文色青海服刑   蔺其磊律师申请会见遭拒</a></li>
 
 </ul>
 </div>
