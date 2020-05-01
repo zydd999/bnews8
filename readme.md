@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321886.md">年仅42岁 又一大陆女主持患癌过世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321667.md">俄罗斯总理染中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321673.md">新冠病毒非人造   “五眼联盟”调查石正丽、周鹏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321837.md">传金正恩劳动节现身？日媒揭露「1事实」：他2月就生病了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321677.md">为什么出轨只有0次和无数次</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321837.md">传金正恩劳动节现身？日媒揭露「1事实」：他2月就生病了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200501/1321677.md">为什么出轨只有0次和无数次</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321800.md">川普：美国很快解决世卫问题 下一个就是中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321737.md">特朗普总统说看到新冠病毒与武汉病毒研究所有关的证据</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321923.md">金正恩/各国调兵？按兵？ 专家：2人分掌政军大权 &quot;亲笔&quot;令被爆&quot;味道&quot;变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321661.md">穿越时空真实存在,官方唯一承认的一例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321683.md">英医疗界：中国产呼吸机可致病人于死地</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322073.md" target="_blank">澳门博彩业遭新冠病毒疫情重创 4月份收入剧减</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322072.md" target="_blank">专家：中国为报复越南重新命名多个有争议南中国海岛礁名称</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322071.md" target="_blank">农民工跨省流动继续减少 珠江长江三角洲就业下滑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322070.md" target="_blank">担忧疫情重返 中国全面检测 专家质疑测试可信度</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321942.md" target="_blank">属于港人「黄色黄金周」    同路人齐撑黄店</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321941.md" target="_blank">【耳边风】 强国外交部变嗌交部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321939.md" target="_blank">曾实名举报官员失职　湖南记者陈杰人遭重判十五年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321938.md" target="_blank">今年港人移民台湾再破纪录      条件「加辣」有人打退堂鼓</a></li>
 
 </ul>
 </div>
