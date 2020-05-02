@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322387.md">美中开战？川普警告市场认了 被央视连骂三日蓬佩奥在中国火了 中南海急了 白宫追究到底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322469.md" target="_blank">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开倒习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322466.md" target="_blank">中国拒台参与“世卫大会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322460.md" target="_blank">美国媒体报道白宫正在制定向中国索赔方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md" target="_blank">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322175.md" target="_blank">从“与中共合作=打开潘多拉的盒子”说起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322180.md" target="_blank">速报:北韩独裁者金正恩潜伏20天后 五一节现身 打破死亡说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md" target="_blank">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322146.md" target="_blank">北京疫情缓 户外不“罩”了 防控官员摘口罩</a></li>
 
 </ul>
 </div>
