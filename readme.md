@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321818.md">经济专家：...人民的财富就会严重的缩水了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321884.md">金正恩签发最新命令？韩媒爆“味道”有变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321886.md">年仅42岁 又一大陆女主持患癌过世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321837.md">传金正恩劳动节现身？日媒揭露「1事实」：他2月就生病了</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321937.md">刘强东性侵门 美法院要京东买单 给中资啥教训</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322008.md">方方再提笔 反制极左五毛叫嚣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200502/1322110.md">〖兲朝浮世绘〗世卫组织终于受不了，开始反水中共了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321924.md">脱北韩议员：99%确定金正恩已死亡 朝鲜近日将发布消息</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321769.md">耿爽又要不爽!战斗民族疫情失控 横跨四千公里急求教「台湾模式」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322195.md" target="_blank">香港世界新闻自由指数创新低 传媒人及学者分析警权及北京干预</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322194.md" target="_blank">中国审查国内新闻殃及全球生命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322135.md" target="_blank">从&#8221;人没了&#8221;到&#8221;单没了&#8221;    中国工厂面临大裁员压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322123.md" target="_blank">疫情天大  中国新闻自由遭严厉打压</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322112.md" target="_blank">追寻石正丽的研究轨迹   她为何曾自我怀疑？</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1322052.md" target="_blank">台湾连续六天“零确诊” 指挥官陈时中成“带货网红”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1322046.md" target="_blank">世卫驻中国代表：中国多次拒绝世卫参与病毒源头调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1322015.md" target="_blank">异象！黑龙江牡丹江连天万鸟惊叫飞逃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1322019.md" target="_blank">中国称疫情缓解 调降湖北等地的应急响应级别</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1322010.md" target="_blank">香港警方五一劳动节部署数千防暴警察严防各区抗议活动</a></li>
 
 </ul>
 </div>
