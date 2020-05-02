@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321818.md">经济专家：...人民的财富就会严重的缩水了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321884.md">金正恩签发最新命令？韩媒爆“味道”有变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1321721.md">老黑：中国大陆的年轻人如果想要移民，一定要听我这三点建议。 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321760.md">金正恩生死之谜揭晓？劳动节成关键…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321886.md">年仅42岁 又一大陆女主持患癌过世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321833.md">母女三人拍换衣写真 被54万网友围观：爸爸才是人生赢家</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1322028.md">宝胜要文：传邓朴方给两会代表公开信；邓残联内部讲话警告习改革开放不可逆、韬光养晦外交不能变、邓用大时代否定了习的新时代！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321923.md">金正恩/各国调兵？按兵？ 专家：2人分掌政军大权 &quot;亲笔&quot;令被爆&quot;味道&quot;变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321800.md">川普：美国很快解决世卫问题 下一个就是中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321737.md">特朗普总统说看到新冠病毒与武汉病毒研究所有关的证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321937.md">刘强东性侵门 美法院要京东买单 给中资啥教训</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321737.md">特朗普总统说看到新冠病毒与武汉病毒研究所有关的证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322008.md">方方再提笔 反制极左五毛叫嚣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321924.md">脱北韩议员：99%确定金正恩已死亡 朝鲜近日将发布消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200501/1321726.md">万维: 中国大陆已消失的九所世界级大学</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321769.md">耿爽又要不爽!战斗民族疫情失控 横跨四千公里急求教「台湾模式」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321769.md">耿爽又要不爽!战斗民族疫情失控 横跨四千公里急求教「台湾模式」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321929.md">特朗普：见过新冠病毒来自武汉实验室的证据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md" target="_blank">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322146.md" target="_blank">北京疫情缓 户外不“罩”了 防控官员摘口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322140.md" target="_blank">陈破空：这个女人跑了？习近平麻烦大了！金正恩再传不妙，俄罗斯总理中招</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322130.md" target="_blank">电影：为你而来</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md" target="_blank">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321816.md" target="_blank">天亮时分：两会日期确定,习近平的三大头疼问题;历史上皇叔即位的往事;民族主义将疯狂高涨(政论天下第158集 20200430)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321741.md" target="_blank">大陆湖北维权人士刘艳丽自辨书与最后陈述</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1313848.md" target="_blank">街头采访视频：驻澳洲大使成竞业“经济威胁”澳洲 华人怎么看</a></li>
 
 </ul>
 </div>
