@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200501/1321807.md">高级研究员出逃欧洲 携机密避难美国使馆 病毒来源瞄准武汉病毒所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200501/1321908.md">港媒：金正恩列车提供性服务专挑无性经验高妹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321822.md">这首网络疯传的「毒诗」 作者被挖出来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
@@ -17,12 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322008.md">方方再提笔 反制极左五毛叫嚣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322140.md">陈破空：这个女人跑了？习近平麻烦大了！金正恩再传不妙，俄罗斯总理中招 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321924.md">脱北韩议员：99%确定金正恩已死亡 朝鲜近日将发布消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322140.md">陈破空：这个女人跑了？习近平麻烦大了！金正恩再传不妙，俄罗斯总理中招 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322144.md">致习近平主席的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321929.md">特朗普：见过新冠病毒来自武汉实验室的证据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
