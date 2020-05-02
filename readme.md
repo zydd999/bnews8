@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1322028.md">宝胜要文：传邓朴方给两会代表公开信；邓残联内部讲话警告习改革开放不可逆、韬光养晦外交不能变、邓用大时代否定了习的新时代！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322140.md">陈破空：这个女人跑了？习近平麻烦大了！金正恩再传不妙，俄罗斯总理中招 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322103.md">爆料：恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
@@ -10,20 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200502/1322110.md">〖兲朝浮世绘〗世卫组织终于受不了，开始反水中共了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322173.md">颜纯鈎&#65306;石正丽叛逃并非不可能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322144.md">致习近平主席的公开信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322166.md">宝胜突发快评：金正恩活了！照片为证！是替身吗？为什么神隐20天？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322186.md">朝官方：金正恩相隔20日出席活动 半岛：照片无法核实 川普：不评论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322291.md">李一平：孟建柱被抓！朝阳、西单、海淀等多个分局大批公安遭整肃！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322166.md">宝胜突发快评：金正恩活了！照片为证！是替身吗？为什么神隐20天？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322186.md">朝官方：金正恩相隔20日出席活动 半岛：照片无法核实 川普：不评论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322008.md">方方再提笔 反制极左五毛叫嚣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322235.md">习邓隔空交战？网传“邓朴方给两会代表公开信”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322112.md">追寻石正丽的研究轨迹   她为何曾自我怀疑？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322112.md">追寻石正丽的研究轨迹   她为何曾自我怀疑？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1322053.md">科学家最新发现：宇宙是一个巨大的循环体</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322382.md" target="_blank">美国驻联合国使团发推支持台湾 中国强烈反弹</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322380.md" target="_blank">内地「五一」长假景区人海复现　新冠疫情再亮红灯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322379.md" target="_blank">美支持台湾参加本月中世卫大会　 中方强烈不满和坚决反对</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322378.md" target="_blank">15岁少年疑掟汽油弹被捕　 中联办再开腔指骂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322377.md" target="_blank">蓬佩奥反对香港就23条立法　 外交部及港府批干预内政</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322376.md" target="_blank">金正恩破卵而出　粉碎病危传言</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322375.md" target="_blank">特朗普重申考虑对华加征新关税　 作为新冠疫情的报复措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322300.md" target="_blank">侵犯信仰精神蹂躏：中共迫阿訇配合强拆清真寺伊斯兰标志</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322294.md" target="_blank">在美华人团体就新冠病毒问责和向中共索赔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322255.md" target="_blank">戴维斯加大加入关孔院，中共软实力攻势步步崩溃</a></li>
@@ -112,13 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322084.md" target="_blank">五一严防示威 香港防暴警察施放催泪瓦斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322083.md" target="_blank">世卫组织期望中国让其参与调查疫情源头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322080.md" target="_blank">抗疫当前  新闻更显重要</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322073.md" target="_blank">澳门博彩业遭新冠病毒疫情重创 4月份收入剧减</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322072.md" target="_blank">专家：中国为报复越南重新命名多个有争议南中国海岛礁名称</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322071.md" target="_blank">农民工跨省流动继续减少 珠江长江三角洲就业下滑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322070.md" target="_blank">担忧疫情重返 中国全面检测 专家质疑测试可信度</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322069.md" target="_blank">湖北疫情应变级别调降 中国所有省份将解除一级警戒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322068.md" target="_blank">江天勇律师刑满释放后仍被24小时监控 父母被骚扰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322067.md" target="_blank">疫情下的五一假期：中国旅游人次预估年减逾6成</a></li>
 
 </ul>
 </div>
