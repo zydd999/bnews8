@@ -12,17 +12,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321837.md">传金正恩劳动节现身？日媒揭露「1事实」：他2月就生病了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200501/1322028.md">宝胜要文：传邓朴方给两会代表公开信；邓残联内部讲话警告习改革开放不可逆、韬光养晦外交不能变、邓用大时代否定了习的新时代！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321923.md">金正恩/各国调兵？按兵？ 专家：2人分掌政军大权 &quot;亲笔&quot;令被爆&quot;味道&quot;变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200502/1322110.md">〖兲朝浮世绘〗世卫组织终于受不了，开始反水中共了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321800.md">川普：美国很快解决世卫问题 下一个就是中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321937.md">刘强东性侵门 美法院要京东买单 给中资啥教训</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322008.md">方方再提笔 反制极左五毛叫嚣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200502/1322110.md">〖兲朝浮世绘〗世卫组织终于受不了，开始反水中共了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321924.md">脱北韩议员：99%确定金正恩已死亡 朝鲜近日将发布消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321929.md">特朗普：见过新冠病毒来自武汉实验室的证据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
