@@ -14,14 +14,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322311.md">“蝙蝠女郎”石正丽微信露面 否认叛逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322186.md">朝官方：金正恩相隔20日出席活动 半岛：照片无法核实 川普：不评论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322235.md">习邓隔空交战？网传“邓朴方给两会代表公开信”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322395.md">金正恩隐身多日现身 网曝2诡异疑点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322387.md">美中开战？川普警告市场认了 被央视连骂三日蓬佩奥在中国火了 中南海急了 白宫追究到底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322293.md">5.6亿中国人存款为0怎么活？ 没订单 富士康放长假8个月 曝2成失业率 李迅雷被免职</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
