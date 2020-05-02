@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322103.md">爆料：恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322291.md">李一平：孟建柱被抓！朝阳、西单、海淀等多个分局大批公安遭整肃！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322173.md">颜纯鈎&#65306;石正丽叛逃并非不可能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322180.md">速报:北韩独裁者金正恩潜伏20天后 五一节现身 打破死亡说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322333.md">金正恩51露面 冒牌的？3大理由 图集</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322180.md">速报:北韩独裁者金正恩潜伏20天后 五一节现身 打破死亡说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322247.md">网传川普正在... 人民币闻讯大跌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322144.md">致习近平主席的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200502/1322110.md">〖兲朝浮世绘〗世卫组织终于受不了，开始反水中共了</a></li>
@@ -17,8 +17,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322186.md">朝官方：金正恩相隔20日出席活动 半岛：照片无法核实 川普：不评论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322235.md">习邓隔空交战？网传“邓朴方给两会代表公开信”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322395.md">金正恩隐身多日现身 网曝2诡异疑点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
