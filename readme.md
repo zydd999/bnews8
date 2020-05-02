@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322247.md">网传川普正在... 人民币闻讯大跌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200502/1322110.md">〖兲朝浮世绘〗世卫组织终于受不了，开始反水中共了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322173.md">颜纯鈎&#65306;石正丽叛逃并非不可能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322144.md">致习近平主席的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322291.md">李一平：孟建柱被抓！朝阳、西单、海淀等多个分局大批公安遭整肃！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322144.md">致习近平主席的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322166.md">宝胜突发快评：金正恩活了！照片为证！是替身吗？为什么神隐20天？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322186.md">朝官方：金正恩相隔20日出席活动 半岛：照片无法核实 川普：不评论</a></li>
@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322235.md">习邓隔空交战？网传“邓朴方给两会代表公开信”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322112.md">追寻石正丽的研究轨迹   她为何曾自我怀疑？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1322053.md">科学家最新发现：宇宙是一个巨大的循环体</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322333.md">金正恩51露面 冒牌的？3大理由 图集</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md" target="_blank">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322385.md" target="_blank">关税战没停 特朗普遭批未能限制中国铝产能过剩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322339.md" target="_blank">割「韭菜」？！基础设施不动产投资信托基金（REITs）帮中共政府化解债务  风险&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322335.md" target="_blank">疫情向好 中国所有省份今均解除一级响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322326.md" target="_blank">港媒指再有两名警方高层涉嫌知法犯法 市民高叫「反贪污、捉陶辉」</a></li>
@@ -55,14 +57,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322146.md" target="_blank">北京疫情缓 户外不“罩”了 防控官员摘口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322140.md" target="_blank">陈破空：这个女人跑了？习近平麻烦大了！金正恩再传不妙，俄罗斯总理中招</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322130.md" target="_blank">电影：为你而来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322111.md" target="_blank">专栏 | 夜话中南海：台湾总统的就职大典与迟到的中共“两会”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322059.md" target="_blank">蝗虫压境大门口 中国联合巴基斯坦扑杀</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322395.md" target="_blank">金正恩隐身多日现身 网曝2诡异疑点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322394.md" target="_blank">颠覆！“引力”或许并不存在</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322393.md" target="_blank">疫情告急 五一长假首日 哈尔滨紧急叫停餐馆堂食</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322392.md" target="_blank">绿茶、心机、坏太太 林徽因这些黑料怎么来的？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322387.md" target="_blank">美中开战？川普警告市场认了 被央视连骂三日蓬佩奥在中国火了 中南海急了 白宫追究到底</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322333.md" target="_blank">金正恩51露面 冒牌的？3大理由 图集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322293.md" target="_blank">5.6亿中国人存款为0怎么活？ 没订单 富士康放长假8个月 曝2成失业率 李迅雷被免职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
@@ -83,11 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321979.md" target="_blank">中国新沦陷区99%人想不到 重磅！川普已掌握中共病毒源头 不是美债！用这招惩罚最有效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321937.md" target="_blank">刘强东性侵门 美法院要京东买单 给中资啥教训</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321923.md" target="_blank">金正恩/各国调兵？按兵？ 专家：2人分掌政军大权 &quot;亲笔&quot;令被爆&quot;味道&quot;变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321901.md" target="_blank">利润超过毒品 花总拍纪录片《口罩猎人》与故事捕手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321886.md" target="_blank">年仅42岁 又一大陆女主持患癌过世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321885.md" target="_blank">内部文件频曝光 牡丹江疫情突加剧有医院将被接管</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321884.md" target="_blank">金正恩签发最新命令？韩媒爆“味道”有变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md" target="_blank">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
 
 </ul>
 </div>
