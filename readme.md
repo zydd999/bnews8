@@ -20,8 +20,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322293.md">5.6亿中国人存款为0怎么活？ 没订单 富士康放长假8个月 曝2成失业率 李迅雷被免职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322233.md">开眼界 董卿的美国豪宅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322283.md">中共淫乱的前生今世(2)江泽民的「新时代」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,7 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322469.md" target="_blank">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开倒习？习弟为习近平辩护</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md" target="_blank">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322466.md" target="_blank">中国拒台参与“世卫大会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322460.md" target="_blank">美国媒体报道白宫正在制定向中国索赔方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md" target="_blank">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
