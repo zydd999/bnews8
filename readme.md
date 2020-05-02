@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321923.md">金正恩/各国调兵？按兵？ 专家：2人分掌政军大权 &quot;亲笔&quot;令被爆&quot;味道&quot;变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321937.md">刘强东性侵门 美法院要京东买单 给中资啥教训</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1322008.md">方方再提笔 反制极左五毛叫嚣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322107.md">方方&#65306;幸亏当初警惕了一下&#65292;不然&#65292;他们全都将被我连累</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321878.md">坏账、失业、违约 恐惧蝴蝶效应！中共省长称经济遇大坎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322140.md">陈破空：这个女人跑了？习近平麻烦大了！金正恩再传不妙，俄罗斯总理中招 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1322045.md">川普称以新关税报复中共 贸易协议因疫情摆一边</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321924.md">脱北韩议员：99%确定金正恩已死亡 朝鲜近日将发布消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322144.md">致习近平主席的公开信</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322180.md">速报:北韩独裁者金正恩潜伏20天后 五一节现身 打破死亡说</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200501/1321924.md">脱北韩议员：99%确定金正恩已死亡 朝鲜近日将发布消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200501/1321839.md">传民众听闻金正恩死讯超开心 希望成真</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321823.md">江峰：520政军对决：尼米兹号航母会在蔡英文就职、中共两会关键时刻穿越台湾海峡？宫古海峡：中共辽宁号在这里唤醒东亚最大的宿敌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200501/1321929.md">特朗普：见过新冠病毒来自武汉实验室的证据</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322103.md" target="_blank">爆料：恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322227.md" target="_blank">五眼联盟：北京如何在冠状病毒问题上欺骗世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1319575.md" target="_blank">专访班农：华为如何威胁西方国家？华尔街资助中共扮演了什么角色？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322175.md" target="_blank">从“与中共合作=打开潘多拉的盒子”说起</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321926.md" target="_blank">担忧新冠第二爆发 中国全面检测</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321918.md" target="_blank">文革阴魂传新刮 多间大学恶启调查 罪挺方方连带扒底反送中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321911.md" target="_blank">中国疫情仍添12新确诊 遭习点名黑龙江续有漏洞忧虑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200501/1321910.md" target="_blank">世卫疑初大甩锅 驻华代表指中国多次拒世卫查新冠病毒来源 世卫估源头在武汉</a></li>
 
 </ul>
 </div>
