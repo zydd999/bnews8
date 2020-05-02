@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322235.md">习邓隔空交战？网传“邓朴方给两会代表公开信”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322225.md">不小心？赵立坚转推中共瞒疫实情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322387.md">美中开战？川普警告市场认了 被央视连骂三日蓬佩奥在中国火了 中南海急了 白宫追究到底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322293.md">5.6亿中国人存款为0怎么活？ 没订单 富士康放长假8个月 曝2成失业率 李迅雷被免职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322233.md">开眼界 董卿的美国豪宅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322283.md">中共淫乱的前生今世(2)江泽民的「新时代」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322418.md">中国疫情乱象曝光网民炸锅 调查起源 国际共识施压北京 难得有个大好消息传来！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322487.md" target="_blank">天亮时分：石正丽终于发声;美国情报部门怎么说?中共应对三板斧.关于金正恩与孟建柱的传闻(政论天下第159集 20200502)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md" target="_blank">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322466.md" target="_blank">中国拒台参与“世卫大会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322460.md" target="_blank">美国媒体报道白宫正在制定向中国索赔方案</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1319575.md" target="_blank">专访班农：华为如何威胁西方国家？华尔街资助中共扮演了什么角色？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322175.md" target="_blank">从“与中共合作=打开潘多拉的盒子”说起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322180.md" target="_blank">速报:北韩独裁者金正恩潜伏20天后 五一节现身 打破死亡说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322167.md" target="_blank">文昭：金正恩现身了！？WHO也甩锅反水了；川普「我有实锤但不告诉你」中共紧张；三条战线总出击</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322486.md" target="_blank">推特上的中国：从驻华记者到白宫国安会副手：一篇人物特写背后的大话题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322465.md" target="_blank">湖北人权活动人士刘艳丽因言获罪 被判4年有期徒刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322464.md" target="_blank">防疫期间不能拥抱人 台林管处推动拥抱树</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322463.md" target="_blank">《柳叶刀》总编上央视 称中国不应为疫情爆发负责</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322196.md" target="_blank">早知转化营真相 新疆师生被迫违心抵制《维吾尔人权法案》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322195.md" target="_blank">香港世界新闻自由指数创新低 传媒人及学者分析警权及北京干预</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322194.md" target="_blank">中国审查国内新闻殃及全球生命</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200502/1322135.md" target="_blank">从&#8221;人没了&#8221;到&#8221;单没了&#8221;    中国工厂面临大裁员压力</a></li>
 
 </ul>
 </div>
