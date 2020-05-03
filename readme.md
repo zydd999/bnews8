@@ -14,8 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322629.md">听说中石油、中石化、高速公路、国家电网都亏钱了 我难过得吃不下饭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322656.md">上海交大对21名研究生作退学处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322523.md">替中国老百姓说话！美国务院发言人炮轰中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322699.md">恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322697.md">金正恩现身将秋后算帐！朝鲜政坛恐大规模血洗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322670.md">习近平先生彭丽媛女士你们的老家根脉已经被挖空</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322787.md" target="_blank">华尔街日报：中国银行正在耗尽美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322780.md" target="_blank">2020世界新闻自由日与报道Covid-19</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322754.md" target="_blank">德国之声言论自由奖：来自14国的17位获奖者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md" target="_blank">中国战狼外交有多可怕？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322335.md" target="_blank">疫情向好 中国所有省份今均解除一级响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322326.md" target="_blank">港媒指再有两名警方高层涉嫌知法犯法 市民高叫「反贪污、捉陶辉」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322323.md" target="_blank">柳叶刀总编在央视称中国不应为疫情爆发负责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322322.md" target="_blank">澳门4月赌收大减97% 历史最大跌幅</a></li>
 
 </ul>
 </div>
