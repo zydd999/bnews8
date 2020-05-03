@@ -32,6 +32,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322810.md" target="_blank">法媒：“美中口水战升级”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322809.md" target="_blank">兵马俑对自由女神   中国拍乐高短片“病毒往事”讽美甩锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322807.md" target="_blank">武汉肺炎下的两会：民众判断疫情的政治“绿码”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322802.md" target="_blank">中国民众因疫情滞留巴基斯坦 请求接回至今未果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322787.md" target="_blank">华尔街日报：中国银行正在耗尽美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322780.md" target="_blank">2020世界新闻自由日与报道Covid-19</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322754.md" target="_blank">德国之声言论自由奖：来自14国的17位获奖者</a></li>
@@ -53,10 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322460.md" target="_blank">美国媒体报道白宫正在制定向中国索赔方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md" target="_blank">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322385.md" target="_blank">关税战没停 特朗普遭批未能限制中国铝产能过剩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322339.md" target="_blank">割「韭菜」？！基础设施不动产投资信托基金（REITs）帮中共政府化解债务  风险&#8211;天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322335.md" target="_blank">疫情向好 中国所有省份今均解除一级响应</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322326.md" target="_blank">港媒指再有两名警方高层涉嫌知法犯法 市民高叫「反贪污、捉陶辉」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322323.md" target="_blank">柳叶刀总编在央视称中国不应为疫情爆发负责</a></li>
 
 </ul>
 </div>
