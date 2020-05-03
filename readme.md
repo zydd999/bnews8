@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322699.md">恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322697.md">金正恩现身将秋后算帐！朝鲜政坛恐大规模血洗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322670.md">习近平先生彭丽媛女士你们的老家根脉已经被挖空</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322505.md">石正丽叛逃并非不可能(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322667.md">澳媒曝光「五眼」报告：中国隐瞒疫情 毁灭证据 但对病毒来源有不同意见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322440.md">五眼联盟报告：中共销毁证据 霸凌国际 掩盖疫情真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322615.md">透视金正恩失踪和复出之谜</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322781.md" target="_blank">武汉抗疫义工呼吁世界声援吹哨人方斌、陈秋实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322775.md" target="_blank">重病老母再致信中共希望尽快见到狱中黄琦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322772.md" target="_blank">金正恩“神隐”三周后再次露面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322771.md" target="_blank">黄琦母亲蒲文清再次致信中国领导 要求见儿子</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322463.md" target="_blank">《柳叶刀》总编上央视 称中国不应为疫情爆发负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322462.md" target="_blank">美国华人团体向中国问责索赔进入法律程序</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322461.md" target="_blank">捷克参院议长：若访台可展现国格与重视自由民主</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322432.md" target="_blank">香港世界新闻自由指数创新低 打压反送中是主因</a></li>
 
 </ul>
 </div>
