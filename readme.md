@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322761.md">疯了！鲍毓明竟开始疯狂反击？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322753.md">北京不得了 有特别秘密 哈紧关餐饮居民走私食物 美过百华人加入索赔中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200503/1322760.md">宝胜要文：传李克强答邓朴方两会公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322505.md">石正丽叛逃并非不可能(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322667.md">澳媒曝光「五眼」报告：中国隐瞒疫情 毁灭证据 但对病毒来源有不同意见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200503/1322760.md">宝胜要文：传李克强答邓朴方两会公开信</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322820.md" target="_blank">陈破空：金正恩视频疑点！伤疤？边境突响枪声。习近平遭遇五眼联盟。中共大使创作动画片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322818.md" target="_blank">中国人因疫情滞留巴基斯坦 强大的祖国你在哪儿？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322810.md" target="_blank">法媒：“美中口水战升级”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322809.md" target="_blank">兵马俑对自由女神   中国拍乐高短片“病毒往事”讽美甩锅</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md" target="_blank">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322466.md" target="_blank">中国拒台参与“世卫大会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322460.md" target="_blank">美国媒体报道白宫正在制定向中国索赔方案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md" target="_blank">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
 
 </ul>
 </div>
