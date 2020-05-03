@@ -5,8 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322103.md">爆料：恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322333.md">金正恩51露面 冒牌的？3大理由 图集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322247.md">网传川普正在... 人民币闻讯大跌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322173.md">颜纯鈎&#65306;石正丽叛逃并非不可能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322180.md">速报:北韩独裁者金正恩潜伏20天后 五一节现身 打破死亡说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322316.md">习氏路线严重威胁权贵利益集团 传邓朴方公开信反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322311.md">“蝙蝠女郎”石正丽微信露面 否认叛逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322395.md">金正恩隐身多日现身 网曝2诡异疑点</a></li>
@@ -17,13 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md">阴滋病就是中共制造的大屠杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322303.md">新冠还没完 神秘病毒攻陷中国11省日媒：不排除突变传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322226.md">大陆口罩工厂「一画面」曝光！台人全吓歪：差点晕倒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200502/1322181.md">宝胜更正：金正恩最新照片出来了！韩文版报道里的三张图才是5月1日最新的，韩联社中文版的确用的是1月份老照片！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322293.md">5.6亿中国人存款为0怎么活？ 没订单 富士康放长假8个月 曝2成失业率 李迅雷被免职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322172.md">苏晓康&#65306;是谁让&#8220;习二蛋&#8221;做的&#65311;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322418.md">中国疫情乱象曝光网民炸锅 调查起源 国际共识施压北京 难得有个大好消息传来！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322233.md">开眼界 董卿的美国豪宅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322283.md">中共淫乱的前生今世(2)江泽民的「新时代」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322253.md">江峰：一天就调查出来了？美国情报总监“中共病毒非人造”报告让中共大喜过望----深度剖析为什麽是伪结论。胡锡进开骂，川普拆招，启动全面索赔）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1319460.md">阴滋病：一起疑似被掩盖的瘟疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322363.md">哈勃拍到了星际大战? 外星超级武器&quot;对轰&quot;祸及「创生之柱」?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322321.md">驻澳中国总领事突袭卫生部记者会惹争议 更被揭主管网谍工作</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
