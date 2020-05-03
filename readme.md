@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322434.md">北京两会面对「慈习太后」如何「让他们活下去」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200503/1322433.md">金正恩现身画面透露多种信息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322629.md">听说中石油、中石化、高速公路、国家电网都亏钱了 我难过得吃不下饭</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322696.md" target="_blank">陈破空：陈破空说段子：习近平要求别国表扬他，结果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322662.md" target="_blank">中联办批「黄色经济圈」是政治揽炒 民主派责失控 学者忧消费自由被剥夺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322652.md" target="_blank">中国“病毒往事”兵马俑“杠美国”自由女神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322633.md" target="_blank">中国疫情清零徘徊 仅一外入一本土</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322311.md" target="_blank">“蝙蝠女郎”石正丽微信露面 否认叛逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322309.md" target="_blank">澳总理指无证据显示新冠病毒源于中国实验室 仍促调查疫情起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322291.md" target="_blank">李一平：孟建柱被抓！朝阳、西单、海淀等多个分局大批公安遭整肃！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322697.md" target="_blank">金正恩现身将秋后算帐！朝鲜政坛恐大规模血洗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322680.md" target="_blank">金正恩刻意露面泄漏两大危机 他可能中招了？额头带伤痕 连发际线都不一样了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322634.md" target="_blank">&#8230;中国人财富会严重缩水了！ 中国经济新九大危机难解 经济学家讲真话被封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md" target="_blank">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322283.md" target="_blank">中共淫乱的前生今世(2)江泽民的「新时代」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322277.md" target="_blank">震惊！里根总统经策师：华尔街向中共输血约3万亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322257.md" target="_blank">美国科学家研究出中共病毒检测方法 感染后24小时就能辨识</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322247.md" target="_blank">网传川普正在&#8230; 人民币闻讯大跌</a></li>
 
 </ul>
 </div>
