@@ -5,25 +5,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322530.md">直接不甩谭德塞？欧盟喊出「一句话」台人惊叹：天啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322479.md">中国即将在欲火中重生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322524.md">所谓习远平、邓朴方公开信都是假的？挺习与反习派激战 想拿天下人当猴耍？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322680.md">金正恩刻意露面泄漏两大危机 他可能中招了？额头带伤痕 连发际线都不一样了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322536.md">孙力军落马引爆地震 传孟建柱被抓 大批公安被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322558.md">震惊！“我认为武汉一个人都没死 因为官方说了 只要没亲眼见都是造谣”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322680.md">金正恩刻意露面泄漏两大危机 他可能中招了？额头带伤痕 连发际线都不一样了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322454.md">特朗普何以断言病毒来自武汉实验室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322634.md">...中国人财富会严重缩水了！ 中国经济新九大危机难解 经济学家讲真话被封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322557.md">北京新规 房地产恐面临倒闭潮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322634.md">...中国人财富会严重缩水了！ 中国经济新九大危机难解 经济学家讲真话被封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322629.md">听说中石油、中石化、高速公路、国家电网都亏钱了 我难过得吃不下饭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322656.md">上海交大对21名研究生作退学处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322523.md">替中国老百姓说话！美国务院发言人炮轰中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322699.md">恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322434.md">北京两会面对「慈习太后」如何「让他们活下去」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322697.md">金正恩现身将秋后算帐！朝鲜政坛恐大规模血洗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322670.md">习近平先生彭丽媛女士你们的老家根脉已经被挖空</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200503/1322433.md">金正恩现身画面透露多种信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322505.md">石正丽叛逃并非不可能(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322667.md">澳媒曝光「五眼」报告：中国隐瞒疫情 毁灭证据 但对病毒来源有不同意见</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322440.md">五眼联盟报告：中共销毁证据 霸凌国际 掩盖疫情真相</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322780.md" target="_blank">2020世界新闻自由日与报道Covid-19</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322754.md" target="_blank">德国之声言论自由奖：来自14国的17位获奖者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md" target="_blank">中国战狼外交有多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322746.md" target="_blank">英媒曝中科研人员徒手捉蝙蝠太危险</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322326.md" target="_blank">港媒指再有两名警方高层涉嫌知法犯法 市民高叫「反贪污、捉陶辉」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322323.md" target="_blank">柳叶刀总编在央视称中国不应为疫情爆发负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322322.md" target="_blank">澳门4月赌收大减97% 历史最大跌幅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322321.md" target="_blank">驻澳中国总领事突袭卫生部记者会惹争议 更被揭主管网谍工作</a></li>
 
 </ul>
 </div>
