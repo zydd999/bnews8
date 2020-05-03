@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322478.md">金正恩已成植物人，中共以金正恩替身的方式维持朝鲜政权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322530.md">直接不甩谭德塞？欧盟喊出「一句话」台人惊叹：天啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322479.md">中国即将在欲火中重生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322530.md">直接不甩谭德塞？欧盟喊出「一句话」台人惊叹：天啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322524.md">所谓习远平、邓朴方公开信都是假的？挺习与反习派激战 想拿天下人当猴耍？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322680.md">金正恩刻意露面泄漏两大危机 他可能中招了？额头带伤痕 连发际线都不一样了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322536.md">孙力军落马引爆地震 传孟建柱被抓 大批公安被带走</a></li>
@@ -15,11 +15,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322656.md">上海交大对21名研究生作退学处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322523.md">替中国老百姓说话！美国务院发言人炮轰中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322699.md">恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322697.md">金正恩现身将秋后算帐！朝鲜政坛恐大规模血洗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322670.md">习近平先生彭丽媛女士你们的老家根脉已经被挖空</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322477.md">陈破空：金正恩死去活来？川普怀疑中方故意。邓朴方公开反习？习弟为习近平辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322505.md">石正丽叛逃并非不可能(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322667.md">澳媒曝光「五眼」报告：中国隐瞒疫情 毁灭证据 但对病毒来源有不同意见</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322784.md" target="_blank">台湾友邦要求世卫总干事谭德塞让台湾参与世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322781.md" target="_blank">武汉抗疫义工呼吁世界声援吹哨人方斌、陈秋实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322775.md" target="_blank">重病老母再致信中共希望尽快见到狱中黄琦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322772.md" target="_blank">金正恩“神隐”三周后再次露面</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322464.md" target="_blank">防疫期间不能拥抱人 台林管处推动拥抱树</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322463.md" target="_blank">《柳叶刀》总编上央视 称中国不应为疫情爆发负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322462.md" target="_blank">美国华人团体向中国问责索赔进入法律程序</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322461.md" target="_blank">捷克参院议长：若访台可展现国格与重视自由民主</a></li>
 
 </ul>
 </div>
