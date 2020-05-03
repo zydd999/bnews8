@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322291.md">李一平：孟建柱被抓！朝阳、西单、海淀等多个分局大批公安遭整肃！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322333.md">金正恩51露面 冒牌的？3大理由 图集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322316.md">习氏路线严重威胁权贵利益集团 传邓朴方公开信反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322311.md">“蝙蝠女郎”石正丽微信露面 否认叛逃</a></li>
@@ -15,14 +14,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322524.md">所谓习远平、邓朴方公开信都是假的？挺习与反习派激战 想拿天下人当猴耍？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322391.md">刘晓明：李文亮不是吹哨人 中国不是病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200502/1322414.md">张朴：前妻柯玲玲眼中的习近平（连载二）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322454.md">特朗普何以断言病毒来自武汉实验室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322363.md">哈勃拍到了星际大战? 外星超级武器&quot;对轰&quot;祸及「创生之柱」?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322394.md">颠覆！“引力”或许并不存在</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322558.md">震惊！“我认为武汉一个人都没死 因为官方说了 只要没亲眼见都是造谣”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322454.md">特朗普何以断言病毒来自武汉实验室</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322394.md">颠覆！“引力”或许并不存在</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322363.md">哈勃拍到了星际大战? 外星超级武器&quot;对轰&quot;祸及「创生之柱」?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322450.md">邓朴方给中国两会代表的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322321.md">驻澳中国总领事突袭卫生部记者会惹争议 更被揭主管网谍工作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322406.md">【独家】知情者爆料：北京疫情防控有特别秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322434.md">北京两会面对「慈习太后」如何「让他们活下去」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322536.md">孙力军落马引爆地震 传孟建柱被抓 大批公安被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322523.md">替中国老百姓说话！美国务院发言人炮轰中共</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322633.md" target="_blank">中国疫情清零徘徊 仅一外入一本土</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322627.md" target="_blank">大陆新闻解读650期_严真点评+雷人网事：究竟谁是向全世界叫板的人类公敌？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322595.md" target="_blank">南北韩非武装地带发生军事交火 无人员伤亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322594.md" target="_blank">大陆湖北异议人士刘艳丽被中共当局判刑4年</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322253.md" target="_blank">江峰：一天就调查出来了？美国情报总监“中共病毒非人造”报告让中共大喜过望&#8212;-深度剖析为什麽是伪结论。胡锡进开骂，川普拆招，启动全面索赔）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200502/1322193.md" target="_blank">阴滋病就是中共制造的大屠杀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1319460.md" target="_blank">阴滋病：一起疑似被掩盖的瘟疫</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322634.md" target="_blank">&#8230;中国人财富会严重缩水了！ 中国经济新九大危机难解 经济学家讲真话被封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md" target="_blank">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322629.md" target="_blank">听说中石油、中石化、高速公路、国家电网都亏钱了 我难过得吃不下饭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md" target="_blank">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322257.md" target="_blank">美国科学家研究出中共病毒检测方法 感染后24小时就能辨识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322247.md" target="_blank">网传川普正在&#8230; 人民币闻讯大跌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322234.md" target="_blank">意大利两党议员索赔400亿欧元 向中共大使馆要求首付</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322233.md" target="_blank">开眼界 董卿的美国豪宅</a></li>
 
 </ul>
 </div>
