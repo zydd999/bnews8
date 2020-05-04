@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200504/1322893.md">中共当局正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322823.md">真假“金帅” 隔着屏幕都能闻见猫腻的味道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322899.md">班农遭央视谩骂 反而引发大陆网友好奇：他说了啥？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322820.md">陈破空：金正恩视频疑点！伤疤？边境突响枪声。习近平遭遇五眼联盟。中共大使创作动画片 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322820.md">陈破空：金正恩视频疑点！伤疤？边境突响枪声。习近平遭遇五眼联盟。中共大使创作动画片 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322840.md">三十年前逃到美国 晚年却被武肺击中(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323193.md" target="_blank">陈破空：意外：极左军头也反习！石正丽遭控制？习近平忽然拉抬李鹏之女</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323179.md" target="_blank">专栏 | 夜话中南海：战狼当道    阎学通反而理性了许多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md" target="_blank">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323165.md" target="_blank">方方：关于送侄女去机场</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322780.md" target="_blank">2020世界新闻自由日与报道Covid-19</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322754.md" target="_blank">德国之声言论自由奖：来自14国的17位获奖者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md" target="_blank">中国战狼外交有多可怕？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322746.md" target="_blank">英媒曝中科研人员徒手捉蝙蝠太危险</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323192.md" target="_blank">美副国安主任：李文亮是“五四”精神的真正继承人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323191.md" target="_blank">美国总统、国务卿、防长接二连三挞伐中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323189.md" target="_blank">埃斯珀：美军正密切注视中国的军事举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323186.md" target="_blank">美国、印度“健康码”和中国的有何不同？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323185.md" target="_blank">美国国会宣布对中国渗透美国大学的努力进行调查</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323109.md" target="_blank">路透社：中国政府内部报告称面临1989年以来最严峻国际形势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323103.md" target="_blank">湖北银行女职员批评领导人涉寻衅滋事判囚4年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323102.md" target="_blank">厦门200公安强闯民宅禁止家庭教会聚会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323098.md" target="_blank">热搜解码：起诉中国为新冠担责可行吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323096.md" target="_blank">美轰炸机飞向中国东海　学者︰劝中共勿武力犯台</a></li>
 
 </ul>
 </div>
