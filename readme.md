@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322973.md">习傻眼？欧盟代表公开认错 “94.5%青年愿为国献身？” 央视炮轰班农 这是真怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322933.md">西班牙终于解封 撤侨专机坠毁 全机无人生还</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322978.md">重重危机 中共面对世界大变局 没钱了!打住房公积金主意 中南海新规掀房地产倒闭潮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322851.md">您踩了吗？中共四分钟歌曲激怒亚洲民众 20万人踩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322925.md">中共淫乱的前生今世(3)政治局六淫棍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322851.md">您踩了吗？中共四分钟歌曲激怒亚洲民众 20万人踩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322838.md">北韩到底发生什么？她为何重出江湖 ...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322891.md">为何改变对习近平看法 川普首次详细说明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323028.md">早知疫情！中共频下密令 川普蓬佩奥曝调查新进展 两会没戏!北京此处没人影</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322840.md">三十年前逃到美国 晚年却被武肺击中(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322818.md">中国人因疫情滞留巴基斯坦 强大的祖国你在哪儿？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323189.md" target="_blank">埃斯珀：美军正密切注视中国的军事举动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323186.md" target="_blank">美国、印度“健康码”和中国的有何不同？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323185.md" target="_blank">美国国会宣布对中国渗透美国大学的努力进行调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323184.md" target="_blank">白宫将新冠与贸易挂钩向中国施压</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323178.md" target="_blank">讲中文 谈“五四”  美国高官博明巧妙“唤起中国民众”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323177.md" target="_blank">中国五一长假旅游收入大缩水</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323176.md" target="_blank">美中关系紧张  全球股市下跌人民币走低</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323102.md" target="_blank">厦门200公安强闯民宅禁止家庭教会聚会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323098.md" target="_blank">热搜解码：起诉中国为新冠担责可行吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323096.md" target="_blank">美轰炸机飞向中国东海　学者︰劝中共勿武力犯台</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md" target="_blank">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323074.md" target="_blank">全球确诊逾352万死破24万　俄罗斯连续两日增破万例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323063.md" target="_blank">掩盖疫情讯息　英国防大臣︰中国尚有疑点要回答</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323055.md" target="_blank">英国防大臣：中国应当回答有关新冠病毒疫情的问题</a></li>
 
 </ul>
 </div>
