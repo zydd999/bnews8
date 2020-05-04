@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323131.md" target="_blank">专家：美澳希望遏制北京在南中国海的扩张</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323130.md" target="_blank">美国拟建信任联盟，降低中国在全球供应链中的作用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323128.md" target="_blank">台湾磐石舰感染率9% 远低于戴高乐号、罗斯福号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323121.md" target="_blank">中方重施故技　再将病毒源头引向法国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323119.md" target="_blank">国际社会关注被失踪独立媒体人方斌与陈秋实</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322994.md" target="_blank">二百国保闯厦门家庭教会强力取缔　发生推撞混乱场面网络流传</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322993.md" target="_blank">美国力挺台湾出席世卫　美在台协会脸书每天发文支持　</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322992.md" target="_blank">梁君彦突引「外界法律意见」插手内会事务　郭荣铿斥摒弃《议事规则》及立会传统</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322976.md" target="_blank">一个维吾尔人写给他失踪母亲的信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322958.md" target="_blank">【耳边风】「美帝亡我之心不死」说法荒谬至极</a></li>
 
 </ul>
 </div>
