@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322680.md">金正恩刻意露面泄漏两大危机 他可能中招了？额头带伤痕 连发际线都不一样了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322530.md">直接不甩谭德塞？欧盟喊出「一句话」台人惊叹：天啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322536.md">孙力军落马引爆地震 传孟建柱被抓 大批公安被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322558.md">震惊！“我认为武汉一个人都没死 因为官方说了 只要没亲眼见都是造谣”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322557.md">北京新规 房地产恐面临倒闭潮</a></li>
@@ -13,17 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322699.md">恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322630.md">日经：中共对非洲豪赌失败 2000亿美元恐血本无归</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322656.md">上海交大对21名研究生作退学处理</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322761.md">疯了！鲍毓明竟开始疯狂反击？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322787.md">华尔街日报：中国银行正在耗尽美元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322761.md">疯了！鲍毓明竟开始疯狂反击？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322753.md">北京不得了 有特别秘密 哈紧关餐饮居民走私食物 美过百华人加入索赔中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200503/1322760.md">宝胜要文：传李克强答邓朴方两会公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322798.md">蓬佩奥：“大量证据”表明冠状病毒大流行起源于武汉的实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200503/1322756.md">台湾军机飞至福建莆田上空 解放军或罕无预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322667.md">澳媒曝光「五眼」报告：中国隐瞒疫情 毁灭证据 但对病毒来源有不同意见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322615.md">透视金正恩失踪和复出之谜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md">中国战狼外交有多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1322797.md">〖兲朝浮世绘〗大裤衩又骂大街了 这次轮到了班农</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md">中国战狼外交有多可怕？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322615.md">透视金正恩失踪和复出之谜</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200503/1322554.md">邓朴方怒发公开信？红二代集体反目要追责？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322851.md" target="_blank">您踩了吗？中共四分钟歌曲激怒亚洲民众 20万人踩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322841.md" target="_blank">到底在怕什么？英媒爆武汉P4实验室偷删「零安全防护」蝙蝠实验照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322839.md" target="_blank">「与先前挑衅相当不同」北韩开火有隐情？美国务卿揭露金正恩现况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322838.md" target="_blank">北韩到底发生什么？她为何重出江湖 &#8230;</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322395.md" target="_blank">金正恩隐身多日现身 网曝2诡异疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322394.md" target="_blank">颠覆！“引力”或许并不存在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322393.md" target="_blank">疫情告急 五一长假首日 哈尔滨紧急叫停餐馆堂食</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322392.md" target="_blank">绿茶、心机、坏太太 林徽因这些黑料怎么来的？</a></li>
 
 </ul>
 </div>
