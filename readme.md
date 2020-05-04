@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200503/1322760.md">宝胜要文：传李克强答邓朴方两会公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322798.md">蓬佩奥：“大量证据”表明冠状病毒大流行起源于武汉的实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322626.md">突发！韩国联合参谋本部：朝鲜向韩方哨所开枪射击</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1322797.md">〖兲朝浮世绘〗大裤衩又骂大街了 这次轮到了班农</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322841.md">到底在怕什么？英媒爆武汉P4实验室偷删「零安全防护」蝙蝠实验照</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1322797.md">〖兲朝浮世绘〗大裤衩又骂大街了 这次轮到了班农</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200503/1322756.md">台湾军机飞至福建莆田上空 解放军或罕无预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200503/1322667.md">澳媒曝光「五眼」报告：中国隐瞒疫情 毁灭证据 但对病毒来源有不同意见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md">中国战狼外交有多可怕？</a></li>
@@ -63,6 +63,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322901.md" target="_blank">习近平器重的女人 拿下赵乐际大管家又威胁周强</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md" target="_blank">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322899.md" target="_blank">班农遭央视谩骂 反而引发大陆网友好奇：他说了啥？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322898.md" target="_blank">佳木斯居民：当地疫情越发严重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322891.md" target="_blank">为何改变对习近平看法 川普首次详细说明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322851.md" target="_blank">您踩了吗？中共四分钟歌曲激怒亚洲民众 20万人踩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322841.md" target="_blank">到底在怕什么？英媒爆武汉P4实验室偷删「零安全防护」蝙蝠实验照</a></li>
@@ -84,16 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322530.md" target="_blank">直接不甩谭德塞？欧盟喊出「一句话」台人惊叹：天啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322524.md" target="_blank">所谓习远平、邓朴方公开信都是假的？挺习与反习派激战 想拿天下人当猴耍？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322523.md" target="_blank">替中国老百姓说话！美国务院发言人炮轰中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322522.md" target="_blank">比尔盖兹帮中共说话 遭轰：就是个骗子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322418.md" target="_blank">中国疫情乱象曝光网民炸锅 调查起源 国际共识施压北京 难得有个大好消息传来！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322395.md" target="_blank">金正恩隐身多日现身 网曝2诡异疑点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200502/1322394.md" target="_blank">颠覆！“引力”或许并不存在</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322904.md" target="_blank">特朗普谈新冠疫情爆发：中国“犯了一个可怕的错误”并试图掩盖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322842.md" target="_blank">中共：新冠肺炎全球大流行的罪魁祸首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322828.md" target="_blank">情报文件： 美官员认为中国掩盖疫情以储备所需的医疗用品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322814.md" target="_blank">特朗普威胁新增中国进口商品关税 市场表现消极</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322734.md" target="_blank">选民登记已截止  民主派冀来届立法会取「过半」议席</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322733.md" target="_blank">香港噩梦连场　今年经济料60年来最差</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322729.md" target="_blank">维权律师余文生妻子：没有国际关注他的遭遇会更惨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200503/1322728.md" target="_blank">3外籍警官住宅涉违规　 林卓廷向廉署举报</a></li>
 
 </ul>
 </div>
