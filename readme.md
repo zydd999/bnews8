@@ -6,15 +6,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322973.md">习傻眼？欧盟代表公开认错 “94.5%青年愿为国献身？” 央视炮轰班农 这是真怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322933.md">西班牙终于解封 撤侨专机坠毁 全机无人生还</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322978.md">重重危机 中共面对世界大变局 没钱了!打住房公积金主意 中南海新规掀房地产倒闭潮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322798.md">蓬佩奥：“大量证据”表明冠状病毒大流行起源于武汉的实验室</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322925.md">中共淫乱的前生今世(3)政治局六淫棍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322851.md">您踩了吗？中共四分钟歌曲激怒亚洲民众 20万人踩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322925.md">中共淫乱的前生今世(3)政治局六淫棍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322838.md">北韩到底发生什么？她为何重出江湖 ...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322891.md">为何改变对习近平看法 川普首次详细说明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323028.md">早知疫情！中共频下密令 川普蓬佩奥曝调查新进展 两会没戏!北京此处没人影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322839.md">「与先前挑衅相当不同」北韩开火有隐情？美国务卿揭露金正恩现况</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322953.md">“这个就是中共最害怕的事情 它害怕...&quot;(图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1322797.md">〖兲朝浮世绘〗大裤衩又骂大街了 这次轮到了班农</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1322975.md">金正恩露面妹妹金与正罕见陪同坐主席台专家：印证是第二把交椅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200504/1322893.md">中共当局正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322823.md">真假“金帅” 隔着屏幕都能闻见猫腻的味道</a></li>
@@ -24,6 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322840.md">三十年前逃到美国 晚年却被武肺击中(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322818.md">中国人因疫情滞留巴基斯坦 强大的祖国你在哪儿？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323179.md" target="_blank">专栏 | 夜话中南海：战狼当道    阎学通反而理性了许多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md" target="_blank">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323165.md" target="_blank">方方：关于送侄女去机场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323163.md" target="_blank">法国最早的新冠患者出现在12月27号？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322754.md" target="_blank">德国之声言论自由奖：来自14国的17位获奖者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322748.md" target="_blank">中国战狼外交有多可怕？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322746.md" target="_blank">英媒曝中科研人员徒手捉蝙蝠太危险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322745.md" target="_blank">约翰逊自爆曾到鬼门关：医生已着手准备死讯</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323178.md" target="_blank">讲中文 谈“五四”  美国高官博明巧妙“唤起中国民众”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323177.md" target="_blank">中国五一长假旅游收入大缩水</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323176.md" target="_blank">美中关系紧张  全球股市下跌人民币走低</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323175.md" target="_blank">疫情中五角大楼批中共挺台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323156.md" target="_blank">武汉病毒所移除照片 英国防大臣:中国要回答疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323148.md" target="_blank">韩国抗议朝鲜在边界开火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323147.md" target="_blank">香港一季度经济萎缩8.9%</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323074.md" target="_blank">全球确诊逾352万死破24万　俄罗斯连续两日增破万例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323063.md" target="_blank">掩盖疫情讯息　英国防大臣︰中国尚有疑点要回答</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323055.md" target="_blank">英国防大臣：中国应当回答有关新冠病毒疫情的问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323050.md" target="_blank">新一波打击自由派运动扩大中　方方许可馨梁艳萍等成打击对象</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322961.md" target="_blank">全球将有大灾难？青藏高原惊现28种未知病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323038.md" target="_blank">美防长批评中俄利用病毒大流行扩大影响力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323030.md" target="_blank">美国加大力道声援台湾参与WHA 中国恼火加倍灭火</a></li>
 
 </ul>
 </div>
