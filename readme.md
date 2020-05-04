@@ -2,28 +2,28 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322787.md">华尔街日报：中国银行正在耗尽美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322761.md">疯了！鲍毓明竟开始疯狂反击？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322841.md">到底在怕什么？英媒爆武汉P4实验室偷删「零安全防护」蝙蝠实验照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322901.md">习近平器重的女人 拿下赵乐际大管家又威胁周强</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322933.md">西班牙终于解封 撤侨专机坠毁 全机无人生还</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322973.md">习傻眼？欧盟代表公开认错 “94.5%青年愿为国献身？” 央视炮轰班农 这是真怕了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322933.md">西班牙终于解封 撤侨专机坠毁 全机无人生还</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322798.md">蓬佩奥：“大量证据”表明冠状病毒大流行起源于武汉的实验室</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322925.md">中共淫乱的前生今世(3)政治局六淫棍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322891.md">为何改变对习近平看法 川普首次详细说明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322838.md">北韩到底发生什么？她为何重出江湖 ...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322891.md">为何改变对习近平看法 川普首次详细说明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322839.md">「与先前挑衅相当不同」北韩开火有隐情？美国务卿揭露金正恩现况</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322978.md">重重危机 中共面对世界大变局 没钱了!打住房公积金主意 中南海新规掀房地产倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322851.md">您踩了吗？中共四分钟歌曲激怒亚洲民众 20万人踩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322953.md">“这个就是中共最害怕的事情 它害怕...&quot;(图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322978.md">重重危机 中共面对世界大变局 没钱了!打住房公积金主意 中南海新规掀房地产倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1322797.md">〖兲朝浮世绘〗大裤衩又骂大街了 这次轮到了班农</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200504/1322893.md">中共当局正在开展“禁言严打”运动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1322975.md">金正恩露面妹妹金与正罕见陪同坐主席台专家：印证是第二把交椅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322823.md">真假“金帅” 隔着屏幕都能闻见猫腻的味道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322899.md">班农遭央视谩骂 反而引发大陆网友好奇：他说了啥？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1322975.md">金正恩露面妹妹金与正罕见陪同坐主席台专家：印证是第二把交椅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323028.md">早知疫情！中共频下密令 川普蓬佩奥曝调查新进展 两会没戏!北京此处没人影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322820.md">陈破空：金正恩视频疑点！伤疤？边境突响枪声。习近平遭遇五眼联盟。中共大使创作动画片 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323028.md">早知疫情！中共频下密令 川普蓬佩奥曝调查新进展 两会没戏!北京此处没人影</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322840.md">三十年前逃到美国 晚年却被武肺击中(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323108.md" target="_blank">美中新冠疫情舆论战：蓬佩奥、班农成中方官媒首要抨击目标</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323107.md" target="_blank">保证10年政治正确？ 港台电影人：头上一把刀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323057.md" target="_blank">泰王携嫔妃德国逍遥 民众质问：要你何用？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323054.md" target="_blank">“战狼”外交是怎样炼成的？世界报详解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323040.md" target="_blank">英国国防大臣：中国应回答新冠疫情暴发相关问题</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322633.md" target="_blank">中国疫情清零徘徊 仅一外入一本土</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322627.md" target="_blank">大陆新闻解读650期_严真点评+雷人网事：究竟谁是向全世界叫板的人类公敌？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322595.md" target="_blank">南北韩非武装地带发生军事交火 无人员伤亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322594.md" target="_blank">大陆湖北异议人士刘艳丽被中共当局判刑4年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322591.md" target="_blank">大陆新闻解读650期_时事小品：粘在鞋底上的口香糖</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323103.md" target="_blank">湖北银行女职员批评领导人涉寻衅滋事判囚4年</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323102.md" target="_blank">厦门200公安强闯民宅禁止家庭教会聚会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323098.md" target="_blank">热搜解码：起诉中国为新冠担责可行吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323096.md" target="_blank">美轰炸机飞向中国东海　学者︰劝中共勿武力犯台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md" target="_blank">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322814.md" target="_blank">特朗普威胁新增中国进口商品关税 市场表现消极</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322813.md" target="_blank">美国常驻联合国代表推文支持台湾加入世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322812.md" target="_blank">香港亲中议员推动基本法第23条立法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322811.md" target="_blank">美国正调查得克萨斯大学与武汉病毒研究所的关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322801.md" target="_blank">中国民众滞留巴基斯坦一个半月 回国无门</a></li>
 
 </ul>
 </div>
