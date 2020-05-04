@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323086.md">世界要为朝鲜考虑后事了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md" target="_blank">艾克曼：中共党内也很恐惧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323202.md" target="_blank">文昭：美国疫苗年底面世，中共有难；五眼联盟再发威，掌握「大量证据」；金正恩露面未解的疑问</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323200.md" target="_blank">欧盟牵头国际社会筹得74亿欧元研发新冠病毒疫苗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323199.md" target="_blank">法国政府解封计划未获参议院通过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323193.md" target="_blank">陈破空：意外：极左军头也反习！石正丽遭控制？习近平忽然拉抬李鹏之女</a></li>
@@ -55,14 +57,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322809.md" target="_blank">兵马俑对自由女神   中国拍乐高短片“病毒往事”讽美甩锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322807.md" target="_blank">武汉肺炎下的两会：民众判断疫情的政治“绿码”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322802.md" target="_blank">中国民众因疫情滞留巴基斯坦 请求接回至今未果</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322787.md" target="_blank">华尔街日报：中国银行正在耗尽美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322780.md" target="_blank">2020世界新闻自由日与报道Covid-19</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323207.md" target="_blank">赵立坚微博发表藏头诗 网友：笑哭</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323206.md" target="_blank">北京名中医逃亡加国 曝中共如何迫害律师</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md" target="_blank">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323042.md" target="_blank">都说加拿大看病慢 讲讲我免费又迅速的手术经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md" target="_blank">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322761.md" target="_blank">疯了！鲍毓明竟开始疯狂反击？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322753.md" target="_blank">北京不得了 有特别秘密 哈紧关餐饮居民走私食物 美过百华人加入索赔中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322699.md" target="_blank">恐怖阴滋病IT高管圈蔓延 卫健委隐瞒恐再酿大祸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322698.md" target="_blank">网民借“潘金莲”讽刺中共推卸疫情责任</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200503/1322697.md" target="_blank">金正恩现身将秋后算帐！朝鲜政坛恐大规模血洗</a></li>
 
 </ul>
 </div>
