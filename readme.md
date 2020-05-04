@@ -23,7 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322840.md">三十年前逃到美国 晚年却被武肺击中(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323163.md" target="_blank">法国最早的新冠患者出现在12月27号？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323162.md" target="_blank">方方：关于手机照片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323127.md" target="_blank">陈破空：陈破空谈《常识》（之46）：当今中国人，为何什麽都不信？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323126.md" target="_blank">香港警方高层陶辉等卷入违章建筑争议，记者调查时一度被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323108.md" target="_blank">美中新冠疫情舆论战：蓬佩奥、班农成中方官媒首要抨击目标</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322745.md" target="_blank">约翰逊自爆曾到鬼门关：医生已着手准备死讯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322696.md" target="_blank">陈破空：陈破空说段子：习近平要求别国表扬他，结果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322662.md" target="_blank">中联办批「黄色经济圈」是政治揽炒 民主派责失控 学者忧消费自由被剥夺</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322652.md" target="_blank">中国“病毒往事”兵马俑“杠美国”自由女神</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200503/1322633.md" target="_blank">中国疫情清零徘徊 仅一外入一本土</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323156.md" target="_blank">武汉病毒所移除照片 英国防大臣:中国要回答疑点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323148.md" target="_blank">韩国抗议朝鲜在边界开火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323147.md" target="_blank">香港一季度经济萎缩8.9%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323143.md" target="_blank">湖南人权捍卫者谢文飞因网上言论遭“寻滋”刑拘</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1322961.md" target="_blank">全球将有大灾难？青藏高原惊现28种未知病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323038.md" target="_blank">美防长批评中俄利用病毒大流行扩大影响力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323030.md" target="_blank">美国加大力道声援台湾参与WHA 中国恼火加倍灭火</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md" target="_blank">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
 
 </ul>
 </div>
