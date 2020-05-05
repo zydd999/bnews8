@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323028.md">早知疫情！中共频下密令 川普蓬佩奥曝调查新进展 两会没戏!北京此处没人影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md">艾克曼：中共党内也很恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
@@ -19,11 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323340.md">中共口罩外交破产…滞销货堆满厂外口罩厂掀倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200505/1323232.md">【公子快报】路透社爆料中共内部情报警告习近平：国际形势空前严峻，堪比1989年六四之后 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323381.md">中共面临30年最严酷灭顶之灾 川普发话 中美经济战开打 中南海瞄准中产家庭钱袋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323194.md">〖兲朝浮世绘〗中共宣传的膜拜对象居然是纳粹头子戈培尔！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323104.md">评论 | 林保华：习近平的孤家寡人团队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323332.md">公安部整肃延烧香港 邓炳强涉僭建丑闻曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200505/1323144.md">香港黄色经济圈五一黄金周反应热烈 估计营业额超过一亿港元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323206.md">北京名中医逃亡加国 曝中共如何迫害律师</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323456.md" target="_blank">五一假期 北京王府井没人！ 反制中共 川普发动5国挺台 加国会给世卫副手发传票</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323422.md" target="_blank">到底谁是汉奸！五四梅思平和曹汝霖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323407.md" target="_blank">全球反共 北京1举满盘皆输 中南海正在开展超限战 美专家：中共3年内崩溃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323381.md" target="_blank">中共面临30年最严酷灭顶之灾 川普发话 中美经济战开打 中南海瞄准中产家庭钱袋</a></li>
@@ -87,13 +88,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322978.md" target="_blank">重重危机 中共面对世界大变局 没钱了!打住房公积金主意 中南海新规掀房地产倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322973.md" target="_blank">习傻眼？欧盟代表公开认错 “94.5%青年愿为国献身？” 央视炮轰班农 这是真怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322972.md" target="_blank">「零确诊」？ 北韩集体发烧单日21死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322953.md" target="_blank">“这个就是中共最害怕的事情 它害怕&#8230;&quot;(图）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323461.md" target="_blank">全球疫情动向：各国逐步启封 顶住压力推动经济运转</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323459.md" target="_blank">两国提案宝岛参加世界卫生大会　台外交部：会有更多国家支持</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323458.md" target="_blank">武大教授疑染肺炎隔离期间猝死　亲属追责被全面维稳</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323457.md" target="_blank">「六四」临近港限聚令取消无期　社运界批措施针对游行集会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323435.md" target="_blank">时事大家谈：矛头直指武汉病毒所，美国情报部门发现了什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323434.md" target="_blank">武肺死者家属拟筹款立碑　公安强力打压制止</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323433.md" target="_blank">黎智英等「非法集结」案提堂　泛民领袖吁港人抗争到底</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323177.md" target="_blank">中国五一长假旅游收入大缩水</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323176.md" target="_blank">美中关系紧张  全球股市下跌人民币走低</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323175.md" target="_blank">疫情中五角大楼批中共挺台湾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323156.md" target="_blank">武汉病毒所移除照片 英国防大臣:中国要回答疑点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323148.md" target="_blank">韩国抗议朝鲜在边界开火</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323147.md" target="_blank">香港一季度经济萎缩8.9%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323143.md" target="_blank">湖南人权捍卫者谢文飞因网上言论遭“寻滋”刑拘</a></li>
 
 </ul>
 </div>
