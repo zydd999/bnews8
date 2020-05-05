@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322841.md">到底在怕什么？英媒爆武汉P4实验室偷删「零安全防护」蝙蝠实验照</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322901.md">习近平器重的女人 拿下赵乐际大管家又威胁周强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322973.md">习傻眼？欧盟代表公开认错 “94.5%青年愿为国献身？” 央视炮轰班农 这是真怕了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322933.md">西班牙终于解封 撤侨专机坠毁 全机无人生还</a></li>
@@ -16,14 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322899.md">班农遭央视谩骂 反而引发大陆网友好奇：他说了啥？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323086.md">世界要为朝鲜考虑后事了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322840.md">三十年前逃到美国 晚年却被武肺击中(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323207.md">赵立坚微博发表藏头诗 网友：笑哭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323234.md" target="_blank">数百万中国口罩抵达德国罗斯托克港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md" target="_blank">艾克曼：中共党内也很恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323202.md" target="_blank">文昭：美国疫苗年底面世，中共有难；五眼联盟再发威，掌握「大量证据」；金正恩露面未解的疑问</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323200.md" target="_blank">欧盟牵头国际社会筹得74亿欧元研发新冠病毒疫苗</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322810.md" target="_blank">法媒：“美中口水战升级”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322809.md" target="_blank">兵马俑对自由女神   中国拍乐高短片“病毒往事”讽美甩锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322807.md" target="_blank">武汉肺炎下的两会：民众判断疫情的政治“绿码”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322802.md" target="_blank">中国民众因疫情滞留巴基斯坦 请求接回至今未果</a></li>
 
 </ul>
 </div>
