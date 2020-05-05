@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323262.md">中共内部报告：面临六四以来最严峻国际形势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323284.md">“这确实是它们的终点！”美专家：中共将在3年内崩溃(附采访视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323194.md">〖兲朝浮世绘〗中共宣传的膜拜对象居然是纳粹头子戈培尔！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322972.md">「零确诊」？ 北韩集体发烧单日21死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323109.md">路透社：中国政府内部报告称面临1989年以来最严峻国际形势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323284.md">“这确实是它们的终点！”美专家：中共将在3年内崩溃(附采访视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323206.md">北京名中医逃亡加国 曝中共如何迫害律师</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200505/1323144.md">香港黄色经济圈五一黄金周反应热烈 估计营业额超过一亿港元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323104.md">评论 | 林保华：习近平的孤家寡人团队</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
