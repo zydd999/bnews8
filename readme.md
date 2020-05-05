@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323086.md">世界要为朝鲜考虑后事了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200504/1322834.md">世界隔离中国绝非危言耸听(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323220.md" target="_blank">中国官方称特朗普的新关税威胁会伤害美国经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323197.md" target="_blank">姆努钦：中国若违反贸易协议将承担后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323196.md" target="_blank">个人也能申请破产了？深圳提案补中国法律短板</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323192.md" target="_blank">美副国安主任：李文亮是“五四”精神的真正继承人</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323119.md" target="_blank">国际社会关注被失踪独立媒体人方斌与陈秋实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323118.md" target="_blank">美国国会要求白宫关注中国的言论自由与新闻自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323117.md" target="_blank">特朗普指责中国处理疫情犯错并试图掩盖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323109.md" target="_blank">路透社：中国政府内部报告称面临1989年以来最严峻国际形势</a></li>
 
 </ul>
 </div>
