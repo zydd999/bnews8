@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md">艾克曼：中共党内也很恐惧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323086.md">世界要为朝鲜考虑后事了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323207.md">赵立坚微博发表藏头诗 网友：笑哭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323193.md">陈破空：意外：极左军头也反习！石正丽遭控制？习近平忽然拉抬李鹏之女 </a></li>
@@ -11,9 +10,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323306.md">孙立军落马后下一个是谁？专家都指向他....</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323381.md">中共面临30年最严酷灭顶之灾 川普发话 中美经济战开打 中南海瞄准中产家庭钱袋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200505/1323317.md">网曝孟建柱被抓确切时间 上海多处房产被抄</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323377.md">原油宝事件惊动中央！刘鹤假期开会释一重要信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323307.md">川普：将公布病毒起源武汉的“强有力报告”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323377.md">原油宝事件惊动中央！刘鹤假期开会释一重要信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200505/1323232.md">【公子快报】路透社爆料中共内部情报警告习近平：国际形势空前严峻，堪比1989年六四之后 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323340.md">中共口罩外交破产…滞销货堆满厂外口罩厂掀倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323407.md">全球反共 北京1举满盘皆输 中南海正在开展超限战 美专家：中共3年内崩溃</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323104.md">评论 | 林保华：习近平的孤家寡人团队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200505/1323144.md">香港黄色经济圈五一黄金周反应热烈 估计营业额超过一亿港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200505/1323254.md">张朴&#65306;前妻柯玲玲眼中的习近平&#65288;连载二&#65289;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323206.md">北京名中医逃亡加国 曝中共如何迫害律师</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323534.md" target="_blank">方方： 关于 （5）- 关于卖惨</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323533.md" target="_blank">方方：关于（3-4）关于医生朋友与关于二十个口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323501.md" target="_blank">方方： 关于（2）- 关于听说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323499.md" target="_blank">黄色经济圈4天收1亿 中联办狂轰惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323494.md" target="_blank">方方： 关于（1）关于日记</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323108.md" target="_blank">美中新冠疫情舆论战：蓬佩奥、班农成中方官媒首要抨击目标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323107.md" target="_blank">保证10年政治正确？ 港台电影人：头上一把刀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323057.md" target="_blank">泰王携嫔妃德国逍遥 民众质问：要你何用？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323054.md" target="_blank">“战狼”外交是怎样炼成的？世界报详解</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1323040.md" target="_blank">英国国防大臣：中国应回答新冠疫情暴发相关问题</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323536.md" target="_blank">“超限战”作者乔良为“武统”降温 提醒不可轻率急进</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323526.md" target="_blank">孙杨拒绝药检禁赛8年　不服裁决已提上诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323525.md" target="_blank">驻日美军进行远程反舰模拟　加强印太海权控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323524.md" target="_blank">美财长警告中国　如不遵守贸易协定将要承担后果</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323197.md" target="_blank">姆努钦：中国若违反贸易协议将承担后果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323196.md" target="_blank">个人也能申请破产了？深圳提案补中国法律短板</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323192.md" target="_blank">美副国安主任：李文亮是“五四”精神的真正继承人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323191.md" target="_blank">美国总统、国务卿、防长接二连三挞伐中国</a></li>
 
 </ul>
 </div>
