@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322932.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323262.md">中共内部报告：面临六四以来最严峻国际形势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323194.md">〖兲朝浮世绘〗中共宣传的膜拜对象居然是纳粹头子戈培尔！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322972.md">「零确诊」？ 北韩集体发烧单日21死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323109.md">路透社：中国政府内部报告称面临1989年以来最严峻国际形势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323104.md">评论 | 林保华：习近平的孤家寡人团队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200505/1323144.md">香港黄色经济圈五一黄金周反应热烈 估计营业额超过一亿港元</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323363.md" target="_blank">韩国瑜不妙了！罢韩效应升温…最新民调让蓝营高层全吓坏了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323341.md" target="_blank">中文流利的对中共鹰派推动者 谁是白宫的头号中国政策幕僚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323340.md" target="_blank">中共口罩外交破产…滞销货堆满厂外口罩厂掀倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323332.md" target="_blank">公安部整肃延烧香港 邓炳强涉僭建丑闻曝光</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322901.md" target="_blank">习近平器重的女人 拿下赵乐际大管家又威胁周强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322900.md" target="_blank">台F-16V飞福建莆田上空 疑遭恶意干扰 共军没预警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322899.md" target="_blank">班农遭央视谩骂 反而引发大陆网友好奇：他说了啥？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322898.md" target="_blank">佳木斯居民：当地疫情越发严重</a></li>
 
 </ul>
 </div>
