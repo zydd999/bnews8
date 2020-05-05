@@ -1,29 +1,29 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322973.md">习傻眼？欧盟代表公开认错 “94.5%青年愿为国献身？” 央视炮轰班农 这是真怕了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1322978.md">重重危机 中共面对世界大变局 没钱了!打住房公积金主意 中南海新规掀房地产倒闭潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323028.md">早知疫情！中共频下密令 川普蓬佩奥曝调查新进展 两会没戏!北京此处没人影</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1322975.md">金正恩露面妹妹金与正罕见陪同坐主席台专家：印证是第二把交椅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200504/1323066.md">中国内地正在开展“禁言严打”运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md">艾克曼：中共党内也很恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323172.md">秘密报告 对北京敌意空前升高当局担心引爆中美军事冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323207.md">赵立坚微博发表藏头诗 网友：笑哭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323086.md">世界要为朝鲜考虑后事了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323193.md">陈破空：意外：极左军头也反习！石正丽遭控制？习近平忽然拉抬李鹏之女 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323041.md">中国留学生回加拿大被海航拒出票 还被罚5000$</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323262.md">中共内部报告：面临六四以来最严峻国际形势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323193.md">陈破空：意外：极左军头也反习！石正丽遭控制？习近平忽然拉抬李鹏之女 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323284.md">“这确实是它们的终点！”美专家：中共将在3年内崩溃(附采访视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323306.md">孙立军落马后下一个是谁？专家都指向他....</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323307.md">川普：将公布病毒起源武汉的“强有力报告”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200505/1323317.md">网曝孟建柱被抓确切时间 上海多处房产被抄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200505/1323232.md">【公子快报】路透社爆料中共内部情报警告习近平：国际形势空前严峻，堪比1989年六四之后 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200505/1323317.md">网曝孟建柱被抓确切时间 上海多处房产被抄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323194.md">〖兲朝浮世绘〗中共宣传的膜拜对象居然是纳粹头子戈培尔！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200504/1323104.md">评论 | 林保华：习近平的孤家寡人团队</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200505/1323144.md">香港黄色经济圈五一黄金周反应热烈 估计营业额超过一亿港元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323109.md">路透社：中国政府内部报告称面临1989年以来最严峻国际形势</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323206.md">北京名中医逃亡加国 曝中共如何迫害律师</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323390.md" target="_blank">中国幸存者图找出真相政府叫他们闭嘴威吓律师不得多事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323364.md" target="_blank">江峰：比邓习公开信靠谱，中共智库说了啥？易北河精神背後玄妙看中俄迟早翻脸？川普准备好了，要带领全世界人民讨说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323234.md" target="_blank">数百万中国口罩抵达德国罗斯托克港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md" target="_blank">艾克曼：中共党内也很恐惧</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322820.md" target="_blank">陈破空：金正恩视频疑点！伤疤？边境突响枪声。习近平遭遇五眼联盟。中共大使创作动画片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322818.md" target="_blank">中国人因疫情滞留巴基斯坦 强大的祖国你在哪儿？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322810.md" target="_blank">法媒：“美中口水战升级”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322809.md" target="_blank">兵马俑对自由女神   中国拍乐高短片“病毒往事”讽美甩锅</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323392.md" target="_blank">【耳边风】武力犯台的基本判断和备战就绪的征兆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323379.md" target="_blank">黎智英吁港人不要被政权吓怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323224.md" target="_blank">共和党众议员宣布对中国渗透美国高校的行为进行调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323220.md" target="_blank">中国官方称特朗普的新关税威胁会伤害美国经济</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323130.md" target="_blank">美国拟建信任联盟，降低中国在全球供应链中的作用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323128.md" target="_blank">台湾磐石舰感染率9% 远低于戴高乐号、罗斯福号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323121.md" target="_blank">中方重施故技　再将病毒源头引向法国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323119.md" target="_blank">国际社会关注被失踪独立媒体人方斌与陈秋实</a></li>
 
 </ul>
 </div>
