@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323614.md" target="_blank">与石正丽们有合作？美国调查德州大学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323603.md" target="_blank">美对华公共外交新突破：用中文和中国文化阐述民主和自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323602.md" target="_blank">时事大家谈热点快评：全力推进供应链移出中国 美国打算怎样做？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323601.md" target="_blank">《病毒往事》爆红网络 中国宣传、智囊机构加入舆论战</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323476.md" target="_blank">台湾外交部：世卫组织有权邀请会员  中国不代表台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323475.md" target="_blank">西藏政治犯次仁巴珠逝世   曾因拉萨抗议被判刑八年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323461.md" target="_blank">全球疫情动向：各国逐步启封 顶住压力推动经济运转</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323459.md" target="_blank">两国提案宝岛参加世界卫生大会　台外交部：会有更多国家支持</a></li>
 
 </ul>
 </div>
