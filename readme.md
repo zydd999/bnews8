@@ -14,10 +14,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323075.md">特朗普︰中若不依承诺采购2000亿美元产品　将撕毁贸易协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323306.md">孙立军落马后下一个是谁？专家都指向他....</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323307.md">川普：将公布病毒起源武汉的“强有力报告”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200505/1323317.md">网曝孟建柱被抓确切时间 上海多处房产被抄</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200505/1323232.md">【公子快报】路透社爆料中共内部情报警告习近平：国际形势空前严峻，堪比1989年六四之后 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200505/1323125.md">斯坦福大学对大陆生取消接收 实施零录取</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323340.md">中共口罩外交破产…滞销货堆满厂外口罩厂掀倒闭潮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200505/1323232.md">【公子快报】路透社爆料中共内部情报警告习近平：国际形势空前严峻，堪比1989年六四之后 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200504/1323114.md">美政府倡议「经济繁荣网路」 力推全球供应链去中国化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200504/1323029.md">追责新冠疫源致方寸大乱　官媒駡街方式护主成笑柄</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323194.md">〖兲朝浮世绘〗中共宣传的膜拜对象居然是纳粹头子戈培尔！</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323426.md" target="_blank">川普酝酿完美风暴，习近平担心的事情要发生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323390.md" target="_blank">中国幸存者图找出真相政府叫他们闭嘴威吓律师不得多事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323364.md" target="_blank">江峰：比邓习公开信靠谱，中共智库说了啥？易北河精神背後玄妙看中俄迟早翻脸？川普准备好了，要带领全世界人民讨说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323234.md" target="_blank">数百万中国口罩抵达德国罗斯托克港</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322879.md" target="_blank">天亮时分：三八线南北韩交锋与金正恩的露面;四封蹊跷的公开信显示习近平处境危殆;那些中南海的恩怨旧事(政论天下第160集 20200503)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322820.md" target="_blank">陈破空：金正恩视频疑点！伤疤？边境突响枪声。习近平遭遇五眼联盟。中共大使创作动画片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322818.md" target="_blank">中国人因疫情滞留巴基斯坦 强大的祖国你在哪儿？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200504/1322810.md" target="_blank">法媒：“美中口水战升级”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323425.md" target="_blank">台湾：世卫应摆脱中国控制，让台湾参与抗击新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323419.md" target="_blank">美确诊新冠肺炎逾118万　俄单日再增破万宗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323392.md" target="_blank">【耳边风】武力犯台的基本判断和备战就绪的征兆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323379.md" target="_blank">黎智英吁港人不要被政权吓怕</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323142.md" target="_blank">白宫博明谈「五四精神」　政府压制普通行为往往招致更大胆的英勇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323131.md" target="_blank">专家：美澳希望遏制北京在南中国海的扩张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323130.md" target="_blank">美国拟建信任联盟，降低中国在全球供应链中的作用</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323128.md" target="_blank">台湾磐石舰感染率9% 远低于戴高乐号、罗斯福号</a></li>
 
 </ul>
 </div>
