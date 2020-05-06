@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323760.md">黑龙江人在哭：我们真的快支撑不下去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323672.md">中共阻外国公民离境 美加澳等国抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323650.md">中国网友大崩溃！ 千万别让媳妇看见 美国务卿的老婆不务正业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323650.md">中国网友大崩溃！ 千万别让媳妇看见 美国务卿的老婆不务正业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323814.md">习胜败存亡引爆五大持续战 中共梦瞬间玩完全球两极化 朋友圈缩水 强化意识形态</a></li>
@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323727.md">中共13军副军长崔国栋98年被枪杀内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323821.md">【虎门大桥】桥面水马事后紧急撤走振动持续至今午仍未停止</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200506/1323904.md">独！班农提议冻结中国官员在美资产作赔偿！央视回批班农唯恐天下不乱！江派孟建柱传被逮？资产被抄家？！【年代向钱看】20200506</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323649.md">美、加追责 世卫倒戈 北京四面楚歌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323638.md">宝胜快评：美军刺杀马杜罗行动失败？多人抢滩时阵亡！共军鹰派认怂、鹰鸽合流举世惊诧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323737.md">女子和闺蜜在酒店睡觉 半夜却遭已婚前男友强奸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324057.md" target="_blank">文昭：中共鹰派将领「逆反」阻攻台，美国干预台海的第四种方法；「超限战」与川普的「终极制裁」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md" target="_blank">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md" target="_blank">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324006.md" target="_blank">北京拒绝国际调查病毒源头平添疑惑</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323629.md" target="_blank">英国新冠病毒死亡总数超过意大利居欧洲首位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323628.md" target="_blank">马克龙：今年暑假欧洲以外国际出行将受到限制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323607.md" target="_blank">中国两会前夕 武汉疫情死者家属及学者呼吁建立亡人纪念碑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323581.md" target="_blank">长征五号B运载火箭首飞成功 中国计划2022年前后建成太空站</a></li>
 
 </ul>
 </div>
