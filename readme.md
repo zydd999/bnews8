@@ -8,21 +8,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323631.md">陈破空：北京鹰派纷纷发声，言论反常！习近平崇拜洋大人。惹毛俄罗斯。美国高官纪念五四，中文演讲惊世 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323704.md">华裔病毒研究者遭枪杀 更多细节流出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323672.md">中共阻外国公民离境 美加澳等国抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323600.md">〖兲朝浮世绘〗你们把习总忽悠得鸡血灌脑 现在再想抽出鸡血可能吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323650.md">中国网友大崩溃！ 千万别让媳妇看见 美国务卿的老婆不务正业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323600.md">〖兲朝浮世绘〗你们把习总忽悠得鸡血灌脑 现在再想抽出鸡血可能吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323650.md">中国网友大崩溃！ 千万别让媳妇看见 美国务卿的老婆不务正业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323814.md">习胜败存亡引爆五大持续战 中共梦瞬间玩完全球两极化 朋友圈缩水 强化意识形态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323671.md">中共推个人破产法 背后的3个缘由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323756.md">武汉疫情生变？国务院再次派驻专门小组</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323814.md">习胜败存亡引爆五大持续战 中共梦瞬间玩完全球两极化 朋友圈缩水 强化意识形态</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323547.md">习近平引爆五大持续战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323727.md">中共13军副军长崔国栋98年被枪杀内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323649.md">美、加追责 世卫倒戈 北京四面楚歌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323589.md">范冰冰微博晒暴肥吓坏粉丝 海外社媒IG贴文吐露心声</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323955.md" target="_blank">香港放宽防疫禁令 港澳办即发稿“除黑暴”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323945.md" target="_blank">英议会保守党要员：英政府对华政策正发生思维转变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323944.md" target="_blank">费加罗：中国拒绝国际调查病毒来源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323938.md" target="_blank">杜特尔特政府介入 菲国最大媒体停播</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323573.md" target="_blank">陈破空：美国白宫副国安顾问博明中文演讲（完整版）2020年5月4日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323569.md" target="_blank">长征五号B运载火箭首飞成功 中国计划2022年前建成太空站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323561.md" target="_blank">萧铭：萧茗采访班农：你见了国内出逃科学家？央视为何选此时攻击你？美国情报机构有警告你吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323558.md" target="_blank">孙杨最后时刻提起上诉 网友：真为难啊</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323953.md" target="_blank">上海“银来”涉非法集资 苦主血本无归请愿索偿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323952.md" target="_blank">国际人权组织敦促中国  停止对非洲人的新冠病毒歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323941.md" target="_blank">疫情期间针对英国华人的仇恨犯罪猛增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323932.md" target="_blank">中国华大基因集团获准为澳洲提供新冠病毒检测设备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323923.md" target="_blank">中国4月进出口或现两位数降幅 今年GDP增长目标预计最高3%</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323715.md" target="_blank">屡下打击宗教文件 2019年吉林取缔逾160处基督教聚会点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323714.md" target="_blank">新疆监控技术再升级：社区普及无感知系统 访客信息全记录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323705.md" target="_blank">候任国家情报总监：美情报界将集中精力查明新冠病毒来源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323626.md" target="_blank">埃斯珀：美军加强南中国海行动向北京发出明确信号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323614.md" target="_blank">与石正丽们有合作？美国调查德州大学</a></li>
 
 </ul>
 </div>
