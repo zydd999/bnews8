@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323672.md">中共阻外国公民离境 美加澳等国抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323650.md">中国网友大崩溃！ 千万别让媳妇看见 美国务卿的老婆不务正业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323814.md">习胜败存亡引爆五大持续战 中共梦瞬间玩完全球两极化 朋友圈缩水 强化意识形态</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323823.md">长征五号B火箭 中国首个柔性充气式货物试验舱返回时出现异常</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324066.md" target="_blank">欧盟要求评估世卫组织应对新冠表现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324064.md" target="_blank">美国计划在亚太部署陆基战斧巡航导弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324039.md" target="_blank">新冠维权路漫漫，逝者家属受监控威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324029.md" target="_blank">“奶茶联盟” 崛起 反击网上义和团</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323953.md" target="_blank">上海“银来”涉非法集资 苦主血本无归请愿索偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323952.md" target="_blank">国际人权组织敦促中国  停止对非洲人的新冠病毒歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323941.md" target="_blank">疫情期间针对英国华人的仇恨犯罪猛增</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323932.md" target="_blank">中国华大基因集团获准为澳洲提供新冠病毒检测设备</a></li>
 
 </ul>
 </div>
