@@ -8,7 +8,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323631.md">陈破空：北京鹰派纷纷发声，言论反常！习近平崇拜洋大人。惹毛俄罗斯。美国高官纪念五四，中文演讲惊世 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323672.md">中共阻外国公民离境 美加澳等国抗议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323600.md">〖兲朝浮世绘〗你们把习总忽悠得鸡血灌脑 现在再想抽出鸡血可能吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323650.md">中国网友大崩溃！ 千万别让媳妇看见 美国务卿的老婆不务正业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
@@ -17,11 +16,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323671.md">中共推个人破产法 背后的3个缘由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323756.md">武汉疫情生变？国务院再次派驻专门小组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323942.md">郭文贵再爆：武汉实验室5人外逃 有人“肩上带星”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323727.md">中共13军副军长崔国栋98年被枪杀内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323821.md">【虎门大桥】桥面水马事后紧急撤走振动持续至今午仍未停止</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323942.md">郭文贵再爆：武汉实验室5人外逃 有人“肩上带星”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200506/1323904.md">独！班农提议冻结中国官员在美资产作赔偿！央视回批班农唯恐天下不乱！江派孟建柱传被逮？资产被抄家？！【年代向钱看】20200506</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323649.md">美、加追责 世卫倒戈 北京四面楚歌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
