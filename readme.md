@@ -19,9 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200506/1323904.md">独！班农提议冻结中国官员在美资产作赔偿！央视回批班农唯恐天下不乱！江派孟建柱传被逮？资产被抄家？！【年代向钱看】20200506</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323649.md">美、加追责 世卫倒戈 北京四面楚歌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323737.md">女子和闺蜜在酒店睡觉 半夜却遭已婚前男友强奸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md" target="_blank">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324057.md" target="_blank">文昭：中共鹰派将领「逆反」阻攻台，美国干预台海的第四种方法；「超限战」与川普的「终极制裁」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md" target="_blank">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md" target="_blank">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323630.md" target="_blank">特朗普参观口罩厂：“不会像某些国家生产没用口罩”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323629.md" target="_blank">英国新冠病毒死亡总数超过意大利居欧洲首位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323628.md" target="_blank">马克龙：今年暑假欧洲以外国际出行将受到限制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323607.md" target="_blank">中国两会前夕 武汉疫情死者家属及学者呼吁建立亡人纪念碑</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324064.md" target="_blank">美国计划在亚太部署陆基战斧巡航导弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324039.md" target="_blank">新冠维权路漫漫，逝者家属受监控威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324029.md" target="_blank">“奶茶联盟” 崛起 反击网上义和团</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324028.md" target="_blank">自由之家报告：民主在中欧和中亚&#8221;崩解&#8221;    中国是推手</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323952.md" target="_blank">国际人权组织敦促中国  停止对非洲人的新冠病毒歧视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323941.md" target="_blank">疫情期间针对英国华人的仇恨犯罪猛增</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323932.md" target="_blank">中国华大基因集团获准为澳洲提供新冠病毒检测设备</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323923.md" target="_blank">中国4月进出口或现两位数降幅 今年GDP增长目标预计最高3%</a></li>
 
 </ul>
 </div>
