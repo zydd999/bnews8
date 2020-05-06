@@ -14,12 +14,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200505/1323232.md">【公子快报】路透社爆料中共内部情报警告习近平：国际形势空前严峻，堪比1989年六四之后 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323426.md">川普酝酿完美风暴，习近平担心的事情要发生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323340.md">中共口罩外交破产…滞销货堆满厂外口罩厂掀倒闭潮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323561.md">萧铭：萧茗采访班农：你见了国内出逃科学家？央视为何选此时攻击你？美国情报机构有警告你吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323364.md">江峰：比邓习公开信靠谱，中共智库说了啥？易北河精神背後玄妙看中俄迟早翻脸？川普准备好了，要带领全世界人民讨说法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323561.md">萧铭：萧茗采访班农：你见了国内出逃科学家？央视为何选此时攻击你？美国情报机构有警告你吗？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323456.md">五一假期 北京王府井没人！ 反制中共 川普发动5国挺台 加国会给世卫副手发传票</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200505/1323386.md">有这4状况钟南山：可能是无症状患者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323332.md">公安部整肃延烧香港 邓炳强涉僭建丑闻曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323375.md">世卫特使：人类也许永远造不出新冠疫苗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323332.md">公安部整肃延烧香港 邓炳强涉僭建丑闻曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323488.md">天亮时分：路透社独家披露的国安内部报告说了什么?美国逐步重启经济,对中共是重大坏消息;也说五四101周年(政论天下第161集 20200504) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200505/1323254.md">张朴&#65306;前妻柯玲玲眼中的习近平&#65288;连载二&#65289;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200505/1323351.md">香蕉和此物一起吃，可安神助眠“沾床就睡”！</a></li>
@@ -36,7 +36,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323630.md" target="_blank">特朗普参观口罩厂：“不会像某些国家生产没用口罩”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323629.md" target="_blank">英国新冠病毒死亡总数超过意大利居欧洲首位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323628.md" target="_blank">马克龙：今年暑假欧洲以外国际出行将受到限制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323623.md" target="_blank">病毒来源：华盛顿向情报界施加压力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323607.md" target="_blank">中国两会前夕 武汉疫情死者家属及学者呼吁建立亡人纪念碑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323581.md" target="_blank">长征五号B运载火箭首飞成功 中国计划2022年前后建成太空站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323580.md" target="_blank">美“中国通”官员追忆“五四”精神： 何为爱国?</a></li>
@@ -57,6 +56,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323234.md" target="_blank">数百万中国口罩抵达德国罗斯托克港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323205.md" target="_blank">艾克曼：中共党内也很恐惧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323202.md" target="_blank">文昭：美国疫苗年底面世，中共有难；五眼联盟再发威，掌握「大量证据」；金正恩露面未解的疑问</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323200.md" target="_blank">欧盟牵头国际社会筹得74亿欧元研发新冠病毒疫苗</a></li>
 
 </ul>
 </div>
