@@ -2,10 +2,9 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323634.md">华裔科学家遇害！离研究中共病毒重大发现只差一步</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323561.md">萧铭：萧茗采访班农：你见了国内出逃科学家？央视为何选此时攻击你？美国情报机构有警告你吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323627.md">狱中薄熙来致习近平公开信</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323760.md">黑龙江人在哭：我们真的快支撑不下去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323631.md">陈破空：北京鹰派纷纷发声，言论反常！习近平崇拜洋大人。惹毛俄罗斯。美国高官纪念五四，中文演讲惊世 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323760.md">黑龙江人在哭：我们真的快支撑不下去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323704.md">华裔病毒研究者遭枪杀 更多细节流出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323672.md">中共阻外国公民离境 美加澳等国抗议</a></li>
@@ -20,9 +19,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323727.md">中共13军副军长崔国栋98年被枪杀内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323821.md">【虎门大桥】桥面水马事后紧急撤走振动持续至今午仍未停止</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323649.md">美、加追责 世卫倒戈 北京四面楚歌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323821.md">【虎门大桥】桥面水马事后紧急撤走振动持续至今午仍未停止</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323589.md">范冰冰微博晒暴肥吓坏粉丝 海外社媒IG贴文吐露心声</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
