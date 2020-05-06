@@ -9,7 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323634.md">华裔科学家遇害！离研究中共病毒重大发现只差一步</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323426.md">川普酝酿完美风暴，习近平担心的事情要发生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323561.md">萧铭：萧茗采访班农：你见了国内出逃科学家？央视为何选此时攻击你？美国情报机构有警告你吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200505/1323364.md">江峰：比邓习公开信靠谱，中共智库说了啥？易北河精神背後玄妙看中俄迟早翻脸？川普准备好了，要带领全世界人民讨说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323631.md">陈破空：北京鹰派纷纷发声，言论反常！习近平崇拜洋大人。惹毛俄罗斯。美国高官纪念五四，中文演讲惊世 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323456.md">五一假期 北京王府井没人！ 反制中共 川普发动5国挺台 加国会给世卫副手发传票</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323627.md">狱中薄熙来致习近平公开信</a></li>
@@ -21,6 +20,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323375.md">世卫特使：人类也许永远造不出新冠疫苗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323704.md">华裔病毒研究者遭枪杀 更多细节流出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200505/1323435.md">时事大家谈：矛头直指武汉病毒所，美国情报部门发现了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323671.md">中共推个人破产法 背后的3个缘由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200505/1323547.md">习近平引爆五大持续战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323649.md">美、加追责 世卫倒戈 北京四面楚歌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323638.md">宝胜快评：美军刺杀马杜罗行动失败？多人抢滩时阵亡！共军鹰派认怂、鹰鸽合流举世惊诧</a></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md" target="_blank">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323770.md" target="_blank">“看样子我要再买一把枪”高智晟太太耿和家凌晨两点传出枪声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md" target="_blank">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323760.md" target="_blank">黑龙江人在哭：我们真的快支撑不下去了</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323377.md" target="_blank">原油宝事件惊动中央！刘鹤假期开会释一重要信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323375.md" target="_blank">世卫特使：人类也许永远造不出新冠疫苗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323363.md" target="_blank">韩国瑜不妙了！罢韩效应升温…最新民调让蓝营高层全吓坏了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200505/1323341.md" target="_blank">中文流利的对中共鹰派推动者 谁是白宫的头号中国政策幕僚</a></li>
 
 </ul>
 </div>
