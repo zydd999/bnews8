@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323737.md">女子和闺蜜在酒店睡觉 半夜却遭已婚前男友强奸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323737.md">女子和闺蜜在酒店睡觉 半夜却遭已婚前男友强奸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323823.md">长征五号B火箭 中国首个柔性充气式货物试验舱返回时出现异常</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323939.md" target="_blank">【瘟疫与中共】澳洲坚查真相 有效阻病毒蔓延</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md" target="_blank">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324057.md" target="_blank">文昭：中共鹰派将领「逆反」阻攻台，美国干预台海的第四种方法；「超限战」与川普的「终极制裁」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md" target="_blank">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323631.md" target="_blank">陈破空：北京鹰派纷纷发声，言论反常！习近平崇拜洋大人。惹毛俄罗斯。美国高官纪念五四，中文演讲惊世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323630.md" target="_blank">特朗普参观口罩厂：“不会像某些国家生产没用口罩”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323629.md" target="_blank">英国新冠病毒死亡总数超过意大利居欧洲首位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323628.md" target="_blank">马克龙：今年暑假欧洲以外国际出行将受到限制</a></li>
 
 </ul>
 </div>
