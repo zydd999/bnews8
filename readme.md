@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324018.md">震惊！伊朗1:10000换币 人民币呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324032.md">〖兲朝浮世绘〗倒习势力与习近平的博弈？有待证实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324128.md">中共淫乱的前生今世(6)党官淫乱校园</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324002.md">中共航天实验屡战屡败 长征五号B返回舱也出现异常</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324372.md" target="_blank">中国日报审查欧盟27国驻华大使联名刊文 欧盟驻华代表团团长表遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324353.md" target="_blank">欧盟望在九月与中国达成保护外国投资协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324352.md" target="_blank">“人质外交”?维族学者消失三年后突现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324340.md" target="_blank">白宫新任发言人：美中关系目前令人失望与懊恼</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323938.md" target="_blank">杜特尔特政府介入 菲国最大媒体停播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323902.md" target="_blank">BBC揭秘新冠病毒如何传入中东</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323899.md" target="_blank">江启臣：中共一再杯葛台湾参与世卫组织 引发国人反感</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323837.md" target="_blank">日本地方纷纷自定标准缓和紧急事态宣言</a></li>
 
 </ul>
 </div>
