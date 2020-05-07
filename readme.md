@@ -4,17 +4,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323942.md">郭文贵再爆：武汉实验室5人外逃 有人“肩上带星”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324018.md">震惊！伊朗1:10000换币 人民币呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324032.md">〖兲朝浮世绘〗倒习势力与习近平的博弈？有待证实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324128.md">中共淫乱的前生今世(6)党官淫乱校园</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324023.md">大陆玉米价涨至5年新高 粮食危机逼近？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324071.md">美国酒店“陪睡”服务？如果对上眼 欢迎带回家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324071.md">美国酒店“陪睡”服务？如果对上眼 欢迎带回家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324002.md">中共航天实验屡战屡败 长征五号B返回舱也出现异常</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324006.md">北京拒绝国际调查病毒源头平添疑惑</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324353.md" target="_blank">欧盟望在九月与中国达成保护外国投资协议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324352.md" target="_blank">“人质外交”?维族学者消失三年后突现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324340.md" target="_blank">白宫新任发言人：美中关系目前令人失望与懊恼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324339.md" target="_blank">特朗普对中国是否遵守贸易协议表观望 两国代表或最快下周会谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324338.md" target="_blank">两会仍将是外界观察中国政治、经济走向的重要风向标 &#8211; 观察中国</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323902.md" target="_blank">BBC揭秘新冠病毒如何传入中东</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323899.md" target="_blank">江启臣：中共一再杯葛台湾参与世卫组织 引发国人反感</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323837.md" target="_blank">日本地方纷纷自定标准缓和紧急事态宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323834.md" target="_blank">疫情冲击罢韩案投票所不足官方首度向民间征求场地不惜搭帐篷投票</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323826.md" target="_blank">邓炳强指有政治人物煽动暴动但难有证据“正正是恶毒之处”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324354.md" target="_blank">曾为709律师治病  　流亡加国中医揭中共酷刑迫害</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324350.md" target="_blank">印尼就悬挂中国国旗的渔船海葬印尼船员事件召见中国大使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md" target="_blank">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324348.md" target="_blank">美国务院暂缓提交香港报告 观察北京是否进一步削弱香港自治</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324347.md" target="_blank">内部文件成瞒疫新证     石家庄一月中开防疫会</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324263.md" target="_blank">重量级议员欲推法案制裁中国   美议员史葛：拒买中国货是最有力的惩罚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324262.md" target="_blank">美参议员提案立法审查全球国际组织   美国日本纽西兰支持台湾参加WHA</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324261.md" target="_blank">涉窃130件军事机密    台军舰士官长被判刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324247.md" target="_blank">武汉肺炎期间打击宗教行动不停 中共再捕325名基督徒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324241.md" target="_blank">美军机高频现台湾    环球网：军舰缺席还有军机在</a></li>
 
 </ul>
 </div>
