@@ -16,10 +16,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324441.md" target="_blank">推特上的中国：“信号”这么多，关键词不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324431.md" target="_blank">都是武汉肺炎病毒惹的祸 欧盟又遭中国施压删文</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324430.md" target="_blank">反黑组警长涉私吞冰毒证物转售图利　不排除有更多人被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md" target="_blank">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324345.md" target="_blank">台湾陆委会：没有现任政府科研人员参与中国“千人计划”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324341.md" target="_blank">蓬佩奥向谭德赛喊话 邀请台湾出席世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324336.md" target="_blank">台湾抗议世卫错贴标签 世卫称台湾参会应由全体会员决定</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324335.md" target="_blank">失踪4个月后再度露面     文东海：今后还有更困难的时候</a></li>
 
 </ul>
 </div>
