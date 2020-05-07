@@ -12,7 +12,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324170.md">内蒙古“教父”级黑老大被除！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324069.md">【公子快报】美国大教授CNN撰文：总统不要脸，中国好棒棒！千错万错都是川普的错！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324101.md">〖微博谈〗知道人民是谁吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324072.md">中国第一股股王被谁焚尸灭迹</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324476.md" target="_blank">特朗普建议普京让中国参与限制军备新一轮谈判</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md" target="_blank">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324449.md" target="_blank">中国2019海洋灾害公报和海平面公报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324428.md" target="_blank">方方：关于 （10）- 关于二湘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324421.md" target="_blank">中国：疫情后的武汉 高中生回校复课</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md" target="_blank">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md" target="_blank">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324006.md" target="_blank">北京拒绝国际调查病毒源头平添疑惑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323994.md" target="_blank">方方：关于（9）- 关于海外版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323955.md" target="_blank">香港放宽防疫禁令 港澳办即发稿“除黑暴”</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324481.md" target="_blank">中国军方骇客对亚太国家发动网络攻击</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324480.md" target="_blank">专访美国国务院发言人：美支持台湾成为联合国周边组织观察员</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324479.md" target="_blank">疫情打击贸易 蓬佩奥称美中谈判大门敞开</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324478.md" target="_blank">时事大家谈热点快评：姆努钦警告中国若违反协议 “后果很严重” 专家怎么看？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md" target="_blank">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324468.md" target="_blank">新冠疫情加剧粮食危机    中国大买美国猪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md" target="_blank">微信海外版监控不停歇    或面临调查和下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md" target="_blank">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324447.md" target="_blank">加媒体称中国隐瞒疫情又在全球搜刮医疗物资 加拿大华人有不同见解</a></li>
@@ -113,12 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324387.md" target="_blank">台情报首长：美中之间不排除武力相向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324379.md" target="_blank">Facebok 删除自由亚洲电台越南语部贴文    涉及批评越共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324378.md" target="_blank">印尼召见中方大使  要求澄清船员死亡事件</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324354.md" target="_blank">曾为709律师治病  　流亡加国中医揭中共酷刑迫害</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324350.md" target="_blank">印尼就悬挂中国国旗的渔船海葬印尼船员事件召见中国大使</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md" target="_blank">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324348.md" target="_blank">美国务院暂缓提交香港报告 观察北京是否进一步削弱香港自治</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324347.md" target="_blank">内部文件成瞒疫新证     石家庄一月中开防疫会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324346.md" target="_blank">彭博社：美中贸易谈判代表最快下周举行电话会谈</a></li>
 
 </ul>
 </div>
