@@ -10,13 +10,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324071.md">美国酒店“陪睡”服务？如果对上眼 欢迎带回家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324105.md">韩国瑜将遭到民众罢免？最新民调数字曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324170.md">内蒙古“教父”级黑老大被除！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324069.md">【公子快报】美国大教授CNN撰文：总统不要脸，中国好棒棒！千错万错都是川普的错！ </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324101.md">〖微博谈〗知道人民是谁吗？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md" target="_blank">微信海外版监控不停歇    或面临调查和下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md" target="_blank">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324447.md" target="_blank">加媒体称中国隐瞒疫情又在全球搜刮医疗物资 加拿大华人有不同见解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324441.md" target="_blank">推特上的中国：“信号”这么多，关键词不变</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324348.md" target="_blank">美国务院暂缓提交香港报告 观察北京是否进一步削弱香港自治</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324347.md" target="_blank">内部文件成瞒疫新证     石家庄一月中开防疫会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324346.md" target="_blank">彭博社：美中贸易谈判代表最快下周举行电话会谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324345.md" target="_blank">台湾陆委会：没有现任政府科研人员参与中国“千人计划”</a></li>
 
 </ul>
 </div>
