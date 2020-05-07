@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
