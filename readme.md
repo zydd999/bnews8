@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200506/1323904.md">独！班农提议冻结中国官员在美资产作赔偿！央视回批班农唯恐天下不乱！江派孟建柱传被逮？资产被抄家？！【年代向钱看】20200506</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324018.md">震惊！伊朗1:10000换币 人民币呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324032.md">〖兲朝浮世绘〗倒习势力与习近平的博弈？有待证实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324023.md">大陆玉米价涨至5年新高 粮食危机逼近？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324071.md">美国酒店“陪睡”服务？如果对上眼 欢迎带回家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324002.md">中共航天实验屡战屡败 长征五号B返回舱也出现异常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324266.md" target="_blank">观察家看“国骂”成为中国对内对外宣传的新口径</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324265.md" target="_blank">港交所总裁李小加明年10月约满    不会续任</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324264.md" target="_blank">传美允华为参与制定5G标准   华为回应：非涉产品交易</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324263.md" target="_blank">重量级议员欲推法案制裁中国   美议员史葛：拒买中国货是最有力的惩罚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324262.md" target="_blank">美参议员提案立法审查全球国际组织   美国日本纽西兰支持台湾参加WHA</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324261.md" target="_blank">涉窃130件军事机密    台军舰士官长被判刑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324247.md" target="_blank">武汉肺炎期间打击宗教行动不停 中共再捕325名基督徒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324241.md" target="_blank">美军机高频现台湾    环球网：军舰缺席还有军机在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324227.md" target="_blank">【耳边风】「武汉肺炎」VS「非洲猪瘟」　中共有口话人冇口话自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324213.md" target="_blank">继封堵华为后 美国或将切割电网中的中国设备</a></li>
@@ -112,13 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324020.md" target="_blank">蓬佩奥：中国政府本可避免世界几十万人死于新冠病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324014.md" target="_blank">美俄核裁军条约明年失效 是否续约关键在中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324008.md" target="_blank">美国务院推迟向国会递交香港自治状况报告  预计北京两会之后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324007.md" target="_blank">蓬佩奥重申向中国追责疫情     华春莹：没有证据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324003.md" target="_blank">全球「反中浪潮」达89后的新高点　北京做好开战最坏打算？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323998.md" target="_blank">陈旭：能否邀请世卫专家赴中国调查    须等到疫情之后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323997.md" target="_blank">清海阿亚桑扎案二审延期   藏人团体谴责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323991.md" target="_blank">欧盟-巴尔干六国开峰会抗衡中俄影响力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323990.md" target="_blank">亚马逊被指向黑名单企业采购热像仪引不满</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323989.md" target="_blank">台学者：蔡英文就职演说大陆不期待还怕受伤害</a></li>
 
 </ul>
 </div>
