@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323863.md">黑龙江民众奋起质问警察 武汉生变 国务院再派驻 川普誓揭秘说没和习通话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323814.md">习胜败存亡引爆五大持续战 中共梦瞬间玩完全球两极化 朋友圈缩水 强化意识形态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323942.md">郭文贵再爆：武汉实验室5人外逃 有人“肩上带星”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323814.md">习胜败存亡引爆五大持续战 中共梦瞬间玩完全球两极化 朋友圈缩水 强化意识形态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324018.md">震惊！伊朗1:10000换币 人民币呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200506/1323904.md">独！班农提议冻结中国官员在美资产作赔偿！央视回批班农唯恐天下不乱！江派孟建柱传被逮？资产被抄家？！【年代向钱看】20200506</a></li>
@@ -16,11 +16,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323823.md">长征五号B火箭 中国首个柔性充气式货物试验舱返回时出现异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324023.md">大陆玉米价涨至5年新高 粮食危机逼近？</a></li>
@@ -63,6 +63,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md" target="_blank">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md" target="_blank">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md" target="_blank">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md" target="_blank">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324128.md" target="_blank">中共淫乱的前生今世(6)党官淫乱校园</a></li>
@@ -86,8 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323756.md" target="_blank">武汉疫情生变？国务院再次派驻专门小组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323755.md" target="_blank">纽约时报：6月每天死3000 美国白宫澄清：不是白宫报告 也没有科学依据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md" target="_blank">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md" target="_blank">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323719.md" target="_blank">12小时14万次闪电 湖北湖南网友被吓醒</a></li>
 
 </ul>
 </div>
