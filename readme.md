@@ -4,7 +4,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324032.md">〖兲朝浮世绘〗倒习势力与习近平的博弈？有待证实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324128.md">中共淫乱的前生今世(6)党官淫乱校园</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
@@ -19,11 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324105.md">韩国瑜将遭到民众罢免？最新民调数字曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324170.md">内蒙古“教父”级黑老大被除！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324069.md">【公子快报】美国大教授CNN撰文：总统不要脸，中国好棒棒！千错万错都是川普的错！ </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324449.md" target="_blank">中国2019海洋灾害公报和海平面公报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324428.md" target="_blank">方方：关于 （10）- 关于二湘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324421.md" target="_blank">中国：疫情后的武汉 高中生回校复课</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324404.md" target="_blank">陈破空：陈破空谈《常识》（之47）：明哲保身，中国人很聪明？</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324006.md" target="_blank">北京拒绝国际调查病毒源头平添疑惑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323994.md" target="_blank">方方：关于（9）- 关于海外版</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323955.md" target="_blank">香港放宽防疫禁令 港澳办即发稿“除黑暴”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200506/1323945.md" target="_blank">英议会保守党要员：英政府对华政策正发生思维转变</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md" target="_blank">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324447.md" target="_blank">加媒体称中国隐瞒疫情又在全球搜刮医疗物资 加拿大华人有不同见解</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324441.md" target="_blank">推特上的中国：“信号”这么多，关键词不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324431.md" target="_blank">都是武汉肺炎病毒惹的祸 欧盟又遭中国施压删文</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324347.md" target="_blank">内部文件成瞒疫新证     石家庄一月中开防疫会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324346.md" target="_blank">彭博社：美中贸易谈判代表最快下周举行电话会谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324345.md" target="_blank">台湾陆委会：没有现任政府科研人员参与中国“千人计划”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324341.md" target="_blank">蓬佩奥向谭德赛喊话 邀请台湾出席世卫大会</a></li>
 
 </ul>
 </div>
