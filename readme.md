@@ -19,9 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324034.md">孔杰荣：邓小平富有弹性   习近平绝不妥协</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
