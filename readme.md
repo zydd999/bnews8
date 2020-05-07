@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323704.md">华裔病毒研究者遭枪杀 更多细节流出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323760.md">黑龙江人在哭：我们真的快支撑不下去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
@@ -11,19 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323942.md">郭文贵再爆：武汉实验室5人外逃 有人“肩上带星”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323756.md">武汉疫情生变？国务院再次派驻专门小组</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324018.md">震惊！伊朗1:10000换币 人民币呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200506/1323904.md">独！班农提议冻结中国官员在美资产作赔偿！央视回批班农唯恐天下不乱！江派孟建柱传被逮？资产被抄家？！【年代向钱看】20200506</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323727.md">中共13军副军长崔国栋98年被枪杀内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324018.md">震惊！伊朗1:10000换币 人民币呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323821.md">【虎门大桥】桥面水马事后紧急撤走振动持续至今午仍未停止</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200506/1323739.md">老北京茶馆：紧急保护石正丽！追责四起，党情急甩锅法国？茶友亲历的后义情真实生活（第302集/2020/05/05） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323737.md">女子和闺蜜在酒店睡觉 半夜却遭已婚前男友强奸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324032.md">〖兲朝浮世绘〗倒习势力与习近平的博弈？有待证实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324122.md" target="_blank">死都不怕却怕共产党的吸毒者：讲的一个鬼故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324105.md" target="_blank">韩国瑜将遭到民众罢免？最新民调数字曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md" target="_blank">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324023.md" target="_blank">大陆玉米价涨至5年新高 粮食危机逼近？</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323672.md" target="_blank">中共阻外国公民离境 美加澳等国抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323671.md" target="_blank">中共推个人破产法 背后的3个缘由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323670.md" target="_blank">别忘这个大炸弹！全球通胀恐“报复式反弹”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323669.md" target="_blank">野村大佬：散户走货吧！今年夏天恐经历“苦难2.0”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324123.md" target="_blank">又一重量级美议员即将推出法案 制裁中国隐瞒新冠疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324091.md" target="_blank">白宫发言人：美中关系目前“令人失望与懊恼”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324066.md" target="_blank">欧盟要求评估世卫组织应对新冠表现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324064.md" target="_blank">美国计划在亚太部署陆基战斧巡航导弹</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323976.md" target="_blank">自由之家报告：中国对中欧和中亚民主制度产生了潜移默化的影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1323974.md" target="_blank">两岸政治大事都因防疫精简  台海周边军事动作频繁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323953.md" target="_blank">上海“银来”涉非法集资 苦主血本无归请愿索偿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200506/1323952.md" target="_blank">国际人权组织敦促中国  停止对非洲人的新冠病毒歧视</a></li>
 
 </ul>
 </div>
