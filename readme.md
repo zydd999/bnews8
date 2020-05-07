@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324065.md">科学家发现最大恒星是太阳的50亿倍 你能来到这个世界本身就是一个奇迹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324071.md">美国酒店“陪睡”服务？如果对上眼 欢迎带回家</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324023.md">大陆玉米价涨至5年新高 粮食危机逼近？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324071.md">美国酒店“陪睡”服务？如果对上眼 欢迎带回家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
