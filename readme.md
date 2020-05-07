@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324488.md" target="_blank">二战胜利纪念马克龙致电普京强调法俄建立“战略对话”的重要性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md" target="_blank">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324476.md" target="_blank">特朗普建议普京让中国参与限制军备新一轮谈判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md" target="_blank">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324449.md" target="_blank">中国2019海洋灾害公报和海平面公报</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md" target="_blank">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324057.md" target="_blank">文昭：中共鹰派将领「逆反」阻攻台，美国干预台海的第四种方法；「超限战」与川普的「终极制裁」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md" target="_blank">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md" target="_blank">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324006.md" target="_blank">北京拒绝国际调查病毒源头平添疑惑</a></li>
 
 </ul>
 </div>
