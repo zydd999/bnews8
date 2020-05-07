@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323760.md">黑龙江人在哭：我们真的快支撑不下去了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323827.md">中美科技战开打6厂成赢家 此事惊动习中央！假期拍板 中共推个人破产法水真深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323797.md">习近平面临生死抉择？几封公开信现惊人共同点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324032.md">〖兲朝浮世绘〗倒习势力与习近平的博弈？有待证实</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200506/1323943.md">习近平“百年变局”大破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323808.md">以色列称发现新冠肺炎解药能使病毒失效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1323992.md">翩翩起舞的虎门大桥 带出一连串豆腐渣“烤串”，板凳准备好了吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324041.md">陈破空：突发奇案！土共在美国动手了？国际调查难点：没有证据？中国人争相表达爱国心 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200506/1323852.md">【未普评论】习近平豪赌要付多大代价？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324050.md">法国军方：没有参加武汉军运会的法国军人感染类似新冠病毒的报告</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1323980.md">宝胜快评：疫苗研制成功前夜华人科学家遭枪杀、中共特工下毒手？共媒称“千人计划”已寿终正寝！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200506/1323823.md">长征五号B火箭 中国首个柔性充气式货物试验舱返回时出现异常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324023.md">大陆玉米价涨至5年新高 粮食危机逼近？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324021.md">川普稳连任？「义乌指数」露玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md" target="_blank">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md" target="_blank">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324128.md" target="_blank">中共淫乱的前生今世(6)党官淫乱校园</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324127.md" target="_blank">自由航行挑战俄罗斯霸权?美舰30年来首度穿越白令海峡</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323721.md" target="_blank">不是后浪是韭菜！五四宣传片《后浪》被斥是毒鸡汤 喝不下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323720.md" target="_blank">异常？ 江泽民亲笔题名的虎门大桥波浪式摇晃 司机惊魂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323719.md" target="_blank">12小时14万次闪电 湖北湖南网友被吓醒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323704.md" target="_blank">华裔病毒研究者遭枪杀 更多细节流出</a></li>
 
 </ul>
 </div>
