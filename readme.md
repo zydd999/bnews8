@@ -18,12 +18,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md">微信海外版监控不停歇    或面临调查和下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324410.md">蓬佩奥：中国掌握着新冠病毒源头的关键</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324531.md">〖微博谈〗中国的后浪将被拍死在沙滩上</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324679.md" target="_blank">美中官员审查贸易协定执行情况 双方承诺继续努力</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324678.md" target="_blank">巴拉圭国会提与台断交议案   以9票之差被否决</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md" target="_blank">哈师大副书记微博批马克思被免职及调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324669.md" target="_blank">建制派议员重夺内会主动权    为国歌法等一系列政府法案开绿灯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324668.md" target="_blank">中国国务院正式宣布孙力军免职    下马原因仍扑朔迷离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324658.md" target="_blank">朝鲜抨击韩国举行军演 称赞中国抗疫成绩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324614.md" target="_blank">武汉肺炎与义和团战争：两者有什麽共同之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324543.md" target="_blank">疫情暴中国医疗短板 美中应合作还是分道扬镳？</a></li>
@@ -114,11 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324431.md" target="_blank">都是武汉肺炎病毒惹的祸 欧盟又遭中国施压删文</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324430.md" target="_blank">反黑组警长涉私吞冰毒证物转售图利　不排除有更多人被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md" target="_blank">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324422.md" target="_blank">北京两会临近访民增加   基督徒遭遣返失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324416.md" target="_blank">原腾讯公司媒体人张贾龙因言获罪案件下周开庭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324410.md" target="_blank">蓬佩奥：中国掌握着新冠病毒源头的关键</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md" target="_blank">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324408.md" target="_blank">时事大家谈：疫情加剧美中紧张 中国宣传机器火力全开</a></li>
 
 </ul>
 </div>
