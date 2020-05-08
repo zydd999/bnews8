@@ -3,7 +3,6 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
@@ -15,7 +14,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
@@ -23,7 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324540.md">老北京茶馆：习近平指示乔良：武统台湾无限期拖延？中共再拒世卫调查！华春莹替王全璋喊冤？老北京茶馆/第303集/2020/05/07） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324564.md">武汉封城到底是伟大壮举还是野蛮、愚蠢？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324852.md" target="_blank">特朗普称美中关系艰难 对贸易协议表示怀疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324847.md" target="_blank">警惕中国北极企图 美军水面舰艇阔别30年后重返巴伦支海</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md" target="_blank">爹味十足的《后浪》惹怒了“后浪”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324845.md" target="_blank">美官员：中国的非洲政策贻害深远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324838.md" target="_blank">全球首试     香港机场将采用“全身智能消毒通道设施”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324837.md" target="_blank">中方表态：支持世卫成立“审议委员会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324835.md" target="_blank">中国疫情后复工复产 天空再一次烟雾弥漫</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324795.md" target="_blank">美众院共和党成立“中国工作组”以应对北京威胁和调查疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324793.md" target="_blank">海外微信监控 加拿大报告提下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324787.md" target="_blank">美军德特里克堡基地是病毒源头的阴谋是如何炮制的？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324784.md" target="_blank">地方首季收入逾减5成　国库结余不够发工资　</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324773.md" target="_blank">中国军机运-8周五进入台湾领空遭驱离后飞走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324766.md" target="_blank">在中国打压下 台湾今年参加世卫大会的努力可能落空</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324734.md" target="_blank">华为、5G、侵犯人权：是的，它们密切相关</a></li>
 
 </ul>
 </div>
