@@ -2,15 +2,14 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324099.md">甩锅战再开新局 中媒向普京脸上「抹病毒」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324128.md">中共淫乱的前生今世(6)党官淫乱校园</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324129.md">因华为翻脸？白宫考虑将侦察机、F－35、情报人员全数撤出英国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
@@ -21,6 +20,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200507/1324101.md">〖微博谈〗知道人民是谁吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324122.md">死都不怕却怕共产党的吸毒者：讲的一个鬼故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324147.md">野外树林藏卖淫窝点 警方控制12名男子和2名卖淫女</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
