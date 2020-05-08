@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
@@ -20,9 +19,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md">微信海外版监控不停歇    或面临调查和下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324246.md">北京逼香港法官表态“用实际行动”严惩黎智英等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324246.md">北京逼香港法官表态“用实际行动”严惩黎智英等</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324410.md">蓬佩奥：中国掌握着新冠病毒源头的关键</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324643.md" target="_blank">邓丽君逝世25周年 因反共未赴大陆开演唱会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324633.md" target="_blank">中国疫情本土近清零 无症状感染者仍是忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md" target="_blank">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md" target="_blank">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324272.md" target="_blank">美官员投书捍卫宗教自由，抵制中国2022冬季奥运</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324274.md" target="_blank">日本将制定新冠就诊新标准</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324246.md" target="_blank">北京逼香港法官表态“用实际行动”严惩黎智英等</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324093.md" target="_blank">蓬佩奥怒批中共隐瞒信息 导致全球数十万人死于新冠</a></li>
 
 </ul>
 </div>
