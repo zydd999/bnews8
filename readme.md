@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324180.md">华春莹最新露面脸相与台发言人对比 惊人！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
@@ -11,19 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324246.md">北京逼香港法官表态“用实际行动”严惩黎智英等</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md" target="_blank">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md" target="_blank">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324498.md" target="_blank">“中国4月份的出口反弹肯定是难以持续下去的”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324488.md" target="_blank">二战胜利纪念马克龙致电普京强调法俄建立“战略对话”的重要性</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324246.md" target="_blank">北京逼香港法官表态“用实际行动”严惩黎智英等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324093.md" target="_blank">蓬佩奥怒批中共隐瞒信息 导致全球数十万人死于新冠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323939.md" target="_blank">【瘟疫与中共】澳洲坚查真相 有效阻病毒蔓延</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md" target="_blank">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
 
 </ul>
 </div>
