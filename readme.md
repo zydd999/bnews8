@@ -8,18 +8,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324614.md" target="_blank">武汉肺炎与义和团战争：两者有什麽共同之处</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324543.md" target="_blank">疫情暴中国医疗短板 美中应合作还是分道扬镳？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324539.md" target="_blank">应对北京威胁、调查新冠病毒 众院共和党成立“中国工作组”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324536.md" target="_blank">中国驻外使节为何成为“战狼”大使？(1)：上有所好 下必甚焉</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md" target="_blank">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324408.md" target="_blank">时事大家谈：疫情加剧美中紧张 中国宣传机器火力全开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324407.md" target="_blank">民调：蔡英文获高满意度 国民党支持度雪崩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324406.md" target="_blank">《中国日报》删改欧盟大使联署评论   驻华代表：“遗憾”</a></li>
 
 </ul>
 </div>
