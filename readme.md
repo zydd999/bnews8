@@ -3,11 +3,10 @@
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
@@ -16,14 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324531.md">〖微博谈〗中国的后浪将被拍死在沙滩上</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324410.md">蓬佩奥：中国掌握着新冠病毒源头的关键</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324540.md">老北京茶馆：习近平指示乔良：武统台湾无限期拖延？中共再拒世卫调查！华春莹替王全璋喊冤？老北京茶馆/第303集/2020/05/07） </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324805.md" target="_blank">习普通电话 传普京反对个别势力借疫情指责中国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324804.md" target="_blank">口罩外交？中国首批抗疫物资抵海地</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324802.md" target="_blank">520前夕美中军机隔空较劲</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324801.md" target="_blank">蔡英文闪电宣布苏贞昌续任阁揆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324800.md" target="_blank">罕有赴澳留学背景 孙力军被免去公安部副部长职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324799.md" target="_blank">余文生律师辩护人谴责徐州法院对余文生案久拖不决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md" target="_blank">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
@@ -115,10 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324723.md" target="_blank">特朗普指愿与中俄谈限制军备   学者料中共势拒绝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324722.md" target="_blank">蔡英文520就任前宣布      苏贞昌续任行政院长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324705.md" target="_blank">焦点对话：乔良为“趁疫攻台”说降温 避免美中520摊牌？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324679.md" target="_blank">美中官员审查贸易协定执行情况 双方承诺继续努力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324678.md" target="_blank">巴拉圭国会提与台断交议案   以9票之差被否决</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md" target="_blank">哈师大副书记微博批马克思被免职及调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324669.md" target="_blank">建制派议员重夺内会主动权    为国歌法等一系列政府法案开绿灯</a></li>
 
 </ul>
 </div>
