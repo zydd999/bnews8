@@ -8,19 +8,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324170.md">内蒙古“教父”级黑老大被除！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324122.md">死都不怕却怕共产党的吸毒者：讲的一个鬼故事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324122.md">死都不怕却怕共产党的吸毒者：讲的一个鬼故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324147.md">野外树林藏卖淫窝点 警方控制12名男子和2名卖淫女</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324536.md" target="_blank">中国驻外使节为何成为“战狼”大使？(1)：上有所好 下必甚焉</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324532.md" target="_blank">美FDA撤销66家中国口罩生产商在美销售许可</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324515.md" target="_blank">美议员提议将中国驻美使馆街道改名“李文亮广场”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324481.md" target="_blank">中国军方骇客对亚太国家发动网络攻击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324480.md" target="_blank">专访美国国务院发言人：美支持台湾成为联合国周边组织观察员</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324406.md" target="_blank">《中国日报》删改欧盟大使联署评论   驻华代表：“遗憾”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324391.md" target="_blank">蔡英文就职典礼临近 台湾遭网攻次数呈增长势头</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324388.md" target="_blank">失踪4个月后再露面    文东海：今后还有更困难的时候</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324387.md" target="_blank">台情报首长：美中之间不排除武力相向</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324379.md" target="_blank">Facebok 删除自由亚洲电台越南语部贴文    涉及批评越共</a></li>
 
 </ul>
 </div>
