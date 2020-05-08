@@ -12,9 +12,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md">微信海外版监控不停歇    或面临调查和下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324831.md" target="_blank">加拿大感谢中国不谢台湾    同捐口罩有何不同？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324816.md" target="_blank">美中对立 台湾站哪边？ 台湾院士：应扮“扭转战局”角色</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324807.md" target="_blank">连花清瘟钟南山推售有疗效 瑞典海关禁入指成分仅薄荷醇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324805.md" target="_blank">习普通电话 传普京反对个别势力借疫情指责中国</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324727.md" target="_blank">受主要出口市场拖累 台湾4月出口大幅下滑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324726.md" target="_blank">台湾南美最后邦交国 国会表决驳回与台湾断交</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324724.md" target="_blank">新疆伊斯兰斋月土政策  穆斯林饭桌子须与汉人相同</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324723.md" target="_blank">特朗普指愿与中俄谈限制军备   学者料中共势拒绝</a></li>
 
 </ul>
 </div>
