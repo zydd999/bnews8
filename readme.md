@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324170.md">内蒙古“教父”级黑老大被除！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324122.md">死都不怕却怕共产党的吸毒者：讲的一个鬼故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324147.md">野外树林藏卖淫窝点 警方控制12名男子和2名卖淫女</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324543.md" target="_blank">疫情暴中国医疗短板 美中应合作还是分道扬镳？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324539.md" target="_blank">应对北京威胁、调查新冠病毒 众院共和党成立“中国工作组”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324536.md" target="_blank">中国驻外使节为何成为“战狼”大使？(1)：上有所好 下必甚焉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324532.md" target="_blank">美FDA撤销66家中国口罩生产商在美销售许可</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324515.md" target="_blank">美议员提议将中国驻美使馆街道改名“李文亮广场”</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324408.md" target="_blank">时事大家谈：疫情加剧美中紧张 中国宣传机器火力全开</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324407.md" target="_blank">民调：蔡英文获高满意度 国民党支持度雪崩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324406.md" target="_blank">《中国日报》删改欧盟大使联署评论   驻华代表：“遗憾”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324391.md" target="_blank">蔡英文就职典礼临近 台湾遭网攻次数呈增长势头</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324388.md" target="_blank">失踪4个月后再露面    文东海：今后还有更困难的时候</a></li>
 
 </ul>
 </div>
