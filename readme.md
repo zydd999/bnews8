@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324192.md">增加免疫力最好的方式原来是它呀！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324216.md">特斯拉上海超级工厂爆停工预计停工到9号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324122.md">死都不怕却怕共产党的吸毒者：讲的一个鬼故事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324094.md">老黑：哭笑不得也是拼了：美国务卿蓬佩奥竟然被说成是中国人的後代？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324147.md">野外树林藏卖淫窝点 警方控制12名男子和2名卖淫女</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md" target="_blank">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324498.md" target="_blank">“中国4月份的出口反弹肯定是难以持续下去的”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324488.md" target="_blank">二战胜利纪念马克龙致电普京强调法俄建立“战略对话”的重要性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md" target="_blank">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324093.md" target="_blank">蓬佩奥怒批中共隐瞒信息 导致全球数十万人死于新冠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323939.md" target="_blank">【瘟疫与中共】澳洲坚查真相 有效阻病毒蔓延</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324062.md" target="_blank">中国四家药厂研发新冠疫苗进入人体测试  两家曾涉及丑闻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324057.md" target="_blank">文昭：中共鹰派将领「逆反」阻攻台，美国干预台海的第四种方法；「超限战」与川普的「终极制裁」</a></li>
 
 </ul>
 </div>
