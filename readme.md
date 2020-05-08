@@ -7,13 +7,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md">微信海外版监控不停歇    或面临调查和下架</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md" target="_blank">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md" target="_blank">废除中共高干待遇终身制话题此刻被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md" target="_blank">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324622.md" target="_blank">加大洛杉矶分校教授：李洪志大师令人敬佩</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324353.md" target="_blank">欧盟望在九月与中国达成保护外国投资协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324352.md" target="_blank">“人质外交”?维族学者消失三年后突现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324340.md" target="_blank">白宫新任发言人：美中关系目前令人失望与懊恼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324339.md" target="_blank">特朗普对中国是否遵守贸易协议表观望 两国代表或最快下周会谈</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324838.md" target="_blank">全球首试     香港机场将采用“全身智能消毒通道设施”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324837.md" target="_blank">中方表态：支持世卫成立“审议委员会”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324835.md" target="_blank">中国疫情后复工复产 天空再一次烟雾弥漫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324834.md" target="_blank">维吾尔族历史学家的女儿质疑父亲被迫在官方录像中言不由衷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324833.md" target="_blank">加德满都中国公民要求被允许回家 与当地警方发生冲突</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324773.md" target="_blank">中国军机运-8周五进入台湾领空遭驱离后飞走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324766.md" target="_blank">在中国打压下 台湾今年参加世卫大会的努力可能落空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324734.md" target="_blank">华为、5G、侵犯人权：是的，它们密切相关</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324732.md" target="_blank">中国免去落马的孙力军公安部副部长职务</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324731.md" target="_blank">传18警镇压反送中获「指挥官嘉奖」   8.25荃湾鸣枪警被赞「英勇」</a></li>
 
 </ul>
 </div>
