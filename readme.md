@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324306.md">时事大家谈：特朗普称不谈论战争，中国却在悄悄备战？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md">微信海外版监控不停歇    或面临调查和下架</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324246.md">北京逼香港法官表态“用实际行动”严惩黎智英等</a></li>
