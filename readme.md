@@ -5,25 +5,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324463.md">微信海外版监控不停歇    或面临调查和下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324531.md">〖微博谈〗中国的后浪将被拍死在沙滩上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324410.md">蓬佩奥：中国掌握着新冠病毒源头的关键</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324540.md">老北京茶馆：习近平指示乔良：武统台湾无限期拖延？中共再拒世卫调查！华春莹替王全璋喊冤？老北京茶馆/第303集/2020/05/07） </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324800.md" target="_blank">罕有赴澳留学背景 孙力军被免去公安部副部长职务</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324799.md" target="_blank">余文生律师辩护人谴责徐州法院对余文生案久拖不决</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md" target="_blank">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324797.md" target="_blank">美国撤回多家中国制造商向美出口N95口罩许可</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324796.md" target="_blank">中国军方被指与一款新型黑客软件有关</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324795.md" target="_blank">美众院共和党成立“中国工作组”以应对北京威胁和调查疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324793.md" target="_blank">海外微信监控 加拿大报告提下架</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324787.md" target="_blank">美军德特里克堡基地是病毒源头的阴谋是如何炮制的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324784.md" target="_blank">地方首季收入逾减5成　国库结余不够发工资　</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324773.md" target="_blank">中国军机运-8周五进入台湾领空遭驱离后飞走</a></li>
@@ -112,13 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324678.md" target="_blank">巴拉圭国会提与台断交议案   以9票之差被否决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md" target="_blank">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324669.md" target="_blank">建制派议员重夺内会主动权    为国歌法等一系列政府法案开绿灯</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324668.md" target="_blank">中国国务院正式宣布孙力军免职    下马原因仍扑朔迷离</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324658.md" target="_blank">朝鲜抨击韩国举行军演 称赞中国抗疫成绩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324614.md" target="_blank">武汉肺炎与义和团战争：两者有什麽共同之处</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324543.md" target="_blank">疫情暴中国医疗短板 美中应合作还是分道扬镳？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324539.md" target="_blank">应对北京威胁、调查新冠病毒 众院共和党成立“中国工作组”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324536.md" target="_blank">中国驻外使节为何成为“战狼”大使？(1)：上有所好 下必甚焉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324532.md" target="_blank">美FDA撤销66家中国口罩生产商在美销售许可</a></li>
 
 </ul>
 </div>
