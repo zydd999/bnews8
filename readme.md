@@ -1,17 +1,15 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324185.md">晴天霹雳 王小胖终于失业了…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324221.md">金正恩和「替身」交谈画面曝光？网惊：哪个才是真的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200507/1324186.md">巧合？谋杀？围绕中共病毒 一连串的神秘死亡 真相扑朔迷离！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200507/1324342.md">老黑：2020下半年极有可能发生的五件大事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323758.md">孙大骆爆料:武统台湾已经提到议事日程</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1323567.md">新证据曝光中共隐瞒疫情的内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324240.md">多人被美国通缉逮捕后“千人计划”突然消失中国网络</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200507/1324207.md">英国发现变异、传播证据：中共肺炎早在去年开始全球人传人？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200507/1324349.md">“两会”前夕 废除中共高干待遇终身制话题被重提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324235.md">【立此存照】百度搜索”武汉肺炎“的温馨提示</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200507/1324326.md">美国警方透露华裔研究员被杀案新细节</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324475.md">天亮时分：美国国务卿暗示将建立排除中共的国际新秩序;战狼认怂,中共正失去维系政权的最后手段(政论天下第162集 20200507) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324418.md">纽约州数据惊人：大多数新感染者竟是居家者 令“居家避疫”变尴尬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
@@ -23,6 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200507/1324330.md">谈特朗普疫情系重大袭击发言 华春莹：美国人民应得到一个交代</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324450.md">“千人计划”在变身 美国紧咬不放</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
