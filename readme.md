@@ -4,12 +4,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
@@ -17,11 +16,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324540.md">老北京茶馆：习近平指示乔良：武统台湾无限期拖延？中共再拒世卫调查！华春莹替王全璋喊冤？老北京茶馆/第303集/2020/05/07） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md">废除中共高干待遇终身制话题此刻被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324564.md">武汉封城到底是伟大壮举还是野蛮、愚蠢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1323511.md">曹长青：习近平的遗产是瘟疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324511.md">医学专家预测第二波疫情来袭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324590.md">新西兰正式挺台入世 副总理兼外长回呛中使馆「听主子的话」</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324873.md" target="_blank">美国副国安顾问博明2020年5月4日弗吉尼亚大学米勒中心讲话全文: 一个美国视角下的中国“五四”精神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324862.md" target="_blank">方方回应文章：关于（11）- 结束语</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324859.md" target="_blank">台副总统称新冠病毒可能源于武汉实验室 秋冬恐迎来第二波疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324857.md" target="_blank">受疫情重创  中国影视业如何自救？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324800.md" target="_blank">罕有赴澳留学背景 孙力军被免去公安部副部长职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324799.md" target="_blank">余文生律师辩护人谴责徐州法院对余文生案久拖不决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md" target="_blank">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324797.md" target="_blank">美国撤回多家中国制造商向美出口N95口罩许可</a></li>
 
 </ul>
 </div>
