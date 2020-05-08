@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324409.md">欧盟：中国日报删除欧洲27国大使联名文章部分内容令人遗憾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324459.md">27岁做国家副部长 才华地位可以复制 但是年龄不能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324469.md">武汉鼓励公务员和企业家交朋友  网友炸锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324423.md">BBC：美国警方证实遇害新冠病毒研究员持中国国籍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200508/1324454.md">美华裔新冠病毒研究员遇害真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324484.md">陈破空：轰动！刘冰案因情爱？谁发布的微信？穿帮了！习当局断然拒绝世卫。美军重磅武器瞄准北京。各国加速脱钩中国 </a></li>
@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324435.md">苏晓康&#65306;世间已无杨小凯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324531.md">〖微博谈〗中国的后浪将被拍死在沙滩上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324499.md">如何处理病毒问题重于贸易 蓬佩奥：中共有两条路选择</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324410.md">蓬佩奥：中国掌握着新冠病毒源头的关键</a></li>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324787.md" target="_blank">美军德特里克堡基地是病毒源头的阴谋是如何炮制的？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324784.md" target="_blank">地方首季收入逾减5成　国库结余不够发工资　</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324773.md" target="_blank">中国军机运-8周五进入台湾领空遭驱离后飞走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324766.md" target="_blank">在中国打压下 台湾今年参加世卫大会的努力可能落空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324734.md" target="_blank">华为、5G、侵犯人权：是的，它们密切相关</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324539.md" target="_blank">应对北京威胁、调查新冠病毒 众院共和党成立“中国工作组”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324536.md" target="_blank">中国驻外使节为何成为“战狼”大使？(1)：上有所好 下必甚焉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324532.md" target="_blank">美FDA撤销66家中国口罩生产商在美销售许可</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324515.md" target="_blank">美议员提议将中国驻美使馆街道改名“李文亮广场”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324481.md" target="_blank">中国军方骇客对亚太国家发动网络攻击</a></li>
 
 </ul>
 </div>
