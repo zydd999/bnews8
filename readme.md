@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324518.md">费加罗：武汉P4密封或出问题 法国向中国转移技术内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
@@ -12,17 +11,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324556.md">海葬视频曝光 印尼要求中方给说法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324531.md">〖微博谈〗中国的后浪将被拍死在沙滩上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324540.md">老北京茶馆：习近平指示乔良：武统台湾无限期拖延？中共再拒世卫调查！华春莹替王全璋喊冤？老北京茶馆/第303集/2020/05/07） </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324531.md">〖微博谈〗中国的后浪将被拍死在沙滩上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md">废除中共高干待遇终身制话题此刻被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324564.md">武汉封城到底是伟大壮举还是野蛮、愚蠢？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324590.md">新西兰正式挺台入世 副总理兼外长回呛中使馆「听主子的话」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200509/1324814.md">〖兲朝浮世绘〗胡锡进这是建议中共拿核战威胁美国吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324619.md">平正和&#65306;五眼联盟的报告不可小觑</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
