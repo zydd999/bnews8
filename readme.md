@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325733.md" target="_blank">中国异议作家杜导斌疫期发声遭软禁及死亡威胁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325708.md" target="_blank">武汉肺炎难防堵 中国全境低风险仅维持2天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325707.md" target="_blank">年过半百“郝大炮”卷入方方日记引发的舆论战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325706.md" target="_blank">“两会”临近，湖南省郴州市82岁老访民陈碧香遭威胁</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325571.md" target="_blank">已遭批捕的中国国开行原董事长妻子传跳楼自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325570.md" target="_blank">去中国化也去人民币? 官方金融专家警告排斥中国的“同盟”正形成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325558.md" target="_blank">在华知识产权官司大翻转 被山寨的外国诉讼纷纷赢了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325548.md" target="_blank">“明镜周刊”说:德国情报获悉习近平要求谭德塞压下疫情讯息</a></li>
 
 </ul>
 </div>
