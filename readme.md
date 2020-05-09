@@ -1,7 +1,6 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324590.md">新西兰正式挺台入世 副总理兼外长回呛中使馆「听主子的话」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324619.md">平正和&#65306;五眼联盟的报告不可小觑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200508/1324675.md">退休干部发帖质疑案情获刑两年半</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324931.md" target="_blank">美国务院：僵尸推特帐号助中国政府扩散疫情假信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324923.md" target="_blank">李文亮广场？美国国会针对中国的敌意加深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324916.md" target="_blank">树武汉肺炎「大国战疫」形象 中共迫医护去武汉、逼贫民捐款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324915.md" target="_blank">武汉肺炎解封期中共以维稳镇压宗教 频强拆家庭教会聚会点</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324834.md" target="_blank">维吾尔族历史学家的女儿质疑父亲被迫在官方录像中言不由衷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324833.md" target="_blank">加德满都中国公民要求被允许回家 与当地警方发生冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324832.md" target="_blank">美国贸易官员与中国副总理刘鹤就经贸问题通话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324831.md" target="_blank">加拿大感谢中国不谢台湾    同捐口罩有何不同？</a></li>
 
 </ul>
 </div>
