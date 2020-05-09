@@ -17,12 +17,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325174.md">“0确诊”？ 100多人连夜被抓走隔离 武汉一小区被封(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324909.md">【民众心声】汶川地震时听到核武库爆炸声(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324745.md">94岁老太太从不运动却从不生病！原来是因为从小每天做这个......</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325174.md">“0确诊”？ 100多人连夜被抓走隔离 武汉一小区被封(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -63,6 +63,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325550.md" target="_blank">钟南山出大事 曝大丑闻 李兰娟儿媳妇拉下了几个干部？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325299.md" target="_blank">揭秘习近平为何对此事狂热？大清洗？掌控政法系新阶段 韩媒曝光金正恩剪彩内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325298.md" target="_blank">美中较量 北京拟求芯片自主 美握王牌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325297.md" target="_blank">胡锡进叫嚣扩增核弹头 网斥：抽风！(图)</a></li>
@@ -87,13 +88,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323796.md" target="_blank">大陆鞋企无单可接濒临倒闭 竟如此求生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323777.md" target="_blank">笑喷了！广东网友想割让给美国 其他省争先恐后响应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323770.md" target="_blank">“看样子我要再买一把枪”高智晟太太耿和家凌晨两点传出枪声</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200506/1323769.md" target="_blank">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325548.md" target="_blank">“明镜周刊”说:德国情报获悉习近平要求谭德塞压下疫情讯息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325519.md" target="_blank">中国海警船钓鱼岛水域追逐日本渔船 日本强烈抗议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325518.md" target="_blank">美媒指控解放军背景骇客光顾澳洲 国安问题引议论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325490.md" target="_blank">黄奇帆指美国不可能冻结中国万亿美债 否则美元帝国崩盘</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md" target="_blank">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324883.md" target="_blank">白宫高官史上首次中文演说：博明《 一个美国视角下的中国“五四”精神》全文实录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324882.md" target="_blank">肉身翻墙， 为了“免于恐惧的自由”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324881.md" target="_blank">疫情之下，北京在香港悄悄继续收紧控制</a></li>
 
 </ul>
 </div>
