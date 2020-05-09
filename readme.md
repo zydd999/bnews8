@@ -14,15 +14,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324930.md">传十多个百亿富豪曾被禁止出北京 只想保命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324745.md">94岁老太太从不运动却从不生病！原来是因为从小每天做这个......</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
