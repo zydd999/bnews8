@@ -9,8 +9,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325299.md">揭秘习近平为何对此事狂热？大清洗？掌控政法系新阶段 韩媒曝光金正恩剪彩内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325174.md">“0确诊”？ 100多人连夜被抓走隔离 武汉一小区被封(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325349.md">中共病毒最新研究令人震惊 白宫一句话把北京打落尘埃 世界巨变北京台北此消彼长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325150.md">王思聪的浪荡情史 和背后的14个女人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325520.md">被亚马逊封杀的中国口罩卖家们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200509/1324988.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊(图)</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325616.md">德媒曝习要世卫推迟预警 印警长代表全美起诉中共 保卫生命!美高层强推台湾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1325625.md">习近平中共的颓势至消亡，神仙也救不了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325297.md">胡锡进叫嚣扩增核弹头 网斥：抽风！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325185.md">科学家发现人类存在第三只眼(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
