@@ -2,28 +2,28 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324840.md">王军涛：中国将巨变--经济转向、军事管制、对抗西方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324843.md">天文学家发现宇宙中发生了一场剧烈程度无法形容的最大爆炸 会轮到地球吗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324860.md">陈破空：党媒暗示：两高官涉政变！习近平对政治老人下手？金正恩口信，证明一件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324860.md">陈破空：党媒暗示：两高官涉政变！习近平对政治老人下手？金正恩口信，证明一件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md">废除中共高干待遇终身制话题此刻被重提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200509/1324814.md">〖兲朝浮世绘〗胡锡进这是建议中共拿核战威胁美国吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200508/1324675.md">退休干部发帖质疑案情获刑两年半</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
