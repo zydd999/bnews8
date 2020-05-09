@@ -8,12 +8,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324860.md">陈破空：党媒暗示：两高官涉政变！习近平对政治老人下手？金正恩口信，证明一件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324843.md">天文学家发现宇宙中发生了一场剧烈程度无法形容的最大爆炸 会轮到地球吗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md">废除中共高干待遇终身制话题此刻被重提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200509/1324814.md">〖兲朝浮世绘〗胡锡进这是建议中共拿核战威胁美国吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324930.md">传十多个百亿富豪曾被禁止出北京 只想保命</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200509/1324814.md">〖兲朝浮世绘〗胡锡进这是建议中共拿核战威胁美国吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1323152.md">【明慧特稿】二波瘟疫将起，又将定时定地？（上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324745.md">94岁老太太从不运动却从不生病！原来是因为从小每天做这个......</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200508/1324675.md">退休干部发帖质疑案情获刑两年半</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325284.md" target="_blank">修炼故事：狐仙教主找法轮功学员斗法  结果就令人意外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325356.md" target="_blank">回应美记者在大陆遭遇 美国收紧中国记者签证(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325355.md" target="_blank">印第安纳州警长代表全美警长起诉中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325354.md" target="_blank">西安市公安局副局长阎鸿犯四宗罪被审查</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325335.md" target="_blank">历史转折关头！川普什么信号？美军重磅宣示 党媒竟甩锅普京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325334.md" target="_blank">笑喷了！广东网友面对美国索赔竟这样说 其他省争先恐后响应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325333.md" target="_blank">想讨好年轻人反被打脸 中共官媒与B站合作短片《后浪》的刷屏效应(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325332.md" target="_blank">黑龙江人在哭：我们真的快支撑不下去了(图/视频)</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325486.md" target="_blank">新冠肺炎和武汉实验室：中共撒谎，证据在此</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325296.md" target="_blank">世卫肯定武汉野味市场与新冠病毒有关 如何传感待查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325295.md" target="_blank">疫情中国 中常委会上习近平促防外入与国内反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325294.md" target="_blank">多国民调：中国人讃中国抗疫成绩顶呱呱香港日本包尾</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324859.md" target="_blank">台副总统称新冠病毒可能源于武汉实验室 秋冬恐迎来第二波疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324857.md" target="_blank">受疫情重创  中国影视业如何自救？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324856.md" target="_blank">美国务院揭露中国假新闻运作  中俄联手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324852.md" target="_blank">特朗普称美中关系艰难 对贸易协议表示怀疑</a></li>
 
 </ul>
 </div>
