@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324909.md">【民众心声】汶川地震时听到核武库爆炸声(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325184.md">她是中国涉外婚姻第一人 当时被叫做 「 国际女流氓 」图集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325340.md">美轰炸机直扑东海！专家曝惊人目的：将中共解放军关门打狗(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325348.md">中共前司法部长傅政华失去第三个职务(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325681.md" target="_blank">美军滨海战斗舰到南中国海争端水域巡逻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325665.md" target="_blank">德情报局 : 习近平要求谭德塞隐瞒新冠病毒人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325653.md" target="_blank">回应中共压制新闻独立 美收紧对中国记者签证规定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325647.md" target="_blank">美媒：武汉实验室去年10月突然关闭 可能发生危险的事</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325518.md" target="_blank">美媒指控解放军背景骇客光顾澳洲 国安问题引议论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325490.md" target="_blank">黄奇帆指美国不可能冻结中国万亿美债 否则美元帝国崩盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325489.md" target="_blank">不计病毒肆虐 中国四月其他旱涝灾害已惨重</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325488.md" target="_blank">中国说愿意接受国际调查但拒绝没有证据就把中国送上被告席</a></li>
 
 </ul>
 </div>
