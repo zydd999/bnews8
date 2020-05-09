@@ -2,28 +2,28 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324580.md">中国怎么了？五天连发大街乱斩人、杀亲血案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324623.md">全球疫情调查 将曝光中共高层“世纪之罪”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324589.md">江峰：华为、孟晚舟命运改写？美国重启与华为5G标准谈判意味着什麽？核心技术拼市场，美国也用拖刀法，直接进入6G战略时代</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324598.md">英国卫生部门爆出了一个坏消息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324596.md">这5种物品摸了千万别摸脸！专家：这些地方特别容易感染病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324631.md">远离中共澳洲疫情下降 总理送大礼：16万永居移民配额不变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324577.md">敢扇副省级领导一巴掌！云南"地下组织部长"究竟何人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324840.md">王军涛：中国将巨变--经济转向、军事管制、对抗西方</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324843.md">天文学家发现宇宙中发生了一场剧烈程度无法形容的最大爆炸 会轮到地球吗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324579.md">浙江一姑娘走着路孩子生出来了 监控还原惊魂一幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324860.md">陈破空：党媒暗示：两高官涉政变！习近平对政治老人下手？金正恩口信，证明一件事 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200509/1324814.md">〖兲朝浮世绘〗胡锡进这是建议中共拿核战威胁美国吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md">废除中共高干待遇终身制话题此刻被重提</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324564.md">武汉封城到底是伟大壮举还是野蛮、愚蠢？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324905.md" target="_blank">盛雪、赖建平：丧事喜办是制度优势吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324925.md" target="_blank">德语媒体：中国乘机扩权 欧洲袖手旁观</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324863.md" target="_blank">徐沛：邓丽君超越水仙堪比梅花</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324895.md" target="_blank">川普对中共失望 正与数十盟国商讨如何解决中共隐瞒疫情问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md" target="_blank">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324449.md" target="_blank">中国2019海洋灾害公报和海平面公报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324428.md" target="_blank">方方：关于 （10）- 关于二湘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324421.md" target="_blank">中国：疫情后的武汉 高中生回校复课</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324404.md" target="_blank">陈破空：陈破空谈《常识》（之47）：明哲保身，中国人很聪明？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200507/1324376.md" target="_blank">印尼召见中国大使以澄清印尼船员在中国渔船上死亡事件</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324923.md" target="_blank">李文亮广场？美国国会针对中国的敌意加深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324916.md" target="_blank">树武汉肺炎「大国战疫」形象 中共迫医护去武汉、逼贫民捐款</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324915.md" target="_blank">武汉肺炎解封期中共以维稳镇压宗教 频强拆家庭教会聚会点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324911.md" target="_blank">基辛格中美关系研究所主任戴博谈博明中文演讲</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324833.md" target="_blank">加德满都中国公民要求被允许回家 与当地警方发生冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324832.md" target="_blank">美国贸易官员与中国副总理刘鹤就经贸问题通话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324831.md" target="_blank">加拿大感谢中国不谢台湾    同捐口罩有何不同？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324816.md" target="_blank">美中对立 台湾站哪边？ 台湾院士：应扮“扭转战局”角色</a></li>
 
 </ul>
 </div>
