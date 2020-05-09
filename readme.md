@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325665.md" target="_blank">德情报局 : 习近平要求谭德塞隐瞒新冠病毒人传人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325653.md" target="_blank">回应中共压制新闻独立 美收紧对中国记者签证规定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325647.md" target="_blank">美媒：武汉实验室去年10月突然关闭 可能发生危险的事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1325646.md" target="_blank">法媒：中国卫健委再次承认在重大疫情防控上有短板</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325490.md" target="_blank">黄奇帆指美国不可能冻结中国万亿美债 否则美元帝国崩盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325489.md" target="_blank">不计病毒肆虐 中国四月其他旱涝灾害已惨重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325488.md" target="_blank">中国说愿意接受国际调查但拒绝没有证据就把中国送上被告席</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325487.md" target="_blank">方方致敬 北师大驳回对教授的举报</a></li>
 
 </ul>
 </div>
