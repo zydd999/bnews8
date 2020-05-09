@@ -16,13 +16,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324646.md">亲密伴侣长期纠纷华人新冠学者遭情杀匹大：机密会继续保密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200508/1324629.md">胡锡进建议增加中国核弹头数目至一千枚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200508/1324619.md">平正和&#65306;五眼联盟的报告不可小觑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200508/1324675.md">退休干部发帖质疑案情获刑两年半</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324947.md" target="_blank">武汉传鼓励官员与企业家交朋友</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324931.md" target="_blank">美国务院：僵尸推特帐号助中国政府扩散疫情假信息</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324923.md" target="_blank">李文亮广场？美国国会针对中国的敌意加深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324916.md" target="_blank">树武汉肺炎「大国战疫」形象 中共迫医护去武汉、逼贫民捐款</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324835.md" target="_blank">中国疫情后复工复产 天空再一次烟雾弥漫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324834.md" target="_blank">维吾尔族历史学家的女儿质疑父亲被迫在官方录像中言不由衷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324833.md" target="_blank">加德满都中国公民要求被允许回家 与当地警方发生冲突</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324832.md" target="_blank">美国贸易官员与中国副总理刘鹤就经贸问题通话</a></li>
 
 </ul>
 </div>
