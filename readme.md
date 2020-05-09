@@ -5,9 +5,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324718.md">案涉严重 罕有赴澳留学背景 孙力军今遭正式解职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324840.md">王军涛：中国将巨变--经济转向、军事管制、对抗西方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324798.md">习近平曾要求世卫推迟预警 全球损失抗疫时间</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324930.md">传十多个百亿富豪曾被禁止出北京 只想保命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324860.md">陈破空：党媒暗示：两高官涉政变！习近平对政治老人下手？金正恩口信，证明一件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324843.md">天文学家发现宇宙中发生了一场剧烈程度无法形容的最大爆炸 会轮到地球吗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324930.md">传十多个百亿富豪曾被禁止出北京 只想保命</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200508/1324729.md">废除中共高干待遇终身制话题此刻被重提</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324670.md">哈师大副书记微博批马克思被免职及调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200509/1324814.md">〖兲朝浮世绘〗胡锡进这是建议中共拿核战威胁美国吗？</a></li>
@@ -15,15 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324861.md">文昭：习近平两会或迎「重鎚三连」；还有变数往北看；彭培奥暗示与中共「不两立」 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200508/1324730.md">参加武汉世界军运会期间及其后生病    欧多国运动员疑染新冠肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200509/1324875.md">《石涛聚焦》「美国防部下令：凡确诊过病毒的人 终身不得参军」拒绝透露原因细节 武汉病毒类似水痘—终身携带 变异转化类似「水痘-带状疱疹病毒」 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200508/1324772.md">【公子快报】我们赢了！加拿大官媒CBC认错，撤换了原标题！CBC此前抨击《大纪元》反共特刊的报道犯众怒... </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1324841.md">专栏 | 夜话中南海：大胆针砭时弊   阎学通似要与当局决裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324846.md">爹味十足的《后浪》惹怒了“后浪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324909.md">【民众心声】汶川地震时听到核武库爆炸声(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1324878.md">万科也要养猪？分析：恐怕醉翁之意不在酒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324745.md">94岁老太太从不运动却从不生病！原来是因为从小每天做这个......</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200509/1324826.md">王维洛：湖北省卫健委副主任张定宇是隐瞒报告SARS病毒的关键责任人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200508/1324675.md">退休干部发帖质疑案情获刑两年半</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325154.md">中美高层通话 北京突然软了？美轰炸机直扑东海！关门打狗？两会最新消息 凸显30年最惨</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325520.md" target="_blank">被亚马逊封杀的中国口罩卖家们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325492.md" target="_blank">中共驻南使馆被炸21周年 14条人命隐瞒至今(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325284.md" target="_blank">修炼故事：狐仙教主找法轮功学员斗法  结果就令人意外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325356.md" target="_blank">回应美记者在大陆遭遇 美国收紧中国记者签证(图)</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325337.md" target="_blank">中共内斗加剧 习近平政法系三大亲信浮出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325336.md" target="_blank">对抗中共病毒 川普首先想到的是什么？ (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325335.md" target="_blank">历史转折关头！川普什么信号？美军重磅宣示 党媒竟甩锅普京</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325334.md" target="_blank">笑喷了！广东网友面对美国索赔竟这样说 其他省争先恐后响应(图)</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325519.md" target="_blank">中国海警船钓鱼岛水域追逐日本渔船 日本强烈抗议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325518.md" target="_blank">美媒指控解放军背景骇客光顾澳洲 国安问题引议论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325490.md" target="_blank">黄奇帆指美国不可能冻结中国万亿美债 否则美元帝国崩盘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325489.md" target="_blank">不计病毒肆虐 中国四月其他旱涝灾害已惨重</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1325488.md" target="_blank">中国说愿意接受国际调查但拒绝没有证据就把中国送上被告席</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324883.md" target="_blank">白宫高官史上首次中文演说：博明《 一个美国视角下的中国“五四”精神》全文实录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324882.md" target="_blank">肉身翻墙， 为了“免于恐惧的自由”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324881.md" target="_blank">疫情之下，北京在香港悄悄继续收紧控制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324876.md" target="_blank">中国“长征火箭”化身英雄 网友一面倒 批太丑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200509/1324873.md" target="_blank">美国副国安顾问博明2020年5月4日弗吉尼亚大学米勒中心讲话全文: 一个美国视角下的中国“五四”精神</a></li>
 
 </ul>
 </div>
