@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325520.md">被亚马逊封杀的中国口罩卖家们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325581.md">美媒曝中共病毒快乐诡象 哈尔滨许多医院院内感染 密件曝医院恐被债务压垮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200510/1325674.md">高晓松《同桌的你》里的女同桌 到底有多漂亮？看到本人后被惊艳(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200509/1324988.md">“我错在哪里？”国安局长邱国正：金正恩就有病啊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325616.md">德媒曝习要世卫推迟预警 印警长代表全美起诉中共 保卫生命!美高层强推台湾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200510/1325675.md">赖弘国被曝与阿娇离婚后终于发飙！自言要“告死她” 不计律师费(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1325625.md">习近平中共的颓势至消亡，神仙也救不了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325340.md">美轰炸机直扑东海！专家曝惊人目的：将中共解放军关门打狗(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200509/1325184.md">她是中国涉外婚姻第一人 当时被叫做 「 国际女流氓 」图集</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325769.md">政法系大清洗开场？2天6名政法官员被查处(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325348.md">中共前司法部长傅政华失去第三个职务(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200510/1325684.md">西太平洋波谲云诡 美驻关岛核潜艇全出动(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325782.md">9国货币互换协议踢开人民币 陆官员哀叹“去中共化”成型(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325690.md">NBC：武汉实验室去年10月突然关闭 可能发生危险的事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325641.md">美缩减中国记者签证效期至90天 回应美记者在华遭遇(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325769.md">政法系大清洗开场？2天6名政法官员被查处(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325782.md">9国货币互换协议踢开人民币 陆官员哀叹“去中共化”成型(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200510/1325774.md">国开行原董事长被查后 夫人和下属自杀 跳楼割腕(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325994.md" target="_blank">习近平「文胆」 中宣部副部长慎海雄兼任央视总台总编辑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325993.md" target="_blank">大陆新闻解读651期_严真点评+外交部大实话：胡锡进千枚核弹狂言；中共武统台湾成泡影；俄罗斯疫情急遽升温。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325964.md" target="_blank">央视骂完蓬佩奥 又发贬美报道 网友实在看不下去了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325958.md" target="_blank">〖图集〗2020普利策突发新闻摄影奖：香港反送中运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325955.md" target="_blank">大陆新闻解读651期_时事小品：下一个骂谁</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325356.md" target="_blank">回应美记者在大陆遭遇 美国收紧中国记者签证(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325355.md" target="_blank">印第安纳州警长代表全美警长起诉中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325354.md" target="_blank">西安市公安局副局长阎鸿犯四宗罪被审查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325353.md" target="_blank">中共专家：中共海军实力超美至少需100年(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325352.md" target="_blank">瑞典政要：自由社会不能容忍孔子学院</a></li>
 
 </ul>
 </div>
