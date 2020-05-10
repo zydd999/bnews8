@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325964.md">央视骂完蓬佩奥 又发贬美报道 网友实在看不下去了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325757.md">北师大“逆潮”驳回对教授举报 方方发文致敬(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326164.md">名副其实的“墙”国 网友翻墙遭公安警告和威胁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326241.md">3大信号 川普要重创中共 唯中共正独门「超限战」欧驻京大使屈服遭欧盟谴责</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326162.md">去中共化!9央行踢开人民币 外汇流失难挡 中共或锁国 北京巨资求自主还是输美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325823.md">川普一撤金援 谭德塞立刻哭穷：WHO缺13亿美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1325738.md">范畴：川普可能四周内出重拳</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326241.md">3大信号 川普要重创中共 唯中共正独门「超限战」欧驻京大使屈服遭欧盟谴责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326140.md">传解放军今试飞轰-20隐形轰炸机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326162.md">去中共化!9央行踢开人民币 外汇流失难挡 中共或锁国 北京巨资求自主还是输美国</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326323.md" target="_blank">突爆多宗确诊病例 吉林舒兰进入战时状态(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md" target="_blank">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326268.md" target="_blank">比尔·盖茨应该同情中共吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md" target="_blank">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326165.md" target="_blank">南京女童落水被救后惨遭杀害藏尸山中</a></li>
@@ -55,8 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325783.md" target="_blank">美舰巡弋南海 要求中共停止霸凌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325770.md" target="_blank">暗批中共 官方学者阎学通变调(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325758.md" target="_blank">美国务院指中共外交官用假账号发假消息(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325736.md" target="_blank">高智晟被失踪1000天 耿和吁世界认清中共(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325690.md" target="_blank">NBC：武汉实验室去年10月突然关闭 可能发生危险的事(图)</a></li>
 
 </ul>
 </div>
@@ -94,6 +94,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326325.md" target="_blank">反修例示威周日百花齐放　 议员邝俊宇晚上旺角被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326310.md" target="_blank">任正非：华为系统要想超过安卓和苹果 需要300年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326309.md" target="_blank">蔡英文520就职演说 将强调两岸关系“坚持原则不冒进”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326308.md" target="_blank">“连花”宝典开遍世界 中国使馆说没用？</a></li>
@@ -118,7 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326176.md" target="_blank">内会双胞冲突馀波　陈志全决报警控郭伟强袭击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326175.md" target="_blank">衞健委官员承认应对重大衞生事件表现薄弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326174.md" target="_blank">德情报证习近平向世卫施压　 延布新冠病毒可人传人讯息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326173.md" target="_blank">余文生秘审一年音讯全无  　德法人权官员责有违国际公约</a></li>
 
 </ul>
 </div>
