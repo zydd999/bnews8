@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325955.md" target="_blank">大陆新闻解读651期_时事小品：下一个骂谁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325885.md" target="_blank">英法专家估计疫情最早于10月底11月初已经爆发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325825.md" target="_blank">欧盟驻华大使屈服于中共审查 遭欧盟谴责(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325824.md" target="_blank">川普近乎宣战 中共狗急跳墙(图)</a></li>
@@ -56,7 +57,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325352.md" target="_blank">瑞典政要：自由社会不能容忍孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325351.md" target="_blank">报告：中国劳改营产品流入欧美各国市场(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325350.md" target="_blank">川普批世卫是中共傀儡 认同美中关系恶化(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200509/1325349.md" target="_blank">中共病毒最新研究令人震惊 白宫一句话把北京打落尘埃 世界巨变北京台北此消彼长</a></li>
 
 </ul>
 </div>
