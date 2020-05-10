@@ -94,6 +94,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326369.md" target="_blank">学者张雪忠建议全国人大启动国民制宪程序</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326368.md" target="_blank">美国对美中第一阶段贸易协定执行情况比较纠结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326349.md" target="_blank">法国解禁后可做哪些体育活动？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326348.md" target="_blank">武汉报告1例新冠肺炎确诊病例</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326346.md" target="_blank">欧洲最新人证 新冠可能去年世界军运会就已流行？</a></li>
@@ -117,8 +119,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326239.md" target="_blank">新华社发万字超长文 驳斥美国新冠肺炎“24个谎言” 称中国才是假消息的受害者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326180.md" target="_blank">台湾与香港新冠病毒疫情明显得到控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326179.md" target="_blank">香港民众母亲节“和你唱”抗议 警方在多处截查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326178.md" target="_blank">中国迟来的“两会”前夕维稳对象如是说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326177.md" target="_blank">美参众两院致信55国家　要求支持台湾加入世卫</a></li>
 
 </ul>
 </div>
