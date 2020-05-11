@@ -1,10 +1,9 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
+<li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325782.md">9国货币互换协议踢开人民币 陆官员哀叹“去中共化”成型(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325769.md">政法系大清洗开场？2天6名政法官员被查处(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325824.md">川普近乎宣战 中共狗急跳墙(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200510/1325774.md">国开行原董事长被查后 夫人和下属自杀 跳楼割腕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326109.md">中纪委成橡皮图章 两大案显赵乐际无实权(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326159.md">以色列总理：如这事是真 病毒可能“终结人类”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326133.md">中印边境又爆起冲突</a></li>
@@ -20,10 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325823.md">川普一撤金援 谭德塞立刻哭穷：WHO缺13亿美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326140.md">传解放军今试飞轰-20隐形轰炸机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200510/1326102.md">马尔地夫完了？全国4分之1人恐染病(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md">美防疫3巨头都自主隔离 以总理：如是真可"终结人类” 武毒所去年10月似关闭2周</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326245.md">对当局不满？！中共的鹰派专家们最近说话调门都很奇怪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200510/1326127.md">奥巴马厉批特朗普媒体疯传 指白宫防疫是场灾难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1325924.md">2021年更可怕！《地母经》揭秘全球将死一半人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200510/1325865.md">疫情重创！中国倒闭潮来了？！企业不是病死！而是赔死！穷死！等死！美国加大管制！防中国窃密？！【2020.05.10『年代向钱看』周末精选】</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -63,6 +64,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326417.md" target="_blank">不屈港人：商场和你唱遍地开花走入街头 警旺角狂抓逾百人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326416.md" target="_blank">粤千亿P2P平台退场 涉11万投资人百亿借贷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326406.md" target="_blank">允许美企制定5G标准 分析：不涉及解封华为(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326300.md" target="_blank">WSJ：川普政府加速推动台积电赴美设厂 半导体全面美国制造(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md" target="_blank">美防疫3巨头都自主隔离 以总理：如是真可&#8221;终结人类” 武毒所去年10月似关闭2周</a></li>
@@ -86,8 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325550.md" target="_blank">钟南山出大事 曝大丑闻 李兰娟儿媳妇拉下了几个干部？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325299.md" target="_blank">揭秘习近平为何对此事狂热？大清洗？掌控政法系新阶段 韩媒曝光金正恩剪彩内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325298.md" target="_blank">美中较量 北京拟求芯片自主 美握王牌(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325297.md" target="_blank">胡锡进叫嚣扩增核弹头 网斥：抽风！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200508/1324534.md" target="_blank">董事长修炼法轮功 生意不受疫情影响逆势增长（图）</a></li>
 
 </ul>
 </div>
