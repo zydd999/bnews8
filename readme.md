@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326159.md">以色列总理：如这事是真 病毒可能“终结人类”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326133.md">中印边境又爆起冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326162.md">去中共化!9央行踢开人民币 外汇流失难挡 中共或锁国 北京巨资求自主还是输美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326241.md">3大信号 川普要重创中共 唯中共正独门「超限战」欧驻京大使屈服遭欧盟谴责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326407.md">崔永元发视频透露处境：有人不让我说话2年了(组图)</a></li>
@@ -13,18 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md">美防疫3巨头都自主隔离 以总理：如是真可"终结人类” 武毒所去年10月似关闭2周</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326394.md">俄罗斯独立报：北京在冒失去信任的风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200511/1326412.md">中共使馆发推说了啥？ 惨遭德国网友狂打脸(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326140.md">传解放军今试飞轰-20隐形轰炸机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200511/1326376.md">越没本事的男人 越喜欢做这“三件事”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200511/1326376.md">越没本事的男人 越喜欢做这“三件事”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1326280.md">中国青年报：不要把伟大的批评者，当做国家的敌人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326245.md">对当局不满？！中共的鹰派专家们最近说话调门都很奇怪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200510/1326127.md">奥巴马厉批特朗普媒体疯传 指白宫防疫是场灾难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326355.md">彭定康：卑鄙无耻的共产党政权必须面对世界的审判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326514.md">中印爆发边境冲突 150名士兵参与斗殴(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326355.md">彭定康：卑鄙无耻的共产党政权必须面对世界的审判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326284.md">时事大家谈：两会前网络舆情诡诈，习近平执政败象成焦点</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200511/1326351.md">〖兲朝浮世绘〗中共故意隐瞒疫情是维稳本能</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326672.md" target="_blank">中共借联合国决议推广虚假陈述 美国反击(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326646.md" target="_blank">川老板令员工“击落”竞标对手17架无人机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md" target="_blank">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326571.md" target="_blank">中共对台“混合战”? 专家：元朗事件曾演练(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326442.md" target="_blank">孔子学院渗透世界 各国加剧审查抗中共宣传(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326430.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326407.md" target="_blank">崔永元发视频透露处境：有人不让我说话2年了(组图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326671.md" target="_blank">新冠肺炎 中国半月来反复新高 本土10例新确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326663.md" target="_blank">港警滥捕变本加厉　另一场更激烈抗争正在酝酿中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326553.md" target="_blank">被误会的身分：中国人如何看待维吾尔人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326533.md" target="_blank">疫情扫过“带路”陷债务 呼声高涨中国免债难</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326251.md" target="_blank">余文生律师被密审一周年无消息 多方关注其处境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326243.md" target="_blank">泛民直选协调成功　有信心取过半数议席</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326242.md" target="_blank">醉酒汉被捕后死亡　重案组调查是否涉警暴</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326240.md" target="_blank">全世界戴口罩商机大 中国石化迅速建成全球最大万吨级熔喷布生产基地</a></li>
 
 </ul>
 </div>
