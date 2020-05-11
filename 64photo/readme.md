@@ -1,28 +1,6 @@
 <div align="center">
 	<p align="center" class="STYLE2"><h1>六四屠城图片全览 前言</h1></p>
 <center>
-<table border="0" cellpadding="1" cellspacing="0" width="90%">
-<tr> 
-<td width="90%" bgcolor="#000000"><table width="100%" height="293" border="0"
-    cellpadding="0" cellspacing="0" bgcolor="#FEEDFE">
-<tr> 
-<td width="100%"  class="b1"><DIV class="content"> 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr> 
-<td height="246" valign="top" class="b2"><table width="100%" height="358" border="0" cellpadding="0" cellspacing="0">
-<tr> 
-<td width="9%" height="29">&nbsp;</td>
-<td width="82%" valign="bottom"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="9">
-<tr> 
-<td width="65%" align="right">&nbsp;</td>
-<td width="35%"><div align="right"> <a href="index.htm"></a> </div></td>
-</tr>
-</table></td>
-<td width="9%">&nbsp;</td>
-</tr>
-<tr> 
-<td height="284">&nbsp;</td>
-<td valign="top" class="content"><div align="center" class="title_page">
   <div align="left" class="STYLE1">
     <p><br>
       　<span class="STYLE5">　好不容易突破中共封锁出来,但却极少人较系统地全览89年64惨案全部图片的现状，可能全览的人数不到破网出来的人数10%。</span></p>
@@ -38,27 +16,5 @@
   <!--/HTMLBUILERPART0--> 
   <br>
   <br>
-</p></td>
-<td>&nbsp;</td>
-</tr>
-<tr> 
-<td height="45">&nbsp;</td>
-<td><table width="100%" border="0" cellpadding="0" cellspacing="0" class="9">
-<tr> 
-<td align="right"> <a href="1.md">下一页</a> </td>
-<td width="150">&nbsp;</td>
-</tr>
-</table>
-<span class="9"><font color="#CCCCCC">创建时间：2008-11-1 </font></span></td>
-<td>&nbsp;</td>
-</tr>
-</table></td>
-</tr>
-</table>
-</div></td>
-</tr>
-</table></td>
-</tr>
-</table>
-</center>
+</p><span class="9"><font color="#CCCCCC">创建时间：2008-11-1 </font></span></div></center>
 </div>
