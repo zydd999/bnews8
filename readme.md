@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200511/1326661.md">公开致信全国人大代表张雪忠凌晨被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326673.md">当众羞辱江泽民从未开过枪 传姬胜德刑满出狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326733.md">震撼！中国法学家发公开信 两会代表非法 应国民制宪 崔永元：有人不让我说话2年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326613.md">大陆失业者：去年如生活在地狱 今年更糟(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326960.md" target="_blank">网友直击：疫情掏空了哈尔滨 活着都难(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md" target="_blank">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326945.md" target="_blank">武汉官宣打破“清零” 无疫小区突爆社区感染(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326943.md" target="_blank">专栏 | 夜话中南海：习近平是如此“构建 人类命运共同体”！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326876.md" target="_blank">一线采访：武汉建变电站 民众上街抗议(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326570.md" target="_blank">坑自家人不手软？小粉红举报中国PSN惨遭下架(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326557.md" target="_blank">中共领事馆恐崩溃？竟被投影中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326556.md" target="_blank">两会代表进京前 传要居家观察和核酸检测(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326552.md" target="_blank">网曝广东虎门大桥异常抖动的另一原因(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md" target="_blank">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326954.md" target="_blank">中国疫情受害者起诉政府难于上青天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326953.md" target="_blank">新华社反驳美国的二十四条“谎言”     真是谎言吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326939.md" target="_blank">八国联名向世卫施压   支持台湾参与世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326927.md" target="_blank">新冠疫情下中美贸易协议如果作废 两国将真的脱钩？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326920.md" target="_blank">律师会见湖南异议人士谢文飞受阻</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326808.md" target="_blank">涉6次软抗习批示 省委书记遭控受贿7元人民币 天津今开审</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326797.md" target="_blank">杜导斌关注疫情再受软禁　当局更以生命威胁家人收声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326796.md" target="_blank">特朗普拜登“斗打中国”抢选票 专家指中美关系要惊涛骇浪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326784.md" target="_blank">武汉今报多人确诊 问责官员火速遭免</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326750.md" target="_blank">中国报复澳大利亚第一枪? 传北京威胁对澳小麦课关税</a></li>
 
 </ul>
 </div>
