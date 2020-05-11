@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325782.md">9国货币互换协议踢开人民币 陆官员哀叹“去中共化”成型(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325824.md">川普近乎宣战 中共狗急跳墙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326109.md">中纪委成橡皮图章 两大案显赵乐际无实权(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326159.md">以色列总理：如这事是真 病毒可能“终结人类”(图)</a></li>
@@ -18,13 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326160.md">中国大陆舆论场忧喜交加：五毛大军踢到两块铁板(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325823.md">川普一撤金援 谭德塞立刻哭穷：WHO缺13亿美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326140.md">传解放军今试飞轰-20隐形轰炸机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200510/1326102.md">马尔地夫完了？全国4分之1人恐染病(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md">美防疫3巨头都自主隔离 以总理：如是真可"终结人类” 武毒所去年10月似关闭2周</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200510/1326102.md">马尔地夫完了？全国4分之1人恐染病(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326245.md">对当局不满？！中共的鹰派专家们最近说话调门都很奇怪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200510/1326127.md">奥巴马厉批特朗普媒体疯传 指白宫防疫是场灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1325924.md">2021年更可怕！《地母经》揭秘全球将死一半人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200510/1325865.md">疫情重创！中国倒闭潮来了？！企业不是病死！而是赔死！穷死！等死！美国加大管制！防中国窃密？！【2020.05.10『年代向钱看』周末精选】</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326430.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326407.md" target="_blank">崔永元发视频透露处境：有人不让我说话2年了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326401.md" target="_blank">抖音成中共反美宣传的重型武器(上)(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326334.md" target="_blank">黄宗明：中共特色超限战百骗百胜</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325825.md" target="_blank">欧盟驻华大使屈服于中共审查 遭欧盟谴责(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325824.md" target="_blank">川普近乎宣战 中共狗急跳墙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325812.md" target="_blank">中共宣称防疫成果 遭原卫生高官驳斥(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325811.md" target="_blank">大陆复课 湖北一高三学生核酸检测呈阳性(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326417.md" target="_blank">不屈港人：商场和你唱遍地开花走入街头 警旺角狂抓逾百人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326416.md" target="_blank">粤千亿P2P平台退场 涉11万投资人百亿借贷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326406.md" target="_blank">允许美企制定5G标准 分析：不涉及解封华为(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325581.md" target="_blank">美媒曝中共病毒快乐诡象 哈尔滨许多医院院内感染 密件曝医院恐被债务压垮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325550.md" target="_blank">钟南山出大事 曝大丑闻 李兰娟儿媳妇拉下了几个干部？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325299.md" target="_blank">揭秘习近平为何对此事狂热？大清洗？掌控政法系新阶段 韩媒曝光金正恩剪彩内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325298.md" target="_blank">美中较量 北京拟求芯片自主 美握王牌(图)</a></li>
 
 </ul>
 </div>
