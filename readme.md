@@ -2,20 +2,16 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325824.md">川普近乎宣战 中共狗急跳墙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326109.md">中纪委成橡皮图章 两大案显赵乐际无实权(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326159.md">以色列总理：如这事是真 病毒可能“终结人类”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326133.md">中印边境又爆起冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325884.md">郝海东：脑残喷子5毛小粉红...你们这帮奴才太监(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325959.md">武汉病毒所发生过某个“危险事件”？报告：手机数据显示武汉病毒所10月异常(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326164.md">名副其实的“墙”国 网友翻墙遭公安警告和威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326241.md">3大信号 川普要重创中共 唯中共正独门「超限战」欧驻京大使屈服遭欧盟谴责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326075.md">“口信”泄疫情 朝鲜0病例遭习近平戳破？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326162.md">去中共化!9央行踢开人民币 外汇流失难挡 中共或锁国 北京巨资求自主还是输美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200510/1325827.md">抓到了！中共出资纪录曝光…狠打脸韩国瑜称「拿钱就下台」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325964.md">央视骂完蓬佩奥 又发贬美报道 网友实在看不下去了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326160.md">中国大陆舆论场忧喜交加：五毛大军踢到两块铁板(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1325823.md">川普一撤金援 谭德塞立刻哭穷：WHO缺13亿美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326140.md">传解放军今试飞轰-20隐形轰炸机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md">美防疫3巨头都自主隔离 以总理：如是真可"终结人类” 武毒所去年10月似关闭2周</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200510/1326102.md">马尔地夫完了？全国4分之1人恐染病(图)</a></li>
@@ -23,8 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200510/1326127.md">奥巴马厉批特朗普媒体疯传 指白宫防疫是场灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1325924.md">2021年更可怕！《地母经》揭秘全球将死一半人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200511/1326336.md">名媛曝赵薇丈夫欠债两亿玩失踪，本月15日最后限期不交控辩书将清算其财产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1326280.md">中国青年报：不要把伟大的批评者，当做国家的敌人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200510/1325865.md">疫情重创！中国倒闭潮来了？！企业不是病死！而是赔死！穷死！等死！美国加大管制！防中国窃密？！【2020.05.10『年代向钱看』周末精选】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326377.md">陈破空：动手了！中印边境爆发冲突。习近平什么都不怕？只怕两个人！美欧日悄悄撤离中国 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326487.md" target="_blank">疫情回来了么？武汉再报中共病毒感染病例(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326486.md" target="_blank">“抓到上访人员往死里打 打不死就行！” 大陆退役军人视频曝无家可归 (图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326442.md" target="_blank">孔子学院渗透世界 各国加剧审查抗中共宣传(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326430.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326407.md" target="_blank">崔永元发视频透露处境：有人不让我说话2年了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326401.md" target="_blank">抖音成中共反美宣传的重型武器(上)(图)</a></li>
@@ -44,7 +48,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326268.md" target="_blank">比尔·盖茨应该同情中共吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md" target="_blank">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326165.md" target="_blank">南京女童落水被救后惨遭杀害藏尸山中</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326164.md" target="_blank">名副其实的“墙”国 网友翻墙遭公安警告和威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326163.md" target="_blank">中共“两会”前严控访民 维稳还到了俄罗斯？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326149.md" target="_blank">陈破空：母亲节快乐！祝福天底下所有善良的母亲。世上只有妈妈好</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326117.md" target="_blank">一期班学员回忆李洪志大师现场行神迹（组图）</a></li>
@@ -55,15 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325958.md" target="_blank">〖图集〗2020普利策突发新闻摄影奖：香港反送中运动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325955.md" target="_blank">大陆新闻解读651期_时事小品：下一个骂谁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325885.md" target="_blank">英法专家估计疫情最早于10月底11月初已经爆发(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325825.md" target="_blank">欧盟驻华大使屈服于中共审查 遭欧盟谴责(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325824.md" target="_blank">川普近乎宣战 中共狗急跳墙(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1325812.md" target="_blank">中共宣称防疫成果 遭原卫生高官驳斥(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326417.md" target="_blank">不屈港人：商场和你唱遍地开花走入街头 警旺角狂抓逾百人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326416.md" target="_blank">粤千亿P2P平台退场 涉11万投资人百亿借贷(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200509/1325534.md" target="_blank">诚念法轮功真言 三亲友的中共肺炎快速康复（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325581.md" target="_blank">美媒曝中共病毒快乐诡象 哈尔滨许多医院院内感染 密件曝医院恐被债务压垮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325550.md" target="_blank">钟南山出大事 曝大丑闻 李兰娟儿媳妇拉下了几个干部？(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200509/1325299.md" target="_blank">揭秘习近平为何对此事狂热？大清洗？掌控政法系新阶段 韩媒曝光金正恩剪彩内幕</a></li>
 
 </ul>
 </div>
