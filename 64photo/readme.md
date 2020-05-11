@@ -9,8 +9,17 @@
 </div>
 <p align="left">　　<span class="STYLE3">我坚信：任何一个正常的、略有人性的人全部看完这些图片，对中共这个政权不可能没有一丝感触......</span></p>
 <p align="left"><!--HTMLBUILERPART0-->　　<span class="STYLE2">在1989年64惨案20周年即将到来之际，谨此向64惨案的幸存的英雄致敬！向遭屠杀的英魂们哀悼！</span></p>
-<p align="center"><BR>
-  <BR> 
+<p align="center">
+
+* [第1页](1.md)
+* [第2页](2.md)
+* [第3页](3.md)
+* [第4页](4.md)
+* [第5页](5.md)
+* [第6页](6.md)
+* [第7页](7.md)
+* [第8页](8.md)
+
   －禁书网－欢迎传播-－<BR>
   <BR>
   <!--/HTMLBUILERPART0--> 
