@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326407.md">崔永元发视频透露处境：有人不让我说话2年了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326407.md">崔永元发视频透露处境：有人不让我说话2年了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326668.md">劲爆！班农又发布消息令中共恐惧：川普要拆防火墙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326691.md">崔永元发视频爆钟南山丑闻 千亿P2P退场11万人百亿没了 惊！中国人购买力比不上穷国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326394.md">俄罗斯独立报：北京在冒失去信任的风险</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326939.md" target="_blank">八国联名向世卫施压   支持台湾参与世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326927.md" target="_blank">新冠疫情下中美贸易协议如果作废 两国将真的脱钩？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326920.md" target="_blank">律师会见湖南异议人士谢文飞受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326919.md" target="_blank">陕西前书记赵正永巨额贪污案开庭</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326796.md" target="_blank">特朗普拜登“斗打中国”抢选票 专家指中美关系要惊涛骇浪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326784.md" target="_blank">武汉今报多人确诊 问责官员火速遭免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326750.md" target="_blank">中国报复澳大利亚第一枪? 传北京威胁对澳小麦课关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326749.md" target="_blank">专家：菲抗议中国建立永暑礁行政中心，中国会凭借实力不予理睬</a></li>
 
 </ul>
 </div>
