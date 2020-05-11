@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326927.md" target="_blank">新冠疫情下中美贸易协议如果作废 两国将真的脱钩？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326920.md" target="_blank">律师会见湖南异议人士谢文飞受阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326919.md" target="_blank">陕西前书记赵正永巨额贪污案开庭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326918.md" target="_blank">美国海军南海“显示存在”挺马来西亚</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326784.md" target="_blank">武汉今报多人确诊 问责官员火速遭免</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326750.md" target="_blank">中国报复澳大利亚第一枪? 传北京威胁对澳小麦课关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326749.md" target="_blank">专家：菲抗议中国建立永暑礁行政中心，中国会凭借实力不予理睬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326748.md" target="_blank">台湾教授因提武肺及中华民国被陆生举报遭校方强迫道歉</a></li>
 
 </ul>
 </div>
