@@ -7,14 +7,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326668.md">劲爆！班农又发布消息令中共恐惧：川普要拆防火墙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326691.md">崔永元发视频爆钟南山丑闻 千亿P2P退场11万人百亿没了 惊！中国人购买力比不上穷国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326394.md">俄罗斯独立报：北京在冒失去信任的风险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326377.md">陈破空：动手了！中印边境爆发冲突。习近平什么都不怕？只怕两个人！美欧日悄悄撤离中国 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200511/1326376.md">越没本事的男人 越喜欢做这“三件事”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326514.md">中印爆发边境冲突 150名士兵参与斗殴(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326612.md">女官员聚众吸毒身亡 曾获「最美湘女」称号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326557.md">中共领事馆恐崩溃？竟被投影中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200511/1326412.md">中共使馆发推说了啥？ 惨遭德国网友狂打脸(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326734.md">装满三辆救护车！武汉三区急传疫情爆发 网民：会再封城吗？(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326682.md">中国老人自述疫情下在美真实生活 五毛看完沉默了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326552.md">网曝广东虎门大桥异常抖动的另一原因(图/视频)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326733.md">震撼！中国法学家发公开信 两会代表非法 应国民制宪 崔永元：有人不让我说话2年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326613.md">大陆失业者：去年如生活在地狱 今年更糟(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326535.md">崔永元爆料：钟南山再次违法做广告(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326681.md">【微博精粹】习近平跪不起全球400万受害者 路都被棺材堵死了(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326974.md" target="_blank">中共“长征五号B”一次发射 却两次失败 坠入美国外海(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326973.md" target="_blank">美媒：疫情暴露中共红十字会黑幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326960.md" target="_blank">网友直击：疫情掏空了哈尔滨 活着都难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md" target="_blank">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326945.md" target="_blank">武汉官宣打破“清零” 无疫小区突爆社区感染(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md" target="_blank">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326571.md" target="_blank">中共对台“混合战”? 专家：元朗事件曾演练(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326570.md" target="_blank">坑自家人不手软？小粉红举报中国PSN惨遭下架(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326557.md" target="_blank">中共领事馆恐崩溃？竟被投影中共病毒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326556.md" target="_blank">两会代表进京前 传要居家观察和核酸检测(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326985.md" target="_blank">中国黑客被指频繁攻击、窃取疫情相关资讯</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326984.md" target="_blank">致信人大“国民制宪”，张雪忠被抓一天后获释</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326983.md" target="_blank">美国收紧中国记者签证   中国外交部扬言反制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326970.md" target="_blank">美18个州检察长要求国会就新冠疫情问责中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326969.md" target="_blank">母亲节香港爆严重警民冲突  反送中旧火复燃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1326954.md" target="_blank">中国疫情受害者起诉政府难于上青天</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326843.md" target="_blank">武汉民众游行抗议建变电站遭警镇压</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326842.md" target="_blank">中印边界再次爆发冲突 两军斗殴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326838.md" target="_blank">武汉等多地再次爆发聚集感染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326831.md" target="_blank">任正非为何说华为系统要想超过安卓和苹果需要300年?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326823.md" target="_blank">习总强推中药连锁效应　无效胶囊倾销海外华人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326808.md" target="_blank">涉6次软抗习批示 省委书记遭控受贿7元人民币 天津今开审</a></li>
 
 </ul>
 </div>
