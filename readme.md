@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326394.md">俄罗斯独立报：北京在冒失去信任的风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md">美防疫3巨头都自主隔离 以总理：如是真可"终结人类” 武毒所去年10月似关闭2周</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200511/1326412.md">中共使馆发推说了啥？ 惨遭德国网友狂打脸(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326557.md">中共领事馆恐崩溃？竟被投影中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326245.md">对当局不满？！中共的鹰派专家们最近说话调门都很奇怪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1326280.md">中国青年报：不要把伟大的批评者，当做国家的敌人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326557.md">中共领事馆恐崩溃？竟被投影中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326500.md">源头成谜 舒兰进入战时状态 传多单位“已瘫痪”(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326355.md">彭定康：卑鄙无耻的共产党政权必须面对世界的审判</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326612.md">女官员聚众吸毒身亡 曾获「最美湘女」称号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200511/1326374.md">解析第二波瘟疫很快会来，高人有高人发表高见的地方</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326629.md" target="_blank">澳洲越南社区领袖：向法轮功学员致以节日问候</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326717.md" target="_blank">国进民退？王传福卸任上海比亚迪法人与董事职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326684.md" target="_blank">中共两会前 呼吁宪改的学者张雪忠被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326677.md" target="_blank">率先看破中共瞒疫 博明帮川普制定强硬策略(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326676.md" target="_blank">纳瓦罗：中共病毒零号病人11月中已在武汉出现(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326502.md" target="_blank">传中共试飞轰-20隐形轰炸机为山寨美军F-117(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326501.md" target="_blank">封门封户 哈尔滨草木皆兵(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326500.md" target="_blank">源头成谜 舒兰进入战时状态 传多单位“已瘫痪”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326487.md" target="_blank">疫情回来了么？武汉再报中共病毒感染病例(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326486.md" target="_blank">“抓到上访人员往死里打 打不死就行！” 大陆退役军人视频曝无家可归 (图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326725.md" target="_blank">秘审一年音讯杳然   许艳：余文生恍如在中国消失</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326724.md" target="_blank">陈时中指下周能出席世卫大会机会不大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326723.md" target="_blank">【耳边风】有骨气有良知学者集体抵制告发风潮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326722.md" target="_blank">中印边境屡传冲突　两军殴斗丢石头多人受伤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326721.md" target="_blank">香港新闻自由持续倒退　调查显示评分创历史新低</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326714.md" target="_blank">投资报告：中国在美投资几乎停止，美在华投资变化不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326713.md" target="_blank">中国外交部威胁对美限制中国记者签证期限进行反制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326712.md" target="_blank">遭郭伟强拖行致椎间盘突出警方不闻不问　陈志全到警总报案</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326346.md" target="_blank">欧洲最新人证 新冠可能去年世界军运会就已流行？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326325.md" target="_blank">反修例示威周日百花齐放　 议员邝俊宇晚上旺角被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326310.md" target="_blank">任正非：华为系统要想超过安卓和苹果 需要300年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326309.md" target="_blank">蔡英文520就职演说 将强调两岸关系“坚持原则不冒进”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326308.md" target="_blank">“连花”宝典开遍世界 中国使馆说没用？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326307.md" target="_blank">中国政府再次承认防疫有短板 仍涉嫌甩锅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326285.md" target="_blank">章立凡：公开信满天飞真伪难辨，红后代担心沉船？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326284.md" target="_blank">时事大家谈：两会前网络舆情诡诈，习近平执政败象成焦点</a></li>
 
 </ul>
 </div>
