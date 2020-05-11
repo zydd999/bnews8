@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200511/1326412.md">中共使馆发推说了啥？ 惨遭德国网友狂打脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326552.md">网曝广东虎门大桥异常抖动的另一原因(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326500.md">源头成谜 舒兰进入战时状态 传多单位“已瘫痪”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200511/1326661.md">公开致信全国人大代表张雪忠凌晨被带走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326682.md">中国老人自述疫情下在美真实生活 五毛看完沉默了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326734.md">装满三辆救护车！武汉三区急传疫情爆发 网民：会再封城吗？(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326673.md">当众羞辱江泽民从未开过枪 传姬胜德刑满出狱</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326500.md">源头成谜 舒兰进入战时状态 传多单位“已瘫痪”(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326682.md">中国老人自述疫情下在美真实生活 五毛看完沉默了(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200511/1326661.md">公开致信全国人大代表张雪忠凌晨被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200511/1326710.md">林志玲判若两人 婚姻对女人的影响太大了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326673.md">当众羞辱江泽民从未开过枪 传姬胜德刑满出狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326535.md">崔永元爆料：钟南山再次违法做广告(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326613.md">大陆失业者：去年如生活在地狱 今年更糟(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326876.md" target="_blank">一线采访：武汉建变电站 民众上街抗议(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326875.md" target="_blank">一线采访：女儿染疫亡 武汉母亲喊冤被抓(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326874.md" target="_blank">《纽约时报》资深驻华记者储百亮被迫离开中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326857.md" target="_blank">陈破空：陈破空谈《常识》（之48）：为什麽有些中国人满足现状？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326825.md" target="_blank">香港母亲节警民冲突 12岁学生记者被押</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326768.md" target="_blank">中国“两会”前致公开信吁启动国民制宪，知名学者张雪忠被警方带走</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md" target="_blank">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326543.md" target="_blank">惊讶！中国人均购买力竟然比不上墨西哥（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326536.md" target="_blank">曾发文大赞习近平父亲 慎海雄再添新职(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326535.md" target="_blank">崔永元爆料：钟南山再次违法做广告(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326517.md" target="_blank">中共在南海东海动作频 引发紧张局势(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326516.md" target="_blank">调查追责压力增 新华社万字长文继续颠倒黑白(图)</a></li>
 
 </ul>
 </div>
