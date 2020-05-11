@@ -9,20 +9,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326160.md">中国大陆舆论场忧喜交加：五毛大军踢到两块铁板(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326377.md">陈破空：动手了！中印边境爆发冲突。习近平什么都不怕？只怕两个人！美欧日悄悄撤离中国 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200511/1326336.md">名媛曝赵薇丈夫欠债两亿玩失踪，本月15日最后限期不交控辩书将清算其财产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326273.md">美防疫3巨头都自主隔离 以总理：如是真可"终结人类” 武毒所去年10月似关闭2周</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326394.md">俄罗斯独立报：北京在冒失去信任的风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200511/1326412.md">中共使馆发推说了啥？ 惨遭德国网友狂打脸(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1326140.md">传解放军今试飞轰-20隐形轰炸机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200510/1322512.md">二波瘟疫将起，又将定时定地？（下）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200511/1326376.md">越没本事的男人 越喜欢做这“三件事”(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1326280.md">中国青年报：不要把伟大的批评者，当做国家的敌人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326245.md">对当局不满？！中共的鹰派专家们最近说话调门都很奇怪</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326514.md">中印爆发边境冲突 150名士兵参与斗殴(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200510/1326245.md">对当局不满？！中共的鹰派专家们最近说话调门都很奇怪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200510/1326280.md">中国青年报：不要把伟大的批评者，当做国家的敌人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326322.md">内幕：涉疫矛盾升级 中共加码布防 对民众维稳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326355.md">彭定康：卑鄙无耻的共产党政权必须面对世界的审判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200510/1326166.md">突爆多宗确诊病例传 染源成谜 吉林舒兰封城(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326500.md">源头成谜 舒兰进入战时状态 传多单位“已瘫痪”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326284.md">时事大家谈：两会前网络舆情诡诈，习近平执政败象成焦点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200511/1326351.md">〖兲朝浮世绘〗中共故意隐瞒疫情是维稳本能</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326677.md" target="_blank">率先看破中共瞒疫 博明帮川普制定强硬策略(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326676.md" target="_blank">纳瓦罗：中共病毒零号病人11月中已在武汉出现(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326672.md" target="_blank">中共借联合国决议推广虚假陈述 美国反击(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326646.md" target="_blank">川老板令员工“击落”竞标对手17架无人机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md" target="_blank">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326487.md" target="_blank">疫情回来了么？武汉再报中共病毒感染病例(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326486.md" target="_blank">“抓到上访人员往死里打 打不死就行！” 大陆退役军人视频曝无家可归 (图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326442.md" target="_blank">孔子学院渗透世界 各国加剧审查抗中共宣传(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326430.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
 
 </ul>
 </div>
