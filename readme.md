@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326988.md">陈破空：习近平突然释放前政治局委员！两会前的神秘用意。某政治老人干了两件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326960.md">网友直击：疫情掏空了哈尔滨 活着都难(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326988.md">陈破空：习近平突然释放前政治局委员！两会前的神秘用意。某政治老人干了两件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1326981.md">川普：奥巴马门！史上最大政治犯罪！轮到我调查你们了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327001.md">还有多久三峡溃坝？预言中的景象描述淋漓尽致</a></li>
@@ -11,15 +11,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327262.md">伊朗导弹误中自己人 中方报道悄悄隐藏一关键消息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326974.md">中共“长征五号B”一次发射 却两次失败 坠入美国外海(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327285.md">中共两会14人不能参加包括刘强东 原因“耐人寻味”（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327203.md">两会前反习拥习暗流涌 习近平突现山西云冈石窟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200512/1327245.md">华裔女记者追问惹怒 特朗普愤离白宫记者会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327285.md">中共两会14人不能参加包括刘强东 原因“耐人寻味”（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327163.md">川普：奥巴马犯下美国史上最大政治罪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327298.md">武汉爆发?搞10天大会战 中共贸易报复 澳强硬表态 美17州检察长要问责中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327167.md">传陈良宇减刑出狱 情妇众多 一人三次堕胎(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200512/1327186.md">癌症不是一天造成的！身体这 6 种症状持续1~2个月 可能是癌症征兆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327255.md">中南海权斗白热化 一图看懂江曾政法爪牙频落马(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200512/1327186.md">癌症不是一天造成的！身体这 6 种症状持续1~2个月 可能是癌症征兆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327282.md">两会临近 中南海高层忙于摆平内部烂摊子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327181.md">川普赞这个中国人是英雄(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200512/1326968.md">【真理部】市委宣传部：”关于5.7空难宣传报道的要求“</a></li>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327470.md" target="_blank">美国特朗普政府叫停联邦退休基金投资中国股票</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327469.md" target="_blank">中国海警船连续驶入日本领海    菅义伟：强烈要求应对</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327466.md" target="_blank">十字架报：在武汉，一切都没有恢复正常</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327465.md" target="_blank">中国将对79种美国进口商品免除贸易战期间所加征的关税</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327461.md" target="_blank">特朗普总统下令把美联邦雇员退休金基金撤出中国市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327455.md" target="_blank">美参议院通过法案  要求政府推动台湾参与世卫大会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327435.md" target="_blank">香港艺人黄秋生有意入籍台湾     陆委会：会依规处理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327434.md" target="_blank">河南疫苗受害家长何方美致信全国人大代表    敦促立法追责</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327367.md" target="_blank">共同社：中国军方计划8月在南中国海举行大规模演习</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327366.md" target="_blank">中澳关系紧张升级 澳国4大牛肉出口商被中国列入黑名单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327365.md" target="_blank">日本「撤出中国」呼声高唱入云　传中国豁免重要外企高管入境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327363.md" target="_blank">吉林舒兰病患洗公安衣感染？ 专家称有可能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327353.md" target="_blank">日媒指共军拟8月演习登陆东沙岛　美军单周出动9架轰炸机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327351.md" target="_blank">港府敦促立法会优先审议有争议的国歌条例草案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327337.md" target="_blank">台湾仍未收世卫大会邀请函　美再通过法案助台重返WHO</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327336.md" target="_blank">传台湾情报机关扩编　首个机动飞弹中队明年成军</a></li>
 
 </ul>
 </div>
