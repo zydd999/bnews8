@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327163.md">川普：奥巴马犯下美国史上最大政治罪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200511/1326821.md">纳瓦罗坚称病毒可能来自武汉P4实验室 并指中国只花60天就摧毁美国经济</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327262.md">伊朗导弹误中自己人 中方报道悄悄隐藏一关键消息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200512/1326968.md">【真理部】市委宣传部：”关于5.7空难宣传报道的要求“</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327167.md">传陈良宇减刑出狱 情妇众多 一人三次堕胎(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327181.md">川普赞这个中国人是英雄(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326990.md">文昭：习近平逆袭「80国联军」，拟对澳洲征关税；新华社24条无死角甩锅，川普弱点暴露 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1326949.md">为何男性更易感染中共病毒？ 科学家找到原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327132.md">江峰：今天说说中国一个怪现象，聊聊川普周末开了一个高规格国家安全会议，到现在内容是高度机密，肯定是跟战争有关了，这个规格不像是跟伊朗开战，那麽敌人是谁呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327262.md">伊朗导弹误中自己人 中方报道悄悄隐藏一关键消息(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326973.md">美媒：疫情暴露中共红十字会黑幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327154.md">华人回国有风险！又有两名加拿大公民在中国「被消失」遭逮判刑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200512/1327245.md">华裔女记者追问惹怒 特朗普愤离白宫记者会</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327391.md" target="_blank">中国学者张雪忠呼吁“两会”政改，与虎谋皮之举价值何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327383.md" target="_blank">张雪忠促制宪改革被扣一天获释　发公开信通讯平台却被封锁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327378.md" target="_blank">武汉病毒未了 武汉人又起堵建变电站抗争</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327376.md" target="_blank">中国与世卫组织秘密备忘录曝光    台湾：绝不接受</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327251.md" target="_blank">中国公布新一批对美加征关税商品排除清单 包括稀土</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327250.md" target="_blank">中国暂停进口澳大利亚牛肉 堪培拉说与新冠病毒源头调查争议无关</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327249.md" target="_blank">疫情中国 新报本土复清零 境外输入一例确诊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327183.md" target="_blank">王默推特发声被指寻衅滋事 支联会斥中国无权把手伸至国外社交软件</a></li>
 
 </ul>
 </div>
