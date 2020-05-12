@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326544.md">北京警界风声鹤唳！惊爆孟建柱的公安部情人被带走(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326668.md">劲爆！班农又发布消息令中共恐惧：川普要拆防火墙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326691.md">崔永元发视频爆钟南山丑闻 千亿P2P退场11万人百亿没了 惊！中国人购买力比不上穷国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326612.md">女官员聚众吸毒身亡 曾获「最美湘女」称号(图)</a></li>
@@ -10,21 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326734.md">装满三辆救护车！武汉三区急传疫情爆发 网民：会再封城吗？(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326572.md">中共长征火箭失控坠落 美太空军紧盯动态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1326860.md">央行报告：中国一半以上家庭 已在破产边缘…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326682.md">中国老人自述疫情下在美真实生活 五毛看完沉默了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326960.md">网友直击：疫情掏空了哈尔滨 活着都难(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326682.md">中国老人自述疫情下在美真实生活 五毛看完沉默了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326552.md">网曝广东虎门大桥异常抖动的另一原因(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200511/1326710.md">林志玲判若两人 婚姻对女人的影响太大了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326988.md">陈破空：习近平突然释放前政治局委员！两会前的神秘用意。某政治老人干了两件事 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326733.md">震撼！中国法学家发公开信 两会代表非法 应国民制宪 崔永元：有人不让我说话2年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326673.md">当众羞辱江泽民从未开过枪 传姬胜德刑满出狱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200511/1326661.md">公开致信全国人大代表张雪忠凌晨被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200511/1326661.md">公开致信全国人大代表张雪忠凌晨被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326613.md">大陆失业者：去年如生活在地狱 今年更糟(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326681.md">【微博精粹】习近平跪不起全球400万受害者 路都被棺材堵死了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1326981.md">川普：奥巴马门！史上最大政治犯罪！轮到我调查你们了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200511/1326808.md">涉6次软抗习批示 省委书记遭控受贿7元人民币 天津今开审</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200511/1326820.md">宝胜快评：两会前大动作：外交反击；释放陈良宇、姬胜德，审判赵正永、抓捕张雪忠</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326974.md">中共“长征五号B”一次发射 却两次失败 坠入美国外海(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327163.md" target="_blank">川普：奥巴马犯下美国史上最大政治罪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327137.md" target="_blank">“文攻武吓” 中共海军渤海实弹军演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327132.md" target="_blank">江峰：今天说说中国一个怪现象，聊聊川普周末开了一个高规格国家安全会议，到现在内容是高度机密，肯定是跟战争有关了，这个规格不像是跟伊朗开战，那麽敌人是谁呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327114.md" target="_blank">吸引外籍生来中国大陆洗脑 多所大学取消入学考试(图)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326874.md" target="_blank">《纽约时报》资深驻华记者储百亮被迫离开中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326857.md" target="_blank">陈破空：陈破空谈《常识》（之48）：为什麽有些中国人满足现状？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326825.md" target="_blank">香港母亲节警民冲突 12岁学生记者被押</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326768.md" target="_blank">中国“两会”前致公开信吁启动国民制宪，知名学者张雪忠被警方带走</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327162.md" target="_blank">黄秋生亲曝「准备入籍台湾」抵台入境隔离中(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327154.md" target="_blank">华人回国有风险！又有两名加拿大公民在中国「被消失」遭逮判刑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md" target="_blank">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327044.md" target="_blank">合肥一批炒房客崩了 一周300套断供房抛售 弃房断供惊现楼市(组图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326161.md" target="_blank">口罩质检未通过 比亚迪需要归还加州18亿元定金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326160.md" target="_blank">中国大陆舆论场忧喜交加：五毛大军踢到两块铁板(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326159.md" target="_blank">以色列总理：如这事是真 病毒可能“终结人类”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200510/1326109.md" target="_blank">中纪委成橡皮图章 两大案显赵乐际无实权(图)</a></li>
 
 </ul>
 </div>
