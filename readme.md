@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md" target="_blank">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md" target="_blank">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327298.md" target="_blank">武汉爆发?搞10天大会战 中共贸易报复 澳强硬表态 美17州检察长要问责中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md" target="_blank">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326417.md" target="_blank">不屈港人：商场和你唱遍地开花走入街头 警旺角狂抓逾百人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326416.md" target="_blank">粤千亿P2P平台退场 涉11万投资人百亿借贷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326406.md" target="_blank">允许美企制定5G标准 分析：不涉及解封华为(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326300.md" target="_blank">WSJ：川普政府加速推动台积电赴美设厂 半导体全面美国制造(图)</a></li>
 
 </ul>
 </div>
