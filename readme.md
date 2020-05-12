@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326988.md">陈破空：习近平突然释放前政治局委员！两会前的神秘用意。某政治老人干了两件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326960.md">网友直击：疫情掏空了哈尔滨 活着都难(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326988.md">陈破空：习近平突然释放前政治局委员！两会前的神秘用意。某政治老人干了两件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1326981.md">川普：奥巴马门！史上最大政治犯罪！轮到我调查你们了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327001.md">还有多久三峡溃坝？预言中的景象描述淋漓尽致</a></li>
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327181.md">川普赞这个中国人是英雄(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200512/1326968.md">【真理部】市委宣传部：”关于5.7空难宣传报道的要求“</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327275.md">北京鸟事：领导强拆鸟巢 部门贼喊捉贼(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326990.md">文昭：习近平逆袭「80国联军」，拟对澳洲征关税；新华社24条无死角甩锅，川普弱点暴露 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327485.md" target="_blank">又是人质外交？加拿大华裔夫妻被中国处叛逃罪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327470.md" target="_blank">美国特朗普政府叫停联邦退休基金投资中国股票</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327469.md" target="_blank">中国海警船连续驶入日本领海    菅义伟：强烈要求应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327466.md" target="_blank">十字架报：在武汉，一切都没有恢复正常</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327371.md" target="_blank">钟南山遭崔永元指控违法广告 港媒揭多起私货质疑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327367.md" target="_blank">共同社：中国军方计划8月在南中国海举行大规模演习</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327366.md" target="_blank">中澳关系紧张升级 澳国4大牛肉出口商被中国列入黑名单</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327365.md" target="_blank">日本「撤出中国」呼声高唱入云　传中国豁免重要外企高管入境</a></li>
 
 </ul>
 </div>
