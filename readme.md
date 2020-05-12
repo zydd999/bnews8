@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200511/1326682.md">中国老人自述疫情下在美真实生活 五毛看完沉默了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326552.md">网曝广东虎门大桥异常抖动的另一原因(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200511/1326710.md">林志玲判若两人 婚姻对女人的影响太大了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326500.md">源头成谜 舒兰进入战时状态 传多单位“已瘫痪”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326960.md">网友直击：疫情掏空了哈尔滨 活着都难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326733.md">震撼！中国法学家发公开信 两会代表非法 应国民制宪 崔永元：有人不让我说话2年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326673.md">当众羞辱江泽民从未开过枪 传姬胜德刑满出狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200511/1326661.md">公开致信全国人大代表张雪忠凌晨被带走</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326613.md">大陆失业者：去年如生活在地狱 今年更糟(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326681.md">【微博精粹】习近平跪不起全球400万受害者 路都被棺材堵死了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326535.md">崔永元爆料：钟南山再次违法做广告(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326959.md">专家示警：破坏力高25倍 三峡大坝泄洪猛于海啸(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326988.md">陈破空：习近平突然释放前政治局委员！两会前的神秘用意。某政治老人干了两件事 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326511.md">中印边境再爆冲突 150士兵互殴11人“挂彩”(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327097.md" target="_blank">公检法司军队法轮功学员 恭祝李洪志师父华诞(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327079.md" target="_blank">报复孟晚舟案？又有两名加拿大公民在中国「被消失」遭逮判刑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327078.md" target="_blank">传武汉启动全市核酸筛查 持续10天(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327077.md" target="_blank">大陆民众感谢法轮功并祝李大师生日快乐(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326732.md" target="_blank">回忆李洪志大师在瑞典传功讲法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326734.md" target="_blank">装满三辆救护车！武汉三区急传疫情爆发 网民：会再封城吗？(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200511/1326629.md" target="_blank">澳洲越南社区领袖：向法轮功学员致以节日问候</a></li>
 
 </ul>
 </div>
