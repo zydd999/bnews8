@@ -7,21 +7,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327001.md">还有多久三峡溃坝？预言中的景象描述淋漓尽致</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327044.md">合肥一批炒房客崩了 一周300套断供房抛售 弃房断供惊现楼市(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327262.md">伊朗导弹误中自己人 中方报道悄悄隐藏一关键消息(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326974.md">中共“长征五号B”一次发射 却两次失败 坠入美国外海(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327285.md">中共两会14人不能参加包括刘强东 原因“耐人寻味”（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327163.md">川普：奥巴马犯下美国史上最大政治罪(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327203.md">两会前反习拥习暗流涌 习近平突现山西云冈石窟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200512/1327245.md">华裔女记者追问惹怒 特朗普愤离白宫记者会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327298.md">武汉爆发?搞10天大会战 中共贸易报复 澳强硬表态 美17州检察长要问责中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327282.md">两会临近 中南海高层忙于摆平内部烂摊子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327167.md">传陈良宇减刑出狱 情妇众多 一人三次堕胎(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327282.md">两会临近 中南海高层忙于摆平内部烂摊子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200512/1327186.md">癌症不是一天造成的！身体这 6 种症状持续1~2个月 可能是癌症征兆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327255.md">中南海权斗白热化 一图看懂江曾政法爪牙频落马(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327181.md">川普赞这个中国人是英雄(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200512/1326968.md">【真理部】市委宣传部：”关于5.7空难宣传报道的要求“</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327411.md">中国现第二波疫情 官方高度保密 知情人揭隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327132.md">江峰：今天说说中国一个怪现象，聊聊川普周末开了一个高规格国家安全会议，到现在内容是高度机密，肯定是跟战争有关了，这个规格不像是跟伊朗开战，那麽敌人是谁呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327275.md">北京鸟事：领导强拆鸟巢 部门贼喊捉贼(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1326990.md">文昭：习近平逆袭「80国联军」，拟对澳洲征关税；新华社24条无死角甩锅，川普弱点暴露 </a></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327529.md" target="_blank">湖南再现“大头娃娃” 严重畸形 疑因这个引起(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327528.md" target="_blank">武汉P4实验室泄露病毒是唯一合理解释(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327514.md" target="_blank">陈破空：重磅！首都卫戍司令出事？习近平走避山西。美国情报：那所建筑物曾经那样。中印打斗事关中共内斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327484.md" target="_blank">福克斯：川普下令美国联邦退休基金撤出中国市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327377.md" target="_blank">维族女子“失踪”两年半后突现身 家人仍担忧</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327132.md" target="_blank">江峰：今天说说中国一个怪现象，聊聊川普周末开了一个高规格国家安全会议，到现在内容是高度机密，肯定是跟战争有关了，这个规格不像是跟伊朗开战，那麽敌人是谁呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327114.md" target="_blank">吸引外籍生来中国大陆洗脑 多所大学取消入学考试(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327097.md" target="_blank">公检法司军队法轮功学员 恭祝李洪志师父华诞(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327079.md" target="_blank">报复孟晚舟案？又有两名加拿大公民在中国「被消失」遭逮判刑(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327078.md" target="_blank">传武汉启动全市核酸筛查 持续10天(组图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327534.md" target="_blank">中企高管性侵“养女”案后续 民间发起修法联署</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327516.md" target="_blank">外交部发言人：中美应努力推动第一阶段经贸协议取得成效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327511.md" target="_blank">中国驻世贸大使：中国不会放弃&#8221;发展中国家&#8221;地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327490.md" target="_blank">维权律师高智晟失踪千日  中国还有谁被消失？</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327391.md" target="_blank">中国学者张雪忠呼吁“两会”政改，与虎谋皮之举价值何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327383.md" target="_blank">张雪忠促制宪改革被扣一天获释　发公开信通讯平台却被封锁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327378.md" target="_blank">武汉病毒未了 武汉人又起堵建变电站抗争</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327376.md" target="_blank">中国与世卫组织秘密备忘录曝光    台湾：绝不接受</a></li>
 
 </ul>
 </div>
