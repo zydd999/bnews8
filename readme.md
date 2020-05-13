@@ -19,9 +19,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327990.md">【微博精粹】坐实?大裤衩被迫承认武汉P4病毒所科学家逃美?(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327652.md">天亮时分：川普在行动;30亿美元推倒中共防火墙;脸书的“最高法院”与油管的公然左转(政论天下第164集 20200512) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327689.md">又一位39岁美女演员因病去世！曾出演《大宅门》 男友不离不弃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327669.md">香港警务处处长邓炳强未正面回答“党员身份”引发热议(图)</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md" target="_blank">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md" target="_blank">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327970.md" target="_blank">【庆祝513】以善启迪孩子们最纯的本性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327971.md" target="_blank">【庆祝513】顽固如石，听信中共毁书谤法的人最终修炼法轮功</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md" target="_blank">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327784.md" target="_blank">被中共惹火了! 美17州检察长要求国会向中共国「究责」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327774.md" target="_blank">直击：武汉三民小区因疫情封闭 逾百特警把守警戒(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327765.md" target="_blank">太恶心了！ 厨师不满顾客退菜 竟然做这件事&#8230;(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328189.md" target="_blank">中国禁止入境 德国经理仍应可以前往</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328172.md" target="_blank">吉林市封城  东三省疫情告急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328165.md" target="_blank">美国正式指称中国黑客袭击美国疫苗研究机构</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328163.md" target="_blank">“检讨”疫情：世卫作用有限 或需建立新的架构</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328073.md" target="_blank">香港示威者以嘲讽方式为港首林郑月娥“祝寿”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328059.md" target="_blank">辜宽敏：期待蔡英文制定新宪 成为台湾的“国母”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328058.md" target="_blank">台湾14国友邦、南美71名议员致信谭德赛   敦促邀请台湾参与世卫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328057.md" target="_blank">美议员提案授权总统制裁中国 赵立坚反弹</a></li>
 
 </ul>
 </div>
