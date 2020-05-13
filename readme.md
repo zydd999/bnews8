@@ -4,8 +4,8 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327871.md">广州虎门大桥时隔多日仍抖动 当局这一做法令人发指（图片/视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327788.md">华人夫妇在柬埔寨遇害 只因发了朋友圈（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328172.md" target="_blank">吉林市封城  东三省疫情告急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328165.md" target="_blank">美国正式指称中国黑客袭击美国疫苗研究机构</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328163.md" target="_blank">“检讨”疫情：世卫作用有限 或需建立新的架构</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328158.md" target="_blank">欧盟建议成员国逐步解除旅行限制</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328059.md" target="_blank">辜宽敏：期待蔡英文制定新宪 成为台湾的“国母”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328058.md" target="_blank">台湾14国友邦、南美71名议员致信谭德赛   敦促邀请台湾参与世卫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328057.md" target="_blank">美议员提案授权总统制裁中国 赵立坚反弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328047.md" target="_blank">中国警告法国不要卖武器给台湾 法国：应全心全力专注抗疫</a></li>
 
 </ul>
 </div>
