@@ -1,29 +1,29 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327262.md">伊朗导弹误中自己人 中方报道悄悄隐藏一关键消息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327285.md">中共两会14人不能参加包括刘强东 原因“耐人寻味”（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327464.md">【立此存照】只因太像习近平？歌唱家刘克清“形象违规”遭封号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327258.md">中国一半多家庭在破产边缘 “中共完成第一阶段协议” 川普花30亿美元发免费餐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327411.md">中国现第二波疫情 官方高度保密 知情人揭隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327298.md">武汉爆发?搞10天大会战 中共贸易报复 澳强硬表态 美17州检察长要问责中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327517.md">【微博精粹】被全世界最严谨的德国人查到 习主席这回真大条了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327282.md">两会临近 中南海高层忙于摆平内部烂摊子(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200512/1327245.md">华裔女记者追问惹怒 特朗普愤离白宫记者会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327514.md">陈破空：重磅！首都卫戍司令出事？习近平走避山西。美国情报：那所建筑物曾经那样。中印打斗事关中共内斗 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327255.md">中南海权斗白热化 一图看懂江曾政法爪牙频落马(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327550.md">1999年被张艺谋劝退娱乐圈的最丑谋女郎魏敏芝 她现在怎样了？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327483.md">忒准啦！义乌老板神秘大数据预测疫情大爆发 川普能否连任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327528.md">武汉P4实验室泄露病毒是唯一合理解释(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327540.md">抗体查到！纽约华人：原来我们全家早就得了中共病毒(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327256.md">别想趁疫情捣乱！美7轰炸机出击 警告中俄(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327437.md">“丧尽天良”的敲锣女孩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327447.md">知名女星确诊武汉肺炎病毒 因怀孕拒绝吃药(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327275.md">北京鸟事：领导强拆鸟巢 部门贼喊捉贼(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200513/1327715.md">淫乱无底线！揭密：高岗腐烂透顶的私生活(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md">后疫情时代，中国或面临史无前例失业潮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327365.md">日本「撤出中国」呼声高唱入云　传中国豁免重要外企高管入境</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -32,6 +32,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327899.md" target="_blank">涉孙小果案 交通部前厅官被指受贿(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md" target="_blank">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327885.md" target="_blank">吉林省吉林市封城 火车停运 聚集场所停业(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327879.md" target="_blank">蛟河市“危险”了 摄影师确诊 婚礼参加者均要隔离(图)</a></li>
@@ -56,13 +57,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327686.md" target="_blank">吉林舒兰封城 进入战时状态(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md" target="_blank">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327654.md" target="_blank">一线采访：吉林爆疫情 舒兰公安局关门(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327652.md" target="_blank">天亮时分：川普在行动;30亿美元推倒中共防火墙;脸书的“最高法院”与油管的公然左转(政论天下第164集 20200512)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md" target="_blank">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md" target="_blank">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md" target="_blank">中国经济「休克」北大学者指货币政策失效(图)</a></li>
@@ -87,7 +88,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md" target="_blank">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326691.md" target="_blank">崔永元发视频爆钟南山丑闻 千亿P2P退场11万人百亿没了 惊！中国人购买力比不上穷国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326613.md" target="_blank">大陆失业者：去年如生活在地狱 今年更糟(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326612.md" target="_blank">女官员聚众吸毒身亡 曾获「最美湘女」称号(图)</a></li>
 
 </ul>
 </div>
