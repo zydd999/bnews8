@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327464.md">【立此存照】只因太像习近平？歌唱家刘克清“形象违规”遭封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327517.md">【微博精粹】被全世界最严谨的德国人查到 习主席这回真大条了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327514.md">陈破空：重磅！首都卫戍司令出事？习近平走避山西。美国情报：那所建筑物曾经那样。中印打斗事关中共内斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
@@ -17,13 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327788.md">华人夫妇在柬埔寨遇害 只因发了朋友圈（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200513/1327715.md">淫乱无底线！揭密：高岗腐烂透顶的私生活(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md">后疫情时代，中国或面临史无前例失业潮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328081.md" target="_blank">媒体人张贾龙“寻衅滋事”案开庭    坚称无罪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328080.md" target="_blank">盗窃新冠病毒研究    美国政府指控黑客组织具中方背景</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328076.md" target="_blank">时事大家谈：两会前大动作震动官场，一放一审关乎习近平权力布局？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328075.md" target="_blank">国际民调：近8成台湾人主张亲美　拜登顾问：会采取强硬对华态度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328073.md" target="_blank">香港示威者以嘲讽方式为港首林郑月娥“祝寿”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328059.md" target="_blank">辜宽敏：期待蔡英文制定新宪 成为台湾的“国母”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328058.md" target="_blank">台湾14国友邦、南美71名议员致信谭德赛   敦促邀请台湾参与世卫</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327980.md" target="_blank">武肺蔓延全球加剧仇中情绪　缅甸华商领袖被杀响起警号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327968.md" target="_blank">防范外国邀大陆病人参集体诉讼    浙江军区向离休干部发通知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327967.md" target="_blank">五二0前英派立委提案     删除「国家统一前」文字</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327956.md" target="_blank">中国东北疫情紧急，吉林市宣布封城</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327946.md" target="_blank">焦点对话：台湾民意大调查 亲美、亲中比一比？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327936.md" target="_blank">王全璋拟推翻“颠覆国家政权”裁决</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327935.md" target="_blank">台湾8成3年轻人不认同自己是“中国人”</a></li>
 
 </ul>
 </div>
