@@ -10,21 +10,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327163.md">川普：奥巴马犯下美国史上最大政治罪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327464.md">【立此存照】只因太像习近平？歌唱家刘克清“形象违规”遭封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200512/1327245.md">华裔女记者追问惹怒 特朗普愤离白宫记者会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327298.md">武汉爆发?搞10天大会战 中共贸易报复 澳强硬表态 美17州检察长要问责中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200512/1327245.md">华裔女记者追问惹怒 特朗普愤离白宫记者会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327282.md">两会临近 中南海高层忙于摆平内部烂摊子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327411.md">中国现第二波疫情 官方高度保密 知情人揭隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200512/1327186.md">癌症不是一天造成的！身体这 6 种症状持续1~2个月 可能是癌症征兆(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327517.md">【微博精粹】被全世界最严谨的德国人查到 习主席这回真大条了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327255.md">中南海权斗白热化 一图看懂江曾政法爪牙频落马(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327181.md">川普赞这个中国人是英雄(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327517.md">【微博精粹】被全世界最严谨的德国人查到 习主席这回真大条了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327483.md">忒准啦！义乌老板神秘大数据预测疫情大爆发 川普能否连任？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327132.md">江峰：今天说说中国一个怪现象，聊聊川普周末开了一个高规格国家安全会议，到现在内容是高度机密，肯定是跟战争有关了，这个规格不像是跟伊朗开战，那麽敌人是谁呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327514.md">陈破空：重磅！首都卫戍司令出事？习近平走避山西。美国情报：那所建筑物曾经那样。中印打斗事关中共内斗 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327132.md">江峰：今天说说中国一个怪现象，聊聊川普周末开了一个高规格国家安全会议，到现在内容是高度机密，肯定是跟战争有关了，这个规格不像是跟伊朗开战，那麽敌人是谁呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327275.md">北京鸟事：领导强拆鸟巢 部门贼喊捉贼(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200512/1327146.md">李子柒接受采访时暴露“真实颜值” 网友：被美颜和滤镜骗了好多年！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327154.md">华人回国有风险！又有两名加拿大公民在中国「被消失」遭逮判刑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327256.md">别想趁疫情捣乱！美7轰炸机出击 警告中俄(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327437.md">“丧尽天良”的敲锣女孩</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327722.md" target="_blank">22人不能参加两会 4名将领引关注(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327707.md" target="_blank">武汉三民小区因疫情封闭 逾百特警把守警戒(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327687.md" target="_blank">专坑老外！中共监狱区别对待出口、内销(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327686.md" target="_blank">吉林舒兰封城 进入战时状态(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md" target="_blank">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
@@ -56,14 +58,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327262.md" target="_blank">伊朗导弹误中自己人 中方报道悄悄隐藏一关键消息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327261.md" target="_blank">现场视频：武汉卫斌生鲜店现无症状感染者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327260.md" target="_blank">一线采访：丈夫染疫亡 武汉妻子的绝望经历(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327259.md" target="_blank">呼吁启动国民制宪被带走 传张雪忠已回家(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200512/1327178.md" target="_blank">四川省两会期间举牌 维权人士谢俊彪被抓(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md" target="_blank">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md" target="_blank">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327669.md" target="_blank">香港警务处处长邓炳强未正面回答“党员身份”引发热议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327653.md" target="_blank">朝鲜产品伪装成“中国制造” 出口欧洲(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md" target="_blank">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
@@ -87,8 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326555.md" target="_blank">澳媒：中共开出第一枪 扬言课征澳洲大麦关税(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326514.md" target="_blank">中印爆发边境冲突 150名士兵参与斗殴(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326429.md" target="_blank">最难的一次“两会”！政法专家发公开信：人大非正当机构(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326417.md" target="_blank">不屈港人：商场和你唱遍地开花走入街头 警旺角狂抓逾百人(组图)</a></li>
 
 </ul>
 </div>
