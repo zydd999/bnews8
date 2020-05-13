@@ -2,10 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327517.md">【微博精粹】被全世界最严谨的德国人查到 习主席这回真大条了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327550.md">1999年被张艺谋劝退娱乐圈的最丑谋女郎魏敏芝 她现在怎样了？(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327528.md">武汉P4实验室泄露病毒是唯一合理解释(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327540.md">抗体查到！纽约华人：原来我们全家早就得了中共病毒(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
@@ -18,13 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327979.md">军管！武汉小区封闭特警把守 吉林市封城 舒兰公安局关门 美共和党推重磅法案制裁中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md">后疫情时代，中国或面临史无前例失业潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327990.md">【微博精粹】坐实?大裤衩被迫承认武汉P4病毒所科学家逃美?(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327652.md">天亮时分：川普在行动;30亿美元推倒中共防火墙;脸书的“最高法院”与油管的公然左转(政论天下第164集 20200512) </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328137.md" target="_blank">网友直击：武汉再现随地倒 疫情已大规模爆发（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327979.md" target="_blank">军管！武汉小区封闭特警把守 吉林市封城 舒兰公安局关门 美共和党推重磅法案制裁中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md" target="_blank">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md" target="_blank">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
@@ -88,13 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1326860.md" target="_blank">央行报告：中国一半以上家庭 已在破产边缘…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326733.md" target="_blank">震撼！中国法学家发公开信 两会代表非法 应国民制宪 崔永元：有人不让我说话2年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200511/1326708.md" target="_blank">白宫:零号病人11月已在武汉 针锋相对 中美联合国大战 中共严防两会代表带毒入京</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328145.md" target="_blank">华为在美频频撞墙  砸重金搞公关收效不大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328135.md" target="_blank">美国政府指控中国企图窃取疫苗研究数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328131.md" target="_blank">民调显示大部分美国人将新冠疫情归咎于中国政府</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328127.md" target="_blank">美军高官：特种部队将在大国竞争中发挥独特作用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328126.md" target="_blank">时事大家谈：两会前大动作震动官场，一放一审关乎习近平权力布局</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328032.md" target="_blank">解放军渤海实弹演习 南海据报将有夺岛演习</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328031.md" target="_blank">中国首艘国产航母研制总指挥胡问鸣接受审查调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328028.md" target="_blank">时事大家谈：疫情危及美中贸易协议，北京悔约有无可能？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328018.md" target="_blank">日本新冠感染者死亡人数较少的秘密是什么？ &#8211; 东京专栏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328016.md" target="_blank">马晓飞担任NBA中国CEO，中国市场前景受关注</a></li>
 
 </ul>
 </div>
