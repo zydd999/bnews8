@@ -3,14 +3,13 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327517.md">【微博精粹】被全世界最严谨的德国人查到 习主席这回真大条了(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327514.md">陈破空：重磅！首都卫戍司令出事？习近平走避山西。美国情报：那所建筑物曾经那样。中印打斗事关中共内斗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327550.md">1999年被张艺谋劝退娱乐圈的最丑谋女郎魏敏芝 她现在怎样了？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327528.md">武汉P4实验室泄露病毒是唯一合理解释(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327540.md">抗体查到！纽约华人：原来我们全家早就得了中共病毒(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327871.md">广州虎门大桥时隔多日仍抖动 当局这一做法令人发指（图片/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327871.md">广州虎门大桥时隔多日仍抖动 当局这一做法令人发指（图片/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327788.md">华人夫妇在柬埔寨遇害 只因发了朋友圈（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
@@ -24,7 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md">后疫情时代，中国或面临史无前例失业潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327990.md">【微博精粹】坐实?大裤衩被迫承认武汉P4病毒所科学家逃美?(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328131.md" target="_blank">民调显示大部分美国人将新冠疫情归咎于中国政府</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328127.md" target="_blank">美军高官：特种部队将在大国竞争中发挥独特作用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328126.md" target="_blank">时事大家谈：两会前大动作震动官场，一放一审关乎习近平权力布局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328117.md" target="_blank">法国军售台湾战舰升级 中国抗议</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328028.md" target="_blank">时事大家谈：疫情危及美中贸易协议，北京悔约有无可能？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328018.md" target="_blank">日本新冠感染者死亡人数较少的秘密是什么？ &#8211; 东京专栏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1328016.md" target="_blank">马晓飞担任NBA中国CEO，中国市场前景受关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327997.md" target="_blank">曾被中国捧为「十大女性人物」　李飞飞任推特独董引审查担忧</a></li>
 
 </ul>
 </div>
