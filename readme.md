@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327550.md">1999年被张艺谋劝退娱乐圈的最丑谋女郎魏敏芝 她现在怎样了？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327483.md">忒准啦！义乌老板神秘大数据预测疫情大爆发 川普能否连任？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327540.md">抗体查到！纽约华人：原来我们全家早就得了中共病毒(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327528.md">武汉P4实验室泄露病毒是唯一合理解释(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327437.md">“丧尽天良”的敲锣女孩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327447.md">知名女星确诊武汉肺炎病毒 因怀孕拒绝吃药(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327447.md">知名女星确诊武汉肺炎病毒 因怀孕拒绝吃药(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200513/1327715.md">淫乱无底线！揭密：高岗腐烂透顶的私生活(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md">后疫情时代，中国或面临史无前例失业潮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327788.md">华人夫妇在柬埔寨遇害 只因发了朋友圈（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327365.md">日本「撤出中国」呼声高唱入云　传中国豁免重要外企高管入境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327382.md">著名黑帮头目“胖子梅” 染新冠死于狱中(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327485.md">又是人质外交？加拿大华裔夫妻被中国处叛逃罪</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327944.md" target="_blank">抖音和快手“互怼” 双方起诉对方侵权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327943.md" target="_blank">吉林蛟河市摄影师确诊 婚礼参加者均要隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md" target="_blank">天亮时分：为什么全世界上亿人都在庆祝5月13日？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327899.md" target="_blank">涉孙小果案 交通部前厅官被指受贿(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md" target="_blank">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327722.md" target="_blank">22人不能参加两会 4名将领引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327707.md" target="_blank">武汉三民小区因疫情封闭 逾百特警把守警戒(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327687.md" target="_blank">专坑老外！中共监狱区别对待出口、内销(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327686.md" target="_blank">吉林舒兰封城 进入战时状态(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md" target="_blank">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327956.md" target="_blank">中国东北疫情紧急，吉林市宣布封城</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327946.md" target="_blank">焦点对话：台湾民意大调查 亲美、亲中比一比？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327936.md" target="_blank">王全璋拟推翻“颠覆国家政权”裁决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327935.md" target="_blank">台湾8成3年轻人不认同自己是“中国人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327926.md" target="_blank">皮尤报告：台湾亲美势已定 讨厌中国成潮流？</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327587.md" target="_blank">美国大学一名华裔教授因隐瞒与中国关系、涉嫌电汇诈欺被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md" target="_blank">后疫情时代，中国或面临史无前例失业潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327534.md" target="_blank">中企高管性侵“养女”案后续 民间发起修法联署</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327516.md" target="_blank">外交部发言人：中美应努力推动第一阶段经贸协议取得成效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327511.md" target="_blank">中国驻世贸大使：中国不会放弃&#8221;发展中国家&#8221;地位</a></li>
 
 </ul>
 </div>
