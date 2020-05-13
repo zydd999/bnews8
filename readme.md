@@ -1,6 +1,7 @@
 <div class="catlist">
 <h3>24小时热点禁闻</h3>
 <ul>
+<li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327285.md">中共两会14人不能参加包括刘强东 原因“耐人寻味”（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327464.md">【立此存照】只因太像习近平？歌唱家刘克清“形象违规”遭封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200512/1327411.md">中国现第二波疫情 官方高度保密 知情人揭隐瞒</a></li>
@@ -12,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327550.md">1999年被张艺谋劝退娱乐圈的最丑谋女郎魏敏芝 她现在怎样了？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327483.md">忒准啦！义乌老板神秘大数据预测疫情大爆发 川普能否连任？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327528.md">武汉P4实验室泄露病毒是唯一合理解释(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327540.md">抗体查到！纽约华人：原来我们全家早就得了中共病毒(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327540.md">抗体查到！纽约华人：原来我们全家早就得了中共病毒(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200513/1327437.md">“丧尽天良”的敲锣女孩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327447.md">知名女星确诊武汉肺炎病毒 因怀孕拒绝吃药(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327275.md">北京鸟事：领导强拆鸟巢 部门贼喊捉贼(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200513/1327715.md">淫乱无底线！揭密：高岗腐烂透顶的私生活(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327553.md">后疫情时代，中国或面临史无前例失业潮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327365.md">日本「撤出中国」呼声高唱入云　传中国豁免重要外企高管入境</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200512/1327382.md">著名黑帮头目“胖子梅” 染新冠死于狱中(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -94,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327910.md" target="_blank">俄罗斯制呼吸机著火酿6死    出事机型运往美国调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327909.md" target="_blank">美航母「列根号」在硫磺岛特训   中共展示自制空投四轮甲车</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327908.md" target="_blank">台上校涉共谍案二审改判无罪    隐瞒与中国关系美华裔教授被捕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327907.md" target="_blank">堵塞「军民两用」漏洞 　 美国对华半导体代工厂启动「无限追溯」禁令</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327902.md" target="_blank">解放军八月首度举行夺取东沙岛军演台湾国防部称有应援计划</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327891.md" target="_blank">立法会9.6选举 学者料民主派难以取得过半议席</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327890.md" target="_blank">中国要法国取消对台军售合同 法国称遵循一中政策 也遵守对台合同</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327884.md" target="_blank">中美金融战开打 白宫禁公务员退休金投资中国股票</a></li>
@@ -114,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327469.md" target="_blank">中国海警船连续驶入日本领海    菅义伟：强烈要求应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327466.md" target="_blank">十字架报：在武汉，一切都没有恢复正常</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327465.md" target="_blank">中国将对79种美国进口商品免除贸易战期间所加征的关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327461.md" target="_blank">特朗普总统下令把美联邦雇员退休金基金撤出中国市场</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327455.md" target="_blank">美参议院通过法案  要求政府推动台湾参与世卫大会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327435.md" target="_blank">香港艺人黄秋生有意入籍台湾     陆委会：会依规处理</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200513/1327434.md" target="_blank">河南疫苗受害家长何方美致信全国人大代表    敦促立法追责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200512/1327429.md" target="_blank">时事大家谈：美中交恶节点热谈核武，中共官媒传递什么讯息？</a></li>
 
 </ul>
 </div>
