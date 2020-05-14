@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328476.md">北京卫戍区出事？司令员王春宁突然“失常”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328293.md">国企帝王赖小民的乐园：他把100多名情妇安置在一个小区</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328502.md">“中共已没有当年救市能力” 8成中国人放弃两年内购房 短短几天中美过两轮过山车</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328438.md">上海女仆公馆被查封 内部视频曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328296.md">内幕：中共想反悔？环时竟打脸刘鹤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328234.md">湖北疫情一线医生携子跳楼身亡 引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328554.md">【耳边风】「一尊」内部讲话：不是无能就是阴毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200514/1328237.md">遭黄安骂「丢黄家脸」黄秋生冷冷一句怼回去(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md">"美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328446.md">薄熙来秦城监狱胃病復發 寻求保外就医 薄势力密谋政变推翻习近平救出薄熙来 中南海谣言预言_190</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200514/1328237.md">遭黄安骂「丢黄家脸」黄秋生冷冷一句怼回去(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328469.md">回怼央视《后浪》 "你们有幸遇见这样的韭菜 但韭菜的不幸是遇见了这样的你们"(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md">"美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328529.md">习近平山西「拜佛」   外界疑整肃运动如箭在弦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328435.md">孙力军落马两天内 孟建柱傅政华被秘密抓捕 内幕细节曝光 二人已经招供 傅政华情妇不止三人 被要求坦白与郭文贵之间的交易 任志强被查与孙力军有关？中南海谣言预言_187</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328529.md">习近平山西「拜佛」   外界疑整肃运动如箭在弦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328768.md" target="_blank">分析师：中国一季度失业率12% 失业人数1.3亿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328767.md" target="_blank">全球制鞋龙头宝成关闭湖北工厂 裁员超4000人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328766.md" target="_blank">中国车企比亚迪N95口罩认证申请遭美国否决</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328761.md" target="_blank">“不要再当好好先生” 川普敦促参院召奥巴马听证解释“弗林案”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328760.md" target="_blank">促美中经济继续脱钩 川普：我们要将供应链全部带回美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328759.md" target="_blank">中国辽宁省一城投债可能有兑付风险</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328375.md" target="_blank">拍到李洪志大师七彩光 妇权创办人贺法轮功大师华诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328589.md" target="_blank">日本39县解除紧急事态宣言 东京大阪等8都道府县除外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328582.md" target="_blank">中共长征五号火箭发射失败 12米残骸疑坠落非洲村落</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328547.md" target="_blank">法轮功学员故事:美女科学家,五百强首席工程师,医学教授,政府律师等</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328566.md" target="_blank">陨石中首次发现蛋白质  外星有生命？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328555.md" target="_blank">「投资台湾三大方案」总额破兆元大关 创造逾8万个工作机会</a></li>
 
 </ul>
 </div>
