@@ -6,9 +6,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327990.md">【微博精粹】坐实?大裤衩被迫承认武汉P4病毒所科学家逃美?(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328240.md">政局吊诡 传江泽民被软禁在海南三亚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328476.md">北京卫戍区出事？司令员王春宁突然“失常”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328293.md">国企帝王赖小民的乐园：他把100多名情妇安置在一个小区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328296.md">内幕：中共想反悔？环时竟打脸刘鹤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328476.md">北京卫戍区出事？司令员王春宁突然“失常”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328079.md">美国老散“跑步进场” 预示灾难来临？(图)</a></li>
@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328234.md">湖北疫情一线医生携子跳楼身亡 引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200514/1328237.md">遭黄安骂「丢黄家脸」黄秋生冷冷一句怼回去(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328502.md">“中共已没有当年救市能力” 8成中国人放弃两年内购房 短短几天中美过两轮过山车</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328128.md">知识的尾巴 &#124; 钟南山，造神翻车与人设崩塌的灾难现场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328438.md">上海女仆公馆被查封 内部视频曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328128.md">知识的尾巴 &#124; 钟南山，造神翻车与人设崩塌的灾难现场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328329.md">出状况？中国移动“鼓励”员工停薪留职(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200514/1327679.md">武汉病毒为中共创收5万多亿元人民币</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328600.md" target="_blank">“两会”前北京“戎装常委”突换人 前任仅履新四个月</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328370.md" target="_blank">抗疫妙方：染中共肺炎 她靠「九字真言」绝处逢生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328372.md" target="_blank">华人现染疫症状 念法轮功真言化险为夷</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328375.md" target="_blank">拍到李洪志大师七彩光 妇权创办人贺法轮功大师华诞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328589.md" target="_blank">日本39县解除紧急事态宣言 东京大阪等8都道府县除外</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328582.md" target="_blank">中共长征五号火箭发射失败 12米残骸疑坠落非洲村落</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328449.md" target="_blank">中共病毒异变 呈现恐怖特性 以色列总理：人类或面临灭顶之灾 中共病毒追踪_295</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md" target="_blank">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328447.md" target="_blank">中共肺炎现恐怖“隐形缺氧”导致猝死 中共病毒自眼侵入 比SARS强百倍 毒攻精液 或性传播 中共病毒追踪_294</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328446.md" target="_blank">薄熙来秦城监狱胃病復發 寻求保外就医 薄势力密谋政变推翻习近平救出薄熙来 中南海谣言预言_190</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328445.md" target="_blank">视频：北京十几个百亿富翁被限制自由 他们现在只想着两个字</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328444.md" target="_blank">习近平两会前大动作 孙力军落马拉开政法系统大清洗序幕 6政法高官2天内密集被查处 北京新疆副检察长落马 上海区法院院长与西安市公安局副局长被查处 内蒙古又有政法高官被查</a></li>
 
 </ul>
 </div>
