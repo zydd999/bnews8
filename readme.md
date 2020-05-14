@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328137.md">网友直击：武汉再现随地倒 疫情已大规模爆发（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328240.md">政局吊诡 传江泽民被软禁在海南三亚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328476.md">北京卫戍区出事？司令员王春宁突然“失常”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
@@ -21,6 +20,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328469.md">回怼央视《后浪》 "你们有幸遇见这样的韭菜 但韭菜的不幸是遇见了这样的你们"(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md">"美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328435.md">孙力军落马两天内 孟建柱傅政华被秘密抓捕 内幕细节曝光 二人已经招供 傅政华情妇不止三人 被要求坦白与郭文贵之间的交易 任志强被查与孙力军有关？中南海谣言预言_187</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
