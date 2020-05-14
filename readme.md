@@ -11,9 +11,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200513/1327715.md">淫乱无底线！揭密：高岗腐烂透顶的私生活(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327979.md">军管！武汉小区封闭特警把守 吉林市封城 舒兰公安局关门 美共和党推重磅法案制裁中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327979.md">军管！武汉小区封闭特警把守 吉林市封城 舒兰公安局关门 美共和党推重磅法案制裁中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
