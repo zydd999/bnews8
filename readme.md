@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327990.md">【微博精粹】坐实?大裤衩被迫承认武汉P4病毒所科学家逃美?(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328079.md">美国老散“跑步进场” 预示灾难来临？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328098.md">一个和女外星人有了孩子的男子讲述外星人来地球的三大目的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200514/1328133.md">〖兲朝浮世绘〗中共准备偷袭台湾了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328240.md">政局吊诡 传江泽民被软禁在海南三亚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328128.md">知识的尾巴 &#124; 钟南山，造神翻车与人设崩塌的灾难现场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327872.md">武汉快递暂停揽派业务 市民忧疫情再爆发(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327844.md">中共会否撕毁贸易协议？三个动作见端倪(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327810.md">失去谷歌应用 华为举步维艰(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328234.md">湖北疫情一线医生携子跳楼身亡 引关注(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328360.md" target="_blank">中共利用疫情进行虚假宣传 刻意打造信息战(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md" target="_blank">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328356.md" target="_blank">抖音成中共反美宣传重型武器(下)(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1311671.md" target="_blank">江泽民大本营的扬州望族，要求江泽民还我河山的公开信（2）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328345.md" target="_blank">中共骇客干扰美国疫苗研究 可能引发川普以战争行为对待(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328344.md" target="_blank">武汉妈妈哭求老天惩瞒疫者(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328337.md" target="_blank">疫情下两会将开 学者谈中南海局势(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327971.md" target="_blank">【庆祝513】顽固如石，听信中共毁书谤法的人最终修炼法轮功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327977.md" target="_blank">刑满释放的王全璋指对他的煽颠判决违法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327944.md" target="_blank">抖音和快手“互怼” 双方起诉对方侵权</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327943.md" target="_blank">吉林蛟河市摄影师确诊 婚礼参加者均要隔离</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md" target="_blank">天亮时分：为什么全世界上亿人都在庆祝5月13日？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327899.md" target="_blank">涉孙小果案 交通部前厅官被指受贿(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md" target="_blank">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 
 </ul>
 </div>
