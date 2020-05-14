@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327871.md">广州虎门大桥时隔多日仍抖动 当局这一做法令人发指（图片/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328137.md">网友直击：武汉再现随地倒 疫情已大规模爆发（视频）</a></li>
@@ -10,20 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327990.md">【微博精粹】坐实?大裤衩被迫承认武汉P4病毒所科学家逃美?(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328240.md">政局吊诡 传江泽民被软禁在海南三亚</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328079.md">美国老散“跑步进场” 预示灾难来临？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328098.md">一个和女外星人有了孩子的男子讲述外星人来地球的三大目的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328098.md">一个和女外星人有了孩子的男子讲述外星人来地球的三大目的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200514/1328133.md">〖兲朝浮世绘〗中共准备偷袭台湾了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328234.md">湖北疫情一线医生携子跳楼身亡 引关注(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328128.md">知识的尾巴 &#124; 钟南山，造神翻车与人设崩塌的灾难现场</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200514/1328237.md">遭黄安骂「丢黄家脸」黄秋生冷冷一句怼回去(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328293.md">国企帝王赖小民的乐园：他把100多名情妇安置在一个小区</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328128.md">知识的尾巴 &#124; 钟南山，造神翻车与人设崩塌的灾难现场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328296.md">内幕：中共想反悔？环时竟打脸刘鹤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327872.md">武汉快递暂停揽派业务 市民忧疫情再爆发(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328458.md" target="_blank">蓬佩奥访以色列 推动中东和谈 加强美以合作 对抗中资渗透(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328457.md" target="_blank">被男友嫌胖 她羞愤暴食「10颗包子 4只鸡腿 30根雪糕」…(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328403.md" target="_blank">中国核弹头应增至1000枚？胡锡进被学者嘲笑了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328402.md" target="_blank">特务头子太危险！港媒：现代太子党宁赚钱不司情报(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328366.md" target="_blank">江峰：习近平渤海军演真实目的是要护龙气；第一次明确美国假想敌，不小心透露攻台方略；南海东沙群岛登陆战为什麽是假的；中美贸易战中共主动休兵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328360.md" target="_blank">中共利用疫情进行虚假宣传 刻意打造信息战(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md" target="_blank">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
@@ -54,16 +58,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md" target="_blank">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md" target="_blank">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md" target="_blank">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md" target="_blank">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327970.md" target="_blank">【庆祝513】以善启迪孩子们最纯的本性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327971.md" target="_blank">【庆祝513】顽固如石，听信中共毁书谤法的人最终修炼法轮功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327977.md" target="_blank">刑满释放的王全璋指对他的煽颠判决违法</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授的神奇经历(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328454.md" target="_blank">全球制鞋龙头宝成湖北厂关闭 逾四千人失业(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328401.md" target="_blank">反击战：川普炮轰奥巴马构陷弗林 拜登、FBI、CIA局长合谋(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md" target="_blank">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328343.md" target="_blank">“让江泽民有生之年还我河山”的公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328296.md" target="_blank">内幕：中共想反悔？环时竟打脸刘鹤(图)</a></li>
@@ -86,15 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327257.md" target="_blank">谭德塞母亲节发文网友：无数人因你失去母亲节(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327256.md" target="_blank">别想趁疫情捣乱！美7轰炸机出击 警告中俄(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327255.md" target="_blank">中南海权斗白热化 一图看懂江曾政法爪牙频落马(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327162.md" target="_blank">黄秋生亲曝「准备入籍台湾」抵台入境隔离中(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327154.md" target="_blank">华人回国有风险！又有两名加拿大公民在中国「被消失」遭逮判刑(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327113.md" target="_blank">中共设计的导弹 击沉伊朗军舰！(组图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328455.md" target="_blank">武汉肺炎期间中共推宗教中国化 持续洗脑讲道人、改造教堂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328400.md" target="_blank">张贾龙推特发声被指寻衅滋事案审结待判 美国促释放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328289.md" target="_blank">特朗普总统延长行政命令一年 继续封杀华为等中国企业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328270.md" target="_blank">武汉肺炎期间逃亡基督徒被捕受酷刑 躲查疫遭封门险饿死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328232.md" target="_blank">美联邦退休基金暂停在华投资 美中经济脱钩或因此加快</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328088.md" target="_blank">只因有点像习近平  歌唱家被人举报 抖音封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328081.md" target="_blank">媒体人张贾龙“寻衅滋事”案开庭    坚称无罪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328080.md" target="_blank">盗窃新冠病毒研究    美国政府指控黑客组织具中方背景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328076.md" target="_blank">时事大家谈：两会前大动作震动官场，一放一审关乎习近平权力布局？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328075.md" target="_blank">国际民调：近8成台湾人主张亲美　拜登顾问：会采取强硬对华态度</a></li>
 
 </ul>
 </div>
