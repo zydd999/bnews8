@@ -13,7 +13,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1327729.md">传陈良宇出狱 当年韩正揭发他都因这个女人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327979.md">军管！武汉小区封闭特警把守 吉林市封城 舒兰公安局关门 美共和党推重磅法案制裁中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327655.md">两会前局势敏感 习近平拜完龙脉再“拜佛”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327892.md">共军8月将夺下台湾东沙岛？陆委会罕见撂下重话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327928.md">天亮时分：为什么全世界上亿人都在庆祝5月13日？ </a></li>
@@ -21,10 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200513/1328041.md">钟南山获英国颁奖 早知打死也不干这事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327904.md">遭朝鲜迫害致死 美国大学生父母挖出金氏政权秘密资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327652.md">天亮时分：川普在行动;30亿美元推倒中共防火墙;脸书的“最高法院”与油管的公然左转(政论天下第164集 20200512) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328079.md">美国老散“跑步进场” 预示灾难来临？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328137.md">网友直击：武汉再现随地倒 疫情已大规模爆发（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200513/1327689.md">又一位39岁美女演员因病去世！曾出演《大宅门》 男友不离不弃(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327872.md">武汉快递暂停揽派业务 市民忧疫情再爆发(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328234.md" target="_blank">湖北疫情一线医生携子跳楼身亡 引关注(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md" target="_blank">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md" target="_blank">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md" target="_blank">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328164.md" target="_blank">文昭：解放军欲夺东沙岛！川普或有重大决定：100个贸易协议也弥补不了损失；深度解析中共对台、美军事谋略</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327808.md" target="_blank">吉林濒临封城？13日起关闭火车站(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327803.md" target="_blank">国家信访局下周开放 各地截访车已进京待命(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327792.md" target="_blank">武汉一妇女仅咳嗽症状 送医5天去世（图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327790.md" target="_blank">两会前又打一虎 首艘航母设计总指挥深夜落马(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327784.md" target="_blank">被中共惹火了! 美17州检察长要求国会向中共国「究责」</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank">中国要闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/headline/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328232.md" target="_blank">美联邦退休基金暂停在华投资 美中经济脱钩或因此加快</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328189.md" target="_blank">中国禁止入境 德国经理仍应可以前往</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328172.md" target="_blank">吉林市封城  东三省疫情告急</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328165.md" target="_blank">美国正式指称中国黑客袭击美国疫苗研究机构</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328075.md" target="_blank">国际民调：近8成台湾人主张亲美　拜登顾问：会采取强硬对华态度</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328073.md" target="_blank">香港示威者以嘲讽方式为港首林郑月娥“祝寿”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328059.md" target="_blank">辜宽敏：期待蔡英文制定新宪 成为台湾的“国母”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328058.md" target="_blank">台湾14国友邦、南美71名议员致信谭德赛   敦促邀请台湾参与世卫</a></li>
 
 </ul>
 </div>
