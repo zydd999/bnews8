@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328643.md" target="_blank">川普汇率立场大迴转：强势美元「了不起」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md" target="_blank">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328547.md" target="_blank">法轮功学员故事:美女科学家,五百强首席工程师,医学教授,政府律师等</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328502.md" target="_blank">“中共已没有当年救市能力” 8成中国人放弃两年内购房 短短几天中美过两轮过山车</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327669.md" target="_blank">香港警务处处长邓炳强未正面回答“党员身份”引发热议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327653.md" target="_blank">朝鲜产品伪装成“中国制造” 出口欧洲(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327497.md" target="_blank">“别问我 问中国去”川普再呛华裔女记者(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200512/1327364.md" target="_blank">中共设计导弹击沉伊朗军舰 三峡泄洪像海啸高洪水25倍 两会前激斗 习近平突出京</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328645.md" target="_blank">评论 | 朱兆基：解放军海上演习反暴露了军事弱点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328639.md" target="_blank">敌不过疫情  蓝心湄KiKi餐厅复兴店「暂停营业」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328634.md" target="_blank">瓠瓜蔬菜蛋饼 粗粮细做 简单健康的美食</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328603.md" target="_blank">中共病毒致瑞士经济萎缩6.7%   瑞士政要促重审瑞中关系</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328453.md" target="_blank">视频：武钢发生爆炸 火光冲天 爆炸时间点敏感 听说宝武钢要换领导了 前不久上海宝钢发生爆炸 2020年5月12日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328452.md" target="_blank">视频：北京通州于家务村发生爆炸 多人死伤 2020年5月13日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328451.md" target="_blank">习近平两会前再出重招 军工大老虎胡问鸣落马 与江泽民父子隐秘关系曝光 获江军中马仔郭伯雄重用 相继主掌中共四大军工企业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328450.md" target="_blank">前政治局委员上海书记陈良宇传已出狱 手握江绵恒重磅罪证 狱中曾大骂江泽民 陈良宇巴结江泽民老婆而发迹蹿升 被江选为隔代接班人 胡锦涛险遭暗杀后 拿下陈良宇反击江泽民</a></li>
 
 </ul>
 </div>
