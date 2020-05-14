@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328529.md">习近平山西「拜佛」   外界疑整肃运动如箭在弦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328435.md">孙力军落马两天内 孟建柱傅政华被秘密抓捕 内幕细节曝光 二人已经招供 傅政华情妇不止三人 被要求坦白与郭文贵之间的交易 任志强被查与孙力军有关？中南海谣言预言_187</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md" target="_blank">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328774.md" target="_blank">毒奶粉是合格产品 检测报告按国家标准(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328771.md" target="_blank">惊！中共驻英大使公开否认疫情起源  英资深议员敦促各国重置与中共关系</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328770.md" target="_blank">银河系外缘正以奇怪的方式“翘曲” 科学家：目前尚未对地球上的生命产生明显影响</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328768.md" target="_blank">分析师：中国一季度失业率12% 失业人数1.3亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328767.md" target="_blank">全球制鞋龙头宝成关闭湖北工厂 裁员超4000人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328766.md" target="_blank">中国车企比亚迪N95口罩认证申请遭美国否决</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328603.md" target="_blank">中共病毒致瑞士经济萎缩6.7%   瑞士政要促重审瑞中关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328600.md" target="_blank">“两会”前北京“戎装常委”突换人 前任仅履新四个月</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328370.md" target="_blank">抗疫妙方：染中共肺炎 她靠「九字真言」绝处逢生</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328372.md" target="_blank">华人现染疫症状 念法轮功真言化险为夷</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328375.md" target="_blank">拍到李洪志大师七彩光 妇权创办人贺法轮功大师华诞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328589.md" target="_blank">日本39县解除紧急事态宣言 东京大阪等8都道府县除外</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328582.md" target="_blank">中共长征五号火箭发射失败 12米残骸疑坠落非洲村落</a></li>
 
 </ul>
 </div>
