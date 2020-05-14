@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327871.md">广州虎门大桥时隔多日仍抖动 当局这一做法令人发指（图片/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327788.md">华人夫妇在柬埔寨遇害 只因发了朋友圈（图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200513/1327766.md">为何说“宁娶寡妇 不娶生妻” “生妻”是什么？现今还适用吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328137.md">网友直击：武汉再现随地倒 疫情已大规模爆发（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327979.md">军管！武汉小区封闭特警把守 吉林市封城 舒兰公安局关门 美共和党推重磅法案制裁中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327913.md">断!川普令美基金停投资中国 北京反示好免美贸易战关税 合肥炒崩!1周300套断供房抛售</a></li>
@@ -21,8 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md">中国经济「休克」北大学者指货币政策失效(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328098.md">一个和女外星人有了孩子的男子讲述外星人来地球的三大目的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200514/1328133.md">〖兲朝浮世绘〗中共准备偷袭台湾了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327872.md">武汉快递暂停揽派业务 市民忧疫情再爆发(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328193.md">陈破空：震动！航母建设总指挥叛变。共军机密尽在美国掌控之中？习近平策动最大军演，究竟要吓唬谁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328128.md">知识的尾巴 &#124; 钟南山，造神翻车与人设崩塌的灾难现场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327872.md">武汉快递暂停揽派业务 市民忧疫情再爆发(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200513/1327844.md">中共会否撕毁贸易协议？三个动作见端倪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200513/1327810.md">失去谷歌应用 华为举步维艰(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
