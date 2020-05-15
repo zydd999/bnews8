@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328240.md">政局吊诡 传江泽民被软禁在海南三亚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328476.md">北京卫戍区出事？司令员王春宁突然“失常”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328293.md">国企帝王赖小民的乐园：他把100多名情妇安置在一个小区</a></li>
@@ -14,17 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328446.md">薄熙来秦城监狱胃病復發 寻求保外就医 薄势力密谋政变推翻习近平救出薄熙来 中南海谣言预言_190</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200514/1328237.md">遭黄安骂「丢黄家脸」黄秋生冷冷一句怼回去(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328469.md">回怼央视《后浪》 "你们有幸遇见这样的韭菜 但韭菜的不幸是遇见了这样的你们"(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328695.md">贸战新台阶？世贸总干事提前辞职 自爆“什么都做不了”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328529.md">习近平山西「拜佛」   外界疑整肃运动如箭在弦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328435.md">孙力军落马两天内 孟建柱傅政华被秘密抓捕 内幕细节曝光 二人已经招供 傅政华情妇不止三人 被要求坦白与郭文贵之间的交易 任志强被查与孙力军有关？中南海谣言预言_187</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328695.md">贸战新台阶？世贸总干事提前辞职 自爆“什么都做不了”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328366.md">江峰：习近平渤海军演真实目的是要护龙气；第一次明确美国假想敌，不小心透露攻台方略；南海东沙群岛登陆战为什麽是假的；中美贸易战中共主动休兵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328402.md">特务头子太危险！港媒：现代太子党宁赚钱不司情报(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328329.md">出状况？中国移动“鼓励”员工停薪留职(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328850.md" target="_blank">闹掰了?川普现在不想和习说话 这样还节省5000亿(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328849.md" target="_blank">川普再对世卫有动作 下周白宫可能做出世卫相关声明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328848.md" target="_blank">红二代：个人资产清零是个大概率事件 现在想出去也来不及了 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md" target="_blank">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328665.md" target="_blank">陈破空：陈破空谈《常识》（之49）：为什麽中共统治能够维持至今？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328614.md" target="_blank">德语媒体：战狼外交让欧盟叩头?</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328356.md" target="_blank">抖音成中共反美宣传重型武器(下)(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1311671.md" target="_blank">江泽民大本营的扬州望族，要求江泽民还我河山的公开信（2）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328345.md" target="_blank">中共骇客干扰美国疫苗研究 可能引发川普以战争行为对待(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328344.md" target="_blank">武汉妈妈哭求老天惩瞒疫者(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328337.md" target="_blank">疫情下两会将开 学者谈中南海局势(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328336.md" target="_blank">武汉又现男子“路倒” 民众忧疫情再来(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328856.md" target="_blank">少年李贺避家讳不去科考 韩愈爱才为他辩护</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328852.md" target="_blank">纸上建筑：毒奶粉是合格产品 检测报告按国家标准 奸商骗术升级(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328851.md" target="_blank">胡平：老鹰变成和平鸽了吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328841.md" target="_blank">焦点对话: 解放军”南北夹击”剑指520？美舰穿越台海示警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328838.md" target="_blank">中共国敢以瘟疫发动超限战 因为它本质上是个伪国家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328837.md" target="_blank">林保华：去中国化 就是去流氓化</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md" target="_blank">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328774.md" target="_blank">毒奶粉是合格产品 检测报告按国家标准(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328771.md" target="_blank">惊！中共驻英大使公开否认疫情起源  英资深议员敦促各国重置与中共关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328770.md" target="_blank">银河系外缘正以奇怪的方式“翘曲” 科学家：目前尚未对地球上的生命产生明显影响</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328768.md" target="_blank">分析师：中国一季度失业率12% 失业人数1.3亿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328767.md" target="_blank">全球制鞋龙头宝成关闭湖北工厂 裁员超4000人</a></li>
 
 </ul>
 </div>
