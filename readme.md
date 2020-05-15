@@ -2,14 +2,13 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328554.md">【耳边风】「一尊」内部讲话：不是无能就是阴毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md">"美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328848.md">红二代：个人资产清零是个大概率事件 现在想出去也来不及了 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328695.md">贸战新台阶？世贸总干事提前辞职 自爆“什么都做不了”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200515/1328773.md">戴旭、乔良、张召忠的软化，是战争的信号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200515/1328742.md">〖兲朝浮世绘〗如此暴虐 中共存活的日子不会久了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328890.md">绝密！掌中南海空中安全的军中关键人物神秘死亡(图)</a></li>
@@ -21,10 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200515/1328675.md">中国政府在怕什么？| 即事贴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328938.md">急于摆平内部烂摊子？习近平山西重提胡锦涛“不折腾”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328643.md">川普汇率立场大迴转：强势美元「了不起」(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329011.md">欺骗全世界？美网曝中国确诊破60万(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328609.md">中国全国人大常委会法工委：有关方面正研究起草房地产税法草案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200514/1328662.md">特朗普：如若切断与中国完整关系 可以节省下5000亿美元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328905.md">三峡大坝/大洪水如何跑路丨硬核生存指南(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328727.md">川普拥有了自己的电视台？是的福克斯新闻“叛变”后…被抛弃了！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200514/1328662.md">特朗普：如若切断与中国完整关系 可以节省下5000亿美元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328904.md">变相承认疫情造假！习近平点名吉林省 北京两会期间加强防疫(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329138.md" target="_blank">中国财政赤字货币化意味着政府体系崩溃与违法&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329108.md" target="_blank">疫情下开两会北京如临大敌 严控访民 升级防疫(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329087.md" target="_blank">遭当局「稳控」上海癌症访民向外求助(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md" target="_blank">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1291144.md" target="_blank">毛泽东和红色高棉同犯反人类罪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329000.md" target="_blank">两会前暗流汹涌 习近平突提他的一句话&#8230;(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328999.md" target="_blank">两会前 中纪委巡视进驻35个中央和国家机关(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1286256.md" target="_blank">邵正祥：为什么说毛泽东是最大的反革命？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329142.md" target="_blank">川普在白宫顶“插上”了五星旗(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329125.md" target="_blank">金正恩“睡前特殊僻好”曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329107.md" target="_blank">脱勾中共 川普义无反顾 民存款减8千亿 北京反升杠杆 对比鲜明 台经济蒸蒸日上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329091.md" target="_blank">习近平忽然拉上胡锦涛啥信号?中纪委新动作和军演啥关系?美索赔中共3成原告是华裔亚裔</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授的神奇经历(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328454.md" target="_blank">全球制鞋龙头宝成湖北厂关闭 逾四千人失业(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328401.md" target="_blank">反击战：川普炮轰奥巴马构陷弗林 拜登、FBI、CIA局长合谋(多图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md" target="_blank">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329139.md" target="_blank">中纪委巡视进驻35个要害机构 分析：内斗激烈 反腐成空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329095.md" target="_blank">纽时记者4城市隔离检疫 盛赞台湾「自由生活」令人惊羡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329089.md" target="_blank">北京陷外交困局 国内学者群起对战狼外交表不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329088.md" target="_blank">「亚洲第一美男」尊龙从孤儿到巨星  彷如戏剧人生</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/205308.md" target="_blank">邵正祥：毛泽东是毒枭汉奸卖国贼有十大罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1186268.md" target="_blank">邵正祥：不否定邓小平的扩大化谬论，就不能否定反右</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1256729.md" target="_blank">邵正祥：无产阶级专政是万恶之源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329005.md" target="_blank">香港考题问「日军侵华」爆争议 意外揭出毛泽东感谢日本侵华</a></li>
 
 </ul>
 </div>
