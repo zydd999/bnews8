@@ -8,16 +8,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329125.md">金正恩“睡前特殊僻好”曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329091.md">习近平忽然拉上胡锦涛啥信号?中纪委新动作和军演啥关系?美索赔中共3成原告是华裔亚裔</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328695.md">贸战新台阶？世贸总干事提前辞职 自爆“什么都做不了”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328746.md">特朗普威胁与中国切断一切关系 排除与习近平交谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200515/1328742.md">〖兲朝浮世绘〗如此暴虐 中共存活的日子不会久了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329055.md">连续10个跌停 股价暴跌80% 又一股票爆雷 4万股民：咋办呢？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328890.md">绝密！掌中南海空中安全的军中关键人物神秘死亡(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329011.md">欺骗全世界？美网曝中国确诊破60万(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329180.md">范冰冰又摊上大事了？卷入530亿惊天大骗局</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328920.md">中国起草房地产税法 太缺钱了？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329011.md">欺骗全世界？美网曝中国确诊破60万(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329085.md">重磅！调查发现：中共在故意拖延外界调查武汉病毒源头(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328920.md">中国起草房地产税法 太缺钱了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329142.md">川普在白宫顶“插上”了五星旗(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329080.md">香港考题惹争议 意外揭出毛泽东卖国丑闻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328931.md">中共战狼外交困局：8位大使被召见 2使馆推特封号(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200515/1328932.md">川普发难 人民币悬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329295.md" target="_blank">美国对华为制裁升级！切断其国际芯片供应链</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329294.md" target="_blank">特斯拉Model 3租赁到期后不能买下？这还值得Lease吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329277.md" target="_blank">质问FBI弗林案原始材料为何失踪 川普：弗林受了迫害！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329268.md" target="_blank">瞒疫引发诉讼潮 土耳其律师状告中共</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329054.md" target="_blank">为信仰自由发声 顶级舞蹈家谈艺术的使命(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329052.md" target="_blank">韩国梨泰院夜店群聚感染扩散到卡拉OK店 增至148人确诊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329051.md" target="_blank">政治周刊：施压及诱惑 中共及华为在欧盟的失败</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329045.md" target="_blank">两会前军队异动连连 唐山港实弹军演 北京卫戍区司令员王春宁突然“失常” 航母建设总指挥落马 掌中南海防空81军旅长神秘死亡消息曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329035.md" target="_blank">朝鲜当局大换血 金正恩再次玩失踪</a></li>
 
 </ul>
 </div>
