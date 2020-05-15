@@ -8,7 +8,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329125.md">金正恩“睡前特殊僻好”曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329091.md">习近平忽然拉上胡锦涛啥信号?中纪委新动作和军演啥关系?美索赔中共3成原告是华裔亚裔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328746.md">特朗普威胁与中国切断一切关系 排除与习近平交谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329180.md">范冰冰又摊上大事了？卷入530亿惊天大骗局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329055.md">连续10个跌停 股价暴跌80% 又一股票爆雷 4万股民：咋办呢？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328890.md">绝密！掌中南海空中安全的军中关键人物神秘死亡(图)</a></li>
@@ -23,8 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200515/1328932.md">川普发难 人民币悬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329033.md">侯赛因·奥巴马不为人知的身世…这也许是川普粉丝恨他的原因(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328905.md">三峡大坝/大洪水如何跑路丨硬核生存指南(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md" target="_blank">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329335.md" target="_blank">Youtube政治审查升级 留言“共匪”被自动删除(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329323.md" target="_blank">环时扬言制裁 美议员反击：中共害怕了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329322.md" target="_blank">武汉女打热线斥全民检测是脑残决定(图/视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329036.md" target="_blank">江峰：川普组「铁三角」演大戏，和中共对决提前到来；贸易战转入军事对垒，南海冲突的致胜点在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329029.md" target="_blank">广东虎门大桥恢复通车 网民忧安全问题不敢走(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329027.md" target="_blank">武汉又现人倒地 无人前来帮助(图/视频 )</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329026.md" target="_blank">浸淫公安系统29年 昆明戒毒所副书记被调查(图)</a></li>
 
 </ul>
 </div>
