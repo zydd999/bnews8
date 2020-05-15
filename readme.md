@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200515/1328773.md">戴旭、乔良、张召忠的软化，是战争的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329125.md">金正恩“睡前特殊僻好”曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329091.md">习近平忽然拉上胡锦涛啥信号?中纪委新动作和军演啥关系?美索赔中共3成原告是华裔亚裔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328746.md">特朗普威胁与中国切断一切关系 排除与习近平交谈</a></li>
@@ -22,9 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328931.md">中共战狼外交困局：8位大使被召见 2使馆推特封号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328938.md">急于摆平内部烂摊子？习近平山西重提胡锦涛“不折腾”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200515/1328932.md">川普发难 人民币悬了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329158.md">中共病毒攻击 川普给三细节 吉林辽宁逾8000人被隔离 武汉1天110万？检测不换手套引忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329323.md" target="_blank">环时扬言制裁 美议员反击：中共害怕了(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329322.md" target="_blank">武汉女打热线斥全民检测是脑残决定(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329321.md" target="_blank">到武汉实地报导疫情 张展律师突然失联(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329311.md" target="_blank">专栏 | 夜话中南海：让战狼消音，习近平是不想还是不敢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329284.md" target="_blank">大陆假奶粉营销揭秘 商家医院合作医生拿提成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329279.md" target="_blank">傻眼！北京男带双胞胎做亲子鉴定 “只有1个是亲生”(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329027.md" target="_blank">武汉又现人倒地 无人前来帮助(图/视频 )</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329026.md" target="_blank">浸淫公安系统29年 昆明戒毒所副书记被调查(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329018.md" target="_blank">等徐晓冬和僧一龙的比武都等三年了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329011.md" target="_blank">欺骗全世界？美网曝中国确诊破60万(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329010.md" target="_blank">美智库：中美5年内开战 冲突地台湾(图)</a></li>
 
 </ul>
 </div>
