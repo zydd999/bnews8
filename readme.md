@@ -13,9 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328234.md">湖北疫情一线医生携子跳楼身亡 引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md">"美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328208.md">网友直击：沈阳突发疫情？中共解放军463医院全部封闭（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328446.md">薄熙来秦城监狱胃病復發 寻求保外就医 薄势力密谋政变推翻习近平救出薄熙来 中南海谣言预言_190</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328446.md">薄熙来秦城监狱胃病復發 寻求保外就医 薄势力密谋政变推翻习近平救出薄熙来 中南海谣言预言_190</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200514/1328237.md">遭黄安骂「丢黄家脸」黄秋生冷冷一句怼回去(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328223.md">吉林封城：4天前疫情已失控 市民疯抢退烧药(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328469.md">回怼央视《后浪》 "你们有幸遇见这样的韭菜 但韭菜的不幸是遇见了这样的你们"(视频)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328366.md">江峰：习近平渤海军演真实目的是要护龙气；第一次明确美国假想敌，不小心透露攻台方略；南海东沙群岛登陆战为什麽是假的；中美贸易战中共主动休兵</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328814.md" target="_blank">郑杨：中国崛起了什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328811.md" target="_blank">蓬佩奥谴责中共企图盗窃美国疫苗研究  望中共停止恶意行为</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328810.md" target="_blank">太难了！世贸总干事提前一年辞职 无法解决中美贸易纠纷和瘟疫影响</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328809.md" target="_blank">金将军这次惹错了对象 被犹太民族打的“鼻青脸肿”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328808.md" target="_blank">怎样知道车子的水泵Water Pump，需要更换了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328801.md" target="_blank">英国防委员会主席致函国防大臣 警告由华为引发的英美矛盾贻害英国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328800.md" target="_blank">偏偏长得像他 着名歌唱家因「形象违规」抖音多次被封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328793.md" target="_blank">从毒奶粉到假奶粉 12年改了一个字(图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328759.md" target="_blank">中国辽宁省一城投债可能有兑付风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328741.md" target="_blank">日本研究：猫会相互传染新型冠状病毒 但没有明显症状</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328723.md" target="_blank">爱沙尼亚通过新的“电信安全法案” 旨在防范华为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328722.md" target="_blank">车子电瓶经常没电，有可能是它坏了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328718.md" target="_blank">《圣经》中预言的又一「瘟疫」也来了？！ 超级刺痛</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328699.md" target="_blank">奇！一道闪电让普通骨科医生变成钢琴家</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328698.md" target="_blank">漂亮却身含毒素 谨慎解封 小心最危险植物</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328674.md" target="_blank">构陷弗林的政客被曝光 川普：这是美历史上最大的政治犯罪</a></li>
 
 </ul>
 </div>
