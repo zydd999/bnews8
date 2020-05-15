@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328388.md">重大信号！中共要无限量放水？两会召开在即 一场大辩论上演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328438.md">上海女仆公馆被查封 内部视频曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328502.md">“中共已没有当年救市能力” 8成中国人放弃两年内购房 短短几天中美过两轮过山车</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328296.md">内幕：中共想反悔？环时竟打脸刘鹤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328554.md">【耳边风】「一尊」内部讲话：不是无能就是阴毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md">"美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
@@ -16,14 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328695.md">贸战新台阶？世贸总干事提前辞职 自爆“什么都做不了”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328529.md">习近平山西「拜佛」   外界疑整肃运动如箭在弦</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328435.md">孙力军落马两天内 孟建柱傅政华被秘密抓捕 内幕细节曝光 二人已经招供 傅政华情妇不止三人 被要求坦白与郭文贵之间的交易 任志强被查与孙力军有关？中南海谣言预言_187</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328366.md">江峰：习近平渤海军演真实目的是要护龙气；第一次明确美国假想敌，不小心透露攻台方略；南海东沙群岛登陆战为什麽是假的；中美贸易战中共主动休兵</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328402.md">特务头子太危险！港媒：现代太子党宁赚钱不司情报(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328329.md">出状况？中国移动“鼓励”员工停薪留职(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328974.md" target="_blank">对中共失望 川普：签协议时北京已知疫情爆发(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md" target="_blank">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328951.md" target="_blank">内斗加剧？两会前 中纪委巡视进驻媒体机关(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328950.md" target="_blank">清华浴池2确诊1政府科员感染 舒兰已风声鹤唳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328931.md" target="_blank">中共战狼外交困局：8位大使被召见 2使馆推特封号(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328525.md" target="_blank">起底&#8221;大头娃娃&#8221;奶粉真面目：固体饮料利润超奶粉2倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328515.md" target="_blank">赵立坚回避澳洲贸易问题 专家指中共虚张声势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328514.md" target="_blank">中共病毒肆虐东北三省 沈阳再现确诊病例(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328476.md" target="_blank">北京卫戍区出事？司令员王春宁突然“失常”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328458.md" target="_blank">蓬佩奥访以色列 推动中东和谈 加强美以合作 对抗中资渗透(组图)</a></li>
 
 </ul>
 </div>
