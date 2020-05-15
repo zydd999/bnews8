@@ -11,20 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328448.md">孟建柱的公安部情人、警界名妓郭林被抓 中南海谣言预言_191</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328446.md">薄熙来秦城监狱胃病復發 寻求保外就医 薄势力密谋政变推翻习近平救出薄熙来 中南海谣言预言_190</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328469.md">回怼央视《后浪》 "你们有幸遇见这样的韭菜 但韭菜的不幸是遇见了这样的你们"(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1328735.md">中国起草房地产税法  太缺钱了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1328695.md">贸战新台阶？世贸总干事提前辞职 自爆“什么都做不了”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328435.md">孙力军落马两天内 孟建柱傅政华被秘密抓捕 内幕细节曝光 二人已经招供 傅政华情妇不止三人 被要求坦白与郭文贵之间的交易 任志强被查与孙力军有关？中南海谣言预言_187</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328529.md">习近平山西「拜佛」   外界疑整肃运动如箭在弦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200514/1328539.md">北京感觉胜利被抢走了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328758.md">陈破空：习近平恨上一个人！更恨他背后那个常委。大阵仗军演，对付五千人？赵白眼又火了 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md">中国发生史无前例的失业潮--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200515/1328773.md">戴旭、乔良、张召忠的软化，是战争的信号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200514/1328528.md">研究人员：新发现一种奇怪的中共病毒症状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328366.md">江峰：习近平渤海军演真实目的是要护龙气；第一次明确美国假想敌，不小心透露攻台方略；南海东沙群岛登陆战为什麽是假的；中美贸易战中共主动休兵</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328402.md">特务头子太危险！港媒：现代太子党宁赚钱不司情报(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328329.md">出状况？中国移动“鼓励”员工停薪留职(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1291144.md" target="_blank">毛泽东和红色高棉同犯反人类罪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329000.md" target="_blank">两会前暗流汹涌 习近平突提他的一句话&#8230;(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328999.md" target="_blank">两会前 中纪委巡视进驻35个中央和国家机关(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1286256.md" target="_blank">邵正祥：为什么说毛泽东是最大的反革命？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328991.md" target="_blank">习近平与安倍不通话 日中关系微妙且尴尬(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md" target="_blank">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328983.md" target="_blank">法国售台军备中共不满 巴黎回怼：请专心抗疫(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328974.md" target="_blank">对中共失望 川普：签协议时北京已知疫情爆发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md" target="_blank">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
@@ -52,18 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328665.md" target="_blank">陈破空：陈破空谈《常识》（之49）：为什麽中共统治能够维持至今？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328614.md" target="_blank">德语媒体：战狼外交让欧盟叩头?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328602.md" target="_blank">武汉妈妈哭求老天惩瞒疫者(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328375.md" target="_blank">拍到李洪志大师七彩光 妇权创办人贺法轮功大师华诞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200514/1328547.md" target="_blank">法轮功学员故事:美女科学家,五百强首席工程师,医学教授,政府律师等</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1311665.md" target="_blank">华为员工妄图向全球linux核心安装后门</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328551.md" target="_blank">中国发生史无前例的失业潮&#8211;天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328525.md" target="_blank">起底&#8221;大头娃娃&#8221;奶粉真面目：固体饮料利润超奶粉2倍(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328515.md" target="_blank">赵立坚回避澳洲贸易问题 专家指中共虚张声势</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1286256.md" target="_blank">邵正祥：为什么说毛泽东是最大的反革命？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328920.md" target="_blank">中国起草房地产税法 太缺钱了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328906.md" target="_blank">出来混早晚要还的！川普：严厉打击造假的在美上市中企(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328905.md" target="_blank">三峡大坝/大洪水如何跑路丨硬核生存指南(组图)</a></li>
@@ -88,13 +89,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327898.md" target="_blank">江泽民钦定接班人出狱 崔永元冒头撂这般狠话 太像习近平 他被3次封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md" target="_blank">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md" target="_blank">中国经济「休克」北大学者指货币政策失效(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1256729.md" target="_blank">邵正祥：无产阶级专政是万恶之源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329005.md" target="_blank">香港考题问「日军侵华」爆争议 意外揭出毛泽东感谢日本侵华</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329004.md" target="_blank">爱美女性多吃3种食物，美容养生、滋润肌肤，早吃早受益！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1291144.md" target="_blank">毛泽东和红色高棉同犯反人类罪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329002.md" target="_blank">【微博精粹】东三省已有星火燎原之势 不排除涉及军队爆发(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1286256.md" target="_blank">邵正祥：为什么说毛泽东是最大的反革命？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328661.md" target="_blank">邵正祥：竭力为储安平的谬论辩护</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328653.md" target="_blank">邵正祥：反右运动回顾和分析</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328988.md" target="_blank">大陆毒奶粉死灰复燃 医商勾结 大头娃娃再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328980.md" target="_blank">就隐瞒疫情追责！全球近40国向中共求偿 土耳其加入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328938.md" target="_blank">急于摆平内部烂摊子？习近平山西重提胡锦涛“不折腾”</a></li>
@@ -112,14 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328851.md" target="_blank">胡平：老鹰变成和平鸽了吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328841.md" target="_blank">焦点对话: 解放军”南北夹击”剑指520？美舰穿越台海示警</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328838.md" target="_blank">中共国敢以瘟疫发动超限战 因为它本质上是个伪国家</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328837.md" target="_blank">林保华：去中国化 就是去流氓化</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328831.md" target="_blank">毒奶粉又活了 正义却早已死(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328828.md" target="_blank">道士隐居茅山自得其乐 令皇帝既好奇又羡慕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328824.md" target="_blank">紫电：驱逐马虏 是拯救中华 留下文明唯一出路</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328814.md" target="_blank">郑杨：中国崛起了什么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328811.md" target="_blank">蓬佩奥谴责中共企图盗窃美国疫苗研究  望中共停止恶意行为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328810.md" target="_blank">太难了！世贸总干事提前一年辞职 无法解决中美贸易纠纷和瘟疫影响</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328809.md" target="_blank">金将军这次惹错了对象 被犹太民族打的“鼻青脸肿”</a></li>
 
 </ul>
 </div>
