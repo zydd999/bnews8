@@ -33,6 +33,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328907.md" target="_blank">中国东三省疫情告急 卫健委靠宣传方舱医院维稳(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328890.md" target="_blank">绝密！掌中南海空中安全的军中关键人物神秘死亡(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328889.md" target="_blank">变相承认疫情造假！习近平点名吉林省 北两会期间加强防疫(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328888.md" target="_blank">【内幕】哪些是中共疫情防控的“秘密”(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328887.md" target="_blank">武汉全民排查阻止不了疫情蔓延 又一例随地倒！(图/3视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328850.md" target="_blank">闹掰了?川普现在不想和习说话 这样还节省5000亿(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328849.md" target="_blank">川普再对世卫有动作 下周白宫可能做出世卫相关声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328848.md" target="_blank">红二代：个人资产清零是个大概率事件 现在想出去也来不及了 (图)</a></li>
@@ -53,17 +58,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328403.md" target="_blank">中国核弹头应增至1000枚？胡锡进被学者嘲笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328402.md" target="_blank">特务头子太危险！港媒：现代太子党宁赚钱不司情报(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328366.md" target="_blank">江峰：习近平渤海军演真实目的是要护龙气；第一次明确美国假想敌，不小心透露攻台方略；南海东沙群岛登陆战为什麽是假的；中美贸易战中共主动休兵</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328360.md" target="_blank">中共利用疫情进行虚假宣传 刻意打造信息战(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328359.md" target="_blank">谭德塞轰台湾歧视 美国逮到幕后真凶(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328356.md" target="_blank">抖音成中共反美宣传重型武器(下)(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1311671.md" target="_blank">江泽民大本营的扬州望族，要求江泽民还我河山的公开信（2）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200514/1328345.md" target="_blank">中共骇客干扰美国疫苗研究 可能引发川普以战争行为对待(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328906.md" target="_blank">出来混早晚要还的！川普：严厉打击造假的在美上市中企(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328905.md" target="_blank">三峡大坝/大洪水如何跑路丨硬核生存指南(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328904.md" target="_blank">变相承认疫情造假！习近平点名吉林省 北京两会期间加强防疫(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328663.md" target="_blank">&#8220;美国史上最大的灾难”川普痛心疾首悔不当初？ 钟南山早知这样打死也不干</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328643.md" target="_blank">川普汇率立场大迴转：强势美元「了不起」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328591.md" target="_blank">北京顺势夺东沙？习敢吗？美军一架B1B 习就得钻洞 御林军出事 司令突“失常”</a></li>
@@ -86,15 +89,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327800.md" target="_blank">李飞飞：一个和多名红二代一起合影的女人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327799.md" target="_blank">中国经济「休克」北大学者指货币政策失效(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327706.md" target="_blank">带头翻墙？中共党媒人民日报公开征IG、FB小编 网友骂翻(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327705.md" target="_blank">崔永元再放出狠话 反腐先查纪检监察部门(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327669.md" target="_blank">香港警务处处长邓炳强未正面回答“党员身份”引发热议(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327653.md" target="_blank">朝鲜产品伪装成“中国制造” 出口欧洲(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328910.md" target="_blank">程晓容：吉林市忽然封城 第二波疫情再起？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328903.md" target="_blank">疫情催生產業新趧輸滴恍袖N、電子商務熱</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328896.md" target="_blank">掸封尘：“高智晟律师 你在哪里？”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328895.md" target="_blank">袁斌：武汉“十天大会战”查核酸 二会在即 中共慌神了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328894.md" target="_blank">王友群：法轮功洪传于世对人类的十大贡献(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328893.md" target="_blank">沈舟：赵立坚忽然变成中共外交部最怂发言人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328892.md" target="_blank">颜纯钩：香港新闻自由度从全球排名18掉到80(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328856.md" target="_blank">少年李贺避家讳不去科考 韩愈爱才为他辩护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328852.md" target="_blank">纸上建筑：毒奶粉是合格产品 检测报告按国家标准 奸商骗术升级(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328851.md" target="_blank">胡平：老鹰变成和平鸽了吗？(图)</a></li>
@@ -113,13 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328800.md" target="_blank">偏偏长得像他 着名歌唱家因「形象违规」抖音多次被封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328793.md" target="_blank">从毒奶粉到假奶粉 12年改了一个字(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328791.md" target="_blank">母子连心，孩子对妈妈的爱一点不假</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328790.md" target="_blank">家长不能忽视中共病毒对孩子的感染威胁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328787.md" target="_blank">12条方法帮助父母为孩子创造健康成长的环境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328782.md" target="_blank">「饿一饿」很养生  是重启人体免疫系统的有效方法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328781.md" target="_blank">“孙咸泽”们，你们是有多恨我们的宝宝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328776.md" target="_blank">绝密！掌中南海空中安全的军中关键人物神秘死亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328774.md" target="_blank">毒奶粉是合格产品 检测报告按国家标准(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328771.md" target="_blank">惊！中共驻英大使公开否认疫情起源  英资深议员敦促各国重置与中共关系</a></li>
 
 </ul>
 </div>
