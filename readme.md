@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328890.md">绝密！掌中南海空中安全的军中关键人物神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328920.md">中国起草房地产税法 太缺钱了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329011.md">欺骗全世界？美网曝中国确诊破60万(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328931.md">中共战狼外交困局：8位大使被召见 2使馆推特封号(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328938.md">急于摆平内部烂摊子？习近平山西重提胡锦涛“不折腾”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200515/1328675.md">中国政府在怕什么？| 即事贴</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328643.md">川普汇率立场大迴转：强势美元「了不起」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329055.md">连续10个跌停 股价暴跌80% 又一股票爆雷 4万股民：咋办呢？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328931.md">中共战狼外交困局：8位大使被召见 2使馆推特封号(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200515/1328675.md">中国政府在怕什么？| 即事贴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328938.md">急于摆平内部烂摊子？习近平山西重提胡锦涛“不折腾”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329125.md">金正恩“睡前特殊僻好”曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328643.md">川普汇率立场大迴转：强势美元「了不起」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328905.md">三峡大坝/大洪水如何跑路丨硬核生存指南(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200515/1328932.md">川普发难 人民币悬了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200514/1328609.md">中国全国人大常委会法工委：有关方面正研究起草房地产税法草案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200514/1328662.md">特朗普：如若切断与中国完整关系 可以节省下5000亿美元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329180.md" target="_blank">范冰冰又摊上大事了？卷入530亿惊天大骗局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329138.md" target="_blank">中国财政赤字货币化意味着政府体系崩溃与违法&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329108.md" target="_blank">疫情下开两会北京如临大敌 严控访民 升级防疫(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329087.md" target="_blank">遭当局「稳控」上海癌症访民向外求助(组图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/205308.md" target="_blank">邵正祥：毛泽东是毒枭汉奸卖国贼有十大罪恶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1291144.md" target="_blank">毛泽东和红色高棉同犯反人类罪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329000.md" target="_blank">两会前暗流汹涌 习近平突提他的一句话&#8230;(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328999.md" target="_blank">两会前 中纪委巡视进驻35个中央和国家机关(图)</a></li>
 
 </ul>
 </div>
