@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329560.md">网传“赊刀人”再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200516/1329417.md">“摧毁”中国年轻人的饮品 又开始“毒害”日本、韩国的年轻人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329532.md">儿惨死金正恩之手 爸妈复仇抖出北韩2千万美元冻结资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200516/1329423.md">艾滋病的传播途径只有4种 医生痛心：很重要 可太多人搞不清(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329542.md">小鹰号航母比辽宁号航母早服役50年 哪个更强？网友评论亮了！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200516/1329423.md">艾滋病的传播途径只有4种 医生痛心：很重要 可太多人搞不清(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md" target="_blank">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329776.md" target="_blank">传吉林465医院清空接收重症 大剧院改方舱(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329775.md" target="_blank">传武汉大学检测出逾百阳性 官方一例未公布(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329769.md" target="_blank">疫情恶化 吉林市关停个体诊所和门诊部(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329768.md" target="_blank">北京遭遇沙尘袭击 PM10浓度达重度污染(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329767.md" target="_blank">湖南退役士官反强拆被拘留 决意抗争到底(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329755.md" target="_blank">陈破空：习近平突发旧文，暗示他坚持终身制！重提不折腾有深意？美国太空军亮旗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329696.md" target="_blank">美国太空军军旗亮相 招兵买马应对中国俄罗斯挑战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329640.md" target="_blank">加拿大政要祝贺法轮大法弘传廿八周年</a></li>
@@ -52,12 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329495.md" target="_blank">江泽民收买洋商人出伪传 骗他当幕后枪手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329489.md" target="_blank">推责 中共否认世卫要求参观武汉P4实验室(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329488.md" target="_blank">失业率回升 消费低迷 中国经济无复苏基础(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329475.md" target="_blank">网友直击：十几辆大巴坐满医护人员开进舒兰建馨园 做核酸检测(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329471.md" target="_blank">中纪委巡视进驻35个要害机构 分析：内斗激烈 反腐成空(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329463.md" target="_blank">武汉千万人被当韭菜？武汉大嫂怒骂政府脑残! (视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329462.md" target="_blank">陈破空：大军演，重要将领忽然消失！党内传密话：任志强放了？特朗普对习近平撂重话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329217.md" target="_blank">【庆祝513】诊所员工们给法轮功学员留了一个“神”位</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329218.md" target="_blank">【庆祝513】法轮大法给了我女儿最好的教育</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329773.md" target="_blank">【快讯】德国外长和卢森堡外长举行重开边境仪式</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329772.md" target="_blank">科学家研究恒星生命存在一个周期 太阳也会衰败终老？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329749.md" target="_blank">众院通过3万亿舒困法案 金里奇：参院不会放行该疯狂法案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329743.md" target="_blank">时事大家谈(2020年5月16日)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329733.md" target="_blank">时事大家谈：“民族脊梁”挑战“国士无双”，崔永元为何杠上钟南山？</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329581.md" target="_blank">中共病毒污水传播！渗入巴西排水系统恐全境感染 荷美瑞典现踪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329580.md" target="_blank">【英脱欧】英欧第三轮谈判结束  双方各持己见进展甚微</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329572.md" target="_blank">李燕铭：中部战区与北京卫戌区异动 唐山港实弹防空军演“保卫北京” 政法高官密集落马 河北公安厅原刑警总队长又被查 习江生死搏杀 将从两会延烧到北戴河会议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329568.md" target="_blank">台湾防疫全球瞩目 吴钊燮：外交面对新局势新契机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329558.md" target="_blank">出淤泥而不染—她因信仰而善待“情敌”</a></li>
 
 </ul>
 </div>
