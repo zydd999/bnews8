@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329080.md">香港考题惹争议 意外揭出毛泽东卖国丑闻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329158.md">中共病毒攻击 川普给三细节 吉林辽宁逾8000人被隔离 武汉1天110万？检测不换手套引忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200516/1329328.md">〖兲朝浮世绘〗重祭毛魔大旗 习近平这是在作死么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200516/1329413.md">政府工作报告难产 习近平不想折腾了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329494.md">一篇文章“爆火” 招来对任正非如山似海的口诛笔伐(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200516/1329413.md">政府工作报告难产 习近平不想折腾了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329443.md">哈尔滨商贩被逼齐翻墙 网友：再逼就离上梁山不远了！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329338.md">仅戴口罩也没用！美流行病专家坐飞机中招(图)</a></li>
@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329279.md">傻眼！北京男带双胞胎做亲子鉴定 “只有1个是亲生”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200516/1329417.md">“摧毁”中国年轻人的饮品 又开始“毒害”日本、韩国的年轻人(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1329222.md">更多中国体制内人士挑战习近平“定于一尊”的独裁统治</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200516/1329423.md">艾滋病的传播途径只有4种 医生痛心：很重要 可太多人搞不清(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329066.md">党媒脸书公开招聘五毛引围观 网民：发帖一条多少钱？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1329222.md">更多中国体制内人士挑战习近平“定于一尊”的独裁统治</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200516/1329480.md">小米秘密遭黄之锋揭穿？小粉红又要心碎一地！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329181.md">拆开华为手机 看到美国影响</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329581.md" target="_blank">中共病毒污水传播！渗入巴西排水系统恐全境感染 荷美瑞典现踪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329580.md" target="_blank">【英脱欧】英欧第三轮谈判结束  双方各持己见进展甚微</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329572.md" target="_blank">李燕铭：中部战区与北京卫戌区异动 唐山港实弹防空军演“保卫北京” 政法高官密集落马 河北公安厅原刑警总队长又被查 习江生死搏杀 将从两会延烧到北戴河会议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329568.md" target="_blank">台湾防疫全球瞩目 吴钊燮：外交面对新局势新契机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329558.md" target="_blank">出淤泥而不染—她因信仰而善待“情敌”</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329510.md" target="_blank">她脑子太好使 敲锣救母后再次敲起了锣！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329507.md" target="_blank">洪博学：想被强暴 无须呼朋引伴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329506.md" target="_blank">陶杰：香港还能做多久蝙蝠？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329496.md" target="_blank">东北疫情加重 吉林舒兰市委书记李鹏飞深夜被免职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329493.md" target="_blank">梁惠王：敲锣女们很多 不必绝望也不说明什么(图)</a></li>
 
 </ul>
 </div>
