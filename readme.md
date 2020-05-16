@@ -42,6 +42,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329311.md" target="_blank">专栏 | 夜话中南海：让战狼消音，习近平是不想还是不敢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329284.md" target="_blank">大陆假奶粉营销揭秘 商家医院合作医生拿提成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329279.md" target="_blank">傻眼！北京男带双胞胎做亲子鉴定 “只有1个是亲生”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329256.md" target="_blank">香港考题涉日本侵华史 官方轰伤害民族感情惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329248.md" target="_blank">巴基斯坦疫情飙升 滞留中国民众吁北京协助撤侨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329180.md" target="_blank">范冰冰又摊上大事了？卷入530亿惊天大骗局</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329065.md" target="_blank">历史上罕见 5月吉林长白山一米深大雪(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329056.md" target="_blank">川普和习近平之争 最后结果将如何？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329036.md" target="_blank">江峰：川普组「铁三角」演大戏，和中共对决提前到来；贸易战转入军事对垒，南海冲突的致胜点在哪里？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329029.md" target="_blank">广东虎门大桥恢复通车 网民忧安全问题不敢走(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329158.md" target="_blank">中共病毒攻击 川普给三细节 吉林辽宁逾8000人被隔离 武汉1天110万？检测不换手套引忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329142.md" target="_blank">川普在白宫顶“插上”了五星旗(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329125.md" target="_blank">金正恩“睡前特殊僻好”曝光</a></li>
@@ -88,13 +89,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328469.md" target="_blank">回怼央视《后浪》 &#8220;你们有幸遇见这样的韭菜 但韭菜的不幸是遇见了这样的你们&#8221;(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328468.md" target="_blank">银河系罕见发现“超级地球” 地球质量4倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328456.md" target="_blank">穿越时空 谢田教授的神奇经历(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200514/1328454.md" target="_blank">全球制鞋龙头宝成湖北厂关闭 逾四千人失业(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329412.md" target="_blank">库德洛：中美一阶段贸易协议仍在生效 中方采购速度有点慢</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329411.md" target="_blank">地产商大裁员 碧桂园减员3万人 时代中国控股裁掉37%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329410.md" target="_blank">刹车出现噪音，前行和倒车时的噪音还不同？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329401.md" target="_blank">美新任中共病毒疫苗研发负责人：有信心年底出数亿剂疫苗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329396.md" target="_blank">德国2020年第一季度萎缩2.2%  出现经济衰退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329391.md" target="_blank">失业率回升 消费低迷 中国经济无复苏基础</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329224.md" target="_blank">隋棠4岁儿子记得投胎「老爷爷抱着我飞下来」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329200.md" target="_blank">焦点对话(2020年5月15日)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329197.md" target="_blank">哪个专家说美国完了？疫情三大现实 缓和是趋势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329163.md" target="_blank">评论 | 魏京生：五四运动的经验教训（之二）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329160.md" target="_blank">惊！新冠（中共）病毒突变超过30种病毒株</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329150.md" target="_blank">【胡少江评论】「精致投机者」帮助独裁者败坏中国的声誉</a></li>
 
 </ul>
 </div>
