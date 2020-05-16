@@ -9,21 +9,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329180.md">范冰冰又摊上大事了？卷入530亿惊天大骗局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329085.md">重磅！调查发现：中共在故意拖延外界调查武汉病毒源头(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329142.md">川普在白宫顶“插上”了五星旗(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1328920.md">中国起草房地产税法 太缺钱了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329080.md">香港考题惹争议 意外揭出毛泽东卖国丑闻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329158.md">中共病毒攻击 川普给三细节 吉林辽宁逾8000人被隔离 武汉1天110万？检测不换手套引忧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200516/1329328.md">〖兲朝浮世绘〗重祭毛魔大旗 习近平这是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328931.md">中共战狼外交困局：8位大使被召见 2使馆推特封号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1328938.md">急于摆平内部烂摊子？习近平山西重提胡锦涛“不折腾”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200516/1329328.md">〖兲朝浮世绘〗重祭毛魔大旗 习近平这是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329033.md">侯赛因·奥巴马不为人知的身世…这也许是川普粉丝恨他的原因(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200515/1328932.md">川普发难 人民币悬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329107.md">脱勾中共 川普义无反顾 民存款减8千亿 北京反升杠杆 对比鲜明 台经济蒸蒸日上</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329017.md">海口扫黄 现场画面曝光 网民热议：怎么不去中南海扫黄？2020年5月13日</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200515/1328989.md">【立此存照】胡锡进同学群聊天记录：你的国籍是中国还是美国？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329017.md">海口扫黄 现场画面曝光 网民热议：怎么不去中南海扫黄？2020年5月13日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329028.md">徐晓冬的「愚蠢」 僧一龙的「智慧」(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329475.md" target="_blank">网友直击：十几辆大巴坐满医护人员开进舒兰建馨园 做核酸检测(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329471.md" target="_blank">中纪委巡视进驻35个要害机构 分析：内斗激烈 反腐成空(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329463.md" target="_blank">武汉千万人被当韭菜？武汉大嫂怒骂政府脑残! (视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329462.md" target="_blank">陈破空：大军演，重要将领忽然消失！党内传密话：任志强放了？特朗普对习近平撂重话</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329087.md" target="_blank">遭当局「稳控」上海癌症访民向外求助(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md" target="_blank">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329080.md" target="_blank">香港考题惹争议 意外揭出毛泽东卖国丑闻(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329072.md" target="_blank">隐瞒疫情追责！全球近40国向中共求偿 土耳其加入(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329483.md" target="_blank">震惊！中国疫情数据库外泄 涉逾64万病例更新数据</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329473.md" target="_blank">欧洲20个最佳儿童博物馆 疫情后陪伴孩子在博物馆里长大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329465.md" target="_blank">冯志强: 加拿大新老媒体相煎何太急 实属罕见(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329458.md" target="_blank">黄酥酥：杀人都不偿命了 欠债还要我还钱？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329457.md" target="_blank">韦三水: 别以为“脱钩”和你没关系 很多人会走向“赤贫”(图）</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329373.md" target="_blank">中共央行第三次降准并续作MLF 释放三千亿资金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329359.md" target="_blank">英媒：中共军方大学数据显示大陆64万人染疫 是官方数字的六倍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329352.md" target="_blank">评论 | 陈光诚：强烈呼吁中共当局立即还高智晟律师自由</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329334.md" target="_blank">春秋二珍宝 一个是和氏璧另一个是随侯珠</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329305.md" target="_blank">川普政府严打“千人计划” 本周第二起 华裔医生涉欺诈被捕</a></li>
 
 </ul>
 </div>
