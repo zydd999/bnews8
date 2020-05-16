@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329245.md" target="_blank">反对共产党就是精神病，没病也必须有病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329353.md" target="_blank">文昭：川普要「中美绝交」，两招应声而出！深度解析：中共「认怂」的种种误判</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md" target="_blank">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329335.md" target="_blank">Youtube政治审查升级 留言“共匪”被自动删除(组图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329066.md" target="_blank">党媒脸书公开招聘五毛引围观 网民：发帖一条多少钱？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329065.md" target="_blank">历史上罕见 5月吉林长白山一米深大雪(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329056.md" target="_blank">川普和习近平之争 最后结果将如何？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329036.md" target="_blank">江峰：川普组「铁三角」演大戏，和中共对决提前到来；贸易战转入军事对垒，南海冲突的致胜点在哪里？</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329414.md" target="_blank">【中共病毒】俄罗斯一名治愈病患病情复发  英准备按地区松绑禁令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329412.md" target="_blank">库德洛：中美一阶段贸易协议仍在生效 中方采购速度有点慢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329411.md" target="_blank">地产商大裁员 碧桂园减员3万人 时代中国控股裁掉37%</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329410.md" target="_blank">刹车出现噪音，前行和倒车时的噪音还不同？</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329246.md" target="_blank">“失去的赢回来”！青春励志剧《下半场》获金马奖14项提名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329224.md" target="_blank">隋棠4岁儿子记得投胎「老爷爷抱着我飞下来」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329200.md" target="_blank">焦点对话(2020年5月15日)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329197.md" target="_blank">哪个专家说美国完了？疫情三大现实 缓和是趋势</a></li>
 
 </ul>
 </div>
