@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200516/1329671.md">经济学家林毅夫：中国下半年GDP增速可达15% 但要留政策空间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329463.md">武汉千万人被当韭菜？武汉大嫂怒骂政府脑残! (视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329525.md">中共病毒"弱点"找到了！德发现有效阻止病毒复制物质</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329471.md">中纪委巡视进驻35个要害机构 分析：内斗激烈 反腐成空(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329813.md" target="_blank">李么傻： “咱正永书记”在陕西的风流韵事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md" target="_blank">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329776.md" target="_blank">传吉林465医院清空接收重症 大剧院改方舱(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329775.md" target="_blank">传武汉大学检测出逾百阳性 官方一例未公布(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329504.md" target="_blank">吉林市疫情堪忧 建方舱医院 设定点医院(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329495.md" target="_blank">江泽民收买洋商人出伪传 骗他当幕后枪手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329489.md" target="_blank">推责 中共否认世卫要求参观武汉P4实验室(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329488.md" target="_blank">失业率回升 消费低迷 中国经济无复苏基础(图)</a></li>
 
 </ul>
 </div>
