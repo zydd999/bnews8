@@ -13,15 +13,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329158.md">中共病毒攻击 川普给三细节 吉林辽宁逾8000人被隔离 武汉1天110万？检测不换手套引忧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200516/1329328.md">〖兲朝浮世绘〗重祭毛魔大旗 习近平这是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329033.md">侯赛因·奥巴马不为人知的身世…这也许是川普粉丝恨他的原因(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328973.md">盘点央视造假集锦 朱镕基都骂胡说八道(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1328990.md">军方绝密：掌中南海防空的81军旅长神秘死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200515/1329019.md">被川普怼的华裔记者遭起底(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329107.md">脱勾中共 川普义无反顾 民存款减8千亿 北京反升杠杆 对比鲜明 台经济蒸蒸日上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200515/1328989.md">【立此存照】胡锡进同学群聊天记录：你的国籍是中国还是美国？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200515/1329017.md">海口扫黄 现场画面曝光 网民热议：怎么不去中南海扫黄？2020年5月13日</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329081.md">红二代：这个历史拐点 要欣然接受中共灭亡(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329107.md">脱勾中共 川普义无反顾 民存款减8千亿 北京反升杠杆 对比鲜明 台经济蒸蒸日上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200515/1329028.md">徐晓冬的「愚蠢」 僧一龙的「智慧」(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329338.md">仅戴口罩也没用！美流行病专家坐飞机中招(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329279.md">傻眼！北京男带双胞胎做亲子鉴定 “只有1个是亲生”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329066.md">党媒脸书公开招聘五毛引围观 网民：发帖一条多少钱？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200515/1329222.md">更多中国体制内人士挑战习近平“定于一尊”的独裁统治</a></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329505.md" target="_blank">杀鸡儆猴 舒兰市委书记李鹏飞深夜被免职(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329504.md" target="_blank">吉林市疫情堪忧 建方舱医院 设定点医院(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329495.md" target="_blank">江泽民收买洋商人出伪传 骗他当幕后枪手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329489.md" target="_blank">推责 中共否认世卫要求参观武汉P4实验室(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329488.md" target="_blank">失业率回升 消费低迷 中国经济无复苏基础(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329256.md" target="_blank">香港考题涉日本侵华史 官方轰伤害民族感情惹争议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329248.md" target="_blank">巴基斯坦疫情飙升 滞留中国民众吁北京协助撤侨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329180.md" target="_blank">范冰冰又摊上大事了？卷入530亿惊天大骗局</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329138.md" target="_blank">中国财政赤字货币化意味着政府体系崩溃与违法&#8211;天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200515/1329108.md" target="_blank">疫情下开两会北京如临大敌 严控访民 升级防疫(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329507.md" target="_blank">洪博学：想被强暴 无须呼朋引伴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329506.md" target="_blank">陶杰：香港还能做多久蝙蝠？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329496.md" target="_blank">东北疫情加重 吉林舒兰市委书记李鹏飞深夜被免职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329493.md" target="_blank">梁惠王：敲锣女们很多 不必绝望也不说明什么(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329492.md" target="_blank">刘着民： 反噬恩人 当初这锣 你就不该敲(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329401.md" target="_blank">美新任中共病毒疫苗研发负责人：有信心年底出数亿剂疫苗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329396.md" target="_blank">德国2020年第一季度萎缩2.2%  出现经济衰退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329391.md" target="_blank">失业率回升 消费低迷 中国经济无复苏基础</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329390.md" target="_blank">一颗恒星被黑洞吞噬后居然活了下来 后续命运更有戏剧性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329378.md" target="_blank">台积电投资美国 急坏中共同路人(图)</a></li>
 
 </ul>
 </div>
