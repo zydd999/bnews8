@@ -3,16 +3,14 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329631.md">习近平为什麽在5月14日政治局常委会议上大动肝火？--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200516/1329328.md">〖兲朝浮世绘〗重祭毛魔大旗 习近平这是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329494.md">一篇文章“爆火” 招来对任正非如山似海的口诛笔伐(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200516/1329413.md">政府工作报告难产 习近平不想折腾了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329683.md">习近平工作报告难产? 赵正永糜烂生活曝光 99%的中国人想不到</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329523.md">胡锡进群聊天记录曝光 遭同学嘲笑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329462.md">陈破空：大军演，重要将领忽然消失！党内传密话：任志强放了？特朗普对习近平撂重话 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329579.md">围堵中共 川普出狠手大胜 真数据！富士康利润暴跌9成 太缺钱?中共起草房地产税法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329443.md">哈尔滨商贩被逼齐翻墙 网友：再逼就离上梁山不远了！(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329338.md">仅戴口罩也没用！美流行病专家坐飞机中招(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329364.md">江青和张玉凤的祕密战争(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329609.md">中共官员首次承认：疫情初期曾销毁病毒样本(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200516/1329480.md">小米秘密遭黄之锋揭穿？小粉红又要心碎一地！(图)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329542.md">小鹰号航母比辽宁号航母早服役50年 哪个更强？网友评论亮了！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200516/1329423.md">艾滋病的传播途径只有4种 医生痛心：很重要 可太多人搞不清(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329463.md">武汉千万人被当韭菜？武汉大嫂怒骂政府脑残! (视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329525.md">中共病毒"弱点"找到了！德发现有效阻止病毒复制物质</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
