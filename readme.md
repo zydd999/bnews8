@@ -6,19 +6,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200516/1329328.md">〖兲朝浮世绘〗重祭毛魔大旗 习近平这是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329494.md">一篇文章“爆火” 招来对任正非如山似海的口诛笔伐(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200516/1329413.md">政府工作报告难产 习近平不想折腾了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329683.md">习近平工作报告难产? 赵正永糜烂生活曝光 99%的中国人想不到</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329340.md">武汉推全民检测 有的人笑了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329462.md">陈破空：大军演，重要将领忽然消失！党内传密话：任志强放了？特朗普对习近平撂重话 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329579.md">围堵中共 川普出狠手大胜 真数据！富士康利润暴跌9成 太缺钱?中共起草房地产税法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329523.md">胡锡进群聊天记录曝光 遭同学嘲笑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329579.md">围堵中共 川普出狠手大胜 真数据！富士康利润暴跌9成 太缺钱?中共起草房地产税法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329443.md">哈尔滨商贩被逼齐翻墙 网友：再逼就离上梁山不远了！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329338.md">仅戴口罩也没用！美流行病专家坐飞机中招(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329364.md">江青和张玉凤的祕密战争(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329609.md">中共官员首次承认：疫情初期曾销毁病毒样本(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200516/1329480.md">小米秘密遭黄之锋揭穿？小粉红又要心碎一地！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329553.md">【要闻集粹】川普重锤 间谍被抓 习近平昏招是在作死么？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329560.md">网传“赊刀人”再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329627.md">习近平大军演望达4大目的 反暴露中共解放军致命弱点 中美海军开战1小时战斗结束？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329560.md">网传“赊刀人”再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329630.md">中共渤海军演背后不与人说的安排与无奈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200516/1329417.md">“摧毁”中国年轻人的饮品 又开始“毒害”日本、韩国的年轻人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329532.md">儿惨死金正恩之手 爸妈复仇抖出北韩2千万美元冻结资产(图)</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329755.md" target="_blank">陈破空：习近平突发旧文，暗示他坚持终身制！重提不折腾有深意？美国太空军亮旗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329696.md" target="_blank">美国太空军军旗亮相 招兵买马应对中国俄罗斯挑战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329640.md" target="_blank">加拿大政要祝贺法轮大法弘传廿八周年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329631.md" target="_blank">习近平为什麽在5月14日政治局常委会议上大动肝火？&#8211;天钧政经</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329462.md" target="_blank">陈破空：大军演，重要将领忽然消失！党内传密话：任志强放了？特朗普对习近平撂重话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329217.md" target="_blank">【庆祝513】诊所员工们给法轮功学员留了一个“神”位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329218.md" target="_blank">【庆祝513】法轮大法给了我女儿最好的教育</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329245.md" target="_blank">反对共产党就是精神病，没病也必须有病</a></li>
 
 </ul>
 </div>
