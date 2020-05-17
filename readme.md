@@ -22,7 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200516/1329423.md">艾滋病的传播途径只有4种 医生痛心：很重要 可太多人搞不清(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200516/1329671.md">经济学家林毅夫：中国下半年GDP增速可达15% 但要留政策空间</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329463.md">武汉千万人被当韭菜？武汉大嫂怒骂政府脑残! (视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329525.md">中共病毒"弱点"找到了！德发现有效阻止病毒复制物质</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329289.md" target="_blank">李一平：反送中再起，香港人战胜中共的必杀技！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329813.md" target="_blank">李么傻： “咱正永书记”在陕西的风流韵事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md" target="_blank">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329776.md" target="_blank">传吉林465医院清空接收重症 大剧院改方舱(视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329505.md" target="_blank">杀鸡儆猴 舒兰市委书记李鹏飞深夜被免职(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329504.md" target="_blank">吉林市疫情堪忧 建方舱医院 设定点医院(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329495.md" target="_blank">江泽民收买洋商人出伪传 骗他当幕后枪手(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329489.md" target="_blank">推责 中共否认世卫要求参观武汉P4实验室(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329821.md" target="_blank">反思中共病毒疫情 英智库促五眼联盟与中共脱钩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329800.md" target="_blank">他定义了少年李白的诗仙地位  自己也是大诗人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329787.md" target="_blank">布鲁塞尔谍影重重 中共被曝通过马耳他大使馆监视欧盟举动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329785.md" target="_blank">美国太空部队举行揭旗仪式  “或许你在地球上生活的目的并不仅仅关乎地球”</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329611.md" target="_blank">秦王认错召回李斯 留用奸细完成“郑国渠”造福至今</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329599.md" target="_blank">越施压越强硬 澳总理：有些底线永远不能被交易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329593.md" target="_blank">恭喜！44岁崔智友顺利生女 母女平安</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329592.md" target="_blank">豌豆苗拌虫草花 提升呼吸道免疫力 降低胆固醇</a></li>
 
 </ul>
 </div>
