@@ -4,17 +4,17 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329683.md">习近平工作报告难产? 赵正永糜烂生活曝光 99%的中国人想不到</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330002.md">金正恩又咋了？北韩撤下中央广场「金日成、金正日」肖像(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200517/1329912.md">中国楼市传来3个“坏消息” 比房价下跌还可怕（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329813.md">李么傻： “咱正永书记”在陕西的风流韵事(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330002.md">金正恩又咋了？北韩撤下中央广场「金日成、金正日」肖像(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329755.md">陈破空：习近平突发旧文，暗示他坚持终身制！重提不折腾有深意？美国太空军亮旗 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329775.md">传武汉大学检测出逾百阳性 官方一例未公布(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1329917.md">文革中惨遭污辱迫害致死的才女们 个个是美女(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200517/1329798.md">男子在野外发现庞然大物 身长13米 网友：它究竟从何而来？(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329839.md">美国出绝招 中共难还手(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200517/1329811.md">武汉还在掩盖什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200516/1329671.md">经济学家林毅夫：中国下半年GDP增速可达15% 但要留政策空间</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200517/1329811.md">武汉还在掩盖什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329839.md">美国出绝招 中共难还手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200517/1329875.md">全球挺台 中共施压谭德塞密函曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200517/1329979.md">正宫开撕！曝《舌尖上的中国》导演出轨女同事(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1329863.md">正面对决！川普和奥巴马在同一天发文互怼都只用了一个字！(图集)</a></li>
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200517/1329840.md">妈妈短裤被爱犬啃破 破洞处让人尴尬了…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200517/1329754.md">段奕宏日籍娇妻罕秀恩爱！结婚9年仍无子(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329289.md">李一平：反送中再起，香港人战胜中共的必杀技！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329733.md">时事大家谈：“民族脊梁”挑战“国士无双”，崔永元为何杠上钟南山？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330058.md">中国2亿工人失业50万企业倒闭 英智库:全球去中共化大势定 三重打击中国经济失业回不来</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330102.md" target="_blank">小贾斯公开忏悔：如果一切重来 婚前不该有性行为</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md" target="_blank">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md" target="_blank">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330087.md" target="_blank">辛龙走不出悲痛 宪哥下最后通牒“为了孩子要坚强”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330068.md" target="_blank">《摩登家庭》“菲尔父亲”老牌男星佛莱德去世</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329978.md" target="_blank">大学生猛醒：反抗黑社会 我受够共产党了 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329974.md" target="_blank">茅于轼：颠覆你有什么错？(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329973.md" target="_blank">孙立平：四大“寄生兽” 吞噬了中国经济 怎么活转？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329966.md" target="_blank">颜纯鈎：中央直接管香港 港人须见招拆招</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329962.md" target="_blank">中欧关系紧张 北京有如执行自杀战略(图)</a></li>
 
 </ul>
 </div>
