@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329553.md">【要闻集粹】川普重锤 间谍被抓 习近平昏招是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329627.md">习近平大军演望达4大目的 反暴露中共解放军致命弱点 中美海军开战1小时战斗结束？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329630.md">中共渤海军演背后不与人说的安排与无奈(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329560.md">网传“赊刀人”再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200516/1329417.md">“摧毁”中国年轻人的饮品 又开始“毒害”日本、韩国的年轻人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329560.md">网传“赊刀人”再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329532.md">儿惨死金正恩之手 爸妈复仇抖出北韩2千万美元冻结资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329542.md">小鹰号航母比辽宁号航母早服役50年 哪个更强？网友评论亮了！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200516/1329423.md">艾滋病的传播途径只有4种 医生痛心：很重要 可太多人搞不清(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200516/1329671.md">经济学家林毅夫：中国下半年GDP增速可达15% 但要留政策空间</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329525.md">中共病毒"弱点"找到了！德发现有效阻止病毒复制物质</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329463.md">武汉千万人被当韭菜？武汉大嫂怒骂政府脑残! (视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329755.md">陈破空：习近平突发旧文，暗示他坚持终身制！重提不折腾有深意？美国太空军亮旗 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329471.md">中纪委巡视进驻35个要害机构 分析：内斗激烈 反腐成空(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329846.md" target="_blank">比尔盖茨如此聪明 却为何要站在左派一边？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329845.md" target="_blank">朱达志: 敲锣女的三部手机，以及“蛊”字的写法与寓意(图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329843.md" target="_blank">去中国化 去流氓化(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329839.md" target="_blank">美国出绝招 中共难还手(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329838.md" target="_blank">中国学生和中原大学应向老师道歉(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329832.md" target="_blank">四大“寄生兽” 吞噬了中国经济(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329825.md" target="_blank">澳媒：中国的欺凌不会让我们屈服(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329824.md" target="_blank">上海独立记者张展武汉采访疑被拘 曾声援反送中(图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329676.md" target="_blank">中共 “两会”罕见拒绝境外记者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329665.md" target="_blank">死后为何把手放在棺材外？ 亚历山大大帝的死前遗愿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329664.md" target="_blank">科学家找到了冰河世纪的成因？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329663.md" target="_blank">车银优获邀主演人气网漫《女神降临》真人版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329644.md" target="_blank">打造健康的身心生活 三大支柱不可少(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329633.md" target="_blank">杜渐： 川普一天两提与中共一刀两断 「脱钩」在所难免(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329629.md" target="_blank">IU生日提前收到祝福  高人气Post Malone也关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329623.md" target="_blank">茅于轼：国家没法颠覆 政府可以换 “颠覆政府”有什么错？(图/视频)</a></li>
 
 </ul>
 </div>
