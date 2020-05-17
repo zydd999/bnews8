@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md" target="_blank">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330210.md" target="_blank">钟南山受访外媒甩锅地方瞒疫：中国有第二波疫情风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330187.md" target="_blank">把水搅浑 中共疫情宣传背后有三目的(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md" target="_blank">中共驻以色列大使猝死 官邸警查死因</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329769.md" target="_blank">疫情恶化 吉林市关停个体诊所和门诊部(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329768.md" target="_blank">北京遭遇沙尘袭击 PM10浓度达重度污染(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329767.md" target="_blank">湖南退役士官反强拆被拘留 决意抗争到底(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329755.md" target="_blank">陈破空：习近平突发旧文，暗示他坚持终身制！重提不折腾有深意？美国太空军亮旗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329696.md" target="_blank">美国太空军军旗亮相 招兵买马应对中国俄罗斯挑战</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330219.md" target="_blank">欧盟最高外交官：中共趁疫分化欧盟 各国须统一立场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330218.md" target="_blank">母亲虐待家里的奴婢 报应分毫不差落在她女儿身上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330154.md" target="_blank">猕猴桃奶昔 提升免疫力抗病毒的最佳饮料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330119.md" target="_blank">担心导致「第二波疫情」日审慎对待中韩通关要求</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329989.md" target="_blank">美国发布：14种食物能抗炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329988.md" target="_blank">抗氧化之王！能增强免疫力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329987.md" target="_blank">防疫宅在家  当心中风突袭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329986.md" target="_blank">突然闻不到咖啡香 当心你中了中共肺炎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329985.md" target="_blank">高血压是吃出来的！ 这些东西少碰为妙</a></li>
 
 </ul>
 </div>
