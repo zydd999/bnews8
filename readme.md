@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330227.md" target="_blank">《创造营2020》吴亦凡顶替罗志祥  合体EXO黄子韬鹿晗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330219.md" target="_blank">欧盟最高外交官：中共趁疫分化欧盟 各国须统一立场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330218.md" target="_blank">母亲虐待家里的奴婢 报应分毫不差落在她女儿身上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330154.md" target="_blank">猕猴桃奶昔 提升免疫力抗病毒的最佳饮料</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329995.md" target="_blank">谢田：习近平错失美中贸易协议良机 惹出大麻烦？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329989.md" target="_blank">美国发布：14种食物能抗炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329988.md" target="_blank">抗氧化之王！能增强免疫力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329987.md" target="_blank">防疫宅在家  当心中风突袭</a></li>
 
 </ul>
 </div>
