@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1329917.md">文革中惨遭污辱迫害致死的才女们 个个是美女(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200517/1330063.md">中共新任驻以色列大使在官邸内死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330051.md">各国企业加速撤离中国 专家：中国市场剩空壳(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200517/1329875.md">全球挺台 中共施压谭德塞密函曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库???????：与中共"战略性分手" “军头不政治站队习近平”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200517/1329875.md">全球挺台 中共施压谭德塞密函曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200517/1329979.md">正宫开撕！曝《舌尖上的中国》导演出轨女同事(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329940.md">一线采访：武汉全员核酸检测 中共自打脸(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1329863.md">正面对决！川普和奥巴马在同一天发文互怼都只用了一个字！(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330185.md">复发?爆发?武汉60万感染者？中国有症状确诊至少232万 中共高层承认挑战前所未有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1329833.md">王石日本看病实录 资本主义社会中的社会主义(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330042.md">数字拿捏的有学问！川普考虑恢复过去金援的10% 谭德塞将来听谁的？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330052.md">起了一卦后 他想“这个疫情...很凶险…”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330028.md">“大头娃娃”事件发酵 中国飞鹤暴跌 市值蒸发160亿港元(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200517/1329840.md">妈妈短裤被爱犬啃破 破洞处让人尴尬了…(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330250.md" target="_blank">为什么必须盯住那场浩劫不放？(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md" target="_blank">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330242.md" target="_blank">蓬佩奥：川普总统承诺一定要让中共对病毒大流行负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330240.md" target="_blank">英国松绑禁足令 热门景点停车场爆满 保持社交距离面临挑战</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330047.md" target="_blank">血压高危害报你知，利用食物降血压聪明护血管！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330044.md" target="_blank">李燕铭：江曾两会前香港搅局 习近平山西“拜佛” 重提胡锦涛“不折腾”警告骆惠宁及江曾 山西官场地震 一官落马一官履新副省长 两人背景预兆山西官场新一轮清洗风暴 会牵出哪些权贵家族太子党官二代？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330043.md" target="_blank">【中共病毒】 意大利将于6月3日解除旅游禁令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330031.md" target="_blank">共食不分餐会给病毒感染的机会</a></li>
 
 </ul>
 </div>
