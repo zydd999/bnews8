@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330241.md" target="_blank">陈破空：共军鹰派坦承：军演并非针对台湾，防美军突袭中南海！习近平压力下，驻外大使不好当。世贸总干事辞职，谭书记咋办</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md" target="_blank">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330210.md" target="_blank">钟南山受访外媒甩锅地方瞒疫：中国有第二波疫情风险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330187.md" target="_blank">把水搅浑 中共疫情宣传背后有三目的(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329775.md" target="_blank">传武汉大学检测出逾百阳性 官方一例未公布(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329769.md" target="_blank">疫情恶化 吉林市关停个体诊所和门诊部(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329768.md" target="_blank">北京遭遇沙尘袭击 PM10浓度达重度污染(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329767.md" target="_blank">湖南退役士官反强拆被拘留 决意抗争到底(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330240.md" target="_blank">英国松绑禁足令 热门景点停车场爆满 保持社交距离面临挑战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330238.md" target="_blank">惊！加拿大亲中者比例暴跌到14%  八成人拒绝华为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330237.md" target="_blank">1949之后饶漱石死得蹊跷 因为他得罪了谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330227.md" target="_blank">《创造营2020》吴亦凡顶替罗志祥  合体EXO黄子韬鹿晗</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330031.md" target="_blank">共食不分餐会给病毒感染的机会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330024.md" target="_blank">垃圾桶的臭味终于可以解决了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329997.md" target="_blank">吃的口罩！教你自制免疫八宝汤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329995.md" target="_blank">谢田：习近平错失美中贸易协议良机 惹出大麻烦？(图/视频)</a></li>
 
 </ul>
 </div>
