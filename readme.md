@@ -7,24 +7,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329683.md">习近平工作报告难产? 赵正永糜烂生活曝光 99%的中国人想不到</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329523.md">胡锡进群聊天记录曝光 遭同学嘲笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329579.md">围堵中共 川普出狠手大胜 真数据！富士康利润暴跌9成 太缺钱?中共起草房地产税法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200516/1329480.md">小米秘密遭黄之锋揭穿？小粉红又要心碎一地！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329609.md">中共官员首次承认：疫情初期曾销毁病毒样本(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329553.md">【要闻集粹】川普重锤 间谍被抓 习近平昏招是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329777.md">中共前军官：高级军官不政治站队 都在观望(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329553.md">【要闻集粹】川普重锤 间谍被抓 习近平昏招是在作死么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329627.md">习近平大军演望达4大目的 反暴露中共解放军致命弱点 中美海军开战1小时战斗结束？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329630.md">中共渤海军演背后不与人说的安排与无奈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329560.md">网传“赊刀人”再现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329532.md">儿惨死金正恩之手 爸妈复仇抖出北韩2千万美元冻结资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329542.md">小鹰号航母比辽宁号航母早服役50年 哪个更强？网友评论亮了！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329755.md">陈破空：习近平突发旧文，暗示他坚持终身制！重提不折腾有深意？美国太空军亮旗 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329775.md">传武汉大学检测出逾百阳性 官方一例未公布(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200516/1329671.md">经济学家林毅夫：中国下半年GDP增速可达15% 但要留政策空间</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329775.md">传武汉大学检测出逾百阳性 官方一例未公布(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200516/1329525.md">中共病毒"弱点"找到了！德发现有效阻止病毒复制物质</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329813.md">李么傻： “咱正永书记”在陕西的风流韵事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329574.md">全球460万感染 中共3大谎言曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329556.md">舒兰疫情蔓延 跨省传播 书记被免 更多细节曝光(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329813.md">李么傻： “咱正永书记”在陕西的风流韵事(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200516/1329669.md">日媒拆解华为手机：美产零件仅占1%</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329940.md" target="_blank">一线采访：武汉全员核酸检测 中共自打脸(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329939.md" target="_blank">辽宁抚顺中石油化工厂爆炸起火 疑遭雷击(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329926.md" target="_blank">短命&#8221;两会&#8221;气氛诡异 罕见拒绝境外记者(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329911.md" target="_blank">两会在即 中共高层承认挑战前所未有(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329895.md" target="_blank">“人命关天” 美议员提案不许假信息驱动世卫(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329889.md" target="_blank">天亮时分：中共10万亿救经济;台海之战子虚乌有;川普的两记重拳;中美大规模脱钩可能从今年11月开始(政论天下第166集 20200516)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329570.md" target="_blank">川普：美国正打造&#8221;超级飞弹&#8221;能打趴中俄（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329569.md" target="_blank">川普称可切断“美中关系” 赵立坚软化回应（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329556.md" target="_blank">舒兰疫情蔓延 跨省传播 书记被免 更多细节曝光(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329536.md" target="_blank">中共人大考虑缩短会期 不邀境外记者采访(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329529.md" target="_blank">被中官媒列为制裁对象 美议员：赞喔 放马过来！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329528.md" target="_blank">拒绝“与虎谋皮” 海外留学生发起“六四31年”公开信连署行动(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329943.md" target="_blank">【微博精粹】金三害死美青年判赔5亿美刀 赵党宣布不给P民发现金(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329942.md" target="_blank">廖祖笙：请习近平帮助我家离开疫区(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329902.md" target="_blank">武汉敲锣女转身翻脸批方方 现代版“农夫和蛇”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329900.md" target="_blank">臧启玉：徐晓东的“愚蠢” 一龙的“智慧”(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329899.md" target="_blank">绝没想到：乡村音乐与美国总统大选有这些奥妙</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329825.md" target="_blank">澳媒：中国的欺凌不会让我们屈服(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329824.md" target="_blank">上海独立记者张展武汉采访疑被拘 曾声援反送中(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329823.md" target="_blank">【民众心声】我受够共产党了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329821.md" target="_blank">反思中共病毒疫情 英智库促五眼联盟与中共脱钩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1329800.md" target="_blank">他定义了少年李白的诗仙地位  自己也是大诗人</a></li>
 
 </ul>
 </div>
