@@ -20,11 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1329833.md">王石日本看病实录 资本主义社会中的社会主义(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330042.md">数字拿捏的有学问！川普考虑恢复过去金援的10% 谭德塞将来听谁的？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330052.md">起了一卦后 他想“这个疫情...很凶险…”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330028.md">“大头娃娃”事件发酵 中国飞鹤暴跌 市值蒸发160亿港元(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200517/1329840.md">妈妈短裤被爱犬啃破 破洞处让人尴尬了…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330266.md" target="_blank">俄乌里扬诺夫斯克州医务人员中爆发中共病毒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330265.md" target="_blank">美国汽车业重启，13万美国汽车工人将在下周返岗复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330264.md" target="_blank">武汉还在掩盖什么？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330263.md" target="_blank">远离季节过敏 从食物着手(组图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330068.md" target="_blank">《摩登家庭》“菲尔父亲”老牌男星佛莱德去世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330067.md" target="_blank">炝拌土豆丝  一妙招让你做出大师级水平的夏日小凉菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330066.md" target="_blank">思考问题“核心”是解决的关键(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330049.md" target="_blank">英医疗首席执行官：染疫病患入院减少近半</a></li>
 
 </ul>
 </div>
