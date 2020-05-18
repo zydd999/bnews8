@@ -9,8 +9,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330428.md">中共病毒来自实验室？美专家公开结果(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md" target="_blank">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330732.md" target="_blank">网友直击：沈阳再爆疫情 北一路万达广场恐遭排查（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330731.md" target="_blank">网友直击：吉林市小区突被封 居民逃跑遭暴打（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330723.md" target="_blank">瘟疫与中共：为何美国左派州疫情严重(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md" target="_blank">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md" target="_blank">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330437.md" target="_blank">打趴中俄？川普爆：美国正建造「超级导弹」比现有快17倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330416.md" target="_blank">网友直击：吉林省疫情危急舒兰连夜测核酸（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330414.md" target="_blank">蓬佩奥：中共对美国构成真正的风险(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330413.md" target="_blank">疫情下北京信访机关关闭 截访现象依然猖獗(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330398.md" target="_blank">世卫大会召开在即 中共空前孤立(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330397.md" target="_blank">已立夏 北京门头沟灵山、百花山均降雪 网友：“民间必有奇冤情！”(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330738.md" target="_blank">为预防中共病毒 川普总统主动服用羟氯喹</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330737.md" target="_blank">释迦族前世造下屠杀的恶业 神通第一的目犍连能否化解？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330719.md" target="_blank">想改善肠道健康？吃对食品替肠道养好菌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330718.md" target="_blank">看看有您吗？夫妻中有一人属这四个生肖，孩子会聪明孝顺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330717.md" target="_blank">「堰坝奈我何 看我连环跳」 武林山猫带来超级跳跃</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330470.md" target="_blank">“最冷酷杀手”遇见死神 《疤面煞星》男星离世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330436.md" target="_blank">“端点星”被捕者一人保释 2名志愿者遭控寻衅滋事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330435.md" target="_blank">中共贸易干预 澳洲“先礼后兵” 或开拓其他市场</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330431.md" target="_blank">耶路撒冷邮报：中共大使之死牵动美中以三角关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330410.md" target="_blank">长期吃素耳鸣频频  缺少这个维生素可不是儿戏</a></li>
 
 </ul>
 </div>
