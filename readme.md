@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库：与中共"战略性分手" “军头不政治站队习近平”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330314.md">吉林舒兰公安局瘫痪 更多内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
@@ -16,15 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200518/1330205.md">世卫总干事急转弯 要求研究台湾出席世卫大会一事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200518/1330232.md">〖兲朝浮世绘〗这帮丧心病狂的败家子 花起民脂民膏一点也不心疼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330357.md">重磅！财经冷眼：深扒一下李飞飞及中共谍报系统的红色娘子军(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330358.md">奇葩！没迎来“报复性消费”却出现“报复性离婚潮”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200517/1330111.md">宝胜突发快评：战狼自绝、以色列大使杜伟死因成谜；前途黯淡、中共外交崩盘在即！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330360.md">共军是纸老虎 陆青年：无法打赢任何对外战争(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200518/1330186.md">歌后黄绮珊近况罕曝光！52岁转行做服务员？面色黄如土被嘲似大妈(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330512.md" target="_blank">马云再卸任一重要职务  国进民退再被关注</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330490.md" target="_blank">母女情深 加国女子自创抗疫「拥抱手套」零距离拥抱妈妈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330484.md" target="_blank">美军绝密飞机X-37B第六次进入太空执行任务 太空军第二次发射</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330474.md" target="_blank">一家3口染武肺 亲见美国医院的人性化(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330354.md" target="_blank">武汉检测至少50万染疫?传紧急叫停 机密文件显示或60万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330339.md" target="_blank">颜小白：“太极大师”马保国被50岁大爷4秒KO 刷新最惨记录(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330313.md" target="_blank">压抑已久的“恐惧”会化成“焦虑”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330312.md" target="_blank">关于疫源 川普掌握很多不利中共的信息</a></li>
 
 </ul>
 </div>
