@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330454.md">鉴宝专家刘岩被抓 整个收藏界群妖乱舞！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200518/1330457.md">金正恩又传死讯！北韩移除前领袖肖像专家研判他过世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330358.md">奇葩！没迎来“报复性消费”却出现“报复性离婚潮”(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330753.md" target="_blank">中共今年前4个月财政收入下滑14.5%</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md" target="_blank">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330741.md" target="_blank">美国多名强化防疫禁令的州长都遭起诉 共和党州开放经济疫情轻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330738.md" target="_blank">为预防中共病毒 川普总统主动服用羟氯喹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330737.md" target="_blank">释迦族前世造下屠杀的恶业 神通第一的目犍连能否化解？</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330490.md" target="_blank">母女情深 加国女子自创抗疫「拥抱手套」零距离拥抱妈妈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330484.md" target="_blank">美军绝密飞机X-37B第六次进入太空执行任务 太空军第二次发射</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330474.md" target="_blank">一家3口染武肺 亲见美国医院的人性化(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330470.md" target="_blank">“最冷酷杀手”遇见死神 《疤面煞星》男星离世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330436.md" target="_blank">“端点星”被捕者一人保释 2名志愿者遭控寻衅滋事</a></li>
 
 </ul>
 </div>
