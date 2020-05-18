@@ -7,24 +7,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1330081.md">安邦案波澜再起 吴小晖母亲发表公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330058.md">中国2亿工人失业50万企业倒闭 英智库:全球去中共化大势定 三重打击中国经济失业回不来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1329917.md">文革中惨遭污辱迫害致死的才女们 个个是美女(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200517/1330063.md">中共新任驻以色列大使在官邸内死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330185.md">复发?爆发?武汉60万感染者？中国有症状确诊至少232万 中共高层承认挑战前所未有</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200517/1330063.md">中共新任驻以色列大使在官邸内死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330051.md">各国企业加速撤离中国 专家：中国市场剩空壳(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库???????：与中共"战略性分手" “军头不政治站队习近平”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库：与中共"战略性分手" “军头不政治站队习近平”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200517/1329875.md">全球挺台 中共施压谭德塞密函曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200517/1329979.md">正宫开撕！曝《舌尖上的中国》导演出轨女同事(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329940.md">一线采访：武汉全员核酸检测 中共自打脸(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1329863.md">正面对决！川普和奥巴马在同一天发文互怼都只用了一个字！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330042.md">数字拿捏的有学问！川普考虑恢复过去金援的10% 谭德塞将来听谁的？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330052.md">起了一卦后 他想“这个疫情...很凶险…”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330028.md">“大头娃娃”事件发酵 中国飞鹤暴跌 市值蒸发160亿港元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329926.md">短命"两会"气氛诡异 罕见拒绝境外记者(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200518/1330205.md">世卫总干事急转弯 要求研究台湾出席世卫大会一事</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,7 +67,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md" target="_blank">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md" target="_blank">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330185.md" target="_blank">复发?爆发?武汉60万感染者？中国有症状确诊至少232万 中共高层承认挑战前所未有</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md" target="_blank">川普手握定时炸弹比索赔硬？英智库???????：与中共&#8221;战略性分手&#8221; “军头不政治站队习近平”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md" target="_blank">川普手握定时炸弹比索赔硬？英智库：与中共&#8221;战略性分手&#8221; “军头不政治站队习近平”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330090.md" target="_blank">让市场的正义 去解决邪恶——写在乐视永久退市之日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md" target="_blank">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330058.md" target="_blank">中国2亿工人失业50万企业倒闭 英智库:全球去中共化大势定 三重打击中国经济失业回不来</a></li>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330298.md" target="_blank">颜丹：当恐惧成为敲锣女的本能(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330297.md" target="_blank">石铭：从美国会议员授赠法轮功国会山国旗说起(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md" target="_blank">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330287.md" target="_blank">掸封尘：如果10月美国推倒中共防火墙 谁最“伤不起”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330286.md" target="_blank">袁斌：只有解体中共才能彻底告别文革(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330285.md" target="_blank">沈舟：中共东风导弹失去目标 美航母舰载机将是摧毁中共政权的利器(图)</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330119.md" target="_blank">担心导致「第二波疫情」日审慎对待中韩通关要求</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330103.md" target="_blank">章子怡问女儿骑马后痛不痛？4岁娃高智商回答</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330102.md" target="_blank">小贾斯公开忏悔：如果一切重来 婚前不该有性行为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md" target="_blank">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md" target="_blank">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 
 </ul>
 </div>
