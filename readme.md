@@ -2,11 +2,10 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200517/1330081.md">安邦案波澜再起 吴小晖母亲发表公开信</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330185.md">复发?爆发?武汉60万感染者？中国有症状确诊至少232万 中共高层承认挑战前所未有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库：与中共"战略性分手" “军头不政治站队习近平”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库：与中共"战略性分手" “军头不政治站队习近平”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
@@ -20,11 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200518/1330232.md">〖兲朝浮世绘〗这帮丧心病狂的败家子 花起民脂民膏一点也不心疼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330357.md">重磅！财经冷眼：深扒一下李飞飞及中共谍报系统的红色娘子军(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330090.md">让市场的正义 去解决邪恶——写在乐视永久退市之日</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330357.md">重磅！财经冷眼：深扒一下李飞飞及中共谍报系统的红色娘子军(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200517/1330111.md">宝胜突发快评：战狼自绝、以色列大使杜伟死因成谜；前途黯淡、中共外交崩盘在即！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330358.md">奇葩！没迎来“报复性消费”却出现“报复性离婚潮”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200517/1330111.md">宝胜突发快评：战狼自绝、以色列大使杜伟死因成谜；前途黯淡、中共外交崩盘在即！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md" target="_blank">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md" target="_blank">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330460.md" target="_blank">蓬佩奥警告中共：干涉驻港美国记者工作将影响香港特殊待遇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330450.md" target="_blank">中共官媒称川普说漏嘴 网友呛声(图)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330358.md" target="_blank">奇葩！没迎来“报复性消费”却出现“报复性离婚潮”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330348.md" target="_blank">世卫大会举行在即 美国两大议案剑指中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330347.md" target="_blank">重磅！财经冷眼：单纯一个李飞飞并不可怕 可怕的是…(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330346.md" target="_blank">力阻台湾参与WHA 中共致谭德塞密函曝光(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md" target="_blank">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330475.md" target="_blank">致命!台积电拒华为新订单 习出事？军报表效忠 京守将异动 金正恩失踪 爸爸爷爷肖像被卸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330411.md" target="_blank">日经：台积电已停止接受华为新订单(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330391.md" target="_blank">中国“太极大师”上擂台30秒被拳击手KO(组图/视频)</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md" target="_blank">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329683.md" target="_blank">习近平工作报告难产? 赵正永糜烂生活曝光 99%的中国人想不到</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329627.md" target="_blank">习近平大军演望达4大目的 反暴露中共解放军致命弱点 中美海军开战1小时战斗结束？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329579.md" target="_blank">围堵中共 川普出狠手大胜 真数据！富士康利润暴跌9成 太缺钱?中共起草房地产税法</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330490.md" target="_blank">母女情深 加国女子自创抗疫「拥抱手套」零距离拥抱妈妈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330484.md" target="_blank">美军绝密飞机X-37B第六次进入太空执行任务 太空军第二次发射</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330474.md" target="_blank">一家3口染武肺 亲见美国医院的人性化(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330470.md" target="_blank">“最冷酷杀手”遇见死神 《疤面煞星》男星离世</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330339.md" target="_blank">颜小白：“太极大师”马保国被50岁大爷4秒KO 刷新最惨记录(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330313.md" target="_blank">压抑已久的“恐惧”会化成“焦虑”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330312.md" target="_blank">关于疫源 川普掌握很多不利中共的信息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330302.md" target="_blank">程晓容：中共承认销毁病毒样本 还有多少秘密(图)</a></li>
 
 </ul>
 </div>
