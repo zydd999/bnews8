@@ -3,21 +3,20 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330185.md">复发?爆发?武汉60万感染者？中国有症状确诊至少232万 中共高层承认挑战前所未有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330475.md">致命!台积电拒华为新订单 习出事？军报表效忠 京守将异动 金正恩失踪 爸爸爷爷肖像被卸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330314.md">吉林舒兰公安局瘫痪 更多内幕曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330224.md">知名童星突然逝世年仅16岁 死因曝光因吸毒过量(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330224.md">知名童星突然逝世年仅16岁 死因曝光因吸毒过量(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330207.md">因不想出演 周星驰开天价婉拒 片方竟欣然答应 意外成就经典！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330428.md">中共病毒来自实验室？美专家公开结果(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200518/1330419.md">饭店里“最脏”的3道菜 聪明人从来都不点 老板：我自己都不吃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200518/1330232.md">〖兲朝浮世绘〗这帮丧心病狂的败家子 花起民脂民膏一点也不心疼</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200518/1330205.md">世卫总干事急转弯 要求研究台湾出席世卫大会一事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330454.md">鉴宝专家刘岩被抓 整个收藏界群妖乱舞！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200518/1330457.md">金正恩又传死讯！北韩移除前领袖肖像专家研判他过世</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330646.md" target="_blank">中美经贸战：传美规划250亿美元补贴企业迁出中国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330567.md" target="_blank">一个公开向毛挑战的北大学生的命运(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md" target="_blank">&#8220;川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md" target="_blank">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330001.md" target="_blank">对台湾赞不绝口 黄秋生：我的兄弟也要移民了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1329871.md" target="_blank">曾撑“共产党下台”雨伞！继方斌之后 女公民记者再被拘留 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1329833.md" target="_blank">王石日本看病实录 资本主义社会中的社会主义(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200516/1329713.md" target="_blank">敲锣救母女痊愈了吗？ 方方为中共做梦都想做的事铺路？和方方是现代版“农夫和蛇”?</a></li>
 
 </ul>
 </div>
