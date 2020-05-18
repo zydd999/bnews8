@@ -12,7 +12,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200517/1329979.md">正宫开撕！曝《舌尖上的中国》导演出轨女同事(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329940.md">一线采访：武汉全员核酸检测 中共自打脸(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330042.md">数字拿捏的有学问！川普考虑恢复过去金援的10% 谭德塞将来听谁的？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330052.md">起了一卦后 他想“这个疫情...很凶险…”(图)</a></li>
@@ -20,11 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330224.md">知名童星突然逝世年仅16岁 死因曝光因吸毒过量(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200518/1330205.md">世卫总干事急转弯 要求研究台湾出席世卫大会一事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330207.md">因不想出演 周星驰开天价婉拒 片方竟欣然答应 意外成就经典！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330090.md">让市场的正义 去解决邪恶——写在乐视永久退市之日</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329926.md">短命"两会"气氛诡异 罕见拒绝境外记者(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200517/1330111.md">宝胜突发快评：战狼自绝、以色列大使杜伟死因成谜；前途黯淡、中共外交崩盘在即！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330014.md">第二轮蝗灾规模暴涨20倍！伊朗或动用军队应对蝗灾(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330348.md" target="_blank">世卫大会举行在即 美国两大议案剑指中共(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330347.md" target="_blank">重磅！财经冷眼：单纯一个李飞飞并不可怕 可怕的是…(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330346.md" target="_blank">力阻台湾参与WHA 中共致谭德塞密函曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330326.md" target="_blank">广西崇左市突降暴雨 整个城市一片汪洋(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330318.md" target="_blank">猝死！中共驻以色列大使杜伟在官邸离奇死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330317.md" target="_blank">离奇“失踪”逾年 中共应急部长王玉普据报现身 但未见本人(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329939.md" target="_blank">辽宁抚顺中石油化工厂爆炸起火 疑遭雷击(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329926.md" target="_blank">短命&#8221;两会&#8221;气氛诡异 罕见拒绝境外记者(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329911.md" target="_blank">两会在即 中共高层承认挑战前所未有(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329895.md" target="_blank">“人命关天” 美议员提案不许假信息驱动世卫(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329889.md" target="_blank">天亮时分：中共10万亿救经济;台海之战子虚乌有;川普的两记重拳;中美大规模脱钩可能从今年11月开始(政论天下第166集 20200516)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1329853.md" target="_blank">采访武汉疫情涉嫌滋事遭捕 中国独立女记者被拘(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330354.md" target="_blank">武汉检测至少50万染疫?传紧急叫停 机密文件显示或60万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330339.md" target="_blank">颜小白：“太极大师”马保国被50岁大爷4秒KO 刷新最惨记录(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330313.md" target="_blank">压抑已久的“恐惧”会化成“焦虑”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330312.md" target="_blank">关于疫源 川普掌握很多不利中共的信息</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330238.md" target="_blank">惊！加拿大亲中者比例暴跌到14%  八成人拒绝华为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330237.md" target="_blank">1949之后饶漱石死得蹊跷 因为他得罪了谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330227.md" target="_blank">《创造营2020》吴亦凡顶替罗志祥  合体EXO黄子韬鹿晗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330219.md" target="_blank">欧盟最高外交官：中共趁疫分化欧盟 各国须统一立场</a></li>
 
 </ul>
 </div>
