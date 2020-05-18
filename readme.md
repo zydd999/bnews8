@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330454.md">鉴宝专家刘岩被抓 整个收藏界群妖乱舞！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200518/1330457.md">金正恩又传死讯！北韩移除前领袖肖像专家研判他过世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330713.md" target="_blank">随遇而安 太干旱 非洲肺鱼成鱼干 一遇到水～～</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330712.md" target="_blank">安智煐独撑「脸红的思春期」  收起眼泪一人发行新专辑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330682.md" target="_blank">意大利总理：解除禁足令感染曲线可能会再次升高但别无选择</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330666.md" target="_blank">弗州跨党派大学生团体呼吁：关闭美国所有孔子学院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330665.md" target="_blank">疫情中，被警察拦下（Pull Over），需要注意哪些事项呢？</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330409.md" target="_blank">一喝牛奶就拉肚子？！营养师这样说&#8230;&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330408.md" target="_blank">长寿皇帝乾隆活了89岁和命有关，可不止这“十常四勿”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330407.md" target="_blank">中共肺炎患者「隐形缺氧」无感觉 刚才还滑手机…一会儿就告危</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330406.md" target="_blank">一到夏天懒洋洋，  中医教你除湿小妙招</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330401.md" target="_blank">爱滋病患者更容易感染中共病毒 且易“无症状”</a></li>
 
 </ul>
 </div>
