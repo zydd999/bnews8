@@ -7,15 +7,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330185.md">复发?爆发?武汉60万感染者？中国有症状确诊至少232万 中共高层承认挑战前所未有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200517/1330063.md">中共新任驻以色列大使在官邸内死亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330243.md">中共特工受命9次尝试暗杀孟晚舟 孟晚舟被加警方逮捕后 中共国安紧急暗杀张守晟灭口 中共近期暗示命令孟晚舟主动自杀 中南海谣言预言_192</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330051.md">各国企业加速撤离中国 专家：中国市场剩空壳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330104.md">川普手握定时炸弹比索赔硬？英智库：与中共"战略性分手" “军头不政治站队习近平”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330211.md">孩子入籍加拿大？胡锡进辟谣 网民要其晒护照(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330314.md">吉林舒兰公安局瘫痪 更多内幕曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330052.md">起了一卦后 他想“这个疫情...很凶险…”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330224.md">知名童星突然逝世年仅16岁 死因曝光因吸毒过量(组图)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200518/1330232.md">〖兲朝浮世绘〗这帮丧心病狂的败家子 花起民脂民膏一点也不心疼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330090.md">让市场的正义 去解决邪恶——写在乐视永久退市之日</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200517/1330111.md">宝胜突发快评：战狼自绝、以色列大使杜伟死因成谜；前途黯淡、中共外交崩盘在即！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330450.md" target="_blank">中共官媒称川普说漏嘴 网友呛声(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md" target="_blank">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330445.md" target="_blank">世卫将召开年度大会 外媒料中共被孤立(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330444.md" target="_blank">蓬佩奥：让中共为瘟疫大流行负责 川普正在制定“精准操作”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330438.md" target="_blank">世贸组织新任总干事选战打响(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330346.md" target="_blank">力阻台湾参与WHA 中共致谭德塞密函曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330326.md" target="_blank">广西崇左市突降暴雨 整个城市一片汪洋(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330318.md" target="_blank">猝死！中共驻以色列大使杜伟在官邸离奇死亡(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330317.md" target="_blank">离奇“失踪”逾年 中共应急部长王玉普据报现身 但未见本人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330316.md" target="_blank">中国“太极大师”上擂台30秒被拳击手KO(视频)</a></li>
 
 </ul>
 </div>
