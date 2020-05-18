@@ -13,16 +13,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330092.md">朝鲜撤下中央广场前领导人肖像 金正恩又传死讯？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330314.md">吉林舒兰公安局瘫痪 更多内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330052.md">起了一卦后 他想“这个疫情...很凶险…”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330224.md">知名童星突然逝世年仅16岁 死因曝光因吸毒过量(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200517/1330070.md">西藏国保跨省办方斌案 重庆多名公民被约谈(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330283.md">川普：美掌握很多有关武汉病毒实验室的不好信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330207.md">因不想出演 周星驰开天价婉拒 片方竟欣然答应 意外成就经典！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200518/1330205.md">世卫总干事急转弯 要求研究台湾出席世卫大会一事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200517/1330105.md">中共驻以色列大使猝死 官邸警查死因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200518/1330232.md">〖兲朝浮世绘〗这帮丧心病狂的败家子 花起民脂民膏一点也不心疼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330101.md">英媒：中共病毒出现时就已是高传染性病株 中共为何称其不会人传人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330445.md" target="_blank">世卫将召开年度大会 外媒料中共被孤立(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330444.md" target="_blank">蓬佩奥：让中共为瘟疫大流行负责 川普正在制定“精准操作”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330438.md" target="_blank">世贸组织新任总干事选战打响(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330437.md" target="_blank">打趴中俄？川普爆：美国正建造「超级导弹」比现有快17倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330416.md" target="_blank">网友直击：吉林省疫情危急舒兰连夜测核酸（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330414.md" target="_blank">蓬佩奥：中共对美国构成真正的风险(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330413.md" target="_blank">疫情下北京信访机关关闭 截访现象依然猖獗(组图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330318.md" target="_blank">猝死！中共驻以色列大使杜伟在官邸离奇死亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330317.md" target="_blank">离奇“失踪”逾年 中共应急部长王玉普据报现身 但未见本人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330316.md" target="_blank">中国“太极大师”上擂台30秒被拳击手KO(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330315.md" target="_blank">长沙地铁命运多舛 “还没运营就淹了”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330314.md" target="_blank">吉林舒兰公安局瘫痪 更多内幕曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330306.md" target="_blank">惊奇！山东下“中共病毒”的冰雹(组图/3视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330241.md" target="_blank">陈破空：共军鹰派坦承：军演并非针对台湾，防美军突袭中南海！习近平压力下，驻外大使不好当。世贸总干事辞职，谭书记咋办</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330436.md" target="_blank">“端点星”被捕者一人保释 2名志愿者遭控寻衅滋事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330435.md" target="_blank">中共贸易干预 澳洲“先礼后兵” 或开拓其他市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330431.md" target="_blank">耶路撒冷邮报：中共大使之死牵动美中以三角关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330410.md" target="_blank">长期吃素耳鸣频频  缺少这个维生素可不是儿戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330409.md" target="_blank">一喝牛奶就拉肚子？！营养师这样说&#8230;&#8230;</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330301.md" target="_blank">张菁：期待“曼哈顿计划”启动 中共防火墙即刻被推倒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330298.md" target="_blank">颜丹：当恐惧成为敲锣女的本能(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330297.md" target="_blank">石铭：从美国会议员授赠法轮功国会山国旗说起(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md" target="_blank">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330287.md" target="_blank">掸封尘：如果10月美国推倒中共防火墙 谁最“伤不起”(图)</a></li>
 
 </ul>
 </div>
