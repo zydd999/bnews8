@@ -20,11 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330936.md">李燕铭：孙政才朝鲜族女下属被查 照片曝光 北京三高官十天内相继落马 三人背景各具特色 泄露习近平打虎动向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330595.md">台湾亲陆女星罕曝被索陪睡 拒绝后还遭拳暴</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330924.md">iPhone12全新渲染图曝光 这价格足以让人心动(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330980.md">传下令灭口刘希泳 中共最高检副检察长被免职(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330924.md">iPhone12全新渲染图曝光 这价格足以让人心动(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330829.md">又好气又好笑：盘点央视丑态百出的造假内容(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
