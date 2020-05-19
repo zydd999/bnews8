@@ -9,7 +9,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330678.md">新华裔（中国公众号）: 面对116国围攻，中国站在世卫孤独的舞台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200518/1330419.md">饭店里“最脏”的3道菜 聪明人从来都不点 老板：我自己都不吃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330450.md">中共官媒称川普说漏嘴 网友呛声(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330946.md" target="_blank">深入武汉报导疫情 前律师张展被捕 亲友向美国会求助</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330940.md" target="_blank">脸书扎克伯格促国际社会警惕中共的监管模式</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330939.md" target="_blank">【中共病毒】 德法倡议欧盟发行价值5000亿欧元的复苏基金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330936.md" target="_blank">李燕铭：孙政才朝鲜族女下属被查 照片曝光 北京三高官十天内相继落马 三人背景各具特色 泄露习近平打虎动向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330929.md" target="_blank">台北车站大厅拟「永不开放」席地而坐  各界反应不一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330927.md" target="_blank">庚子年，东土的母亲们开启了“癫痫”模式：魔鬼在人间</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330836.md" target="_blank">高天韵：美国太空军军旗亮相 制高点何在(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330835.md" target="_blank">金剑：把百姓变奴隶的党 无资格谈命运共同体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330834.md" target="_blank">横河评论：美中全方位脱钩前景和武汉核酸普测(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330826.md" target="_blank">供應鏈重塑全球將分為兩大市場</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330825.md" target="_blank">印度14岁占星师再次预言 给出几个关键时间点 第二波疫情更凶险</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330818.md" target="_blank">石山：央视谎片和香港局势 认清蝎子天性(图)</a></li>
 
 </ul>
 </div>
