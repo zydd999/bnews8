@@ -2,29 +2,29 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330475.md">致命!台积电拒华为新订单 习出事？军报表效忠 京守将异动 金正恩失踪 爸爸爷爷肖像被卸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330428.md">中共病毒来自实验室？美专家公开结果(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330678.md">新华裔（中国公众号）: 面对116国围攻，中国站在世卫孤独的舞台</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200518/1330419.md">饭店里“最脏”的3道菜 聪明人从来都不点 老板：我自己都不吃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330809.md">世卫大会习近平一句话 国内炸锅 网络狂删帖(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330454.md">鉴宝专家刘岩被抓 整个收藏界群妖乱舞！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200518/1330457.md">金正恩又传死讯！北韩移除前领袖肖像专家研判他过世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330411.md">日经：台积电已停止接受华为新订单(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330381.md">【微博精粹】这回真玩完了 伟大领袖自己盖棺论定 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1330688.md">〖兲朝浮世绘〗谭德塞搭了一个舞台，让习近平上去表演</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330391.md">中国“太极大师”上擂台30秒被拳击手KO(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330450.md">中共官媒称川普说漏嘴 网友呛声(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330914.md" target="_blank">两会前习抓胡问鸣 矛头指向红二代(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330913.md" target="_blank">苏企趁双休日搬空厂房 员工不知情(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330912.md" target="_blank">云南5级地震致4死24伤 居民：房子竟然垮了(图/2视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330911.md" target="_blank">打劫？沈阳隔离点卖高价盒饭(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330910.md" target="_blank">吉林封小区 居民逃跑遭围殴(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330898.md" target="_blank">两会来临敏感时刻 中南海附近33人集体发烧(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330897.md" target="_blank">华春莹连打三个错字 送给猝死的中共大使(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330893.md" target="_blank">这就是中国大陆的“人权”和“法治”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330886.md" target="_blank">重庆景点“太丑”爆红 网评：群魔乱舞(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330885.md" target="_blank">离婚要“抢号”？深圳离婚排号至少等30天(图)</a></li>
@@ -51,22 +58,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330793.md" target="_blank">疫情下中共两会更加草木皆兵 维稳外加防疫(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md" target="_blank">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330777.md" target="_blank">两会维稳 上海访民一把电钻吓退警察(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330764.md" target="_blank">文昭：122国要求调查，习近平硬扛不住了；华为被台积电断供，只能撑到年底？中美绝交第一波连环打击超乎意料的快</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330761.md" target="_blank">一线采访：东三省告急 沈阳疑隐瞒疫情(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md" target="_blank">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330732.md" target="_blank">网友直击：沈阳再爆疫情 北一路万达广场恐遭排查（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330731.md" target="_blank">网友直击：吉林市小区突被封 居民逃跑遭暴打（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330723.md" target="_blank">瘟疫与中共：为何美国左派州疫情严重(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md" target="_blank">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330909.md" target="_blank">此起彼伏 华为在英国又遇到坎了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md" target="_blank">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330603.md" target="_blank">【庆祝513】“最佳男演员”奖得主修炼法轮功的故事（图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330809.md" target="_blank">世卫大会习近平一句话 国内炸锅 网络狂删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md" target="_blank">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md" target="_blank">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330646.md" target="_blank">中美经贸战：传美规划250亿美元补贴企业迁出中国(图)</a></li>
@@ -95,6 +95,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330907.md" target="_blank">疑因撰写哀悼日文章一度被抓 资深记者江雪已回家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330906.md" target="_blank">疑因爆李飞飞猛料 “财经冷眼”三推特帐号被封</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330905.md" target="_blank">疫情期间 戴上口罩总觉得口臭 恐有5种病在“预警”，趁早去查一下</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330904.md" target="_blank">吃出18岁容颜！你只需知道这些抗氧化食物</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330903.md" target="_blank">不让病毒跟进家！空气清净机放哪里最好呢</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330902.md" target="_blank">英女王长寿菜单曝光：原来她不吃这个呀&#8230;&#8230;</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330901.md" target="_blank">哈佛研究：长期太忙会变傻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330896.md" target="_blank">这果子强效抗氧化、促代谢，专家提醒2种人别多吃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330884.md" target="_blank">孙力军落马后 习近平加强监控中共各部委 王沪宁兼任中央政策研究室123务虚研讨组组长 研讨中共改名及宗教化 中南海谣言预言_193</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330603.md" target="_blank">【庆祝513】“最佳男演员”奖得主修炼法轮功的故事（图）</a></li>
@@ -113,13 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330791.md" target="_blank">官方瞒报？沈阳市民爆：确诊近百 隔离七千多 快要封城</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330790.md" target="_blank">欧洲议会人民党团主席：欧洲应实施暂阻中资收购欧洲企业的禁令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330786.md" target="_blank">程凯：中共把海外华人当做一把夜壶 急了用一用 不急就丢在一旁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330785.md" target="_blank">熊竞超：马克思主义须淘汰</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330781.md" target="_blank">美议员联署 敦促美政府动用马格尼茨基法制裁中共官员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330780.md" target="_blank">如果第二波更严重的疫情到来，又有什么躲避的方法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330774.md" target="_blank">又一大厂出走 美国格芯大陆工厂宣布停工 拟扩大在美生产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330769.md" target="_blank">美国正抛弃恐慌走出瘟疫阴影 专家指有利川普连任</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330765.md" target="_blank">疫情时代 对旅行和移民的未来展望</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330760.md" target="_blank">美国强烈谴责世卫仍然排挤台湾  指中共继续恶意抹杀台湾声音</a></li>
 
 </ul>
 </div>
