@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1330688.md">〖兲朝浮世绘〗谭德塞搭了一个舞台，让习近平上去表演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1330688.md">〖兲朝浮世绘〗谭德塞搭了一个舞台，让习近平上去表演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330764.md">文昭：122国要求调查，习近平硬扛不住了；华为被台积电断供，只能撑到年底？中美绝交第一波连环打击超乎意料的快</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330867.md">惨！她穿翼装从高空跳下 结果降落伞未打开(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330776.md">中国政改“指日可待”！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330450.md">中共官媒称川普说漏嘴 网友呛声(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330970.md" target="_blank">【庆祝513】患者信任的法轮功眼科医生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330971.md" target="_blank">【庆祝513】法轮功学员职业经理人的故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330962.md" target="_blank">右眼肿的象鸡蛋！网红太极“大师”马保国发视频报平安 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330937.md" target="_blank">川普使出无敌大杀器 习近平一句话 网络炸锅 国内狂删帖 普京出言讽刺 (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330933.md" target="_blank">拒绝演说邀请 川普批世卫为中共傀儡 美拟削减或取消资助(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330847.md" target="_blank">吉林省疫情蔓延 沈阳市民爆：确诊近百 隔离七千多 快要封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330829.md" target="_blank">又好气又好笑：盘点央视丑态百出的造假内容(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330828.md" target="_blank">云南昭通巧家5.0级地震 孩子躲在课桌下避险(图/2视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330827.md" target="_blank">武汉多社区检测要居民持证拍照 网民怒斥犯罪(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330811.md" target="_blank">以委内瑞拉为例！中共财政部和央行激斗 更高级别官员发声(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330969.md" target="_blank">23岁甜美主播报新闻突失语  观众担忧揣测「脑中风前兆」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330964.md" target="_blank">【微博精粹】谭德塞改姓习了 中国人再不起来推倒邪共就会被灭族 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330960.md" target="_blank">中共颁布南中国海禁渔令 越南拒绝中共单边决定 照捕不误</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330946.md" target="_blank">深入武汉报导疫情 前律师张展被捕 亲友向美国会求助</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330864.md" target="_blank">钟原： 2月下旬中共人为制造疫情拐点(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330862.md" target="_blank">中美关系中的“亡我之心不死”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330861.md" target="_blank">122国促查疫源 习近平在世卫大会掷20亿美元 网络炸锅</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330836.md" target="_blank">高天韵：美国太空军军旗亮相 制高点何在(组图)</a></li>
 
 </ul>
 </div>
