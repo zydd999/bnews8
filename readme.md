@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330475.md">致命!台积电拒华为新订单 习出事？军报表效忠 京守将异动 金正恩失踪 爸爸爷爷肖像被卸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330428.md">中共病毒来自实验室？美专家公开结果(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330809.md">世卫大会习近平一句话 国内炸锅 网络狂删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330411.md">日经：台积电已停止接受华为新订单(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330381.md">【微博精粹】这回真玩完了 伟大领袖自己盖棺论定 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1330688.md">〖兲朝浮世绘〗谭德塞搭了一个舞台，让习近平上去表演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330809.md">世卫大会习近平一句话 国内炸锅 网络狂删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330884.md" target="_blank">孙力军落马后 习近平加强监控中共各部委 王沪宁兼任中央政策研究室123务虚研讨组组长 研讨中共改名及宗教化 中南海谣言预言_193</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330603.md" target="_blank">【庆祝513】“最佳男演员”奖得主修炼法轮功的故事（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330864.md" target="_blank">钟原： 2月下旬中共人为制造疫情拐点(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330862.md" target="_blank">中美关系中的“亡我之心不死”(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330765.md" target="_blank">疫情时代 对旅行和移民的未来展望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330760.md" target="_blank">美国强烈谴责世卫仍然排挤台湾  指中共继续恶意抹杀台湾声音</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330759.md" target="_blank">中共官方承认外贸面临挑战 企业非常困难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330758.md" target="_blank">中共直升机撒钱？专家：或导致恶性通胀步委内瑞拉后尘</a></li>
 
 </ul>
 </div>
