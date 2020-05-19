@@ -4,13 +4,11 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330678.md">新华裔（中国公众号）: 面对116国围攻，中国站在世卫孤独的舞台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330867.md">惨！她穿翼装从高空跳下 结果降落伞未打开(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1330688.md">〖兲朝浮世绘〗谭德塞搭了一个舞台，让习近平上去表演</a></li>
@@ -19,12 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330837.md">地球上第二个世界被发现 颠覆对生命的认知(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330776.md">中国政改“指日可待”！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330595.md">台湾亲陆女星罕曝被索陪睡 拒绝后还遭拳暴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330917.md">川普再施无敌大杀器 他这是给谭德塞的分手信？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330567.md">一个公开向毛挑战的北大学生的命运(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330578.md">武汉50万人曾感染?新闻迅速“被消失”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330914.md">两会前习抓胡问鸣 矛头指向红二代(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
