@@ -11,7 +11,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330980.md">传下令灭口刘希泳 中共最高检副检察长被免职(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330914.md">两会前习抓胡问鸣 矛头指向红二代(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331072.md">习近平矛头突然指向红二代？ 最大环太军演 川普孤立中共 美报告：中美太空战为期不远？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330937.md">川普使出无敌大杀器 习近平一句话 网络炸锅 国内狂删帖 普京出言讽刺 (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1331098.md">危机来临 许多人还浑然不觉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330837.md">地球上第二个世界被发现 颠覆对生命的认知(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330924.md">iPhone12全新渲染图曝光 这价格足以让人心动(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330961.md">白宫主人又和女记者怼上了？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331025.md">腾讯马化腾因“身体原因”将缺席两会(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
