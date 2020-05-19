@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330475.md">致命!台积电拒华为新订单 习出事？军报表效忠 京守将异动 金正恩失踪 爸爸爷爷肖像被卸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
@@ -12,19 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330867.md">惨！她穿翼装从高空跳下 结果降落伞未打开(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1330688.md">〖兲朝浮世绘〗谭德塞搭了一个舞台，让习近平上去表演</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330755.md">美国格芯解散大陆工厂 拟回流本土建厂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330764.md">文昭：122国要求调查，习近平硬扛不住了；华为被台积电断供，只能撑到年底？中美绝交第一波连环打击超乎意料的快</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330776.md">中国政改“指日可待”！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330837.md">地球上第二个世界被发现 颠覆对生命的认知(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330776.md">中国政改“指日可待”！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330722.md">美议员促用马格尼茨基法制裁10中共官员(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330720.md">陈破空：平壤异动，金正恩又悬了？中共隐身人露脸，他负责沉船计划？俄罗斯加入122国，要求彻查。美国发射神秘太空飞机。中印对峙 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330595.md">台湾亲陆女星罕曝被索陪睡 拒绝后还遭拳暴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330567.md">一个公开向毛挑战的北大学生的命运(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330578.md">武汉50万人曾感染?新闻迅速“被消失”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330990.md" target="_blank">向两会致公开信后 毒疫苗受害儿童家长下落不明(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330970.md" target="_blank">【庆祝513】患者信任的法轮功眼科医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330971.md" target="_blank">【庆祝513】法轮功学员职业经理人的故事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330962.md" target="_blank">右眼肿的象鸡蛋！网红太极“大师”马保国发视频报平安 (组图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330863.md" target="_blank">人大代表提“一生饮奶计划” 网友大吐槽(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330847.md" target="_blank">吉林省疫情蔓延 沈阳市民爆：确诊近百 隔离七千多 快要封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330829.md" target="_blank">又好气又好笑：盘点央视丑态百出的造假内容(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330828.md" target="_blank">云南昭通巧家5.0级地震 孩子躲在课桌下避险(图/2视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330999.md" target="_blank">公民记者张展独自探访神秘武汉P4实验室（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330998.md" target="_blank">日厚劳相WHA发言 力挺台湾参加WHA</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330993.md" target="_blank">美国5月份房屋建筑商信心指数小幅回升</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330985.md" target="_blank">华春莹推文悼念猝死中共大使 连打三错字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330969.md" target="_blank">23岁甜美主播报新闻突失语  观众担忧揣测「脑中风前兆」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330964.md" target="_blank">【微博精粹】谭德塞改姓习了 中国人再不起来推倒邪共就会被灭族 (组图)</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330901.md" target="_blank">哈佛研究：长期太忙会变傻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330896.md" target="_blank">这果子强效抗氧化、促代谢，专家提醒2种人别多吃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330884.md" target="_blank">孙力军落马后 习近平加强监控中共各部委 王沪宁兼任中央政策研究室123务虚研讨组组长 研讨中共改名及宗教化 中南海谣言预言_193</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330603.md" target="_blank">【庆祝513】“最佳男演员”奖得主修炼法轮功的故事（图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330864.md" target="_blank">钟原： 2月下旬中共人为制造疫情拐点(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330862.md" target="_blank">中美关系中的“亡我之心不死”(图)</a></li>
 
 </ul>
 </div>
