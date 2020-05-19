@@ -11,20 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330488.md">党恐吓报复4美企巨头网爆笑 人民币连5跌大户走资5年最劲 “四大寄生兽吞噬了中国经济”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200518/1330419.md">饭店里“最脏”的3道菜 聪明人从来都不点 老板：我自己都不吃(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330454.md">鉴宝专家刘岩被抓 整个收藏界群妖乱舞！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330357.md">重磅！财经冷眼：深扒一下李飞飞及中共谍报系统的红色娘子军(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330678.md">新华裔（中国公众号）: 面对116国围攻，中国站在世卫孤独的舞台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200518/1330457.md">金正恩又传死讯！北韩移除前领袖肖像专家研判他过世</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330678.md">新华裔（中国公众号）: 面对116国围攻，中国站在世卫孤独的舞台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330411.md">日经：台积电已停止接受华为新订单(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330358.md">奇葩！没迎来“报复性消费”却出现“报复性离婚潮”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330381.md">【微博精粹】这回真玩完了 伟大领袖自己盖棺论定 (组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md" target="_blank">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330793.md" target="_blank">疫情下中共两会更加草木皆兵 维稳外加防疫(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md" target="_blank">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330777.md" target="_blank">两会维稳 上海访民一把电钻吓退警察(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330764.md" target="_blank">文昭：122国要求调查，习近平硬扛不住了；华为被台积电断供，只能撑到年底？中美绝交第一波连环打击超乎意料的快</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330460.md" target="_blank">蓬佩奥警告中共：干涉驻港美国记者工作将影响香港特殊待遇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330450.md" target="_blank">中共官媒称川普说漏嘴 网友呛声(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md" target="_blank">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330445.md" target="_blank">世卫将召开年度大会 外媒料中共被孤立(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330444.md" target="_blank">蓬佩奥：让中共为瘟疫大流行负责 川普正在制定“精准操作”(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330804.md" target="_blank">专家：中共防空雷达网出现很大漏洞…(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330791.md" target="_blank">官方瞒报？沈阳市民爆：确诊近百 隔离七千多 快要封城</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330790.md" target="_blank">欧洲议会人民党团主席：欧洲应实施暂阻中资收购欧洲企业的禁令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330786.md" target="_blank">程凯：中共把海外华人当做一把夜壶 急了用一用 不急就丢在一旁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330785.md" target="_blank">熊竞超：马克思主义须淘汰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330781.md" target="_blank">美议员联署 敦促美政府动用马格尼茨基法制裁中共官员</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330713.md" target="_blank">随遇而安 太干旱 非洲肺鱼成鱼干 一遇到水～～</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330712.md" target="_blank">安智煐独撑「脸红的思春期」  收起眼泪一人发行新专辑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330682.md" target="_blank">意大利总理：解除禁足令感染曲线可能会再次升高但别无选择</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330666.md" target="_blank">弗州跨党派大学生团体呼吁：关闭美国所有孔子学院</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330665.md" target="_blank">疫情中，被警察拦下（Pull Over），需要注意哪些事项呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330643.md" target="_blank">纳瓦罗：疫情早期中共利用国际旅行向世界“播种”病毒</a></li>
 
 </ul>
 </div>
