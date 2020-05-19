@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331006.md" target="_blank">吓人！山东重庆降冰雹 大如鸡蛋(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331005.md" target="_blank">公民记者张展独自探访神秘武汉P4实验室(图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330990.md" target="_blank">向两会致公开信后 毒疫苗受害儿童家长下落不明(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330970.md" target="_blank">【庆祝513】患者信任的法轮功眼科医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330971.md" target="_blank">【庆祝513】法轮功学员职业经理人的故事</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330870.md" target="_blank">中共想甩锅没那么简单 超过120国连署追病毒源头(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330867.md" target="_blank">惨！她穿翼装从高空跳下 结果降落伞未打开(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330863.md" target="_blank">人大代表提“一生饮奶计划” 网友大吐槽(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330847.md" target="_blank">吉林省疫情蔓延 沈阳市民爆：确诊近百 隔离七千多 快要封城(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330829.md" target="_blank">又好气又好笑：盘点央视丑态百出的造假内容(图集)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331012.md" target="_blank">印度确诊破10万例 专家忧疫情可能更趋恶化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331011.md" target="_blank">法国电影大师米歇尔·毕高利辞世 享寿94岁</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331008.md" target="_blank">RFA独家 ：骂皇帝是对社会负责任（鲍彤）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330999.md" target="_blank">公民记者张展独自探访神秘武汉P4实验室（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330998.md" target="_blank">日厚劳相WHA发言 力挺台湾参加WHA</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330993.md" target="_blank">美国5月份房屋建筑商信心指数小幅回升</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330904.md" target="_blank">吃出18岁容颜！你只需知道这些抗氧化食物</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330903.md" target="_blank">不让病毒跟进家！空气清净机放哪里最好呢</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330902.md" target="_blank">英女王长寿菜单曝光：原来她不吃这个呀&#8230;&#8230;</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330901.md" target="_blank">哈佛研究：长期太忙会变傻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330896.md" target="_blank">这果子强效抗氧化、促代谢，专家提醒2种人别多吃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330884.md" target="_blank">孙力军落马后 习近平加强监控中共各部委 王沪宁兼任中央政策研究室123务虚研讨组组长 研讨中共改名及宗教化 中南海谣言预言_193</a></li>
 
 </ul>
 </div>
