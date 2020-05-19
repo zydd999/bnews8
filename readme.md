@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330562.md">钟南山突改口称 大陆第二波疫情可能比国外更严重 如失控大多数人都会感染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330678.md">新华裔（中国公众号）: 面对116国围攻，中国站在世卫孤独的舞台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330550.md">"川普已在为追责中共制定精准操作” 谭德塞态度急转!中共尴尬 4天清除100%特效药问世？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330733.md">惊爆！武汉核酸检测结果竟无标签 全民核检完全是闹剧（视频）</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330745.md">25国环太平洋军演 中国没受邀气炸了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330595.md">台湾亲陆女星罕曝被索陪睡 拒绝后还遭拳暴</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330936.md">李燕铭：孙政才朝鲜族女下属被查 照片曝光 北京三高官十天内相继落马 三人背景各具特色 泄露习近平打虎动向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330567.md">一个公开向毛挑战的北大学生的命运(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
