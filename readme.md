@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330380.md">谭德塞态度急转弯！中共这下尴尬了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330475.md">致命!台积电拒华为新订单 习出事？军报表效忠 京守将异动 金正恩失踪 爸爸爷爷肖像被卸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330449.md">上海惊爆疫情 钟南山：中国情况不比外国好(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330314.md">吉林舒兰公安局瘫痪 更多内幕曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200518/1330288.md">马云问周星驰：我一天赚191亿 你呢？网友：星爷回答显高情商(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330415.md">印度神童再发警告：12月会中共病毒疫情比这次更严峻(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330284.md">一线采访：沈阳疫情再爆发致经济瘫痪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330428.md">中共病毒来自实验室？美专家公开结果(图)</a></li>
@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330294.md">莫言：感到自己跟一头猪、一条狗没有什么区别(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200518/1330419.md">饭店里“最脏”的3道菜 聪明人从来都不点 老板：我自己都不吃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330377.md">人民币连跌五天 川普威胁中共且突然转向力挺美元(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330357.md">重磅！财经冷眼：深扒一下李飞飞及中共谍报系统的红色娘子军(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330454.md">鉴宝专家刘岩被抓 整个收藏界群妖乱舞！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200518/1330542.md">世界卫生大会提案差13票即可达标　已有116国要求彻查WHO和病毒起源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200518/1330357.md">重磅！财经冷眼：深扒一下李飞飞及中共谍报系统的红色娘子军(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200518/1330457.md">金正恩又传死讯！北韩移除前领袖肖像专家研判他过世</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330489.md">防两会变“反习大会” 专家揭习近平军演真实用意(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200518/1330461.md">美国高官扯下中共遮羞布 击中其软肋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200518/1330432.md">老爸王健林首富变“首负” 王思聪出售个人豪车(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330659.md">世界格局正转变！疫情后全球前景恐更悲…(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330774.md" target="_blank">又一大厂出走 美国格芯大陆工厂宣布停工 拟扩大在美生产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330769.md" target="_blank">美国正抛弃恐慌走出瘟疫阴影 专家指有利川普连任</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330765.md" target="_blank">疫情时代 对旅行和移民的未来展望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330760.md" target="_blank">美国强烈谴责世卫仍然排挤台湾  指中共继续恶意抹杀台湾声音</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1330759.md" target="_blank">中共官方承认外贸面临挑战 企业非常困难</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330601.md" target="_blank">巨石强森18岁女儿加入WWE  成家族第四代摔角新星</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330598.md" target="_blank">评论 | 程晓农：政敌·贪官·野心家？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330555.md" target="_blank">两会前夕中共官媒推出伪纪录片 评论员：「彻底整治香港」动员令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330552.md" target="_blank">第二波疫情逼近 上海再现确诊病例</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200518/1330541.md" target="_blank">【林忌评论】黎明来到前最黑暗</a></li>
 
 </ul>
 </div>
