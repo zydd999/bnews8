@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1331843.md" target="_blank">回击赵立坚？川普：请跟这笨蛋解释一下(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1331842.md" target="_blank">陈破空：台湾总统就职大典，中国人为何感动落泪？两会登场，习近平刁难李克强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1331833.md" target="_blank">东北逾1亿人遭禁足 政府数据与民间感受反差巨大(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1331824.md" target="_blank">传大陆停办因私护照 各地网民留言证实(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1331799.md" target="_blank">沈中阳被撤政协委员资格 器官移植名医的黑幕(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331414.md" target="_blank">江峰：美空军兵临海南岛 任正非破飞机迎战；川普世卫公开信下战书 俄罗斯终於加入战团</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331409.md" target="_blank">美媒:若推迟调查病毒 中共可任意篡改结果(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331408.md" target="_blank">虚惊一场？中央空调“惹祸” 北京工行大楼多人发热引恐慌(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331407.md" target="_blank">瞎搞？检测结果不公布 武汉全民检测背后的巨大利益(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331406.md" target="_blank">山东临沂丰晓燕被精神病 女儿营救遭软禁(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1331848.md" target="_blank">焦点对话：蔡英文520演说&quot;不答卷&quot; 伏笔在&quot;两岸历史转折点&quot;？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1331839.md" target="_blank">库德洛：保护美国投资者 在美上市中企须接受美国审计</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1331807.md" target="_blank">美国参议院通过中企监管法案 违规中概股恐遭移除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1331796.md" target="_blank">美国会议员：中共如同冷战时期的敌人和国际歹徒</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331619.md" target="_blank">各国纷纷与中共决裂 意味着什么(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331605.md" target="_blank">杜汶泽祝贺蔡总统就职 曾自嘲港人“无投票权”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331581.md" target="_blank">台美高阶官员通话 强调执行对朝制裁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331570.md" target="_blank">罗志祥再发长文致歉周扬青 7千字忆两人甜蜜往事</a></li>
 
 </ul>
 </div>
