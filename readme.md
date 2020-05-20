@@ -2,11 +2,9 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330782.md">世卫大会习近平一句话 国内炸锅 网络急删帖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331083.md">最新消息！中国开始停办护照业务(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330867.md">惨！她穿翼装从高空跳下 结果降落伞未打开(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200519/1330776.md">中国政改“指日可待”！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330980.md">传下令灭口刘希泳 中共最高检副检察长被免职(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330914.md">两会前习抓胡问鸣 矛头指向红二代(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331072.md">习近平矛头突然指向红二代？ 最大环太军演 川普孤立中共 美报告：中美太空战为期不远？</a></li>
@@ -23,7 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330924.md">iPhone12全新渲染图曝光 这价格足以让人心动(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330794.md">习近平惨了？连俄也连署要求调查中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330961.md">白宫主人又和女记者怼上了？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331124.md">最新研究:武汉市场病毒株来自人类 考虑实验室感染(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331025.md">腾讯马化腾因“身体原因”将缺席两会(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200520/1331180.md">美国小哥翻出外婆生前私藏相册 发现她竟是中国超红歌星(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330829.md">又好气又好笑：盘点央视丑态百出的造假内容(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331336.md" target="_blank">一线采访：舒兰进战时状态 传公安局长染疫(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331335.md" target="_blank">【内幕】公安入驻 哈市二院“监狱式管理”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331327.md" target="_blank">天亮时分：川普列世卫十四宗罪;世卫大会一致通过调查病毒源头和世卫角色决议;赵立坚上了追责黑名单;断供华为与瑞幸退市,川普还有大招(政论天下第167集 20200519)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331268.md" target="_blank">文昭：川普对世卫发最後通牒，瑞幸咖啡接退市通知；习近平、任正非、瑞幸的殊途同归；中美角力WHO，谁会下台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331262.md" target="_blank">它们从中共借走巨额贷款 如今无力偿还(组图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330962.md" target="_blank">右眼肿的象鸡蛋！网红太极“大师”马保国发视频报平安 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330937.md" target="_blank">川普使出无敌大杀器 习近平一句话 网络炸锅 国内狂删帖 普京出言讽刺 (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330933.md" target="_blank">拒绝演说邀请 川普批世卫为中共傀儡 美拟削减或取消资助(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330926.md" target="_blank">世卫一再包庇中共 川普怒发公文给谭德塞：限期30天(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330921.md" target="_blank">全球最大规模环太军演 美邀25国独缺中共(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,14 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331342.md" target="_blank">焦点对话：特朗普下”最后通牒” 批世卫”中国傀儡”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331340.md" target="_blank">林保华：知子莫若父？韩国瑜众叛亲离(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331339.md" target="_blank">世界卫生大会：对北京来说 这是一个失败</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331338.md" target="_blank">一本黑：家政圈的杀人产业链 给老人送行 他们是“专业”的(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331337.md" target="_blank">齐亮：科技不是第一生产力 自由才是(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331333.md" target="_blank">13.6万年前灭绝的鸟类重新出现且相当罕见的出现两次退化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331332.md" target="_blank">六神磊磊：民间武学大师的困境：要么110 要么120(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331331.md" target="_blank">与归：马保国的国 意淫、自嗨、打鸡血(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331324.md" target="_blank">现世报应有多快：杀人嫁祸虎 却被虎吃掉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331323.md" target="_blank">2020 SUV中的一匹黑马！Kia Telluride，也许它的好超出了你的想像！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331306.md" target="_blank">七位议员倒戈 马克龙的执政党失去议会多数席</a></li>
@@ -112,14 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331225.md" target="_blank">评论 | 王丹：蔡英文第二任期展望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331190.md" target="_blank">胆小勿进 惊悚！葬礼上死者在棺木里向人们挥手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331189.md" target="_blank">值了 学生卯足了劲 愿赌服输 校长头顶粉红色头发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331188.md" target="_blank">惊人成就 孩子大聚会 无比自豪的妈妈一次产18只</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331187.md" target="_blank">”跑山见神仙“！周润发生日许愿后成登山达人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331174.md" target="_blank">川普拒绝给世界卫生大会致辞 但派卫生部长去严厉数落世卫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331173.md" target="_blank">4月欧洲车辆销量下降76.3%  创史上最低记录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331169.md" target="_blank">乌克兰裔「新台湾人」女模瑞莎高分考取文大博士班</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331147.md" target="_blank">重启经济！川普：若州长重启不力 联邦政府将介入</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331133.md" target="_blank">疫情冲击在华欧商回流 首选可望为东欧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331081.md" target="_blank">科学家研究发现地球似乎也存在“呼吸和心跳”</a></li>
 
 </ul>
 </div>
