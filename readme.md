@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331327.md" target="_blank">天亮时分：川普列世卫十四宗罪;世卫大会一致通过调查病毒源头和世卫角色决议;赵立坚上了追责黑名单;断供华为与瑞幸退市,川普还有大招(政论天下第167集 20200519)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331268.md" target="_blank">文昭：川普对世卫发最後通牒，瑞幸咖啡接退市通知；习近平、任正非、瑞幸的殊途同归；中美角力WHO，谁会下台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331262.md" target="_blank">它们从中共借走巨额贷款 如今无力偿还(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331257.md" target="_blank">美祭新规 瑞信：华为几乎无芯片商可合作(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330933.md" target="_blank">拒绝演说邀请 川普批世卫为中共傀儡 美拟削减或取消资助(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330926.md" target="_blank">世卫一再包庇中共 川普怒发公文给谭德塞：限期30天(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330921.md" target="_blank">全球最大规模环太军演 美邀25国独缺中共(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330914.md" target="_blank">两会前习抓胡问鸣 矛头指向红二代(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331324.md" target="_blank">现世报应有多快：杀人嫁祸虎 却被虎吃掉</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331323.md" target="_blank">2020 SUV中的一匹黑马！Kia Telluride，也许它的好超出了你的想像！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331306.md" target="_blank">七位议员倒戈 马克龙的执政党失去议会多数席</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331305.md" target="_blank">老子的十句话 指导成功人士2500年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331304.md" target="_blank">财经大V二战人工智能：自媒体平台几乎全盘沦陷 “赤化”</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331147.md" target="_blank">重启经济！川普：若州长重启不力 联邦政府将介入</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331133.md" target="_blank">疫情冲击在华欧商回流 首选可望为东欧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331081.md" target="_blank">科学家研究发现地球似乎也存在“呼吸和心跳”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331080.md" target="_blank">时事大家谈: 习近平“不折腾”了，幡然醒悟还是被迫无奈？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200519/1331076.md" target="_blank">【梁京评论】中国隐瞒疫情真相的真相</a></li>
 
 </ul>
 </div>
