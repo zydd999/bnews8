@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331415.md">中共内部通知：两会期间国际线路封网！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331294.md">比薄熙来更黑 毛泽东欲让父体验“喷气式”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331124.md">最新研究:武汉市场病毒株来自人类 考虑实验室感染(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331369.md">傅政华新职位曝光 是凶是吉？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200520/1331180.md">美国小哥翻出外婆生前私藏相册 发现她竟是中国超红歌星(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331369.md">傅政华新职位曝光 是凶是吉？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200520/1331237.md">〖兲朝浮世绘〗中共不让小扎做生意，小扎终于醒了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331138.md">全球经济正走向“新常态2.0” 企业倒闭潮恐刚开始(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331025.md">腾讯马化腾因“身体原因”将缺席两会(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331262.md">它们从中共借走巨额贷款 如今无力偿还(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331048.md">「两会」前中共官媒推出伪纪录片 为下黑手做准备(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331243.md">大跌眼镜！华为手机国产化竟然不到5%（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1331152.md">哈佛团队疫苗获重大突破！45人100%产生抗体(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200520/1331359.md">3名中国人在缅甸杀同胞获死刑 当场枪决视频曝光(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331289.md">传中共考虑减免2110亿美元的坏账</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331416.md">世卫大会遭拷问 北京的算盘落空了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331339.md">世界卫生大会：对北京来说 这是一个失败</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331633.md" target="_blank">孟加拉湾20年来最强风暴来袭 恒河三角洲数百万人避难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331619.md" target="_blank">各国纷纷与中共决裂 意味着什么(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331605.md" target="_blank">杜汶泽祝贺蔡总统就职 曾自嘲港人“无投票权”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331581.md" target="_blank">台美高阶官员通话 强调执行对朝制裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331570.md" target="_blank">罗志祥再发长文致歉周扬青 7千字忆两人甜蜜往事</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331484.md" target="_blank">家里食品出现这些现象要扔掉 不要省出癌症</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331471.md" target="_blank">张杰：习一尊的不折腾是悔悟还是更大的折腾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331455.md" target="_blank">港府延长「限聚令」 延续30年六四纪念晚会或遭腰斩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331453.md" target="_blank">【微博精粹】二会未开锣 惊现敲锣人 狼烟四起？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331448.md" target="_blank">苏秦、张仪纵横天下 在鬼谷子眼里竟然不入流</a></li>
 
 </ul>
 </div>
