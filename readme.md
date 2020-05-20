@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331083.md">最新消息！中国开始停办护照业务(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330873.md">“奥巴马门”名单曝光 拜登遭遇致命打击…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330914.md">两会前习抓胡问鸣 矛头指向红二代(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1330980.md">传下令灭口刘希泳 中共最高检副检察长被免职(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1331098.md">危机来临 许多人还浑然不觉</a></li>
@@ -22,6 +21,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331025.md">腾讯马化腾因“身体原因”将缺席两会(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200520/1331180.md">美国小哥翻出外婆生前私藏相册 发现她竟是中国超红歌星(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331138.md">全球经济正走向“新常态2.0” 企业倒闭潮恐刚开始(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200520/1331237.md">〖兲朝浮世绘〗中共不让小扎做生意，小扎终于醒了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1330909.md">此起彼伏 华为在英国又遇到坎了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331048.md">「两会」前中共官媒推出伪纪录片 为下黑手做准备(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200519/1330984.md">《蒙娜丽莎》出现上帝密码 宇宙或早被设计好了(图)</a></li>
@@ -33,6 +33,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331416.md" target="_blank">世卫大会遭拷问 北京的算盘落空了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331415.md" target="_blank">中共内部通知：两会期间国际线路封网！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331414.md" target="_blank">江峰：美空军兵临海南岛 任正非破飞机迎战；川普世卫公开信下战书 俄罗斯终於加入战团</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331409.md" target="_blank">美媒:若推迟调查病毒 中共可任意篡改结果(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331408.md" target="_blank">虚惊一场？中央空调“惹祸” 北京工行大楼多人发热引恐慌(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331407.md" target="_blank">瞎搞？检测结果不公布 武汉全民检测背后的巨大利益(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331406.md" target="_blank">山东临沂丰晓燕被精神病 女儿营救遭软禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331404.md" target="_blank">谭德塞危险了 联合国证实WHO有人染疫身亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331387.md" target="_blank">前情报专家：中共渗透加国最高情报机构成常态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331372.md" target="_blank">制裁中共 美两党议员推新法案禁购中国机场设备(图)</a></li>
@@ -51,13 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331083.md" target="_blank">最新消息！中国开始停办护照业务(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331066.md" target="_blank">马云将卸任软银集团董事职务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331065.md" target="_blank">《环时》头版标题7成骂美 背后动机惹议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331048.md" target="_blank">「两会」前中共官媒推出伪纪录片 为下黑手做准备(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331047.md" target="_blank">蓬佩奥让助手代遛狗？ 川普：他在忙大事(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331025.md" target="_blank">腾讯马化腾因“身体原因”将缺席两会(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331006.md" target="_blank">吓人！山东重庆降冰雹 大如鸡蛋(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331005.md" target="_blank">公民记者张展独自探访神秘武汉P4实验室(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330990.md" target="_blank">向两会致公开信后 毒疫苗受害儿童家长下落不明(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1330970.md" target="_blank">【庆祝513】患者信任的法轮功眼科医生</a></li>
 
 </ul>
 </div>
