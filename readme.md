@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200519/1331083.md">最新消息！中国开始停办护照业务(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200519/1331098.md">危机来临 许多人还浑然不觉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331125.md">出事了？腾讯马化腾因“身体原因”将缺席两会(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200520/1331396.md">重大事件曝光！情报专家：潜伏的中共间谍渗透进了...(图)</a></li>
@@ -12,19 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331294.md">比薄熙来更黑 毛泽东欲让父体验“喷气式”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331124.md">最新研究:武汉市场病毒株来自人类 考虑实验室感染(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200520/1331180.md">美国小哥翻出外婆生前私藏相册 发现她竟是中国超红歌星(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331369.md">傅政华新职位曝光 是凶是吉？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200520/1331237.md">〖兲朝浮世绘〗中共不让小扎做生意，小扎终于醒了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331369.md">傅政华新职位曝光 是凶是吉？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200519/1331138.md">全球经济正走向“新常态2.0” 企业倒闭潮恐刚开始(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331262.md">它们从中共借走巨额贷款 如今无力偿还(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200520/1331524.md">中国14.6万亿住房公积金怎么办？官方最新表态(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331262.md">它们从中共借走巨额贷款 如今无力偿还(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200520/1331542.md">军火库遭猛烈袭击！大批F35闯入无人之境 俄S400关键时刻哑火(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200520/1331243.md">大跌眼镜！华为手机国产化竟然不到5%（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1331152.md">哈佛团队疫苗获重大突破！45人100%产生抗体(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200520/1331359.md">3名中国人在缅甸杀同胞获死刑 当场枪决视频曝光(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200519/1331152.md">哈佛团队疫苗获重大突破！45人100%产生抗体(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331416.md">世卫大会遭拷问 北京的算盘落空了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331289.md">传中共考虑减免2110亿美元的坏账</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200520/1331542.md">军火库遭猛烈袭击！大批F35闯入无人之境 俄S400关键时刻哑火(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331499.md">两会将有大事？惊闻中共内部通知：两会期间 国际线路封网！中南海谣言预言_194</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331339.md">世界卫生大会：对北京来说 这是一个失败</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331434.md">董卿丈夫密春雷与令计划家庭间的隐秘交集(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200520/1331536.md">大使离奇猝死 中共放弃调查？网友帮忙“破案”(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331660.md" target="_blank">日本居酒屋打造防疫利器  外媒：宛如人类洗车场</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331659.md" target="_blank">科学家发现一颗「超级地球」距离地球约25000光年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331652.md" target="_blank">【华府看天下】中共清洗香港教界筹划多年　推广仇日意识只是开端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331640.md" target="_blank">确诊人数破30万 俄罗斯暂停对北约边界全部军演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331633.md" target="_blank">孟加拉湾20年来最强风暴来袭 恒河三角洲数百万人避难</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331488.md" target="_blank">今日小满，食一味，吃二鲜，饮三茶，做四防，夏天少生病</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331487.md" target="_blank">世界公认最健康的三种蔬菜，到底健康在哪里？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331486.md" target="_blank">夏日来临昏沉沉  3道汤品解除「湿」症状</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331485.md" target="_blank">大蒜有助增强免疫系统 但不可多吃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200520/1331484.md" target="_blank">家里食品出现这些现象要扔掉 不要省出癌症</a></li>
 
 </ul>
 </div>
