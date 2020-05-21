@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1331843.md">回击赵立坚？川普：请跟这笨蛋解释一下(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332021.md">两会首场记者会火药味浓 记者群攻中共隐瞒疫情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200521/1332182.md">中美金融战开打拉开序幕！中共打白条印钱 狼真来了！资金也大撤离 此行业ETF遭弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200521/1332127.md">劲爆！川普解密了就职当天赖斯的密信…舆论一片哗然(图集)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200521/1332090.md">蔡英文就职！中共称「极少数」台独…陆网友：别装瞎了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332022.md">美议员列制裁中共官员名单 包含战狼赵立坚(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200521/1331864.md">中美金融战开打！美参议院通过法案加强对中概股监管(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200521/1331949.md">给蔡英文连任送大礼！美售台18枚重型鱼雷 总价1.8亿美元(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332415.md" target="_blank">陈破空：内幕：习近平派人强闯国务院，遭李克强驱赶。王沪宁建秘密小组，意图惊人！美国总统和国务卿发最严正指控。美中即将摊牌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332340.md" target="_blank">陈破空：陈破空谈《常识》（之51）：海外华人欢迎场面，谁的需要？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332306.md" target="_blank">川普再批赵立坚蠢货 怒批中共高层无能之祸 就差点名了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332289.md" target="_blank">港媒：人大拟议“港版国安法” 绕过香港立法会</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332096.md" target="_blank">羡慕！蔡英文举行总统就职典礼 大陆民众祝贺(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332092.md" target="_blank">两会报告传一改再改 看完蔡英文演说才定案(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332091.md" target="_blank">新疆29.2万人被迫「转移就业」 学者 : 破坏维吾尔族世代连结(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200521/1332083.md" target="_blank">中共战机趁美舰抗疫 多次海“骚扰”美军及盟友(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200522/1332420.md" target="_blank">评论 | 胡平：习近平1月7日讲话到底讲了些什么？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200522/1332417.md" target="_blank">世卫大会散场   德媒警告：西方为利益而与狼共舞非常危险</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200522/1332408.md" target="_blank">美国疫情民调：民主党人比共和党人多忧心、多孤独、少快乐</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200522/1332407.md" target="_blank">《地母经》预测今年灾难 这段农谚是重要的参考</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200522/1332400.md" target="_blank">看到何种景像？使一国之君对释迦牟尼佛诚心礼敬</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1332263.md" target="_blank">凉拌素三丝 清凉爽口的快手小菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1332228.md" target="_blank">中共政协会议开幕 习近平等无罩登场 汪洋重弹老调</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1332207.md" target="_blank">惊奇！石头“成精”了？竟然长出了白发</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/1332203.md" target="_blank">“两会”首日现异象 北京白昼如夜 网友：暗无天日（视频）</a></li>
 
 </ul>
 </div>
