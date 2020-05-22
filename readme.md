@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1332894.md" target="_blank">香港《国安法》：美国和欧盟发表官方声明，促北京信守国际义务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1332873.md" target="_blank">习近平世卫发言令“泼鸡”成微博禁词 网友纷纷打探(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332855.md" target="_blank">北京公开《国安法》细节 专家忧香港自治“被判死刑”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332808.md" target="_blank">美国华人留学生因发布习近平推文而在中国入狱：他是如何被抓的？</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332698.md" target="_blank">中共病毒会否攻破北京两会(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332697.md" target="_blank">中共强推港版国安法 分析：香港将动荡不安(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332696.md" target="_blank">庚子年改写中国命运 预言：今年必有大事(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200522/1332693.md" target="_blank">中共拒透军费数据分析：只会增加 不会减少(图)</a></li>
 
 </ul>
 </div>
