@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200523/1332917.md">从相声奇才到成阶下囚 当红时抛下冯巩移居海外的刘伟 得罪了谁(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333071.md">一语成谶！“ 港币大跌 金融大跌 股市大跌 楼价大跌 跌跌跌跌跌！ ”(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200523/1332963.md">27岁章泽天颜值崩了？近照皱纹明显眼袋深重(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333184.md">涉绝密！曝2019年中共军队死亡名单(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200523/1332936.md">〖兲朝浮世绘〗香港将成为中共“不惜一切代价”中的那个代价</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333258.md">联合国官员敦促世卫：撤销央视主播亲善大使头衔(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200523/1333191.md">淘宝总裁妻子的复仇：一张照完爆辣小三</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1332901.md">从柯玲玲的评语看习近平性格和施政脉络</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
