@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333071.md">一语成谶！“ 港币大跌 金融大跌 股市大跌 楼价大跌 跌跌跌跌跌！ ”(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333184.md">涉绝密！曝2019年中共军队死亡名单(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333395.md">两会李克强口误意义重大 北京爷们抗暴怒斥两会代表 传前政协委员要习近平下台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333310.md">中国疫情大爆发？惊人内幕 美媒曝中共到底谋划什么？CDC最新指南:3成5感染者无症状</a></li>
@@ -15,16 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333252.md">频现异象 广东暴雨地震千鱼跃岸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200523/1333079.md">反击！北京强立国安法 民阵号召200万港人救香港(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333212.md">强推“港版国安法”危机四伏！外媒：习近平政治豪赌(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333468.md">陈破空：重大信号！美国支持反习阵营，不再承认习近平。香港酝酿大风暴。两会大涨军费。美中处处交锋 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333258.md">联合国官员敦促世卫：撤销央视主播亲善大使头衔(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200523/1333191.md">淘宝总裁妻子的复仇：一张照完爆辣小三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333215.md">李燕铭：李克强1小时匆匆念完两会报告 去年罕见一幕未重现 两会政府报告40年来最短 五大异常之处 泄露中共危机重重 预示中国未来时局发展充满变数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333370.md">两会中南海军费不可告人幕后 史上首次 民航被骂到… ???????党国竟不撤侨 学印度都没戏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333468.md">陈破空：重大信号！美国支持反习阵营，不再承认习近平。香港酝酿大风暴。两会大涨军费。美中处处交锋 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333215.md">李燕铭：李克强1小时匆匆念完两会报告 去年罕见一幕未重现 两会政府报告40年来最短 五大异常之处 泄露中共危机重重 预示中国未来时局发展充满变数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333196.md">北京避谈GDP或是不祥之兆(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333202.md">江峰：中共严重误判，两会强推香港国安法；川普呛声，美国会新招制裁；香港酝酿更大反抗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333415.md">中共农业部长四句话 吓坏网友：赶紧屯粮(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200523/1333247.md">祸从天降！谁知岳父是「毒王」一场婚礼害这么人确诊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333296.md">解密李克强政府工作报告中隐藏的信息；两会与香港版国安法--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333454.md">黄河水变清 《推背图》第33象和第54象预言要成真？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333571.md" target="_blank">中国政府收购北欧企业 或引发欧盟一年禁令(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333570.md" target="_blank">郑中原：北京暗无天日 中南海折腾 反习声惊魂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333546.md" target="_blank">第二波中共病毒疫情恐如海啸：加专家警告(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333545.md" target="_blank">胡锡进的嘴 潘金莲的腿(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333544.md" target="_blank">颜纯钩：建构“头条新闻”网络版 守护自由空间</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333543.md" target="_blank">LunaLee：我家我城在香港 我若放弃 谁卫我城？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333536.md" target="_blank">美国是中国的敌人吗？拨开仇美的迷雾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333523.md" target="_blank">李克强报告 无撑特首施政 评论员：京直接全面治港(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333507.md" target="_blank">范畴：香港国安法 北京跨过奈何桥</a></li>
@@ -114,12 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333430.md" target="_blank">西红柿孜然炒菜花</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333404.md" target="_blank">前女友送一吨「泪目礼物」给出轨前男友 男方更绝~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333403.md" target="_blank">挖井不成 却挖出它来 这可咋办呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333401.md" target="_blank">时事大家谈：习近平保证疫苗共享 中国能否兑现承诺？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333400.md" target="_blank">时事大家谈：莫多纳疫苗前景有待观察</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333387.md" target="_blank">【一线采访】禁止吉林市居民进京  疫情到底有多严重？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333377.md" target="_blank">放弃绿卡海归女硕士从小粉红变访民 被中共害到家破人亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333374.md" target="_blank">富士山每年仅开放登山2个月 今夏自1960年来将首次「封山」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333373.md" target="_blank">时事大家谈(2020年5月23日)</a></li>
 
 </ul>
 </div>
