@@ -19,12 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333370.md">两会中南海军费不可告人幕后 史上首次 民航被骂到… ???????党国竟不撤侨 学印度都没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1333215.md">李燕铭：李克强1小时匆匆念完两会报告 去年罕见一幕未重现 两会政府报告40年来最短 五大异常之处 泄露中共危机重重 预示中国未来时局发展充满变数</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333196.md">北京避谈GDP或是不祥之兆(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333454.md">黄河水变清 《推背图》第33象和第54象预言要成真？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333483.md">高人泄露中南海生死斗内幕：庆红思想沪宁理 绵恒哲学斗天地 毒变不成鼓民主 亟待谋反上大位 血债尽归一尊习 中南海谣言预言_196</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333202.md">江峰：中共严重误判，两会强推香港国安法；川普呛声，美国会新招制裁；香港酝酿更大反抗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333415.md">中共农业部长四句话 吓坏网友：赶紧屯粮(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333454.md">黄河水变清 《推背图》第33象和第54象预言要成真？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200524/1333469.md">美国媒体报道中国人大制定港版国安法 纽约时报称其为习近平的一场豪赌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200523/1333247.md">祸从天降！谁知岳父是「毒王」一场婚礼害这么人确诊(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333483.md">高人泄露中南海生死斗内幕：庆红思想沪宁理 绵恒哲学斗天地 毒变不成鼓民主 亟待谋反上大位 血债尽归一尊习 中南海谣言预言_196</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200523/1333296.md">解密李克强政府工作报告中隐藏的信息；两会与香港版国安法--天钧政经</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333637.md" target="_blank">金正恩隐身逾3周后再露面主持「核试爆」会议</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333636.md" target="_blank">习近平或为与毛邓并列 向台湾开战(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333621.md" target="_blank">傅政华下台事未了 武汉富商：他监听习近平私人电话</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333619.md" target="_blank">【微博精粹】香港国安恶法 习近平给美国快速斩杀中共递上大砍刀(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333618.md" target="_blank">王大姨: 奶茶妹妹 阔太的代价</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333617.md" target="_blank">程墨: 拜登被乌克兰指控！问鼎总统之路这回彻底玩完</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333599.md" target="_blank">中共加码清网8个月 事关红二代“反习信”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333598.md" target="_blank">雷锋十丑图(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333587.md" target="_blank">中共操控世卫组织 肺炎疫情如何恶化(图)</a></li>
@@ -114,12 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333487.md" target="_blank">印尼度假胜地巴厘岛 10月份可能开放旅游</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333483.md" target="_blank">高人泄露中南海生死斗内幕：庆红思想沪宁理 绵恒哲学斗天地 毒变不成鼓民主 亟待谋反上大位 血债尽归一尊习 中南海谣言预言_196</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333482.md" target="_blank">美中紧张关系再升温 中共阻美航空复飞中国 美方拟反制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333475.md" target="_blank">欧洲中小企业协会主席警告：紧急立法禁止中资收购</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333455.md" target="_blank">英警方接到举报：首相顾问染疫后违反隔离规定外出</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333454.md" target="_blank">黄河水变清 《推背图》第33象和第54象预言要成真？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333448.md" target="_blank">视频：北京出大事？火车运载大量坦克、榴弹炮、火箭炮、军车入京 2020年5月23日</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333436.md" target="_blank">川普宣布礼拜信仰为生活必需 呼吁州长们开放礼拜场所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333431.md" target="_blank">科学家：原子放大之后就是宇宙 ?你就是个小宇宙</a></li>
 
 </ul>
 </div>
