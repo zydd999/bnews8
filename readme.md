@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333448.md">视频：北京出大事？火车运载大量坦克、榴弹炮、火箭炮、军车入京 2020年5月23日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333483.md">高人泄露中南海生死斗内幕：庆红思想沪宁理 绵恒哲学斗天地 毒变不成鼓民主 亟待谋反上大位 血债尽归一尊习 中南海谣言预言_196</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333468.md">陈破空：重大信号！美国支持反习阵营，不再承认习近平。香港酝酿大风暴。两会大涨军费。美中处处交锋 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333588.md">经济学家：美有一招会令中共笑不出来(图)</a></li>
@@ -19,10 +18,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200524/1333573.md">大吃一惊：中共病毒风险最高的地方居然是</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333679.md">无路可退 黎智英誓要抗争到底！港人上街 持「天灭中共」标语 高呼口号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333482.md">美中紧张关系再升温 中共阻美航空复飞中国 美方拟反制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200524/1333654.md">最“开放”的部落：女人不能拒绝男人 被称为男人的天堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333703.md">【瘟疫与中共】俄罗斯疫情为何大逆转？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200524/1333654.md">最“开放”的部落：女人不能拒绝男人 被称为男人的天堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200524/1333504.md">共军24小时攻占台湾？退役舰长揭漏洞：只是自嗨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200524/1333478.md">彭斯：中国将对疫情承担责任</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333801.md">拒索赔 中南海决策14个字 两会 此城居民被禁进京 陈薇抢发 美专家:建议放弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333497.md">黎智英推特发文反「港版国安法」到底：我会战斗到最后！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200524/1333492.md">神隐20多天后再度现身！金正恩出席主持军委会议(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333873.md" target="_blank">一句预言让 唐太宗不敢杀武则天 多尔衮甘心做摄政王</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333865.md" target="_blank">买二手车，可以贷款吗？三个简单小提示</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333856.md" target="_blank">白宫经济顾问：港版国安法将严重损害中国经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333845.md" target="_blank">港多个政党到中联办抗议国安恶法 吁国际声援</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333749.md" target="_blank">海带结烧豆腐 营养丰富又美味</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333733.md" target="_blank">财经冷眼：国安法下香港末日 中港股汇四杀大恐慌！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333698.md" target="_blank">皮肤搔痒就是异位性皮肤炎吗？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333682.md" target="_blank">中共强推港版国安法 美国军队紧连环大动作 白宫讨论重启已停止28年核試 美三艘航母集结太平洋 美军测试新型激光武器 成功击落无人机 美中密集交锋 烽火四起</a></li>
 
 </ul>
 </div>
