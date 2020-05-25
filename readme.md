@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333981.md">李克强报告暗藏杀机？港媒：习欲与毛邓比肩(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333980.md">王岐山两会下湖南团捧习 胡春华做陪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333875.md">朱镕基：若香港搞坏了 中共就是民族罪人！(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334119.md">弃美绿卡回国几乎家破人亡女硕士超后悔(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334129.md">“我们将会与全世界分享疫苗” 武汉病毒所改口不承认成果了 多国专家敦促调查病毒来源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334119.md">弃美绿卡回国几乎家破人亡女硕士超后悔(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333924.md">天亮时分：习近平的政治豪赌;为何中共在欧美的合纵连横必然失败?英国表态接受香港难民,香港人是否会投奔怒海?(政论天下第171集 20200524) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333916.md">文昭：香港5.24大游行，再无可退！各方发力阻《国安法》，中共会撤？习近平误判世界，世界也误判他？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200525/1334031.md">生死1公里97死2幸存 坠毁空客是东航淘汰飞机</a></li>
@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334033.md">分析：大陆社会信心崩溃 失业者不满情绪高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200525/1333858.md">澳洲维州加入一带一路 蓬佩奥：美澳关系恐断线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200525/1334058.md">上千条鱼同时「跳上岸」！网忧大地震前兆 官方回应了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334114.md">李燕铭：习近平李克强两会接连放话 清洗江绵恒上海帮操控的医疗卫生系统 两会前大动作点江泽民死穴 中共疾控中心主任高福一度传被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334006.md">邓小平一生最大的失败(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200525/1333899.md">魏和尚：拍戏被炸双目失明 多次自杀未遂 现在怎样了？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334008.md">武汉病毒研究所所长首次出面回应(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334309.md" target="_blank">彭斯副总统：今年阵亡将士纪念日 我们为什么更加珍视自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334287.md" target="_blank">唯色RFA博客: 那不规则圆圈的转经道从这里拐入一条小巷……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334275.md" target="_blank">【林忌评论】中国错判国际反弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334271.md" target="_blank">韩正称北京去年10月就决定立法 分析：西方干预有限中共欲搞“二次回归”</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334059.md" target="_blank">防中共肺炎勤洗手 也不要忽略保护手哦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334051.md" target="_blank">维权人士郝劲松被加控罪名移送起诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334050.md" target="_blank">印度调兵进驻中国边境「冲突地」 中共军队重兵集结</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334049.md" target="_blank">一个转身，再次拥抱已过30年：可怕的中国儿童贩卖产业链</a></li>
 
 </ul>
 </div>
