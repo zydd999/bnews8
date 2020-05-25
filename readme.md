@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333483.md">高人泄露中南海生死斗内幕：庆红思想沪宁理 绵恒哲学斗天地 毒变不成鼓民主 亟待谋反上大位 血债尽归一尊习 中南海谣言预言_196</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333588.md">经济学家：美有一招会令中共笑不出来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333719.md">邓小平与李嘉诚的对话网路疯传(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333678.md">中美剑拔弩张 又出事了 九成银行股跌破净资产值 中国经济最大挑战是什么？</a></li>
@@ -20,11 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200524/1333504.md">共军24小时攻占台湾？退役舰长揭漏洞：只是自嗨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333497.md">黎智英推特发文反「港版国安法」到底：我会战斗到最后！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200524/1333492.md">神隐20多天后再度现身！金正恩出席主持军委会议(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333826.md">中共封网 动态网发布自由门7.81版</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200524/1333526.md">翼装飞行女生殒命：捧杀、活法和有钱人的世界 （视频/图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200524/1333572.md">为什么结账不宜问“How much”？很多学问！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333636.md">习近平或为与毛邓并列 向台湾开战(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200524/1333651.md">77名诺奖得主为何抗议，中共捡到枪了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333826.md">中共封网 动态网发布自由门7.81版</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333491.md">“FBI这两个原局长可能比川普更危险”(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333937.md" target="_blank">5000张清末民国老照片 曾藏身在一个美国家庭的阁楼里（下）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333930.md" target="_blank">恶法无差别迫害香港人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333927.md" target="_blank">中共海量虚假信息泛滥 欧学者吁欧盟启动专家组应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333923.md" target="_blank">疫情下的美国租车业受重创  100万辆的新车销量也在蒸发？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333915.md" target="_blank">香港观察主席建议英政府采取5对策  彭定康：英政府有义务扞卫香港</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333761.md" target="_blank">【持续更新】港人5.24上街抗议中共国安恶法 防暴警出动水炮车武力驱赶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333760.md" target="_blank">港版国安法比23条立法更毒辣 喊「林郑下台」恐都将锒铛入狱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333759.md" target="_blank">土耳其将恢复高铁营运  6月恢复国内、国际航班</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333758.md" target="_blank">疫情趋缓 日可望全境解除「紧急事态」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333757.md" target="_blank">俄罗斯总统普京签署“电子投票和邮寄投票法案”</a></li>
 
 </ul>
 </div>
