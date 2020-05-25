@@ -2,16 +2,15 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334007.md">港版国安法惹议 王毅一句话 舆论炸锅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333801.md">拒索赔 中南海决策14个字 两会 此城居民被禁进京 陈薇抢发 美专家:建议放弃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334007.md">港版国安法惹议 王毅一句话 舆论炸锅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333813.md">王沪宁成立123机密小组干什么？(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334034.md">中共要开战了？共军重兵集结中印边境 印度步兵师进驻战备地区(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333950.md">香港危矣！港区国安法：喊这句口号可能终身监禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333851.md">白宫：一旦香港被中共接管 各国企业没理由留下(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334034.md">中共要开战了？共军重兵集结中印边境 印度步兵师进驻战备地区(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333826.md">中共封网 动态网发布自由门7.81版</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333981.md">李克强报告暗藏杀机？港媒：习欲与毛邓比肩(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333980.md">王岐山两会下湖南团捧习 胡春华做陪(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200524/1333651.md">77名诺奖得主为何抗议，中共捡到枪了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333875.md">朱镕基：若香港搞坏了 中共就是民族罪人！(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200525/1334031.md">生死1公里97死2幸存 坠毁空客是东航淘汰飞机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333916.md">文昭：香港5.24大游行，再无可退！各方发力阻《国安法》，中共会撤？习近平误判世界，世界也误判他？ </a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334008.md">武汉病毒研究所所长首次出面回应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333830.md">报告：谷歌、微软、亚马逊仍为被列黑名单的中企提供服务(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333947.md">英媒:首相约翰逊表态拟接收香港“难民”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334069.md">邓小平一国两制根基被毁？倪匡妙评至今震耳发聩（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334001.md">港人面临绝境！不仅习近平不能喊 喊林郑下台也将违法？英国要打开大门 蔡英文提供救援</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
