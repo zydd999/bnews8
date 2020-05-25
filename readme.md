@@ -8,7 +8,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333950.md">香港危矣！港区国安法：喊这句口号可能终身监禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333981.md">李克强报告暗藏杀机？港媒：习欲与毛邓比肩(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333980.md">王岐山两会下湖南团捧习 胡春华做陪(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333875.md">朱镕基：若香港搞坏了 中共就是民族罪人！(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334129.md">“我们将会与全世界分享疫苗” 武汉病毒所改口不承认成果了 多国专家敦促调查病毒来源</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334119.md">弃美绿卡回国几乎家破人亡女硕士超后悔(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333924.md">天亮时分：习近平的政治豪赌;为何中共在欧美的合纵连横必然失败?英国表态接受香港难民,香港人是否会投奔怒海?(政论天下第171集 20200524) </a></li>
@@ -17,14 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334069.md">邓小平一国两制根基被毁？倪匡妙评至今震耳发聩（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200525/1333887.md">〖兲朝浮世绘〗香港人民的苦难才刚刚开始</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334233.md">丧钟？外媒:中南海陷入死胡同 李报告藏杀机？习与毛邓比肩？真打？中印重兵集结边境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334192.md">白岩松谈港版国安法“语出惊人” 网络炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334233.md">丧钟？外媒:中南海陷入死胡同 李报告藏杀机？习与毛邓比肩？真打？中印重兵集结边境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334033.md">分析：大陆社会信心崩溃 失业者不满情绪高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333918.md">陈破空：惊！大量军车开进北京，习近平又要对付谁？港人抗争再起。英国抛弃华为。中美空中较技，结果 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334114.md">李燕铭：习近平李克强两会接连放话 清洗江绵恒上海帮操控的医疗卫生系统 两会前大动作点江泽民死穴 中共疾控中心主任高福一度传被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334006.md">邓小平一生最大的失败(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200525/1334058.md">上千条鱼同时「跳上岸」！网忧大地震前兆 官方回应了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334357.md" target="_blank">科学家从“宇宙网”这种神奇的图案猜测宇宙是被设计出来的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334355.md" target="_blank">习近平亲信王小洪掌管的特勤局强闯国务院 李克强亲自带着他的卫队将其赶走 中南海内部冲突已白热化 中南海谣言预言_199</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334354.md" target="_blank">邓小平给江泽民的遗嘱？习近平现在危险了！中南海谣言预言_198</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334350.md" target="_blank">“三字经”《新百家姓》出版 “习李张 俞刘王 毛朱周 邓胡江……”政治局常委排行榜？这马屁也拍得太恶心了！中南海谣言预言_197</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334349.md" target="_blank">从天而降100万美元！面对这笔巨款他们是如何处理的？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334348.md" target="_blank">他提出离婚 妻求缓一个月 最后结局令人动容</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334347.md" target="_blank">苏共最懂 美Popeyes炸鸡上海开业 排队200米</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334159.md" target="_blank">威尼斯影展九月首发  ”女王“凯特布兰琪任评审主席</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334154.md" target="_blank">美学者：港版国安法是香港自由的「死亡证明」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334148.md" target="_blank">杭州健康码常态化  民众批搜集医疗数据侵犯隐私</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334114.md" target="_blank">李燕铭：习近平李克强两会接连放话 清洗江绵恒上海帮操控的医疗卫生系统 两会前大动作点江泽民死穴 中共疾控中心主任高福一度传被调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334094.md" target="_blank">金正恩露脸主持军事会议 韩美密切关注朝鲜新潜艇研发动向</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334068.md" target="_blank">疫情重创阿根廷经济 专家：2年恐衰退逾20%</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334065.md" target="_blank">蔡英文：这一刻我们和香港人民站在一起</a></li>
 
 </ul>
 </div>
