@@ -4,7 +4,6 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334007.md">港版国安法惹议 王毅一句话 舆论炸锅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334034.md">中共要开战了？共军重兵集结中印边境 印度步兵师进驻战备地区(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333851.md">白宫：一旦香港被中共接管 各国企业没理由留下(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334146.md">“中共可用外汇2千亿美元” 中南海或面临重大挫败！白宫：北京自毁中国经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333950.md">香港危矣！港区国安法：喊这句口号可能终身监禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333981.md">李克强报告暗藏杀机？港媒：习欲与毛邓比肩(图)</a></li>
@@ -19,12 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200525/1333887.md">〖兲朝浮世绘〗香港人民的苦难才刚刚开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333918.md">陈破空：惊！大量军车开进北京，习近平又要对付谁？港人抗争再起。英国抛弃华为。中美空中较技，结果 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334033.md">分析：大陆社会信心崩溃 失业者不满情绪高(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200525/1333858.md">澳洲维州加入一带一路 蓬佩奥：美澳关系恐断线</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200525/1334058.md">上千条鱼同时「跳上岸」！网忧大地震前兆 官方回应了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334114.md">李燕铭：习近平李克强两会接连放话 清洗江绵恒上海帮操控的医疗卫生系统 两会前大动作点江泽民死穴 中共疾控中心主任高福一度传被调查</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200525/1334058.md">上千条鱼同时「跳上岸」！网忧大地震前兆 官方回应了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334192.md">白岩松谈港版国安法“语出惊人” 网络炸锅</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200525/1333858.md">澳洲维州加入一带一路 蓬佩奥：美澳关系恐断线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334006.md">邓小平一生最大的失败(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334311.md" target="_blank">川普公开表示不再服用羟氯喹了 感觉不错</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334309.md" target="_blank">彭斯副总统：今年阵亡将士纪念日 我们为什么更加珍视自由</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334287.md" target="_blank">唯色RFA博客: 那不规则圆圈的转经道从这里拐入一条小巷……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334275.md" target="_blank">【林忌评论】中国错判国际反弹</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334060.md" target="_blank">这是夏天最易流失的营养素，毁心脏干扰血压&#8230;&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334059.md" target="_blank">防中共肺炎勤洗手 也不要忽略保护手哦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334051.md" target="_blank">维权人士郝劲松被加控罪名移送起诉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334050.md" target="_blank">印度调兵进驻中国边境「冲突地」 中共军队重兵集结</a></li>
 
 </ul>
 </div>
