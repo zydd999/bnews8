@@ -16,14 +16,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333679.md">无路可退 黎智英誓要抗争到底！港人上街 持「天灭中共」标语 高呼口号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200524/1333654.md">最“开放”的部落：女人不能拒绝男人 被称为男人的天堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333826.md">中共封网 动态网发布自由门7.81版</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200524/1333526.md">翼装飞行女生殒命：捧杀、活法和有钱人的世界 （视频/图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200524/1333572.md">为什么结账不宜问“How much”？很多学问！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333636.md">习近平或为与毛邓并列 向台湾开战(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200524/1333651.md">77名诺奖得主为何抗议，中共捡到枪了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333851.md">白宫：一旦香港被中共接管 各国企业没理由留下(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200524/1333651.md">77名诺奖得主为何抗议，中共捡到枪了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200524/1333822.md">川普对港版国安法强硬表态 中共外交部回应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200524/1333621.md">傅政华下台事未了 武汉富商：他监听习近平私人电话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200525/1333858.md">澳洲维州加入一带一路 蓬佩奥：美澳关系恐断线</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333875.md">朱镕基：若香港搞坏了 中共就是民族罪人！(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200524/1333725.md">伊利犯了众怒(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333966.md" target="_blank">颜纯钩：恶法无差别迫害香港人 林郑大事不好(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333959.md" target="_blank">田云：从确诊不到100例~急升33万 俄罗斯疫情为何大逆转？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333958.md" target="_blank">钟原：4月中旬武汉疫情未平 黑龙江又起(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333957.md" target="_blank">王克斌：美国不是中国的敌人 而是中国共产党的敌人(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333890.md" target="_blank">一切尽在不言中 打小分离 街上偶遇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333889.md" target="_blank">黄磊孙莉14岁女儿多多交作业  模仿名人唯妙唯肖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333876.md" target="_blank">警惕澳洲维省参与中共“一带一路”  蓬培奥警告可能切断美澳联系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1333873.md" target="_blank">一句预言让 唐太宗不敢杀武则天 多尔衮甘心做摄政王</a></li>
 
 </ul>
 </div>
