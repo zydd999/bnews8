@@ -14,9 +14,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333924.md">天亮时分：习近平的政治豪赌;为何中共在欧美的合纵连横必然失败?英国表态接受香港难民,香港人是否会投奔怒海?(政论天下第171集 20200524) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1333916.md">文昭：香港5.24大游行，再无可退！各方发力阻《国安法》，中共会撤？习近平误判世界，世界也误判他？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334233.md">丧钟？外媒:中南海陷入死胡同 李报告藏杀机？习与毛邓比肩？真打？中印重兵集结边境</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334069.md">邓小平一国两制根基被毁？倪匡妙评至今震耳发聩（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334192.md">白岩松谈港版国安法“语出惊人” 网络炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334033.md">分析：大陆社会信心崩溃 失业者不满情绪高(图)</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334382.md" target="_blank">中共最后的反扑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334368.md" target="_blank">东京「恋人圣地」地标彩虹桥 以七色彩灯警示疫情变化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334367.md" target="_blank">《兰花草》原唱银霞控告医疗疏失 致身心饱受病痛折磨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334364.md" target="_blank">有奶不一定是娘 也许是狼外婆(组图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334271.md" target="_blank">韩正称北京去年10月就决定立法 分析：西方干预有限中共欲搞“二次回归”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334226.md" target="_blank">台湾餐饮业跌幅创20年新低 陈时中示范「防疫旅游」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334224.md" target="_blank">【5月25日美国（中共病毒疫情）即时动态更新】</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334223.md" target="_blank">98岁赌王何鸿燊惊传病危 家人已抵医院</a></li>
 
 </ul>
 </div>
