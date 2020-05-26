@@ -13,7 +13,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334192.md">白岩松谈港版国安法“语出惊人” 网络炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334358.md">网络谣言：南宁楼市崩盘！160万的房子 16万就卖！！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334069.md">邓小平一国两制根基被毁？倪匡妙评至今震耳发聩（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334383.md">韩正董建华均称：针对“极少数人” 网友想到李鹏(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334114.md">李燕铭：习近平李克强两会接连放话 清洗江绵恒上海帮操控的医疗卫生系统 两会前大动作点江泽民死穴 中共疾控中心主任高福一度传被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334258.md">大义灭亲与失策：林豆豆在九一三事件中所起的作用(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200526/1334393.md">“我们错了”瑞典前国家防疫专家终于说了句实话…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334096.md">中共隐匿疫情将被钉历史耻辱柱 白宫顾问称如苏联隐瞒此事 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334086.md">上千条鱼同时「跳上岸」！网忧大地震前兆 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334626.md" target="_blank">川普欲大幅扩张外籍劳工禁令！海量中国人将被挡在美国之外…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334595.md" target="_blank">港人发出罕见呼吁 中共真实算计曝光？北京爪牙齐动 香港处最黑暗时刻(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md" target="_blank">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334258.md" target="_blank">大义灭亲与失策：林豆豆在九一三事件中所起的作用(图)</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333679.md" target="_blank">无路可退 黎智英誓要抗争到底！港人上街 持「天灭中共」标语 高呼口号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333678.md" target="_blank">中美剑拔弩张 又出事了 九成银行股跌破净资产值 中国经济最大挑战是什么？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333588.md" target="_blank">经济学家：美有一招会令中共笑不出来(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333497.md" target="_blank">黎智英推特发文反「港版国安法」到底：我会战斗到最后！(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334630.md" target="_blank">英相公布复工令：所有的商店将于6月15日复工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334623.md" target="_blank">中印军队边境对峙画面曝光 印度准备打“持久战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334622.md" target="_blank">家中并没有你想象中那么安全，这些也是致病隐患</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334621.md" target="_blank">英国研究：1/3中共病毒确诊者患精神疾病！</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334457.md" target="_blank">西媒：中共强推港版国安法  是黔驴技穷  国际社会应出手助港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334456.md" target="_blank">容易健忘或常出错的人有福了 冥想能减少你出错的可能性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334451.md" target="_blank">书僮：港版国安法：新“柏林墙”爆中共末日恐惧(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334450.md" target="_blank">张林：中共苛政猛于中共病毒！(图)</a></li>
 
 </ul>
 </div>
