@@ -18,9 +18,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200526/1334393.md">“我们错了”瑞典前国家防疫专家终于说了句实话…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334706.md">港版国安法致金融动荡，外汇储备不够用，北京运上万公斤黄金到港「维稳」--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334666.md">某上市公司董事会=1老板+4老婆…(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334626.md">川普欲大幅扩张外籍劳工禁令！海量中国人将被挡在美国之外…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334596.md">中共人大「台湾省代表团」台湾不承认 13人大代表仅她台出生 夫是通缉犯(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334859.md" target="_blank">下葬已600年 大明皇朱元璋女儿墓内惊现活人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334854.md" target="_blank">真实的视觉体验 熊熊大火过去 草坪露出一片翠绿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334852.md" target="_blank">蜜汁苦瓜 清热去火 清心明目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334847.md" target="_blank">美国会议员：共和党人将建议刑事起诉“通俄门”调查团队</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334660.md" target="_blank">台湾「三金影帝」吴朋奉惊传猝逝家中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334647.md" target="_blank">新闻双响炮:直击美国方舱医院1</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334641.md" target="_blank">外媒：WHO任命习近平之妻当亲善大使  官网上只字未提</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334640.md" target="_blank">德国政府承诺拨款90亿欧元纾困汉莎</a></li>
 
 </ul>
 </div>
