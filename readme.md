@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200525/1334273.md">安倍晋三：病毒确实是从中国扩散</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334121.md">芬兰国家电视台曝光中共特务活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200526/1334393.md">“我们错了”瑞典前国家防疫专家终于说了句实话…(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334096.md">中共隐匿疫情将被钉历史耻辱柱 白宫顾问称如苏联隐瞒此事 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200526/1334377.md">〖兲朝浮世绘〗中共要开始给港澳孩子们洗脑了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334382.md">中共最后的反扑(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334643.md" target="_blank">中共调控“雪上加霜” 人民币兑美元中间价创12年新低(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334638.md" target="_blank">突然严查！多名中国人离境遭盘问查手机电脑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334626.md" target="_blank">川普欲大幅扩张外籍劳工禁令！海量中国人将被挡在美国之外…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334595.md" target="_blank">港人发出罕见呼吁 中共真实算计曝光？北京爪牙齐动 香港处最黑暗时刻(组图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333729.md" target="_blank">中南海内斗激烈两会有迹象 美讨论核试验 近30年来首次 美两党提案与中共对等待遇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333704.md" target="_blank">【直播】香港人无惧被捕再上街反「国安法」 警放多枚催泪弹、射水炮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333679.md" target="_blank">无路可退 黎智英誓要抗争到底！港人上街 持「天灭中共」标语 高呼口号(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200524/1333678.md" target="_blank">中美剑拔弩张 又出事了 九成银行股跌破净资产值 中国经济最大挑战是什么？</a></li>
 
 </ul>
 </div>
