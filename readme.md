@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334258.md">大义灭亲与失策：林豆豆在九一三事件中所起的作用(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200525/1334274.md">宝胜快评：美国安部突查所有离境中国人、赵立坚扬言若美制裁香港中共必反击报复、白宫已认定中美如同美苏冷战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200525/1334058.md">上千条鱼同时「跳上岸」！网忧大地震前兆 官方回应了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200525/1334273.md">安倍晋三：病毒确实是从中国扩散</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334383.md">韩正董建华均称：针对“极少数人” 网友想到李鹏(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200525/1334273.md">安倍晋三：病毒确实是从中国扩散</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334121.md">芬兰国家电视台曝光中共特务活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200525/1334089.md">两会至今各地异象频发！网友惊呼：最后的日子也越来越近了(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
