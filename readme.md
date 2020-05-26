@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334638.md">突然严查！多名中国人离境遭盘问查手机电脑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334399.md">陈破空：习家军盯场，副主席被迫表态！韩正透露机密。习近平盘算的只有一件事。砸香港叫板全球，攻印度声东击西 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200526/1334693.md">长子车祸惨死 曾经心碎毁接班布局(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334664.md">川普接连实施斩首行动 中南海惊恐 美国改变游戏规则 重新定义战争 美国成功试射高能激光武器 川普宣布制造超级导弹</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334595.md">港人发出罕见呼吁 中共真实算计曝光？北京爪牙齐动 香港处最黑暗时刻(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
