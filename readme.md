@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200526/1334675.md">曾被传出逃寻美庇护武汉病毒所石正丽现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334644.md">“这届留学生可能真的要去新东方学烹饪了！”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334871.md" target="_blank">文昭：《国安法》两条「绝招」内幕流出，亮底牌前的放风较量；香港外籍法官从此靠边站</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334870.md" target="_blank">天亮时分：中美相互警告“新冷战”开始;国安法背后另一重隐秘算计;从“保六”到“六保”,中共已经无牌可打(政论天下第172集 20200526)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334869.md" target="_blank">陈破空：北京地震！军委副主席恐吓谁？彭丽媛扯进世卫秘闻。非洲刮起排华潮。离美中国人遭盘查。巴西欢呼台湾万岁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334778.md" target="_blank">国安法掀移民潮 “没想过港人要做难民”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334708.md" target="_blank">怪我？中国制口罩品质糟糕 中国商务部两会猛甩锅(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334471.md" target="_blank">港版国安法或促美再启核试？美激光武器和三航母备战太平洋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md" target="_blank">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md" target="_blank">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md" target="_blank">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334406.md" target="_blank">文昭：香港，习近平的斯大林格勒、中国人的「阿拉莫」！美国制裁《国安法》中共怎回击？</a></li>
 
 </ul>
 </div>
