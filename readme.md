@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334007.md">港版国安法惹议 王毅一句话 舆论炸锅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334034.md">中共要开战了？共军重兵集结中印边境 印度步兵师进驻战备地区(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334146.md">“中共可用外汇2千亿美元” 中南海或面临重大挫败！白宫：北京自毁中国经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334355.md">习近平亲信王小洪掌管的特勤局强闯国务院 李克强亲自带着他的卫队将其赶走 中南海内部冲突已白热化 中南海谣言预言_199</a></li>
@@ -12,19 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334354.md">邓小平给江泽民的遗嘱？习近平现在危险了！中南海谣言预言_198</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334233.md">丧钟？外媒:中南海陷入死胡同 李报告藏杀机？习与毛邓比肩？真打？中印重兵集结边境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334358.md">网络谣言：南宁楼市崩盘！160万的房子 16万就卖！！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334358.md">网络谣言：南宁楼市崩盘！160万的房子 16万就卖！！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334192.md">白岩松谈港版国安法“语出惊人” 网络炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334069.md">邓小平一国两制根基被毁？倪匡妙评至今震耳发聩（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334033.md">分析：大陆社会信心崩溃 失业者不满情绪高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334114.md">李燕铭：习近平李克强两会接连放话 清洗江绵恒上海帮操控的医疗卫生系统 两会前大动作点江泽民死穴 中共疾控中心主任高福一度传被调查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334258.md">大义灭亲与失策：林豆豆在九一三事件中所起的作用(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334006.md">邓小平一生最大的失败(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200525/1334274.md">宝胜快评：美国安部突查所有离境中国人、赵立坚扬言若美制裁香港中共必反击报复、白宫已认定中美如同美苏冷战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334001.md">港人面临绝境！不仅习近平不能喊 喊林郑下台也将违法？英国要打开大门 蔡英文提供救援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200525/1334058.md">上千条鱼同时「跳上岸」！网忧大地震前兆 官方回应了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334008.md">武汉病毒研究所所长首次出面回应(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200525/1334273.md">安倍晋三：病毒确实是从中国扩散</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334383.md">韩正董建华均称：针对“极少数人” 网友想到李鹏(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334121.md">芬兰国家电视台曝光中共特务活动</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200525/1334089.md">两会至今各地异象频发！网友惊呼：最后的日子也越来越近了(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334529.md" target="_blank">美议员：中共所为如同冷战敌人和国际逃犯(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334526.md" target="_blank">争论台湾问题 克鲁兹斥华春莹“红色谎言”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334523.md" target="_blank">议长：中国大陆为自由而战的战士 我们支持你们 (图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md" target="_blank">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md" target="_blank">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334106.md" target="_blank">美国务院：中共五家驻美官媒雇员须上交所有个人信息(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334105.md" target="_blank">回应“战狼外交” 王毅“和谐”说辞难掩磨刀霍霍（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334087.md" target="_blank">百色现百年不遇异象 习近平毁了邓小平政治遗产？(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334086.md" target="_blank">上千条鱼同时「跳上岸」！网忧大地震前兆 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334074.md" target="_blank">〖博谈编译〗北京给香港自治的棺材敲下最后一颗钉子</a></li>
 
 </ul>
 </div>
