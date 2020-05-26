@@ -2,8 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334355.md">习近平亲信王小洪掌管的特勤局强闯国务院 李克强亲自带着他的卫队将其赶走 中南海内部冲突已白热化 中南海谣言预言_199</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334354.md">邓小平给江泽民的遗嘱？习近平现在危险了！中南海谣言预言_198</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334358.md">网络谣言：南宁楼市崩盘！160万的房子 16万就卖！！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334677.md">中共没钱了 民对党没信心 第一阶段名存实亡北京严控外汇 撑不过：广州东莞实体店终破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334383.md">韩正董建华均称：针对“极少数人” 网友想到李鹏(图)</a></li>
@@ -12,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334573.md">内幕：两会内斗激烈 中共高级军官观望(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200526/1334693.md">长子车祸惨死 曾经心碎毁接班布局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334399.md">陈破空：习家军盯场，副主席被迫表态！韩正透露机密。习近平盘算的只有一件事。砸香港叫板全球，攻印度声东击西 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334664.md">川普接连实施斩首行动 中南海惊恐 美国改变游戏规则 重新定义战争 美国成功试射高能激光武器 川普宣布制造超级导弹</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334595.md">港人发出罕见呼吁 中共真实算计曝光？北京爪牙齐动 香港处最黑暗时刻(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200526/1334393.md">“我们错了”瑞典前国家防疫专家终于说了句实话…(图集)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334596.md">中共人大「台湾省代表团」台湾不承认 13人大代表仅她台出生 夫是通缉犯(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334382.md">中共最后的反扑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200526/1334377.md">〖兲朝浮世绘〗中共要开始给港澳孩子们洗脑了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334594.md">江峰：习近平意图控制香港失算，国安法反逼香港公投独立？英国对在港30万公民会坐视不理？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334864.md" target="_blank">川普呼吁下 美国加州重新开放宗教信仰场所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334859.md" target="_blank">下葬已600年 大明皇朱元璋女儿墓内惊现活人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334854.md" target="_blank">真实的视觉体验 熊熊大火过去 草坪露出一片翠绿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334852.md" target="_blank">蜜汁苦瓜 清热去火 清心明目</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334661.md" target="_blank">“港版国安法”终结“一国两制” 大陆律师：以言入罪将成常态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334660.md" target="_blank">台湾「三金影帝」吴朋奉惊传猝逝家中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334647.md" target="_blank">新闻双响炮:直击美国方舱医院1</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334641.md" target="_blank">外媒：WHO任命习近平之妻当亲善大使  官网上只字未提</a></li>
 
 </ul>
 </div>
