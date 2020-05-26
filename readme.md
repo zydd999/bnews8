@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334611.md" target="_blank">战狼外交到价值输出 疫情下中共大外宣反被孤立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334600.md" target="_blank">彭丽媛意外卷入世卫勾连北京争议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334596.md" target="_blank">中共人大「台湾省代表团」台湾不承认 13人大代表仅她台出生 夫是通缉犯(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334594.md" target="_blank">江峰：习近平意图控制香港失算，国安法反逼香港公投独立？英国对在港30万公民会坐视不理？</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334183.md" target="_blank">海康威视股东欲减持套现56亿 曾8年套现146亿(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334142.md" target="_blank">广东三天二次地震 顺丰县发生2.9级地震(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334121.md" target="_blank">芬兰国家电视台曝光中共特务活动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334123.md" target="_blank">广西百色降暴雨 那坡县遭遇洪灾(图/2视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,15 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334623.md" target="_blank">中印军队边境对峙画面曝光 印度准备打“持久战”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334622.md" target="_blank">家中并没有你想象中那么安全，这些也是致病隐患</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334621.md" target="_blank">英国研究：1/3中共病毒确诊者患精神疾病！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334620.md" target="_blank">每天坚持泡水喝，帮肺部“洗洗澡”！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334605.md" target="_blank">女生不想满脸皱纹，推荐多吃3种食物，营养丰富，身体棒棒哒！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334604.md" target="_blank">口酸、口苦、口甜&#8230;口味异常，中医怎么看？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334603.md" target="_blank">我们身边的那些“顶级抗病毒”食品</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334602.md" target="_blank">记忆力减退，精神恍惚&#8230;当心是更年期哦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334601.md" target="_blank">中共肺炎最基本的预防方法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334597.md" target="_blank">不弃港人 台国安高层近期将宣布具体协助措施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334581.md" target="_blank">央行行长易纲承认中国经济存在不确定因素</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334566.md" target="_blank">【微博精粹】港版国安法激怒全球 二会修改国籍法惊醒全球华人(组图)</a></li>
@@ -111,15 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334456.md" target="_blank">容易健忘或常出错的人有福了 冥想能减少你出错的可能性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334451.md" target="_blank">书僮：港版国安法：新“柏林墙”爆中共末日恐惧(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334450.md" target="_blank">张林：中共苛政猛于中共病毒！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334449.md" target="_blank">玉清心：圣保罗挖掘1.3万墓穴 每5分钟1人下葬 巴西面临抉择(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334448.md" target="_blank">杨威：“港版国安法”考验西方对中共的态度(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334447.md" target="_blank">颜纯钩致香港手足：我们以正义与邪恶揽炒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334446.md" target="_blank">香港五十年不变？共产党的话连标点符号都不能信(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334431.md" target="_blank">长周末美民众掀户外活动热潮 社交疏离措施被抛诸脑后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334430.md" target="_blank">【快讯】被确诊的俄罗斯总统新闻发言人康复出院</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334429.md" target="_blank">科莫多岛秘境粉红沙滩 犹如走进童话故事般梦幻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334428.md" target="_blank">欧洲沉浸式虚拟之旅&#8211;历史自然篇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334423.md" target="_blank">张丰：至道学宫这么坏的公号 为何在中国能赚那么多钱？(组图)</a></li>
 
 </ul>
 </div>
