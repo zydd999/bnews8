@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334146.md">“中共可用外汇2千亿美元” 中南海或面临重大挫败！白宫：北京自毁中国经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334355.md">习近平亲信王小洪掌管的特勤局强闯国务院 李克强亲自带着他的卫队将其赶走 中南海内部冲突已白热化 中南海谣言预言_199</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334354.md">邓小平给江泽民的遗嘱？习近平现在危险了！中南海谣言预言_198</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
@@ -17,14 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200525/1334274.md">宝胜快评：美国安部突查所有离境中国人、赵立坚扬言若美制裁香港中共必反击报复、白宫已认定中美如同美苏冷战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200525/1334273.md">安倍晋三：病毒确实是从中国扩散</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334573.md">内幕：两会内斗激烈 中共高级军官观望(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200526/1334393.md">“我们错了”瑞典前国家防疫专家终于说了句实话…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334573.md">内幕：两会内斗激烈 中共高级军官观望(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200526/1334377.md">〖兲朝浮世绘〗中共要开始给港澳孩子们洗脑了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334382.md">中共最后的反扑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334600.md">彭丽媛意外卷入世卫勾连北京争议(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334595.md">港人发出罕见呼吁 中共真实算计曝光？北京爪牙齐动 香港处最黑暗时刻(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334382.md">中共最后的反扑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200526/1334377.md">〖兲朝浮世绘〗中共要开始给港澳孩子们洗脑了！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334683.md" target="_blank">“港版国安法”终结“一国两制” 大陆律师：以言入罪将成常态(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334682.md" target="_blank">栗战书两会首提九二共识 与李克强各说各话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334648.md" target="_blank">惨！四川汉源28岁女子带两名幼儿跳桥身亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334611.md" target="_blank">战狼外交到价值输出 疫情下中共大外宣反被孤立</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334600.md" target="_blank">彭丽媛意外卷入世卫勾连北京争议(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md" target="_blank">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334256.md" target="_blank">《国安法》强行空降 《基本法》已渐弥留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md" target="_blank">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334183.md" target="_blank">海康威视股东欲减持套现56亿 曾8年套现146亿(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334142.md" target="_blank">广东三天二次地震 顺丰县发生2.9级地震(图)</a></li>
 
 </ul>
 </div>
