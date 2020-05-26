@@ -12,8 +12,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334268.md">崔永元：胡锡进不是造了一千多颗核弹头吗？早被出租车司机安排上用途了…(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334354.md">邓小平给江泽民的遗嘱？习近平现在危险了！中南海谣言预言_198</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334233.md">丧钟？外媒:中南海陷入死胡同 李报告藏杀机？习与毛邓比肩？真打？中印重兵集结边境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334358.md">网络谣言：南宁楼市崩盘！160万的房子 16万就卖！！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200525/1334167.md">中共怎样忽悠老百姓？看完我都错乱了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200525/1334192.md">白岩松谈港版国安法“语出惊人” 网络炸锅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334069.md">邓小平一国两制根基被毁？倪匡妙评至今震耳发聩（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334184.md">中共军队训练视频流出 战力堪忧(图/视频)</a></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334523.md" target="_blank">议长：中国大陆为自由而战的战士 我们支持你们 (图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md" target="_blank">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md" target="_blank">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334488.md" target="_blank">王毅谈中美新冷战 外媒：责任在于中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334471.md" target="_blank">港版国安法或促美再启核试？美激光武器和三航母备战太平洋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md" target="_blank">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334087.md" target="_blank">百色现百年不遇异象 习近平毁了邓小平政治遗产？(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334086.md" target="_blank">上千条鱼同时「跳上岸」！网忧大地震前兆 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334074.md" target="_blank">〖博谈编译〗北京给香港自治的棺材敲下最后一颗钉子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334070.md" target="_blank">川普如何处理香港议题? 路透：鸽鹰派逐渐靠拢转强硬(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334054.md" target="_blank">李克强不提九二共识 汪洋重提有何玄机(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200525/1334053.md" target="_blank">异象频发！ 云南飞蚁成灾 东北长白山近六月还飘雪(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334512.md" target="_blank">被非法关押208天  覃永沛终于见到律师</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334511.md" target="_blank">特色教育 憋住别笑——博升专，哈佛升蓝翔，MIT升新东方</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334497.md" target="_blank">李江琳：中共绑架中国人走上仇美不归路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334496.md" target="_blank">川人：港版国安法 让世界体会到邪党的真味 远不止“言而无信”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334479.md" target="_blank">石山：港国安法 每个香港人都成了极少数”(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334422.md" target="_blank">“政治正确”错在哪里 错在蔑视基本常识</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334420.md" target="_blank">中共在香港火中取栗的动机分析(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334411.md" target="_blank">来日大难 全世界与香港人站在一起(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334410.md" target="_blank">巴黎最后街头歌手莉莉利昂逝世 享嵩寿103岁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334409.md" target="_blank">财新：中国高校毕业生遭遇“史上最难”就业季</a></li>
 
 </ul>
 </div>
