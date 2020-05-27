@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334706.md">港版国安法致金融动荡，外汇储备不够用，北京运上万公斤黄金到港「维稳」--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334666.md">某上市公司董事会=1老板+4老婆…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334666.md">某上市公司董事会=1老板+4老婆…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334596.md">中共人大「台湾省代表团」台湾不承认 13人大代表仅她台出生 夫是通缉犯(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334626.md">川普欲大幅扩张外籍劳工禁令！海量中国人将被挡在美国之外…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334594.md">江峰：习近平意图控制香港失算，国安法反逼香港公投独立？英国对在港30万公民会坐视不理？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334643.md">中共调控“雪上加霜” 人民币兑美元中间价创12年新低(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200526/1334700.md">章子怡带儿子去医院做检查 身材完全变形</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1334866.md">人民日报社评「秀下限」　疾控中心主任高福「翻供」华南海鲜市场说辞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200526/1334675.md">曾被传出逃寻美庇护武汉病毒所石正丽现身</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334774.md">赌王何鸿燊逝世：4房太太 17个孩子 与5000亿家产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334774.md">赌王何鸿燊逝世：4房太太 17个孩子 与5000亿家产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334644.md">“这届留学生可能真的要去新东方学烹饪了！”(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334999.md" target="_blank">孟晚舟引渡判决前假传胜诉 拍照“打气”学川普手势 去美国吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334998.md" target="_blank">NASA公布第一张黑洞高清动图 黑洞进餐时边吃边吐？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334963.md" target="_blank">SpaceX载人火箭首次升空倒计时  太空迷可在NASA社媒平台看直播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334962.md" target="_blank">中共当局强推港版国安法 川普总统表示不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334961.md" target="_blank">【快讯】川普宣布：周末前会拿出制裁中共的强力方案</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334824.md" target="_blank">读者广场 |唐龙:为香港人民 “灭病毒” 献计献策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334823.md" target="_blank">评论 | 王力雄： 回忆新疆旅行见闻（八）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334807.md" target="_blank">最新民调：港人政经满意率创92年以来新低</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334800.md" target="_blank">人类就会成为外星人的阶下囚吗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334781.md" target="_blank">前中联办主任王志民露面谈港版国安法 借机向习表忠？</a></li>
 
 </ul>
 </div>
