@@ -3,8 +3,8 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334677.md">中共没钱了 民对党没信心 第一阶段名存实亡北京严控外汇 撑不过：广州东莞实体店终破产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334573.md">内幕：两会内斗激烈 中共高级军官观望(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334600.md">彭丽媛意外卷入世卫勾连北京争议(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334573.md">内幕：两会内斗激烈 中共高级军官观望(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334638.md">突然严查！多名中国人离境遭盘问查手机电脑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200526/1334693.md">长子车祸惨死 曾经心碎毁接班布局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334664.md">川普接连实施斩首行动 中南海惊恐 美国改变游戏规则 重新定义战争 美国成功试射高能激光武器 川普宣布制造超级导弹</a></li>
@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334706.md">港版国安法致金融动荡，外汇储备不够用，北京运上万公斤黄金到港「维稳」--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334666.md">某上市公司董事会=1老板+4老婆…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334596.md">中共人大「台湾省代表团」台湾不承认 13人大代表仅她台出生 夫是通缉犯(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334626.md">川普欲大幅扩张外籍劳工禁令！海量中国人将被挡在美国之外…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334594.md">江峰：习近平意图控制香港失算，国安法反逼香港公投独立？英国对在港30万公民会坐视不理？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334643.md">中共调控“雪上加霜” 人民币兑美元中间价创12年新低(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200526/1334700.md">章子怡带儿子去医院做检查 身材完全变形</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200526/1334675.md">曾被传出逃寻美庇护武汉病毒所石正丽现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334774.md">赌王何鸿燊逝世：4房太太 17个孩子 与5000亿家产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334644.md">“这届留学生可能真的要去新东方学烹饪了！”(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334968.md" target="_blank">德语媒体：香港、中国、西方都是输家</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334903.md" target="_blank">加国家邮报：与中共抗衡 加拿大不再孤单(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334902.md" target="_blank">因应中共日益独断 欧盟将采更健全战略(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334901.md" target="_blank">因发推特获罪：北京维权人士全世欣被起诉(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334900.md" target="_blank">港区国安法未表决 中共各地高官已表态(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334899.md" target="_blank">中共疾控中心高福改口 海鲜市场动物没发现病毒(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334873.md" target="_blank">雷人咖啡：第一集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334871.md" target="_blank">文昭：《国安法》两条「绝招」内幕流出，亮底牌前的放风较量；香港外籍法官从此靠边站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334870.md" target="_blank">天亮时分：中美相互警告“新冷战”开始;国安法背后另一重隐秘算计;从“保六”到“六保”,中共已经无牌可打(政论天下第172集 20200526)</a></li>
@@ -52,18 +58,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334573.md" target="_blank">内幕：两会内斗激烈 中共高级军官观望(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334529.md" target="_blank">美议员：中共所为如同冷战敌人和国际逃犯(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334526.md" target="_blank">争论台湾问题 克鲁兹斥华春莹“红色谎言”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334523.md" target="_blank">议长：中国大陆为自由而战的战士 我们支持你们 (图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md" target="_blank">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md" target="_blank">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334488.md" target="_blank">王毅谈中美新冷战 外媒：责任在于中共(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334471.md" target="_blank">港版国安法或促美再启核试？美激光武器和三航母备战太平洋(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md" target="_blank">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1334898.md" target="_blank">北京推港版国安法 彭博：川普政府正考虑对大陆实施制裁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1334897.md" target="_blank">港版国安法︰川普料港难再是金融中心 库德洛称为美企撤离中港承担费用(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1334896.md" target="_blank">白宫顾问：川普对北京震怒 贸易协议不再那么重要(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334774.md" target="_blank">赌王何鸿燊逝世：4房太太 17个孩子 与5000亿家产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334773.md" target="_blank">长子车祸惨死 何鸿燊曾经心碎毁接班布局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md" target="_blank">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
@@ -86,15 +89,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334007.md" target="_blank">港版国安法惹议 王毅一句话 舆论炸锅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334001.md" target="_blank">港人面临绝境！不仅习近平不能喊 喊林郑下台也将违法？英国要打开大门 蔡英文提供救援</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333950.md" target="_blank">香港危矣！港区国安法：喊这句口号可能终身监禁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333947.md" target="_blank">英媒:首相约翰逊表态拟接收香港“难民”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333852.md" target="_blank">川普政府拟限缩外籍生留美工作 助本地毕业生求职(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1333851.md" target="_blank">白宫：一旦香港被中共接管 各国企业没理由留下(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334963.md" target="_blank">SpaceX载人火箭首次升空倒计时  太空迷可在NASA社媒平台看直播</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334962.md" target="_blank">中共当局强推港版国安法 川普总统表示不满</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334961.md" target="_blank">【快讯】川普宣布：周末前会拿出制裁中共的强力方案</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334959.md" target="_blank">李克强要稳外资外贸？ 专家：中共已无牌可打</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334958.md" target="_blank">库德洛：北京在香港问题上犯下大错 美国将支付中港企业回美</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334957.md" target="_blank">对抗美国？中共央行连续下调中间价 引导人民币走软</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334956.md" target="_blank">中国结构性存款达12万亿元 李克强：防资金空转套利</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334955.md" target="_blank">中国110家房企一季度现金流缺口超两千亿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334954.md" target="_blank">专家：中共恶意散布了中共病毒</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334953.md" target="_blank">欧盟首席外交官呼吁成员国共同应对北京</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334952.md" target="_blank">米仓凉子退出《Doctor-X》  全力以赴百老汇舞台剧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334951.md" target="_blank">中共派党员伪装教师 对香港下一代进行洗脑教育</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334908.md" target="_blank">台媒：习近平急推港版国安法事出有因 能否叫停关键在这一点(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334864.md" target="_blank">川普呼吁下 美国加州重新开放宗教信仰场所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334859.md" target="_blank">下葬已600年 大明皇朱元璋女儿墓内惊现活人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334854.md" target="_blank">真实的视觉体验 熊熊大火过去 草坪露出一片翠绿</a></li>
@@ -107,19 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334807.md" target="_blank">最新民调：港人政经满意率创92年以来新低</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334800.md" target="_blank">人类就会成为外星人的阶下囚吗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334781.md" target="_blank">前中联办主任王志民露面谈港版国安法 借机向习表忠？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334777.md" target="_blank">洪金宝近照让人快认不出  「最灵活胖子」不复在</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334769.md" target="_blank">给遭“背叛”“情伤”女孩的一封信(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334762.md" target="_blank">震惊！大陆连续两日发生一家三口自杀事件（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334757.md" target="_blank">【一线采访】“两会”疫情被“清零” 东北民众怒揭真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334755.md" target="_blank">【翰青说说】担心“排华”？ 解决有妙招(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334716.md" target="_blank">【梁京评论】「港版国安法」与习近平的政治算计</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334694.md" target="_blank">澳门赌王何鸿燊辞世 五千亿遗产去向成谜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334673.md" target="_blank">山东双彩虹 是祥瑞还是妖气 ？古书中这样解释</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334664.md" target="_blank">川普接连实施斩首行动 中南海惊恐 美国改变游戏规则 重新定义战争 美国成功试射高能激光武器 川普宣布制造超级导弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334662.md" target="_blank">澳门「赌王」何鸿燊今日病逝 享年98岁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334661.md" target="_blank">“港版国安法”终结“一国两制” 大陆律师：以言入罪将成常态</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334660.md" target="_blank">台湾「三金影帝」吴朋奉惊传猝逝家中</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334647.md" target="_blank">新闻双响炮:直击美国方舱医院1</a></li>
 
 </ul>
 </div>
