@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335080.md" target="_blank">独家：吉林北华护士染疫 55同事隔离(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335069.md" target="_blank">父母持合格证上岗？中共政协委员提议遭轰(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335063.md" target="_blank">天现异象 青海多地夏日降大雪(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335062.md" target="_blank">满脸横肉的吴祖坤死于中共病毒(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334706.md" target="_blank">港版国安法致金融动荡，外汇储备不够用，北京运上万公斤黄金到港「维稳」&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334683.md" target="_blank">“港版国安法”终结“一国两制” 大陆律师：以言入罪将成常态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334682.md" target="_blank">栗战书两会首提九二共识 与李克强各说各话(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334648.md" target="_blank">惨！四川汉源28岁女子带两名幼儿跳桥身亡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334611.md" target="_blank">战狼外交到价值输出 疫情下中共大外宣反被孤立</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335070.md" target="_blank">王友群：天灭中共 天佑香港(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335065.md" target="_blank">官方称武汉病毒检测确诊病例1人 评论指没不敢撒的谎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335052.md" target="_blank">袁斌：香港法学教授指港版国安法不符合基本法(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334957.md" target="_blank">对抗美国？中共央行连续下调中间价 引导人民币走软</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334956.md" target="_blank">中国结构性存款达12万亿元 李克强：防资金空转套利</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334955.md" target="_blank">中国110家房企一季度现金流缺口超两千亿</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334954.md" target="_blank">专家：中共恶意散布了中共病毒</a></li>
 
 </ul>
 </div>
