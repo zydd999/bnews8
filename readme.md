@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200526/1334700.md">章子怡带儿子去医院做检查 身材完全变形</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200527/1334867.md">宝胜突发快评：白宫已成共识取消香港独特地位、经济顾问与安全顾问意见一致、参议员肯尼迪谈中美新冷战战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334774.md">赌王何鸿燊逝世：4房太太 17个孩子 与5000亿家产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334869.md">陈破空：北京地震！军委副主席恐吓谁？彭丽媛扯进世卫秘闻。非洲刮起排华潮。离美中国人遭盘查。巴西欢呼台湾万岁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200526/1334675.md">曾被传出逃寻美庇护武汉病毒所石正丽现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334644.md">“这届留学生可能真的要去新东方学烹饪了！”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334697.md">美连盟印太6国启动抗中共 最前线 台湾IT业加快回归 中美脱勾 5大战场激烈交锋</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200526/1334649.md">传郭台铭深夜突中风？ 郭办回应了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
