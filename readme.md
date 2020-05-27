@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1334892.md">孟晚舟引渡案即将裁决 胜利照流出 回中国可能性大增？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334666.md">某上市公司董事会=1老板+4老婆…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1334866.md">人民日报社评「秀下限」　疾控中心主任高福「翻供」华南海鲜市场说辞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334626.md">川普欲大幅扩张外籍劳工禁令！海量中国人将被挡在美国之外…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334643.md">中共调控“雪上加霜” 人民币兑美元中间价创12年新低(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334869.md">陈破空：北京地震！军委副主席恐吓谁？彭丽媛扯进世卫秘闻。非洲刮起排华潮。离美中国人遭盘查。巴西欢呼台湾万岁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200526/1334700.md">章子怡带儿子去医院做检查 身材完全变形</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200527/1334889.md">习近平为什么背叛香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200527/1334867.md">宝胜突发快评：白宫已成共识取消香港独特地位、经济顾问与安全顾问意见一致、参议员肯尼迪谈中美新冷战战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334774.md">赌王何鸿燊逝世：4房太太 17个孩子 与5000亿家产</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200527/1334889.md">习近平为什么背叛香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200526/1334675.md">曾被传出逃寻美庇护武汉病毒所石正丽现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200526/1334644.md">“这届留学生可能真的要去新东方学烹饪了！”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334697.md">美连盟印太6国启动抗中共 最前线 台湾IT业加快回归 中美脱勾 5大战场激烈交锋</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200526/1334649.md">传郭台铭深夜突中风？ 郭办回应了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334859.md">下葬已600年 大明皇朱元璋女儿墓内惊现活人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334773.md">长子车祸惨死 何鸿燊曾经心碎毁接班布局(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200527/1334909.md">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335173.md" target="_blank">自己打脸 中共官方专家改口：海鲜市场动物未发现病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335167.md" target="_blank">华春莹否认中共“窃取疫苗” 网友：让她第一个注射(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335161.md" target="_blank">「港版国安法」中共打压香港 专家：不武统台湾了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335156.md" target="_blank">反击国安法 美拟祭出制裁中共大招：金融限制及冻资(图)</a></li>
@@ -57,13 +58,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334903.md" target="_blank">加国家邮报：与中共抗衡 加拿大不再孤单(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334902.md" target="_blank">因应中共日益独断 欧盟将采更健全战略(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334901.md" target="_blank">因发推特获罪：北京维权人士全世欣被起诉(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334900.md" target="_blank">港区国安法未表决 中共各地高官已表态(图/视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335172.md" target="_blank">【5.27不断更新】大批港民午后聚集 抗议国安法 警中环放胡椒弹、截查记者(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335171.md" target="_blank">「港版国安法」引爆移民海啸 蓝丝建制派也赶紧逃 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335154.md" target="_blank">李克强刚做完报告 这个总统笑了：机会来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335144.md" target="_blank">福克斯：美国已掌握病毒来源证据 6个月后公布(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335143.md" target="_blank">英媒体监督机构宣布中共国际电视台“严重不遵守英国相关法律”(图)</a></li>
@@ -87,14 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334258.md" target="_blank">大义灭亲与失策：林豆豆在九一三事件中所起的作用(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334233.md" target="_blank">丧钟？外媒:中南海陷入死胡同 李报告藏杀机？习与毛邓比肩？真打？中印重兵集结边境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334146.md" target="_blank">“中共可用外汇2千亿美元” 中南海或面临重大挫败！白宫：北京自毁中国经济</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334129.md" target="_blank">“我们将会与全世界分享疫苗” 武汉病毒所改口不承认成果了 多国专家敦促调查病毒来源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200525/1334096.md" target="_blank">中共隐匿疫情将被钉历史耻辱柱 白宫顾问称如苏联隐瞒此事 (图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335178.md" target="_blank">美国第二批人道主义援助有望本月底发送俄罗斯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335160.md" target="_blank">美国研究：1/3中共肺炎患者并发急性肾损伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335159.md" target="_blank">每天走万步以上能减肥吗？掌握正确方法，或能让你越走越瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335158.md" target="_blank">这两种病毒比中共病毒传染力更强，可不要大意了，特别是孩子&#8230;</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335033.md" target="_blank">92岁退休主播胜魔术强森 成洛杉矶体坛头号人物(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335029.md" target="_blank">未过门妻子苦等丈夫十年 老虎报恩促成夫妻团圆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335026.md" target="_blank">颜纯钩：韩正们拍胸保证 国安法只对一小撮 约35万港人？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335025.md" target="_blank">魏晋：当奇葩申纪兰遇上学者张雪忠(组图)</a></li>
 
 </ul>
 </div>
