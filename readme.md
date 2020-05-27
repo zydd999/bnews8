@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335034.md">魔鬼在细节中 港版国安法再加两字 发言人透露川普一句话...(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335197.md">回应《大公》追问 李嘉诚首回应国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200527/1334966.md">〖兲朝浮世绘〗巴西人开始辱华了，战狼们何在？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335061.md">以为是按摩 山东女律师被15岁女儿勒死(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335231.md">武汉疫情警报是怎样被捂死的？法媒揭内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335114.md">孟晚舟判决在即 中共威胁(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335512.md" target="_blank">辛素：孟晚舟宣判前 微信谣言先行(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335511.md" target="_blank">科技公司拿政府钱审查反共言论 美议员要答案(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335510.md" target="_blank">人大代表暴料：李文亮受过酷刑折磨 开会期间要退党(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335509.md" target="_blank">现场视频：武汉大批青年排队应聘辅警(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335439.md" target="_blank">美国国务卿向国会作证：香港不再具备高度自治</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335167.md" target="_blank">华春莹否认中共“窃取疫苗” 网友：让她第一个注射(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335161.md" target="_blank">「港版国安法」中共打压香港 专家：不武统台湾了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335156.md" target="_blank">反击国安法 美拟祭出制裁中共大招：金融限制及冻资(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335155.md" target="_blank">中共要求勿贺蔡总统就职 巴西政论家专文批评(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335138.md" target="_blank">江峰：香港国安法原来直奔它来的；习近平两会军队代表团讲话时，中印边境战云密布，可能开战的两个重要因素</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335515.md" target="_blank">美国议员：区分中国人和中共 中共是流氓 硬气起来抵抗中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335514.md" target="_blank">港版国安法惹大祸 美国在筹备全方位制裁中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335501.md" target="_blank">报导屡失公正   英媒体监管机构听证决意制裁中国环球电视网</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335497.md" target="_blank">网友庆祝孟晚舟败诉  p图给她戴双脚镯 讽刺“剪脚镣”之说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335493.md" target="_blank">奈良公园赏樱期因疫情难见游客 奈良鹿独享樱花美景成网红</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335308.md" target="_blank">【未普评论】习近平为何突然对香港下重手？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335302.md" target="_blank">人类目前为何飞不出太阳系？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335298.md" target="_blank">防癌抗老圣果：诺丽果有助于稳定血压(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335288.md" target="_blank">【华府看天下】中国加速摧毁一国两制　美国必定以行动回应</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335287.md" target="_blank">悲壮的大逃港 昔日避风港 今日抗争地(图)</a></li>
 
 </ul>
 </div>
