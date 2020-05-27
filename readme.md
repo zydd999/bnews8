@@ -2,26 +2,26 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1334892.md">孟晚舟引渡案即将裁决 胜利照流出 回中国可能性大增？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1334866.md">人民日报社评「秀下限」　疾控中心主任高福「翻供」华南海鲜市场说辞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200527/1334889.md">习近平为什么背叛香港</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200527/1334867.md">宝胜突发快评：白宫已成共识取消香港独特地位、经济顾问与安全顾问意见一致、参议员肯尼迪谈中美新冷战战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335144.md">福克斯：美国已掌握病毒来源证据 6个月后公布(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200527/1334867.md">宝胜突发快评：白宫已成共识取消香港独特地位、经济顾问与安全顾问意见一致、参议员肯尼迪谈中美新冷战战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200527/1335016.md">惊人！特工披露林彪死亡内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200527/1334909.md">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335253.md">这条新闻应该给习近平看看 还有“取消拜登和中共所签协议”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334869.md">陈破空：北京地震！军委副主席恐吓谁？彭丽媛扯进世卫秘闻。非洲刮起排华潮。离美中国人遭盘查。巴西欢呼台湾万岁 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335244.md">习近平称”进入备战状态“   外媒：是“外强中干的”中共对国际谴责的回应？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335219.md">孟晚舟引渡判决前假传胜诉 拍照“打气”学川普手势 去美国吗？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334961.md">【快讯】川普宣布：周末前会拿出制裁中共的强力方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335154.md">李克强刚做完报告 这个总统笑了：机会来了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334961.md">【快讯】川普宣布：周末前会拿出制裁中共的强力方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335279.md">玄机!美掌握证据却半年后公布 对攻中共战狼此国冲上全球热搜 中共疾控中心主任“翻供”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335200.md">打脸王毅！ 俄学者:俄罗斯不参与美中的对抗格局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335332.md">习近平邓小平如出一辙都是… 党媒追问 李嘉诚首表态国安法 被习激怒 美国会要3大制裁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200527/1335044.md">老北京茶馆：习近平大惊！申纪兰泄露国安法秘密；华春莹搬石头砸美，石头被抢走！牡丹江封小区！（第316集/2020/05/26） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335156.md">反击国安法 美拟祭出制裁中共大招：金融限制及冻资(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335034.md">魔鬼在细节中 港版国安法再加两字 发言人透露川普一句话...(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335309.md">惊！人大代表宣布退党 披露李文亮受酷刑中共要打仗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200527/1334966.md">〖兲朝浮世绘〗巴西人开始辱华了，战狼们何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335197.md">回应《大公》追问 李嘉诚首回应国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335061.md">以为是按摩 山东女律师被15岁女儿勒死(组图)</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335456.md" target="_blank">孟晚舟算计错了 加国法官裁定“双重犯罪”成立 继续引渡美国程序</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335442.md" target="_blank">专家：疫情期间调节情绪的最好方法是保持活力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335441.md" target="_blank">哪3对生肖做夫妻越吵越甜蜜？今天斗嘴明天合，感情长长又久久</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335438.md" target="_blank">十九年头七年寡 鼠年难逢双春年 2020闰年闰月加双春 有点悬~</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335268.md" target="_blank">李燕銘：江绵恒两马仔突改口中共病毒来源说法 又玩什么花招？习近平接连放话动作频频酝酿风暴 两会后或有大动作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335267.md" target="_blank">中印边界冲突 印智库：习近平「中国梦」野心的扩张</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335266.md" target="_blank">黄秋生“出关”赞台防疫  新片饰演神秘推拿师</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335259.md" target="_blank">红皮萝卜紫皮蒜 抬头女人低头汉 12个简单的识人之术</a></li>
 
 </ul>
 </div>
