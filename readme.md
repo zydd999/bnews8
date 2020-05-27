@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334638.md">突然严查！多名中国人离境遭盘问查手机电脑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200526/1334693.md">长子车祸惨死 曾经心碎毁接班布局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200526/1334664.md">川普接连实施斩首行动 中南海惊恐 美国改变游戏规则 重新定义战争 美国成功试射高能激光武器 川普宣布制造超级导弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334595.md">港人发出罕见呼吁 中共真实算计曝光？北京爪牙齐动 香港处最黑暗时刻(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334522.md">上海银来资产爆雷 受害人血本无归老人惨死(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334415.md">千年难见 五月黄河突然变清有何预兆？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334761.md">江派疾控体系临清洗高福有事？弥天大谎！武汉全民检测出炉 彭丽媛卷入世卫勾连北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334706.md">港版国安法致金融动荡，外汇储备不够用，北京运上万公斤黄金到港「维稳」--天钧政经</a></li>
@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334421.md">两会代表感觉如何？北京门头沟区3.6级地震 市民惊吓：震感强烈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200526/1334643.md">中共调控“雪上加霜” 人民币兑美元中间价创12年新低(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200526/1334700.md">章子怡带儿子去医院做检查 身材完全变形</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200526/1334675.md">曾被传出逃寻美庇护武汉病毒所石正丽现身</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334521.md">“两会”北京突发地震 网民：天怒人怨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200527/1334856.md">上午辟谣 下午去世 2020也算见证了历史…(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334873.md" target="_blank">雷人咖啡：第一集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334871.md" target="_blank">文昭：《国安法》两条「绝招」内幕流出，亮底牌前的放风较量；香港外籍法官从此靠边站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334870.md" target="_blank">天亮时分：中美相互警告“新冷战”开始;国安法背后另一重隐秘算计;从“保六”到“六保”,中共已经无牌可打(政论天下第172集 20200526)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1334869.md" target="_blank">陈破空：北京地震！军委副主席恐吓谁？彭丽媛扯进世卫秘闻。非洲刮起排华潮。离美中国人遭盘查。巴西欢呼台湾万岁</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334488.md" target="_blank">王毅谈中美新冷战 外媒：责任在于中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334471.md" target="_blank">港版国安法或促美再启核试？美激光武器和三航母备战太平洋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334470.md" target="_blank">留学生因疫情回国读高职高专？委员提案火上浇油(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200526/1334459.md" target="_blank">〖博谈编译〗习近平的霸凌迄今为止适得其反</a></li>
 
 </ul>
 </div>
