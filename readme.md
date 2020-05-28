@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335633.md">蓬佩奥开铡！香港危矣 中共另有打算？港人忧军队将直接插手(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335876.md">习近平请君入瓮！「港版国安法」是韩正一大劫难？--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200528/1335559.md">四面受敌的习蠢货还在打香港的主意</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200528/1335987.md">港版国安谁投了唯一反对票?中国网络人肉 留言竟喊拖出去斩了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335874.md">孟晚舟案结果让中共阵脚大乱 陆媒超前报导无罪释放陷尴尬（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335978.md">好恐怖！港人狂换美元至缺货 找换店45分钟兑走百万美元(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200528/1335987.md">港版国安谁投了唯一反对票?中国网络人肉 留言竟喊拖出去斩了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335989.md">战火再延烧！美国政府拟驱逐与解放军有关的大陆留学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335900.md">“中国失业率可达30%以上” 资本战美赢 中共输得无声息 专家:中国经济对美3大依赖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335751.md">中国高校13名学生集体发热 恐爆发严重疫情(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335784.md">德专家：港人只剩两条路 川普也别无选择(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335979.md">港版国安法通过下一步是... 网民造反暗批中共回到文革 中南海又砸了孟晚舟案直播取消</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200529/1336008.md">美、加、英、澳关于香港的联合声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335576.md">为阻特朗普连任 美国武汉肺炎人数有假(图表)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335837.md">中央警卫局安排美女“进宫” 前中南海保镖爆内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335632.md">朝鲜宣传降温 对金正恩“去神秘化”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335757.md">川普与推特战争全面爆发！美国精英圈为何逐渐苏联化(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336115.md" target="_blank">雷人咖啡：第二集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md" target="_blank">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336071.md" target="_blank">连续两天发生一家三口自杀事件 中共官媒禁报(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336017.md" target="_blank">陈破空：陈破空谈《常识》（之53）：道德沦丧，是对外开放的结果？</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335788.md" target="_blank">推特成亲共魔鬼？白宫连署促查独董李飞飞(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335784.md" target="_blank">德专家：港人只剩两条路 川普也别无选择(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335690.md" target="_blank">【瘟疫与中共】疫情飙升 巴西面临抉择</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335770.md" target="_blank">美国宣布终止对伊朗民用核项目制裁豁免(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336116.md" target="_blank">英国首席科学顾问：解封仍要谨慎 疫情减弱程度并不明显</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336108.md" target="_blank">近八成珠三角中小企业订单出问题 许多厂挺不过6月</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336103.md" target="_blank">川普政府计划取消对中共军校来美留学生签证 涉及3000多人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336096.md" target="_blank">末代总督：国际社会应令中共为其行为负责 迫使其遵从国际秩序</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335921.md" target="_blank">日本对港版国安法深感忧虑 习近平访日添变数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335911.md" target="_blank">中共人大通过港版国安法草案 香港进一步大陆化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335899.md" target="_blank">银河系的形成是人马座A*黑洞促成的?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335889.md" target="_blank">前大陆法官：中共政府为什么70年了才搞出民法典？</a></li>
 
 </ul>
 </div>
