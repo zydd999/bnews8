@@ -3,8 +3,8 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335144.md">福克斯：美国已掌握病毒来源证据 6个月后公布(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335253.md">这条新闻应该给习近平看看 还有“取消拜登和中共所签协议”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335244.md">习近平称”进入备战状态“   外媒：是“外强中干的”中共对国际谴责的回应？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335332.md">习近平邓小平如出一辙都是… 党媒追问 李嘉诚首表态国安法 被习激怒 美国会要3大制裁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335219.md">孟晚舟引渡判决前假传胜诉 拍照“打气”学川普手势 去美国吗？(图)</a></li>
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335212.md">李克强要稳外资外贸？ 专家：中共已无牌可打(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335483.md">NASA在南极洲发现了时间倒流 平行宇宙的入口？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1335239.md">孟晚舟案最后裁决什么结果?各方摒息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335172.md">【5.27不断更新】大批港民午后聚集 抗议国安法 警中环放胡椒弹、截查记者(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335525.md">文昭：孟晚舟引渡罪名成立！F-35奔袭叙利亚入无人之境，强震北京；彭培奥宣布中美总对决开始 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
