@@ -8,12 +8,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200527/1335016.md">惊人！特工披露林彪死亡内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200527/1334909.md">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335253.md">这条新闻应该给习近平看看 还有“取消拜登和中共所签协议”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335244.md">习近平称”进入备战状态“   外媒：是“外强中干的”中共对国际谴责的回应？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335332.md">习近平邓小平如出一辙都是… 党媒追问 李嘉诚首表态国安法 被习激怒 美国会要3大制裁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335154.md">李克强刚做完报告 这个总统笑了：机会来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335219.md">孟晚舟引渡判决前假传胜诉 拍照“打气”学川普手势 去美国吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335279.md">玄机!美掌握证据却半年后公布 对攻中共战狼此国冲上全球热搜 中共疾控中心主任“翻供”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1334961.md">【快讯】川普宣布：周末前会拿出制裁中共的强力方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335309.md">惊！人大代表宣布退党 披露李文亮受酷刑中共要打仗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335200.md">打脸王毅！ 俄学者:俄罗斯不参与美中的对抗格局(图)</a></li>
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200527/1334966.md">〖兲朝浮世绘〗巴西人开始辱华了，战狼们何在？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335061.md">以为是按摩 山东女律师被15岁女儿勒死(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335231.md">武汉疫情警报是怎样被捂死的？法媒揭内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335114.md">孟晚舟判决在即 中共威胁(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335426.md">美国出手了！川普政府通知国会：将取消香港独立经济地位</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335536.md" target="_blank">坏天气令美国载人火箭发射推迟 川普：期待周六再来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335535.md" target="_blank">（视频）超酷的奔驰豪华新时尚！小巧的露营车与商用共享</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335532.md" target="_blank">中共强推港版国安法？来自韩国的半导体或将断供</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335531.md" target="_blank">纽时：中国年轻一代的就业危机</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335426.md" target="_blank">美国出手了！川普政府通知国会：将取消香港独立经济地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335388.md" target="_blank">仅14%的车主调对了座椅头枕，男性司机更需注意啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335380.md" target="_blank">港人抗议国歌国安恶法 黄之锋：美国将加辣制裁中共</a></li>
 
 </ul>
 </div>
