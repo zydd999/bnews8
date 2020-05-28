@@ -2,8 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335253.md">这条新闻应该给习近平看看 还有“取消拜登和中共所签协议”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335244.md">习近平称”进入备战状态“   外媒：是“外强中干的”中共对国际谴责的回应？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335253.md">这条新闻应该给习近平看看 还有“取消拜登和中共所签协议”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335332.md">习近平邓小平如出一辙都是… 党媒追问 李嘉诚首表态国安法 被习激怒 美国会要3大制裁！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335309.md">惊！人大代表宣布退党 披露李文亮受酷刑中共要打仗</a></li>
@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335512.md">辛素：孟晚舟宣判前 微信谣言先行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335426.md">美国出手了！川普政府通知国会：将取消香港独立经济地位</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200528/1335539.md">鱼眼观察 &#124; “战狼”吴京栽了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335704.md">孟晚舟案出乎意外 陆媒突然取消直播(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335231.md">武汉疫情警报是怎样被捂死的？法媒揭内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335197.md">回应《大公》追问 李嘉诚首回应国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200528/1335499.md">中国纯电动车市场踩下急刹车(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335704.md">孟晚舟案出乎意外 陆媒突然取消直播(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335497.md">网友庆祝孟晚舟败诉  p图给她戴双脚镯 讽刺“剪脚镣”之说</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335483.md">NASA在南极洲发现了时间倒流 平行宇宙的入口？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335212.md">李克强要稳外资外贸？ 专家：中共已无牌可打(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335707.md">中印边境冲突 原来如此！共军下大注 莫迪这样应对…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335525.md">文昭：孟晚舟引渡罪名成立！F-35奔袭叙利亚入无人之境，强震北京；彭培奥宣布中美总对决开始 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1335239.md">孟晚舟案最后裁决什么结果?各方摒息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335420.md">陈破空：重大信号！美国不再承认习近平— 解读《美国对中国的战略方针》 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335690.md" target="_blank">【瘟疫与中共】疫情飙升 巴西面临抉择</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335770.md" target="_blank">美国宣布终止对伊朗民用核项目制裁豁免(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335769.md" target="_blank">美议员：美国对港特殊待遇不允许中共利用(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335761.md" target="_blank">强推港版国安法 美中联合国再交锋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335760.md" target="_blank">预警粮荒？党媒“泄露”广州储量只够吃10天(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335751.md" target="_blank">中国高校13名学生集体发热 恐爆发严重疫情(图/视频)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335621.md" target="_blank">陈破空：听众爆线：陈破空激辩亲共人士！港版国安法，与国安毫无关系。习近平一己之私</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335614.md" target="_blank">美国控中共“窃取疫苗” 华春莹奇谈怪论被批“无耻”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335613.md" target="_blank">疫情复发！牡丹江小区封闭 楼门焊死(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335612.md" target="_blank">中共早就知晓疫情？美国夫妇忆武汉惊魂(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335611.md" target="_blank">内蒙古法院黑幕被揭 开庭前早已寄发判决书(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335610.md" target="_blank">内幕 哈尔滨1人染疫致505人隔离(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335773.md" target="_blank">夫妻之间好修行  从“苦黄连”到“笑菩萨”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335772.md" target="_blank">这些年你不知道的秘密都在这了 经验之谈在这里统统无效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335768.md" target="_blank">港大教授揭《港版国安法》「魔鬼细节」 身处活动现场亦可能触法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335748.md" target="_blank">聪明女性担心老太快，可以多吃3种食物，排毒养颜，身体棒！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335747.md" target="_blank">睡觉时“鼾声如雷”很尴尬？四个小妙招 让你睡得更香</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335644.md" target="_blank">乱入熊大王的领地 还让熊大王当群众演员</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335642.md" target="_blank">五花八门的两会代表提案(更新中)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335637.md" target="_blank">港版国安法揽炒香港为哪般 美国快刀斩乱麻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335636.md" target="_blank">立此存照：高福改口：华南海鲜市场动物样本中未提取到病毒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335635.md" target="_blank">加法庭宣布孟晚舟“双重犯罪”成立 详解事件全过程(图)</a></li>
 
 </ul>
 </div>
