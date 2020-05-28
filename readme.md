@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335200.md">打脸王毅！ 俄学者:俄罗斯不参与美中的对抗格局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335456.md">孟晚舟算计错了 加国法官裁定“双重犯罪”成立 继续引渡美国程序</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200527/1335044.md">老北京茶馆：习近平大惊！申纪兰泄露国安法秘密；华春莹搬石头砸美，石头被抢走！牡丹江封小区！（第316集/2020/05/26） </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335156.md">反击国安法 美拟祭出制裁中共大招：金融限制及冻资(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335426.md">美国出手了！川普政府通知国会：将取消香港独立经济地位</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335156.md">反击国安法 美拟祭出制裁中共大招：金融限制及冻资(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335034.md">魔鬼在细节中 港版国安法再加两字 发言人透露川普一句话...(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335197.md">回应《大公》追问 李嘉诚首回应国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335231.md">武汉疫情警报是怎样被捂死的？法媒揭内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335061.md">以为是按摩 山东女律师被15岁女儿勒死(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335114.md">孟晚舟判决在即 中共威胁(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335512.md">辛素：孟晚舟宣判前 微信谣言先行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335212.md">李克强要稳外资外贸？ 专家：中共已无牌可打(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1335239.md">孟晚舟案最后裁决什么结果?各方摒息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335081.md">中共黑幕 ：这竟然是许多海外华人无法回国的原因！(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335600.md" target="_blank">毛泽东感谢日本皇军全文辑录 并附原书截图(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335595.md" target="_blank">美国果然出手 中共已无退路(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335577.md" target="_blank">骗子横行 芯片无心(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335576.md" target="_blank">为阻特朗普连任 美国武汉肺炎人数有假(图表)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335536.md" target="_blank">坏天气令美国载人火箭发射推迟 川普：期待周六再来</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335434.md" target="_blank">黄日华59岁爱妻不敌病魔离世  女儿发长文悼念</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335433.md" target="_blank">天儿太热没胃口？一杯蔬果汁补充人体所需的全部营养</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335429.md" target="_blank">推文被黄标警告 川普誓言强力监管钳制言论自由的社交媒体</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335428.md" target="_blank">中共鼓吹其对全球卫生事业贡献最大 白宫官员：一派胡言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335426.md" target="_blank">美国出手了！川普政府通知国会：将取消香港独立经济地位</a></li>
 
 </ul>
 </div>
