@@ -2,14 +2,13 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335144.md">福克斯：美国已掌握病毒来源证据 6个月后公布(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335253.md">这条新闻应该给习近平看看 还有“取消拜登和中共所签协议”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335244.md">习近平称”进入备战状态“   外媒：是“外强中干的”中共对国际谴责的回应？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335431.md">美国务卿宣布 香港不再具有高度自治 不符合美国给予的特殊地位(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335332.md">习近平邓小平如出一辙都是… 党媒追问 李嘉诚首表态国安法 被习激怒 美国会要3大制裁！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335309.md">惊！人大代表宣布退党 披露李文亮受酷刑中共要打仗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335219.md">孟晚舟引渡判决前假传胜诉 拍照“打气”学川普手势 去美国吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335154.md">李克强刚做完报告 这个总统笑了：机会来了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/1335309.md">惊！人大代表宣布退党 披露李文亮受酷刑中共要打仗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335279.md">玄机!美掌握证据却半年后公布 对攻中共战狼此国冲上全球热搜 中共疾控中心主任“翻供”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335510.md">人大代表暴料：李文亮受过酷刑折磨 开会期间要退党(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335456.md">孟晚舟算计错了 加国法官裁定“双重犯罪”成立 继续引渡美国程序</a></li>
@@ -21,10 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200527/1335197.md">回应《大公》追问 李嘉诚首回应国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200528/1335499.md">中国纯电动车市场踩下急刹车(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335497.md">网友庆祝孟晚舟败诉  p图给她戴双脚镯 讽刺“剪脚镣”之说</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335525.md">文昭：孟晚舟引渡罪名成立！F-35奔袭叙利亚入无人之境，强震北京；彭培奥宣布中美总对决开始 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200527/1335212.md">李克强要稳外资外贸？ 专家：中共已无牌可打(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335483.md">NASA在南极洲发现了时间倒流 平行宇宙的入口？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200527/1335239.md">孟晚舟案最后裁决什么结果?各方摒息</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335525.md">文昭：孟晚舟引渡罪名成立！F-35奔袭叙利亚入无人之境，强震北京；彭培奥宣布中美总对决开始 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200528/1335539.md">鱼眼观察 &#124; “战狼”吴京栽了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335743.md" target="_blank">港媒：香港“特殊地位”一旦失去 等同死亡开端(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335709.md" target="_blank">中共称港版国安法只针对「少数人」 学者：骗人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335708.md" target="_blank">川普通知印度和中共 他愿意帮忙调解印中边境冲突(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335704.md" target="_blank">孟晚舟案出乎意外 陆媒突然取消直播(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335525.md" target="_blank">文昭：孟晚舟引渡罪名成立！F-35奔袭叙利亚入无人之境，强震北京；彭培奥宣布中美总对决开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335512.md" target="_blank">辛素：孟晚舟宣判前 微信谣言先行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335511.md" target="_blank">科技公司拿政府钱审查反共言论 美议员要答案(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335510.md" target="_blank">人大代表暴料：李文亮受过酷刑折磨 开会期间要退党(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335740.md" target="_blank">香港反国歌法二读抗争 逾656人被捕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335739.md" target="_blank">天气越来越热！ 幼儿「3大症状」要当心热伤害</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335738.md" target="_blank">世界上最古老的医学体系：   道医</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335737.md" target="_blank">疫情期间情绪低落！B群是调节情绪最佳营养</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335736.md" target="_blank">美国疾控中心：这4种「味道」，让蚊子对你下不去“口”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335733.md" target="_blank">图解：香港的灾难将如何演变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335718.md" target="_blank">为“下一代欧盟”方案  欧盟拟建立7500亿欧元复兴资金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335706.md" target="_blank">何清涟：中国经济走衰 北京手中无牌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335696.md" target="_blank">豪门遗产争夺开启!(图)</a></li>
@@ -114,12 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335626.md" target="_blank">张昆阳：美国制裁七大终极武器揽炒的终极之路(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335620.md" target="_blank">颜纯鈎：美国果然出手 中共已无退路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335619.md" target="_blank">她 最“完美”地向世人诠释了中共人大 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335600.md" target="_blank">毛泽东感谢日本皇军全文辑录 并附原书截图(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335595.md" target="_blank">美国果然出手 中共已无退路(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335577.md" target="_blank">骗子横行 芯片无心(多图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335576.md" target="_blank">为阻特朗普连任 美国武汉肺炎人数有假(图表)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335536.md" target="_blank">坏天气令美国载人火箭发射推迟 川普：期待周六再来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335535.md" target="_blank">（视频）超酷的奔驰豪华新时尚！小巧的露营车与商用共享</a></li>
 
 </ul>
 </div>
