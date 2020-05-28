@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336063.md" target="_blank">小行星上出现奇怪现象，或将改变人类认知</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336059.md" target="_blank">美国会议员提《安全校园法案》 不给中国理工科学生发签证了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336058.md" target="_blank">武汉沙滩上一张浪漫之吻的照片 竟成重磅「非法」证据！逃过了疫情 逃不过~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336055.md" target="_blank">在吃上讲求道德的人，一定有高尚的灵魂</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335844.md" target="_blank">香港立法会二读《国歌法》 民主派议员群起力阻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335839.md" target="_blank">高盛：一些政策导致美国高失业率可能持续更长时期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335834.md" target="_blank">相爱容易相守难！李东健三年婚变幼女归赵胤熙抚养</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335826.md" target="_blank">疫情控制得宜 台湾首季经济成长稳居四小龙之首 全球第三</a></li>
 
 </ul>
 </div>
