@@ -20,11 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335784.md">德专家：港人只剩两条路 川普也别无选择(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335837.md">中央警卫局安排美女“进宫” 前中南海保镖爆内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335757.md">川普与推特战争全面爆发！美国精英圈为何逐渐苏联化(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200529/1336088.md">美国拟驱逐数千中国留学生  理工研究生或被禁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335822.md">报孟晚舟无罪释放 陆媒为假消息致歉引质疑(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335725.md">中共人大今「表决」！香港首富李嘉诚表态：力挺港版国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200529/1336052.md">她曾是亚视一姐 被封杀后两次自杀 如今49岁沦落为船务公司员工(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200528/1335799.md">港版国安法 全国人大2878票表决通过 1票反对 6票弃权(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336284.md" target="_blank">美前驻港总领事：反制北京成跨党共识 商业利益靠边站(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336283.md" target="_blank">中印紧绷….若开战会怎样？网：应该不只8国联军(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336276.md" target="_blank">习近平压力山大 李鸿忠忽然又给他唱赞歌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336268.md" target="_blank">港版国安法决议通过 党媒新华社公开「否认」一国两制(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336260.md" target="_blank">虚张声势？前中共军官自爆军中内幕：根本无力攻台(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336251.md" target="_blank">中美脱钩对谁都没好处？李克强怕了(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336017.md" target="_blank">陈破空：陈破空谈《常识》（之53）：道德沦丧，是对外开放的结果？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335955.md" target="_blank">武汉11月初就…美夫妇曝惊魂 牡丹江爆发 焊死楼门断绝交通 哈尔滨1人致505人隔离后…</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335945.md" target="_blank">杭州32岁女硕士转行当“保姆”上热搜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335923.md" target="_blank">重磅！美议员：永远不要相信中共 死了也要防它装死(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335916.md" target="_blank">国安法梦魇 港人：难逃移民宿命</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336292.md" target="_blank">这狗狗长着“两米”长的大鼻子 呃觉得有些小清新</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336275.md" target="_blank">习近平被拍到给港版国安法投赞成票 李克强却伸中指</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336273.md" target="_blank">美中交战移至香港 专家分析：人民币成风暴眼(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336264.md" target="_blank">能打仗的狠人：仗还没开打先把监军和国君的人杀了</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336108.md" target="_blank">近八成珠三角中小企业订单出问题 许多厂挺不过6月</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336103.md" target="_blank">川普政府计划取消对中共军校来美留学生签证 涉及3000多人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336096.md" target="_blank">末代总督：国际社会应令中共为其行为负责 迫使其遵从国际秩序</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336091.md" target="_blank">星二代出道发片  记者会签下不依赖爸妈等7大守则</a></li>
 
 </ul>
 </div>
