@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200529/1336146.md">41岁那年 我参加了人生中最后一次同学聚会 醒了(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336294.md">中美大战 美连出硬招！驱逐数千共军留学生 罕见没收设备 (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336359.md">中美大战升温 美罕见举动护命脉 中共一直在虎视眈眈? (图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336196.md">美计划取消3千到5千留学生签证 驱逐出境！这些中国大学会受影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336307.md">港版国安法投票：习近平按“赞成”李克强伸中指(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336196.md">美计划取消3千到5千留学生签证 驱逐出境！这些中国大学会受影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336260.md">虚张声势？前中共军官自爆军中内幕：根本无力攻台(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336320.md">李克强“哭穷”？揭6亿中国人月收入1千 打碎强国梦(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336674.md" target="_blank">白宫质问推特：为什么不对中共大外宣进行事实审查(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336673.md" target="_blank">澳洲学生支持香港民运 被勒令停学</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336658.md" target="_blank">川普宣布对中共政策重大转变 涉及五大领域</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336656.md" target="_blank">川普宣布取消香港特殊待遇 退出世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336633.md" target="_blank">专栏 | 夜话中南海：习近平仍然相信台湾民心可以用“惠台政策”扭转？</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336390.md" target="_blank">东北人斥中共瞒疫情 家属在医院工作都问不出实话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336385.md" target="_blank">什么节奏？首提“习核心”的李鸿忠又给习唱赞歌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336374.md" target="_blank">罕见 港版国安法投票前 政军大员集体“迟到”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336371.md" target="_blank">美国务卿：川普将采取行动 防中国学生当间谍(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336370.md" target="_blank">刺伤副县长 山西芮城县男子被通缉、悬赏… 为啥？</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336672.md" target="_blank">从天而降的陨石上还有文字，是外星文明的问候？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336671.md" target="_blank">新西兰澳洲推“旅游泡泡”计划 9月两国将恢复双向旅游</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336654.md" target="_blank">【快讯】川普强力回应香港问题：将取消对香港特殊待遇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336653.md" target="_blank">英美领袖通话 谴责港版国安法破坏港自治</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336652.md" target="_blank">炫车还可以这样Cool！拉空客、拖航天飞机，还有&#8230;</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336418.md" target="_blank">「今日香港 今日台湾」 台国会成立「香港友好连线」携手抗共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336414.md" target="_blank">吴奇隆化身超级奶爸带娃 刘诗诗靓丽复工很”知足“</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336407.md" target="_blank">反恐还是反异议 专家忧新疆模式套香港(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336400.md" target="_blank">中共通过「港版国安法」日本各界纷表担忧和反对</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336387.md" target="_blank">强硬应对港版国安法 特朗普可动用七大制裁方案 美国将终结香港的中共“白手套”角色 中共偷盗美国先进军事技术秘密通道将被废止</a></li>
 
 </ul>
 </div>
