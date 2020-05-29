@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200529/1336008.md">美、加、英、澳关于香港的联合声明</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335874.md">孟晚舟案结果让中共阵脚大乱 陆媒超前报导无罪释放陷尴尬（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335900.md">“中国失业率可达30%以上” 资本战美赢 中共输得无声息 专家:中国经济对美3大依赖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335751.md">中国高校13名学生集体发热 恐爆发严重疫情(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335979.md">港版国安法通过下一步是... 网民造反暗批中共回到文革 中南海又砸了孟晚舟案直播取消</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335751.md">中国高校13名学生集体发热 恐爆发严重疫情(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335784.md">德专家：港人只剩两条路 川普也别无选择(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335837.md">中央警卫局安排美女“进宫” 前中南海保镖爆内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335576.md">为阻特朗普连任 美国武汉肺炎人数有假(图表)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335632.md">朝鲜宣传降温 对金正恩“去神秘化”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335757.md">川普与推特战争全面爆发！美国精英圈为何逐渐苏联化(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335643.md">新任“政协大管家”传背靠江泽民 与令计划有染(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335662.md">陆网民斗智 暗批中共不守信用、回到文革(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336144.md" target="_blank">美宣布香港无自治 川普将采取哪些行动(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336115.md" target="_blank">雷人咖啡：第二集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md" target="_blank">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336071.md" target="_blank">连续两天发生一家三口自杀事件 中共官媒禁报(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335798.md" target="_blank">牡丹江疫情猛烈复发！公铁路客运暂停 学校停课楼门焊死(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335788.md" target="_blank">推特成亲共魔鬼？白宫连署促查独董李飞飞(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335784.md" target="_blank">德专家：港人只剩两条路 川普也别无选择(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335690.md" target="_blank">【瘟疫与中共】疫情飙升 巴西面临抉择</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336152.md" target="_blank">辛灏年：主张独立的朋友 请学习洪门精神 中国无罪 罪在中共(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336142.md" target="_blank">川普签行政令 防推特等社媒言论审查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336126.md" target="_blank">助朝鲜转巨资开发核武 28朝鲜人和5华人被美司法部起诉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336124.md" target="_blank">川普走在灭共的路上 他能成功吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336116.md" target="_blank">英国首席科学顾问：解封仍要谨慎 疫情减弱程度并不明显</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336031.md" target="_blank">评论 | 陈光诚：名为国家安全法 实为共党专制法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335958.md" target="_blank">黄之锋料美将冻结港独立关税区地位 吁北京悬崖勒马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335957.md" target="_blank">只用一根筷子就能轻松的将玉米粒剥下来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335924.md" target="_blank">评论 | 陈光诚：关注因散发推进民主传单被精神病的丰晓燕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335921.md" target="_blank">日本对港版国安法深感忧虑 习近平访日添变数(图)</a></li>
 
 </ul>
 </div>
