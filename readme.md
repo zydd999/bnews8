@@ -18,13 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335979.md">港版国安法通过下一步是... 网民造反暗批中共回到文革 中南海又砸了孟晚舟案直播取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335784.md">德专家：港人只剩两条路 川普也别无选择(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335837.md">中央警卫局安排美女“进宫” 前中南海保镖爆内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335757.md">川普与推特战争全面爆发！美国精英圈为何逐渐苏联化(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200529/1336088.md">美国拟驱逐数千中国留学生  理工研究生或被禁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335822.md">报孟晚舟无罪释放 陆媒为假消息致歉引质疑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200529/1336052.md">她曾是亚视一姐 被封杀后两次自杀 如今49岁沦落为船务公司员工(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200528/1335915.md">人民币突然贬值 或对美国汇率报复?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200528/1335799.md">港版国安法 全国人大2878票表决通过 1票反对 6票弃权(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200529/1336203.md">大抓捕？网疯传香港“国安法扑克牌”黑名单首批54人上榜(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336320.md" target="_blank">李克强“哭穷”？揭6亿中国人月收入1千 打碎强国梦(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336319.md" target="_blank">中共人大闭幕会 党政军高层迟进场引窃窃私语(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336318.md" target="_blank">云南怒江泥石流 千余游客滞留 多人失联 景区关闭(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336312.md" target="_blank">江峰：川普何时用终极杀招&#8212;-港币美元脱钩，人民币瞬间变“军票”；香港关系法、人权法之外，川普还有多少反制国安法选项</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336307.md" target="_blank">港版国安法投票：习近平按“赞成”李克强伸中指(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336299.md" target="_blank">李克强谈“港版国安法”：仅45秒 3次瞄讲稿(图/视频)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336163.md" target="_blank">雷人咖啡：欢迎订阅转发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336158.md" target="_blank">川普签行政令阻社媒审查言论 限制中共宣传(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336157.md" target="_blank">瞄准中共要害 美委员会向川普递12条建议(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336144.md" target="_blank">美宣布香港无自治 川普将采取哪些行动(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336115.md" target="_blank">雷人咖啡：第二集</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md" target="_blank">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336315.md" target="_blank">中共甫通过港版国安法 韩美连夜将萨德设备运入基地</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336311.md" target="_blank">6月1日大解禁 土耳其城际交通餐饮业海滩全面开放</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336304.md" target="_blank">遏制中共主权声索  美驱逐舰再度通过西沙群岛水域</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336303.md" target="_blank">天一热食欲不佳狂流汗！夏季需注意4件事让血糖不失控</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336161.md" target="_blank">横河：从蔡英文就职典礼看美中台关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336155.md" target="_blank">世界十大迷宫 威廉三世漫步 拿破仑迷路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336152.md" target="_blank">辛灏年：主张独立的朋友 请学习洪门精神 中国无罪 罪在中共(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336142.md" target="_blank">川普签行政令 防推特等社媒言论审查</a></li>
 
 </ul>
 </div>
