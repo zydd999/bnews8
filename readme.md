@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335806.md">比美港政策法更严厉 分析：特朗普或动用这个大杀器 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335707.md">中印边境冲突 原来如此！共军下大注 莫迪这样应对…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335820.md">前中南海保镖大爆最高层神秘生活：警卫局安排美女“进宫”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335791.md">习近平决心已下 保中共弃香港？中共混乱出招 离垮台不远？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335807.md">杭州与河南实验中学爆发偷拍事件 惊传多达3000档案(图集)</a></li>
@@ -23,6 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335757.md">川普与推特战争全面爆发！美国精英圈为何逐渐苏联化(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200529/1336088.md">美国拟驱逐数千中国留学生  理工研究生或被禁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335822.md">报孟晚舟无罪释放 陆媒为假消息致歉引质疑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335725.md">中共人大今「表决」！香港首富李嘉诚表态：力挺港版国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200529/1336052.md">她曾是亚视一姐 被封杀后两次自杀 如今49岁沦落为船务公司员工(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336275.md" target="_blank">习近平被拍到给港版国安法投赞成票 李克强却伸中指</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336273.md" target="_blank">美中交战移至香港 专家分析：人民币成风暴眼(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336264.md" target="_blank">能打仗的狠人：仗还没开打先把监军和国君的人杀了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336247.md" target="_blank">【微博精粹】总书记和粉红一个机器洗出来 区别是境界无敌(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336226.md" target="_blank">中共隐瞒疫情最强证据: 高福论文细节爆惊人秘密(组图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336103.md" target="_blank">川普政府计划取消对中共军校来美留学生签证 涉及3000多人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336096.md" target="_blank">末代总督：国际社会应令中共为其行为负责 迫使其遵从国际秩序</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336091.md" target="_blank">星二代出道发片  记者会签下不依赖爸妈等7大守则</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336072.md" target="_blank">至道学宫倒了 家族群还在呀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336065.md" target="_blank">电动车行业中  又一家日本企业将横空出世</a></li>
 
 </ul>
 </div>
