@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200529/1336088.md">美国拟驱逐数千中国留学生  理工研究生或被禁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335822.md">报孟晚舟无罪释放 陆媒为假消息致歉引质疑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200529/1336052.md">她曾是亚视一姐 被封杀后两次自杀 如今49岁沦落为船务公司员工(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200528/1335799.md">港版国安法 全国人大2878票表决通过 1票反对 6票弃权(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200528/1335915.md">人民币突然贬值 或对美国汇率报复?</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336299.md" target="_blank">李克强谈“港版国安法”：仅45秒 3次瞄讲稿(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336295.md" target="_blank">蔡英文提港人救援方案 国台办叫嚣 网友反开酸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336284.md" target="_blank">美前驻港总领事：反制北京成跨党共识 商业利益靠边站(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336283.md" target="_blank">中印紧绷….若开战会怎样？网：应该不只8国联军(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336276.md" target="_blank">习近平压力山大 李鸿忠忽然又给他唱赞歌(图)</a></li>
@@ -56,14 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336099.md" target="_blank">陈破空：终结一国两制，习近平复仇成功？唯一反对票，谁是那个勇士？李克强记者会遭控制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336071.md" target="_blank">连续两天发生一家三口自杀事件 中共官媒禁报(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336017.md" target="_blank">陈破空：陈破空谈《常识》（之53）：道德沦丧，是对外开放的结果？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335955.md" target="_blank">武汉11月初就…美夫妇曝惊魂 牡丹江爆发 焊死楼门断绝交通 哈尔滨1人致505人隔离后…</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335945.md" target="_blank">杭州32岁女硕士转行当“保姆”上热搜</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336294.md" target="_blank">中美大战 美连出硬招！驱逐数千共军留学生 罕见没收设备 (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335989.md" target="_blank">战火再延烧！美国政府拟驱逐与解放军有关的大陆留学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335979.md" target="_blank">港版国安法通过下一步是&#8230; 网民造反暗批中共回到文革 中南海又砸了孟晚舟案直播取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335978.md" target="_blank">好恐怖！港人狂换美元至缺货 找换店45分钟兑走百万美元(图)</a></li>
@@ -88,13 +89,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335172.md" target="_blank">【5.27不断更新】大批港民午后聚集 抗议国安法 警中环放胡椒弹、截查记者(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335171.md" target="_blank">「港版国安法」引爆移民海啸 蓝丝建制派也赶紧逃 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335154.md" target="_blank">李克强刚做完报告 这个总统笑了：机会来了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200527/1335144.md" target="_blank">福克斯：美国已掌握病毒来源证据 6个月后公布(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336304.md" target="_blank">遏制中共主权声索  美驱逐舰再度通过西沙群岛水域</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336303.md" target="_blank">天一热食欲不佳狂流汗！夏季需注意4件事让血糖不失控</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336302.md" target="_blank">「火红养生饮」营养师大推：珍贵抗氧化物超多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336297.md" target="_blank">李柱铭回应中共人大通过国安恶法 ：继续争取香港自治</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336296.md" target="_blank">奎宁真能抗中共肺炎？！牛津大学研究团队召4万人测试</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336292.md" target="_blank">这狗狗长着“两米”长的大鼻子 呃觉得有些小清新</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336275.md" target="_blank">习近平被拍到给港版国安法投赞成票 李克强却伸中指</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336273.md" target="_blank">美中交战移至香港 专家分析：人民币成风暴眼(图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336152.md" target="_blank">辛灏年：主张独立的朋友 请学习洪门精神 中国无罪 罪在中共(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336142.md" target="_blank">川普签行政令 防推特等社媒言论审查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336126.md" target="_blank">助朝鲜转巨资开发核武 28朝鲜人和5华人被美司法部起诉</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336124.md" target="_blank">川普走在灭共的路上 他能成功吗？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336116.md" target="_blank">英国首席科学顾问：解封仍要谨慎 疫情减弱程度并不明显</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336108.md" target="_blank">近八成珠三角中小企业订单出问题 许多厂挺不过6月</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336103.md" target="_blank">川普政府计划取消对中共军校来美留学生签证 涉及3000多人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336096.md" target="_blank">末代总督：国际社会应令中共为其行为负责 迫使其遵从国际秩序</a></li>
 
 </ul>
 </div>
