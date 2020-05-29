@@ -11,12 +11,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335848.md">大祸临头！ 美国在筹备全方位制裁中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335633.md">蓬佩奥开铡！香港危矣 中共另有打算？港人忧军队将直接插手(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335876.md">习近平请君入瓮！「港版国安法」是韩正一大劫难？--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200528/1335559.md">四面受敌的习蠢货还在打香港的主意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200528/1335987.md">港版国安谁投了唯一反对票?中国网络人肉 留言竟喊拖出去斩了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335989.md">战火再延烧！美国政府拟驱逐与解放军有关的大陆留学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335978.md">好恐怖！港人狂换美元至缺货 找换店45分钟兑走百万美元(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335874.md">孟晚舟案结果让中共阵脚大乱 陆媒超前报导无罪释放陷尴尬（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200529/1336008.md">美、加、英、澳关于香港的联合声明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335874.md">孟晚舟案结果让中共阵脚大乱 陆媒超前报导无罪释放陷尴尬（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335900.md">“中国失业率可达30%以上” 资本战美赢 中共输得无声息 专家:中国经济对美3大依赖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200528/1335751.md">中国高校13名学生集体发热 恐爆发严重疫情(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335979.md">港版国安法通过下一步是... 网民造反暗批中共回到文革 中南海又砸了孟晚舟案直播取消</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200528/1335576.md">为阻特朗普连任 美国武汉肺炎人数有假(图表)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335632.md">朝鲜宣传降温 对金正恩“去神秘化”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200528/1335757.md">川普与推特战争全面爆发！美国精英圈为何逐渐苏联化(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200528/1335643.md">新任“政协大管家”传背靠江泽民 与令计划有染(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
