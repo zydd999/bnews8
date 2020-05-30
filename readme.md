@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336397.md">习近平不惜代价 要去除这些“眼中钉”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336516.md">最厉！川普或动这个大杀器 震惊！港人狂换美元到兑光 国安法通过竟比原版“更辣”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200529/1336275.md">习近平被拍到给港版国安法投赞成票 李克强却伸中指</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336656.md">川普宣布取消香港特殊待遇 退出世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200529/1336412.md">高人预测京城将地震皇帝不改过难逃劫数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336596.md">川普要对中共动手了？一早发推只写了一个词—中国！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336462.md">传中国赴美留学生因高价买回国机票自杀(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336374.md">罕见 港版国安法投票前 政军大员集体“迟到”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200529/1336146.md">41岁那年 我参加了人生中最后一次同学聚会 醒了(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336656.md">川普宣布取消香港特殊待遇 退出世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336359.md">中美大战升温 美罕见举动护命脉 中共一直在虎视眈眈? (图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336658.md">川普宣布对中共政策重大转变 涉及五大领域</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336294.md">中美大战 美连出硬招！驱逐数千共军留学生 罕见没收设备 (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336196.md">美计划取消3千到5千留学生签证 驱逐出境！这些中国大学会受影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336307.md">港版国安法投票：习近平按“赞成”李克强伸中指(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336320.md">李克强“哭穷”？揭6亿中国人月收入1千 打碎强国梦(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
