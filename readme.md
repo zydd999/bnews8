@@ -3,9 +3,7 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1336686.md">习近平孤注一掷 传彭丽媛和女儿不满离去</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336656.md">川普宣布取消香港特殊待遇 退出世卫组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336658.md">川普宣布对中共政策重大转变 涉及五大领域</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1336655.md">〖兲朝浮世绘〗自从习废除了克强经济学 李中堂就变得像深宫怨妇了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200530/1336669.md">李克强"六亿人月收入一千元”引哗然  小商小贩终可摆摊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200530/1336952.md">注意：房子再不出手就要砸手里了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200530/1336840.md">众星挺「港版国安法」！中国网友见名单崩溃：四大天王呢？(组图)</a></li>
@@ -22,9 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336711.md">陈破空：香港！特朗普强势出手。李克强三招暗击习近平！说漏嘴轰动海内外，一指禅功夫了得 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336847.md">38军退伍军人传国家文件 为何令610恐慌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336899.md">【要闻集粹】李克强变得像深宫怨妇了 一些事红三代都忍不下去了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200530/1336738.md">财经冷眼：中美同放5大招 留学生再出国或30年后！(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200530/1337022.md">中国突派临时航班6.4“载回留美学生” 网传叮嘱“小心美国海关查手机！”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200530/1336738.md">财经冷眼：中美同放5大招 留学生再出国或30年后！(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336764.md">习近平玩政治豪赌 惊爆彭丽媛和女儿“不满离去”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200530/1336861.md">在美港人：川普对习近平最后严厉警告 再不醒悟将全盘皆输(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1336772.md">制裁一发接一发！白宫声明：禁解放军背景留学生入境窃密(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337128.md" target="_blank">外交专家：川普强力制裁中共 但还需非暴力解体中共的战略</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337125.md" target="_blank">最后一任英国港督：放弃幻想 反制中共冷战行为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337122.md" target="_blank">惊悚！泰医院轮椅半夜出来「活动筋骨」自由移动？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337121.md" target="_blank">无奇不有 双脚举枪 轮椅匪坐劫珠宝店</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336947.md" target="_blank">全方位排除体内毒素 远离身体发炎和慢性病(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336946.md" target="_blank">【民众心声】明明到处封锁却说0确诊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336914.md" target="_blank">希腊、丹麦和挪威将于6月15日打开边境 允许游客到访</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336910.md" target="_blank">黎智英「步枪机枪」说：国安法比送中条例危害更大</a></li>
 
 </ul>
 </div>
