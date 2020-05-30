@@ -11,13 +11,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336516.md">最厉！川普或动这个大杀器 震惊！港人狂换美元到兑光 国安法通过竟比原版“更辣”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336658.md">川普宣布对中共政策重大转变 涉及五大领域</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336462.md">传中国赴美留学生因高价买回国机票自杀(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1336655.md">〖兲朝浮世绘〗自从习废除了克强经济学 李中堂就变得像深宫怨妇了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200529/1336412.md">高人预测京城将地震皇帝不改过难逃劫数(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1336655.md">〖兲朝浮世绘〗自从习废除了克强经济学 李中堂就变得像深宫怨妇了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336704.md">文昭：川普5·29宣告：对中共全线出击！压力下李克强一句实话，习近立刻尴尬了 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336596.md">川普要对中共动手了？一早发推只写了一个词—中国！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200530/1336669.md">李克强"六亿人月收入一千元”引哗然  小商小贩终可摆摊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336627.md">中共官媒也撑不住了！福建海峡都市报被裁员工到省委示威(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200529/1336374.md">罕见 港版国安法投票前 政军大员集体“迟到”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336627.md">中共官媒也撑不住了！福建海峡都市报被裁员工到省委示威(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200529/1336359.md">中美大战升温 美罕见举动护命脉 中共一直在虎视眈眈? (图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200530/1336737.md">过度“关心”宋祖英 成克杰被火速处死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336711.md">陈破空：香港！特朗普强势出手。李克强三招暗击习近平！说漏嘴轰动海内外，一指禅功夫了得 </a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336880.md" target="_blank">外媒批西方政府软弱 放任中共在港为所欲为将导致全球性灾难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336864.md" target="_blank">美取消香港特殊待遇 「香港民主会」：给习近平的最后警告！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336863.md" target="_blank">现代人为什么会阴盛阳衰 人要活到多少岁才算尽其天年？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336862.md" target="_blank">假卖惨贪婪无耻 收割着善良网友的韭菜</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336779.md" target="_blank">林本利：香港政治动荡多与权斗相关(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336771.md" target="_blank">谁将捡走了香港的“皇冠”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336770.md" target="_blank">汪浩：蒋经国为什么反对“一国两制”？(多图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336764.md" target="_blank">习近平玩政治豪赌 惊爆彭丽媛和女儿“不满离去”</a></li>
 
 </ul>
 </div>
