@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337154.md" target="_blank">多地暴徒藉弗洛伊德事件打砸抢烧 川普：激进左派是祸首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337151.md" target="_blank">【快讯】SpaceX全新火箭发射成功！载人龙飞船已进入国际太空站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337144.md" target="_blank">南极洲发现「火星蠕虫」化石 火星上有生命或实锤？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337139.md" target="_blank">大陆节目《青春有你2》爆内定  一则微博讯息露馅</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336979.md" target="_blank">港版国安法加速美中脱钩 川普总统就“中共问题”发表讲话全文</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336977.md" target="_blank">“挺谁谁死”成龙出马  挺国安法2千港星名单大曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336965.md" target="_blank">想减少霸凌根源 要培养“这件事”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336957.md" target="_blank">港府对电台下手 新闻界：预将港台沦为政府喉舌</a></li>
 
 </ul>
 </div>
