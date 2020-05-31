@@ -8,7 +8,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337215.md">美制裁港版国安法后 中共的首波报复来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337178.md">北京哀鸣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200530/1337061.md">美国最新制裁6月1日生效 媒体揭中国已做好最坏准备</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337037.md">人大闭幕党政军高层集体迟到或涉一场“卡位战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337393.md">李克强勇敢挑战习近平？犹如投下一个超级核弹！“川普或放弃与习近平私交”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
@@ -17,7 +16,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337105.md">42岁“赛西施”沈傲君近照曝光！胖到认不出(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337347.md">借美明州事件挑衅 华春莹被网民集体打脸(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337132.md">SpaceX载人太空船顺利升空 美国9年来首次(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1337044.md">习又误判香港及美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337177.md">川家军 PK 习家军： 习王朝的寿命能有多久</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337145.md">洪金宝暴瘦后首度受访 自曝其中原因 每日八小时内必须完成一餐(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200531/1337261.md">大清算名单 港高官持国外物业拥外国国籍(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200531/1337130.md">SpaceX载人龙飞船发射成功 特朗普赞：真正天才 无人比肩</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337494.md" target="_blank">川普签署法案 让子孙后代了解大屠杀历史(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337493.md" target="_blank">川普打算延后七国集团峰会 计划邀请这四国参与(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md" target="_blank">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337486.md" target="_blank">旧债未销又添新债 石油小国依赖中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337476.md" target="_blank">川普：中共胡作非为 世界正在承受其危害(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337467.md" target="_blank">临近六四诗人王藏被以“煽动颠覆罪”抓走(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md" target="_blank">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337289.md" target="_blank">吹鼓手的烦恼 654期_时事小品</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md" target="_blank">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337246.md" target="_blank">萧铭：川普中国讲话背後的博弈；川普没有对中共一竿子插到底，为什麽？抗击中共将成为川普2020年竞选主题。</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337236.md" target="_blank">黑龙江安达市看守所酷刑折磨人的手段(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337235.md" target="_blank">转发方方微博 世界冠军劳丽诗遭五毛谩骂(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337220.md" target="_blank">黑道大哥沦共谍！潜逃大陆遭金钱利诱、「没价值」被扔回台(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md" target="_blank">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
 
 </ul>
 </div>
