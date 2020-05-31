@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337255.md">川普制裁中共！蓬佩奥目标明确：全都因中国共产党...(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337564.md" target="_blank">视频：中印边境对峙升级！印度士兵在班公湖俘虏一名共军士兵 砸了共军东风巡逻车</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337561.md" target="_blank">各地暴徒持续制造骚乱 川普：将把安提法定为恐怖组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337545.md" target="_blank">澳洲欣然接受G-7邀请 发言人：面临全球挑战 志同道合国家加强合作非常重要</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337539.md" target="_blank">与苏东坡齐名的大词人 被蔡京陷害遭贬 去世前留有大作</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337324.md" target="_blank">白宫拟召开面对面G7峰会 默克尔忧疫染拒绝面见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337312.md" target="_blank">英人权专家：中共违反承诺 适用国际法马格尼茨基制裁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337311.md" target="_blank">91%确诊儿童是在家被传染！医师：掌握症状 3 特点送医不延误</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337310.md" target="_blank">超15万人的研究：这5种食物让人不开心，会增加患抑郁风险</a></li>
 
 </ul>
 </div>
