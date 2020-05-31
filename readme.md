@@ -14,8 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200530/1337022.md">中国突派临时航班6.4“载回留美学生” 网传叮嘱“小心美国海关查手机！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337035.md">劲爆！吉林排查曝“公安大数据”秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337178.md">北京哀鸣(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337000.md">“中美会演变成为你死我活” 中国金融业还最头疼这事！川普如雪上加霜 中共无力反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337000.md">“中美会演变成为你死我活” 中国金融业还最头疼这事！川普如雪上加霜 中共无力反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337037.md">人大闭幕党政军高层集体迟到或涉一场“卡位战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200530/1337061.md">美国最新制裁6月1日生效 媒体揭中国已做好最坏准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337105.md">42岁“赛西施”沈傲君近照曝光！胖到认不出(组图)</a></li>
@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337132.md">SpaceX载人太空船顺利升空 美国9年来首次(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337145.md">洪金宝暴瘦后首度受访 自曝其中原因 每日八小时内必须完成一餐(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1337044.md">习又误判香港及美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337031.md">李克强说有6亿人月收入千元，意味着中国经济存在两大问题--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337177.md">川家军 PK 习家军： 习王朝的寿命能有多久</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1336889.md" target="_blank">赵乐际地方调研：要求召见“610”听汇报</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337376.md" target="_blank">川普要查病毒传播全球原因(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337375.md" target="_blank">震惊！贵州一公司逼业绩不达标员工吃生泥鳅</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337037.md" target="_blank">人大闭幕党政军高层集体迟到或涉一场“卡位战”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337035.md" target="_blank">劲爆！吉林排查曝“公安大数据”秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337031.md" target="_blank">李克强说有6亿人月收入千元，意味着中国经济存在两大问题&#8211;天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336985.md" target="_blank">全球感染逼近6百万 俄罗斯死亡数创新高</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336986.md" target="_blank">【瘟疫与中共】西班牙与中共的联系</a></li>
 
 </ul>
 </div>
