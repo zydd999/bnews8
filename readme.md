@@ -4,25 +4,25 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200530/1336952.md">注意：房子再不出手就要砸手里了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1336912.md">古书预言：2021年更可怕！“人民留一半”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336966.md">六四镇压密令曝光 退伍兵揭骇人屠杀细节(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1336999.md">习近平和军队代表泄秘了!威吓台湾真打?共军遭重创?华为囤芯片够两年为何网笑翻?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336966.md">六四镇压密令曝光 退伍兵揭骇人屠杀细节(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337026.md">真假?彭丽媛习明泽决裂习 川普制裁最大武器在第二阶段 外媒:香港或成历史转折点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1336948.md">中国口罩暴跌现场：出厂1毛3 熔喷布白送、扔路边</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337051.md">川普对中共发出开战宣言 北京国际金融紧缩开始了 专家：致命打击股市楼市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200530/1337022.md">中国突派临时航班6.4“载回留美学生” 网传叮嘱“小心美国海关查手机！”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337215.md">美制裁港版国安法后 中共的首波报复来了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337035.md">劲爆！吉林排查曝“公安大数据”秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337205.md">火爆了！李克强竟一天三次对习近平表不满？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337035.md">劲爆！吉林排查曝“公安大数据”秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200530/1336899.md">【要闻集粹】李克强变得像深宫怨妇了 一些事红三代都忍不下去了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337000.md">“中美会演变成为你死我活” 中国金融业还最头疼这事！川普如雪上加霜 中共无力反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337037.md">人大闭幕党政军高层集体迟到或涉一场“卡位战”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337000.md">“中美会演变成为你死我活” 中国金融业还最头疼这事！川普如雪上加霜 中共无力反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337178.md">北京哀鸣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200530/1337061.md">美国最新制裁6月1日生效 媒体揭中国已做好最坏准备</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337105.md">42岁“赛西施”沈傲君近照曝光！胖到认不出(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200531/1337110.md">老黑：出大事了，川普宣言一出，制裁正式开始，中共又打台湾牌转移矛盾！保护香港台湾符合美国利益！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337132.md">SpaceX载人太空船顺利升空 美国9年来首次(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/renquan/20200530/1336887.md">特殊经济地位被取消，港府官员反击特朗普</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1337044.md">习又误判香港及美国</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337346.md" target="_blank">大陆新闻解毒654期_严真点评+外交部大实话：川普向中共开战，「间谍学者」遭遣返，中南海措手不及。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337293.md" target="_blank">习近平全面小康梦碎! 李克强罕见讲实情(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337290.md" target="_blank">河南高中月内数百学生发烧 校方拒检测继续上课(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337289.md" target="_blank">吹鼓手的烦恼 654期_时事小品</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336956.md" target="_blank">分析：美若实施「金融制裁」中共将无力反击(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336951.md" target="_blank">班农向蔡英文喊话：这是台湾的时刻！(图集/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336950.md" target="_blank">中国人口“少子化”严重 网友：不想孩子活在地狱里(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336940.md" target="_blank">武汉10天内核酸检测668万例 必要？准确？(图)</a></li>
 
 </ul>
 </div>
