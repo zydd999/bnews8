@@ -21,8 +21,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337255.md">川普制裁中共！蓬佩奥目标明确：全都因中国共产党...(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200531/1337261.md">大清算名单 港高官持国外物业拥外国国籍(多图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337597.md" target="_blank">川普谈中国问题 我们正在见证历史转折(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337596.md" target="_blank">全球民间团体悼“六四”倡议书 吁世界齐抗中共“无声侵略”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337595.md" target="_blank">拜登称反对现金保释做法 但手下多人捐款保释明州暴力示威者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337594.md" target="_blank">比利时王子在西班牙确诊感染武汉肺炎 违反防疫规定或面临处罚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337588.md" target="_blank">李克强两会讲话视频被删除 中南海发生什么情况？中南海谣言预言_201</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337407.md" target="_blank">勇气的核心 是对“这些事”的回应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337394.md" target="_blank">全美25城市宵禁 洛城市长呼吁抗议不要演变成暴力与破坏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337388.md" target="_blank">美证实将出售驻港领事馆宿舍 学者：恐将带动美商撤资跟进</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337380.md" target="_blank">敏感时刻！中共驻美使馆突派临时航班接留学生回国引关注</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
 
 </ul>
 </div>
