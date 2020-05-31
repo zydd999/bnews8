@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337569.md" target="_blank">视频：中印边境对峙 看看印度军队宣传片 请注意：印度13亿人口18岁 35岁青壮年有8亿人 而中国青壮年人口为3.5亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337564.md" target="_blank">视频：中印边境对峙升级！印度士兵在班公湖俘虏一名共军士兵 砸了共军东风巡逻车</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337561.md" target="_blank">各地暴徒持续制造骚乱 川普：将把安提法定为恐怖组织</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337545.md" target="_blank">澳洲欣然接受G-7邀请 发言人：面临全球挑战 志同道合国家加强合作非常重要</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337334.md" target="_blank">纽时专文介绍侯孝贤 赞誉“台湾最伟大电影人”(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337324.md" target="_blank">白宫拟召开面对面G7峰会 默克尔忧疫染拒绝面见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337312.md" target="_blank">英人权专家：中共违反承诺 适用国际法马格尼茨基制裁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337311.md" target="_blank">91%确诊儿童是在家被传染！医师：掌握症状 3 特点送医不延误</a></li>
 
 </ul>
 </div>
