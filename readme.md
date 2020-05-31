@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337428.md" target="_blank">转发“一人一信救香港”信息 肖育辉等多名大陆网友被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337426.md" target="_blank">疫情趋缓 日拟7月分阶段松绑4国入境管制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md" target="_blank">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337414.md" target="_blank">颜丹：疫情下的失业危机以中国为最</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337274.md" target="_blank">政府追“钱景”强制核酸检测 民众苦不堪言 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337270.md" target="_blank">德媒：北京对香港采取行动的时机太冒险(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337269.md" target="_blank">李铭：国际聚焦中共活摘器官</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337268.md" target="_blank">从港版国安法看中共“作死”的思维方式</a></li>
 
 </ul>
 </div>
