@@ -3,13 +3,12 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337051.md">川普对中共发出开战宣言 北京国际金融紧缩开始了 专家：致命打击股市楼市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337205.md">火爆了！李克强竟一天三次对习近平表不满？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337215.md">美制裁港版国安法后 中共的首波报复来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337178.md">北京哀鸣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200530/1337061.md">美国最新制裁6月1日生效 媒体揭中国已做好最坏准备</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337393.md">李克强勇敢挑战习近平？犹如投下一个超级核弹！“川普或放弃与习近平私交”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200531/1337110.md">老黑：出大事了，川普宣言一出，制裁正式开始，中共又打台湾牌转移矛盾！保护香港台湾符合美国利益！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337292.md">美谴责港版国安法 华春莹翻墙发推遭洗版骂翻(图)</a></li>
@@ -20,10 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337145.md">洪金宝暴瘦后首度受访 自曝其中原因 每日八小时内必须完成一餐(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337255.md">川普制裁中共！蓬佩奥目标明确：全都因中国共产党...(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200531/1337261.md">大清算名单 港高官持国外物业拥外国国籍(多图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200531/1337130.md">SpaceX载人龙飞船发射成功 特朗普赞：真正天才 无人比肩</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337506.md" target="_blank">载人龙飞船首飞 与国际空间站成功对接</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337500.md" target="_blank">朝鲜黑客-金正恩的强力武器</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337494.md" target="_blank">川普签署法案 让子孙后代了解大屠杀历史(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337493.md" target="_blank">川普打算延后七国集团峰会 计划邀请这四国参与(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md" target="_blank">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337293.md" target="_blank">习近平全面小康梦碎! 李克强罕见讲实情(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337290.md" target="_blank">河南高中月内数百学生发烧 校方拒检测继续上课(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337289.md" target="_blank">吹鼓手的烦恼 654期_时事小品</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md" target="_blank">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337246.md" target="_blank">萧铭：川普中国讲话背後的博弈；川普没有对中共一竿子插到底，为什麽？抗击中共将成为川普2020年竞选主题。</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337504.md" target="_blank">中国问题专家：为了自身的主权独立和尊严  英政府需要坚定不移地应对中共</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337498.md" target="_blank">自制正宗老北京绿豆凉皮 薄如蝉翼 口感Q弹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337460.md" target="_blank">赌王刚过世一天  导演喊话吴彦祖拍传记引何家不满</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337447.md" target="_blank">丰晓燕求民主被关精神病院 前高官丈夫乃始作俑者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337446.md" target="_blank">「刺客聂隐娘」蕴中国山水画意境 纽时赞侯孝贤作品“美如诗”</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337309.md" target="_blank">疫情期间，当心视力受损</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337308.md" target="_blank">研究：过滤咖啡使糖尿病风险低60%，死亡风险少15%！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337307.md" target="_blank">桃养人，杏伤人，李子树下埋死人，原来是真的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337295.md" target="_blank">杨鹏生：消灭中共解救中国(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337279.md" target="_blank">北京是死鸭子嘴硬 掩不住哀鸣(图)</a></li>
 
 </ul>
 </div>
