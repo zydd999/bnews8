@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200530/1336952.md">注意：房子再不出手就要砸手里了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1336999.md">习近平和军队代表泄秘了!威吓台湾真打?共军遭重创?华为囤芯片够两年为何网笑翻?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1336966.md">六四镇压密令曝光 退伍兵揭骇人屠杀细节(图)</a></li>
@@ -16,15 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337000.md">“中美会演变成为你死我活” 中国金融业还最头疼这事！川普如雪上加霜 中共无力反击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200530/1337037.md">人大闭幕党政军高层集体迟到或涉一场“卡位战”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200530/1337061.md">美国最新制裁6月1日生效 媒体揭中国已做好最坏准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200531/1337110.md">老黑：出大事了，川普宣言一出，制裁正式开始，中共又打台湾牌转移矛盾！保护香港台湾符合美国利益！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337105.md">42岁“赛西施”沈傲君近照曝光！胖到认不出(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337132.md">SpaceX载人太空船顺利升空 美国9年来首次(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337292.md">美谴责港版国安法 华春莹翻墙发推遭洗版骂翻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200530/1337044.md">习又误判香港及美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200531/1337145.md">洪金宝暴瘦后首度受访 自曝其中原因 每日八小时内必须完成一餐(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337177.md">川家军 PK 习家军： 习王朝的寿命能有多久</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
