@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337562.md">不只徐熙媛！率2605人挺港版国安法挨轰 成龙6字回应 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337566.md">新歌呛爆习近平！大支证实惊收死亡威胁 半年没收入啃老本(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337566.md">新歌呛爆习近平！大支证实惊收死亡威胁 半年没收入啃老本(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md" target="_blank">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md" target="_blank">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md" target="_blank">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337856.md" target="_blank">川普建11国反共联盟 德国“叛美投共”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md" target="_blank">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337678.md" target="_blank">艺人撑香港国安法? 数人出面否认连署</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337672.md" target="_blank">大陆山寨“天空之镜”获利 游客大呼被骗(组图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337662.md" target="_blank">津津有味 武警“两会”宣传马屁拍过头(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337661.md" target="_blank">倒看报纸开心？武警宣传照被抓包 官方急下架(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337643.md" target="_blank">胡锡进怀疑美暴动「是香港暴徒策划」网呛爆：睁眼说瞎话！(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337880.md" target="_blank">英国7前外相吁政府成立国际小组 协调处理香港问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337868.md" target="_blank">中共病毒猖獗 亚美尼亚总理全家染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md" target="_blank">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337843.md" target="_blank">川普国安顾问：中伊等政权借明州暴力事件抹黑美国不会得逞</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337728.md" target="_blank">研究：肺部严重感染 恐致免疫系统暂时停摆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337720.md" target="_blank">夏天喝水加点它，护肝祛湿、清热降火！家里还能种，味道很棒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337719.md" target="_blank">武林高手！ 见识最高的动物「并肩作战」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337718.md" target="_blank">这个周末的美国 一半“天堂”一半“地狱”：万魔当道的今天，你的选择是什么？</a></li>
 
 </ul>
 </div>
