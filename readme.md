@@ -3,9 +3,7 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337215.md">美制裁港版国安法后 中共的首波报复来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337393.md">李克强勇敢挑战习近平？犹如投下一个超级核弹！“川普或放弃与习近平私交”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337471.md">党媒认怂 暗批习近平误判？ 川普在香港一举领外企撤资 不作不死 中共官员要留后路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337457.md">中印边境再冲突 中共军人遭拳打脚踢被带走(图/视频)</a></li>
@@ -13,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337347.md">借美明州事件挑衅 华春莹被网民集体打脸(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337588.md">李克强两会讲话视频被删除 中南海发生什么情况？中南海谣言预言_201</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
@@ -22,9 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200531/1337261.md">大清算名单 港高官持国外物业拥外国国籍(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337306.md">美杜绝“香港身份”偷技术 李嘉诚首当其冲(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337628.md" target="_blank">遭特大暴雨 广东珠海整个城市一片汪洋(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337624.md" target="_blank">川普反制中共出五招 学者：请出习近平最怕的这招(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337623.md" target="_blank">央视宣传《炮击金门》 解放军“丑闻”反遭起底(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md" target="_blank">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337419.md" target="_blank">瑞幸衰落背后：大批虚假买家和一个虚拟员工</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1336889.md" target="_blank">赵乐际地方调研：要求召见“610”听汇报</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
 
 </ul>
 </div>
