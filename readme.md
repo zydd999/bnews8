@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337457.md">中印边境再冲突 中共军人遭拳打脚踢被带走(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337588.md">李克强两会讲话视频被删除 中南海发生什么情况？中南海谣言预言_201</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337566.md">新歌呛爆习近平！大支证实惊收死亡威胁 半年没收入啃老本(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337908.md" target="_blank">印度拒绝中共监控！手机「移除中国APP」2周下载破百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337895.md" target="_blank">又一日本艺人引退 AKB48前成员渡边麻友告别演艺圈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337880.md" target="_blank">英国7前外相吁政府成立国际小组 协调处理香港问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337868.md" target="_blank">中共病毒猖獗 亚美尼亚总理全家染疫</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337730.md" target="_blank">防疫在家自我锻炼？这些个错误千万要注意了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337729.md" target="_blank">中国古代最长寿的人有哪些？他们之所以长寿，都有个共同特点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337728.md" target="_blank">研究：肺部严重感染 恐致免疫系统暂时停摆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337720.md" target="_blank">夏天喝水加点它，护肝祛湿、清热降火！家里还能种，味道很棒</a></li>
 
 </ul>
 </div>
