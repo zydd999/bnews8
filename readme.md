@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337205.md">火爆了！李克强竟一天三次对习近平表不满？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337215.md">美制裁港版国安法后 中共的首波报复来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337393.md">李克强勇敢挑战习近平？犹如投下一个超级核弹！“川普或放弃与习近平私交”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337178.md">北京哀鸣(图)</a></li>
@@ -16,15 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337177.md">川家军 PK 习家军： 习王朝的寿命能有多久</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337255.md">川普制裁中共！蓬佩奥目标明确：全都因中国共产党...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200531/1337261.md">大清算名单 港高官持国外物业拥外国国籍(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337608.md" target="_blank">“从娃娃抓起” 中共对学生家长洗脑新骗术</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337607.md" target="_blank">广州10家医院涉假奶粉事件 60儿童受害(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md" target="_blank">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md" target="_blank">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337540.md" target="_blank">福布斯：美国自中国的进口量较两年前下降近五成</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337375.md" target="_blank">震惊！贵州一公司逼业绩不达标员工吃生泥鳅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md" target="_blank">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337360.md" target="_blank">各国拒中共劣质口罩 大陆熔喷布价暴跌(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337347.md" target="_blank">借美明州事件挑衅 华春莹被网民集体打脸(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337346.md" target="_blank">大陆新闻解毒654期_严真点评+外交部大实话：川普向中共开战，「间谍学者」遭遣返，中南海措手不及。</a></li>
 
 </ul>
 </div>
