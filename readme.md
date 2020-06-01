@@ -20,8 +20,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338085.md" target="_blank">蓬佩奥批中共：坏事清单太长 更具侵略性 抹黑美国转移视线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338079.md" target="_blank">普京宣布俄宪法修正案全民公投日    欲再独揽大权16年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338056.md" target="_blank">前纽约市长：我当市长不会让骚乱发生 民主党领袖太无能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338048.md" target="_blank">这2个生肖做夫妻，有钱有福，甜甜蜜蜜一辈子！</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337836.md" target="_blank">六四31周年 天安门母亲无法参加集体祭拜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337835.md" target="_blank">退隐40年后 山口百惠600首歌曲终解禁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337834.md" target="_blank">凉拌五彩莲藕 清爽开胃 滋补佳珍</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337825.md" target="_blank">视频：中印边境对峙后 中共军队转身撤走</a></li>
 
 </ul>
 </div>
