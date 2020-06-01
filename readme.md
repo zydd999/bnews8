@@ -8,23 +8,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337562.md">不只徐熙媛！率2605人挺港版国安法挨轰 成龙6字回应 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337566.md">新歌呛爆习近平！大支证实惊收死亡威胁 半年没收入啃老本(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337661.md">倒看报纸开心？武警宣传照被抓包 官方急下架(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337952.md" target="_blank">田馥甄《悬日》MV上线  邀许光汉飙演技大考验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337917.md" target="_blank">评论 | 胡平：纪念“六四”31周年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337908.md" target="_blank">印度拒绝中共监控！手机「移除中国APP」2周下载破百万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337895.md" target="_blank">又一日本艺人引退 AKB48前成员渡边麻友告别演艺圈</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337732.md" target="_blank">上火喉咙痛？！这些食物效果明显</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337731.md" target="_blank">都说吃蜂蜜好，具体怎么吃呢？蜂蜜还能做出这5种美食</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337730.md" target="_blank">防疫在家自我锻炼？这些个错误千万要注意了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337729.md" target="_blank">中国古代最长寿的人有哪些？他们之所以长寿，都有个共同特点</a></li>
 
 </ul>
 </div>
