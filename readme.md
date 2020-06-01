@@ -11,9 +11,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200531/1337372.md">默克尔婉拒后 特朗普延期举办G7 欲广邀习近平受邀否?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337562.md">不只徐熙媛！率2605人挺港版国安法挨轰 成龙6字回应 (组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337760.md" target="_blank">武汉封城日 19年前同一天中国出大事(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337745.md" target="_blank">中共利用美非裔之死抹黑美国 蓬佩奥回应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337737.md" target="_blank">港版国安法 一文看懂国安3大机构 有一个是习近平直接领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337725.md" target="_blank">川普对中共讲话释放何种重大信号 专家解释(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md" target="_blank">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md" target="_blank">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337608.md" target="_blank">“从娃娃抓起” 中共对学生家长洗脑新骗术</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337607.md" target="_blank">广州10家医院涉假奶粉事件 60儿童受害(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337761.md" target="_blank">苦胆：顶层设计 还是顶层设“计”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337755.md" target="_blank">巴黎圣母院前厅重新开放 火劫后的大教堂风采是否依然？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337754.md" target="_blank">妈妈何时失守过？ 狐狸吓得屁滚尿流 落荒而逃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337733.md" target="_blank">六四纪念集会31年来恐首次无法举行 主办方吁「网上集会」继续反共</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337651.md" target="_blank">焚书观天下：美国骚乱 骚胜于乱！粉红们高兴早了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337638.md" target="_blank">神奇！餐点加点“它” 胆固醇数值下降了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337615.md" target="_blank">孟晚舟小姐落难记(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md" target="_blank">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 
 </ul>
 </div>
