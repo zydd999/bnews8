@@ -13,14 +13,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337562.md">不只徐熙媛！率2605人挺港版国安法挨轰 成龙6字回应 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337856.md" target="_blank">川普建11国反共联盟 德国“叛美投共”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md" target="_blank">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md" target="_blank">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337841.md" target="_blank">生意惨淡 传武汉江岸区出租车司机罢工(图/视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337661.md" target="_blank">倒看报纸开心？武警宣传照被抓包 官方急下架(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337643.md" target="_blank">胡锡进怀疑美暴动「是香港暴徒策划」网呛爆：睁眼说瞎话！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337642.md" target="_blank">中共宣称加速对“港版国安法” 立法(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337641.md" target="_blank">610操控 苏州老太刚结束1年冤狱再被构陷</a></li>
 
 </ul>
 </div>
