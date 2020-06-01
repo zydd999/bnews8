@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337920.md">“习近平完全没招 现在都傻眼了” 中南海被打懵党媒一片寂静 共青团中央反美玩翻车了</a></li>
@@ -22,9 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338139.md" target="_blank">网易赴香港二次上市 美中加速脱钩 更多中企或赴港募资</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338138.md" target="_blank">轰中国“暴政” 英国会外委会主席∶应重新思考与中伙伴关系(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338137.md" target="_blank">华日：中国经济刚复苏即出现停滞</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338136.md" target="_blank">美中关系紧张之际 中共出手维稳人民币</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338133.md" target="_blank">香港变色 维园”64 “烛光守夜遭禁   英议会外委会主席：将重设英中关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338107.md" target="_blank">“Eascy” 时代的逍遥出行，不再需驾照和私家车了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338103.md" target="_blank">为何美国抗议警察暴力骚乱不断  中国网友在微博爆出真相</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337983.md" target="_blank">评论 | 林保华：栗战书下战书，习近平被禁评？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337952.md" target="_blank">田馥甄《悬日》MV上线  邀许光汉飙演技大考验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337917.md" target="_blank">评论 | 胡平：纪念“六四”31周年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337908.md" target="_blank">印度拒绝中共监控！手机「移除中国APP」2周下载破百万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337895.md" target="_blank">又一日本艺人引退 AKB48前成员渡边麻友告别演艺圈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337880.md" target="_blank">英国7前外相吁政府成立国际小组 协调处理香港问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337868.md" target="_blank">中共病毒猖獗 亚美尼亚总理全家染疫</a></li>
 
 </ul>
 </div>
