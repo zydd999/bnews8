@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337219.md">人大闭幕出大事？堪比胡锦涛当年流泪(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337215.md">美制裁港版国安法后 中共的首波报复来了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337393.md">李克强勇敢挑战习近平？犹如投下一个超级核弹！“川普或放弃与习近平私交”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337178.md">北京哀鸣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337214.md">中共病毒正在失去毒性 新感染者几乎无症状(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337471.md">党媒认怂 暗批习近平误判？ 川普在香港一举领外企撤资 不作不死 中共官员要留后路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337256.md">火爆了！李克强竟一天三次对习近平表不满？(图)</a></li>
@@ -16,14 +15,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337588.md">李克强两会讲话视频被删除 中南海发生什么情况？中南海谣言预言_201</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337185.md">跟川普讲话有关? 中共急撤留美学生(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337255.md">川普制裁中共！蓬佩奥目标明确：全都因中国共产党...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337267.md">【微博精粹】李克强放超级核弹 配合川普内外夹击 习总大事不妙 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200531/1337261.md">大清算名单 港高官持国外物业拥外国国籍(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337615.md" target="_blank">孟晚舟小姐落难记(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md" target="_blank">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337613.md" target="_blank">外媒：中共“大国战疫”背后 百姓在绝望中死去</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337611.md" target="_blank">枪口两端的六四记忆：当解放军与受难者在台湾相遇(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337604.md" target="_blank">武汉人起诉当局隐瞒疫情遭打压  陈光诚：加入全球诉讼 讨伐中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337597.md" target="_blank">川普谈中国问题 我们正在见证历史转折(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337596.md" target="_blank">全球民间团体悼“六四”倡议书 吁世界齐抗中共“无声侵略”(图)</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337436.md" target="_blank">三品官每天吃什么饭食都有定数 人生被安排 真实不虚</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337428.md" target="_blank">转发“一人一信救香港”信息 肖育辉等多名大陆网友被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337426.md" target="_blank">疫情趋缓 日拟7月分阶段松绑4国入境管制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md" target="_blank">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337414.md" target="_blank">颜丹：疫情下的失业危机以中国为最</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337407.md" target="_blank">勇气的核心 是对“这些事”的回应(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337394.md" target="_blank">全美25城市宵禁 洛城市长呼吁抗议不要演变成暴力与破坏</a></li>
 
 </ul>
 </div>
