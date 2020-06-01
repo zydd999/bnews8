@@ -13,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337840.md">中印边界惊人一幕和港警对比强烈 成龙名单造假仅6字作回应 港版国安法报告新增10字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338099.md" target="_blank">专栏 | 夜话中南海：没有美国背书，台湾即使“法理台独”也不会招致“武统”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338096.md" target="_blank">“被砍医生”陶勇复工记 诊室外新增逃生通道(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338090.md" target="_blank">重庆军嫂唐云淑被恶人毒打 非法拘禁14天(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338032.md" target="_blank">疫情未息边界不宁香港生波 中共陷多重外交争端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338017.md" target="_blank">陈破空：陈破空谈《常识》（之54）：中国反腐，为何越反越腐？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md" target="_blank">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337745.md" target="_blank">中共利用美非裔之死抹黑美国 蓬佩奥回应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337737.md" target="_blank">港版国安法 一文看懂国安3大机构 有一个是习近平直接领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337725.md" target="_blank">川普对中共讲话释放何种重大信号 专家解释(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md" target="_blank">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337705.md" target="_blank">内斗加剧？江绵恒马仔频受访就病毒来源改口、喊冤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md" target="_blank">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338103.md" target="_blank">为何美国抗议警察暴力骚乱不断  中国网友在微博爆出真相</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338102.md" target="_blank">港四大天王不撑「国安法」  连署名单惊现已故三位巨星</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338098.md" target="_blank">财经冷眼：二战重演？德国叛美投共 川普建反共联盟</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338095.md" target="_blank">人类是造物主的杰作？若不是，人类为何制造不出它？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338085.md" target="_blank">蓬佩奥批中共：坏事清单太长 更具侵略性 抹黑美国转移视线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338079.md" target="_blank">普京宣布俄宪法修正案全民公投日    欲再独揽大权16年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338056.md" target="_blank">前纽约市长：我当市长不会让骚乱发生 民主党领袖太无能</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337868.md" target="_blank">中共病毒猖獗 亚美尼亚总理全家染疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md" target="_blank">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337843.md" target="_blank">川普国安顾问：中伊等政权借明州暴力事件抹黑美国不会得逞</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337842.md" target="_blank">民调：逾六成港人反对中共绕过立法会为香港立法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337836.md" target="_blank">六四31周年 天安门母亲无法参加集体祭拜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337835.md" target="_blank">退隐40年后 山口百惠600首歌曲终解禁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337834.md" target="_blank">凉拌五彩莲藕 清爽开胃 滋补佳珍</a></li>
 
 </ul>
 </div>
