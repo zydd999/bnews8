@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338134.md" target="_blank">英国可能改变初衷 加入美国阵营限制中国华为5G</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md" target="_blank">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338124.md" target="_blank">文昭：美国、香港街头「乱」；这里的乱和那里的乱，有何分别</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md" target="_blank">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337838.md" target="_blank">广州再现毒奶粉丑闻 60名受害儿童家长维权(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337828.md" target="_blank">飞船上天了 地价也上天了 网友：差别咋这么大呢？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337813.md" target="_blank">丁仲礼卸任中科院副院长 曾舌战央视主持柴静(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md" target="_blank">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338133.md" target="_blank">香港变色 维园”64 “烛光守夜遭禁   英议会外委会主席：将重设英中关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338107.md" target="_blank">“Eascy” 时代的逍遥出行，不再需驾照和私家车了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338103.md" target="_blank">为何美国抗议警察暴力骚乱不断  中国网友在微博爆出真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338102.md" target="_blank">港四大天王不撑「国安法」  连署名单惊现已故三位巨星</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337895.md" target="_blank">又一日本艺人引退 AKB48前成员渡边麻友告别演艺圈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337880.md" target="_blank">英国7前外相吁政府成立国际小组 协调处理香港问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337868.md" target="_blank">中共病毒猖獗 亚美尼亚总理全家染疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md" target="_blank">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 
 </ul>
 </div>
