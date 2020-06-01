@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337920.md">“习近平完全没招 现在都傻眼了” 中南海被打懵党媒一片寂静 共青团中央反美玩翻车了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337921.md">"习近平最怕这招 剩下的中国人包了" 李克强出头 习近平灭火</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338079.md" target="_blank">普京宣布俄宪法修正案全民公投日    欲再独揽大权16年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338056.md" target="_blank">前纽约市长：我当市长不会让骚乱发生 民主党领袖太无能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338048.md" target="_blank">这2个生肖做夫妻，有钱有福，甜甜蜜蜜一辈子！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338043.md" target="_blank">疫情未息边界不宁香港生波 中国陷多重外交争端(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337835.md" target="_blank">退隐40年后 山口百惠600首歌曲终解禁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337834.md" target="_blank">凉拌五彩莲藕 清爽开胃 滋补佳珍</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337825.md" target="_blank">视频：中印边境对峙后 中共军队转身撤走</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337819.md" target="_blank">视频：印度增兵中印边境拉达克地区 中印双方陆海空军同时对峙</a></li>
 
 </ul>
 </div>
