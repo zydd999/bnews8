@@ -6,9 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337471.md">党媒认怂 暗批习近平误判？ 川普在香港一举领外企撤资 不作不死 中共官员要留后路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337457.md">中印边境再冲突 中共军人遭拳打脚踢被带走(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337588.md">李克强两会讲话视频被删除 中南海发生什么情况？中南海谣言预言_201</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337347.md">借美明州事件挑衅 华春莹被网民集体打脸(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
@@ -18,13 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200531/1337372.md">默克尔婉拒后 特朗普延期举办G7 欲广邀习近平受邀否?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337562.md">不只徐熙媛！率2605人挺港版国安法挨轰 成龙6字回应 (组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337781.md" target="_blank">再割韭菜！摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337760.md" target="_blank">武汉封城日 19年前同一天中国出大事(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337745.md" target="_blank">中共利用美非裔之死抹黑美国 蓬佩奥回应(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337737.md" target="_blank">港版国安法 一文看懂国安3大机构 有一个是习近平直接领导(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337623.md" target="_blank">央视宣传《炮击金门》 解放军“丑闻”反遭起底(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337621.md" target="_blank">曾庆红被举报？传团派大佬举报大批中央大官 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md" target="_blank">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337608.md" target="_blank">“从娃娃抓起” 中共对学生家长洗脑新骗术</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337803.md" target="_blank">川普拟建民主十国反共联盟 三大动作重塑世界格局 G7将变G11 蓬佩奥：川普总统已做好准备应对中共入侵 中共官媒承认中方误判形势：川普已发冷战宣战书</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337800.md" target="_blank">香港艺文界逾2600人为国安法站台 遭质疑「造假」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337761.md" target="_blank">苦胆：顶层设计 还是顶层设“计”？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337755.md" target="_blank">巴黎圣母院前厅重新开放 火劫后的大教堂风采是否依然？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337754.md" target="_blank">妈妈何时失守过？ 狐狸吓得屁滚尿流 落荒而逃</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337653.md" target="_blank">沈舟：太空技术甩中共10条街 川普不动太空军即可击垮苏联小弟(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337652.md" target="_blank">二大爷：川普谈中国问题 我们正在见证历史转折 新闻越短 事情越大(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337651.md" target="_blank">焚书观天下：美国骚乱 骚胜于乱！粉红们高兴早了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337638.md" target="_blank">神奇！餐点加点“它” 胆固醇数值下降了(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337615.md" target="_blank">孟晚舟小姐落难记(图)</a></li>
 
 </ul>
 </div>
