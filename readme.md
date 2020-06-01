@@ -7,21 +7,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337457.md">中印边境再冲突 中共军人遭拳打脚踢被带走(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337588.md">李克强两会讲话视频被删除 中南海发生什么情况？中南海谣言预言_201</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337347.md">借美明州事件挑衅 华春莹被网民集体打脸(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337513.md">美杜绝此事 李嘉诚首当其冲 华春莹翻墙发推遭洗版轰翻 中共突派临时航班到美捞人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337420.md">陆媒承认中方曾误判形势:川普已发冷战宣战书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337458.md">华为噩梦连连 5G计划或破产 求生存难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531) </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337425.md">美丽的风景线？这次中共团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337530.md">从京圈太子妃到“一指禅”丑闻 白百何没你想的那么简单(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337374.md">四川和山东发生地震</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337422.md">“太极大师”后继有人 徒弟“千斤王”只撑9秒遭KO(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337492.md">靠“摆地摊”恢复就业中国经济彻底完了？(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200531/1337306.md">美杜绝“香港身份”偷技术 李嘉诚首当其冲(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200531/1337372.md">默克尔婉拒后 特朗普延期举办G7 欲广邀习近平受邀否?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200601/1337578.md">〖兲朝浮世绘〗你上你的天 我摆我的摊儿</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200531/1337372.md">默克尔婉拒后 特朗普延期举办G7 欲广邀习近平受邀否?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337466.md">38军退伍军人传国家文件引发恐慌 国保抄家暴打绑架(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337562.md">不只徐熙媛！率2605人挺港版国安法挨轰 成龙6字回应 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200531/1337396.md">视频：中印对峙 网传解放军士兵遭印军围殴头破血流军车被破坏</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337737.md" target="_blank">港版国安法 一文看懂国安3大机构 有一个是习近平直接领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337725.md" target="_blank">川普对中共讲话释放何种重大信号 专家解释(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md" target="_blank">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337705.md" target="_blank">内斗加剧？江绵恒马仔频受访就病毒来源改口、喊冤(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337608.md" target="_blank">“从娃娃抓起” 中共对学生家长洗脑新骗术</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337607.md" target="_blank">广州10家医院涉假奶粉事件 60儿童受害(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337593.md" target="_blank">天亮时分：习近平与彭丽媛分居,与李克强矛盾公开化?美国骚乱背后的组织者(政论天下第175集 20200531)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337589.md" target="_blank">陈破空：习近平渴望一场战争？共军入侵印度遭生俘！警察倒着读党报。美国民众抗议升级</a></li>
 
 </ul>
 </div>
