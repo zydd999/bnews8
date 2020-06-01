@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337920.md">“习近平完全没招 现在都傻眼了” 中南海被打懵党媒一片寂静 共青团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337921.md">"习近平最怕这招 剩下的中国人包了" 李克强出头 习近平灭火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
@@ -18,8 +18,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337606.md">周日快报惊曝：英国5年内可能正式承认台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338142.md" target="_blank">四川泸州业主集体抗议豆腐渣工程 遭警察抓捕殴打(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338134.md" target="_blank">英国可能改变初衷 加入美国阵营限制中国华为5G</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md" target="_blank">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338124.md" target="_blank">文昭：美国、香港街头「乱」；这里的乱和那里的乱，有何分别</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337841.md" target="_blank">生意惨淡 传武汉江岸区出租车司机罢工(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337838.md" target="_blank">广州再现毒奶粉丑闻 60名受害儿童家长维权(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337828.md" target="_blank">飞船上天了 地价也上天了 网友：差别咋这么大呢？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337813.md" target="_blank">丁仲礼卸任中科院副院长 曾舌战央视主持柴静(组图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338148.md" target="_blank">弗洛伊德家人呼吁：停止暴力和骚乱</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338147.md" target="_blank">传中共暂停购买美农产品 分析：贸易协议不再对川普构成牵制</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338145.md" target="_blank">瑞典「送美」不「送中」 中共红通犯乔建军被引渡到美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338144.md" target="_blank">中芯国际挖角台湾格芯前中国区总经理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338139.md" target="_blank">网易赴香港二次上市 美中加速脱钩 更多中企或赴港募资</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338138.md" target="_blank">轰中国“暴政” 英国会外委会主席∶应重新思考与中伙伴关系(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338137.md" target="_blank">华日：中国经济刚复苏即出现停滞</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338016.md" target="_blank">美参议员本周提议案 将给反共香港人自动提供庇护</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337989.md" target="_blank">【林忌评论】香港成为新冷战最前线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337987.md" target="_blank">凉拌绿豆拉皮 酸辣爽口又筋斗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337984.md" target="_blank">唯色RFA博客:如果你想见识洗脑术的话……</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337983.md" target="_blank">评论 | 林保华：栗战书下战书，习近平被禁评？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337952.md" target="_blank">田馥甄《悬日》MV上线  邀许光汉飙演技大考验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337917.md" target="_blank">评论 | 胡平：纪念“六四”31周年</a></li>
 
 </ul>
 </div>
