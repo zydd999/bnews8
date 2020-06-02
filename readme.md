@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337840.md">中印边界惊人一幕和港警对比强烈 成龙名单造假仅6字作回应 港版国安法报告新增10字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338278.md" target="_blank">立即行动制止暴力 川普：将为保护你们而战(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338277.md" target="_blank">白宫国安顾问：Antifa在美国发动暴乱 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338276.md" target="_blank">冲上热搜 钟南山张文宏谈疫情再受瞩目(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338264.md" target="_blank">震惊 年发4.5亿条假信息 中共五毛遭西方学者起底(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338247.md" target="_blank">中共战狼式外交在“前线战场”四处碰壁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338204.md" target="_blank">吉林下“六月雪” 疫情重灾区居民跳楼自杀(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338190.md" target="_blank">陕西53名学生不明原因发高烧 官方如此回复(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337931.md" target="_blank">从《中国国安法》看立法争议和港人担忧何在</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337928.md" target="_blank">微博疯传美国暴动照现中共党旗 造假被拆穿(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337919.md" target="_blank">国际社会为港发声有理有据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md" target="_blank">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md" target="_blank">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md" target="_blank">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337856.md" target="_blank">川普建11国反共联盟 德国“叛美投共”(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338265.md" target="_blank">冯朝：党媒头版惊现“行走绝壁” 习近平放旁边 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338253.md" target="_blank">美国爆“骚乱” 中共反美宣传狂热登场 背后水太深？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338251.md" target="_blank">袁斌：美丽的风景线？团中央官博幸灾乐祸遭轰(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338245.md" target="_blank">核酸检测 压到自己肩上才体会到沉重如山(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338145.md" target="_blank">瑞典「送美」不「送中」 中共红通犯乔建军被引渡到美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338144.md" target="_blank">中芯国际挖角台湾格芯前中国区总经理</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338139.md" target="_blank">网易赴香港二次上市 美中加速脱钩 更多中企或赴港募资</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338138.md" target="_blank">轰中国“暴政” 英国会外委会主席∶应重新思考与中伙伴关系(图)</a></li>
 
 </ul>
 </div>
