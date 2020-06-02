@@ -5,26 +5,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337920.md">“习近平完全没招 现在都傻眼了” 中南海被打懵党媒一片寂静 共青团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337921.md">"习近平最怕这招 剩下的中国人包了" 李克强出头 习近平灭火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338246.md">美国全面退出WHO断金援 谭德塞开始盛赞美国...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338123.md">中国人参与美骚乱 白宫外蒙面暴徒普通话沟通(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338340.md">习近平、李克强又不合? 中共官媒刊文灭火李克强「半数人口低收入说」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338175.md">文昭：习近平「回击」李克强，北京两个司令部因「小康」互掐；英国五年之内承认台湾？-1 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338340.md">习近平、李克强又不合? 中共官媒刊文灭火李克强「半数人口低收入说」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338155.md">川普对全国演说：停止暴乱 否则动用军队终止暴乱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338280.md">中印边境冲突升级！印度增兵图/(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338155.md">川普对全国演说：停止暴乱 否则动用军队终止暴乱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338048.md">这2个生肖做夫妻，有钱有福，甜甜蜜蜜一辈子！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338419.md">李克强打碎中国梦被王沪宁打 再反击习近平 勇气何来？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200601/1337999.md">美国政府消息人士：美中贸易协定让特朗普陷入两难境地</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337928.md">微博疯传美国暴动照现中共党旗 造假被拆穿(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200601/1337925.md">独！川普宣布制裁中国六大措施！两岸情势！台海3年内可能开战？！央视播「金门炮战」纪录片强调统一？！罢免最後激战！北漂青年成关键！？【年代向钱看】20200601</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338419.md">李克强打碎中国梦被王沪宁打 再反击习近平 勇气何来？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200602/1338109.md">特朗普与普京通话讨论“扩大版”G7峰会 俄罗斯称具有“建设性”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338403.md">新华社主持人被爆当小三 捞千万称"真爱"拒还钱(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338453.md" target="_blank">科学家发现平行宇宙存在的证据</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338452.md" target="_blank">新西兰海滩惊变红色 海生物专家道出原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338434.md" target="_blank">林保华：一剑封喉！美国制裁中港的两大焦点(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338430.md" target="_blank">“12种用餐习惯”暴露了你的真实性格(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338411.md" target="_blank">香港考虑移民人数再创新高 分析指「国安法引发信心危机」</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338296.md" target="_blank">美国暴乱VS香港抗议：有些项目看起来一样，可是结果相差太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338295.md" target="_blank">泥土宝宝？ 厚厚的泥土下拉出来个婴儿 还活着！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338284.md" target="_blank">中国人做梦太久？李克强一句实话像投下超级核弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338283.md" target="_blank">「原来是兄弟啊」 小姿势绝对融化人心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338282.md" target="_blank">完全怪异 水下「尘埃魔鬼」 看旋转的「海底龙卷风」</a></li>
 
 </ul>
 </div>
