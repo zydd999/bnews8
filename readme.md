@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338048.md">这2个生肖做夫妻，有钱有福，甜甜蜜蜜一辈子！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337887.md">中国人常吃的阿莫西林 正在引起一场灾难</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
