@@ -15,7 +15,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338340.md">习近平、李克强又不合? 中共官媒刊文灭火李克强「半数人口低收入说」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338410.md">连提几次习近平 湖北省长王晓东两会露面：满头白发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338280.md">中印边境冲突升级！印度增兵图/(视频)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338431.md">中共国家队维稳金股汇三路异动 中国法拍房数量激增深圳现断供潮 香港财阀用脚投票！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338339.md">支持中共「港版国安法」 10国盟友出列表态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338313.md">中国人做梦太久？李克强一句实话像投下超级核弹(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338425.md">小孩吵架 长沙女师遭家长狂殴 被撕内衣踢下体</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338642.md" target="_blank">评论 | 滕彪：六四屠杀与中国的高科技极权主义</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338641.md" target="_blank">评论 | 陈光诚：决不容忍共产专制毁掉香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338626.md" target="_blank">前Antifa成员：Antifa只在为失败的左派社会主义意识形态而战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338625.md" target="_blank">俄北极圈内最大城市唯一铁路桥倒塌 与外界联系中断</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338624.md" target="_blank">2020年太难了 黄石火山附近出现异常 会爆发吗</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338409.md" target="_blank">让获利水涨船高的“咖啡园存股法”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338408.md" target="_blank">新闻双响炮:中共“战狼式外交”又挨骂?  中共大使被约谈,驻英大使刘晓明解读“战狼”,王毅现场&quot;纠正&quot;CNN｜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338402.md" target="_blank">壮年命陨！宝莱坞知名作曲家瓦吉德汗死于中共病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338401.md" target="_blank">素炒什锦木须</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338393.md" target="_blank">北京逼迫全港表态 大学校长立场有别 学者：对国安法无共识</a></li>
 
 </ul>
 </div>
