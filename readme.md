@@ -10,9 +10,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337612.md">美国暴动中共有偷介入？网曝煽动关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337687.md">李克强曝6亿人月入千元 党媒刊习旧文灭火(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337614.md">火大！知情人爆：赵乐际窜到地方怒斥官员 还泄“秘密”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337840.md">中印边界惊人一幕和港警对比强烈 成龙名单造假仅6字作回应 港版国安法报告新增10字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
@@ -20,11 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337616.md">传说这五个人一出现 地上就会发生大瘟疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337661.md">倒看报纸开心？武警宣传照被抓包 官方急下架(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338171.md" target="_blank">二大爷：美国之殇：黑人问题何以屡屡成祸？骚乱背后推翻川普阴谋浮现</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md" target="_blank">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338165.md" target="_blank">世界最美「天空之镜」台湾上榜 大陆地面铺镜子 山寨版惨不忍睹</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338148.md" target="_blank">弗洛伊德家人呼吁：停止暴力和骚乱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338147.md" target="_blank">传中共暂停购买美农产品 分析：贸易协议不再对川普构成牵制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338145.md" target="_blank">瑞典「送美」不「送中」 中共红通犯乔建军被引渡到美国</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338040.md" target="_blank">千钧一发之际！4名勇敢男孩营救了被水流拖走的小女孩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338030.md" target="_blank">科学家大胆猜测：只要它一直存在，地球文明或能实现永生？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338029.md" target="_blank">《三个傻瓜》&quot;蓝丘&quot;原型点破疫毒迷局：删掉抖音！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338016.md" target="_blank">美参议员本周提议案 将给反共香港人自动提供庇护</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337989.md" target="_blank">【林忌评论】香港成为新冷战最前线</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337987.md" target="_blank">凉拌绿豆拉皮 酸辣爽口又筋斗</a></li>
 
 </ul>
 </div>
