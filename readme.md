@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337620.md">两会怪事 海南副省长辞人大常委表决 闹得全场哄笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337920.md">“习近平完全没招 现在都傻眼了” 中南海被打懵党媒一片寂静 共青团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337921.md">"习近平最怕这招 剩下的中国人包了" 李克强出头 习近平灭火</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337661.md">倒看报纸开心？武警宣传照被抓包 官方急下架(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338175.md" target="_blank">文昭：习近平「回击」李克强，北京两个司令部因「小康」互掐；英国五年之内承认台湾？-1</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338142.md" target="_blank">四川泸州业主集体抗议豆腐渣工程 遭警察抓捕殴打(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338134.md" target="_blank">英国可能改变初衷 加入美国阵营限制中国华为5G</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md" target="_blank">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md" target="_blank">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337841.md" target="_blank">生意惨淡 传武汉江岸区出租车司机罢工(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337838.md" target="_blank">广州再现毒奶粉丑闻 60名受害儿童家长维权(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337828.md" target="_blank">飞船上天了 地价也上天了 网友：差别咋这么大呢？(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338189.md" target="_blank">中共两会后首虎  新疆女副主席任华落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338188.md" target="_blank">川普告诉州长 暴乱分子是无政府主义者 对他们要强硬</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338187.md" target="_blank">“台儿庄战役”最后的指挥官 中共建政后的悲惨人生 家破人亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338183.md" target="_blank">林傲霜：台湾也出了个“姚文元”——中共驻台“党代表”邱毅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338171.md" target="_blank">二大爷：美国之殇：黑人问题何以屡屡成祸？骚乱背后推翻川普阴谋浮现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md" target="_blank">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338165.md" target="_blank">世界最美「天空之镜」台湾上榜 大陆地面铺镜子 山寨版惨不忍睹</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338079.md" target="_blank">普京宣布俄宪法修正案全民公投日    欲再独揽大权16年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338056.md" target="_blank">前纽约市长：我当市长不会让骚乱发生 民主党领袖太无能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338048.md" target="_blank">这2个生肖做夫妻，有钱有福，甜甜蜜蜜一辈子！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338043.md" target="_blank">疫情未息边界不宁香港生波 中国陷多重外交争端(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338040.md" target="_blank">千钧一发之际！4名勇敢男孩营救了被水流拖走的小女孩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338030.md" target="_blank">科学家大胆猜测：只要它一直存在，地球文明或能实现永生？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338029.md" target="_blank">《三个傻瓜》&quot;蓝丘&quot;原型点破疫毒迷局：删掉抖音！</a></li>
 
 </ul>
 </div>
