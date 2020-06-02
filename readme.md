@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338246.md">美国全面退出WHO断金援 谭德塞开始盛赞美国...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338123.md">中国人参与美骚乱 白宫外蒙面暴徒普通话沟通(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338246.md">美国全面退出WHO断金援 谭德塞开始盛赞美国...(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338175.md">文昭：习近平「回击」李克强，北京两个司令部因「小康」互掐；英国五年之内承认台湾？-1 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338155.md">川普对全国演说：停止暴乱 否则动用军队终止暴乱(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200601/1337887.md">中国人常吃的阿莫西林 正在引起一场灾难</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338410.md" target="_blank">连提几次习近平 湖北省长王晓东两会露面：满头白发(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338405.md" target="_blank">中共利用美暴力抗议混淆视听 纽约华人驳斥(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338404.md" target="_blank">厉害了 中共武警这样看报 宣传照被抓包遭急删(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338403.md" target="_blank">新华社主持人被爆当小三 捞千万称&#8221;真爱&#8221;拒还钱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338386.md" target="_blank">复旦硕士谭华打毒疫苗致残 进京看病遭拘捕(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338385.md" target="_blank">北京布局控制香港 从富豪下手拉拢支持国安法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338384.md" target="_blank">武汉华南海鲜市场检测的秘密(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338204.md" target="_blank">吉林下“六月雪” 疫情重灾区居民跳楼自杀(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338190.md" target="_blank">陕西53名学生不明原因发高烧 官方如此回复(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338175.md" target="_blank">文昭：习近平「回击」李克强，北京两个司令部因「小康」互掐；英国五年之内承认台湾？-1</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md" target="_blank">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338142.md" target="_blank">四川泸州业主集体抗议豆腐渣工程 遭警察抓捕殴打(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338134.md" target="_blank">英国可能改变初衷 加入美国阵营限制中国华为5G</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md" target="_blank">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338409.md" target="_blank">让获利水涨船高的“咖啡园存股法”(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338408.md" target="_blank">新闻双响炮:中共“战狼式外交”又挨骂?  中共大使被约谈,驻英大使刘晓明解读“战狼”,王毅现场&quot;纠正&quot;CNN｜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338402.md" target="_blank">壮年命陨！宝莱坞知名作曲家瓦吉德汗死于中共病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338401.md" target="_blank">素炒什锦木须</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338393.md" target="_blank">北京逼迫全港表态 大学校长立场有别 学者：对国安法无共识</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338265.md" target="_blank">冯朝：党媒头版惊现“行走绝壁” 习近平放旁边 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338253.md" target="_blank">美国爆“骚乱” 中共反美宣传狂热登场 背后水太深？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338251.md" target="_blank">袁斌：美丽的风景线？团中央官博幸灾乐祸遭轰(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338245.md" target="_blank">核酸检测 压到自己肩上才体会到沉重如山(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338233.md" target="_blank">钟原：中共对川普讲话的软弱回应(图)</a></li>
 
 </ul>
 </div>
