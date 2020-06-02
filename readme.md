@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338313.md">中国人做梦太久？李克强一句实话像投下超级核弹(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338425.md">小孩吵架 长沙女师遭家长狂殴 被撕内衣踢下体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338509.md">台海3个月会开战危言耸听?美台有3件大事！港人要变美国人了 华为干的!韩国大选惊爆作弊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338281.md">遗孀发声明反对美国设李文亮广场内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200603/1338575.md">18年李咏拉着哈文的手：别把我的遗体运回国(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338281.md">遗孀发声明反对美国设李文亮广场内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338264.md">震惊 年发4.5亿条假信息 中共五毛遭西方学者起底(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338668.md" target="_blank">维尼小熊不寂寞 ｜雷人咖啡?? 第三集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338654.md" target="_blank">陈破空：听众热线：陈破空激辩亲共人士！港版国安法，与国安有关系吗？习近平一己之私</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338603.md" target="_blank">李文亮同事 武汉医生胡卫锋治疗无效离世(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338595.md" target="_blank">陈破空：陈破空说段子：习近平购买山西白桃，意外收获</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338340.md" target="_blank">习近平、李克强又不合? 中共官媒刊文灭火李克强「半数人口低收入说」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338339.md" target="_blank">支持中共「港版国安法」 10国盟友出列表态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338330.md" target="_blank">东莞惊现「龙吸水」强风暴雨闪电8000次(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338329.md" target="_blank">张文宏：秋冬肯定会出现第二波疫情(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338667.md" target="_blank">央视捧杀李克强？地摊业主日入三万引质疑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338666.md" target="_blank">习近平设海南自由贸易港取代香港？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338660.md" target="_blank">华日：中国经济比表面看更糟糕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338659.md" target="_blank">中芯国际重回中国A股上市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338650.md" target="_blank">德媒：同是街头抗议 香港与明尼苏达大不同</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338477.md" target="_blank">时事大家谈：“六四”31年后，中国走向“高科技极权主义”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338474.md" target="_blank">【梁京评论】美中强人翻脸，激发全球动荡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338453.md" target="_blank">科学家发现平行宇宙存在的证据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338452.md" target="_blank">新西兰海滩惊变红色 海生物专家道出原因</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338434.md" target="_blank">林保华：一剑封喉！美国制裁中港的两大焦点(图)</a></li>
 
 </ul>
 </div>
