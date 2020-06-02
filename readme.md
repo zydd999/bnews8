@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200601/1337677.md">央视名嘴朱军深陷丑闻风波 如今与妻子双双落水 只怕再难翻身(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337661.md">倒看报纸开心？武警宣传照被抓包 官方急下架(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338222.md" target="_blank">颜纯钩：美国骚乱不影响制裁中共 五毛自嗨不知死期已近</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338221.md" target="_blank">中国传统武术为何频遭尴尬事件(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338217.md" target="_blank">美国骚乱不影响制裁中共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338210.md" target="_blank">林保华：6月6日断韩时 高雄诺曼底反攻日(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338209.md" target="_blank">印度《三个傻瓜》主角原型：一起删抖音 不给中共钱 粉丝响应(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338208.md" target="_blank">国安法通过后 港六四烛光晚会首被禁 变阵遍地开花悼念(图)</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338107.md" target="_blank">“Eascy” 时代的逍遥出行，不再需驾照和私家车了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338103.md" target="_blank">为何美国抗议警察暴力骚乱不断  中国网友在微博爆出真相</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338102.md" target="_blank">港四大天王不撑「国安法」  连署名单惊现已故三位巨星</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338098.md" target="_blank">财经冷眼：二战重演？德国叛美投共 川普建反共联盟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338095.md" target="_blank">人类是造物主的杰作？若不是，人类为何制造不出它？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338085.md" target="_blank">蓬佩奥批中共：坏事清单太长 更具侵略性 抹黑美国转移视线</a></li>
 
 </ul>
 </div>
