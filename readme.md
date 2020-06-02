@@ -11,19 +11,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337840.md">中印边界惊人一幕和港警对比强烈 成龙名单造假仅6字作回应 港版国安法报告新增10字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337715.md">传团派大佬举报大批中央大官 贪腐数目惊人 只一人落马(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338123.md">中国人参与美骚乱 白宫外蒙面暴徒普通话沟通(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338123.md">中国人参与美骚乱 白宫外蒙面暴徒普通话沟通(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337752.md">美国大暴乱： 你身边的所有麻烦 都来自于左派思想(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338305.md" target="_blank">刚果出现新的埃博拉病毒感染群</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338296.md" target="_blank">美国暴乱VS香港抗议：有些项目看起来一样，可是结果相差太多了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338295.md" target="_blank">泥土宝宝？ 厚厚的泥土下拉出来个婴儿 还活着！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338284.md" target="_blank">中国人做梦太久？李克强一句实话像投下超级核弹</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338183.md" target="_blank">林傲霜：台湾也出了个“姚文元”——中共驻台“党代表”邱毅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338171.md" target="_blank">二大爷：美国之殇：黑人问题何以屡屡成祸？骚乱背后推翻川普阴谋浮现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md" target="_blank">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338165.md" target="_blank">世界最美「天空之镜」台湾上榜 大陆地面铺镜子 山寨版惨不忍睹</a></li>
 
 </ul>
 </div>
