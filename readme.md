@@ -7,11 +7,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337921.md">"习近平最怕这招 剩下的中国人包了" 李克强出头 习近平灭火</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337840.md">中印边界惊人一幕和港警对比强烈 成龙名单造假仅6字作回应 港版国安法报告新增10字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
@@ -19,12 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337941.md">中共煽动美国暴动？微博现原形 华春莹遭狂轰（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337833.md">抗癌神药问世！科学家：可治疗多种晚期癌症(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338246.md">美国全面退出WHO断金援 谭德塞开始盛赞美国...(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338378.md" target="_blank">新疆女“老虎”落马 曾是栗智及白克力下属</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338373.md" target="_blank">中共想藉美暴动洗风向 学者：恶心(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338359.md" target="_blank">蓬佩奥：考虑欢迎香港人来美 参众议员提庇护选项(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338344.md" target="_blank">川普对中共全面出击 专家：中共无招(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338343.md" target="_blank">江峰：深度分析：川普宣布恐组的Antifa背後的中共身影； 美国内大乱与中共後疫情战略； 香港反送中的示威者与警察与美国究竟有什麽不同？</a></li>
@@ -56,14 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338124.md" target="_blank">文昭：美国、香港街头「乱」；这里的乱和那里的乱，有何分别</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md" target="_blank">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338111.md" target="_blank">中共红通犯乔建军从瑞典被引渡到美国受审(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338110.md" target="_blank">中共两会严控 南京访民被抓 儿子跳江自杀(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338099.md" target="_blank">专栏 | 夜话中南海：没有美国背书，台湾即使“法理台独”也不会招致“武统”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md" target="_blank">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338334.md" target="_blank">美军报告称蔡英文为台湾总统 点台海情势(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338246.md" target="_blank">美国全面退出WHO断金援 谭德塞开始盛赞美国&#8230;(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md" target="_blank">又是华为！因这事 文在寅现在头都大了(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337255.md" target="_blank">川普制裁中共！蓬佩奥目标明确：全都因中国共产党&#8230;(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337218.md" target="_blank">失业严重 中共被迫默许小商贩街边摆摊(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200531/1337132.md" target="_blank">SpaceX载人太空船顺利升空 美国9年来首次(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200530/1337051.md" target="_blank">川普对中共发出开战宣言 北京国际金融紧缩开始了 专家：致命打击股市楼市</a></li>
 
 </ul>
 </div>
