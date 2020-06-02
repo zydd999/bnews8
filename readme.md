@@ -2,20 +2,18 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337694.md">中共军人被印军俘获扔胯下 喊救命战友不理 党媒沉默(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337848.md">消息：中南海错判时局陷恐慌 密集开会寻对策(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337920.md">“习近平完全没招 现在都傻眼了” 中南海被打懵党媒一片寂静 共青团中央反美玩翻车了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337921.md">"习近平最怕这招 剩下的中国人包了" 李克强出头 习近平灭火</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337692.md">党媒别瞎激动 美国黑人之死与示威暴乱的真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337847.md">赵乐际效命江泽民？消息人士爆高层秘密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337893.md">“习近平压力很大 现在来真的了" 香港的中共现金牛角色多重？ 两难！中国经济抉择没法选</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337808.md">病毒复发？关键时刻 默克尔出卖数百万港人 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337840.md">中印边界惊人一幕和港警对比强烈 成龙名单造假仅6字作回应 港版国安法报告新增10字</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337874.md">中印双方陆海空军同时对峙 战争恐一触即发(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200602/1338031.md">狼真来了&#65306;发动香港事变一尊终被重视 美国台湾这回真怕了习近平</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337812.md">蓬佩奥：下世纪不会有中共的统治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337811.md">再割韭菜！大陆摊位费从每月20元暴涨到每月3000元(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337873.md">曾力挺任志强 传前中央党校教授蔡霞去美国了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200601/1337863.md">“爱国情怀”失效？战狼吴京微博遭4千负评灌爆(组图)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200601/1337727.md">多米诺骨牌效应：中共6万亿美元将打水漂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200601/1337844.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338123.md">中国人参与美骚乱 白宫外蒙面暴徒普通话沟通(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200601/1337752.md">美国大暴乱： 你身边的所有麻烦 都来自于左派思想(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338296.md" target="_blank">美国暴乱VS香港抗议：有些项目看起来一样，可是结果相差太多了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338295.md" target="_blank">泥土宝宝？ 厚厚的泥土下拉出来个婴儿 还活着！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338284.md" target="_blank">中国人做梦太久？李克强一句实话像投下超级核弹</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338283.md" target="_blank">「原来是兄弟啊」 小姿势绝对融化人心</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338282.md" target="_blank">完全怪异 水下「尘埃魔鬼」 看旋转的「海底龙卷风」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338265.md" target="_blank">冯朝：党媒头版惊现“行走绝壁” 习近平放旁边 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338253.md" target="_blank">美国爆“骚乱” 中共反美宣传狂热登场 背后水太深？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338251.md" target="_blank">袁斌：美丽的风景线？团中央官博幸灾乐祸遭轰(图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338171.md" target="_blank">二大爷：美国之殇：黑人问题何以屡屡成祸？骚乱背后推翻川普阴谋浮现</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md" target="_blank">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338165.md" target="_blank">世界最美「天空之镜」台湾上榜 大陆地面铺镜子 山寨版惨不忍睹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338148.md" target="_blank">弗洛伊德家人呼吁：停止暴力和骚乱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338147.md" target="_blank">传中共暂停购买美农产品 分析：贸易协议不再对川普构成牵制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338145.md" target="_blank">瑞典「送美」不「送中」 中共红通犯乔建军被引渡到美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338144.md" target="_blank">中芯国际挖角台湾格芯前中国区总经理</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338139.md" target="_blank">网易赴香港二次上市 美中加速脱钩 更多中企或赴港募资</a></li>
 
 </ul>
 </div>
