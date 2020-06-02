@@ -2,19 +2,15 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338127.md">深圳上演弃房断供潮 大陆法拍房数量激增(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338419.md">李克强打碎中国梦被王沪宁打 再反击习近平 勇气何来？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338128.md">惨如武汉？网传吉林从楼上往下扔尸体(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338537.md">美国出大事 奥巴马女儿涉入？金主和背景都曝光了 纽约市长女儿被抓了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338403.md">新华社主持人被爆当小三 捞千万称"真爱"拒还钱(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338123.md">中国人参与美骚乱 白宫外蒙面暴徒普通话沟通(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338175.md">文昭：习近平「回击」李克强，北京两个司令部因「小康」互掐；英国五年之内承认台湾？-1 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338246.md">美国全面退出WHO断金援 谭德塞开始盛赞美国...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338444.md">中南海引发美国暴动？有件大事被忽略了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338170.md">美国乱局背后的斗争——恐怖组织Antifa的前世今生(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338203.md">又是华为！因这事 文在寅现在头都大了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338340.md">习近平、李克强又不合? 中共官媒刊文灭火李克强「半数人口低收入说」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338410.md">连提几次习近平 湖北省长王晓东两会露面：满头白发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338280.md">中印边境冲突升级！印度增兵图/(视频)</a></li>
@@ -25,6 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338339.md">支持中共「港版国安法」 10国盟友出列表态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338313.md">中国人做梦太久？李克强一句实话像投下超级核弹(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338425.md">小孩吵架 长沙女师遭家长狂殴 被撕内衣踢下体</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338509.md">台海3个月会开战危言耸听?美台有3件大事！港人要变美国人了 华为干的!韩国大选惊爆作弊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338281.md">遗孀发声明反对美国设李文亮广场内幕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338264.md">震惊 年发4.5亿条假信息 中共五毛遭西方学者起底(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200602/1338176.md">李克强说了一句实话 过了三四天还在发酵</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338654.md" target="_blank">陈破空：听众热线：陈破空激辩亲共人士！港版国安法，与国安有关系吗？习近平一己之私</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338603.md" target="_blank">李文亮同事 武汉医生胡卫锋治疗无效离世(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338595.md" target="_blank">陈破空：陈破空说段子：习近平购买山西白桃，意外收获</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338558.md" target="_blank">英外交大臣：中国可一意孤行 也可悬崖勒马</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338339.md" target="_blank">支持中共「港版国安法」 10国盟友出列表态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338330.md" target="_blank">东莞惊现「龙吸水」强风暴雨闪电8000次(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338329.md" target="_blank">张文宏：秋冬肯定会出现第二波疫情(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338313.md" target="_blank">中国人做梦太久？李克强一句实话像投下超级核弹(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338660.md" target="_blank">华日：中国经济比表面看更糟糕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338659.md" target="_blank">中芯国际重回中国A股上市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338650.md" target="_blank">德媒：同是街头抗议 香港与明尼苏达大不同</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338647.md" target="_blank">深圳楼市断供潮比预期来的更快！来的更早！！来的更猛！！！一个银行网点每月就有一两千个账号断供 中南海谣言预言_203</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338646.md" target="_blank">为上海书记夫人专设美容院 上海市委原常委王仲伟的白手套沈根林贪污腐败犯罪事实 中南海谣言预言_202</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338453.md" target="_blank">科学家发现平行宇宙存在的证据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338452.md" target="_blank">新西兰海滩惊变红色 海生物专家道出原因</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338434.md" target="_blank">林保华：一剑封喉！美国制裁中港的两大焦点(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338430.md" target="_blank">“12种用餐习惯”暴露了你的真实性格(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200602/1338411.md" target="_blank">香港考虑移民人数再创新高 分析指「国安法引发信心危机」</a></li>
 
 </ul>
 </div>
