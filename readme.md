@@ -17,8 +17,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338118.md">陈破空：习近平发文反攻李克强！亲共人士大赞美国飞船？英国决不坐视香港沦陷。美国抗议潮，胞弟发声 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200602/1338091.md">血栓大多是吃出来的 这四种食物一定要少吃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338280.md">中印边境冲突升级！印度增兵图/(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338410.md">连提几次习近平 湖北省长王晓东两会露面：满头白发(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338280.md">中印边境冲突升级！印度增兵图/(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200602/1338406.md">网曝中央党校教授蔡霞出走 发文批中共是人类公敌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338155.md">川普对全国演说：停止暴乱 否则动用军队终止暴乱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338404.md">厉害了 中共武警这样看报 宣传照被抓包遭急删(图)</a></li>
