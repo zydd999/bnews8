@@ -19,10 +19,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md">中国经济奥秘就1个字 中国经济起飞就靠地摊了!"每分钟40元印钞机水准”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338857.md">这才是真实的中国：1%的人穷奢极欲 50%的人生活艰辛(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338662.md">北京不许诋毁污蔑中医药 网民火气排山倒海</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338729.md">见证六四--弹药车开门后 一箱箱子弹从车上抬下来(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338686.md">强奸还是色诱？「沈崇事件」主角披露实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339187.md" target="_blank">美国对中共这东西发起调查 SpaceX都得用(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339186.md" target="_blank">继武汉后 这个城市也搞全民核酸检测(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339130.md" target="_blank">北京加强打压公民社会 中国与民主化越来越远</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1339113.md" target="_blank">六四伤残者与六四军人首次同台 枪口两端的记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md" target="_blank">孙大骆：为李克强大实话作证 （上）</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338911.md" target="_blank">官媒称摆地摊买豪车 网友却有另一种说法(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338879.md" target="_blank">沙尘袭击北京 多地区陷入严重污染(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338869.md" target="_blank">中印冲突再起 印度对中共的态度越加强硬(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338868.md" target="_blank">美国总统川普就暴乱的全国讲话(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338859.md" target="_blank">维吾尔人权法案正式送出美国国会 递交川普签署(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339195.md" target="_blank">评论 | 胡平：中共休要撒谎   国人不要上当 ——中共官媒是怎样在“一道亮丽的风景线”这一词汇上公然造谣撒谎的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339194.md" target="_blank">评论 | 何清涟：哀香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339184.md" target="_blank">忧港版天安门大屠杀 英加澳纽国会敦促联合国派人权特使驻港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339182.md" target="_blank">美国商务部对33家中企机构新制裁5日生效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339181.md" target="_blank">专家：没有安全就没有投资 平定骚乱和重建需要坚定执法</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338994.md" target="_blank">【华府看天下】美国与香港反警暴抗争的差异与共鸣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338992.md" target="_blank">台湾7月迈向5G新纪元 中华电信拔得头筹提供全新体验</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338991.md" target="_blank">无国界记者：六四31年后中共仍是新闻自由的头号敌人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338980.md" target="_blank">美国20岁Antifa暴力示威者由父母送警局自首</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338979.md" target="_blank">新疆模式延续 中共加紧培训「洗脑高手」赴港「再教育」下一代</a></li>
 
 </ul>
 </div>
