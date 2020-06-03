@@ -18,9 +18,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338425.md">小孩吵架 长沙女师遭家长狂殴 被撕内衣踢下体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338660.md">华日：中国经济比表面看更糟糕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338662.md">北京不许诋毁污蔑中医药 网民火气排山倒海</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338686.md">强奸还是色诱？「沈崇事件」主角披露实情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338873.md">孟晚舟考虑欠周的一次出行 定格了她的命运(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338686.md">强奸还是色诱？「沈崇事件」主角披露实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200603/1338634.md">世卫对中国抗疫赞赏有加   原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338729.md">见证六四--弹药车开门后 一箱箱子弹从车上抬下来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200602/1338436.md">有一种“整容”叫言承旭剪掉18年长发 帅到不敢认</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338972.md" target="_blank">美军新型B-21轰炸机性能超前代 拟今年试飞(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338967.md" target="_blank">英国若使用华为5G 美议员：恐重新部署驻英空军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338966.md" target="_blank">央视名嘴深陷性骚扰 妻子再爆丑闻恐难翻身(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338963.md" target="_blank">中共官媒联手拿美示威大做文章 制脑宣传有效？(图/视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338759.md" target="_blank">疫情重地武汉和苏家屯 有一惊人相似点(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338748.md" target="_blank">忽悠谁呢？ 陆媒齐说摆地摊能致富 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338736.md" target="_blank">世卫录音档外泄 证实「中(共)国延迟公布病毒资讯」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338668.md" target="_blank">维尼小熊不寂寞 ｜雷人咖啡  第三集</a></li>
 
 </ul>
 </div>
