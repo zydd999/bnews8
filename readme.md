@@ -14,9 +14,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200603/1338847.md">以为是劫财没成想是劫色 杭州56岁女士懵了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338857.md">这才是真实的中国：1%的人穷奢极欲 50%的人生活艰辛(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md">中国经济奥秘就1个字 中国经济起飞就靠地摊了!"每分钟40元印钞机水准”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338662.md">北京不许诋毁污蔑中医药 网民火气排山倒海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338729.md">见证六四--弹药车开门后 一箱箱子弹从车上抬下来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338686.md">强奸还是色诱？「沈崇事件」主角披露实情</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338701.md">柳叶刀证实：乒乓球等运动能降低47%死亡率 游泳、跑步都比不上(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200603/1338775.md">澳门赌场大亨付11亿甩小三 正宫生日晒同框照示主权(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339255.md" target="_blank">文昭：华为被踢出加拿大！英国为香港组「复仇者联盟」，川普是「钢铁侠」？六四31周年问民主之路</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339250.md" target="_blank">大陆旅韩民运领袖武振荣出书《逃亡者》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339243.md" target="_blank">陈破空：悬疑！中共是否介入美国民间示威？特朗普对中国航班下达禁飞令！世卫再次揭露北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339232.md" target="_blank">“六四”仍是绝对禁区 大陆民众只能这样纪念（视频/图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339224.md" target="_blank">最后期限已过 比亚迪口罩仍不过关 10亿订单再延期(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338967.md" target="_blank">英国若使用华为5G 美议员：恐重新部署驻英空军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338966.md" target="_blank">央视名嘴深陷性骚扰 妻子再爆丑闻恐难翻身(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338963.md" target="_blank">中共官媒联手拿美示威大做文章 制脑宣传有效？(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338962.md" target="_blank">天现异象 六月的长白山漫天飞雪(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md" target="_blank">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783201.md" target="_blank">严惩中共隐瞒疫情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339253.md" target="_blank">外资对中国24万亿元地方债市场不感兴趣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339252.md" target="_blank">猎头也失业：中国第一家猎头公司歇业</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339251.md" target="_blank">断供潮前兆？深圳房贷违约增加</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339235.md" target="_blank">新证据！外媒公布华为违背美国伊朗禁令的内部记录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339210.md" target="_blank">评论 | 陈光诚：多方击伤公敌   才能匡扶正气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339195.md" target="_blank">评论 | 胡平：中共休要撒谎   国人不要上当 ——中共官媒是怎样在“一道亮丽的风景线”这一词汇上公然造谣撒谎的</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339075.md" target="_blank">臭名昭着 中共公安部国保局悄然改名“政保局”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339070.md" target="_blank">三个不符合宇宙常理的现象造就了地球？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339040.md" target="_blank">六四将届 赵紫阳、胡耀??邦墓园戒备森严(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md" target="_blank">孙大骆：为李克强大实话作证 （上）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339028.md" target="_blank">中共国是捕食者 欧洲是猎物</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339020.md" target="_blank">【未普评论】美中「战略性分手」已是进行时</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338994.md" target="_blank">【华府看天下】美国与香港反警暴抗争的差异与共鸣</a></li>
 
 </ul>
 </div>
