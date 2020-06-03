@@ -19,11 +19,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200603/1338639.md">〖兲朝浮世绘〗中共是美国暴乱幕后黑手 严重干预美国内政</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338425.md">小孩吵架 长沙女师遭家长狂殴 被撕内衣踢下体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338339.md">支持中共「港版国安法」 10国盟友出列表态(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338313.md">中国人做梦太久？李克强一句实话像投下超级核弹(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338646.md">为上海书记夫人专设美容院 上海市委原常委王仲伟的白手套沈根林贪污腐败犯罪事实 中南海谣言预言_202</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200603/1338661.md">那英16岁儿子近照曝光 看到如今的长相 难怪妈妈一直不愿意公开(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200603/1338634.md">世卫对中国抗疫赞赏有加   原因找到了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200602/1338313.md">中国人做梦太久？李克强一句实话像投下超级核弹(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338660.md">华日：中国经济比表面看更糟糕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200603/1338634.md">世卫对中国抗疫赞赏有加   原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200602/1338436.md">有一种“整容”叫言承旭剪掉18年长发 帅到不敢认</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338813.md" target="_blank">天安门母亲发声明：“六四”场面血腥绝无仅有</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338809.md" target="_blank">全面小康也可以有“人大版”?这遭殃的百姓得是一批接着一批</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338808.md" target="_blank">王友群：赵乐际非要一条道走到黑不可吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338803.md" target="_blank">遭强制拆迁“脱贫”  中国农民：我们只有死路一条</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338722.md" target="_blank">王德邦：牢狱为家！八九守灵人——“六四屠杀”31周年杂感(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338717.md" target="_blank">孟晚舟输了官司后加电信巨头放弃华为5G(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338709.md" target="_blank">严家祺：“六四灾难”和“皇冠病毒灾难”同出一源(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338703.md" target="_blank">英脱欧党领袖：大流行暴露出北京真面目 阻止它掌控世界需要川普</a></li>
 
 </ul>
 </div>
