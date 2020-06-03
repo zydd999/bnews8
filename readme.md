@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338729.md">见证六四--弹药车开门后 一箱箱子弹从车上抬下来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200603/1338634.md">世卫对中国抗疫赞赏有加   原因找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338701.md">柳叶刀证实：乒乓球等运动能降低47%死亡率 游泳、跑步都比不上(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200603/1338588.md">14岁李嫣高清正面曝光 三次手术后痕迹全无 带甜笑和爸爸齐做公益(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1339113.md" target="_blank">六四伤残者与六四军人首次同台 枪口两端的记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md" target="_blank">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338768.md" target="_blank">宇宙可能在自转 颠覆现有宇宙学理论</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338782.md" target="_blank">【瘟疫与中共】瑞士：被染红的欧洲乐园</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338868.md" target="_blank">美国总统川普就暴乱的全国讲话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338859.md" target="_blank">维吾尔人权法案正式送出美国国会 递交川普签署(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338858.md" target="_blank">六四31周年美国务卿蓬佩奥会见王丹等人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338805.md" target="_blank">北京不许诋毁污蔑中医药 网民怒火直逼中南海？(图)</a></li>
 
 </ul>
 </div>
