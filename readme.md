@@ -5,12 +5,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338758.md">扛不下去了！疯传中共党内罢习会议录音（音频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338799.md">人民日报反习近平?国安法引发高层激斗 英媒曝光中共军方绝密(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338965.md">震撼？！传中共党内罢习会议录音？王岐山真不行了？胡舒立也快撑不住了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338647.md">深圳楼市断供潮比预期来的更快！来的更早！！来的更猛！！！一个银行网点每月就有一两千个账号断供 中南海谣言预言_203</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338791.md">沈舟：中共外交部回应川普 称“不对抗”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338873.md">孟晚舟考虑欠周的一次出行 定格了她的命运(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200603/1338661.md">那英16岁儿子近照曝光 看到如今的长相 难怪妈妈一直不愿意公开(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338966.md">央视名嘴深陷性骚扰 妻子再爆丑闻恐难翻身(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338646.md">为上海书记夫人专设美容院 上海市委原常委王仲伟的白手套沈根林贪污腐败犯罪事实 中南海谣言预言_202</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338938.md">港富豪一言震天下：从中共罪犯手中解放香港！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339066.md">香港变空城！有300万移民名额! 港版国安法 美国务院动手了！还布局五眼联盟围堵中共恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338660.md">华日：中国经济比表面看更糟糕</a></li>
@@ -18,13 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md">中国经济奥秘就1个字 中国经济起飞就靠地摊了!"每分钟40元印钞机水准”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338857.md">这才是真实的中国：1%的人穷奢极欲 50%的人生活艰辛(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338662.md">北京不许诋毁污蔑中医药 网民火气排山倒海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338662.md">北京不许诋毁污蔑中医药 网民火气排山倒海</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338729.md">见证六四--弹药车开门后 一箱箱子弹从车上抬下来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338686.md">强奸还是色诱？「沈崇事件」主角披露实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338701.md">柳叶刀证实：乒乓球等运动能降低47%死亡率 游泳、跑步都比不上(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339206.md" target="_blank">参加六四网上纪念会 陈云飞、董盛坤遭抓捕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339201.md" target="_blank">澳维州黑箱操作加入「一带一路」 前州长批涉及中共「扩张主义」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339187.md" target="_blank">美国对中共这东西发起调查 SpaceX都得用(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339186.md" target="_blank">继武汉后 这个城市也搞全民核酸检测(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338950.md" target="_blank">传中共公安部国保局改名「政保局」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md" target="_blank">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338911.md" target="_blank">官媒称摆地摊买豪车 网友却有另一种说法(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338879.md" target="_blank">沙尘袭击北京 多地区陷入严重污染(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339210.md" target="_blank">评论 | 陈光诚：多方击伤公敌   才能匡扶正气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339195.md" target="_blank">评论 | 胡平：中共休要撒谎   国人不要上当 ——中共官媒是怎样在“一道亮丽的风景线”这一词汇上公然造谣撒谎的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339194.md" target="_blank">评论 | 何清涟：哀香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339184.md" target="_blank">忧港版天安门大屠杀 英加澳纽国会敦促联合国派人权特使驻港</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339020.md" target="_blank">【未普评论】美中「战略性分手」已是进行时</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338994.md" target="_blank">【华府看天下】美国与香港反警暴抗争的差异与共鸣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338992.md" target="_blank">台湾7月迈向5G新纪元 中华电信拔得头筹提供全新体验</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338991.md" target="_blank">无国界记者：六四31年后中共仍是新闻自由的头号敌人</a></li>
 
 </ul>
 </div>
