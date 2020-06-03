@@ -18,10 +18,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338729.md">见证六四--弹药车开门后 一箱箱子弹从车上抬下来(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200603/1338686.md">强奸还是色诱？「沈崇事件」主角披露实情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338701.md">柳叶刀证实：乒乓球等运动能降低47%死亡率 游泳、跑步都比不上(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339147.md">洗劫苹果店抢iPhone没用 苹果用这招反制趁乱暴徒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200603/1338775.md">澳门赌场大亨付11亿甩小三 正宫生日晒同框照示主权(图)</a></li>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339273.md" target="_blank">李克强：高校毕业生就业形势严峻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339264.md" target="_blank">中概股从美国退市之际  中国太保或赴伦敦上市</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339262.md" target="_blank">北宋一牛人当皇帝老师 14岁参加殿试 范仲淹、王安石都是他的学生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339259.md" target="_blank">英国最新麦田圈形似冠状病毒 是在警告下一波疫情吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783201.md" target="_blank">严惩中共隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339253.md" target="_blank">外资对中国24万亿元地方债市场不感兴趣</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339252.md" target="_blank">猎头也失业：中国第一家猎头公司歇业</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339144.md" target="_blank">《中医药条例》：系列名人已违法  网民火气冲天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339143.md" target="_blank">讽刺! 港裔「嘻哈侠」大力声援黑人  噤声谴责港警暴力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339125.md" target="_blank">评论 | 王丹：我们为什么要zoom举办线上纪念活动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339111.md" target="_blank">宫崎骏企划新片「阿雅与魔女」 与「霍尔的移动城堡」有渊源</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339075.md" target="_blank">臭名昭着 中共公安部国保局悄然改名“政保局”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339070.md" target="_blank">三个不符合宇宙常理的现象造就了地球？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1339040.md" target="_blank">六四将届 赵紫阳、胡耀??邦墓园戒备森严(图)</a></li>
 
 </ul>
 </div>
