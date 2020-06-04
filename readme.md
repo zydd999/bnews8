@@ -6,25 +6,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339066.md">香港变空城！有300万移民名额! 港版国安法 美国务院动手了！还布局五眼联盟围堵中共恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339192.md">中国留学生趁火打劫还发推特炫耀(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339377.md">“六四”时拒镇压的前38军军长徐勤先近况曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339147.md">洗劫苹果店抢iPhone没用 苹果用这招反制趁乱暴徒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339179.md">美商务部：对33家中企机构新制裁 5日生效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339565.md">李克强跟习近平开战 堪比刘少奇斗毛泽东？李克强检讨书曝光？ 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339565.md">李克强跟习近平开战 堪比刘少奇斗毛泽东？李克强检讨书曝光？ 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339540.md">央视在美国摊上事了 川普对制裁习近平表态 英国一举动羞死中共(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200604/1339437.md">中共崩溃！俄罗斯疫情官网中华民国国旗 标注台湾「国家」(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339232.md">“六四”仍是绝对禁区 大陆民众只能这样纪念（视频/图）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339621.md" target="_blank">国际声援西藏运动敦促各大媒体停止充当中共宣传工具</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/783243.md" target="_blank">共产党的阴谋：美国黑人暴动你应该知道的一切，超详细狗血解读美国黑人问题。美国黑人问题跟中共和纳粹有一个共同点。美国黑人的问题，在澳大利亚也有，甚至更严重 （坐澳观天第117期 20200603）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339630.md" target="_blank">举例来谈善与恶，一场触及灵魂的谈话；现任政治局常委王沪宁是怎样的人&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md" target="_blank">22名中国学生滞留瑞士 部分被遣返美国</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339391.md" target="_blank">强烈对比：中共军队开坦克天安门大屠杀镇压 美国军人下跪(图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339390.md" target="_blank">武汉千万人核酸检测“零确诊”评：政治需要(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339389.md" target="_blank">河北省公安厅官员恶告 法轮功学员遭冤判8年(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339388.md" target="_blank">河南提倡夫妻生两子女 网民：韭菜不够割了？(图)</a></li>
 
 </ul>
 </div>
