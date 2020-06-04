@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md" target="_blank">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339840.md" target="_blank">还是它好 ｜ 雷人咖啡?? 第四集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339814.md" target="_blank">陈破空：香港维园！万千蜡烛照亮黑暗天空。重磅！中国球星发表反共宣言。北京左右韩国大选？加拿大抛弃华为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339812.md" target="_blank">〖图集〗六四31周年香港在禁令下悼念</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339541.md" target="_blank">疑因处理疫情不当 牡丹江市委书记换人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339445.md" target="_blank">“摆摊能致富”？形形色色的全民摆摊：心酸又无奈(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339443.md" target="_blank">川普：没考虑对习近平个人进行制裁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339442.md" target="_blank">疫情蔓延 牡丹江也学武汉“全民检测” 网民：整点实际的吧(图/视频)</a></li>
 
 </ul>
 </div>
