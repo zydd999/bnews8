@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339066.md">香港变空城！有300万移民名额! 港版国安法 美国务院动手了！还布局五眼联盟围堵中共恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338857.md">这才是真实的中国：1%的人穷奢极欲 50%的人生活艰辛(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md">中国经济奥秘就1个字 中国经济起飞就靠地摊了!"每分钟40元印钞机水准”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339147.md">洗劫苹果店抢iPhone没用 苹果用这招反制趁乱暴徒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339192.md">中国留学生趁火打劫还发推特炫耀(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338794.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339179.md">美商务部：对33家中企机构新制裁 5日生效</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200603/1338775.md">澳门赌场大亨付11亿甩小三 正宫生日晒同框照示主权(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339365.md" target="_blank">傅政华告密挫败周永康政变？传野心很大敢监控习近平(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md" target="_blank">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339344.md" target="_blank">讽刺华春莹 网民微博洗版：我不能发推(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339343.md" target="_blank">牡丹江疫情反弹 面对重启全面检测 民间混乱(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339332.md" target="_blank">中印对峙进一步升级 两国大幅增兵加勒万河谷(组图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338998.md" target="_blank">SpaceX民营航天时代和中国地摊经济&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338985.md" target="_blank">中印对峙升级 蓬佩奥和众院主席批中共霸凌 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338984.md" target="_blank">英加澳新连署致信联合国 要求派驻港特使(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338983.md" target="_blank">大陆男星仝卓造假事件再升级 入党被质疑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338982.md" target="_blank">北京否认停购美国大豆 称正在按部就班采购</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339376.md" target="_blank">大陆统计数字是政治学而不是数学(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339375.md" target="_blank">北游：不可一世的黑人暴徒 遇到他们 怂了(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339374.md" target="_blank">【图说天朝】似曾相识的摆拍(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339373.md" target="_blank">举报：鲁迅、梁启超、陈独秀、严复、郭沫若等人已违法(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339362.md" target="_blank">“六四”时拒镇压的前38军军长徐勤先近况曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339346.md" target="_blank">此间飞： 多少奥运冠军活得没有名字</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339337.md" target="_blank">胡锦成: 一部纷纭美国史，半在黑人骚乱中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339336.md" target="_blank">王丹：我们为什么要zoom举办线上纪念活动(图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339259.md" target="_blank">英国最新麦田圈形似冠状病毒 是在警告下一波疫情吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783201.md" target="_blank">严惩中共隐瞒疫情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339253.md" target="_blank">外资对中国24万亿元地方债市场不感兴趣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339252.md" target="_blank">猎头也失业：中国第一家猎头公司歇业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339251.md" target="_blank">断供潮前兆？深圳房贷违约增加</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339235.md" target="_blank">新证据！外媒公布华为违背美国伊朗禁令的内部记录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339210.md" target="_blank">评论 | 陈光诚：多方击伤公敌   才能匡扶正气</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339195.md" target="_blank">评论 | 胡平：中共休要撒谎   国人不要上当 ——中共官媒是怎样在“一道亮丽的风景线”这一词汇上公然造谣撒谎的</a></li>
 
 </ul>
 </div>
