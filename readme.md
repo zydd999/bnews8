@@ -10,21 +10,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md">网络传言：四名重要中共军方间谍被美国截留</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339660.md">习近平真正不放心的是什么？ "中共短短几年就几乎被消灭" 为什么「影后」钟美美必须封杀</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
