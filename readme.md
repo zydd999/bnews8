@@ -9,9 +9,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339540.md">央视在美国摊上事了 川普对制裁习近平表态 英国一举动羞死中共(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md">网络传言：四名重要中共军方间谍被美国截留</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
@@ -19,12 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339660.md">习近平真正不放心的是什么？ "中共短短几年就几乎被消灭" 为什么「影后」钟美美必须封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200604/1339437.md">中共崩溃！俄罗斯疫情官网中华民国国旗 标注台湾「国家」(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339819.md" target="_blank">欧盟：保障港澳民众纪念&quot;六四&quot;的权利比以往任何时候都重要</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339808.md" target="_blank">经常暴乱的美国为什么会成为世界头号强国？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339805.md" target="_blank">美国发布中国航班禁飞制裁后 北京很快服软</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md" target="_blank">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339631.md" target="_blank">【文韬政论】中共决心用「一国一制」搞坏搞衰香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339620.md" target="_blank">香港《国歌法》三读在争议混乱中通过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339608.md" target="_blank">印度反共右翼杂志报导「六四」31周年及中共强推「港版国安法」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339588.md" target="_blank">林书豪微博高调提六、四敏感数字 机智文案引网友狂赞</a></li>
 
 </ul>
 </div>
