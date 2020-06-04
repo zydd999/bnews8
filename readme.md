@@ -20,11 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338929.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338929.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md" target="_blank">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339410.md" target="_blank">美商务部：对33家中企机构新制裁 5日生效(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md" target="_blank">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338509.md" target="_blank">台海3个月会开战危言耸听?美台有3件大事！港人要变美国人了 华为干的!韩国大选惊爆作弊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338444.md" target="_blank">中南海引发美国暴动？有件大事被忽略了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338431.md" target="_blank">中共国家队维稳金股汇三路异动 中国法拍房数量激增深圳现断供潮 香港财阀用脚投票！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338419.md" target="_blank">李克强打碎中国梦被王沪宁打 再反击习近平 勇气何来？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339422.md" target="_blank">【要闻精粹】谁在无耻疯狂 留学红卫兵打砸抢 纳妾上宣传榜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339416.md" target="_blank">陶杰：联署疯 实中国人陋习的第一号。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339415.md" target="_blank">李柱铭：香港事务绝不是中国内政(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339414.md" target="_blank">美国人眼中的暴乱：为什么会乱？因为这句老话(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339296.md" target="_blank">左派占领美高校：耶鲁学生的愚蠢 哈佛观念的堕落(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339295.md" target="_blank">真纸牌屋：明州暴乱、腐败政客、假新闻与Antifa团练(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339293.md" target="_blank">前欧洲议会议员：欧盟在各个层面上都是北京的绥靖者</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339291.md" target="_blank">疫情两样情：中国口罩原料崩盘 台湾连上涨</a></li>
 
 </ul>
 </div>
