@@ -7,18 +7,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339377.md">“六四”时拒镇压的前38军军长徐勤先近况曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339592.md">足球名将郝海东直播宣言：推翻中共建新中国联邦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339540.md">央视在美国摊上事了 川普对制裁习近平表态 英国一举动羞死中共(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md">网络传言：四名重要中共军方间谍被美国截留</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md">网络传言：四名重要中共军方间谍被美国截留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339660.md">习近平真正不放心的是什么？ "中共短短几年就几乎被消灭" 为什么「影后」钟美美必须封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339840.md" target="_blank">还是它好 ｜ 雷人咖啡?? 第四集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339814.md" target="_blank">陈破空：香港维园！万千蜡烛照亮黑暗天空。重磅！中国球星发表反共宣言。北京左右韩国大选？加拿大抛弃华为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339812.md" target="_blank">〖图集〗六四31周年香港在禁令下悼念</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339806.md" target="_blank">胡锡进翻墙为“六四”屠杀辩解 在墙内却只字不提(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339445.md" target="_blank">“摆摊能致富”？形形色色的全民摆摊：心酸又无奈(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339443.md" target="_blank">川普：没考虑对习近平个人进行制裁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339442.md" target="_blank">疫情蔓延 牡丹江也学武汉“全民检测” 网民：整点实际的吧(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339433.md" target="_blank">美议员要求中共公开六四真相 停止迫害人民</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339853.md" target="_blank">地摊经济太火！中国互联网CEO也上街摆摊</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339844.md" target="_blank">一条龙设计芯片 中国恐10年难成</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339843.md" target="_blank">王石：不信马云不爱钱 说这话有前因后果</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339842.md" target="_blank">两大因素导致外资增持中国国债步伐可能放缓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339841.md" target="_blank">大清要完 后三个皇帝都无子嗣 名字暗藏玄机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339832.md" target="_blank">更多人选择拥枪 今年上半年美国新增200万新枪民</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339831.md" target="_blank">放弃华为动真格的 英国政府拟邀请日韩公司参与其5G建设</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339826.md" target="_blank">证据确凿！美司法部长：安提法和外国势力是骚乱幕后推手</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339747.md" target="_blank">芹菜柠檬汁 降血压抗病毒提升免疫力的健康饮料</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339741.md" target="_blank">希特勒的1936：世界为何会坐视纳粹毁约(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md" target="_blank">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339733.md" target="_blank">自由广场烛光悼六四 林夕：“天灭中共”(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339706.md" target="_blank">一笔捐款数字藏六四、邓小平签署港五十年不变声明玄机</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339705.md" target="_blank">港人未敢忘！众明星名人各抒心声纪念六四</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339704.md" target="_blank">时事大家谈：调查报告指习近平要为新冠大流行负责</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339635.md" target="_blank">“愿荣光归香港”歌曲制作历程曝光(视频)</a></li>
 
 </ul>
 </div>
