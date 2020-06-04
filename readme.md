@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339147.md">洗劫苹果店抢iPhone没用 苹果用这招反制趁乱暴徒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339179.md">美商务部：对33家中企机构新制裁 5日生效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338929.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200603/1338811.md">老北京茶馆：罢免习近平录音流出！党放蠢招：撕毁协议、挑动美国民情！李克强练摊，习李终闹掰！（第322集/2020/06/02） </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339417.md" target="_blank">天亮时分：川普的内外战争;美国总统有动用军队镇压国内骚乱的权力吗?(政论天下第176集 20200603)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md" target="_blank">被问「会制裁习近平？」川普这样说…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339402.md" target="_blank">“妈妈 我们无法呼吸”美男之死点燃中国民间怒火(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339392.md" target="_blank">中共封锁六四事件 赵立坚的言论也遭“和谐”(图)</a></li>
@@ -56,14 +58,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339224.md" target="_blank">最后期限已过 比亚迪口罩仍不过关 10亿订单再延期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339223.md" target="_blank">新疆模式延续 中共加紧培训「洗脑高手」赴港「再教育」下一代(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339206.md" target="_blank">参加六四网上纪念会 陈云飞、董盛坤遭抓捕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339201.md" target="_blank">澳维州黑箱操作加入「一带一路」 前州长批涉及中共「扩张主义」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339187.md" target="_blank">美国对中共这东西发起调查 SpaceX都得用(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339410.md" target="_blank">美商务部：对33家中企机构新制裁 5日生效(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md" target="_blank">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md" target="_blank">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md" target="_blank">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
@@ -87,14 +89,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338444.md" target="_blank">中南海引发美国暴动？有件大事被忽略了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338431.md" target="_blank">中共国家队维稳金股汇三路异动 中国法拍房数量激增深圳现断供潮 香港财阀用脚投票！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338419.md" target="_blank">李克强打碎中国梦被王沪宁打 再反击习近平 勇气何来？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338377.md" target="_blank">惊爆！英《太阳报》：中共计划对士兵基因改造(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338334.md" target="_blank">美军报告称蔡英文为台湾总统 点台海情势(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339416.md" target="_blank">陶杰：联署疯 实中国人陋习的第一号。</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339415.md" target="_blank">李柱铭：香港事务绝不是中国内政(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339414.md" target="_blank">美国人眼中的暴乱：为什么会乱？因为这句老话(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339409.md" target="_blank">墨西哥渔夫的故事 到底是在说什么？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339404.md" target="_blank">六四感言：国家无正气 国民冇运行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339399.md" target="_blank">神奇！经他「画龙点睛」的两龙马上活了 然后……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339394.md" target="_blank">范畴：马卖汽车 还是汽车卖马？供应链2.0</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339295.md" target="_blank">真纸牌屋：明州暴乱、腐败政客、假新闻与Antifa团练(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339293.md" target="_blank">前欧洲议会议员：欧盟在各个层面上都是北京的绥靖者</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339291.md" target="_blank">疫情两样情：中国口罩原料崩盘 台湾连上涨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339289.md" target="_blank">扶摇-电影《扶摇直上》主题曲(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339288.md" target="_blank">【民众心声】我的弟弟惨死在六四学潮上(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339280.md" target="_blank">无吸烟却肺癌晚期 ALK新药带来曙光(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339274.md" target="_blank">德国宣布9月中欧领导人峰会推迟 香港国安法令欧盟不爽</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339273.md" target="_blank">李克强：高校毕业生就业形势严峻</a></li>
 
 </ul>
 </div>
