@@ -7,8 +7,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338938.md">港富豪一言震天下：从中共罪犯手中解放香港！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339066.md">香港变空城！有300万移民名额! 港版国安法 美国务院动手了！还布局五眼联盟围堵中共恶法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md">中国经济奥秘就1个字 中国经济起飞就靠地摊了!"每分钟40元印钞机水准”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md">中国经济奥秘就1个字 中国经济起飞就靠地摊了!"每分钟40元印钞机水准”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339192.md">中国留学生趁火打劫还发推特炫耀(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338887.md">【微博精粹】总参二部特务点火美国骚乱 川大爷必将中共列为恐怖组织 (组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339377.md">“六四”时拒镇压的前38军军长徐勤先近况曝光(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338912.md">美国动手前奏？美国务院更新香港旅游警示∶慎防当局任意执法(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200603/1338929.md">六四屠城的血腥罪恶：驾驶坦克轧死多人的凶手终于找到了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339186.md">继武汉后 这个城市也搞全民核酸检测(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md" target="_blank">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md" target="_blank">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339410.md" target="_blank">美商务部：对33家中企机构新制裁 5日生效(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
@@ -88,13 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338537.md" target="_blank">美国出大事 奥巴马女儿涉入？金主和背景都曝光了 纽约市长女儿被抓了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338509.md" target="_blank">台海3个月会开战危言耸听?美台有3件大事！港人要变美国人了 华为干的!韩国大选惊爆作弊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338444.md" target="_blank">中南海引发美国暴动？有件大事被忽略了？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338431.md" target="_blank">中共国家队维稳金股汇三路异动 中国法拍房数量激增深圳现断供潮 香港财阀用脚投票！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339456.md" target="_blank">日本反对《香港国安法》声浪高涨 习近平国是访问或被搁置</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339455.md" target="_blank">习近平对内外强硬 到底是祸是福？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339440.md" target="_blank">为了港人！英外长：不惜牺牲中英贸易协议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339430.md" target="_blank">武汉“全民检测”结果惹质疑 牡丹江也要搞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339429.md" target="_blank">香港沦陷，美国接自由火炬：“六四”烛光点亮我们的希望</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339337.md" target="_blank">胡锦成: 一部纷纭美国史，半在黑人骚乱中</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339336.md" target="_blank">王丹：我们为什么要zoom举办线上纪念活动(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md" target="_blank">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339300.md" target="_blank">30年来首次！美国务院纪念六四死难者 要中共交代真相</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339297.md" target="_blank">北游：“种族歧视”是个框 黑人兄弟往里装(图)</a></li>
 
 </ul>
 </div>
