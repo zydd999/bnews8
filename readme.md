@@ -4,27 +4,27 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339565.md">李克强跟习近平开战 堪比刘少奇斗毛泽东？李克强检讨书曝光？ 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339192.md">中国留学生趁火打劫还发推特炫耀(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339377.md">“六四”时拒镇压的前38军军长徐勤先近况曝光(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339565.md">李克强跟习近平开战 堪比刘少奇斗毛泽东？李克强检讨书曝光？ 惊人逆转</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339147.md">洗劫苹果店抢iPhone没用 苹果用这招反制趁乱暴徒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339540.md">央视在美国摊上事了 川普对制裁习近平表态 英国一举动羞死中共(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339179.md">美商务部：对33家中企机构新制裁 5日生效</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339592.md">足球名将郝海东直播宣言：推翻中共建新中国联邦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339706.md" target="_blank">一笔捐款数字藏六四、邓小平签署港五十年不变声明玄机</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339705.md" target="_blank">港人未敢忘！众明星名人各抒心声纪念六四</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339704.md" target="_blank">时事大家谈：调查报告指习近平要为新冠大流行负责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339635.md" target="_blank">“愿荣光归香港”歌曲制作历程曝光(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339632.md" target="_blank">【杜耀明评论】《国安法》宣传愚人者自愚　没有最荒谬只有更荒谬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339631.md" target="_blank">【文韬政论】中共决心用「一国一制」搞坏搞衰香港</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339480.md" target="_blank">最容易感染中共病毒的血型曝光，白宫：这项突破很重要</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339479.md" target="_blank">当心！你的免疫力正在被削弱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339478.md" target="_blank">若腿部出现这些现象，一定要警惕，暗示血栓找上门！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339475.md" target="_blank">六四31周年 美国高调发声 蓬佩奥破例会晤六四幸存者 白宫对华政策重大拐点 向习近平传递出非常明确的信号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339463.md" target="_blank">入维园悼念六四 黎智英：表明我们会继续反抗中共打压</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339456.md" target="_blank">日本反对《香港国安法》声浪高涨 习近平国是访问或被搁置</a></li>
 
 </ul>
 </div>
