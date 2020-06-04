@@ -17,12 +17,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339186.md">继武汉后 这个城市也搞全民核酸检测(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339232.md">“六四”仍是绝对禁区 大陆民众只能这样纪念（视频/图）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339592.md" target="_blank">足球名将郝海东直播宣言：推翻中共建新中国联邦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md" target="_blank">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339562.md" target="_blank">胡锡进提天安门 讽美国暴动遭呛：这条推文发到墙内微博了没(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339553.md" target="_blank">强推《香港国安法》 日本反对声浪高涨 习近平国事访问或被搁置(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md" target="_blank">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339386.md" target="_blank">六四前赵紫阳墓地再成敏感点 被围挡监控</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339385.md" target="_blank">北京河北破纪录高温 磁县最高达41.8℃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339365.md" target="_blank">傅政华告密挫败周永康政变？传野心很大敢监控习近平(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md" target="_blank">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339344.md" target="_blank">讽刺华春莹 网民微博洗版：我不能发推(组图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339588.md" target="_blank">林书豪微博高调提六、四敏感数字 机智文案引网友狂赞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339574.md" target="_blank">中印边境对峙 双方大军集结 态势危险 西藏军区夜间演习 印度获美国力挺 对中共态度越来越强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md" target="_blank">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339571.md" target="_blank">当心！习近平跟李克强开战 黄创夏：恐殃及台湾(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339430.md" target="_blank">武汉“全民检测”结果惹质疑 牡丹江也要搞</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339429.md" target="_blank">香港沦陷，美国接自由火炬：“六四”烛光点亮我们的希望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339422.md" target="_blank">【要闻精粹】谁在无耻疯狂 留学红卫兵打砸抢 纳妾上宣传榜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339416.md" target="_blank">陶杰：联署疯 实中国人陋习的第一号。</a></li>
 
 </ul>
 </div>
