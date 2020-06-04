@@ -4,7 +4,6 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338965.md">震撼？！传中共党内罢习会议录音？王岐山真不行了？胡舒立也快撑不住了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338966.md">央视名嘴深陷性骚扰 妻子再爆丑闻恐难翻身(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338938.md">港富豪一言震天下：从中共罪犯手中解放香港！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339118.md">北京蠢招 民怒直逼中南海 惊骇!机密文件曝复阳率高达4成 重灾区武汉和此地1点惊人相似</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339066.md">香港变空城！有300万移民名额! 港版国安法 美国务院动手了！还布局五眼联盟围堵中共恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339301.md">震撼！足球名将郝海东直播宣读新中国联邦宣言（视频）</a></li>
@@ -13,18 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200603/1339117.md">特朗普政府从16日开始禁止中国客机飞往美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339147.md">洗劫苹果店抢iPhone没用 苹果用这招反制趁乱暴徒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339179.md">美商务部：对33家中企机构新制裁 5日生效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339377.md">“六四”时拒镇压的前38军军长徐勤先近况曝光(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339179.md">美商务部：对33家中企机构新制裁 5日生效</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200604/1339199.md">〖兲朝浮世绘〗兲朝末世乱象出：政府鼓励男子纳妾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200603/1338957.md">录音爆中共隐匿疫情！世卫急着切割2件事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339188.md">前驻华记者：习近平彻底改变中国舆论环境</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339155.md">震惊！打脸达尔文 南极发现6亿年前的极小人类化石</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200603/1338987.md">贺卫方：稍微有头脑的中国人不会把美国看成那么失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339397.md">李娜：不希望我的孩子受中国教育模式的影响(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339186.md">继武汉后 这个城市也搞全民核酸检测(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200604/1339129.md">宝胜突发快评：6月16日美要宣布禁令中美要断航、美发布香港旅居二级警告令、华为香港子公司内部文件泄露</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339002.md">自己家园自己救！华人枪友组队 守护芝城华埠(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339541.md" target="_blank">疑因处理疫情不当 牡丹江市委书记换人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339445.md" target="_blank">“摆摊能致富”？形形色色的全民摆摊：心酸又无奈(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339443.md" target="_blank">川普：没考虑对习近平个人进行制裁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339442.md" target="_blank">疫情蔓延 牡丹江也学武汉“全民检测” 网民：整点实际的吧(图/视频)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339343.md" target="_blank">牡丹江疫情反弹 面对重启全面检测 民间混乱(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339332.md" target="_blank">中印对峙进一步升级 两国大幅增兵加勒万河谷(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339331.md" target="_blank">富豪之死意外牵出宫斗大戏 曝央视主播起诉新华社女主持还钱(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339255.md" target="_blank">文昭：华为被踢出加拿大！英国为香港组「复仇者联盟」，川普是「钢铁侠」？六四31周年问民主之路</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339540.md" target="_blank">央视在美国摊上事了 川普对制裁习近平表态 英国一举动羞死中共(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md" target="_blank">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md" target="_blank">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339410.md" target="_blank">美商务部：对33家中企机构新制裁 5日生效(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/1338597.md" target="_blank">誓言平乱 川普派第82空降师应急部队进驻华盛顿DC</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338537.md" target="_blank">美国出大事 奥巴马女儿涉入？金主和背景都曝光了 纽约市长女儿被抓了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338509.md" target="_blank">台海3个月会开战危言耸听?美台有3件大事！港人要变美国人了 华为干的!韩国大选惊爆作弊</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200602/1338444.md" target="_blank">中南海引发美国暴动？有件大事被忽略了？！</a></li>
 
 </ul>
 </div>
