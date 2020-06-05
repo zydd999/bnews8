@@ -10,19 +10,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200605/1339820.md">〖兲朝浮世绘〗网友历数习近平干砸的8件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1339882.md">李克强为什么要戳穿一个巨大华丽的泡沫？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md">六四当天郝海东宣读“新中国”成立宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339806.md">胡锡进翻墙为“六四”屠杀辩解 在墙内却只字不提(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339806.md">胡锡进翻墙为“六四”屠杀辩解 在墙内却只字不提(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200604/1339619.md">收到美国禁飞令计划 中国紧急放宽对外国航班的限制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339805.md">美国发布中国航班禁飞制裁后 北京很快服软</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340100.md" target="_blank">香港民调：林郑 邓炳强 郑若骅列被制裁前3名(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340094.md" target="_blank">解决边境争端 中印6日将举行中将级会谈(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340093.md" target="_blank">面对国际咎责 专家：中共策划“港版金融风暴”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340089.md" target="_blank">因应中共印太扩张 美日澳印将建立全面战略伙伴关系(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md" target="_blank">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340066.md" target="_blank">中共武力犯台 台湾只要4枚核弹就好…(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339938.md" target="_blank">武统准备？中共军队2攻台主力同天演习…(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339937.md" target="_blank">每年最怕这一天 中共外交部秒删“六四” 境内播放黑屏 华人热议(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339911.md" target="_blank">台湾出手了！两艘3000吨级海巡舰强势执法 扣押大陆采沙船(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339889.md" target="_blank">死多少人不重要」林荣基曝中共超狠手段：下一步就是台湾(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339886.md" target="_blank">江峰：江峰最新MV《人民》—献给六四纪念日31周年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md" target="_blank">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340101.md" target="_blank">【微博精粹】六四31年 土共搅乱美港 习总趁川总没空 开批李克强 (组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md" target="_blank">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340096.md" target="_blank">【独家】大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340095.md" target="_blank">凉拌黄瓜木耳香干 清爽开胃 营养丰富</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340090.md" target="_blank">六四敏感期 中共两集团军演练攻台 美军舰6月4日穿越台湾海峡 中美冷战三大冲突热点 五角大楼官员：有各种应变准备</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340074.md" target="_blank">挺国安法助纣为虐 英国会将传唤汇丰渣打两银行受询</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340069.md" target="_blank">【中共病毒】 从6月15日起 英人搭乘公共交通工具需带口罩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340044.md" target="_blank">中印中将级会谈6日举行 协商解决边境部队争端</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339965.md" target="_blank">长平：六四尚未成功 全球仍需努力(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339964.md" target="_blank">沈舟：华为偷加拿大5G技术成功 今日失去加拿大 报应来到(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md" target="_blank">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339958.md" target="_blank">冯朝：川普重拳反击中共限航班 中共再次傻掉 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339957.md" target="_blank">张林：美国黑人的命 比中国人的命 金贵一万倍！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339946.md" target="_blank">推拿熊：科技让中国人的生活更崩溃 亲身经历(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339945.md" target="_blank">金仲兵：中国摊贩高潮来临？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339944.md" target="_blank">我的弟弟惨死在六四学潮上(图)</a></li>
 
 </ul>
 </div>
