@@ -3,28 +3,28 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1339882.md">李克强为什么要戳穿一个巨大华丽的泡沫？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340096.md">【独家】大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1340210.md">独家：中宣部突为李克强「地摊经济」降温    文明办文件作废删除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md">六四当天郝海东宣读“新中国”成立宣言后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340134.md">耿爽卸任中共外交部发言人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200605/1340152.md">希望之声：大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339986.md">美国强烈回应限飞令 中国服软 小粉紅心碎(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340447.md" target="_blank">资金流断裂 深圳楼市断供数量增加</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340446.md" target="_blank">美中加速脱钩  人民币被多家投行看跌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md" target="_blank">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340443.md" target="_blank">北京服软后 美国将中国航班飞美数量限制在每周两个</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340442.md" target="_blank">王思聪又上热搜 旗下公司破产 拍品估值仅8708元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340438.md" target="_blank">既然宇宙中的所有天体都有旋转，那宇宙是转还是不转？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340435.md" target="_blank">美国就业正向增长 三大股指飙升 道指大涨800点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340428.md" target="_blank">病毒二连击 新加坡又爆登革热疫情 单周染疫超700</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340307.md" target="_blank">评论 | 唯色：疫情导致世界剧变   人人需要有价值的关怀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340281.md" target="_blank">边走边看 让世界16大知名花海一扫疫情的阴霾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783245.md" target="_blank">奇异的人体能量场（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 
 </ul>
 </div>
