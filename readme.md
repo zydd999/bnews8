@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200605/1340152.md">希望之声：大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340438.md" target="_blank">既然宇宙中的所有天体都有旋转，那宇宙是转还是不转？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340435.md" target="_blank">美国就业正向增长 三大股指飙升 道指大涨800点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340428.md" target="_blank">病毒二连击 新加坡又爆登革热疫情 单周染疫超700</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340388.md" target="_blank">极左派叫嚷停止资助警察遭炮轰 川普：要多拨款加强执法</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340209.md" target="_blank">【胡少江评论】国安法威胁下的「六四」纪念更具历史意义</a></li>
 
 </ul>
 </div>
