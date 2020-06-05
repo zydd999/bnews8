@@ -2,29 +2,29 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200605/1339820.md">〖兲朝浮世绘〗网友历数习近平干砸的8件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1339882.md">李克强为什么要戳穿一个巨大华丽的泡沫？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340096.md">【独家】大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1340210.md">独家：中宣部突为李克强「地摊经济」降温    文明办文件作废删除</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md">六四当天郝海东宣读“新中国”成立宣言后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md">六四当天郝海东宣读“新中国”成立宣言后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340134.md">耿爽卸任中共外交部发言人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200605/1340152.md">希望之声：大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md" target="_blank">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340411.md" target="_blank">中医缺席抗瘟疫？中共如何系统毁灭中医(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340384.md" target="_blank">专栏 | 夜话中南海：习近平政权为何还在高喊“促进和平统一”口号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340318.md" target="_blank">“紧日子”来了 中共各地政府支出缩减过半(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340315.md" target="_blank">呼唤“新中国” 郝海东的人生轨迹</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340093.md" target="_blank">面对国际咎责 专家：中共策划“港版金融风暴”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340089.md" target="_blank">因应中共印太扩张 美日澳印将建立全面战略伙伴关系(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md" target="_blank">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340066.md" target="_blank">中共武力犯台 台湾只要4枚核弹就好…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340065.md" target="_blank">20年前一条全国假新闻 看中共如何炮制的(视频)</a></li>
 
 </ul>
 </div>
