@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1339882.md">李克强为什么要戳穿一个巨大华丽的泡沫？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md">六四当天郝海东宣读“新中国”成立宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339557.md">美国示威现场：成堆的“神秘”砖头从何而来？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339557.md">美国示威现场：成堆的“神秘”砖头从何而来？(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340066.md" target="_blank">中共武力犯台 台湾只要4枚核弹就好…(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340065.md" target="_blank">20年前一条全国假新闻 看中共如何炮制的(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340064.md" target="_blank">共军要武统？台湾曝飞弹实射“可不是吃素的”！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md" target="_blank">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md" target="_blank">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340028.md" target="_blank">纪念六四 蔡英文讽中共1年364天 胡锡进是逃兵(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md" target="_blank">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339840.md" target="_blank">还是它好 ｜ 雷人咖啡?? 第四集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339814.md" target="_blank">陈破空：香港维园！万千蜡烛照亮黑暗天空。重磅！中国球星发表反共宣言。北京左右韩国大选？加拿大抛弃华为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339812.md" target="_blank">〖图集〗六四31周年香港在禁令下悼念</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339806.md" target="_blank">胡锡进翻墙为“六四”屠杀辩解 在墙内却只字不提(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339761.md" target="_blank">Trailer ｜永恒的五十分钟 【为你而来 II 】</a></li>
 
 </ul>
 </div>
