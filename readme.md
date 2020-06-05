@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339540.md">央视在美国摊上事了 川普对制裁习近平表态 英国一举动羞死中共(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md">网络传言：四名重要中共军方间谍被美国截留</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339660.md">习近平真正不放心的是什么？ "中共短短几年就几乎被消灭" 为什么「影后」钟美美必须封杀</a></li>
@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339405.md">被问「会制裁习近平？」川普这样说…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200605/1339820.md">〖兲朝浮世绘〗网友历数习近平干砸的8件事</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339939.md" target="_blank">最新迹象 川普和拜登竞选团队遭中伊黑客钓鱼式攻击(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339938.md" target="_blank">武统准备？中共军队2攻台主力同天演习…(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339937.md" target="_blank">每年最怕这一天 中共外交部秒删“六四” 境内播放黑屏 华人热议(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339911.md" target="_blank">台湾出手了！两艘3000吨级海巡舰强势执法 扣押大陆采沙船(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339889.md" target="_blank">死多少人不重要」林荣基曝中共超狠手段：下一步就是台湾(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339886.md" target="_blank">江峰：江峰最新MV《人民》—献给六四纪念日31周年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md" target="_blank">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md" target="_blank">网络传言：四名重要中共军方间谍被美国截留</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339592.md" target="_blank">足球名将郝海东直播宣言：推翻中共建新中国联邦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md" target="_blank">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339562.md" target="_blank">胡锡进提天安门 讽美国暴动遭呛：这条推文发到墙内微博了没(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339553.md" target="_blank">强推《香港国安法》 日本反对声浪高涨 习近平国事访问或被搁置(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md" target="_blank">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339541.md" target="_blank">疑因处理疫情不当 牡丹江市委书记换人(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339946.md" target="_blank">推拿熊：科技让中国人的生活更崩溃 亲身经历(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339945.md" target="_blank">金仲兵：中国摊贩高潮来临？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339944.md" target="_blank">我的弟弟惨死在六四学潮上(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339917.md" target="_blank">颜纯钩：六四感言：国家无正气 国民冇运行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339909.md" target="_blank">中国再现毒奶粉 1岁女婴乳房竟发育吓坏医生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339901.md" target="_blank">宁先华：记念六四 天安门拒绝遗忘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339880.md" target="_blank">冰天雪地的南极令人不安的变绿了！</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339805.md" target="_blank">美国发布中国航班禁飞制裁后 北京很快服软</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md" target="_blank">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339785.md" target="_blank">豪华中的顶级     2020五款最佳豪华SUV</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339780.md" target="_blank">“我希望和你一样美丽” 爱心母亲对女儿的胎记引以为荣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339779.md" target="_blank">还在为减肥发愁吗？4种减肥食品 全面瘦身效果好</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md" target="_blank">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339772.md" target="_blank">小心有毒 埃及十灾之一又来了</a></li>
 
 </ul>
 </div>
