@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md">六四当天郝海东宣读“新中国”成立宣言后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340134.md">耿爽卸任中共外交部发言人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339806.md">胡锡进翻墙为“六四”屠杀辩解 在墙内却只字不提(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340335.md" target="_blank">《菜根谭》：4种人生智慧，值得一读(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340333.md" target="_blank">白宫发布纪念六四声明 敦促中共遵守承诺、结束迫害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340328.md" target="_blank">美资深记者：为阻更大政治风波 中共可能会为六四平反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340327.md" target="_blank">焦点对话(2020年6月5日)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340310.md" target="_blank">细胞在显微镜下放大十亿倍后看到的是什么样子</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340124.md" target="_blank">中共港澳工作领导小组首亮相 赵克志任新职有秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340122.md" target="_blank">章天亮: 为什么说川普总统面临着一场内外战争？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340116.md" target="_blank">蔡英文：期待与英国共同努力 支持香港人民</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340115.md" target="_blank">中国民运人士线上悼「六四」2度遭骇 主办单位提请FBI调查</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340114.md" target="_blank">吃茄子不能这样，不然后果很严重！一定要看看</a></li>
 
 </ul>
 </div>
