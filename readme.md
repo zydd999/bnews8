@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200605/1339820.md">〖兲朝浮世绘〗网友历数习近平干砸的8件事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200604/1339421.md">【CDTV】六月三日郝海东宣读“新中国联邦”建国宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339418.md">六四21名学生领袖遭通缉 6人留国内现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md">六四当天郝海东宣读“新中国”成立宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200604/1339437.md">中共崩溃！俄罗斯疫情官网中华民国国旗 标注台湾「国家」(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339557.md">美国示威现场：成堆的“神秘”砖头从何而来？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339998.md" target="_blank">天亮时分：郝海东宣读新中国联邦宣言;香港维园31年不灭的烛光;也说中共还能撑多久?(政论天下第177集 20200604)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339996.md" target="_blank">美国限制中国官媒名单或再增加 包括央视(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339992.md" target="_blank">王思聪旗下公司破产拍卖 网友：富少转型摆地摊了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339987.md" target="_blank">习近平密友？避六四卖良心 他被指炮制垃圾理论(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339667.md" target="_blank">香港六四烛光晚会30年来首次中断，新《国安法》阴影下的集体纪念是否还有未来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339656.md" target="_blank">六四当天郝海东宣读“新中国联邦”成立宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md" target="_blank">六四当天郝海东宣读“新中国”成立宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339621.md" target="_blank">国际声援西藏运动敦促各大媒体停止充当中共宣传工具</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339997.md" target="_blank">中共封锁“六四”事件新闻  NHK出现黑画面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339991.md" target="_blank">医师分享消除“酸痛” 提升“免疫”的秘诀(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339985.md" target="_blank">悲情的六四被沉睡的民族遗忘 国脚却踢来了希望的光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339984.md" target="_blank">豪华中的极品     2020顶级豪华轿车</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339880.md" target="_blank">冰天雪地的南极令人不安的变绿了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339879.md" target="_blank">明州事件延烧 暴动背后黑幕呼之欲出(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339875.md" target="_blank">谷歌：中伊骇客锁定侵入拜登川普阵营(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339873.md" target="_blank">【“六四”31周年】英政要：人类已为暴政付出巨大代价  抵制需要勇气</a></li>
 
 </ul>
 </div>
