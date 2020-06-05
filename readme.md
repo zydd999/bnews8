@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1339882.md">李克强为什么要戳穿一个巨大华丽的泡沫？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1339882.md">李克强为什么要戳穿一个巨大华丽的泡沫？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md">六四当天郝海东宣读“新中国”成立宣言</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339557.md">美国示威现场：成堆的“神秘”砖头从何而来？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md" target="_blank">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md" target="_blank">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340028.md" target="_blank">纪念六四 蔡英文讽中共1年364天 胡锡进是逃兵(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340024.md" target="_blank">替中共做宣传 全球百个NGO呼吁撤销央视主播世卫&#8221;亲善大使&#8221;(图)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339812.md" target="_blank">〖图集〗六四31周年香港在禁令下悼念</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339806.md" target="_blank">胡锡进翻墙为“六四”屠杀辩解 在墙内却只字不提(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339761.md" target="_blank">Trailer ｜永恒的五十分钟 【为你而来 II 】</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339754.md" target="_blank">陈破空：陈破空谈《常识》（之55）：反腐还是权力斗争？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340055.md" target="_blank">中美大战围堵中共日新月异 每一天几乎都是中共坏日子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md" target="_blank">六四当天郝海东宣读“新中国”成立宣言后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340001.md" target="_blank">不甩中共报复 加拿大副总理：欢迎30万在港公民回家(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340000.md" target="_blank">64严格控管！微信发红包也不行？网友输入金额「89.64」遭系统拒绝(组图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339066.md" target="_blank">香港变空城！有300万移民名额! 港版国安法 美国务院动手了！还布局五眼联盟围堵中共恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md" target="_blank">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339002.md" target="_blank">自己家园自己救！华人枪友组队 守护芝城华埠(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md" target="_blank">中国经济奥秘就1个字 中国经济起飞就靠地摊了!&#8221;每分钟40元印钞机水准”</a></li>
 
 </ul>
 </div>
