@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339586.md">中共高层暗战又一波 习近平连续布局防政变？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339563.md">波斯绝世公主太美…13男为她轻生…真实长相曝光！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339778.md">天机尽泄？ 大清亡于共和 共和亡于共产 共产亡于～～</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339740.md">郝海东：国运不等朝运 但凡朝代就有更替</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339856.md">郝海东号召消灭中共前队友赞「了不起」(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md">六四当天郝海东宣读“新中国”成立宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200604/1339437.md">中共崩溃！俄罗斯疫情官网中华民国国旗 标注台湾「国家」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339557.md">美国示威现场：成堆的“神秘”砖头从何而来？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339786.md">美FBI解密文件曝光：天才特斯拉来自金星</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200604/1339437.md">中共崩溃！俄罗斯疫情官网中华民国国旗 标注台湾「国家」(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340008.md" target="_blank">六四当日 美军驱逐舰穿越台湾海峡(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340007.md" target="_blank">福建仙游超市发生命案 3死7伤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339998.md" target="_blank">天亮时分：郝海东宣读新中国联邦宣言;香港维园31年不灭的烛光;也说中共还能撑多久?(政论天下第177集 20200604)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339996.md" target="_blank">美国限制中国官媒名单或再增加 包括央视(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339992.md" target="_blank">王思聪旗下公司破产拍卖 网友：富少转型摆地摊了(图)</a></li>
@@ -56,14 +58,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339734.md" target="_blank">广西旺甫镇小学现砍人案40人受伤(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339732.md" target="_blank">地摊经济：中国经济新冠时代救星？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339667.md" target="_blank">香港六四烛光晚会30年来首次中断，新《国安法》阴影下的集体纪念是否还有未来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339656.md" target="_blank">六四当天郝海东宣读“新中国联邦”成立宣言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339650.md" target="_blank">六四当天郝海东宣读“新中国”成立宣言</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md" target="_blank">六四当天郝海东宣读“新中国”成立宣言后</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340001.md" target="_blank">不甩中共报复 加拿大副总理：欢迎30万在港公民回家(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340000.md" target="_blank">64严格控管！微信发红包也不行？网友输入金额「89.64」遭系统拒绝(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339951.md" target="_blank">重磅！蓬佩奥吁全球证交所对上市中企收紧监管(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md" target="_blank">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md" target="_blank">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
@@ -86,9 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200603/783202.md" target="_blank">孙大骆：为李克强大实话作证 （上）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1339002.md" target="_blank">自己家园自己救！华人枪友组队 守护芝城华埠(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338977.md" target="_blank">中国经济奥秘就1个字 中国经济起飞就靠地摊了!&#8221;每分钟40元印钞机水准”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338965.md" target="_blank">震撼？！传中共党内罢习会议录音？王岐山真不行了？胡舒立也快撑不住了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338938.md" target="_blank">港富豪一言震天下：从中共罪犯手中解放香港！(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200603/1338927.md" target="_blank">美全球布局围堵中共！「五眼联盟」外长通话谈中共强推恶法(图)</a></li>
 
 </ul>
 </div>
