@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339678.md">川普一出手 中南海当天就怂了 中共崩溃！俄官网现台湾国旗标注「国家」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339552.md">李克强不想再帮习近平背政治黑锅！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200604/1339439.md">李克强跟习近平开战 堪比刘少奇七千人大会斗毛泽东？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339536.md">网络传言：四名重要中共军方间谍被美国截留</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339364.md">“八九民运”遭通缉的21名学生领袖 留国内6人现状(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/783200.md">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339660.md">习近平真正不放心的是什么？ "中共短短几年就几乎被消灭" 为什么「影后」钟美美必须封杀</a></li>
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339519.md">中共高层暗战又一波 习近平连续布局防政变？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200604/1339573.md">声援六四照片惊见成龙曾志伟  杜汶泽发警告：小心冤魂！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200604/1339611.md">22名中国学生滞留瑞士 部分被遣返美国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339281.md">谢田：香港失去“自由港”地位 港币面临消失？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339454.md">中美脱钩加剧 中国客机被禁来美 涉及国安24家中方机构列美黑名单(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339875.md" target="_blank">谷歌：中伊骇客锁定侵入拜登川普阵营(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339873.md" target="_blank">【“六四”31周年】英政要：人类已为暴政付出巨大代价  抵制需要勇气</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md" target="_blank">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339853.md" target="_blank">地摊经济太火！中国互联网CEO也上街摆摊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339844.md" target="_blank">一条龙设计芯片 中国恐10年难成</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339762.md" target="_blank">时事大家谈: 北京推海南自由贸易港，香港的地位能复制吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339749.md" target="_blank">尸检报告：弗洛伊德体内检出芬太尼毒品和武汉病毒阳性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339748.md" target="_blank">骚乱中暴徒残忍弑警 白宫发言人：受害警察是英雄</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339747.md" target="_blank">芹菜柠檬汁 降血压抗病毒提升免疫力的健康饮料</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339741.md" target="_blank">希特勒的1936：世界为何会坐视纳粹毁约(图)</a></li>
 
 </ul>
 </div>
