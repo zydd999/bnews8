@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340422.md" target="_blank">留学生频传滞留机场 中领馆急喊：勿贸然转机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md" target="_blank">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340411.md" target="_blank">中医缺席抗瘟疫？中共如何系统毁灭中医(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340384.md" target="_blank">专栏 | 夜话中南海：习近平政权为何还在高喊“促进和平统一”口号？</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340094.md" target="_blank">解决边境争端 中印6日将举行中将级会谈(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340093.md" target="_blank">面对国际咎责 专家：中共策划“港版金融风暴”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340089.md" target="_blank">因应中共印太扩张 美日澳印将建立全面战略伙伴关系(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md" target="_blank">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340428.md" target="_blank">病毒二连击 新加坡又爆登革热疫情 单周染疫超700</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340388.md" target="_blank">极左派叫嚷停止资助警察遭炮轰 川普：要多拨款加强执法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340364.md" target="_blank">德国最新要求  所有加油站增设电动车充电设施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340362.md" target="_blank">相伴67年恩爱夫妻同时离世  谱写童话般的爱情</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340209.md" target="_blank">【胡少江评论】国安法威胁下的「六四」纪念更具历史意义</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 
 </ul>
 </div>
