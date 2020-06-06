@@ -2,29 +2,29 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340426.md">新书直指习近平为疫情罪魁祸首</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340357.md">一意孤行恐招灾 不顾霍金警告 中国仍将启动「天眼」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340357.md">一意孤行恐招灾 不顾霍金警告 中国仍将启动「天眼」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340328.md">美资深记者：为阻更大政治风波 中共可能会为六四平反</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340318.md">“紧日子”来了 中共各地政府支出缩减过半(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340334.md">六四日宣布成立新中国 有忧郝海东安危</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340755.md" target="_blank">星际访客「怪异天体奥陌陌」是一座星际氢冰山？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340746.md" target="_blank">研究：武汉肺炎无症状患者可透过气胶传播(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340736.md" target="_blank">”百想20“韩素希IU闪耀红地毯 李秉宪全度妍荣膺影帝后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340729.md" target="_blank">台湾史上首次 韩国瑜罢免案获93万高票通过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340726.md" target="_blank">千年前就有UFO来过地球？ 苏东坡见到写诗记录</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340588.md" target="_blank">肥胖体质容易染疫  营养师教你这样轻松防疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340587.md" target="_blank">补维C提高免疫力 还有这12种超级蔬果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340581.md" target="_blank">这可不是病急乱投医  中国早就有的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340580.md" target="_blank">芒种来临，人们常说：“三不吃两不做”，随着节气吃身体棒棒的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340579.md" target="_blank">刷牙只清25％细菌…这些事比刷牙还重要3倍</a></li>
 
 </ul>
 </div>
