@@ -2,10 +2,8 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340096.md">【独家】大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1340210.md">独家：中宣部突为李克强「地摊经济」降温    文明办文件作废删除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340134.md">耿爽卸任中共外交部发言人(图)</a></li>
@@ -18,13 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340357.md">一意孤行恐招灾 不顾霍金警告 中国仍将启动「天眼」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340426.md">新书直指习近平为疫情罪魁祸首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340318.md">“紧日子”来了 中共各地政府支出缩减过半(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340328.md">美资深记者：为阻更大政治风波 中共可能会为六四平反</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340671.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340662.md" target="_blank">卤水素鸡 简单菜肴巧妙变身成招牌菜！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340646.md" target="_blank">黎智英：香港失特殊地位形同死亡 外媒析北京在赌什么(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340645.md" target="_blank">郝海东：我看到了本质 这就是我站出来的理由(图/视频)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340537.md" target="_blank">兽爷：有一场硬仗要打</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340536.md" target="_blank">郑立：黄祸——中共国征服唔到世界 但可以同世界揽炒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340526.md" target="_blank">移花接木的骗局 过境迁之后的重操旧业</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340514.md" target="_blank">中共是如何让中国人喝酒品味变差的(图)</a></li>
 
 </ul>
 </div>
