@@ -13,6 +13,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200605/1340152.md">希望之声：大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
@@ -20,7 +21,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340563.md" target="_blank">王思聪又上热搜 旗下公司破产 拍品估值仅8708元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340552.md" target="_blank">新疆集中营 大数据监控 抓捕理由找很多…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340551.md" target="_blank">山东济南一商场 逾百名保洁员游行讨薪(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340545.md" target="_blank">北京解除湖北(含武汉)人员进京限制(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340567.md" target="_blank">金与正被推向前台立马公开为中共撑腰 攻击美国 威胁韩国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340565.md" target="_blank">图文晒晒：运动了！ 永远有理喜洋洋</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340564.md" target="_blank">现在又要重头来过 需要多少年呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md" target="_blank">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340542.md" target="_blank">张晶：听到总理鼓励地摊经济 我很意外(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340537.md" target="_blank">兽爷：有一场硬仗要打</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340460.md" target="_blank">说实在的 我烦透人脸识别了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340455.md" target="_blank">经济严重衰退 中共各级政府紧缩五成支出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340454.md" target="_blank">疫情中旅行 欧洲哪些国家已开放 哪些国家仍封关？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340447.md" target="_blank">资金流断裂 深圳楼市断供数量增加</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340446.md" target="_blank">美中加速脱钩  人民币被多家投行看跌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md" target="_blank">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
 
 </ul>
 </div>
