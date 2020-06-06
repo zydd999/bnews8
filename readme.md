@@ -6,18 +6,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340426.md">新书直指习近平为疫情罪魁祸首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340357.md">一意孤行恐招灾 不顾霍金警告 中国仍将启动「天眼」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340328.md">美资深记者：为阻更大政治风波 中共可能会为六四平反</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340334.md">六四日宣布成立新中国 有忧郝海东安危</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340422.md">留学生频传滞留机场 中领馆急喊：勿贸然转机(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
