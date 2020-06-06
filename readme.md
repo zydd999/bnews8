@@ -20,10 +20,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339986.md">美国强烈回应限飞令 中国服软 小粉紅心碎(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339986.md">美国强烈回应限飞令 中国服软 小粉紅心碎(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md" target="_blank">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md" target="_blank">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340468.md" target="_blank">白宫对德国失望 有消息指川普政府将减少9,500名驻德美军</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340460.md" target="_blank">说实在的 我烦透人脸识别了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340455.md" target="_blank">经济严重衰退 中共各级政府紧缩五成支出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340454.md" target="_blank">疫情中旅行 欧洲哪些国家已开放 哪些国家仍封关？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340447.md" target="_blank">资金流断裂 深圳楼市断供数量增加</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340335.md" target="_blank">《菜根谭》：4种人生智慧，值得一读(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340333.md" target="_blank">白宫发布纪念六四声明 敦促中共遵守承诺、结束迫害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340328.md" target="_blank">美资深记者：为阻更大政治风波 中共可能会为六四平反</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340327.md" target="_blank">焦点对话(2020年6月5日)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340310.md" target="_blank">细胞在显微镜下放大十亿倍后看到的是什么样子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340309.md" target="_blank">杰尼斯生田斗真报喜讯  闪婚女星清野菜名</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340307.md" target="_blank">评论 | 唯色：疫情导致世界剧变   人人需要有价值的关怀</a></li>
 
 </ul>
 </div>
