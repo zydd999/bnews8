@@ -18,10 +18,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200605/1340152.md">希望之声：大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339962.md">郝海东参与“反共建国”大动作 前队友反应两极化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1339888.md">胡锡进曾在六四当内奸？批蔡英文 意外暴露自己一断秘密历史？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339986.md">美国强烈回应限飞令 中国服软 小粉紅心碎(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783194.md" target="_blank">月收入不足千元，这6亿人都在哪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340436.md" target="_blank">中共民航出台“熔断”新规 引发网民恶评(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340422.md" target="_blank">留学生频传滞留机场 中领馆急喊：勿贸然转机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md" target="_blank">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340107.md" target="_blank">中共监狱、看守所灭绝人性的酷刑迫害(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340100.md" target="_blank">香港民调：林郑 邓炳强 郑若骅列被制裁前3名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340094.md" target="_blank">解决边境争端 中印6日将举行中将级会谈(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340093.md" target="_blank">面对国际咎责 专家：中共策划“港版金融风暴”(图)</a></li>
 
 </ul>
 </div>
