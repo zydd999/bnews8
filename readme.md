@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340594.md" target="_blank">撤奥巴马总统令 川普重开麻州纪念园区海域(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340593.md" target="_blank">云南再传非洲猪瘟 3月以来中国9省市出现疫情(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340583.md" target="_blank">英国敲警钟震醒西方 前外相：「中共敌视台湾 威胁全球秩序」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md" target="_blank">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340573.md" target="_blank">烈女林昭反共先驱 青春长在</a></li>
@@ -55,15 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340384.md" target="_blank">专栏 | 夜话中南海：习近平政权为何还在高喊“促进和平统一”口号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340318.md" target="_blank">“紧日子”来了 中共各地政府支出缩减过半(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340315.md" target="_blank">呼唤“新中国” 郝海东的人生轨迹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783245.md" target="_blank">奇异的人体能量场（组图）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md" target="_blank">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md" target="_blank">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
@@ -88,13 +89,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339660.md" target="_blank">习近平真正不放心的是什么？ &#8220;中共短短几年就几乎被消灭&#8221; 为什么「影后」钟美美必须封杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339646.md" target="_blank">强烈对比：中共军队开坦克镇压 美国军人下跪(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339645.md" target="_blank">【不断更新】六四31周年 港人闯维园球场点烛悼念 市民各区遍地开花</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200604/1339617.md" target="_blank">看看李克强为何戳破中国梦 外资对24万亿地方债没兴趣 江泽民情妇家乡真实中国缩影</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340600.md" target="_blank">港版国安法未出台先行恶 谭文豪曝疑被内地口音男子跟踪</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340592.md" target="_blank">过度消费的时代 记得存钱给“未来”的自己(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340590.md" target="_blank">风向突变 传李克强“地摊经济”遭中宣部紧急降温 新华社内部人士曝中央文件作废</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340589.md" target="_blank">什么“吃掉”了我们的寿命？10大公认坏习惯，可能你一直在做</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340588.md" target="_blank">肥胖体质容易染疫  营养师教你这样轻松防疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340587.md" target="_blank">补维C提高免疫力 还有这12种超级蔬果</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340581.md" target="_blank">这可不是病急乱投医  中国早就有的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340580.md" target="_blank">芒种来临，人们常说：“三不吃两不做”，随着节气吃身体棒棒的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340579.md" target="_blank">刷牙只清25％细菌…这些事比刷牙还重要3倍</a></li>
@@ -113,13 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340508.md" target="_blank">【网络民议】劳丽诗：我本善人 遇蛆则刚(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340502.md" target="_blank">李怡：妥协折衷只会让中共更贪婪和更肆无忌惮</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340497.md" target="_blank">林本利: 立国安法 权贵惶恐不安(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340496.md" target="_blank">颜纯钩：中共党内反习势力正在集结</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340495.md" target="_blank">吴国光：旧事、旧文，疑似时光倒流</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340494.md" target="_blank">沈荣钦：北电的衰亡与华为的兴起(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340489.md" target="_blank">美国之音常为中共帮腔 终于换帅 美国共和党25年争取之胜利</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340481.md" target="_blank">想念那些被赶走的小摊(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md" target="_blank">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md" target="_blank">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
 
 </ul>
 </div>
