@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340096.md">【独家】大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
@@ -12,19 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md">六四当天郝海东宣读“新中国”成立宣言后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340134.md">耿爽卸任中共外交部发言人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339979.md">“六四”镇压死了多少人? 英国解密让人惊讶(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340238.md">怕啥？川普此信遭微博绝杀 70国全球联盟准备起诉中共 世卫遭爆太离谱 新内幕曝光</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200605/1340152.md">希望之声：大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340038.md">微博全面封杀 郝海东这个事 办起来有点难~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340029.md">37%香港人想移民中共外交部竟回应…..(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340318.md">“紧日子”来了 中共各地政府支出缩减过半(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340523.md" target="_blank">香港《国安法》：八国议员组建跨国“反中共”联盟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340513.md" target="_blank">专家：中共只是纸老虎 垮台有三关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340512.md" target="_blank">神州大地冤案知多少？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340501.md" target="_blank">耿爽走了 宣布卸任发言人 未透露去向(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340178.md" target="_blank">上海男杀妻藏尸冰柜逾百日 凶手受死刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340177.md" target="_blank">大陆留学生知六四真相觉醒 认清中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340175.md" target="_blank">海南卡拉OK突然爆炸 目击者：女孩倒地满身血</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340151.md" target="_blank">中共民航出台“熔断”新规 加紧闭关锁国？(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340526.md" target="_blank">移花接木的骗局 过境迁之后的重操旧业</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340514.md" target="_blank">中共是如何让中国人喝酒品味变差的(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340509.md" target="_blank">罐头辰: 美化地摊经济 是对穷人的残忍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340508.md" target="_blank">【网络民议】劳丽诗：我本善人 遇蛆则刚(图）</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340442.md" target="_blank">王思聪又上热搜 旗下公司破产 拍品估值仅8708元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340438.md" target="_blank">既然宇宙中的所有天体都有旋转，那宇宙是转还是不转？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340435.md" target="_blank">美国就业正向增长 三大股指飙升 道指大涨800点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340428.md" target="_blank">病毒二连击 新加坡又爆登革热疫情 单周染疫超700</a></li>
 
 </ul>
 </div>
