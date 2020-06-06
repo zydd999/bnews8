@@ -16,11 +16,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340426.md">新书直指习近平为疫情罪魁祸首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340426.md">新书直指习近平为疫情罪魁祸首</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340854.md" target="_blank">英女童失踪案13年后嫌犯德国现形  或与三桩幼童失踪案有染</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340853.md" target="_blank">夏天车内温度，会高达55℃？这些东西千万不要留车内！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340852.md" target="_blank">六四民主精神 凝聚港人斗志(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340839.md" target="_blank">南极绿了 北极河流红了 俄罗斯宣布紧急状态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340836.md" target="_blank">获民主党总统候选人提名资格后 拜登再次口不择言遭谴责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340809.md" target="_blank">纽约市骚乱不止 市长白思毫被批没有领导力 只会打混血家庭牌</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340671.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340662.md" target="_blank">卤水素鸡 简单菜肴巧妙变身成招牌菜！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340646.md" target="_blank">黎智英：香港失特殊地位形同死亡 外媒析北京在赌什么(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340645.md" target="_blank">郝海东：我看到了本质 这就是我站出来的理由(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340637.md" target="_blank">「零确诊」破局 朝鲜2医院疑数十人死于中共病毒</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340600.md" target="_blank">港版国安法未出台先行恶 谭文豪曝疑被内地口音男子跟踪</a></li>
 
 </ul>
 </div>
