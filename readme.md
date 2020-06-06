@@ -8,23 +8,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340577.md">UFO从几十万度高温的太阳里飞出？(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340879.md" target="_blank">英外事委员会主席：中共威胁国际秩序 需全球战略应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340854.md" target="_blank">英女童失踪案13年后嫌犯德国现形  或与三桩幼童失踪案有染</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340853.md" target="_blank">夏天车内温度，会高达55℃？这些东西千万不要留车内！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340852.md" target="_blank">六四民主精神 凝聚港人斗志(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340687.md" target="_blank">民调：64%的英国民众认为政府应该对中共更强硬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340671.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340662.md" target="_blank">卤水素鸡 简单菜肴巧妙变身成招牌菜！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340646.md" target="_blank">黎智英：香港失特殊地位形同死亡 外媒析北京在赌什么(图)</a></li>
 
 </ul>
 </div>
