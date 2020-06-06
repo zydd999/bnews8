@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340096.md">【独家】大厦将倾！知情官员惊爆李克强怀揣更大“炸弹”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339980.md">公开吁推翻中共后 郝海东夫妇遭大陆当局紧急封杀(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1339866.md">李克强没说谎 北师大调查：中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340056.md">内斗传言四起！李克强说实话被约谈？“检讨书”流出(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200605/1340043.md">郝海东宣读宣言 中媒猛烈狙击却不敢直呼其名(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340039.md">中国留美学生暴乱中趁火打劫 被捕后承认中使馆指使</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1339986.md">美国强烈回应限飞令 中国服软 小粉紅心碎(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md">科学史上的大骗局：进化论（组图）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340455.md" target="_blank">经济严重衰退 中共各级政府紧缩五成支出</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340454.md" target="_blank">疫情中旅行 欧洲哪些国家已开放 哪些国家仍封关？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340447.md" target="_blank">资金流断裂 深圳楼市断供数量增加</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340446.md" target="_blank">美中加速脱钩  人民币被多家投行看跌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md" target="_blank">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340310.md" target="_blank">细胞在显微镜下放大十亿倍后看到的是什么样子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340309.md" target="_blank">杰尼斯生田斗真报喜讯  闪婚女星清野菜名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340307.md" target="_blank">评论 | 唯色：疫情导致世界剧变   人人需要有价值的关怀</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340281.md" target="_blank">边走边看 让世界16大知名花海一扫疫情的阴霾</a></li>
 
 </ul>
 </div>
