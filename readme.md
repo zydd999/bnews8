@@ -6,12 +6,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340813.md" target="_blank">为你而来 ???? 【永恒的五十分钟】 ｜ COMING FOR YOU II 【ETERNAL FIFTY MINUTES】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md" target="_blank">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340745.md" target="_blank">韩国瑜： 罢免已成定局，引爆台湾政坛的“韩流”黯然落幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md" target="_blank">禁片：永恒的五十分钟</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340523.md" target="_blank">香港《国安法》：八国议员组建跨国“反中共”联盟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340513.md" target="_blank">专家：中共只是纸老虎 垮台有三关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340512.md" target="_blank">神州大地冤案知多少？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340501.md" target="_blank">耿爽走了 宣布卸任发言人 未透露去向(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340809.md" target="_blank">纽约市骚乱不止 市长白思毫被批没有领导力 只会打混血家庭牌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md" target="_blank">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340804.md" target="_blank">香煎玉米烙 简单随意的混搭 味道确出其不意的好！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340777.md" target="_blank">皇帝不急太监急 美总统大选  「魅力小猫」来袭？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340776.md" target="_blank">千年难见的七头蛇：这是什么暗示？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340755.md" target="_blank">星际访客「怪异天体奥陌陌」是一座星际氢冰山？</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340600.md" target="_blank">港版国安法未出台先行恶 谭文豪曝疑被内地口音男子跟踪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340592.md" target="_blank">过度消费的时代 记得存钱给“未来”的自己(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340590.md" target="_blank">风向突变 传李克强“地摊经济”遭中宣部紧急降温 新华社内部人士曝中央文件作废</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340589.md" target="_blank">什么“吃掉”了我们的寿命？10大公认坏习惯，可能你一直在做</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340588.md" target="_blank">肥胖体质容易染疫  营养师教你这样轻松防疫</a></li>
 
 </ul>
 </div>
