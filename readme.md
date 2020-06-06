@@ -5,26 +5,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200606/1340417.md">乾隆帝的“真容” 被意大利一位画家偷画下来(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200606/1340383.md">中国客机又可重新往返美国了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200606/1340389.md">〖兲朝浮世绘〗去年北京一别，中共和老朋友就永别了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340426.md">新书直指习近平为疫情罪魁祸首</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340357.md">一意孤行恐招灾 不顾霍金警告 中国仍将启动「天眼」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340444.md">微信密码改FuckCCP89 45秒内被永久封号(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340816.md" target="_blank">暴雨侵袭 长江流域五个站点洪水超警戒线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340813.md" target="_blank">为你而来 ???? 【永恒的五十分钟】 ｜ COMING FOR YOU II 【ETERNAL FIFTY MINUTES】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md" target="_blank">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340745.md" target="_blank">韩国瑜： 罢免已成定局，引爆台湾政坛的“韩流”黯然落幕</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340538.md" target="_blank">地摊走红 “雷人标语”网路热传(图集/3视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340523.md" target="_blank">香港《国安法》：八国议员组建跨国“反中共”联盟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340513.md" target="_blank">专家：中共只是纸老虎 垮台有三关键(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340512.md" target="_blank">神州大地冤案知多少？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md" target="_blank">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md" target="_blank">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md" target="_blank">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340740.md" target="_blank">美国暴动：BLM &#038; ANTIFA是什么组织？(图集)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340081.md" target="_blank">还打911吗？家长对华二代被教育成华左的焦虑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340076.md" target="_blank">香港富豪誓言余生抗争到底：留岛不留人？凭乜？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340055.md" target="_blank">中美大战围堵中共日新月异 每一天几乎都是中共坏日子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340002.md" target="_blank">六四当天郝海东宣读“新中国”成立宣言后</a></li>
 
 </ul>
 </div>
