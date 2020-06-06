@@ -7,9 +7,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340098.md">英国首相警告中共：将做出历史性变革 英国爆出核弹级外交决策 英国或五年内承认台湾 以军事手段捍卫台湾安全</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200605/1340210.md">独家：中宣部突为李克强「地摊经济」降温    文明办文件作废删除</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340134.md">耿爽卸任中共外交部发言人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340416.md">中印战争恐爆发！中共逾五千运兵车昼夜不停（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340082.md">微博全面封杀 郝海东这个事 办起来有点难(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200606/1340382.md">颜纯鈎&#65306;中共党内反习势力正在集结</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md" target="_blank">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340594.md" target="_blank">撤奥巴马总统令 川普重开麻州纪念园区海域(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340593.md" target="_blank">云南再传非洲猪瘟 3月以来中国9省市出现疫情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340411.md" target="_blank">中医缺席抗瘟疫？中共如何系统毁灭中医(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340384.md" target="_blank">专栏 | 夜话中南海：习近平政权为何还在高喊“促进和平统一”口号？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340318.md" target="_blank">“紧日子”来了 中共各地政府支出缩减过半(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200605/1340315.md" target="_blank">呼唤“新中国” 郝海东的人生轨迹</a></li>
 
 </ul>
 </div>
