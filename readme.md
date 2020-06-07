@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341381.md" target="_blank">陈破空：权斗骤然升温！习家军围攻李克强，副主席暗助总理。多名常委卷入。默克尔走入迷途</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341371.md" target="_blank">先锋网信投资人上海维权 遭暴力驱散抓人(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341361.md" target="_blank">北京清除地摊经济引民愤 网民揭中共老底(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341293.md" target="_blank">中国“六四“仍在抗争 台湾罢韩只是开始</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md" target="_blank">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340996.md" target="_blank">英外事委员会主席：中共威胁国际秩序 需全球战略应对(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340986.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340982.md" target="_blank">萧铭：川普要发大招！禁止美国退休金投资中国，为全面停止对中共投资拉开序幕。</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341380.md" target="_blank">德外长：与北京对话 欧洲需扞卫自由价值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341365.md" target="_blank">前世卫总干事为阻止SAS疫情蔓延  曾公开施压中共迫使其合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341357.md" target="_blank">中共利用弗洛伊德之死欺骗民众 美国务院斥其下流可笑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341309.md" target="_blank">防疫松绑 英国15日起有限度重开礼拜场所</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341047.md" target="_blank">【微博精粹】正事干得很扯淡 混事干得很专业 全宇宙也就这家了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341046.md" target="_blank">北游： 普京的粉丝 为何送孩子去欧美留学？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341045.md" target="_blank">李怡：香港人的新六四情结(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341044.md" target="_blank">退伍兵小贩割喉城管队长 两人的悲剧 问题出在哪里？(图)</a></li>
 
 </ul>
 </div>
