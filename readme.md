@@ -11,20 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341175.md">重磅文件 中共党官言行18「不准」曝光(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341186.md">黑丝短裙的空姐下地插秧 你怎么看？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200606/1340778.md">胞妹出面掌权 或佐证金正恩真遇不测</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341078.md">微信监控如此惊人！她密码改成这个 45秒后帐号被永久移除(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/sports/20200607/1341188.md">国青球员混乱私生活曝光：玩通宵约女孩不忍直视(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200607/1340860.md">非洲裔骚乱成果丰硕：白宫前大街改名，维吉尼亚推倒将军雕像，旧金山削减警察预算</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1340784.md">李克强遭北京市打脸 中共高层对地摊经济或现分歧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340904.md" target="_blank">马克·塔兰特律师：为德鲁·帕夫洛而战，还击中共的「纳粹策略」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341225.md" target="_blank">大陆4名未满14岁学生强奸女孩未立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341224.md" target="_blank">湖北女到三亚即被确诊染疫 同机25人被隔离</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340951.md" target="_blank">江峰：川普使用军队对付内乱，胡锡进酸文透露中共出兵香港的舆论准备；军队国家化与民选政府是国家应对社会极端状况的必要条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340950.md" target="_blank">江峰：习近平川普下重注究竟在赌什麽？中共偷疫苗反咬一口；川普动真格视同战争。众议院3万亿背後的水很深</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340949.md" target="_blank">江峰：川普发声断交，军事外交经济文化全动员；中共呛声反制，革命八卦报连续骂大街</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340933.md" target="_blank">五毛应聘 时事小品_652期</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341233.md" target="_blank">习近平李克强之争有多严重？李克强被他打得头破血流 香港17区议会通过动议撤回恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341208.md" target="_blank">西方几十国联手制共引轰动 重要信号:欧洲开始远离中共 捷克也抨击中共 新议长誓访台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md" target="_blank">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md" target="_blank">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340290.md" target="_blank">川普宣告美国大胜 国安法 这一招中南海怕了 李克强没说谎 中国月入两千以下9.64亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341231.md" target="_blank">中印边界频爆冲突双方举行最高层级会谈 但进展不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341221.md" target="_blank">杨子仪自爆全家人都胖 听从风水师动一格局立刻瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341200.md" target="_blank">没有含着金汤匙出生？ 那就养成这“习惯”(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341021.md" target="_blank">中共“五个一”——美国禁飞令——中共急转弯  网民：欠收拾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341020.md" target="_blank">“网红”市长韩国瑜成为历史 林郑何时卷铺盖？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341002.md" target="_blank">苦胆：“你现在依然是亚洲第一前锋”</a></li>
 
 </ul>
 </div>
