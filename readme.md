@@ -13,12 +13,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341065.md" target="_blank">凡事就人脸识别，你的懒政别太让我难受 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341060.md" target="_blank">白左的五个样本 权限最高是女性穆斯林黑人同性恋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341047.md" target="_blank">【微博精粹】正事干得很扯淡 混事干得很专业 全宇宙也就这家了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341046.md" target="_blank">北游： 普京的粉丝 为何送孩子去欧美留学？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341045.md" target="_blank">李怡：香港人的新六四情结(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340939.md" target="_blank">霍小山: 中国地摊经济简史(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340928.md" target="_blank">罢韩成功只是开始 台湾不可忽视的中国渗透力量(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340920.md" target="_blank">中国批美没人权 蓬佩奥回轰下流可笑(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md" target="_blank">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340918.md" target="_blank">陶杰：韩“市长”三错</a></li>
 
 </ul>
 </div>
