@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340921.md" target="_blank">TikTok成中共超限战武器 年轻人追捧有何危害？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340916.md" target="_blank">雄安新区征地“以租代征”村民维权遭训诫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340901.md" target="_blank">推动科技整合 美军5G基地增至12座(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md" target="_blank">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340890.md" target="_blank">蓬佩奥：北京冷酷无情地利用弗洛伊德之死</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340583.md" target="_blank">英国敲警钟震醒西方 前外相：「中共敌视台湾 威胁全球秩序」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md" target="_blank">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340573.md" target="_blank">烈女林昭反共先驱 青春长在</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340568.md" target="_blank">罢韩前夕 中共党媒发稿力挺韩国瑜(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340563.md" target="_blank">王思聪又上热搜 旗下公司破产 拍品估值仅8708元(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340928.md" target="_blank">罢韩成功只是开始 台湾不可忽视的中国渗透力量(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340920.md" target="_blank">中国批美没人权 蓬佩奥回轰下流可笑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md" target="_blank">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340918.md" target="_blank">陶杰：韩“市长”三错</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340917.md" target="_blank">胡野原: 盯着摊贩们的不只是城管 还有骗子！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340915.md" target="_blank">喊了没有用 还要喊吗？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340914.md" target="_blank">中国应届生遇疫情就业更难 专家推再读两年大学(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340902.md" target="_blank">欧文斯：我不支持弗洛伊德 他不是我的英雄(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340879.md" target="_blank">英外事委员会主席：中共威胁国际秩序 需全球战略应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340854.md" target="_blank">英女童失踪案13年后嫌犯德国现形  或与三桩幼童失踪案有染</a></li>
@@ -113,13 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340729.md" target="_blank">台湾史上首次 韩国瑜罢免案获93万高票通过</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340726.md" target="_blank">千年前就有UFO来过地球？ 苏东坡见到写诗记录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340723.md" target="_blank">聚焦中共酷刑洗脑 西班牙主流媒体专访法轮功学员</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340706.md" target="_blank">滥竽充数的南郭先生 竟然世界巡演 怎么做到的(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340703.md" target="_blank">IG账号遭盗用陷网络围攻  炎亚纶怒揭“仇恨挑衅”退出微博</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340698.md" target="_blank">美国专家：西方与中共的魔鬼交易正在瓦解(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340693.md" target="_blank">英美议员：西方的迷失导致北京崛起 英美须二度联盟再显雄风</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340688.md" target="_blank">何鸿燊尸骨未寒 身后5000亿港币资产恐引发争夺大战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340687.md" target="_blank">民调：64%的英国民众认为政府应该对中共更强硬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340671.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀</a></li>
 
 </ul>
 </div>
