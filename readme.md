@@ -2,13 +2,11 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340469.md">李克强真有事？中宣部突封杀“地摊经济” 中央文件作废</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340470.md">记者测试改微信密码含CCP89  45秒内被永久封号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340510.md">大陆龙头厂爆料救不了华为！背后暗藏2大内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340511.md">烈女林昭在狱中爱上柯庆施的真正原因(图)</a></li>
@@ -24,7 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,14 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340952.md" target="_blank">江峰：六四点滴回忆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340951.md" target="_blank">江峰：川普使用军队对付内乱，胡锡进酸文透露中共出兵香港的舆论准备；军队国家化与民选政府是国家应对社会极端状况的必要条件</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340950.md" target="_blank">江峰：习近平川普下重注究竟在赌什麽？中共偷疫苗反咬一口；川普动真格视同战争。众议院3万亿背後的水很深</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340949.md" target="_blank">江峰：川普发声断交，军事外交经济文化全动员；中共呛声反制，革命八卦报连续骂大街</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340933.md" target="_blank">五毛应聘 时事小品_652期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md" target="_blank">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340931.md" target="_blank">陈破空：习近平紧急撤离在美特工！党媒渲染美国示威。孟晚舟梦碎。人大表决前军方高层动向神秘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340930.md" target="_blank">陈破空：香港告急！胡总编恳请美国出兵？习亲信透露：都是习近平个人所为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340921.md" target="_blank">TikTok成中共超限战武器 年轻人追捧有何危害？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340916.md" target="_blank">雄安新区征地“以租代征”村民维权遭训诫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340901.md" target="_blank">推动科技整合 美军5G基地增至12座(图)</a></li>
@@ -50,14 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md" target="_blank">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md" target="_blank">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md" target="_blank">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340644.md" target="_blank">中共实弹军演？国军飞弹射击操演反制(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md" target="_blank">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340594.md" target="_blank">撤奥巴马总统令 川普重开麻州纪念园区海域(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340593.md" target="_blank">云南再传非洲猪瘟 3月以来中国9省市出现疫情(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340583.md" target="_blank">英国敲警钟震醒西方 前外相：「中共敌视台湾 威胁全球秩序」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340582.md" target="_blank">李克强不愿背锅 但怀揣更大“炸弹” 地方官怒揭真相(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340573.md" target="_blank">烈女林昭反共先驱 青春长在</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340966.md" target="_blank">传统中国是「低信任社会」吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340965.md" target="_blank">真正的战狼 血液里流淌着贵族精神(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340962.md" target="_blank">电影《冲击效应》：关于种族歧视的和解与救赎(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340948.md" target="_blank">欧盟委员会副主席：中共的假新闻在中共病毒疫情中占据了欧盟的发言权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340939.md" target="_blank">霍小山: 中国地摊经济简史(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340928.md" target="_blank">罢韩成功只是开始 台湾不可忽视的中国渗透力量(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340920.md" target="_blank">中国批美没人权 蓬佩奥回轰下流可笑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md" target="_blank">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340777.md" target="_blank">皇帝不急太监急 美总统大选  「魅力小猫」来袭？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340776.md" target="_blank">千年难见的七头蛇：这是什么暗示？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340755.md" target="_blank">星际访客「怪异天体奥陌陌」是一座星际氢冰山？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340746.md" target="_blank">研究：武汉肺炎无症状患者可透过气胶传播(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340736.md" target="_blank">”百想20“韩素希IU闪耀红地毯 李秉宪全度妍荣膺影帝后</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340729.md" target="_blank">台湾史上首次 韩国瑜罢免案获93万高票通过</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340726.md" target="_blank">千年前就有UFO来过地球？ 苏东坡见到写诗记录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340723.md" target="_blank">聚焦中共酷刑洗脑 西班牙主流媒体专访法轮功学员</a></li>
 
 </ul>
 </div>
