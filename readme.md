@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200606/1340778.md">胞妹出面掌权 或佐证金正恩真遇不测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200606/1340705.md">北京疑怼李克强 高层对地摊经济或现分歧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341207.md" target="_blank">中共现已四面楚歌 将自食其果(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341206.md" target="_blank">高层多角内斗？财新网帮李克强被指“提油救火”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341175.md" target="_blank">重磅文件 中共党官言行18「不准」曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341120.md" target="_blank">在美国闹革命 时事小品_655期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341019.md" target="_blank">陈破空：陈破空说段子：胡锡进想升官，王沪宁这样回答他</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340921.md" target="_blank">TikTok成中共超限战武器 年轻人追捧有何危害？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340916.md" target="_blank">雄安新区征地“以租代征”村民维权遭训诫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340901.md" target="_blank">推动科技整合 美军5G基地增至12座(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md" target="_blank">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340890.md" target="_blank">蓬佩奥：北京冷酷无情地利用弗洛伊德之死</a></li>
 
 </ul>
 </div>
