@@ -11,20 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340577.md">UFO从几十万度高温的太阳里飞出？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340717.md">同意票破93万 韩国瑜成台史上首名被罢市长</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340577.md">UFO从几十万度高温的太阳里飞出？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341066.md" target="_blank">陶杰：左胶癌变成左暴 跳出来是大好事</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341065.md" target="_blank">凡事就人脸识别，你的懒政别太让我难受 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341060.md" target="_blank">白左的五个样本 权限最高是女性穆斯林黑人同性恋(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341047.md" target="_blank">【微博精粹】正事干得很扯淡 混事干得很专业 全宇宙也就这家了(组图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340948.md" target="_blank">欧盟委员会副主席：中共的假新闻在中共病毒疫情中占据了欧盟的发言权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340939.md" target="_blank">霍小山: 中国地摊经济简史(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340928.md" target="_blank">罢韩成功只是开始 台湾不可忽视的中国渗透力量(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340920.md" target="_blank">中国批美没人权 蓬佩奥回轰下流可笑(图)</a></li>
 
 </ul>
 </div>
