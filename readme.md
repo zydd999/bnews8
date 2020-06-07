@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340543.md">“逃生门”忽然大开 中共害怕奴隶脱离自己</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340480.md">任性女贪官：50万做臀部整形、5万睡区领导(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340605.md">「耿爽不爽」恐成绝响！5大崩溃金句你听过几句？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340577.md">UFO从几十万度高温的太阳里飞出？(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340986.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340982.md" target="_blank">萧铭：川普要发大招！禁止美国退休金投资中国，为全面停止对中共投资拉开序幕。</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340980.md" target="_blank">文昭：中国地摊「大跃进」与房市崩盘；郝海东反共宣言波澜延续；习、李拆招新「泄密」：大家各自找坐标</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340979.md" target="_blank">文昭：美元荒、中共慌；疫苗黑客或触发美国的战争机制</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340952.md" target="_blank">江峰：六四点滴回忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340951.md" target="_blank">江峰：川普使用军队对付内乱，胡锡进酸文透露中共出兵香港的舆论准备；军队国家化与民选政府是国家应对社会极端状况的必要条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340950.md" target="_blank">江峰：习近平川普下重注究竟在赌什麽？中共偷疫苗反咬一口；川普动真格视同战争。众议院3万亿背後的水很深</a></li>
@@ -54,16 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md" target="_blank">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340745.md" target="_blank">韩国瑜： 罢免已成定局，引爆台湾政坛的“韩流”黯然落幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md" target="_blank">禁片：永恒的五十分钟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340717.md" target="_blank">同意票破93万 韩国瑜成台史上首名被罢市长</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md" target="_blank">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md" target="_blank">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340658.md" target="_blank">郝海东夫妇公开反叛 外界忧安危 23岁儿子引关注(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md" target="_blank">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md" target="_blank">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md" target="_blank">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md" target="_blank">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
@@ -88,13 +89,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340120.md" target="_blank">真实的美国： 白人被警察枪杀可能性几乎是黑人两倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340081.md" target="_blank">还打911吗？家长对华二代被教育成华左的焦虑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340076.md" target="_blank">香港富豪誓言余生抗争到底：留岛不留人？凭乜？(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340055.md" target="_blank">中美大战围堵中共日新月异 每一天几乎都是中共坏日子</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md" target="_blank">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340990.md" target="_blank">颜纯钩：亲共是韩国瑜的政治毒药</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340989.md" target="_blank">纽约大主教含泪怒吼：就算你们杀了我我也要说 是黑人群体出了问题！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340988.md" target="_blank">狐度工作室: 假奶粉案罚200万，谁是“最大赢家”(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340966.md" target="_blank">传统中国是「低信任社会」吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340965.md" target="_blank">真正的战狼 血液里流淌着贵族精神(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340962.md" target="_blank">电影《冲击效应》：关于种族歧视的和解与救赎(图)</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340836.md" target="_blank">获民主党总统候选人提名资格后 拜登再次口不择言遭谴责</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340809.md" target="_blank">纽约市骚乱不止 市长白思毫被批没有领导力 只会打混血家庭牌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md" target="_blank">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340804.md" target="_blank">香煎玉米烙 简单随意的混搭 味道确出其不意的好！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340777.md" target="_blank">皇帝不急太监急 美总统大选  「魅力小猫」来袭？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340776.md" target="_blank">千年难见的七头蛇：这是什么暗示？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/1340755.md" target="_blank">星际访客「怪异天体奥陌陌」是一座星际氢冰山？</a></li>
 
 </ul>
 </div>
