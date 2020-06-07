@@ -21,9 +21,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1341203.md">地摊经济中央分歧 央视疑批李克强地摊经济令全国城市管理功亏一篑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200607/1341274.md">郝海东叶钊颖 我们的下半场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341162.md">美非裔活动家: 弗洛伊德持枪抢劫、屡次入狱服刑 不该被英雄化(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200607/1341274.md">郝海东叶钊颖 我们的下半场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341361.md" target="_blank">北京清除地摊经济引民愤 网民揭中共老底(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341293.md" target="_blank">中国“六四“仍在抗争 台湾罢韩只是开始</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341292.md" target="_blank">3.7万字自我表扬 中国发布抗疫白皮书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341278.md" target="_blank">疫情后遗症 中国5月外贸愁云惨淡</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340986.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340982.md" target="_blank">萧铭：川普要发大招！禁止美国退休金投资中国，为全面停止对中共投资拉开序幕。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340980.md" target="_blank">文昭：中国地摊「大跃进」与房市崩盘；郝海东反共宣言波澜延续；习、李拆招新「泄密」：大家各自找坐标</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340979.md" target="_blank">文昭：美元荒、中共慌；疫苗黑客或触发美国的战争机制</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341365.md" target="_blank">前世卫总干事为阻止SAS疫情蔓延  曾公开施压中共迫使其合作</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341357.md" target="_blank">中共利用弗洛伊德之死欺骗民众 美国务院斥其下流可笑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341309.md" target="_blank">防疫松绑 英国15日起有限度重开礼拜场所</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341285.md" target="_blank">高以翔猝死没让浙江卫视学乖  暴雨涨水又让艺人坐竹筏</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341046.md" target="_blank">北游： 普京的粉丝 为何送孩子去欧美留学？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341045.md" target="_blank">李怡：香港人的新六四情结(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341044.md" target="_blank">退伍兵小贩割喉城管队长 两人的悲剧 问题出在哪里？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341032.md" target="_blank">饥饿怪兽追捕我一生(图)</a></li>
 
 </ul>
 </div>
