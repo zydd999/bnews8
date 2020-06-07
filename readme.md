@@ -7,14 +7,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340681.md">北极圈河流鲜红如血 俄罗斯宣布紧急状态(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341008.md">纽约大主教含泪怒吼：就算你们杀了我我也要说，是黑人群体出了问题！ （视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
@@ -22,9 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340717.md">同意票破93万 韩国瑜成台史上首名被罢市长</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341200.md" target="_blank">没有含着金汤匙出生？ 那就养成这“习惯”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341193.md" target="_blank">疫情中诺曼底登陆76周年纪念日：不变的是那份怀念</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341174.md" target="_blank">陆媒热报韩国瑜“跌落” 中国网友惊叹：原来这就是民主</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341163.md" target="_blank">美国的白左 希拉里阵营 左 vs 白左 特殊的思维行为模式(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341002.md" target="_blank">苦胆：“你现在依然是亚洲第一前锋”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341001.md" target="_blank">马国川：历史上的今天：网络疯传这封“罪己诏”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341000.md" target="_blank">何清涟：美国动乱考验世界的政治智慧 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md" target="_blank">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
 
 </ul>
 </div>
