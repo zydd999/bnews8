@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341186.md">黑丝短裙的空姐下地插秧 你怎么看？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/sports/20200607/1341188.md">国青球员混乱私生活曝光：玩通宵约女孩不忍直视(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341206.md">高层多角内斗？财新网帮李克强被指“提油救火”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/sports/20200607/1341188.md">国青球员混乱私生活曝光：玩通宵约女孩不忍直视(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341233.md">习近平李克强之争有多严重？李克强被他打得头破血流 香港17区议会通过动议撤回恶法</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341208.md">西方几十国联手制共引轰动 重要信号:欧洲开始远离中共 捷克也抨击中共 新议长誓访台</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341207.md">中共现已四面楚歌 将自食其果(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341078.md">微信监控如此惊人！她密码改成这个 45秒后帐号被永久移除(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341208.md">西方几十国联手制共引轰动 重要信号:欧洲开始远离中共 捷克也抨击中共 新议长誓访台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200606/1340778.md">胞妹出面掌权 或佐证金正恩真遇不测</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341207.md">中共现已四面楚歌 将自食其果(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341293.md" target="_blank">中国“六四“仍在抗争 台湾罢韩只是开始</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341292.md" target="_blank">3.7万字自我表扬 中国发布抗疫白皮书</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341278.md" target="_blank">疫情后遗症 中国5月外贸愁云惨淡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341276.md" target="_blank">“韩国瑜被罢免”火爆大陆网络 冲上热搜第一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340982.md" target="_blank">萧铭：川普要发大招！禁止美国退休金投资中国，为全面停止对中共投资拉开序幕。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340980.md" target="_blank">文昭：中国地摊「大跃进」与房市崩盘；郝海东反共宣言波澜延续；习、李拆招新「泄密」：大家各自找坐标</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340979.md" target="_blank">文昭：美元荒、中共慌；疫苗黑客或触发美国的战争机制</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340952.md" target="_blank">江峰：六四点滴回忆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340951.md" target="_blank">江峰：川普使用军队对付内乱，胡锡进酸文透露中共出兵香港的舆论准备；军队国家化与民选政府是国家应对社会极端状况的必要条件</a></li>
 
 </ul>
 </div>
