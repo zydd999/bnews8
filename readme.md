@@ -13,12 +13,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341008.md">纽约大主教含泪怒吼：就算你们杀了我我也要说，是黑人群体出了问题！ （视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341008.md">纽约大主教含泪怒吼：就算你们杀了我我也要说，是黑人群体出了问题！ （视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
