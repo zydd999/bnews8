@@ -17,14 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340806.md">文睿：出人意料 习近平撰文直接反驳李克强 李克强怎么办？习李矛盾完全公开化(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340669.md">耿爽升官 甩锅美国 网友：耿爽要多读书啦！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200606/1340575.md">“绿”到床头！武汉男子时隔4个月回家 惊呆了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340577.md">UFO从几十万度高温的太阳里飞出？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340599.md">WHO认了口罩有用！谭德塞公布最新戴罩指示 全球震惊了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341090.md" target="_blank">美学者吁华府：应考虑与台湾重建军事和政治关系(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341078.md" target="_blank">微信监控如此惊人！她密码改成这个 45秒后帐号被永久移除(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341008.md" target="_blank">纽约大主教含泪怒吼：就算你们杀了我我也要说，是黑人群体出了问题！ （视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md" target="_blank">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md" target="_blank">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
@@ -87,8 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340174.md" target="_blank">重磅！白宫刚出手 中共无计? 一条龙设计芯片中共10年难成 瑞银降中国股票评级至减持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340121.md" target="_blank">民不聊生 李克强真怕了！与习近平已经斗争5年了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340120.md" target="_blank">真实的美国： 白人被警察枪杀可能性几乎是黑人两倍(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200605/1340081.md" target="_blank">还打911吗？家长对华二代被教育成华左的焦虑</a></li>
 
 </ul>
 </div>
