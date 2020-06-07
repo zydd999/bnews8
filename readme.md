@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200607/1340827.md">周润发享誉亚洲 一生不与成龙合作 曾大骂刘德华：你算什么东西(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340919.md">几百万买的学位泡汤 深圳家长集体下跪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200606/1340721.md">安徽淮北13岁女孩举报亲妈出轨 副局长与有夫之妇生子被纪委调查(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/783188.md">禁片：永恒的五十分钟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340857.md">「常带男人回家睡」13岁女儿写信举报妈妈出轨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340884.md">文昭：韩国瑜被罢免，创前所未有的历史！习近平和中共得到何种警示 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340859.md">陈破空：王沪宁反扑，踩地摊报复李克强！台湾罢免一个人，沉重打击习近平 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340717.md">同意票破93万 韩国瑜成台史上首名被罢市长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200606/1340778.md">胞妹出面掌权 或佐证金正恩真遇不测</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341175.md">重磅文件 中共党官言行18「不准」曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200606/1340724.md">摆摊一天到底能挣多少钱？10名摊主算了一笔帐(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/usa/20200607/1340860.md">非洲裔骚乱成果丰硕：白宫前大街改名，维吉尼亚推倒将军雕像，旧金山削减警察预算</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1340784.md">李克强遭北京市打脸 中共高层对地摊经济或现分歧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341225.md" target="_blank">大陆4名未满14岁学生强奸女孩未立案</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341224.md" target="_blank">湖北女到三亚即被确诊染疫 同机25人被隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341223.md" target="_blank">暴雨让艺人搭竹筏 浙江卫视挨轰害死高以翔不够</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341211.md" target="_blank">“正能量”源于造假 新闻主人公曝内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341207.md" target="_blank">中共现已四面楚歌 将自食其果(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341206.md" target="_blank">高层多角内斗？财新网帮李克强被指“提油救火”(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340949.md" target="_blank">江峰：川普发声断交，军事外交经济文化全动员；中共呛声反制，革命八卦报连续骂大街</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340933.md" target="_blank">五毛应聘 时事小品_652期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md" target="_blank">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340931.md" target="_blank">陈破空：习近平紧急撤离在美特工！党媒渲染美国示威。孟晚舟梦碎。人大表决前军方高层动向神秘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340930.md" target="_blank">陈破空：香港告急！胡总编恳请美国出兵？习亲信透露：都是习近平个人所为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340921.md" target="_blank">TikTok成中共超限战武器 年轻人追捧有何危害？(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341231.md" target="_blank">中印边界频爆冲突双方举行最高层级会谈 但进展不大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341221.md" target="_blank">杨子仪自爆全家人都胖 听从风水师动一格局立刻瘦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341200.md" target="_blank">没有含着金汤匙出生？ 那就养成这“习惯”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341193.md" target="_blank">疫情中诺曼底登陆76周年纪念日：不变的是那份怀念</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341020.md" target="_blank">“网红”市长韩国瑜成为历史 林郑何时卷铺盖？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341002.md" target="_blank">苦胆：“你现在依然是亚洲第一前锋”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341001.md" target="_blank">马国川：历史上的今天：网络疯传这封“罪己诏”</a></li>
 
 </ul>
 </div>
