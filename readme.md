@@ -3,11 +3,10 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340712.md">要玩完！内部消息：习近平面对定时核弹 李克强火了！王沪宁下禁令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340690.md">港地动山摇!中国经济大难临头 多家投行:人民币几周内跌破纪录 美国会推新制裁威力巨大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340701.md">多少中共官员外逃？中纪委内部通报触目惊心(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md">北大人谈李克强:他被打得头破血流(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340727.md">中南海颤抖吧！国际反共阵营成军 中印要开战？让人大跌眼镜？ 川普选它征中共国惩罚关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340788.md">地摊经济引爆习近平和李克强内斗？看看王沪宁的毒辣阴招--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341008.md">纽约大主教含泪怒吼：就算你们杀了我我也要说，是黑人群体出了问题！ （视频）</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200606/1340717.md">同意票破93万 韩国瑜成台史上首名被罢市长</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200606/1340778.md">胞妹出面掌权 或佐证金正恩真遇不测</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
