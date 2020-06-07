@@ -19,12 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200607/1341274.md">郝海东叶钊颖 我们的下半场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1341203.md">地摊经济中央分歧 央视疑批李克强地摊经济令全国城市管理功亏一篑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340900.md">大陆陕西小学发生轮奸强暴幼女 公安以年龄未满拒绝立案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200607/1340877.md">中印对峙 军方高层6月6日谈判媒体提前披露印方4个条件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341162.md">美非裔活动家: 弗洛伊德持枪抢劫、屡次入狱服刑 不该被英雄化(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200607/1341195.md">2020.06.07｜习近平揽炒邓小平，打算与中国同归於尽?｜邦邦童童看天下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200607/1341228.md">中国第一商人：国家失去这五样东西 必然灭亡(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200607/1341049.md">美国心理学家研究发现：家里玩具越多的孩子 长大后越“笨”(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341384.md" target="_blank">天亮时分：20200607 地摊经济旋起旋灭;李克强再不检讨就是分裂党;财新网解开了中国基尼系数之谜(政论天下第178集 20200607)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341381.md" target="_blank">陈破空：权斗骤然升温！习家军围攻李克强，副主席暗助总理。多名常委卷入。默克尔走入迷途</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341371.md" target="_blank">先锋网信投资人上海维权 遭暴力驱散抓人(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341361.md" target="_blank">北京清除地摊经济引民愤 网民揭中共老底(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340997.md" target="_blank">北大人谈李克强:他被打得头破血流(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340996.md" target="_blank">英外事委员会主席：中共威胁国际秩序 需全球战略应对(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340986.md" target="_blank">中国船员被拒回国 海上漂逾百日 传多人崩溃自杀(图)</a></li>
 
 </ul>
 </div>
