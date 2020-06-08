@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md" target="_blank">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md" target="_blank">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md" target="_blank">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341876.md" target="_blank">水太深？黑龙江一市委书记家门口被放炸弹(图)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341533.md" target="_blank">八大调查指证中共活摘人体器官</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md" target="_blank">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341523.md" target="_blank">郑州夜市涨租 地摊难救经济(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md" target="_blank">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md" target="_blank">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md" target="_blank">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md" target="_blank">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md" target="_blank">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
@@ -88,13 +89,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md" target="_blank">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340815.md" target="_blank">商铺被洗劫 洛杉矶逮捕一批中国留学生 华人变暴徒 抢名牌包网上炫耀 摆地摊出售！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md" target="_blank">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md" target="_blank">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341905.md" target="_blank">彭博：中共惊现5000亿社保预算缺口</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md" target="_blank">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341898.md" target="_blank">中国今年逾200家房企破产</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341897.md" target="_blank">北京试水房地产信托基金 个人投资者或受损</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341884.md" target="_blank">经济走势乐观 美股纳斯达克打破历史纪录</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341883.md" target="_blank">泰国逐步解禁 恢复大皇宫参观 开放普吉岛海滩</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341871.md" target="_blank">美不同族裔部长: 种族主义已在美国褪色 不存在系统性问题</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341703.md" target="_blank">德国4月工业生产大跌17.9% 创历史最大跌幅</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341701.md" target="_blank">口罩潮急降温 中国厂家半月内大赚变巨亏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341700.md" target="_blank">美国就业数据亮眼 亚洲股市全数收涨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341693.md" target="_blank">郝海东效应？导演大V微博谈世界足球先生当总统遭禁</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341686.md" target="_blank">美国非裔青年领袖：弗洛伊德不是英雄 被政客利用捞资本</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341679.md" target="_blank">未来对外籍人士开放 陈时中：需PCR检测阴性方可入境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341672.md" target="_blank">香港拍摄纪录片遭逮捕 导演邓卓儒：难以置信(视频)</a></li>
 
 </ul>
 </div>
