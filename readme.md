@@ -17,12 +17,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1341203.md">地摊经济中央分歧 央视疑批李克强地摊经济令全国城市管理功亏一篑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200608/1341313.md">著名影星突发心脏病去世享年39岁 刚结婚2年 妻子也是演员(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200608/1341336.md">日拒参加美英批中共联合声明 原来有苦衷(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341306.md">宝胜政论：习李斗公开化或引发社会大动荡、党员新20不准严限私生活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200607/1341228.md">中国第一商人：国家失去这五样东西 必然灭亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341284.md">中国船员被拒回国海漂逾百日崩溃 医护遭殃!美起诉中企 武肺?朝鲜2医院数十人逝</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200607/1341195.md">2020.06.07｜习近平揽炒邓小平，打算与中国同归於尽?｜邦邦童童看天下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200608/1341377.md">〖兲朝浮世绘〗习近平对蔡英文才是真爱，韩国瑜靠边站</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341416.md">郝海东：中国传奇球星疾呼“推翻中共” 为什么突然发力 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341229.md">告密狂潮！ 中共“小间谍”是这样培养的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341220.md">新型防飞沫口罩 未卖先火恐“一罩难求”</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md" target="_blank">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341549.md" target="_blank">暴雨成灾 南方8省52条河水位超警戒(图集/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341548.md" target="_blank">南方多省降暴雨 广东多班列车晚点或停运</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341533.md" target="_blank">八大调查指证中共活摘人体器官</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340904.md" target="_blank">马克·塔兰特律师：为德鲁·帕夫洛而战，还击中共的「纳粹策略」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341225.md" target="_blank">大陆4名未满14岁学生强奸女孩未立案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341224.md" target="_blank">湖北女到三亚即被确诊染疫 同机25人被隔离</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341574.md" target="_blank">中共无视澳洲对话呼吁 澳洲部长：令人失望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341545.md" target="_blank">先吹捧后施压？ 传郝海东儿子郝润泽遭球队解雇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341541.md" target="_blank">中印边境对峙 双方军队高层最新谈判内幕揭秘 印方提四条件 中方要求被拒 印方披露谈判细节 中方诡异噤声 中共服软内情不敢让国人知晓？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341540.md" target="_blank">若东京奥运2021年夏仍无法预期举办 奥运协调委员会：将取消</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341429.md" target="_blank">华府反击北京的5大精明策略 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341423.md" target="_blank">财经冷眼：李克强作检讨？从习李过招推演出中国经济5大危机 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341422.md" target="_blank">李怡：香港的新六四情结(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341421.md" target="_blank">美国左翼走火入魔 「政治正确」走向极端(图集)</a></li>
 
 </ul>
 </div>
