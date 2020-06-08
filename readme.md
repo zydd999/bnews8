@@ -8,23 +8,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341416.md">郝海东：中国传奇球星疾呼“推翻中共” 为什么突然发力 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341485.md">从习李过招推演中国经济5大危机(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341320.md">美智库民调：川普强势处理抗议潮得当 仍会连任(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200608/1341336.md">日拒参加美英批中共联合声明 原来有苦衷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341483.md">大陆储户巨额存款频消失 涉事银行说法引议(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341468.md">张杰：郝海东揭竿起义四路人马集结灭共 习近平怎一个“惨”字了得(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200608/1341505.md">文革色官造的孽：七十多名女知青没有一个是处女(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200608/1341505.md">文革色官造的孽：七十多名女知青没有一个是处女(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200608/1341377.md">〖兲朝浮世绘〗习近平对蔡英文才是真爱，韩国瑜靠边站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341382.md">老黑：大陆真实失业率，几亿张嘴到处找饭吃，你看了会不会焦虑？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341810.md" target="_blank">陈破空：陈破空谈《常识》（之56）：是「党指挥枪」还是「枪指挥党」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341783.md" target="_blank">香港反修例运动一年 割裂世代关系仍难弥补</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341771.md" target="_blank">新疆：“假审判”后的再关押与强迫劳动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341765.md" target="_blank">“再教育营”强冠我们假罪名</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md" target="_blank">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341472.md" target="_blank">风向又变 城管围抢老人流动摊贩(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341426.md" target="_blank">中共发抗疫白皮书 自称公开透明 拒索赔(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341425.md" target="_blank">广西遭特大暴雨袭击 房屋倒塌 汽车被冲走(视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341806.md" target="_blank">凉拌油泼豆皮 咸甜酸辣的开胃小菜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341764.md" target="_blank">李升基、刘以豪同框海报亮相 治愈之旅《Twogether》月底开播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341758.md" target="_blank">一男子心脏骤停7分钟「复活」后画出地狱模样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341752.md" target="_blank">评论 | 魏京生：民主国家联盟在形成</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341593.md" target="_blank">美食当前 小心吃进“发炎”的火苗(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341592.md" target="_blank">湖南株洲陈思明网络纪念六四 遭当局行政拘留15天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341591.md" target="_blank">英日贸易谈判将于9日启动  拟2021年年初实施</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md" target="_blank">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 
 </ul>
 </div>
