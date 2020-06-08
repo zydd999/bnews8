@@ -10,10 +10,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341483.md">大陆储户巨额存款频消失 涉事银行说法引议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341468.md">张杰：郝海东揭竿起义四路人马集结灭共 习近平怎一个“惨”字了得(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341871.md" target="_blank">美不同族裔部长: 种族主义已在美国褪色 不存在系统性问题</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md" target="_blank">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341867.md" target="_blank">本周5颗”潜在危险“小行星接近地球 小行星也组队造访地球？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341849.md" target="_blank">时事大家谈(2020年6月8日)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341842.md" target="_blank">发表文章观点不合左派口味 《纽时》社论版编辑辞职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341835.md" target="_blank">左派推弱化警力以支持暴乱 川普坚守美国法律和秩序</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341672.md" target="_blank">香港拍摄纪录片遭逮捕 导演邓卓儒：难以置信(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341668.md" target="_blank">RFA独家：闯祸不认错是中共的传统  &#8211;  介绍志愿军总部卫生部长的一篇回忆（鲍彤）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341634.md" target="_blank">伊朗浓缩铀持续大量超限 英德法行动或终结核协议</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341631.md" target="_blank">被问为何不结婚？ 李若彤“高分答卷”网赞爆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341621.md" target="_blank">日本石垣市“登野城”拟更名 日中台东海岛屿主权争议再起</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md" target="_blank">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 
 </ul>
 </div>
