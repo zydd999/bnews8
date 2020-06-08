@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341008.md">纽约大主教含泪怒吼：就算你们杀了我我也要说，是黑人群体出了问题！ （视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341175.md">重磅文件 中共党官言行18「不准」曝光(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341233.md">习近平李克强之争有多严重？李克强被他打得头破血流 香港17区议会通过动议撤回恶法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1340932.md">陈破空：李克强一招击败习近平！外交部内斗，耿爽出局。中国公司正被赶出华尔街 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341186.md">黑丝短裙的空姐下地插秧 你怎么看？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200607/1341206.md">高层多角内斗？财新网帮李克强被指“提油救火”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341208.md">西方几十国联手制共引轰动 重要信号:欧洲开始远离中共 捷克也抨击中共 新议长誓访台</a></li>
@@ -15,15 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1340994.md">“地摊”成习李争场？李克强遭蔡奇“打脸”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341078.md">微信监控如此惊人！她密码改成这个 45秒后帐号被永久移除(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200607/1341274.md">郝海东叶钊颖 我们的下半场</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1341203.md">地摊经济中央分歧 央视疑批李克强地摊经济令全国城市管理功亏一篑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341361.md">北京清除地摊经济引民愤 网民揭中共老底(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200607/1341203.md">地摊经济中央分歧 央视疑批李克强地摊经济令全国城市管理功亏一篑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341320.md">美智库民调：川普强势处理抗议潮得当 仍会连任(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200608/1341313.md">著名影星突发心脏病去世享年39岁 刚结婚2年 妻子也是演员(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341162.md">美非裔活动家: 弗洛伊德持枪抢劫、屡次入狱服刑 不该被英雄化(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200607/1341228.md">中国第一商人：国家失去这五样东西 必然灭亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341306.md">宝胜政论：习李斗公开化或引发社会大动荡、党员新20不准严限私生活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200607/1341195.md">2020.06.07｜习近平揽炒邓小平，打算与中国同归於尽?｜邦邦童童看天下</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200608/1341336.md">日拒参加美英批中共联合声明 原来有苦衷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340985.md">中共讽刺美国没人权 蓬佩奥强烈回击:下流可笑！(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341420.md" target="_blank">蓬佩奥：北京冷酷无情地利用弗洛伊德之死(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341418.md" target="_blank">蒋介石：中共为亚洲祸乱之核心问题(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341417.md" target="_blank">诗人王藏被抓后家人遭监控   妻子呼吁外界关注</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341416.md" target="_blank">郝海东：中国传奇球星疾呼“推翻中共” 为什么突然发力 (组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341415.md" target="_blank">褚朝新：6亿人月收入仅千元 首都居然说地摊经济不适合它 这是谁的首都</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341411.md" target="_blank">马路青年：请给韭菜们一些时间(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341410.md" target="_blank">思言财隽：韩国瑜拥有蓝丝的歪理(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341409.md" target="_blank">青岛空姐穿黑丝袜短裙下田插秧 民间一片嘘声(图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341193.md" target="_blank">疫情中诺曼底登陆76周年纪念日：不变的是那份怀念</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341174.md" target="_blank">陆媒热报韩国瑜“跌落” 中国网友惊叹：原来这就是民主</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341163.md" target="_blank">美国的白左 希拉里阵营 左 vs 白左 特殊的思维行为模式(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341158.md" target="_blank">打死也不能给孩子吃的食物，到底有哪些？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341157.md" target="_blank">免疫力太强太弱都不好！这样轻松调控免疫力</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341124.md" target="_blank">豆浆还是输了！日本医生推荐：高钙食物第1名是它，还抗痴呆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341123.md" target="_blank">它富含这种神奇的成分，能让你的血液变清澈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341122.md" target="_blank">增强自身免疫力，仅仅补充维C是不够的</a></li>
 
 </ul>
 </div>
