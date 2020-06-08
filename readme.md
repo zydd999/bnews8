@@ -22,9 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200608/1341336.md">日拒参加美英批中共联合声明 原来有苦衷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200607/1341195.md">2020.06.07｜习近平揽炒邓小平，打算与中国同归於尽?｜邦邦童童看天下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341284.md">中国船员被拒回国海漂逾百日崩溃 医护遭殃!美起诉中企 武肺?朝鲜2医院数十人逝</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200607/1341049.md">美国心理学家研究发现：家里玩具越多的孩子 长大后越“笨”(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341220.md">新型防飞沫口罩 未卖先火恐“一罩难求”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200607/1341229.md">告密狂潮！ 中共“小间谍”是这样培养的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341161.md">为中共唱赞歌的黄炎培一家9人挨整(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341468.md" target="_blank">张杰：郝海东揭竿起义四路人马集结灭共 习近平怎一个“惨”字了得(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341467.md" target="_blank">程晓容：罢韩即罢中共 韩国瑜下台的启示(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341466.md" target="_blank">冯朝：法国也与中共保持距离 中共再失落(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341465.md" target="_blank">周山：中共可能被迫放弃挑起中印战争(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341464.md" target="_blank">张林：世界最繁华商业大道 一夜之间变样 发动骚乱者毁了黑人生活(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341459.md" target="_blank">沈舟：中国公司难以留在美国股市 美元也没了 中共没招(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341458.md" target="_blank">韩国瑜狼狈下台有原因？粉丝向罢韩骤逝影星吴朋奉告别(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341438.md" target="_blank">令人心酸的视频与令人尊敬的“核桃老人”(组图)</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341394.md" target="_blank">美媒：大肆炒作美国抗议活动 中共试图合法化其自身暴行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341388.md" target="_blank">英国疫情趋缓  政府加快松绑 重振经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341380.md" target="_blank">德外长：与北京对话 欧洲需扞卫自由价值</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341365.md" target="_blank">前世卫总干事为阻止SAS疫情蔓延  曾公开施压中共迫使其合作</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341357.md" target="_blank">中共利用弗洛伊德之死欺骗民众 美国务院斥其下流可笑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341309.md" target="_blank">防疫松绑 英国15日起有限度重开礼拜场所</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341285.md" target="_blank">高以翔猝死没让浙江卫视学乖  暴雨涨水又让艺人坐竹筏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341282.md" target="_blank">中共实施管制干部的18不准出炉 禁止串联 收听收看浏览反动电台电视网站</a></li>
 
 </ul>
 </div>
