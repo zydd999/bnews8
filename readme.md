@@ -10,8 +10,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341320.md">美智库民调：川普强势处理抗议潮得当 仍会连任(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341485.md">从习李过招推演中国经济5大危机(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341306.md">宝胜政论：习李斗公开化或引发社会大动荡、党员新20不准严限私生活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200608/1341336.md">日拒参加美英批中共联合声明 原来有苦衷(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341306.md">宝胜政论：习李斗公开化或引发社会大动荡、党员新20不准严限私生活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341416.md">郝海东：中国传奇球星疾呼“推翻中共” 为什么突然发力 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341483.md">大陆储户巨额存款频消失 涉事银行说法引议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341284.md">中国船员被拒回国海漂逾百日崩溃 医护遭殃!美起诉中企 武肺?朝鲜2医院数十人逝</a></li>
@@ -22,9 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341382.md">老黑：大陆真实失业率，几亿张嘴到处找饭吃，你看了会不会焦虑？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200608/1341505.md">文革色官造的孽：七十多名女知青没有一个是处女(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341442.md">台湾开罚赴中国违法工作人员 陆媒跳脚怒骂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341423.md">财经冷眼：李克强作检讨？从习李过招推演出中国经济5大危机 (图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md" target="_blank">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md" target="_blank">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md" target="_blank">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md" target="_blank">韩国瑜遭罢免 国民党转向反共(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340796.md" target="_blank">习近平和党国共存亡？他提醒习？中共策划港版金融风暴？蔡霞拒绝回应录音 学者点评</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1340781.md" target="_blank">王岐山暗挺李克强戳破中国梦？知情官员愤怒地方政府3大挥霍 美推三海合作取代一带一路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340740.md" target="_blank">美国暴动：BLM &#038; ANTIFA是什么组织？(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200606/1340735.md" target="_blank">韩国瑜下台！罢免93万9090票超越当选市长票“韩流终结”</a></li>
 
 </ul>
 </div>
