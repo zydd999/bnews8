@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341468.md">张杰：郝海东揭竿起义四路人马集结灭共 习近平怎一个“惨”字了得(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341468.md">张杰：郝海东揭竿起义四路人马集结灭共 习近平怎一个“惨”字了得(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200608/1341505.md">文革色官造的孽：七十多名女知青没有一个是处女(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200608/1341377.md">〖兲朝浮世绘〗习近平对蔡英文才是真爱，韩国瑜靠边站</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200608/1341680.md">献身死亡职位！中纪委书记赵乐际如愿以偿(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341382.md">老黑：大陆真实失业率，几亿张嘴到处找饭吃，你看了会不会焦虑？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341382.md">老黑：大陆真实失业率，几亿张嘴到处找饭吃，你看了会不会焦虑？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341854.md" target="_blank">专栏 | 夜话中南海：习近平的“统一时间表”是否会提前？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341810.md" target="_blank">陈破空：陈破空谈《常识》（之56）：是「党指挥枪」还是「枪指挥党」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341783.md" target="_blank">香港反修例运动一年 割裂世代关系仍难弥补</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341771.md" target="_blank">新疆：“假审判”后的再关押与强迫劳动</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341478.md" target="_blank">华为强卖英国恐落空 中共恼怒拟报复汇丰(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md" target="_blank">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341472.md" target="_blank">风向又变 城管围抢老人流动摊贩(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341426.md" target="_blank">中共发抗疫白皮书 自称公开透明 拒索赔(图)</a></li>
 
 </ul>
 </div>
