@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341306.md">宝胜政论：习李斗公开化或引发社会大动荡、党员新20不准严限私生活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200608/1341336.md">日拒参加美英批中共联合声明 原来有苦衷(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341483.md">大陆储户巨额存款频消失 涉事银行说法引议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341468.md">张杰：郝海东揭竿起义四路人马集结灭共 习近平怎一个“惨”字了得(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200608/1341505.md">文革色官造的孽：七十多名女知青没有一个是处女(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200608/1341377.md">〖兲朝浮世绘〗习近平对蔡英文才是真爱，韩国瑜靠边站</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200608/1341382.md">老黑：大陆真实失业率，几亿张嘴到处找饭吃，你看了会不会焦虑？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341765.md" target="_blank">“再教育营”强冠我们假罪名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341760.md" target="_blank">前世卫总干事布伦特兰：中国延误通报 欧洲低估病毒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341732.md" target="_blank">美中角力衝出地球：中共航天事故Vs美SpaceX升空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341582.md" target="_blank">念九字真言“法轮大法好、真善忍好”—对武汉肺炎临床疗效的研究报告</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341425.md" target="_blank">广西遭特大暴雨袭击 房屋倒塌 汽车被冲走(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341391.md" target="_blank">天亮时分：地摊经济 旋起旋灭;李克强 再不检讨就是分裂党;财新网解开了中国基尼系数之谜(政论天下第178集 20200607)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341381.md" target="_blank">陈破空：权斗骤然升温！习家军围攻李克强，副主席暗助总理。多名常委卷入。默克尔走入迷途</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341371.md" target="_blank">先锋网信投资人上海维权 遭暴力驱散抓人(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341764.md" target="_blank">李升基、刘以豪同框海报亮相 治愈之旅《Twogether》月底开播</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341758.md" target="_blank">一男子心脏骤停7分钟「复活」后画出地狱模样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341752.md" target="_blank">评论 | 魏京生：民主国家联盟在形成</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341751.md" target="_blank">评论 | 陈破空：美港抗议可以等同类比吗？十大不同</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341592.md" target="_blank">湖南株洲陈思明网络纪念六四 遭当局行政拘留15天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341591.md" target="_blank">英日贸易谈判将于9日启动  拟2021年年初实施</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md" target="_blank">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341574.md" target="_blank">中共无视澳洲对话呼吁 澳洲部长：令人失望</a></li>
 
 </ul>
 </div>
