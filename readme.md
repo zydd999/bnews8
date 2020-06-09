@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341758.md">一男子心脏骤停7分钟「复活」后画出地狱模样</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200609/1341943.md">北韩今午将全面切断通讯管道 只因不满...(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1341889.md">央媒火速打脸  李克强地摊经济十天"收摊"?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200609/1341837.md">《石涛聚焦》「习李内斗恶化 习近平亲去宁夏扶贫 意在打脸李克强」证明贫困地区收入-每月3000 李克强将如何回击或沈默？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342007.md">习“复兴”见鬼 习李斗争的地摊经济与地方自治(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md" target="_blank">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md" target="_blank">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md" target="_blank">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341233.md" target="_blank">习近平李克强之争有多严重？李克强被他打得头破血流 香港17区议会通过动议撤回恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341208.md" target="_blank">西方几十国联手制共引轰动 重要信号:欧洲开始远离中共 捷克也抨击中共 新议长誓访台</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md" target="_blank">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
 
 </ul>
 </div>
