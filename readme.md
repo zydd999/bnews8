@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200608/1341589.md">深蹲是男性“救命恩人”！每天50个 坚持一周 好处给你大惊喜(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342117.md" target="_blank">李克强没提“地摊经济”？王沪宁捣鬼？习李斗水太深(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md" target="_blank">互不让步 中印边境谈判破裂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342111.md" target="_blank">中共官媒给地摊经济“降温” 有这个阴谋？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342105.md" target="_blank">防御高超音速导弹 美军明年将部署预警系统(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342093.md" target="_blank">牡丹江又爆疫情 势头渐猛百姓没有了盼头(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342092.md" target="_blank">江峰：“新八国联军”跨国议会联盟改变中共各个击破局面，全球民主国家联手抗共开始； 川普G7变G11，俄罗斯、韩国、印度、澳洲入选包围中共</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341975.md" target="_blank">暴雨来袭水库泄洪 广西阳朔被淹 大桥变孤岛(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341946.md" target="_blank">中共抗疫白皮书称「及时主动」通报WHO 谭德塞无言10秒不愿评论(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md" target="_blank">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md" target="_blank">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md" target="_blank">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md" target="_blank">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342115.md" target="_blank">忧香港乱局引发资产缩水 赴日置产中国富人增多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342089.md" target="_blank">朝鲜对韩政策大转向 今午时起切断双方所有通信管道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342074.md" target="_blank">19国3000兵力联手  北约2020年波罗的海联合军演开幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342073.md" target="_blank">北京记者提问世卫如何评价中共抗疫白皮书 谭德塞尴尬沉默</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341926.md" target="_blank">没有四肢的艺术家  她的经历鼓舞了成千上万的人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341925.md" target="_blank">对爱情义无反顾，钟情用心，绝对不会隐藏爱意的3个生肖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341924.md" target="_blank">疫情中旅行 亚洲哪些国家已开放 哪些国家仍封关？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341923.md" target="_blank">还记得鸟叔的「江南style」吗？ 又火了！惊天「巨浪」横扫首尔江南</a></li>
 
 </ul>
 </div>
