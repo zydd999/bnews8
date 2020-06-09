@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200608/1341589.md">深蹲是男性“救命恩人”！每天50个 坚持一周 好处给你大惊喜(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342130.md" target="_blank">川普发推：俄罗斯、俄罗斯、俄罗斯…(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md" target="_blank">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342117.md" target="_blank">李克强没提“地摊经济”？王沪宁捣鬼？习李斗水太深(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md" target="_blank">互不让步 中印边境谈判破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342111.md" target="_blank">中共官媒给地摊经济“降温” 有这个阴谋？(图/视频)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341989.md" target="_blank">中共国家信访局开门 现场人山人海 拍摄者：截访的比上访的人都多(图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341984.md" target="_blank">萧铭：麻雀知我心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341975.md" target="_blank">暴雨来袭水库泄洪 广西阳朔被淹 大桥变孤岛(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341946.md" target="_blank">中共抗疫白皮书称「及时主动」通报WHO 谭德塞无言10秒不愿评论(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md" target="_blank">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 
 </ul>
 </div>
