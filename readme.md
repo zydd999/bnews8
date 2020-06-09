@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
@@ -14,17 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341758.md">一男子心脏骤停7分钟「复活」后画出地狱模样</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341677.md">复工复产后 北京老大难问题回来了</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342148.md" target="_blank">乱丢垃圾被女童好心捡起 大妈狠甩巴掌网怒肉搜(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342130.md" target="_blank">川普发推：俄罗斯、俄罗斯、俄罗斯…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md" target="_blank">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342117.md" target="_blank">李克强没提“地摊经济”？王沪宁捣鬼？习李斗水太深(组图/视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341990.md" target="_blank">一陆企发反美通知 买iPhone扣6个月绩效工资(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341989.md" target="_blank">中共国家信访局开门 现场人山人海 拍摄者：截访的比上访的人都多(图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341984.md" target="_blank">萧铭：麻雀知我心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341975.md" target="_blank">暴雨来袭水库泄洪 广西阳朔被淹 大桥变孤岛(组图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342151.md" target="_blank">中共病毒起源最新三大说法 卫星图像提示新线索 英前情报局长：中共病毒来自实验室 纳瓦罗：中共利用病毒大流行推动其战略利益 中共病毒追踪_296</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342149.md" target="_blank">【微博精粹】习李大战10天收摊 党国没钱吹自干五 直辖市难取美元(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342143.md" target="_blank">快手香辣&quot;排骨&quot; 吃肉不见肉 好吃到连骨头都不剩！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342115.md" target="_blank">忧香港乱局引发资产缩水 赴日置产中国富人增多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342089.md" target="_blank">朝鲜对韩政策大转向 今午时起切断双方所有通信管道</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341966.md" target="_blank">伟人牛顿一生研究神学 背后有什么秘密？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341960.md" target="_blank">美共和党内左派势力借骚乱之机反川普 总统发推还击</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341944.md" target="_blank">《地母经》上半年应验一半，水灾、暴卒全部在内，那接下来呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341926.md" target="_blank">没有四肢的艺术家  她的经历鼓舞了成千上万的人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341925.md" target="_blank">对爱情义无反顾，钟情用心，绝对不会隐藏爱意的3个生肖</a></li>
 
 </ul>
 </div>
