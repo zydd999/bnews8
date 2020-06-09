@@ -5,10 +5,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341485.md">从习李过招推演中国经济5大危机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341483.md">大陆储户巨额存款频消失 涉事银行说法引议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341984.md" target="_blank">萧铭：麻雀知我心</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341975.md" target="_blank">暴雨来袭水库泄洪 广西阳朔被淹 大桥变孤岛(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341946.md" target="_blank">中共抗疫白皮书称「及时主动」通报WHO 谭德塞无言10秒不愿评论(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md" target="_blank">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md" target="_blank">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341588.md" target="_blank">摆地摊：我们最终的归宿！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md" target="_blank">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341549.md" target="_blank">暴雨成灾 南方8省52条河水位超警戒(图集/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341548.md" target="_blank">南方多省降暴雨 广东多班列车晚点或停运</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341533.md" target="_blank">八大调查指证中共活摘人体器官</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341983.md" target="_blank">豪车暴跌2万美元！捷豹 Jaguar I-Pace怎么了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341981.md" target="_blank">沈舟：中共再抵赖隐瞒疫情 继续自己感谢自己 终难逃罪责(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341980.md" target="_blank">郑中原：李克强成最大“内鬼”？王沪宁发狠(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341979.md" target="_blank">重大科学发现：人体只有43%细胞属于人类(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341974.md" target="_blank">中国GDP“盖牌”掩饰十三五规划收官失败(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341970.md" target="_blank">悼念“六四”支持港人 广州和湖南异见人士被捕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341966.md" target="_blank">伟人牛顿一生研究神学 背后有什么秘密？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341960.md" target="_blank">美共和党内左派势力借骚乱之机反川普 总统发推还击</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341898.md" target="_blank">中国今年逾200家房企破产</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341897.md" target="_blank">北京试水房地产信托基金 个人投资者或受损</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341884.md" target="_blank">经济走势乐观 美股纳斯达克打破历史纪录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341883.md" target="_blank">泰国逐步解禁 恢复大皇宫参观 开放普吉岛海滩</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341871.md" target="_blank">美不同族裔部长: 种族主义已在美国褪色 不存在系统性问题</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md" target="_blank">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341867.md" target="_blank">本周5颗”潜在危险“小行星接近地球 小行星也组队造访地球？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341849.md" target="_blank">时事大家谈(2020年6月8日)</a></li>
 
 </ul>
 </div>
