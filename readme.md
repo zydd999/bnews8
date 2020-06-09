@@ -5,9 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
@@ -21,6 +20,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341758.md">一男子心脏骤停7分钟「复活」后画出地狱模样</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200609/1341943.md">北韩今午将全面切断通讯管道 只因不满...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1341889.md">央媒火速打脸  李克强地摊经济十天"收摊"?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200609/1341837.md">《石涛聚焦》「习李内斗恶化 习近平亲去宁夏扶贫 意在打脸李克强」证明贫困地区收入-每月3000 李克强将如何回击或沈默？ </a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342213.md" target="_blank">澳洲智库报告分析中共于澳洲展开的统战活动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342184.md" target="_blank">武汉女市政府维权 被警打昏(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342182.md" target="_blank">“地摊经济”又降温了？ 河北城管殴打摆摊老人(图/视频)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342028.md" target="_blank">武汉去年夏天已爆发疫情？哈佛专家曝光竟然发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342027.md" target="_blank">李怀庆案法院如临大敌 公安被曝捏造证据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342016.md" target="_blank">中共朝令夕改 地摊刚热又遭驱赶(图/2视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342015.md" target="_blank">牡丹江疫情 官民不同调(图/视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md" target="_blank">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md" target="_blank">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md" target="_blank">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
@@ -88,13 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341233.md" target="_blank">习近平李克强之争有多严重？李克强被他打得头破血流 香港17区议会通过动议撤回恶法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341208.md" target="_blank">西方几十国联手制共引轰动 重要信号:欧洲开始远离中共 捷克也抨击中共 新议长誓访台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341168.md" target="_blank">弗洛伊德首场追悼会 市长跪地扶棺痛哭 海外网友痛批(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200607/1341162.md" target="_blank">美非裔活动家: 弗洛伊德持枪抢劫、屡次入狱服刑 不该被英雄化(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342226.md" target="_blank">澳洲智库：中共全球统战布局愈加明目张胆(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342193.md" target="_blank">“反送中”一周年 人权观察：外国政府应迅速采取行动向北京施压</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342192.md" target="_blank">麦明诗写信给11年前自己：善待他人毋忘初衷 未来有无限可能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md" target="_blank">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342004.md" target="_blank">时事大家谈：中国抗疫白皮书自称世界榜样，重塑形象还是贻笑大方？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341996.md" target="_blank">程晓容：中共推出抗疫白皮书 继续撒谎(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341995.md" target="_blank">石山：香港公务员要忠诚中共？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341994.md" target="_blank">颜丹：“反共”是多少人的愿？中共吓的尿遁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341988.md" target="_blank">亲共是韩国瑜的政治毒药(图)</a></li>
 
 </ul>
 </div>
