@@ -20,11 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342117.md">李克强没提“地摊经济”？王沪宁捣鬼？习李斗水太深(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1342209.md">李克强倡地摊经济引爆权斗炸弹　触习近平底线各地政府无所适从</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342130.md">川普发推：俄罗斯、俄罗斯、俄罗斯…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342149.md">【微博精粹】习李大战10天收摊 党国没钱吹自干五 直辖市难取美元(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342130.md">川普发推：俄罗斯、俄罗斯、俄罗斯…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1342209.md">李克强倡地摊经济引爆权斗炸弹　触习近平底线各地政府无所适从</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md">互不让步 中印边境谈判破裂(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
