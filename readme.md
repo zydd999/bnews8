@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341518.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200608/1341505.md">文革色官造的孽：七十多名女知青没有一个是处女(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200608/1341680.md">献身死亡职位！中纪委书记赵乐际如愿以偿(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342043.md" target="_blank">疫情后首次 美向太平洋再部署两航母战斗群(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342039.md" target="_blank">卫星数据显示冠状病毒可能更早就袭击了中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342036.md" target="_blank">央视热评驳李克强 摆地摊变政治战场？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342028.md" target="_blank">武汉去年夏天已爆发疫情？哈佛专家曝光竟然发现 (图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341810.md" target="_blank">陈破空：陈破空谈《常识》（之56）：是「党指挥枪」还是「枪指挥党」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341783.md" target="_blank">香港反修例运动一年 割裂世代关系仍难弥补</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341771.md" target="_blank">新疆：“假审判”后的再关押与强迫劳动</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341765.md" target="_blank">“再教育营”强冠我们假罪名</a></li>
 
 </ul>
 </div>
