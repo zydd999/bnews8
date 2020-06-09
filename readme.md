@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
@@ -20,11 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200608/1341589.md">深蹲是男性“救命恩人”！每天50个 坚持一周 好处给你大惊喜(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
