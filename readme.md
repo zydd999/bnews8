@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341416.md">郝海东：中国传奇球星疾呼“推翻中共” 为什么突然发力 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341485.md">从习李过招推演中国经济5大危机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
@@ -21,10 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200608/1341680.md">献身死亡职位！中纪委书记赵乐际如愿以偿(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341442.md">台湾开罚赴中国违法工作人员 陆媒跳脚怒骂(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341946.md" target="_blank">中共抗疫白皮书称「及时主动」通报WHO 谭德塞无言10秒不愿评论(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md" target="_blank">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md" target="_blank">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md" target="_blank">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341549.md" target="_blank">暴雨成灾 南方8省52条河水位超警戒(图集/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341548.md" target="_blank">南方多省降暴雨 广东多班列车晚点或停运</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341533.md" target="_blank">八大调查指证中共活摘人体器官</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md" target="_blank">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341944.md" target="_blank">《地母经》上半年应验一半，水灾、暴卒全部在内，那接下来呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341926.md" target="_blank">没有四肢的艺术家  她的经历鼓舞了成千上万的人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341925.md" target="_blank">对爱情义无反顾，钟情用心，绝对不会隐藏爱意的3个生肖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341924.md" target="_blank">疫情中旅行 亚洲哪些国家已开放 哪些国家仍封关？</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341842.md" target="_blank">发表文章观点不合左派口味 《纽时》社论版编辑辞职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341835.md" target="_blank">左派推弱化警力以支持暴乱 川普坚守美国法律和秩序</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341826.md" target="_blank">2021红色Toyota Corolla 掀背车，全球限量1,500辆！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341806.md" target="_blank">凉拌油泼豆皮 咸甜酸辣的开胃小菜</a></li>
 
 </ul>
 </div>
