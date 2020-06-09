@@ -4,13 +4,12 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md">互不让步 中印边境谈判破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342280.md">中国失业率3成 习近平头大 英国高官献计全球中国战略 "参照苏联 解体中共非难事"</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342007.md">习“复兴”见鬼 习李斗争的地摊经济与地方自治(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200609/1341943.md">北韩今午将全面切断通讯管道 只因不满...(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342424.md" target="_blank">美国单车品牌的&#8221;一句话&#8221; 引发小粉红们出征(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342423.md" target="_blank">美情报总监：若这两条件符合 中国革命正在路上</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342422.md" target="_blank">武汉身心科求医大增(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342416.md" target="_blank">美司法部：中共花1 000多万美元在美国主流大报做“广告” 实为大外宣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342415.md" target="_blank">恐怖！外下雷雨深圳妇在家煮饭 下秒倒地成火球(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342404.md" target="_blank">北约吁扩大军事同盟 联合亚太四国对抗中共(图/视频)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342105.md" target="_blank">防御高超音速导弹 美军明年将部署预警系统(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342093.md" target="_blank">牡丹江又爆疫情 势头渐猛百姓没有了盼头(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342092.md" target="_blank">江峰：“新八国联军”跨国议会联盟改变中共各个击破局面，全球民主国家联手抗共开始； 川普G7变G11，俄罗斯、韩国、印度、澳洲入选包围中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342083.md" target="_blank">四川危房纠纷 政府忽悠业主 住户以死对抗(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342077.md" target="_blank">从习近平对黑龙江防疫批示看危机背后(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342076.md" target="_blank">遭绑架不配合 被警察打昏后抬上车…(图)</a></li>
 
 </ul>
 </div>
