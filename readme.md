@@ -2,18 +2,18 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342351.md" target="_blank">美司法部：中共花1,000多万美元在美国主流大报做“广告” 实为大外宣</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342350.md" target="_blank">朝鲜自断热线内外有别   中方呼吁对话</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342330.md" target="_blank">中共强推《港版国安法》 华为继失去英国市场后再失丹麦市场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342324.md" target="_blank">愈爱愈没安全感？ 快调整心态静下来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342323.md" target="_blank">宇宙中所有星球都「悬浮在空中」，究竟是什么神秘力量起的作用？</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342172.md" target="_blank">减肥用一块生姜，狂甩30斤肉</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342171.md" target="_blank">解禁后如何合理戴口罩？5大项一次明了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342166.md" target="_blank">澳洲智库：从特务渗透及非法情报活动看中共统战</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342151.md" target="_blank">中共病毒起源最新三大说法 卫星图像提示新线索 英前情报局长：中共病毒来自实验室 纳瓦罗：中共利用病毒大流行推动其战略利益 中共病毒追踪_296</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342149.md" target="_blank">【微博精粹】习李大战10天收摊 党国没钱吹自干五 直辖市难取美元(组图)</a></li>
 
 </ul>
 </div>
