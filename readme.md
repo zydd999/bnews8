@@ -13,6 +13,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
@@ -20,7 +21,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341868.md">德国不愿接受美国从德撤军计划 想中美通吃不容易了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341758.md">一男子心脏骤停7分钟「复活」后画出地狱模样</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200609/1341943.md">北韩今午将全面切断通讯管道 只因不满...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1341889.md">央媒火速打脸  李克强地摊经济十天"收摊"?</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200609/1341837.md">《石涛聚焦》「习李内斗恶化 习近平亲去宁夏扶贫 意在打脸李克强」证明贫困地区收入-每月3000 李克强将如何回击或沈默？ </a></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342235.md" target="_blank">华为陷入「紧急状态」 中企重演抵制iPhone戏码</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342232.md" target="_blank">【梁京评论】「罢韩」成功与中国政治文化的挑战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342226.md" target="_blank">澳洲智库：中共全球统战布局愈加明目张胆(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342193.md" target="_blank">“反送中”一周年 人权观察：外国政府应迅速采取行动向北京施压</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342014.md" target="_blank">我看见你(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342012.md" target="_blank">时事大家谈：习近平还以颜色，李克强“地摊经济”急剧降温</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342004.md" target="_blank">时事大家谈：中国抗疫白皮书自称世界榜样，重塑形象还是贻笑大方？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341996.md" target="_blank">程晓容：中共推出抗疫白皮书 继续撒谎(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341995.md" target="_blank">石山：香港公务员要忠诚中共？(图)</a></li>
 
 </ul>
 </div>
