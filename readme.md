@@ -22,9 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341419.md">胡慧中老公犯「道德败坏」罪行将被驱逐 列港首选遣返送中为替代(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200608/1341442.md">台湾开罚赴中国违法工作人员 陆媒跳脚怒骂(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341918.md" target="_blank">外媒：中共通过软禁和恐吓噤声中共病毒受害家庭</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341912.md" target="_blank">英议员： 政府须帮助高校减少对北京的依赖 恢复思想自由的开放教育</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341909.md" target="_blank">美俄宣布6月举行核武谈判 首次要求中共赴会 北京恐再难以逃脱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341908.md" target="_blank">经济学家：中国失业率约为30% 大幅超过美国</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341743.md" target="_blank">【林忌评论】中共害怕BNO居英权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341736.md" target="_blank">酒驾惹祸  韩团AB61X公告队长林煐岷「正式退团」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341712.md" target="_blank">水太深？黑龙江一市委书记遭报复 家门口被放炸弹</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341707.md" target="_blank">黑龙江牡丹江疫情再起 官媒噤声 市委书记换人（视频）</a></li>
 
 </ul>
 </div>
