@@ -4,8 +4,8 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341617.md">因郝海东反共受株连？传儿子郝润泽遭球队解雇(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200608/1341589.md">深蹲是男性“救命恩人”！每天50个 坚持一周 好处给你大惊喜(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342105.md" target="_blank">防御高超音速导弹 美军明年将部署预警系统(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342093.md" target="_blank">牡丹江又爆疫情 势头渐猛百姓没有了盼头(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342092.md" target="_blank">江峰：“新八国联军”跨国议会联盟改变中共各个击破局面，全球民主国家联手抗共开始； 川普G7变G11，俄罗斯、韩国、印度、澳洲入选包围中共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342083.md" target="_blank">四川危房纠纷 政府忽悠业主 住户以死对抗(组图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md" target="_blank">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md" target="_blank">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md" target="_blank">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341876.md" target="_blank">水太深？黑龙江一市委书记家门口被放炸弹(图)</a></li>
 
 </ul>
 </div>
