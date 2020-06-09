@@ -8,9 +8,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md" target="_blank">6.7级 两天3次强震，2020下半年更艰难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342383.md" target="_blank">“错把油门当刹车”的百年难题，斯巴鲁终于解开了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342367.md" target="_blank">美司法部长抨击FBI：虽证据不足却攻击性地调查川普团队</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342360.md" target="_blank">菊花普洱蜂蜜茶 降脂去火 醒脑提神</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342351.md" target="_blank">美司法部：中共花1,000多万美元在美国主流大报做“广告” 实为大外宣</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md" target="_blank">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342175.md" target="_blank">含糖饮料真的要不得！研究发现：超伤肝！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342174.md" target="_blank">别扔了，西瓜皮菠萝心，不仅好吃还养身</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342173.md" target="_blank">后疫情时代提升自我保护力  营养师推荐 这些营养必须</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342172.md" target="_blank">减肥用一块生姜，狂甩30斤肉</a></li>
 
 </ul>
 </div>
