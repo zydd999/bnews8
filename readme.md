@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341587.md">裸退？疑耿爽归隐田园私生活视频曝光（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341599.md">【微博精粹】习近平被日本鬼子赋予一个伟大称号 蔡奇炮打李中堂(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341676.md">史上最短暑假 中国学生哭了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200608/1341680.md">献身死亡职位！中纪委书记赵乐际如愿以偿(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341899.md">陈破空：争夺接班人！习近平最不喜欢的人，却忽然现身梁家河。美国示威降温，北京大失所望 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341860.md">〖兲朝浮世绘〗地摊经济昙花一现 宫廷内斗折腾百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200608/1341589.md">深蹲是男性“救命恩人”！每天50个 坚持一周 好处给你大惊喜(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341904.md">大陆经济进入长期萎靡 房地产危机一触即发 房企密集赴港上市揽金</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342083.md" target="_blank">四川危房纠纷 政府忽悠业主 住户以死对抗(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342077.md" target="_blank">从习近平对黑龙江防疫批示看危机背后(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342076.md" target="_blank">遭绑架不配合 被警察打昏后抬上车…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342068.md" target="_blank">3千万港人撑国安法？ 中共大外宣吹牛露馅了！ (图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342043.md" target="_blank">疫情后首次 美向太平洋再部署两航母战斗群(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342039.md" target="_blank">卫星数据显示冠状病毒可能更早就袭击了中国</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341876.md" target="_blank">水太深？黑龙江一市委书记家门口被放炸弹(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341875.md" target="_blank">北京企业遭强拆损失上亿 律师：法规在政府面前失效(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341874.md" target="_blank">黑龙江牡丹江疫情再起 官媒噤声 市委书记换人（视频/图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341854.md" target="_blank">专栏 | 夜话中南海：习近平的“统一时间表”是否会提前？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341810.md" target="_blank">陈破空：陈破空谈《常识》（之56）：是「党指挥枪」还是「枪指挥党」？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341783.md" target="_blank">香港反修例运动一年 割裂世代关系仍难弥补</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342089.md" target="_blank">朝鲜对韩政策大转向 今午时起切断双方所有通信管道</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342074.md" target="_blank">19国3000兵力联手  北约2020年波罗的海联合军演开幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342073.md" target="_blank">北京记者提问世卫如何评价中共抗疫白皮书 谭德塞尴尬沉默</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342034.md" target="_blank">调查：新疆再教育营罗列70余种罪行 强迫认罪(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341925.md" target="_blank">对爱情义无反顾，钟情用心，绝对不会隐藏爱意的3个生肖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341924.md" target="_blank">疫情中旅行 亚洲哪些国家已开放 哪些国家仍封关？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341923.md" target="_blank">还记得鸟叔的「江南style」吗？ 又火了！惊天「巨浪」横扫首尔江南</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341921.md" target="_blank">第三次世界大战和世界末日的恐惧：神秘的诅咒</a></li>
 
 </ul>
 </div>
