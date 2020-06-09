@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341473.md">与李克强干上了？北京市对摆地摊市民大打出手(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341485.md">从习李过招推演中国经济5大危机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341615.md">”川习互憎 白宫立志推翻中共” 习近平还撑的住吗？</a></li>
@@ -17,14 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341594.md">韩国瑜遭罢免 国民党转向反共(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200608/1341680.md">献身死亡职位！中纪委书记赵乐际如愿以偿(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200608/1341475.md">习李斗表面化 胡春华到梁家河谈“硬骨头”有玄机？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341534.md">几百万买的学位泡汤 深圳家长集体下跪(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1341832.md">中国放弃上海作为北京往返航班入境口岸</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200608/1341662.md">不默而声｜我们对外的援助金额被公开了？！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200609/1341853.md">45岁后身体“3处”越干净 寿命越长(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341893.md">文昭：李克强被蔡奇、王沪宁「围剿」，只剩一条路；习近平开始另类「庚子赔款」：停77国债务 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200608/1341735.md">郝海东效应？导演大V微博谈世界足球先生当总统遭禁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341575.md">死亡威胁 黑省一市委书记家中被安放爆炸装置(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341877.md">美议员转推文章 曝中共不愿透露的四事实(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342016.md" target="_blank">中共朝令夕改 地摊刚热又遭驱赶(图/2视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342015.md" target="_blank">牡丹江疫情 官民不同调(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342007.md" target="_blank">习“复兴”见鬼 习李斗争的地摊经济与地方自治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341991.md" target="_blank">酷刑冤狱11年 原沈阳警察揭辽宁司法黑暗(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341990.md" target="_blank">一陆企发反美通知 买iPhone扣6个月绩效工资(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341732.md" target="_blank">美中角力衝出地球：中共航天事故Vs美SpaceX升空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341582.md" target="_blank">念九字真言“法轮大法好、真善忍好”—对武汉肺炎临床疗效的研究报告</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341628.md" target="_blank">中共利用骚乱抹黑美国 蓬佩奥严批引网民共鸣(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341619.md" target="_blank">中共老底被揭：利用疫情病毒 分步设局牟利(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200608/1341616.md" target="_blank">陆媒曝90%厂家惨赔 中国口罩泡沫破裂(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342022.md" target="_blank">杨威：林郑月娥进京 “港版国安法”似卡壳(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342014.md" target="_blank">我看见你(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342012.md" target="_blank">时事大家谈：习近平还以颜色，李克强“地摊经济”急剧降温</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342004.md" target="_blank">时事大家谈：中国抗疫白皮书自称世界榜样，重塑形象还是贻笑大方？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341996.md" target="_blank">程晓容：中共推出抗疫白皮书 继续撒谎(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341920.md" target="_blank">11500年前的天才？ 世界上最古老的寺庙 竟是几何设计理念！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341919.md" target="_blank">二大爷：川普不会在困境中倒下 美国乱过千百次 却不会因此而倒退(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341918.md" target="_blank">外媒：中共通过软禁和恐吓噤声中共病毒受害家庭</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341912.md" target="_blank">英议员： 政府须帮助高校减少对北京的依赖 恢复思想自由的开放教育</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1341909.md" target="_blank">美俄宣布6月举行核武谈判 首次要求中共赴会 北京恐再难以逃脱</a></li>
 
 </ul>
 </div>
