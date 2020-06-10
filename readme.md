@@ -2,16 +2,15 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342340.md">宁愿坐在宝马里哭”的拜金女孩 现在已32岁 她笑了吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342423.md">美情报总监：若这两条件符合 中国革命正在路上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1342209.md">李克强倡地摊经济引爆权斗炸弹　触习近平底线各地政府无所适从</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342280.md">中国失业率3成 习近平头大 英国高官献计全球中国战略 "参照苏联 解体中共非难事"</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342243.md">退休咋办?中共惊现5千亿缺口 中南海对美货币超限战早打响 越共竟与欧盟免除99%关税</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342553.md">【微博精粹】谭书记叛变 习近平砸摊 任正非认怂 中共沦为国际孤儿(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342294.md">暴徒准备冲击亚裔社区？美国居民反呛：恭候光临(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342442.md">陈破空：紧张时刻！习近平离京远走，密谋打倒李克强？王沪宁发动大批判。香港抗争一周年 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342553.md">【微博精粹】谭书记叛变 习近平砸摊 任正非认怂 中共沦为国际孤儿(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342467.md">南方发洪水了吗？悄然消失的南方暴雨洪灾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342383.md">“错把油门当刹车”的百年难题，斯巴鲁终于解开了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
@@ -24,7 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342474.md">川普：被警推搡的75岁水牛城抗议者或为ANTIFA(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342415.md">恐怖！外下雷雨深圳妇在家煮饭 下秒倒地成火球(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342503.md">中国三批巨额假美元抵美 货币战争爆发！(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342357.md">王祖贤桃色往事(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342552.md">美国惹不起 拿澳洲开刀 中共发赴澳留学预警 留澳生：没受到歧视(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342709.md" target="_blank">张晓明谈香港媒体报道“颠覆中共” 学者批驳(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342708.md" target="_blank">老天怎么总在怒吼呢？是在催中共下课吗？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md" target="_blank">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md" target="_blank">中印边境对峙一月后 共军突然后撤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342654.md" target="_blank">“让党替你发声” 澳智库揭露中共统战内幕(图)</a></li>
@@ -56,14 +58,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342516.md" target="_blank">中共人大常委会议下周举行 议程未见「港版国安法」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md" target="_blank">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342508.md" target="_blank">内幕 “610”的超级权力与21年迫害(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342507.md" target="_blank">存款丢失 大陆银行不负责(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342491.md" target="_blank">朝令夕改 武汉城管驱赶摆摊农民(图/视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342707.md" target="_blank">中南海全方位洗脑出狠招 习近平视察 百姓心声悲 老天爷庚子年南北都发威</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342706.md" target="_blank">美国也运动了？ 我们有没有沉默的权利(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md" target="_blank">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md" target="_blank">这才是中共对西方国家的真正威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342641.md" target="_blank">「中共威胁」遽增！北约秘书长：组全球大联盟抗中共霸凌(图)</a></li>
@@ -87,8 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341940.md" target="_blank">北韩今午将全面切断通讯管道 两韩关系急转直下(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341900.md" target="_blank">黑人女孩视频揭露弗洛伊德真面目：拿着枪顶在孕妇的肚子上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341750.md" target="_blank">中共抗疫英雄曝你想不到内幕 川普准备好了全面揭中共阴谋 美证据：中共竟如此灭绝人性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341718.md" target="_blank">中南海干砸了那些大事？ 最新帮规竟然被泄露了 拉拢德法未遂 北京没戏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200608/1341702.md" target="_blank">中美科技战川普出大招 中国储户巨额存款频消失银行竟不管“北京施压香港外资令人震惊”</a></li>
 
 </ul>
 </div>
