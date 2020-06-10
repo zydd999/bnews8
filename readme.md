@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342707.md">中南海全方位洗脑出狠招 习近平视察 百姓心声悲 老天爷庚子年南北都发威</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342467.md">南方发洪水了吗？悄然消失的南方暴雨洪灾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342640.md">劲爆！共军美军同日进台湾 对攻？中共怂了！港版国安法没排期</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200610/1342427.md">颜纯鈎&#65306;习李内斗表面化白热化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342407.md">〖兲朝浮世绘〗克强摆摊，近平砸摊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342394.md">河南省遭遇前所未有的大旱！农民很难找到活路了（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342552.md">美国惹不起 拿澳洲开刀 中共发赴澳留学预警 留澳生：没受到歧视(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342503.md">中国三批巨额假美元抵美 货币战争爆发！(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342920.md" target="_blank">外交专家：支持川普撤军 德国不再是自由世界抗敌的可靠盟友</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342915.md" target="_blank">欧阳娜娜自创新曲遭爆抄袭  唱片公司回应</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342914.md" target="_blank">冻龄，逆龄，时光遗忘一族？明星不老容颜大探秘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342898.md" target="_blank">高速爆胎，好心人相助！没想到川普的回报竟是&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342878.md" target="_blank">寿命和饮食有关  寿命短的男人 吃饭常有4个共性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342877.md" target="_blank">直到失去，他才醒悟妻子是自己的肋骨</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342731.md" target="_blank">正常人干不出来的暴行 全在这土地发生了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md" target="_blank">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342728.md" target="_blank">台湾边境开放将分风险等级 台越航班近期可望双向复航</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342716.md" target="_blank">李燕铭：金与正发飙 金正恩出事？朝鲜政局突变 切断朝韩通信管道 替中共出头批美国 内幕揭秘 中共末日疯狂 操控金正恩政权对抗美国 垂死反扑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342674.md" target="_blank">港青：香港的抗争是「反极权」极权才是真大台</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342658.md" target="_blank">替中共贿赂拉拢政要 港星胡慧中丈夫在美服刑后将被驱逐</a></li>
 
 </ul>
 </div>
