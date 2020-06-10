@@ -5,26 +5,26 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1341942.md">中共拒绝恢复拉达克原状 中印边境谈判破裂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342117.md">李克强没提“地摊经济”？王沪宁捣鬼？习李斗水太深(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342340.md">宁愿坐在宝马里哭”的拜金女孩 现在已32岁 她笑了吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1342209.md">李克强倡地摊经济引爆权斗炸弹　触习近平底线各地政府无所适从</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342280.md">中国失业率3成 习近平头大 英国高官献计全球中国战略 "参照苏联 解体中共非难事"</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342243.md">退休咋办?中共惊现5千亿缺口 中南海对美货币超限战早打响 越共竟与欧盟免除99%关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342149.md">【微博精粹】习李大战10天收摊 党国没钱吹自干五 直辖市难取美元(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342130.md">川普发推：俄罗斯、俄罗斯、俄罗斯…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md">互不让步 中印边境谈判破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342294.md">暴徒准备冲击亚裔社区？美国居民反呛：恭候光临(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md">互不让步 中印边境谈判破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342007.md">习“复兴”见鬼 习李斗争的地摊经济与地方自治(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200609/1341943.md">北韩今午将全面切断通讯管道 只因不满...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200609/1342045.md">被枪决的文科状元 到刑场还忽悠刽子手(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200609/1342070.md">她是刷屏王郝海东背后的女人 因让球风波退役(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200609/1342025.md">首名共和党人表态倒戈！ 鲍威尔力挺拜登 海外华人评论一边倒 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342468.md" target="_blank">美国在古巴唯一一家酒店将在8月底关闭 切断美元流入一个镇压人民的政府</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342467.md" target="_blank">南方发洪水了吗？悄然消失的南方暴雨洪灾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342466.md" target="_blank">德媒：”反送中“抗议一周年  黄之锋促国际社会相助</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342464.md" target="_blank">对抗中国霸凌 北约拟结盟这四个国家(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342449.md" target="_blank">法轮功受迫害触动人性 福克斯专题片获艾美奖提名</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342323.md" target="_blank">宇宙中所有星球都「悬浮在空中」，究竟是什么神秘力量起的作用？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342321.md" target="_blank">评论 | 王丹：六四31周年 中国的年轻世代站出来了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342316.md" target="_blank">香港前高官何志平出狱 “一带一路”推手 涉跨国贿赂</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342297.md" target="_blank">38岁的她打败周子瑜、LISA成为「世界最美女星」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342285.md" target="_blank">快手私房菜 香芹炒熏干 神秘小食材的加入使味道非同一般</a></li>
 
 </ul>
 </div>
