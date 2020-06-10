@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md">互不让步 中印边境谈判破裂(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342294.md">暴徒准备冲击亚裔社区？美国居民反呛：恭候光临(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342007.md">习“复兴”见鬼 习李斗争的地摊经济与地方自治(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200609/1341943.md">北韩今午将全面切断通讯管道 只因不满...(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200609/1342045.md">被枪决的文科状元 到刑场还忽悠刽子手(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -34,7 +34,7 @@
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342453.md" target="_blank">文昭：大亨一语惊人：中国11亿人无消费能力！幸存者偏差；习近平最怕的俄罗斯反水将到来？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342443.md" target="_blank">武汉敲锣女的传家宝 ｜雷人咖啡??：第五集</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342443.md" target="_blank">武汉敲锣女的传家宝 ｜雷人咖啡：第五集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342442.md" target="_blank">陈破空：紧张时刻！习近平离京远走，密谋打倒李克强？王沪宁发动大批判。香港抗争一周年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342424.md" target="_blank">美国单车品牌的&#8221;一句话&#8221; 引发小粉红们出征(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342423.md" target="_blank">美情报总监：若这两条件符合 中国革命正在路上</a></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342466.md" target="_blank">德媒：”反送中“抗议一周年  黄之锋促国际社会相助</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342464.md" target="_blank">对抗中国霸凌 北约拟结盟这四个国家(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342449.md" target="_blank">法轮功受迫害触动人性 福克斯专题片获艾美奖提名</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342448.md" target="_blank">资金加速离场 中国股票型ETF流出770亿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342446.md" target="_blank">市场避险情绪上升 人民币指数跌至5个月低点</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342316.md" target="_blank">香港前高官何志平出狱 “一带一路”推手 涉跨国贿赂</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342297.md" target="_blank">38岁的她打败周子瑜、LISA成为「世界最美女星」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342285.md" target="_blank">快手私房菜 香芹炒熏干 神秘小食材的加入使味道非同一般</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342257.md" target="_blank">印度抵制「中国制造」 学者：抵制中共政治影响超过任何经济影响</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342255.md" target="_blank">海南自贸港开放第七航权方案：最高每周7班次</a></li>
 
 </ul>
 </div>
