@@ -19,12 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342626.md">爆破潜规则 杭州房产中介怒砸售楼部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200610/1342427.md">颜纯鈎&#65306;习李内斗表面化白热化</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342407.md">〖兲朝浮世绘〗克强摆摊，近平砸摊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342552.md">美国惹不起 拿澳洲开刀 中共发赴澳留学预警 留澳生：没受到歧视(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342503.md">中国三批巨额假美元抵美 货币战争爆发！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342937.md" target="_blank">港大研究指湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342932.md" target="_blank">前美驻北京大使洪博培染中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md" target="_blank">发不出工资 中共财政现大缺口 中印对峙1个月 共军突&#8230; 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md" target="_blank">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md" target="_blank">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md" target="_blank">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md" target="_blank">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md" target="_blank">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342945.md" target="_blank">德国慕尼黑轿车冲入人群  3人受伤 警方搜寻嫌犯</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342935.md" target="_blank">非裔活动家：骚乱组织者不关心黑人福祉 破坏西方文明是目的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342924.md" target="_blank">二大爷 川普的困境：老中医的新问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342920.md" target="_blank">外交专家：支持川普撤军 德国不再是自由世界抗敌的可靠盟友</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342760.md" target="_blank">加乘职场超能力 为自己组一个“个人董事会”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md" target="_blank">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342736.md" target="_blank">学者：印度扩大外交奏效 中共边境部队后撤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342731.md" target="_blank">正常人干不出来的暴行 全在这土地发生了(图)</a></li>
 
 </ul>
 </div>
