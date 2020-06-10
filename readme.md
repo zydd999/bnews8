@@ -4,8 +4,6 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md">川普一句话 海外华人炸锅了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342187.md">天空重大异象 高人预言：不出7日 带南、东字的省份7.2-7.6级大地震！中南海谣言预言_204</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342423.md">美情报总监：若这两条件符合 中国革命正在路上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342340.md">宁愿坐在宝马里哭”的拜金女孩 现在已32岁 她笑了吗？(组图)</a></li>
@@ -19,12 +17,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342383.md">“错把油门当刹车”的百年难题，斯巴鲁终于解开了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342388.md">情绪突变 美元美股齐跌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342394.md">河南省遭遇前所未有的大旱！农民很难找到活路了（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342453.md">文昭：大亨一语惊人：中国11亿人无消费能力！幸存者偏差；习近平最怕的俄罗斯反水将到来？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342553.md">【微博精粹】谭书记叛变 习近平砸摊 任正非认怂 中共沦为国际孤儿(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200610/1342427.md">颜纯鈎&#65306;习李内斗表面化白热化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342407.md">〖兲朝浮世绘〗克强摆摊，近平砸摊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342170.md">美机、共机同日进入台湾空域 国防部回应(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200609/1342146.md">“世界第二”的钱花到哪里去了？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342650.md" target="_blank">上天下海达极限第一人 美国首位太空漫步女性68岁又潜入最深海底</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342649.md" target="_blank">爆炒鲜辣香菇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342637.md" target="_blank">007庞德新片升格当爸  《生死交战》预计11月上映</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342630.md" target="_blank">英议员提授予所有港人英永居权  获跨党派支持</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342623.md" target="_blank">“日本反送中第一人” 中使馆前怒吼：世界癌细胞立刻灭亡！</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342546.md" target="_blank">力挺艺文产业 赖清德现身戏院支持国片(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342545.md" target="_blank">毒奶粉又活了 社会却已不一样了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342544.md" target="_blank">焦点对话: 国民党陷&quot;罢韩&quot;危机 走回&quot;反共&quot;路线？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342533.md" target="_blank">川普在教堂外发誓保卫美国却遭左派攻击 白宫：总统无悔此行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342523.md" target="_blank">&#8220;世界第二&#8221;的钱都花到哪儿啦 谁看了谁骂娘！(组图)</a></li>
 
 </ul>
 </div>
