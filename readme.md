@@ -14,9 +14,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342640.md">劲爆！共军美军同日进台湾 对攻？中共怂了！港版国安法没排期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342388.md">情绪突变 美元美股齐跌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342453.md">文昭：大亨一语惊人：中国11亿人无消费能力！幸存者偏差；习近平最怕的俄罗斯反水将到来？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
