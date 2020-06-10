@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342932.md" target="_blank">前美驻北京大使洪博培染中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md" target="_blank">发不出工资 中共财政现大缺口 中印对峙1个月 共军突&#8230; 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md" target="_blank">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md" target="_blank">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
@@ -88,13 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md" target="_blank">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md" target="_blank">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341955.md" target="_blank">杀气腾腾！ 张晓明恫吓：对港不手软 如俄血洗车臣(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1341941.md" target="_blank">中共外宣称3千万港人挺国安法 网傻眼：不知香港只有750万人口？(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342935.md" target="_blank">非裔活动家：骚乱组织者不关心黑人福祉 破坏西方文明是目的</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342924.md" target="_blank">二大爷 川普的困境：老中医的新问题</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342920.md" target="_blank">外交专家：支持川普撤军 德国不再是自由世界抗敌的可靠盟友</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342915.md" target="_blank">欧阳娜娜自创新曲遭爆抄袭  唱片公司回应</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342914.md" target="_blank">冻龄，逆龄，时光遗忘一族？明星不老容颜大探秘</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md" target="_blank">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342736.md" target="_blank">学者：印度扩大外交奏效 中共边境部队后撤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342731.md" target="_blank">正常人干不出来的暴行 全在这土地发生了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md" target="_blank">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342728.md" target="_blank">台湾边境开放将分风险等级 台越航班近期可望双向复航</a></li>
 
 </ul>
 </div>
