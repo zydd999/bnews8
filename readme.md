@@ -12,18 +12,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342442.md">陈破空：紧张时刻！习近平离京远走，密谋打倒李克强？王沪宁发动大批判。香港抗争一周年 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342383.md">“错把油门当刹车”的百年难题，斯巴鲁终于解开了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342467.md">南方发洪水了吗？悄然消失的南方暴雨洪灾(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342388.md">情绪突变 美元美股齐跌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342453.md">文昭：大亨一语惊人：中国11亿人无消费能力！幸存者偏差；习近平最怕的俄罗斯反水将到来？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342394.md">河南省遭遇前所未有的大旱！农民很难找到活路了（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200610/1342427.md">颜纯鈎&#65306;习李内斗表面化白热化</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342407.md">〖兲朝浮世绘〗克强摆摊，近平砸摊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342474.md">川普：被警推搡的75岁水牛城抗议者或为ANTIFA(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342552.md">美国惹不起 拿澳洲开刀 中共发赴澳留学预警 留澳生：没受到歧视(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342503.md">中国三批巨额假美元抵美 货币战争爆发！(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342762.md" target="_blank">【华府看天下】国安法可能引发金融战　香港成中国与世界变局风眼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342761.md" target="_blank">长期“过劳” 小心一病就倒(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342760.md" target="_blank">加乘职场超能力 为自己组一个“个人董事会”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md" target="_blank">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342736.md" target="_blank">学者：印度扩大外交奏效 中共边境部队后撤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342731.md" target="_blank">正常人干不出来的暴行 全在这土地发生了(图)</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342609.md" target="_blank">精神病的三大预兆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342608.md" target="_blank">其实，水煮蔬菜维生素C流失率比炒菜更多！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342607.md" target="_blank">「打鼾」是警讯！别害枕边人免疫力暴跌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342606.md" target="_blank">一场大雨把妖精打成原样：水中的“人间烟火”！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342601.md" target="_blank">与神有约 万蜂祝寿  「蜜蜂部将」准时来报到</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342600.md" target="_blank">收到发抖 「真的受够了！」 十年如一日收到未订购的披萨！</a></li>
 
 </ul>
 </div>
