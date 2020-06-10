@@ -7,24 +7,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342144.md">现在球到了中国民航手里 中共当局却处境尴尬 进退两难 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342035.md">武汉去年夏天已爆发疫情？哈佛专家曝光惊人发现 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342120.md">连续2天 有人用无人机空投中共病毒到中共领事馆(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342117.md">李克强没提“地摊经济”？王沪宁捣鬼？习李斗水太深(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md">6.7级 两天3次强震，2020下半年更艰难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342340.md">宁愿坐在宝马里哭”的拜金女孩 现在已32岁 她笑了吗？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200609/1342209.md">李克强倡地摊经济引爆权斗炸弹　触习近平底线各地政府无所适从</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342006.md">监控：佛洛依德被捕时 两次背警察丢下白色物品 还是个色情明星、毒贩子</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342280.md">中国失业率3成 习近平头大 英国高官献计全球中国战略 "参照苏联 解体中共非难事"</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342243.md">退休咋办?中共惊现5千亿缺口 中南海对美货币超限战早打响 越共竟与欧盟免除99%关税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342149.md">【微博精粹】习李大战10天收摊 党国没钱吹自干五 直辖市难取美元(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342423.md">美情报总监：若这两条件符合 中国革命正在路上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342294.md">暴徒准备冲击亚裔社区？美国居民反呛：恭候光临(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342130.md">川普发推：俄罗斯、俄罗斯、俄罗斯…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342112.md">互不让步 中印边境谈判破裂(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342423.md">美情报总监：若这两条件符合 中国革命正在路上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342007.md">习“复兴”见鬼 习李斗争的地摊经济与地方自治(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200609/1342045.md">被枪决的文科状元 到刑场还忽悠刽子手(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200609/1342070.md">她是刷屏王郝海东背后的女人 因让球风波退役(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342383.md">“错把油门当刹车”的百年难题，斯巴鲁终于解开了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200609/1342070.md">她是刷屏王郝海东背后的女人 因让球风波退役(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200609/1342045.md">被枪决的文科状元 到刑场还忽悠刽子手(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342516.md" target="_blank">中共人大常委会议下周举行 议程未见「港版国安法」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342509.md" target="_blank">中印打起来了！边境冲突引双方嘴炮齐发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342508.md" target="_blank">内幕 “610”的超级权力与21年迫害(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342507.md" target="_blank">存款丢失 大陆银行不负责(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342184.md" target="_blank">武汉女市政府维权 被警打昏(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342182.md" target="_blank">“地摊经济”又降温了？ 河北城管殴打摆摊老人(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342170.md" target="_blank">美机、共机同日进入台湾空域 国防部回应(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200609/1342169.md" target="_blank">抗衡中共 美海军重量级部署三航母战斗群于太平洋海域(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342533.md" target="_blank">川普在教堂外发誓保卫美国却遭左派攻击 白宫：总统无悔此行</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342523.md" target="_blank">&#8220;世界第二&#8221;的钱都花到哪儿啦 谁看了谁骂娘！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342522.md" target="_blank">横河：美国骚乱背后因素 Antifa成员向警方投降 很快真相大白</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342521.md" target="_blank">沈舟：明里吹嘘防疫白皮书 暗里扩大全国检测范围 令人后怕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342520.md" target="_blank">高天韵：反送中周年 香港抗争推动全球抗共(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342519.md" target="_blank">石山：蔡霞还在大陆 处境堪忧 中共下一步还是两手惩治香港(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342496.md" target="_blank">秋阳：我看见你(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342490.md" target="_blank">无神信仰，一场人生豪赌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342483.md" target="_blank">郑任汶：高雄人亲手扑灭韩流 罢免“百年难得一见的政治奇才” (图)</a></li>
@@ -114,12 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342433.md" target="_blank">郑文杰：在大陆遭受的折磨至今心有余悸 常做噩梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342410.md" target="_blank">历史留借鉴：天象显人间变 暴君死于兵变 从当今天运辨清形势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342385.md" target="_blank">6.7级 两天3次强震，2020下半年更艰难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342383.md" target="_blank">“错把油门当刹车”的百年难题，斯巴鲁终于解开了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342367.md" target="_blank">美司法部长抨击FBI：虽证据不足却攻击性地调查川普团队</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342360.md" target="_blank">菊花普洱蜂蜜茶 降脂去火 醒脑提神</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342351.md" target="_blank">美司法部：中共花1,000多万美元在美国主流大报做“广告” 实为大外宣</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342350.md" target="_blank">朝鲜自断热线内外有别   中方呼吁对话</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342330.md" target="_blank">中共强推《港版国安法》 华为继失去英国市场后再失丹麦市场</a></li>
 
 </ul>
 </div>
