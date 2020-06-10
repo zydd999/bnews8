@@ -13,12 +13,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342640.md">劲爆！共军美军同日进台湾 对攻？中共怂了！港版国安法没排期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342388.md">情绪突变 美元美股齐跌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342453.md">文昭：大亨一语惊人：中国11亿人无消费能力！幸存者偏差；习近平最怕的俄罗斯反水将到来？ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342626.md">爆破潜规则 杭州房产中介怒砸售楼部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200610/1342427.md">颜纯鈎&#65306;习李内斗表面化白热化</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342898.md" target="_blank">高速爆胎，好心人相助！没想到川普的回报竟是&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342878.md" target="_blank">寿命和饮食有关  寿命短的男人 吃饭常有4个共性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342877.md" target="_blank">直到失去，他才醒悟妻子是自己的肋骨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342876.md" target="_blank">美食竟成了监测“专家”  800万人的水质管理交给它</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342716.md" target="_blank">李燕铭：金与正发飙 金正恩出事？朝鲜政局突变 切断朝韩通信管道 替中共出头批美国 内幕揭秘 中共末日疯狂 操控金正恩政权对抗美国 垂死反扑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342674.md" target="_blank">港青：香港的抗争是「反极权」极权才是真大台</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342658.md" target="_blank">替中共贿赂拉拢政要 港星胡慧中丈夫在美服刑后将被驱逐</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342650.md" target="_blank">上天下海达极限第一人 美国首位太空漫步女性68岁又潜入最深海底</a></li>
 
 </ul>
 </div>
