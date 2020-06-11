@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342839.md">就在10天前 国家一级演员刘晓庆"翻车"了！(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200610/1342746.md">地球上唯一存活1441年的公司 千年只钻研一项业务</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343248.md" target="_blank">神州系又出事 陆正耀神州优车股份遭冻结(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/783257.md" target="_blank">美国务院2019国际宗教自由报告　关注法轮功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md" target="_blank">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343194.md" target="_blank">传华夏时报社长收千万元 撤回巨贪丑闻报导(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343104.md" target="_blank">蝗虫伴瘟疫！吉林、湖南、黑龙江出现蝗虫灾情（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343092.md" target="_blank">中共监控延伸至香港 港人回大陆被扣查手机(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343091.md" target="_blank">一线采访 南方暴雨破纪录 广西水淹2层楼 泄洪无预警(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md" target="_blank">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343249.md" target="_blank">怪不得美国暴乱象中共文革 原来背后有个百年大阴谋(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343247.md" target="_blank">网曝天津大型中共宣传牌被烧毁 现场传出笑声（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343246.md" target="_blank">北京报复澳洲 华裔学者：追查疫情真相是一道绕不过去的坎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343216.md" target="_blank">国安法危机 黎智英：习李权斗激烈 中共处境可能不稳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343215.md" target="_blank">一句古谚教你如何养生：站坐行卧有奥妙喔</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343214.md" target="_blank">抹茶可不是一般的绿茶，你了解它吗</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343116.md" target="_blank">中国媒体有个美国爹 赤裸跪添美国百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343115.md" target="_blank">李怡： 香港人 丢掉幻想 持续抗斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343114.md" target="_blank">方方：你们若能让中国作协开除我 我半点意见没有(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343113.md" target="_blank">悲愤！在船上呆了128天 中国海员们何时被允许靠岸回家</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343105.md" target="_blank">梁欣：郝海东发声 铁幕撕开了吗？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343097.md" target="_blank">北游: 美华裔选美冠军被剥夺头衔 指出黑人的问题就是种族主义者吗？(图)</a></li>
 
 </ul>
 </div>
