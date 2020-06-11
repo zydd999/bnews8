@@ -8,14 +8,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200611/1343064.md">怕香港资金撤走 中共外交部换了一副嘴脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343112.md">传习近平宁夏考察 凝望大坑 一言不发(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200611/1343064.md">怕香港资金撤走 中共外交部换了一副嘴脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342826.md">许雅钧大骂小S“恶心” 忍辱15年的婚姻 将到尽头？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342957.md">Arm中国传“夺权大战” 华为疑为背后因素(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343000.md">陈破空：中印冲突，中方败退！原因神秘，习近平害怕一件事。多少个不准？中共进入崇祯时刻 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
