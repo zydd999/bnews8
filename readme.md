@@ -7,13 +7,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342839.md">就在10天前 国家一级演员刘晓庆"翻车"了！(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md" target="_blank">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343138.md" target="_blank">郝海东获赞灭共勇士 中共网络封杀搞株连(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343137.md" target="_blank">赵正永在省政府的“大管家” 老乡副省长陈国强受贿3566万元(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343136.md" target="_blank">蓬佩奥：中共政府对所有宗教镇压持续加剧(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343036.md" target="_blank">世卫与大陆基金众筹 24天仅3万 引发嘲讽(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343028.md" target="_blank">美国会报告：香港问题 最高可制裁韩正(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343027.md" target="_blank">美国会吁制裁中共统战官员及家属 禁颁签证(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343140.md" target="_blank">法国民间状告总理卫生部长司法部长 法院受理</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343139.md" target="_blank">【英女童失踪案】德检察官：有证据显示麦卡恩已被杀害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343123.md" target="_blank">认识飞蚊症 5件事不可不知(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343116.md" target="_blank">中国媒体有个美国爹 赤裸跪添美国百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343115.md" target="_blank">李怡： 香港人 丢掉幻想 持续抗斗</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343018.md" target="_blank">胡锦成: 那些“风暴”中的“逆评者”才是一个民族觉醒与崛起的希望(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343017.md" target="_blank">【民众心声】共产党的话连标点符号都不能信(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343015.md" target="_blank">疫情之下，将海滩“搬”回家才是巴适生活的首选！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343012.md" target="_blank">需求疲软消费和生产价格下滑 专家：中国经济动力全失 在谷底挣扎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343011.md" target="_blank">俄电厂柴油外泄难阻    北极生态遭有史最大污染</a></li>
 
 </ul>
 </div>
