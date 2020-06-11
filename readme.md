@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342626.md">爆破潜规则 杭州房产中介怒砸售楼部</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343092.md" target="_blank">中共监控延伸至香港 港人回大陆被扣查手机(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343091.md" target="_blank">一线采访 南方暴雨破纪录 广西水淹2层楼 泄洪无预警(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md" target="_blank">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343071.md" target="_blank">中共“610办公室”几任高层的末路(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343070.md" target="_blank">辽宁摊贩：活着没信心 欲死没决心 百姓太苦(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343058.md" target="_blank">《国际宗教自由报告》将发布 篷佩奥直戳中共痛处(图)</a></li>
@@ -55,15 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342709.md" target="_blank">张晓明谈香港媒体报道“颠覆中共” 学者批驳(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342708.md" target="_blank">老天怎么总在怒吼呢？是在催中共下课吗？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md" target="_blank">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md" target="_blank">中印边境对峙一月后 共军突然后撤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342654.md" target="_blank">“让党替你发声” 澳智库揭露中共统战内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342627.md" target="_blank">南方洪涝扩至11省受灾 一天增百万灾民(图/视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md" target="_blank">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343056.md" target="_blank">港版国安法时间表曝光？党媒放风：中共将破格处理 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md" target="_blank">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md" target="_blank">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
@@ -88,13 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md" target="_blank">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342157.md" target="_blank">川普一句话 海外华人炸锅了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342145.md" target="_blank">完了！中共科技战越打输越大 开战要趁早？越来越落后</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343097.md" target="_blank">北游: 美华裔选美冠军被剥夺头衔 指出黑人的问题就是种族主义者吗？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343096.md" target="_blank">美国“黑命运动”兴起的幕后藏镜人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343088.md" target="_blank">千年古城开罗 遇见手工匠的旅行</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343081.md" target="_blank">陶杰：全世界盯着一个膝盖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343080.md" target="_blank">专家称印度将发生毁灭性大地震 征兆已经出现</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343001.md" target="_blank">中国大学毕业生就业率断崖式下滑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342999.md" target="_blank">长平：郝海东的决裂让后浪难以奔涌(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342998.md" target="_blank">苦胆：总加速师进行曲</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342997.md" target="_blank">天涯补刀：为何特朗普获得连任 没有任何悬念！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342994.md" target="_blank">中国银行业今年IPO暂时为零</a></li>
 
 </ul>
 </div>
