@@ -18,13 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200610/1342746.md">地球上唯一存活1441年的公司 千年只钻研一项业务</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342826.md">许雅钧大骂小S“恶心” 忍辱15年的婚姻 将到尽头？(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342957.md">Arm中国传“夺权大战” 华为疑为背后因素(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343255.md" target="_blank">中国受害家属怒告政府隐瞒疫情 索赔近200万(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343254.md" target="_blank">湖北人如今成了病毒？中共密令严控引发歧视</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343253.md" target="_blank">留学生投诉隔离酒店卫生差 负责人：回国豪横什么？(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343248.md" target="_blank">神州系又出事 陆正耀神州优车股份遭冻结(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/783257.md" target="_blank">美国务院2019国际宗教自由报告　关注法轮功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md" target="_blank">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343111.md" target="_blank">中国3年砸1900万美元 在美媒做宣传(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343110.md" target="_blank">中国第一起！武汉肺炎受害者家属状告中共政府「隐瞒疫情」怒求偿</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343108.md" target="_blank">蓬佩奥: 北京“与信仰为敌”数十年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343104.md" target="_blank">蝗虫伴瘟疫！吉林、湖南、黑龙江出现蝗虫灾情（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343092.md" target="_blank">中共监控延伸至香港 港人回大陆被扣查手机(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343091.md" target="_blank">一线采访 南方暴雨破纪录 广西水淹2层楼 泄洪无预警(图/视频)</a></li>
 
 </ul>
 </div>
