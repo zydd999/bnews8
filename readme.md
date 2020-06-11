@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343199.md">李燕铭：江泽民曾庆红重大不利消息！特朗普点化习近平如何死里逃生 美白宫国会敏感日发布重磅报告 点名制裁韩正陈全国等多名中共国级高官 针对中共提出有史以来最严厉制裁方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343192.md">亲共总统暴毙妻确诊染疫 亲共总理辞职！引爆捷克大示威 湖北220万人曾感染中共肺炎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343294.md">美国会报告提史上最严厉方案制裁中共 韩正、汪洋被列制裁对象</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343316.md">中共停热搜榜 怕更多郝海东？习近平考察宁夏一图疯传 水库溃坝民众撤离 三峡大坝危了？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610) </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343395.md" target="_blank">陈破空：陈破空谈《常识》（之57）：如何解读“为人民服务”？太玄妙</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343383.md" target="_blank">欧媒：中国一旦强大 全球都要遭殃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343358.md" target="_blank">中国一旦强大全球都要遭殃？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343341.md" target="_blank">中联办罕见密集开会 促港官员支持国安法</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343135.md" target="_blank">惨！水库泄洪 荔浦村民目睹人被冲走(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343128.md" target="_blank">香港之后就是台湾 外媒：「中共的扩张欲」将以同样方法对待全世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343127.md" target="_blank">中共在美媒做宣传 巨额资金曝光！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343124.md" target="_blank">认清中共选择美好未来(图)</a></li>
 
 </ul>
 </div>
