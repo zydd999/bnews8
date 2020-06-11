@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342626.md">爆破潜规则 杭州房产中介怒砸售楼部</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343138.md" target="_blank">郝海东获赞灭共勇士 中共网络封杀搞株连(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343137.md" target="_blank">赵正永在省政府的“大管家” 老乡副省长陈国强受贿3566万元(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343136.md" target="_blank">蓬佩奥：中共政府对所有宗教镇压持续加剧(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343135.md" target="_blank">惨！水库泄洪 荔浦村民目睹人被冲走(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343128.md" target="_blank">香港之后就是台湾 外媒：「中共的扩张欲」将以同样方法对待全世界</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343127.md" target="_blank">中共在美媒做宣传 巨额资金曝光！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343124.md" target="_blank">认清中共选择美好未来(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343036.md" target="_blank">世卫与大陆基金众筹 24天仅3万 引发嘲讽(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343028.md" target="_blank">美国会报告：香港问题 最高可制裁韩正(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343027.md" target="_blank">美国会吁制裁中共统战官员及家属 禁颁签证(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343026.md" target="_blank">央企旗下中信信托董事长辞职 任内风波不断(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343016.md" target="_blank">COMING FOR YOU II 【ETERNAL FIFTY MINUTES】</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343013.md" target="_blank">文昭：中共核武跃升世界第三，美军一项科技让「东风17」成浮云；还有更多等着「造反」的郝海东</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343000.md" target="_blank">陈破空：中印冲突，中方败退！原因神秘，习近平害怕一件事。多少个不准？中共进入崇祯时刻</a></li>
 
 </ul>
 </div>
