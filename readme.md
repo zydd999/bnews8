@@ -6,24 +6,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342839.md">就在10天前 国家一级演员刘晓庆"翻车"了！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200611/1343064.md">怕香港资金撤走 中共外交部换了一副嘴脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200611/1343064.md">怕香港资金撤走 中共外交部换了一副嘴脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343112.md">传习近平宁夏考察 凝望大坑 一言不发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200610/1342746.md">地球上唯一存活1441年的公司 千年只钻研一项业务</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md" target="_blank">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343192.md" target="_blank">非亲共总统暴毙妻确诊染疫 亲共总理辞职！引爆捷克大示威 湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343119.md" target="_blank">中共在东欧大挫败 罗马尼亚总理：不会与中共合作(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md" target="_blank">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
@@ -88,13 +89,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342294.md" target="_blank">暴徒准备冲击亚裔社区？美国居民反呛：恭候光临(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342280.md" target="_blank">中国失业率3成 习近平头大 英国高官献计全球中国战略 &#8220;参照苏联 解体中共非难事&#8221;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342243.md" target="_blank">退休咋办?中共惊现5千亿缺口 中南海对美货币超限战早打响 越共竟与欧盟免除99%关税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200609/1342237.md" target="_blank">卫星图像曝武肺9月武汉传播 美媒披露中共不愿人知四事实 中共放风第二波将至超第一波</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343216.md" target="_blank">国安法危机 黎智英：习李权斗激烈 中共处境可能不稳</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343215.md" target="_blank">一句古谚教你如何养生：站坐行卧有奥妙喔</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343214.md" target="_blank">抹茶可不是一般的绿茶，你了解它吗</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343213.md" target="_blank">天热出汗臭烘烘  6大原因告诉你</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343212.md" target="_blank">脸色苍白、手脚冰冷是贫血？ 补血食物大揭密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343211.md" target="_blank">十大癌症之首死亡率首度下降！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343210.md" target="_blank">好心情吃出来，烦躁易怒吃它就对啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343203.md" target="_blank">Zoom关闭民运人士帐号 王丹：美国起草法案防范外国干扰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343199.md" target="_blank">李燕铭：江泽民曾庆红重大不利消息！特朗普点化习近平如何死里逃生 美白宫国会敏感日发布重磅报告 点名制裁韩正陈全国等多名中共国级高官 针对中共提出有史以来最严厉制裁方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343191.md" target="_blank">日首波放宽入境名单台湾未入列  产经新闻：外交原则无法单向解禁</a></li>
@@ -113,13 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343113.md" target="_blank">悲愤！在船上呆了128天 中国海员们何时被允许靠岸回家</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343105.md" target="_blank">梁欣：郝海东发声 铁幕撕开了吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343097.md" target="_blank">北游: 美华裔选美冠军被剥夺头衔 指出黑人的问题就是种族主义者吗？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343096.md" target="_blank">美国“黑命运动”兴起的幕后藏镜人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343088.md" target="_blank">千年古城开罗 遇见手工匠的旅行</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343081.md" target="_blank">陶杰：全世界盯着一个膝盖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343080.md" target="_blank">专家称印度将发生毁灭性大地震 征兆已经出现</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343079.md" target="_blank">港人提醒台湾：小心任何“中国代理人”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343068.md" target="_blank">习近平宁夏考察 凝望面前一个大坑 图片疯传</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343067.md" target="_blank">美国华人评论“黑人命贵”骚乱: 他们要在美国实现社会主义 人渣得势</a></li>
 
 </ul>
 </div>
