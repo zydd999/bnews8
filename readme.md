@@ -13,8 +13,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342826.md">许雅钧大骂小S“恶心” 忍辱15年的婚姻 将到尽头？(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342957.md">Arm中国传“夺权大战” 华为疑为背后因素(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343000.md">陈破空：中印冲突，中方败退！原因神秘，习近平害怕一件事。多少个不准？中共进入崇祯时刻 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200611/1343033.md">哈佛大学：家里这3个地方越乱 孩子长大越聪明 父母别瞎勤快(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343277.md" target="_blank">【杜耀明评论】《国安法》毛病多多　张晓明自揭疮疤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343276.md" target="_blank">每个创伤的核心 都存在强大疗愈的力量(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343249.md" target="_blank">怪不得美国暴乱象中共文革 原来背后有个百年大阴谋(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343247.md" target="_blank">网曝天津大型中共宣传牌被烧毁 现场传出笑声（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343246.md" target="_blank">北京报复澳洲 华裔学者：追查疫情真相是一道绕不过去的坎</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343139.md" target="_blank">【英女童失踪案】德检察官：有证据显示麦卡恩已被杀害</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343123.md" target="_blank">认识飞蚊症 5件事不可不知(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343116.md" target="_blank">中国媒体有个美国爹 赤裸跪添美国百姓</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343115.md" target="_blank">李怡： 香港人 丢掉幻想 持续抗斗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343114.md" target="_blank">方方：你们若能让中国作协开除我 我半点意见没有(图)</a></li>
 
 </ul>
 </div>
