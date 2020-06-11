@@ -5,8 +5,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200611/1343064.md">怕香港资金撤走 中共外交部换了一副嘴脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343112.md">传习近平宁夏考察 凝望大坑 一言不发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343199.md">李燕铭：江泽民曾庆红重大不利消息！特朗普点化习近平如何死里逃生 美白宫国会敏感日发布重磅报告 点名制裁韩正陈全国等多名中共国级高官 针对中共提出有史以来最严厉制裁方案</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343294.md">美国会报告提史上最严厉方案制裁中共 韩正、汪洋被列制裁对象</a></li>
@@ -15,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343335.md">江系杀气腾腾 为镇压铺路 安倍转向 习近平计划恐落空 美国制裁 这个常委可上榜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343498.md" target="_blank">李克强有道理？ 中国经济除摆地摊没有更好选项</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343497.md" target="_blank">埃及沙漠里的锡瓦绿洲 人人可以浮起来的的网红盐池</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343496.md" target="_blank">千年孤独 人类从未触及 发现神秘蓝色外星「游泳池」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343495.md" target="_blank">霸气的姿态 强力「保镖」上任  100％汽车不会被盗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343491.md" target="_blank">融资成本飙升 中国债市输血实体经济能力骤降</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343490.md" target="_blank">人到中年 3欲必戒 人生越来越顺</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343489.md" target="_blank">9种神奇有效保持牙齿健康的食物</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343398.md" target="_blank">暴徒占领西雅图某区 川普谴责华州高官任由恐怖份子胡来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343387.md" target="_blank">时事大家谈(2020年6月11日)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343379.md" target="_blank">《出埃及记》第八灾蝗灾出现？十灾重演是为了什么</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343373.md" target="_blank">2020港姐竞选因疫情改网播 涉及政见的自由问答成大看点</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343372.md" target="_blank">日本演艺再受疫情冲击  AKIRA公司取消今年所有公演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343336.md" target="_blank">黄家驹歌曲激励几代人为自由而战  Beyond队友忌日表悼念</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343322.md" target="_blank">NASA取得重大突破，可能「深刻」改变天文学</a></li>
 
 </ul>
 </div>
