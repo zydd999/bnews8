@@ -9,13 +9,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342839.md">就在10天前 国家一级演员刘晓庆"翻车"了！(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342960.md">各地水库出现警戒 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342626.md">爆破潜规则 杭州房产中介怒砸售楼部</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
@@ -23,8 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1342886.md">黎智英：李克强习近平权斗激烈　中国处境非想像中稳定</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343128.md" target="_blank">香港之后就是台湾 外媒：「中共的扩张欲」将以同样方法对待全世界</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343127.md" target="_blank">中共在美媒做宣传 巨额资金曝光！(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343124.md" target="_blank">认清中共选择美好未来(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343120.md" target="_blank">蓬佩奥：别向中共下跪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343112.md" target="_blank">传习近平宁夏考察 凝望大坑 一言不发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343111.md" target="_blank">中国3年砸1900万美元 在美媒做宣传(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343016.md" target="_blank">COMING FOR YOU II 【ETERNAL FIFTY MINUTES】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343013.md" target="_blank">文昭：中共核武跃升世界第三，美军一项科技让「东风17」成浮云；还有更多等着「造反」的郝海东</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343000.md" target="_blank">陈破空：中印冲突，中方败退！原因神秘，习近平害怕一件事。多少个不准？中共进入崇祯时刻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342957.md" target="_blank">Arm中国传“夺权大战” 华为疑为背后因素(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md" target="_blank">因&#8221;蒋某事件&#8221;微博负责人遭约谈 热搜榜停更一周(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342851.md" target="_blank">牵制中共 驻日美军航舰雷根号前往印太地区(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343123.md" target="_blank">认识飞蚊症 5件事不可不知(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343116.md" target="_blank">中国媒体有个美国爹 赤裸跪添美国百姓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343115.md" target="_blank">李怡： 香港人 丢掉幻想 持续抗斗</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343114.md" target="_blank">方方：你们若能让中国作协开除我 我半点意见没有(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343015.md" target="_blank">疫情之下，将海滩“搬”回家才是巴适生活的首选！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343012.md" target="_blank">需求疲软消费和生产价格下滑 专家：中国经济动力全失 在谷底挣扎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343011.md" target="_blank">俄电厂柴油外泄难阻    北极生态遭有史最大污染</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343006.md" target="_blank">王健林旗下电商注销 万达体育净亏损扩大</a></li>
 
 </ul>
 </div>
