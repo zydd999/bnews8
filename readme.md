@@ -11,20 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md">发不出工资 中共财政现大缺口 中印对峙1个月 共军突... 中共外交部越来越战狼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200610/1342605.md">发不出工资 ！中共地方政府财政出现巨大缺口(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342583.md">美金融大鳄200倍杠杆赌港元联滙失守 新基金6月成立引淡友齐下注(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342453.md">文昭：大亨一语惊人：中国11亿人无消费能力！幸存者偏差；习近平最怕的俄罗斯反水将到来？ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342729.md">江泽民父子门下打手被锁定 王沪宁大外宣连遭清洗 白宫再度出手</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200610/1342839.md">就在10天前 国家一级演员刘晓庆"翻车"了！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342655.md">中印边境对峙一月后 共军突然后撤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342626.md">爆破潜规则 杭州房产中介怒砸售楼部</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342875.md">郝海东揭竿而起 各路人马「连环炸」 维尼成孤家寡人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md">这才是中共对西方国家的真正威胁(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342752.md">【未普评论】李克强为何要捅这个马蜂窝？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342503.md">中国三批巨额假美元抵美 货币战争爆发！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200610/1342769.md">长平：郝海东的决裂让后浪难以奔涌</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200610/1342503.md">中国三批巨额假美元抵美 货币战争爆发！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342552.md">美国惹不起 拿澳洲开刀 中共发赴澳留学预警 留澳生：没受到歧视(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342705.md">一线采访 讨薪工人披露雷神山内情(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343006.md" target="_blank">王健林旗下电商注销 万达体育净亏损扩大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343005.md" target="_blank">中国富人担心香港作为财富避风港的地位不保</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343004.md" target="_blank">漫天霾： 解散警察局？没什么了不起！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343001.md" target="_blank">中国大学毕业生就业率断崖式下滑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342999.md" target="_blank">长平：郝海东的决裂让后浪难以奔涌(图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342998.md" target="_blank">苦胆：总加速师进行曲</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342863.md" target="_blank">北方高温加特旱 南方暴雨大水患 又有2个预言应验？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1342859.md" target="_blank">布拉格千人上街护民主 中华民国国旗飘扬(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342842.md" target="_blank">等待美联储（Fed）会议决策 美股开盘小幅上涨</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342820.md" target="_blank">两口神奇的节能锅  让人领教大宋朝的科技辉煌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342796.md" target="_blank">违反爱丁顿极限的中子星会脉动？在宇宙已知的天体中不到10个</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200610/1342788.md" target="_blank">吴尊补办16年前婚礼  与老婆缘份已有40年</a></li>
 
 </ul>
 </div>
