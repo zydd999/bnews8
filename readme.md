@@ -6,25 +6,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/hknews/20200611/1343064.md">怕香港资金撤走 中共外交部换了一副嘴脸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343112.md">传习近平宁夏考察 凝望大坑 一言不发(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1342990.md">杨乃武与小白菜真容曝光！法国记者拍下二人合影(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1342899.md">中国教育部：外籍学生的父母若为中国公民 其申请高校门槛提高</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1342956.md">因"蒋某事件"微博负责人遭约谈 热搜榜停更一周(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343199.md">李燕铭：江泽民曾庆红重大不利消息！特朗普点化习近平如何死里逃生 美白宫国会敏感日发布重磅报告 点名制裁韩正陈全国等多名中共国级高官 针对中共提出有史以来最严厉制裁方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343192.md">亲共总统暴毙妻确诊染疫 亲共总理辞职！引爆捷克大示威 湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343294.md">美国会报告提史上最严厉方案制裁中共 韩正、汪洋被列制裁对象</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343316.md">中共停热搜榜 怕更多郝海东？习近平考察宁夏一图疯传 水库溃坝民众撤离 三峡大坝危了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200611/1342934.md">长寿不靠多睡觉多走路 只需坚持“2件小事”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343014.md">郝海东这个名字为什么让北京害怕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610) </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343398.md" target="_blank">暴徒占领西雅图某区 川普谴责华州高官任由恐怖份子胡来</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343387.md" target="_blank">时事大家谈(2020年6月11日)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343379.md" target="_blank">《出埃及记》第八灾蝗灾出现？十灾重演是为了什么</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343373.md" target="_blank">2020港姐竞选因疫情改网播 涉及政见的自由问答成大看点</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343210.md" target="_blank">好心情吃出来，烦躁易怒吃它就对啦！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343203.md" target="_blank">Zoom关闭民运人士帐号 王丹：美国起草法案防范外国干扰</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343199.md" target="_blank">李燕铭：江泽民曾庆红重大不利消息！特朗普点化习近平如何死里逃生 美白宫国会敏感日发布重磅报告 点名制裁韩正陈全国等多名中共国级高官 针对中共提出有史以来最严厉制裁方案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343191.md" target="_blank">日首波放宽入境名单台湾未入列  产经新闻：外交原则无法单向解禁</a></li>
 
 </ul>
 </div>
