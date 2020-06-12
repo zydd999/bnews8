@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343727.md" target="_blank">马克思阴魂不散！中共欲每年“速成”20万接班人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343715.md" target="_blank">越来越多的西方政界人士看清了中共本质(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343714.md" target="_blank">北京再现本土病例 两周内未离京 传染途径不明(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343706.md" target="_blank">李文亮遗孀顺利产下男婴：老公送给我最后的礼物(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343594.md" target="_blank">“地摊经济”突降温 再遭驱赶 摊主拉横幅“要生存”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343593.md" target="_blank">蹊跷 陕西渭南市公安局大楼突发火灾 从楼顶烧到楼底 网民热议(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343568.md" target="_blank">应对中共威胁 美国会提出制造业《击败中国法案》(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343567.md" target="_blank">川普在“向伟大过渡”会议上讲话(图/视频)</a></li>
 
 </ul>
 </div>
