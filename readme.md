@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610) </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343119.md">中共在东欧大挫败 罗马尼亚总理：不会与中共合作(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343145.md">四只随时令您损失惨重的中国股票(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1343227.md">已婚女子与情人在宾馆约会后身亡</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343247.md">网曝天津大型中共宣传牌被烧毁 现场传出笑声（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md">放弃美国绿卡回国的我被灭门(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343594.md" target="_blank">“地摊经济”突降温 再遭驱赶 摊主拉横幅“要生存”(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343593.md" target="_blank">蹊跷 陕西渭南市公安局大楼突发火灾 从楼顶烧到楼底 网民热议(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343568.md" target="_blank">应对中共威胁 美国会提出制造业《击败中国法案》(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343567.md" target="_blank">川普在“向伟大过渡”会议上讲话(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343553.md" target="_blank">蝗虫来了！吉林、黑龙江地方政府发紧急通知(图/视频)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343248.md" target="_blank">神州系又出事 陆正耀神州优车股份遭冻结(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/783257.md" target="_blank">美国务院2019国际宗教自由报告　关注法轮功</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md" target="_blank">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343194.md" target="_blank">传华夏时报社长收千万元 撤回巨贪丑闻报导(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343193.md" target="_blank">小粉红翻墙看《九评共产党》惊醒 发表言论被派当志愿者稳控失自由(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343599.md" target="_blank">谢田：在美国摆地摊一年能挣多少？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343586.md" target="_blank">发声反共儿子竟遭解约 郝海东夫妇披露内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343579.md" target="_blank">夏林： 华为在加拿大 用还是不用</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343578.md" target="_blank">杨宁：韩正等面临被制裁 中共高官怎样留退路(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343577.md" target="_blank">智慧的人非常痛苦 你真的以为？… “清者自清 浊者自浊”！(视频)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md" target="_blank">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343520.md" target="_blank">印度正在向印中领土争议地区拉达克大量增兵 大量运送物资 摆出不惜一战的姿态 中共正在认怂中 CCTV与外交部都当这事没发生 不敢出来抗议一下</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343519.md" target="_blank">中共在新西兰奥克兰领事馆牆上被喷漆 居然写了这样的字……骂的痛快！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343510.md" target="_blank">政治物理学创始人：共产主义已改头换面在美国重生</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343509.md" target="_blank">如何安全消毒口罩</a></li>
 
 </ul>
 </div>
