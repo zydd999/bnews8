@@ -17,13 +17,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343609.md">一个社会在崩溃前的七个症状已全具备 你做好准备了吗？(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343522.md">地摊女友 一条龙服务 估计会火遍市场 网评：没救了的年轻人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343522.md">地摊女友 一条龙服务 估计会火遍市场 网评：没救了的年轻人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343658.md">【微博精粹】习总加速师内心独白曝光 有图为证 (组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343884.md" target="_blank">加国智库研讨会 疫情下抵抗中共捍卫人权</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md" target="_blank">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md" target="_blank">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343842.md" target="_blank">陈破空：陈破空说段子：唯一一张反对票，谁投了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md" target="_blank">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
@@ -56,14 +58,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343676.md" target="_blank">「对华政策跨国议会联盟」增至13国议员参与 意大利荷兰等加入(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343675.md" target="_blank">北京制定9种“校闹”行为 被指限制家长维权(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343674.md" target="_blank">“五毛党”惨遭减薪？经济不景气 网军被波及(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343653.md" target="_blank">中美谍战：加州大学中国学者瞒解放军身份 带实验室资料回国前被捕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343646.md" target="_blank">推特删17万个亲共账户 中共网军年发4.48亿假信息(组图/视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md" target="_blank">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343881.md" target="_blank">中南海那个区 北京忽报新确诊 中共密令曝光 湖北人成病毒 惊传朝鲜恐5000人死于隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343812.md" target="_blank">重磅！白宫禁用工科神器 中共军工系一下停滞好几年 围堵 美通过国防授权法案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343768.md" target="_blank">文革？中共摸底国民海外关系 慌了！规定年培养20万接班人 黄之锋戳破NBA巨星詹姆斯虚伪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343744.md" target="_blank">没钱了！中共试行现金管理 人民币创纪录暴跌!萎缩25% 债市跌 银行理财产品浮亏</a></li>
@@ -87,14 +89,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342937.md" target="_blank">港大研究指湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342932.md" target="_blank">前美驻北京大使洪博培染中共病毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md" target="_blank">发不出工资 中共财政现大缺口 中印对峙1个月 共军突&#8230; 中共外交部越来越战狼</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342770.md" target="_blank">英给所有港人永居权获跨党派支持 反共阵营刚成立就3国加盟 金融大鳄200倍杠杆赌港元</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342745.md" target="_blank">金钱外交 中共大撒币买77国 专家:全球批中共挺台前所未见 医生:中国产快筛完全是垃圾</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343889.md" target="_blank">何清涟：打碎旧世界创造新天地—美国文革正在进行时(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343888.md" target="_blank">美国严重缺乏感恩教育(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343880.md" target="_blank">拜访客户却卖不出产品 3个“关键”别忽略(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343814.md" target="_blank">联合国粮农组织：世界面临50年来最严重的食物危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343808.md" target="_blank">小粉红女硕士放弃绿卡回国救父 一家却惨遭“灭门”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343807.md" target="_blank">英外交部谴责中共对郑文杰的迫害  “骇人听闻 令人震惊”</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343679.md" target="_blank">以为是中暑，其实是心脏病。用中医抵挡夺命危机</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343658.md" target="_blank">【微博精粹】习总加速师内心独白曝光 有图为证 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343615.md" target="_blank">中共再捣弄马克思主义 欲每年“速成”20万接班人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343612.md" target="_blank">陈希同曾联合7省委举报江泽民内幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343599.md" target="_blank">谢田：在美国摆地摊一年能挣多少？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343586.md" target="_blank">发声反共儿子竟遭解约 郝海东夫妇披露内幕</a></li>
 
 </ul>
 </div>
