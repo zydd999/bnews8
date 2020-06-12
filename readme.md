@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343542.md">习近平李克强互打一闷棍 颜纯钩：很不寻常(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343618.md">习近平访宁夏一人罕见随行有玄机？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343722.md">从未公开！李克强又泄惊人数据：外贸企业涉及2亿人就业(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200612/1343441.md">〖兲朝浮世绘〗说好一起耍流氓，你却偷偷从了良</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343618.md">习近平访宁夏一人罕见随行有玄机？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343673.md">中美谍战：加州大学中国学者瞒解放军身份 机场被捕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200612/1343441.md">〖兲朝浮世绘〗说好一起耍流氓，你却偷偷从了良</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343604.md">陈破空：事情大了！习近平这张照片真的刷屏了！日本盛传某人雅号。土共超限战：盗疫苗印假钞。巴西怒责世卫 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md">放弃美国绿卡回国的我被灭门(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343609.md">一个社会在崩溃前的七个症状已全具备 你做好准备了吗？(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343522.md">地摊女友 一条龙服务 估计会火遍市场 网评：没救了的年轻人</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
