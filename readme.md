@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343089.md">人民币创纪录暴跌!支付量萎缩25%降至世界第六(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343199.md">李燕铭：江泽民曾庆红重大不利消息！特朗普点化习近平如何死里逃生 美白宫国会敏感日发布重磅报告 点名制裁韩正陈全国等多名中共国级高官 针对中共提出有史以来最严厉制裁方案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343090.md">中国涌现“郝海东”民众齐喊：打倒共产党！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343192.md">亲共总统暴毙妻确诊染疫 亲共总理辞职！引爆捷克大示威 湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343294.md">美国会报告提史上最严厉方案制裁中共 韩正、汪洋被列制裁对象</a></li>
@@ -21,10 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200611/1343033.md">哈佛大学：家里这3个地方越乱 孩子长大越聪明 父母别瞎勤快(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343119.md">中共在东欧大挫败 罗马尼亚总理：不会与中共合作(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343145.md">四只随时令您损失惨重的中国股票(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343534.md" target="_blank">美参议员提新法惩罚中共偷技术 拟祭制裁(t图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343476.md" target="_blank">中国南方洪灾泛滥 暴雨又袭华中华北东北(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md" target="_blank">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343469.md" target="_blank">美共和党议员提交报告 促国会通过制裁中共官员议案 汪洋韩正首当其冲</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343148.md" target="_blank">习近平重提“小康社会”梦 外媒问：今年能行吗？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343144.md" target="_blank">莫里森：不屈服于中共胁迫 不放弃澳洲自身价值</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md" target="_blank">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343138.md" target="_blank">郝海东获赞灭共勇士 中共网络封杀搞株连(组图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,13 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343536.md" target="_blank">洪博学：暴动将会发生 中国革命正在路上(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343533.md" target="_blank">告别新浪微博(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343531.md" target="_blank">共产党的话连标点符号都不能信 信什么都上当(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343530.md" target="_blank">美国暴动/解滨：美国文革运动考察报告(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343529.md" target="_blank">中共盗国贼白手套偷运金砖！有非洲国家辟谣 说没有收到北京说的那么多资助 原来有人瞒天过海暗度陈仓顺手牵羊浑水摸鱼……</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343528.md" target="_blank">中南海内部斗争公开化了！习近平李克强背后都有大佬支持！北京王府井城管清理摆地摊！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343527.md" target="_blank">日本主流媒体深度剖析中国地摊的前世今生 日本人都看呆了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md" target="_blank">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343522.md" target="_blank">地摊女友 一条龙服务 估计会火遍市场 网评：没救了的年轻人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md" target="_blank">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
@@ -113,13 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343488.md" target="_blank">「秋冬频饥渴」正在应验？ 湖南 吉林多地现蝗虫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343487.md" target="_blank">美国暴动/反川民主党的计谋正在破产(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343485.md" target="_blank">彭博：中共嘴上强硬 暗中继续购买美国大豆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343484.md" target="_blank">中国债市持续下跌 多家银行理财产品浮亏</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343483.md" target="_blank">北京一家海鲜餐厅重开 营业额不及从前一半</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343471.md" target="_blank">黑色星期四！美联储会后道指暴跌1862点 川普恨批美联储老犯错</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343470.md" target="_blank">英公共卫生大臣：70%～80%的中共病毒携带者无症状</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343464.md" target="_blank">评论：疯狂的2020 这才刚到六月(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343447.md" target="_blank">黑命跪：政客可以跪，美国不能跪(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343446.md" target="_blank">【更新】全球43国896位议员谴责中共强推国安法</a></li>
 
 </ul>
 </div>
