@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343192.md">亲共总统暴毙妻确诊染疫 亲共总理辞职！引爆捷克大示威 湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343481.md">中共派特工偷渡至加拿大 试图暗杀孟晚舟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343335.md">江系杀气腾腾 为镇压铺路 安倍转向 习近平计划恐落空 美国制裁 这个常委可上榜</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343617.md">传滴滴司机又出丑闻：滴滴性侵直播了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343508.md">特斯拉来自金星？FBI公布解密文件 内容让人细思极恐(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343528.md">中南海内部斗争公开化了！习近平李克强背后都有大佬支持！北京王府井城管清理摆地摊！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343508.md">特斯拉来自金星？FBI公布解密文件 内容让人细思极恐(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343542.md">习近平李克强互打一闷棍 颜纯钩：很不寻常(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200612/1343441.md">〖兲朝浮世绘〗说好一起耍流氓，你却偷偷从了良</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1343227.md">已婚女子与情人在宾馆约会后身亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md">放弃美国绿卡回国的我被灭门(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343247.md">网曝天津大型中共宣传牌被烧毁 现场传出笑声（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343722.md" target="_blank">从未公开！李克强又泄惊人数据：外贸企业涉及2亿人就业(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343673.md" target="_blank">中美谍战：加州大学中国学者瞒解放军身份 机场被捕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343605.md" target="_blank">应中共政府要求 关闭纪念六四维权帐号 Zoom承认了！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343508.md" target="_blank">特斯拉来自金星？FBI公布解密文件 内容让人细思极恐(多图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342706.md" target="_blank">美国也运动了？ 我们有没有沉默的权利(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342653.md" target="_blank">川普把球踢回来 中共尴尬 中共中小企业纾困金杯水车薪 台积电放话 华为死路一条了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342652.md" target="_blank">这才是中共对西方国家的真正威胁(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342641.md" target="_blank">「中共威胁」遽增！北约秘书长：组全球大联盟抗中共霸凌(图)</a></li>
 
 </ul>
 </div>
