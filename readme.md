@@ -21,10 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md">放弃美国绿卡回国的我被灭门(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343609.md">一个社会在崩溃前的七个症状已全具备 你做好准备了吗？(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
