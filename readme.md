@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343206.md">中共在东欧接连遭遇重挫 中国经济反弹预期已落空 华为力拚供应链入大陆没戏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343335.md">江系杀气腾腾 为镇压铺路 安倍转向 习近平计划恐落空 美国制裁 这个常委可上榜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343121.md">WHO中国募款24天仅得3万人民币 网笑翻：可买2400块鸡排(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343181.md">美军“三大航母齐聚亚太”场景再现 向全球释放明确信号(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610) </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343119.md">中共在东欧大挫败 罗马尼亚总理：不会与中共合作(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200611/1343145.md">四只随时令您损失惨重的中国股票(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1343227.md">已婚女子与情人在宾馆约会后身亡</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343542.md" target="_blank">习近平李克强互打一闷棍 颜纯钩：很不寻常(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343541.md" target="_blank">中共施压 苹果中国App商店下架Pocket Casts(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343534.md" target="_blank">美参议员提新法惩罚中共偷技术 拟祭制裁(t图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343476.md" target="_blank">中国南方洪灾泛滥 暴雨又袭华中华北东北(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md" target="_blank">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343183.md" target="_blank">江苏常州小区3天坠4灭火器 网民：太恐怖了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343158.md" target="_blank">大陆摊主据理驳斥 城管理屈词穷：我不跟你讲了(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343148.md" target="_blank">习近平重提“小康社会”梦 外媒问：今年能行吗？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343144.md" target="_blank">莫里森：不屈服于中共胁迫 不放弃澳洲自身价值</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343143.md" target="_blank">天亮时分：谭书记给了习近平沉默的一击;认清美国骚乱背后的五只黑手;沉默的大多数必须发声(政论天下第179集 20200610)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343538.md" target="_blank">《地母经》的“晚稻无可割”也来了：东北蝗军在路上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343536.md" target="_blank">洪博学：暴动将会发生 中国革命正在路上(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343533.md" target="_blank">告别新浪微博(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343531.md" target="_blank">共产党的话连标点符号都不能信 信什么都上当(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343489.md" target="_blank">9种神奇有效保持牙齿健康的食物</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343488.md" target="_blank">「秋冬频饥渴」正在应验？ 湖南 吉林多地现蝗虫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343487.md" target="_blank">美国暴动/反川民主党的计谋正在破产(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343485.md" target="_blank">彭博：中共嘴上强硬 暗中继续购买美国大豆</a></li>
 
 </ul>
 </div>
