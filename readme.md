@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343617.md">传滴滴司机又出丑闻：滴滴性侵直播了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343481.md">中共派特工偷渡至加拿大 试图暗杀孟晚舟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343528.md">中南海内部斗争公开化了！习近平李克强背后都有大佬支持！北京王府井城管清理摆地摊！</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
