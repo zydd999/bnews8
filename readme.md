@@ -14,16 +14,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343542.md">习近平李克强互打一闷棍 颜纯钩：很不寻常(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200612/1343441.md">〖兲朝浮世绘〗说好一起耍流氓，你却偷偷从了良</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343618.md">习近平访宁夏一人罕见随行有玄机？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200612/1343441.md">〖兲朝浮世绘〗说好一起耍流氓，你却偷偷从了良</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343393.md">应北京要求 苹果中国App商店下架Pocket Casts</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1343227.md">已婚女子与情人在宾馆约会后身亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343604.md">陈破空：事情大了！习近平这张照片真的刷屏了！日本盛传某人雅号。土共超限战：盗疫苗印假钞。巴西怒责世卫 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343673.md">中美谍战：加州大学中国学者瞒解放军身份 机场被捕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md">放弃美国绿卡回国的我被灭门(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343247.md">网曝天津大型中共宣传牌被烧毁 现场传出笑声（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343673.md">中美谍战：加州大学中国学者瞒解放军身份 机场被捕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343722.md">从未公开！李克强又泄惊人数据：外贸企业涉及2亿人就业(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343784.md" target="_blank">在青海监狱九死一生 两年后她又被劫持到甘肃女监(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343781.md" target="_blank">被问中共授意Zoom关六四帐号？华春莹：「你问得太具体了」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343775.md" target="_blank">美国军机在巴士海峡巡弋 对北京抵近侦察(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343770.md" target="_blank">美国运输机飞过台湾领空 北京两发言人跳脚叫嚣 网友热议(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343645.md" target="_blank">天亮时分：史上最强制裁名单,韩正等正国级高官在列;还有两人不能放过(政论天下第180集 20200611)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343636.md" target="_blank">中国学者呛“武统” 智库：中共军队作战能力堪忧(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343635.md" target="_blank">广西柳州名副其实的“水上派出所”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343618.md" target="_blank">习近平访宁夏一人罕见随行有玄机？(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343787.md" target="_blank">捕鱼观察组织：2名印尼船员在中国渔船上受虐待 跳海逃生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343782.md" target="_blank">华为名誉扫地急搞公关 买下三家英国主流报纸版面</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343777.md" target="_blank">被问中共授意Zoom关民运人士帐号 华春莹：你问得太具体了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343773.md" target="_blank">列台湾为首要合作伙伴 澳议员吁摆脱对中共经济过度依赖</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343578.md" target="_blank">杨宁：韩正等面临被制裁 中共高官怎样留退路(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343577.md" target="_blank">智慧的人非常痛苦 你真的以为？… “清者自清 浊者自浊”！(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343576.md" target="_blank">王友群：跟赵乐际谈谈610办公室官员的结局(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343575.md" target="_blank">王赫：习李斗从何而来？结局如何？(图)</a></li>
 
 </ul>
 </div>
