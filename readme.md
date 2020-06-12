@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343508.md" target="_blank">特斯拉来自金星？FBI公布解密文件 内容让人细思极恐(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343474.md" target="_blank">北美华人出离愤怒 抵制美国最时髦举动 图集/视频</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343455.md" target="_blank">股市大跌！美财长：即便第二波疫情 不会再次叫停经济(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md" target="_blank">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
@@ -88,13 +89,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342641.md" target="_blank">「中共威胁」遽增！北约秘书长：组全球大联盟抗中共霸凌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342640.md" target="_blank">劲爆！共军美军同日进台湾 对攻？中共怂了！港版国安法没排期</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342639.md" target="_blank">预言中共将瓦解？她：想起苏联败亡(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342615.md" target="_blank">港版国安法中共真怂了？ 港警成立专责部门 执法处长直接管辖(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343519.md" target="_blank">中共在新西兰奥克兰领事馆牆上被喷漆 居然写了这样的字……骂的痛快！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343510.md" target="_blank">政治物理学创始人：共产主义已改头换面在美国重生</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343509.md" target="_blank">如何安全消毒口罩</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343507.md" target="_blank">中国媒体正在失去对痛苦的感受力(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343498.md" target="_blank">李克强有道理？ 中国经济除摆地摊没有更好选项</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343497.md" target="_blank">埃及沙漠里的锡瓦绿洲 人人可以浮起来的的网红盐池</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343496.md" target="_blank">千年孤独 人类从未触及 发现神秘蓝色外星「游泳池」</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343426.md" target="_blank">当中共的口罩“子弹”击中了全球化梦幻中的美国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343425.md" target="_blank">美国会新议案 追责中共兼防中共再盗窃美国技术</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343403.md" target="_blank">5分钟上桌 炝拌白菜心 清爽又美味</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md" target="_blank">放弃美国绿卡回国的我被灭门(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343398.md" target="_blank">暴徒占领西雅图某区 川普谴责华州高官任由恐怖份子胡来</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343387.md" target="_blank">时事大家谈(2020年6月11日)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343379.md" target="_blank">《出埃及记》第八灾蝗灾出现？十灾重演是为了什么</a></li>
 
 </ul>
 </div>
