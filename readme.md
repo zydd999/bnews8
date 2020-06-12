@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343294.md">美国会报告提史上最严厉方案制裁中共 韩正、汪洋被列制裁对象</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343617.md">传滴滴司机又出丑闻：滴滴性侵直播了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343316.md">中共停热搜榜 怕更多郝海东？习近平考察宁夏一图疯传 水库溃坝民众撤离 三峡大坝危了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343192.md">亲共总统暴毙妻确诊染疫 亲共总理辞职！引爆捷克大示威 湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343481.md">中共派特工偷渡至加拿大 试图暗杀孟晚舟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343335.md">江系杀气腾腾 为镇压铺路 安倍转向 习近平计划恐落空 美国制裁 这个常委可上榜</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343528.md">中南海内部斗争公开化了！习近平李克强背后都有大佬支持！北京王府井城管清理摆地摊！</a></li>
@@ -16,7 +15,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200611/1343250.md">中国登记国民的海外关系      唤起文革打压海外关系群体记忆</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343475.md">网传贵州龙塘水库崩塌 民众奔走逃命(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343542.md">习近平李克强互打一闷棍 颜纯钩：很不寻常(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343196.md">中国大妈们又作恶剧 现场保安超崩溃(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/funmedia/20200612/1343388.md">“聚会后 我们同学群解散了”(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200612/1343441.md">〖兲朝浮世绘〗说好一起耍流氓，你却偷偷从了良</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200612/1343381.md">郝海东离婚内幕曝光 与现任妻子均为二婚(组图)</a></li>
@@ -24,7 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200611/1343227.md">已婚女子与情人在宾馆约会后身亡</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343401.md">放弃美国绿卡回国的我被灭门(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343618.md">习近平访宁夏一人罕见随行有玄机？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200611/1343247.md">网曝天津大型中共宣传牌被烧毁 现场传出笑声（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343604.md">陈破空：事情大了！习近平这张照片真的刷屏了！日本盛传某人雅号。土共超限战：盗疫苗印假钞。巴西怒责世卫 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343766.md" target="_blank">看客：李克强摆地摊 遇上城管习近平？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343765.md" target="_blank">小粉红放弃美国绿卡 返国后惨遭灭门式打压(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md" target="_blank">中共全国人大常委会副秘书长被贬 任闲职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343755.md" target="_blank">陕西一煤矿发生事故 导致7人失踪 曾通报存在重大事故隐患(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343745.md" target="_blank">中国《华夏时报》曝丑闻 收巨款撤贪腐报道(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343727.md" target="_blank">马克思阴魂不散！中共欲每年“速成”20万接班人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343715.md" target="_blank">越来越多的西方政界人士看清了中共本质(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343614.md" target="_blank">历经文革 刘少奇长女刘爱琴：我希望我的孩子都远离政治 平安开心地生活</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343613.md" target="_blank">长沙老兵集结 呼吁讨还公道(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343610.md" target="_blank">迫害正信 河北沧州政法委加密文件曝光</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343609.md" target="_blank">一个社会在崩溃前的七个症状已全具备 你做好准备了吗？(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343604.md" target="_blank">陈破空：事情大了！习近平这张照片真的刷屏了！日本盛传某人雅号。土共超限战：盗疫苗印假钞。巴西怒责世卫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343594.md" target="_blank">“地摊经济”突降温 再遭驱赶 摊主拉横幅“要生存”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343593.md" target="_blank">蹊跷 陕西渭南市公安局大楼突发火灾 从楼顶烧到楼底 网民热议(图/视频)</a></li>
 
 </ul>
 </div>
