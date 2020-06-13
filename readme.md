@@ -10,20 +10,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343795.md">韩信忍「胯下之辱」 世人可知让他受辱的屠户少年最后怎么样了？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344040.md">中共正部级高官退休金明细表曝光 看看这名目和数字……中南海谣言预言_205</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343735.md">西雅图人民公社成立了：美国黑社会黄金时代来了(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200612/1343828.md">老黑：暴雨淹城，长沙重庆昭通告急，三峡大坝南水北调统统失效，美国澳洲再乱却也不关你事！ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344040.md">中共正部级高官退休金明细表曝光 看看这名目和数字……中南海谣言预言_205</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343791.md">李燕铭：韩正汪洋被列制裁对像 江泽民曾庆红惊恐！习近平何去何从？“610”敏感日 川普五大重磅动作围剿中共 直击中国政局核心问题 解体中共重大转折点！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343737.md">外企撤离香港！中环办公室遭弃租 空置率创海啸后新高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343781.md">被问中共授意Zoom关六四帐号？华春莹：「你问得太具体了」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343717.md">中共不要我们要！ 安倍晋三：拟接收港金融从业员及其他专才(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1343894.md">明成祖朱棣临死之前留下一道圣旨 足足让大明硬气200年！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343717.md">中共不要我们要！ 安倍晋三：拟接收港金融从业员及其他专才(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343766.md">看客：李克强摆地摊 遇上城管习近平？(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344221.md" target="_blank">又一轮打压！张抗抗微博遭封号 叶大鹰被禁言(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344220.md" target="_blank">中共打压疫情言论 端点星2名志愿者被捕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344219.md" target="_blank">中国人的巨大威胁 北京利用健康码监控全民(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md" target="_blank">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md" target="_blank">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344208.md" target="_blank">“每天三包烟 饭局天天有” … 山东前高炮师副参谋长被冤判7年半(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343928.md" target="_blank">专栏 | 夜话中南海：摆地摊不能救中国    李克强没可能挑战习近平</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343884.md" target="_blank">加国智库研讨会 疫情下抵抗中共捍卫人权</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md" target="_blank">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md" target="_blank">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343842.md" target="_blank">陈破空：陈破空说段子：唯一一张反对票，谁投了？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md" target="_blank">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
 
 </ul>
 </div>
