@@ -14,17 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343604.md">陈破空：事情大了！习近平这张照片真的刷屏了！日本盛传某人雅号。土共超限战：盗疫苗印假钞。巴西怒责世卫 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343795.md">韩信忍「胯下之辱」 世人可知让他受辱的屠户少年最后怎么样了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343523.md">中共连三岁小孩都骗不了了 三岁孩子质问：同样是为人民服务 差别怎么那么大呢？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343521.md">中共官员不敢公示私人财产的秘密！从金华市常务副市长陈晓家抄出的茅台酒 快摆满一条街 纪委人员忙着贴封条</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343609.md">一个社会在崩溃前的七个症状已全具备 你做好准备了吗？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343522.md">地摊女友 一条龙服务 估计会火遍市场 网评：没救了的年轻人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343609.md">一个社会在崩溃前的七个症状已全具备 你做好准备了吗？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343658.md">【微博精粹】习总加速师内心独白曝光 有图为证 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343735.md">西雅图人民公社成立了：美国黑社会黄金时代来了(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343626.md">首都平壤3个月供应为“零” 朝鲜体制的真正危机… (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343532.md">中南海所在的北京西城区突发疫情(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343737.md">外企撤离香港！中环办公室遭弃租 空置率创海啸后新高(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344061.md" target="_blank">美三航母罕见汇集印太 向中共释强硬讯号(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344060.md" target="_blank">北京连日新增确诊中共肺炎 疑疫情再起</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344054.md" target="_blank">文昭：北京疫情重返，结束55天零确诊！习近平凝视巨坑成真；制裁中共政治局常委，美国另有终极大招</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344011.md" target="_blank">香港示威一周年：重温历史</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344010.md" target="_blank">Zoom：不再允许北京干预中国以外的人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344009.md" target="_blank">一中国科学家在美机场被捕 身份竟是解放军少校</a></li>
@@ -55,15 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343727.md" target="_blank">马克思阴魂不散！中共欲每年“速成”20万接班人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343715.md" target="_blank">越来越多的西方政界人士看清了中共本质(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343714.md" target="_blank">北京再现本土病例 两周内未离京 传染途径不明(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343706.md" target="_blank">李文亮遗孀顺利产下男婴：老公送给我最后的礼物(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md" target="_blank">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343704.md" target="_blank">江峰：香港国安法缘何从人大常委会六月议程中消失？中共会撤回？拖延，还是特例通过？中美对抗态势的微妙变化</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344059.md" target="_blank">暴徒在洗劫 13名芝加哥警察视而不见(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md" target="_blank">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343881.md" target="_blank">中南海那个区 北京忽报新确诊 中共密令曝光 湖北人成病毒 惊传朝鲜恐5000人死于隔离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343812.md" target="_blank">重磅！白宫禁用工科神器 中共军工系一下停滞好几年 围堵 美通过国防授权法案</a></li>
@@ -88,13 +89,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md" target="_blank">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342937.md" target="_blank">港大研究指湖北220万人曾感染中共肺炎</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342932.md" target="_blank">前美驻北京大使洪博培染中共病毒(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200610/1342773.md" target="_blank">发不出工资 中共财政现大缺口 中印对峙1个月 共军突&#8230; 中共外交部越来越战狼</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344058.md" target="_blank">中共十万亿新基建争夺科技话语权？分析：两大因素导致失败</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344057.md" target="_blank">预算减少一半 中共102个中央部门过“紧日子”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344056.md" target="_blank">日本放宽入境限制 先放行泰越澳新4国商务旅行 单日限250人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344053.md" target="_blank">胡平：美国警察过度执法 并非“系统性的种族歧视”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344043.md" target="_blank">北京民众走上街头 打橫幅喊口号 北京昌平区敖山国际小区被强拆 业主维权 2020年6月11日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344042.md" target="_blank">最牛小贩横空出世 与城管对峙：你们领导什么级别的 我只听总理李克强的 总理说可以摆地摊……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344041.md" target="_blank">高人预言中南海变局及中共崩溃路线图：“江湖习里江 江逝洋发怒 本利一起丢” 这些都在2020年下半年集中上演！中南海谣言预言_206</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343985.md" target="_blank">100亿光年外发现「宇宙墙」这堵墙隔绝的是一个平行宇宙？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343984.md" target="_blank">地瓜叶自己栽种简单，自己享用开心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343983.md" target="_blank">9个烧烤技巧，使烧烤更健康！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343982.md" target="_blank">夫妻难免不吵架，吵架后学会这些道理，才能恩爱一辈子！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343981.md" target="_blank">大陆男星仝卓作弊被取消学位  官爸遭撤职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343973.md" target="_blank">焦点对话(2020年6月12日)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343929.md" target="_blank">【胡少江评论】张晓明泄露中国强推「港版国安法」的真实目的</a></li>
 
 </ul>
 </div>
