@@ -18,13 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344299.md">中共军队的实战经验到底从哪来？网友曝残酷现实(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344255.md">李克强真相 最富的猫和最穷的人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344345.md">密件首曝涉习近平王岐山 邓小平的好东西成习眼中钉? 内幕:强拆这种房是中央高层决策</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1343894.md">明成祖朱棣临死之前留下一道圣旨 足足让大明硬气200年！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1343894.md">明成祖朱棣临死之前留下一道圣旨 足足让大明硬气200年！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344214.md">中国3000万人无老婆！砖家竟建议一妻多夫 网友骂翻(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344335.md">中共十万亿科技战要输了 新措施 中国重回计划经济？ 港版国安法将埋葬港币？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344448.md" target="_blank">在西点军校毕业典礼演讲 川普强调坚守美国根本价值的重要性</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344447.md" target="_blank">大陆实力派女歌手被判超低分  评审畸态理由“唱太好 显得别人不好”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md" target="_blank">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344423.md" target="_blank">夏日必喝的养生茶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344400.md" target="_blank">北京疫情甩锅进口三文鱼 货源市场反击 网民为鱼喊冤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344390.md" target="_blank">不用“帅哥、美女” 该如何尊称对方？古人竟自称“走狗”</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344240.md" target="_blank">北京发布留学警告惹议 在澳留学生：政治意义大于实际意义</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344233.md" target="_blank">颜纯钩：香港这些上了沉船的奴才 港人一人一口唾沫都淹死他们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344212.md" target="_blank">库德洛：未见中共病毒二次爆发迹象 美国将不再关闭经济(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344205.md" target="_blank">潘小涛：习李隔着地摊交手</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344174.md" target="_blank">又一轮打压！张抗抗微博遭封号 叶大鹰被禁言</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344173.md" target="_blank">Zoom承认听中共指挥 关闭六四帐号</a></li>
 
 </ul>
 </div>
