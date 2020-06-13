@@ -13,17 +13,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343795.md">韩信忍「胯下之辱」 世人可知让他受辱的屠户少年最后怎么样了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343881.md">中南海那个区 北京忽报新确诊 中共密令曝光 湖北人成病毒 惊传朝鲜恐5000人死于隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343658.md">【微博精粹】习总加速师内心独白曝光 有图为证 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343735.md">西雅图人民公社成立了：美国黑社会黄金时代来了(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343626.md">首都平壤3个月供应为“零” 朝鲜体制的真正危机… (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343737.md">外企撤离香港！中环办公室遭弃租 空置率创海啸后新高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200612/1343828.md">老黑：暴雨淹城，长沙重庆昭通告急，三峡大坝南水北调统统失效，美国澳洲再乱却也不关你事！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343791.md">李燕铭：韩正汪洋被列制裁对像 江泽民曾庆红惊恐！习近平何去何从？“610”敏感日 川普五大重磅动作围剿中共 直击中国政局核心问题 解体中共重大转折点！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343717.md">中共不要我们要！ 安倍晋三：拟接收港金融从业员及其他专才(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344135.md" target="_blank">华春莹一番话引众网友质问 中共放五毛咬人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344115.md" target="_blank">确诊患者曾到访 北京6大批发市场停业(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344114.md" target="_blank">网传滴滴司机直播性侵女乘客 警方说法前后矛盾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344061.md" target="_blank">美三航母罕见汇集印太 向中共释强硬讯号(图/视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md" target="_blank">中共全国人大常委会副秘书长被贬 任闲职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343755.md" target="_blank">陕西一煤矿发生事故 导致7人失踪 曾通报存在重大事故隐患(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343745.md" target="_blank">中国《华夏时报》曝丑闻 收巨款撤贪腐报道(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343727.md" target="_blank">马克思阴魂不散！中共欲每年“速成”20万接班人(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,14 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344145.md" target="_blank">出事不小?北京疫情复发 出动大批武装人员（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344144.md" target="_blank">中共打压疫情言论 端点星2名志愿者被捕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344141.md" target="_blank">李怡：永远记住这一天</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344140.md" target="_blank">吴国光：退回到自己的内心(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344139.md" target="_blank">告别新浪微博 用鄙视与抗议 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344138.md" target="_blank">方圆：港澳办副主任张晓明的谬论与恫吓(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344137.md" target="_blank">德媒： Zoom：不再允许北京干预中国以外的人？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344136.md" target="_blank">兽财局：蒋凡出轨事件 竟惊动了中央！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344120.md" target="_blank">北京疫情再爆 官报两天三例 被疑隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344106.md" target="_blank">法媒：稀土价格飞涨幕后：中美脱钩美加联手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344093.md" target="_blank">程墨：别瞎激动！美国黑人之死与各地示威暴乱的真相(图)</a></li>
@@ -112,14 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344043.md" target="_blank">北京民众走上街头 打橫幅喊口号 北京昌平区敖山国际小区被强拆 业主维权 2020年6月11日</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344042.md" target="_blank">最牛小贩横空出世 与城管对峙：你们领导什么级别的 我只听总理李克强的 总理说可以摆地摊……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344041.md" target="_blank">高人预言中南海变局及中共崩溃路线图：“江湖习里江 江逝洋发怒 本利一起丢” 这些都在2020年下半年集中上演！中南海谣言预言_206</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344040.md" target="_blank">中共正部级高官退休金明细表曝光 看看这名目和数字……中南海谣言预言_205</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344039.md" target="_blank">女星汪明荃带你看香港港口如今的现状：没有货柜！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343998.md" target="_blank">川普将在佛州接受2020大选共和党总统提名</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343997.md" target="_blank">誓言解决西雅图之乱 川普促华州州长派国民警卫队平乱</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343996.md" target="_blank">文革模式来临？传中共当局登记国民海外关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343995.md" target="_blank">中共军方一学者因涉间谍罪被美国逮捕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343994.md" target="_blank">川普授权制裁侵犯美国主权的国际刑事法庭官员 冻结资产并禁止入境</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343993.md" target="_blank">个人存取10万以上须登记 中国重回计划经济？</a></li>
 
 </ul>
 </div>
