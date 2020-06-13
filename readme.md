@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343735.md">西雅图人民公社成立了：美国黑社会黄金时代来了(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200612/1343828.md">老黑：暴雨淹城，长沙重庆昭通告急，三峡大坝南水北调统统失效，美国澳洲再乱却也不关你事！ </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343791.md">李燕铭：韩正汪洋被列制裁对像 江泽民曾庆红惊恐！习近平何去何从？“610”敏感日 川普五大重磅动作围剿中共 直击中国政局核心问题 解体中共重大转折点！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343737.md">外企撤离香港！中环办公室遭弃租 空置率创海啸后新高(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343781.md">被问中共授意Zoom关六四帐号？华春莹：「你问得太具体了」(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343791.md">李燕铭：韩正汪洋被列制裁对像 江泽民曾庆红惊恐！习近平何去何从？“610”敏感日 川普五大重磅动作围剿中共 直击中国政局核心问题 解体中共重大转折点！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1343894.md">明成祖朱棣临死之前留下一道圣旨 足足让大明硬气200年！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343781.md">被问中共授意Zoom关六四帐号？华春莹：「你问得太具体了」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344054.md">文昭：北京疫情重返，结束55天零确诊！习近平凝视巨坑成真；制裁中共政治局常委，美国另有终极大招 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200613/1343878.md">北京两天三例新冠确诊 小学低年级暂停复课 生鲜市场加强检查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343766.md">看客：李克强摆地摊 遇上城管习近平？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200613/1343900.md">一顿饭吃7个鲍鱼 从200斤减肥到108斤 现在郑欣宜怎么样了？(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200613/1343899.md">61岁女星山口百惠当婆婆 儿子与知名声优宣布结婚(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344239.md" target="_blank">中美较量升级 美三航母罕见汇集印太区域(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344238.md" target="_blank">围剿中共 八国政治联盟一周内扩至13国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344234.md" target="_blank">中共再施人质外交 澳籍被告遭重判死刑(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344231.md" target="_blank">北京疫情再爆 官报两天三例 被疑隐瞒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344230.md" target="_blank">北京警告赴澳风险 中国留学生：更像是幌子(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344061.md" target="_blank">美三航母罕见汇集印太 向中共释强硬讯号(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344060.md" target="_blank">北京连日新增确诊中共肺炎 疑疫情再起</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344054.md" target="_blank">文昭：北京疫情重返，结束55天零确诊！习近平凝视巨坑成真；制裁中共政治局常委，美国另有终极大招</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344011.md" target="_blank">香港示威一周年：重温历史</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344010.md" target="_blank">Zoom：不再允许北京干预中国以外的人</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344240.md" target="_blank">北京发布留学警告惹议 在澳留学生：政治意义大于实际意义</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344233.md" target="_blank">颜纯钩：香港这些上了沉船的奴才 港人一人一口唾沫都淹死他们</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344212.md" target="_blank">库德洛：未见中共病毒二次爆发迹象 美国将不再关闭经济(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344205.md" target="_blank">潘小涛：习李隔着地摊交手</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344136.md" target="_blank">兽财局：蒋凡出轨事件 竟惊动了中央！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344120.md" target="_blank">北京疫情再爆 官报两天三例 被疑隐瞒</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344106.md" target="_blank">法媒：稀土价格飞涨幕后：中美脱钩美加联手(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344093.md" target="_blank">程墨：别瞎激动！美国黑人之死与各地示威暴乱的真相(图)</a></li>
 
 </ul>
 </div>
