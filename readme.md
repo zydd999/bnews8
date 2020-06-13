@@ -3,7 +3,6 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343617.md">传滴滴司机又出丑闻：滴滴性侵直播了(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343528.md">中南海内部斗争公开化了！习近平李克强背后都有大佬支持！北京王府井城管清理摆地摊！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343722.md">从未公开！李克强又泄惊人数据：外贸企业涉及2亿人就业(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343542.md">习近平李克强互打一闷棍 颜纯钩：很不寻常(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343618.md">习近平访宁夏一人罕见随行有玄机？(图)</a></li>
@@ -12,9 +11,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343744.md">没钱了！中共试行现金管理 人民币创纪录暴跌!萎缩25% 债市跌 银行理财产品浮亏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343812.md">重磅！白宫禁用工科神器 中共军工系一下停滞好几年 围堵 美通过国防授权法案</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343604.md">陈破空：事情大了！习近平这张照片真的刷屏了！日本盛传某人雅号。土共超限战：盗疫苗印假钞。巴西怒责世卫 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343795.md">韩信忍「胯下之辱」 世人可知让他受辱的屠户少年最后怎么样了？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343792.md">无锡法院一公告火了！网民惊叹：原来法官的亲戚都是律师</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343795.md">韩信忍「胯下之辱」 世人可知让他受辱的屠户少年最后怎么样了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343601.md">发声反共儿子竟遭解约 郝海东夫妇披露内幕(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
@@ -23,8 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343658.md">【微博精粹】习总加速师内心独白曝光 有图为证 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343735.md">西雅图人民公社成立了：美国黑社会黄金时代来了(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343626.md">首都平壤3个月供应为“零” 朝鲜体制的真正危机… (图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343532.md">中南海所在的北京西城区突发疫情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343737.md">外企撤离香港！中环办公室遭弃租 空置率创海啸后新高(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343717.md">中共不要我们要！ 安倍晋三：拟接收港金融从业员及其他专才(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343791.md">李燕铭：韩正汪洋被列制裁对像 江泽民曾庆红惊恐！习近平何去何从？“610”敏感日 川普五大重磅动作围剿中共 直击中国政局核心问题 解体中共重大转折点！</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md" target="_blank">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344059.md" target="_blank">暴徒在洗劫 13名芝加哥警察视而不见(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md" target="_blank">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343881.md" target="_blank">中南海那个区 北京忽报新确诊 中共密令曝光 湖北人成病毒 惊传朝鲜恐5000人死于隔离</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343035.md" target="_blank">各地水库出现险情 民众撤离 三峡大坝怎么样了？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343025.md" target="_blank">美国会盯上中共这支秘密力量 提议“对中共实施最严厉制裁”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342937.md" target="_blank">港大研究指湖北220万人曾感染中共肺炎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1342932.md" target="_blank">前美驻北京大使洪博培染中共病毒(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344062.md" target="_blank">地摊经济熄火后谁最难受？真实失业情况如何？(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344058.md" target="_blank">中共十万亿新基建争夺科技话语权？分析：两大因素导致失败</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344057.md" target="_blank">预算减少一半 中共102个中央部门过“紧日子”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344056.md" target="_blank">日本放宽入境限制 先放行泰越澳新4国商务旅行 单日限250人</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343986.md" target="_blank">地球上大多数重金属来源于爆炸的中子星？那地球的来源~~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343985.md" target="_blank">100亿光年外发现「宇宙墙」这堵墙隔绝的是一个平行宇宙？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343984.md" target="_blank">地瓜叶自己栽种简单，自己享用开心</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1343983.md" target="_blank">9个烧烤技巧，使烧烤更健康！</a></li>
 
 </ul>
 </div>
