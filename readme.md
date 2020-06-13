@@ -6,8 +6,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344040.md">中共正部级高官退休金明细表曝光 看看这名目和数字……中南海谣言预言_205</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344252.md">“繁华市 变汪洋” ！三峡水位四处报警 真的危矣？(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344084.md">美国锁定华为缘起于一名将领的北京之行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
@@ -22,8 +22,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1343894.md">明成祖朱棣临死之前留下一道圣旨 足足让大明硬气200年！(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344335.md">中共十万亿科技战要输了 新措施 中国重回计划经济？ 港版国安法将埋葬港币？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344214.md">中国3000万人无老婆！砖家竟建议一妻多夫 网友骂翻(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
