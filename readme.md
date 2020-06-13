@@ -10,21 +10,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344200.md">港媒：李克强不敢反习 大实话说给谁听？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344084.md">美国锁定华为缘起于一名将领的北京之行(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344054.md">文昭：北京疫情重返，结束55天零确诊！习近平凝视巨坑成真；制裁中共政治局常委，美国另有终极大招 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344214.md">中国3000万人无老婆！砖家竟建议一妻多夫 网友骂翻(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344167.md">微博再封口 张抗抗遭封号 中共红三代叶大鹰被禁言(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344054.md">文昭：北京疫情重返，结束55天零确诊！习近平凝视巨坑成真；制裁中共政治局常委，美国另有终极大招 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344283.md">颜值又上一层楼 iPhone 12最新外形(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344255.md">李克强真相 最富的猫和最穷的人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1343894.md">明成祖朱棣临死之前留下一道圣旨 足足让大明硬气200年！(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344167.md">微博再封口 张抗抗遭封号 中共红三代叶大鹰被禁言(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344145.md">出事不小?北京疫情复发 出动大批武装人员（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200613/1343900.md">一顿饭吃7个鲍鱼 从200斤减肥到108斤 现在郑欣宜怎么样了？(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344255.md">李克强真相 最富的猫和最穷的人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344206.md">专家：美军就是要找机会迅速歼灭中共至少1/3的海军舰艇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344135.md">华春莹一番话引众网友质问 中共放五毛咬人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344150.md">为何中共一直抢台湾…不去跟俄国要土地？网一面倒曝1关键(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344114.md">网传滴滴司机直播性侵女乘客 警方说法前后矛盾(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344390.md" target="_blank">不用“帅哥、美女” 该如何尊称对方？古人竟自称“走狗”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344348.md" target="_blank">科学家证明：相对论「自由落体普适性」是对的</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344312.md" target="_blank">中共再施“行刑外交” 澳男走私毒品被重判死刑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344307.md" target="_blank">蓬佩奥将参与欧盟外长会议  欧盟高官：美欧是最重要双边关系</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344173.md" target="_blank">Zoom承认听中共指挥 关闭六四帐号</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344168.md" target="_blank">库德洛：未见中共病毒二次爆发迹象 美国将不再关闭经济</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344165.md" target="_blank">香港「反送中」运动包围立法会一周年 大纪元记者遇袭 市民夺刀受伤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344164.md" target="_blank">追求选择不当带来的痛苦</a></li>
 
 </ul>
 </div>
