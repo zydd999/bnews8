@@ -11,20 +11,20 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343795.md">韩信忍「胯下之辱」 世人可知让他受辱的屠户少年最后怎么样了？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343881.md">中南海那个区 北京忽报新确诊 中共密令曝光 湖北人成病毒 惊传朝鲜恐5000人死于隔离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343725.md">王维洛：谁与李鹏一起建造了这座愚蠢的纪念碑？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343705.md">买到就赚180万？ 深圳民众深夜排队抢房(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md">中共全国人大常委会副秘书长被贬 任闲职</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343844.md">陈破空：习近平秘带此人外出，又要整人！清查海外关系，亲共分子悬了！各国加紧围猎土共 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343658.md">【微博精粹】习总加速师内心独白曝光 有图为证 (组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343735.md">西雅图人民公社成立了：美国黑社会黄金时代来了(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200612/1343828.md">老黑：暴雨淹城，长沙重庆昭通告急，三峡大坝南水北调统统失效，美国澳洲再乱却也不关你事！ </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200612/1343737.md">外企撤离香港！中环办公室遭弃租 空置率创海啸后新高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200612/1343791.md">李燕铭：韩正汪洋被列制裁对像 江泽民曾庆红惊恐！习近平何去何从？“610”敏感日 川普五大重磅动作围剿中共 直击中国政局核心问题 解体中共重大转折点！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343717.md">中共不要我们要！ 安倍晋三：拟接收港金融从业员及其他专才(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343883.md">北京昌平强拆别墅 业主财产遭洗劫(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343781.md">被问中共授意Zoom关六四帐号？华春莹：「你问得太具体了」(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343674.md">“五毛党”惨遭减薪？经济不景气 网军被波及(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200612/1343717.md">中共不要我们要！ 安倍晋三：拟接收港金融从业员及其他专才(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344167.md" target="_blank">微博再封口 张抗抗遭封号 中共红三代叶大鹰被禁言(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344160.md" target="_blank">美国务院宗教自由报告 列举三大调查揭中共强摘器官罪行(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344150.md" target="_blank">为何中共一直抢台湾…不去跟俄国要土地？网一面倒曝1关键(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344149.md" target="_blank">中国3000万人无老婆！砖家竟建议一妻多夫 网友骂翻</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344135.md" target="_blank">华春莹一番话引众网友质问 中共放五毛咬人(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343770.md" target="_blank">美国运输机飞过台湾领空 北京两发言人跳脚叫嚣 网友热议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343769.md" target="_blank">阻止中共武力犯台 美军委会通过“国防授权法”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343766.md" target="_blank">看客：李克强摆地摊 遇上城管习近平？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343765.md" target="_blank">小粉红放弃美国绿卡 返国后惨遭灭门式打压(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200612/1343756.md" target="_blank">中共全国人大常委会副秘书长被贬 任闲职</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344165.md" target="_blank">香港「反送中」运动包围立法会一周年 大纪元记者遇袭 市民夺刀受伤</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344164.md" target="_blank">追求选择不当带来的痛苦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344162.md" target="_blank">当你露出了弱点 会被镰刀盯上</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344159.md" target="_blank">人做事神在看，别为小利坏人心</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344158.md" target="_blank">”谣言“‘四起！三峡周围水位四处报警，三峡真的危矣？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344155.md" target="_blank">安邦吴小晖签署密件首曝 特别提到习近平和王岐山</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344074.md" target="_blank">陆媒曝中共前“610”高官柯良栋被贬</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344073.md" target="_blank">北美最安全的五款2020中型SUV (三排座)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344072.md" target="_blank">金正恩老妹切断两韩联络意欲何为？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344062.md" target="_blank">地摊经济熄火后谁最难受？真实失业情况如何？(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344058.md" target="_blank">中共十万亿新基建争夺科技话语权？分析：两大因素导致失败</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344057.md" target="_blank">预算减少一半 中共102个中央部门过“紧日子”</a></li>
 
 </ul>
 </div>
