@@ -7,7 +7,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344405.md">中南海要吓傻！他被冻结370亿美元 习近平看着川普:再说一次 白宫还出招打造台湾...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344283.md">颜值又上一层楼 iPhone 12最新外形(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344200.md">港媒：李克强不敢反习 大实话说给谁听？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md">江泽民的“接班人”终于浮出水面？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344345.md">密件首曝涉习近平王岐山 邓小平的好东西成习眼中钉? 内幕:强拆这种房是中央高层决策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344299.md">中共军队的实战经验到底从哪来？网友曝残酷现实(组图)</a></li>
@@ -15,16 +14,17 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344335.md">中共十万亿科技战要输了 新措施 中国重回计划经济？ 港版国安法将埋葬港币？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344214.md">中国3000万人无老婆！砖家竟建议一妻多夫 网友骂翻(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344664.md" target="_blank">【严真点评】外交部大实话：美国会提制裁方案，韩正、汪洋榜上有名。北京疫情卷土重来，丰台启动战时机制。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344638.md" target="_blank">中共造假：欧盟指中共曲解战略对话 中俄散播假信息 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344606.md" target="_blank">疫情：一天内6人确诊46人阳性，北京丰台重启“战时机制”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344602.md" target="_blank">甩锅三文鱼染病毒？专家已经辟谣(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/783253.md" target="_blank">视频：北京新发地批发市场一人感染，株连全场</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344459.md" target="_blank">北京欧北木屋村遭900名防暴保安强拆(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344410.md" target="_blank">肺炎疫情：一天内6人确诊46人阳性，北京丰台重启“战时机制”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344381.md" target="_blank">北京疫情复发：菜市场关闭 三文鱼“喊冤”</a></li>
 
 </ul>
 </div>
