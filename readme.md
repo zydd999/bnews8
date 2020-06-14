@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344896.md" target="_blank">川普总统74岁生日 从政前重大房地产商业成就回顾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344861.md" target="_blank">美足联不反对球员奏国歌时下跪 川普：我不会再看其比赛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344853.md" target="_blank">澳洲亲中智库涉违国家利益 百万资金遭冻结(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344852.md" target="_blank">美国的保守主义保守在哪里(图)(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344651.md" target="_blank">夏天湿气重，这些食物多吃点好</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344650.md" target="_blank">荔枝维生素C丰富 养颜又抗癌 但吃错时间会低血糖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344649.md" target="_blank">夏天空调房里，中医师教你巧顺气血不生血栓！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344635.md" target="_blank">白骨精再毒 也没有“正能量”毒(图)</a></li>
 
 </ul>
 </div>
