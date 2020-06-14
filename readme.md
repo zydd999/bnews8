@@ -4,7 +4,6 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344252.md">“繁华市 变汪洋” ！三峡水位四处报警 真的危矣？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344084.md">美国锁定华为缘起于一名将领的北京之行(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344283.md">颜值又上一层楼 iPhone 12最新外形(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344405.md">中南海要吓傻！他被冻结370亿美元 习近平看着川普:再说一次 白宫还出招打造台湾...</a></li>
@@ -24,6 +23,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344145.md">出事不小?北京疫情复发 出动大批武装人员（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344206.md">专家：美军就是要找机会迅速歼灭中共至少1/3的海军舰艇(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344135.md">华春莹一番话引众网友质问 中共放五毛咬人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344548.md" target="_blank">北京又病了 北京人以后吃什么？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md" target="_blank">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344527.md" target="_blank">才开放3天又爆疫情…..北京雍和宫、国家大剧院又关了(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344526.md" target="_blank">浙江台州温岭油罐车爆炸 方圆逾百米房屋全炸毁（视频）</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344303.md" target="_blank">不敢想！北京“菜篮子”新发地爆发疫情 武警进驻(图/3视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344301.md" target="_blank">南方暴雨肆虐 广西多地成水乡泽国(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343864.md" target="_blank">斩绝共产恶魔 1965年蒋介石发表《国父百年诞辰纪念文》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344262.md" target="_blank">弃绿卡回国女生发声救父 姐弟俩又被立案(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344554.md" target="_blank">《一九八四》是如何在中国出版的？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344553.md" target="_blank">美国人第一次像虫子一样趴在地上 跳出来的不再掩饰自己的面目</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344545.md" target="_blank">中共经济实情令很多人跌眼镜(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344544.md" target="_blank">6亿人月入千元中国却暂免77国偿债(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344543.md" target="_blank">颜纯鈎：中共求美国手下留情</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344542.md" target="_blank">范畴：世界已台湾化了！适时推出“台湾学 Taiwanology”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md" target="_blank">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344513.md" target="_blank">日本八幡平山顶镜沼 融雪现“龙之眼”自然奇景</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md" target="_blank">中共求美国手下留情(图)</a></li>
@@ -114,12 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344447.md" target="_blank">大陆实力派女歌手被判超低分  评审畸态理由“唱太好 显得别人不好”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md" target="_blank">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344423.md" target="_blank">夏日必喝的养生茶</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344400.md" target="_blank">北京疫情甩锅进口三文鱼 货源市场反击 网民为鱼喊冤</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344390.md" target="_blank">不用“帅哥、美女” 该如何尊称对方？古人竟自称“走狗”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344348.md" target="_blank">科学家证明：相对论「自由落体普适性」是对的</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344312.md" target="_blank">中共再施“行刑外交” 澳男走私毒品被重判死刑</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344307.md" target="_blank">蓬佩奥将参与欧盟外长会议  欧盟高官：美欧是最重要双边关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344306.md" target="_blank">拒绝下跪的川普赢得沉默的大多数(图)</a></li>
 
 </ul>
 </div>
