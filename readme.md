@@ -18,13 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200614/1344483.md">蔡霞教授换人说有回响 日本学者认为更换领导人是给中国一个机会</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344447.md">大陆实力派女歌手被判超低分  评审畸态理由“唱太好 显得别人不好”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344675.md" target="_blank">蔡奇宣布进入非常时期 北京全城抢菜 中南海特供惹火(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344673.md" target="_blank">党媒证实三峡大坝变形 专家：将有特大灾难发生(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344669.md" target="_blank">日媒揭习近平最大梦魇：中共如苏联般垮台(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344668.md" target="_blank">德媒：若北京进一步压缩香港自治 欧盟就不该再将制裁视为禁忌 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344667.md" target="_blank">李克强三峡保卫令 暗示重大隐患(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344523.md" target="_blank">蔡奇连开三次疫情会 北京进入非常时期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344522.md" target="_blank">微博热搜榜可用钱买？花5万元即可登前三</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344521.md" target="_blank">北京月坛街道率先提升疫情等级 网友揭秘(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344520.md" target="_blank">【一线采访】北京新发地封闭 武警进驻(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344519.md" target="_blank">打疫苗致残 杭州12岁男孩入学无门成上访户(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344674.md" target="_blank">意政府初期控疫举措不利？ 意总理遭问询</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344672.md" target="_blank">法媒: 中共保守外交大逆转  战狼式突变令人震惊</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344671.md" target="_blank">北约秘书长：中共威胁逼近欧洲 北约盟国需强硬应对</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344653.md" target="_blank">糖尿病是拖出来的 出现这两干两麻立刻去医院</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344576.md" target="_blank">中共间谍军官洛杉矶被捕 川普制裁中共军校学生学者 哈工大等高校被禁用MATLAB 中共军工系统遭重创 美中军事对抗范围扩大</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344567.md" target="_blank">摆渡人:小学生坠楼身亡 家长群疯狂点赞：你拍马屁的样子真可耻！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344566.md" target="_blank">颜纯钩：美国制裁国安法 就等张晓明来打救香港了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344563.md" target="_blank">唯色RFA博客：我目前还描述不了它们的全貌与本质</a></li>
 
 </ul>
 </div>
