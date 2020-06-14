@@ -8,8 +8,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344693.md">北京出事 丰台区官员成箭靶 蔡奇发飙(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344730.md">爆发！北京开启战时状态 1个月内到京要报告 两会代表哪？ 当地人：实际感染人数...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344675.md">蔡奇宣布进入非常时期 北京全城抢菜 中南海特供惹火(组图/视频)</a></li>
@@ -19,8 +19,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344691.md">“地摊”战火未熄 习李各奔东西(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344678.md">“中国共产党明白 这是一场生死存亡之战” “中共已经感染了全世界”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344807.md">中国几千万光棍 教授提议炸锅 华春莹身体语言出卖了她 微博热搜榜竟可用钱买！</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200614/1344496.md">iPhone 12最新外形 这颜值用户也该满意了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344681.md">演砸了！CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344890.md" target="_blank">文化产业区遭强拆 北京向中产阶层下手(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md" target="_blank">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md" target="_blank">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344886.md" target="_blank">一线采访：北京疫情爆发 民众忧封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344745.md" target="_blank">因制止校园欺凌 江苏15岁男生被同学打死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344731.md" target="_blank">中国男星学籍造假 中纪委发声 官场假博士会遭殃？(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344606.md" target="_blank">疫情：一天内6人确诊46人阳性，北京丰台重启“战时机制”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344602.md" target="_blank">甩锅三文鱼染病毒？专家已经辟谣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344565.md" target="_blank">CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344561.md" target="_blank">逾1300中国医疗厂商在美共用一家假代理(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344560.md" target="_blank">组图：中国南方暴雨肆虐 广西多地水浸(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344559.md" target="_blank">广州城中村因粪水污染 4户8人感染瘟疫</a></li>
 
 </ul>
 </div>
