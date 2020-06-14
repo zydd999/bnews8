@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344252.md">“繁华市 变汪洋” ！三峡水位四处报警 真的危矣？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344084.md">美国锁定华为缘起于一名将领的北京之行(图)</a></li>
@@ -12,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344200.md">港媒：李克强不敢反习 大实话说给谁听？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md">江泽民的“接班人”终于浮出水面？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344345.md">密件首曝涉习近平王岐山 邓小平的好东西成习眼中钉? 内幕:强拆这种房是中央高层决策</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344299.md">中共军队的实战经验到底从哪来？网友曝残酷现实(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344255.md">李克强真相 最富的猫和最穷的人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344335.md">中共十万亿科技战要输了 新措施 中国重回计划经济？ 港版国安法将埋葬港币？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344214.md">中国3000万人无老婆！砖家竟建议一妻多夫 网友骂翻(图)</a></li>
@@ -22,9 +21,10 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344167.md">微博再封口 张抗抗遭封号 中共红三代叶大鹰被禁言(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344145.md">出事不小?北京疫情复发 出动大批武装人员（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344206.md">专家：美军就是要找机会迅速歼灭中共至少1/3的海军舰艇(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344145.md">出事不小?北京疫情复发 出动大批武装人员（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344135.md">华春莹一番话引众网友质问 中共放五毛咬人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -64,6 +64,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md" target="_blank">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md" target="_blank">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344451.md" target="_blank">逾1300家中国医疗器材公司 涉嫌在美注册资讯造假(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md" target="_blank">江泽民的“接班人”终于浮出水面？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md" target="_blank">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
@@ -87,14 +89,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343508.md" target="_blank">特斯拉来自金星？FBI公布解密文件 内容让人细思极恐(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343474.md" target="_blank">北美华人出离愤怒 抵制美国最时髦举动 图集/视频</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343455.md" target="_blank">股市大跌！美财长：即便第二波疫情 不会再次叫停经济(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343360.md" target="_blank">震惊！前北京市长去世 竟然牵出原正国级高官(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200611/1343335.md" target="_blank">江系杀气腾腾 为镇压铺路 安倍转向 习近平计划恐落空 美国制裁 这个常委可上榜</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md" target="_blank">中共求美国手下留情(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344503.md" target="_blank">“跳槽”原是青楼俗语 有些词乱用会自降身份</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344500.md" target="_blank">莫因习李权斗而寄望中共速败(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344499.md" target="_blank">健康码、市内码、各种码和微信的本质(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344497.md" target="_blank">有效避蚊虫叮咬的方法</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344484.md" target="_blank">制裁人权恶棍是釜底抽薪(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344482.md" target="_blank">丘吉尔雕像被污损  保守党前部长：英国失去了方向</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344306.md" target="_blank">拒绝下跪的川普赢得沉默的大多数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344300.md" target="_blank">史瓦帝尼王国王子：我爱台湾(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344285.md" target="_blank">香港情势加深互不信任 日媒：习近平年内访日恐难</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344282.md" target="_blank">事情搞大！北京丰台区启战时状态 已7确诊46阳性</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344281.md" target="_blank">心跳快，掉头发，吃饭不走胃，当心这毛病了，20-40更要注意</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344275.md" target="_blank">黑命跪：政客可以跪 美国不能跪(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344274.md" target="_blank">周远：第二波瘟疫离我们还有多远？预言是这么说的(图)</a></li>
 
 </ul>
 </div>
