@@ -4,8 +4,8 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344252.md">“繁华市 变汪洋” ！三峡水位四处报警 真的危矣？(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344405.md">中南海要吓傻！他被冻结370亿美元 习近平看着川普:再说一次 白宫还出招打造台湾...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344216.md">安邦吴小晖签署密件首曝 特别提到习近平和王岐山(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344283.md">颜值又上一层楼 iPhone 12最新外形(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344200.md">港媒：李克强不敢反习 大实话说给谁听？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md">江泽民的“接班人”终于浮出水面？(图)</a></li>
@@ -19,12 +19,12 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344653.md" target="_blank">糖尿病是拖出来的 出现这两干两麻立刻去医院</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344652.md" target="_blank">多少岁算是老年人？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344651.md" target="_blank">夏天湿气重，这些食物多吃点好</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344650.md" target="_blank">荔枝维生素C丰富 养颜又抗癌 但吃错时间会低血糖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344649.md" target="_blank">夏天空调房里，中医师教你巧顺气血不生血栓！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344635.md" target="_blank">白骨精再毒 也没有“正能量”毒(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344634.md" target="_blank">戈培尔：没有了祖国 你什么都不是(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344633.md" target="_blank">呦呦鹿鸣:那个有毒的“正能量” 小学五年级学生坠楼(图集）</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344563.md" target="_blank">唯色RFA博客：我目前还描述不了它们的全貌与本质</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344554.md" target="_blank">《一九八四》是如何在中国出版的？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344553.md" target="_blank">美国人第一次像虫子一样趴在地上 跳出来的不再掩饰自己的面目</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344545.md" target="_blank">中共经济实情令很多人跌眼镜(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344544.md" target="_blank">6亿人月入千元中国却暂免77国偿债(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344543.md" target="_blank">颜纯鈎：中共求美国手下留情</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344542.md" target="_blank">范畴：世界已台湾化了！适时推出“台湾学 Taiwanology”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md" target="_blank">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
 
 </ul>
 </div>
