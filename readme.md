@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md">中共求美国手下留情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344667.md">李克强三峡保卫令 暗示重大隐患(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200614/1344483.md">蔡霞教授换人说有回响 日本学者认为更换领导人是给中国一个机会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344673.md">党媒证实三峡大坝变形 专家：将有特大灾难发生(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344667.md">李克强三峡保卫令 暗示重大隐患(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344673.md">党媒证实三峡大坝变形 专家：将有特大灾难发生(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344731.md" target="_blank">中国男星学籍造假 中纪委发声 官场假博士会遭殃？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344728.md" target="_blank">大撒币後效应，中国进退两难的暂免债务偿还&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344727.md" target="_blank">暴雨刚走台风来袭 “鹦鹉”将直击广东(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344726.md" target="_blank">北京疫情官方报增数十 扩散辽宁 多省发旅游警告(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344718.md" target="_blank">北京引爆中国二次疫情 习近平出京避毒！(图/视频)</a></li>
@@ -56,14 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344559.md" target="_blank">广州城中村因粪水污染 4户8人感染瘟疫</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344558.md" target="_blank">大连疾控中心发警示：如非必要勿前往北京(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344557.md" target="_blank">美驻华使馆刊登蓬佩奥讲话 含中共敏感词(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344548.md" target="_blank">北京又病了 北京人以后吃什么？（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md" target="_blank">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344730.md" target="_blank">爆发！北京开启战时状态 1个月内到京要报告 两会代表哪？ 当地人：实际感染人数&#8230;</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344681.md" target="_blank">演砸了！CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344678.md" target="_blank">“中国共产党明白 这是一场生死存亡之战” “中共已经感染了全世界”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344601.md" target="_blank">围堵华为！美国拟资助巴西采购爱立信和诺基亚5G设备(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343768.md" target="_blank">文革？中共摸底国民海外关系 慌了！规定年培养20万接班人 黄之锋戳破NBA巨星詹姆斯虚伪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343744.md" target="_blank">没钱了！中共试行现金管理 人民币创纪录暴跌!萎缩25% 债市跌 银行理财产品浮亏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343740.md" target="_blank">黎智英:港商大佬一边表忠一边秘密转移资产(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343722.md" target="_blank">从未公开！李克强又泄惊人数据：外贸企业涉及2亿人就业(图)</a></li>
 
 </ul>
 </div>
