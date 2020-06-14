@@ -18,13 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344215.md">出事不小?北京疫情复发 出动大批武装人员(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344167.md">微博再封口 张抗抗遭封号 中共红三代叶大鹰被禁言(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344638.md" target="_blank">中共造假：欧盟指中共曲解战略对话 中俄散播假信息 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344606.md" target="_blank">疫情：一天内6人确诊46人阳性，北京丰台重启“战时机制”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344602.md" target="_blank">甩锅三文鱼染病毒？专家已经辟谣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344565.md" target="_blank">CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344459.md" target="_blank">北京欧北木屋村遭900名防暴保安强拆(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344410.md" target="_blank">肺炎疫情：一天内6人确诊46人阳性，北京丰台重启“战时机制”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344381.md" target="_blank">北京疫情复发：菜市场关闭 三文鱼“喊冤”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md" target="_blank">美国研究发现中共病毒产生突变 感染力更强</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344635.md" target="_blank">白骨精再毒 也没有“正能量”毒(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344634.md" target="_blank">戈培尔：没有了祖国 你什么都不是(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344633.md" target="_blank">呦呦鹿鸣:那个有毒的“正能量” 小学五年级学生坠楼(图集）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344628.md" target="_blank">美国研究：新型冠状病毒突变 更容易感染人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md" target="_blank">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344605.md" target="_blank">北京疫情官方报增数十 扩散辽宁 多省发旅游警告</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344543.md" target="_blank">颜纯鈎：中共求美国手下留情</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344542.md" target="_blank">范畴：世界已台湾化了！适时推出“台湾学 Taiwanology”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md" target="_blank">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344513.md" target="_blank">日本八幡平山顶镜沼 融雪现“龙之眼”自然奇景</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md" target="_blank">中共求美国手下留情(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344503.md" target="_blank">“跳槽”原是青楼俗语 有些词乱用会自降身份</a></li>
 
 </ul>
 </div>
