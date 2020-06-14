@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344886.md" target="_blank">一线采访：北京疫情爆发 民众忧封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344745.md" target="_blank">因制止校园欺凌 江苏15岁男生被同学打死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344731.md" target="_blank">中国男星学籍造假 中纪委发声 官场假博士会遭殃？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344728.md" target="_blank">大撒币後效应，中国进退两难的暂免债务偿还&#8211;天钧政经</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344561.md" target="_blank">逾1300中国医疗厂商在美共用一家假代理(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344560.md" target="_blank">组图：中国南方暴雨肆虐 广西多地水浸(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344559.md" target="_blank">广州城中村因粪水污染 4户8人感染瘟疫</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344558.md" target="_blank">大连疾控中心发警示：如非必要勿前往北京(图)</a></li>
 
 </ul>
 </div>
