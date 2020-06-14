@@ -5,25 +5,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344405.md">中南海要吓傻！他被冻结370亿美元 习近平看着川普:再说一次 白宫还出招打造台湾...</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md">江泽民的“接班人”终于浮出水面？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344667.md">李克强三峡保卫令 暗示重大隐患(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344673.md">党媒证实三峡大坝变形 专家：将有特大灾难发生(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md">中共求美国手下留情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200614/1344483.md">蔡霞教授换人说有回响 日本学者认为更换领导人是给中国一个机会</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344693.md">北京出事 丰台区官员成箭靶 蔡奇发飙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344675.md">蔡奇宣布进入非常时期 北京全城抢菜 中南海特供惹火(组图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200614/1344483.md">蔡霞教授换人说有回响 日本学者认为更换领导人是给中国一个机会</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344669.md">日媒揭习近平最大梦魇：中共如苏联般垮台(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344669.md">日媒揭习近平最大梦魇：中共如苏联般垮台(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344693.md">北京出事 丰台区官员成箭靶 蔡奇发飙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344678.md">“中国共产党明白 这是一场生死存亡之战” “中共已经感染了全世界”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200614/1344496.md">iPhone 12最新外形 这颜值用户也该满意了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344465.md">成名作家严歌苓到美国去洗盘子 美国外交官为娶她主动辞职(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344823.md" target="_blank">日经：人民币趋弱 中国富人设法把钱搬到海外(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md" target="_blank">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344812.md" target="_blank">夏季养生菜 素菜扒冬瓜环</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344794.md" target="_blank">美报告：武汉死亡人数是官方公布的10倍 中共去年10月就知道疫情</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344633.md" target="_blank">呦呦鹿鸣:那个有毒的“正能量” 小学五年级学生坠楼(图集）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344628.md" target="_blank">美国研究：新型冠状病毒突变 更容易感染人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md" target="_blank">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344605.md" target="_blank">北京疫情官方报增数十 扩散辽宁 多省发旅游警告</a></li>
 
 </ul>
 </div>
