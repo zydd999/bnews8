@@ -20,11 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344229.md">北京疫情突变！现场多图直击：新发地市场关停 丰台启动战时机制(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344167.md">微博再封口 张抗抗遭封号 中共红三代叶大鹰被禁言(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200613/1344145.md">出事不小?北京疫情复发 出动大批武装人员（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344206.md">专家：美军就是要找机会迅速歼灭中共至少1/3的海军舰艇(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344135.md">华春莹一番话引众网友质问 中共放五毛咬人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344561.md" target="_blank">逾1300中国医疗厂商在美共用一家假代理(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344560.md" target="_blank">组图：中国南方暴雨肆虐 广西多地水浸(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344559.md" target="_blank">广州城中村因粪水污染 4户8人感染瘟疫</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344558.md" target="_blank">大连疾控中心发警示：如非必要勿前往北京(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344557.md" target="_blank">美驻华使馆刊登蓬佩奥讲话 含中共敏感词(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344548.md" target="_blank">北京又病了 北京人以后吃什么？（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md" target="_blank">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344527.md" target="_blank">才开放3天又爆疫情…..北京雍和宫、国家大剧院又关了(图)</a></li>
@@ -53,17 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344340.md" target="_blank">校长修炼法轮功 学校总成绩全学区数一数二</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md" target="_blank">看好你的钱包！中国央行开始管控人民币存取款&#8211;天钧政经</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344310.md" target="_blank">疫情剧烈爆发！北京丰台启战时状态 大批武警和生化部队进驻维稳(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md" target="_blank">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344304.md" target="_blank">奇葩了！微博热搜榜可用钱买？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344303.md" target="_blank">不敢想！北京“菜篮子”新发地爆发疫情 武警进驻(图/3视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344301.md" target="_blank">南方暴雨肆虐 广西多地成水乡泽国(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1343864.md" target="_blank">斩绝共产恶魔 1965年蒋介石发表《国父百年诞辰纪念文》</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md" target="_blank">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md" target="_blank">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md" target="_blank">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344451.md" target="_blank">逾1300家中国医疗器材公司 涉嫌在美注册资讯造假(图)</a></li>
@@ -88,13 +89,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343605.md" target="_blank">应中共政府要求 关闭纪念六四维权帐号 Zoom承认了！(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343508.md" target="_blank">特斯拉来自金星？FBI公布解密文件 内容让人细思极恐(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343474.md" target="_blank">北美华人出离愤怒 抵制美国最时髦举动 图集/视频</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200612/1343455.md" target="_blank">股市大跌！美财长：即便第二波疫情 不会再次叫停经济(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344563.md" target="_blank">唯色RFA博客：我目前还描述不了它们的全貌与本质</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344554.md" target="_blank">《一九八四》是如何在中国出版的？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344553.md" target="_blank">美国人第一次像虫子一样趴在地上 跳出来的不再掩饰自己的面目</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344545.md" target="_blank">中共经济实情令很多人跌眼镜(图)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344448.md" target="_blank">在西点军校毕业典礼演讲 川普强调坚守美国根本价值的重要性</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344447.md" target="_blank">大陆实力派女歌手被判超低分  评审畸态理由“唱太好 显得别人不好”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md" target="_blank">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344423.md" target="_blank">夏日必喝的养生茶</a></li>
 
 </ul>
 </div>
