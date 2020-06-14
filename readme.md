@@ -8,23 +8,23 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md">江泽民的“接班人”终于浮出水面？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344345.md">密件首曝涉习近平王岐山 邓小平的好东西成习眼中钉? 内幕:强拆这种房是中央高层决策</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200613/1344299.md">中共军队的实战经验到底从哪来？网友曝残酷现实(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344255.md">李克强真相 最富的猫和最穷的人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344380.md">惊人一幕！香港从世界前10变… 微博封杀敢言高官和红三代 永别！成龙让日本影迷唾弃</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344335.md">中共十万亿科技战要输了 新措施 中国重回计划经济？ 港版国安法将埋葬港币？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344305.md">北京再次封城前奏！叫停跨省旅游 启动战时机制 二波疫情来袭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344328.md">看好你的钱包！中国央行开始管控人民币存取款--天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344457.md">着名水利专家黄万里生前对三峡大坝的12个预言，11个已经应验， 最后一个也要应验？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md">中共求美国手下留情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200614/1344483.md">蔡霞教授换人说有回响 日本学者认为更换领导人是给中国一个机会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344445.md">【一线采访】北京新发地爆发疫情  实际感染人数恐相当多</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200614/1344434.md">章子怡17岁时有多撩人？大学时期旧照曝光(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200613/1344343.md">美国研究发现中共病毒产生突变 感染力更强</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md">中共求美国手下留情(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344447.md">大陆实力派女歌手被判超低分  评审畸态理由“唱太好 显得别人不好”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344693.md" target="_blank">北京出事 丰台区官员成箭靶 蔡奇发飙(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344691.md" target="_blank">“地摊”战火未熄 习李各奔东西(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344675.md" target="_blank">蔡奇宣布进入非常时期 北京全城抢菜 中南海特供惹火(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344673.md" target="_blank">党媒证实三峡大坝变形 专家：将有特大灾难发生(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344669.md" target="_blank">日媒揭习近平最大梦魇：中共如苏联般垮台(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344525.md" target="_blank">中共两会前下令 近千法轮功学员遭抓捕骚扰(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344524.md" target="_blank">浙江油罐车油罐车 至少192人死伤 现场惨烈(视频/图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344523.md" target="_blank">蔡奇连开三次疫情会 北京进入非常时期(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344522.md" target="_blank">微博热搜榜可用钱买？花5万元即可登前三</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344521.md" target="_blank">北京月坛街道率先提升疫情等级 网友揭秘(图)</a></li>
 
 </ul>
 </div>
