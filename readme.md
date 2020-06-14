@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344673.md">党媒证实三峡大坝变形 专家：将有特大灾难发生(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344508.md">中共求美国手下留情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344475.md">三峡大坝安全风险的十大根源 泄洪坝段出现大量裂缝 三峡大坝最脆弱处已严重位移 重则几百亿立方米库水或一泻千里</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344693.md">北京出事 丰台区官员成箭靶 蔡奇发飙(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344681.md">演砸了！CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200614/1344663.md">210万亿——印钞的末日狂奔(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
