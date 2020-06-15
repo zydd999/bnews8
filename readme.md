@@ -10,11 +10,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344970.md">遭美制裁撑不住了？网传华为7月将大裁员9万人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md">爆料：中共十九届五中全会高级干部调整名单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345133.md">一张照片：毛岸青患有精神疾病 毛新宇是谁的儿子？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md">爆料：中共十九届五中全会高级干部调整名单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345087.md">新州：赵乐际泄露的不止一个秘密(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344923.md">孟建柱的办公室主任邓恢林被抓</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1345063.md">疫情复燃 北京超市再现惊人一幕(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344940.md">非常时期多省隔绝北京 胡锡进不满 改朝换代前兆？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1344922.md">资本撤离香港后深圳和中国楼市的终极推演(图)</a></li>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345289.md" target="_blank">挺反送中遭封杀 「董事长乐团」拒赴中港澳“怕被莫名抓走”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345288.md" target="_blank">评论 | 程晓农：小小地摊起风浪：虚面子与真里子的冲突</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345251.md" target="_blank">中国进退两难的暂免外国债务偿还(视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345235.md" target="_blank">重庆石柱一片汪洋 学校被淹 人员被困 车辆飘走（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345222.md" target="_blank">澳洲学者新书揭秘一带一路旨在颠覆全球民主(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345125.md" target="_blank">夏季来临，养肝不宜碰这几种食物？专家：不可忽视</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345124.md" target="_blank">为什么一直咳咳咳</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345120.md" target="_blank">【微博精粹】新发地离皇上真近 武汉千里投毒失败 甩锅北京成功(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345116.md" target="_blank">夏季谨防病从口入，做到5个“要”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345105.md" target="_blank">美的集团创始人何享健遭劫持 儿子游河报警5人被捕</a></li>
 
 </ul>
 </div>
