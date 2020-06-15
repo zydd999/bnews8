@@ -4,8 +4,8 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344878.md">〖兲朝浮世绘〗彭佩奥由“人类公敌”突然又转变成中国老朋友了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344907.md">陈破空：习近平紧张，为此事调集大量军警！浙江出大事。特朗普西点军校演讲引热议 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344912.md">三峡大坝果真危在旦夕？内部人士：炸不知咋炸 拆不知咋拆 维护也不知咋维护 十分危急！贺卫方呼吁最高国家权力机关组成特别调查委员会</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344907.md">陈破空：习近平紧张，为此事调集大量军警！浙江出大事。特朗普西点军校演讲引热议 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344926.md">“最终可能会引发全国楼市的崩盘” 港版国安法不做不死？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
@@ -14,13 +14,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md">爆料：中共十九届五中全会高级干部调整名单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344923.md">孟建柱的办公室主任邓恢林被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345087.md">新州：赵乐际泄露的不止一个秘密(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1345063.md">疫情复燃 北京超市再现惊人一幕(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344940.md">非常时期多省隔绝北京 胡锡进不满 改朝换代前兆？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344916.md">黄万里女儿：三峡大坝的问题迟早都会发生 将会有一个特别大的灾难发生 受到影响的人可能会有6亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344916.md">黄万里女儿：三峡大坝的问题迟早都会发生 将会有一个特别大的灾难发生 受到影响的人可能会有6亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1344922.md">资本撤离香港后深圳和中国楼市的终极推演(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344911.md">遇上狡猾的台湾首富 刘嘉玲竟输得颜面全无？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344890.md">文化产业区遭强拆 北京向中产阶层下手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344960.md">内幕：习李内部连批示 两会后事故频发(组图)</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345341.md" target="_blank">什么是“正能量”？一个下流有毒的词汇(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345316.md" target="_blank">重庆公安局四任局长先后落马 陈敏尔表态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345298.md" target="_blank">为蓬佩奥、杨洁篪会晤营造氛围？中共官宣急转向(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345221.md" target="_blank">纪念薪火相传歌曲和双十字星旗帜诞生10周年</a></li>
@@ -57,13 +58,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345112.md" target="_blank">如梦方醒… 一直被中共洗脑欺骗(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345111.md" target="_blank">北京疫情升级 扩散至外省 中共又欲甩锅(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md" target="_blank">爆料：中共十九届五中全会高级干部调整名单</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345106.md" target="_blank">民主党对疫情与暴乱态度矛盾 川普顾问:他们玩弄党派政治(图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345332.md" target="_blank">美化暴力抗议的ABC、CNN被曝种族主义泛滥(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345331.md" target="_blank">台湾捐物资给索国马莱塔省 北京怒斥：违反一中(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md" target="_blank">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345329.md" target="_blank">习总和川老爷竟然同一天生日：是安排还是巧合？ (图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345297.md" target="_blank">中共水利部说法暗示今年&#8230; 三峡溃坝何处逃生?如何逃生? 大坝变形几亿人头顶大难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md" target="_blank">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345204.md" target="_blank">日媒揭习近平最大梦魇 中国富人也加速资金出逃 抓孟晚舟 美加情报机构联手</a></li>
@@ -85,16 +89,14 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344600.md" target="_blank">文件曝光：逮捕孟晚舟 美加两大情报机构参与此案…(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344556.md" target="_blank">?法国白人懵了！巴黎黑人大游行 要求把白人赶出巴黎！(多图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344509.md" target="_blank">北京重启战时机制!蔡奇:北京已进入非常时期(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344501.md" target="_blank">瞄准中共！美陆战队部署地点曝光了…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344451.md" target="_blank">逾1300家中国医疗器材公司 涉嫌在美注册资讯造假(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344428.md" target="_blank">江泽民的“接班人”终于浮出水面？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344427.md" target="_blank">封城前奏！北京叫停跨省旅游 启动战时机制 二波疫情来袭(组图/2视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345342.md" target="_blank">集权难逃制裁 学者：中共将步苏联后尘</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345334.md" target="_blank">评论 | 陈破空：如何解读特朗普在西点军校的演讲？中共已经对美国开战</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345328.md" target="_blank">「最美脸孔排行」被批过时了  水原希子：“看脸”排名很失礼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345318.md" target="_blank">北京疫情蔓延多省 医院内部消息指一两周后大爆发</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345317.md" target="_blank">【林忌评论】「平权」变「文革」　中共最高兴</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345145.md" target="_blank">什么是“正能量”？一个下流有毒的词汇(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345142.md" target="_blank">朝鲜威胁对韩采取军事行动 韩美军方密切监视朝军动向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345136.md" target="_blank">海外资本撤离香港后中国楼市的终极推演</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345128.md" target="_blank">柳暗花明又一村——巧用中医治疗抑郁症</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345127.md" target="_blank">猕猴桃输了！补维生素C抗衰老这颗还是第一</a></li>
 
 </ul>
 </div>
