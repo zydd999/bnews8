@@ -7,24 +7,24 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344878.md">〖兲朝浮世绘〗彭佩奥由“人类公敌”突然又转变成中国老朋友了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344907.md">陈破空：习近平紧张，为此事调集大量军警！浙江出大事。特朗普西点军校演讲引热议 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344926.md">“最终可能会引发全国楼市的崩盘” 港版国安法不做不死？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344970.md">遭美制裁撑不住了？网传华为7月将大裁员9万人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344923.md">孟建柱的办公室主任邓恢林被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344923.md">孟建柱的办公室主任邓恢林被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344940.md">非常时期多省隔绝北京 胡锡进不满 改朝换代前兆？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1344922.md">资本撤离香港后深圳和中国楼市的终极推演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344916.md">黄万里女儿：三峡大坝的问题迟早都会发生 将会有一个特别大的灾难发生 受到影响的人可能会有6亿人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344911.md">遇上狡猾的台湾首富 刘嘉玲竟输得颜面全无？(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1345063.md">疫情复燃 北京超市再现惊人一幕(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344911.md">遇上狡猾的台湾首富 刘嘉玲竟输得颜面全无？(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345087.md">新州：赵乐际泄露的不止一个秘密(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344960.md">内幕：习李内部连批示 两会后事故频发(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344890.md">文化产业区遭强拆 北京向中产阶层下手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344884.md">34岁宝莱坞巨星上吊自杀 5天前美女经纪人跳楼(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345087.md">新州：赵乐际泄露的不止一个秘密(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200614/1344848.md">网友理发店偶遇王思聪 瘦了不少 含胸驼背看上老了十几岁(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345133.md">一张照片：毛岸青患有精神疾病 毛新宇是谁的儿子？(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345185.md" target="_blank">他37岁那年 医生遗憾地对其家人说 回家准备后事吧 奇迹出现了 …(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345177.md" target="_blank">北京菜价一夜翻倍 官媒急维稳：别抢(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md" target="_blank">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md" target="_blank">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345083.md" target="_blank">战略“大三角”？解析中国军机频扰台湾目的(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345082.md" target="_blank">浙江温岭爆炸事故致20人死 24人伤势重(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345072.md" target="_blank">半个北京市疫情复燃！中共肺炎席卷8区爆确诊(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345071.md" target="_blank">美的创始人何享健传遭挟持 儿子游河报警(组图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md" target="_blank">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md" target="_blank">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345166.md" target="_blank">再有中国网络活动人士和公民记者被刑拘及失联</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345163.md" target="_blank">凉拌麻辣豆芽韭菜 一青二白 爽口开胃</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344987.md" target="_blank">传重庆官场分三派 公安局长邓恢林落马涉孟建柱</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344986.md" target="_blank">金言：瘟神攻入帝都 北京再次进入战时状态 数据说谎打脸习近平(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344985.md" target="_blank">沈舟：中国大陆发热病人仍未全部检测(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344984.md" target="_blank">程晓容：北京进入非常时期 疫情谎言被戳破(图)</a></li>
 
 </ul>
 </div>
