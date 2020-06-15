@@ -13,18 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344691.md">“地摊”战火未熄 习李各奔东西(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344807.md">中国几千万光棍 教授提议炸锅 华春莹身体语言出卖了她 微博热搜榜竟可用钱买！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344678.md">“中国共产党明白 这是一场生死存亡之战” “中共已经感染了全世界”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344514.md">疑习下令 蔡奇宣布北京非常时期 全城抢菜 中南海特供火了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344528.md">一线采访：北京新发地爆发疫情 实际感染人数恐相当多(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344681.md">演砸了！CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200614/1344663.md">210万亿——印钞的末日狂奔(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344526.md">浙江台州温岭油罐车爆炸 方圆逾百米房屋全炸毁（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344878.md">〖兲朝浮世绘〗彭佩奥由“人类公敌”突然又转变成中国老朋友了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344545.md">中共经济实情令很多人跌眼镜(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344602.md">甩锅三文鱼染病毒？专家已经辟谣(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344666.md">西安四府街店铺招牌遭强改 市民：越看越渗人(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344600.md">文件曝光：逮捕孟晚舟 美加两大情报机构参与此案…(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344940.md" target="_blank">非常时期多省隔绝北京 胡锡进不满 改朝换代前兆？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344907.md" target="_blank">陈破空：习近平紧张，为此事调集大量军警！浙江出大事。特朗普西点军校演讲引热议</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344890.md" target="_blank">文化产业区遭强拆 北京向中产阶层下手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md" target="_blank">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344664.md" target="_blank">【严真点评】外交部大实话：美国会提制裁方案，韩正、汪洋榜上有名。北京疫情卷土重来，丰台启动战时机制。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344638.md" target="_blank">中共造假：欧盟指中共曲解战略对话 中俄散播假信息 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344606.md" target="_blank">疫情：一天内6人确诊46人阳性，北京丰台重启“战时机制”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344602.md" target="_blank">甩锅三文鱼染病毒？专家已经辟谣(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344943.md" target="_blank">陋兰：思想之门一旦关闭 就只能选择愚蠢(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344942.md" target="_blank">李劼：美台港不断被中共骗 因为始终没认清他们面对的不是一个国家 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344935.md" target="_blank">为了口罩 我们拼了：那些红了眼的入局者(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344934.md" target="_blank">非常时期多省隔绝北京 胡锡进不满 改朝换代前兆？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344933.md" target="_blank">「龙」兴之地异象连连  这是啥节奏？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344928.md" target="_blank">颜纯钩：习近平求川普手下留情(图)</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344742.md" target="_blank">《The King》结尾有彩蛋   “金泰希女儿”萌问李敏镐：你谁？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344739.md" target="_blank">久坐要命！“养背”让你挥别背痛 更加年轻(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344716.md" target="_blank">美国人为何没有存款？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344711.md" target="_blank">中共红墙内严厉禁忌的网路敏感词</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344708.md" target="_blank">陶杰：乱过“乱世佳人”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344680.md" target="_blank">担心“类固醇”的副作用 易导致使用错误(组图)</a></li>
 
 </ul>
 </div>
