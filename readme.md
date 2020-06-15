@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345403.md" target="_blank">帝王之气？ 宜兰惊见超美「彩虹云」</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345402.md" target="_blank">古代超人？ 「随芯所欲」！ 大脑 牙齿中竟藏着高科技</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345396.md" target="_blank">人到中年离婚的夫妻，男人和女人谁亏了？答案令你恍然大悟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345395.md" target="_blank">比游戏与懒惰还可怕，父母「不恰当」的教育方式最容易毁掉孩子一生</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345380.md" target="_blank">川普政府国际开发公司总裁：中共借“一带一路”操控他国</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md" target="_blank">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md" target="_blank">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345166.md" target="_blank">再有中国网络活动人士和公民记者被刑拘及失联</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345163.md" target="_blank">凉拌麻辣豆芽韭菜 一青二白 爽口开胃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345155.md" target="_blank">川普祝贺美国陆军成立245周年 感谢陆军扞卫自由和安全的贡献</a></li>
 
 </ul>
 </div>
