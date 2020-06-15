@@ -8,9 +8,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344907.md">陈破空：习近平紧张，为此事调集大量军警！浙江出大事。特朗普西点军校演讲引热议 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344926.md">“最终可能会引发全国楼市的崩盘” 港版国安法不做不死？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344970.md">遭美制裁撑不住了？网传华为7月将大裁员9万人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344923.md">孟建柱的办公室主任邓恢林被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345133.md">一张照片：毛岸青患有精神疾病 毛新宇是谁的儿子？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md">爆料：中共十九届五中全会高级干部调整名单</a></li>
