@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344970.md">遭美制裁撑不住了？网传华为7月将大裁员9万人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344916.md">黄万里女儿：三峡大坝的问题迟早都会发生 将会有一个特别大的灾难发生 受到影响的人可能会有6亿人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1344922.md">资本撤离香港后深圳和中国楼市的终极推演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344940.md">非常时期多省隔绝北京 胡锡进不满 改朝换代前兆？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1344922.md">资本撤离香港后深圳和中国楼市的终极推演(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344916.md">黄万里女儿：三峡大坝的问题迟早都会发生 将会有一个特别大的灾难发生 受到影响的人可能会有6亿人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344911.md">遇上狡猾的台湾首富 刘嘉玲竟输得颜面全无？(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344890.md">文化产业区遭强拆 北京向中产阶层下手(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344884.md">34岁宝莱坞巨星上吊自杀 5天前美女经纪人跳楼(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344960.md">内幕：习李内部连批示 两会后事故频发(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/health/20200614/1344848.md">网友理发店偶遇王思聪 瘦了不少 含胸驼背看上老了十几岁(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344823.md">日经：人民币趋弱 中国富人设法把钱搬到海外(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200614/1344702.md">动不动就出汗的人和很少出汗的人 哪种更健康？让医生告诉你答案(组图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345150.md" target="_blank">中共拒加入美俄会谈 瑞典智库：拥核大国武器管制严峻(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345147.md" target="_blank">疫情重创中国外贸 当局逼企业统一口瞒疫(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345146.md" target="_blank">继丰台后 河北保定宣布进入战时状态并召开紧急会议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345143.md" target="_blank">川普西点军校讲话 意外披露神秘超级武器细节(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345139.md" target="_blank">北京成疫情重灾区 河北保定宣布进入战时状态</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345131.md" target="_blank">北京疫情扩散至3省 海淀10社区全天封闭(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345057.md" target="_blank">北京疫情再爆 蔡奇迅速找人替罪？丰台区3官员被免(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345056.md" target="_blank">疫情爆发 北京丰台花乡升为高风险地 多公园关闭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345037.md" target="_blank">中国时局：北京陷疫情非常时期大失颜面(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345009.md" target="_blank">北京疫情爆发或更早？有患者5月底已出入新发地(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345008.md" target="_blank">北京疫情：大兴11所小学所有年级居家线上学习 幼儿园停园</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345007.md" target="_blank">北京多地民众大排长龙做检测(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345155.md" target="_blank">川普祝贺美国陆军成立245周年 感谢陆军扞卫自由和安全的贡献</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345154.md" target="_blank">香港失业率持续攀升 恶化状况恐超金融海啸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345152.md" target="_blank">醒观天下:一个人得多贱 才会将俄罗斯称为“战斗民族”？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345145.md" target="_blank">什么是“正能量”？一个下流有毒的词汇(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345142.md" target="_blank">朝鲜威胁对韩采取军事行动 韩美军方密切监视朝军动向</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345136.md" target="_blank">海外资本撤离香港后中国楼市的终极推演</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345128.md" target="_blank">柳暗花明又一村——巧用中医治疗抑郁症</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344983.md" target="_blank">杨威：美国制裁 中共很受伤 越来越致命 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344982.md" target="_blank">袁斌：面对中共施压 是守护原则还是只顾数钱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344981.md" target="_blank">王友群：港版国安法7.1前会通过实施吗？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344980.md" target="_blank">秋之歌：邪恶击毙正义并不罕见 但冠以爱国的名义 仅此一家(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344979.md" target="_blank">六神磊磊：袁老师这作文改的什么玩意(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344959.md" target="_blank">一个意味深长的段子(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344950.md" target="_blank">陶杰：佛洛伊德和包青天(图)</a></li>
 
 </ul>
 </div>
