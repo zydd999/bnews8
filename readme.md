@@ -20,9 +20,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344916.md">黄万里女儿：三峡大坝的问题迟早都会发生 将会有一个特别大的灾难发生 受到影响的人可能会有6亿人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345297.md">中共水利部说法暗示今年... 三峡溃坝何处逃生?如何逃生? 大坝变形几亿人头顶大难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1344922.md">资本撤离香港后深圳和中国楼市的终极推演(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345297.md">中共水利部说法暗示今年... 三峡溃坝何处逃生?如何逃生? 大坝变形几亿人头顶大难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344960.md">内幕：习李内部连批示 两会后事故频发(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1344911.md">遇上狡猾的台湾首富 刘嘉玲竟输得颜面全无？(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md" target="_blank">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345376.md" target="_blank">陈破空：陈破空谈《常识》（之58）：什麽是「中国特色的社会主义」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345341.md" target="_blank">什么是“正能量”？一个下流有毒的词汇(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345316.md" target="_blank">重庆公安局四任局长先后落马 陈敏尔表态(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345130.md" target="_blank">民间热议 央视到底为谁服务？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md" target="_blank">北京疫情持续扩散 或涉及几十万人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345112.md" target="_blank">如梦方醒… 一直被中共洗脑欺骗(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345111.md" target="_blank">北京疫情升级 扩散至外省 中共又欲甩锅(图/视频)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md" target="_blank">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345421.md" target="_blank">北京再次服软 美国赴中航班从每周两个增至四个</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345419.md" target="_blank">支持者为川普庆生送大礼 一天内收创纪录捐款1400万</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345412.md" target="_blank">史上首次 欧盟对“一带一路”中企征收反补贴税 打击不公平贸易</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345403.md" target="_blank">帝王之气？ 宜兰惊见超美「彩虹云」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345402.md" target="_blank">古代超人？ 「随芯所欲」！ 大脑 牙齿中竟藏着高科技</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345217.md" target="_blank">不装了！港澳办副主任：中央有权插手香港国安案件</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345202.md" target="_blank">网传中共司法部政治部主任冯力军坠楼 与这两人有交集</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345201.md" target="_blank">北京疫情突爆  中共甩锅欧洲</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345193.md" target="_blank">澳洲学者：「一带一路」不只是投资计划 更是破坏民主政治的战略</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md" target="_blank">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md" target="_blank">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 
 </ul>
 </div>
