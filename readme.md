@@ -13,7 +13,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344675.md">蔡奇宣布进入非常时期 北京全城抢菜 中南海特供惹火(组图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344669.md">日媒揭习近平最大梦魇：中共如苏联般垮台(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344718.md">北京引爆中国二次疫情 习近平出京避毒！(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200614/1344483.md">蔡霞教授换人说有回响 日本学者认为更换领导人是给中国一个机会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344691.md">“地摊”战火未熄 习李各奔东西(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344678.md">“中国共产党明白 这是一场生死存亡之战” “中共已经感染了全世界”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344807.md">中国几千万光棍 教授提议炸锅 华春莹身体语言出卖了她 微博热搜榜竟可用钱买！</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200614/1344663.md">210万亿——印钞的末日狂奔(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344526.md">浙江台州温岭油罐车爆炸 方圆逾百米房屋全炸毁（视频）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344914.md" target="_blank">被老师痛批作文 小学生坠楼身亡 其他家长忙点赞？(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344912.md" target="_blank">三峡大坝果真危在旦夕？内部人士：炸不知咋炸 拆不知咋拆 维护也不知咋维护 十分危急！贺卫方呼吁最高国家权力机关组成特别调查委员会</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344896.md" target="_blank">川普总统74岁生日 从政前重大房地产商业成就回顾</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344861.md" target="_blank">美足联不反对球员奏国歌时下跪 川普：我不会再看其比赛</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1344853.md" target="_blank">澳洲亲中智库涉违国家利益 百万资金遭冻结(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344653.md" target="_blank">糖尿病是拖出来的 出现这两干两麻立刻去医院</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344652.md" target="_blank">多少岁算是老年人？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344651.md" target="_blank">夏天湿气重，这些食物多吃点好</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344650.md" target="_blank">荔枝维生素C丰富 养颜又抗癌 但吃错时间会低血糖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344649.md" target="_blank">夏天空调房里，中医师教你巧顺气血不生血栓！</a></li>
 
 </ul>
 </div>
