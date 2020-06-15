@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344691.md">“地摊”战火未熄 习李各奔东西(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344807.md">中国几千万光棍 教授提议炸锅 华春莹身体语言出卖了她 微博热搜榜竟可用钱买！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344678.md">“中国共产党明白 这是一场生死存亡之战” “中共已经感染了全世界”(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200615/1344878.md">〖兲朝浮世绘〗彭佩奥由“人类公敌”突然又转变成中国老朋友了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344621.md">风水师：三峡大坝斩断中华龙脉 三峡大坝灵异事件：惊动封印的蛇 包工头遭遇判官托梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344681.md">演砸了！CNN主播库默欲诋毁川普 结果难圆其说遭群嘲(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200614/1344813.md">最高危职位？重庆副市长、公安局局长邓恢林落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200614/1344663.md">210万亿——印钞的末日狂奔(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344888.md">北京新波疫情阳性率近9% 市民:实际数据比官方高10倍(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344889.md">网传35万人去新发地市场被锁定 北京各医院人满为患（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200614/1344753.md">金与正被捧为「党中央」 可能已是金正恩接班人</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200614/1344663.md">210万亿——印钞的末日狂奔(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344907.md">陈破空：习近平紧张，为此事调集大量军警！浙江出大事。特朗普西点军校演讲引热议 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344602.md">甩锅三文鱼染病毒？专家已经辟谣(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344666.md">西安四府街店铺招牌遭强改 市民：越看越渗人(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344600.md">文件曝光：逮捕孟晚舟 美加两大情报机构参与此案…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344664.md">【严真点评】外交部大实话：美国会提制裁方案，韩正、汪洋榜上有名。北京疫情卷土重来，丰台启动战时机制。</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,15 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345009.md" target="_blank">北京疫情爆发或更早？有患者5月底已出入新发地(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345008.md" target="_blank">北京疫情：大兴11所小学所有年级居家线上学习 幼儿园停园</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345007.md" target="_blank">北京多地民众大排长龙做检测(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345006.md" target="_blank">中共防疫白皮书自夸话音未落 北京新发地逾万人全隔离(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345005.md" target="_blank">广东刚遭遇暴雨袭击又遇台风 今明两天还有大到暴雨(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344999.md" target="_blank">天亮时分：封闭新发地,民航局发熔断指令,北京进入非常时期;美国的危机更加严重(政论天下第181集 20200614)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344995.md" target="_blank">疫情爆发难控 北京急造新词愚弄国人智商(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344994.md" target="_blank">北京多小区被封 国家大剧院及雍和宫再关(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344993.md" target="_blank">拆迁变霸占 雄安新区迫村民「自愿」退地(图/2视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344973.md" target="_blank">习近平甩锅蔡奇 蔡奇也甩锅 丰台区3官员遭免(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344972.md" target="_blank">南方航空一班机17人检测阳性 中共发熔断指令要求停运(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344971.md" target="_blank">网友设立100万奖金 邀请小粉红领取(图/视频)</a></li>
@@ -49,21 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344886.md" target="_blank">一线采访：北京疫情爆发 民众忧封城(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344745.md" target="_blank">因制止校园欺凌 江苏15岁男生被同学打死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344731.md" target="_blank">中国男星学籍造假 中纪委发声 官场假博士会遭殃？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344728.md" target="_blank">大撒币後效应，中国进退两难的暂免债务偿还&#8211;天钧政经</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344727.md" target="_blank">暴雨刚走台风来袭 “鹦鹉”将直击广东(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344726.md" target="_blank">北京疫情官方报增数十 扩散辽宁 多省发旅游警告(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344718.md" target="_blank">北京引爆中国二次疫情 习近平出京避毒！(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344714.md" target="_blank">浙江槽罐车爆炸 车架冲上天 波及几百间民宅(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344707.md" target="_blank">习近平访日路遥遥 北京这么多问题让日本却步？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344693.md" target="_blank">北京出事 丰台区官员成箭靶 蔡奇发飙(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344691.md" target="_blank">“地摊”战火未熄 习李各奔东西(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200614/1344675.md" target="_blank">蔡奇宣布进入非常时期 北京全城抢菜 中南海特供惹火(组图/视频)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345004.md" target="_blank">牛！城管局长一言不合 用挖掘机拆倒学校大门(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344970.md" target="_blank">遭美制裁撑不住了？网传华为7月将大裁员9万人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344926.md" target="_blank">“最终可能会引发全国楼市的崩盘” 港版国安法不做不死？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200614/1344847.md" target="_blank">撤资提速？外媒：中港富人有部署加速将资金移往海外(图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344122.md" target="_blank">反送中一周年《荣光》响彻香港(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344064.md" target="_blank">川普说：习近平看着他说：“ Repeat（再说一次）？！”(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1344059.md" target="_blank">暴徒在洗劫 13名芝加哥警察视而不见(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200613/1343882.md" target="_blank">反击习近平李克强又出重磅 白俄跟俄反目中共噤声有玄机 大杀器!美售台F16V有秘密功能</a></li>
 
 </ul>
 </div>
