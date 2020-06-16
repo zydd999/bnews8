@@ -15,11 +15,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345580.md">传北京军队医院爆满 殡仪馆日日烧染疫尸体(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345847.md">北京半军管 封口医护界 “北京下死令 军方全面遭殃 新发地疫情涉及上百万人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345847.md">北京半军管 封口医护界 “北京下死令 军方全面遭殃 新发地疫情涉及上百万人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345667.md">切割自保？北京爆疫 世卫急通报 (图)</a></li>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345948.md" target="_blank">抗议中共对非洲歧视 非洲多国筹备中共领馆前示威</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345928.md" target="_blank">美国经济强劲复苏 5月零售额增长17.7％ 美股应声大涨</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345925.md" target="_blank">一党卫军官的日记揭秘纳粹黄金宝藏的一处藏匿点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345923.md" target="_blank">「鳄鱼皮」里流出饮用水——丛林生存最佳助手 震惊网友</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345710.md" target="_blank">黄之锋等人发动罢课公投遭“港澳办”威吓 黄之锋：为取缔铺路</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345709.md" target="_blank">宁神安睡汤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345705.md" target="_blank">中共公安部副部长孟庆丰被免职 重庆公安局长邓恢林两天前刚落马 孟庆丰2015年股灾时被称“救火队长”</a></li>
 
 </ul>
 </div>
