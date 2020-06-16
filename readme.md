@@ -12,19 +12,19 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345197.md">几亿国人头顶炸弹？李克强签三峡大坝保卫令(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345198.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶（图/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345103.md">习总和川老爷竟然同一天生日：上天就是这般神明，让他们合力将中共推入大坑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/783446.md">北京新发地的恐怖内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345086.md">北京疫情爆发 中共急造新词愚弄国人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md">北京疫情持续扩散 或涉及几十万人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345620.md" target="_blank">美军继部署萨德后又一重器抵达 大半个亚洲全被监视(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345619.md" target="_blank">亿万富豪们上书习近平曝政法系贪腐 孙力军疯狂报复 邓恢林曾亲自提审曝内幕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345618.md" target="_blank">李怀庆当庭揭邓恢林施害 孙力军幕后主使(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345604.md" target="_blank">菜价暴涨！ 北京餐桌上9成疏菜断供(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md" target="_blank">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345580.md" target="_blank">传北京军队医院爆满 殡仪馆日日烧染疫尸体(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345576.md" target="_blank">北京爆疫 世卫急通报 切割自保？(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345520.md" target="_blank">美议员：谨防EB-5签证被中共官员钻空子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345512.md" target="_blank">美150议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345511.md" target="_blank">重磅！美150众议员提议制裁中共政治局委员和统战部人员及家属(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345510.md" target="_blank">杨洁篪蓬佩奥谈什么？台港一明一暗(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345509.md" target="_blank">北京疫情突爆发 军人刚解禁又隔离(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345508.md" target="_blank">中共网络审查“到家”？法院判决现荒诞一幕(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345504.md" target="_blank">疫情下 四川“610”闯民宅肆意搜查抢劫(图)</a></li>
 
 </ul>
 </div>
