@@ -5,7 +5,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md">爆料：中共十九届五中全会高级干部调整名单</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1344970.md">遭美制裁撑不住了？网传华为7月将大裁员9万人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345133.md">一张照片：毛岸青患有精神疾病 毛新宇是谁的儿子？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1345063.md">疫情复燃 北京超市再现惊人一幕(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345087.md">新州：赵乐际泄露的不止一个秘密(图)</a></li>
@@ -16,7 +15,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344960.md">内幕：习李内部连批示 两会后事故频发(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345103.md">习总和川老爷竟然同一天生日：上天就是这般神明，让他们合力将中共推入大坑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200615/1345047.md">当今中国有一个可怕的现象 几乎涉及到每个家庭 都看看吧！(图集)</a></li>
@@ -25,6 +23,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1344995.md">疫情爆发难控 北京急造新词愚弄国人智商(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345086.md">北京疫情爆发 中共急造新词愚弄国人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md">北京疫情持续扩散 或涉及几十万人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345524.md" target="_blank">涂脂抹粉 中共使领馆在美国社区搞“口罩外交”(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345523.md" target="_blank">川普军校演讲&#8211;中共已经对美国开战(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345522.md" target="_blank">美国出手文武双拳 中共“文攻武统”战略一朝幻灭(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345521.md" target="_blank">习近平生日行踪不定 党报发“另类”恐怖贺礼(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345520.md" target="_blank">美议员：谨防EB-5签证被中共官员钻空子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345512.md" target="_blank">美150议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345511.md" target="_blank">重磅！美150众议员提议制裁中共政治局委员和统战部人员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345510.md" target="_blank">杨洁篪蓬佩奥谈什么？台港一明一暗(图)</a></li>
@@ -53,11 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md" target="_blank">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345376.md" target="_blank">陈破空：陈破空谈《常识》（之58）：什麽是「中国特色的社会主义」？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345341.md" target="_blank">什么是“正能量”？一个下流有毒的词汇(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345316.md" target="_blank">重庆公安局四任局长先后落马 陈敏尔表态(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345298.md" target="_blank">为蓬佩奥、杨洁篪会晤营造氛围？中共官宣急转向(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345221.md" target="_blank">纪念薪火相传歌曲和双十字星旗帜诞生10周年</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345206.md" target="_blank">找不到经济增长点 中共发购房补贴欲盘活楼市</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345205.md" target="_blank">身穿一级防护服 天津对农贸市场商户检测</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345529.md" target="_blank">掸封尘：一条红领巾 “勒死”了多少中国儿童</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345527.md" target="_blank">王赫：从非洲到北极 美国反击中共全球军事野心(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345526.md" target="_blank">程晓容：北京疫情失守 中共向欧洲甩锅？“新发地”有寓意 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345518.md" target="_blank">疫情加重国进民退 欧商怨遭中排挤</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345516.md" target="_blank">习近平生日行踪不定 党报发“另类”恐怖贺礼</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345515.md" target="_blank">金剑：唯物主义错漏百出 把人变成动物 物质 毁掉人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345514.md" target="_blank">杨威：美国华人不应参与歧视警察 没了警察 你买枪也没用 (图)</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345442.md" target="_blank">风投资金大幅缩水 中国创投企业命悬一线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345441.md" target="_blank">安全驾驶辅助系统，哪家更好？丰田 vs 斯巴鲁</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345435.md" target="_blank">真是盟友吗？中共军队参加红场阅兵  俄各方反应冷淡</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345433.md" target="_blank">在中共国当条鱼实在太难了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md" target="_blank">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345421.md" target="_blank">北京再次服软 美国赴中航班从每周两个增至四个</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345419.md" target="_blank">支持者为川普庆生送大礼 一天内收创纪录捐款1400万</a></li>
 
 </ul>
 </div>
