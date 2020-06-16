@@ -2,29 +2,29 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345231.md">北京新发地原名一语成谶 北京武汉差700倍 大逃亡开始 两会代表带来复燃？瞒半个月了！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345109.md">爆料：中共十九届五中全会高级干部调整名单</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345133.md">一张照片：毛岸青患有精神疾病 毛新宇是谁的儿子？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345087.md">新州：赵乐际泄露的不止一个秘密(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345297.md">中共水利部说法暗示今年... 三峡溃坝何处逃生?如何逃生? 大坝变形几亿人头顶大难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345204.md">日媒揭习近平最大梦魇 中国富人也加速资金出逃 抓孟晚舟 美加情报机构联手</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345297.md">中共水利部说法暗示今年... 三峡溃坝何处逃生?如何逃生? 大坝变形几亿人头顶大难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345197.md">几亿国人头顶炸弹？李克强签三峡大坝保卫令(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345198.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶（图/视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345198.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶（图/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345103.md">习总和川老爷竟然同一天生日：上天就是这般神明，让他们合力将中共推入大坑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/783446.md">北京新发地的恐怖内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/783446.md">北京新发地的恐怖内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345086.md">北京疫情爆发 中共急造新词愚弄国人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345329.md">习总和川老爷竟然同一天生日：是安排还是巧合？ (图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345298.md">为蓬佩奥、杨洁篪会晤营造氛围？中共官宣急转向(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md">北京疫情持续扩散 或涉及几十万人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1345345.md">她是中国第一美 力压范冰冰和刘亦菲(图集)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345638.md" target="_blank">原来美国人也这么迷信，而且还真不少~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345603.md" target="_blank">习近平李克强相继暗示危机异常严峻！除三峡大坝外 中国还有8万个“定时炸弹” 中共高官曝最新数据</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345602.md" target="_blank">三峡大坝面临军事上重大威胁 中共四级安保“特种兵团”海陆空齐上 总参抽调4600军人保卫 李克强签署国务院令</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345593.md" target="_blank">鲑鱼砧板验出病毒 台大医曝背后原因 再论不要生食</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345506.md" target="_blank">姜福祯：“灭共”有两个维度：反共2.0 建成没有共产党的新中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345505.md" target="_blank">林傲霜：“韩国瑜没有贪污不可罢免”形同“男老师没强奸女生”不能开除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345496.md" target="_blank">赵瑜：一个意味深长的段子(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345494.md" target="_blank">中共临阵脚软 国安法疑似难产(图)</a></li>
 
 </ul>
 </div>
