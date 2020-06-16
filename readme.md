@@ -16,15 +16,15 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345103.md">习总和川老爷竟然同一天生日：上天就是这般神明，让他们合力将中共推入大坑</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200615/1345047.md">当今中国有一个可怕的现象 几乎涉及到每个家庭 都看看吧！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200615/1345014.md">传重庆官场分三派 公安局长邓恢林落马涉孟建柱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345086.md">北京疫情爆发 中共急造新词愚弄国人(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md">北京疫情持续扩散 或涉及几十万人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345298.md">为蓬佩奥、杨洁篪会晤营造氛围？中共官宣急转向(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345086.md">北京疫情爆发 中共急造新词愚弄国人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,15 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345568.md" target="_blank">美报告：中共一贯虐待、酷刑、杀害所有宗教成员(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345567.md" target="_blank">揭中共瞒疫 美众院公布首份武汉病毒调查报告(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345566.md" target="_blank">李克强借口请辞习批准？杨洁篪将访美 赵立坚态度放软(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345565.md" target="_blank">病毒卷土重来 北京下死命令 民间恐慌(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345564.md" target="_blank">多次预判失准 中共专家称3天定北京疫情未来被质疑(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345563.md" target="_blank">现场视频：北京社区封闭 五棵松现大批警车(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345562.md" target="_blank">北京疫情爆发 网友挖源头(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345552.md" target="_blank">麻烦啦！北京餐桌上近90%的菜来源新发地批发市场(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345551.md" target="_blank">北京封闭21个社区 全市“敲门行动”大排查(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345543.md" target="_blank">希望之声：北京殡仪馆每日有尸死于中共病毒 民众忧封城逃离(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345524.md" target="_blank">涂脂抹粉 中共使领馆在美国社区搞“口罩外交”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345523.md" target="_blank">川普军校演讲&#8211;中共已经对美国开战(图)</a></li>
@@ -49,15 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345502.md" target="_blank">北京再爆疫情 故宫里几乎没人(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345501.md" target="_blank">内幕 内部资料显示北京虚报疫情数据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345500.md" target="_blank">排查20万人 北京全市进入战时状态(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783476.md" target="_blank">王小洪准备接公安部长和中央政法委书记</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783477.md" target="_blank">为李克强大实话做证（中）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345270.md" target="_blank">电影节获奖禁片《归途》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md" target="_blank">美中夏威夷密谈内幕</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345449.md" target="_blank">美国之音台长与副台长同时辞职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345436.md" target="_blank">文昭：北京与武汉「战疫」反其道而行？「新发地」市场成漩涡；习近平全局决策的基础坍塌；三处极不正常</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345430.md" target="_blank">“庆俞”离婚案开审 李国庆回应“抢公章”事件(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md" target="_blank">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345376.md" target="_blank">陈破空：陈破空谈《常识》（之58）：什麽是「中国特色的社会主义」？</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345561.md" target="_blank">来者不善！北京的标语和中科院的自杀海归们(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345558.md" target="_blank">沈舟：党媒被迫透露习近平和中共的真实处境(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345542.md" target="_blank">老师家长群：你那拍马屁的样子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345529.md" target="_blank">掸封尘：一条红领巾 “勒死”了多少中国儿童</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345527.md" target="_blank">王赫：从非洲到北极 美国反击中共全球军事野心(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345453.md" target="_blank">5月中国工业增长？ 消费疲软投资下滑V型复苏落空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345447.md" target="_blank">中国沪深两市收跌 外资连续两天净卖出</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345446.md" target="_blank">中共官媒指习思想是21世纪的马克思主义</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345442.md" target="_blank">风投资金大幅缩水 中国创投企业命悬一线</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345441.md" target="_blank">安全驾驶辅助系统，哪家更好？丰田 vs 斯巴鲁</a></li>
 
 </ul>
 </div>
