@@ -9,22 +9,22 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345197.md">几亿国人头顶炸弹？李克强签三峡大坝保卫令(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345198.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶（图/视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/783446.md">北京新发地的恐怖内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783476.md">王小洪准备接公安部长和中央政法委书记</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345329.md">习总和川老爷竟然同一天生日：是安排还是巧合？ (图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783476.md">王小洪准备接公安部长和中央政法委书记</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345298.md">为蓬佩奥、杨洁篪会晤营造氛围？中共官宣急转向(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md">北京疫情持续扩散 或涉及几十万人(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1345345.md">她是中国第一美 力压范冰冰和刘亦菲(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/1345404.md">〖兲朝浮世绘〗这次不敢甩锅给美国了 欧洲成中共甩锅新目标</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/yule/20200615/1345345.md">她是中国第一美 力压范冰冰和刘亦菲(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345436.md">文昭：北京与武汉「战疫」反其道而行？「新发地」市场成漩涡；习近平全局决策的基础坍塌；三处极不正常 </a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345661.md" target="_blank">与杨洁篪会面前 蓬佩奥与欧盟讨论携手抗共(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345660.md" target="_blank">到处甩锅！北京疫情三文鱼躺枪 各地样本检测均为阴性(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345652.md" target="_blank">港澳办公布国安法实情：北京直接插手香港案件(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345651.md" target="_blank">加速交权？刘强东3天内卸任5个京东高管职务(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345650.md" target="_blank">江峰：蓬佩奥、杨洁篪夏威夷密谈，北朝鲜突发战争威胁配合；香港国安法中美不让步谈什麽呢？二次疫情爆发选择了北京</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345641.md" target="_blank">美军机过境台湾激怒北京 中退将驳斥“攻台飞弹论”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345640.md" target="_blank">中印若交战 美研究：中共解放军不敌印军(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345620.md" target="_blank">美军继部署萨德后又一重器抵达 大半个亚洲全被监视(组图)</a></li>
@@ -53,11 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345552.md" target="_blank">麻烦啦！北京餐桌上近90%的菜来源新发地批发市场(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345551.md" target="_blank">北京封闭21个社区 全市“敲门行动”大排查(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345543.md" target="_blank">希望之声：北京殡仪馆每日有尸死于中共病毒 民众忧封城逃离(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345524.md" target="_blank">涂脂抹粉 中共使领馆在美国社区搞“口罩外交”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345523.md" target="_blank">川普军校演讲&#8211;中共已经对美国开战(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345522.md" target="_blank">美国出手文武双拳 中共“文攻武统”战略一朝幻灭(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345521.md" target="_blank">习近平生日行踪不定 党报发“另类”恐怖贺礼(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345520.md" target="_blank">美议员：谨防EB-5签证被中共官员钻空子(图)</a></li>
 
 </ul>
 </div>
