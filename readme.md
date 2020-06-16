@@ -15,16 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345164.md">习近平清洗政法系 江系大员孟建柱也悬了 心腹接连被抓</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345182.md">孟建柱又一大秘被查 公安部情妇传被带走 文强死前一天对王立军说的一句话成了魔咒 重庆官场再度震荡 四任公安局长落马</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345103.md">习总和川老爷竟然同一天生日：上天就是这般神明，让他们合力将中共推入大坑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345103.md">习总和川老爷竟然同一天生日：上天就是这般神明，让他们合力将中共推入大坑</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200615/1345047.md">当今中国有一个可怕的现象 几乎涉及到每个家庭 都看看吧！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200615/1345170.md">赵乐际女旧部冯力军传坠亡 被自杀灭口？从王立军到孙力军到冯力军相继出事 诡异！傅政华敏感时点被免职 女下属出事 习近平旧部接掌司法部展开清洗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345086.md">北京疫情爆发 中共急造新词愚弄国人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345119.md">北京疫情持续扩散 或涉及几十万人(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md" target="_blank">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345580.md" target="_blank">传北京军队医院爆满 殡仪馆日日烧染疫尸体(图/4视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345576.md" target="_blank">北京爆疫 世卫急通报 切割自保？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345575.md" target="_blank">恐北京效仿武汉 民众连夜“逃离”(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345568.md" target="_blank">美报告：中共一贯虐待、酷刑、杀害所有宗教成员(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345567.md" target="_blank">揭中共瞒疫 美众院公布首份武汉病毒调查报告(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345566.md" target="_blank">李克强借口请辞习批准？杨洁篪将访美 赵立坚态度放软(图)</a></li>
@@ -54,10 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345509.md" target="_blank">北京疫情突爆发 军人刚解禁又隔离(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345508.md" target="_blank">中共网络审查“到家”？法院判决现荒诞一幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345504.md" target="_blank">疫情下 四川“610”闯民宅肆意搜查抢劫(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345503.md" target="_blank">让北京不安的新书 揭一带一路隐藏惊人目的(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345502.md" target="_blank">北京再爆疫情 故宫里几乎没人(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345501.md" target="_blank">内幕 内部资料显示北京虚报疫情数据(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345500.md" target="_blank">排查20万人 北京全市进入战时状态(图)</a></li>
 
 </ul>
 </div>
