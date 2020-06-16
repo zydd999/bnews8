@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345297.md">中共水利部说法暗示今年... 三峡溃坝何处逃生?如何逃生? 大坝变形几亿人头顶大难</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783481.md">美中夏威夷密谈内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345680.md">北京医生：病毒或2周后大爆发 上面已下了死命令(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/783446.md">北京新发地的恐怖内幕</a></li>
@@ -14,17 +13,18 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345580.md">传北京军队医院爆满 殡仪馆日日烧染疫尸体(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345423.md">中共媒体怎么老能抓拍到“正能量”呢？看证据！（视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200616/1345432.md">美国资深华人程序员：对国内软件研发的真心话(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345330.md">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345667.md">切割自保？北京爆疫 世卫急通报 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345619.md">亿万富豪们上书习近平曝政法系贪腐 孙力军疯狂报复 邓恢林曾亲自提审曝内幕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345575.md">恐北京效仿武汉 民众连夜“逃离”(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345329.md">习总和川老爷竟然同一天生日：是安排还是巧合？ (图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345501.md">内幕 内部资料显示北京虚报疫情数据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345746.md">没跑！一勺烩！美要制裁所以中共高层和家属 习近平生日失踪逃离北京？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345503.md">让北京不安的新书 揭一带一路隐藏惊人目的(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345837.md" target="_blank">萧铭：萧茗采访袁爸爸：中共误判华尔街能左右川普； 中美综合国力相差悬殊，真正干起来，中共无牌可打；班农和蓬佩奥真心帮香港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345823.md" target="_blank">北京疫情全面爆发 从新发地辐射至北京各个角落(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345815.md" target="_blank">中印边境冲 45年来首曝双方死亡人数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md" target="_blank">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345673.md" target="_blank">重磅！美国考虑制裁所有中共政治局委员及家属(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345668.md" target="_blank">中共主动要求会晤！彭博：杨洁篪与蓬佩奥周三在夏威夷会晤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345666.md" target="_blank">孙力军落马后 公安部人事异动 副部长孟庆丰去职(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345665.md" target="_blank">中共把持多个国际组织 日美拟联手反制(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345836.md" target="_blank">人眼睛看不见的就是不存在的吗？科学家：还有很多看不见</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345827.md" target="_blank">疫情打乱计划  2021奥斯卡被迫推迟颁奖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345826.md" target="_blank">时事大家谈：美中筹划高级会晤 华盛顿与北京谁更希望稳住美中关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345810.md" target="_blank">丝瓜炒面筋 清热解暑 清爽可口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345800.md" target="_blank">中印边境冲突 45年来首曝死亡 印度3死 传中方5死</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345642.md" target="_blank">半岛情势升温！ 朝鲜将在韩朝军事缓冲区重新驻军</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345638.md" target="_blank">原来美国人也这么迷信，而且还真不少~</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345603.md" target="_blank">习近平李克强相继暗示危机异常严峻！除三峡大坝外 中国还有8万个“定时炸弹” 中共高官曝最新数据</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345602.md" target="_blank">三峡大坝面临军事上重大威胁 中共四级安保“特种兵团”海陆空齐上 总参抽调4600军人保卫 李克强签署国务院令</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345593.md" target="_blank">鲑鱼砧板验出病毒 台大医曝背后原因 再论不要生食</a></li>
 
 </ul>
 </div>
