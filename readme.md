@@ -33,6 +33,16 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345512.md" target="_blank">美150议员提议制裁中共政治局委员及家属(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345511.md" target="_blank">重磅！美150众议员提议制裁中共政治局委员和统战部人员及家属(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345510.md" target="_blank">杨洁篪蓬佩奥谈什么？台港一明一暗(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345509.md" target="_blank">北京疫情突爆发 军人刚解禁又隔离(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345508.md" target="_blank">中共网络审查“到家”？法院判决现荒诞一幕(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345504.md" target="_blank">疫情下 四川“610”闯民宅肆意搜查抢劫(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345503.md" target="_blank">让北京不安的新书 揭一带一路隐藏惊人目的(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345502.md" target="_blank">北京再爆疫情 故宫里几乎没人(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345501.md" target="_blank">内幕 内部资料显示北京虚报疫情数据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345500.md" target="_blank">排查20万人 北京全市进入战时状态(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783476.md" target="_blank">王小洪准备接公安部长和中央政法委书记</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/783477.md" target="_blank">为李克强大实话做证（中）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345270.md" target="_blank">电影节获奖禁片《归途》</a></li>
@@ -48,16 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345221.md" target="_blank">纪念薪火相传歌曲和双十字星旗帜诞生10周年</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345206.md" target="_blank">找不到经济增长点 中共发购房补贴欲盘活楼市</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345205.md" target="_blank">身穿一级防护服 天津对农贸市场商户检测</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345198.md" target="_blank">党媒突低头赞中美友谊 网络狂轰：一掐脖子就求饶（图/视频）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345197.md" target="_blank">几亿国人头顶炸弹？李克强签三峡大坝保卫令(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345185.md" target="_blank">他37岁那年 医生遗憾地对其家人说 回家准备后事吧 奇迹出现了 …(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345177.md" target="_blank">北京菜价一夜翻倍 官媒急维稳：别抢(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345173.md" target="_blank">5万美军将驻兵台湾、设3大基地？专家这样说(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345172.md" target="_blank">红二代徐泽荣：美国出手 中共定无颜面存于世上(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345168.md" target="_blank">疫情爆发 北京官员遭撤职 全国多地发警报(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345167.md" target="_blank">北京疫情爆发 河北保定进入战时状态 河南11地发防疫通知(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345150.md" target="_blank">中共拒加入美俄会谈 瑞典智库：拥核大国武器管制严峻(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200615/1345147.md" target="_blank">疫情重创中国外贸 当局逼企业统一口瞒疫(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345516.md" target="_blank">习近平生日行踪不定 党报发“另类”恐怖贺礼</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345515.md" target="_blank">金剑：唯物主义错漏百出 把人变成动物 物质 毁掉人(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345514.md" target="_blank">杨威：美国华人不应参与歧视警察 没了警察 你买枪也没用 (图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345506.md" target="_blank">姜福祯：“灭共”有两个维度：反共2.0 建成没有共产党的新中国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345505.md" target="_blank">林傲霜：“韩国瑜没有贪污不可罢免”形同“男老师没强奸女生”不能开除</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345496.md" target="_blank">赵瑜：一个意味深长的段子(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345494.md" target="_blank">中共临阵脚软 国安法疑似难产(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345492.md" target="_blank">北京餐桌上近90%的菜  由疫情爆发地新发地批发市场掌控</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345422.md" target="_blank">北京殡仪馆每日有尸死于中共病毒  民众忧封城逃离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345421.md" target="_blank">北京再次服软 美国赴中航班从每周两个增至四个</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345419.md" target="_blank">支持者为川普庆生送大礼 一天内收创纪录捐款1400万</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345412.md" target="_blank">史上首次 欧盟对“一带一路”中企征收反补贴税 打击不公平贸易</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345403.md" target="_blank">帝王之气？ 宜兰惊见超美「彩虹云」</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345402.md" target="_blank">古代超人？ 「随芯所欲」！ 大脑 牙齿中竟藏着高科技</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345396.md" target="_blank">人到中年离婚的夫妻，男人和女人谁亏了？答案令你恍然大悟</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345395.md" target="_blank">比游戏与懒惰还可怕，父母「不恰当」的教育方式最容易毁掉孩子一生</a></li>
 
 </ul>
 </div>
