@@ -18,13 +18,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345970.md">鱼都疯了？各地的鱼都纷纷跳出水面 会地震吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200617/1345953.md">〖兲朝浮世绘〗所有在美国的中共党员们颤抖吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345978.md">高清大图 罕见蒋公宋美龄蒋经国照片(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/fanqiang/20200616/1345793.md">翻墙看新闻会被抓吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346086.md">役情最前线：疫情卷土重来 北京人连夜出逃(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345872.md">中印边境冲突致死双方一级战备 专家指习近平强硬或不退让</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200617/1345967.md">北京毒源是冷冻食品？ 国际专家这么认为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346057.md">中印边界爆流血 印度兵增至20死 中共拒提军队死伤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346161.md">中印边境失控 数十人死亡！习氏生死抉择！(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345872.md">中印边境冲突致死双方一级战备 专家指习近平强硬或不退让</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346057.md">中印边界爆流血 印度兵增至20死 中共拒提军队死伤(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200617/1345967.md">北京毒源是冷冻食品？ 国际专家这么认为</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346276.md" target="_blank">北京疫情集中爆发 动摇中共官方论述(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346256.md" target="_blank">闭关锁国 北京1255次航班被取消 19间市场被关闭(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346245.md" target="_blank">709余文生律师被秘密判刑4年 家属指中共司法倒退</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346244.md" target="_blank">蓬佩奥周三密会杨洁篪 讨论哪些敏感议题(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346120.md" target="_blank">杨洁篪赴美在即 中共放风港版国安法推迟到7月(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346105.md" target="_blank">北京疫情爆发 大批市民排长队等检测… 人心惶惶！(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346104.md" target="_blank">中南海守不住 高层转移地也被疫情攻破了？(组图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346095.md" target="_blank">美众议院调查报告 详细揭露中共如何隐匿疫情(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346281.md" target="_blank">【6月17日美国（中共病毒疫情）即时动态更新】</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346246.md" target="_blank">美军出动先进电子侦察机加强监控 以防朝鲜突发军事行动</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346239.md" target="_blank">中共官员疑滥用美国EB-5投资移民签证 美议员呼吁审查</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346238.md" target="_blank">疫情恐陷第二波  周星驰抵押「天比高」向美资银行借款</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346094.md" target="_blank">作家凌霜狱中诉冤屈：没有发出的言论被判“扰乱社会秩序”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346093.md" target="_blank">“爱国”？ 一张机票击碎对中共的幻想(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346092.md" target="_blank">错漏百出的唯物主义及其危害(中)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346082.md" target="_blank">杨帆：鱼在砧板坐 锅从天上来(图)</a></li>
 
 </ul>
 </div>
