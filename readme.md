@@ -10,21 +10,21 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345746.md">没跑！一勺烩！美要制裁所以中共高层和家属 习近平生日失踪逃离北京？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345580.md">传北京军队医院爆满 殡仪馆日日烧染疫尸体(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345954.md">陈破空：半个北京沦陷！习家军高官突遭免职。党媒忽然唱好中美关系。中印冲突酿重大伤亡 </a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345791.md">习李斗 政府支持李克强 失业率5.9%？专家：实际超25% 华为拟裁员5成涉9万人报导全被删</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345667.md">切割自保？北京爆疫 世卫急通报 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345815.md">中印边境冲 45年来首曝双方死亡人数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345619.md">亿万富豪们上书习近平曝政法系贪腐 孙力军疯狂报复 邓恢林曾亲自提审曝内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345726.md">中印边境又开打首曝死亡 两军高层正急谈</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1345989.md">中印流血：印军证冲突增至20死 传解放军43人死伤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345575.md">恐北京效仿武汉 民众连夜“逃离”(图/4视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345704.md">天灾示警！老天是想把整个国淹掉吗？(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345703.md">谁还敢来北京！返京列车一人坐一节车厢(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346113.md" target="_blank">供应链重组趋势扩大 日本半导体企业拟撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346094.md" target="_blank">作家凌霜狱中诉冤屈：没有发出的言论被判“扰乱社会秩序”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346093.md" target="_blank">“爱国”？ 一张机票击碎对中共的幻想(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346092.md" target="_blank">错漏百出的唯物主义及其危害(中)</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345991.md" target="_blank">叛国罪 俄科学家遭控将潜舰机密交中国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345987.md" target="_blank">消费贷欠款骤增 中国特色追债令人乍舌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345986.md" target="_blank">雷声不断 中企近600亿债券违约</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345979.md" target="_blank">北京疫情甩锅三文鱼被嘲挑战智商下限 挪威发声明还击</a></li>
 
 </ul>
 </div>
