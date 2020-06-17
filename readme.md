@@ -22,9 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345815.md">中印边境冲 45年来首曝双方死亡人数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345726.md">中印边境又开打首曝死亡 两军高层正急谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345704.md">天灾示警！老天是想把整个国淹掉吗？(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345703.md">谁还敢来北京！返京列车一人坐一节车厢(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345970.md">鱼都疯了？各地的鱼都纷纷跳出水面 会地震吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345703.md">谁还敢来北京！返京列车一人坐一节车厢(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345704.md">天灾示警！老天是想把整个国淹掉吗？(图/视频)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346157.md" target="_blank">北京疫情扩至9区3省 28社区封闭式管理(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346155.md" target="_blank">朝鲜炸联络办 引美国出洞 北京借此增加谈判筹码(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346154.md" target="_blank">中共对台新战略 ：不战而屈人之兵(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346153.md" target="_blank">疫情拉警报 北京两大机场已取消逾1200架次航班(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346132.md" target="_blank">军事冲突大戏将上演？命理师预言：两大阵营 台湾成为「关键角色」(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346130.md" target="_blank">清华公寓命案 1女死亡 山西厅官涉案受伤(图)</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md" target="_blank">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346030.md" target="_blank">“两会”代表千里投毒?瘟疫恐惧笼罩中南海(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346026.md" target="_blank">港版国安法：大常委会周四开会 法工委加速制定恶法工作(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346020.md" target="_blank">北京疫情暴增106例 中专家甩锅欧美 店家被逼讲实话？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345992.md" target="_blank">一线采访：新发地市场大 北京人忧疫情难控(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345984.md" target="_blank">白云先生的至道学宫 ｜雷人咖啡?? 第七集</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346163.md" target="_blank">疫情升级！北京中小学关闭 航班大规模取消</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346162.md" target="_blank">中印边境冲突印度增至20死 美国务院呼吁和平解决争端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346113.md" target="_blank">供应链重组趋势扩大 日本半导体企业拟撤出中国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346094.md" target="_blank">作家凌霜狱中诉冤屈：没有发出的言论被判“扰乱社会秩序”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346093.md" target="_blank">“爱国”？ 一张机票击碎对中共的幻想(图)</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346000.md" target="_blank">美国10大武器制裁中共 美元是其中之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345999.md" target="_blank">太缺钱？中共向电商开刀 要求自查三年补税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345991.md" target="_blank">叛国罪 俄科学家遭控将潜舰机密交中国(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345987.md" target="_blank">消费贷欠款骤增 中国特色追债令人乍舌</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345986.md" target="_blank">雷声不断 中企近600亿债券违约</a></li>
 
 </ul>
 </div>
