@@ -6,7 +6,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345954.md">陈破空：半个北京沦陷！习家军高官突遭免职。党媒忽然唱好中美关系。中印冲突酿重大伤亡 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1345989.md">中印流血：印军证冲突增至20死 传解放军43人死伤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345791.md">习李斗 政府支持李克强 失业率5.9%？专家：实际超25% 华为拟裁员5成涉9万人报导全被删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346085.md">天亮时分：人民日报这句话暗示，杨洁篪与蓬佩奥注定谈崩；中共高层的分裂将因此加剧；中印冲突不会升级的三个理由（政论天下第182集 20200616） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345815.md">中印边境冲 45年来首曝双方死亡人数(图)</a></li>
@@ -16,15 +15,16 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346161.md">中印边境失控 数十人死亡！习氏生死抉择！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200617/1345953.md">〖兲朝浮世绘〗所有在美国的中共党员们颤抖吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/fanqiang/20200616/1345793.md">翻墙看新闻会被抓吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346158.md">中共航天业崩塌？长征火箭又出事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345978.md">高清大图 罕见蒋公宋美龄蒋经国照片(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346086.md">役情最前线：疫情卷土重来 北京人连夜出逃(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346158.md">中共航天业崩塌？长征火箭又出事(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1346231.md">习近平决策中印边界混战 开战！中共飞弹不够用两天 中共孤立 印度交好结盟4强国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346216.md">知道太多权贵海外资产？又一中共高官摘乌纱帽(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345872.md">中印边境冲突致死双方一级战备 专家指习近平强硬或不退让</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346057.md">中印边界爆流血 印度兵增至20死 中共拒提军队死伤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200617/1345967.md">北京毒源是冷冻食品？ 国际专家这么认为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1346152.md">朝鲜炸联络办 金与正施压韩国 撒疯给美国看 北京借此增加谈判筹码(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346184.md">蓬杨会前 美国5重拳北京信息混乱(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346324.md" target="_blank">章天亮: 深度解析美国式“文革”及其意识形态癌变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346321.md" target="_blank">解决愧疚感 能快速回到正轨(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346318.md" target="_blank">【独家】中国病库危坝制造夺命洪灾 揭官方没说的秘密</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346300.md" target="_blank">港版国安法被提上人大会议程 蓬佩奥杨洁篪会晤结局已注定？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346296.md" target="_blank">【未普评论】从蔡霞录音看中共危局</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346175.md" target="_blank">口罩戴不完！专家教最佳保存法　一招测试还有没有防护力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346174.md" target="_blank">世卫替三文鱼站排  北京疫情感染源扑朔迷离</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346173.md" target="_blank">华夏承载的巨大压力亟待释放——地震预警?</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346172.md" target="_blank">【微博精粹】美《终结中国共产党公民法》上路 藏美的党员战抖了(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346170.md" target="_blank">「开城工业区」恐成下一摧毁目标  美国欧盟吁朝鲜勿再挑衅破坏</a></li>
 
 </ul>
 </div>
