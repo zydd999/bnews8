@@ -4,23 +4,23 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345680.md">北京医生：病毒或2周后大爆发 上面已下了死命令(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345729.md">中印激烈冲突印军3死中方5死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345673.md">重磅！美国考虑制裁所有中共政治局委员及家属(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345847.md">北京半军管 封口医护界 “北京下死令 军方全面遭殃 新发地疫情涉及上百万人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345746.md">没跑！一勺烩！美要制裁所以中共高层和家属 习近平生日失踪逃离北京？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1345989.md">中印流血：印军证冲突增至20死 传解放军43人死伤(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345954.md">陈破空：半个北京沦陷！习家军高官突遭免职。党媒忽然唱好中美关系。中印冲突酿重大伤亡 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345954.md">陈破空：半个北京沦陷！习家军高官突遭免职。党媒忽然唱好中美关系。中印冲突酿重大伤亡 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345791.md">习李斗 政府支持李克强 失业率5.9%？专家：实际超25% 华为拟裁员5成涉9万人报导全被删</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345815.md">中印边境冲 45年来首曝双方死亡人数(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346020.md">北京疫情暴增106例 中专家甩锅欧美 店家被逼讲实话？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345726.md">中印边境又开打首曝死亡 两军高层正急谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346020.md">北京疫情暴增106例 中专家甩锅欧美 店家被逼讲实话？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346085.md">天亮时分：人民日报这句话暗示，杨洁篪与蓬佩奥注定谈崩；中共高层的分裂将因此加剧；中印冲突不会升级的三个理由（政论天下第182集 20200616） </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345970.md">鱼都疯了？各地的鱼都纷纷跳出水面 会地震吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345703.md">谁还敢来北京！返京列车一人坐一节车厢(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345704.md">天灾示警！老天是想把整个国淹掉吗？(图/视频)</a></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346186.md" target="_blank">遭遇洪灾 广西灾民：政府不作为 图集/视频</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346184.md" target="_blank">蓬杨会前 美国5重拳北京信息混乱(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346167.md" target="_blank">北京新发地被封前后 官方民间不同调(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346166.md" target="_blank">张抗抗怒怼脑残 连骂了19个脏字微博被封 郭于华告别微博(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346057.md" target="_blank">中印边界爆流血 印度兵增至20死 中共拒提军队死伤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346056.md" target="_blank">第二波疫情难控 分析：全面封锁北京赌注高(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346055.md" target="_blank">悲剧！河北一家三口先后跳楼 疑高利贷致祸(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346038.md" target="_blank">组图：北京疫情升级 地铁枢纽高峰期几乎无人 往日拥挤的西二旗站警察比行人多(图集)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346187.md" target="_blank">中印45年来首次致死冲突 印军已死20人 共军死伤数字成谜 两军高层紧急斡旋 印防长即时向莫迪简报军情 印防长放话印度不再软弱 中印两万军人边境集结</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346183.md" target="_blank">喝冰水不只发胖，冰水即使去冰后寒性仍在，4种时候千万别喝 ！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346182.md" target="_blank">这毛病！起于“眩晕”，终于“瘫痪”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346181.md" target="_blank">感冒药和咖啡一起用会好得更快吗？</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346053.md" target="_blank">美国人眼里的民主党和共和党</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346052.md" target="_blank">衣服烘不干的原因竟是它 所有人都乐了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346047.md" target="_blank">沈舟：川习生日同步 习近平恐等不到川普连任即命运生变(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346046.md" target="_blank">钟原：中共国防部也对美国认怂了(图)</a></li>
 
 </ul>
 </div>
