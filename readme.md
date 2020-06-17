@@ -3,8 +3,8 @@
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345680.md">北京医生：病毒或2周后大爆发 上面已下了死命令(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345729.md">中印激烈冲突印军3死中方5死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345566.md">李克强借口请辞习批准？杨洁篪将访美 赵立坚态度放软(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345729.md">中印激烈冲突印军3死中方5死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345640.md">中印若交战 美研究：中共解放军不敌印军(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345673.md">重磅！美国考虑制裁所有中共政治局委员及家属(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345847.md">北京半军管 封口医护界 “北京下死令 军方全面遭殃 新发地疫情涉及上百万人”</a></li>
@@ -22,7 +22,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345815.md">中印边境冲 45年来首曝双方死亡人数(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345619.md">亿万富豪们上书习近平曝政法系贪腐 孙力军疯狂报复 邓恢林曾亲自提审曝内幕(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345726.md">中印边境又开打首曝死亡 两军高层正急谈</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345501.md">内幕 内部资料显示北京虚报疫情数据(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345575.md">恐北京效仿武汉 民众连夜“逃离”(图/4视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346038.md" target="_blank">组图：北京疫情升级 地铁枢纽高峰期几乎无人 往日拥挤的西二旗站警察比行人多(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md" target="_blank">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346030.md" target="_blank">“两会”代表千里投毒?瘟疫恐惧笼罩中南海(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346026.md" target="_blank">港版国安法：大常委会周四开会 法工委加速制定恶法工作(图)</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345739.md" target="_blank">北京确诊病例持续攀升 疫情扩散至九个区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345738.md" target="_blank">风华正茂陷冤狱 哈医大原主治医生再遭绑架(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md" target="_blank">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md" target="_blank">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,12 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346053.md" target="_blank">美国人眼里的民主党和共和党</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346052.md" target="_blank">衣服烘不干的原因竟是它 所有人都乐了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346047.md" target="_blank">沈舟：川习生日同步 习近平恐等不到川普连任即命运生变(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346046.md" target="_blank">钟原：中共国防部也对美国认怂了(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346045.md" target="_blank">杨威：共产势力搅局 美国疫情或生变数(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346044.md" target="_blank">程晓容：世卫称北京疫情是“重大事件” 警告意味明显 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346034.md" target="_blank">张林：武汉引领了第一波全球疫情 北京想要引领全球第二波疫情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346029.md" target="_blank">天文奇景“日环食”错过再等195年(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346016.md" target="_blank">正本清源 川普政府推新规整顿“美国之音”等媒体</a></li>
@@ -114,12 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345925.md" target="_blank">一党卫军官的日记揭秘纳粹黄金宝藏的一处藏匿点</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345923.md" target="_blank">「鳄鱼皮」里流出饮用水——丛林生存最佳助手 震惊网友</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345922.md" target="_blank">「不惜一切代价保护它」 世界最美保姆</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345913.md" target="_blank">记者冒险进入西雅图自治区调查 称晚上犯罪行为猖獗</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345898.md" target="_blank">2020-2021轿车、轿跑的流行新趋势</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345886.md" target="_blank">北京再爆疫情 鲑鱼中枪 挪威发声明(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345878.md" target="_blank">日歌手米希亚总决赛惨败  大陆节目《歌手.当打之年》被爆造假</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345836.md" target="_blank">人眼睛看不见的就是不存在的吗？科学家：还有很多看不见</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345827.md" target="_blank">疫情打乱计划  2021奥斯卡被迫推迟颁奖</a></li>
 
 </ul>
 </div>
