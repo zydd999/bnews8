@@ -4,7 +4,6 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345847.md">北京半军管 封口医护界 “北京下死令 军方全面遭殃 新发地疫情涉及上百万人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345954.md">陈破空：半个北京沦陷！习家军高官突遭免职。党媒忽然唱好中美关系。中印冲突酿重大伤亡 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1345989.md">中印流血：印军证冲突增至20死 传解放军43人死伤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345791.md">习李斗 政府支持李克强 失业率5.9%？专家：实际超25% 华为拟裁员5成涉9万人报导全被删</a></li>
@@ -16,8 +15,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345970.md">鱼都疯了？各地的鱼都纷纷跳出水面 会地震吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200617/1345953.md">〖兲朝浮世绘〗所有在美国的中共党员们颤抖吧</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345978.md">高清大图 罕见蒋公宋美龄蒋经国照片(图集)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346086.md">役情最前线：疫情卷土重来 北京人连夜出逃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/fanqiang/20200616/1345793.md">翻墙看新闻会被抓吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346086.md">役情最前线：疫情卷土重来 北京人连夜出逃(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346161.md">中印边境失控 数十人死亡！习氏生死抉择！(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1346158.md">中共航天业崩塌？长征火箭又出事(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346057.md">中印边界爆流血 印度兵增至20死 中共拒提军队死伤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200617/1345967.md">北京毒源是冷冻食品？ 国际专家这么认为</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200617/1346017.md">突然休市，我们损失惨重</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/taiwannews/20200616/1345807.md">独！川普不满习近平一骗再骗！庞皮欧、杨洁篪将会面谈美中问题？！金与正炸毁两韩联络办公室！中印边界冲突互有伤亡？！【年代向钱看】20200616</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346300.md" target="_blank">港版国安法被提上人大会议程 蓬佩奥杨洁篪会晤结局已注定？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346296.md" target="_blank">【未普评论】从蔡霞录音看中共危局</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346295.md" target="_blank">【华府看天下】年底大选结果　不会影响美国对中强硬路线</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346291.md" target="_blank">韩男团一级秘密YOHAN16日突传去世 死因不公开</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346172.md" target="_blank">【微博精粹】美《终结中国共产党公民法》上路 藏美的党员战抖了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346170.md" target="_blank">「开城工业区」恐成下一摧毁目标  美国欧盟吁朝鲜勿再挑衅破坏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346163.md" target="_blank">疫情升级！北京中小学关闭 航班大规模取消</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346162.md" target="_blank">中印边境冲突印度增至20死 美国务院呼吁和平解决争端</a></li>
 
 </ul>
 </div>
