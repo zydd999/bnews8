@@ -18,7 +18,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345667.md">切割自保？北京爆疫 世卫急通报 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345791.md">习李斗 政府支持李克强 失业率5.9%？专家：实际超25% 华为拟裁员5成涉9万人报导全被删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345619.md">亿万富豪们上书习近平曝政法系贪腐 孙力军疯狂报复 邓恢林曾亲自提审曝内幕(图)</a></li>
@@ -48,7 +48,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md" target="_blank">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345750.md" target="_blank">核武年度报告：中共和朝鲜扩大核武器库</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345749.md" target="_blank">任天堂又一款游戏被下架 或涉中共敏感言论</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md" target="_blank">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md" target="_blank">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345747.md" target="_blank">疫情卷土从来 北京居民遭到大排查(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345739.md" target="_blank">北京确诊病例持续攀升 疫情扩散至九个区</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345738.md" target="_blank">风华正茂陷冤狱 哈医大原主治医生再遭绑架(组图)</a></li>
@@ -95,6 +95,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346006.md" target="_blank">美中西太平洋博弈 美国盟友处境尴尬(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346000.md" target="_blank">美国10大武器制裁中共 美元是其中之一</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345999.md" target="_blank">太缺钱？中共向电商开刀 要求自查三年补税</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345991.md" target="_blank">叛国罪 俄科学家遭控将潜舰机密交中国(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345987.md" target="_blank">消费贷欠款骤增 中国特色追债令人乍舌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345986.md" target="_blank">雷声不断 中企近600亿债券违约</a></li>
@@ -117,9 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345826.md" target="_blank">时事大家谈：美中筹划高级会晤 华盛顿与北京谁更希望稳住美中关系</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345810.md" target="_blank">丝瓜炒面筋 清热解暑 清爽可口</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345800.md" target="_blank">中印边境冲突 45年来首曝死亡 印度3死 传中方5死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345790.md" target="_blank">原保监会主席项俊波判囚11年 传情妇多达123人</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345788.md" target="_blank">政法系统地震余波未平 公安部副部长孟庆丰被免职 去向不明</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345779.md" target="_blank">【梁京评论】中国病毒彻底毁了习近平的「中国梦」</a></li>
 
 </ul>
 </div>
