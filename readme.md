@@ -11,8 +11,8 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345954.md">陈破空：半个北京沦陷！习家军高官突遭免职。党媒忽然唱好中美关系。中印冲突酿重大伤亡 </a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1345989.md">中印流血：印军证冲突增至20死 传解放军43人死伤(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345956.md">北京新发地内部员工披露实情 为三文鱼喊冤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345791.md">习李斗 政府支持李克强 失业率5.9%？专家：实际超25% 华为拟裁员5成涉9万人报导全被删</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
@@ -22,9 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345726.md">中印边境又开打首曝死亡 两军高层正急谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345970.md">鱼都疯了？各地的鱼都纷纷跳出水面 会地震吗？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346020.md">北京疫情暴增106例 中专家甩锅欧美 店家被逼讲实话？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345703.md">谁还敢来北京！返京列车一人坐一节车厢(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345704.md">天灾示警！老天是想把整个国淹掉吗？(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200617/1345953.md">〖兲朝浮世绘〗所有在美国的中共党员们颤抖吧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,10 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346175.md" target="_blank">口罩戴不完！专家教最佳保存法　一招测试还有没有防护力</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346174.md" target="_blank">世卫替三文鱼站排  北京疫情感染源扑朔迷离</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346173.md" target="_blank">华夏承载的巨大压力亟待释放——地震预警?</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346172.md" target="_blank">【微博精粹】美《终结中国共产党公民法》上路 藏美的党员战抖了(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346170.md" target="_blank">「开城工业区」恐成下一摧毁目标  美国欧盟吁朝鲜勿再挑衅破坏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346163.md" target="_blank">疫情升级！北京中小学关闭 航班大规模取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346162.md" target="_blank">中印边境冲突印度增至20死 美国务院呼吁和平解决争端</a></li>
@@ -116,10 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346044.md" target="_blank">程晓容：世卫称北京疫情是“重大事件” 警告意味明显 (图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346034.md" target="_blank">张林：武汉引领了第一波全球疫情 北京想要引领全球第二波疫情(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346029.md" target="_blank">天文奇景“日环食”错过再等195年(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346016.md" target="_blank">正本清源 川普政府推新规整顿“美国之音”等媒体</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346006.md" target="_blank">美中西太平洋博弈 美国盟友处境尴尬(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346000.md" target="_blank">美国10大武器制裁中共 美元是其中之一</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345999.md" target="_blank">太缺钱？中共向电商开刀 要求自查三年补税</a></li>
 
 </ul>
 </div>
