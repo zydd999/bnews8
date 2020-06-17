@@ -4,7 +4,6 @@
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345680.md">北京医生：病毒或2周后大爆发 上面已下了死命令(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345729.md">中印激烈冲突印军3死中方5死</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345640.md">中印若交战 美研究：中共解放军不敌印军(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345673.md">重磅！美国考虑制裁所有中共政治局委员及家属(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345847.md">北京半军管 封口医护界 “北京下死令 军方全面遭殃 新发地疫情涉及上百万人”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345746.md">没跑！一勺烩！美要制裁所以中共高层和家属 习近平生日失踪逃离北京？</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345970.md">鱼都疯了？各地的鱼都纷纷跳出水面 会地震吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345703.md">谁还敢来北京！返京列车一人坐一节车厢(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345704.md">天灾示警！老天是想把整个国淹掉吗？(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200617/1345953.md">〖兲朝浮世绘〗所有在美国的中共党员们颤抖吧</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346167.md" target="_blank">北京新发地被封前后 官方民间不同调(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346166.md" target="_blank">张抗抗怒怼脑残 连骂了19个脏字微博被封 郭于华告别微博(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346157.md" target="_blank">北京疫情扩至9区3省 28社区封闭式管理(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346155.md" target="_blank">朝鲜炸联络办 引美国出洞 北京借此增加谈判筹码(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346154.md" target="_blank">中共对台新战略 ：不战而屈人之兵(图)</a></li>
@@ -56,8 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346055.md" target="_blank">悲剧！河北一家三口先后跳楼 疑高利贷致祸(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346038.md" target="_blank">组图：北京疫情升级 地铁枢纽高峰期几乎无人 往日拥挤的西二旗站警察比行人多(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md" target="_blank">频繁向美国屈膝 中共已走投无路？(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346030.md" target="_blank">“两会”代表千里投毒?瘟疫恐惧笼罩中南海(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346026.md" target="_blank">港版国安法：大常委会周四开会 法工委加速制定恶法工作(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346170.md" target="_blank">「开城工业区」恐成下一摧毁目标  美国欧盟吁朝鲜勿再挑衅破坏</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346163.md" target="_blank">疫情升级！北京中小学关闭 航班大规模取消</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346162.md" target="_blank">中印边境冲突印度增至20死 美国务院呼吁和平解决争端</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346113.md" target="_blank">供应链重组趋势扩大 日本半导体企业拟撤出中国</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346006.md" target="_blank">美中西太平洋博弈 美国盟友处境尴尬(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346000.md" target="_blank">美国10大武器制裁中共 美元是其中之一</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345999.md" target="_blank">太缺钱？中共向电商开刀 要求自查三年补税</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1345991.md" target="_blank">叛国罪 俄科学家遭控将潜舰机密交中国(图)</a></li>
 
 </ul>
 </div>
