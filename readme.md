@@ -2,7 +2,6 @@
 <h3>24小时热点禁闻</h3>
 <ul>
 <li><b><a href="64photo" target="_blank">六四图片</a></b></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200616/783446.md">北京新发地的恐怖内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345680.md">北京医生：病毒或2周后大爆发 上面已下了死命令(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345729.md">中印激烈冲突印军3死中方5死</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345566.md">李克强借口请辞习批准？杨洁篪将访美 赵立坚态度放软(图)</a></li>
@@ -12,9 +11,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345746.md">没跑！一勺烩！美要制裁所以中共高层和家属 习近平生日失踪逃离北京？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345580.md">传北京军队医院爆满 殡仪馆日日烧染疫尸体(图/4视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200616/1345778.md">史无前例！欧盟对中共开战 中共发购房补贴欲盘活楼市 中概股蜂拥 港股A股化成趋势</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345681.md">中共长征火箭又出事 北斗卫星发射中断(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345959.md">中印冲突印方升至20死 消息：中方43人伤亡(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345581.md">王沪宁为留后路要玩命一搏 中南海内斗第三层(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345748.md">中共高层避疫地玉泉山附近疫情引爆 大批警车如临大敌(图)</a></li>
@@ -25,6 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200616/1345726.md">中印边境又开打首曝死亡 两军高层正急谈</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345501.md">内幕 内部资料显示北京虚报疫情数据(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345575.md">恐北京效仿武汉 民众连夜“逃离”(图/4视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345814.md">葫芦里买的什么药？中共九官员罕见支持川普连任(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,9 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md" target="_blank">频繁向美国屈膝 中共已走投无路？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346030.md" target="_blank">“两会”代表千里投毒?瘟疫恐惧笼罩中南海(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346026.md" target="_blank">港版国安法：大常委会周四开会 法工委加速制定恶法工作(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346020.md" target="_blank">北京疫情暴增106例 中专家甩锅欧美 店家被逼讲实话？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345992.md" target="_blank">一线采访：新发地市场大 北京人忧疫情难控(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1345984.md" target="_blank">白云先生的至道学宫 ｜雷人咖啡?? 第七集</a></li>
@@ -55,9 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345738.md" target="_blank">风华正茂陷冤狱 哈医大原主治医生再遭绑架(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345737.md" target="_blank">北京疫情甩锅再出笑话 三文鱼原来是冒牌货(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345732.md" target="_blank">传韩正在美藏财31亿美元 美逾百议员提议制裁中共政治局委员及家属(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345727.md" target="_blank">新发地商户损失惨重 网传三文鱼老板痛哭失声(视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345720.md" target="_blank">中共公安部副部长孟庆丰被免职</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345719.md" target="_blank">北京疫情再次爆发 多地北京班线暂停 上海要求途径高风险区集中隔离(图)</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,8 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346034.md" target="_blank">张林：武汉引领了第一波全球疫情 北京想要引领全球第二波疫情(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346029.md" target="_blank">天文奇景“日环食”错过再等195年(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346016.md" target="_blank">正本清源 川普政府推新规整顿“美国之音”等媒体</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346006.md" target="_blank">美中西太平洋博弈 美国盟友处境尴尬(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200617/1346000.md" target="_blank">美国10大武器制裁中共 美元是其中之一</a></li>
@@ -118,8 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345878.md" target="_blank">日歌手米希亚总决赛惨败  大陆节目《歌手.当打之年》被爆造假</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345836.md" target="_blank">人眼睛看不见的就是不存在的吗？科学家：还有很多看不见</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345827.md" target="_blank">疫情打乱计划  2021奥斯卡被迫推迟颁奖</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345826.md" target="_blank">时事大家谈：美中筹划高级会晤 华盛顿与北京谁更希望稳住美中关系</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200616/1345810.md" target="_blank">丝瓜炒面筋 清热解暑 清爽可口</a></li>
 
 </ul>
 </div>
