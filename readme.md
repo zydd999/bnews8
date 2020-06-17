@@ -24,7 +24,7 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200617/1345978.md">高清大图 罕见蒋公宋美龄蒋经国照片(图集)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346031.md">频繁向美国屈膝 中共已走投无路？(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/fanqiang/20200616/1345793.md">翻墙看新闻会被抓吗？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200616/1345720.md">中共公安部副部长孟庆丰被免职</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346086.md">役情最前线：疫情卷土重来 北京人连夜出逃(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346234.md" target="_blank">美国加强印太地区军事部署和训练 重申保护台湾民主自由(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346223.md" target="_blank">黄万里：三峡大坝最终结局会是这样(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346222.md" target="_blank">异象频发 中国多地现“鱼腾”奇景(图/5视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346221.md" target="_blank">灾难不断 四川两县发生泥石流 3失踪疏散5千余人(图)</a></li>
@@ -57,13 +58,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346085.md" target="_blank">天亮时分：人民日报这句话暗示，杨洁篪与蓬佩奥注定谈崩；中共高层的分裂将因此加剧；中印冲突不会升级的三个理由（政论天下第182集 20200616）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346074.md" target="_blank">测试台湾的反应？中共军机8天3闯防空识别区(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346073.md" target="_blank">武吓又来 央视每天播“八二三炮战”(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200617/1346072.md" target="_blank">风险等级上升 北京中小学关闭 航班取消40% 有人慌恐：再不走就真的走不掉了！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank">图片新闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1346231.md" target="_blank">习近平决策中印边界混战 开战！中共飞弹不够用两天 中共孤立 印度交好结盟4强国</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1346152.md" target="_blank">朝鲜炸联络办 金与正施压韩国 撒疯给美国看 北京借此增加谈判筹码(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1346151.md" target="_blank">中共软化立场？中共放风港版国安法推迟到7月(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200617/1346070.md" target="_blank">羡慕嫉妒恨！ 李家超：有人约见外国政要 特区官员也约不到 (图)</a></li>
@@ -88,7 +89,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345118.md" target="_blank">1992年洛杉矶暴动 韩国人纷纷开枪自卫 从此无人敢招惹他们（图集/视频）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345099.md" target="_blank">习近平求川普手下留情 “习近平很矛盾 内部争得很厉害 习近平忽软忽硬 优柔寡断”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345098.md" target="_blank">美金融大鳄：香港即将经历一场最凶险 全世界从未发生过的金融危机(图/视频)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200615/1345004.md" target="_blank">牛！城管局长一言不合 用挖掘机拆倒学校大门(图/视频)</a></li>
 
 </ul>
 </div>
