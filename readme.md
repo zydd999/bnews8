@@ -6,14 +6,13 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348555.md">三峡大坝溃坝多可怕？一天内冲毁南京(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348709.md">落马副省长先后与46位情妇洗“鸳鸯浴”(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348747.md">官媒紧急警告：重庆綦江8小时内将出现1940年以来最大洪水！(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348484.md">三峡大坝/ “十分危急 每天都在惶恐中” 其实拆起来不费吹灰之力</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348498.md">惊人的中共高官特权 专家：只有一招能解三峡危局(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348645.md">被批最大奸臣 曾庆红小圈子露面(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348732.md">形势大变！中印离开枪有多远？习近平下一步怎么做？俄罗斯向中共背后猛插一刀</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348735.md">北京疫情超想像传中央震怒 专家：秋冬更严峻(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200622/1348657.md">金与正「轰炸令」震惊全球！卫星照却翻转真相…(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200622/1348494.md">财政破产：中共掘地三尺再割韭菜(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348866.md">北京疫情可控?3张图触目惊心 百事可乐爆群聚感染产品带毒？“无症状感染愈后易复阳”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/finance/20200622/1348494.md">财政破产：中共掘地三尺再割韭菜(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348785.md">金正恩出事？金与正掌权朝鲜 中国门前俄大阅兵晒超级武器 三峡水位超2米 大暴雨持续5天</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/worldnews/20200622/1348568.md">金正恩欢乐列车大揭密！曝「5大癖好」…学校抓少女直送平壤(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348775.md">专家：三峡若溃坝中共后备军全灭 南京上海也难幸免</a></li>
@@ -23,8 +22,9 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348867.md">事出反常必有妖 三峡大坝修建争议内幕：胡温不愿背锅(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348558.md">要风得风 要雨得雨 内幕：曾庆红儿子悉尼购置改造豪宅详情(组图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200622/1348754.md">川普竞选 中南海干砸大事 南海入口美三航母剑指中共 敏感时期 曾庆红现身...</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348675.md">中共搜集7亿男性DNA 国际引争议(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348620.md">“不敢开了” 北京餐馆频爆群聚感染 专家：疫情规模乘10都不止</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348675.md">中共搜集7亿男性DNA 国际引争议(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200622/1348499.md">大暴雨将持续5天 大陆十多省市面临威胁(图)</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -127,31 +127,31 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/bikan/" target="_blank">必看经典好文</a><span><a href="https://github.com/fqnews/bnews/blob/master/bikan/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200523/1333231.md" target="_blank">比尔盖茨的“真面目”：美国娱乐至死的奶嘴乐计划！(图集)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200620/1347687.md" target="_blank">数据说话 铁的事实 越亲共 中共肺炎疫情越严重(多图表)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
