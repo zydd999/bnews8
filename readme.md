@@ -6,25 +6,25 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200712/1359707.md">中国房地产信号！恍如隔世 北京二手房大跌 业主赔百万 川普两招用到底 中共死翘翘</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200713/1359855.md">阎丽梦现身证明3件大事 美众院再要谭德塞作证 没招!北京崩溃女密接找不完</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200712/1359836.md">三峡大坝危！当局要出绝招 武汉危矣？长江已成悬江 一天两震 接近三峡库区</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200712/1359695.md">溃坝倒数？三峡大坝水位飙破…下游居民恐慌</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200713/1359903.md">班农再出爆炸新闻：多名中国科学家叛逃，正与FBI和军情五处合作；和对闫丽梦多次鉴定的美国专家访谈：证据真实性分析。</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200712/1359729.md">三峡大坝吹哨人：快跑！正勒腰带，习近平又撒币了！中美夏威夷会谈无果？后果很大！（第330集/2020/06/18）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1359900.md">触目惊心！中储粮直属库再曝“硕鼠”事件</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1360032.md">三峡大坝被判死刑？官媒：已经尽力了</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200712/1359808.md">开战?共军轰6爆挂弹切近台湾 美议员:对中共最严厉惩罚是… 法牵头反制 欧盟或入联盟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200712/1359740.md">陈全国祭旗，川普迈开第二步！闫丽梦爆重磅，王毅紧急放软求和？总误判师习近平，又误判了（第342集/2020/07/10）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1360032.md">三峡大坝被判死刑？官媒：已经尽力了</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200713/1359906.md">洪水滔天 习近平发声 恐全面脱贫落空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200713/1359986.md">FBI局长：面对中共威胁 我发现有一件事最鼓舞人心 我从未见过</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1359921.md">天亮时分：美国务院史无前例警告,一连串制裁中共大招即将登场;大洪水后,警惕瘟疫与粮荒(政论天下第197集 20200712)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/headline/20200713/1359906.md">洪水滔天 习近平发声 恐全面脱贫落空</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200713/1360017.md">大陆公安正在进行一个全国性行动？太阳城总裁辟谣意外爆料</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1359921.md">天亮时分：美国务院史无前例警告,一连串制裁中共大招即将登场;大洪水后,警惕瘟疫与粮荒(政论天下第197集 20200712)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200713/1359879.md">〖兲朝浮世绘〗习近平处处cosplay毛魔，不知道这次地震后习怕不怕？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200712/1359718.md">庚子年大凶 唐山大地震刷屏 中美科技战略脱钩 全球抉择 李嘉诚作难 让中共西方不满意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1359940.md">陆大雨下不停！河面惊见「天然鸳鸯锅」 空拍画面超壮观</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200712/1359718.md">庚子年大凶 唐山大地震刷屏 中美科技战略脱钩 全球抉择 李嘉诚作难 让中共西方不满意</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200712/1359704.md">恐被美禁入境留学生：回中国是恶梦</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359880.md">中国病毒专家逃美 曝光中共病毒疫情内幕 震动中南海 习近平连打四通电话到白宫 中南海谣言预言_214</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200712/1359456.md">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200712/1359460.md">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1359942.md">美媒：美不欲损港金融地位 制裁措施或针对...</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bannedvideo/20200713/1359886.md">快评：唐山地震天人感应北京政坛要剧变？美国安顾问急赴巴黎联欧抗中、中伊要签全面合作协议邪恶轴心国在形成（7/12）</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -33,6 +33,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank">中共禁闻</a><span><a href="https://github.com/fqnews/bnews/blob/master/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1360060.md" target="_blank">班农:武汉实验室专家已逃欧洲 中共犯罪证据被移交</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1360143.md" target="_blank">美国会领袖：全球联手围剿 中共无法抵御</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1360142.md" target="_blank">班农：出逃科学家不止一个 武汉病毒事件形同“蓄意谋杀”</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1360107.md" target="_blank">大饥荒重演？她抓包粮仓竟藏筛下物碎渣…怒吼中国人吃草吧</a></li>
@@ -57,7 +58,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200713/1359873.md" target="_blank">福建工厂骇人爆炸 黑烟遮天 当局声称2人失踪</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200712/1359819.md" target="_blank">台湾能吃“和平红利”吗？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200712/1359812.md" target="_blank">许章润教授据信获释 “情况安好”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 
 </ul>
 </div>
@@ -95,6 +95,11 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360165.md" target="_blank">传北京大兴红门村染疫者交30块钱可进出 村民怒了！（视频）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360164.md" target="_blank">香港爆发第三波疫情 专家：病毒突变感染力更强 医疗系统恐崩溃</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360163.md" target="_blank">中共广电总局20条禁令疯传  中国网友崩溃  杜汶泽开炮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360156.md" target="_blank">【老岳闲话】谁是最可怕的人？(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360151.md" target="_blank">香港美商会：30%企业考虑中长期撤港</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360140.md" target="_blank">为什么酒店的油菜炒菌菇好看又好吃？掌握了技巧 油菜翠绿 蘑菇鲜美</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360126.md" target="_blank">21岁大儿子娶大四岁女星  贝克汉姆「替你们感到开心」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360114.md" target="_blank">日本最新女演员人气排行榜大洗牌  2020由她登冠军宝座</a></li>
@@ -115,11 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1360008.md" target="_blank">长江已成悬江 三峡水库全力泄洪加剧洪灾泛滥 武汉恐遭灭顶之灾 当局拟动用最后一招 29米洪峰2至3天内抵达武汉 江西14座水坝决堤 发布最高洪灾预警 进入战时状态 鄱阳湖流域恐发生大洪水</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359998.md" target="_blank">医生说过的最可怕的“金句”：我们尽力了！如今三峡也已经“尽力”了……</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359997.md" target="_blank">【微博精粹】今天闫丽梦出逃 明天可能是习明泽 像斯大林女儿那样</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359996.md" target="_blank">袁斌：闫丽梦证实北京错失20天疫控黄金期 中共罪责难逃</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359994.md" target="_blank">洪水滔天 官媒被批淡化 习近平发声话中有话？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359993.md" target="_blank">九张图，让您领略“轻型皮卡之最”：2021福特F-150</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359973.md" target="_blank">王赫：庚子年半 大陆主流民意抛弃中共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359972.md" target="_blank">清川：天下没有无妄之灾</a></li>
 
 </ul>
 </div>
@@ -127,31 +127,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
