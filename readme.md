@@ -10,7 +10,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363621.md">习近平妻子彭丽媛险遭暗杀 中南海谣言预言_221</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363688.md">央视主持人朱军遮羞布刚被扯下 如今妻子也被爆出丑闻！</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363507.md">李克强又发对习不满言论？疑王沪宁让删</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20200720/1363471.md">“溶栓高手”被发现 不是木耳跟洋葱 敞开喝 血管悄悄变干净</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200720/1363667.md">伐中共 美国防部长1句话绝了 敏感时刻 香港现震撼一幕 孟晚舟要凉？中共口风大变</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200721/1363773.md">新疆防疫一夜封城 官员夸下海口 知情人爆恐怖内幕</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200721/1363755.md">台媒：北戴河会议前夕酝酿争夺接班人大战</a></li>
@@ -21,10 +20,11 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200720/1363545.md">许章润获释后首发声：极权必败 官员只待弃舟</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200720/1363585.md">中共女主播扯洪灾是错觉 网怒：把CCP干死在南海 </a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20200720/1363676.md">三峡大坝狂泄 内部消息4个字 中央光说不练 地方消极应对 长江洪水创新高破66年纪录</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363647.md">李克强遭王沪宁封杀 在“自留地”发声 中南海分裂内斗公开化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200721/1363810.md">天亮时分：中共末日逃生计划一夜夭折；算一算二十年来,中共洗了多少钱到海外； 评美国国务院最新声明;(政论天下第201集 20200720)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363647.md">李克强遭王沪宁封杀 在“自留地”发声 中南海分裂内斗公开化</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363677.md">元老想和他谈一谈 习近平可能不想去北戴河了？</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/baitai/20200721/1363806.md">颜纯鈎：中国正在加速酝酿大变</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cnnews/20200720/1363514.md">幸运逃离中国 王东一家人揭中共罪恶</a></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="https://github.com/fqnews/bnews/blob/master/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -95,6 +95,7 @@
 <div class="catlist">
 <h3><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank">新闻评论</a><span><a href="https://github.com/fqnews/bnews/blob/master/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363986.md" target="_blank">「桃姐」直触心底善良  香港名导许鞍华获威尼斯影展终身成就奖</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363984.md" target="_blank">曾被迫换角大哭却得后福  杨谨华「老天爷帮我做的安排」</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363973.md" target="_blank">彭博评比全球75经济体  台湾抗疫居冠</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363969.md" target="_blank">国安法致“寒蝉”银行自审敏感账户 黄之锋5位数汇款被查询</a></li>
@@ -119,7 +120,6 @@
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363843.md" target="_blank">揭秘退出共产组织的深层真相(图)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363841.md" target="_blank">颜纯钩：中国正在加速酝酿大变 中共落水已近没顶</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363838.md" target="_blank">阻欧盟禁华为中国恐报复诺基亚</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200721/1363819.md" target="_blank">中国股市上涨之际 外资大规模撤离</a></li>
 
 </ul>
 </div>
@@ -127,31 +127,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
 <li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视频，组图）</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200620/1347687.md" target="_blank">数据说话 铁的事实 越亲共 中共肺炎疫情越严重(多图表)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="https://github.com/fqnews/bnews/blob/master/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
