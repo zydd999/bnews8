@@ -156,5 +156,3 @@
 
 </ul>
 </div>
-
-![](https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/1.png)
