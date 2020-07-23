@@ -1,14 +1,15 @@
+![](https://raw.githubusercontent.com/fqnews/bnews/master/64photo/fqnews-qr.jpg)
+
 <div id="tt">
 <h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a></h3>
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200722/1364641.md">重磅！川普勒令中领馆关门 什么信号？要开战？什么原因？人民币跌穿7</a></li>
-<li><a href="/cbnews/20200722/1364589.md">中美关系有多糟？中共驻美大使崔天凯诡辩认了：现在连对话都没有</a></li>
 <li><a href="/cbnews/20200722/1364779.md">关闭中领馆 蓬佩奥说话了！章家敦：崔天凯刚被抓现行...</a></li>
 <li><a href="/cbnews/20200722/1364606.md">川普“灭共”加快节奏 崔天凯泄露中共恐慌</a></li>
-<li><a href="/topimagenews/20200722/1364774.md">习近平发出信号？计划经济？ 中国经济日渐逼近“雷曼时刻” 印度拟限制涉共军企业7巨头</a></li>
 <li><a href="/topimagenews/20200722/1364699.md">白宫不费吹灰力 中共真怕了 习近平现身与李克强又分歧? “川普量身定制解体中共分两步”</a></li>
+<li><a href="/topimagenews/20200722/1364774.md">习近平发出信号？计划经济？ 中国经济日渐逼近“雷曼时刻” 印度拟限制涉共军企业7巨头</a></li>
 <li><a href="/headline/20200722/1364604.md">无预警中休斯敦领馆罕遭72小时限时走人 中国股市牛颈断 北京如何报复至此未提</a></li>
 <li><a href="/cbnews/20200723/1364990.md">关闭领事馆意味着什么？中共总领事在机场干了些什么？</a></li>
 <li><a href="/cbnews/20200722/1364625.md">揭秘:周永康背负开枪屠杀300人血案 传亲自监斩杨佳</a></li>
@@ -26,6 +27,7 @@
 <li><a href="/cbnews/20200723/1364911.md">文昭：休斯敦中领馆被关，41年未有之巨变！还有更刺激的、川普「惊涛掌」三掌必发</a></li>
 <li><a href="/cbnews/20200723/1364869.md">大连突爆疫情 大连湾水产品市场关闭 当局升级防控风险</a></li>
 <li><a href="/comments/20200723/1365020.md">驻休斯顿领馆是共谍“司令部” 袁弓夷爆有人向美投诚</a></li>
+<li><a href="/cnnews/hknews/20200723/1365036.md">中美紧张 美军运输机来港2小时 撤走领事馆重要文件及人员</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -128,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生（组图）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了(图)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 
 </ul>
 </div>
