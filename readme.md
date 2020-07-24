@@ -23,11 +23,11 @@
 <li><a href="/worldnews/usa/20200723/1365163.md">向谁加压? 中国学者一片中国吞休斯敦羞辱之声</a></li>
 <li><a href="/baitai/20200723/1365062.md">杭州失踪女子已找到：尸体在小区化粪池</a></li>
 <li><a href="/comments/20200724/1365362.md">任志强被开除党籍 官方通报主要四宗罪 网络炸锅</a></li>
+<li><a href="/cnnews/20200724/1365394.md">传习李之争涉接班人问题 陈敏尔已出局</a></li>
 <li><a href="/cnnews/20200723/1365086.md">习近平李克强各开各会 中共对经济真没招了</a></li>
 <li><a href="/cbnews/20200723/1365093.md">德媒证实一个长达90年的猜测：这个魔鬼是被有意送到了俄罗斯…</a></li>
 <li><a href="/cnnews/20200723/1365079.md">美关闭休斯顿中领馆 华人怎么说</a></li>
 <li><a href="/cbnews/20200723/1365189.md">英国允3百万港人移民… 中共拟祭这招留人质</a></li>
-<li><a href="/comments/20200723/1364952.md">美令关闭中领馆 中学者惊呼 美驻中前大使：责任在习近平</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200724/1365475.md" target="_blank">美国酝酿打击中共新预案 着名民运人士谈退党自我救赎</a></li>
+<li><a href="/comments/20200724/1365462.md" target="_blank">古代母亲一家书 解决人生三困境(图)</a></li>
+<li><a href="/comments/20200724/1365457.md" target="_blank">美电子云供应商遭骇客袭击  英七所大学和人权观察网站数据失窃</a></li>
+<li><a href="/comments/20200724/1365456.md" target="_blank">婚姻中“这山望着那山高”，会两头落空，抱憾终生！</a></li>
 <li><a href="/comments/20200724/1365448.md" target="_blank">内循环也要开放？中共取消外资所有持股限制</a></li>
 <li><a href="/comments/20200724/1365442.md" target="_blank">中国经济增长数据与实际不符引质疑</a></li>
 <li><a href="/comments/20200724/1365441.md" target="_blank">中国科创板迎来第一批减持 最高减14%</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20200723/1365346.md" target="_blank">买车必看！5年内维护费用最低的亲民版四门轿车</a></li>
 <li><a href="/comments/20200723/1365313.md" target="_blank">【杜耀明评论】七二一恐袭事件欲盖弥彰　谎言政治令人更讨厌政府</a></li>
 <li><a href="/comments/20200723/1365309.md" target="_blank">真是祸从天降！1888年人类史上第一个被陨石砸死的人</a></li>
-<li><a href="/comments/20200723/1365288.md" target="_blank">疑半官方三峡溃坝预演视频曝光 一线防汛人员析内情（视频）</a></li>
-<li><a href="/comments/20200723/1365282.md" target="_blank">善用金字塔原理 写出有逻辑的文章(组图)</a></li>
-<li><a href="/comments/20200723/1365271.md" target="_blank">瞒天过海 中共是怎样将10万亿美元洗钱到海外的？(图)</a></li>
-<li><a href="/comments/20200723/1365269.md" target="_blank">香港歌手何弘轩母亲确诊恶化 隔离直播失声哭泣“很担心”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">数据说话 铁的事实 越亲共 中共肺炎疫情越严重(多图表)</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍(图)</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 
 </ul>
 </div>
