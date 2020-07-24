@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20200724/1365451.md">军装照流出！藏在旧金山领事馆的中共女军医长这样...</a></li>
-<li><a href="/bannedvideo/20200724/1365417.md">政论：习近平对美认怂不敢反制裁、不给王岐山面子要严惩任志强、旧金山中领馆或被强令关闭（7/23）</a></li>
 <li><a href="/baitai/20200724/1365486.md">习蠢货招架不住一连串的制裁</a></li>
 <li><a href="/cbnews/20200724/1365717.md">中共对美国的“报复”令人匪夷所思</a></li>
 <li><a href="/comments/20200724/1365514.md">七常委忽争相露面 李克强被指用身体语言说实话</a></li>
 <li><a href="/cbnews/20200724/1365527.md">休斯敦中领馆被关事涉南海？美媒再曝重要细节</a></li>
 <li><a href="/cnnews/20200724/1365533.md">大多数不再沉默 全美爆发大规模挺川普游行</a></li>
-<li><a href="/topimagenews/20200724/1365745.md">中美建交48年最重要1天 “习近平不是注定要永远统治” 最新：看2天中美过几招了</a></li>
 <li><a href="/cnnews/20200724/1365611.md">想闹外交大笑话？中共驻休士顿总领事想在美国地盘上耍赖？</a></li>
+<li><a href="/topimagenews/20200724/1365745.md">中美建交48年最重要1天 “习近平不是注定要永远统治” 最新：看2天中美过几招了</a></li>
 <li><a href="/topimagenews/20200724/1365769.md">公安武警包围监视成都美领馆</a></li>
 <li><a href="/cnnews/20200724/1365699.md">无视美闭门令！中共领事馆正常营业 总领事呛：看会发生什么</a></li>
-<li><a href="/topimagenews/20200724/1365420.md">FBI约谈疑为解放军的签证持有人！美司法部：已3人被逮</a></li>
 <li><a href="/cbnews/20200724/1365739.md">中共驻休斯敦领馆拒绝关闭 网友：厚颜无耻 断水断电封门！</a></li>
 <li><a href="/cnnews/20200724/1365574.md">关闭领事馆风波 美被爆急送外交人员重返中国</a></li>
 <li><a href="/cnnews/20200724/1365598.md">特朗普：他呜咽着爬向隧道尽头 像狗一样地死了</a></li>
 <li><a href="/cbnews/20200724/1365615.md">任志强被开除党籍 网民：这绝对是福啊</a></li>
 <li><a href="/headline/20200724/1365595.md">据信中国即日宣布关闭美国一间领事馆 蓬佩奥：中国驻美外交官远多过美国驻华外交官</a></li>
+<li><a href="/cbnews/20200725/1365890.md">休斯顿中共总领事宣称不撤离 蓬佩奥回应</a></li>
 <li><a href="/topimagenews/20200724/1365801.md">习近平考察凸显粮食危机 逃!第二季投资流出超千亿 华为噩耗!法国变脸要淘汰</a></li>
 <li><a href="/cbnews/20200724/1365627.md">这步棋极具象征意义！休斯顿中领馆前身竟然是中华民国领馆</a></li>
 <li><a href="/cbnews/20200724/1365746.md">北京大买美农产品 川普：意义已经不大了</a></li>
 <li><a href="/baitai/20200724/1365818.md">美驻成都总领事华裔妻子在闭馆令前发文：大使需要丈夫继续待下去</a></li>
-<li><a href="/cbnews/20200725/1365890.md">休斯顿中共总领事宣称不撤离 蓬佩奥回应</a></li>
 <li><a href="/health/20200724/1365510.md">瞒了国人30年的骗局：软化血管 都是假的！专家揭开真相</a></li>
+<li><a href="/cnnews/20200724/1365612.md">安徽人怒了：“这次洪灾绝非只是天灾！”</a></li>
+<li><a href="/worldnews/usa/20200724/1365773.md">美中外交步步惊心 专家预测三步骤：驱逐 断交 开战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200725/1365957.md" target="_blank">中美实力对比最悬殊之处 及 化解中美矛盾的最好办法(图)</a></li>
+<li><a href="/comments/20200725/1365953.md" target="_blank">你知道吗？男人的嘴是家庭的风水</a></li>
+<li><a href="/comments/20200725/1365952.md" target="_blank">古人是怎样“宠爱妻子”的？三种境界值得今人学习</a></li>
 <li><a href="/comments/20200725/1365950.md" target="_blank">蓬佩奥重磅演讲后会见民运人士 魏京生：这是很大的鼓舞</a></li>
 <li><a href="/comments/20200725/1365907.md" target="_blank">藏匿于中领馆的中共学者已被逮捕</a></li>
 <li><a href="/comments/20200725/1365906.md" target="_blank">一个超大质量「怪物黑洞」消失100天又重现令科学家困惑不解</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200724/1365749.md" target="_blank">投资理财 是获得幸福的必修课(组图)</a></li>
 <li><a href="/comments/20200724/1365737.md" target="_blank">林志颖晒双胞胎儿子手持画作笑容灿烂</a></li>
 <li><a href="/comments/20200724/1365735.md" target="_blank">英美谴责俄测试反卫星武器“危害太空安全”</a></li>
-<li><a href="/comments/20200724/1365727.md" target="_blank">大连爆本土感染 进入战时状态 将检测19万人</a></li>
-<li><a href="/comments/20200724/1365720.md" target="_blank">澳洲ABC扭曲事实报导法轮功 煽动仇恨遭抗议</a></li>
-<li><a href="/comments/20200724/1365719.md" target="_blank">放任14岁李嫣喝酒 王菲教女惹网友热议</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容（组图）</a></li>
 
 </ul>
 </div>
