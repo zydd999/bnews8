@@ -7,10 +7,9 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200723/1365155.md">休斯顿中领馆被关 目前只是开场 是为明天高潮铺垫</a></li>
 <li><a href="/comments/20200723/1365146.md">习近平北戴河会前大动作严防政变 央视主持王小丫丈夫曹建明旧部被查 贾小刚升官后调离最高检 4个月后落马 贾小刚仕途获贾春旺提拔 贾春旺与刘云山是亲家</a></li>
-<li><a href="/comments/20200723/1365080.md">休斯顿中领馆内有人向美国投诚 中共总领事违规现场被抓 休斯顿中领馆是“间谍中心” 中南海谣言预言_225</a></li>
+<li><a href="/cnnews/20200724/1365451.md">军装照流出！藏在旧金山领事馆的中共女军医长这样...</a></li>
 <li><a href="/cbnews/20200723/1365140.md">北戴河酝酿接班人大战 胡春华陈敏尔二选一？</a></li>
 <li><a href="/topimagenews/20200723/1365348.md">习近平不去灾区跑这干嘛？ 惊爆中共拍美国政商性录像 三峡8孔泄洪 再创今年新高</a></li>
-<li><a href="/cnnews/20200724/1365451.md">军装照流出！藏在旧金山领事馆的中共女军医长这样...</a></li>
 <li><a href="/cnnews/20200723/1365150.md">中领馆烧的不是文件 是假美钞？</a></li>
 <li><a href="/cnnews/20200724/1365394.md">传习李之争涉接班人问题 陈敏尔已出局</a></li>
 <li><a href="/weiquan/20200723/1365340.md">遭强迫失踪4个半月的著名退休企业家&#12289;公众人物任志强因言获罪遭开除党籍并被正式抓捕</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/bannedvideo/20200724/1365417.md">政论：习近平对美认怂不敢反制裁、不给王岐山面子要严惩任志强、旧金山中领馆或被强令关闭（7/23）</a></li>
 <li><a href="/topimagenews/20200723/1365266.md">关领事馆意味什么?断交? 总领事被抓现行 川普要关更多 大日子就来了</a></li>
 <li><a href="/cbnews/20200723/1365156.md">休斯顿中领馆被关闭 犯了4宗罪！</a></li>
-<li><a href="/comments/20200724/1365362.md">任志强被开除党籍 官方通报主要四宗罪 网络炸锅</a></li>
-<li><a href="/worldnews/usa/20200723/1365163.md">向谁加压? 中国学者一片中国吞休斯敦羞辱之声</a></li>
-<li><a href="/bannedvideo/20200724/1365397.md">陈破空：副主席遭软禁？习近平斗不倒某常委。领事馆丑闻闹大了！陈全国漏了马脚</a></li>
 <li><a href="/topimagenews/20200724/1365420.md">FBI约谈疑为解放军的签证持有人！美司法部：已3人被逮</a></li>
-<li><a href="/cnnews/20200723/1365086.md">习近平李克强各开各会 中共对经济真没招了</a></li>
+<li><a href="/comments/20200724/1365362.md">任志强被开除党籍 官方通报主要四宗罪 网络炸锅</a></li>
+<li><a href="/bannedvideo/20200724/1365397.md">陈破空：副主席遭软禁？习近平斗不倒某常委。领事馆丑闻闹大了！陈全国漏了马脚</a></li>
+<li><a href="/worldnews/usa/20200723/1365163.md">向谁加压? 中国学者一片中国吞休斯敦羞辱之声</a></li>
 <li><a href="/cbnews/20200723/1365093.md">德媒证实一个长达90年的猜测：这个魔鬼是被有意送到了俄罗斯…</a></li>
 <li><a href="/cbnews/20200723/1365189.md">英国允3百万港人移民… 中共拟祭这招留人质</a></li>
-<li><a href="/cnnews/20200723/1365079.md">美关闭休斯顿中领馆 华人怎么说</a></li>
 <li><a href="/cbnews/20200724/1365404.md">南华早报：中共将关闭美国驻成都总领事馆</a></li>
+<li><a href="/baitai/20200724/1365486.md">习蠢货招架不住一连串的制裁</a></li>
 <li><a href="/headline/20200723/1365188.md">习近平敏感时刻讲话:一定要守住中共创立的伟大事业</a></li>
+<li><a href="/headline/20200723/1365149.md">蓬佩奥即日发表重大政策讲话：共产党中国与自由世界的未来</a></li>
+<li><a href="/headline/20200723/1365186.md">新冠疫苗适得其反？隐患已现（下）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200724/1365615.md" target="_blank">任志强被开除党籍 网民：这绝对是福啊</a></li>
 <li><a href="/cbnews/20200724/1365581.md" target="_blank">灾情惨重 安徽网民抱怨官方撤热搜</a></li>
 <li><a href="/cbnews/20200724/1365569.md" target="_blank">敏感时期中共启动电视宣传 “抗美”成重点 网民骂声连连</a></li>
 <li><a href="/cbnews/20200724/1365567.md" target="_blank">FBI在全美约谈有中共军方背景的签证者</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200723/1365160.md" target="_blank">中共驻休斯敦总领馆被关闭 官方回避间谍问题</a></li>
 <li><a href="/cbnews/20200723/1365156.md" target="_blank">休斯顿中领馆被关闭 犯了4宗罪！</a></li>
 <li><a href="/cbnews/20200723/1365140.md" target="_blank">北戴河酝酿接班人大战 胡春华陈敏尔二选一？</a></li>
-<li><a href="/cbnews/20200723/1365103.md" target="_blank">川普下令：增派联邦执法人员到芝加哥</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍(图)</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生（组图）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
