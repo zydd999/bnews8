@@ -17,17 +17,17 @@
 <li><a href="/comments/20200725/1366007.md">习近平在党内会议上一再要求李克强“摆正自己的位置” 习近平早期政坛履历官位级别高于同时期李克强的时间大约只持续了两年多一点 中南海谣言预言_227</a></li>
 <li><a href="/cbnews/20200725/1365981.md">文昭：成都美领馆关闭；旧金山中领馆认怂、交出间谍嫌犯，或引更多投诚；彭培奥发表历史性演说，天下大势系於一线！</a></li>
 <li><a href="/comments/20200725/1366110.md">习近平危险了！被贴上两个要命标签！习近平还能避免陪葬中共的命运吗？</a></li>
+<li><a href="/cnnews/20200725/1366176.md">中共驻休斯顿总领事馆中的花天酒地</a></li>
 <li><a href="/topimagenews/20200724/1365853.md">习近平考察透露重要信号 任志强被开除党籍网欢呼 休斯敦中领馆被关原因曝光</a></li>
 <li><a href="/topimagenews/20200725/1366028.md">禁止中共党员入境传闻疯传 蓬佩奥这么回复...</a></li>
-<li><a href="/cnnews/20200725/1366176.md">中共驻休斯顿总领事馆中的花天酒地</a></li>
 <li><a href="/cbnews/20200725/1366099.md">分析：美国捏著中共的“命门” 不怕事态升级</a></li>
+<li><a href="/cbnews/20200725/1366190.md">一旦中美开战你愿捐多少？网友回答亮了</a></li>
 <li><a href="/headline/20200725/1365889.md">四面楚歌的习近平又“穿上”一件外交“皇帝新衣”</a></li>
 <li><a href="/cbnews/20200724/1365842.md">三峡大坝溃坝预演视频热传 疑官方制作 谁放出来的? 湖北1314座水库濒极限</a></li>
 <li><a href="/ssgc/20200725/1365982.md">专栏 | 夜话中南海：习近平为何一再要求李克强“摆正自己的位置”？</a></li>
 <li><a href="/headline/20200724/1365864.md">任志强圈内好友质问：党不要你了，为什么就得入刑？</a></li>
-<li><a href="/cbnews/20200725/1366190.md">一旦中美开战你愿捐多少？网友回答亮了</a></li>
 <li><a href="/cnnews/20200725/1365961.md">邓颖超悍妇一面：殴打抓破周恩来盘查周舞伴</a></li>
-<li><a href="/comments/20200725/1365891.md">白宫警告中共：停止恶意行动！不要报复关闭美国驻成都总领馆</a></li>
+<li><a href="/cnnews/20200725/1366173.md">白宫警告中共不要进行针锋相对的报复 中共领馆烧的是…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200725/1366289.md" target="_blank">经典问题：换刹车片时，刹车盘要一起换吗？(视频)</a></li>
 <li><a href="/comments/20200725/1366277.md" target="_blank">时事大家谈：美国年轻新冠患者增加意味着什么？</a></li>
 <li><a href="/comments/20200725/1366276.md" target="_blank">时事大家谈：中国非常规测试新冠疫苗引发争议</a></li>
 <li><a href="/comments/20200725/1366273.md" target="_blank">三峡大坝危险之际 设计者郑守仁病亡</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200725/1366093.md" target="_blank">【一线采访】泄洪致灾民家园尽毁 民众谴责中共：必须赔偿</a></li>
 <li><a href="/comments/20200725/1366092.md" target="_blank">事业单位下岗 挫败不断袭来</a></li>
 <li><a href="/comments/20200725/1366086.md" target="_blank">小民之心：内部的坏人决定了中共性质 其中的普通人并非无辜</a></li>
-<li><a href="/comments/20200725/1366084.md" target="_blank">Yamy自曝遭遇职场PUA 带给我们的7点思考</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源（组图）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
