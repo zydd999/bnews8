@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20200725/1366176.md">中共驻休斯顿总领事馆中的花天酒地</a></li>
 <li><a href="/topimagenews/20200725/1366045.md">前所未有的信号！一天发生三件大事 美展现最强有力立场</a></li>
 <li><a href="/comments/20200725/1366007.md">习近平在党内会议上一再要求李克强“摆正自己的位置” 习近平早期政坛履历官位级别高于同时期李克强的时间大约只持续了两年多一点 中南海谣言预言_227</a></li>
-<li><a href="/topimagenews/20200725/1365879.md">快讯！美官员称藏匿于中共驻旧金山总领馆的研究员已被捕</a></li>
 <li><a href="/topimagenews/20200725/1366080.md">休斯顿中领馆人员限期前撤离 美官员破门而入 国务院人员驻守</a></li>
 <li><a href="/topimagenews/20200725/1365910.md">中共驻休斯顿领馆降旗 大门上锁</a></li>
+<li><a href="/cbnews/20200725/1366190.md">一旦中美开战你愿捐多少？网友回答亮了</a></li>
 <li><a href="/cbnews/20200725/1365981.md">文昭：成都美领馆关闭；旧金山中领馆认怂、交出间谍嫌犯，或引更多投诚；彭培奥发表历史性演说，天下大势系於一线！</a></li>
 <li><a href="/comments/20200725/1366110.md">习近平危险了！被贴上两个要命标签！习近平还能避免陪葬中共的命运吗？</a></li>
-<li><a href="/cbnews/20200725/1366190.md">一旦中美开战你愿捐多少？网友回答亮了</a></li>
 <li><a href="/cnnews/20200725/1366173.md">白宫警告中共不要进行针锋相对的报复 中共领馆烧的是…</a></li>
 <li><a href="/cbnews/20200725/1366099.md">分析：美国捏著中共的“命门” 不怕事态升级</a></li>
 <li><a href="/topimagenews/20200725/1366028.md">禁止中共党员入境传闻疯传 蓬佩奥这么回复...</a></li>
-<li><a href="/headline/20200725/1365889.md">四面楚歌的习近平又“穿上”一件外交“皇帝新衣”</a></li>
 <li><a href="/topimagenews/20200725/1366252.md">禁党员入境 蓬佩奥一锤定音 前中共外交官揭秘领馆烧什么！ 前所未有信号！1天3件大事</a></li>
+<li><a href="/headline/20200725/1365889.md">四面楚歌的习近平又“穿上”一件外交“皇帝新衣”</a></li>
 <li><a href="/ssgc/20200725/1365982.md">专栏 | 夜话中南海：习近平为何一再要求李克强“摆正自己的位置”？</a></li>
 <li><a href="/cnnews/20200725/1365961.md">邓颖超悍妇一面：殴打抓破周恩来盘查周舞伴</a></li>
-<li><a href="/comments/20200725/1365891.md">白宫警告中共：停止恶意行动！不要报复关闭美国驻成都总领馆</a></li>
-<li><a href="/cbnews/20200725/1366150.md">习近平考察吉林不止因粮食 更多领域有麻烦</a></li>
+<li><a href="/lifebaike/20200725/1366235.md">千万别放现金在家：华人35年血汗钱15分钟全没了</a></li>
+<li><a href="/topimagenews/20200725/1366241.md">中南海这1招 川普1句话灭掉 撤出中国 美资8成欧盟2/3 再撤！李嘉诚抛售成都优质地产</a></li>
+<li><a href="/baitai/20200725/1366166.md">杭州杀妻分尸男朋友圈曝光 曾晒一家三口合影</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200726/1366330.md" target="_blank">小轿车北美失宠，这些大品牌小车在明年将淡出</a></li>
 <li><a href="/comments/20200725/1366289.md" target="_blank">经典问题：换刹车片时，刹车盘要一起换吗？(视频)</a></li>
 <li><a href="/comments/20200725/1366277.md" target="_blank">时事大家谈：美国年轻新冠患者增加意味着什么？</a></li>
 <li><a href="/comments/20200725/1366276.md" target="_blank">时事大家谈：中国非常规测试新冠疫苗引发争议</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200725/1366094.md" target="_blank">国军“宁死不降” 揭开八年抗战真相(图)</a></li>
 <li><a href="/comments/20200725/1366093.md" target="_blank">【一线采访】泄洪致灾民家园尽毁 民众谴责中共：必须赔偿</a></li>
 <li><a href="/comments/20200725/1366092.md" target="_blank">事业单位下岗 挫败不断袭来</a></li>
-<li><a href="/comments/20200725/1366086.md" target="_blank">小民之心：内部的坏人决定了中共性质 其中的普通人并非无辜</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相(图/视频)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？(图)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">数据说话 铁的事实 越亲共 中共肺炎疫情越严重(多图表)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
 
 </ul>
 </div>
