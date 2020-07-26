@@ -22,12 +22,12 @@
 <li><a href="/cbnews/20200725/1366150.md">习近平考察吉林不止因粮食 更多领域有麻烦</a></li>
 <li><a href="/comments/20200725/1366218.md">陈敏尔北戴河会前接连出状况 接班人之争异常激烈？贵州独山400亿烂尾楼丑闻火爆网络 重庆又出事了！</a></li>
 <li><a href="/cbnews/20200725/1366121.md">江峰：中共关闭成都美领馆，直接开通美台恢复邦交快车；共谍唐娟深夜被旧金山领事馆推出门外遭逮捕；休斯顿领馆内锁大门，美执法人员破後门而入</a></li>
-<li><a href="/baitai/20200725/1366166.md">杭州杀妻分尸男朋友圈曝光 曾晒一家三口合影</a></li>
 <li><a href="/comments/20200726/1366354.md">纽约、东京上空的UFO舰队，是在应验英国通灵师帕克的预言？</a></li>
+<li><a href="/baitai/20200725/1366166.md">杭州杀妻分尸男朋友圈曝光 曾晒一家三口合影</a></li>
 <li><a href="/cbnews/20200725/1366148.md">遭举报「散播不实谣言颠覆国家罪」刘乐妍：录音档都放了谁造谣？</a></li>
 <li><a href="/cbnews/20200725/1366111.md">防不胜防 大连疫情扩大 蔓延至东北三省</a></li>
+<li><a href="/cbnews/20200726/1366364.md">网传视频：西安出现感染 北门一酒店被封</a></li>
 <li><a href="/comments/20200725/1366118.md">【要闻集粹】任志强被祭旗 延安整风血雨腥风开始 美国吹响灭共集结号</a></li>
-<li><a href="/cnnews/20200725/1366090.md">华为再受挫！新加坡、越南不再使用华为5G设备</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
