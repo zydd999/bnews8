@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20200725/1366252.md">禁党员入境 蓬佩奥一锤定音 前中共外交官揭秘领馆烧什么！ 前所未有信号！1天3件大事</a></li>
 <li><a href="/cbnews/20200726/1366360.md">这是蓄洪吗？安徽省府合肥都被淹成这样了</a></li>
 <li><a href="/bannedvideo/20200725/1366317.md">蔡霞为任志强辩护，批习末日疯狂 871</a></li>
 <li><a href="/topimagenews/20200725/1366320.md">中共报复真硬实软？放风求饶？开战？川普反共底线是什么？被弃女军医军装照流出！启示！</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/bannedvideo/20200726/1366372.md">陈破空：轰动！美国撤离成都总领馆，央视直播！习近平准备一件大事，暗中转移千万人</a></li>
 <li><a href="/comments/20200726/1366397.md">中美对抗的暴风雨真的更猛烈了(图)</a></li>
 <li><a href="/bannedvideo/20200725/1366313.md">快评：中共对全美邮寄不明物发动新一波生物战！北京智囊指篷佩奥演讲是战争授权南海会开打、唐娟等四人是犯罪团伙具有同一目的（7/25）</a></li>
-<li><a href="/yule/20200726/1366363.md">万梓良和周星驰决裂内幕：20年后星爷有心和解 大哥却放不下面子</a></li>
 <li><a href="/comments/20200726/1366410.md">中共统一台湾 已成黄粱一梦(图)</a></li>
+<li><a href="/yule/20200726/1366363.md">万梓良和周星驰决裂内幕：20年后星爷有心和解 大哥却放不下面子</a></li>
 <li><a href="/ssgc/20200725/1366267.md">俄罗斯不敢的 中国敢</a></li>
 <li><a href="/comments/20200726/1366418.md">美驻成都总领馆关闭 领事夫人的微博评论区也炸锅了</a></li>
 <li><a href="/cbnews/20200726/1366406.md">传外地医疗队支援大连 核酸检测排队爆冲突 现恐慌抢购</a></li>
 <li><a href="/yule/20200726/1366422.md">49岁窦唯罕见现身餐厅大变样 孤独等上菜</a></li>
-<li><a href="/headline/20200726/1366344.md">中国指责美方不当进入休斯敦领事馆</a></li>
 <li><a href="/bannedvideo/20200726/1366379.md">休斯顿中领馆为何遭关闭| 真相传媒</a></li>
+<li><a href="/headline/20200726/1366344.md">中国指责美方不当进入休斯敦领事馆</a></li>
 <li><a href="/baitai/20200725/1366316.md">杭州女子失踪被害：丈夫处理遗体前支开了小女儿</a></li>
+<li><a href="/worldnews/usa/20200726/1366369.md">美方强行进入中国总领馆  北京：强烈不满</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200726/1366493.md" target="_blank">法轮功创造的生命奇迹</a></li>
 <li><a href="/cbnews/20200726/1366520.md" target="_blank">中共在雷州半岛实弹演习 美军机再飞南海</a></li>
 <li><a href="/cbnews/20200726/1366519.md" target="_blank">震惊！武汉病毒所与巴基斯坦军方签「秘密协议」 曝光：扩大生物战能力</a></li>
 <li><a href="/cbnews/20200726/1366518.md" target="_blank">美军新一代攻击侦察直升机 寻求隐身能力</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200726/1366360.md" target="_blank">这是蓄洪吗？安徽省府合肥都被淹成这样了</a></li>
 <li><a href="/cbnews/20200726/1366350.md" target="_blank">美国政府批准 放宽武装无人机出口限制</a></li>
 <li><a href="/cbnews/20200725/1366265.md" target="_blank">美国思想领袖：美国战略集团总裁 布莱恩•肯尼迪：中共放任病毒在全球传播不是偶然！香港人被中共蚕食的自由与南中国海的真相；如何推翻中共防火墙；美国企业回迁中共还有筹码？ |  大纪元</a></li>
-<li><a href="/cbnews/20200725/1366227.md" target="_blank">三峡疑开启9孔泄洪 出库流量再创今年新记录</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200726/1366626.md" target="_blank">刘乐妍呼救“湖北人太惨了”遭举报  帝吧超话主持人出面训话</a></li>
 <li><a href="/comments/20200726/1366562.md" target="_blank">或许根本不会发现人与人之间不再握手了</a></li>
 <li><a href="/comments/20200726/1366561.md" target="_blank">企业主再也不投资实业 新的一地鸡毛是否在热闹之后？</a></li>
 <li><a href="/comments/20200726/1366560.md" target="_blank">俄罗斯不敢的 中共敢“不甩”美国</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200726/1366428.md" target="_blank">中暑 中医有妙招</a></li>
 <li><a href="/comments/20200726/1366427.md" target="_blank">夏日炎炎  中暑了怎么办</a></li>
 <li><a href="/comments/20200726/1366426.md" target="_blank">热气难消 你可能中暑了</a></li>
-<li><a href="/comments/20200726/1366425.md" target="_blank">首先学会5种量体温方式 ，因为人类正常体温不再是37℃！</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
 
 </ul>
 </div>
