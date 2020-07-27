@@ -9,10 +9,9 @@
 <li><a href="/comments/20200727/1366751.md">任志强被深夜定罪内幕流出 习近平怒砸九云杯？</a></li>
 <li><a href="/comments/20200727/1366743.md">被美抓捕的中共女军官唐娟 网曝是江苏国安厅长情妇</a></li>
 <li><a href="/cbnews/20200727/1366723.md">首都师大：只准非洲黑人与中国女生进泳池</a></li>
-<li><a href="/cbnews/20200727/1366688.md">武汉恐将失守 网传青山大桥开闸放长江水入城</a></li>
 <li><a href="/topimagenews/20200727/1367042.md">震撼内幕!1亿中国人敢反共 习近平报复？他决定了 习连任无望？川普发信号</a></li>
-<li><a href="/cbnews/20200727/1366952.md">打脸习「中国梦」？李克强一番话惊爆中国惨经济</a></li>
 <li><a href="/topimagenews/20200727/1366805.md">川普团队成员曾预感自己死期将至！被暗杀名单大公开 阿桑奇维基揭秘牵涉其中….</a></li>
+<li><a href="/cbnews/20200727/1366952.md">打脸习「中国梦」？李克强一番话惊爆中国惨经济</a></li>
 <li><a href="/bannedvideo/20200727/1366873.md">任志强李克强“双强克习”？习近平突然宣布抵达小康，并警告李中堂：摆正自己位置！</a></li>
 <li><a href="/comments/20200727/1366717.md">马云被印度法院传唤 郭文贵：美国制裁中共党员 第一个就是马云</a></li>
 <li><a href="/cbnews/20200727/1366739.md">美国人真从成都总领馆撤走了 习近平关掉了自己的福地</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20200727/1366924.md">火力无与伦比！五架阵风战机将飞达印度 两架加油机伴随 导弹已提前交付</a></li>
 <li><a href="/topimagenews/20200727/1366794.md">比尔盖茨出场！川普派特工平暴乱 左派深层影子政府全体动员抵制</a></li>
 <li><a href="/health/20200727/1366932.md">颠覆传统！日本名医建议：想健康 就「不要跑步」</a></li>
+<li><a href="/lifebaike/20200727/1366845.md">【老照片】驻成都美领馆关闭华人流泪 谣传薄熙来听闻捶胸顿足</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200728/1367180.md" target="_blank">爱马仕丝巾戴出口罩时尚风 纽约名媛防疫也要美美的</a></li>
 <li><a href="/comments/20200728/1367175.md" target="_blank">她心里有你吗？这4个“没兴趣”，接收到一个就别再追了</a></li>
 <li><a href="/comments/20200728/1367174.md" target="_blank">富有人情味的日本教育，值得每一个人学习</a></li>
 <li><a href="/comments/20200728/1367168.md" target="_blank">章家敦：为保护美国 减少与中共的外交关联是最佳选项</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200727/1366920.md" target="_blank">大暑呆在冷气房  当心「空调不适应症」</a></li>
 <li><a href="/comments/20200727/1366919.md" target="_blank">天热补水，也要当心“水中毒”</a></li>
 <li><a href="/comments/20200727/1366918.md" target="_blank">为什么老人常说“夏不坐木，冬不坐石”？</a></li>
-<li><a href="/comments/20200727/1366917.md" target="_blank">夏天的西瓜很多人都用来当主食了，其实也有禁忌的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
 <li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容（组图）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍(图)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源（组图）</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
