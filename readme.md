@@ -24,10 +24,10 @@
 <li><a href="/comments/20200726/1366437.md">【独家】美国关中领馆、捉间谍 中共官员匿名表支持</a></li>
 <li><a href="/cbnews/20200726/1366516.md">美高官改称习总书记 不再称国家主席引热议</a></li>
 <li><a href="/bannedvideo/20200726/1366656.md">思芦：习近平性格的六个特点 872</a></li>
+<li><a href="/comments/20200727/1366719.md">北戴河会议敏感期 上海帮势力公开反习？批习近平任人唯亲？上海东方传媒集团副总裁：病毒美国非敌人 不能延续开放才是</a></li>
 <li><a href="/topimagenews/20200726/1366500.md">叙利亚突然炮轰以色列 以军闪电反击：5分钟后摧毁3座炮兵阵地</a></li>
 <li><a href="/cbnews/20200726/1366508.md">成都美领馆放鞭炮者 被揭是中共便衣 网友：共产党个个都是戏精 无耻的戏精</a></li>
 <li><a href="/ssgc/20200727/1366684.md">〖兲朝浮世绘〗内循环？习李不同调</a></li>
-<li><a href="/comments/20200726/1366424.md">中美互关领馆对掐，美大使：除了工作，还有诗和远方</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200727/1366777.md" target="_blank">见识水中巴士！司机和乘客都身怀绝技</a></li>
+<li><a href="/cbnews/20200727/1366776.md" target="_blank">长江第3号洪水来袭 重庆土石流堰塞湖溢坝</a></li>
+<li><a href="/cbnews/20200727/1366762.md" target="_blank">休斯顿中领馆窃密招人才 十年涉五十案</a></li>
+<li><a href="/cbnews/20200727/1366761.md" target="_blank">惨了！决堤向蒋口河联圩蓄洪区泄洪 安徽再一次被放弃</a></li>
 <li><a href="/cbnews/20200727/1366754.md" target="_blank">网友恶搞胡锡进：“中国究竟做错了什么？”</a></li>
 <li><a href="/cbnews/20200727/1366749.md" target="_blank">美化洪水外加卖萌党媒宣传翻车</a></li>
 <li><a href="/cbnews/20200727/1366739.md" target="_blank">美国人真从成都总领馆撤走了 习近平关掉了自己的福地</a></li>
@@ -57,16 +61,13 @@
 <li><a href="/cbnews/20200726/1366513.md" target="_blank">印尼海军进行4天演习 日媒：反对中共对南海主权的宣示</a></li>
 <li><a href="/cbnews/20200726/1366512.md" target="_blank">中共「千人计划」招募科技专家 疑窃取美疫情机密抢先攻入市场</a></li>
 <li><a href="/cbnews/20200726/1366511.md" target="_blank">关闭休斯顿中领馆 透露美对中政策一大转变</a></li>
-<li><a href="/cbnews/20200726/1366510.md" target="_blank">湖北恩施洪水又来了 冲走汽车 淹没楼房 水里还有人！</a></li>
-<li><a href="/cbnews/20200726/1366509.md" target="_blank">秦淮河堤坝内部已被挖空 或随时崩溃</a></li>
-<li><a href="/cbnews/20200726/1366508.md" target="_blank">成都美领馆放鞭炮者 被揭是中共便衣 网友：共产党个个都是戏精 无耻的戏精</a></li>
-<li><a href="/cbnews/20200726/1366507.md" target="_blank">“它们怕！”成都美领馆关闭后 中共恐吓异见群体莫发声</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200727/1366775.md" target="_blank">震惊！川普黑人支持者接受采访后不久被枪杀！</a></li>
 <li><a href="/topimagenews/20200726/1366657.md" target="_blank">三峡大坝撑不住？一片紫爆 9孔泄洪？三峡大坝创新记录 危!1号没走2号在路上3号形成了</a></li>
 <li><a href="/topimagenews/20200726/1366644.md" target="_blank">共军失控？习大校秘书指挥上将？大反转</a></li>
 <li><a href="/topimagenews/20200726/1366506.md" target="_blank">澳媒爆中共巴铁大搞生物战 视频爆西安现感染 官方没报 大连传封城 多省市爆出疫情</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20200724/1365769.md" target="_blank">公安武警包围监视成都美领馆</a></li>
 <li><a href="/topimagenews/20200724/1365745.md" target="_blank">中美建交48年最重要1天 “习近平不是注定要永远统治” 最新：看2天中美过几招了</a></li>
 <li><a href="/topimagenews/20200724/1365434.md" target="_blank">美参院通过国防授权法 支持台湾参与环太军演</a></li>
-<li><a href="/topimagenews/20200724/1365420.md" target="_blank">FBI约谈疑为解放军的签证持有人！美司法部：已3人被逮</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200727/1366782.md" target="_blank">李平：中共的打压与制裁不足畏 让它搬石头砸自己脚</a></li>
+<li><a href="/comments/20200727/1366781.md" target="_blank">陶杰：这世界 就是让钱搞坏了</a></li>
+<li><a href="/comments/20200727/1366780.md" target="_blank">长平：香港 别让烧书变成烧人</a></li>
+<li><a href="/comments/20200727/1366768.md" target="_blank">颜纯钩：中共统一台湾 已成黄粱一梦 共军之卵不敢击美军之石</a></li>
 <li><a href="/comments/20200727/1366758.md" target="_blank">Tesla销量在美国豪华车中增长最快！与汽车巨头的差距还有多少？</a></li>
 <li><a href="/comments/20200727/1366757.md" target="_blank">李江琳：中共眼里 台湾是海里的鱼 西藏是锅里的 香港在砧板上</a></li>
 <li><a href="/comments/20200727/1366756.md" target="_blank">二大爷：大不列颠 你这个浓眉大眼的也反了 这是对中共多大的仇？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20200727/1366696.md" target="_blank">英媒：中共贿赂只是诱饵 其目标是“侵害民主之基——诚信 ”</a></li>
 <li><a href="/comments/20200727/1366694.md" target="_blank">美国立国原则（八）：造物主给予每一个人生而俱来的权利(图)</a></li>
 <li><a href="/comments/20200727/1366683.md" target="_blank">美国家情报主任办公室：中俄等国正在破坏美国2020大选</a></li>
-<li><a href="/comments/20200727/1366664.md" target="_blank">汽车贴膜，越暗越好吗？需当心！这与法规和行车安全有关</a></li>
-<li><a href="/comments/20200726/1366626.md" target="_blank">刘乐妍呼救“湖北人太惨了”遭举报  帝吧超话主持人出面训话</a></li>
-<li><a href="/comments/20200726/1366562.md" target="_blank">或许根本不会发现人与人之间不再握手了</a></li>
-<li><a href="/comments/20200726/1366561.md" target="_blank">企业主再也不投资实业 新的一地鸡毛是否在热闹之后？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容（组图）</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 
 </ul>
 </div>
