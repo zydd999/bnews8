@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20200727/1367042.md">震撼内幕!1亿中国人敢反共 习近平报复？他决定了 习连任无望？川普发信号</a></li>
 <li><a href="/cbnews/20200728/1367170.md">内幕：中共军官机场被捕 行前删微信</a></li>
 <li><a href="/cbnews/20200728/1367298.md">"我要下令将你拘留" 中共女军官唐娟有逃跑风险 出庭后被继续羁押</a></li>
 <li><a href="/cbnews/20200728/1367281.md">北京响起空袭警报！中共营造与美国开战气氛 市民吐槽：一打就败</a></li>
 <li><a href="/bannedvideo/20200728/1367217.md">陈破空：感动！成都市民夹道送别美领馆。王沪宁密令播出这部老电影。美军瞄准土共人造岛？</a></li>
 <li><a href="/headline/20200728/1367224.md">《南风窗》文章被全网删除  讲了什么？</a></li>
-<li><a href="/topimagenews/20200727/1367132.md">三峡大坝溃坝预演视频竟是大忽悠 武汉传开闸放长江水入城 跑!三峡大坝淮河太湖狂泄洪</a></li>
 <li><a href="/cbnews/20200728/1367445.md">美国宣布制裁中共党员 蓬佩奥发重磅声明</a></li>
+<li><a href="/topimagenews/20200727/1367132.md">三峡大坝溃坝预演视频竟是大忽悠 武汉传开闸放长江水入城 跑!三峡大坝淮河太湖狂泄洪</a></li>
 <li><a href="/topimagenews/20200727/1367147.md">YouTube删三峡大坝视频 74%观众认阿波罗网品牌独特 申诉结果来了</a></li>
 <li><a href="/headline/20200728/1367221.md">谁在搅黄习近平的“中国梦”?</a></li>
 <li><a href="/topimagenews/20200727/1367053.md">中国经济新格局多惨?靠这里!维稳难!24省财政仅4例增 印度禁微信生效 还传唤马云</a></li>
@@ -20,11 +19,12 @@
 <li><a href="/cbnews/20200728/1367265.md">文昭：美机抵近上海156公里，沪紧急临战演习！中共战与和两条路线角力；胡锡进再呼「核威慑」意在急统台湾；巨大的历史盲区</a></li>
 <li><a href="/cbnews/20200728/1367310.md">成都美领馆关闭 男子举“习近平万岁”被抓</a></li>
 <li><a href="/cnnews/20200728/1367356.md">照片为证：林彪最后一次登上天安门 气氛非常诡异</a></li>
-<li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
 <li><a href="/cbnews/20200728/1367423.md">美国和中共打一仗会怎样？中国老百姓的回答令人震惊</a></li>
+<li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
 <li><a href="/topimagenews/20200728/1367408.md">“宋主任 我上呼吸机了 救救我” 他发出了生前最后一条信息</a></li>
 <li><a href="/cbnews/20200728/1367187.md">长江最大洪水过境重庆 淹没地标朝天门平台</a></li>
 <li><a href="/topimagenews/20200727/1367113.md">中共相信丛林法则 遇大克星 高官德女离奇死 意外牵江泽民 休斯顿中领馆窃密10年涉50案</a></li>
+<li><a href="/cbnews/20200728/1367509.md">中共军官唐娟出庭细节曝光 美检查官亮证据：不只是签证欺诈</a></li>
 <li><a href="/cbnews/20200728/1367311.md">战狼们乌鸦嘴美重击下 习近平无选择</a></li>
 <li><a href="/worldnews/usa/20200728/1367184.md">中美闭馆 风度很不一样</a></li>
 <li><a href="/topimagenews/20200728/1367337.md">针对这类中共官员！加拿大政要：我们将尽一切可能将你绳之以法</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200728/1367686.md" target="_blank">一了真能百了？别让最后一根稻草压垮你(组图)</a></li>
 <li><a href="/comments/20200728/1367616.md" target="_blank">【梁京评论】中国问题对美国的认知挑战</a></li>
 <li><a href="/comments/20200728/1367601.md" target="_blank">胡春华兼新职 外宣吹风顶掉李克强</a></li>
 <li><a href="/comments/20200728/1367574.md" target="_blank">一聚焦经济文章遭删除惹议 原中国民企老板称地位如私生子</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200728/1367420.md" target="_blank">5架法国新型飙风战机交付印度 近距离部署印中边境空军基地</a></li>
 <li><a href="/comments/20200728/1367418.md" target="_blank">逃入旧金山领馆躲避FBI抓捕的中共女军官唐娟 是江苏省公安厅厅长刘旸的情妇 两人私通多年 多次在国安部下属宾馆偷情 被美方跟踪并拍摄下视频 中南海谣言预言_230</a></li>
 <li><a href="/comments/20200728/1367407.md" target="_blank">新西兰中止与香港引渡协议 「五眼联盟」第四国</a></li>
-<li><a href="/comments/20200728/1367397.md" target="_blank">德国大众为VW柴油车的美国消费者，支付98亿美元和解金</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界 （上部）</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”(组图)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
