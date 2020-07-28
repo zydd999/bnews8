@@ -7,26 +7,26 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20200728/1367170.md">内幕：中共军官机场被捕 行前删微信</a></li>
 <li><a href="/cbnews/20200728/1367281.md">北京响起空袭警报！中共营造与美国开战气氛 市民吐槽：一打就败</a></li>
-<li><a href="/cbnews/20200728/1367445.md">美国宣布制裁中共党员 蓬佩奥发重磅声明</a></li>
 <li><a href="/cbnews/20200728/1367298.md">"我要下令将你拘留" 中共女军官唐娟有逃跑风险 出庭后被继续羁押</a></li>
+<li><a href="/cbnews/20200728/1367445.md">美国宣布制裁中共党员 蓬佩奥发重磅声明</a></li>
 <li><a href="/headline/20200728/1367224.md">《南风窗》文章被全网删除  讲了什么？</a></li>
 <li><a href="/bannedvideo/20200728/1367217.md">陈破空：感动！成都市民夹道送别美领馆。王沪宁密令播出这部老电影。美军瞄准土共人造岛？</a></li>
 <li><a href="/cbnews/20200728/1367509.md">中共军官唐娟出庭细节曝光 美检查官亮证据：不只是签证欺诈</a></li>
 <li><a href="/headline/20200728/1367221.md">谁在搅黄习近平的“中国梦”?</a></li>
-<li><a href="/topimagenews/20200727/1367147.md">YouTube删三峡大坝视频 74%观众认阿波罗网品牌独特 申诉结果来了</a></li>
 <li><a href="/cbnews/20200728/1367265.md">文昭：美机抵近上海156公里，沪紧急临战演习！中共战与和两条路线角力；胡锡进再呼「核威慑」意在急统台湾；巨大的历史盲区</a></li>
+<li><a href="/cnnews/20200728/1367356.md">照片为证：林彪最后一次登上天安门 气氛非常诡异</a></li>
 <li><a href="/cbnews/20200728/1367423.md">美国和中共打一仗会怎样？中国老百姓的回答令人震惊</a></li>
 <li><a href="/topimagenews/20200728/1367503.md">就这样的现状 经济内循环？怎么循环？ 中国经济将会直接回到40年前！</a></li>
-<li><a href="/cnnews/20200728/1367356.md">照片为证：林彪最后一次登上天安门 气氛非常诡异</a></li>
 <li><a href="/cbnews/20200728/1367310.md">成都美领馆关闭 男子举“习近平万岁”被抓</a></li>
 <li><a href="/cbnews/20200728/1367442.md">中共气炸？萧美琴会美高层…目的曝光</a></li>
 <li><a href="/topimagenews/20200728/1367408.md">“宋主任 我上呼吸机了 救救我” 他发出了生前最后一条信息</a></li>
-<li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
 <li><a href="/comments/20200728/1367516.md">中共七常委学历内幕揭秘 只有李克强一人具备正规大学学士学位 三人是“工农兵学员” 三人是“四大生” 韩正没有经历过一天正式的大学校园生活…… 中南海不可告人的秘密（141）</a></li>
+<li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
 <li><a href="/cbnews/20200728/1367187.md">长江最大洪水过境重庆 淹没地标朝天门平台</a></li>
 <li><a href="/topimagenews/20200728/1367337.md">针对这类中共官员！加拿大政要：我们将尽一切可能将你绳之以法</a></li>
 <li><a href="/cbnews/20200728/1367311.md">战狼们乌鸦嘴美重击下 习近平无选择</a></li>
 <li><a href="/cnnews/20200728/1367410.md">一段苏联科研往事：人猿杂交 招募女性志愿者</a></li>
+<li><a href="/cbnews/20200728/1367403.md">中共接班人摆上台 外宣放风胡春华接班李克强</a></li>
 <li><a href="/worldnews/usa/20200728/1367184.md">中美闭馆 风度很不一样</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200728/1368020.md" target="_blank">被删网文：只有赵国才配得上赵括</a></li>
 <li><a href="/topimagenews/20200728/1368013.md" target="_blank">重庆长江水位2天暴涨7米 保上海南京江浙再弃安徽 &#8220;洪峰就是三峡大坝泄洪&#8221;</a></li>
 <li><a href="/topimagenews/20200728/1367995.md" target="_blank">习近平成孤家寡人 特权阶层投了票 华尔街对中共高层公开喊话 民调:拜登支持者更容共</a></li>
 <li><a href="/topimagenews/20200728/1367959.md" target="_blank">习近平吓出冷汗?刚走就出事 香港权威曝中共销毁证据 新疆建方舱隔离 传伊宁封城</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20200726/1366506.md" target="_blank">澳媒爆中共巴铁大搞生物战 视频爆西安现感染 官方没报 大连传封城 多省市爆出疫情</a></li>
 <li><a href="/topimagenews/20200726/1366505.md" target="_blank">中领馆被关各路资金狂逃 依赖美国中共国产化卡壳 李克强泄经济内幕 欧盟急减华为依赖</a></li>
 <li><a href="/topimagenews/20200726/1366504.md" target="_blank">累计16万逃兵！俄军怎么了？2020年逃兵急剧增加1.7倍！</a></li>
-<li><a href="/topimagenews/20200726/1366503.md" target="_blank">美军反坦克导弹真&#8221;土豪&#8221;：射程全球最远 单价超一百万人民币</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生（组图）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 <li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
+<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 
 </ul>
 </div>
