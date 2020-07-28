@@ -6,24 +6,24 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20200728/1367170.md">内幕：中共军官机场被捕 行前删微信</a></li>
+<li><a href="/cbnews/20200728/1367445.md">美国宣布制裁中共党员 蓬佩奥发重磅声明</a></li>
 <li><a href="/cbnews/20200728/1367298.md">"我要下令将你拘留" 中共女军官唐娟有逃跑风险 出庭后被继续羁押</a></li>
 <li><a href="/cbnews/20200728/1367281.md">北京响起空袭警报！中共营造与美国开战气氛 市民吐槽：一打就败</a></li>
 <li><a href="/bannedvideo/20200728/1367217.md">陈破空：感动！成都市民夹道送别美领馆。王沪宁密令播出这部老电影。美军瞄准土共人造岛？</a></li>
-<li><a href="/cbnews/20200728/1367445.md">美国宣布制裁中共党员 蓬佩奥发重磅声明</a></li>
 <li><a href="/headline/20200728/1367224.md">《南风窗》文章被全网删除  讲了什么？</a></li>
 <li><a href="/topimagenews/20200727/1367132.md">三峡大坝溃坝预演视频竟是大忽悠 武汉传开闸放长江水入城 跑!三峡大坝淮河太湖狂泄洪</a></li>
 <li><a href="/topimagenews/20200727/1367147.md">YouTube删三峡大坝视频 74%观众认阿波罗网品牌独特 申诉结果来了</a></li>
 <li><a href="/headline/20200728/1367221.md">谁在搅黄习近平的“中国梦”?</a></li>
 <li><a href="/bannedvideo/20200727/1367070.md">病毒学家逃离中国 披露惊天真相 | 真相传媒</a></li>
 <li><a href="/cbnews/20200728/1367265.md">文昭：美机抵近上海156公里，沪紧急临战演习！中共战与和两条路线角力；胡锡进再呼「核威慑」意在急统台湾；巨大的历史盲区</a></li>
-<li><a href="/cbnews/20200728/1367310.md">成都美领馆关闭 男子举“习近平万岁”被抓</a></li>
-<li><a href="/cnnews/20200728/1367356.md">照片为证：林彪最后一次登上天安门 气氛非常诡异</a></li>
 <li><a href="/cbnews/20200728/1367423.md">美国和中共打一仗会怎样？中国老百姓的回答令人震惊</a></li>
+<li><a href="/cnnews/20200728/1367356.md">照片为证：林彪最后一次登上天安门 气氛非常诡异</a></li>
+<li><a href="/cbnews/20200728/1367310.md">成都美领馆关闭 男子举“习近平万岁”被抓</a></li>
+<li><a href="/cbnews/20200728/1367509.md">中共军官唐娟出庭细节曝光 美检查官亮证据：不只是签证欺诈</a></li>
 <li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
 <li><a href="/topimagenews/20200728/1367408.md">“宋主任 我上呼吸机了 救救我” 他发出了生前最后一条信息</a></li>
-<li><a href="/cbnews/20200728/1367509.md">中共军官唐娟出庭细节曝光 美检查官亮证据：不只是签证欺诈</a></li>
-<li><a href="/cbnews/20200728/1367187.md">长江最大洪水过境重庆 淹没地标朝天门平台</a></li>
 <li><a href="/cbnews/20200728/1367442.md">中共气炸？萧美琴会美高层…目的曝光</a></li>
+<li><a href="/cbnews/20200728/1367187.md">长江最大洪水过境重庆 淹没地标朝天门平台</a></li>
 <li><a href="/topimagenews/20200727/1367113.md">中共相信丛林法则 遇大克星 高官德女离奇死 意外牵江泽民 休斯顿中领馆窃密10年涉50案</a></li>
 <li><a href="/cbnews/20200728/1367311.md">战狼们乌鸦嘴美重击下 习近平无选择</a></li>
 <li><a href="/topimagenews/20200728/1367337.md">针对这类中共官员！加拿大政要：我们将尽一切可能将你绳之以法</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200728/1367784.md" target="_blank">NASA图片显示月球上有一个直径90公里的「异常物体」</a></li>
+<li><a href="/comments/20200728/1367766.md" target="_blank">3号洪水通过三峡库区 下游数十万百姓远走他乡（视频）</a></li>
 <li><a href="/comments/20200728/1367705.md" target="_blank">隐私权政策</a></li>
 <li><a href="/comments/20200728/1367702.md" target="_blank">联系方式</a></li>
 <li><a href="/comments/20200728/1367698.md" target="_blank">关于</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200728/1367471.md" target="_blank">雪白的衣服穿黄了、酸酸臭臭的？ 放洗衣机前请先做2个动作</a></li>
 <li><a href="/comments/20200728/1367465.md" target="_blank">别以为年轻就没事 加拿大：新增确诊39岁以下占多数</a></li>
 <li><a href="/comments/20200728/1367464.md" target="_blank">病毒没你想的那么简单！病毒权威：可能演化「慢性病毒」，永久留在体内</a></li>
-<li><a href="/comments/20200728/1367443.md" target="_blank">李燕铭：习近平与川普内外夹击 清洗江泽民老家江苏省国安厅 中共女军官唐娟被FBI抓捕 传为江苏国安厅长情妇 美国抓捕多名江苏省国安厅官员 北戴河会前江苏前国安厅副厅长落马</a></li>
-<li><a href="/comments/20200728/1367440.md" target="_blank">习近平突至东北，粮食危机难掩</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相(图/视频)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”(组图)</a></li>
 
 </ul>
 </div>
