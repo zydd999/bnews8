@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200727/1367042.md">震撼内幕!1亿中国人敢反共 习近平报复？他决定了 习连任无望？川普发信号</a></li>
-<li><a href="/cbnews/20200727/1366952.md">打脸习「中国梦」？李克强一番话惊爆中国惨经济</a></li>
 <li><a href="/baitai/20200727/1366999.md">日本爆600多人吸女子乳头群聚感染医：要勤冲洗</a></li>
 <li><a href="/cbnews/20200728/1367170.md">内幕：中共军官机场被捕 行前删微信</a></li>
 <li><a href="/cbnews/20200728/1367298.md">"我要下令将你拘留" 中共女军官唐娟有逃跑风险 出庭后被继续羁押</a></li>
 <li><a href="/cbnews/20200728/1367281.md">北京响起空袭警报！中共营造与美国开战气氛 市民吐槽：一打就败</a></li>
-<li><a href="/cnnews/20200727/1366957.md">新加坡共谍在美认罪 前外交高官火大痛骂蠢蛋</a></li>
 <li><a href="/bannedvideo/20200728/1367217.md">陈破空：感动！成都市民夹道送别美领馆。王沪宁密令播出这部老电影。美军瞄准土共人造岛？</a></li>
-<li><a href="/headline/20200728/1367224.md">《南风窗》文章被全网删除  讲了什么？</a></li>
 <li><a href="/topimagenews/20200727/1367132.md">三峡大坝溃坝预演视频竟是大忽悠 武汉传开闸放长江水入城 跑!三峡大坝淮河太湖狂泄洪</a></li>
+<li><a href="/headline/20200728/1367224.md">《南风窗》文章被全网删除  讲了什么？</a></li>
 <li><a href="/topimagenews/20200727/1367147.md">YouTube删三峡大坝视频 74%观众认阿波罗网品牌独特 申诉结果来了</a></li>
 <li><a href="/headline/20200728/1367221.md">谁在搅黄习近平的“中国梦”?</a></li>
 <li><a href="/topimagenews/20200727/1367053.md">中国经济新格局多惨?靠这里!维稳难!24省财政仅4例增 印度禁微信生效 还传唤马云</a></li>
 <li><a href="/bannedvideo/20200727/1367070.md">病毒学家逃离中国 披露惊天真相 | 真相传媒</a></li>
-<li><a href="/cbnews/20200728/1367265.md">文昭：美机抵近上海156公里，沪紧急临战演习！中共战与和两条路线角力；胡锡进再呼「核威慑」意在急统台湾；巨大的历史盲区</a></li>
 <li><a href="/cbnews/20200728/1367310.md">成都美领馆关闭 男子举“习近平万岁”被抓</a></li>
+<li><a href="/cbnews/20200728/1367265.md">文昭：美机抵近上海156公里，沪紧急临战演习！中共战与和两条路线角力；胡锡进再呼「核威慑」意在急统台湾；巨大的历史盲区</a></li>
 <li><a href="/cbnews/20200728/1367187.md">长江最大洪水过境重庆 淹没地标朝天门平台</a></li>
 <li><a href="/worldnews/usa/20200727/1366960.md">华尔街日报：美对华强硬政策冀说服北京其他人制止习近平</a></li>
 <li><a href="/topimagenews/20200727/1367113.md">中共相信丛林法则 遇大克星 高官德女离奇死 意外牵江泽民 休斯顿中领馆窃密10年涉50案</a></li>
 <li><a href="/worldnews/usa/20200728/1367184.md">中美闭馆 风度很不一样</a></li>
-<li><a href="/cbnews/20200728/1367311.md">战狼们乌鸦嘴美重击下 习近平无选择</a></li>
 <li><a href="/cnnews/20200728/1367356.md">照片为证：林彪最后一次登上天安门 气氛非常诡异</a></li>
+<li><a href="/cbnews/20200728/1367311.md">战狼们乌鸦嘴美重击下 习近平无选择</a></li>
 <li><a href="/cbnews/20200727/1366994.md">美军航母密集弹射战机升空 网民：灭共节奏</a></li>
+<li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
+<li><a href="/headline/20200727/1367148.md">官方频繁释放备战消息　未能激起民众抗美洪流</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200728/1367510.md" target="_blank">中共女军官唐娟加州出庭 8.10初审</a></li>
+<li><a href="/cbnews/20200728/1367509.md" target="_blank">中共军官唐娟出庭细节曝光 美检查官亮证据：不只是签证欺诈</a></li>
 <li><a href="/cbnews/20200728/1367445.md" target="_blank">美国宣布制裁中共党员 蓬佩奥发重磅声明</a></li>
 <li><a href="/cbnews/20200728/1367444.md" target="_blank">新疆确诊病例暴增 引发民众恐慌</a></li>
 <li><a href="/cbnews/20200728/1367442.md" target="_blank">中共气炸？萧美琴会美高层…目的曝光</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20200728/1367131.md" target="_blank">林保华：美国、印尼皆已反制中国间谍 那台湾呢？</a></li>
 <li><a href="/cbnews/20200728/1367281.md" target="_blank">北京响起空袭警报！中共营造与美国开战气氛 市民吐槽：一打就败</a></li>
 <li><a href="/cbnews/20200728/1367280.md" target="_blank">淹惨了！中共官媒竟卖萌「长江2号」：不让我去玩</a></li>
-<li><a href="/cbnews/20200728/1367279.md" target="_blank">长江3号洪水水量惊人 重庆长江水位2天暴涨7米</a></li>
-<li><a href="/cbnews/20200728/1367268.md" target="_blank">习近平考察刚离开 四平疫情爆发多村被封</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说(图)</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 
 </ul>
 </div>
