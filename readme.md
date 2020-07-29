@@ -18,12 +18,12 @@
 <li><a href="/topimagenews/20200728/1367598.md">美军空袭北京?一些人慌了 林郑重要智囊等银行户口被取消 “川普面对中共颠覆忍无可忍”</a></li>
 <li><a href="/comments/20200728/1367516.md">中共七常委学历内幕揭秘 只有李克强一人具备正规大学学士学位 三人是“工农兵学员” 三人是“四大生” 韩正没有经历过一天正式的大学校园生活…… 中南海不可告人的秘密（141）</a></li>
 <li><a href="/cbnews/20200728/1367442.md">中共气炸？萧美琴会美高层…目的曝光</a></li>
-<li><a href="/topimagenews/20200728/1367408.md">“宋主任 我上呼吸机了 救救我” 他发出了生前最后一条信息</a></li>
 <li><a href="/topimagenews/20200728/1367995.md">习近平成孤家寡人 特权阶层投了票 华尔街对中共高层公开喊话 民调:拜登支持者更容共</a></li>
+<li><a href="/cbnews/20200729/1368294.md">政策生变 中国人被禁出境？网友自曝实例</a></li>
+<li><a href="/topimagenews/20200728/1367408.md">“宋主任 我上呼吸机了 救救我” 他发出了生前最后一条信息</a></li>
 <li><a href="/comments/20200728/1367525.md">闫丽梦：病毒来自中国 既非来自自然也非源自武汉海鲜市场</a></li>
 <li><a href="/topimagenews/20200728/1367627.md">中国银行乱!百姓纷纷被贷款 中共六大准备折射六大危机 美公布5G安全商名单台湾入列</a></li>
 <li><a href="/topimagenews/20200728/1367395.md">林郑最重要智囊被美资行取消银行户口 指有港高级官员同样遭遇</a></li>
-<li><a href="/cbnews/20200729/1368294.md">政策生变 中国人被禁出境？网友自曝实例</a></li>
 <li><a href="/topimagenews/20200728/1368020.md">被删网文：只有赵国才配得上赵括</a></li>
 <li><a href="/cbnews/20200728/1367409.md">南风窗称中国最大敌人不是美国 叫板当局？</a></li>
 <li><a href="/cnnews/20200728/1367410.md">一段苏联科研往事：人猿杂交 招募女性志愿者</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200729/1368456.md" target="_blank">英外相：中共需履行其对港义务 以重建信任</a></li>
 <li><a href="/comments/20200729/1368440.md" target="_blank">【中共病毒】英相：欧洲已出现疫情二次爆发迹象</a></li>
 <li><a href="/comments/20200729/1368438.md" target="_blank">美中脱钩加速 传携程拟由纳斯达克退市</a></li>
 <li><a href="/comments/20200729/1368437.md" target="_blank">科学家:地球可能存在多次文明 6000年前的印加石是宇宙星图</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200728/1367601.md" target="_blank">胡春华兼新职 外宣吹风顶掉李克强</a></li>
 <li><a href="/comments/20200728/1367574.md" target="_blank">一聚焦经济文章遭删除惹议 原中国民企老板称地位如私生子</a></li>
 <li><a href="/comments/20200728/1367573.md" target="_blank">越南确诊激增 岘港航班火车巴士全面关闭15天</a></li>
-<li><a href="/comments/20200728/1367557.md" target="_blank">美中两国接连关闭领事馆 风度却很不一样</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？(图)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍(图)</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
