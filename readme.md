@@ -13,21 +13,21 @@
 <li><a href="/ssgc/20200729/1368400.md">〖兲朝浮世绘〗可怜的唐娟，阴毒的中共</a></li>
 <li><a href="/worldnews/usa/20200729/1368444.md">白宫智囊余茂春  母校急除状元名</a></li>
 <li><a href="/cbnews/20200729/1369346.md">一线采访：大连核检再爆冲突 现全面暂停</a></li>
-<li><a href="/bannedvideo/20200729/1368649.md">内循环加速！习近平第5大发明出炉，袁国勇作证！投诚者太多，新华社反美文严重泄密！</a></li>
 <li><a href="/topimagenews/20200729/1370033.md">习近平求和?求战?主战派退缩 女特务出庭 现惊人一幕 北京异象党媒辟谣百姓不信</a></li>
+<li><a href="/bannedvideo/20200729/1368649.md">内循环加速！习近平第5大发明出炉，袁国勇作证！投诚者太多，新华社反美文严重泄密！</a></li>
 <li><a href="/topimagenews/20200729/1368682.md">【阿波罗网编译】宣布中共为跨国犯罪组织 美数百团体和活动家敦促白宫</a></li>
 <li><a href="/cbnews/20200729/1368999.md">政治段子：华春莹、胡锡进、王沪宁打听退党</a></li>
 <li><a href="/cbnews/20200729/1369000.md">弄巧成拙 北京高层防美空袭 网民笑了：老百姓不用怕</a></li>
-<li><a href="/bannedvideo/20200729/1368390.md">陈破空：习近平恨死副主席！总理接班人很悬。旧金山领事馆是下一个？王沪宁受不了这篇热文</a></li>
 <li><a href="/cbnews/20200729/1368407.md">曝中共军留美学者唐娟情夫系江苏公安厅长</a></li>
 <li><a href="/cnnews/20200729/1369275.md">厉害了 iPhone明年将采用触控一体OLED屏</a></li>
 <li><a href="/cnnews/20200729/1369007.md">华为退路又被腰斩？路透惊爆「美商务部官员」已加入联发科</a></li>
-<li><a href="/cbnews/20200729/1368571.md">吉林副厅长写奇书《平安经》 民讽“李白要吐血了”</a></li>
 <li><a href="/cnnews/20200729/1368789.md">洛克希德马丁公司有多强？市值仅腾讯六分之一 却能与大国相抗衡</a></li>
+<li><a href="/cbnews/20200729/1368571.md">吉林副厅长写奇书《平安经》 民讽“李白要吐血了”</a></li>
 <li><a href="/cnnews/20200729/1368935.md">神预言？翻开日本30年前报纸 惊见2020疫情爆发 引发 网友热烈讨论</a></li>
 <li><a href="/baitai/20200729/1368601.md">常德一男子用“翻墙”软件被行政处罚</a></li>
 <li><a href="/cbnews/20200729/1368498.md">防出逃？武汉加强管控公职人员因私出国证件</a></li>
 <li><a href="/cbnews/20200729/1369173.md">港媒：中共四面楚歌 缺有实力“真朋友”</a></li>
+<li><a href="/headline/20200729/1369351.md">【耳边风】唐娟的女儿   王鑫的微信</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质(图集/视频)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
