@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20200730/1371365.md">互关领馆后 美国对中共的后手要来了</a></li>
 <li><a href="/funmedia/20200730/1371546.md">女模特穿“气球”走秀，台下观众都傻眼了，泄气瞬间全场沸腾了！</a></li>
 <li><a href="/topimagenews/20200730/1372152.md">习近平最新动作释虚弱信号 粮食危机!北京给各省下令 不明邮包!中共敌国都收到？</a></li>
 <li><a href="/topimagenews/20200730/1372156.md">局势多严峻？看习近平这表情  美媒曝川普对中共下个大招 美授总统3情况对中共动武</a></li>
 <li><a href="/cbnews/20200730/1371580.md">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/cbnews/20200730/1372107.md">中共军队三原因决定打不了仗</a></li>
-<li><a href="/topimagenews/20200730/1372227.md">武汉坠楼护士背后黑幕多大 6周确诊倍增 谭德赛被批翻 北京50万人最大小区中招</a></li>
 <li><a href="/comments/20200730/1372217.md">传曾庆红倒习败露 习近平一心灭曾 江家也悬了</a></li>
+<li><a href="/topimagenews/20200730/1372227.md">武汉坠楼护士背后黑幕多大 6周确诊倍增 谭德赛被批翻 北京50万人最大小区中招</a></li>
 <li><a href="/cnnews/20200730/1372094.md">“不务正业”：宜家的“世纪骗局”</a></li>
 <li><a href="/topimagenews/20200730/1372270.md">习近平喊捐钱?还有特殊用意?胡春华真要接班李克强? "从政治局开始没收他们海外资产"</a></li>
 <li><a href="/cnnews/20200730/1371815.md">炮火四射！亚马逊、苹果、谷歌、脸书四大执行长华府受审 惨遭国会议员拷问挞伐</a></li>
 <li><a href="/cbnews/20200730/1372125.md">美中热战真正危险在台湾 BBC曝北京夺岛后计划</a></li>
-<li><a href="/comments/20200730/1371715.md">台湾最新研究：「白扁豆」可阻断中共（新冠）病毒！</a></li>
-<li><a href="/topimagenews/20200731/1372321.md">内幕：中国黑帮和毒枭合作 中共介入制毒洗钱 发起对美化学战</a></li>
-<li><a href="/funmedia/20200730/1371553.md">面试官：你请客，朋友带一群陌生人来怎么办？95后机智回答...被当场录取！</a></li>
 <li><a href="/comments/20200731/1372430.md">任志强挺不住了？绝食死亡消息网络疯传</a></li>
-<li><a href="/cnnews/20200730/1372027.md">大连出奇葩规定：只能登记不给结婚证 引发网友热议</a></li>
-<li><a href="/cnnews/20200731/1372352.md">北戴河会议前当地安保如临大敌</a></li>
+<li><a href="/topimagenews/20200731/1372321.md">内幕：中国黑帮和毒枭合作 中共介入制毒洗钱 发起对美化学战</a></li>
+<li><a href="/comments/20200730/1371715.md">台湾最新研究：「白扁豆」可阻断中共（新冠）病毒！</a></li>
 <li><a href="/cnnews/20200731/1372406.md">最悲壮华人首富：一念之差失败破产</a></li>
+<li><a href="/funmedia/20200730/1371553.md">面试官：你请客，朋友带一群陌生人来怎么办？95后机智回答...被当场录取！</a></li>
+<li><a href="/cnnews/20200731/1372352.md">北戴河会议前当地安保如临大敌</a></li>
+<li><a href="/cnnews/20200730/1372027.md">大连出奇葩规定：只能登记不给结婚证 引发网友热议</a></li>
 <li><a href="/comments/20200730/1371986.md">李燕铭：北戴河会议取消？会期缩短？栗战书一举动异常 中南海高层政治生态或巨变 五常委同日现身 赵乐际又诡异隐身逾一周</a></li>
 <li><a href="/funmedia/20200730/1371547.md">沙漠里的西瓜为何不能摘？有游客不听劝，刚摘下来就后悔了！</a></li>
 <li><a href="/topimagenews/20200730/1371678.md">拜登“为人民币服务”的国安影子团队</a></li>
 <li><a href="/comments/20200730/1371722.md">北戴河会期打虎64官员被查处 会前3天10官员被密集查处 郭声琨搭档李金早被秒杀 习近平剑指曾庆红 郭声琨高危</a></li>
+<li><a href="/topimagenews/20200731/1372454.md">美国亲共侨团大难临头全蔫了！ 微信上疯传他是“最大间谍”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200731/1372516.md" target="_blank">美国引领全球全面反共 蓬佩奥例举多项成果</a></li>
 <li><a href="/cbnews/20200731/1372510.md" target="_blank">北戴河会前传六高官大调整 胡和平调离陕西</a></li>
 <li><a href="/cbnews/20200731/1372496.md" target="_blank">中共战机南海军演挑战美国 学者：就是花架子</a></li>
 <li><a href="/cbnews/20200731/1372495.md" target="_blank">若中美南海开战 前中共军官：中共下场很惨</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20200730/1371419.md" target="_blank">保护关岛基地 美军部署陆基宙斯盾：可拦截29枚来袭导弹</a></li>
 <li><a href="/cbnews/20200730/1371366.md" target="_blank">澳美联合声明谴责中共 汪文斌狡辩</a></li>
 <li><a href="/cbnews/20200730/1371365.md" target="_blank">互关领馆后 美国对中共的后手要来了</a></li>
-<li><a href="/cbnews/20200730/1371325.md" target="_blank">自由门，无界浏览器与TOR的对比分析报告</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200731/1372515.md" target="_blank">印度准备再增加150多架战机！高调迎新战机 向中印边境增兵3.5万</a></li>
 <li><a href="/topimagenews/20200731/1372454.md" target="_blank">美国亲共侨团大难临头全蔫了！ 微信上疯传他是“最大间谍”</a></li>
 <li><a href="/topimagenews/20200731/1372446.md" target="_blank">蓬佩奥：美国准备领导这场反击中国共产党</a></li>
 <li><a href="/topimagenews/20200731/1372338.md" target="_blank">白宫祭出奖励措施 鼓励美企从亚洲回到美洲</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20200728/1367995.md" target="_blank">习近平成孤家寡人 特权阶层投了票 华尔街对中共高层公开喊话 民调:拜登支持者更容共</a></li>
 <li><a href="/topimagenews/20200728/1367959.md" target="_blank">习近平吓出冷汗?刚走就出事 香港权威曝中共销毁证据 新疆建方舱隔离 传伊宁封城</a></li>
 <li><a href="/topimagenews/20200728/1367627.md" target="_blank">中国银行乱!百姓纷纷被贷款 中共六大准备折射六大危机 美公布5G安全商名单台湾入列</a></li>
-<li><a href="/topimagenews/20200728/1367598.md" target="_blank">美军空袭北京?一些人慌了 林郑重要智囊等银行户口被取消 “川普面对中共颠覆忍无可忍”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200731/1372524.md" target="_blank">沈舟：香港立法会选举将成新引爆点</a></li>
 <li><a href="/comments/20200731/1372488.md" target="_blank">谢田：美国左派鼓吹削弱美元霸权 为中共高层乐见</a></li>
 <li><a href="/comments/20200731/1372483.md" target="_blank">大清挨揍 百姓都干嘛去了？(组图)</a></li>
 <li><a href="/comments/20200731/1372482.md" target="_blank">如果拜登当选下届美国总统对在美华人会有何影响(图)</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200731/1372401.md" target="_blank">华夏首位民选大总统 用死亡唤醒梦中人！</a></li>
 <li><a href="/comments/20200731/1372389.md" target="_blank">疫情封锁致经济损失惨重 美国二季度GDP大跌32.9%</a></li>
 <li><a href="/comments/20200731/1372387.md" target="_blank">英智库：德国成为中俄渗透欧洲的新目标</a></li>
-<li><a href="/comments/20200731/1372377.md" target="_blank">中共官方力挺孟晚舟避提唐娟 网友：人分贵贱</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思(图/视频)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？(图)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
