@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20200731/1372454.md">美国亲共侨团大难临头全蔫了！ 微信上疯传他是“最大间谍”</a></li>
 <li><a href="/cbnews/20200731/1372510.md">北戴河会前传六高官大调整 胡和平调离陕西</a></li>
 <li><a href="/cnnews/20200731/1372406.md">最悲壮华人首富：一念之差失败破产</a></li>
-<li><a href="/bannedvideo/20200731/1372392.md">陈破空：罕见不提习核心！政治局敲定一件事。习近平挡不住北戴河。晋升上将有玄机！民主先生辞世</a></li>
 <li><a href="/cbnews/20200731/1372455.md">传曾庆红倒习败露 习近平要灭曾 军队要抓多人</a></li>
 <li><a href="/cbnews/20200731/1372648.md">听张召忠说准备打仗 我就放心了</a></li>
 <li><a href="/cbnews/20200731/1372569.md">江峰：中共的终极恐惧来了：武汉党员干部公务员军人上交护照，不交就注销，这是全体边控的节奏！香港12候选人被取消资格，国安法露狰狞</a></li>
 <li><a href="/cbnews/20200731/1372624.md">中国人大微信公号转载李登辉“台湾精神”演说全文 引发舆论哗然 遭…</a></li>
 <li><a href="/bannedvideo/20200731/1372612.md">李登辉罕见评价习近平：野心比毛大，难给中国民主；全党突然痛批马屁经《平安经》！</a></li>
-<li><a href="/baitai/20200731/1372402.md">张杰：预测中共即将举行的十九届五中全会后的局势</a></li>
-<li><a href="/baitai/20200731/1372705.md">基金老总偷吃北大正宫「捉奸秀」全上网</a></li>
 <li><a href="/topimagenews/20200731/1372770.md">被做掉!武汉抗疫护士坠楼细节曝光 中共封消息 重磅！个人冻结中共资产 美参院小组过了</a></li>
+<li><a href="/baitai/20200731/1372705.md">基金老总偷吃北大正宫「捉奸秀」全上网</a></li>
+<li><a href="/baitai/20200731/1372402.md">张杰：预测中共即将举行的十九届五中全会后的局势</a></li>
 <li><a href="/cbnews/20200731/1372527.md">再有中共政法委内部文件流出：中共从没停止过…</a></li>
 <li><a href="/ssgc/20200731/1372509.md">李登辉生前称共产主义骗人 曾评价习近平</a></li>
 <li><a href="/cbnews/20200731/1372676.md">李登辉说习近平比毛泽东...美亲共侨团全蔫!疯传他是最大间谍 恐!习近平李克强频开会</a></li>
-<li><a href="/cbnews/20200731/1372571.md">习做梦李拆梦 反习暗流涌动 北戴河会议开不开？</a></li>
-<li><a href="/cbnews/20200731/1372670.md">山东淄博传出巨响 事件词条登微博热搜</a></li>
 <li><a href="/topimagenews/20200731/1372796.md">他被判死缓 揭秘为何与薄熙来同等 北京7月雪 古籍:习近平大凶兆 “梵蒂冈与魔鬼做交易”</a></li>
+<li><a href="/cbnews/20200731/1372670.md">山东淄博传出巨响 事件词条登微博热搜</a></li>
+<li><a href="/cbnews/20200731/1372571.md">习做梦李拆梦 反习暗流涌动 北戴河会议开不开？</a></li>
 <li><a href="/cnnews/20200731/1372521.md">紧张局势升级 中国向美砸出史上最大玉米订单</a></li>
 <li><a href="/cbnews/20200731/1372495.md">若中美南海开战 前中共军官：中共下场很惨</a></li>
 <li><a href="/worldnews/usa/20200731/1372553.md">窃取美国医院商业机密的华裔女科学家认罪</a></li>
 <li><a href="/finance/20200731/1372699.md">泡沫将破？中共央行急摸底 畏美金融制裁 中共紧急报告 川普计划撤资中国吸500亿美元</a></li>
+<li><a href="/comments/20200731/1372622.md">北戴河会前高层人事大洗牌 陕西省委书记换人 习家军胡和平另有重用 多名省部级高官调整</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了(图)</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相(图/视频)</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 
 </ul>
 </div>
