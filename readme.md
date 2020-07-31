@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20200730/1372217.md">传曾庆红倒习败露 习近平一心灭曾 江家也悬了</a></li>
-<li><a href="/topimagenews/20200730/1372227.md">武汉坠楼护士背后黑幕多大 6周确诊倍增 谭德赛被批翻 北京50万人最大小区中招</a></li>
 <li><a href="/comments/20200731/1372430.md">任志强挺不住了？绝食死亡消息网络疯传</a></li>
+<li><a href="/topimagenews/20200730/1372227.md">武汉坠楼护士背后黑幕多大 6周确诊倍增 谭德赛被批翻 北京50万人最大小区中招</a></li>
 <li><a href="/topimagenews/20200731/1372454.md">美国亲共侨团大难临头全蔫了！ 微信上疯传他是“最大间谍”</a></li>
 <li><a href="/topimagenews/20200730/1372270.md">习近平喊捐钱?还有特殊用意?胡春华真要接班李克强? "从政治局开始没收他们海外资产"</a></li>
 <li><a href="/cbnews/20200731/1372510.md">北戴河会前传六高官大调整 胡和平调离陕西</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20200731/1372455.md">传曾庆红倒习败露 习近平要灭曾 军队要抓多人</a></li>
 <li><a href="/cnnews/20200731/1372352.md">北戴河会议前当地安保如临大敌</a></li>
 <li><a href="/cbnews/20200731/1372527.md">再有中共政法委内部文件流出：中共从没停止过…</a></li>
-<li><a href="/ssgc/20200731/1372509.md">李登辉生前称共产主义骗人 曾评价习近平</a></li>
 <li><a href="/baitai/20200731/1372402.md">张杰：预测中共即将举行的十九届五中全会后的局势</a></li>
+<li><a href="/ssgc/20200731/1372509.md">李登辉生前称共产主义骗人 曾评价习近平</a></li>
 <li><a href="/ssgc/20200731/1372359.md">〖兲朝浮世绘〗习近平保党到底是为了谁？</a></li>
 <li><a href="/cnnews/20200731/1372521.md">紧张局势升级 中国向美砸出史上最大玉米订单</a></li>
 <li><a href="/cbnews/20200731/1372495.md">若中美南海开战 前中共军官：中共下场很惨</a></li>
+<li><a href="/cbnews/20200731/1372571.md">习做梦李拆梦 反习暗流涌动 北戴河会议开不开？</a></li>
+<li><a href="/worldnews/usa/20200731/1372553.md">窃取美国医院商业机密的华裔女科学家认罪</a></li>
 <li><a href="/cbnews/20200731/1372350.md">中共人工增雨奇效！吉林市暴雨引发洪灾 汽车被冲走</a></li>
 <li><a href="/cbnews/20200731/1372534.md">港府取消12人选举资格 美国务院回应</a></li>
-<li><a href="/worldnews/usa/20200731/1372553.md">窃取美国医院商业机密的华裔女科学家认罪</a></li>
-<li><a href="/cbnews/20200731/1372571.md">习做梦李拆梦 反习暗流涌动 北戴河会议开不开？</a></li>
-<li><a href="/cnnews/20200731/1372367.md">大陆抽砂船“来台湾盗砂”最新下场曝光：当靶打</a></li>
+<li><a href="/bannedvideo/20200731/1372612.md">李登辉罕见评价习近平：野心比毛大，难给中国民主；全党突然痛批马屁经《平安经》！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 <li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
+<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了(图)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相(图/视频)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？(图)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
