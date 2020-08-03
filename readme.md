@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200802/1373693.md">李克强突现惊人一幕!信号! 任志强不服还会三传死讯？割席跳船！港高官突辞职</a></li>
-<li><a href="/cbnews/20200803/1373744.md">反常！青海玉树清水河镇盛夏三伏天下雪</a></li>
 <li><a href="/bannedvideo/20200803/1373699.md">最新：中共高官外国家人大数据 881</a></li>
+<li><a href="/cbnews/20200803/1373744.md">反常！青海玉树清水河镇盛夏三伏天下雪</a></li>
 <li><a href="/cbnews/20200803/1373895.md">中共取消事业编制 加大警力投入的背后</a></li>
 <li><a href="/topimagenews/20200803/1373742.md">内幕：对中共了如指掌 美鹰派高招迭出</a></li>
 <li><a href="/topimagenews/20200803/1373700.md">破中共封锁网曝大连新疆惨况 川普:民主党这样做中共最得意 美权威警告中共疫苗不可靠</a></li>
+<li><a href="/bannedvideo/20200803/1373788.md">彻底黄了！制裁抖音，川普识破了中共左手卖给右手的阴谋！</a></li>
 <li><a href="/cbnews/20200803/1373745.md">疫情死灰复燃？武汉突爆3确诊病例</a></li>
 <li><a href="/ssgc/20200803/1373756.md">〖兲朝浮世绘〗习近平和刘鹤故意算计李克强</a></li>
-<li><a href="/bannedvideo/20200803/1373788.md">彻底黄了！制裁抖音，川普识破了中共左手卖给右手的阴谋！</a></li>
 <li><a href="/bannedvideo/20200803/1373772.md">政论：李克强被羞辱？习近平在实施无名有实的党主席制！习李斗火候还需催化剂（8/3）</a></li>
-<li><a href="/cbnews/20200803/1373743.md">43岁派出所长跳河 生前嘱托孩子别当公务员</a></li>
 <li><a href="/comments/20200803/1374002.md">中共元老密谋拿下习近平 派密使与美方接触 党内有呼声要求李克强取代习近平 北戴河会议很可能敲定接班人 胡春华将成为中共总书记 中南海谣言预言_235</a></li>
+<li><a href="/cbnews/20200803/1373743.md">43岁派出所长跳河 生前嘱托孩子别当公务员</a></li>
 <li><a href="/cbnews/20200803/1373777.md">天亮时分：习近平羞辱李克强;内循环下,中共经济将枯竭而死.美国要禁微信和抖音,中共为何也调查微信?(政论天下第207集 20200802)</a></li>
-<li><a href="/cnnews/20200803/1373825.md">武汉收缴护照全面边控 中共恐惧出下一个闫丽梦？</a></li>
 <li><a href="/topimagenews/20200803/1373880.md">直面金融危机 准备做好了吗？节点何时到来？大概以月计量！</a></li>
-<li><a href="/baitai/20200803/1373828.md">中储粮“禁带手机进粮库”？被曝光后深夜紧急回应</a></li>
 <li><a href="/cbnews/20200803/1373959.md">7女孩绝望惨死宿舍 她幸存伴尸整晚…惊恐内幕曝光</a></li>
+<li><a href="/cnnews/20200803/1373825.md">武汉收缴护照全面边控 中共恐惧出下一个闫丽梦？</a></li>
+<li><a href="/baitai/20200803/1373828.md">中储粮“禁带手机进粮库”？被曝光后深夜紧急回应</a></li>
 <li><a href="/topimagenews/20200803/1373881.md">谋杀！不支持“黑命贵”大游行 黑人记者遭匕首从背后刺入</a></li>
 <li><a href="/topimagenews/20200803/1373879.md">林政月娥和港警触犯国安法？香港民调出现戏剧性一幕！</a></li>
-<li><a href="/baitai/20200803/1373707.md">万维读者网（Creaders.net）: 闫丽梦再爆猛料 中共早知羟氯喹有效 众高官在服用</a></li>
 <li><a href="/comments/20200803/1373708.md">震惊！最新报告揭多达115家美大学和实验室与中共军方合作</a></li>
+<li><a href="/baitai/20200803/1373707.md">万维读者网（Creaders.net）: 闫丽梦再爆猛料 中共早知羟氯喹有效 众高官在服用</a></li>
 <li><a href="/headline/20200803/1373714.md">德国呼吁欧盟一致应对中国</a></li>
-<li><a href="/yule/20200803/1373751.md">25岁人气美女主播素颜照曝光！无奈发文请求粉丝：不要离我而去</a></li>
+<li><a href="/yule/20200803/1373974.md">10年前 李小冉被孙东海用艾滋针头抵喉 崩溃求饶…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200803/1374129.md" target="_blank">人生事业想成功 对“它”的态度要改变(图)</a></li>
 <li><a href="/comments/20200803/1374123.md" target="_blank">【林忌评论】政府大话连篇　特区公信破产</a></li>
 <li><a href="/comments/20200803/1374118.md" target="_blank">SpaceX创始人马斯克宣称金字塔是外星人建造 埃及官员回应</a></li>
 <li><a href="/comments/20200803/1374089.md" target="_blank">德国反中情绪成形 梅克尔明秋卸任后亲中政策料剧变(图)</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200803/1373929.md" target="_blank">惊！高个子有麻烦？美英调查称1米8以上病毒感染率是矮个子两倍</a></li>
 <li><a href="/comments/20200803/1373928.md" target="_blank">这些食材不管多新鲜，也要先焯水，不然最好别吃</a></li>
 <li><a href="/comments/20200803/1373915.md" target="_blank">【微博精粹】小心！中共二次打开潘多拉魔盒 意图毁灭世界</a></li>
-<li><a href="/comments/20200803/1373914.md" target="_blank">袁斌：武汉护士张嬿婉之死涉及的三重内幕 又在撒谎？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫(组图)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服（图）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 
 </ul>
 </div>
