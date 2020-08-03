@@ -14,20 +14,20 @@
 <li><a href="/cnnews/20200802/1373494.md">中共病毒疫苗的价格出炉了 各药厂定价相差甚远</a></li>
 <li><a href="/cbnews/20200802/1373590.md">配合中共要求 苹果半天下架近三万应用产品</a></li>
 <li><a href="/cbnews/20200802/1373441.md">中南海拿“内循环”当解药？李克强：行不通</a></li>
-<li><a href="/cbnews/20200802/1373543.md">知情人透露：任志强刚与家人通话 揽下所有刑责</a></li>
 <li><a href="/cbnews/20200803/1373744.md">反常！青海玉树清水河镇盛夏三伏天下雪</a></li>
+<li><a href="/cbnews/20200802/1373543.md">知情人透露：任志强刚与家人通话 揽下所有刑责</a></li>
 <li><a href="/topimagenews/20200803/1373700.md">破中共封锁网曝大连新疆惨况 川普:民主党这样做中共最得意 美权威警告中共疫苗不可靠</a></li>
 <li><a href="/cbnews/20200802/1373435.md">南京女大学生独闯可可西里无人区 遗骸被寻获</a></li>
 <li><a href="/topimagenews/20200802/1373428.md">面签被问是否共产党员如何回答？美律师这样说...</a></li>
 <li><a href="/topimagenews/20200803/1373742.md">内幕：对中共了如指掌 美鹰派高招迭出</a></li>
 <li><a href="/bannedvideo/20200803/1373699.md">最新：中共高官外国家人大数据 881</a></li>
 <li><a href="/ssgc/20200802/1373567.md">今年最好看的美剧，非它莫属！</a></li>
-<li><a href="/cnnews/20200802/1373501.md">时隔一年 美国终于抓到第一只“杀手”</a></li>
 <li><a href="/comments/20200802/1373673.md">北戴河会前习近平深入“吉林帮”虎穴 引爆“平安经”丑闻 吉林公安厅常务副厅长下台 “平安经”曝光政法与文宣勾结 北戴河会前打虎 预兆王沪宁文宣系统成为下一波重点清洗目标</a></li>
-<li><a href="/comments/20200802/1373481.md">【微博精粹】“人类公敌”蓬佩奥又被党媒描成一朵花 还是中国间谍？</a></li>
-<li><a href="/topimagenews/20200802/1373665.md">抖音要完？川普破瞒天过海计 三星关闭最后一个中国PC厂 华为花18亿美元与高通和解</a></li>
-<li><a href="/lifebaike/20200802/1373593.md">被邓小平搞掉的15名中共“国家领导人”</a></li>
+<li><a href="/cnnews/20200802/1373501.md">时隔一年 美国终于抓到第一只“杀手”</a></li>
 <li><a href="/cbnews/20200803/1373745.md">疫情死灰复燃？武汉突爆3确诊病例</a></li>
+<li><a href="/comments/20200802/1373481.md">【微博精粹】“人类公敌”蓬佩奥又被党媒描成一朵花 还是中国间谍？</a></li>
+<li><a href="/ssgc/20200803/1373756.md">〖兲朝浮世绘〗习近平和刘鹤故意算计李克强</a></li>
+<li><a href="/topimagenews/20200802/1373665.md">抖音要完？川普破瞒天过海计 三星关闭最后一个中国PC厂 华为花18亿美元与高通和解</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200803/1373847.md" target="_blank">2020年美国最大一笔能源交易：210亿美元！美国Speedway被收购</a></li>
+<li><a href="/comments/20200803/1373846.md" target="_blank">“我的婆婆”笑谈家庭百态 第2季有谱？(组图)</a></li>
 <li><a href="/comments/20200803/1373836.md" target="_blank">写“平安经”厅官刚出事 野鸡大学毕业厅级“思想家”惹火</a></li>
 <li><a href="/comments/20200803/1373823.md" target="_blank">沈舟：危险的中共军事争霸战略 无知狂妄</a></li>
 <li><a href="/comments/20200803/1373822.md" target="_blank">钟原：中共政权能坚持到下次香港选举吗？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200803/1373725.md" target="_blank">美国立国原则 (十一)：人民有权推翻施行暴政的政府(图)</a></li>
 <li><a href="/comments/20200803/1373724.md" target="_blank">西门子医疗砸164亿美元 并美癌症疗法公司瓦里安</a></li>
 <li><a href="/comments/20200803/1373708.md" target="_blank">震惊！最新报告揭多达115家美大学和实验室与中共军方合作</a></li>
-<li><a href="/comments/20200802/1373678.md" target="_blank">英媒：“所为如纳粹”  中共年窃美4580亿英镑知识产权</a></li>
-<li><a href="/comments/20200802/1373673.md" target="_blank">北戴河会前习近平深入“吉林帮”虎穴 引爆“平安经”丑闻 吉林公安厅常务副厅长下台 “平安经”曝光政法与文宣勾结 北戴河会前打虎 预兆王沪宁文宣系统成为下一波重点清洗目标</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体（图）</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相(图/视频)</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”(组图)</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 <li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容（组图）</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 
 </ul>
 </div>
