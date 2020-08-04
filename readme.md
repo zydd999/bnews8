@@ -16,15 +16,15 @@
 <li><a href="/cbnews/20200804/1374336.md">北戴河内幕：安检严格 领导人来此看禁片</a></li>
 <li><a href="/bannedvideo/20200804/1374362.md">快评：北戴河会议已开始、元老们想换习？美国再要驱逐60多位中共媒体人，川普为何判TIKTOK死缓？（8/3）</a></li>
 <li><a href="/ssgc/20200803/1374112.md">美国一线医生集体发声：我们有治疗新冠的药；500多名医生联合签名上书川普总统</a></li>
-<li><a href="/ssgc/20200804/1374352.md">〖微博谈〗北京高层对这场战争十分恐惧</a></li>
 <li><a href="/topimagenews/20200804/1374220.md">三峡大坝撑得住？双台风直扑 不得了！中共取消2种事业编制 中国救命药是澳洲3500倍刷屏</a></li>
+<li><a href="/ssgc/20200804/1374352.md">〖微博谈〗北京高层对这场战争十分恐惧</a></li>
 <li><a href="/bannedvideo/20200803/1374132.md">美国驻华大使馆准备闭馆跑路了？中美关系没有最差，只会更差！</a></li>
 <li><a href="/ssgc/20200804/1374189.md">北戴河会议召开在即 传闻满天飞</a></li>
-<li><a href="/cbnews/20200804/1374228.md">多个迹象显示北戴河会议或已召开</a></li>
-<li><a href="/ssgc/20200804/1374257.md">〖兲朝浮世绘〗英美这是要给中共输血吗？</a></li>
-<li><a href="/cbnews/20200804/1374334.md">习近平带头捐款 崇祯帝之举？中科院院士曝遭逼捐</a></li>
-<li><a href="/bannedvideo/20200804/1374371.md">北戴河会议吹响反习集结号？883</a></li>
 <li><a href="/cbnews/20200804/1374414.md">在美中国记者无人获延期签证！胡锡进崩溃：这是要干什么?全都赶走吗?</a></li>
+<li><a href="/cbnews/20200804/1374228.md">多个迹象显示北戴河会议或已召开</a></li>
+<li><a href="/cbnews/20200804/1374334.md">习近平带头捐款 崇祯帝之举？中科院院士曝遭逼捐</a></li>
+<li><a href="/ssgc/20200804/1374257.md">〖兲朝浮世绘〗英美这是要给中共输血吗？</a></li>
+<li><a href="/bannedvideo/20200804/1374371.md">北戴河会议吹响反习集结号？883</a></li>
 <li><a href="/topimagenews/20200804/1374333.md">蓬佩奥：这些对中共及其企业和国有企业都同样适用</a></li>
 <li><a href="/cbnews/20200804/1374372.md">江峰：日本加入五眼联盟，亚洲最强军队被唤醒。一下子多出来四艘航母，满载世界最强F35战斗机，环球时报为什麽说没什麽影响？</a></li>
 <li><a href="/cbnews/20200804/1374309.md">中国奶粉泡出铁砂！妈找磁铁一吸看傻 厂商辩：对人体无害</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200804/1374600.md" target="_blank">日本艺人再中镖  「火影忍者」声优关俊彦确诊</a></li>
+<li><a href="/comments/20200804/1374599.md" target="_blank">【梁京评论】李登辉是现代中国最幸运的政治家</a></li>
 <li><a href="/comments/20200804/1374596.md" target="_blank">飞来横祸！2AM任瑟雍雨天开车撞死路人 已受警调查</a></li>
 <li><a href="/comments/20200804/1374592.md" target="_blank">《除垢法》法将责众 肃清共产主义余毒</a></li>
 <li><a href="/comments/20200804/1374561.md" target="_blank">印度频遭共军骇客攻击 核动力潜舰恐成主要目标</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200804/1374456.md" target="_blank">掸封尘：是罗冠聪真绝情 还是红朝暴政太恐怖</a></li>
 <li><a href="/comments/20200804/1374455.md" target="_blank">掸封尘：香港立法会选举推迟一年 谎言包装下的政治阴谋</a></li>
 <li><a href="/comments/20200804/1374454.md" target="_blank">颜丹：留守女孩报考北大考古专业被聚焦的背后</a></li>
-<li><a href="/comments/20200804/1374453.md" target="_blank">卢峰：香港加速沦为第三世界危城</a></li>
-<li><a href="/comments/20200804/1374452.md" target="_blank">刘依俐：休士顿少了个大麻烦</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍(图)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">数据说话 铁的事实 越亲共 中共肺炎疫情越严重(多图表)</a></li>
-<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了(图)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方(多图）</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
 <li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战(组图)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源（组图）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言 （图）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问(图)</a></li>
 
 </ul>
 </div>
