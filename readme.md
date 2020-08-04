@@ -14,20 +14,20 @@
 <li><a href="/cnnews/20200804/1374550.md">比房价上涨更可怕的事来了 买房面临“3麻烦”</a></li>
 <li><a href="/ssgc/20200804/1374352.md">〖微博谈〗北京高层对这场战争十分恐惧</a></li>
 <li><a href="/cbnews/20200804/1374409.md">中共外交部微博“翻车”现场 中网友评论狂打脸</a></li>
-<li><a href="/cbnews/20200804/1374334.md">习近平带头捐款 崇祯帝之举？中科院院士曝遭逼捐</a></li>
 <li><a href="/topimagenews/20200804/1374611.md">胡锡进崩溃自爆来自美国噩耗 瑞士罕见表态制裁中共用狠招 反习派进攻?党媒罕见批军演</a></li>
+<li><a href="/cbnews/20200804/1374334.md">习近平带头捐款 崇祯帝之举？中科院院士曝遭逼捐</a></li>
 <li><a href="/bannedvideo/20200804/1374371.md">北戴河会议吹响反习集结号？883</a></li>
 <li><a href="/topimagenews/20200804/1374405.md">中共盯上这项重要资产？中共派员赴港大规模检测 引发担忧</a></li>
 <li><a href="/cbnews/20200804/1374372.md">江峰：日本加入五眼联盟，亚洲最强军队被唤醒。一下子多出来四艘航母，满载世界最强F35战斗机，环球时报为什麽说没什麽影响？</a></li>
-<li><a href="/cbnews/20200804/1374412.md">民调：川普支持率领先拜登 优势或远超2016</a></li>
-<li><a href="/comments/20200804/1374555.md">中印边境冲突牵出惊天腐败大案 惊动中南海与军委 二汽生产的猛士装甲军车不堪一击 车身击穿 战士被打死 遭军方控告 中南海不可告人的秘密（144）</a></li>
 <li><a href="/topimagenews/20200804/1374686.md">李克强杠上了？再曝经济惨况 中资芯片业难突破 症结在这里 中国银行拍卖流拍打折无人问</a></li>
+<li><a href="/comments/20200804/1374555.md">中印边境冲突牵出惊天腐败大案 惊动中南海与军委 二汽生产的猛士装甲军车不堪一击 车身击穿 战士被打死 遭军方控告 中南海不可告人的秘密（144）</a></li>
+<li><a href="/cbnews/20200804/1374412.md">民调：川普支持率领先拜登 优势或远超2016</a></li>
 <li><a href="/topimagenews/20200804/1374333.md">蓬佩奥：这些对中共及其企业和国有企业都同样适用</a></li>
 <li><a href="/cbnews/20200804/1374309.md">中国奶粉泡出铁砂！妈找磁铁一吸看傻 厂商辩：对人体无害</a></li>
+<li><a href="/topimagenews/20200804/1374687.md">大撤退？美驻京大使馆拍卖 中共外交部微博大型“翻车” 前中共高官:开战陆军倒戈</a></li>
 <li><a href="/comments/20200804/1374286.md">全球唯一没吃中共亏的政治家 三个字气炸江泽民 霸气回呛朱镕基 中南海不可告人的秘密（144）</a></li>
 <li><a href="/cbnews/20200804/1374406.md">北京强拆四合院 中共再向中产阶级下手？</a></li>
 <li><a href="/comments/20200804/1374505.md">开始抓老壮丁了？陆媒放风征召36周岁至45周岁兵员</a></li>
-<li><a href="/topimagenews/20200804/1374404.md">惨！ARM中国CEO吴雄昂被免风波 恐让总部血本无归</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 <li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相(图/视频)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆（图）</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西（组图）</a></li>
+<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了(图)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源（组图）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
