@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200805/1374855.md">中共白白高兴了一场！美国安顾问测试结果出来了</a></li>
-<li><a href="/cbnews/20200805/1374758.md">北戴河会议习近平危机四伏？！传政治老人与美国密使接触</a></li>
 <li><a href="/cbnews/20200805/1374951.md">失联女大生禁区被找到「剩白骨」！搜救人员曝：死后遭啃食 </a></li>
 <li><a href="/topimagenews/20200805/1374854.md">中共高兴有点早 专家分析“北斗系统能否正常运作都是问题”</a></li>
 <li><a href="/comments/20200805/1375063.md">官媒罕见披露习近平在八九民运期间表现</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20200805/1374906.md">中共病毒未消 中国又出现致命传染病“新型布尼亚病毒”</a></li>
 <li><a href="/cbnews/20200805/1374926.md">党国常态 东风集团两“虎”落马 传涉军车腐败大案</a></li>
 <li><a href="/cbnews/20200805/1375105.md">袁弓夷揭江绵恒换肾黑幕：孙力军操作 多人丧命</a></li>
-<li><a href="/cnnews/20200805/1374763.md">全球封杀无路可走 华为要大搞「南泥湾」</a></li>
 <li><a href="/cnnews/20200805/1374818.md">这几个顶级汉奸之间竟有勾连关系？！</a></li>
 <li><a href="/cbnews/20200805/1375145.md">惨！“豆腐渣工程”累… 浙江女被台风从18层楼拉出坠亡</a></li>
-<li><a href="/cnnews/20200805/1375084.md">中国多省爆“新布尼亚病毒”已知 7人死亡</a></li>
 <li><a href="/baitai/20200805/1374842.md">共匪失掉了国际上所有的援助</a></li>
+<li><a href="/cnnews/20200805/1375084.md">中国多省爆“新布尼亚病毒”已知 7人死亡</a></li>
 <li><a href="/cnnews/hknews/20200805/1374931.md">1979年以来最高级别 他曝中共干扰没用了</a></li>
 <li><a href="/bannedvideo/20200805/1374944.md">国产悍马被击穿，牵出特大腐败案 ；中共军队腐败成烂泥，毫无战斗力</a></li>
 <li><a href="/bannedvideo/20200805/1374840.md">快评：黎巴嫩大爆炸是中共使坏？8月15中美会晤要谈什么？崔天凯向美突抛橄榄枝（8/4）</a></li>
 <li><a href="/cnnews/20200805/1375177.md">全球封杀无路可走 华为要搞大动作</a></li>
-<li><a href="/bannedvideo/20200805/1374852.md">中美关系交恶，胡锡进连闯大祸！曝光中共驻美记者面临驱逐困境，核弹论涉嫌逼宫及窥探国家核机密！</a></li>
 <li><a href="/topimagenews/20200805/1375287.md">江系与美密使倒习惊人逆转?开战?中共8月东沙夺岛大反转 内幕:央视环时二代多是美籍</a></li>
+<li><a href="/bannedvideo/20200805/1374852.md">中美关系交恶，胡锡进连闯大祸！曝光中共驻美记者面临驱逐困境，核弹论涉嫌逼宫及窥探国家核机密！</a></li>
 <li><a href="/topimagenews/20200805/1375292.md">习近平要抓曾庆红？绝地反击？传中共豆腐渣军车上阵被打穿 北斗系统遭断供为何还吹？</a></li>
+<li><a href="/cbnews/20200805/1375144.md">中共在恐惧什么？… 设10万奖金“举报”</a></li>
+<li><a href="/ssgc/20200805/1374771.md">“战狼”吴京主演 中共高调开拍反美片引嘲讽</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复（视频）</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
