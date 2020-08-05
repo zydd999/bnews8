@@ -14,20 +14,20 @@
 <li><a href="/ssgc/20200804/1374352.md">〖微博谈〗北京高层对这场战争十分恐惧</a></li>
 <li><a href="/cbnews/20200804/1374409.md">中共外交部微博“翻车”现场 中网友评论狂打脸</a></li>
 <li><a href="/topimagenews/20200804/1374611.md">胡锡进崩溃自爆来自美国噩耗 瑞士罕见表态制裁中共用狠招 反习派进攻?党媒罕见批军演</a></li>
-<li><a href="/bannedvideo/20200804/1374371.md">北戴河会议吹响反习集结号？883</a></li>
 <li><a href="/topimagenews/20200804/1374686.md">李克强杠上了？再曝经济惨况 中资芯片业难突破 症结在这里 中国银行拍卖流拍打折无人问</a></li>
+<li><a href="/bannedvideo/20200804/1374371.md">北戴河会议吹响反习集结号？883</a></li>
 <li><a href="/cbnews/20200804/1374334.md">习近平带头捐款 崇祯帝之举？中科院院士曝遭逼捐</a></li>
 <li><a href="/topimagenews/20200804/1374687.md">大撤退？美驻京大使馆拍卖 中共外交部微博大型“翻车” 前中共高官:开战陆军倒戈</a></li>
 <li><a href="/topimagenews/20200804/1374405.md">中共盯上这项重要资产？中共派员赴港大规模检测 引发担忧</a></li>
+<li><a href="/cbnews/20200805/1374698.md">武汉瞒不住了!万家宴翻版?彭博跟央视报假新闻死不悔改 深夜政变 川普喊告怒轰窃国</a></li>
 <li><a href="/cbnews/20200804/1374372.md">江峰：日本加入五眼联盟，亚洲最强军队被唤醒。一下子多出来四艘航母，满载世界最强F35战斗机，环球时报为什麽说没什麽影响？</a></li>
 <li><a href="/comments/20200804/1374555.md">中印边境冲突牵出惊天腐败大案 惊动中南海与军委 二汽生产的猛士装甲军车不堪一击 车身击穿 战士被打死 遭军方控告 中南海不可告人的秘密（144）</a></li>
-<li><a href="/cbnews/20200805/1374698.md">武汉瞒不住了!万家宴翻版?彭博跟央视报假新闻死不悔改 深夜政变 川普喊告怒轰窃国</a></li>
 <li><a href="/cbnews/20200804/1374412.md">民调：川普支持率领先拜登 优势或远超2016</a></li>
-<li><a href="/topimagenews/20200804/1374333.md">蓬佩奥：这些对中共及其企业和国有企业都同样适用</a></li>
-<li><a href="/cbnews/20200804/1374406.md">北京强拆四合院 中共再向中产阶级下手？</a></li>
 <li><a href="/comments/20200805/1374720.md">新几内亚岛惊现超大型UFO,悬停半空中4小时且外星人还向地面人群招手</a></li>
+<li><a href="/topimagenews/20200804/1374333.md">蓬佩奥：这些对中共及其企业和国有企业都同样适用</a></li>
+<li><a href="/ssgc/20200805/1374696.md">真相！美国为什么要将TikTok往死里打？</a></li>
+<li><a href="/cbnews/20200804/1374406.md">北京强拆四合院 中共再向中产阶级下手？</a></li>
 <li><a href="/cbnews/20200804/1374528.md">开始抓老壮丁了？陆媒放风征召36周岁至45周岁兵员{图）</a></li>
-<li><a href="/comments/20200804/1374505.md">开始抓老壮丁了？陆媒放风征召36周岁至45周岁兵员</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？(图)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源（组图）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服（图）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复（视频）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生（组图）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？(图)</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能（组图）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论（组图）</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒（图）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复（视频）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 
 </ul>
 </div>
