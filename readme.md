@@ -5,11 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20200805/1374951.md">失联女大生禁区被找到「剩白骨」！搜救人员曝：死后遭啃食 </a></li>
 <li><a href="/comments/20200805/1375063.md">官媒罕见披露习近平在八九民运期间表现</a></li>
 <li><a href="/cbnews/20200805/1375148.md">疑公安部副部长孙力军落马真实原因曝光</a></li>
 <li><a href="/topimagenews/20200805/1375287.md">江系与美密使倒习惊人逆转?开战?中共8月东沙夺岛大反转 内幕:央视环时二代多是美籍</a></li>
-<li><a href="/topimagenews/20200805/1374949.md">以色列猛烈空袭多座伊朗基地 炸的对方毫无还手之力！ </a></li>
 <li><a href="/topimagenews/20200805/1375292.md">习近平要抓曾庆红？绝地反击？传中共豆腐渣军车上阵被打穿 北斗系统遭断供为何还吹？</a></li>
 <li><a href="/cbnews/20200805/1375105.md">袁弓夷揭江绵恒换肾黑幕：孙力军操作 多人丧命</a></li>
 <li><a href="/cbnews/20200806/1375378.md">凌晨4点 一袋大米引发的惨案 一眼望不到头…</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/bannedvideo/20200806/1375391.md">陈破空：军报变调，习近平权力缩水！政治老人合力削弱他。陆克文预告美中开战。贝鲁特大爆炸之谜</a></li>
 <li><a href="/cnnews/20200805/1375177.md">全球封杀无路可走 华为要搞大动作</a></li>
 <li><a href="/topimagenews/20200805/1375286.md">无路可走 习近平改国策 抖音犯大忌前景再添变数 印度要求下架百度和微博</a></li>
-<li><a href="/cbnews/20200805/1375147.md">南京女大学生被诱骗至郊外 遭恐怖情人谋杀埋尸</a></li>
-<li><a href="/cbnews/20200805/1375144.md">中共在恐惧什么？… 设10万奖金“举报”</a></li>
 <li><a href="/comments/20200806/1375429.md">闫丽梦爆中共高层享防疫特供后 前高干病房医生再爆料</a></li>
+<li><a href="/cbnews/20200805/1375147.md">南京女大学生被诱骗至郊外 遭恐怖情人谋杀埋尸</a></li>
 <li><a href="/cbnews/20200806/1375402.md">文昭：美国卫生部长历史性访台！中美三个月内在南海必有一战？七分钟说清为何美利坚不败</a></li>
+<li><a href="/cbnews/20200805/1375144.md">中共在恐惧什么？… 设10万奖金“举报”</a></li>
 <li><a href="/worldnews/20200805/1375140.md">贝鲁特爆炸死伤飙升30万人无家可归 爆炸元凶或是近3千吨硝酸铵</a></li>
 <li><a href="/ssgc/20200806/1375396.md">蓬佩奥：把中国电信从美国扫地出门</a></li>
-<li><a href="/topimagenews/20200805/1374948.md">6800公里外击中目标！美空军：美国试射“民兵3”型洲际弹道导弹</a></li>
-<li><a href="/cbnews/20200805/1375149.md">没钱了！中共南海练兵因5发炮弹挨批</a></li>
 <li><a href="/cbnews/20200806/1375332.md">美大使：川普政府不把共产党看成合法体制</a></li>
+<li><a href="/cbnews/20200805/1375149.md">没钱了！中共南海练兵因5发炮弹挨批</a></li>
 <li><a href="/comments/20200806/1375419.md">巨雷加速引爆 中国信用卡坏账920亿</a></li>
+<li><a href="/ssgc/20200805/1375192.md">恶心的高考满分作文</a></li>
+<li><a href="/yule/20200806/1375342.md">吐实</a></li>
+<li><a href="/cbnews/20200806/1375475.md">天亮时分：北戴河会议是否会成为习近平的一个坎儿;政变成功的模式可能是这样的;从2015年的未遂政变说起</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
