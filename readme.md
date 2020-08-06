@@ -13,20 +13,20 @@
 <li><a href="/cbnews/20200806/1375475.md">天亮时分：北戴河会议是否会成为习近平的一个坎儿;政变成功的模式可能是这样的;从2015年的未遂政变说起</a></li>
 <li><a href="/cbnews/20200806/1375483.md">美拟制裁抖音、微信 中共外交部气爆喊话意外“翻车”</a></li>
 <li><a href="/comments/20200806/1375561.md">邓小平家族是最无耻的中国头号贪腐家族</a></li>
-<li><a href="/cbnews/20200806/1375402.md">文昭：美国卫生部长历史性访台！中美三个月内在南海必有一战？七分钟说清为何美利坚不败</a></li>
 <li><a href="/cbnews/20200806/1375646.md">人民造反了？疫情失控陆网友呛爆中共</a></li>
+<li><a href="/cbnews/20200806/1375402.md">文昭：美国卫生部长历史性访台！中美三个月内在南海必有一战？七分钟说清为何美利坚不败</a></li>
 <li><a href="/baitai/20200806/1375513.md">一针药国内卖到70万国外200元？医保局回复：国外也是高价但百姓有医保</a></li>
 <li><a href="/ssgc/20200806/1375396.md">蓬佩奥：把中国电信从美国扫地出门</a></li>
-<li><a href="/cbnews/20200806/1375332.md">美大使：川普政府不把共产党看成合法体制</a></li>
-<li><a href="/cnnews/20200806/1375655.md">中国信用卡坏账巨雷引爆！中国工人造反！高管遭美起诉 联想出大事!党企巨头栽倒？</a></li>
 <li><a href="/topimagenews/20200806/1375697.md">美防长:和中共打高烈度冲突战 共军秀飞弹没日期还贴绷带!美射洲际导弹速度是中共2倍 </a></li>
+<li><a href="/cnnews/20200806/1375655.md">中国信用卡坏账巨雷引爆！中国工人造反！高管遭美起诉 联想出大事!党企巨头栽倒？</a></li>
+<li><a href="/cbnews/20200806/1375332.md">美大使：川普政府不把共产党看成合法体制</a></li>
+<li><a href="/comments/20200806/1375692.md">李燕铭：北戴河会议激斗 曾庆红地盘出大事！习近平与江曾摊牌？！青海版秦岭别墅案被引爆 赵乐际骆惠宁强卫等多名高官处境高危 赵乐际又一大秘要落马？</a></li>
 <li><a href="/cnnews/20200806/1375541.md">澳总理严正警告：美中恐爆发「热战」</a></li>
 <li><a href="/comments/20200806/1375419.md">巨雷加速引爆 中国信用卡坏账920亿</a></li>
 <li><a href="/baitai/20200806/1375515.md">35岁女子泳池遭13岁男童冒犯，随后全家被人肉，吞500安眠药自杀</a></li>
 <li><a href="/topimagenews/20200806/1375434.md">从APP到传输电缆 美国宣布干净网路计划围堵中共「恶意行为」</a></li>
 <li><a href="/baitai/20200806/1375533.md">飞机刚落地一大学生就被拘了！只因“手欠”</a></li>
-<li><a href="/comments/20200806/1375692.md">李燕铭：北戴河会议激斗 曾庆红地盘出大事！习近平与江曾摊牌？！青海版秦岭别墅案被引爆 赵乐际骆惠宁强卫等多名高官处境高危 赵乐际又一大秘要落马？</a></li>
-<li><a href="/yule/20200806/1375342.md">疯传是「天王嫂训练营」大将-郭富城嫩妻不忍了晒</a></li>
+<li><a href="/comments/20200806/1375682.md">北戴河神秘夜生活：中共领导人集体看禁片</a></li>
 <li><a href="/cnnews/hknews/20200806/1375649.md">美高层率团访台湾 美媒惊吐中美结局</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 
 </ul>
 </div>
