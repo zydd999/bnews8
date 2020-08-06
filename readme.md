@@ -21,13 +21,13 @@
 <li><a href="/cnnews/20200805/1375084.md">中国多省爆“新布尼亚病毒”已知 7人死亡</a></li>
 <li><a href="/cnnews/hknews/20200805/1374931.md">1979年以来最高级别 他曝中共干扰没用了</a></li>
 <li><a href="/baitai/20200805/1374842.md">共匪失掉了国际上所有的援助</a></li>
-<li><a href="/cnnews/20200805/1375177.md">全球封杀无路可走 华为要搞大动作</a></li>
 <li><a href="/bannedvideo/20200805/1374944.md">国产悍马被击穿，牵出特大腐败案 ；中共军队腐败成烂泥，毫无战斗力</a></li>
+<li><a href="/cnnews/20200805/1375177.md">全球封杀无路可走 华为要搞大动作</a></li>
 <li><a href="/bannedvideo/20200805/1374840.md">快评：黎巴嫩大爆炸是中共使坏？8月15中美会晤要谈什么？崔天凯向美突抛橄榄枝（8/4）</a></li>
 <li><a href="/bannedvideo/20200805/1374852.md">中美关系交恶，胡锡进连闯大祸！曝光中共驻美记者面临驱逐困境，核弹论涉嫌逼宫及窥探国家核机密！</a></li>
 <li><a href="/cbnews/20200805/1375144.md">中共在恐惧什么？… 设10万奖金“举报”</a></li>
-<li><a href="/worldnews/20200805/1375140.md">贝鲁特爆炸死伤飙升30万人无家可归 爆炸元凶或是近3千吨硝酸铵</a></li>
 <li><a href="/cbnews/20200805/1375147.md">南京女大学生被诱骗至郊外 遭恐怖情人谋杀埋尸</a></li>
+<li><a href="/worldnews/20200805/1375140.md">贝鲁特爆炸死伤飙升30万人无家可归 爆炸元凶或是近3千吨硝酸铵</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200806/1375429.md" target="_blank">闫丽梦爆中共高层享防疫特供后 前高干病房医生再爆料</a></li>
+<li><a href="/comments/20200806/1375427.md" target="_blank">脱钩大局已定 “内循环”或写进中共“国策”</a></li>
 <li><a href="/comments/20200806/1375422.md" target="_blank">面临3.5万亿资金缺口 中共央行压力山大</a></li>
 <li><a href="/comments/20200806/1375421.md" target="_blank">欧洲二次疫情再起  西班牙两镇重启禁足令  希腊德法当局再发警告</a></li>
 <li><a href="/comments/20200806/1375419.md" target="_blank">巨雷加速引爆 中国信用卡坏账920亿</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200805/1375254.md" target="_blank">时事大家谈：美国剑指中国资讯软件，TikTok和微信该不该禁？</a></li>
 <li><a href="/comments/20200805/1375227.md" target="_blank">【独家】中国政法官员揭中共司法黑幕 破解“十六字”</a></li>
 <li><a href="/comments/20200805/1375224.md" target="_blank">英国7岁童登顶海拔三千米高峰 为史上最年轻</a></li>
-<li><a href="/comments/20200805/1375222.md" target="_blank">澳总理呼吁成立印太联盟 前副防长：澳洲有义务出兵护台</a></li>
-<li><a href="/comments/20200805/1375221.md" target="_blank">【华府看天下】国产软件如「甜蜜陷阱」　自由「交往」专制有多危险</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">数据说话 铁的事实 越亲共 中共肺炎疫情越严重(多图表)</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200712/1359461.md" target="_blank">4400年前大禹治水团队，绘制美国山脉图？（探索与洞见第17集 2020年7月8日）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 
 </ul>
 </div>
