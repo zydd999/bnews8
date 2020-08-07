@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20200807/1375873.md">白宫宣布把中国电信赶走 中共秒怂 要百姓备应急物资 啥信号?</a></li>
 <li><a href="/topimagenews/20200806/1375697.md">美防长:和中共打高烈度冲突战 共军秀飞弹没日期还贴绷带!美射洲际导弹速度是中共2倍 </a></li>
 <li><a href="/comments/20200806/1375682.md">北戴河神秘夜生活：中共领导人集体看禁片</a></li>
-<li><a href="/cnnews/20200807/1375938.md">江泽民糜烂旷古未闻 政法委书记叫嚷进贡处女</a></li>
 <li><a href="/headline/20200807/1375859.md">美中关系恶化 习近平始料未及</a></li>
+<li><a href="/cnnews/20200807/1375938.md">江泽民糜烂旷古未闻 政法委书记叫嚷进贡处女</a></li>
 <li><a href="/topimagenews/20200807/1375982.md">字节跳动和腾讯！川普签行政令：9月20日开始禁止美国人与其做交易！</a></li>
 <li><a href="/cbnews/20200807/1376096.md">习近平遭党内严批 军方没准备好与美对抗</a></li>
 <li><a href="/bannedvideo/20200807/1375799.md">快评：党媒推出习近平镇压六四文，用意很深！美发射六千公里洲际导弹，弹压北京！（8/6）</a></li>
@@ -18,7 +18,6 @@
 <li><a href="/topimagenews/20200807/1375875.md">内循环下过紧日子 大陆银行业出现大幅度降薪潮</a></li>
 <li><a href="/ssgc/20200807/1375845.md">〖兲朝浮世绘〗中共开始学金三胖了，用核战威胁</a></li>
 <li><a href="/cnnews/20200807/1375892.md">为党遮丑而"牺牲"的女人</a></li>
-<li><a href="/worldnews/20200806/1375664.md">贝鲁特惊天一爆震毁军舰外电暗指与天津大爆炸相关</a></li>
 <li><a href="/baitai/20200807/1375788.md">张杰：王沪宁的人生成败</a></li>
 <li><a href="/comments/20200807/1375863.md">胡春华是下届总理热门人选 在央媒曝光率远超李克强 至少两名政治局常委将退任 中南海谣言预言_237</a></li>
 <li><a href="/ssgc/20200807/1375847.md">大陆灾害实情惊人 高层作秀无用</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20200806/1375753.md">脸书CEO扎克伯格说句实话 中共翻脸</a></li>
 <li><a href="/ssgc/20200807/1375807.md">王毅对美中关系再次喊话的无奈</a></li>
 <li><a href="/cbnews/20200807/1375991.md">七常委隐身6天 中共高层正在北戴河秘斗？</a></li>
+<li><a href="/cbnews/20200807/1375983.md">细思极恐！大陆手机记录日常对话</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200807/1376226.md" target="_blank">习近平会翻车？北戴河三大话题</a></li>
 <li><a href="/topimagenews/20200807/1376194.md" target="_blank">美国隔绝中共开辟5大战线 30多国加盟 脱钩分阶段 风向？党媒：必须降房价促消费</a></li>
 <li><a href="/topimagenews/20200807/1376088.md" target="_blank">腾讯股价应声大跌！盘中下跌近10% 市值跌破5万亿港元</a></li>
 <li><a href="/topimagenews/20200807/1376087.md" target="_blank">国防部加强中文能力 美防长：大幅调整方向对抗中共</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20200805/1374948.md" target="_blank">6800公里外击中目标！美空军：美国试射“民兵3”型洲际弹道导弹</a></li>
 <li><a href="/topimagenews/20200805/1374855.md" target="_blank">中共白白高兴了一场！美国安顾问测试结果出来了</a></li>
 <li><a href="/topimagenews/20200805/1374854.md" target="_blank">中共高兴有点早 专家分析“北斗系统能否正常运作都是问题”</a></li>
-<li><a href="/topimagenews/20200804/1374687.md" target="_blank">大撤退？美驻京大使馆拍卖 中共外交部微博大型“翻车” 前中共高官:开战陆军倒戈</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200807/1376213.md" target="_blank">安倍特使前首相森喜朗9日率团赴台追悼李登辉 会晤蔡英文</a></li>
 <li><a href="/comments/20200807/1376202.md" target="_blank">拜登-桑德斯宣言 选民必须审视拜登向左大跃进的程度</a></li>
 <li><a href="/comments/20200807/1376201.md" target="_blank">【微博精粹】私企老板快跑光了 我正恶补英语 随时准备给美军带路</a></li>
 <li><a href="/comments/20200807/1376182.md" target="_blank">印度持续打击中企 美议员隔空喊话：加强印美关系携手抗共</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200807/1376013.md" target="_blank">沈舟：王毅对美中关系再次喊话的无奈</a></li>
 <li><a href="/comments/20200807/1376012.md" target="_blank">李靖宇：从威权到民主 李登辉带领台湾“宁静革命”</a></li>
 <li><a href="/comments/20200807/1376011.md" target="_blank">拜登的税收方案预示川普胜利</a></li>
-<li><a href="/comments/20200807/1376010.md" target="_blank">谢田：九项要素具备 美国才可收购抖音</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 
 </ul>
 </div>
