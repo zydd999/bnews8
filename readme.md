@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/baitai/20200806/1375555.md">国内著名音乐人吃饭时被人打死年仅34岁 内情曝光</a></li>
 <li><a href="/comments/20200806/1375561.md">邓小平家族是最无耻的中国头号贪腐家族</a></li>
 <li><a href="/cbnews/20200806/1375646.md">人民造反了？疫情失控陆网友呛爆中共</a></li>
 <li><a href="/comments/20200806/1375692.md">李燕铭：北戴河会议激斗 曾庆红地盘出大事！习近平与江曾摊牌？！青海版秦岭别墅案被引爆 赵乐际骆惠宁强卫等多名高官处境高危 赵乐际又一大秘要落马？</a></li>
-<li><a href="/topimagenews/20200806/1375697.md">美防长:和中共打高烈度冲突战 共军秀飞弹没日期还贴绷带!美射洲际导弹速度是中共2倍 </a></li>
 <li><a href="/topimagenews/20200807/1375873.md">白宫宣布把中国电信赶走 中共秒怂 要百姓备应急物资 啥信号?</a></li>
+<li><a href="/topimagenews/20200806/1375697.md">美防长:和中共打高烈度冲突战 共军秀飞弹没日期还贴绷带!美射洲际导弹速度是中共2倍 </a></li>
 <li><a href="/cnnews/20200806/1375655.md">中国信用卡坏账巨雷引爆！中国工人造反！高管遭美起诉 联想出大事!党企巨头栽倒？</a></li>
 <li><a href="/comments/20200806/1375682.md">北戴河神秘夜生活：中共领导人集体看禁片</a></li>
 <li><a href="/headline/20200807/1375859.md">美中关系恶化 习近平始料未及</a></li>
-<li><a href="/cnnews/20200806/1375541.md">澳总理严正警告：美中恐爆发「热战」</a></li>
 <li><a href="/cnnews/hknews/20200806/1375649.md">美高层率团访台湾 美媒惊吐中美结局</a></li>
 <li><a href="/ssgc/20200807/1375845.md">〖兲朝浮世绘〗中共开始学金三胖了，用核战威胁</a></li>
 <li><a href="/bannedvideo/20200807/1375799.md">快评：党媒推出习近平镇压六四文，用意很深！美发射六千公里洲际导弹，弹压北京！（8/6）</a></li>
-<li><a href="/worldnews/20200806/1375664.md">贝鲁特惊天一爆震毁军舰外电暗指与天津大爆炸相关</a></li>
+<li><a href="/cnnews/20200807/1375938.md">江泽民糜烂旷古未闻 政法委书记叫嚷进贡处女</a></li>
 <li><a href="/topimagenews/20200807/1375875.md">内循环下过紧日子 大陆银行业出现大幅度降薪潮</a></li>
+<li><a href="/worldnews/20200806/1375664.md">贝鲁特惊天一爆震毁军舰外电暗指与天津大爆炸相关</a></li>
 <li><a href="/comments/20200806/1375562.md">美国合纵成功 中共国瓦解西方愿望落空</a></li>
 <li><a href="/ssgc/20200807/1375847.md">大陆灾害实情惊人 高层作秀无用</a></li>
-<li><a href="/cnnews/20200807/1375938.md">江泽民糜烂旷古未闻 政法委书记叫嚷进贡处女</a></li>
 <li><a href="/baitai/20200807/1375788.md">张杰：王沪宁的人生成败</a></li>
+<li><a href="/cnnews/20200807/1375892.md">为党遮丑而"牺牲"的女人</a></li>
 <li><a href="/cbnews/20200806/1375582.md">呼吁全球追责 阎丽梦：中共不会只制造1个病毒</a></li>
-<li><a href="/cbnews/20200806/1375585.md">中共政法官员揭中共司法黑幕：就是个笑话</a></li>
 <li><a href="/comments/20200807/1375863.md">胡春华是下届总理热门人选 在央媒曝光率远超李克强 至少两名政治局常委将退任 中南海谣言预言_237</a></li>
+<li><a href="/topimagenews/20200807/1375982.md">字节跳动和腾讯！川普签行政令：9月20日开始禁止美国人与其做交易！</a></li>
+<li><a href="/cbnews/20200806/1375585.md">中共政法官员揭中共司法黑幕：就是个笑话</a></li>
 <li><a href="/headline/20200807/1375803.md">美中媒体大战：签证恐慌掀起一波巨浪</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200807/1376064.md" target="_blank">川普正式颁布行政令 45天后禁用腾讯微信、tiktok</a></li>
 <li><a href="/comments/20200807/1376063.md" target="_blank">新车发布：33寸超级巨幅大屏幕！GM首款纯电SUV</a></li>
 <li><a href="/comments/20200807/1376020.md" target="_blank">七常委隐身一周 传闻四起 中共高层正在北戴河酣斗？</a></li>
 <li><a href="/comments/20200807/1376015.md" target="_blank">王友群：蓬佩奥的演讲与习近平的关系</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200807/1375932.md" target="_blank">方圆：香港只是中美关系一只棋子</a></li>
 <li><a href="/comments/20200807/1375931.md" target="_blank">六神磊磊：《四十二章经》是怎么火起来的 躺红的硬道理</a></li>
 <li><a href="/comments/20200807/1375707.md" target="_blank">菩萨手上的那本书就是《转法轮》</a></li>
-<li><a href="/comments/20200807/1375914.md" target="_blank">分析师：中共打击影子银行或损害中小企业</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
