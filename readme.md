@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20200806/1375646.md">人民造反了？疫情失控陆网友呛爆中共</a></li>
 <li><a href="/comments/20200806/1375692.md">李燕铭：北戴河会议激斗 曾庆红地盘出大事！习近平与江曾摊牌？！青海版秦岭别墅案被引爆 赵乐际骆惠宁强卫等多名高官处境高危 赵乐际又一大秘要落马？</a></li>
 <li><a href="/topimagenews/20200806/1375697.md">美防长:和中共打高烈度冲突战 共军秀飞弹没日期还贴绷带!美射洲际导弹速度是中共2倍 </a></li>
-<li><a href="/cnnews/20200806/1375655.md">中国信用卡坏账巨雷引爆！中国工人造反！高管遭美起诉 联想出大事!党企巨头栽倒？</a></li>
 <li><a href="/topimagenews/20200807/1375873.md">白宫宣布把中国电信赶走 中共秒怂 要百姓备应急物资 啥信号?</a></li>
+<li><a href="/cnnews/20200806/1375655.md">中国信用卡坏账巨雷引爆！中国工人造反！高管遭美起诉 联想出大事!党企巨头栽倒？</a></li>
 <li><a href="/comments/20200806/1375682.md">北戴河神秘夜生活：中共领导人集体看禁片</a></li>
 <li><a href="/cnnews/20200806/1375541.md">澳总理严正警告：美中恐爆发「热战」</a></li>
 <li><a href="/headline/20200807/1375859.md">美中关系恶化 习近平始料未及</a></li>
 <li><a href="/cnnews/hknews/20200806/1375649.md">美高层率团访台湾 美媒惊吐中美结局</a></li>
 <li><a href="/ssgc/20200807/1375845.md">〖兲朝浮世绘〗中共开始学金三胖了，用核战威胁</a></li>
-<li><a href="/worldnews/20200806/1375664.md">贝鲁特惊天一爆震毁军舰外电暗指与天津大爆炸相关</a></li>
 <li><a href="/bannedvideo/20200807/1375799.md">快评：党媒推出习近平镇压六四文，用意很深！美发射六千公里洲际导弹，弹压北京！（8/6）</a></li>
+<li><a href="/worldnews/20200806/1375664.md">贝鲁特惊天一爆震毁军舰外电暗指与天津大爆炸相关</a></li>
 <li><a href="/comments/20200806/1375562.md">美国合纵成功 中共国瓦解西方愿望落空</a></li>
 <li><a href="/ssgc/20200807/1375847.md">大陆灾害实情惊人 高层作秀无用</a></li>
 <li><a href="/baitai/20200807/1375788.md">张杰：王沪宁的人生成败</a></li>
 <li><a href="/cbnews/20200806/1375582.md">呼吁全球追责 阎丽梦：中共不会只制造1个病毒</a></li>
 <li><a href="/cbnews/20200806/1375585.md">中共政法官员揭中共司法黑幕：就是个笑话</a></li>
-<li><a href="/headline/20200807/1375803.md">美中媒体大战：签证恐慌掀起一波巨浪</a></li>
+<li><a href="/topimagenews/20200807/1375875.md">内循环下过紧日子 大陆银行业出现大幅度降薪潮</a></li>
 <li><a href="/comments/20200807/1375863.md">胡春华是下届总理热门人选 在央媒曝光率远超李克强 至少两名政治局常委将退任 中南海谣言预言_237</a></li>
+<li><a href="/headline/20200807/1375803.md">美中媒体大战：签证恐慌掀起一波巨浪</a></li>
 <li><a href="/ssgc/20200806/1375753.md">脸书CEO扎克伯格说句实话 中共翻脸</a></li>
-<li><a href="/baitai/20200806/1375556.md">中国最富“药神”夫妻！身家2562亿元，手握7000亿公司</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
 
 </ul>
 </div>
