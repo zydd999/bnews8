@@ -16,17 +16,19 @@
 
 方法2、定时自动同步
 
-你需要一台墙外的电脑，或者一台VPS,我们以一台Linux(Debian 10) VPS为例，首先，用ssh客户端登录linux，然后执行下列命令：
+你需要一台墙外的电脑，或者一台VPS,我们以一台Linux(Debian 10) VPS为例，首先，用ssh客户端登录linux，然后执行下列命令安装git工具：
 ```
 apt update
 apt install git
 ```
 
+如果是windows电脑，请安装 [Git for Windows](https://git-scm.com/download/win)
+
 然后，使用 SSH 连接到你的 GitHub账号(利用 SSH 密钥可以连接 GitHub，而无需在每次访问时提供用户名或密码，方便定时更新git禁闻镜像)
 参考: 
 https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh
 
-然后 依次执行下列命令（一行一行依次拷贝执行,注意将your-github-username换作你自己的github用户名）：
+然后 Linux 则依次执行下列命令（一行一行依次拷贝执行,注意将your-github-username换作你自己的github用户名）：
 ```
 cd /root
 git config --global core.autocrlf input
@@ -36,7 +38,18 @@ chmod +x syncnews.sh
 git remote add upstream https://github.com/fqnews/bnews.git
 ```
 
-然后将下列脚本加到你的linux crontab 里面定时执行即可：
+然后将下列脚本加到你的linux crontab 里面定时执行即可。
 
 `/root/bnews/syncnews.sh`
+
+Windows 则先打开Git CMD命令行，依次执行下列命令：
+```
+git config --global core.autocrlf true
+git clone git@github.com:your-github-username/bnews.git
+cd bnews
+git remote add upstream https://github.com/fqnews/bnews.git
+```
+这时，在当前这个 bnews 目录下会有一个 syncnews.bat 命令脚本，把这个命令脚本加入到windows的任务计划程序定时执行即可。
+
+
 
