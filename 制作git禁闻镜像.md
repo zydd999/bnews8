@@ -38,9 +38,9 @@ chmod +x syncnews.sh
 git remote add upstream https://github.com/fqnews/bnews.git
 ```
 
-然后将下列脚本加到你的linux crontab 里面定时执行即可。
+然后将脚本 `/root/bnews/syncnews.sh` 加到你的linux crontab 里面定时执行即可。
 
-`/root/bnews/syncnews.sh`
+
 
 Windows 则先打开Git CMD命令行，依次执行下列命令：
 ```
