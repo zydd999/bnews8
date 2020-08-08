@@ -26,7 +26,7 @@ apt install git
 参考: 
 https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh
 
-然后 依次执行下列命令（一行一行依次拷贝执行）：
+然后 依次执行下列命令（一行一行依次拷贝执行,注意将your-github-username换作你自己的github用户名）：
 ```
 cd /root
 git config --global core.autocrlf input
@@ -37,5 +37,6 @@ git remote add upstream https://github.com/fqnews/bnews.git
 ```
 
 然后将下列脚本加到你的linux crontab 里面定时执行即可：
+
 `/root/bnews/syncnews.sh`
 
