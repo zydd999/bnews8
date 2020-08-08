@@ -16,7 +16,7 @@
 
 方法2、定时自动同步
 
-你需要一台<b>墙外（因为安全的原因,必须墙外）</b>的电脑，或者一台VPS,我们以一台Linux(Debian 10) VPS为例，首先，用ssh客户端登录linux，然后执行下列命令安装git工具：
+你需要一台<b>墙外（因为安全的原因,必须墙外）</b>的Windows电脑或者Linux VPS,以Linux(Debian 10) VPS为例，首先，用ssh客户端登录linux，然后执行下列命令安装git工具：
 ```
 apt update
 apt install git
