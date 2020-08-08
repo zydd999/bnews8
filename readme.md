@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20200807/1376320.md">大地震！川普封杀中共标本兼治 中企或1年多后被美全退市 没钱了！中共财政部令下</a></li>
 <li><a href="/topimagenews/20200807/1376194.md">美国隔绝中共开辟5大战线 30多国加盟 脱钩分阶段 风向？党媒：必须降房价促消费</a></li>
 <li><a href="/cbnews/20200807/1376089.md">美卫生部长将访台 胡锡进一句话笑翻网友</a></li>
-<li><a href="/comments/20200807/1376201.md">【微博精粹】私企老板快跑光了 我正恶补英语 随时准备给美军带路 </a></li>
 <li><a href="/cbnews/20200808/1376424.md"> 专栏 | 夜话中南海：香港民调再次把李克强架在火上烤</a></li>
+<li><a href="/comments/20200807/1376201.md">【微博精粹】私企老板快跑光了 我正恶补英语 随时准备给美军带路 </a></li>
 <li><a href="/cbnews/20200807/1375983.md">细思极恐！大陆手机记录日常对话</a></li>
 <li><a href="/cbnews/20200807/1375993.md">美中防长5个月来首次通话 声明大不同</a></li>
 <li><a href="/cbnews/20200807/1375991.md">七常委隐身6天 中共高层正在北戴河秘斗？</a></li>
 <li><a href="/comments/20200807/1376326.md">【快讯】美国宣布制裁林郑月娥等12名中港官员</a></li>
 <li><a href="/ssgc/20200807/1376153.md">可疑的福奇</a></li>
 <li><a href="/cbnews/20200807/1376197.md">美封杀TikTok微信 中共外交部跳脚引嘲讽</a></li>
-<li><a href="/topimagenews/20200807/1376088.md">腾讯股价应声大跌！盘中下跌近10% 市值跌破5万亿港元</a></li>
 <li><a href="/cnnews/20200808/1376350.md">武汉医师爆内幕竟然藏暗语 白左抗疫:5千万新医院治79人 武肺有效药中共隐瞒左派斥责</a></li>
+<li><a href="/topimagenews/20200807/1376088.md">腾讯股价应声大跌！盘中下跌近10% 市值跌破5万亿港元</a></li>
+<li><a href="/bannedvideo/20200808/1376477.md">老共红色大佬的天量海外资产，在2023年后将会被迫公开，英联邦国家推进反洗钱，避税天堂优势不再！</a></li>
 <li><a href="/cnnews/20200807/1376162.md">推特贴中国官媒标签 德媒：胡锡进被「提拔」不知他该哭还该笑 </a></li>
 <li><a href="/ssgc/20200807/1376314.md">杨洁篪：愿与美对话  但中共体制是底线</a></li>
 <li><a href="/cbnews/20200807/1376036.md">美卫生部长将访台 中共突公告将于舟山海域实弹射击</a></li>
 <li><a href="/cbnews/20200807/1376198.md">抖音爆红玩具 3岁女童眼睛被扎 大半根深插颅脑</a></li>
+<li><a href="/cbnews/20200808/1376442.md">几位中国军人讲述服役期间不堪回首的恐怖往事</a></li>
 <li><a href="/cnnews/20200807/1376107.md">微信比TikTok更悬 川普刚刚签署了新行政令</a></li>
-<li><a href="/ssgc/20200807/1376169.md">美国重拳出击 北京再施拖延伎俩</a></li>
-<li><a href="/cbnews/20200807/1376154.md">青年失业问题冲击政权？中共扩大实习规模</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200808/1376533.md" target="_blank">可疑的福奇！</a></li>
+<li><a href="/comments/20200808/1376532.md" target="_blank">周晓辉：美国重拳出击 北京再施拖延伎俩</a></li>
+<li><a href="/comments/20200808/1376531.md" target="_blank">中共专家的“高招”：回归“一妻多夫”的母系社会</a></li>
+<li><a href="/comments/20200808/1376530.md" target="_blank">二大爷：美国净网计划再抡一锤砸向微信</a></li>
+<li><a href="/comments/20200808/1376529.md" target="_blank">无辜坐牢9778天 本是一场悲剧 怎么就变成感动中国了</a></li>
 <li><a href="/comments/20200808/1376523.md" target="_blank">日媒：习近平自比毛泽东 计划掌权至2035</a></li>
 <li><a href="/comments/20200808/1376522.md" target="_blank">蓬佩奥：国务院悬赏1000万 制止外国势力干预美国大选</a></li>
 <li><a href="/comments/20200808/1376513.md" target="_blank">中美剑拔弩张 北戴河风起云涌</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20200808/1376449.md" target="_blank">“应对棘手全球挑战” 英任命‘中国通’吴百纳女爵为驻联合国大使</a></li>
 <li><a href="/comments/20200808/1376441.md" target="_blank">美国频出制裁重拳 中共招架不住急喊“中美对话大门敞开”</a></li>
 <li><a href="/comments/20200808/1376433.md" target="_blank">香港观察：美宣布制裁林郑等港府和中共官员是支持香港民主运动的里程碑</a></li>
-<li><a href="/comments/20200808/1376409.md" target="_blank">新报告细揭好莱坞为票房向中共下跪 威胁西方价值观</a></li>
-<li><a href="/comments/20200808/1376408.md" target="_blank">美国7月增加近180万个工作岗位 超出预期</a></li>
-<li><a href="/comments/20200808/1376401.md" target="_blank">美国天主教新闻网：教皇方济各在北京面前畏手畏脚</a></li>
-<li><a href="/comments/20200808/1376382.md" target="_blank">2.5亿光年左右的宇宙超级空洞，是外星文明的星际大战造成的？</a></li>
-<li><a href="/comments/20200808/1376366.md" target="_blank">离婚对子女的影响不可忽视  古人 “糟糠之妻不下堂”道出婚姻真谛</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
