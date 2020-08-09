@@ -16,16 +16,16 @@
 <li><a href="/cnnews/20200809/1376947.md">崔永元诉苦：“不让我出国！”</a></li>
 <li><a href="/comments/20200808/1376814.md">美国制裁中港官员 骆惠宁称寄100美元供冻结 网友：钱多人傻</a></li>
 <li><a href="/yule/20200809/1376896.md">41岁高圆圆商场亮相被包围 路人镜头曝光真实颜值</a></li>
-<li><a href="/yule/20200809/1376899.md">张瑜：23岁成名 33岁离婚 38岁转型幕后 今无儿无女风韵犹存</a></li>
 <li><a href="/cnnews/20200809/1376979.md">因为方方 作协副主席张抗抗被逼成了这样！</a></li>
+<li><a href="/yule/20200809/1376899.md">张瑜：23岁成名 33岁离婚 38岁转型幕后 今无儿无女风韵犹存</a></li>
 <li><a href="/topimagenews/20200809/1376988.md">前中共外交官：中共下一个目标一定是攻打台湾</a></li>
 <li><a href="/baitai/20200808/1376764.md">富商因债务纠纷被装入铁笼扔水库 遗体如婴儿般蜷缩</a></li>
+<li><a href="/topimagenews/20200809/1377012.md">袁弓夷爆上千中共党员在美叛逃</a></li>
 <li><a href="/bannedvideo/20200809/1376904.md">陈破空：北戴河放禁片？习家军忽然拜见老同志。美国制裁港官！共军豆腐渣军车遭印军击穿</a></li>
 <li><a href="/cnnews/hknews/20200809/1376931.md">美国对中港官员的制裁真的“毫无意义”仅值100美元吗？</a></li>
-<li><a href="/topimagenews/20200809/1377012.md">袁弓夷爆上千中共党员在美叛逃</a></li>
 <li><a href="/cnnews/20200809/1376879.md">拜登:当选取消川普对中国关税 日媒:习自比毛要再掌权15年 数千海外华人对微信集体起诉</a></li>
-<li><a href="/topimagenews/20200809/1376970.md">美攻势凌厉 中共北戴河讨论“持久战”？</a></li>
 <li><a href="/cbnews/20200809/1377014.md">胡锡进放狂言：美国敢和中国断交吗？遭网友炮轰  </a></li>
+<li><a href="/topimagenews/20200809/1376970.md">美攻势凌厉 中共北戴河讨论“持久战”？</a></li>
 <li><a href="/baitai/20200809/1376836.md">【麻辣总局】民企为何要建党支部？中组部给了正面回应</a></li>
 <li><a href="/bannedvideo/20200808/1376815.md">中国共产党内部数据分析 红朝衰败已沦为革命对象｜「透视中国」时事解读【0030】SinoInsider 20200808</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200809/1377251.md" target="_blank">英媒披露新疆男模求救影片 北京抓狂称假新闻</a></li>
 <li><a href="/cbnews/20200809/1377238.md" target="_blank">防止中共蠢动？美“雷根号”航母东海巡弋</a></li>
 <li><a href="/cbnews/20200809/1377194.md" target="_blank">蓬佩奥再斥中共打压自由 警告行动将陆续有来</a></li>
 <li><a href="/cbnews/20200809/1377169.md" target="_blank">美军试射机载洲际导弹 展示核三位一体威力</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200808/1376595.md" target="_blank">北戴河暗潮汹涌 中共元老联手对付习近平？</a></li>
 <li><a href="/cbnews/20200808/1376592.md" target="_blank">江峰：香港制裁名单出台！抖音TikTok、微信WeChat禁用！重鎚落下！新词：数字脱钩</a></li>
 <li><a href="/cbnews/20200808/1376585.md" target="_blank">美对台军售案惹火北京 专家曝军购有一大关键</a></li>
-<li><a href="/cbnews/20200808/1376566.md" target="_blank">中共的“命门”被找到 杨洁篪“坚定维护”中美关系 王毅“拒绝脱钩”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
