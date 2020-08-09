@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20200809/1376853.md">瑞士11月公投冻结中共权贵5000账户20万亿存款 891</a></li>
 <li><a href="/cnnews/20200809/1376938.md">微信被封 这个软件在中国下载量激增</a></li>
 <li><a href="/cnnews/20200809/1376880.md">李克强硬起来？另起炉灶？中国梦碎痛失对美3大依赖 财政紧张 医保剔除八类药</a></li>
 <li><a href="/ssgc/20200809/1376915.md">习李矛盾加剧 今年北戴河不同寻常</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cnnews/20200809/1377236.md">突发！微软新服务协议：断供中国时不承担责任</a></li>
 <li><a href="/topimagenews/20200809/1377321.md">有种情况 中美一定会开战 习近平最终决策三手齐下 信号！北戴河会议定局？</a></li>
 <li><a href="/cnnews/20200809/1376979.md">因为方方 作协副主席张抗抗被逼成了这样！</a></li>
-<li><a href="/comments/20200809/1377175.md">习近平与江曾决战 第一个干掉马云？接下来江志成江绵恒 吴征在上海闹市当街被抓 供出孙立军孟建柱海外资产 还有江家和马云 演艺圈电影圈金融圈要地震！半个中国要震荡！吴征反水投靠习 将赴美执行任务 对付江曾海外特务势力 中南海谣言预言_240</a></li>
 <li><a href="/yule/20200809/1376899.md">张瑜：23岁成名 33岁离婚 38岁转型幕后 今无儿无女风韵犹存</a></li>
+<li><a href="/comments/20200809/1377175.md">习近平与江曾决战 第一个干掉马云？接下来江志成江绵恒 吴征在上海闹市当街被抓 供出孙立军孟建柱海外资产 还有江家和马云 演艺圈电影圈金融圈要地震！半个中国要震荡！吴征反水投靠习 将赴美执行任务 对付江曾海外特务势力 中南海谣言预言_240</a></li>
 <li><a href="/topimagenews/20200809/1376988.md">前中共外交官：中共下一个目标一定是攻打台湾</a></li>
 <li><a href="/cnnews/20200809/1377192.md">林郑幼子行踪不明！被指2周前因「家有急事」美国回港 电话被封</a></li>
 <li><a href="/topimagenews/20200809/1377246.md">美1天3重拳中概股大跌 没芯了！华为麒麟没了 中共让68个穷国陷债务陷阱</a></li>
 <li><a href="/topimagenews/20200809/1377193.md">宛如六四前夕！「反送中运动」突被定性为「反政府动乱」 </a></li>
 <li><a href="/topimagenews/20200809/1377012.md">袁弓夷爆上千中共党员在美叛逃</a></li>
-<li><a href="/baitai/20200809/1377223.md">愚工：余茂春一招摆平华府中国通</a></li>
 <li><a href="/cbnews/20200809/1377054.md">中共指示反美改唱双赢 五毛懵了！</a></li>
+<li><a href="/baitai/20200809/1377223.md">愚工：余茂春一招摆平华府中国通</a></li>
 <li><a href="/cbnews/20200809/1377014.md">胡锡进放狂言：美国敢和中国断交吗？遭网友炮轰  </a></li>
-<li><a href="/comments/20200809/1377221.md">北戴河会议敏感期 深航客机陡降6000米后返航 显示7700紧急代码</a></li>
 <li><a href="/bannedvideo/20200809/1376904.md">陈破空：北戴河放禁片？习家军忽然拜见老同志。美国制裁港官！共军豆腐渣军车遭印军击穿</a></li>
+<li><a href="/comments/20200809/1377221.md">北戴河会议敏感期 深航客机陡降6000米后返航 显示7700紧急代码</a></li>
 <li><a href="/cbnews/20200809/1377017.md">湖南邵阳禁电动车上路 数千市民抗议追打交警</a></li>
+<li><a href="/topimagenews/20200809/1376970.md">美攻势凌厉 中共北戴河讨论“持久战”？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200810/1377404.md" target="_blank">一场大雨 湖北孝感市孝昌县又是一片汪洋</a></li>
 <li><a href="/cbnews/20200809/1377362.md" target="_blank">辽宁丹东法轮功学员李才宇被构陷 公安终撤案</a></li>
 <li><a href="/cbnews/20200809/1377339.md" target="_blank">财富要避险 人生更应该避险</a></li>
 <li><a href="/cbnews/20200809/1377337.md" target="_blank">抖音微信是中共信息战的航空母舰 必须禁</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200808/1376705.md" target="_blank">郭美美简直是换了一张脸 碰瓷明星又上了热搜</a></li>
 <li><a href="/cbnews/20200808/1376647.md" target="_blank">美国制裁港府官员 胡锡进遭轰：功不可没、祸国殃民</a></li>
 <li><a href="/cbnews/20200808/1376633.md" target="_blank">美大动作踩红线 北戴河要翻腾了 传习近平被逼下台</a></li>
-<li><a href="/cbnews/20200808/1376632.md" target="_blank">唐娟案 前FBI反间谍特工如何解读?</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
