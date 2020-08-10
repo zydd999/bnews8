@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20200809/1377321.md">有种情况 中美一定会开战 习近平最终决策三手齐下 信号！北戴河会议定局？</a></li>
 <li><a href="/comments/20200809/1377175.md">习近平与江曾决战 第一个干掉马云？接下来江志成江绵恒 吴征在上海闹市当街被抓 供出孙立军孟建柱海外资产 还有江家和马云 演艺圈电影圈金融圈要地震！半个中国要震荡！吴征反水投靠习 将赴美执行任务 对付江曾海外特务势力 中南海谣言预言_240</a></li>
 <li><a href="/cnnews/20200809/1377236.md">突发！微软新服务协议：断供中国时不承担责任</a></li>
-<li><a href="/topimagenews/20200809/1376988.md">前中共外交官：中共下一个目标一定是攻打台湾</a></li>
 <li><a href="/topimagenews/20200809/1377246.md">美1天3重拳中概股大跌 没芯了！华为麒麟没了 中共让68个穷国陷债务陷阱</a></li>
 <li><a href="/cnnews/20200809/1377192.md">林郑幼子行踪不明！被指2周前因「家有急事」美国回港 电话被封</a></li>
 <li><a href="/topimagenews/20200809/1377193.md">宛如六四前夕！「反送中运动」突被定性为「反政府动乱」 </a></li>
 <li><a href="/bannedvideo/20200809/1377349.md">突发快评：林郑幼子在波士顿突然失踪！欠房租、留行李。被美执法或仓惶逃港？制裁和追诉的心理震慑作用非同小可！（8/9）</a></li>
+<li><a href="/ssgc/20200810/1377425.md">〖兲朝浮世绘〗瑞士这一招比美国制裁香港狠一万倍</a></li>
 <li><a href="/topimagenews/20200809/1377012.md">袁弓夷爆上千中共党员在美叛逃</a></li>
 <li><a href="/baitai/20200809/1377223.md">愚工：余茂春一招摆平华府中国通</a></li>
 <li><a href="/cbnews/20200809/1377014.md">胡锡进放狂言：美国敢和中国断交吗？遭网友炮轰  </a></li>
-<li><a href="/ssgc/20200810/1377425.md">〖兲朝浮世绘〗瑞士这一招比美国制裁香港狠一万倍</a></li>
 <li><a href="/cbnews/20200809/1377054.md">中共指示反美改唱双赢 五毛懵了！</a></li>
 <li><a href="/topimagenews/20200809/1377376.md">抖音犯大忌 谁拿到美千万悬赏？川普团队:微信遍布共特共谍 抖音姓党 挡都挡不住</a></li>
 <li><a href="/comments/20200809/1377221.md">北戴河会议敏感期 深航客机陡降6000米后返航 显示7700紧急代码</a></li>
 <li><a href="/cbnews/20200809/1377017.md">湖南邵阳禁电动车上路 数千市民抗议追打交警</a></li>
 <li><a href="/cnnews/20200810/1377407.md">中共外长回应蓬佩奥 话是说给谁听的</a></li>
 <li><a href="/ssgc/20200809/1377354.md">终于来了！我们已经等了整整三年！</a></li>
-<li><a href="/cnnews/hknews/20200809/1377190.md">林郑遭美国制裁反呛 罗冠聪开酸：次子无法入境</a></li>
 <li><a href="/bannedvideo/20200809/1377197.md">袁弓夷：孙力军转移病毒证据被澳洲截获 已交美国| 真相传媒</a></li>
+<li><a href="/cnnews/hknews/20200809/1377190.md">林郑遭美国制裁反呛 罗冠聪开酸：次子无法入境</a></li>
 <li><a href="/cbnews/20200809/1377251.md">英媒披露新疆男模求救影片 北京抓狂称假新闻</a></li>
 <li><a href="/cnnews/20200809/1377297.md">川普令下 美制裁是角力真正开端 中共高官忧瑞士银行被颠覆 林郑不怕?次子在哈佛读书</a></li>
+<li><a href="/ssgc/20200810/1377445.md">中南海内斗你死我活 李克强处境微妙</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
 
 </ul>
 </div>
