@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20200809/1377349.md">突发快评：林郑幼子在波士顿突然失踪！欠房租、留行李。被美执法或仓惶逃港？制裁和追诉的心理震慑作用非同小可！（8/9）</a></li>
 <li><a href="/topimagenews/20200810/1377469.md">快讯！香港黎智英及次子被捕</a></li>
 <li><a href="/topimagenews/20200809/1377376.md">抖音犯大忌 谁拿到美千万悬赏？川普团队:微信遍布共特共谍 抖音姓党 挡都挡不住</a></li>
-<li><a href="/ssgc/20200809/1377354.md">终于来了！我们已经等了整整三年！</a></li>
 <li><a href="/cbnews/20200810/1377582.md">北戴河权斗正酣？栗战书中途离场 一惯例被打破</a></li>
+<li><a href="/ssgc/20200809/1377354.md">终于来了！我们已经等了整整三年！</a></li>
 <li><a href="/cnnews/20200810/1377407.md">中共外长回应蓬佩奥 话是说给谁听的</a></li>
 <li><a href="/bannedvideo/20200810/1377439.md">陈破空：缠斗北戴河，习近平暗示自己寿命？躲制裁林郑儿子跑路。胡锡进渴望当带路党。美日专机同现台北</a></li>
 <li><a href="/cbnews/20200810/1377454.md">天亮时分：麒麟断芯,微软断供,华为休克;华为的今天就是中共经济的明天,以及解决之道(政论天下第211集 20200809)</a></li>
 <li><a href="/bannedvideo/20200810/1377484.md">中共家族瑞士银行20万亿?或许更多！瑞士全民公投之后的三种可能</a></li>
 <li><a href="/cnnews/20200810/1377512.md">惊人视频！中共从谷歌窃取了上帝级超级人工智能？</a></li>
-<li><a href="/cnnews/20200810/1377462.md">拜登连失言 恐丢年轻非裔选票</a></li>
 <li><a href="/cbnews/20200810/1377583.md">超越中共战力！美陆军参谋长曝下一步</a></li>
+<li><a href="/cnnews/20200810/1377462.md">拜登连失言 恐丢年轻非裔选票</a></li>
 <li><a href="/bannedvideo/20200809/1377360.md">美高官访台，航母护卫，北京懵了 892</a></li>
 <li><a href="/headline/20200809/1377343.md">邵阳取缔电动车引发大规模冲突　数千民众围市府打砸官车</a></li>
-<li><a href="/cnnews/20200810/1377464.md">川普关中领馆禁TikTok 传与FBI绝密情报有关</a></li>
 <li><a href="/comments/20200810/1377459.md">习近平发亡党忧声 李鸿忠高调“温习党史”表忠</a></li>
-<li><a href="/cnnews/20200810/1377562.md">林郑幼子突赴粤传居中山 玩交友app 私人物品遗美寓所</a></li>
+<li><a href="/cnnews/20200810/1377464.md">川普关中领馆禁TikTok 传与FBI绝密情报有关</a></li>
 <li><a href="/cnnews/hknews/20200810/1377596.md">林郑月娥次子下落曝？罗冠聪2推测恐成真：可能成中共人质</a></li>
-<li><a href="/bannedvideo/20200809/1377361.md">习近平比做赵括的三个结局</a></li>
+<li><a href="/cbnews/20200810/1377667.md">美中若在台海开战…胜率有多大？美国退役军官惊爆恐怖下场</a></li>
+<li><a href="/cnnews/20200810/1377562.md">林郑幼子突赴粤传居中山 玩交友app 私人物品遗美寓所</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难！</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/ccpdope/20200703/1355002.md" target="_blank">特异功能大师梅辛：破迷的时间快到了</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学！</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
