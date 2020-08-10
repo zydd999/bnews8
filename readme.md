@@ -10,24 +10,24 @@
 <li><a href="/ssgc/20200810/1377425.md">〖兲朝浮世绘〗瑞士这一招比美国制裁香港狠一万倍</a></li>
 <li><a href="/cbnews/20200810/1377582.md">北戴河权斗正酣？栗战书中途离场 一惯例被打破</a></li>
 <li><a href="/topimagenews/20200810/1377469.md">快讯！香港黎智英及次子被捕</a></li>
-<li><a href="/topimagenews/20200809/1377376.md">抖音犯大忌 谁拿到美千万悬赏？川普团队:微信遍布共特共谍 抖音姓党 挡都挡不住</a></li>
 <li><a href="/cbnews/20200810/1377667.md">美中若在台海开战…胜率有多大？美国退役军官惊爆恐怖下场</a></li>
 <li><a href="/cnnews/20200810/1377407.md">中共外长回应蓬佩奥 话是说给谁听的</a></li>
 <li><a href="/bannedvideo/20200810/1377439.md">陈破空：缠斗北戴河，习近平暗示自己寿命？躲制裁林郑儿子跑路。胡锡进渴望当带路党。美日专机同现台北</a></li>
-<li><a href="/cbnews/20200810/1377454.md">天亮时分：麒麟断芯,微软断供,华为休克;华为的今天就是中共经济的明天,以及解决之道(政论天下第211集 20200809)</a></li>
-<li><a href="/cnnews/20200810/1377599.md">中共对港统治完全失败 林俊宪曝黎智英被捕真正原因</a></li>
-<li><a href="/bannedvideo/20200810/1377484.md">中共家族瑞士银行20万亿?或许更多！瑞士全民公投之后的三种可能</a></li>
 <li><a href="/topimagenews/20200810/1377710.md">中国经济将直面金融危机 何时到来？大概以月计量！ 厕所上热搜 996大厂竟这样</a></li>
-<li><a href="/cnnews/hknews/20200810/1377596.md">林郑月娥次子下落曝？罗冠聪2推测恐成真：可能成中共人质</a></li>
+<li><a href="/cbnews/20200810/1377454.md">天亮时分：麒麟断芯,微软断供,华为休克;华为的今天就是中共经济的明天,以及解决之道(政论天下第211集 20200809)</a></li>
+<li><a href="/bannedvideo/20200810/1377484.md">中共家族瑞士银行20万亿?或许更多！瑞士全民公投之后的三种可能</a></li>
+<li><a href="/cnnews/20200810/1377599.md">中共对港统治完全失败 林俊宪曝黎智英被捕真正原因</a></li>
 <li><a href="/yule/20200810/1377602.md">赵薇再传离婚 4段“混乱”情史被曝光</a></li>
+<li><a href="/cnnews/hknews/20200810/1377596.md">林郑月娥次子下落曝？罗冠聪2推测恐成真：可能成中共人质</a></li>
 <li><a href="/cbnews/20200810/1377583.md">超越中共战力！美陆军参谋长曝下一步</a></li>
 <li><a href="/topimagenews/20200810/1377628.md">被港警逮捕 黎智英：不用担心 集团CEO：《苹果》一定可以撑下去</a></li>
 <li><a href="/cnnews/20200810/1377512.md">惊人视频！中共从谷歌窃取了上帝级超级人工智能？</a></li>
 <li><a href="/cnnews/20200810/1377462.md">拜登连失言 恐丢年轻非裔选票</a></li>
 <li><a href="/comments/20200810/1377459.md">习近平发亡党忧声 李鸿忠高调“温习党史”表忠</a></li>
 <li><a href="/cnnews/20200810/1377464.md">川普关中领馆禁TikTok 传与FBI绝密情报有关</a></li>
+<li><a href="/ssgc/20200810/1377634.md">杨洁篪再发长文“求和” 暗藏玄机</a></li>
 <li><a href="/cnnews/20200810/1377562.md">林郑幼子突赴粤传居中山 玩交友app 私人物品遗美寓所</a></li>
-<li><a href="/comments/20200810/1377384.md">这是人说的话吗？疫情居然成了“重大利好”</a></li>
+<li><a href="/cnnews/20200810/1377702.md">习李矛盾公开化 民调又把李克强放火上烤 处境难料</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
