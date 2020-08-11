@@ -9,11 +9,10 @@
 <li><a href="/comments/20200810/1377784.md">知情人士曝北戴河会议内幕 北戴河会议决定一件事 中共最短的一次北戴河会议 去北戴河的离休官员人数明显不如往年而且谨言慎行 每一家人相互不见面，更别说见习近平的面了 没人敢说得罪习的话 中南海谣言预言_242</a></li>
 <li><a href="/cbnews/20200810/1377773.md">2020末世大劫，十灾齐降，还有四灾未到！（探索与洞见第22集 2020年8月10日）</a></li>
 <li><a href="/ssgc/20200811/1377873.md">贵州要火，除了“ 烧掉400亿”的魔幻建筑，还有这些惊呆全世界</a></li>
-<li><a href="/cnnews/20200810/1377702.md">习李矛盾公开化 民调又把李克强放火上烤 处境难料</a></li>
 <li><a href="/cnnews/20200811/1377993.md">习近平两桩“秘密”曝光</a></li>
 <li><a href="/bannedvideo/20200811/1377894.md">陈破空：北戴河没完，只有一人表忠习近平？公安部长说穿全体伪忠诚。黎智英从容淡定。五眼联盟声明有玄机</a></li>
-<li><a href="/headline/20200810/1377842.md">中国报复似有困难，被制裁的11位美国公民中有3人重复进入制裁名单</a></li>
 <li><a href="/bannedvideo/20200811/1377988.md">变线超车，习近平大踏步跨越红线，他的内心或已经失控</a></li>
+<li><a href="/headline/20200810/1377842.md">中国报复似有困难，被制裁的11位美国公民中有3人重复进入制裁名单</a></li>
 <li><a href="/cnnews/20200810/1377714.md">多名华人被FBI敲门 涉领馆！华人社团要小心了</a></li>
 <li><a href="/lishi/20200811/1377919.md">胡德平之语再证中共弥天大谎</a></li>
 <li><a href="/topimagenews/20200811/1377855.md">快讯！前香港众志成员周庭被捕</a></li>
@@ -25,8 +24,9 @@
 <li><a href="/comments/20200811/1377885.md">老祖宗的智慧：有钱不进“三地”  没钱莫近“两人”</a></li>
 <li><a href="/cbnews/20200811/1377921.md">闪电击中上海东方明珠塔！网友：下一个目标是中南海吗？</a></li>
 <li><a href="/comments/20200811/1377941.md">史上首次！川普发布会遭特勤局打断 白宫外发生枪击案</a></li>
-<li><a href="/ssgc/20200811/1377889.md">〖兲朝浮世绘〗选票表达不了的态度，就用股票去表达</a></li>
 <li><a href="/headline/20200811/1377980.md">美国国家安全顾问就黎智英被捕发表声明(全文翻译)</a></li>
+<li><a href="/ssgc/20200811/1377889.md">〖兲朝浮世绘〗选票表达不了的态度，就用股票去表达</a></li>
+<li><a href="/cnnews/20200811/1378002.md">黎智英“最后告白”感动许多人：我两手空空来到香港…</a></li>
 <li><a href="/cbnews/20200811/1377923.md">文昭：黎智英周庭被捕，中共报复制裁美国11人！终极王牌加速到来，被制裁常委除韩正汪洋还有别人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200811/1378163.md" target="_blank">或因曾声援李文亮和收留许志永 广东律师杨斌面临注销执照</a></li>
+<li><a href="/comments/20200811/1378162.md" target="_blank">官方淡化洪灾 专家：三峡大坝出问题对中共政权是致命一击</a></li>
+<li><a href="/comments/20200811/1378161.md" target="_blank">川普敦促美国人停止将冠状病毒变成两党斗争 那是中共的错造成的</a></li>
+<li><a href="/comments/20200811/1378160.md" target="_blank">姆努钦：Tiktok无法继续当前运营 川普认真对待其威胁</a></li>
+<li><a href="/comments/20200811/1378159.md" target="_blank">苹果日报股价暴涨5倍  港电台主持发声挺黎智英：真勇者</a></li>
+<li><a href="/comments/20200811/1378158.md" target="_blank">凉拌茼蒿</a></li>
 <li><a href="/comments/20200811/1378090.md" target="_blank">周庭被捕日本各界关注「释放」呼声冲推特趋势第一</a></li>
 <li><a href="/comments/20200811/1378089.md" target="_blank">海带表面总是出现“小疙瘩”，这到底能不能吃？老师傅：不能乱吃</a></li>
 <li><a href="/comments/20200811/1378088.md" target="_blank">秋天最重要的不是进补，而是防燥</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20200811/1378037.md" target="_blank">刘志聪：拘捕黎智英制造寒蝉效应</a></li>
 <li><a href="/comments/20200811/1378036.md" target="_blank">李怡：夜行人吹口哨 美国最辣一招让作对的都睡不着了</a></li>
 <li><a href="/comments/20200811/1378035.md" target="_blank">长平：TikTok和华为 谁更没骨气？</a></li>
-<li><a href="/comments/20200811/1378034.md" target="_blank">何清涟：美国民主党选择拜登的考量 关键是如何战胜川普</a></li>
-<li><a href="/comments/20200811/1378033.md" target="_blank">陶杰：为何要清理“微信” 川普要学大清国林则徐吗</a></li>
-<li><a href="/comments/20200811/1378031.md" target="_blank">施建章：支持壹传媒是大是大非的问题 《苹果》与香港人同在</a></li>
-<li><a href="/comments/20200811/1378030.md" target="_blank">沈舟：从二战空袭东京看美国反击中共的决心</a></li>
-<li><a href="/comments/20200811/1378029.md" target="_blank">作为张玉环案报道者 我对他未来的命运并不乐观</a></li>
-<li><a href="/comments/20200811/1378007.md" target="_blank">贝鲁特大爆炸引爆人民怒火 黎巴嫩总理宣布内阁总辞</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
