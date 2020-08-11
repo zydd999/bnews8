@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20200810/1377784.md">知情人士曝北戴河会议内幕 北戴河会议决定一件事 中共最短的一次北戴河会议 去北戴河的离休官员人数明显不如往年而且谨言慎行 每一家人相互不见面，更别说见习近平的面了 没人敢说得罪习的话 中南海谣言预言_242</a></li>
 <li><a href="/cbnews/20200810/1377773.md">2020末世大劫，十灾齐降，还有四灾未到！（探索与洞见第22集 2020年8月10日）</a></li>
-<li><a href="/ssgc/20200811/1377873.md">贵州要火，除了“ 烧掉400亿”的魔幻建筑，还有这些惊呆全世界</a></li>
 <li><a href="/cnnews/20200811/1377993.md">习近平两桩“秘密”曝光</a></li>
+<li><a href="/ssgc/20200811/1377873.md">贵州要火，除了“ 烧掉400亿”的魔幻建筑，还有这些惊呆全世界</a></li>
 <li><a href="/bannedvideo/20200811/1377988.md">变线超车，习近平大踏步跨越红线，他的内心或已经失控</a></li>
 <li><a href="/bannedvideo/20200811/1377894.md">陈破空：北戴河没完，只有一人表忠习近平？公安部长说穿全体伪忠诚。黎智英从容淡定。五眼联盟声明有玄机</a></li>
 <li><a href="/headline/20200810/1377842.md">中国报复似有困难，被制裁的11位美国公民中有3人重复进入制裁名单</a></li>
@@ -17,15 +17,15 @@
 <li><a href="/cbnews/20200811/1377922.md">相差20岁 冻龄爸爸和女儿合照像兄妹</a></li>
 <li><a href="/cbnews/20200811/1377882.md">专栏 | 夜话中南海：除了胡春华，谁还有可能会是总理接班人？</a></li>
 <li><a href="/bannedvideo/20200811/1377977.md">如果拜登赢得大选，这个世界彻底完蛋！美籍华人可以爱中共，但是投川普符合你的利益</a></li>
-<li><a href="/comments/20200810/1377719.md">“经济内循环”闭关锁国 中国民众：中共要亡了</a></li>
-<li><a href="/comments/20200810/1377720.md">【微博精粹】瑞士放大招赵家吓尿 P民内循环</a></li>
+<li><a href="/cnnews/20200811/1378002.md">黎智英“最后告白”感动许多人：我两手空空来到香港…</a></li>
 <li><a href="/comments/20200811/1377885.md">老祖宗的智慧：有钱不进“三地”  没钱莫近“两人”</a></li>
 <li><a href="/cbnews/20200811/1377921.md">闪电击中上海东方明珠塔！网友：下一个目标是中南海吗？</a></li>
 <li><a href="/comments/20200811/1377941.md">史上首次！川普发布会遭特勤局打断 白宫外发生枪击案</a></li>
-<li><a href="/cnnews/20200811/1378002.md">黎智英“最后告白”感动许多人：我两手空空来到香港…</a></li>
-<li><a href="/headline/20200811/1377980.md">美国国家安全顾问就黎智英被捕发表声明(全文翻译)</a></li>
-<li><a href="/ssgc/20200811/1377889.md">〖兲朝浮世绘〗选票表达不了的态度，就用股票去表达</a></li>
 <li><a href="/cnnews/20200811/1377998.md">中共军方间谍唐娟在美国第三次出庭受审现场报导</a></li>
+<li><a href="/comments/20200811/1378076.md">习近平一人独大谋求连任？现任常委无人能构成威胁 但习面临三大难题迫在眉睫 知情人士曝北戴河会议内情</a></li>
+<li><a href="/headline/20200811/1377980.md">美国国家安全顾问就黎智英被捕发表声明(全文翻译)</a></li>
+<li><a href="/cnnews/20200811/1378005.md">揭密！是这对男女雇“演员”支持孟晚舟的假抗议 </a></li>
+<li><a href="/ssgc/20200811/1377889.md">〖兲朝浮世绘〗选票表达不了的态度，就用股票去表达</a></li>
 <li><a href="/cnnews/20200811/1377939.md">杭州国贸大厦爆炸？！强风刮断高压线致电瓶车爆炸</a></li>
 <li><a href="/cbnews/20200811/1377923.md">文昭：黎智英周庭被捕，中共报复制裁美国11人！终极王牌加速到来，被制裁常委除韩正汪洋还有别人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,37 +36,39 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200811/1378247.md" target="_blank">“这是黑手党” 北京郊区村庄遭强拆</a></li>
+<li><a href="/cbnews/20200811/1378246.md" target="_blank">保定法官张斌：不管律师说啥 他说他的 咱办咱的</a></li>
+<li><a href="/cbnews/20200811/1378245.md" target="_blank">中共拟对“诽谤烈士英雄”入罪 胡锡进辱骂文天祥再火</a></li>
+<li><a href="/cbnews/20200811/1378244.md" target="_blank">广东河源千年古榕树倒塌 网友：不是好预兆</a></li>
+<li><a href="/cbnews/20200811/1378243.md" target="_blank">传杨澜夫妇出事 吴征在上海被神秘拘捕 立马供出江绵恒等一帮大佬</a></li>
+<li><a href="/cbnews/20200811/1378242.md" target="_blank">党国不祥之兆？ 香港大抓捕当晚 闪电直轰“东方明珠塔”</a></li>
+<li><a href="/cbnews/20200811/1378241.md" target="_blank">江苏盐城货车遇车祸10吨猪肉被抢走7吨</a></li>
+<li><a href="/cbnews/20200811/1378240.md" target="_blank">三峡大坝存安全隐患 专家：会对中共政权造成致命一击</a></li>
+<li><a href="/cbnews/20200811/1378239.md" target="_blank">台风米克拉登陆福建 台湾预计晚间降雨趋缓</a></li>
+<li><a href="/cbnews/20200811/1378238.md" target="_blank">南京女生被男友杀害 凶手聊天记录：爱错人 真的会死！</a></li>
+<li><a href="/cbnews/20200811/1378237.md" target="_blank">骆惠宁回应制裁 中国网友看热闹 胡锡进帮腔又成“猪队友”</a></li>
+<li><a href="/cbnews/20200811/1378236.md" target="_blank">上海货车被撞货散一地 7吨猪肉被抢光 连铁皮车门也拉走</a></li>
+<li><a href="/cbnews/20200811/1378235.md" target="_blank">东航客机故障急降西安 深航客机2分钟跌近6000米</a></li>
+<li><a href="/cbnews/20200811/1378234.md" target="_blank">“一箱小狗”成微博禁词 原因笑翻网络</a></li>
+<li><a href="/cbnews/20200811/1378233.md" target="_blank">中共末日的疯狂！北京警察充当截访员 110人集体访被久敬庄</a></li>
+<li><a href="/cbnews/20200811/1378232.md" target="_blank">中共的“末日疯狂”… 大陆发生多起大规模绑架</a></li>
+<li><a href="/cbnews/20200811/1378231.md" target="_blank">北戴河警戒森严 重庆八访民被强制遣返</a></li>
+<li><a href="/cbnews/20200811/1378230.md" target="_blank">乌鲁木齐疫情持续恶化 连续爆出确诊病例</a></li>
+<li><a href="/cbnews/20200811/1378229.md" target="_blank">福建晋江7层高楼厂房火灾 至少8人死亡</a></li>
+<li><a href="/cbnews/20200811/1378228.md" target="_blank">中共拟修法禁止倒挂国旗 遭猛烈炮轰</a></li>
 <li><a href="/cbnews/20200811/1378165.md" target="_blank">五眼联盟外长就香港人民权利遭受侵蚀发表联合声明</a></li>
 <li><a href="/cbnews/20200811/1378107.md" target="_blank">反共前线 中国问题专家：美国永远不会放弃台湾</a></li>
 <li><a href="/cbnews/20200811/1378106.md" target="_blank">分析：习近平求连任 李克强求自保</a></li>
 <li><a href="/cbnews/20200811/1378105.md" target="_blank">学者：美制裁令元老们心惊 中共内乱或推翻习</a></li>
 <li><a href="/cbnews/20200811/1378104.md" target="_blank">爆微信窃取美国国家机密 美禁微信</a></li>
-<li><a href="/cbnews/20200811/1378103.md" target="_blank">美财长：司法部认可川普行政令 不怕民主党起诉</a></li>
-<li><a href="/cbnews/20200811/1378102.md" target="_blank">北戴河会议定调维系中美关系 官员相互回避如履薄冰</a></li>
-<li><a href="/cbnews/20200811/1378101.md" target="_blank">口是心非？中共外交部称无意反美</a></li>
-<li><a href="/cbnews/20200811/1378100.md" target="_blank">回应中共制裁美国人 白宫：总统将继续强硬</a></li>
-<li><a href="/cbnews/20200811/1378099.md" target="_blank">多国专家认同川普对TikTok和微信禁令 维护自由世界科技秩序 阻中共野心扩张</a></li>
-<li><a href="/cbnews/20200811/1378098.md" target="_blank">网络电视是中共在美国的宣传据点</a></li>
-<li><a href="/cbnews/20200811/1378097.md" target="_blank">北戴河习近平李克强对上了？ 大事！美查出2万中国造假证件 美军创新部队或部署台湾东边</a></li>
-<li><a href="/cbnews/20200811/1378096.md" target="_blank">中共战机越台海中线 遭台空军强势驱离</a></li>
-<li><a href="/cbnews/20200811/1378095.md" target="_blank">中共制裁美国官员 3人二次上榜 闹国际笑话</a></li>
-<li><a href="/cbnews/20200811/1378094.md" target="_blank">分析：中南海斗得你死我活 李克强处境堪忧</a></li>
-<li><a href="/cbnews/20200811/1378091.md" target="_blank">视频：川普总统的生意人生</a></li>
-<li><a href="/cbnews/20200811/1378061.md" target="_blank">〖图集〗黑色星期一香港大抓捕 苹果日报出报纸“撑到底！”</a></li>
-<li><a href="/cbnews/20200811/1378006.md" target="_blank">江峰：黎智英被捕，旗下壹传媒股票逆天飞扬，报纸两个小时卖光，人心所向；五眼联盟外长反港版国安法声明；美资银行停11名高官帐户，汇丰、渣打、星展跟进制裁</a></li>
-<li><a href="/cbnews/20200811/1377992.md" target="_blank">为退耕指标 内蒙古一旗铲毁2万多亩将熟麦子</a></li>
-<li><a href="/cbnews/20200811/1377923.md" target="_blank">文昭：黎智英周庭被捕，中共报复制裁美国11人！终极王牌加速到来，被制裁常委除韩正汪洋还有别人</a></li>
-<li><a href="/cbnews/20200811/1377922.md" target="_blank">相差20岁 冻龄爸爸和女儿合照像兄妹</a></li>
-<li><a href="/cbnews/20200811/1377921.md" target="_blank">闪电击中上海东方明珠塔！网友：下一个目标是中南海吗？</a></li>
-<li><a href="/cbnews/20200811/1377893.md" target="_blank">北京画家许那一案 律师：警察违法抓人</a></li>
-<li><a href="/cbnews/20200811/1377882.md" target="_blank">专栏 | 夜话中南海：除了胡春华，谁还有可能会是总理接班人？</a></li>
-<li><a href="/cbnews/20200810/1377785.md" target="_blank">美国思想领袖：香港民主派公民党主席 梁家杰：瘟疫大爆发揭示中共是「致命」威胁！信任中共的国家疫情严重；中共如何利用瘟疫危机扩大对香港的控制力？ |  大纪元</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200811/1378227.md" target="_blank">捕黎智英激怒美政坛!彭斯发声 制裁发威中资银行估风险 华女雇人挺孟晚舟被查出很特别</a></li>
+<li><a href="/topimagenews/20200811/1378226.md" target="_blank">美国闹共产 枪支销量飙升9成 拜登被曝“不给习近平添麻烦” 引用毛泽东言论 网友骂翻</a></li>
 <li><a href="/topimagenews/20200811/1377855.md" target="_blank">快讯！前香港众志成员周庭被捕</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/topimagenews/20200810/1377710.md" target="_blank">中国经济将直面金融危机 何时到来？大概以月计量！ 厕所上热搜 996大厂竟这样</a></li>
@@ -90,8 +92,6 @@
 <li><a href="/topimagenews/20200807/1376088.md" target="_blank">腾讯股价应声大跌！盘中下跌近10% 市值跌破5万亿港元</a></li>
 <li><a href="/topimagenews/20200807/1376087.md" target="_blank">国防部加强中文能力 美防长：大幅调整方向对抗中共</a></li>
 <li><a href="/topimagenews/20200807/1375982.md" target="_blank">字节跳动和腾讯！川普签行政令：9月20日开始禁止美国人与其做交易</a></li>
-<li><a href="/topimagenews/20200807/1375920.md" target="_blank">求你们！纽约州长乞求逃走的富人都回来交税…</a></li>
-<li><a href="/comments/20200807/1375707.md" target="_blank">菩萨手上的那本书就是《转法轮》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 <li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 
 </ul>
 </div>
