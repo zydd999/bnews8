@@ -9,15 +9,15 @@
 <li><a href="/cnnews/20200813/1379437.md">孙力军丑闻火爆！传央视董卿欧阳夏丹被中纪委带走</a></li>
 <li><a href="/comments/20200813/1379403.md">反了？传习近平受军中重要将领谴责</a></li>
 <li><a href="/cnnews/20200813/1379317.md">四川音乐学院三女教授贪腐被查 令原党委书记风流史曝光</a></li>
-<li><a href="/cnnews/20200812/1379226.md">习近平受军头们谴责 大反转？ 俄3年前封禁微信 党媒忽悠 暴雨袭长江 洪峰奔三峡大坝</a></li>
 <li><a href="/worldnews/20200813/1379312.md">世界上最“幸福”的国家突然下令全国封锁</a></li>
+<li><a href="/cnnews/20200812/1379226.md">习近平受军头们谴责 大反转？ 俄3年前封禁微信 党媒忽悠 暴雨袭长江 洪峰奔三峡大坝</a></li>
 <li><a href="/cnnews/20200813/1379447.md">刀刀要中共的命…专家惊曝美3大狠招</a></li>
+<li><a href="/bannedvideo/20200813/1379517.md">财经冷眼：动手了！美调查习栗家族海外资产，汽车行业做断供准备，中资银行加入对11名官员制裁！（20200813第309期）</a></li>
 <li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
 <li><a href="/ssgc/20200813/1379295.md">〖兲朝浮世绘〗习近平任意挥霍却要百姓们节约 太下作</a></li>
-<li><a href="/bannedvideo/20200813/1379517.md">财经冷眼：动手了！美调查习栗家族海外资产，汽车行业做断供准备，中资银行加入对11名官员制裁！（20200813第309期）</a></li>
 <li><a href="/bannedvideo/20200813/1379328.md">陈破空：压不住三上将，习近平北戴河受挫！外媒起底栗战书香港藏富。黎智英归来！美国大使馆动向神秘</a></li>
-<li><a href="/topimagenews/20200812/1379218.md">让台日韩持核武?川普不反对!让川普下台!中共这样操作大选?专家揭秘为何中共胆敢干预</a></li>
 <li><a href="/comments/20200813/1379335.md">从65亿公里外传回来的照片 突破科学家的认知</a></li>
+<li><a href="/topimagenews/20200812/1379218.md">让台日韩持核武?川普不反对!让川普下台!中共这样操作大选?专家揭秘为何中共胆敢干预</a></li>
 <li><a href="/cnnews/20200813/1379315.md">三峡危急！四川全境暴雨已持续72小时并还将持续</a></li>
 <li><a href="/comments/20200813/1379457.md">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
 <li><a href="/bannedvideo/20200812/1379223.md">蔡英文：习近平离心离德，已成孤家寡人 897</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200813/1379643.md" target="_blank">【杜耀明评论】从警方搜查《苹果日报》　教你重建警队的六个关键</a></li>
 <li><a href="/comments/20200813/1379639.md" target="_blank">长寿体质肉眼可见，身上有3处“发红”，哪怕占一个，也值得高兴</a></li>
 <li><a href="/comments/20200813/1379606.md" target="_blank">“好主意！官员一律用太监”</a></li>
 <li><a href="/comments/20200813/1379604.md" target="_blank">朝鲜洪灾惨重酿6成饥民 国际欲伸援手官方销声</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200813/1379487.md" target="_blank">程晓农：微信禁令像一颗“延时炸弹” 在美国告别微信？</a></li>
 <li><a href="/comments/20200813/1379457.md" target="_blank">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
 <li><a href="/comments/20200813/1379445.md" target="_blank">袁世凯：看到暴民出来爱国 就知道大清要完</a></li>
-<li><a href="/comments/20200813/1379444.md" target="_blank">令狐不败： 一个细节 告诉你苏联为什么会崩溃</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
