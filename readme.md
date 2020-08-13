@@ -5,22 +5,21 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20200812/1378848.md">中共军医唐娟出庭 海量电子文件被检方截获</a></li>
 <li><a href="/bannedvideo/20200812/1379212.md">习近平栗战书巨额财产曝光：纽约时报全文（8/12）</a></li>
+<li><a href="/topimagenews/20200812/1378848.md">中共军医唐娟出庭 海量电子文件被检方截获</a></li>
 <li><a href="/bannedvideo/20200812/1378842.md">黎智英奇迹！李克强在北戴河遭局？习近平奇招示弱：制裁11美国人，无川普政府成员</a></li>
 <li><a href="/cnnews/20200812/1379059.md">中共官媒记者出逃宣布与中共决裂 披露党媒员工都用“自由门”</a></li>
-<li><a href="/topimagenews/20200812/1378810.md">粮食危矣！习近平突发“重要指示”称“粒粒皆辛苦”</a></li>
-<li><a href="/cbnews/20200812/1378953.md">美中走向全面对抗 川普再谈习近平</a></li>
 <li><a href="/comments/20200812/1378908.md">习近平下令军方不要先开枪 南海战云密布 局势非常危险 中美双方都无法控制后果 中南海谣言预言_243</a></li>
+<li><a href="/cbnews/20200812/1378953.md">美中走向全面对抗 川普再谈习近平</a></li>
 <li><a href="/cnnews/20200812/1379104.md">开战?江系放风习近平怂了军队失控 共军越中线台首次动飞弹 川普六锤砸中共还有一系列</a></li>
 <li><a href="/comments/20200812/1378909.md">胡春华循温家宝模式接班总理？碰到竞争对手了 不是陈敏儿 竟然是他……？ 中南海谣言预言_244</a></li>
-<li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
 <li><a href="/cnnews/20200813/1379317.md">四川音乐学院三女教授贪腐被查 令原党委书记风流史曝光</a></li>
+<li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
 <li><a href="/cnnews/20200812/1379226.md">习近平受军头们谴责 大反转？ 俄3年前封禁微信 党媒忽悠 暴雨袭长江 洪峰奔三峡大坝</a></li>
 <li><a href="/bannedvideo/20200812/1378921.md">中共湖南邵阳市委被震怒的群众包围，不准任何人进出。| 真相传媒</a></li>
+<li><a href="/worldnews/20200813/1379312.md">世界上最“幸福”的国家突然下令全国封锁</a></li>
 <li><a href="/cbnews/20200812/1379069.md">赵克志赴东北批“两面人” 两公安高官离奇失踪</a></li>
 <li><a href="/cbnews/20200812/1378886.md">武统就是死！专家曝中共动武「首战即独立」…网推台必胜招</a></li>
-<li><a href="/worldnews/20200813/1379312.md">世界上最“幸福”的国家突然下令全国封锁</a></li>
 <li><a href="/ssgc/20200813/1379295.md">〖兲朝浮世绘〗习近平任意挥霍却要百姓们节约 太下作</a></li>
 <li><a href="/topimagenews/20200812/1379218.md">让台日韩持核武?川普不反对!让川普下台!中共这样操作大选?专家揭秘为何中共胆敢干预</a></li>
 <li><a href="/cnnews/20200812/1379087.md">蓬佩奥：等着北京的将是一长串行动</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20200812/1378836.md">〖兲朝浮世绘〗不承认中国只承认城市 美台要建交</a></li>
 <li><a href="/cnnews/20200813/1379315.md">三峡危急！四川全境暴雨已持续72小时并还将持续</a></li>
 <li><a href="/cbnews/20200812/1378866.md">江峰：黎智英保释，港澳办“严惩不手软”受挫；川普称习不再是朋友，是耻辱；香港制造正式变中国制造，美国驻华使馆删掉中国字样的内里乾坤</a></li>
+<li><a href="/bannedvideo/20200813/1379328.md">陈破空：压不住三上将，习近平北戴河受挫！外媒起底栗战书香港藏富。黎智英归来！美国大使馆动向神秘</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200813/1379486.md" target="_blank">川普的对手其实是贺锦丽 不是拜登？</a></li>
 <li><a href="/comments/20200813/1379457.md" target="_blank">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
 <li><a href="/cbnews/20200813/1379438.md" target="_blank">天亮时分：习近平批示凸显粮荒;中资银行忙着执行美国制裁决定;汽车工业也要内循环?(政论天下第213集 20200812)</a></li>
 <li><a href="/cbnews/20200813/1379426.md" target="_blank">追查国际最新公告：追查中共常委赵乐际</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200812/1378717.md" target="_blank">文昭：暗示有大事？美国驻华使馆改徽号删「中国」两字；北戴河会议习近平经历了什麽；三颗苹果惊天下</a></li>
 <li><a href="/cbnews/20200811/1378506.md" target="_blank">高校宣传征兵 大陆前军官：中共给学生洗脑</a></li>
 <li><a href="/cbnews/20200811/1378247.md" target="_blank">“这是黑手党” 北京郊区村庄遭强拆</a></li>
-<li><a href="/cbnews/20200811/1378246.md" target="_blank">保定法官张斌：不管律师说啥 他说他的 咱办咱的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
