@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20200812/1378848.md">中共军医唐娟出庭 海量电子文件被检方截获</a></li>
 <li><a href="/bannedvideo/20200812/1379212.md">习近平栗战书巨额财产曝光：纽约时报全文（8/12）</a></li>
 <li><a href="/bannedvideo/20200812/1378842.md">黎智英奇迹！李克强在北戴河遭局？习近平奇招示弱：制裁11美国人，无川普政府成员</a></li>
-<li><a href="/topimagenews/20200812/1378810.md">粮食危矣！习近平突发“重要指示”称“粒粒皆辛苦”</a></li>
 <li><a href="/cnnews/20200812/1379059.md">中共官媒记者出逃宣布与中共决裂 披露党媒员工都用“自由门”</a></li>
+<li><a href="/topimagenews/20200812/1378810.md">粮食危矣！习近平突发“重要指示”称“粒粒皆辛苦”</a></li>
 <li><a href="/baitai/20200812/1378804.md">62岁杨丽萍仙气全无 被拍到剪掉指甲拄拐杖出行</a></li>
 <li><a href="/cbnews/20200812/1378953.md">美中走向全面对抗 川普再谈习近平</a></li>
 <li><a href="/comments/20200812/1378908.md">习近平下令军方不要先开枪 南海战云密布 局势非常危险 中美双方都无法控制后果 中南海谣言预言_243</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/bannedvideo/20200812/1378921.md">中共湖南邵阳市委被震怒的群众包围，不准任何人进出。| 真相传媒</a></li>
 <li><a href="/cbnews/20200812/1379069.md">赵克志赴东北批“两面人” 两公安高官离奇失踪</a></li>
 <li><a href="/cbnews/20200812/1378886.md">武统就是死！专家曝中共动武「首战即独立」…网推台必胜招</a></li>
-<li><a href="/cbnews/20200812/1378772.md">为何江泽民恼羞成怒 亲自下密令“杀无赦”…</a></li>
 <li><a href="/cnnews/20200812/1379226.md">习近平受军头们谴责 大反转？ 俄3年前封禁微信 党媒忽悠 暴雨袭长江 洪峰奔三峡大坝</a></li>
+<li><a href="/cbnews/20200812/1378772.md">为何江泽民恼羞成怒 亲自下密令“杀无赦”…</a></li>
+<li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
 <li><a href="/cnnews/20200812/1378834.md">“反制美国” 没招了… 环时民调网民嘲笑</a></li>
 <li><a href="/cnnews/20200812/1379087.md">蓬佩奥：等着北京的将是一长串行动</a></li>
 <li><a href="/ssgc/20200812/1378836.md">〖兲朝浮世绘〗不承认中国只承认城市 美台要建交</a></li>
-<li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
 <li><a href="/topimagenews/20200812/1379218.md">让台日韩持核武?川普不反对!让川普下台!中共这样操作大选?专家揭秘为何中共胆敢干预</a></li>
+<li><a href="/cnnews/20200813/1379317.md">四川音乐学院三女教授贪腐被查 令原党委书记风流史曝光</a></li>
 <li><a href="/cbnews/20200812/1378866.md">江峰：黎智英保释，港澳办“严惩不手软”受挫；川普称习不再是朋友，是耻辱；香港制造正式变中国制造，美国驻华使馆删掉中国字样的内里乾坤</a></li>
-<li><a href="/baitai/20200812/1379196.md">媒体：德国禁用华为已无可能</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
