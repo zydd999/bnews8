@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20200813/1379317.md">四川音乐学院三女教授贪腐被查 令原党委书记风流史曝光</a></li>
 <li><a href="/ssgc/20200813/1379295.md">〖兲朝浮世绘〗习近平任意挥霍却要百姓们节约 太下作</a></li>
 <li><a href="/cnnews/20200813/1379447.md">刀刀要中共的命…专家惊曝美3大狠招</a></li>
-<li><a href="/bannedvideo/20200813/1379517.md">财经冷眼：动手了！美调查习栗家族海外资产，汽车行业做断供准备，中资银行加入对11名官员制裁！（20200813第309期）</a></li>
 <li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
+<li><a href="/bannedvideo/20200813/1379517.md">财经冷眼：动手了！美调查习栗家族海外资产，汽车行业做断供准备，中资银行加入对11名官员制裁！（20200813第309期）</a></li>
 <li><a href="/comments/20200813/1379576.md">央视主播康辉声称要14亿人分担损失 惹怒中国网民</a></li>
 <li><a href="/comments/20200813/1379335.md">从65亿公里外传回来的照片 突破科学家的认知</a></li>
 <li><a href="/bannedvideo/20200813/1379328.md">陈破空：压不住三上将，习近平北戴河受挫！外媒起底栗战书香港藏富。黎智英归来！美国大使馆动向神秘</a></li>
 <li><a href="/comments/20200813/1379537.md">传北戴河会议定“3软3硬” 习近平被拔部分权力</a></li>
-<li><a href="/comments/20200813/1379457.md">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
-<li><a href="/topimagenews/20200813/1379570.md">华为自己建厂造芯？一条消息引爆媒体圈 内部人士：比登天还难</a></li>
-<li><a href="/cnnews/20200813/1379315.md">三峡危急！四川全境暴雨已持续72小时并还将持续</a></li>
 <li><a href="/cnnews/hknews/20200813/1379614.md">纽时报道栗战书女儿等官二代在香港奢华生活</a></li>
+<li><a href="/topimagenews/20200813/1379570.md">华为自己建厂造芯？一条消息引爆媒体圈 内部人士：比登天还难</a></li>
+<li><a href="/comments/20200813/1379457.md">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
+<li><a href="/cnnews/20200813/1379315.md">三峡危急！四川全境暴雨已持续72小时并还将持续</a></li>
 <li><a href="/topimagenews/20200813/1379635.md">中国世界工厂终结郭台铭选边站 重压!中国四大坏账银行清股权 惨!抖音追踪用户数据被抓</a></li>
 <li><a href="/cnnews/20200813/1379489.md">芯片后又一个行业要完？中共发改委鼓励回收旧零件造新车</a></li>
 <li><a href="/cbnews/20200813/1379424.md">粮荒了？ 中共要立法刚性约束百姓饮食</a></li>
-<li><a href="/cnnews/20200813/1379538.md">金融制裁风暴在即：中共这三大银行最危险</a></li>
 <li><a href="/lifebaike/20200813/1379579.md">除非不得已 否则这5个地方一定别带孩子去 这可不是迷信</a></li>
-<li><a href="/baitai/20200813/1379473.md">女大学生被迷奸拍裸照！性迷药竟和水一样容易买到</a></li>
+<li><a href="/cnnews/20200813/1379538.md">金融制裁风暴在即：中共这三大银行最危险</a></li>
 <li><a href="/baitai/20200813/1379470.md">深扒“玉女掌门”混乱情史 男友数量多到令人难以相信</a></li>
+<li><a href="/baitai/20200813/1379473.md">女大学生被迷奸拍裸照！性迷药竟和水一样容易买到</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200814/1379765.md" target="_blank">负责接送川普的美军直升机遭枪击 一飞行员受伤 FBI开展调查</a></li>
 <li><a href="/comments/20200813/1379754.md" target="_blank">美国上周失业救济申请低于百万 疫情期间首次 显示就业市场好转</a></li>
 <li><a href="/comments/20200813/1379721.md" target="_blank">海底现“怪兽”疯狂叫声？频率至8000Hz的超高音！专家未解</a></li>
 <li><a href="/comments/20200813/1379695.md" target="_blank">黎智英直播多次落泪：“这是培养我今天有所有一切的家园”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200813/1379564.md" target="_blank">香菜 番茄&#8230;降血压 真的有效的还有这些&#8230;&#8230;.</a></li>
 <li><a href="/comments/20200813/1379563.md" target="_blank">全球1/3儿童血液铅过量！【骨头汤】也会熬出重金属？</a></li>
 <li><a href="/comments/20200813/1379562.md" target="_blank">世界十大罕见精神疾病</a></li>
-<li><a href="/comments/20200813/1379561.md" target="_blank">能吃的被扔了，不能吃的却留下了，还说自己懂常识？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 
 </ul>
 </div>
