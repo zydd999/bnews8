@@ -9,10 +9,9 @@
 <li><a href="/worldnews/20200813/1379312.md">世界上最“幸福”的国家突然下令全国封锁</a></li>
 <li><a href="/comments/20200813/1379403.md">反了？传习近平受军中重要将领谴责</a></li>
 <li><a href="/cnnews/20200813/1379317.md">四川音乐学院三女教授贪腐被查 令原党委书记风流史曝光</a></li>
-<li><a href="/cnnews/20200812/1379226.md">习近平受军头们谴责 大反转？ 俄3年前封禁微信 党媒忽悠 暴雨袭长江 洪峰奔三峡大坝</a></li>
+<li><a href="/ssgc/20200813/1379295.md">〖兲朝浮世绘〗习近平任意挥霍却要百姓们节约 太下作</a></li>
 <li><a href="/bannedvideo/20200813/1379517.md">财经冷眼：动手了！美调查习栗家族海外资产，汽车行业做断供准备，中资银行加入对11名官员制裁！（20200813第309期）</a></li>
 <li><a href="/bannedvideo/20200813/1379283.md">快评：共军突声明南海不打第一枪、中印谈判再破裂印要关闭中国领事馆、太平洋军演要开始美军非常想开打（8/12）</a></li>
-<li><a href="/ssgc/20200813/1379295.md">〖兲朝浮世绘〗习近平任意挥霍却要百姓们节约 太下作</a></li>
 <li><a href="/cnnews/20200813/1379447.md">刀刀要中共的命…专家惊曝美3大狠招</a></li>
 <li><a href="/comments/20200813/1379576.md">央视主播康辉声称要14亿人分担损失 惹怒中国网民</a></li>
 <li><a href="/comments/20200813/1379335.md">从65亿公里外传回来的照片 突破科学家的认知</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cnnews/20200813/1379315.md">三峡危急！四川全境暴雨已持续72小时并还将持续</a></li>
 <li><a href="/comments/20200813/1379457.md">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
 <li><a href="/topimagenews/20200813/1379570.md">华为自己建厂造芯？一条消息引爆媒体圈 内部人士：比登天还难</a></li>
-<li><a href="/cnnews/20200813/1379489.md">芯片后又一个行业要完？中共发改委鼓励回收旧零件造新车</a></li>
 <li><a href="/cnnews/hknews/20200813/1379614.md">纽时报道栗战书女儿等官二代在香港奢华生活</a></li>
+<li><a href="/cnnews/20200813/1379489.md">芯片后又一个行业要完？中共发改委鼓励回收旧零件造新车</a></li>
 <li><a href="/cbnews/20200813/1379424.md">粮荒了？ 中共要立法刚性约束百姓饮食</a></li>
+<li><a href="/topimagenews/20200813/1379635.md">中国世界工厂终结郭台铭选边站 重压!中国四大坏账银行清股权 惨!抖音追踪用户数据被抓</a></li>
 <li><a href="/cnnews/20200813/1379538.md">金融制裁风暴在即：中共这三大银行最危险</a></li>
 <li><a href="/baitai/20200813/1379473.md">女大学生被迷奸拍裸照！性迷药竟和水一样容易买到</a></li>
 <li><a href="/baitai/20200813/1379470.md">深扒“玉女掌门”混乱情史 男友数量多到令人难以相信</a></li>
-<li><a href="/cbnews/20200813/1379345.md">文昭：习近平掀反「吃货」运动，预示粮食危机？神秘逆袭曝栗战书在香港财产；国有银行「变节」配合美国制裁</a></li>
+<li><a href="/lifebaike/20200813/1379579.md">除非不得已 否则这5个地方一定别带孩子去 这可不是迷信</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 
 </ul>
 </div>
