@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20200813/1379576.md">央视主播康辉声称要14亿人分担损失 惹怒中国网民</a></li>
-<li><a href="/comments/20200813/1379537.md">传北戴河会议定“3软3硬” 习近平被拔部分权力</a></li>
 <li><a href="/topimagenews/20200813/1379741.md">中南海大战习近平派被打爆了?闭关锁国非传言官方认了 三峡危急!四川暴雨3天还接着下</a></li>
 <li><a href="/comments/20200813/1379656.md">北戴河会议气氛肃杀 元老们不满 习近平反击 习近平舍弃王沪宁 网曝北戴河会议最新内幕 中南海谣言预言_245</a></li>
 <li><a href="/cnnews/hknews/20200813/1379614.md">纽时报道栗战书女儿等官二代在香港奢华生活</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cnnews/20200813/1379538.md">金融制裁风暴在即：中共这三大银行最危险</a></li>
 <li><a href="/comments/20200814/1379821.md">科学家发现宇航员回地球后DNA“变异” 人类被限定在地球范围内生活？</a></li>
 <li><a href="/topimagenews/20200814/1379773.md">特朗普：香港在中共控制下永不会成功 香港市场将见鬼去</a></li>
-<li><a href="/topimagenews/20200814/1379794.md">中国经济怎么了？催债公司出现大量招聘</a></li>
 <li><a href="/comments/20200814/1379891.md">没有美元的日子就要来临 中共官员非常担心</a></li>
+<li><a href="/topimagenews/20200814/1379794.md">中国经济怎么了？催债公司出现大量招聘</a></li>
 <li><a href="/cnnews/20200814/1379815.md">成都变汪洋 重庆长江水位1天暴涨5米 三峡再次告急</a></li>
 <li><a href="/ssgc/20200813/1379573.md">习近平喊节约粮食和瑞银最新报告</a></li>
+<li><a href="/cbnews/20200813/1379704.md">美国思想领袖：闫丽梦博士：我可能是唯一能说出真相的人！武汉当局已知病毒人传人，世界卫生组织早知情；在亲自调查武汉神秘病毒的过程中，揭开中共不想告诉人们的秘密！|  大纪元</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200814/1380069.md" target="_blank">指中共故意释放病毒 阎丽梦列出三关键点</a></li>
 <li><a href="/cbnews/20200814/1380060.md" target="_blank">清洁阿姨拖把抹饮水机 网崩溃怒轰：散播病毒</a></li>
 <li><a href="/cbnews/20200814/1380059.md" target="_blank">中共对新疆喀什全民检测遭质疑 藉疫情采集DNA</a></li>
 <li><a href="/cbnews/20200814/1380038.md" target="_blank">江峰：中资银行配合美制裁，港警退休金被逼转移大陆银行；以阿建交，以色列疏远中共，助川普移师西太地区；蓬培奥：对中共不是冷战2 0，潜台词是什麽</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200813/1379425.md" target="_blank">赖小民破受贿纪录 曾庆红权势黑幕曝光</a></li>
 <li><a href="/cbnews/20200813/1379424.md" target="_blank">粮荒了？ 中共要立法刚性约束百姓饮食</a></li>
 <li><a href="/cbnews/20200813/1379345.md" target="_blank">文昭：习近平掀反「吃货」运动，预示粮食危机？神秘逆袭曝栗战书在香港财产；国有银行「变节」配合美国制裁</a></li>
-<li><a href="/cbnews/20200813/1379332.md" target="_blank">蓬佩奥捷克演讲 解释为何中共威胁超过苏共</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200814/1380063.md" target="_blank">黎生：1960年的一条咸鱼 黄金输给了它</a></li>
 <li><a href="/comments/20200814/1380024.md" target="_blank">陶杰：香港的官僚 水退的时候原来都没穿裤子</a></li>
 <li><a href="/comments/20200814/1380023.md" target="_blank">斩断：插入民主心脏的专制笔杆</a></li>
 <li><a href="/comments/20200814/1380012.md" target="_blank">《共产主义黑皮书》：老挝——逃亡的人口</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200814/1379903.md" target="_blank">【英脱欧】380万欧盟公民申请英永居权  200万人已获准</a></li>
 <li><a href="/comments/20200814/1379902.md" target="_blank">科学家首次清楚的目睹黑洞吞吃“太阳” ，超震撼</a></li>
 <li><a href="/comments/20200814/1379900.md" target="_blank">中南海经济顾问：若爆发冲突 中共海外资产或被美国没收</a></li>
-<li><a href="/comments/20200814/1379899.md" target="_blank">习近平推动“内循环” 分析：中共权力寻租将导致经济坍塌</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
 
 </ul>
 </div>
