@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
