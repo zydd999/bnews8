@@ -15,15 +15,15 @@
 <li><a href="/cnnews/20200815/1380562.md">显灵传言不断 乐山大佛佛脚被淹 有大事发生？组图</a></li>
 <li><a href="/bannedvideo/20200815/1380377.md">陈破空：北戴河达共识？习近平向军队下密令。中资银行不敢为林郑存钱。土共佯攻台湾。东欧奋起</a></li>
 <li><a href="/cnnews/20200815/1380526.md">苹果：微信禁令或影响 iPhone销量！特朗普：随便，我们对...</a></li>
-<li><a href="/cnnews/20200815/1380631.md">8月14日 被关闭的美驻成都总领事馆发出最后一博</a></li>
 <li><a href="/topimagenews/20200815/1380626.md">习近平推内循环致经济坍塌？15年高铁大跃进 债破10万亿 粮食危机 云南再爆严重蝗灾</a></li>
+<li><a href="/cnnews/20200815/1380631.md">8月14日 被关闭的美驻成都总领事馆发出最后一博</a></li>
 <li><a href="/cnnews/20200815/1380630.md">现场惨烈！山东仓库爆炸传出巨响 天空巨大蘑菇云</a></li>
 <li><a href="/cbnews/20200815/1380565.md">3天完成武统 美前高官：中共明年1月出兵台湾</a></li>
 <li><a href="/cnnews/20200815/1380479.md">中共爱甩锅！… 纪录被挖出 网笑：“党都是对的”？</a></li>
 <li><a href="/cbnews/20200815/1380559.md">中共竟反常「变软」 专家揭真正目的中共软了？</a></li>
 <li><a href="/bannedvideo/20200815/1380554.md">财经冷眼：突发！数字货币全国大规模推行！ 纸币开始废弃，中国家庭生死选择！（20200815第311期）</a></li>
-<li><a href="/comments/20200815/1380396.md">卫星拍到地球上的神秘桥梁，跨洋40公里，500万年前就已存在</a></li>
 <li><a href="/cnnews/20200815/1380598.md">川普:黎智英被捕可怕 爆第二轮制裁红2代红3代</a></li>
+<li><a href="/comments/20200815/1380396.md">卫星拍到地球上的神秘桥梁，跨洋40公里，500万年前就已存在</a></li>
 <li><a href="/bannedvideo/20200815/1380459.md">新仇旧恨，激烈对决，习近平、曾庆红面临最后摊牌</a></li>
 <li><a href="/cbnews/20200815/1380441.md">文昭：中共出击台海两端，七航母旭日舰队复活！「老人战团」施压习近平；孔子学院中招，谁保海外华人不躺枪）</a></li>
 <li><a href="/cbnews/20200815/1380352.md">美驻华大使馆及领事馆官网：刊登蓬佩奥要求中共停止迫害法轮功的声明</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200816/1380787.md" target="_blank">北京喊节粮 各地出怪招 网民吐槽</a></li>
 <li><a href="/cbnews/20200815/1380723.md" target="_blank">香港作词人林夕改歌赠罗冠聪 中国央视批评：跟“港独”搞到一块</a></li>
 <li><a href="/cbnews/20200815/1380647.md" target="_blank">黑石终止与SOHO谈判 潘石屹套现失败</a></li>
 <li><a href="/cbnews/20200815/1380634.md" target="_blank">阿里巴巴钉钉钉人好恐怖 网警贩卖个人信息获暴利</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200814/1380035.md" target="_blank">国家信访局前现“龙”队 维权者：冻结贪官海外资产</a></li>
 <li><a href="/cbnews/20200814/1380028.md" target="_blank">美侦察机飞入台湾领空？…中共遭爆惨被“挑衅”了</a></li>
 <li><a href="/cbnews/20200814/1380011.md" target="_blank">“美军不可能来”？中共宣布台海军演 美国军机迅速回应打脸马英九</a></li>
-<li><a href="/cbnews/20200814/1380004.md" target="_blank">冲台湾来！实战演习陆海空全到 共军「瓮中捉鳖」战略曝光</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200816/1380789.md" target="_blank">欧洲最大活火山蠢蠢欲动  意大利埃特纳火山喷黑云</a></li>
 <li><a href="/comments/20200816/1380772.md" target="_blank">全美最大警察工会宣布支持川普连任 扞卫法律和秩序</a></li>
 <li><a href="/comments/20200816/1380760.md" target="_blank">120亿光年外现类银河系星系！颠覆了科学家对早期宇宙的认识</a></li>
 <li><a href="/comments/20200815/1380722.md" target="_blank">陈其迈67万高票当选高雄市长 提出四大优先</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200815/1380539.md" target="_blank">理应比其他国家更拥护民主价值 罗冠聪吁德国对中共更强硬</a></li>
 <li><a href="/comments/20200815/1380536.md" target="_blank">川普下行政令：TiKTok90日内必须卖掉 并销毁所有美国用户数据</a></li>
 <li><a href="/comments/20200815/1380531.md" target="_blank">【微博精粹】女孩被撕票 警察邀功 家长送锦旗 脑子都进了粪水</a></li>
-<li><a href="/comments/20200815/1380482.md" target="_blank">因柴油排放造假，德国戴姆勒与美国达成超过22亿美元的赔偿协议</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 
 </ul>
 </div>
