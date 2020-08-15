@@ -9,8 +9,8 @@
 <li><a href="/comments/20200814/1380126.md">习近平转换战略应付“最坏情况” 刘鹤试图利用习近平支持的新发展议程 推动他以前无法实现的变革 刘鹤要求各级政府查清关键薄弱点……中南海谣言预言_247</a></li>
 <li><a href="/cbnews/20200814/1380069.md">指中共故意释放病毒 阎丽梦列出三关键点</a></li>
 <li><a href="/ssgc/20200814/1380193.md">水皮：买房一定要找银行借钱 未来的钱能借多少借多少</a></li>
-<li><a href="/ssgc/20200814/1380211.md">中南海激烈对决 曾庆红悬了？</a></li>
 <li><a href="/comments/20200815/1380385.md">传中美临时叫停周末贸易谈判 消息人士：与北戴河会议冲突</a></li>
+<li><a href="/ssgc/20200814/1380211.md">中南海激烈对决 曾庆红悬了？</a></li>
 <li><a href="/comments/20200814/1380269.md">北戴河会议结束？习近平一日签3国家主席令 李克强签署国务院令</a></li>
 <li><a href="/topimagenews/20200815/1380299.md">江系高官要死?爆料为何缺韩正? 白宫游说盟国反共名利双收？水淹中南海?长江1天暴涨5米</a></li>
 <li><a href="/cnnews/20200814/1380091.md">政法委书记开轿车撞大挂货车 死的面目皆非</a></li>
@@ -19,9 +19,9 @@
 <li><a href="/ssgc/20200814/1380074.md">爆料中共常委贪腐 为何缺韩正</a></li>
 <li><a href="/comments/20200814/1380288.md">李燕铭：北戴河会议重大异常 政治局委员国家监委主任杨晓渡缺席北戴河会议 赴甘肃停留长达五天！所为何事？行程结束后又推迟五天才报道 诡异</a></li>
 <li><a href="/ssgc/20200815/1380360.md">〖兲朝浮世绘〗美国这次要打中共的七寸了</a></li>
-<li><a href="/cnnews/20200814/1380026.md">中共若占领台湾离岛会怎样？网曝共军2下场：反而更难看…</a></li>
 <li><a href="/bannedvideo/20200815/1380377.md">陈破空：北戴河达共识？习近平向军队下密令。中资银行不敢为林郑存钱。土共佯攻台湾。东欧奋起</a></li>
 <li><a href="/headline/20200815/1380372.md">“上海骄傲节”突然停办 或涉政治原因</a></li>
+<li><a href="/cnnews/20200814/1380026.md">中共若占领台湾离岛会怎样？网曝共军2下场：反而更难看…</a></li>
 <li><a href="/baitai/20200814/1380183.md">92年黄郎维甩了梅艳芳一巴掌 次日被砍成重伤被枪杀</a></li>
 <li><a href="/cnnews/20200814/1380079.md">中国频称食品包装检出新冠病毒 世卫迅速打脸</a></li>
 <li><a href="/comments/20200814/1380154.md">脖子上出现这3种东西，说明癌细胞已经醒了</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200815/1380531.md" target="_blank">【微博精粹】女孩被撕票 警察邀功 家长送锦旗 脑子都进了粪水</a></li>
 <li><a href="/comments/20200815/1380482.md" target="_blank">因柴油排放造假，德国戴姆勒与美国达成超过22亿美元的赔偿协议</a></li>
 <li><a href="/comments/20200815/1380478.md" target="_blank">钟原：洪灾触目惊心 北戴河会议没完没了</a></li>
 <li><a href="/comments/20200815/1380477.md" target="_blank">沈舟：自曝美中外交“无线电静默” 中共继续谩骂美国“法西斯”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200815/1380384.md" target="_blank">2020四款最适合家庭的（两排座）SUV</a></li>
 <li><a href="/comments/20200815/1380376.md" target="_blank">揭秘：佩洛西前助理曾是中共党媒CCTV在美扩展的“战略顾问”</a></li>
 <li><a href="/comments/20200815/1380375.md" target="_blank">欧盟、英、法、德外长表欢迎以色列-阿联酋协议</a></li>
-<li><a href="/comments/20200815/1380356.md" target="_blank">读者广场 | 唐龙:香港为谁 “送终”？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 
 </ul>
 </div>
