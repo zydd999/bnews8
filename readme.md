@@ -9,11 +9,10 @@
 <li><a href="/bannedvideo/20200816/1380773.md">政论：北京高层突发三大怪事、北戴河风向已转加速极左、中共为何判定美军南海开战（8/15）</a></li>
 <li><a href="/bannedvideo/20200816/1380821.md">✍✍《推背图》预言习近平被斩首❓中共因传播病毒而灭亡❗😰😰</a></li>
 <li><a href="/cbnews/20200816/1380787.md">北京喊节粮 各地出怪招 网民吐槽</a></li>
-<li><a href="/comments/20200816/1380915.md">传北戴河会议仍在开 中共高层争吵得凶？</a></li>
 <li><a href="/ssgc/20200816/1380850.md">中共罕见急速回应川普90天剥离抖音</a></li>
+<li><a href="/comments/20200816/1380915.md">传北戴河会议仍在开 中共高层争吵得凶？</a></li>
 <li><a href="/cnnews/20200815/1380742.md">川普霸气回应禁微信损手机销量 中共头大?还11万亿或承认台湾 要中共还巨债她干成过</a></li>
 <li><a href="/ccpdope/20200816/1380812.md">川大爷厉害！让中共摸着石头过不了河</a></li>
-<li><a href="/cnnews/20200815/1380734.md">美国大选时间越来越近 拜登老毛病又犯了！ “惊人” 言论令人忧</a></li>
 <li><a href="/bannedvideo/20200816/1380917.md">被羞辱后再没有现身，李克强行踪突显体制动荡</a></li>
 <li><a href="/headline/20200815/1380738.md">印度总理莫迪向中国发出新警告</a></li>
 <li><a href="/cbnews/20200816/1380954.md">北戴河会议仍在开？ 13大难题个个无解</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cbnews/20200816/1380835.md">书记说：我来对付他们！共产党净扯淡 共产党完了</a></li>
 <li><a href="/comments/20200816/1380836.md">比抖音让我们堕落更可怕的 是今日头条让人变傻</a></li>
 <li><a href="/bannedvideo/20200816/1380807.md">陈破空：习近平贺电招来意外！党媒刊旧文，为他送行？这群央视主持人火了！南台湾变天</a></li>
-<li><a href="/ssgc/20200816/1380815.md">在中国挣2千元人民币比在美赚3千美元幸福</a></li>
 <li><a href="/cbnews/20200816/1380865.md">赖小民贪近18亿或判死 藏财“超市”真容曝光</a></li>
-<li><a href="/cnnews/20200816/1380765.md">敏感时刻 微信又出事了 川普命令字节跳动撤资 白岩松跟风习近平引哗然</a></li>
+<li><a href="/ssgc/20200816/1380815.md">在中国挣2千元人民币比在美赚3千美元幸福</a></li>
 <li><a href="/comments/20200816/1380926.md">特稿：论中共统治体系的六大死穴</a></li>
+<li><a href="/cnnews/20200816/1380765.md">敏感时刻 微信又出事了 川普命令字节跳动撤资 白岩松跟风习近平引哗然</a></li>
 <li><a href="/cnnews/20200816/1380909.md">生男生女 你以为是随机?早已写在父亲的基因里</a></li>
 <li><a href="/cbnews/20200816/1380861.md">深圳突爆疫情！罗湖区核酸检测排队数百米 人龙不见尾</a></li>
+<li><a href="/cnnews/20200816/1380970.md">美政府昂贵无人机在密歇根遭击坠！找到凶手却无计可施</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
