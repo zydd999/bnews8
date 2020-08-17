@@ -11,8 +11,8 @@
 <li><a href="/cnnews/20200817/1381356.md">两美女老公出轨大闹央视！亚洲第一名模逼央视渣男现原形</a></li>
 <li><a href="/cbnews/20200817/1381430.md">中共审查内幕曝光了 外媒惊：非常荒谬</a></li>
 <li><a href="/baitai/20200817/1381403.md">辣眼!女子因＂床上运动过于激烈＂致黄体破裂 被送医</a></li>
-<li><a href="/cnnews/20200817/1381291.md">加拿大网站爆：普丁女儿接种疫苗身亡</a></li>
 <li><a href="/topimagenews/20200817/1381596.md">习近平独占 反习派蠢动 北戴河会议内斗多惨烈？ 揭秘兴风作浪者老底</a></li>
+<li><a href="/cnnews/20200817/1381291.md">加拿大网站爆：普丁女儿接种疫苗身亡</a></li>
 <li><a href="/cnnews/20200817/1381255.md">中共两栖装甲车下水测试…糗！冒黑烟后整台沉入长江</a></li>
 <li><a href="/yule/20200817/1381262.md">传被17亿巨贪赖小民包养 林允怒发声明</a></li>
 <li><a href="/ssgc/20200817/1381440.md">北戴河会议没完 军权之争浮水面</a></li>
@@ -22,11 +22,11 @@
 <li><a href="/cnnews/20200817/1381419.md">成都爆「世纪大洪水」！当地惨状曝光</a></li>
 <li><a href="/cnnews/20200817/1381465.md">表情才是重点！共军班长秀匕首 网笑疯</a></li>
 <li><a href="/ssgc/20200817/1381235.md">〖兲朝浮世绘〗林郑月娥的厚脸皮属中共牌儿的</a></li>
+<li><a href="/topimagenews/20200817/1381618.md">跟风一尊一拥而上花样百出 高官泄:中国金融危机免不了 揭秘中国粮食危机根本原因</a></li>
 <li><a href="/comments/20200817/1381382.md">为什么中共要将台湾视为自己的“核心利益”？</a></li>
 <li><a href="/cnnews/20200817/1381466.md">批习近平 中共党校前教授遭开除党籍</a></li>
 <li><a href="/topimagenews/20200817/1381273.md">威力太大！美出售台湾的Mk48型鱼雷 一枚可击沉一艘大型驱逐舰</a></li>
 <li><a href="/cnnews/20200817/1381418.md">内战一触即发北约真急了欧盟27外长紧急开会</a></li>
-<li><a href="/topimagenews/20200817/1381618.md">跟风一尊一拥而上花样百出 高官泄:中国金融危机免不了 揭秘中国粮食危机根本原因</a></li>
 <li><a href="/cnnews/20200817/1381540.md">“华人在美做二等公民为何不回国？”的神回答</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -131,30 +131,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
