@@ -5,12 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20200816/1380915.md">传北戴河会议仍在开 中共高层争吵得凶？</a></li>
-<li><a href="/bannedvideo/20200816/1380917.md">被羞辱后再没有现身，李克强行踪突显体制动荡</a></li>
 <li><a href="/baitai/20200816/1381010.md">深夜，济宁鸿顺豪园一女子惨遭多次强奸</a></li>
 <li><a href="/cbnews/20200816/1380954.md">北戴河会议仍在开？ 13大难题个个无解</a></li>
-<li><a href="/cbnews/20200816/1380936.md">川普让专家跌破眼镜 美以成最大赢家</a></li>
 <li><a href="/topimagenews/20200817/1381204.md">山东出大事 件件很严重 王沪宁进言？中国课本现习语录 内部文件泄露党组织海外做间谍</a></li>
+<li><a href="/cbnews/20200816/1380936.md">川普让专家跌破眼镜 美以成最大赢家</a></li>
 <li><a href="/cbnews/20200816/1381030.md">“局座”张召忠公众号更名 网友：不装了？</a></li>
 <li><a href="/topimagenews/20200816/1381029.md">习近平头大 中国社保无底洞 破产!中国信用卡债务达18万亿 潘石屹套现失败？大逃亡300亿</a></li>
 <li><a href="/cnnews/20200816/1381159.md">崔天凯现身美国务院做承诺 中美最新媒体签证战暂停 美设新部门调查UFO与中共</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/cnnews/20200816/1380970.md">美政府昂贵无人机在密歇根遭击坠！找到凶手却无计可施</a></li>
 <li><a href="/cnnews/20200816/1380991.md">异常天象！四川三预警齐发 成都变海洋 重庆高温如火炉</a></li>
 <li><a href="/comments/20200816/1381179.md">长寿的特征不是长眉毛、高前额、大耳垂，而是……对照下您有多少？</a></li>
-<li><a href="/finance/20200816/1380977.md">大陆餐厅规定80公斤客人才能吃红烧肉</a></li>
 <li><a href="/comments/20200816/1381123.md">天目所见：武汉肺炎的两种来源</a></li>
 <li><a href="/comments/20200816/1380930.md">中国小学课本惊现“习语录”</a></li>
+<li><a href="/finance/20200816/1380977.md">大陆餐厅规定80公斤客人才能吃红烧肉</a></li>
 <li><a href="/baitai/20200817/1381191.md">历史总在押韵 &#124; 翻车了！快把瑞士大使馆评论关了吧</a></li>
+<li><a href="/cbnews/20200816/1381031.md">大陆高校新学期封闭管理 学生网上抗议</a></li>
+<li><a href="/bannedvideo/20200816/1380937.md">财经冷眼：比美元脱钩还狠，恐怖的美国粮食核武器！70年美国粮食战！（20200816第312期）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200817/1381382.md" target="_blank">为什么中共要将台湾视为自己的“核心利益”？</a></li>
+<li><a href="/cbnews/20200817/1381376.md" target="_blank">美将交付台66架F-16V…中共官媒又恐吓</a></li>
+<li><a href="/cbnews/20200817/1381375.md" target="_blank">上海危险了？传日设新军地中国人崩溃</a></li>
 <li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
 <li><a href="/cbnews/20200817/1381337.md" target="_blank">胡锡进呛美国航母进入南海… 网友炮轰</a></li>
 <li><a href="/cbnews/20200817/1381318.md" target="_blank">限制输出报复美国？中共稀土出口大减7成</a></li>
@@ -58,15 +61,13 @@
 <li><a href="/cbnews/20200816/1381031.md" target="_blank">大陆高校新学期封闭管理 学生网上抗议</a></li>
 <li><a href="/cbnews/20200816/1381030.md" target="_blank">“局座”张召忠公众号更名 网友：不装了？</a></li>
 <li><a href="/comments/20200816/1381021.md" target="_blank">七印解封（1）：定下人类历史的七印书卷</a></li>
-<li><a href="/cbnews/20200816/1381019.md" target="_blank">中共援俄逾百吨大米 陆媒却鼓励民众“恢复饥饿感”</a></li>
-<li><a href="/cbnews/20200816/1380967.md" target="_blank">报告：中共实施意识形态与信息战 美如何回击</a></li>
-<li><a href="/cbnews/20200816/1380954.md" target="_blank">北戴河会议仍在开？ 13大难题个个无解</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200817/1381382.md" target="_blank">为什么中共要将台湾视为自己的“核心利益”？</a></li>
 <li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
 <li><a href="/topimagenews/20200817/1381336.md" target="_blank">近半数港民持续给林郑“零分” “北京将和林郑月娥抱在一起死”</a></li>
 <li><a href="/topimagenews/20200817/1381285.md" target="_blank">日本想当「五眼联盟第六眼」防相河野：中共武力威胁应付高昂代价</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20200812/1379218.md" target="_blank">让台日韩持核武?川普不反对!让川普下台!中共这样操作大选?专家揭秘为何中共胆敢干预</a></li>
 <li><a href="/topimagenews/20200812/1378848.md" target="_blank">中共军医唐娟出庭 海量电子文件被检方截获</a></li>
 <li><a href="/topimagenews/20200812/1378810.md" target="_blank">粮食危矣！习近平突发“重要指示”称“粒粒皆辛苦”</a></li>
-<li><a href="/topimagenews/20200812/1378794.md" target="_blank">“收到消息大量警车正驶往《苹果》大楼…”员工亲述经历黑暗9小时</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200817/1381389.md" target="_blank">加拿大退党服务中心汽车游行 声援3亿六千万人三退</a></li>
+<li><a href="/comments/20200817/1381388.md" target="_blank">自由和民主横扫全球：何时才能浪及中国？</a></li>
+<li><a href="/comments/20200817/1381382.md" target="_blank">为什么中共要将台湾视为自己的“核心利益”？</a></li>
 <li><a href="/comments/20200817/1381368.md" target="_blank">北戴河会议敏感期 传北京上海爆发政治暴乱 事儿很大 高层吓出一身冷汗 京沪书记蔡奇李强活动异常？中南海谣言预言_248</a></li>
 <li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
 <li><a href="/comments/20200817/1381345.md" target="_blank">整饬香港 中国经济内循环恐变恶性循环</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200817/1381275.md" target="_blank">方 强丨谨慎在私人饭碗里立法</a></li>
 <li><a href="/comments/20200817/1381250.md" target="_blank">惊传：普京女儿注射新冠疫苗后不治身亡</a></li>
 <li><a href="/comments/20200817/1381240.md" target="_blank">白俄罗斯驻斯洛伐克大使公开声援抗议示威民众 斥当局回到前苏联</a></li>
-<li><a href="/comments/20200817/1381234.md" target="_blank">非裔名人：美国黑人贫困原因是黑人家庭中没父亲比例太高</a></li>
-<li><a href="/comments/20200817/1381220.md" target="_blank">川普或特赦美中情局前泄密员工斯诺登 共和党议员支持</a></li>
-<li><a href="/comments/20200816/1381184.md" target="_blank">豆腐和它是天生一对,一起吃堪称“钙王”，医生都说好</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
