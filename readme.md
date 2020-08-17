@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20200817/1381204.md">山东出大事 件件很严重 王沪宁进言？中国课本现习语录 内部文件泄露党组织海外做间谍</a></li>
 <li><a href="/comments/20200817/1381250.md">惊传：普京女儿注射新冠疫苗后不治身亡</a></li>
 <li><a href="/cnnews/20200816/1381159.md">崔天凯现身美国务院做承诺 中美最新媒体签证战暂停 美设新部门调查UFO与中共</a></li>
-<li><a href="/comments/20200816/1381132.md">天目所见：贵州大山怪声是谁发出的？</a></li>
 <li><a href="/cbnews/20200817/1381375.md">上海危险了？传日设新军地中国人崩溃</a></li>
 <li><a href="/cnnews/20200817/1381356.md">两美女老公出轨大闹央视！亚洲第一名模逼央视渣男现原形</a></li>
 <li><a href="/comments/20200817/1381368.md">北戴河会议敏感期 传北京上海爆发政治暴乱 事儿很大 高层吓出一身冷汗 京沪书记蔡奇李强活动异常？中南海谣言预言_248</a></li>
-<li><a href="/baitai/20200817/1381403.md">辣眼!女子因＂床上运动过于激烈＂致黄体破裂 被送医</a></li>
 <li><a href="/cbnews/20200817/1381430.md">中共审查内幕曝光了 外媒惊：非常荒谬</a></li>
-<li><a href="/cnnews/20200817/1381291.md">加拿大网站爆：普丁女儿接种疫苗身亡</a></li>
+<li><a href="/baitai/20200817/1381403.md">辣眼!女子因＂床上运动过于激烈＂致黄体破裂 被送医</a></li>
 <li><a href="/comments/20200816/1381179.md">长寿的特征不是长眉毛、高前额、大耳垂，而是……对照下您有多少？</a></li>
+<li><a href="/cnnews/20200817/1381291.md">加拿大网站爆：普丁女儿接种疫苗身亡</a></li>
 <li><a href="/cnnews/20200817/1381255.md">中共两栖装甲车下水测试…糗！冒黑烟后整台沉入长江</a></li>
-<li><a href="/comments/20200816/1381123.md">天目所见：武汉肺炎的两种来源</a></li>
 <li><a href="/cnnews/20200817/1381292.md">台湾驻纽约办事处改名？外交部解答了 引发网路热议</a></li>
 <li><a href="/cnnews/20200817/1381321.md">“新印”的21万亿元人民币 都被谁拿走了？</a></li>
-<li><a href="/yule/20200817/1381262.md">传被17亿巨贪赖小民包养 林允怒发声明</a></li>
 <li><a href="/baitai/20200817/1381191.md">历史总在押韵 &#124; 翻车了！快把瑞士大使馆评论关了吧</a></li>
-<li><a href="/cnnews/20200817/1381419.md">成都爆「世纪大洪水」！当地惨状曝光</a></li>
+<li><a href="/yule/20200817/1381262.md">传被17亿巨贪赖小民包养 林允怒发声明</a></li>
 <li><a href="/cnnews/20200817/1381423.md">王毅去西藏！因为中共赔了印度三妻四妾</a></li>
+<li><a href="/cnnews/20200817/1381419.md">成都爆「世纪大洪水」！当地惨状曝光</a></li>
 <li><a href="/ssgc/20200817/1381235.md">〖兲朝浮世绘〗林郑月娥的厚脸皮属中共牌儿的</a></li>
+<li><a href="/ssgc/20200817/1381440.md">北戴河会议没完 军权之争浮水面</a></li>
 <li><a href="/comments/20200817/1381382.md">为什么中共要将台湾视为自己的“核心利益”？</a></li>
-<li><a href="/yule/20200817/1381222.md">王岳伦凌晨道歉！"深感懊悔 希望能得到原谅" </a></li>
 <li><a href="/topimagenews/20200817/1381273.md">威力太大！美出售台湾的Mk48型鱼雷 一枚可击沉一艘大型驱逐舰</a></li>
+<li><a href="/yule/20200817/1381222.md">王岳伦凌晨道歉！"深感懊悔 希望能得到原谅" </a></li>
+<li><a href="/cnnews/20200817/1381418.md">内战一触即发北约真急了欧盟27外长紧急开会</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 
 </ul>
 </div>
