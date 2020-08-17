@@ -13,9 +13,8 @@
 <li><a href="/cnnews/20200817/1381356.md">两美女老公出轨大闹央视！亚洲第一名模逼央视渣男现原形</a></li>
 <li><a href="/comments/20200817/1381368.md">北戴河会议敏感期 传北京上海爆发政治暴乱 事儿很大 高层吓出一身冷汗 京沪书记蔡奇李强活动异常？中南海谣言预言_248</a></li>
 <li><a href="/baitai/20200817/1381403.md">辣眼!女子因＂床上运动过于激烈＂致黄体破裂 被送医</a></li>
-<li><a href="/comments/20200816/1381118.md">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/cnnews/20200817/1381291.md">加拿大网站爆：普丁女儿接种疫苗身亡</a></li>
 <li><a href="/cbnews/20200817/1381430.md">中共审查内幕曝光了 外媒惊：非常荒谬</a></li>
+<li><a href="/cnnews/20200817/1381291.md">加拿大网站爆：普丁女儿接种疫苗身亡</a></li>
 <li><a href="/comments/20200816/1381179.md">长寿的特征不是长眉毛、高前额、大耳垂，而是……对照下您有多少？</a></li>
 <li><a href="/cnnews/20200817/1381255.md">中共两栖装甲车下水测试…糗！冒黑烟后整台沉入长江</a></li>
 <li><a href="/comments/20200816/1381123.md">天目所见：武汉肺炎的两种来源</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cnnews/20200817/1381321.md">“新印”的21万亿元人民币 都被谁拿走了？</a></li>
 <li><a href="/yule/20200817/1381262.md">传被17亿巨贪赖小民包养 林允怒发声明</a></li>
 <li><a href="/baitai/20200817/1381191.md">历史总在押韵 &#124; 翻车了！快把瑞士大使馆评论关了吧</a></li>
-<li><a href="/ssgc/20200817/1381235.md">〖兲朝浮世绘〗林郑月娥的厚脸皮属中共牌儿的</a></li>
 <li><a href="/cnnews/20200817/1381419.md">成都爆「世纪大洪水」！当地惨状曝光</a></li>
 <li><a href="/cnnews/20200817/1381423.md">王毅去西藏！因为中共赔了印度三妻四妾</a></li>
-<li><a href="/yule/20200817/1381222.md">王岳伦凌晨道歉！"深感懊悔 希望能得到原谅" </a></li>
+<li><a href="/ssgc/20200817/1381235.md">〖兲朝浮世绘〗林郑月娥的厚脸皮属中共牌儿的</a></li>
 <li><a href="/comments/20200817/1381382.md">为什么中共要将台湾视为自己的“核心利益”？</a></li>
+<li><a href="/yule/20200817/1381222.md">王岳伦凌晨道歉！"深感懊悔 希望能得到原谅" </a></li>
+<li><a href="/topimagenews/20200817/1381273.md">威力太大！美出售台湾的Mk48型鱼雷 一枚可击沉一艘大型驱逐舰</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200817/1381596.md" target="_blank">习近平独占 反习派蠢动 北戴河会议内斗多惨烈？ 揭秘兴风作浪者老底</a></li>
 <li><a href="/comments/20200817/1381382.md" target="_blank">为什么中共要将台湾视为自己的“核心利益”？</a></li>
 <li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
 <li><a href="/topimagenews/20200817/1381336.md" target="_blank">近半数港民持续给林郑“零分” “北京将和林郑月娥抱在一起死”</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/comments/20200813/1379457.md" target="_blank">重磅：香港抓民主人士这出戏是演给谁看的？</a></li>
 <li><a href="/topimagenews/20200812/1379218.md" target="_blank">让台日韩持核武?川普不反对!让川普下台!中共这样操作大选?专家揭秘为何中共胆敢干预</a></li>
 <li><a href="/topimagenews/20200812/1378848.md" target="_blank">中共军医唐娟出庭 海量电子文件被检方截获</a></li>
-<li><a href="/topimagenews/20200812/1378810.md" target="_blank">粮食危矣！习近平突发“重要指示”称“粒粒皆辛苦”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
