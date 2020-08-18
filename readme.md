@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20200817/1381423.md">王毅去西藏！因为中共赔了印度三妻四妾</a></li>
 <li><a href="/topimagenews/20200817/1381618.md">跟风一尊一拥而上花样百出 高官泄:中国金融危机免不了 揭秘中国粮食危机根本原因</a></li>
 <li><a href="/finance/20200818/1381734.md">大陆国企龙头 中国铁建集团董事长陈奋健跳楼死亡</a></li>
-<li><a href="/cbnews/20200818/1381707.md">专栏 | 夜话中南海：韩正接班总理职务 的“朱镕基模式”</a></li>
 <li><a href="/cnnews/20200817/1381419.md">成都爆「世纪大洪水」！当地惨状曝光</a></li>
+<li><a href="/cbnews/20200818/1381707.md">专栏 | 夜话中南海：韩正接班总理职务 的“朱镕基模式”</a></li>
 <li><a href="/cnnews/20200817/1381465.md">表情才是重点！共军班长秀匕首 网笑疯</a></li>
 <li><a href="/cnnews/20200817/1381540.md">“华人在美做二等公民为何不回国？”的神回答</a></li>
 <li><a href="/cnnews/20200817/1381466.md">批习近平 中共党校前教授遭开除党籍</a></li>
+<li><a href="/ssgc/20200818/1381714.md">〖兲朝浮世绘〗习近平对于批评他的人已经是零容忍了</a></li>
 <li><a href="/cnnews/20200817/1381418.md">内战一触即发北约真急了欧盟27外长紧急开会</a></li>
 <li><a href="/baitai/20200817/1381592.md">浙大教授被指多次性骚扰女博士致其跳楼:摸胸摸下体</a></li>
-<li><a href="/ssgc/20200818/1381714.md">〖兲朝浮世绘〗习近平对于批评他的人已经是零容忍了</a></li>
-<li><a href="/cnnews/hknews/20200817/1381422.md">美国第二波制裁行动很快来临？或重创港金融</a></li>
-<li><a href="/ssgc/20200817/1381462.md">北京顶级富人区长啥样？</a></li>
-<li><a href="/comments/20200817/1381477.md">【微博精粹】重磅！香港要回归英国？彭定康飞海牙国际法院告中共</a></li>
 <li><a href="/comments/20200818/1381746.md">北戴河会议结束 3官员同日落马 北京3个月4官员落马 习王旧部密集清洗云南官场剑指江曾三马仔</a></li>
+<li><a href="/cnnews/hknews/20200817/1381422.md">美国第二波制裁行动很快来临？或重创港金融</a></li>
+<li><a href="/comments/20200817/1381477.md">【微博精粹】重磅！香港要回归英国？彭定康飞海牙国际法院告中共</a></li>
+<li><a href="/ssgc/20200817/1381462.md">北京顶级富人区长啥样？</a></li>
+<li><a href="/bannedvideo/20200818/1381729.md">陈破空：白俄人民惊呆习近平！瑞士壮举：将曝光中共领导人巨额存款。美国瞄准阿里巴巴，灭绝华为</a></li>
 <li><a href="/bannedvideo/20200817/1381501.md">🈲预言2020 - 2025年大结局❗预言中共灭亡🆚大劫难❗刘伯温三大预言全解密❗（大结局）</a></li>
 <li><a href="/ssgc/20200817/1381508.md">陆媒揭露中国外汇储备危机  解释为何习近平呼吁民众节食</a></li>
 <li><a href="/headline/20200818/1381678.md">北戴河快结束：习近平神隐那么久在干啥？</a></li>
-<li><a href="/cnnews/20200817/1381444.md">中共拿什么武统？网疯传装甲车灭顶下场曝…微信惨被封</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200818/1381938.md" target="_blank">再下追杀令！川普狂呛华为：来自中国的“间谍为”…</a></li>
+<li><a href="/cbnews/20200818/1381937.md" target="_blank">中共官媒竟酸「美国吃不饱」？网友怒：自己闹粮荒还找垫背的</a></li>
+<li><a href="/cbnews/20200818/1381936.md" target="_blank">强袭三峡大坝！四川爆「百年一遇」洪水史上首度一级响应</a></li>
 <li><a href="/cbnews/20200818/1381912.md" target="_blank">被坠楼？世界超大建筑公司中国国企龙头老董身亡</a></li>
 <li><a href="/cbnews/20200818/1381911.md" target="_blank">灾难瞬间！泥石流突袭甘肃 居民狂奔逃命</a></li>
 <li><a href="/cbnews/20200818/1381910.md" target="_blank">崔永元中毒 因得罪中南海三大红人</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20200818/1381814.md" target="_blank">虎毒不食子 江西12岁男童被父母虐待惨死家中</a></li>
 <li><a href="/comments/20200818/1381765.md" target="_blank">特稿：美国与台湾恢复邦交是大势所趋！</a></li>
 <li><a href="/cbnews/20200818/1381747.md" target="_blank">文昭：美国将制裁红二代，中共「三硬三软」？白俄罗斯要变天、习近平怀疑人生；数字货币推广中国忧之大</a></li>
-<li><a href="/cbnews/20200818/1381707.md" target="_blank">专栏 | 夜话中南海：韩正接班总理职务 的“朱镕基模式”</a></li>
-<li><a href="/cbnews/20200818/1381661.md" target="_blank">共军1月武统台湾？来真的？台设中华民国领事馆？水真深 共军才呛军演 美航母现东沙</a></li>
-<li><a href="/cbnews/20200817/1381609.md" target="_blank">美国思想领袖：Hillsdale学院助理教授 大卫·阿塞拉德：过去几年文化战争加剧！左派有着明显的马克思主义的特徵；解决美国文化战争有方法！|  大纪元</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200816/1381021.md" target="_blank">七印解封（1）：定下人类历史的七印书卷</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 
 </ul>
 </div>
