@@ -12,21 +12,21 @@
 <li><a href="/bannedvideo/20200818/1381808.md">习近平遇到事儿了，有军队也没有用</a></li>
 <li><a href="/cbnews/20200818/1381707.md">专栏 | 夜话中南海：韩正接班总理职务 的“朱镕基模式”</a></li>
 <li><a href="/topimagenews/20200818/1381813.md">全文 蓬佩奥发声明：今天 我国政府公布几项措施…</a></li>
+<li><a href="/topimagenews/20200818/1382108.md">不得了!深圳超市付现金要登记 泡沫爆裂前兆货币政策走钢丝 国民财富或一夜之间变共产</a></li>
 <li><a href="/ssgc/20200818/1381714.md">〖兲朝浮世绘〗习近平对于批评他的人已经是零容忍了</a></li>
 <li><a href="/cnnews/20200818/1382050.md">空降到上海 公安局长龚道安被查 </a></li>
-<li><a href="/topimagenews/20200818/1382108.md">不得了!深圳超市付现金要登记 泡沫爆裂前兆货币政策走钢丝 国民财富或一夜之间变共产</a></li>
 <li><a href="/cbnews/20200818/1382077.md">章泽天与杨澜出席聚会站边缘 岔腿动作气质尽失</a></li>
 <li><a href="/cbnews/20200818/1381819.md">中共不演了？奸尸案外案爆内幕…网惊武肺绑DNA资料库</a></li>
 <li><a href="/comments/20200818/1381989.md">上海副市长公安局长龚道安被查 北戴河会后重磅打虎 习近平清洗江泽民老巢</a></li>
 <li><a href="/cbnews/20200818/1382056.md">突然！北戴河休假结束 习近平出手 上海公安局长落马 “刀把子”被清洗</a></li>
-<li><a href="/bannedvideo/20200818/1381729.md">陈破空：白俄人民惊呆习近平！瑞士壮举：将曝光中共领导人巨额存款。美国瞄准阿里巴巴，灭绝华为</a></li>
 <li><a href="/comments/20200818/1381982.md">曾庆红马仔赖小民被抓细节曝光：赖小民准备与23岁北大毕业的女秘书去游泳时 五个彪形大汉将其围住 他扭头对还在卫生间里洗漱的女秘书说了一句话 女秘书给赖小民的一号情妇发了一个微信：“他被抓了，家也被抄了。”</a></li>
+<li><a href="/bannedvideo/20200818/1381729.md">陈破空：白俄人民惊呆习近平！瑞士壮举：将曝光中共领导人巨额存款。美国瞄准阿里巴巴，灭绝华为</a></li>
 <li><a href="/comments/20200818/1381753.md">中共扩大数字货币试点 学者：国民财富或在一夜之间变“公产”</a></li>
 <li><a href="/bannedvideo/20200818/1382008.md">财经冷眼：深圳突然限制使用现金的信号！外储净值跌破1万亿，外汇管制升级！楼市股市要爆！（20200818第313期）</a></li>
 <li><a href="/cbnews/20200818/1381825.md">央视主播大翻车 打鸡血话语惹恼网民 遭洗版式痛骂</a></li>
-<li><a href="/headline/20200818/1381678.md">北戴河快结束：习近平神隐那么久在干啥？</a></li>
 <li><a href="/cbnews/20200818/1381824.md">14亿人将没饭吃震惊习近平中国社科院：5年后恐现1.3亿吨粮食缺口</a></li>
 <li><a href="/cnnews/20200818/1381943.md">卢卡申科撂话：除非杀死我 否则不重选 没想到…</a></li>
+<li><a href="/cbnews/20200818/1382159.md">习王高调亮相 压倒李克强 白俄20万人要变天 央视诽谤 中共外交部搞砸了越抹越黑</a></li>
 <li><a href="/cbnews/20200818/1381912.md">被坠楼？世界超大建筑公司中国国企龙头老董身亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200816/1381021.md" target="_blank">七印解封（1）：定下人类历史的七印书卷</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 
 </ul>
 </div>
