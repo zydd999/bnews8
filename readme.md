@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20200818/1382108.md">不得了!深圳超市付现金要登记 泡沫爆裂前兆货币政策走钢丝 国民财富或一夜之间变共产</a></li>
 <li><a href="/cbnews/20200818/1382077.md">章泽天与杨澜出席聚会站边缘 岔腿动作气质尽失</a></li>
 <li><a href="/cnnews/20200818/1382050.md">空降到上海 公安局长龚道安被查 </a></li>
-<li><a href="/comments/20200818/1381982.md">曾庆红马仔赖小民被抓细节曝光：赖小民准备与23岁北大毕业的女秘书去游泳时 五个彪形大汉将其围住 他扭头对还在卫生间里洗漱的女秘书说了一句话 女秘书给赖小民的一号情妇发了一个微信：“他被抓了，家也被抄了。”</a></li>
 <li><a href="/comments/20200818/1381989.md">上海副市长公安局长龚道安被查 北戴河会后重磅打虎 习近平清洗江泽民老巢</a></li>
 <li><a href="/cbnews/20200818/1382159.md">习王高调亮相 压倒李克强 白俄20万人要变天 央视诽谤 中共外交部搞砸了越抹越黑</a></li>
 <li><a href="/cbnews/20200818/1382056.md">突然！北戴河休假结束 习近平出手 上海公安局长落马 “刀把子”被清洗</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/comments/20200818/1382033.md">孟建柱又一亲信 上海副市长、公安局长龚道安落马</a></li>
 <li><a href="/bannedvideo/20200819/1382252.md">蔡霞：习近平已成惊弓之鸟 906</a></li>
 <li><a href="/bannedvideo/20200819/1382283.md">陈破空：北戴河会议落幕，习近平落败。赵乐际攻克习家军！白俄独裁者服软。林郑遭制裁生活不便</a></li>
-<li><a href="/cnnews/20200818/1382084.md">辽宁海域惊现成群大型海兽 罕见而又壮观</a></li>
 <li><a href="/cbnews/20200818/1382109.md">罕见！美国轰炸机刻意绕道东海 中共官媒惊呼：什么意图？</a></li>
+<li><a href="/cnnews/20200818/1382084.md">辽宁海域惊现成群大型海兽 罕见而又壮观</a></li>
 <li><a href="/cnnews/20200818/1382082.md">习近平反腐走进了朱元璋的死胡同</a></li>
 <li><a href="/cnnews/20200819/1382218.md">袭三峡大坝四川爆百年一遇 史上首度一级响应无救援哭声一片 长江5号洪水更大官称决战</a></li>
 <li><a href="/ssgc/20200819/1382269.md">〖兲朝浮世绘〗从上倒下 对美国的制裁都像一场闹剧</a></li>
+<li><a href="/lifebaike/20200819/1382323.md">5件“吸阳事” 请及时收手 忍不住的女人 阳气或已“透支”</a></li>
 <li><a href="/cnnews/20200818/1382017.md">从情妇到美国 “ 女总统 ” 起中文名却和华人没关系的贺锦丽</a></li>
-<li><a href="/comments/20200819/1382268.md">乐山大佛被洗脚：这次不是流泪，而是真的怒了</a></li>
 <li><a href="/cnnews/20200818/1381988.md">房企的苦日子要来了 楼市呢？</a></li>
+<li><a href="/comments/20200819/1382268.md">乐山大佛被洗脚：这次不是流泪，而是真的怒了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
