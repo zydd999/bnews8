@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20200818/1381910.md">崔永元中毒 因得罪中南海三大红人</a></li>
 <li><a href="/bannedvideo/20200818/1381808.md">习近平遇到事儿了，有军队也没有用</a></li>
+<li><a href="/cbnews/20200818/1381910.md">崔永元中毒 因得罪中南海三大红人</a></li>
 <li><a href="/topimagenews/20200818/1381813.md">全文 蓬佩奥发声明：今天 我国政府公布几项措施…</a></li>
 <li><a href="/topimagenews/20200818/1382108.md">不得了!深圳超市付现金要登记 泡沫爆裂前兆货币政策走钢丝 国民财富或一夜之间变共产</a></li>
 <li><a href="/cbnews/20200818/1382077.md">章泽天与杨澜出席聚会站边缘 岔腿动作气质尽失</a></li>
@@ -20,12 +20,12 @@
 <li><a href="/bannedvideo/20200818/1382008.md">财经冷眼：深圳突然限制使用现金的信号！外储净值跌破1万亿，外汇管制升级！楼市股市要爆！（20200818第313期）</a></li>
 <li><a href="/cbnews/20200818/1381825.md">央视主播大翻车 打鸡血话语惹恼网民 遭洗版式痛骂</a></li>
 <li><a href="/cbnews/20200818/1381824.md">14亿人将没饭吃震惊习近平中国社科院：5年后恐现1.3亿吨粮食缺口</a></li>
-<li><a href="/comments/20200818/1382033.md">孟建柱又一亲信 上海副市长、公安局长龚道安落马</a></li>
 <li><a href="/cnnews/20200819/1382226.md">北戴河时间结束 江系折大将 粮食危机严重 半年后堪忧 崔永元中毒因这三大红人？</a></li>
+<li><a href="/comments/20200818/1382033.md">孟建柱又一亲信 上海副市长、公安局长龚道安落马</a></li>
 <li><a href="/cbnews/20200818/1381912.md">被坠楼？世界超大建筑公司中国国企龙头老董身亡</a></li>
 <li><a href="/cnnews/20200818/1381943.md">卢卡申科撂话：除非杀死我 否则不重选 没想到…</a></li>
-<li><a href="/topimagenews/20200818/1381909.md">第二个港产双面间谍被捕 曾在港见中共国安人员收5万美元</a></li>
 <li><a href="/taiwannews/20200818/1382211.md">白俄人民惊呆习近平！瑞士壮举：将曝光中共领导人巨额存款</a></li>
+<li><a href="/topimagenews/20200818/1381909.md">第二个港产双面间谍被捕 曾在港见中共国安人员收5万美元</a></li>
 <li><a href="/headline/20200818/1381884.md">专访蔡霞: 换掉习近平已成党内共识</a></li>
 <li><a href="/cnnews/20200818/1382084.md">辽宁海域惊现成群大型海兽 罕见而又壮观</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200819/1382324.md" target="_blank">停止对维吾尔人的种族灭绝：各宗教领袖呼吁声援维吾尔人</a></li>
 <li><a href="/cbnews/20200819/1382325.md" target="_blank">水深高达四层楼！甘肃文县四大古镇之首也被淹</a></li>
 <li><a href="/cbnews/20200819/1382291.md" target="_blank">网络疯传：萨达姆最后的日子</a></li>
 <li><a href="/cbnews/20200819/1382290.md" target="_blank">长江5号洪水来势凶猛！重庆水位创今年记录！三峡开启9孔创纪录泄洪</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200818/1381936.md" target="_blank">强袭三峡大坝！四川爆「百年一遇」洪水史上首度一级响应</a></li>
 <li><a href="/cbnews/20200818/1381912.md" target="_blank">被坠楼？世界超大建筑公司中国国企龙头老董身亡</a></li>
 <li><a href="/cbnews/20200818/1381911.md" target="_blank">灾难瞬间！泥石流突袭甘肃 居民狂奔逃命</a></li>
-<li><a href="/cbnews/20200818/1381910.md" target="_blank">崔永元中毒 因得罪中南海三大红人</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200819/1382331.md" target="_blank">陶杰：退院士 不是她的错</a></li>
 <li><a href="/comments/20200819/1382322.md" target="_blank">蜜斯桃：吃播主播的几个真实故事</a></li>
 <li><a href="/comments/20200819/1382319.md" target="_blank">美国新制裁对华为影响：手机业务或瓦解 通讯领域将“死透”</a></li>
 <li><a href="/comments/20200819/1382318.md" target="_blank">跨国公司减少对中国的依赖 中国出口占全球份额下滑</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200818/1382131.md" target="_blank">【梁京评论】美国鹰派的「底线思维」</a></li>
 <li><a href="/comments/20200818/1382060.md" target="_blank">白俄罗斯反政府集会变为支持政府？中共喉舌被批误导舆论</a></li>
 <li><a href="/comments/20200818/1382057.md" target="_blank">【微博精粹】中央党校整蔡霞 人说维尼疯了 淡定！又不是第一次</a></li>
-<li><a href="/comments/20200818/1382053.md" target="_blank">美国制裁见效 林郑首度承认使用信用卡受限制</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 <li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 
 </ul>
 </div>
