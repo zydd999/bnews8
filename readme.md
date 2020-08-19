@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20200819/1382291.md">网络疯传：萨达姆最后的日子</a></li>
 <li><a href="/cnnews/20200819/1382372.md">剧变的前夜 纸上富贵会在一夜灰飞烟灭</a></li>
-<li><a href="/bannedvideo/20200819/1382283.md">陈破空：北戴河会议落幕，习近平落败。赵乐际攻克习家军！白俄独裁者服软。林郑遭制裁生活不便</a></li>
 <li><a href="/cbnews/20200819/1382517.md">中国铁建董事长坠楼身亡 知情人士曝隐情</a></li>
 <li><a href="/cbnews/20200819/1382378.md">王毅接机休士顿领馆全员 遭网友揭老底</a></li>
 <li><a href="/lifebaike/20200819/1382323.md">5件“吸阳事” 请及时收手 忍不住的女人 阳气或已“透支”</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/headline/20200819/1382504.md">习近平视察安徽显示北戴河会议结束 港媒突指李克强反习惹除敌疑虑</a></li>
 <li><a href="/bannedvideo/20200819/1382468.md">财经冷眼：多家银行大批冻结储蓄账户，中小银行撑不住了，捂紧你的口袋！（20200819第314期）</a></li>
 <li><a href="/topimagenews/20200819/1382405.md">德媒：实行资本主义式列宁主义的中国绝不可能成为西方的选项 </a></li>
-<li><a href="/comments/20200819/1382352.md">颜纯钩：北戴河 政治老人没想推倒习近平 四点分析</a></li>
-<li><a href="/comments/20200819/1382569.md">穿帮了！被习慰问的女灾民竟是“临时演员” 疑为治安大队副队长</a></li>
 <li><a href="/cbnews/20200819/1382434.md">小情侣双尸悲剧！ 邻居透过门缝瞄到「女孩最后面貌」…吓到不敢独自待着</a></li>
+<li><a href="/comments/20200819/1382569.md">穿帮了！被习慰问的女灾民竟是“临时演员” 疑为治安大队副队长</a></li>
+<li><a href="/comments/20200819/1382352.md">颜纯钩：北戴河 政治老人没想推倒习近平 四点分析</a></li>
 <li><a href="/comments/20200819/1382552.md">上海公安局长龚道安落马内幕非同寻常 龚道鑫涉黑案一周前被引爆 龚道安籍贯传出两种说法大有猫腻 官方四字定性凸显湖北官场黑幕深不可测 “龚道安落马后 那桌麻将终于凑齐了” 三名旧部相继落马 孟建柱传被抓</a></li>
 <li><a href="/bannedvideo/20200819/1382478.md">💠💠印度神童阿南德最新预言❗预言2020至2021年世界的未来❗12月将发生比瘟疫还要严重的灾难❓😱😱</a></li>
 <li><a href="/ssgc/20200819/1382399.md">赖小民，那些活色生香的人和事</a></li>
 <li><a href="/cbnews/20200819/1382380.md">日媒打脸中共！3关键曝台湾离武统远了…一出兵美中变死结  </a></li>
-<li><a href="/cbnews/20200819/1382406.md">“爱国”？ 女留学生回国酒店隔离发帖 被警方约谈</a></li>
 <li><a href="/topimagenews/20200819/1382697.md">惊！政治老人没想推倒习近平? 创纪录大洪水!三峡大坝9孔泄洪 水深达四楼!甘肃古镇被淹</a></li>
+<li><a href="/cbnews/20200819/1382406.md">“爱国”？ 女留学生回国酒店隔离发帖 被警方约谈</a></li>
 <li><a href="/bannedvideo/20200819/1382385.md">习近平继续执政，川普连任，则大业可成功</a></li>
 <li><a href="/yule/20200819/1382520.md">大陆两位演员在一起15年 女儿都14岁了 却无人知他们是夫妻</a></li>
-<li><a href="/cnnews/20200819/1382287.md">新西兰19岁水电工靠自己买下51万美元屋 疯狂存钱每餐只花1美元</a></li>
 <li><a href="/worldnews/20200819/1382316.md">中国囚犯自爆在监狱都被强迫玩《魔兽世界》 比酷刑还可怕</a></li>
+<li><a href="/cnnews/20200819/1382543.md">跨国公司迁走 北京写字楼租金降半仍无人问津</a></li>
+<li><a href="/cbnews/20200819/1382374.md">天亮时分：芯片断供,华为破产重组?美军方认为中美若开战,胜负尚未可知?民主党大会登场,左媒对川普负面报道超过拜登150倍(政论天下第216集 20200818)</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200820/1382772.md" target="_blank">北戴河会议内幕 中共元老没想推倒习近平 王岐山本来直奔拿下曾庆红 十九大秘密交易达成王岐山被边缘化 美国对中共已彻底绝望 中美脱钩如箭在弦 中南海谣言预言_249</a></li>
+<li><a href="/comments/20200820/1382771.md" target="_blank">欧盟拒绝接受白俄罗斯大选结果  并承诺制裁白俄罗斯当局</a></li>
+<li><a href="/comments/20200820/1382770.md" target="_blank">德国科学家已证实存在四维空间，进入后可以直接看到人的一生？</a></li>
 <li><a href="/comments/20200820/1382760.md" target="_blank">评论 | 程晓农：中共苦撑待变八十天？</a></li>
 <li><a href="/comments/20200820/1382734.md" target="_blank">40岁后，女人优雅无关金钱，把握这6点，女人越活越年轻，有韵味</a></li>
 <li><a href="/comments/20200820/1382722.md" target="_blank">DNC正式提名拜登为总统候选人 川普：如拜登胜选 中共将击败美国</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200819/1382533.md" target="_blank">小酌真的怡情吗？研究发现：40岁每天2.5瓶啤酒，预期减寿5年</a></li>
 <li><a href="/comments/20200819/1382532.md" target="_blank">它是高脂肪水果，却能降胆固醇  台农会教你怎样挑选</a></li>
 <li><a href="/comments/20200819/1382523.md" target="_blank">蜂蜜蛋白质含量为什么是零？蜂蜜里面有蛋白质吗？</a></li>
-<li><a href="/comments/20200819/1382522.md" target="_blank">口渴不是唯一指标 身体缺水4大警讯恐伤脑</a></li>
-<li><a href="/comments/20200819/1382521.md" target="_blank">香水难掩狐臭  警告：当心引发皮肤炎</a></li>
-<li><a href="/comments/20200819/1382518.md" target="_blank">中共武统台湾只有一个结果？日媒：就是不会成功</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
