@@ -10,8 +10,8 @@
 <li><a href="/comments/20200820/1382770.md">德国科学家已证实存在四维空间，进入后可以直接看到人的一生？</a></li>
 <li><a href="/cbnews/20200820/1382743.md">憋疯了！武汉泳池派对3000人“肉贴肉”震惊世界</a></li>
 <li><a href="/cbnews/20200820/1382848.md">重庆告急 老城区三楼以下撤 三峡大坝已紧急开启11孔泄洪 创下历史记录</a></li>
-<li><a href="/cbnews/20200820/1382791.md">文昭：川普一语习近平颜面尽失，猛招在即？外汇破底，粮荒钱荒一起到！蔡霞起义、红二代或被抓逼财</a></li>
 <li><a href="/cnnews/hknews/20200820/1382852.md">体坛震撼！林书豪取台湾护照 中国媒体…竟全噤声</a></li>
+<li><a href="/cbnews/20200820/1382791.md">文昭：川普一语习近平颜面尽失，猛招在即？外汇破底，粮荒钱荒一起到！蔡霞起义、红二代或被抓逼财</a></li>
 <li><a href="/cnnews/20200820/1382965.md">人民币数字货币不能兑换黄金和外汇？一石激起千层浪</a></li>
 <li><a href="/bannedvideo/20200820/1382784.md">胡锡进成猪队友，揭穿央视假新闻｜【猪队友】｜经典搞笑合集尽在大陆新闻解毒｜精彩集锦片段回顾16</a></li>
 <li><a href="/cbnews/20200820/1382907.md">美轰炸机抵东海共军竟想打被回5字</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200821/1383227.md" target="_blank">贺锦丽获民主党副总统候选人提名 川普：她说拜登是种族主义者</a></li>
+<li><a href="/comments/20200821/1383226.md" target="_blank">运气测试：你喜欢哪款发型？测你凭什么得到男人的呵护？</a></li>
+<li><a href="/comments/20200821/1383225.md" target="_blank">铜打铁罗汉的初一十三：大事记（一）</a></li>
+<li><a href="/comments/20200821/1383224.md" target="_blank">牛油果奶香核桃饮 美容养生的佳品</a></li>
 <li><a href="/comments/20200821/1383216.md" target="_blank">科学家发现：2020年的10分钟与宇宙诞生时的10分钟完全不同？</a></li>
 <li><a href="/comments/20200820/1383196.md" target="_blank">评论 | 朱兆基：对美台结盟一筹莫展 中共台海“狼来了”游戏还能玩多久</a></li>
 <li><a href="/comments/20200820/1383153.md" target="_blank">科学家:我们生存的宇宙其实就是一个“超级黑洞” 像俄罗斯套娃?</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20200820/1383019.md" target="_blank">蔡霞案震动中共意识形态后院 中央党校急令紧跟习核心</a></li>
 <li><a href="/comments/20200820/1383015.md" target="_blank">【要文集粹】习近平领导下各级都很享受这梦幻剧场里的破碎梦</a></li>
 <li><a href="/comments/20200820/1383006.md" target="_blank">习近平赵克志接力施压 吉林帮老巢震荡 吉林应急管理厅长霍云成落马 与贺电关系紧密曾吹捧《平安经》 公安高官密集被查 上海公安局长龚道安落马原因曝光</a></li>
-<li><a href="/comments/20200820/1383001.md" target="_blank">反浪费一窝风 官媒赞餐厅老板吃剩菜暖心 网民怒批</a></li>
-<li><a href="/comments/20200820/1382988.md" target="_blank">蟹味菇炒黄瓜 低热量 低脂肪 鲜嫩韧滑的保健佳品</a></li>
-<li><a href="/comments/20200820/1382983.md" target="_blank">北京对澳洲葡萄酒进行反倾销调查 智库：利用贸易手段掩盖政治制裁</a></li>
-<li><a href="/comments/20200820/1382966.md" target="_blank">孩子常盯手机社交能力差？然而新研究结果令人惊叹</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200819/1382591.md" target="_blank">七印解封（6）：西方世界</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
 
 </ul>
 </div>
