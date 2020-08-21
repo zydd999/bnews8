@@ -11,22 +11,22 @@
 <li><a href="/finance/20200820/1382981.md">重磅！央行自曝数字货币两大无解缺陷 学者：快换纸币</a></li>
 <li><a href="/topimagenews/20200820/1383199.md">港媒：李克强反习要被除掉 中共降调！一中原则剩一中两府 林书豪获台湾护照 党媒全噤声…</a></li>
 <li><a href="/cbnews/20200820/1382907.md">美轰炸机抵东海共军竟想打被回5字</a></li>
-<li><a href="/headline/20200820/1383079.md">李克强访灾区重庆 雨靴与习对比成亮点</a></li>
 <li><a href="/ssgc/20200820/1382990.md">忧因言获罪 中国鸡西市前副市长出逃美国</a></li>
+<li><a href="/headline/20200820/1383079.md">李克强访灾区重庆 雨靴与习对比成亮点</a></li>
 <li><a href="/headline/20200821/1383221.md">中共红二代蔡霞出走美国 中央党校10约谈要求回国「跟组织谈清楚」</a></li>
-<li><a href="/cbnews/20200820/1382832.md">中共开战再等80天？他曝第一枪时机</a></li>
 <li><a href="/cnnews/20200820/1382935.md">四川乐山飘神秘刺鼻浓雾！居民吓坏逃命「出城车龙塞爆」…狂问登热搜</a></li>
 <li><a href="/cnnews/20200820/1383122.md">首曝江泽民让胡锦涛走死路 习时代对网络控制不可思议 “川普将每3-4天惩罚一次中共”</a></li>
+<li><a href="/topimagenews/20200820/1383194.md">川普稳赢大选？有重大信号！习近平3大军事行动逼川普还击 拜登称会对中共强硬 但是...</a></li>
 <li><a href="/cbnews/20200820/1383054.md">中共大使爽踩「人体地毯」赵立坚回网友：是从台湾拿了钱吗</a></li>
 <li><a href="/topimagenews/20200820/1382904.md">“特斯拉被拼多多玩得团团转” 官方还拉偏架 特斯拉这次知道厉害了</a></li>
-<li><a href="/topimagenews/20200820/1383194.md">川普稳赢大选？有重大信号！习近平3大军事行动逼川普还击 拜登称会对中共强硬 但是...</a></li>
 <li><a href="/cnnews/hknews/20200820/1382917.md">中共大使狂踩30童「人肉地毯」外交部傻眼：台湾不会…</a></li>
 <li><a href="/cbnews/20200820/1382962.md">中共核潜艇进出地下洞库 卫星照罕见曝光</a></li>
 <li><a href="/headline/20200820/1382950.md">【耳边风】塞翁失马：哈佛重金礼聘许章润</a></li>
 <li><a href="/cnnews/20200820/1383049.md">上海195万党员名单疑外泄 记录详细个资</a></li>
+<li><a href="/worldnews/usa/20200821/1383252.md">前白宫顾问班农涉嫌诈骗民众捐款被捕，班农与郭文贵合作的公司也被查</a></li>
+<li><a href="/cnnews/20200821/1383243.md">刚批完川普 克林顿与淫魔出游照曝光 被害女子帮他揉肩</a></li>
 <li><a href="/cbnews/20200820/1383020.md">精辟：蒋介石阎锡山陈诚如此评价中共</a></li>
 <li><a href="/lifebaike/20200820/1383004.md">把它从冰箱里丢出去 你还能多活10年</a></li>
-<li><a href="/cnnews/20200821/1383243.md">刚批完川普 克林顿与淫魔出游照曝光 被害女子帮他揉肩</a></li>
 <li><a href="/cnnews/20200820/1383061.md">四川化工泄漏不单纯！网友爆料：当地民众全撤离</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200821/1383375.md" target="_blank">惊！48名中国员工接种疫苗后入境巴新 测试全呈阳性</a></li>
+<li><a href="/comments/20200821/1383372.md" target="_blank">陈和春：莫名其妙！美国一市政府要求市民要随时与劫匪合作</a></li>
 <li><a href="/comments/20200821/1383367.md" target="_blank">李克强视察洪灾把习比下去了？新华社央视有习无李</a></li>
 <li><a href="/comments/20200821/1383363.md" target="_blank">罗冠聪：唯有制裁中共才能让它停下来并思考</a></li>
 <li><a href="/comments/20200821/1383358.md" target="_blank">中共最高法下调民间贷款利率 专家：增加金融系统风险</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200821/1383225.md" target="_blank">铜打铁罗汉的初一十三：大事记（一）</a></li>
 <li><a href="/comments/20200821/1383224.md" target="_blank">牛油果奶香核桃饮 美容养生的佳品</a></li>
 <li><a href="/comments/20200821/1383216.md" target="_blank">科学家发现：2020年的10分钟与宇宙诞生时的10分钟完全不同？</a></li>
-<li><a href="/comments/20200820/1383196.md" target="_blank">评论 | 朱兆基：对美台结盟一筹莫展 中共台海“狼来了”游戏还能玩多久</a></li>
-<li><a href="/comments/20200820/1383153.md" target="_blank">科学家:我们生存的宇宙其实就是一个“超级黑洞” 像俄罗斯套娃?</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200820/1383036.md" target="_blank">七印解封（7）：摩西纵身一跃入红尘</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 
 </ul>
 </div>
