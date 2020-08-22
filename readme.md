@@ -15,14 +15,14 @@
 <li><a href="/topimagenews/20200822/1383915.md">共军飞行员：乖乖 前头没法过去了嘛 都是美国的嘛图)</a></li>
 <li><a href="/cnnews/20200822/1383798.md">永别了 IE 浏览器？微软正式宣布</a></li>
 <li><a href="/ssgc/20200822/1383778.md">〖兲朝浮世绘〗没办法收场了，只能解散重新组党</a></li>
-<li><a href="/cnnews/20200822/1383807.md">再传金正恩昏迷状态 李雪主神隐是指标</a></li>
 <li><a href="/comments/20200822/1383832.md">金正恩仍昏迷 近期照片全伪造 韩国前总统幕僚据中国消息曝惊人内幕 中南海谣言预言_250</a></li>
+<li><a href="/cnnews/20200822/1383807.md">再传金正恩昏迷状态 李雪主神隐是指标</a></li>
 <li><a href="/baitai/20200822/1383998.md">蔡霞：李嘉诚出走之后</a></li>
-<li><a href="/cnnews/20200822/1383806.md">连环惨案！上海巴士撞吊臂「2工人坠桥下」 下秒围观男竟也亡</a></li>
 <li><a href="/cnnews/20200822/1383855.md">蓬佩奥宣布制裁14名侵犯人权者 13人曾假冒外交官参与暗杀</a></li>
-<li><a href="/cnnews/20200822/1383799.md">真的有！行车记录仪拍下惊人一幕</a></li>
-<li><a href="/cnnews/20200821/1383682.md">习近平拒与美脱钩 网炮轰 发哥心痛市民批港府罔顾民生 为省粮 平壤驱逐大批退役军官</a></li>
+<li><a href="/cnnews/20200822/1383806.md">连环惨案！上海巴士撞吊臂「2工人坠桥下」 下秒围观男竟也亡</a></li>
 <li><a href="/cbnews/20200822/1383996.md">武吓台湾？ 美日战机集结军演 爆共军飞行员惊呆：前面都是美军</a></li>
+<li><a href="/cnnews/20200821/1383682.md">习近平拒与美脱钩 网炮轰 发哥心痛市民批港府罔顾民生 为省粮 平壤驱逐大批退役军官</a></li>
+<li><a href="/cnnews/20200822/1383799.md">真的有！行车记录仪拍下惊人一幕</a></li>
 <li><a href="/bannedvideo/20200822/1383838.md">许章润教授回复哈佛聘书全文 910</a></li>
 <li><a href="/funmedia/20200822/1383772.md">越南人午睡方式超狂 日本老板一看吓歪：是停尸间吗</a></li>
 <li><a href="/comments/20200822/1383847.md">李克强视察洪水重灾区重庆 果真被党媒封杀？别急 还有下文……王沪宁下令：李克强本人的新闻不能上头条 中南海谣言预言_251</a></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200822/1384166.md" target="_blank">李燕铭：北戴河会后第二虎 曾庆红江西帮马仔骆家駹落马 官媒做出多个惊人暗示 习近平全方位围剿曾庆红 中南海大戏上演</a></li>
+<li><a href="/comments/20200822/1384163.md" target="_blank">“天庭”真的存在？科学家表示：这里1年等于地球165年</a></li>
+<li><a href="/comments/20200822/1384162.md" target="_blank">能吃的&quot;血管支架&quot;！每天一颗，降四高、软血管，医生们天天吃呢</a></li>
+<li><a href="/comments/20200822/1384161.md" target="_blank">英国研究：无论男女55岁后，若有这一特征，可能易患老年痴呆</a></li>
+<li><a href="/comments/20200822/1384160.md" target="_blank">这个指标一高，比“三高”更危险！伤血管、损肾脏、毁关节…危害无穷</a></li>
 <li><a href="/comments/20200822/1384142.md" target="_blank">重庆被淹后 三峡大坝的抗洪能力再次受到质疑</a></li>
 <li><a href="/comments/20200822/1384141.md" target="_blank">它是秋天的“抗癌霸王菜”，三高头号杀手</a></li>
 <li><a href="/comments/20200822/1384140.md" target="_blank">如果大便出现这个 可能是胰腺癌的前兆</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20200822/1383983.md" target="_blank">历史在重复？中国粮荒逼近 中共仍对外“撒粮”</a></li>
 <li><a href="/comments/20200822/1383982.md" target="_blank">蓬佩奥：继续对中共强硬 但仍有谈判空间</a></li>
 <li><a href="/comments/20200822/1383976.md" target="_blank">陶杰: 聘用她的理由才是种族歧视</a></li>
-<li><a href="/comments/20200822/1383953.md" target="_blank">韩国前总统幕僚惊爆：金正恩仍昏迷 近期照片全伪造</a></li>
-<li><a href="/comments/20200822/1383952.md" target="_blank">喜马拉雅山竟是“无根之山”，难道下面有秘密？</a></li>
-<li><a href="/comments/20200822/1383950.md" target="_blank">有情况？北韩要求人民背诵金与正语录</a></li>
-<li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
-<li><a href="/comments/20200822/1383922.md" target="_blank">内幕：五个彪形大汉抓赖小民 女秘书给一号情妇发信</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200820/1383036.md" target="_blank">七印解封（7）：摩西纵身一跃入红尘</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200819/1382591.md" target="_blank">七印解封（6）：西方世界</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
