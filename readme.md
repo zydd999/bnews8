@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20200821/1383705.md">央视报导极不寻常，李克强变空气，习近平一定怒了</a></li>
 <li><a href="/bannedvideo/20200822/1383780.md">外交部回应向美国宣战，收复南海？｜【南海要开战】｜经典搞笑合集尽在大陆新闻解毒｜精彩集锦片段回顾17</a></li>
 <li><a href="/cnnews/20200822/1383991.md">大牌女星到底是谁 赖小民案更多细节流出</a></li>
 <li><a href="/cnnews/20200822/1383856.md">黑客潜入武汉实验室！专家一看数据震惊：这些被中共删除了</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/headline/20200822/1383776.md">中国对美政策发生大逆转？</a></li>
 <li><a href="/topimagenews/20200822/1383915.md">共军飞行员：乖乖 前头没法过去了嘛 都是美国的嘛图)</a></li>
 <li><a href="/cnnews/20200822/1383798.md">永别了 IE 浏览器？微软正式宣布</a></li>
-<li><a href="/ssgc/20200822/1383778.md">〖兲朝浮世绘〗没办法收场了，只能解散重新组党</a></li>
 <li><a href="/comments/20200822/1383832.md">金正恩仍昏迷 近期照片全伪造 韩国前总统幕僚据中国消息曝惊人内幕 中南海谣言预言_250</a></li>
+<li><a href="/ssgc/20200822/1383778.md">〖兲朝浮世绘〗没办法收场了，只能解散重新组党</a></li>
 <li><a href="/cnnews/20200822/1383807.md">再传金正恩昏迷状态 李雪主神隐是指标</a></li>
 <li><a href="/baitai/20200822/1383998.md">蔡霞：李嘉诚出走之后</a></li>
 <li><a href="/cnnews/20200822/1384041.md">不好意思 这些让你感动的“正能量”都是假的</a></li>
 <li><a href="/cbnews/20200822/1383996.md">武吓台湾？ 美日战机集结军演 爆共军飞行员惊呆：前面都是美军</a></li>
 <li><a href="/cnnews/20200822/1383855.md">蓬佩奥宣布制裁14名侵犯人权者 13人曾假冒外交官参与暗杀</a></li>
 <li><a href="/cnnews/20200822/1383806.md">连环惨案！上海巴士撞吊臂「2工人坠桥下」 下秒围观男竟也亡</a></li>
+<li><a href="/bannedvideo/20200822/1384054.md">现在想起韩国了，当初欺负韩国的时候，没想到会有今天吧？</a></li>
 <li><a href="/cnnews/20200822/1383799.md">真的有！行车记录仪拍下惊人一幕</a></li>
 <li><a href="/bannedvideo/20200822/1383838.md">许章润教授回复哈佛聘书全文 910</a></li>
 <li><a href="/cbnews/20200822/1383995.md">美海军军机飞越南海岛礁 所拍画面震撼</a></li>
-<li><a href="/funmedia/20200822/1383772.md">越南人午睡方式超狂 日本老板一看吓歪：是停尸间吗</a></li>
 <li><a href="/comments/20200822/1383847.md">李克强视察洪水重灾区重庆 果真被党媒封杀？别急 还有下文……王沪宁下令：李克强本人的新闻不能上头条 中南海谣言预言_251</a></li>
-<li><a href="/bannedvideo/20200822/1384054.md">现在想起韩国了，当初欺负韩国的时候，没想到会有今天吧？</a></li>
+<li><a href="/funmedia/20200822/1383772.md">越南人午睡方式超狂 日本老板一看吓歪：是停尸间吗</a></li>
 <li><a href="/cbnews/20200822/1383872.md">重庆民众调侃要见李克强 警察大动干戈半夜找上门</a></li>
+<li><a href="/cnnews/hknews/20200822/1384037.md">美学者：北京将后悔终结香港的自治「损失将难以估计」</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200822/1384212.md" target="_blank">澳大利亚情报机构ASIO的“密室”</a></li>
 <li><a href="/cbnews/20200822/1384207.md" target="_blank">澳洲针对香港公民的签证安排正式生效</a></li>
 <li><a href="/cbnews/20200822/1384176.md" target="_blank">美国思想领袖：调查记者 约书亚•菲利普：中共强迫各国在中国模式和美国模式之间做选择；种族主义概念被极左极端组织篡改，藉此加剧种族矛盾，成共产主义阶级斗争翻版！| 大纪元</a></li>
 <li><a href="/cbnews/20200822/1384088.md" target="_blank">认清中共 大陆百姓纷纷退党</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20200822/1383859.md" target="_blank">基於宗教或信仰的暴力行为受害者国际纪念日《寒冬》特辑</a></li>
 <li><a href="/cbnews/20200822/1383901.md" target="_blank">“中美表面冷战 大战在深层”</a></li>
 <li><a href="/cbnews/20200822/1383873.md" target="_blank">美国务院：美国最大的威胁来自中国共产党…</a></li>
-<li><a href="/cbnews/20200822/1383872.md" target="_blank">重庆民众调侃要见李克强 警察大动干戈半夜找上门</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200822/1384216.md" target="_blank">三峡大坝创新纪录官方隐匿 重庆淹到前所未见民说凶兆 毛泽东秘书透内幕1句话经典</a></li>
 <li><a href="/topimagenews/20200822/1384172.md" target="_blank">不得了！美要为习近平正名 中共放风中美谈判白宫不承认 传金正恩昏迷 是他幕后操盘</a></li>
 <li><a href="/topimagenews/20200822/1384137.md" target="_blank">中共刚认中国经济最大灰犀牛 中国钢企业多惨？鞍钢跌65% 逃！中国1年汇出500亿美元</a></li>
 <li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20200818/1381909.md" target="_blank">第二个港产双面间谍被捕 曾在港见中共国安人员收5万美元</a></li>
 <li><a href="/topimagenews/20200818/1381813.md" target="_blank">全文 蓬佩奥发声明：今天 我国政府公布几项措施…</a></li>
 <li><a href="/comments/20200818/1381765.md" target="_blank">特稿：美国与台湾恢复邦交是大势所趋！</a></li>
-<li><a href="/topimagenews/20200817/1381657.md" target="_blank">习近平经济政策定了!4个字 美政府泄中美贸谈没影内幕 王毅去西藏!因赔印度三妻四妾</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200819/1382591.md" target="_blank">七印解封（6）：西方世界</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 
 </ul>
 </div>
