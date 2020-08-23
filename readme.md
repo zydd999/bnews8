@@ -11,12 +11,12 @@
 <li><a href="/yule/20200823/1384292.md">传奇女歌手突然去世 家人透露去世异状：手握吸入器身亡</a></li>
 <li><a href="/cbnews/20200823/1384248.md">中储粮恐惧泄密？！进场的车全部贴上封条</a></li>
 <li><a href="/cbnews/20200823/1384362.md">中国官员探访贫困户 豪奢照片曝光！陆网惊呆：沙发比我家还大</a></li>
-<li><a href="/cnnews/20200823/1384421.md">笑死人的央视新闻造假</a></li>
 <li><a href="/cbnews/20200823/1384378.md">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cnnews/20200823/1384421.md">笑死人的央视新闻造假</a></li>
 <li><a href="/comments/20200823/1384284.md">得道喇嘛的现世预言句句成真 只剩一件大事正在应验中</a></li>
+<li><a href="/lifebaike/20200823/1384536.md">中国的亲生子女也不能继承遗产?竟然是真的</a></li>
 <li><a href="/topimagenews/20200823/1384509.md">惊心:中美财富差距究竟有多大?习近平令下 中国出现新职业 德曝中共给外企偷装监控软件</a></li>
 <li><a href="/bannedvideo/20200823/1384435.md">财经冷眼：央行断臂求生放大招！90%地产商面临倒闭！楼市下半年迎降价潮！（20200823）</a></li>
-<li><a href="/lifebaike/20200823/1384536.md">中国的亲生子女也不能继承遗产?竟然是真的</a></li>
 <li><a href="/topimagenews/20200823/1384412.md">香港人财大逃亡！ 共同社：日本为打造国际金融基地大开绿灯</a></li>
 <li><a href="/cbnews/20200823/1384426.md">党校副校长在高速先撞护栏 再被追尾 和女儿当日死亡</a></li>
 <li><a href="/bannedvideo/20200823/1384312.md">💥死期到❗️华为改行卖菜？专业人士揭内幕；班农被抓水多深？保释再喊“战斗”；纽约法院6件事，背后是否有问题？“对等制裁”新解，中共挺拜登找死？新疆“没新闻”【大纪元 新闻看点 08.22】最新中国新闻</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/yule/20200823/1384290.md">马伊琍生图曝光 瘦成排骨胸让人心疼</a></li>
 <li><a href="/cnnews/20200823/1384266.md">「行动支付」酿爆炸！中国加油站频出意外 官方终于禁用</a></li>
 <li><a href="/funmedia/20200823/1384289.md">入木三分的段子 揭露人性</a></li>
-<li><a href="/lifebaike/20200823/1384255.md">工体拆了，昨天附近酒吧最后一天营业</a></li>
 <li><a href="/ssgc/20200823/1384513.md">史上最该平反的奸臣：一代奇才，蒙冤900年</a></li>
-<li><a href="/bannedvideo/20200823/1384278.md">政论：金正恩部分让权疑似病重昏迷、北戴河会后习近平内外政策轮廓浮现、应对粮食危机怪招频出忍俊不禁（8/22）</a></li>
+<li><a href="/weiquan/20200823/1384590.md">黄光玉出狱一周奔波省高院省政府伸冤&#65292;地方公安国保拿其家人前途劝其理性</a></li>
+<li><a href="/lifebaike/20200823/1384255.md">工体拆了，昨天附近酒吧最后一天营业</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 
 </ul>
 </div>
