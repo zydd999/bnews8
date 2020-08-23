@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/baitai/20200822/1383998.md">蔡霞：李嘉诚出走之后</a></li>
 <li><a href="/topimagenews/20200822/1384172.md">不得了！美要为习近平正名 中共放风中美谈判白宫不承认 传金正恩昏迷 是他幕后操盘</a></li>
 <li><a href="/cnnews/20200822/1384041.md">不好意思 这些让你感动的“正能量”都是假的</a></li>
 <li><a href="/topimagenews/20200823/1384229.md">白宫发令！让中共赔拉序幕 黑幕！北京打疫苗签保密协议 大连湾还没未解封 民崩溃</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20200822/1384216.md">三峡大坝创新纪录官方隐匿 重庆淹到前所未见民说凶兆 毛泽东秘书透内幕1句话经典</a></li>
 <li><a href="/bannedvideo/20200823/1384280.md">难得一见：蔡霞教授给中央党校的一封亲笔信 912</a></li>
 <li><a href="/cbnews/20200823/1384248.md">中储粮恐惧泄密？！进场的车全部贴上封条</a></li>
+<li><a href="/yule/20200823/1384292.md">传奇女歌手突然去世 家人透露去世异状：手握吸入器身亡</a></li>
 <li><a href="/headline/20200822/1384116.md">港媒指央视一姐主持露面 或破被中纪委带走传闻</a></li>
 <li><a href="/cnnews/hknews/20200822/1384037.md">美学者：北京将后悔终结香港的自治「损失将难以估计」</a></li>
-<li><a href="/yule/20200823/1384292.md">传奇女歌手突然去世 家人透露去世异状：手握吸入器身亡</a></li>
 <li><a href="/comments/20200823/1384284.md">得道喇嘛的现世预言句句成真 只剩一件大事正在应验中</a></li>
 <li><a href="/cnnews/20200823/1384266.md">「行动支付」酿爆炸！中国加油站频出意外 官方终于禁用</a></li>
 <li><a href="/cnnews/20200822/1384051.md">美军几乎同时摧毁弹道导弹和巡航导弹！再次成功进行重大试验</a></li>
+<li><a href="/yule/20200823/1384290.md">马伊琍生图曝光 瘦成排骨胸让人心疼</a></li>
 <li><a href="/cbnews/20200822/1384021.md">战狼政策逆转？中共开始向美求和</a></li>
 <li><a href="/baitai/20200822/1384017.md">68岁老汉多次强奸女子致怀孕，以年纪大为由求轻罚</a></li>
 <li><a href="/lifebaike/20200823/1384255.md">工体拆了，昨天附近酒吧最后一天营业</a></li>
-<li><a href="/yule/20200823/1384290.md">马伊琍生图曝光 瘦成排骨胸让人心疼</a></li>
+<li><a href="/worldnews/20200822/1384068.md">机舱厕所传来凄厉的呻吟…「普京头号政敌」纳瓦尔尼疑遭下毒昏迷院方竟拒绝…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200823/1384431.md" target="_blank">川普：不必和北京做生意 一定和中国脱钩</a></li>
 <li><a href="/cbnews/20200823/1384426.md" target="_blank">党校副校长在高速先撞护栏 再被追尾 和女儿当日死亡</a></li>
 <li><a href="/cbnews/20200823/1384425.md" target="_blank">疫情失控？爆中国于7月22日启动实验疫苗紧急使用</a></li>
 <li><a href="/cbnews/20200823/1384397.md" target="_blank">助中国人突破中共封锁美重启网络自由办公室</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200822/1384047.md" target="_blank">千年古塔围墙被冲毁 居民傻眼：…</a></li>
 <li><a href="/cbnews/20200822/1384022.md" target="_blank">面对美国制裁打击 中共声称报复美企 为何只敢口头抗议？</a></li>
 <li><a href="/cbnews/20200822/1384021.md" target="_blank">战狼政策逆转？中共开始向美求和</a></li>
-<li><a href="/cbnews/20200822/1384020.md" target="_blank">四川乐山「盐酸浓雾」四处飘！官方欺骗 网友怒轰：中共完全失去公信力</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200823/1384428.md" target="_blank">白俄罗斯冲突升级 总统下令军演阻吓民众抗议</a></li>
+<li><a href="/comments/20200823/1384427.md" target="_blank">白俄罗斯总统选举奇事多 选举委员会成员感愧疚</a></li>
 <li><a href="/comments/20200823/1384423.md" target="_blank">江西官员“扶贫”又穿帮 贫困户豪华装修及家俬全曝光</a></li>
 <li><a href="/comments/20200823/1384422.md" target="_blank">疑遭毒杀的俄反对派领袖纳尔瓦尼平安抵达柏林 分析：谁想对他下手？</a></li>
 <li><a href="/comments/20200823/1384420.md" target="_blank">陶杰：资讯爆炸无真相 美国大选是闹剧</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200823/1384300.md" target="_blank">【要闻集粹】太无耻的培训 李中堂做公知或继续演戏</a></li>
 <li><a href="/comments/20200823/1384285.md" target="_blank">共和党全国大会周一开幕 主题：光耀伟大的美国 提名川普连任</a></li>
 <li><a href="/comments/20200823/1384284.md" target="_blank">得道喇嘛的现世预言句句成真 只剩一件大事正在应验中</a></li>
-<li><a href="/comments/20200823/1384269.md" target="_blank">洛杉矶市议员涉巨额受贿被抓 多家中共国房地产商涉案</a></li>
-<li><a href="/comments/20200823/1384267.md" target="_blank">距地球一万光年的黑洞惊人爆发！正以接近光速的速度向太空喷射物质</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200816/1381021.md" target="_blank">七印解封（1）：定下人类历史的七印书卷</a></li>
 
 </ul>
 </div>
