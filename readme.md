@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20200823/1384362.md">中国官员探访贫困户 豪奢照片曝光！陆网惊呆：沙发比我家还大</a></li>
 <li><a href="/cnnews/20200823/1384421.md">笑死人的央视新闻造假</a></li>
 <li><a href="/cbnews/20200823/1384378.md">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
 <li><a href="/bannedvideo/20200823/1384435.md">财经冷眼：央行断臂求生放大招！90%地产商面临倒闭！楼市下半年迎降价潮！（20200823）</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/ssgc/20200823/1384513.md">史上最该平反的奸臣：一代奇才，蒙冤900年</a></li>
 <li><a href="/baitai/20200823/1384430.md">中国：一个集体失忆的国度</a></li>
 <li><a href="/bannedvideo/20200824/1384646.md">在制造业崩溃的过程中，多少人还在假装生活？</a></li>
-<li><a href="/cbnews/20200823/1384527.md">乐山大佛“洗脚”与江泽民蛤蟆洞的传说</a></li>
-<li><a href="/lifebaike/20200823/1384512.md">一部反映中国人生活造假的纪录片 获得艾美奖</a></li>
 <li><a href="/cnnews/20200824/1384680.md">美推进围剿榨干华外汇 中国净外储罕有跌穿1万亿美元心理大关</a></li>
+<li><a href="/lifebaike/20200823/1384512.md">一部反映中国人生活造假的纪录片 获得艾美奖</a></li>
+<li><a href="/cbnews/20200823/1384527.md">乐山大佛“洗脚”与江泽民蛤蟆洞的传说</a></li>
 <li><a href="/cnnews/hknews/20200823/1384417.md">在香港大赞台湾样样好！黄秋生脱口想留台教戏、卖叉烧包</a></li>
 <li><a href="/cbnews/20200823/1384437.md">中共将打造4航母！学者却曝这致命伤</a></li>
 <li><a href="/cnnews/20200823/1384479.md">中国南海连6日军演！座标全曝光…跨海「正对南台湾」</a></li>
+<li><a href="/comments/20200823/1384366.md">【微博精粹】党媒封死李中堂 墙国外惊涛骇浪 中南海洪水滔天</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200824/1384765.md" target="_blank">美国思想领袖：中国分析家 章家敦：中共的行为已失控！FBI每十小时立间谍案，中共大规模蒐集情报攻击美国，美国必须保护网络；世界卫生组织卷入了一些非常危险的活动，退出该组织很重要！| 大纪元</a></li>
 <li><a href="/cbnews/20200824/1384752.md" target="_blank">FBI警告：华盛顿智库面临中俄网络攻击</a></li>
 <li><a href="/cbnews/20200824/1384751.md" target="_blank">“与纳粹无异！” 曝新疆以集中营模式防疫 强迫吃药 受困者想自杀</a></li>
 <li><a href="/cbnews/20200824/1384670.md" target="_blank">中国星巴克推绝美“香水玻璃瓶” 装饮料如仙女露水</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200823/1384373.md" target="_blank">共同社：日防卫相与美军司令确认加强导弹防御合作</a></li>
 <li><a href="/cbnews/20200823/1384362.md" target="_blank">中国官员探访贫困户 豪奢照片曝光！陆网惊呆：沙发比我家还大</a></li>
 <li><a href="/cbnews/20200823/1384349.md" target="_blank">退出中共 鸡西前副市长谈心路历程</a></li>
-<li><a href="/cbnews/20200823/1384348.md" target="_blank">中共610官员坐镇 强行给上海法轮功学员采血</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 <li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
 
 </ul>
 </div>
