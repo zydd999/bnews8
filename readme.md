@@ -14,19 +14,19 @@
 <li><a href="/cnnews/20200824/1384680.md">美推进围剿榨干华外汇 中国净外储罕有跌穿1万亿美元心理大关</a></li>
 <li><a href="/cbnews/20200824/1384924.md">山雨欲来！中共公安系统更大风暴来临</a></li>
 <li><a href="/bannedvideo/20200824/1384697.md">蔡霞教授：习近平下台是中国走向民主的第一步 914</a></li>
-<li><a href="/cbnews/20200824/1384932.md">中共党媒开始报导李克强 晚了3天</a></li>
 <li><a href="/comments/20200824/1385025.md">李燕铭：赵乐际被习近平王岐山两亲信“押送看管” 现任常委落马第一人？赵乐际反腐大权被习近平剥夺 习与江曾决战 要夺回中纪委书记要职 卡位政治局常委人选</a></li>
+<li><a href="/cbnews/20200824/1384932.md">中共党媒开始报导李克强 晚了3天</a></li>
 <li><a href="/bannedvideo/20200824/1384721.md">在迟浩田眼里，所有的爱国粉红，都是韭菜炮灰</a></li>
-<li><a href="/finance/20200824/1384753.md">什么是数字货币？网友作了精彩的诠释</a></li>
 <li><a href="/topimagenews/20200824/1385155.md">习近平与曾庆红全方位开战 重磅!川普昨发保卫台湾信号 蔡霞遭遇凸显中共无力回天</a></li>
+<li><a href="/finance/20200824/1384753.md">什么是数字货币？网友作了精彩的诠释</a></li>
 <li><a href="/cbnews/20200824/1384931.md">北戴河会后七常委露面独缺他 赵乐际被国际追查</a></li>
 <li><a href="/cbnews/20200824/1384808.md">听习近平的话上海公务员吃“半份菜”、豆渣饼</a></li>
 <li><a href="/cbnews/20200824/1384875.md">中共播“惠州舰”实射片耀武 被揭错漏百出沦笑料</a></li>
+<li><a href="/cbnews/20200824/1385037.md">专家曝美国打8重拳：中共已到了「卑躬屈膝」的地步</a></li>
 <li><a href="/ssgc/20200824/1384689.md">〖兲朝浮世绘〗无论做啥 习近平都在加速解体中共</a></li>
 <li><a href="/cnnews/20200824/1384816.md">产品卖疯仍亏损 负债1200亿还不起？东北名片企业麻烦大了</a></li>
 <li><a href="/finance/20200824/1384861.md">闷声发大财恶果！外卖正在毁灭中国三代人 卧底拍下可怕真相</a></li>
 <li><a href="/cnnews/20200824/1384777.md">伊朗干的蠢事！报告：176人客机被伊朗25秒内连射2枚导弹</a></li>
-<li><a href="/cbnews/20200824/1385037.md">专家曝美国打8重拳：中共已到了「卑躬屈膝」的地步</a></li>
 <li><a href="/worldnews/20200824/1384683.md">卢卡申科手持AK身着防弹衣 称“他们像老鼠一样逃窜”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200825/1385263.md" target="_blank">印度疑中共无意解决对峙 考量军事行动选项</a></li>
 <li><a href="/cbnews/20200824/1385125.md" target="_blank">写在孔庆良律师离去百日的日子</a></li>
 <li><a href="/cbnews/20200824/1384888.md" target="_blank">澳媒：《明慧二十年报告》应入驻所有图书馆</a></li>
 <li><a href="/cbnews/20200824/1385032.md" target="_blank">渖阳暴雨 千年古塔没倒 甫周年围墙被冲毁</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200824/1384920.md" target="_blank">“14家人通通没了！”四川犍为县凌晨遭洪水突袭</a></li>
 <li><a href="/cbnews/20200824/1384919.md" target="_blank">中共启动肺炎疫苗 48名接种者入境海外呈阳性遭批</a></li>
 <li><a href="/cbnews/20200824/1384918.md" target="_blank">乐山气体泄漏背后 化工企业林立 每晚排污</a></li>
-<li><a href="/cbnews/20200824/1384917.md" target="_blank">习近平禁浪费 厨师被要求“鸡屁股不能切掉太多”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200825/1385261.md" target="_blank">NASA的探测卫星捕捉到巨大的不明飞行器！正以惊人的速度向太阳靠近</a></li>
+<li><a href="/comments/20200825/1385260.md" target="_blank">孝顺的〝握拳宝宝〞救了爸爸的命</a></li>
+<li><a href="/comments/20200825/1385259.md" target="_blank">韩女星李孝利打碎中国网友玻璃心 惨被灌爆IG贴辱华标签</a></li>
 <li><a href="/comments/20200825/1385254.md" target="_blank">川普第二任期十大施政纲领出炉 多条与反击中共相关</a></li>
 <li><a href="/comments/20200825/1385253.md" target="_blank">43岁金喜善澄清：真的没整型！罕见晒女儿照“长腿像妈“</a></li>
 <li><a href="/comments/20200824/1385231.md" target="_blank">揭秘北京北新桥 “锁龙井”之谜！修建地铁5号线为何必须绕行？</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200824/1385005.md" target="_blank">时事大家谈(2020年8月22日)</a></li>
 <li><a href="/comments/20200824/1385004.md" target="_blank">时事大家谈：美国“卡脖”力度再加大，华为大限将至？</a></li>
 <li><a href="/comments/20200824/1385003.md" target="_blank">时事大家谈：美国之音专访蔡霞教授：“我做不到岁月静好”</a></li>
-<li><a href="/comments/20200824/1385002.md" target="_blank">时事大家谈(2020年8月8日)</a></li>
-<li><a href="/comments/20200824/1385001.md" target="_blank">时事大家谈(2020年7月25日)</a></li>
-<li><a href="/comments/20200824/1385000.md" target="_blank">焦点对话：陈破空、高敬文对比白俄罗斯与香港局势</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200816/1381021.md" target="_blank">七印解封（1）：定下人类历史的七印书卷</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 
 </ul>
 </div>
