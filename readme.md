@@ -18,16 +18,16 @@
 <li><a href="/yule/20200825/1385330.md">美国歌手贾斯汀去世 官方证实：我们会想你</a></li>
 <li><a href="/comments/20200825/1385261.md">NASA的探测卫星捕捉到巨大的不明飞行器！正以惊人的速度向太阳靠近</a></li>
 <li><a href="/comments/20200824/1385115.md">邓小平家族再度反习？陆媒翻炒邓唯一嫡孙邓卓棣旧闻 邓卓棣淡出政界去向成谜 叶剑英曾孙叶仲豪升官 习近平抬叶家压邓家 内幕揭秘 中南海不可告人的秘密_149</a></li>
-<li><a href="/cbnews/20200825/1385297.md">专栏 | 夜话中南海：怠慢李克强 重庆地方党媒有恃无恐</a></li>
 <li><a href="/ssgc/20200825/1385312.md">〖兲朝浮世绘〗真的，世界确实需要习近平</a></li>
+<li><a href="/cbnews/20200825/1385297.md">专栏 | 夜话中南海：怠慢李克强 重庆地方党媒有恃无恐</a></li>
 <li><a href="/ssgc/20200825/1385326.md">有3亿人，已经不配活在这个社会</a></li>
 <li><a href="/cbnews/20200825/1385306.md">武汉再现！遭封城一个多月 乌鲁木齐居民夜晚呐喊发泄</a></li>
 <li><a href="/ssgc/20200824/1384937.md">党媒连发5篇社论 中共急于表白什么？</a></li>
 <li><a href="/cbnews/20200825/1385356.md">文昭：震撼！中美全脱钩5政纲登场；美国要立法禁称习近平“国家主席”、追百年前万亿巨债</a></li>
-<li><a href="/comments/20200825/1385288.md">老祖宗的告诫：50岁后 3个地方不要去 7种心态不能有</a></li>
 <li><a href="/ssgc/20200825/1385308.md">李克强水中掰苞米 终于上新闻联播</a></li>
+<li><a href="/comments/20200825/1385288.md">老祖宗的告诫：50岁后 3个地方不要去 7种心态不能有</a></li>
 <li><a href="/baitai/20200825/1385271.md">中国向海外开征个人所得税意味着什么？</a></li>
-<li><a href="/topimagenews/20200825/1385377.md">快讯！旧金山中领馆门外惊现碎纸车 也在为撤退销毁文件吗？</a></li>
+<li><a href="/bannedvideo/20200825/1385463.md">央视屈服，李克强背后势力不可小觑，大戏还在后面</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200825/1385585.md" target="_blank">专家：共和党全国代表大会开幕 展现川普成就与希望</a></li>
+<li><a href="/comments/20200825/1385584.md" target="_blank">澳情报机构警告：中共「千人计划」威胁国家安全</a></li>
 <li><a href="/comments/20200825/1385571.md" target="_blank">邓习之争再起？邓小平家族密谋推翻习近平？习近平传将南下深圳 邓小平孙邓卓棣官场旧闻被翻炒 意有所指 中南海去邓抬习 习邓两家积怨已久内幕揭秘 中南海不可告人的秘密_150</a></li>
 <li><a href="/comments/20200825/1385570.md" target="_blank">中共官场又一虎 北京政协副主席李伟被调查</a></li>
 <li><a href="/comments/20200825/1385569.md" target="_blank">内斗激烈牵出曾庆红？中粮骆家駹江西帮背景曝光</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200825/1385387.md" target="_blank">一样地在使领馆焚烧文件 一样卑鄙的政府和卑鄙的手段</a></li>
 <li><a href="/comments/20200825/1385382.md" target="_blank">百家姓：“十年”黄金线——一条神秘的纽带</a></li>
 <li><a href="/comments/20200825/1385381.md" target="_blank">陶杰：急煞了中间人 谁是王婆？</a></li>
-<li><a href="/comments/20200825/1385380.md" target="_blank">林青弘：首战并非终战 中共才是战争祸源 共军写家书也没用</a></li>
-<li><a href="/comments/20200825/1385373.md" target="_blank">有3亿人 已经不配活在这个社会</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
