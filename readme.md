@@ -12,22 +12,22 @@
 <li><a href="/cnnews/hknews/20200826/1386125.md">尴尬！港警地铁偷拍 意外捕捉女上司…</a></li>
 <li><a href="/topimagenews/20200826/1386183.md">对中共开战 白宫自爆3大招 川普1句话 和中共杠上了 央视沈冰出狱后显尽沧桑</a></li>
 <li><a href="/ssgc/20200827/1386373.md">〖兲朝浮世绘〗孟晚舟最后希望破灭</a></li>
-<li><a href="/yule/20200827/1386445.md">腾格尔女儿离世退歌坛 网友：起名太大承受不了</a></li>
 <li><a href="/bannedvideo/20200826/1386168.md">中国央行首次回应数字人民币能否换黄金和美元等外汇--天钧政经</a></li>
+<li><a href="/yule/20200827/1386445.md">腾格尔女儿离世退歌坛 网友：起名太大承受不了</a></li>
 <li><a href="/comments/20200826/1386224.md">朝鲜巡逻艇向10艘中国越界渔船开火！至少3人死亡</a></li>
 <li><a href="/ssgc/20200827/1386356.md">起底京城四大顶级会所</a></li>
 <li><a href="/lifebaike/20200826/1386130.md">儿子面前穿吊带裙 被老公一顿骂 家长群炸锅了</a></li>
 <li><a href="/health/20200827/1386450.md">43岁男子双肾衰竭 半月后离世 医生含泪苦劝：1种早餐要少吃</a></li>
-<li><a href="/cbnews/20200827/1386469.md">天亮时分：习近平恢复党主席头衔?李克强已被边缘化;人民日报三万字批蓬佩奥,却无法回答三个简单的问题(政论天下第220集 20200826)</a></li>
 <li><a href="/comments/20200826/1386270.md">它的抗癌能力比大蒜强，每天食用，癌细胞或许不敢来打扰</a></li>
+<li><a href="/cbnews/20200827/1386469.md">天亮时分：习近平恢复党主席头衔?李克强已被边缘化;人民日报三万字批蓬佩奥,却无法回答三个简单的问题(政论天下第220集 20200826)</a></li>
 <li><a href="/cbnews/20200827/1386436.md">文昭：U-2是引中共开火的饵？习近平对美军“准备好了”没理解；蓬佩奥发暗示，或实力回应大批判</a></li>
+<li><a href="/comments/20200827/1386504.md">这一事件直接导致驻休士顿领馆被关</a></li>
 <li><a href="/bannedvideo/20200827/1386374.md">陈破空：遭高层抵制，习近平竟以个人名义开会！王沪宁抛出三万字。美军侦察机抵近。北朝鲜耍威，土共不敢动</a></li>
 <li><a href="/cnnews/20200826/1386278.md">美国再出招！宣布制裁24间参与南海建岛中国企业</a></li>
-<li><a href="/comments/20200827/1386504.md">这一事件直接导致驻休士顿领馆被关</a></li>
 <li><a href="/yule/20200827/1386344.md">巩俐发福认不出！穿碎花裙身材肥硕显壮实</a></li>
 <li><a href="/bannedvideo/20200826/1386264.md">蔡霞：习近平睚眦必报，是中共首恶，中国民主转型需要美国</a></li>
 <li><a href="/funmedia/20200826/1386141.md">宇航员回地球后DNA变异 人类被“囚禁”在地球</a></li>
-<li><a href="/cbnews/20200827/1386392.md">台风“巴威”威力惊人！整个山东呈看海模式 机场都淹了</a></li>
+<li><a href="/cbnews/20200827/1386598.md">北京气氛诡异：王岐山避不出山 中南海闭门谢客</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200827/1386697.md" target="_blank">外媒披露中国人都问1问题 中共封:朝鲜枪杀多中国渔民 新疆全封闭网炸锅惨过朝鲜</a></li>
 <li><a href="/topimagenews/20200827/1386650.md" target="_blank">传逾10名香港示威青年搭快艇偷渡台湾 遭中共海警拦截逮捕</a></li>
 <li><a href="/topimagenews/20200827/1386649.md" target="_blank">当街霸凌7岁小孩！两位拜登的粉丝将小红帽和川普标语夺走撕碎…并羞辱路人</a></li>
 <li><a href="/topimagenews/20200827/1386619.md" target="_blank">中共要阻陆客出国赌钱 专家：中共财困想阻止外汇流失</a></li>
@@ -91,13 +92,17 @@
 <li><a href="/topimagenews/20200822/1384172.md" target="_blank">不得了！美要为习近平正名 中共放风中美谈判白宫不承认 传金正恩昏迷 是他幕后操盘</a></li>
 <li><a href="/topimagenews/20200822/1384137.md" target="_blank">中共刚认中国经济最大灰犀牛 中国钢企业多惨？鞍钢跌65% 逃！中国1年汇出500亿美元</a></li>
 <li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
-<li><a href="/topimagenews/20200822/1383915.md" target="_blank">共军飞行员：乖乖 前头没法过去了嘛 都是美国的嘛图)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200827/1386694.md" target="_blank">安徽粮站站长携110万公款潜逃7年 被捕时正割腕自杀</a></li>
+<li><a href="/comments/20200827/1386693.md" target="_blank">专家：共和党大会彰显美国充满希望 是所有勤劳之士的机遇之地</a></li>
+<li><a href="/comments/20200827/1386692.md" target="_blank">日本密切关注孔子学院动向 摆脱口罩依赖中国进口</a></li>
+<li><a href="/comments/20200827/1386691.md" target="_blank">中共向南海发射导弹 日本：反对升高南海紧张情势行为</a></li>
+<li><a href="/comments/20200827/1386690.md" target="_blank">【中共病毒】美摩德纳疫苗对年长者亦见效 欧盟预定8000万支</a></li>
 <li><a href="/comments/20200827/1386684.md" target="_blank">微信被封申诉未果 深圳男子在腾讯跳楼身亡</a></li>
 <li><a href="/comments/20200827/1386683.md" target="_blank">台医师期刊论文被要求加注「中国」遭拒 学者：压缩台湾学术能见度</a></li>
 <li><a href="/comments/20200827/1386682.md" target="_blank">希法意塞四国将进行联合军演 土耳其总统警告</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20200827/1386597.md" target="_blank">上海网络作家凌霜出狱后中风 遭逼迁、停电话</a></li>
 <li><a href="/comments/20200827/1386590.md" target="_blank">颜纯钩：美总统前哨战 特朗普起势不坏</a></li>
 <li><a href="/comments/20200827/1386589.md" target="_blank">陶杰: 公关又一灾难 女特首急什么</a></li>
-<li><a href="/comments/20200827/1386556.md" target="_blank">习近平欲恢复党主席头衔 为继续掌权15年铺路 一场更大的整顿风暴即将来临 中南海谣言预言_254</a></li>
-<li><a href="/comments/20200827/1386537.md" target="_blank">骆远志: 中国和美国会打仗吗？</a></li>
-<li><a href="/comments/20200827/1386536.md" target="_blank">王康: 他们的悲剧 我们的宿命</a></li>
-<li><a href="/comments/20200827/1386506.md" target="_blank">评论 | 魏京生：民运组织里的特务问题</a></li>
-<li><a href="/comments/20200827/1386505.md" target="_blank">二大爷：中国富豪的隐秘通道 塞浦路斯文件</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
