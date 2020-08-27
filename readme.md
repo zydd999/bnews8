@@ -13,21 +13,21 @@
 <li><a href="/ssgc/20200827/1386373.md">〖兲朝浮世绘〗孟晚舟最后希望破灭</a></li>
 <li><a href="/bannedvideo/20200826/1386168.md">中国央行首次回应数字人民币能否换黄金和美元等外汇--天钧政经</a></li>
 <li><a href="/yule/20200827/1386445.md">腾格尔女儿离世退歌坛 网友：起名太大承受不了</a></li>
-<li><a href="/comments/20200826/1386224.md">朝鲜巡逻艇向10艘中国越界渔船开火！至少3人死亡</a></li>
 <li><a href="/ssgc/20200827/1386356.md">起底京城四大顶级会所</a></li>
-<li><a href="/lifebaike/20200826/1386130.md">儿子面前穿吊带裙 被老公一顿骂 家长群炸锅了</a></li>
+<li><a href="/comments/20200826/1386224.md">朝鲜巡逻艇向10艘中国越界渔船开火！至少3人死亡</a></li>
 <li><a href="/health/20200827/1386450.md">43岁男子双肾衰竭 半月后离世 医生含泪苦劝：1种早餐要少吃</a></li>
 <li><a href="/cbnews/20200827/1386469.md">天亮时分：习近平恢复党主席头衔?李克强已被边缘化;人民日报三万字批蓬佩奥,却无法回答三个简单的问题(政论天下第220集 20200826)</a></li>
 <li><a href="/comments/20200826/1386270.md">它的抗癌能力比大蒜强，每天食用，癌细胞或许不敢来打扰</a></li>
-<li><a href="/cbnews/20200827/1386436.md">文昭：U-2是引中共开火的饵？习近平对美军“准备好了”没理解；蓬佩奥发暗示，或实力回应大批判</a></li>
-<li><a href="/comments/20200827/1386504.md">这一事件直接导致驻休士顿领馆被关</a></li>
 <li><a href="/cbnews/20200827/1386598.md">北京气氛诡异：王岐山避不出山 中南海闭门谢客</a></li>
+<li><a href="/cbnews/20200827/1386436.md">文昭：U-2是引中共开火的饵？习近平对美军“准备好了”没理解；蓬佩奥发暗示，或实力回应大批判</a></li>
+<li><a href="/cbnews/20200827/1386630.md">突发！王毅白跪了！ 澳洲政府对中共展开总动员，清查各级政府和大学与中共签订的秘密协议。一带一路已死，有事烧纸（坐澳观天第158期 20200827）</a></li>
+<li><a href="/comments/20200827/1386504.md">这一事件直接导致驻休士顿领馆被关</a></li>
 <li><a href="/bannedvideo/20200827/1386374.md">陈破空：遭高层抵制，习近平竟以个人名义开会！王沪宁抛出三万字。美军侦察机抵近。北朝鲜耍威，土共不敢动</a></li>
 <li><a href="/cnnews/20200826/1386278.md">美国再出招！宣布制裁24间参与南海建岛中国企业</a></li>
 <li><a href="/comments/20200827/1386556.md">习近平欲恢复党主席头衔 为继续掌权15年铺路 一场更大的整顿风暴即将来临 中南海谣言预言_254</a></li>
 <li><a href="/yule/20200827/1386344.md">巩俐发福认不出！穿碎花裙身材肥硕显壮实</a></li>
 <li><a href="/bannedvideo/20200826/1386264.md">蔡霞：习近平睚眦必报，是中共首恶，中国民主转型需要美国</a></li>
-<li><a href="/funmedia/20200826/1386141.md">宇航员回地球后DNA变异 人类被“囚禁”在地球</a></li>
+<li><a href="/cbnews/20200827/1386530.md">广东司机等红灯时点了一支烟 下一秒 …</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200827/1386702.md" target="_blank">杜绝粮食浪费？ 北京媒体暗访餐厅报导翻车</a></li>
 <li><a href="/cbnews/20200827/1386688.md" target="_blank">山东13名男生轮奸初二女生 爆料人传被喝茶</a></li>
 <li><a href="/cbnews/20200827/1386669.md" target="_blank">打脸中共抗议美U-2侦察机擅闯 中华战略学会研究员爆共军内幕</a></li>
 <li><a href="/cbnews/20200827/1386663.md" target="_blank">看清中共 前鸡西副市长出逃海外 两下属旋即被捕</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200826/1386016.md" target="_blank">唐柏桥：“海外民运已死 中国民主必胜”系列视频之一：海外民运简介</a></li>
 <li><a href="/cbnews/20200826/1386039.md" target="_blank">加保守党若上台：限中共30天放人 否则制裁中共国家主席总理等人</a></li>
 <li><a href="/cbnews/20200826/1386022.md" target="_blank">江峰：蓬佩奥上新华社大字报；首战即终战究竟是谁的宿命；美高空侦察机出现台海的玄机</a></li>
-<li><a href="/cbnews/20200826/1386013.md" target="_blank">“抚民心”？ 乌鲁木齐公开领导人电话意外露馅</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200827/1386703.md" target="_blank">为了罚你们的款 我们已经绞尽脑汁</a></li>
 <li><a href="/comments/20200827/1386694.md" target="_blank">安徽粮站站长携110万公款潜逃7年 被捕时正割腕自杀</a></li>
 <li><a href="/comments/20200827/1386693.md" target="_blank">专家：共和党大会彰显美国充满希望 是所有勤劳之士的机遇之地</a></li>
 <li><a href="/comments/20200827/1386692.md" target="_blank">日本密切关注孔子学院动向 摆脱口罩依赖中国进口</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200827/1386614.md" target="_blank">孙安佐美国服刑238日 台湾再重罪起诉 狄莺打破沉默发声明</a></li>
 <li><a href="/comments/20200827/1386597.md" target="_blank">上海网络作家凌霜出狱后中风 遭逼迁、停电话</a></li>
 <li><a href="/comments/20200827/1386590.md" target="_blank">颜纯钩：美总统前哨战 特朗普起势不坏</a></li>
-<li><a href="/comments/20200827/1386589.md" target="_blank">陶杰: 公关又一灾难 女特首急什么</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 
 </ul>
 </div>
