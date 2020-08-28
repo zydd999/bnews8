@@ -12,19 +12,19 @@
 <li><a href="/bannedvideo/20200828/1387043.md">中共4弹挑衅后认怂，美军“海狼号”核潜艇现身“寸步不让”！法加意外长连怼王毅，美日印澳经济结盟；中共干预美大选曝光，拜登让“北京白等”？疫苗可能不能防感染！【大纪元 新闻看点 08.27】最新中国新闻</a></li>
 <li><a href="/cbnews/20200828/1387086.md">一记耳光响彻全国：领导要他把饮料换成酒 他拒绝了...</a></li>
 <li><a href="/cnnews/hknews/20200828/1386958.md">台湾健身网红馆长深夜遭枪击中2枪！23岁男携枪自首</a></li>
+<li><a href="/topimagenews/20200828/1387286.md">钱!中共前高官曝习近平目标成泡影 北大院长:中国百姓很穷应发钱 中共没外汇阻陆客出国</a></li>
 <li><a href="/comments/20200828/1387005.md">害怕被中共收割：不止富豪出逃 中国普通百姓逃往东南欧</a></li>
 <li><a href="/cbnews/20200828/1387155.md">赵立坚又崩溃？被问中共病毒回狂言 网友开酸</a></li>
-<li><a href="/topimagenews/20200828/1387286.md">钱!中共前高官曝习近平目标成泡影 北大院长:中国百姓很穷应发钱 中共没外汇阻陆客出国</a></li>
 <li><a href="/baitai/20200828/1387234.md">菲律宾官员开视频会议时与秘书发生关系 场面被围观</a></li>
 <li><a href="/bannedvideo/20200828/1387028.md">特朗普和国防部连放狠话，习近平猛治李克强！南海尴尬了！多维泄密10场军演求不脱钩</a></li>
-<li><a href="/topimagenews/20200828/1387154.md">“我的手机又响了 是川普总统打来的电话 我被惊到了！”</a></li>
-<li><a href="/cbnews/20200828/1387165.md">赵立坚呛中国人可以不用苹果手机 苹果体验店挤爆</a></li>
-<li><a href="/comments/20200828/1387181.md">习近平高调为民警授旗 央视新闻联播出现异常一幕</a></li>
 <li><a href="/cbnews/20200828/1387272.md">战狼华春莹惧怕美军？发推文引网友嘲笑</a></li>
+<li><a href="/topimagenews/20200828/1387154.md">“我的手机又响了 是川普总统打来的电话 我被惊到了！”</a></li>
+<li><a href="/comments/20200828/1387181.md">习近平高调为民警授旗 央视新闻联播出现异常一幕</a></li>
+<li><a href="/cbnews/20200828/1387165.md">赵立坚呛中国人可以不用苹果手机 苹果体验店挤爆</a></li>
 <li><a href="/cbnews/20200828/1387273.md">日媒：安倍晋三辞职与习近平一项约定落空</a></li>
 <li><a href="/cbnews/20200828/1386969.md">听女儿被绑架 妈竟「当场跟绑匪杀价」成功 结局超尴尬</a></li>
-<li><a href="/cbnews/20200828/1386947.md">福建退休官员组织百余女子卖淫 近2万人次</a></li>
 <li><a href="/comments/20200828/1387226.md">北京上空惊现“手指”云 李克强与习近平三个月前一张合照火爆网络</a></li>
+<li><a href="/cbnews/20200828/1386947.md">福建退休官员组织百余女子卖淫 近2万人次</a></li>
 <li><a href="/baitai/20200828/1387135.md">养一年2000多万 亿万富豪为何都沉迷这个新＂玩具＂？</a></li>
 <li><a href="/baitai/20200828/1386944.md">胡平：假如王立军获允避难留在美领馆……</a></li>
 <li><a href="/cnnews/20200828/1386936.md">女子花4600万签约买别墅 看窗外才知是坟景房</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 
 </ul>
 </div>
