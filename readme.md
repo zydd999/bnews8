@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20200827/1386697.md">外媒披露中国人都问1问题 中共封:朝鲜枪杀多中国渔民 新疆全封闭网炸锅惨过朝鲜</a></li>
 <li><a href="/comments/20200827/1386504.md">这一事件直接导致驻休士顿领馆被关</a></li>
 <li><a href="/cnnews/20200827/1386586.md">美军的飞刀导弹令恐怖分子魂飞魄散 这次又斩首了谁？</a></li>
+<li><a href="/cnnews/20200828/1386972.md">中共内斗…吴嘉隆惊爆美国会暗助习近平 超猛原因曝光了</a></li>
+<li><a href="/cbnews/20200827/1386669.md">打脸中共抗议美U-2侦察机擅闯 中华战略学会研究员爆共军内幕</a></li>
 <li><a href="/bannedvideo/20200828/1386862.md">超美！加拿大将直接制裁习近平</a></li>
 <li><a href="/ssgc/20200827/1386826.md">网上说的都是真的，吓得头发都竖起来了</a></li>
 <li><a href="/bannedvideo/20200827/1386595.md">别争了，中国造不了高端芯片，我来告诉你原因</a></li>
-<li><a href="/cbnews/20200827/1386669.md">打脸中共抗议美U-2侦察机擅闯 中华战略学会研究员爆共军内幕</a></li>
-<li><a href="/cnnews/20200828/1386972.md">中共内斗…吴嘉隆惊爆美国会暗助习近平 超猛原因曝光了</a></li>
 <li><a href="/cbnews/20200827/1386530.md">广东司机等红灯时点了一支烟 下一秒 …</a></li>
 <li><a href="/cbnews/20200827/1386702.md">杜绝粮食浪费？ 北京媒体暗访餐厅报导翻车</a></li>
 <li><a href="/headline/20200827/1386787.md">王毅出访欧洲五国 救火不成一路遭冷遇抗议</a></li>
 <li><a href="/baitai/20200827/1386752.md">福州母女饿死家中多日 飘出臭味才被邻居发现</a></li>
 <li><a href="/comments/20200827/1386624.md">全面夺权?习给国务院“刀把子”授旗支开李克强</a></li>
-<li><a href="/headline/20200827/1386485.md">恐民众获知境外未经审查信息 中共全国范围急强拆卫星锅</a></li>
 <li><a href="/cnnews/hknews/20200828/1386958.md">台湾健身网红馆长深夜遭枪击中2枪！23岁男携枪自首</a></li>
+<li><a href="/headline/20200827/1386485.md">恐民众获知境外未经审查信息 中共全国范围急强拆卫星锅</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200828/1387061.md" target="_blank">哥哥受迫害逃亡泰国 面临被遣返 妹妹求救美国政府</a></li>
 <li><a href="/comments/20200828/1387052.md" target="_blank">六神磊磊：我们的酒文化是一边糟蹋酒 一边糟蹋文化</a></li>
 <li><a href="/comments/20200828/1387042.md" target="_blank">一正部级高官引咎辞职两年后复出 三高官转任全国政协任闲职</a></li>
 <li><a href="/comments/20200828/1387041.md" target="_blank">馆长陈之汉凌晨遭连开3枪 嫌犯被押解照曝光</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200828/1386891.md" target="_blank">RNC第三天 向美国英雄致敬 赞川普恢复了美国的自豪感</a></li>
 <li><a href="/comments/20200828/1386890.md" target="_blank">胆固醇可以随便吃，没有任何限制？推「两类食物」对血管最好</a></li>
 <li><a href="/comments/20200828/1386889.md" target="_blank">它是高血压“克星”，经常吃点，增强心肌活力，血压不升反降</a></li>
-<li><a href="/comments/20200828/1386882.md" target="_blank">评论 | 陈破空：面对中国与台湾，美国两党方向之异同</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 
 </ul>
 </div>
