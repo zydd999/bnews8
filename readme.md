@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20200829/1387453.md">网友惊爆：三十年后高层住宅会成为新的棚户区</a></li>
 <li><a href="/cnnews/20200829/1387455.md">保守党若上台：限北京30天放人否则制裁习近平</a></li>
 <li><a href="/cbnews/20200829/1387480.md">专栏 | 夜话中南海：二十大上势必要为习近平的个人独裁“正名“</a></li>
-<li><a href="/ssgc/20200829/1387450.md">〖兲朝浮世绘〗王部长，难道你不知道挪威是在响应习一尊的号召吗？</a></li>
 <li><a href="/cbnews/20200829/1387603.md">谁是下一个“倒霉蛋”？ ——中共政治局班子中的“倒霉蛋定律”</a></li>
+<li><a href="/ssgc/20200829/1387450.md">〖兲朝浮世绘〗王部长，难道你不知道挪威是在响应习一尊的号召吗？</a></li>
 <li><a href="/cnnews/20200829/1387565.md">刚狂言中国人不用苹果！赵立坚这回糗大了</a></li>
 <li><a href="/cnnews/20200828/1387353.md">反共里程碑！川普大手笔 泪目!麦肯尼演讲掏心掏肺 拜登下跌 黑命贵搞砸了</a></li>
-<li><a href="/cbnews/20200828/1387261.md">赵立坚鼓动中国人不用苹果 发推文却用iPhone</a></li>
 <li><a href="/cnnews/20200829/1387477.md">马斯克：我们活在真实世界的概率只有十亿分之一</a></li>
 <li><a href="/cbnews/20200828/1387271.md">武汉“女裸官”蔡莉被免职 曾训诫吹哨人</a></li>
 <li><a href="/bannedvideo/20200829/1387472.md">陈破空：几乎定局！美国大选已经没有多少悬念。习近平更钟意谁？明日之星闪耀登场！日本首相突然辞职</a></li>
 <li><a href="/cbnews/20200829/1387570.md">天亮时分：史上最重要也最危险的选举;川普民调飙升;拜登是否会躲起不敢应战?川普面临的最严重威胁不是拜登而是这个(政论天下第221集 20200828)</a></li>
 <li><a href="/funmedia/20200829/1387494.md">钓鱼遭女鬼跟回家！男1个月后离奇丧命…妻曝死状：都湿的</a></li>
-<li><a href="/cnnews/20200829/1387564.md">美终极制裁见效 华为海思芯片工程师大量流失</a></li>
 <li><a href="/bannedvideo/20200829/1387628.md">又抓到间谍！中国学生盗走美教授17年研究心血； 边检审问时露马脚 胡海洲在芝加哥机场被捕；推荐胡海洲来美留学 教授对其不辞而别和盗窃行为感到愤怒 ；胡海洲就读中国大学有国防背景｜8月28日【西岸观察】</a></li>
+<li><a href="/cnnews/20200829/1387564.md">美终极制裁见效 华为海思芯片工程师大量流失</a></li>
 <li><a href="/comments/20200828/1387275.md">【微博精粹】红朝死去那一天 要为这4.5个阉人追记4等功</a></li>
-<li><a href="/baitai/20200829/1387393.md">中国唯一七纳米光刻机被抵押 武汉弘芯资金链断裂</a></li>
 <li><a href="/comments/20200829/1387604.md">反习势力蠢蠢欲动？薄熙来旧部戳破习近平“脱贫”梦 公开9省1.3万户恐返贫</a></li>
+<li><a href="/cnnews/20200829/1387633.md">中共数据有假！世银曝数据篡改丑闻</a></li>
+<li><a href="/baitai/20200829/1387393.md">中国唯一七纳米光刻机被抵押 武汉弘芯资金链断裂</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 
 </ul>
 </div>
