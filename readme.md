@@ -15,11 +15,11 @@
 <li><a href="/topimagenews/20200829/1387697.md">都知道是美军发明了互联网 但是 你也许不知道…</a></li>
 <li><a href="/topimagenews/20200829/1387710.md">能让敌方防空体系彻底停摆！美海军“咆哮者”再次升级 曾击败过F22</a></li>
 <li><a href="/cbnews/20200829/1387641.md">胡锡进“醋精”附体发文批陈光诚 评论区却再次翻车</a></li>
-<li><a href="/cbnews/20200829/1387570.md">天亮时分：史上最重要也最危险的选举;川普民调飙升;拜登是否会躲起不敢应战?川普面临的最严重威胁不是拜登而是这个(政论天下第221集 20200828)</a></li>
 <li><a href="/comments/20200829/1387823.md">李燕铭：成龙北京豪宅被查封 三大疑点 内幕非同寻常 曾庆红出事与演艺圈地震前兆</a></li>
+<li><a href="/cbnews/20200829/1387570.md">天亮时分：史上最重要也最危险的选举;川普民调飙升;拜登是否会躲起不敢应战?川普面临的最严重威胁不是拜登而是这个(政论天下第221集 20200828)</a></li>
 <li><a href="/comments/20200829/1387604.md">反习势力蠢蠢欲动？薄熙来旧部戳破习近平“脱贫”梦 公开9省1.3万户恐返贫</a></li>
-<li><a href="/cnnews/20200829/1387633.md">中共数据有假！世银曝数据篡改丑闻</a></li>
 <li><a href="/topimagenews/20200829/1387868.md">世界到了生死攸关之时 川普一语道破和拜登本质区别 传统民主党区变色6市长背书川普</a></li>
+<li><a href="/cnnews/20200829/1387633.md">中共数据有假！世银曝数据篡改丑闻</a></li>
 <li><a href="/baitai/20200829/1387625.md">美国美女老师与17岁男学生多次发生关系被逮捕</a></li>
 <li><a href="/comments/20200829/1387847.md">三名国级高官相继落马之际 成龙儿子吸毒被抓 成龙向习近平求救遭拒 曾庆红胞弟曾庆淮传被抓 销声匿迹已多年 中南海不可告人的秘密_155</a></li>
 <li><a href="/cnnews/20200829/1387564.md">美终极制裁见效 华为海思芯片工程师大量流失</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200830/1387972.md" target="_blank">范畴：对“战争”及“借名片”的认知配套</a></li>
 <li><a href="/comments/20200830/1387970.md" target="_blank">被中共迫害的国民党高官子女及亲属（中）</a></li>
 <li><a href="/comments/20200830/1387962.md" target="_blank">法国运钞车第二大被抢劫案 900万欧元不翼而飞</a></li>
 <li><a href="/comments/20200830/1387961.md" target="_blank">白俄罗斯民众抗议卢卡申科当局 出绝招应对镇压</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200829/1387823.md" target="_blank">李燕铭：成龙北京豪宅被查封 三大疑点 内幕非同寻常 曾庆红出事与演艺圈地震前兆</a></li>
 <li><a href="/comments/20200829/1387817.md" target="_blank">最大岩石行星被发现！是地球的39倍，奇怪的是大气层全都被剥离</a></li>
 <li><a href="/comments/20200829/1387784.md" target="_blank">英军方秘密方案：减半欲购军机以研发“秘密武器”</a></li>
-<li><a href="/comments/20200829/1387780.md" target="_blank">中国宗教信徒及家属遭歧视 就业需“无信仰”证明</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
 
 </ul>
 </div>
