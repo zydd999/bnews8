@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/yule/20200830/1388085.md">知名女星惨遭导演强奸 自曝强奸被虐细节及照片</a></li>
 <li><a href="/comments/20200829/1387823.md">李燕铭：成龙北京豪宅被查封 三大疑点 内幕非同寻常 曾庆红出事与演艺圈地震前兆</a></li>
+<li><a href="/yule/20200830/1388085.md">知名女星惨遭导演强奸 自曝强奸被虐细节及照片</a></li>
 <li><a href="/comments/20200829/1387847.md">三名国级高官相继落马之际 成龙儿子吸毒被抓 成龙向习近平求救遭拒 曾庆红胞弟曾庆淮传被抓 销声匿迹已多年 中南海不可告人的秘密_155</a></li>
 <li><a href="/cbnews/20200830/1387996.md">日前网上流出两段视频，曝光了中共警察使用的两种恐怖刑具。</a></li>
 <li><a href="/bannedvideo/20200830/1387954.md">陈破空：川普巧用兵法打土共。金正恩突然宣布中国为敌国！习近平抄作业抄砸了？女共谍获神秘人援手</a></li>
@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20200829/1387868.md">世界到了生死攸关之时 川普一语道破和拜登本质区别 传统民主党区变色6市长背书川普</a></li>
 <li><a href="/cbnews/20200830/1388033.md">北大录取寒门学霸 评论区出现10000句嘲讽</a></li>
 <li><a href="/bannedvideo/20200830/1388074.md">文强临行前11句至今令中共坐卧不安的话 930</a></li>
-<li><a href="/headline/20200830/1387969.md">不满汉语取代蒙语教学，南蒙古爆发大规模抗议</a></li>
 <li><a href="/topimagenews/20200830/1388071.md">威斯康星17岁枪手 强大的律师团为其免费辩护！律师团公开信全文翻译</a></li>
+<li><a href="/headline/20200830/1387969.md">不满汉语取代蒙语教学，南蒙古爆发大规模抗议</a></li>
 <li><a href="/comments/20200830/1387953.md">人以光速离开地球一年，再以光速返回，地球上过去了多长时间</a></li>
 <li><a href="/cbnews/20200830/1388035.md">前中共海军参谋姚诚：美中首战就是核战</a></li>
 <li><a href="/comments/20200830/1387988.md">赵立坚要中国人民当中共“铜墙铁壁” 网络炸锅</a></li>
-<li><a href="/topimagenews/20200830/1388032.md">助理曝出更多细节！ “对方就是要馆长死！”“馆长手臂粗才挡住子弹”</a></li>
 <li><a href="/cbnews/20200830/1388137.md">赵立坚要人民当中共“铜墙铁壁” 被网友骂翻</a></li>
+<li><a href="/topimagenews/20200830/1388032.md">助理曝出更多细节！ “对方就是要馆长死！”“馆长手臂粗才挡住子弹”</a></li>
+<li><a href="/ssgc/20200830/1388147.md">中共党媒忽然自曝隐瞒疫情新证据</a></li>
 <li><a href="/comments/20200829/1387834.md">成龙是曾庆红兄弟在台前的头号王牌马仔 “娱乐大亨铁三角”之一 牵扯中共军方势力 中南海不可告人的秘密_154</a></li>
 <li><a href="/yule/20200830/1387942.md">皮特与27岁模特乘私人飞机度假恋情曝光 新女友酷似前妻朱莉？</a></li>
 <li><a href="/renquan/20200830/1387892.md">习政府秘密展开对政法系统干部大清洗</a></li>
 <li><a href="/comments/20200830/1387961.md">白俄罗斯民众抗议卢卡申科当局 出绝招应对镇压</a></li>
-<li><a href="/cnnews/hknews/20200830/1388065.md">香港惊现大型标语「真相未明」 5辆警车凌晨到场 便衣连夜铲走</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200830/1388253.md" target="_blank">新疆网信办内部文件曝光：全年24小时监控舆论 每日巡查网络信息百万次</a></li>
+<li><a href="/comments/20200830/1388252.md" target="_blank">中共称1.3万户恐因洪灾返贫 仍坚称年底实现脱贫目标</a></li>
 <li><a href="/comments/20200830/1388236.md" target="_blank">捷克议长率团抵台 团员戴双方国旗口罩 佩「台捷友好」徽章</a></li>
 <li><a href="/comments/20200830/1388232.md" target="_blank">媒体人李军：中共95%的“政绩”都是媒体虚构出来的</a></li>
 <li><a href="/comments/20200830/1388212.md" target="_blank">勿牺牲自由与中共交易 英资深议员反对抖音进驻伦敦</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200830/1388095.md" target="_blank">颜纯鈎：国民党走亲共老路会死得更快</a></li>
 <li><a href="/comments/20200830/1388094.md" target="_blank">2020美国大选：守护美国与去美国化的终极之战</a></li>
 <li><a href="/comments/20200830/1388079.md" target="_blank">华为最后逃生门被堵死晶片一哥只剩两条活路</a></li>
-<li><a href="/comments/20200830/1388078.md" target="_blank">不成魔 不能活：你也离不开智能手机吗</a></li>
-<li><a href="/comments/20200830/1388077.md" target="_blank">北京当局约谈6个城市 传递楼市什么信号？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200822/1383925.md" target="_blank">七印解封（8）：巨人建造的埃及金字塔</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 
 </ul>
 </div>
