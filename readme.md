@@ -10,7 +10,6 @@
 <li><a href="/cbnews/20200830/1388202.md">狂删与中共背景组织亲密照 改口称不支持“一带一路” 南澳议员急割席</a></li>
 <li><a href="/cbnews/20200830/1388250.md">习近平偷袭 失踪导弹有下落？ 底牌尽泄?无秘可保?出动航母？ 白宫重磅一语意味深长</a></li>
 <li><a href="/topimagenews/20200831/1388357.md">习近平成敌人？朝鲜下杀无赦令 中共打破全球科学所有规范 中国最暴利血腥行业大跃进</a></li>
-<li><a href="/topimagenews/20200830/1388071.md">威斯康星17岁枪手 强大的律师团为其免费辩护！律师团公开信全文翻译</a></li>
 <li><a href="/baitai/20200830/1388220.md">上门女婿一夜连杀16人:受尽丈母娘嘲讽 老婆出轨</a></li>
 <li><a href="/cbnews/20200830/1388137.md">赵立坚要人民当中共“铜墙铁壁” 被网友骂翻</a></li>
 <li><a href="/baitai/20200830/1388294.md">外国男子到中国半年睡了200人 无套使17岁少女怀孕</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/baitai/20200831/1388373.md">广东公司出了啥事？阿里、京东、腾讯、百度联手封杀</a></li>
 <li><a href="/bannedvideo/20200830/1388164.md">财经冷眼：深度数据分析！中国医保、养老金耗尽！8亿人在等死！（20200830第323期）</a></li>
 <li><a href="/yule/20200831/1388387.md">49岁刀郎近照 二婚老婆是我们熟悉的她</a></li>
-<li><a href="/health/20200830/1388192.md">指甲上有白点、竖纹、手上有倒刺？原来是身体发出的求救信号</a></li>
 <li><a href="/cbnews/20200831/1388396.md">美中军事角力升级 专家：习近平顾忌一事 不会开战</a></li>
-<li><a href="/cbnews/20200830/1388072.md">西安父破军方贩毒案被杀 子遭构陷判无期</a></li>
+<li><a href="/health/20200830/1388192.md">指甲上有白点、竖纹、手上有倒刺？原来是身体发出的求救信号</a></li>
 <li><a href="/cnnews/20200830/1388234.md">黄秋生发推 移居台湾成功？</a></li>
-<li><a href="/cnnews/hknews/20200830/1388065.md">香港惊现大型标语「真相未明」 5辆警车凌晨到场 便衣连夜铲走</a></li>
+<li><a href="/cbnews/20200830/1388072.md">西安父破军方贩毒案被杀 子遭构陷判无期</a></li>
 <li><a href="/funmedia/20200830/1388092.md">女子尝了下马奶，不料被一旁的小马撞见，接下来千万忍住别笑</a></li>
+<li><a href="/cbnews/20200830/1388231.md">李文亮的领导被免职 网信办严控消息传播</a></li>
+<li><a href="/comments/20200830/1388096.md">【微博精粹】川总请陈光诚上台演讲 习书记请打陈光诚的上台扯旗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200831/1388514.md" target="_blank">洪博学：为什么不开第一枪？因为中共最喜欢用钱 不敢轻易动兵</a></li>
 <li><a href="/comments/20200831/1388474.md" target="_blank">美华人女律师：没微信我不能生活 网民：没法活，回中国</a></li>
 <li><a href="/comments/20200831/1388454.md" target="_blank">刘泰英：美中不会开战 习近平顾忌此事 军力相差30倍 一打就死</a></li>
 <li><a href="/comments/20200831/1388453.md" target="_blank">李怡：重挑721的意义 港警捏造谎言不是为了欺骗人民 而是为……</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200830/1388204.md" target="_blank">2020福布斯中国名人榜再遭娱乐圈洗版 美籍刘亦菲上榜遭质疑</a></li>
 <li><a href="/comments/20200830/1388165.md" target="_blank">屡传婚变 黄晓明一句话透露婚姻现况</a></li>
 <li><a href="/comments/20200830/1388159.md" target="_blank">五种隔夜吃危害大的食物，“老五”尤其要人命</a></li>
-<li><a href="/comments/20200830/1388158.md" target="_blank">秋季养生早知道，让你安然过一冬</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200820/1383036.md" target="_blank">七印解封（7）：摩西纵身一跃入红尘</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
 
 </ul>
 </div>
