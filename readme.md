@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200831/1388449.md">美国著名媒体人曝出重磅真相：我们有800份文件… 至今无人调查</a></li>
 <li><a href="/ssgc/20200831/1388501.md">孟晚舟的三个身份证都曝光</a></li>
-<li><a href="/cbnews/20200831/1388693.md">蔡霞反水 中央党校丑闻大曝光</a></li>
 <li><a href="/bannedvideo/20200831/1388608.md">最怕的制裁来了！美冻结11高官资产| 真相传媒</a></li>
+<li><a href="/cbnews/20200831/1388693.md">蔡霞反水 中央党校丑闻大曝光</a></li>
 <li><a href="/lishi/20200831/1388436.md">周恩来鲜有人知的奢华生活</a></li>
 <li><a href="/cbnews/20200831/1388701.md">中印边界再爆冲突 印方指责中共挑起军事争端</a></li>
 <li><a href="/comments/20200831/1388706.md">胡锡进要栽？摊上事了</a></li>
 <li><a href="/topimagenews/20200831/1388860.md">中共高层内斗大动作暴露了 中美一开战 习近平就完了 反灭绝!内蒙爆发大规模抗议</a></li>
-<li><a href="/taiwannews/20200831/1388621.md">严真点评-山东号航母刚下水就成废铁。</a></li>
 <li><a href="/comments/20200831/1388696.md">中国最危险女人出手 帮习王同江曾争夺钱袋子 披露江泽民孙江志成分享蚂蚁上市盛宴 私人企业家股东囊括马云中外“朋友圈” 蚂蚁上市 江志成持股额曝光 马云有一票否决权 中南海不可告人的秘密_157</a></li>
+<li><a href="/taiwannews/20200831/1388621.md">严真点评-山东号航母刚下水就成废铁。</a></li>
 <li><a href="/bannedvideo/20200831/1388500.md">习近平南海被钓鱼，暴露中共二大致命问题；2枚导弹打偏，豆腐渣还是遭美军攻击？神秘的美军电子战----苏特计划</a></li>
 <li><a href="/topimagenews/20200831/1388627.md">震惊！给拜登背书的前国防部长 身边竟然鬼影幢幢...</a></li>
 <li><a href="/cbnews/20200831/1388468.md">老祖宗智慧：一个人是君子还是小人 看这5点就知道 老实人学学</a></li>
 <li><a href="/cnnews/20200831/1388607.md">全被骗了？美国CDC最新数据仅9210人单纯死于中共肺炎</a></li>
-<li><a href="/fanqiang/20200831/1388343.md">90%的VPN网站在跟踪记录你的一举一动</a></li>
 <li><a href="/cbnews/20200831/1388575.md">2020美国大选 川普民调领先 拜登犯大错</a></li>
+<li><a href="/fanqiang/20200831/1388343.md">90%的VPN网站在跟踪记录你的一举一动</a></li>
 <li><a href="/cnnews/20200831/1388716.md">中国间谍软件如何在手机里窃取信息？</a></li>
 <li><a href="/bannedvideo/20200901/1388904.md">北京突然拘捕央视女主播成蕾！她最后一条微信写了什么？监视居住期间获澳大利亚领事探视，丈夫身份职业很特别；央视十八大后再陷丑闻门：成蕾澳洲上海双背景引猜疑 | 今日华尔街 2020-8-31【字幕版】</a></li>
+<li><a href="/topimagenews/20200831/1388874.md">李克强讲话终于发表有窍门 捷克议长访台 中共崩溃兆头!？ 中共气炸!印军舰早部署南海</a></li>
 <li><a href="/baitai/20200831/1388556.md">比茅台还赚钱 骗了中国人17年的天价补品终于现原形</a></li>
 <li><a href="/comments/20200831/1388695.md">蚂蚁集团即将上市 江泽民孙子江志成持股额曝光</a></li>
 <li><a href="/cbnews/20200831/1388699.md">历史教授揭大饥荒真相 被停退休金</a></li>
 <li><a href="/cnnews/20200831/1388613.md">中媒惊爆 武肺疫苗恐让病情加重！报导遭急下架…</a></li>
-<li><a href="/cbnews/20200831/1388647.md">捷克议长访问台湾 中共气到“逻辑错乱”…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200816/1381132.md" target="_blank">天目所见：贵州大山怪声是谁发出的？</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 
 </ul>
 </div>
