@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20200831/1388357.md">习近平成敌人？朝鲜下杀无赦令 中共打破全球科学所有规范 中国最暴利血腥行业大跃进</a></li>
 <li><a href="/topimagenews/20200831/1388449.md">美国著名媒体人曝出重磅真相：我们有800份文件… 至今无人调查</a></li>
 <li><a href="/baitai/20200831/1388373.md">广东公司出了啥事？阿里、京东、腾讯、百度联手封杀</a></li>
 <li><a href="/ssgc/20200831/1388501.md">孟晚舟的三个身份证都曝光</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/cbnews/20200831/1388693.md">蔡霞反水 中央党校丑闻大曝光</a></li>
 <li><a href="/lishi/20200831/1388436.md">周恩来鲜有人知的奢华生活</a></li>
 <li><a href="/bannedvideo/20200831/1388608.md">最怕的制裁来了！美冻结11高官资产| 真相传媒</a></li>
-<li><a href="/cbnews/20200831/1388396.md">美中军事角力升级 专家：习近平顾忌一事 不会开战</a></li>
 <li><a href="/cbnews/20200831/1388701.md">中印边界再爆冲突 印方指责中共挑起军事争端</a></li>
+<li><a href="/cbnews/20200831/1388396.md">美中军事角力升级 专家：习近平顾忌一事 不会开战</a></li>
 <li><a href="/yule/20200831/1388387.md">49岁刀郎近照 二婚老婆是我们熟悉的她</a></li>
-<li><a href="/topimagenews/20200831/1388627.md">震惊！给拜登背书的前国防部长 身边竟然鬼影幢幢...</a></li>
-<li><a href="/comments/20200831/1388696.md">中国最危险女人出手 帮习王同江曾争夺钱袋子 披露江泽民孙江志成分享蚂蚁上市盛宴 私人企业家股东囊括马云中外“朋友圈” 蚂蚁上市 江志成持股额曝光 马云有一票否决权 中南海不可告人的秘密_157</a></li>
 <li><a href="/comments/20200831/1388706.md">胡锡进要栽？摊上事了</a></li>
-<li><a href="/ssgc/20200831/1388414.md">〖兲朝浮世绘〗大五毛和中共主子保持一致 集体转向了</a></li>
+<li><a href="/comments/20200831/1388696.md">中国最危险女人出手 帮习王同江曾争夺钱袋子 披露江泽民孙江志成分享蚂蚁上市盛宴 私人企业家股东囊括马云中外“朋友圈” 蚂蚁上市 江志成持股额曝光 马云有一票否决权 中南海不可告人的秘密_157</a></li>
+<li><a href="/topimagenews/20200831/1388627.md">震惊！给拜登背书的前国防部长 身边竟然鬼影幢幢...</a></li>
 <li><a href="/taiwannews/20200831/1388621.md">严真点评-山东号航母刚下水就成废铁。</a></li>
+<li><a href="/ssgc/20200831/1388414.md">〖兲朝浮世绘〗大五毛和中共主子保持一致 集体转向了</a></li>
 <li><a href="/bannedvideo/20200831/1388500.md">习近平南海被钓鱼，暴露中共二大致命问题；2枚导弹打偏，豆腐渣还是遭美军攻击？神秘的美军电子战----苏特计划</a></li>
 <li><a href="/cnnews/20200831/1388607.md">全被骗了？美国CDC最新数据仅9210人单纯死于中共肺炎</a></li>
 <li><a href="/cbnews/20200831/1388468.md">老祖宗智慧：一个人是君子还是小人 看这5点就知道 老实人学学</a></li>
 <li><a href="/bannedvideo/20200831/1388422.md">陈破空：七常委罕见同场。内蒙古大乱！土共狂射导弹出尽洋相。胡锡进司马南突发反文！暗入反习阵营？</a></li>
-<li><a href="/fanqiang/20200831/1388343.md">90%的VPN网站在跟踪记录你的一举一动</a></li>
 <li><a href="/cbnews/20200831/1388575.md">2020美国大选 川普民调领先 拜登犯大错</a></li>
+<li><a href="/fanqiang/20200831/1388343.md">90%的VPN网站在跟踪记录你的一举一动</a></li>
+<li><a href="/cnnews/20200831/1388716.md">中国间谍软件如何在手机里窃取信息？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200901/1388912.md" target="_blank">澳洲州政府与外国政府签署协议，联邦有权干涉吗？</a></li>
+<li><a href="/cbnews/20200901/1388911.md" target="_blank">澳洲政府对澳洲大学中的外国干涉展开调查</a></li>
 <li><a href="/cbnews/20200831/1388746.md" target="_blank">共产党“真理部”的那些“脏活儿”</a></li>
 <li><a href="/cbnews/20200831/1388739.md" target="_blank">美“男版唐娟”被捕 该大学海军项目几全为陆籍</a></li>
 <li><a href="/cbnews/20200831/1388724.md" target="_blank">中共在印度圣湖布署导弹 引发争议</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20200831/1388430.md" target="_blank">妻与姊夫有染 镇江男杀10岁外甥报复</a></li>
 <li><a href="/cbnews/20200831/1388409.md" target="_blank">黑龙江大学防疫出新招 学生每月只洗3次澡</a></li>
 <li><a href="/cbnews/20200831/1388408.md" target="_blank">疫苗危机 沪专家:疫苗反应可致中共肺炎加重</a></li>
-<li><a href="/cbnews/20200831/1388396.md" target="_blank">美中军事角力升级 专家：习近平顾忌一事 不会开战</a></li>
-<li><a href="/cbnews/20200831/1388395.md" target="_blank">不跪！蒙古族学生抗议中共取消蒙语教学 众网友赞</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200901/1388910.md" target="_blank">拜登和左媒沉默90天后才开始声讨骚乱 白宫谴责</a></li>
+<li><a href="/comments/20200901/1388905.md" target="_blank">评论 | 江棋生：追念邵燕祥先生</a></li>
 <li><a href="/comments/20200831/1388882.md" target="_blank">3岁小女孩遭风筝卷上天 欧汉声发文调侃遭网友怒轰</a></li>
 <li><a href="/comments/20200831/1388879.md" target="_blank">发了篇新疆疫情日志 我被约谈了</a></li>
 <li><a href="/comments/20200831/1388840.md" target="_blank">北京突然拘捕澳洲华裔女主播</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200831/1388688.md" target="_blank">五角大楼计划减少三分之一驻伊美军 川普证实撤军计划</a></li>
 <li><a href="/comments/20200831/1388687.md" target="_blank">AKIRA结束隔离帅气开球 林志玲现身当球迷狂拍照</a></li>
 <li><a href="/comments/20200831/1388670.md" target="_blank">李燕铭：成龙儿子吸毒被抓与北京豪宅被查封深度内幕（完整版） 曾庆红出事与演艺圈地震风向标 三名国级高官相继落马 曾庆红胞弟曾庆淮被抓 成龙向习近平求救遭拒</a></li>
-<li><a href="/comments/20200831/1388659.md" target="_blank">李燕铭：习近平要对江泽民家族动手？征兆云集 两类清洗行动交织 江泽民儿子堂妹姘妇三大地盘同步遭清洗 这些高危高官与落马高官有一共同特征……</a></li>
-<li><a href="/comments/20200831/1388658.md" target="_blank">习近平视察江泽民堂妹江泽慧利益地盘 新华网报导透露三个重要信息 释放问责江泽慧信号 江泽民“大内总管”王刚一隐秘头衔曝光 中南海不可告人的秘密_156</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200816/1381021.md" target="_blank">七印解封（1）：定下人类历史的七印书卷</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200819/1382591.md" target="_blank">七印解封（6）：西方世界</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
