@@ -20,14 +20,14 @@
 <li><a href="/cnnews/20200901/1389052.md">胡锡进以权谋私要栽？摊上事了</a></li>
 <li><a href="/topimagenews/20200901/1389357.md">川普禁中国留学生？3件大事 “8成蒙族参与”内蒙警察也抗议 武警封学校装甲运兵车现街头</a></li>
 <li><a href="/yule/20200901/1389296.md">马伊琍节目首谈前夫 他骂我二手货</a></li>
-<li><a href="/yule/20200901/1389016.md">热播剧女演员突然病逝年仅31岁 去世当天仍愉快发文</a></li>
 <li><a href="/cbnews/20200901/1389264.md">王毅拉拢欧洲彻底失败 外媒：各国不信任中共</a></li>
+<li><a href="/yule/20200901/1389016.md">热播剧女演员突然病逝年仅31岁 去世当天仍愉快发文</a></li>
 <li><a href="/comments/20200901/1389068.md">习近平有惊人计划？!五中全会前公安部叫嚣保安全</a></li>
 <li><a href="/health/20200901/1389226.md">补钙第一名 根本不是牛奶、豆腐！万万没想到会是它…便宜到吓人</a></li>
-<li><a href="/cnnews/20200901/1389189.md">重磅！蝴蝶效应：著名港星老公“促成”捷克访台</a></li>
-<li><a href="/cbnews/20200901/1389098.md">天亮时分：继新疆和香港之后，习近平又在内蒙和西藏加速；中共隐形的民族灭绝政策同时针对汉蒙回藏（政论天下第222集 20200831）</a></li>
 <li><a href="/comments/20200901/1389320.md">李燕铭：习近平重大清洗行动拉开序幕 众目睽睽的一类人接连出事 解体中共最关键环节启动</a></li>
-<li><a href="/baitai/20200901/1389200.md">赵本山2亿飞机半价也卖不出 女儿吐槽：养不起</a></li>
+<li><a href="/cbnews/20200901/1389098.md">天亮时分：继新疆和香港之后，习近平又在内蒙和西藏加速；中共隐形的民族灭绝政策同时针对汉蒙回藏（政论天下第222集 20200831）</a></li>
+<li><a href="/cnnews/20200901/1389189.md">重磅！蝴蝶效应：著名港星老公“促成”捷克访台</a></li>
+<li><a href="/cbnews/20200901/1389154.md">中共武统别想了！台国防部曝共军死穴：台海地理环境限制战法</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200902/1389548.md" target="_blank">北京政法委常务副书记丢官落马 网民称“遭报应了”</a></li>
 <li><a href="/comments/20200902/1389538.md" target="_blank">报复升级不怕自伤 中共停止进口澳洲最大粮食供应商的大麦</a></li>
 <li><a href="/comments/20200902/1389537.md" target="_blank">王毅战狼言论引强烈反弹 欧盟德法纷纷表态力挺捷克</a></li>
 <li><a href="/comments/20200902/1389521.md" target="_blank">明斯克反对派领袖将出席安理会等国际会议 吁帮助启动政权移交谈判</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200901/1389281.md" target="_blank">营养师点名防癌该吃的7大「营养素」</a></li>
 <li><a href="/comments/20200901/1389280.md" target="_blank">如何让孩子变专心？给爸爸妈妈的小建议</a></li>
 <li><a href="/comments/20200901/1389279.md" target="_blank">名医一天喝3杯咖啡养生防病怡情其乐融融</a></li>
-<li><a href="/comments/20200901/1389271.md" target="_blank">夏秋之交，中医教你这样吃</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200816/1381045.md" target="_blank">七印解封（2）：百年红祸的开端</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 
 </ul>
 </div>
