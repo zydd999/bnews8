@@ -6,17 +6,16 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20200901/1388904.md">北京突然拘捕央视女主播成蕾！她最后一条微信写了什么？监视居住期间获澳大利亚领事探视，丈夫身份职业很特别；央视十八大后再陷丑闻门：成蕾澳洲上海双背景引猜疑 | 今日华尔街 2020-8-31【字幕版】</a></li>
-<li><a href="/topimagenews/20200831/1388860.md">中共高层内斗大动作暴露了 中美一开战 习近平就完了 反灭绝!内蒙爆发大规模抗议</a></li>
 <li><a href="/topimagenews/20200831/1388874.md">李克强讲话终于发表有窍门 捷克议长访台 中共崩溃兆头!？ 中共气炸!印军舰早部署南海</a></li>
 <li><a href="/ssgc/20200901/1389000.md">王毅喊话欧洲联合抗美 恐掀大风暴</a></li>
 <li><a href="/cnnews/20200901/1389092.md">不仅粮食短缺 卫健委启动减油宣传 网友：感觉不对劲啊</a></li>
-<li><a href="/cnnews/20200901/1388931.md">突发：蓬佩奥称川普拟限制中国学生赴美学习！</a></li>
+<li><a href="/taiwannews/20200901/1389235.md">装甲车前往内蒙镇压？蒙古学生大罢课，当局风声鹤唳；</a></li>
 <li><a href="/bannedvideo/20200901/1389196.md">北京走入自毁模式，敢得罪蒙古人，这次麻烦大了</a></li>
+<li><a href="/cnnews/20200901/1388931.md">突发：蓬佩奥称川普拟限制中国学生赴美学习！</a></li>
 <li><a href="/comments/20200901/1388961.md">2020还有大劫难？十灾齐降，还有四灾未到</a></li>
 <li><a href="/cbnews/20200901/1389040.md">文昭：中印边境又开战,习近平想什麽？成龙北京豪宅被封水很深；“航母杀手”出糗一半脱靶有後果</a></li>
-<li><a href="/taiwannews/20200901/1389235.md">装甲车前往内蒙镇压？蒙古学生大罢课，当局风声鹤唳；</a></li>
-<li><a href="/bannedvideo/20200901/1388957.md">突发快评：央视澳籍美女主播成蕾突被捕、女谍？高官情妇？中共人质外交威胁西方各国（8/31）</a></li>
 <li><a href="/comments/20200901/1389128.md">装甲运兵车出现在内蒙古街头 疑警察参与抗议</a></li>
+<li><a href="/bannedvideo/20200901/1388957.md">突发快评：央视澳籍美女主播成蕾突被捕、女谍？高官情妇？中共人质外交威胁西方各国（8/31）</a></li>
 <li><a href="/cnnews/20200831/1388885.md">天惊!美最新数据死于武肺不过万 疫苗可致病更重独家被封杀 党为何突自曝瞒疫情新证据</a></li>
 <li><a href="/cnnews/hknews/20200901/1389175.md">中共气吐血！捷克议长演讲意味深长 中文高呼「我是一个台湾人！」</a></li>
 <li><a href="/headline/20200901/1388896.md">中国央视名主持在京被抓 或与澳中关系恶化有关</a></li>
@@ -27,7 +26,8 @@
 <li><a href="/yule/20200901/1389016.md">热播剧女演员突然病逝年仅31岁 去世当天仍愉快发文</a></li>
 <li><a href="/comments/20200901/1389068.md">习近平有惊人计划？!五中全会前公安部叫嚣保安全</a></li>
 <li><a href="/cbnews/20200901/1389098.md">天亮时分：继新疆和香港之后，习近平又在内蒙和西藏加速；中共隐形的民族灭绝政策同时针对汉蒙回藏（政论天下第222集 20200831）</a></li>
-<li><a href="/health/20200901/1388993.md">血管硬化的救星找到了！5种食物 坚持吃一些 清垃圾通血管</a></li>
+<li><a href="/comments/20200901/1389319.md">习近平政治局施压王沪宁 中宣部、央视、人民日报等14家文宣单位存在一系列问题 详情曝光</a></li>
+<li><a href="/cbnews/20200901/1389154.md">中共武统别想了！台国防部曝共军死穴：台海地理环境限制战法</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200817/1381339.md" target="_blank">七印解封（5）：南赡部洲</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
