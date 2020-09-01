@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20200831/1388449.md">美国著名媒体人曝出重磅真相：我们有800份文件… 至今无人调查</a></li>
 <li><a href="/ssgc/20200831/1388501.md">孟晚舟的三个身份证都曝光</a></li>
 <li><a href="/cbnews/20200831/1388693.md">蔡霞反水 中央党校丑闻大曝光</a></li>
 <li><a href="/bannedvideo/20200831/1388608.md">最怕的制裁来了！美冻结11高官资产| 真相传媒</a></li>
@@ -19,13 +18,14 @@
 <li><a href="/topimagenews/20200831/1388627.md">震惊！给拜登背书的前国防部长 身边竟然鬼影幢幢...</a></li>
 <li><a href="/cbnews/20200831/1388468.md">老祖宗智慧：一个人是君子还是小人 看这5点就知道 老实人学学</a></li>
 <li><a href="/cnnews/20200831/1388607.md">全被骗了？美国CDC最新数据仅9210人单纯死于中共肺炎</a></li>
-<li><a href="/fanqiang/20200831/1388343.md">90%的VPN网站在跟踪记录你的一举一动</a></li>
-<li><a href="/cbnews/20200831/1388575.md">2020美国大选 川普民调领先 拜登犯大错</a></li>
 <li><a href="/topimagenews/20200831/1388874.md">李克强讲话终于发表有窍门 捷克议长访台 中共崩溃兆头!？ 中共气炸!印军舰早部署南海</a></li>
+<li><a href="/cbnews/20200831/1388575.md">2020美国大选 川普民调领先 拜登犯大错</a></li>
+<li><a href="/fanqiang/20200831/1388343.md">90%的VPN网站在跟踪记录你的一举一动</a></li>
 <li><a href="/cnnews/20200831/1388716.md">中国间谍软件如何在手机里窃取信息？</a></li>
 <li><a href="/comments/20200831/1388695.md">蚂蚁集团即将上市 江泽民孙子江志成持股额曝光</a></li>
 <li><a href="/baitai/20200831/1388556.md">比茅台还赚钱 骗了中国人17年的天价补品终于现原形</a></li>
 <li><a href="/cbnews/20200831/1388699.md">历史教授揭大饥荒真相 被停退休金</a></li>
+<li><a href="/cnnews/20200901/1388931.md">突发：蓬佩奥称川普拟限制中国学生赴美学习！</a></li>
 <li><a href="/cnnews/20200831/1388613.md">中媒惊爆 武肺疫苗恐让病情加重！报导遭急下架…</a></li>
 <li><a href="/cbnews/20200831/1388647.md">捷克议长访问台湾 中共气到“逻辑错乱”…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200901/1389040.md" target="_blank">文昭：中印边境又开战,习近平想什麽？成龙北京豪宅被封水很深；“航母杀手”出糗一半脱靶有後果</a></li>
 <li><a href="/cbnews/20200901/1388941.md" target="_blank">山西饭店塌 80岁寿星痛失3亲友 下跪道歉上热搜</a></li>
 <li><a href="/cbnews/20200901/1388930.md" target="_blank">中共对台动武威胁增 美国将解密里根六项保证细节</a></li>
 <li><a href="/cbnews/20200901/1388912.md" target="_blank">澳洲州政府与外国政府签署协议，联邦有权干涉吗？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200831/1388468.md" target="_blank">老祖宗智慧：一个人是君子还是小人 看这5点就知道 老实人学学</a></li>
 <li><a href="/cbnews/20200831/1388442.md" target="_blank">内幕：揭秘中共对世界的文化入侵策略</a></li>
 <li><a href="/cbnews/20200831/1388431.md" target="_blank">台湾不让了！吴钊燮曝国军惊人战力：亚洲最大F16战机群</a></li>
-<li><a href="/cbnews/20200831/1388430.md" target="_blank">妻与姊夫有染 镇江男杀10岁外甥报复</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200901/1389043.md" target="_blank">扞卫法律和秩序 川普将亲赴威州骚乱之地感谢执法人员</a></li>
 <li><a href="/comments/20200901/1389026.md" target="_blank">依赖内循环？肖钢：中国绝大多数人收入低消费很难上去</a></li>
 <li><a href="/comments/20200901/1389025.md" target="_blank">外资如惊弓之鸟出逃110亿 沪指8月收官失守3400点</a></li>
 <li><a href="/comments/20200901/1389024.md" target="_blank">利润下滑 中国银行业薪酬普降</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200831/1388838.md" target="_blank">古印度人发明出了“战神之车”宇宙飞船？堪称史前UFO</a></li>
 <li><a href="/comments/20200831/1388837.md" target="_blank">扔了都不该放冰箱的几种食物，第一个你就常常放</a></li>
 <li><a href="/comments/20200831/1388836.md" target="_blank">【梁厨美食】南瓜海鲜浓汤</a></li>
-<li><a href="/comments/20200831/1388834.md" target="_blank">【林忌评论】没有三权分立 只有一党专政</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200820/1383036.md" target="_blank">七印解封（7）：摩西纵身一跃入红尘</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200816/1381060.md" target="_blank">七印解封（4）：大红龙的来源</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200816/1381057.md" target="_blank">七印解封（3）：拘禁在天安门的大红龙</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200819/1382591.md" target="_blank">七印解封（6）：西方世界</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
