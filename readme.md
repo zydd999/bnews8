@@ -9,11 +9,10 @@
 <li><a href="/cbnews/20200902/1389505.md">武汉疫情反复严重 医院不敢确诊患者</a></li>
 <li><a href="/cnnews/20200902/1389715.md">震撼！照片如此清晰！美国发布中共南海军事能力报告</a></li>
 <li><a href="/cbnews/20200902/1389675.md">中共大使写了封“荒诞信” 匈牙利议员回头就给曝了光</a></li>
-<li><a href="/topimagenews/20200901/1389357.md">川普禁中国留学生？3件大事 “8成蒙族参与”内蒙警察也抗议 武警封学校装甲运兵车现街头</a></li>
 <li><a href="/cbnews/20200902/1389450.md">习近平抓了江家白手套这总统晕了 蝴蝶效应名星老公促成捷克访台 川普增温一连几大招</a></li>
 <li><a href="/cnnews/20200902/1389582.md">"王毅 你这个无礼的小丑!" 布拉格区长：现在你给我听好了…</a></li>
-<li><a href="/bannedvideo/20200902/1389485.md">「六多主席」习近平：敌人多，外号多，头衔多，笑料多，撒币多，谎言多 938</a></li>
 <li><a href="/cnnews/20200902/1389726.md">怕看不懂原文？ 美国务院特意发了篇中文警告 意味深长</a></li>
+<li><a href="/bannedvideo/20200902/1389485.md">「六多主席」习近平：敌人多，外号多，头衔多，笑料多，撒币多，谎言多 938</a></li>
 <li><a href="/cnnews/20200901/1389424.md">爆安徽数万人泡水40天无援 孟晚舟身份证曝光不是中国人 胡锡进以权谋私摊上事了？</a></li>
 <li><a href="/bannedvideo/20200902/1389690.md">🔥共军枪杀印度将领，印军反击占地；央视惊呼：中国被美军围堵；印太或建小北约；新报告：中共要核武数量翻倍；捷克访台，王毅被骂丑类；川普将收网学生间谍；安徽县城泡水40天；云南蝗灾 |新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20200902/1389652.md">唐娟案又翻转？检控方对神秘C先生提出异议</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/comments/20200902/1389473.md">王毅欧洲之行最后一站脸被打肿 德外长呼吁撤销港版国安法</a></li>
 <li><a href="/cnnews/20200902/1389534.md">揭秘刘少奇死前是怎么被虐待的</a></li>
 <li><a href="/bannedvideo/20200901/1389388.md">成蕾被捕北京反应诡异，胡锡进开口破天机；东南军政要地大换血，习近平心腹军工少帅上位；捷克议长说“我是台湾人”意味深长；王毅连犯三大错成北京最大敌人；张一鸣心变：借北京插手，用美国法院拖住川普【字幕版】</a></li>
-<li><a href="/ssgc/20200902/1389445.md">一个美国女人72年前的敦煌朝圣，她拍下了我们不曾看到的敦煌</a></li>
 <li><a href="/bannedvideo/20200902/1389645.md">蓬佩奥连发三箭：三个月内赶走全部孔子学院，十五天对华为出手，与十四亿人大国打经济冷战！TikTok核心算法交易陷僵局：北京横夺话语权，暗报CFIUS旧仇！FT社论：西方需统一行动承认台湾地位【字幕版】</a></li>
+<li><a href="/cnnews/hknews/20200902/1389687.md">和王毅战狼外交强烈对比！蔡英文送台湾小吃到饭店</a></li>
+<li><a href="/ssgc/20200902/1389445.md">一个美国女人72年前的敦煌朝圣，她拍下了我们不曾看到的敦煌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
