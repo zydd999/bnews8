@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20200901/1389319.md">习近平政治局施压王沪宁 中宣部、央视、人民日报等14家文宣单位存在一系列问题 详情曝光</a></li>
 <li><a href="/bannedvideo/20200902/1389526.md">王毅被骂“没有教养小丑”，欧洲官员勒令立即向捷克道歉！法国德国齐斥王毅无礼；张一鸣推迟TikTok谈判，川普：15天谈不成就封杀；蓬佩奥牵头：以美台贸易协议取代中美贸易协议！莱特希泽难割舍【字幕版】</a></li>
-<li><a href="/topimagenews/20200901/1389324.md">"中国经济增长完全依赖内需" 外资如惊弓之鸟1天逃110亿 打脸中共!台捷签三大备忘录</a></li>
 <li><a href="/ssgc/20200901/1389335.md">取消海外华人户口和身份证 这个国家还有公理吗？</a></li>
 <li><a href="/cbnews/20200902/1389505.md">武汉疫情反复严重 医院不敢确诊患者</a></li>
 <li><a href="/cbnews/20200902/1389675.md">中共大使写了封“荒诞信” 匈牙利议员回头就给曝了光</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/bannedvideo/20200902/1389485.md">「六多主席」习近平：敌人多，外号多，头衔多，笑料多，撒币多，谎言多 938</a></li>
 <li><a href="/cnnews/20200901/1389424.md">爆安徽数万人泡水40天无援 孟晚舟身份证曝光不是中国人 胡锡进以权谋私摊上事了？</a></li>
 <li><a href="/cbnews/20200902/1389652.md">唐娟案又翻转？检控方对神秘C先生提出异议</a></li>
-<li><a href="/topimagenews/20200902/1389577.md">准开战!美外交高层：华府战略就是要在所有领域全面反击中共</a></li>
-<li><a href="/comments/20200901/1389320.md">李燕铭：习近平重大清洗行动拉开序幕 众目睽睽的一类人接连出事 解体中共最关键环节启动</a></li>
 <li><a href="/bannedvideo/20200902/1389690.md">🔥共军枪杀印度将领，印军反击占地；央视惊呼：中国被美军围堵；印太或建小北约；新报告：中共要核武数量翻倍；捷克访台，王毅被骂丑类；川普将收网学生间谍；安徽县城泡水40天；云南蝗灾 |新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20200902/1389577.md">准开战!美外交高层：华府战略就是要在所有领域全面反击中共</a></li>
 <li><a href="/comments/20200902/1389537.md">王毅战狼言论引强烈反弹 欧盟德法纷纷表态力挺捷克</a></li>
 <li><a href="/ssgc/20200902/1389516.md">〖兲朝浮世绘〗德法为捷克撑腰 王毅的警告之旅失败</a></li>
 <li><a href="/comments/20200901/1389332.md">辽宁浙江换“一把手” “军工系”登场却牵出习近平另一麻烦</a></li>
 <li><a href="/cnnews/20200902/1389641.md">中共官媒再骂蓬佩奥 学者：中共遇到最害怕的事…</a></li>
+<li><a href="/cnnews/20200902/1389726.md">怕看不懂原文？ 美国务院特意发了篇中文警告 意味深长</a></li>
 <li><a href="/comments/20200902/1389564.md">人民币持续走高非吉兆 分析：中国或重蹈日本“失去的20年”</a></li>
 <li><a href="/comments/20200902/1389473.md">王毅欧洲之行最后一站脸被打肿 德外长呼吁撤销港版国安法</a></li>
 <li><a href="/lifebaike/20200902/1389635.md">周恩来淫乱史和私生子女内幕</a></li>
+<li><a href="/cnnews/20200902/1389534.md">揭秘刘少奇死前是怎么被虐待的</a></li>
+<li><a href="/ssgc/20200902/1389445.md">一个美国女人72年前的敦煌朝圣，她拍下了我们不曾看到的敦煌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 
 </ul>
 </div>
