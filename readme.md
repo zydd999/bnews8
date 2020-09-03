@@ -7,9 +7,7 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200902/1389840.md">噩耗! 山西发文件全省没收私产 习近平发愁内循环新解读 中美脱钩iPad订单给台湾</a></li>
 <li><a href="/topimagenews/20200902/1389953.md">内蒙大罢课升温当局无计可施？中共常委集体消失恐惧什么？武汉疫情严重反复医院不敢确诊</a></li>
-<li><a href="/ssgc/20200902/1389785.md">这脱稿水平，可以直接当山东省委书记了</a></li>
 <li><a href="/topimagenews/20200902/1389888.md">习近平恐吓捷克欧洲反了 路透社：中国大学变监狱 李子柒品牌翻车！看吐了</a></li>
-<li><a href="/cbnews/20200902/1389791.md">中印再爆激烈冲突 印军强拆中方监控</a></li>
 <li><a href="/bannedvideo/20200903/1390052.md">习近平不可一世，谜之自信何来？中南海智囊耳语：赶超美国不必2035，提前3年实现！王毅骂声中回国，各国政要怒斥王毅是给习近平脸色：百般承诺始终不兑现！美国宣布制裁海牙国际刑事法院首席检察官！【字幕版】</a></li>
 <li><a href="/bannedvideo/20200903/1389977.md">习近平关於南蒙古的八条密令 939</a></li>
 <li><a href="/cnnews/20200903/1390050.md">内蒙古开学首日 网曝中共军人进驻教室照令人吃惊</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/topimagenews/20200903/1390075.md">众议院议长佩洛西回旧金山理发 福斯新闻骂特权、伪善</a></li>
 <li><a href="/bannedvideo/20200903/1390098.md">陈破空：习近平任命一批神秘官员，准备干大事！政治局委员在新疆灌药。王毅遭德国外长训斥。美国将驱逐所有孔子学院</a></li>
 <li><a href="/comments/20200902/1389821.md">江泽民老家色情丑闻曝光 黑老大打造最大色情集团 4名公安局长因他落马 中南海不可告人的秘密_158</a></li>
+<li><a href="/ssgc/20200903/1390148.md">逼反蒙古人，中共为何自找麻烦？</a></li>
 <li><a href="/ssgc/20200903/1390071.md">〖兲朝浮世绘〗外交部是习总加速师的加速器，中共死亡的催化剂</a></li>
 <li><a href="/cnnews/20200903/1389985.md">改变中国重磅7大行动!美南海碾压轰炸机超航母 拜登涉骚乱?美调查资金</a></li>
 <li><a href="/bannedvideo/20200902/1389954.md">突发：蓬佩奥宣布严控中国高级外交官在美活动！华盛顿正式施压北京：会面达赖喇嘛【字幕版】</a></li>
-<li><a href="/ssgc/20200903/1390148.md">逼反蒙古人，中共为何自找麻烦？</a></li>
 <li><a href="/comments/20200902/1389825.md">【微博精粹】知道王公公没底线 没想到居然这么没底线</a></li>
 <li><a href="/bannedvideo/20200903/1390141.md">7天前的惊人巧合！日经：习近平酝酿任内第二轮大清洗，官员各寻生路，共青团力量发暗号备战风暴来临！川普要熬死微信TikTok？商务部拟在9月20日最后大限当天公布禁令细则！【字幕版】</a></li>
 <li><a href="/comments/20200903/1390123.md">中共用化尸方法将中共病毒致死患者尸体连骨头化成水 中共故意扩散病毒 川普：中共瞒疫 中国死亡数比任何国家都多 中南海谣言预言_260</a></li>
+<li><a href="/cnnews/20200902/1389827.md">苹果10月推4款5G iPhone</a></li>
+<li><a href="/ssgc/20200903/1390100.md">沸腾的酱油！下一个茅台？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
