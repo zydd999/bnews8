@@ -11,15 +11,14 @@
 <li><a href="/bannedvideo/20200903/1390052.md">习近平不可一世，谜之自信何来？中南海智囊耳语：赶超美国不必2035，提前3年实现！王毅骂声中回国，各国政要怒斥王毅是给习近平脸色：百般承诺始终不兑现！美国宣布制裁海牙国际刑事法院首席检察官！【字幕版】</a></li>
 <li><a href="/bannedvideo/20200903/1389977.md">习近平关於南蒙古的八条密令 939</a></li>
 <li><a href="/cnnews/20200903/1390050.md">内蒙古开学首日 网曝中共军人进驻教室照令人吃惊</a></li>
-<li><a href="/bannedvideo/20200902/1389922.md">欧洲政要面斥王毅不要动辄威胁摆架子，王毅面红耳赤：你越线了！世界围观出丑看笑话，习近平遭遇史上最尴尬外交时刻；中南海智囊投书国际媒体：让美国的安全鹰派放心！华为大限到，绝版芯片手机价格狂飙【字幕版】</a></li>
 <li><a href="/bannedvideo/20200903/1390150.md">局势面临失控，内蒙古宣传系统的人集体挑战体制，习近平头大了</a></li>
+<li><a href="/bannedvideo/20200902/1389922.md">欧洲政要面斥王毅不要动辄威胁摆架子，王毅面红耳赤：你越线了！世界围观出丑看笑话，习近平遭遇史上最尴尬外交时刻；中南海智囊投书国际媒体：让美国的安全鹰派放心！华为大限到，绝版芯片手机价格狂飙【字幕版】</a></li>
 <li><a href="/cbnews/20200903/1390136.md">文昭：中共驻美大使馆人员被限制行动，习近平大惊：一夜之间四面被围！美副国务卿9月访台，中共攻台四项方案曝光，今晚动手？</a></li>
-<li><a href="/cnnews/hknews/20200902/1389792.md">周庭被捕掀国际巨浪 送中也无悔</a></li>
 <li><a href="/cnnews/20200902/1389851.md">女子总在超市买到过期商品？一查监控惊呆了</a></li>
 <li><a href="/topimagenews/20200903/1390075.md">众议院议长佩洛西回旧金山理发 福斯新闻骂特权、伪善</a></li>
 <li><a href="/bannedvideo/20200903/1390098.md">陈破空：习近平任命一批神秘官员，准备干大事！政治局委员在新疆灌药。王毅遭德国外长训斥。美国将驱逐所有孔子学院</a></li>
-<li><a href="/comments/20200902/1389821.md">江泽民老家色情丑闻曝光 黑老大打造最大色情集团 4名公安局长因他落马 中南海不可告人的秘密_158</a></li>
 <li><a href="/ssgc/20200903/1390148.md">逼反蒙古人，中共为何自找麻烦？</a></li>
+<li><a href="/comments/20200902/1389821.md">江泽民老家色情丑闻曝光 黑老大打造最大色情集团 4名公安局长因他落马 中南海不可告人的秘密_158</a></li>
 <li><a href="/ssgc/20200903/1390071.md">〖兲朝浮世绘〗外交部是习总加速师的加速器，中共死亡的催化剂</a></li>
 <li><a href="/cnnews/20200903/1389985.md">改变中国重磅7大行动!美南海碾压轰炸机超航母 拜登涉骚乱?美调查资金</a></li>
 <li><a href="/bannedvideo/20200902/1389954.md">突发：蓬佩奥宣布严控中国高级外交官在美活动！华盛顿正式施压北京：会面达赖喇嘛【字幕版】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20200903/1390123.md">中共用化尸方法将中共病毒致死患者尸体连骨头化成水 中共故意扩散病毒 川普：中共瞒疫 中国死亡数比任何国家都多 中南海谣言预言_260</a></li>
 <li><a href="/cnnews/20200902/1389827.md">苹果10月推4款5G iPhone</a></li>
 <li><a href="/ssgc/20200903/1390100.md">沸腾的酱油！下一个茅台？</a></li>
+<li><a href="/baitai/20200902/1389860.md">【立此存照】“真好意思 你男人在外保家卫国你干这事？”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
 
 </ul>
 </div>
