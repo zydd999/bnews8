@@ -9,7 +9,6 @@
 <li><a href="/ssgc/20200903/1390162.md">王毅还能保住中共外交部长之职吗？</a></li>
 <li><a href="/bannedvideo/20200903/1390166.md">世界围观王毅出丑看笑话，习近平遭遇史上最尴尬外交时刻；蓬佩奥宣布严控中国高级外交官在美活动！中南海智囊耳语习近平：赶超美国不必2035，提前3年实现！川普熬死微信TikTok|华尔街网报合辑【字幕版】</a></li>
 <li><a href="/ssgc/20200903/1390148.md">逼反蒙古人，中共为何自找麻烦？</a></li>
-<li><a href="/bannedvideo/20200903/1390141.md">7天前的惊人巧合！日经：习近平酝酿任内第二轮大清洗，官员各寻生路，共青团力量发暗号备战风暴来临！川普要熬死微信TikTok？商务部拟在9月20日最后大限当天公布禁令细则！【字幕版】</a></li>
 <li><a href="/cnnews/20200903/1390244.md">王岐山神隐3个月终于露面 因任志强已靠边站？</a></li>
 <li><a href="/bannedvideo/20200903/1390158.md">北京牺牲银行救经济，金融体系恐崩溃；美大学漏报中国捐款买中概股；人民币为何猛升？美国拒缴近亿元WHO会费；贸易竟成中美休战区；印度再封杀118款中国APP| 华尔街财经（20200903）</a></li>
 <li><a href="/bannedvideo/20200903/1390408.md">习近平国师郑永年竟是色魔？！正接受警方调查；习近平首度单挑蓬佩奥：五个绝不答应高调怒斥；黎智英被判无罪！法官：恐吓记者罪名不成立；内蒙古开始悬赏大抓捕 赵克志亲自指挥：严惩不贷！【字幕版】</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cnnews/20200903/1390247.md">朱镕基之子警告:花高价买房 将来可能卖不出去</a></li>
 <li><a href="/yule/20200903/1390262.md">大咖女星都被睡过？他踢爆荒淫内幕：必然的</a></li>
 <li><a href="/headline/20200904/1390504.md">习近平：任何人企图把中共和中国人民割裂、对立，中国人民绝不答应</a></li>
+<li><a href="/bannedvideo/20200904/1390569.md">王岐山为何主动烧毁北京与华尔街的桥？白宫故意以斯大林羞辱习近平；习近平认为中美关系已上不归路，劝改革派彻底放弃幻想；川普最大功劳是让人看清习近平面目——前华尔街日报记者解读中美决策高层内幕【字幕版】</a></li>
 <li><a href="/cnnews/20200903/1390234.md">疑毛新宇在两保镖陪同下出行 手拿“打狗棒”？</a></li>
 <li><a href="/cnnews/20200903/1390253.md">美国反击了？中共驻美使馆「甩2公约」惨喊：粗暴践踏</a></li>
-<li><a href="/bannedvideo/20200904/1390569.md">王岐山为何主动烧毁北京与华尔街的桥？白宫故意以斯大林羞辱习近平；习近平认为中美关系已上不归路，劝改革派彻底放弃幻想；川普最大功劳是让人看清习近平面目——前华尔街日报记者解读中美决策高层内幕【字幕版】</a></li>
 <li><a href="/bannedvideo/20200904/1390503.md">台湾更新护照弱化民国，战狼王毅几乎哭出声；台湾成为全球焦点的五大原因，第四个决定中国未来</a></li>
 <li><a href="/ssgc/20200903/1390165.md">为什么以前的香港小姐巨星辈出，现在江河日下？</a></li>
 <li><a href="/cnnews/20200903/1390243.md">90后中国女富豪太爽了 留学归来老爸赠送500亿</a></li>
 <li><a href="/cnnews/20200903/1390254.md">华为手机终结？苹果考虑开卖2000元iPhone</a></li>
+<li><a href="/bannedvideo/20200904/1390505.md">美国纳税人造反：加州不翻红，我们就搬家！民主党佩洛西玩双标自打脸！美国2020总统大选引起大撕裂，民主党会穷尽所有手段试图拉川普下马推拜登上台</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200904/1390613.md" target="_blank">曹长青：小说的衰落和狄更斯的顿悟</a></li>
+<li><a href="/comments/20200904/1390681.md" target="_blank">习近平慌了？他连说五个绝不答应 网络炸锅</a></li>
+<li><a href="/comments/20200904/1390680.md" target="_blank">欧盟推出重要原产品方案 以中止对中共供应链的依赖</a></li>
 <li><a href="/comments/20200904/1390655.md" target="_blank">毒杀纳瓦尔尼惹众怒 德政要促终止“北溪2号”管道项目</a></li>
 <li><a href="/comments/20200904/1390644.md" target="_blank">李嘉诚长孙女李泽钜长女李思德出任李嘉诚基金会董事 首位出任基金会董事的家族第三代成员 基金会拥有李嘉诚三分之一财产</a></li>
 <li><a href="/comments/20200904/1390643.md" target="_blank">中共要以造原子弹的优先度造芯片？ 中科院：比“两弹一星”更难</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200904/1390517.md" target="_blank">揭秘3000年前古埃及历法与“恶魔之星”之谜</a></li>
 <li><a href="/comments/20200904/1390516.md" target="_blank">美国四个美的不可思议的景观 感叹大自然的神奇</a></li>
 <li><a href="/comments/20200903/1390496.md" target="_blank">陈薇在央视称2月26日新冠疫苗下线 网友：坐实中共放毒</a></li>
-<li><a href="/comments/20200903/1390478.md" target="_blank">NASA 哈勃望远镜最新观测发现，仙女座星系已撞上银河系！会影响地球吗？</a></li>
-<li><a href="/comments/20200903/1390477.md" target="_blank">它的纤维是苹果７倍！当然助肠道顺畅</a></li>
-<li><a href="/comments/20200903/1390476.md" target="_blank">它导致脑中风机率比一般高出21倍！2招紧急缓解</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 
 </ul>
 </div>
