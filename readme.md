@@ -21,13 +21,13 @@
 <li><a href="/cbnews/20200904/1390745.md">专家爆美国打垮中共 下一步用…</a></li>
 <li><a href="/cbnews/20200904/1390660.md">中共发言人翻墙批美越界 美官员回应：太讽刺</a></li>
 <li><a href="/worldnews/usa/20200904/1390615.md">绝不答应把中共和中国人民切割 习近平怕什么</a></li>
+<li><a href="/topimagenews/20200904/1391051.md">重磅！保护台湾 白宫承诺 美国大选底定？现标志性事件 疫苗！美国传来大好消息</a></li>
 <li><a href="/cnnews/20200904/1390717.md">粮食管控愈趋严厉？运城突然封禁私人粮油店</a></li>
 <li><a href="/cbnews/20200904/1390854.md">川普：中国死于疫情人数比任何国家都多</a></li>
 <li><a href="/ssgc/20200904/1390926.md">五个“绝不答应”，习近平危殆</a></li>
 <li><a href="/cbnews/20200904/1390788.md">中共抓狂捷克访台！布拉格市长一句电爆：我有权决定跟谁见面</a></li>
 <li><a href="/comments/20200904/1390787.md">习亲信王小洪成超级“警霸” 公安女下属升官</a></li>
 <li><a href="/headline/20200904/1390776.md">【耳边风】习大大铸成大错：成吉思汗的后裔可不是好惹的</a></li>
-<li><a href="/comments/20200904/1390760.md">习近平这句话出口危险了！习近平连说五个绝不答应 网络炸锅 白宫高官一句话令中南海惊恐不安 中南海不可告人的秘密_160</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200905/1391182.md" target="_blank">杨洁篪到访西班牙 香港、新疆问题再打脸</a></li>
+<li><a href="/comments/20200905/1391181.md" target="_blank">【纳瓦尔尼遭毒杀案】北约召开紧急会议 促俄解释并警告国际社会将做出回应</a></li>
 <li><a href="/comments/20200905/1391161.md" target="_blank">“洋中之海”清澈度达72米却让船只有去无回</a></li>
 <li><a href="/comments/20200905/1391160.md" target="_blank">充满浓郁法式风情的加拿大城市 魁北克的必游之地</a></li>
 <li><a href="/comments/20200905/1391142.md" target="_blank">因参与迫害法轮功 辽宁逾两千人遭恶报</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200904/1390960.md" target="_blank">名老中医：入秋开始喝此茶，活血化瘀护心脏，三高也易降</a></li>
 <li><a href="/comments/20200904/1390907.md" target="_blank">山西当局又搞“社会主义改造” 2百多户私人房产一夜变“国有”</a></li>
 <li><a href="/comments/20200904/1390886.md" target="_blank">安倍辞职后中日关系走向： 联美抗共大局不变</a></li>
-<li><a href="/comments/20200904/1390878.md" target="_blank">【微博精粹】成吉思汗子孙要揽炒你赵 快递一匹蒙古马给总加速师</a></li>
-<li><a href="/comments/20200904/1390872.md" target="_blank">郭美美出狱后“改名换脸” 开设新账号再次炫富</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
