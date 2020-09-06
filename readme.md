@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200905/1391560.md">习近平变脸又承诺要干吗？ 川普不玩虚的又来真的了 七常委齐戴口罩 严重了？</a></li>
-<li><a href="/bannedvideo/20200905/1391554.md">王毅如何向习近平检讨？此行太震惊，世道真变了！习近平甜蜜圈套1.0破产，杨洁篪身段更柔软；张一鸣求见崔天凯，暗会十余美国前政要；中国放弃制裁美企原因披露；中印防长同意缓和局势，互指责任在对方【字幕版】</a></li>
 <li><a href="/cbnews/20200906/1391613.md">超丢脸！解放军出国比赛…五星旗竟拿反 有士兵晕倒被抬走</a></li>
 <li><a href="/ssgc/20200906/1391602.md">中共国防部长承认中印边界冲突失利</a></li>
 <li><a href="/cbnews/20200906/1391581.md">成蕾的微信朋友圈与脸书帖子内容反差巨大</a></li>
 <li><a href="/cnnews/hknews/20200906/1391772.md">“斥资千亿”的港珠澳大桥 如今免费都没人去</a></li>
 <li><a href="/comments/20200906/1391804.md">【微博精粹】14亿人口的大国 居然生产出这样一位蠢“男儿” 惊叹</a></li>
+<li><a href="/cbnews/20200906/1391837.md">中共枪法已乱？习近平突高调提扩大开放 各国恐不再买单</a></li>
 <li><a href="/bannedvideo/20200906/1391673.md">快讯：美对中共又施两狠招：中国留学生机场出境严查、白宫查中国项目费用；篷佩奥：中共要建立全球附庸国、奥布莱恩：美对华政策是40年来最大失败（9/5）</a></li>
 <li><a href="/cbnews/20200906/1391647.md">强制蒙古族学生回校上课手段升级 被抓回学生遭老师暴打</a></li>
-<li><a href="/cbnews/20200906/1391837.md">中共枪法已乱？习近平突高调提扩大开放 各国恐不再买单</a></li>
 <li><a href="/bannedvideo/20200906/1391682.md">拜登父子卖国证据确凿，中共投资10亿，收购美国军火公司；然而，面对印度莫迪的挑衅，中共还是没底气</a></li>
 <li><a href="/bannedvideo/20200906/1391600.md">近两成在美中国留学生难逃被驱逐命运！蓬佩奥定调：不是间谍也是威胁 ；郑永年否认色魔指控，称辞职为个人选择；腾讯微博停止运营；西方外交官亮话：中国外交部发言人是假新闻专家！华为事件有第二真相？【字幕版】</a></li>
 <li><a href="/yule/20200906/1391621.md">50岁金曲歌手台上心肌梗塞倒地 抢救40分钟宣布身亡 现场画面曝光</a></li>
 <li><a href="/cbnews/20200906/1391627.md">上辈子是鱼？2岁女童「10分钟横渡湖泊」超萌泳姿曝光了</a></li>
 <li><a href="/bannedvideo/20200906/1391641.md">陈破空：战机坠毁广西！美台击落？公安部长甩锅习近平。共军战败向印军求和！预测美国大选的中国神秘指数</a></li>
 <li><a href="/cnnews/hknews/20200906/1391790.md">最美「女宪兵」引台湾网友高呼「我泱威武」</a></li>
-<li><a href="/bannedvideo/20200906/1391582.md">快评：台湾叛徒中芯国际要遭美制裁、中国芯片业面临灭顶之灾；张汝京是科技界林毅夫、什么原因使他背叛台湾（9/5）</a></li>
-<li><a href="/cbnews/20200906/1391825.md">武汉“鬼节”到处是祭奠的人 市民：长这么大从未见过</a></li>
 <li><a href="/topimagenews/20200906/1391878.md">中共威胁抛售美债是玩火？或招致美国真正金融核打击</a></li>
+<li><a href="/cbnews/20200906/1391825.md">武汉“鬼节”到处是祭奠的人 市民：长这么大从未见过</a></li>
+<li><a href="/bannedvideo/20200906/1391582.md">快评：台湾叛徒中芯国际要遭美制裁、中国芯片业面临灭顶之灾；张汝京是科技界林毅夫、什么原因使他背叛台湾（9/5）</a></li>
+<li><a href="/cbnews/20200906/1391873.md">“军魂”觉醒 痛斥中共</a></li>
+<li><a href="/finance/20200906/1391944.md">此国转向“中国芯”彻底完了 中国银行员工卷款30亿失踪 李嘉诚抛售京沪总值500亿</a></li>
 <li><a href="/comments/20200906/1391677.md">【要闻集粹】习近平把这货当国师 经济怎么上流？习的结局就像自摔的飞机</a></li>
 <li><a href="/baitai/20200906/1391815.md">习近平“绝不答应”后又承诺扩大开放 蔡霞有话说</a></li>
-<li><a href="/cnnews/20200906/1391745.md">腾讯微博：本月28日起 停止服务和营运</a></li>
-<li><a href="/cbnews/20200906/1391873.md">“军魂”觉醒 痛斥中共</a></li>
+<li><a href="/topimagenews/20200906/1391905.md">【9.6九龙游行 不断更新】港人要求投票 警大规模截查 社民连3人被捕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200906/1392045.md" target="_blank">内蒙古通辽：“拯救我们的母语”</a></li>
 <li><a href="/comments/20200906/1392007.md" target="_blank">今日白露，少“二瓜”，多“三白”，做好四件事，秋冬少生病</a></li>
 <li><a href="/comments/20200906/1392006.md" target="_blank">健走后吃一块，抑制饭后血糖20％、肌力大增8％</a></li>
 <li><a href="/comments/20200906/1392005.md" target="_blank">40岁后肚子卡一层油？研究：它的不足害你肥胖又骨松</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200906/1391851.md" target="_blank">一眼看出缺乏哪种维生素，又该如何补，快收好了</a></li>
 <li><a href="/comments/20200906/1391850.md" target="_blank">睡不醒、易感冒、免疫力低？当心‘夏秋换季病’找上了你</a></li>
 <li><a href="/comments/20200906/1391842.md" target="_blank">体会《道德经》8大思维 天地辽阔路宽广</a></li>
-<li><a href="/comments/20200906/1391811.md" target="_blank">法轮功真相传遍世界 受到政府褒奖和民众支持</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
 <li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
