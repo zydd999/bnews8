@@ -10,8 +10,8 @@
 <li><a href="/bannedvideo/20200905/1391304.md">蓬佩奥：对习近平需扇左耳光接右耳光不停手妙语报旧仇</a></li>
 <li><a href="/cbnews/20200905/1391343.md">华春莹一句话被网友喷爆 :狂犬病又犯了</a></li>
 <li><a href="/topimagenews/20200905/1391493.md">“基辛格当总统也救不了中共”中国粮食真出事！2个信号 人民币走高非吉兆重蹈覆辙</a></li>
-<li><a href="/cbnews/20200905/1391429.md">袁弓夷：习近平夹在主和与主战派中 提前15年亮剑中共未准备就绪</a></li>
 <li><a href="/topimagenews/20200905/1391560.md">习近平变脸又承诺要干吗？ 川普不玩虚的又来真的了 七常委齐戴口罩 严重了？</a></li>
+<li><a href="/cbnews/20200905/1391429.md">袁弓夷：习近平夹在主和与主战派中 提前15年亮剑中共未准备就绪</a></li>
 <li><a href="/renquan/xgmyd/20200905/1391406.md">浙江“翻墙”被罚人数剧增 分析：审查出海</a></li>
 <li><a href="/bannedvideo/20200905/1391554.md">王毅如何向习近平检讨？此行太震惊，世道真变了！习近平甜蜜圈套1.0破产，杨洁篪身段更柔软；张一鸣求见崔天凯，暗会十余美国前政要；中国放弃制裁美企原因披露；中印防长同意缓和局势，互指责任在对方【字幕版】</a></li>
 <li><a href="/cbnews/20200906/1391613.md">超丢脸！解放军出国比赛…五星旗竟拿反 有士兵晕倒被抬走</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/bannedvideo/20200905/1391479.md">蓬佩奥：对习近平霸道隐忍太久，还击需耳光；白宫彻查美国机构涉华资金！胡锡进哪来的假情报？唐娟恩人神秘C先生身份将公开；美参议员投书蓬佩奥要永久禁止赴中国旅行！| 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/cbnews/20200905/1391428.md">中印冲突升级…中共逼藏人站前线当「活肉靶」</a></li>
 <li><a href="/bannedvideo/20200906/1391600.md">近两成在美中国留学生难逃被驱逐命运！蓬佩奥定调：不是间谍也是威胁 ；郑永年否认色魔指控，称辞职为个人选择；腾讯微博停止运营；西方外交官亮话：中国外交部发言人是假新闻专家！华为事件有第二真相？【字幕版】</a></li>
+<li><a href="/cbnews/20200906/1391647.md">强制蒙古族学生回校上课手段升级 被抓回学生遭老师暴打</a></li>
 <li><a href="/ccpdope/20200905/1391372.md">美国情报总监暗示已手握北京罪证</a></li>
 <li><a href="/cbnews/20200905/1391330.md">剑指郭声琨？政法系更大整顿风暴来临</a></li>
-<li><a href="/bannedvideo/20200906/1391582.md">快评：台湾叛徒中芯国际要遭美制裁、中国芯片业面临灭顶之灾；张汝京是科技界林毅夫、什么原因使他背叛台湾（9/5）</a></li>
-<li><a href="/ssgc/20200905/1391446.md">《八佰》被封杀一年 为何此时解禁？</a></li>
+<li><a href="/yule/20200906/1391621.md">50岁金曲歌手台上心肌梗塞倒地 抢救40分钟宣布身亡 现场画面曝光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 
 </ul>
 </div>
