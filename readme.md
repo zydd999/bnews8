@@ -8,26 +8,26 @@
 <li><a href="/cnnews/hknews/20200906/1391772.md">“斥资千亿”的港珠澳大桥 如今免费都没人去</a></li>
 <li><a href="/comments/20200906/1391804.md">【微博精粹】14亿人口的大国 居然生产出这样一位蠢“男儿” 惊叹</a></li>
 <li><a href="/cbnews/20200906/1391837.md">中共枪法已乱？习近平突高调提扩大开放 各国恐不再买单</a></li>
-<li><a href="/bannedvideo/20200906/1391673.md">快讯：美对中共又施两狠招：中国留学生机场出境严查、白宫查中国项目费用；篷佩奥：中共要建立全球附庸国、奥布莱恩：美对华政策是40年来最大失败（9/5）</a></li>
 <li><a href="/finance/20200906/1391944.md">此国转向“中国芯”彻底完了 中国银行员工卷款30亿失踪 李嘉诚抛售京沪总值500亿</a></li>
-<li><a href="/bannedvideo/20200906/1391682.md">拜登父子卖国证据确凿，中共投资10亿，收购美国军火公司；然而，面对印度莫迪的挑衅，中共还是没底气</a></li>
 <li><a href="/topimagenews/20200906/1392072.md">造反!前高官陆媒上暗讽习近平 2个真实故事披露大内幕 拜登一句话举国哗然</a></li>
 <li><a href="/topimagenews/20200906/1391995.md">衰！解放军国际赛事又出丑  中印俄国谈啥样？绑了印度人 中国首骗陈光标表效忠网戳穿</a></li>
 <li><a href="/cbnews/20200906/1391873.md">“军魂”觉醒 痛斥中共</a></li>
 <li><a href="/cnnews/20200906/1391949.md">德国高官：内蒙古的骚乱再次让我们感到震惊</a></li>
 <li><a href="/topimagenews/20200906/1391878.md">中共威胁抛售美债是玩火？或招致美国真正金融核打击</a></li>
-<li><a href="/bannedvideo/20200906/1391999.md">王毅闯祸自己也没想到，叹世界变化大；蓬佩奥要赶走近两成中国留学生；张一鸣求见崔天凯不得；知情人披露成蕾近况；北京手里还有一个美国政治人质；中芯国际速与解放军撇清关系 | 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/cbnews/20200906/1391825.md">武汉“鬼节”到处是祭奠的人 市民：长这么大从未见过</a></li>
+<li><a href="/bannedvideo/20200906/1391999.md">王毅闯祸自己也没想到，叹世界变化大；蓬佩奥要赶走近两成中国留学生；张一鸣求见崔天凯不得；知情人披露成蕾近况；北京手里还有一个美国政治人质；中芯国际速与解放军撇清关系 | 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/cnnews/hknews/20200906/1391790.md">最美「女宪兵」引台湾网友高呼「我泱威武」</a></li>
 <li><a href="/ssgc/20200906/1391954.md">成龙定律终于在地产界应验</a></li>
 <li><a href="/topimagenews/20200906/1391905.md">【9.6九龙游行 不断更新】港人要求投票 警大规模截查 社民连3人被捕</a></li>
 <li><a href="/baitai/20200906/1391815.md">习近平“绝不答应”后又承诺扩大开放 蔡霞有话说</a></li>
-<li><a href="/comments/20200906/1391677.md">【要闻集粹】习近平把这货当国师 经济怎么上流？习的结局就像自摔的飞机</a></li>
-<li><a href="/cbnews/20200906/1391833.md">内蒙女官员堕楼亡 遗书流出 夫遭警方封口</a></li>
-<li><a href="/cnnews/20200906/1391745.md">腾讯微博：本月28日起 停止服务和营运</a></li>
 <li><a href="/bannedvideo/20200907/1392085.md">蔡霞：「习近平混不下去了」947</a></li>
+<li><a href="/cbnews/20200906/1391833.md">内蒙女官员堕楼亡 遗书流出 夫遭警方封口</a></li>
+<li><a href="/cbnews/20200907/1392101.md">昆山世硕公司不把工人当人 工人瞬间让车间瘫痪</a></li>
+<li><a href="/cnnews/20200906/1391745.md">腾讯微博：本月28日起 停止服务和营运</a></li>
 <li><a href="/comments/20200906/1391859.md">习家军廖国勋代理市长 天津官场立马掀清洗风暴 天津10名一把手被约谈 公安局特警总队长李明海被免职 中纪委官网密集发文预示更大清洗风暴</a></li>
 <li><a href="/cnnews/20200906/1391797.md">百年军工企业洛克希德马丁公司有多强？网友：美军有多强他就有多强</a></li>
+<li><a href="/bannedvideo/20200907/1392083.md">突发：又一轮大驱逐！中国拒续美媒记者签证，暗示全员逐客令！【字幕版】</a></li>
+<li><a href="/yule/20200906/1391711.md">刘晓庆再次出演少女 剧照流出后惹争议</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200907/1392151.md" target="_blank">四川女学生被逼口罩遮脸 遭甩巴掌霸凌「满脸血抹掉继续打」</a></li>
 <li><a href="/cbnews/20200907/1392102.md" target="_blank">甘肃白银市铝材厂剧烈爆炸 工厂大楼只剩下框架 3死7伤</a></li>
 <li><a href="/cbnews/20200907/1392101.md" target="_blank">昆山世硕公司不把工人当人 工人瞬间让车间瘫痪</a></li>
 <li><a href="/cbnews/20200906/1392065.md" target="_blank">内蒙古：中共试图将所有问题都归咎于“邪教”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200906/1391766.md" target="_blank">河南妇连怀四胎女儿 惨遭丈夫掐死</a></li>
 <li><a href="/cbnews/20200906/1391647.md" target="_blank">强制蒙古族学生回校上课手段升级 被抓回学生遭老师暴打</a></li>
 <li><a href="/cbnews/20200906/1391642.md" target="_blank">美国思想领袖：全国学者协会政策部主任 雷切尔·彼得森：中共建立孔子学院以教育掩盖渗透目的，利用千人计划盗窃美国研究成果；中共企图向西方机构内部渗透，使其赞成中共质疑我们自己的价值观！| 大纪元</a></li>
-<li><a href="/cbnews/20200906/1391627.md" target="_blank">上辈子是鱼？2岁女童「10分钟横渡湖泊」超萌泳姿曝光了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
