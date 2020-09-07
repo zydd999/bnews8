@@ -6,10 +6,10 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/taiwannews/20200907/1392138.md">特朗普发出战斗宣言！美国正式亮剑了</a></li>
-<li><a href="/comments/20200907/1392146.md">李燕铭:习近平打虎现任常委？两大案锁定赵乐际 二十大常委争夺战开打 赵乐际如不放弃连任或面临常委任上落马 习近平打虎锁定江派接班人选 剑指江曾</a></li>
 <li><a href="/bannedvideo/20200907/1392191.md">彭丽媛出面指挥：天津鬼城响民歌！国母亲自背书黄金签证，习近平封城铁令也作废；多位顶级中国地产商卷入罕见政治腐败丑闻，FBI披露海量惊人细节：蚂蚁集团股东有涉【字幕版】</a></li>
-<li><a href="/topimagenews/20200907/1392356.md">大陆男子校门口随机疯砍 4学生倒地喷血…少女遭刀架挟持</a></li>
+<li><a href="/comments/20200907/1392146.md">李燕铭:习近平打虎现任常委？两大案锁定赵乐际 二十大常委争夺战开打 赵乐际如不放弃连任或面临常委任上落马 习近平打虎锁定江派接班人选 剑指江曾</a></li>
 <li><a href="/funmedia/20200907/1392154.md">世界最“脏”的国家 人们路边随意“释放天性” 毫无隐私可言</a></li>
+<li><a href="/topimagenews/20200907/1392356.md">大陆男子校门口随机疯砍 4学生倒地喷血…少女遭刀架挟持</a></li>
 <li><a href="/comments/20200907/1392469.md">上海市公安局长龚道安在湖北被抓捕内幕曝光 被抓捕前参加湖北省委书记前上海市长应勇的晚宴 龚道安落马前一周湖北龚道鑫涉黑大案被引爆 龚道安赶回湖北捞人？结果自己被抓了 习近平湖北设局抓捕龚道安？ 中南海谣言预言_265</a></li>
 <li><a href="/cnnews/20200907/1392259.md">周恩来被同性恋折磨 拒绝与邓颖超进洞房</a></li>
 <li><a href="/topimagenews/20200907/1392249.md">蓬佩奥盯上它了！转评发言人视频：它是中国共产党的宣传部门 别上当</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20200907/1392139.md">内幕：花钱保政权 中山网信办购五大服务</a></li>
 <li><a href="/bannedvideo/20200907/1392284.md">今日头条评论翻车：美国太腐败！上任47天落马！习近平一年后再喊斗争！人民醒了</a></li>
 <li><a href="/comments/20200907/1392470.md">新冠ADE初现　疫苗将成炸弹（上）</a></li>
-<li><a href="/cbnews/20200907/1392330.md">中印冲突打不赢就来阴的？印媒爆5青少年疑似遭受共军“绑架”</a></li>
+<li><a href="/cnnews/20200907/1392572.md">习近平内部阻力越来越大 蔡霞提把习分开！反应惊人 蓬佩奥盯上它了！别上当！ </a></li>
 <li><a href="/comments/20200907/1392479.md">火！村民雇“毛泽东”给文革冤死的父母叩头</a></li>
+<li><a href="/cbnews/20200907/1392330.md">中印冲突打不赢就来阴的？印媒爆5青少年疑似遭受共军“绑架”</a></li>
 <li><a href="/yule/20200907/1392159.md">空姐值勤巧遇胡歌兴奋求合照 近况曝光网惊呼</a></li>
 <li><a href="/bannedvideo/20200907/1392121.md">习近平启动囤计划：不备战也防患！拜登私下里这样评价习近平</a></li>
-<li><a href="/cbnews/20200907/1392231.md">内部公文外泄 中共强制内蒙学生复课 违者“连坐”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200908/1392671.md" target="_blank">700美国老兵发公开信支持川普 驳斥媒体造假抹黑</a></li>
 <li><a href="/comments/20200908/1392662.md" target="_blank">民调结果：2020总统大选辩论 拜登对决川普 拜登必败</a></li>
 <li><a href="/comments/20200908/1392655.md" target="_blank">长周末暴乱再起 川普：激进左派州长和市长的软弱是主因</a></li>
 <li><a href="/comments/20200908/1392637.md" target="_blank">中国股市尾盘跳水 资金恐慌性抛售芯片股</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200907/1392386.md" target="_blank">塔利班与阿富汗政府准备和谈 美特使已飞往卡塔尔</a></li>
 <li><a href="/comments/20200907/1392385.md" target="_blank">恒述法师掏空2.5亿再斥「一毛不拔」 费玉清：问心无愧</a></li>
 <li><a href="/comments/20200907/1392376.md" target="_blank">何方美被长期软禁 哭诉当局不许带孩子去北京看病</a></li>
-<li><a href="/comments/20200907/1392375.md" target="_blank">传安徽高官车建军落马 兄长是前浙江书记车俊</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
