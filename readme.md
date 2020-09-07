@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/taiwannews/20200907/1392138.md">特朗普发出战斗宣言！美国正式亮剑了</a></li>
-<li><a href="/bannedvideo/20200907/1392085.md">蔡霞：「习近平混不下去了」947</a></li>
 <li><a href="/ssgc/20200907/1392110.md">未来十年3万亿美元投资可能进入中国</a></li>
 <li><a href="/comments/20200907/1392146.md">李燕铭:习近平打虎现任常委？两大案锁定赵乐际 二十大常委争夺战开打 赵乐际如不放弃连任或面临常委任上落马 习近平打虎锁定江派接班人选 剑指江曾</a></li>
 <li><a href="/cbnews/20200907/1392101.md">昆山世硕公司不把工人当人 工人瞬间让车间瘫痪</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/topimagenews/20200907/1392356.md">大陆男子校门口随机疯砍 4学生倒地喷血…少女遭刀架挟持</a></li>
 <li><a href="/bannedvideo/20200907/1392120.md">央视主播被抓，成龙房产被查，胡锡进功不可没｜【混球涡轮增压】时事小品_大陆新闻解毒</a></li>
 <li><a href="/funmedia/20200907/1392154.md">世界最“脏”的国家 人们路边随意“释放天性” 毫无隐私可言</a></li>
-<li><a href="/ssgc/20200907/1392118.md">〖兲朝浮世绘〗打我脸可以，但是不要到处宣扬让我的奴才们知道了</a></li>
 <li><a href="/comments/20200907/1392469.md">上海市公安局长龚道安在湖北被抓捕内幕曝光 被抓捕前参加湖北省委书记前上海市长应勇的晚宴 龚道安落马前一周湖北龚道鑫涉黑大案被引爆 龚道安赶回湖北捞人？结果自己被抓了 习近平湖北设局抓捕龚道安？ 中南海谣言预言_265</a></li>
+<li><a href="/ssgc/20200907/1392118.md">〖兲朝浮世绘〗打我脸可以，但是不要到处宣扬让我的奴才们知道了</a></li>
 <li><a href="/topimagenews/20200907/1392249.md">蓬佩奥盯上它了！转评发言人视频：它是中国共产党的宣传部门 别上当</a></li>
 <li><a href="/cnnews/20200907/1392259.md">周恩来被同性恋折磨 拒绝与邓颖超进洞房</a></li>
 <li><a href="/headline/20200907/1392362.md">中央为发展商定债务红线 恒大一夜间降价三成甩卖</a></li>
-<li><a href="/cbnews/20200907/1392292.md">车俊卸任浙江书记前 其弟安徽高官车建军落马</a></li>
 <li><a href="/topimagenews/20200907/1392429.md">玩火？中共或招美金融核打击 官方认栽!芯片需6000道工序 斥资千亿港珠澳大桥免费没人去</a></li>
-<li><a href="/bannedvideo/20200907/1392083.md">突发：又一轮大驱逐！中国拒续美媒记者签证，暗示全员逐客令！【字幕版】</a></li>
+<li><a href="/cbnews/20200907/1392292.md">车俊卸任浙江书记前 其弟安徽高官车建军落马</a></li>
 <li><a href="/bannedvideo/20200907/1392257.md">欧洲刚刚宣布从中国独立，孤立中国，王毅做到了</a></li>
-<li><a href="/topimagenews/20200907/1392139.md">内幕：花钱保政权 中山网信办购五大服务</a></li>
 <li><a href="/lifebaike/20200907/1392334.md">家越住越穷！有钱人不会在家门口放这些东西</a></li>
+<li><a href="/topimagenews/20200907/1392139.md">内幕：花钱保政权 中山网信办购五大服务</a></li>
 <li><a href="/finance/20200907/1392382.md">超越G7！中国二季度GDP数据显眼过头 网友：这次尴尬了</a></li>
 <li><a href="/bannedvideo/20200907/1392284.md">今日头条评论翻车：美国太腐败！上任47天落马！习近平一年后再喊斗争！人民醒了</a></li>
 <li><a href="/topimagenews/20200907/1392476.md">中共丢领土？国防部长露口风 中共这样强制内蒙学生复课 “习近平冒着从高处摔落危险”</a></li>
+<li><a href="/cbnews/20200907/1392330.md">中印冲突打不赢就来阴的？印媒爆5青少年疑似遭受共军“绑架”</a></li>
+<li><a href="/bannedvideo/20200907/1392121.md">习近平启动囤计划：不备战也防患！拜登私下里这样评价习近平</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200908/1392596.md" target="_blank">两年后日本F-35将搭载距外飞弹  射程可覆盖俄中朝</a></li>
 <li><a href="/comments/20200908/1392588.md" target="_blank">加州大火已烧2天 罪魁祸首竟是一个派对烟雾器</a></li>
 <li><a href="/comments/20200908/1392587.md" target="_blank">致奔五的70后：狡兔三窟，一定要给自己留“后路”，别让晚年受罪</a></li>
 <li><a href="/comments/20200908/1392586.md" target="_blank">“妈妈，为什么死的不是你”，童言无忌，父母该如何引导孩子说话？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200907/1392354.md" target="_blank">蚝油双菇</a></li>
 <li><a href="/comments/20200907/1392343.md" target="_blank">她是日本最有钱的女社长！家产千亿、有250间房产！没想到她的秘密武器竟是靠&quot;脸&quot;吃饭</a></li>
 <li><a href="/comments/20200907/1392322.md" target="_blank">坏情绪是万病之源</a></li>
-<li><a href="/comments/20200907/1392321.md" target="_blank">肺纤维化了还能治疗吗？带您认识药物、呼吸、换肺3种治疗</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
 
 </ul>
 </div>
