@@ -9,25 +9,25 @@
 <li><a href="/comments/20200908/1392967.md">习近平抗疫大会闹笑话 片面歌功引质疑 世卫警告</a></li>
 <li><a href="/topimagenews/20200908/1392983.md">中共罕见主动出击大败在即 反了！习近平发小带头 几百人被抓​​​​​内蒙罢课不停</a></li>
 <li><a href="/cnnews/20200908/1392960.md">阿波罗网爆料：军中战狼戴旭上海嫖娼被压下</a></li>
-<li><a href="/cbnews/20200908/1392870.md">钟南山等获中共“共和国勋章” 网友：无耻老贼</a></li>
 <li><a href="/cbnews/20200908/1392877.md">北京豪宅保安曝有钱人“私生活内幕”</a></li>
+<li><a href="/cbnews/20200908/1392870.md">钟南山等获中共“共和国勋章” 网友：无耻老贼</a></li>
 <li><a href="/comments/20200908/1392786.md">公安部长赵克志急赴内蒙后强硬镇压开始 习近平发小红二代马晓力带头 内蒙插队知青撑蒙族人 马晓力曾要求中共高官公开财产状况 暗批刘云山高级黑 中南海谣言预言_267</a></li>
 <li><a href="/topimagenews/20200908/1392984.md">美国一份报告掀翻中国股市 大跌！恒大全国楼盘7折促销 川普连任！中共狂囤几大类</a></li>
-<li><a href="/topimagenews/20200908/1392732.md">从袜子中抽出硬盘抛入垃圾桶！国防科大学生在美被诉 未婚妻潜逃时被捕</a></li>
-<li><a href="/topimagenews/20200908/1392733.md">难以置信！江西男遭“脑控”12年 新华社曾公开吹捧“脑控武器”</a></li>
 <li><a href="/cbnews/20200908/1392929.md">冲突升级 中印边境谁先开枪？印度军方：共军先开数枪</a></li>
 <li><a href="/topimagenews/20200908/1393069.md">川普这样说普京习近平不妙 党媒又黑习近平！专拆他台 拜登要习近平帮他登大位</a></li>
 <li><a href="/baitai/20200908/1392797.md">意外！中国首富突然换人：秒杀马云马化腾 身价骇人</a></li>
 <li><a href="/topimagenews/20200908/1392826.md">美轰炸机首次飞越乌克兰 紧贴克里米亚 俄军8架战机出动 没想到…</a></li>
 <li><a href="/bannedvideo/20200908/1392989.md">太子党借内蒙事件联手倒习，责成习近平收回八条密令并向蒙族道歉</a></li>
-<li><a href="/comments/20200908/1392724.md">反了！红二代马晓力带头 内蒙插队知青撑蒙族人</a></li>
+<li><a href="/cbnews/20200909/1393245.md">史无前例！美国宣布：禁止进口中国这些产品</a></li>
 <li><a href="/bannedvideo/20200908/1392801.md">突发新闻：印度军队开枪了！两澳大利亚记者紧急逃出中国，曾逃到澳使领馆躲避！（9/7）</a></li>
 <li><a href="/bannedvideo/20200908/1393068.md">妈呀，国内开始共产啦！明抢百姓房子了，再不卖掉房子跑路就来不及啦</a></li>
+<li><a href="/bannedvideo/20200909/1393220.md">王毅又中计！马克龙收起红毯便让习近平上国际法庭：接受反人类罪审判！香港券商变天缩影：中信证券如何改变里昂证券；香港议员联署要求中国立即交回12名被拘留香港青年【字幕版】</a></li>
 <li><a href="/bannedvideo/20200909/1393160.md">太子党借内蒙事件联手倒习，责成习近平收回八条密令并向蒙古族道歉 951</a></li>
+<li><a href="/cbnews/20200909/1393246.md">彻底摊牌？马克龙强烈谴责中共</a></li>
 <li><a href="/cbnews/20200908/1392950.md">党媒刊“全世界都是中国敌人” 被指高级黑</a></li>
+<li><a href="/cnnews/20200909/1393209.md">中印边境鸣枪 中共士兵装备曝光！手持长柄关刀</a></li>
 <li><a href="/cbnews/20200909/1393154.md">惊心动魄120小时 ABC驻华记者紧急撤离中国的经过</a></li>
 <li><a href="/cbnews/20200908/1392834.md">欧洲突围碰壁 党媒再给习近平下套</a></li>
-<li><a href="/lifebaike/20200908/1392752.md">21岁女大学生咳嗽腹泻 医院确诊艾滋病 曾在酒吧兼职、交男友</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200909/1393321.md" target="_blank">陶杰：乱世无喜剧 政治正确带来21世纪愚蠢</a></li>
+<li><a href="/comments/20200909/1393319.md" target="_blank">二大爷：为什么越无知越自信 越喜欢阴谋论？</a></li>
+<li><a href="/comments/20200909/1393318.md" target="_blank">陈云飞：雅安监狱 人间地狱</a></li>
 <li><a href="/comments/20200909/1393299.md" target="_blank">邀请习XX参加我的葬礼 最后的陈述——《追魂遗言》</a></li>
 <li><a href="/comments/20200909/1393287.md" target="_blank">接种者出现不良反应 牛津开发的COVID-19 疫苗暂停测试</a></li>
 <li><a href="/comments/20200909/1393286.md" target="_blank">川普斡旋 塞尔维亚科索沃签署经济关系协议 再创成就助竞选</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200909/1393210.md" target="_blank">美国与外星人的秘密交往——超最高机密的 “泽塔行动&quot;</a></li>
 <li><a href="/comments/20200909/1393204.md" target="_blank">股价冲高回落 农夫山泉实控人当了半小时中国首富</a></li>
 <li><a href="/comments/20200909/1393199.md" target="_blank">慰问引发骚乱的黑人强奸嫌犯 贺锦丽说为他感到骄傲</a></li>
-<li><a href="/comments/20200909/1393198.md" target="_blank">抗议浪潮云涌 白俄罗斯当局提出修改宪法提前大选</a></li>
-<li><a href="/comments/20200909/1393190.md" target="_blank">评论 | 傅申奇：浅论时局</a></li>
-<li><a href="/comments/20200909/1393189.md" target="_blank">评论 | 胡平：石激起千重浪 ——红二代公开信反对当局在内蒙强推汉语教学</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
