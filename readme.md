@@ -11,23 +11,23 @@
 <li><a href="/comments/20200911/1394466.md">北京西站发生劫持人质事件 惊动公安武警三股势力 特警出动</a></li>
 <li><a href="/cbnews/20200911/1394544.md">任志强今受审被起诉四大罪名 蔡霞发推特相挺</a></li>
 <li><a href="/baitai/20200911/1394686.md">王和英:任志强开庭情况通报</a></li>
-<li><a href="/cbnews/20200911/1394597.md">中共病毒美中针锋相对！耿爽在联合国安理会被呛爆</a></li>
 <li><a href="/topimagenews/20200911/1394642.md">以色列F16深夜空袭大获全胜 俄制防空系统没反应 后面还有更大规模空袭？</a></li>
-<li><a href="/lifebaike/20200911/1394400.md">为什么西方人胆固醇持续下降 亚洲人却越来越高？</a></li>
+<li><a href="/cbnews/20200911/1394597.md">中共病毒美中针锋相对！耿爽在联合国安理会被呛爆</a></li>
 <li><a href="/cnnews/20200911/1394636.md">不给王毅面子！印度外长故意秀3人照 网喊别和谈</a></li>
 <li><a href="/topimagenews/20200911/1394634.md">警惕！12月死亡之月！预测北半球每天将有近3万人死于中共病毒</a></li>
 <li><a href="/comments/20200911/1394780.md">蔡霞披露任志强开庭情况:他一言不辩</a></li>
 <li><a href="/cnnews/20200911/1394693.md">拜登演讲到一半懵了:单子去哪了?我放口袋了呀</a></li>
 <li><a href="/cbnews/20200911/1394589.md">全文！人民日报不敢刊登的美国大使署名文章</a></li>
 <li><a href="/topimagenews/20200911/1394575.md">蓬佩奥：制裁四名试图干预美国选举的个人</a></li>
-<li><a href="/cbnews/20200911/1394519.md">印度警告：中共再踩红线就报复！想开战要付沉重代价</a></li>
 <li><a href="/topimagenews/20200911/1394753.md">李克强造新词 习近平响应？书记夺产判中国家具大王死缓 中共耍花招川普1句话破了</a></li>
-<li><a href="/bannedvideo/20200911/1394543.md">李克强消费堵点逼习近平认怂？王毅胡锡进闯祸，习挺香港义士？人日为何不敢登美大使文章</a></li>
 <li><a href="/bannedvideo/20200911/1394615.md">财经冷眼：刷屏！直辖市房价暴跌30%，北方多个特大城市楼市坍塌！开发商半价甩房，房子彻底砸在手里了！（20200911第331期）</a></li>
-<li><a href="/headline/20200911/1394700.md">任志强案开审北京戒备森严审 任拒绝认罪坚持自辩</a></li>
+<li><a href="/cbnews/20200911/1394519.md">印度警告：中共再踩红线就报复！想开战要付沉重代价</a></li>
+<li><a href="/bannedvideo/20200911/1394543.md">李克强消费堵点逼习近平认怂？王毅胡锡进闯祸，习挺香港义士？人日为何不敢登美大使文章</a></li>
 <li><a href="/topimagenews/20200911/1394829.md">不给王毅面子!印度外长故意 川普放出核弹级猛料 欧洲风向变中共四面楚歌</a></li>
+<li><a href="/headline/20200911/1394700.md">任志强案开审北京戒备森严审 任拒绝认罪坚持自辩</a></li>
 <li><a href="/comments/20200911/1394640.md">中共小兄弟朝鲜疑出大事（三）金正恩紧急下令：任何人靠近中朝边境一公里内格杀勿论 朝鲜巡逻艇向中国渔船开火 中共封锁消息</a></li>
 <li><a href="/bannedvideo/20200911/1394405.md">陈破空：事情閙大了，习近平严重抄袭！某常委下套？中共驻英大使一夜爆红。中印边界紧急增兵万人</a></li>
+<li><a href="/bannedvideo/20200911/1394631.md">王毅与蓬佩奥公开发生冲突，北京被孤立，王毅功不可没</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200912/1394920.md" target="_blank">专栏 | 夜话中南海：习近平彻底背叛了他父亲的宽容民族政策</a></li>
 <li><a href="/cbnews/20200912/1394909.md" target="_blank">“墙国”再遭灾！广西柳州强降雨爆发山洪 房毁人亡</a></li>
 <li><a href="/cbnews/20200912/1394908.md" target="_blank">任志强出庭不聘律师 拒绝认罪</a></li>
 <li><a href="/comments/20200911/1394708.md" target="_blank">曹长青∶美国的“断头台”阴影</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200911/1394474.md" target="_blank">澳洲华文媒体被染指 为中共背书</a></li>
 <li><a href="/cbnews/20200911/1394460.md" target="_blank">天亮时分：习近平才是李克强的经济“堵点”;赴美签证暴跌99.3%;美国南北战争的启示:十四亿韭菜也无法挽回中共经济的暴毙结局(政论天下第226集 20200910)</a></li>
 <li><a href="/comments/20200911/1394330.md" target="_blank">美国宪政危机：为抢劫私有财产张目的辩护</a></li>
-<li><a href="/cbnews/20200911/1394362.md" target="_blank">三大官媒未报李克强重要讲话 或涉高层权斗</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200912/1394923.md" target="_blank">美防长：9.11恐袭19周年 美国击败了全球恐怖主义</a></li>
+<li><a href="/comments/20200912/1394919.md" target="_blank">评论 | 陈光诚：中共政权黑帮化 内外合力才能攻克它</a></li>
 <li><a href="/comments/20200912/1394907.md" target="_blank">美驻UN大使：应让更多志同道合国家加入联合国 共同抗共</a></li>
 <li><a href="/comments/20200912/1394881.md" target="_blank">盐酥鸡 鸡肉酥脆多汁有技巧</a></li>
 <li><a href="/comments/20200912/1394862.md" target="_blank">沙漠中的神秘“仙女圈” ！是UFO的着陆点还是神的脚印？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200911/1394657.md" target="_blank">【微博精粹】战地女神的正脸和后手 朝鲜女特工的宁死不屈</a></li>
 <li><a href="/comments/20200911/1394640.md" target="_blank">中共小兄弟朝鲜疑出大事（三）金正恩紧急下令：任何人靠近中朝边境一公里内格杀勿论 朝鲜巡逻艇向中国渔船开火 中共封锁消息</a></li>
 <li><a href="/comments/20200911/1394639.md" target="_blank">诗人王藏夫妇被抓后 家属相继受当局打压</a></li>
-<li><a href="/comments/20200911/1394638.md" target="_blank">中印外长撤军共识成空谈 印度：共军增兵意图抢夺战略高地</a></li>
-<li><a href="/comments/20200911/1394637.md" target="_blank">宫保杏鲍菇 素菜也能吃出经典</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
