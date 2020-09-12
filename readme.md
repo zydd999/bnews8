@@ -9,7 +9,6 @@
 <li><a href="/cnnews/20200912/1395259.md">这件事在美国早已炸锅 中国大陆还是一点动静也没有</a></li>
 <li><a href="/cbnews/20200912/1395023.md">不能让粉红看见：我国面临的时局为什么越来越危险</a></li>
 <li><a href="/cbnews/20200912/1395289.md">习近平训话尴尬一幕 现场专家“装听”</a></li>
-<li><a href="/bannedvideo/20200912/1394944.md">刘亦菲梦碎！国会对木兰剧组展开调查，或涉违反制裁罪！TikTok困局难上难：北京指示掀桌走人，白宫鹰派要求直接封，投资者还在谈；遭金融制裁国企夫妇差点投资移民美国！解密文件揭中兴输血朝鲜细节【字幕版】</a></li>
 <li><a href="/bannedvideo/20200912/1395070.md">😵😵英国通灵师预言：2020下半年，中国将发生大爆乱❗🏃🏃</a></li>
 <li><a href="/cnnews/20200912/1395180.md">绝密！猎杀本拉登的美军神秘直升机首次曝光 外形科幻出人意料</a></li>
 <li><a href="/cnnews/20200912/1394998.md">中国第一贪：江绵恒</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cbnews/20200912/1394971.md">文昭：美国大使馆微博被删文，中共含泪进坑；驻英刘大使陷“色狼门”；习近平“为热乾面加油”不小心又泄底</a></li>
 <li><a href="/comments/20200912/1394984.md">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 <li><a href="/cbnews/20200912/1395236.md">静悄悄开庭：任志强案的另一个声音</a></li>
+<li><a href="/topimagenews/20200912/1395391.md">习近平释核大战信号 包围中共又有大发展 中共闯台湾要擦枪走火？</a></li>
 <li><a href="/cnnews/20200912/1395318.md">解密：美12名军人秘密被送往外星人母星球生活</a></li>
 <li><a href="/cnnews/20200912/1395217.md">近50万美元！美海关抽检家具 意外发现巨额现金</a></li>
-<li><a href="/topimagenews/20200912/1395391.md">习近平释核大战信号 包围中共又有大发展 中共闯台湾要擦枪走火？</a></li>
 <li><a href="/cnnews/20200912/1395201.md">加拿大法庭介入 调查胡锦涛之子所创公司</a></li>
 <li><a href="/headline/20200912/1395250.md">郭文贵一曲《推翻共产党》飙升全球iTunes串流下载冠军</a></li>
 <li><a href="/cnnews/20200912/1395170.md">5000中共科技间谍潜伏美国 FBI大网已撒开</a></li>
 <li><a href="/headline/20200912/1394965.md">任志强涉四大罪 少了最关键的一罪？</a></li>
 <li><a href="/baitai/20200912/1395297.md">李连杰终认对不起前妻示爱利智愿给3亿美元家产</a></li>
 <li><a href="/finance/20200912/1395315.md">外升内贬 人民币毛了 日企业排队领补贴撤离中国 东北市级政府负债上千亿</a></li>
+<li><a href="/comments/20200912/1394963.md">天津房价每平米下跌5000元 高价购房者或损失数十万元</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200913/1395493.md" target="_blank">天亮时分：抵制花木兰与恋童癖电影,且看奥巴马如何回应;为何色情狂多是左派?也说说美国的荒淫事(政论天下第227集 20200912)</a></li>
 <li><a href="/cbnews/20200913/1395490.md" target="_blank">内幕：镇压内蒙抗议 中共统战手段曝光</a></li>
 <li><a href="/cbnews/20200913/1395489.md" target="_blank">北大同学和校友谈李克强：他被打得头破血流</a></li>
 <li><a href="/cbnews/20200913/1395441.md" target="_blank">被网友嫌不好吃又贵 狗不理包子报警引议</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200912/1395032.md" target="_blank">胡锡进鼓动开战 中共西藏高调军演！网友：真不敢打</a></li>
 <li><a href="/cbnews/20200912/1395031.md" target="_blank">美官员：中共战狼外交和军事挑衅惹众怒</a></li>
 <li><a href="/cbnews/20200912/1395023.md" target="_blank">不能让粉红看见：我国面临的时局为什么越来越危险</a></li>
-<li><a href="/comments/20200912/1394984.md" target="_blank">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200913/1395491.md" target="_blank">成吉思汗征战欧亚之利器：世界上最古老的马种之一</a></li>
 <li><a href="/comments/20200913/1395485.md" target="_blank">复活一个尼安德特人，会有什么后果？科学家：人类可能承受不了</a></li>
 <li><a href="/comments/20200913/1395475.md" target="_blank">历史和谈! 阿富汗与塔利班和平谈判开幕 蓬佩奥发表讲话</a></li>
 <li><a href="/comments/20200913/1395474.md" target="_blank">科索沃总理：与美国达成经济协议是对抗中俄影响的唯一途径</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200912/1395243.md" target="_blank">因讨论经济政策 朝鲜5名官员被金正恩枪决 家人送收容所</a></li>
 <li><a href="/comments/20200912/1395242.md" target="_blank">张国荣64岁冥诞 王丹：若活到今天也会为香港哭泣</a></li>
 <li><a href="/comments/20200912/1395219.md" target="_blank">雪莉日记公开 幼时遭受的伤害从未离开</a></li>
-<li><a href="/comments/20200912/1395202.md" target="_blank">911恐攻19周年 蓬佩奥将出席阿富汗政府与塔利班首度和谈</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 
 </ul>
 </div>
