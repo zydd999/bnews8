@@ -5,16 +5,15 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20200911/1394570.md">突发：任志强开庭法院现场视频、图片流出；任志强号召全民推墙精彩视频片段（9/10）</a></li>
 <li><a href="/topimagenews/20200911/1394720.md">任志强开庭宁死不屈! 中印开战?火线入党!惊人逆转? 习下令?李克强被3大央媒封杀</a></li>
 <li><a href="/baitai/20200911/1394686.md">王和英:任志强开庭情况通报</a></li>
 <li><a href="/topimagenews/20200911/1394642.md">以色列F16深夜空袭大获全胜 俄制防空系统没反应 后面还有更大规模空袭？</a></li>
 <li><a href="/cbnews/20200911/1394597.md">中共病毒美中针锋相对！耿爽在联合国安理会被呛爆</a></li>
 <li><a href="/bannedvideo/20200912/1394879.md">突发新闻： 解放军包围东沙岛，战争一触即发（9/11）</a></li>
 <li><a href="/cnnews/20200911/1394636.md">不给王毅面子！印度外长故意秀3人照 网喊别和谈</a></li>
-<li><a href="/topimagenews/20200911/1394634.md">警惕！12月死亡之月！预测北半球每天将有近3万人死于中共病毒</a></li>
-<li><a href="/comments/20200911/1394780.md">蔡霞披露任志强开庭情况:他一言不辩</a></li>
 <li><a href="/topimagenews/20200911/1394829.md">不给王毅面子!印度外长故意 川普放出核弹级猛料 欧洲风向变中共四面楚歌</a></li>
+<li><a href="/comments/20200911/1394780.md">蔡霞披露任志强开庭情况:他一言不辩</a></li>
+<li><a href="/topimagenews/20200911/1394634.md">警惕！12月死亡之月！预测北半球每天将有近3万人死于中共病毒</a></li>
 <li><a href="/bannedvideo/20200912/1394883.md">突发：北京指示字节跳动退出谈判，关闭美国业务！日经：习近平为何要唤醒贫困时代的记忆？亲效毛泽东也欲被瞻仰；纽约9-1-1纪念活动一览【字幕版】</a></li>
 <li><a href="/cbnews/20200911/1394589.md">全文！人民日报不敢刊登的美国大使署名文章</a></li>
 <li><a href="/cnnews/20200911/1394693.md">拜登演讲到一半懵了:单子去哪了?我放口袋了呀</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/bannedvideo/20200912/1394876.md">习近平一改胡锦涛路线，严控党员数量事出有因，大数据揭开谜底！赵立坚叛变中宣部，高调重提木兰：盛赞刘亦菲美籍更是中华儿女【字幕版】</a></li>
 <li><a href="/bannedvideo/20200911/1394615.md">财经冷眼：刷屏！直辖市房价暴跌30%，北方多个特大城市楼市坍塌！开发商半价甩房，房子彻底砸在手里了！（20200911第331期）</a></li>
 <li><a href="/cnnews/20200911/1394815.md">心神恍惚?李克强大会读错字 "习近平有一种做事模式"重磅!美国务院次卿要访台</a></li>
-<li><a href="/headline/20200911/1394700.md">任志强案开审北京戒备森严审 任拒绝认罪坚持自辩</a></li>
 <li><a href="/ssgc/20200912/1394925.md">〖兲朝浮世绘〗胡锡进这是在给习近平催命呀</a></li>
+<li><a href="/headline/20200911/1394700.md">任志强案开审北京戒备森严审 任拒绝认罪坚持自辩</a></li>
 <li><a href="/comments/20200911/1394640.md">中共小兄弟朝鲜疑出大事（三）金正恩紧急下令：任何人靠近中朝边境一公里内格杀勿论 朝鲜巡逻艇向中国渔船开火 中共封锁消息</a></li>
 <li><a href="/bannedvideo/20200911/1394811.md">蔡霞：习近平四大劣势，劣劣相加</a></li>
+<li><a href="/bannedvideo/20200911/1394631.md">王毅与蓬佩奥公开发生冲突，北京被孤立，王毅功不可没</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200912/1395161.md" target="_blank">直辖市房价暴跌30% 北方多个大城市楼市坍塌</a></li>
 <li><a href="/comments/20200912/1395155.md" target="_blank">李化平：仗“义”潇男被非法经营进去了</a></li>
 <li><a href="/comments/20200912/1395140.md" target="_blank">一晃眼911都过去19年了，看看当年的帅哥川</a></li>
 <li><a href="/comments/20200912/1395139.md" target="_blank">马斯克的脑机一体根本不算啥 更狠的无芯片脑控早已投入使用</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200912/1394961.md" target="_blank">赶在禁令生效前 传华为包机赴台湾抢运芯片</a></li>
 <li><a href="/comments/20200912/1394960.md" target="_blank">ofo小黄车10亿押金退不了 涉及人数千万</a></li>
 <li><a href="/comments/20200912/1394959.md" target="_blank">英单日染病创新高 部分地区恢复禁足</a></li>
-<li><a href="/comments/20200912/1394958.md" target="_blank">2020年「喜剧野生动物摄影奖」决赛入围名单公布 围观动物界的「爆笑角逐」</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
