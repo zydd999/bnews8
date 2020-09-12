@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20200911/1394829.md">不给王毅面子!印度外长故意 川普放出核弹级猛料 欧洲风向变中共四面楚歌</a></li>
 <li><a href="/bannedvideo/20200912/1394883.md">突发：北京指示字节跳动退出谈判，关闭美国业务！日经：习近平为何要唤醒贫困时代的记忆？亲效毛泽东也欲被瞻仰；纽约9-1-1纪念活动一览【字幕版】</a></li>
 <li><a href="/cbnews/20200912/1395081.md">习近平再不猛醒将大祸临头？袁弓夷：主张把习近平定为...</a></li>
-<li><a href="/topimagenews/20200911/1394753.md">李克强造新词 习近平响应？书记夺产判中国家具大王死缓 中共耍花招川普1句话破了</a></li>
 <li><a href="/cbnews/20200912/1394908.md">任志强出庭不聘律师 拒绝认罪</a></li>
 <li><a href="/cbnews/20200912/1395023.md">不能让粉红看见：我国面临的时局为什么越来越危险</a></li>
 <li><a href="/bannedvideo/20200912/1394876.md">习近平一改胡锦涛路线，严控党员数量事出有因，大数据揭开谜底！赵立坚叛变中宣部，高调重提木兰：盛赞刘亦菲美籍更是中华儿女【字幕版】</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cnnews/20200911/1394815.md">心神恍惚?李克强大会读错字 "习近平有一种做事模式"重磅!美国务院次卿要访台</a></li>
 <li><a href="/bannedvideo/20200912/1395070.md">😵😵英国通灵师预言：2020下半年，中国将发生大爆乱❗🏃🏃</a></li>
 <li><a href="/cbnews/20200912/1394971.md">文昭：美国大使馆微博被删文，中共含泪进坑；驻英刘大使陷“色狼门”；习近平“为热乾面加油”不小心又泄底</a></li>
+<li><a href="/cnnews/20200912/1395180.md">绝密！猎杀本拉登的美军神秘直升机首次曝光 外形科幻出人意料</a></li>
 <li><a href="/cnnews/20200912/1394998.md">中国第一贪：江绵恒</a></li>
 <li><a href="/bannedvideo/20200911/1394811.md">蔡霞：习近平四大劣势，劣劣相加</a></li>
-<li><a href="/cnnews/20200912/1395180.md">绝密！猎杀本拉登的美军神秘直升机首次曝光 外形科幻出人意料</a></li>
-<li><a href="/comments/20200912/1394984.md">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 <li><a href="/cnnews/20200912/1395259.md">这件事在美国早已炸锅 中国大陆还是一点动静也没有</a></li>
+<li><a href="/comments/20200912/1394984.md">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 <li><a href="/headline/20200912/1394965.md">任志强涉四大罪 少了最关键的一罪？</a></li>
 <li><a href="/comments/20200912/1394963.md">天津房价每平米下跌5000元 高价购房者或损失数十万元</a></li>
 <li><a href="/bannedvideo/20200911/1394814.md">蔡霞指习近平四大缺陷，北戴河『习八条』可见一斑 956</a></li>
 <li><a href="/cbnews/20200912/1394920.md">专栏 | 夜话中南海：习近平彻底背叛了他父亲的宽容民族政策</a></li>
+<li><a href="/cnnews/20200912/1395170.md">5000中共科技间谍潜伏美国 FBI大网已撒开</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200912/1395328.md" target="_blank">任志强状态不错 前景如何？​​​​​​​习近平内部讲话凸显中共要完</a></li>
 <li><a href="/comments/20200912/1394984.md" target="_blank">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 <li><a href="/topimagenews/20200911/1394829.md" target="_blank">不给王毅面子!印度外长故意 川普放出核弹级猛料 欧洲风向变中共四面楚歌</a></li>
 <li><a href="/topimagenews/20200911/1394753.md" target="_blank">李克强造新词 习近平响应？书记夺产判中国家具大王死缓 中共耍花招川普1句话破了</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20200908/1392826.md" target="_blank">美轰炸机首次飞越乌克兰 紧贴克里米亚 俄军8架战机出动 没想到…</a></li>
 <li><a href="/topimagenews/20200908/1392733.md" target="_blank">难以置信！江西男遭“脑控”12年 新华社曾公开吹捧“脑控武器”</a></li>
 <li><a href="/topimagenews/20200908/1392732.md" target="_blank">从袜子中抽出硬盘抛入垃圾桶！国防科大学生在美被诉 未婚妻潜逃时被捕</a></li>
-<li><a href="/topimagenews/20200908/1392592.md" target="_blank">中美之争激化：科技、供应链、囤积重要物资…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200912/1395325.md" target="_blank">这东西到底有多强？！「三大癌症」和关节炎都能一次打击到</a></li>
 <li><a href="/comments/20200912/1395313.md" target="_blank">金正恩姑丈生前目睹2亲信遭「高射炮处决」当场吓到失禁</a></li>
 <li><a href="/comments/20200912/1395312.md" target="_blank">叫化子想过正常人的生活 结果&#8230; 只能去西天问佛祖</a></li>
 <li><a href="/comments/20200912/1395290.md" target="_blank">新造型酷似唐绮阳 昆凌大方回应</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200912/1395132.md" target="_blank">陶杰：自己找上暴虐？港府何不拍抗日乌龙的两千</a></li>
 <li><a href="/comments/20200912/1395071.md" target="_blank">枪口下不屈的歌坛天后 从天堂到地狱的等待</a></li>
 <li><a href="/comments/20200912/1395039.md" target="_blank">30天内第二个阿拉伯国家「巴林」与以色列建交 川普：历史性突破</a></li>
-<li><a href="/comments/20200912/1395038.md" target="_blank">拆解大疆无人机：核心部件仍受美国制约</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
