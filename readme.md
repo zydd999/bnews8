@@ -12,22 +12,22 @@
 <li><a href="/comments/20200911/1394780.md">蔡霞披露任志强开庭情况:他一言不辩</a></li>
 <li><a href="/cnnews/20200911/1394636.md">不给王毅面子！印度外长故意秀3人照 网喊别和谈</a></li>
 <li><a href="/topimagenews/20200911/1394829.md">不给王毅面子!印度外长故意 川普放出核弹级猛料 欧洲风向变中共四面楚歌</a></li>
-<li><a href="/topimagenews/20200911/1394634.md">警惕！12月死亡之月！预测北半球每天将有近3万人死于中共病毒</a></li>
 <li><a href="/bannedvideo/20200912/1394883.md">突发：北京指示字节跳动退出谈判，关闭美国业务！日经：习近平为何要唤醒贫困时代的记忆？亲效毛泽东也欲被瞻仰；纽约9-1-1纪念活动一览【字幕版】</a></li>
 <li><a href="/cnnews/20200911/1394693.md">拜登演讲到一半懵了:单子去哪了?我放口袋了呀</a></li>
 <li><a href="/topimagenews/20200911/1394753.md">李克强造新词 习近平响应？书记夺产判中国家具大王死缓 中共耍花招川普1句话破了</a></li>
 <li><a href="/cbnews/20200912/1394908.md">任志强出庭不聘律师 拒绝认罪</a></li>
 <li><a href="/bannedvideo/20200912/1394876.md">习近平一改胡锦涛路线，严控党员数量事出有因，大数据揭开谜底！赵立坚叛变中宣部，高调重提木兰：盛赞刘亦菲美籍更是中华儿女【字幕版】</a></li>
 <li><a href="/bannedvideo/20200912/1394944.md">刘亦菲梦碎！国会对木兰剧组展开调查，或涉违反制裁罪！TikTok困局难上难：北京指示掀桌走人，白宫鹰派要求直接封，投资者还在谈；遭金融制裁国企夫妇差点投资移民美国！解密文件揭中兴输血朝鲜细节【字幕版】</a></li>
-<li><a href="/cnnews/20200911/1394815.md">心神恍惚?李克强大会读错字 "习近平有一种做事模式"重磅!美国务院次卿要访台</a></li>
 <li><a href="/ssgc/20200912/1394925.md">〖兲朝浮世绘〗胡锡进这是在给习近平催命呀</a></li>
+<li><a href="/cnnews/20200911/1394815.md">心神恍惚?李克强大会读错字 "习近平有一种做事模式"重磅!美国务院次卿要访台</a></li>
+<li><a href="/cbnews/20200912/1395023.md">不能让粉红看见：我国面临的时局为什么越来越危险</a></li>
 <li><a href="/headline/20200911/1394700.md">任志强案开审北京戒备森严审 任拒绝认罪坚持自辩</a></li>
 <li><a href="/comments/20200911/1394640.md">中共小兄弟朝鲜疑出大事（三）金正恩紧急下令：任何人靠近中朝边境一公里内格杀勿论 朝鲜巡逻艇向中国渔船开火 中共封锁消息</a></li>
-<li><a href="/cbnews/20200912/1395023.md">不能让粉红看见：我国面临的时局为什么越来越危险</a></li>
-<li><a href="/bannedvideo/20200911/1394811.md">蔡霞：习近平四大劣势，劣劣相加</a></li>
-<li><a href="/cbnews/20200912/1394971.md">文昭：美国大使馆微博被删文，中共含泪进坑；驻英刘大使陷“色狼门”；习近平“为热乾面加油”不小心又泄底</a></li>
-<li><a href="/bannedvideo/20200911/1394631.md">王毅与蓬佩奥公开发生冲突，北京被孤立，王毅功不可没</a></li>
 <li><a href="/cbnews/20200912/1395081.md">习近平再不猛醒将大祸临头？袁弓夷：主张把习近平定为...</a></li>
+<li><a href="/cbnews/20200912/1394971.md">文昭：美国大使馆微博被删文，中共含泪进坑；驻英刘大使陷“色狼门”；习近平“为热乾面加油”不小心又泄底</a></li>
+<li><a href="/bannedvideo/20200911/1394811.md">蔡霞：习近平四大劣势，劣劣相加</a></li>
+<li><a href="/cnnews/20200912/1394998.md">中国第一贪：江绵恒</a></li>
+<li><a href="/comments/20200912/1394984.md">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200912/1395244.md" target="_blank">长沙富能案三被告遭秘密庭审 法官谎称是公开审理</a></li>
+<li><a href="/comments/20200912/1395243.md" target="_blank">因讨论经济政策 朝鲜5名官员被金正恩枪决 家人送收容所</a></li>
+<li><a href="/comments/20200912/1395242.md" target="_blank">张国荣64岁冥诞 王丹：若活到今天也会为香港哭泣</a></li>
 <li><a href="/comments/20200912/1395219.md" target="_blank">雪莉日记公开 幼时遭受的伤害从未离开</a></li>
 <li><a href="/comments/20200912/1395202.md" target="_blank">911恐攻19周年 蓬佩奥将出席阿富汗政府与塔利班首度和谈</a></li>
 <li><a href="/comments/20200912/1395185.md" target="_blank">你的头发知道你吃过什么，甚至还暴露你的消费水平</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20200912/1395021.md" target="_blank">中共为何大胆废除蒙文 逼内蒙古造反</a></li>
 <li><a href="/comments/20200912/1395020.md" target="_blank">长平观察：为“习大大”出征的花木兰</a></li>
 <li><a href="/comments/20200912/1395019.md" target="_blank">中国外交部发言人战狼语录集锦</a></li>
-<li><a href="/comments/20200912/1395018.md" target="_blank">任志强案 蔡霞：披着法律外衣镇压不同政见</a></li>
-<li><a href="/comments/20200912/1394994.md" target="_blank">美国驻北京大使馆：中华人民共和国虚伪的宣传系统</a></li>
-<li><a href="/comments/20200912/1394993.md" target="_blank">颜纯鈎：禁留学生誓将窒息中共国发展</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
