@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20200911/1394720.md">任志强开庭宁死不屈! 中印开战?火线入党!惊人逆转? 习下令?李克强被3大央媒封杀</a></li>
 <li><a href="/baitai/20200911/1394686.md">王和英:任志强开庭情况通报</a></li>
 <li><a href="/topimagenews/20200911/1394642.md">以色列F16深夜空袭大获全胜 俄制防空系统没反应 后面还有更大规模空袭？</a></li>
-<li><a href="/cbnews/20200911/1394597.md">中共病毒美中针锋相对！耿爽在联合国安理会被呛爆</a></li>
 <li><a href="/bannedvideo/20200912/1394879.md">突发新闻： 解放军包围东沙岛，战争一触即发（9/11）</a></li>
 <li><a href="/cnnews/20200911/1394636.md">不给王毅面子！印度外长故意秀3人照 网喊别和谈</a></li>
 <li><a href="/comments/20200911/1394780.md">蔡霞披露任志强开庭情况:他一言不辩</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/cbnews/20200912/1394908.md">任志强出庭不聘律师 拒绝认罪</a></li>
 <li><a href="/bannedvideo/20200912/1394876.md">习近平一改胡锦涛路线，严控党员数量事出有因，大数据揭开谜底！赵立坚叛变中宣部，高调重提木兰：盛赞刘亦菲美籍更是中华儿女【字幕版】</a></li>
 <li><a href="/bannedvideo/20200911/1394615.md">财经冷眼：刷屏！直辖市房价暴跌30%，北方多个特大城市楼市坍塌！开发商半价甩房，房子彻底砸在手里了！（20200911第331期）</a></li>
-<li><a href="/cnnews/20200911/1394815.md">心神恍惚?李克强大会读错字 "习近平有一种做事模式"重磅!美国务院次卿要访台</a></li>
-<li><a href="/ssgc/20200912/1394925.md">〖兲朝浮世绘〗胡锡进这是在给习近平催命呀</a></li>
 <li><a href="/bannedvideo/20200912/1394944.md">刘亦菲梦碎！国会对木兰剧组展开调查，或涉违反制裁罪！TikTok困局难上难：北京指示掀桌走人，白宫鹰派要求直接封，投资者还在谈；遭金融制裁国企夫妇差点投资移民美国！解密文件揭中兴输血朝鲜细节【字幕版】</a></li>
+<li><a href="/ssgc/20200912/1394925.md">〖兲朝浮世绘〗胡锡进这是在给习近平催命呀</a></li>
+<li><a href="/cnnews/20200911/1394815.md">心神恍惚?李克强大会读错字 "习近平有一种做事模式"重磅!美国务院次卿要访台</a></li>
 <li><a href="/headline/20200911/1394700.md">任志强案开审北京戒备森严审 任拒绝认罪坚持自辩</a></li>
 <li><a href="/comments/20200911/1394640.md">中共小兄弟朝鲜疑出大事（三）金正恩紧急下令：任何人靠近中朝边境一公里内格杀勿论 朝鲜巡逻艇向中国渔船开火 中共封锁消息</a></li>
 <li><a href="/bannedvideo/20200911/1394811.md">蔡霞：习近平四大劣势，劣劣相加</a></li>
 <li><a href="/bannedvideo/20200911/1394631.md">王毅与蓬佩奥公开发生冲突，北京被孤立，王毅功不可没</a></li>
+<li><a href="/cbnews/20200912/1394971.md">文昭：美国大使馆微博被删文，中共含泪进坑；驻英刘大使陷“色狼门”；习近平“为热乾面加油”不小心又泄底</a></li>
 <li><a href="/comments/20200911/1394613.md">中共小兄弟朝鲜疑出大事（一） 朝鲜二号人物金与正异常隐身 习近平与金正恩互动后 美国总统川普罕见发话：永远不要低估金正恩</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200912/1395197.md" target="_blank">震惊！中国医生兜售器官移植 “买一送一”</a></li>
+<li><a href="/cbnews/20200912/1395196.md" target="_blank">忧“国药”疫苗危害世界 受害人揭遭迫害经历</a></li>
 <li><a href="/cbnews/20200912/1395177.md" target="_blank">美国驻京大使馆发帖悼911 中国网民留言两极化</a></li>
 <li><a href="/cbnews/20200912/1395176.md" target="_blank">江峰：虚伪的宣传系统：习近平老友美驻华大使长文批中共；胡锡进五点开战；中印边境 印日军事协议这一点最要中共的命</a></li>
 <li><a href="/cbnews/20200912/1395152.md" target="_blank">12港人涉偷渡遭中共扣留近2周！ 蓬佩奥表态了</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20200911/1394593.md" target="_blank">珠海一酒店突发爆炸 具体伤亡未知</a></li>
 <li><a href="/cbnews/20200911/1394594.md" target="_blank">广东掩盖冻鸡翅病毒阳性 反炒作进口鲑鱼带毒</a></li>
 <li><a href="/cbnews/20200911/1394597.md" target="_blank">中共病毒美中针锋相对！耿爽在联合国安理会被呛爆</a></li>
-<li><a href="/cbnews/20200911/1394592.md" target="_blank">江峰：神秘尖端核武器！习近平都不知道！深度分析川普大选前被透露涉核言论重大意义，中美距离热核战有多远？</a></li>
-<li><a href="/cbnews/20200911/1394589.md" target="_blank">全文！人民日报不敢刊登的美国大使署名文章</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200912/1395185.md" target="_blank">你的头发知道你吃过什么，甚至还暴露你的消费水平</a></li>
+<li><a href="/comments/20200912/1395184.md" target="_blank">手脚冰冷用葡萄就能改善吗？</a></li>
+<li><a href="/comments/20200912/1395183.md" target="_blank">忧郁的秋天：让情绪变积极的8种小秘诀</a></li>
+<li><a href="/comments/20200912/1395182.md" target="_blank">95%以上的华人都被它所困扰，却不自知！究竟是何方“妖怪”？</a></li>
+<li><a href="/comments/20200912/1395181.md" target="_blank">露是秋天白，柚香溢漫天，缓解秋燥，可能只需要一颗柚子</a></li>
 <li><a href="/comments/20200912/1395168.md" target="_blank">【要闻集粹】病毒锅甩给外太空了 好莱坞卖肉共党 胡锡进催命习近平</a></li>
 <li><a href="/comments/20200912/1395167.md" target="_blank">方方六个“关于”回应污名化批判 惭愧没有写出最悲惨人事</a></li>
 <li><a href="/comments/20200912/1395161.md" target="_blank">直辖市房价暴跌30% 北方多个大城市楼市坍塌</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20200912/1394993.md" target="_blank">颜纯鈎：禁留学生誓将窒息中共国发展</a></li>
 <li><a href="/comments/20200912/1394984.md" target="_blank">预言：冷战+热战——美国歼灭中共的双重模式</a></li>
 <li><a href="/comments/20200912/1394979.md" target="_blank">批习红二代任志强拒认罪 或获10年以上重刑？</a></li>
-<li><a href="/comments/20200912/1394978.md" target="_blank">人到中年，善良是最好的退路</a></li>
-<li><a href="/comments/20200912/1394977.md" target="_blank">让父母寒心的新“不孝” 腐蚀摧毁着传统孝道</a></li>
-<li><a href="/comments/20200912/1394963.md" target="_blank">天津房价每平米下跌5000元 高价购房者或损失数十万元</a></li>
-<li><a href="/comments/20200912/1394962.md" target="_blank">中共政府债务推动8月社会融资量翻倍</a></li>
-<li><a href="/comments/20200912/1394961.md" target="_blank">赶在禁令生效前 传华为包机赴台湾抢运芯片</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
