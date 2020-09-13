@@ -11,9 +11,9 @@
 <li><a href="/topimagenews/20200912/1395391.md">习近平释核大战信号 包围中共又有大发展 中共闯台湾要擦枪走火？</a></li>
 <li><a href="/topimagenews/20200913/1395421.md">灭共！美军备战如上演科幻大片 以军F16深夜空袭大胜 共军惨了</a></li>
 <li><a href="/cnnews/20200912/1395318.md">解密：美12名军人秘密被送往外星人母星球生活</a></li>
+<li><a href="/topimagenews/20200913/1395698.md">李开复说漏了嘴？蚂蚁集团被推上了风口浪尖 网络炸锅</a></li>
 <li><a href="/cbnews/20200913/1395504.md">中共酒泉卫星发射再次失败 网友的“担心”却增加</a></li>
 <li><a href="/finance/20200912/1395315.md">外升内贬 人民币毛了 日企业排队领补贴撤离中国 东北市级政府负债上千亿</a></li>
-<li><a href="/topimagenews/20200913/1395698.md">李开复说漏了嘴？蚂蚁集团被推上了风口浪尖 网络炸锅</a></li>
 <li><a href="/bannedvideo/20200913/1395403.md">欧阳夏丹出局！新闻联播新晋蒙古族女主播宝晓峰：央视大观园来了宝姐姐，戏言还是咒语？白邦瑞领衔编撰256页川普对华战略语录，七大领域详述中美巨变；在中国铲除微信如在美国取消信用卡：命运下周定【字幕版】</a></li>
 <li><a href="/yule/20200913/1395470.md">凤凰最美女主播的尴尬情史</a></li>
 <li><a href="/cbnews/20200913/1395490.md">内幕：镇压内蒙抗议 中共统战手段曝光</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/bannedvideo/20200913/1395547.md">唐娟在美国军装军礼演讲视频流出，家中被FBI搜出大量军装照；神秘C先生真实身份公开：中科大、分子神经生物学、斯坦福、君合律所是线索；美国铁令：撤走所有军方人员！还有多少唐娟？【字幕版】</a></li>
 <li><a href="/headline/20200913/1395480.md">伊朗处决摔跤冠军阿夫卡里 蓬佩奥谴责残忍暴行</a></li>
 <li><a href="/worldnews/usa/20200913/1395477.md">形势不妙 习近平承认关键技术受制于人</a></li>
+<li><a href="/comments/20200913/1395640.md">应对国内大乱？习近平高调悼六四军头释强烈信号</a></li>
 <li><a href="/worldnews/20200912/1395316.md">习尚未登场 刘鹤先被欧盟打脸</a></li>
 <li><a href="/yule/20200913/1395447.md">王祖贤在加拿大没有任何工作 这么多年她靠什么生活？</a></li>
-<li><a href="/yule/20200913/1395453.md">李嫣拍写真大胆露正脸 兔唇完美修复颜值高 眉眼气质像王菲</a></li>
 <li><a href="/funmedia/20200913/1395494.md">人千万不要喊穷 看完你就明白了</a></li>
-<li><a href="/bannedvideo/20200913/1395598.md">《石涛.News》「英媒爆炸新闻：习近平即将被迫下台」英国防部顾问：137个国家要求独立调查大疫情 迫使中共逼迫习近平辞职 如习拒绝中共因内讧搏击而解体 如不成功 西方文明与中共爆发冷战（12/09）</a></li>
+<li><a href="/yule/20200913/1395453.md">李嫣拍写真大胆露正脸 兔唇完美修复颜值高 眉眼气质像王菲</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
 
 </ul>
 </div>
