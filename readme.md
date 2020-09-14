@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20200913/1395750.md">习近平将被迫下台？中共新领导人会是谁？中国局势在急剧恶化 将进入不稳定阶段 中南海谣言预言_275</a></li>
 <li><a href="/comments/20200913/1395744.md">川普出招震撼中共官场 传数万亿海外资产无人敢认领</a></li>
-<li><a href="/cbnews/20200913/1395723.md">周永康 孙力军 马建 真正的落马原因竟然是….</a></li>
 <li><a href="/cnnews/20200914/1395910.md">大陆查税风暴扩大 扫荡人头帐户</a></li>
 <li><a href="/cnnews/20200913/1395778.md">200亿私募老板被妻子举报 多名女下属发展成情妇</a></li>
 <li><a href="/cnnews/20200914/1395899.md">中共常委集体秀危险信号 不得了！美CDC改变筛查方式 活摘器官国际化巴铁不干了</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/bannedvideo/20200914/1395882.md">突发：TikTok交易破裂！字节跳动宣布拒售算法，退出谈判！【字幕版】</a></li>
 <li><a href="/comments/20200914/1395951.md">灭绝人性！大屠杀骇人听闻 青年妇女遭集体强暴后杀害 道县成人间地狱</a></li>
 <li><a href="/cbnews/20200914/1395927.md">响应“内循环”？大陆公厕现怪异对联</a></li>
-<li><a href="/baitai/20200913/1395767.md">张文宏：全球冠病致死率降至1%以下时 世界将逐渐全面开放</a></li>
 <li><a href="/bannedvideo/20200914/1396054.md">李克强再次挑战一尊，习近平开始说软话，面对现实，不得不低头</a></li>
-<li><a href="/topimagenews/20200913/1395801.md">惊人内幕:卡中共脖子还有猪 川普掐住中国科技业“命门” 吓坏国际银行家马上行动</a></li>
 <li><a href="/bannedvideo/20200914/1395980.md">突发：北京致命一击！微软宣布交易失败：TikTok拒绝出售！甲骨文成唯一幸存者：48小时大限将至，只剩股权重组一条路，拟以非常规方式牵手财团成为TikTok技术伙伴，北京或最后一刻再搅局！【字幕版】</a></li>
+<li><a href="/baitai/20200913/1395767.md">张文宏：全球冠病致死率降至1%以下时 世界将逐渐全面开放</a></li>
+<li><a href="/topimagenews/20200913/1395801.md">惊人内幕:卡中共脖子还有猪 川普掐住中国科技业“命门” 吓坏国际银行家马上行动</a></li>
+<li><a href="/topimagenews/20200914/1395884.md">李开复说漏！蚂蚁什么最敏感？北京心碎！韩否认这件事 苹果这事美国炸锅中国没动静</a></li>
 <li><a href="/bannedvideo/20200913/1395820.md">刘亦菲狂言犯大忌，吓坏迪斯尼：木兰败走火焰山；唐娟家中被FBI查出大量军装照，神秘C先生身份公开；央视新晋“宝姐姐”，欧阳夏丹出局；耿潇男夫妇刑拘；256页对华战略出炉 |华尔街网报合辑【字幕版】</a></li>
 <li><a href="/bannedvideo/20200913/1395859.md">王毅外交灾难重挫习近平，个个变脸处处变天！习近平24小时内将被欧盟高层盘问，香港新疆南海台湾污点耻辱伤疤挨个揭；谈判前北京对德国下毒手，进口禁令是下马威：宁可砸自己的脚，也不能长敌人威风！【字幕版】</a></li>
-<li><a href="/topimagenews/20200914/1395884.md">李开复说漏！蚂蚁什么最敏感？北京心碎！韩否认这件事 苹果这事美国炸锅中国没动静</a></li>
-<li><a href="/yule/20200914/1395913.md">与妻子双双入狱 从巨星沦为路人 如今满头华发走穴为生</a></li>
-<li><a href="/ssgc/20200914/1395934.md">〖兲朝浮世绘〗野国师给中共支招：把中共逼急了就毁灭全世界</a></li>
-<li><a href="/topimagenews/20200913/1395867.md">川普胜利在望 灭共！美军造全能导弹 小侦察机都成大杀器 中共卫星发射再失败</a></li>
 <li><a href="/cbnews/20200914/1396094.md">许多中国留学生收到美国的一封信 如坠冰窟</a></li>
+<li><a href="/ssgc/20200914/1395934.md">〖兲朝浮世绘〗野国师给中共支招：把中共逼急了就毁灭全世界</a></li>
+<li><a href="/yule/20200914/1395913.md">与妻子双双入狱 从巨星沦为路人 如今满头华发走穴为生</a></li>
+<li><a href="/topimagenews/20200913/1395867.md">川普胜利在望 灭共！美军造全能导弹 小侦察机都成大杀器 中共卫星发射再失败</a></li>
+<li><a href="/health/20200914/1396000.md">茶叶与癌症的关系惊呆了所有人…看完你还喝不喝茶？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 
 </ul>
 </div>
