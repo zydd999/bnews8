@@ -6,27 +6,27 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20200915/1396454.md">欧盟巨头当面对峙提4大要求，习近平一言不发不回应！中国缺席记者会，欧盟指不会再被利用；TikTok甲骨文交易披露：张一鸣许就业总部税收三大承诺换放行，出售改合作；美核武负责人警告中国军力威胁【字幕版】</a></li>
-<li><a href="/topimagenews/20200915/1396412.md">美媒绝不报 川普要哭了 中共遇强敌！印新隧道直达边境 美军2巨舰闯南海要来个大的</a></li>
 <li><a href="/bannedvideo/20200915/1396437.md">专家：习近平有重大心理缺陷 963</a></li>
-<li><a href="/ssgc/20200915/1396500.md">〖兲朝浮世绘〗中美断交很快就会成为事实</a></li>
 <li><a href="/comments/20200915/1396466.md">日本新首相诞生，中共的新一轮噩梦</a></li>
+<li><a href="/ssgc/20200915/1396500.md">〖兲朝浮世绘〗中美断交很快就会成为事实</a></li>
 <li><a href="/bannedvideo/20200915/1396634.md">新闻播报：习近平被欧洲领袖当面批评、习恼羞成怒谩骂人权教师爷；美禁止从新疆进口棉花等产品；1700家日企撤离中国；余茂春被逐出族谱（含视频）（9/14）</a></li>
 <li><a href="/headline/20200915/1396569.md">国民党取消厦门赴会 央视主持人为何要砸锅</a></li>
 <li><a href="/cbnews/20200915/1396445.md">美驻华大使将离职 分析：实质降级对中外交关系</a></li>
 <li><a href="/topimagenews/20200915/1396667.md">【阿波罗网编译】美国惊爆大漏洞！美确诊人数 中共竟能遥控指挥？</a></li>
-<li><a href="/headline/20200915/1396530.md">“中国把路都堵绝了” 布兰斯塔德离任显示美国对华接触政策已死</a></li>
 <li><a href="/topimagenews/20200915/1396933.md">川普撤大使有几层意思？习近平晕了 敢召回崔天凯？北京大使回美要做大事</a></li>
-<li><a href="/bannedvideo/20200915/1396675.md">习近平写不出司徒雷登，憋出三字土话反击指责；会谈无果中方对外提前宣布胜利，默克尔透露：习近平渴求协议意愿今天特别强烈！崔天凯请辞无门，羡布兰斯塔德走的潇洒！甲骨文备胎扶正上位史【字幕版】</a></li>
+<li><a href="/headline/20200915/1396530.md">“中国把路都堵绝了” 布兰斯塔德离任显示美国对华接触政策已死</a></li>
 <li><a href="/bannedvideo/20200915/1396723.md">新闻播报：习近平被欧洲领袖当面批评、习恼羞成怒谩骂人权教师爷；美禁止从新疆进口棉花等产品；1700家日企撤离中国；余茂春被逐出族谱（9/14）</a></li>
-<li><a href="/finance/20200915/1396759.md">一个月跑路15家、倒闭的数不过来 这个行业终于要凉了</a></li>
+<li><a href="/bannedvideo/20200915/1396675.md">习近平写不出司徒雷登，憋出三字土话反击指责；会谈无果中方对外提前宣布胜利，默克尔透露：习近平渴求协议意愿今天特别强烈！崔天凯请辞无门，羡布兰斯塔德走的潇洒！甲骨文备胎扶正上位史【字幕版】</a></li>
 <li><a href="/topimagenews/20200915/1396918.md">美断供 中共国产大飞机玩完 华为鸿蒙抄袭安卓坐实 英伟达并购安谋北京提心</a></li>
-<li><a href="/bannedvideo/20200915/1396726.md">一位女士在招商银行存了200美金，被告知不能取出来了，除非换成人民币。顾客责问：今后谁还敢把美金存到招商银行？| #大纪元新闻网</a></li>
+<li><a href="/finance/20200915/1396759.md">一个月跑路15家、倒闭的数不过来 这个行业终于要凉了</a></li>
 <li><a href="/cbnews/20200915/1396803.md">美国禁令正式生效！ 华为断供被曝没有应急计划</a></li>
+<li><a href="/bannedvideo/20200915/1396726.md">一位女士在招商银行存了200美金，被告知不能取出来了，除非换成人民币。顾客责问：今后谁还敢把美金存到招商银行？| #大纪元新闻网</a></li>
 <li><a href="/cbnews/20200915/1396609.md">战狼王毅给习近平带来灾难 欧盟变脸世界变天</a></li>
-<li><a href="/finance/20200915/1396462.md">华为鸿蒙OS2.0抄袭安卓坐实？！网友曝：连包名都没改</a></li>
 <li><a href="/cbnews/20200915/1396703.md">中共政权灭亡的十大征兆全齐了</a></li>
+<li><a href="/finance/20200915/1396462.md">华为鸿蒙OS2.0抄袭安卓坐实？！网友曝：连包名都没改</a></li>
 <li><a href="/bannedvideo/20200915/1396563.md">任志强号召全民推倒防火墙，大外宣集体声讨｜【讨伐任大炮】｜经典搞笑合集尽在大陆新闻解毒｜精彩集锦片段回顾23</a></li>
 <li><a href="/topimagenews/20200915/1396745.md">州政府拼死阻止川普开会！数以万计民众潮水般涌向川普找的临时地点…</a></li>
+<li><a href="/cbnews/20200915/1396711.md">党媒秀军机90度高难度爬升 网友笑喷：遥控飞机</a></li>
 <li><a href="/bannedvideo/20200915/1396540.md">党不叫我们知道的那些事| 真相传媒</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
