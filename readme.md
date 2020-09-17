@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20200917/1397974.md">彭丽媛隐身9个月终露面 大谈习的头痛事</a></li>
 <li><a href="/bannedvideo/20200917/1397711.md">川普惊人之语：习近平聪明狡诈！魏凤和带话：我们亏欠美国最多！习近平要统战自己人，民企遇危机；蓬佩奥卢比奥巴尔公开反对甲骨文TikTok交易，纳瓦罗如何选边站？| 今日华尔街2020-9-16【字幕版】</a></li>
 <li><a href="/cbnews/20200917/1397786.md">疫情到底多严重？！瑞丽建成方舱医院 网友：超神速</a></li>
-<li><a href="/bannedvideo/20200917/1397843.md">正在酝酿的第三次世界大战，将会使中国人口减少2亿人，唯一能够阻止的就是…...</a></li>
 <li><a href="/topimagenews/20200917/1398027.md">帮中国老百姓出了口恶气！美国禁令一出 中共全面监控计划泡汤</a></li>
+<li><a href="/bannedvideo/20200917/1397843.md">正在酝酿的第三次世界大战，将会使中国人口减少2亿人，唯一能够阻止的就是…...</a></li>
 <li><a href="/comments/20200917/1397968.md">川普：习近平非常狡猾 一个不可思议的人 我手里有所有的王牌 中南海谣言预言_277</a></li>
 <li><a href="/cbnews/20200917/1397998.md">中印边境冲突 印防长首爆中共“重大伤亡”</a></li>
 <li><a href="/comments/20200917/1397854.md">赵紫阳母亲终身反对共产党 她对赵的告诫一语成谶：“你给共产党拉套，不会有好结果。” 母子政见不同 赵数十年从未回过河南老家也未给母亲送终 赵紫阳晚年支持孙女儿信仰基督教当传教士 中南海不可告人的秘密_178</a></li>
 <li><a href="/ssgc/20200917/1397776.md">〖兲朝浮世绘〗新版公私合营来了 港澳台企业都不放过</a></li>
 <li><a href="/health/20200917/1397811.md">它是比糖和盐更“可怕”的调味剂 我们却可能每天都在吃</a></li>
 <li><a href="/cbnews/20200917/1397842.md">烧光153亿！这家曾被寄予厚望的企业是骗局？</a></li>
+<li><a href="/bannedvideo/20200917/1397996.md">习近平加速彻底失控，根本停不下来！闫丽梦WTO内蒙古海南台湾日本美国助力，中共咋整？</a></li>
 <li><a href="/lifebaike/20200917/1397826.md">清华博士一封信打脸千万父母：为什么父母越无私 孩子越自私？</a></li>
 <li><a href="/baitai/20200917/1397985.md">＂常熟第一美人＂曾凭姿色混迹上流 靠借钱＂赚＂17亿</a></li>
 <li><a href="/cbnews/20200917/1397783.md">突发：甲骨文TikTok提议未能满足美国安全条件！拍板仍在川普</a></li>
 <li><a href="/health/20200917/1397795.md">27岁男子 心梗离世 医生：这2种东西吃太多 血管容易被堵死</a></li>
-<li><a href="/bannedvideo/20200917/1397996.md">习近平加速彻底失控，根本停不下来！闫丽梦WTO内蒙古海南台湾日本美国助力，中共咋整？</a></li>
 <li><a href="/bannedvideo/20200917/1397710.md">震惊！华裔女子在冲击急诊室，阻挠抢救遭歹徒枪击生命垂危的黑命贵闹事现场被逮捕！ 华人家长只重成绩上名校的教育理念有多错？ 纳姐邀请几位华裔家长来讨论：如何从极左校园拯救自己的孩子！</a></li>
 <li><a href="/cnnews/20200917/1397781.md">疫情堪忧？！网友曝：钟南山到达瑞丽</a></li>
+<li><a href="/cbnews/20200917/1398034.md">人大教授致信汪洋 动议习近平辞去党政军一切职务</a></li>
 <li><a href="/bannedvideo/20200916/1397603.md">中国外交官遭澳洲警方调查截获内部通信记录；川普指习近平诡计多端</a></li>
-<li><a href="/headline/20200917/1397863.md">英媒：外逃中国病毒专家闫丽梦推特账号被封   或与新冠来源观点有关</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200917/1398242.md" target="_blank">《共产党毁灭人类暴政录》</a></li>
 <li><a href="/cbnews/20200917/1398234.md" target="_blank">独家：阎丽梦论文乃重磅炸弹对国际社会有三个重要提示</a></li>
 <li><a href="/cbnews/20200917/1398225.md" target="_blank">分析一下闫丽梦的最新文章 有很多有意思的地方</a></li>
 <li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200917/1397842.md" target="_blank">烧光153亿！这家曾被寄予厚望的企业是骗局？</a></li>
 <li><a href="/cbnews/20200917/1397786.md" target="_blank">疫情到底多严重？！瑞丽建成方舱医院 网友：超神速</a></li>
 <li><a href="/cbnews/20200917/1397764.md" target="_blank">阅读转法轮 江苏多位民众遭中共绑架判刑</a></li>
-<li><a href="/cbnews/20200917/1397736.md" target="_blank">美司法部起诉5中共黑客 涉向逾百间公司发动网络攻击</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
