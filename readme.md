@@ -15,8 +15,8 @@
 <li><a href="/bannedvideo/20200918/1398480.md">假的，都是假的！ 哪有什么救灾，看到最后才发现，原来又是党媒在摆拍“正能量”| #大纪元新闻网</a></li>
 <li><a href="/yule/20200918/1398681.md">范冰冰高清近照疯传 网友吓坏认不出</a></li>
 <li><a href="/topimagenews/20200918/1398855.md">官方封杀:中国房市法拍屋剧增 跑路倒闭无数 这行业终要凉 失业严重中共这招灵吗？</a></li>
-<li><a href="/cbnews/20200918/1398637.md">驱逐党员启动？党员亲属移民遭拒、旅游签证当场遣返</a></li>
 <li><a href="/comments/20200918/1398846.md">美国来真的了！中共党员来美旅游被海关当场遣返</a></li>
+<li><a href="/cbnews/20200918/1398637.md">驱逐党员启动？党员亲属移民遭拒、旅游签证当场遣返</a></li>
 <li><a href="/baitai/20200918/1398555.md">华男下药迷奸处女被抓！全过程曝光</a></li>
 <li><a href="/topimagenews/20200918/1398671.md">措辞极其严厉！美高官：中共是一个无法无天的恶霸</a></li>
 <li><a href="/cnnews/20200918/1398789.md">美国出手挺台「重返联合国」 耿爽不爽了</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200919/1399028.md" target="_blank">美国驻华大使离任前批评 中共最初处理疫情不当</a></li>
 <li><a href="/cbnews/20200918/1398952.md" target="_blank">美国下令封禁微信和TikTok，微信禁令周日生效</a></li>
 <li><a href="/cbnews/20200918/1398871.md" target="_blank">突发：美商务部正式宣布微信禁令！禁止下载更新9月20日正式生效</a></li>
 <li><a href="/cbnews/20200918/1398753.md" target="_blank">中共军方人士逃亡欧洲 向美透中共生化武器信息</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20200918/1398415.md" target="_blank">被中国外交部指“居心叵测” 澳洲青年柏乐志表示“震惊”</a></li>
 <li><a href="/cbnews/20200918/1398406.md" target="_blank">第二名叛逃者将中共生化武器信息告知美国</a></li>
 <li><a href="/cbnews/20200918/1398385.md" target="_blank">AIT前副处长 台湾女婿傅德恩将任美驻中代办</a></li>
-<li><a href="/cbnews/20200918/1398384.md" target="_blank">网友：习近平、金正恩视察怎么都喜欢掀盖呢？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200919/1399027.md" target="_blank">福克斯主播警告:左派富豪正与布尔什维克结成邪恶联盟</a></li>
 <li><a href="/topimagenews/20200919/1398980.md" target="_blank">川普连环计 习近平中招 中共金援黑命贵 揭秘华人进步会 美35万幽灵选民关系你我命运</a></li>
 <li><a href="/topimagenews/20200918/1398855.md" target="_blank">官方封杀:中国房市法拍屋剧增 跑路倒闭无数 这行业终要凉 失业严重中共这招灵吗？</a></li>
 <li><a href="/topimagenews/20200918/1398671.md" target="_blank">措辞极其严厉！美高官：中共是一个无法无天的恶霸</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20200915/1397006.md" target="_blank">欧盟和习近平干起来了？ 中共内斗激烈三大系被剿灭 内部曝中共在内蒙没得逞</a></li>
 <li><a href="/topimagenews/20200915/1396933.md" target="_blank">川普撤大使有几层意思？习近平晕了 敢召回崔天凯？北京大使回美要做大事</a></li>
 <li><a href="/topimagenews/20200915/1396918.md" target="_blank">美断供 中共国产大飞机玩完 华为鸿蒙抄袭安卓坐实 英伟达并购安谋北京提心</a></li>
-<li><a href="/topimagenews/20200915/1396745.md" target="_blank">州政府拼死阻止川普开会！数以万计民众潮水般涌向川普找的临时地点…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200919/1399023.md" target="_blank">威州竞选集会 川普炮轰拜登大量外包美国工作</a></li>
+<li><a href="/comments/20200919/1399019.md" target="_blank">评论 | 陈光诚：美国庆祝宪法日 中共绑架又作恶</a></li>
 <li><a href="/comments/20200919/1398991.md" target="_blank">发现围绕银河系中心黑洞公转最快的恒星，速度飞快不寻常</a></li>
 <li><a href="/comments/20200919/1398976.md" target="_blank">史上最大一笔环境罚单，加拿大将款项用之于民</a></li>
 <li><a href="/comments/20200919/1398958.md" target="_blank">李升基爆出50年一遇超旺「八字命格」 网友热搜</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200918/1398776.md" target="_blank">微博将禁止登录逝者账号 或涉李文亮&quot;哭墙&quot;</a></li>
 <li><a href="/comments/20200918/1398766.md" target="_blank">中共派汉族假“表兄”强行入住 维吾尔妇女担心被强奸</a></li>
 <li><a href="/comments/20200918/1398740.md" target="_blank">印度神秘特种部队惊人背景首亮相 与共军作战是精锐藏军终极梦想</a></li>
-<li><a href="/comments/20200918/1398739.md" target="_blank">【COVID-19 疫情】全球民调：59%民众估计年底不会出现疫苗 25% 拒绝注射疫苗</a></li>
-<li><a href="/comments/20200918/1398738.md" target="_blank">爆炒什锦双菇</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 
 </ul>
 </div>
