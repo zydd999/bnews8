@@ -9,20 +9,20 @@
 <li><a href="/cnnews/20200919/1399016.md">不要命?有人在习近平访湖南大学必经之路写上这个</a></li>
 <li><a href="/topimagenews/20200918/1398855.md">官方封杀:中国房市法拍屋剧增 跑路倒闭无数 这行业终要凉 失业严重中共这招灵吗？</a></li>
 <li><a href="/cnnews/20200918/1398928.md">川普逼得习近平再次表态 一举把中美关系连降2级 狂文要中国人为中共陪葬</a></li>
+<li><a href="/bannedvideo/20200919/1399026.md">突发！北京机场附近发生爆炸！死伤不明！ #大纪元新闻网</a></li>
 <li><a href="/cbnews/20200919/1399072.md">习近平站在10米大圈的中心和圈外民众“亲切交流”</a></li>
 <li><a href="/comments/20200918/1398846.md">美国来真的了！中共党员来美旅游被海关当场遣返</a></li>
-<li><a href="/bannedvideo/20200919/1399026.md">突发！北京机场附近发生爆炸！死伤不明！ #大纪元新闻网</a></li>
-<li><a href="/headline/20200919/1398995.md">彭博社报道北京将投放9.5万亿人民币研制芯片，其优先程度如同当年制造原子弹</a></li>
 <li><a href="/bannedvideo/20200919/1399063.md">北京顺义通州交界发生爆炸，网友在顺义南庄头村拍到消防车赶往爆炸现场。| #大纪元新闻网</a></li>
+<li><a href="/headline/20200919/1398995.md">彭博社报道北京将投放9.5万亿人民币研制芯片，其优先程度如同当年制造原子弹</a></li>
 <li><a href="/cbnews/20200919/1399073.md">中国记者国安部解放军身份被查！军情五处急发谍报</a></li>
+<li><a href="/comments/20200919/1399309.md">英国预言家：谁是下届美国总统 中国有大变~</a></li>
 <li><a href="/bannedvideo/20200919/1399083.md">美国禁微信抖音，搬起石头砸自己的脚，扇驻华大使“耳光”，这么快得现世报！</a></li>
 <li><a href="/comments/20200919/82684.md">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/headline/20200919/1029106.md">美国科学家再次证明：引发大疫情的是人造冠状病毒不是蝙蝠的自然病毒</a></li>
-<li><a href="/comments/20200919/1399309.md">英国预言家：谁是下届美国总统 中国有大变~</a></li>
 <li><a href="/cnnews/20200919/1399325.md">私用日本外宾护照 邓小平翻译上演惊天大逃亡</a></li>
+<li><a href="/headline/20200919/1029106.md">美国科学家再次证明：引发大疫情的是人造冠状病毒不是蝙蝠的自然病毒</a></li>
 <li><a href="/cbnews/20200919/1399300.md">习近平老友揭中共瞒疫：全世界发现中共说谎</a></li>
-<li><a href="/ssgc/20200919/1399009.md">〖兲朝浮世绘〗不敢惹美国人，哪怕仅仅是美国籍</a></li>
 <li><a href="/cbnews/20200919/1399280.md">美情报部门解密卫星图：中国进行空前军事集结</a></li>
+<li><a href="/ssgc/20200919/1399009.md">〖兲朝浮世绘〗不敢惹美国人，哪怕仅仅是美国籍</a></li>
 <li><a href="/cnnews/20200919/1399233.md">北京通州和顺义交界处发生大爆炸 火光冲天</a></li>
 <li><a href="/bannedvideo/20200919/1399013.md">要文：西点军校专家：一旦中国输掉未来的战争，混乱将迫在眉睫（9/18）</a></li>
 <li><a href="/headline/20200918/1398943.md">中印边境解放军轰6到位 传印军2路遭切断</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 
 </ul>
 </div>
