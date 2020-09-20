@@ -11,8 +11,8 @@
 <li><a href="/bannedvideo/20200920/1399674.md">北京深夜连环爆火光冲天 陆媒全噤声</a></li>
 <li><a href="/bannedvideo/20200920/1399667.md">美国“承认”台湾独立主权国家地位，不管你接不接受！五筒？趁机收复大陆吧，拜托了！</a></li>
 <li><a href="/comments/20200920/1399761.md">北京突发大爆炸 官媒集体噤声12小时 原因曝光</a></li>
-<li><a href="/cbnews/20200920/1399845.md">余茂春首次回应中共“族谱”除名：闹剧可休矣</a></li>
 <li><a href="/cbnews/20200920/1399973.md">中共军人被派往中印边境路上痛哭？视频热传</a></li>
+<li><a href="/cbnews/20200920/1399845.md">余茂春首次回应中共“族谱”除名：闹剧可休矣</a></li>
 <li><a href="/topimagenews/20200920/1399813.md">李克强再高调支持民企 党媒又噤声</a></li>
 <li><a href="/topimagenews/20200920/1400010.md">惨！非芯片中国工业离此不转！中共前高官批天天忽悠 习近平爆锅压不住了</a></li>
 <li><a href="/comments/20200920/1399883.md">中共常委汪洋非常时刻缺席敏感会议 打破12年惯例 央视美艳女主播惹的祸？预示中共重大危机</a></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200921/1400122.md" target="_blank">在海边捡到导弹标靶 网友：估计又脱靶了</a></li>
+<li><a href="/cbnews/20200921/1400121.md" target="_blank">薇羽看世间：【第139期 更新版】真实的周恩来（中）。</a></li>
+<li><a href="/cbnews/20200921/1400120.md" target="_blank">薇羽看世间：【中文字幕】川普在美国宪法日发表震撼演讲，提到关键问题，美国有救了！彭斯做精彩开场白。</a></li>
 <li><a href="/cbnews/20200920/1400068.md" target="_blank">第二份报告将发表 阎丽梦断定：实验室病毒“非意外泄漏”</a></li>
 <li><a href="/cbnews/20200920/1400062.md" target="_blank">蓬佩奥：恢复联合国对伊朗所有制裁</a></li>
 <li><a href="/cbnews/20200920/1400051.md" target="_blank">特朗普“祝福”甲骨文沃尔玛与TikTok合作</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20200920/1399636.md" target="_blank">中共党员来美被遣返 退党中心：尽快退党</a></li>
 <li><a href="/cbnews/20200920/1399624.md" target="_blank">一线采访：瑞丽市民：被告知禁足医院附近</a></li>
 <li><a href="/cbnews/20200920/1399623.md" target="_blank">内幕：鲜为人知的中共维稳经费用途</a></li>
-<li><a href="/cbnews/20200920/1399616.md" target="_blank">华邮评论：是时候剥夺中国的最惠国待遇了</a></li>
-<li><a href="/cbnews/20200919/1399491.md" target="_blank">石正丽再抛烟雾弹：冠状病毒溯源或永远找不到</a></li>
-<li><a href="/cbnews/20200919/1399426.md" target="_blank">加拿大政要声援退出中共</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
 
 </ul>
 </div>
