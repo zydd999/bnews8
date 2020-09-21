@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20200921/1400114.md">悄然消失的银行账户 中共外汇管制“说一套做一套”</a></li>
-<li><a href="/ccpdope/20200921/1400111.md">习找不着北的一个原因：四颗东风导弹第几发脱靶</a></li>
 <li><a href="/bannedvideo/20200921/1400164.md">台海或将开战！老共多线备战紧急动员，你还不跑等着做炮灰吗？</a></li>
+<li><a href="/ccpdope/20200921/1400111.md">习找不着北的一个原因：四颗东风导弹第几发脱靶</a></li>
 <li><a href="/ssgc/20200921/1400126.md">〖兲朝浮世绘〗我们最勇敢的的卧底胡锡进宣战了</a></li>
-<li><a href="/cbnews/20200920/1400068.md">第二份报告将发表 阎丽梦断定：实验室病毒“非意外泄漏”</a></li>
 <li><a href="/topimagenews/20200921/1400202.md">印度突然划出禁飞区 无意间暴露绝密情报 上千枚导弹或已就绪</a></li>
 <li><a href="/cbnews/20200921/1400162.md">红二代教授蔡霞再曝：中国人普遍存在斯德哥尔摩症候群心理</a></li>
 <li><a href="/cbnews/20200921/1400146.md">川普再掐脖子？中国国产大飞机困局</a></li>
 <li><a href="/cbnews/20200921/1400321.md">老婆婚后超诡异！30岁夫怒报警 一查身份惊：差20岁…</a></li>
 <li><a href="/cbnews/20200921/1400280.md">评论大翻车！中共新规禁在微信发布7类信息 网友：想退党的注意了</a></li>
 <li><a href="/topimagenews/20200921/1400130.md">中美金融战：特朗普9/21或宣布中共是否刻意压低人民币</a></li>
-<li><a href="/comments/20200921/1400142.md">美台建交已成定局？萧美琴出任大使</a></li>
-<li><a href="/topimagenews/20200921/1400362.md">一死一伤！美穆斯林议员的共和党对手遭袭击！两位幕僚中弹倒下…</a></li>
 <li><a href="/topimagenews/20200921/1400488.md">财政大跌抢民财！中国私人银行账户悄悄消失 悲惨!航空发动机国产率为零</a></li>
-<li><a href="/bannedvideo/20200921/1400076.md">🔥🔥太灵验了❗中国第一女预言家👁️预言从未落空❗❗</a></li>
-<li><a href="/cbnews/20200921/1400144.md">传印军高层报捷！印媒：已在中方边境占领6座山峰</a></li>
+<li><a href="/comments/20200921/1400142.md">美台建交已成定局？萧美琴出任大使</a></li>
 <li><a href="/headline/20200921/1400405.md">王沪宁旧文再疯传：有必要反思文革 进行政治体制改革</a></li>
+<li><a href="/topimagenews/20200921/1400362.md">一死一伤！美穆斯林议员的共和党对手遭袭击！两位幕僚中弹倒下…</a></li>
+<li><a href="/bannedvideo/20200921/1400076.md">🔥🔥太灵验了❗中国第一女预言家👁️预言从未落空❗❗</a></li>
+<li><a href="/bannedvideo/20200921/1400377.md">财经冷眼：又一省会城市房价大跌，多个特大城市二手房挂牌量翻倍猛增，房价降20%才能脱手！（20200921第338）</a></li>
+<li><a href="/cbnews/20200921/1400403.md">中共前司法部长傅政华再失去一职务</a></li>
+<li><a href="/cbnews/20200921/1400144.md">传印军高层报捷！印媒：已在中方边境占领6座山峰</a></li>
 <li><a href="/cbnews/20200921/1400173.md">揭秘中国富豪海外藏宝图，上海凯宾斯基酒店夜宴庆典来宾是谁？</a></li>
 <li><a href="/yule/20200921/1400094.md">48岁张惠妹体重破200 仍每天七八杯奶茶</a></li>
-<li><a href="/bannedvideo/20200921/1400377.md">财经冷眼：又一省会城市房价大跌，多个特大城市二手房挂牌量翻倍猛增，房价降20%才能脱手！（20200921第338）</a></li>
 <li><a href="/topimagenews/20200921/1400225.md">日媒：安倍卸任前发表罕见谈话 敦促下届政府一件大事</a></li>
-<li><a href="/cbnews/20200921/1400403.md">中共前司法部长傅政华再失去一职务</a></li>
 <li><a href="/ssgc/20200921/1400139.md">张文宏警告：第二波疫情无法回避</a></li>
+<li><a href="/cbnews/20200921/1400346.md">云南全面进入战时状态 疫情疑嫁祸海外</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20200921/1400578.md" target="_blank">《花木兰》再被中共限制宣传 大捞一笔梦碎中国票房</a></li>
 <li><a href="/comments/20200921/1400570.md" target="_blank">肝脏好的人，手上通常有4个“标志”，来看看，你有几个？</a></li>
 <li><a href="/comments/20200921/1400548.md" target="_blank">【林忌评论】美国WeChat禁令来得太迟</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200921/1400327.md" target="_blank">他能虚心纳谏「补阙拾遗」把凉州治理得很好</a></li>
 <li><a href="/comments/20200921/1400234.md" target="_blank">大法官金斯伯格去世 上帝不站在左派一边</a></li>
 <li><a href="/comments/20200921/1400233.md" target="_blank">刘锐绍：中港齐刮“共产风” 习近平先动两种人</a></li>
-<li><a href="/comments/20200921/1400232.md" target="_blank">李平：台美越来越亲热 会不会突然建交？中共如坐针毡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 <li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
