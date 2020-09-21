@@ -12,8 +12,8 @@
 <li><a href="/cbnews/20200921/1400321.md">老婆婚后超诡异！30岁夫怒报警 一查身份惊：差20岁…</a></li>
 <li><a href="/cbnews/20200921/1400280.md">评论大翻车！中共新规禁在微信发布7类信息 网友：想退党的注意了</a></li>
 <li><a href="/cbnews/20200921/1400146.md">川普再掐脖子？中国国产大飞机困局</a></li>
-<li><a href="/headline/20200921/1400405.md">王沪宁旧文再疯传：有必要反思文革 进行政治体制改革</a></li>
 <li><a href="/topimagenews/20200921/1400557.md">揭秘习近平为何被忽悠晕了 中印边界印曝绝密共军大哭？中共禁发7类信息评论翻车</a></li>
+<li><a href="/headline/20200921/1400405.md">王沪宁旧文再疯传：有必要反思文革 进行政治体制改革</a></li>
 <li><a href="/comments/20200921/1400142.md">美台建交已成定局？萧美琴出任大使</a></li>
 <li><a href="/topimagenews/20200921/1400362.md">一死一伤！美穆斯林议员的共和党对手遭袭击！两位幕僚中弹倒下…</a></li>
 <li><a href="/cbnews/20200921/1400403.md">中共前司法部长傅政华再失去一职务</a></li>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200922/1400693.md" target="_blank">中国日报分社长承认：中共希望拜登当选</a></li>
+<li><a href="/cbnews/20200922/1400692.md" target="_blank">涉当中共代理人 纽约皇后区华裔警察被捕</a></li>
+<li><a href="/cbnews/20200922/1400691.md" target="_blank">关押四年首见八旬母 黄琦疑狱中营养不良</a></li>
+<li><a href="/cbnews/20200922/1400682.md" target="_blank">专栏 | 夜话中南海：习近平政权的“伟大民族复兴”就包含了“全民汉化”的意思</a></li>
 <li><a href="/cbnews/20200922/1400677.md" target="_blank">瑞典航天公司拒绝续约 挫中共太空扩张野心</a></li>
 <li><a href="/cbnews/20200922/1400676.md" target="_blank">振华数据爆料人鲍尔丁：中国人不满中共监控 冒险提供数据</a></li>
 <li><a href="/cbnews/20200922/1400675.md" target="_blank">武汉再现！西安外国语大学学生深夜呐喊 要求学校解封</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20200921/1400281.md" target="_blank">《环时》记者涉盗印军机密被捕 胡锡进急洗地</a></li>
 <li><a href="/cbnews/20200921/1400280.md" target="_blank">评论大翻车！中共新规禁在微信发布7类信息 网友：想退党的注意了</a></li>
 <li><a href="/cbnews/20200921/1400261.md" target="_blank">共军台海军演！「飞弹标靶」哪儿去啦…</a></li>
-<li><a href="/cbnews/20200921/1400173.md" target="_blank">揭秘中国富豪海外藏宝图，上海凯宾斯基酒店夜宴庆典来宾是谁？</a></li>
-<li><a href="/cbnews/20200921/1400162.md" target="_blank">红二代教授蔡霞再曝：中国人普遍存在斯德哥尔摩症候群心理</a></li>
-<li><a href="/cbnews/20200921/1400158.md" target="_blank">天亮时分：中美外交关系降为“代办”级;标志美台关系再度升温的三件事;中共资助“黑命贵”;川普提名大法官的胜算分析;“君子爱人以德”（政论天下第231集 20200920）</a></li>
-<li><a href="/cbnews/20200921/1400117.md" target="_blank">白宫不服判决不罢休，或拟再上诉封杀微信！</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200922/1400688.md" target="_blank">黄金空缺之争 川普：选择新大法官是我对选民的义务</a></li>
+<li><a href="/comments/20200922/1400687.md" target="_blank">习近平拟砸10万亿人民币 中国芯片大跃进？</a></li>
+<li><a href="/comments/20200922/1400686.md" target="_blank">武汉弘芯烂尾 牵出背后零出资神秘股东</a></li>
+<li><a href="/comments/20200922/1400685.md" target="_blank">科学家：外星生命可能可以在恒星内部中生存</a></li>
+<li><a href="/comments/20200922/1400680.md" target="_blank">404共和国 |庄子游：“这人要来大陆求和”事件导致国共两党政治危机</a></li>
 <li><a href="/comments/20200922/1400664.md" target="_blank">蓬佩奥：基督教信仰威力巨大 美国最好时期必彰显信仰</a></li>
 <li><a href="/comments/20200922/1400662.md" target="_blank">评论 | 魏京生：英国驻中国大使的丑闻</a></li>
 <li><a href="/comments/20200922/1400648.md" target="_blank">奔五的70后女人，你后半生的风水，是从扔掉这5样东西开始</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20200921/1400489.md" target="_blank">【微博精粹】口炮党不知“肥猪蓬”的神童副手 对你党更有深仇大恨</a></li>
 <li><a href="/comments/20200921/1400462.md" target="_blank">西安地铁“暖心一幕”登热搜 当事人现身说法直接打脸</a></li>
 <li><a href="/comments/20200921/1400442.md" target="_blank">张文宏：第二波疫情是必然的 80%无症状非常恐怖</a></li>
-<li><a href="/comments/20200921/1400441.md" target="_blank">连续遭中共关精神病院 “泼墨女孩”董瑶琼境况堪忧</a></li>
-<li><a href="/comments/20200921/1400440.md" target="_blank">一个月饼相当一个鸡腿便当？！月饼“挑食”不怕胖</a></li>
-<li><a href="/comments/20200921/1400439.md" target="_blank">韩国研究：每天刷三次牙预防心血管病</a></li>
-<li><a href="/comments/20200921/1400438.md" target="_blank">日本百岁老人增至8万，日式料理功不可没，滋味背后的道理</a></li>
-<li><a href="/comments/20200921/1400437.md" target="_blank">BTS柾国发一杯牛奶照片百万点赞 美国牛奶销量飙升</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 
 </ul>
 </div>
