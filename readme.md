@@ -12,17 +12,17 @@
 <li><a href="/topimagenews/20200920/1400010.md">惨！非芯片中国工业离此不转！中共前高官批天天忽悠 习近平爆锅压不住了</a></li>
 <li><a href="/cnnews/20200920/1399869.md">北京突发大爆炸 官媒集体噤声12小时 是这原因？</a></li>
 <li><a href="/cnnews/20200921/1400114.md">悄然消失的银行账户 中共外汇管制“说一套做一套”</a></li>
-<li><a href="/comments/20200920/1399786.md">习近平领导层为什么爱用粗鄙语言</a></li>
 <li><a href="/baitai/20200920/1399805.md">郎咸平是如何＂白嫖＂小三空姐3年 又让其背900万债务</a></li>
 <li><a href="/bannedvideo/20200920/1399967.md">突发： 9月20日12时许，G5京昆高速公路雅西段成都至西昌方向姚河坝隧道出口200米处，山体垮塌导致桥梁断裂，道路中断| #大纪元新闻网</a></li>
 <li><a href="/bannedvideo/20200920/1400024.md">习近平欲报复川普，拿中南海座上宾祭旗；口气太像习近平，删！</a></li>
 <li><a href="/ccpdope/20200921/1400111.md">习找不着北的一个原因：四颗东风导弹第几发脱靶</a></li>
 <li><a href="/cbnews/20200920/1400068.md">第二份报告将发表 阎丽梦断定：实验室病毒“非意外泄漏”</a></li>
-<li><a href="/comments/20200920/1400050.md">脂肪肝将会成肝癌主因 医生提醒：一定要避开两种饮食</a></li>
-<li><a href="/baitai/20200920/1399931.md">浙江少女疑被4名男生抬上楼顶坠亡 官方通报来了</a></li>
 <li><a href="/ssgc/20200921/1400126.md">〖兲朝浮世绘〗我们最勇敢的的卧底胡锡进宣战了</a></li>
+<li><a href="/comments/20200920/1400050.md">脂肪肝将会成肝癌主因 医生提醒：一定要避开两种饮食</a></li>
 <li><a href="/topimagenews/20200921/1400130.md">中美金融战：特朗普9/21或宣布中共是否刻意压低人民币</a></li>
+<li><a href="/baitai/20200920/1399931.md">浙江少女疑被4名男生抬上楼顶坠亡 官方通报来了</a></li>
 <li><a href="/yule/20200921/1400094.md">48岁张惠妹体重破200 仍每天七八杯奶茶</a></li>
+<li><a href="/cbnews/20200921/1400146.md">川普再掐脖子？中国国产大飞机困局</a></li>
 <li><a href="/bannedvideo/20200921/1400076.md">🔥🔥太灵验了❗中国第一女预言家👁️预言从未落空❗❗</a></li>
 <li><a href="/bannedvideo/20200920/1399957.md">习近平砸9.5万亿造芯片，任正非砸科学家，都不行，中共根本不理解芯片</a></li>
 <li><a href="/cnnews/20200920/1400037.md">砸锅！共军向川普示威变丑闻 美第六代战机免加油直达中国 环球时报记者印度被捕</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200921/1400261.md" target="_blank">共军台海军演！「飞弹标靶」哪儿去啦…</a></li>
 <li><a href="/cbnews/20200921/1400173.md" target="_blank">揭秘中国富豪海外藏宝图，上海凯宾斯基酒店夜宴庆典来宾是谁？</a></li>
 <li><a href="/cbnews/20200921/1400162.md" target="_blank">红二代教授蔡霞再曝：中国人普遍存在斯德哥尔摩症候群心理</a></li>
 <li><a href="/cbnews/20200921/1400158.md" target="_blank">天亮时分：中美外交关系降为“代办”级;标志美台关系再度升温的三件事;中共资助“黑命贵”;川普提名大法官的胜算分析;“君子爱人以德”（政论天下第231集 20200920）</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20200920/1399770.md" target="_blank">吊打中俄 美军大杀器F-22和F-35战机</a></li>
 <li><a href="/cbnews/20200920/1399759.md" target="_blank">环球时报作者涉嫌谍案被捕；废除微信禁令听证会进展更新</a></li>
 <li><a href="/cbnews/20200920/1399730.md" target="_blank">中共与民争利 企业家用脚投票 知情人：这次不走真不行</a></li>
-<li><a href="/cbnews/20200920/1399729.md" target="_blank">中共隐瞒不止 从181人到3245人 谁在隐瞒布病事件？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20200921/1400260.md" target="_blank">夺岛！美军跨8千公里陆空军演 模拟南海夺岛 剑指中共</a></li>
 <li><a href="/topimagenews/20200921/1400225.md" target="_blank">日媒：安倍卸任前发表罕见谈话 敦促下届政府一件大事</a></li>
 <li><a href="/topimagenews/20200921/1400202.md" target="_blank">印度突然划出禁飞区 无意间暴露绝密情报 上千枚导弹或已就绪</a></li>
 <li><a href="/topimagenews/20200921/1400130.md" target="_blank">中美金融战：特朗普9/21或宣布中共是否刻意压低人民币</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20200917/1398166.md" target="_blank">中共在美组织被爆资助“黑命贵”运动</a></li>
 <li><a href="/topimagenews/20200917/1398096.md" target="_blank">创纪录！美副国务卿访台 美防长重磅护航 中共军队只会演？</a></li>
 <li><a href="/topimagenews/20200917/1398029.md" target="_blank">黑命贵BLM倒光民主党选票 受暴动影响 选民超六成「强烈支持特朗普」</a></li>
-<li><a href="/topimagenews/20200917/1398027.md" target="_blank">帮中国老百姓出了口恶气！美国禁令一出 中共全面监控计划泡汤</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 <li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 
 </ul>
 </div>
