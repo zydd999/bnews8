@@ -25,8 +25,8 @@
 <li><a href="/bannedvideo/20200922/1400928.md">突发：任志强数罪并罚被重判18年，当庭服从不上诉！回顾：公开秘密庭审蹊跷现场；四罪皆重极限施压，匆匆开庭事出有因；任志强坚持不要律师，红二代有四张王牌震慑习近平【字幕版】</a></li>
 <li><a href="/cbnews/20200922/1400998.md">起诉书曝光内幕！纽约警官“向领导请示一下”领导竟然是...</a></li>
 <li><a href="/taiwannews/20200922/1401174.md">联合国大会起步 特习首日发言 国际格局变了</a></li>
+<li><a href="/cnnews/20200923/1401317.md">李克强视察上海 保镖粗暴扑上去…</a></li>
 <li><a href="/comments/20200922/1400940.md">习近平三过毛门而不入 绕过韶山赶赴长沙 七年前异常一幕重演 引外界猜测 中南海不可告人的秘密_183</a></li>
-<li><a href="/cbnews/20200922/1400753.md">文昭：大内宣自嗨炸关岛要惹祸；台湾驻美大使上线了！微信改“斩监候”还会发生什麽</a></li>
 <li><a href="/bannedvideo/20200922/1400985.md">财经冷眼：任正非挑衅习近平的背后！10万亿投资打水漂，烂尾将超雄安！举国打造庞氏骗局，新注册万家企业疯抢！（20200922第339期）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200923/1401400.md" target="_blank">1800米深海现史前文明的机场建筑？</a></li>
 <li><a href="/comments/20200923/1401373.md" target="_blank">李燕铭：青海首富肖永明被查 发家史背后浮现常委赵乐际 肖永明从餐馆老板到坐拥265亿发家史曝光</a></li>
 <li><a href="/comments/20200923/1401371.md" target="_blank">余茂春：川普为了香港人民 宁可牺牲美中贸易协议</a></li>
 <li><a href="/comments/20200923/1401359.md" target="_blank">内部文件透露 打压法轮功是中共政府的日常工作</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200922/1401158.md" target="_blank">中共扩大西藏“劳工培训”计划 被指新疆翻版</a></li>
 <li><a href="/comments/20200922/1401148.md" target="_blank">美国会报告：若中共不掩盖 大流行病本可避免</a></li>
 <li><a href="/comments/20200922/1401147.md" target="_blank">美军事期刊谈「共军犯台 」的7个因素 美军进驻台湾是上策</a></li>
-<li><a href="/comments/20200922/1401121.md" target="_blank">联合国大会全球聚焦 川普习近平都有“重要发言”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 
 </ul>
 </div>
