@@ -20,7 +20,6 @@
 <li><a href="/cbnews/20200922/1400673.md">毛泽东44周年忌日吉林出现惊人一幕</a></li>
 <li><a href="/cbnews/20200921/1400346.md">云南全面进入战时状态 疫情疑嫁祸海外</a></li>
 <li><a href="/cnnews/20200922/1400696.md">谷歌地球惊现神秘51区16米高疑似外星机器人图像</a></li>
-<li><a href="/bannedvideo/20200921/1400344.md">陕西西安外国语大学的学生们深夜集体呐喊，要求学校解封。学生爆料：9月20日晚11：30，学生集体呐喊，持续约半小时，抗议学校封闭管理，学生不能外出，有学生吐槽物价、热水等问题| #大纪元新闻网</a></li>
 <li><a href="/baitai/20200922/1400610.md">甘诚: 政治佞人习近平</a></li>
 <li><a href="/health/20200921/1400389.md">悄悄偷走寿命的5种行为 熬夜不算啥 看完榜首 很多人都改不掉</a></li>
 <li><a href="/cbnews/20200921/1400345.md">中共新规禁在微信发布7类信息 网友：官方退党指南</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20200922/1400671.md">〖兲朝浮世绘〗把下流当颂歌是这个时代的奇观</a></li>
 <li><a href="/bannedvideo/20200922/1400667.md">突发：纽约警察涉嫌成中国间谍被捕！与纽约领事馆上线密信百次披露！出身藏人获政庇成警察，反监视藏人活动！【字幕版】</a></li>
 <li><a href="/comments/20200922/1400705.md">中共拟放宽外资汇出限制 分析：金融顺差依赖增强 资本管制分化</a></li>
+<li><a href="/lifebaike/20200921/1400474.md">中介圈刷屏 豪宅700万“低价”急售 又降价50万</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200922/1400958.md" target="_blank">任志强被控四宗罪 重判18年</a></li>
+<li><a href="/cbnews/20200922/1400957.md" target="_blank">江峰：微信禁令受阻，判决书让中共心惊；台湾“大使”掀风暴；佩洛西言论转向；默克尔、习近平蜜月结束，中欧决裂</a></li>
 <li><a href="/cbnews/20200922/1400944.md" target="_blank">湖北书记应勇抗疫表彰大会当场落泪 引热议</a></li>
 <li><a href="/cbnews/20200922/1400878.md" target="_blank">我帮祖国打入纽约警察局内部！从政庇绿卡到领馆间谍</a></li>
 <li><a href="/cbnews/20200922/1400907.md" target="_blank">美军「勇敢之盾」军演 发射飞弹画面曝光</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20200922/1400675.md" target="_blank">武汉再现！西安外国语大学学生深夜呐喊 要求学校解封</a></li>
 <li><a href="/cbnews/20200922/1400674.md" target="_blank">最狠心男朋友？！北京小伙给女友做榴莲人字拖视频被刷屏</a></li>
 <li><a href="/cbnews/20200922/1400673.md" target="_blank">毛泽东44周年忌日吉林出现惊人一幕</a></li>
-<li><a href="/cbnews/20200922/1400609.md" target="_blank">“你会被关起来”：ABC前驻华分社社长首次披露逃离中国经过</a></li>
-<li><a href="/cbnews/20200921/1400367.md" target="_blank">拜登或被民主党内部打败</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200922/1400955.md" target="_blank">红二代任志强反习 被重判18年监禁 并处罚金420万元 任志强当庭表示服从法院判决不上诉 十天前后剧情反转 背后发生了什么？ 中南海不可告人的秘密_184</a></li>
 <li><a href="/comments/20200922/1400950.md" target="_blank">任志强被定四宗罪 重判18年</a></li>
 <li><a href="/comments/20200922/1400940.md" target="_blank">习近平三过毛门而不入 绕过韶山赶赴长沙 七年前异常一幕重演 引外界猜测 中南海不可告人的秘密_183</a></li>
 <li><a href="/comments/20200922/1400932.md" target="_blank">网爆中共前国家副席李源潮在家自杀身亡</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200922/1400705.md" target="_blank">中共拟放宽外资汇出限制 分析：金融顺差依赖增强 资本管制分化</a></li>
 <li><a href="/comments/20200922/1400704.md" target="_blank">南方航空公司上半年每天亏损4500万</a></li>
 <li><a href="/comments/20200922/1400688.md" target="_blank">黄金空缺之争 川普：选择新大法官是我对选民的义务</a></li>
-<li><a href="/comments/20200922/1400687.md" target="_blank">习近平拟砸10万亿人民币 中国芯片大跃进？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 
 </ul>
 </div>
