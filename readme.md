@@ -10,20 +10,20 @@
 <li><a href="/bannedvideo/20200922/1401168.md">天安门城楼要挂习近平画像</a></li>
 <li><a href="/cbnews/20200922/1400803.md">房地产要崩?公安防暴演练开发商跑路后镇压维权</a></li>
 <li><a href="/topimagenews/20200922/1401161.md">任志强被重判 习近平迎内乱 川普1句话回应共军模拟炸关岛 纽约警察做共谍最高判55年</a></li>
-<li><a href="/cnnews/hknews/20200922/1400924.md">中共耍流氓「台海不存在海峡中线」台湾怒打脸：中华民国是主权国家</a></li>
 <li><a href="/cbnews/20200922/1401059.md">任志强获刑18年 中共官媒噤声引网民议论</a></li>
+<li><a href="/cnnews/hknews/20200922/1400924.md">中共耍流氓「台海不存在海峡中线」台湾怒打脸：中华民国是主权国家</a></li>
 <li><a href="/cbnews/20200922/1400880.md">中共官场惊现贪腐秘道 “蟹卡”大流行</a></li>
 <li><a href="/bannedvideo/20200922/1401178.md">各国联合声明习近平屡教不改，川普今天对中国放狠话</a></li>
 <li><a href="/bannedvideo/20200922/1401166.md">任志强被判180年都没关系，争取明年去成都吃火锅，就等最后一根稻草了</a></li>
 <li><a href="/cbnews/20200922/1400986.md">喂料？中南海使出阴沉离间计？华日：胡春华刘鹤有分歧</a></li>
-<li><a href="/cbnews/20200922/1400729.md">习近平背后说川普坏话：拳头大就听你的？霸权霸凌霸道三霸俱全！</a></li>
 <li><a href="/cbnews/20200922/1400944.md">湖北书记应勇抗疫表彰大会当场落泪 引热议</a></li>
+<li><a href="/cbnews/20200922/1400729.md">习近平背后说川普坏话：拳头大就听你的？霸权霸凌霸道三霸俱全！</a></li>
 <li><a href="/bannedvideo/20200922/1401222.md">天安门城楼要挂习近平画像 978</a></li>
 <li><a href="/headline/20200922/1400929.md">任志强被重判18年</a></li>
-<li><a href="/bannedvideo/20200922/1400928.md">突发：任志强数罪并罚被重判18年，当庭服从不上诉！回顾：公开秘密庭审蹊跷现场；四罪皆重极限施压，匆匆开庭事出有因；任志强坚持不要律师，红二代有四张王牌震慑习近平【字幕版】</a></li>
 <li><a href="/bannedvideo/20200922/1401220.md">联合国拟踢出中共</a></li>
-<li><a href="/cbnews/20200922/1400998.md">起诉书曝光内幕！纽约警官“向领导请示一下”领导竟然是...</a></li>
 <li><a href="/cnnews/20200922/1401225.md">喂料？习近平使出阴沉离间计？中共高官连侄女外甥女也不放过！陆台美三方互动重大信号</a></li>
+<li><a href="/bannedvideo/20200922/1400928.md">突发：任志强数罪并罚被重判18年，当庭服从不上诉！回顾：公开秘密庭审蹊跷现场；四罪皆重极限施压，匆匆开庭事出有因；任志强坚持不要律师，红二代有四张王牌震慑习近平【字幕版】</a></li>
+<li><a href="/cbnews/20200922/1400998.md">起诉书曝光内幕！纽约警官“向领导请示一下”领导竟然是...</a></li>
 <li><a href="/taiwannews/20200922/1401174.md">联合国大会起步 特习首日发言 国际格局变了</a></li>
 <li><a href="/comments/20200922/1400940.md">习近平三过毛门而不入 绕过韶山赶赴长沙 七年前异常一幕重演 引外界猜测 中南海不可告人的秘密_183</a></li>
 <li><a href="/cbnews/20200922/1400753.md">文昭：大内宣自嗨炸关岛要惹祸；台湾驻美大使上线了！微信改“斩监候”还会发生什麽</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200923/1401388.md" target="_blank">天亮时分：任志强遭重判18年;抱着炸弹击鼓传花,现在引信已经烧到头;参议院将就最高法院大法官表决;思考的维度（政论天下第232集 20200922）</a></li>
 <li><a href="/cbnews/20200923/1401375.md" target="_blank">苏州幼儿园外再现随机杀人 至少1死4伤</a></li>
 <li><a href="/cbnews/20200923/1401327.md" target="_blank">川普：一提到疫情 我就对习近平很生气</a></li>
 <li><a href="/cbnews/20200923/1401299.md" target="_blank">中国大幅扩大在西藏的大规模劳工计划</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200922/1400864.md" target="_blank">前NFL球员：中国在资助黑命贵 后者再献金民主党</a></li>
 <li><a href="/cbnews/20200922/1400559.md" target="_blank">美金融犯罪执法密件流出：万亿黑钱遍布，中国商人施骗</a></li>
 <li><a href="/cbnews/20200922/1400729.md" target="_blank">习近平背后说川普坏话：拳头大就听你的？霸权霸凌霸道三霸俱全！</a></li>
-<li><a href="/cbnews/20200922/1400839.md" target="_blank">躲灾避难 “我只想告诉你一个保平安的好方法”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
