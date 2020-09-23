@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20200923/1401317.md">李克强视察上海 保镖粗暴扑上去…</a></li>
-<li><a href="/bannedvideo/20200922/1401222.md">天安门城楼要挂习近平画像 978</a></li>
 <li><a href="/cnnews/20200923/1401356.md">习近平联大峰会发言又念错字</a></li>
 <li><a href="/worldnews/20200923/1401314.md">中共代表再丢脸！联合国人权理事会拍桌子阻曝新疆集中营真相</a></li>
 <li><a href="/cbnews/20200923/1401303.md">川普对中国火力全开11连骂！习近平阴阳怪气回击</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20200923/1401544.md">余茂春：中共在香港的“四大失败”</a></li>
 <li><a href="/cbnews/20200923/1401445.md">内部文件透露 中共政府不干正事 主要的工作竟然是...</a></li>
 <li><a href="/topimagenews/20200923/1401565.md">台湾2战机遭6架共机包夹？真相曝光了…退将：形容太夸张了</a></li>
+<li><a href="/bannedvideo/20200923/1401657.md">境外消费出现异常，外汇问题大了，被美元掩盖的社会危机将总爆发</a></li>
 <li><a href="/cbnews/20200923/1401433.md">文昭：习近平川普以这种方式正式翻脸！美国退出联合国会发生什麽；台海无中线、地动山摇来</a></li>
 <li><a href="/topimagenews/20200923/1401580.md">金正恩被制裁苦了！向台湾温馨喊话：衷心期盼早日解禁</a></li>
-<li><a href="/bannedvideo/20200923/1401657.md">境外消费出现异常，外汇问题大了，被美元掩盖的社会危机将总爆发</a></li>
+<li><a href="/topimagenews/20200923/1401751.md">惊！没进口轴承中国高铁全趴 房地产要崩?公安防暴演练 猪肉储备是国家机密要见底</a></li>
 <li><a href="/ssgc/20200923/1401350.md">〖兲朝浮世绘〗如果说川普反共靠不住的话，习近平反共绝对靠得住</a></li>
 <li><a href="/bannedvideo/20200923/1401364.md">陈破空：前副主席被炸身亡？王岐山亲信遭重判！某常委散发旧文留后路？纽约藏裔警察竟是共谍</a></li>
 <li><a href="/comments/20200923/1401325.md">川普联大要求中共对全球疫情散播负全责 习近平回应</a></li>
 <li><a href="/comments/20200923/1401339.md">左撇子：阎丽梦是骗子吗？</a></li>
-<li><a href="/topimagenews/20200923/1401751.md">惊！没进口轴承中国高铁全趴 房地产要崩?公安防暴演练 猪肉储备是国家机密要见底</a></li>
+<li><a href="/topimagenews/20200923/1401662.md">猛料曝出！蔡英文和菅义伟已经通了电话？森喜朗赴台竟有“托孤”之意？</a></li>
 <li><a href="/headline/20200923/1401281.md">英特尔获特许向华为供货，白宫传达的信息令人费解</a></li>
-<li><a href="/cbnews/20200923/1401275.md">川普联大演讲：必须让中共对疫情负责</a></li>
 <li><a href="/cbnews/20200923/1401601.md">张文宏钟南山连续预警 疫情或再爆发</a></li>
+<li><a href="/cnnews/20200923/1401674.md">朱镕基当年重挫江泽民 挺温家宝上位</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
