@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20200923/1401317.md">李克强视察上海 保镖粗暴扑上去…</a></li>
 <li><a href="/cnnews/20200923/1401356.md">习近平联大峰会发言又念错字</a></li>
 <li><a href="/cbnews/20200923/1401303.md">川普对中国火力全开11连骂！习近平阴阳怪气回击</a></li>
 <li><a href="/bannedvideo/20200923/1401443.md">中共政局大震动，央视大裤衩引发了一场大清洗行动｜揭秘央视电视台的幕后故事｜【清洗央视大裤衩】｜精彩回放 第十集（第一季）</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20200923/1401580.md">金正恩被制裁苦了！向台湾温馨喊话：衷心期盼早日解禁</a></li>
 <li><a href="/bannedvideo/20200923/1401657.md">境外消费出现异常，外汇问题大了，被美元掩盖的社会危机将总爆发</a></li>
 <li><a href="/ssgc/20200923/1401350.md">〖兲朝浮世绘〗如果说川普反共靠不住的话，习近平反共绝对靠得住</a></li>
+<li><a href="/topimagenews/20200923/1401840.md">川普明确1目标祈求1件事 余茂春揭秘白宫灭共战略 马克龙联大挑战习近平</a></li>
 <li><a href="/bannedvideo/20200923/1401364.md">陈破空：前副主席被炸身亡？王岐山亲信遭重判！某常委散发旧文留后路？纽约藏裔警察竟是共谍</a></li>
 <li><a href="/cnnews/20200923/1401674.md">朱镕基当年重挫江泽民 挺温家宝上位</a></li>
-<li><a href="/topimagenews/20200923/1401840.md">川普明确1目标祈求1件事 余茂春揭秘白宫灭共战略 马克龙联大挑战习近平</a></li>
-<li><a href="/comments/20200923/1401325.md">川普联大要求中共对全球疫情散播负全责 习近平回应</a></li>
 <li><a href="/comments/20200923/1401339.md">左撇子：阎丽梦是骗子吗？</a></li>
 <li><a href="/cbnews/20200923/1401601.md">张文宏钟南山连续预警 疫情或再爆发</a></li>
 <li><a href="/topimagenews/20200923/1401662.md">猛料曝出！蔡英文和菅义伟已经通了电话？森喜朗赴台竟有“托孤”之意？</a></li>
 <li><a href="/cnnews/20200923/1401604.md">四款齐发！iPhone12发布时间终曝光</a></li>
 <li><a href="/bannedvideo/20200923/1401652.md">财经冷眼：外汇管制再升级，大量银行账户被无理由冻结！政府劝民众不要提款，18省银行借钱防挤兑！（20200923第340期）</a></li>
+<li><a href="/cnnews/20200923/1401716.md">对付北京 川普自曝曾动过这个心思</a></li>
+<li><a href="/cbnews/20200923/1401388.md">天亮时分：任志强遭重判18年;抱着炸弹击鼓传花,现在引信已经烧到头;参议院将就最高法院大法官表决;思考的维度（政论天下第232集 20200922）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200924/1401967.md" target="_blank">美曝光中共黑客对话 揭“链式”作案手法</a></li>
 <li><a href="/cbnews/20200924/1401935.md" target="_blank">陈破空：川普联大演讲，炮火全开。习近平招架不住！精彩全文</a></li>
 <li><a href="/cbnews/20200924/1401934.md" target="_blank">陈破空：美台关系步步高，距建交还有多远？</a></li>
 <li><a href="/cbnews/20200923/1401881.md" target="_blank">多边主义？余茂春酸习近平：中共没真朋友</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200923/1401445.md" target="_blank">内部文件透露 中共政府不干正事 主要的工作竟然是&#8230;</a></li>
 <li><a href="/cbnews/20200923/1401444.md" target="_blank">习近平联大峰会暗批美 学者：北京欲颠覆普世价值</a></li>
 <li><a href="/cbnews/20200923/1401303.md" target="_blank">川普对中国火力全开11连骂！习近平阴阳怪气回击</a></li>
-<li><a href="/cbnews/20200923/1401433.md" target="_blank">文昭：习近平川普以这种方式正式翻脸！美国退出联合国会发生什麽；台海无中线、地动山摇来</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200924/1401972.md" target="_blank">川普周六将提名一位女性高院大法官 他心目中都有谁？</a></li>
 <li><a href="/comments/20200924/1401960.md" target="_blank">评论 | 朱兆基：中美核武差距巨大 北京根本无法招架</a></li>
 <li><a href="/comments/20200924/1401954.md" target="_blank">证据确凿！美国会报告揭拜登儿子与中共利益关系</a></li>
 <li><a href="/comments/20200924/1401953.md" target="_blank">闹剧？白俄罗斯总统草草宣誓就职 反对派领袖宣布其无效</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200923/1401692.md" target="_blank">被曝命门掐在美国手中 中国C919商用机迟迟未能交付</a></li>
 <li><a href="/comments/20200923/1401691.md" target="_blank">什么！香港反送中纪录片竟是“三级片”？  编导团队痛心讲原委</a></li>
 <li><a href="/comments/20200923/1401678.md" target="_blank">市场买回的水果、蔬菜会残存农药吗？</a></li>
-<li><a href="/comments/20200923/1401677.md" target="_blank">任大炮炮轰小丑被反制，火药桶的自爆过程</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 
 </ul>
 </div>
