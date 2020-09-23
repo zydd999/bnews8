@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20200922/1401059.md">任志强获刑18年 中共官媒噤声引网民议论</a></li>
 <li><a href="/cnnews/20200923/1401317.md">李克强视察上海 保镖粗暴扑上去…</a></li>
 <li><a href="/cnnews/hknews/20200922/1400924.md">中共耍流氓「台海不存在海峡中线」台湾怒打脸：中华民国是主权国家</a></li>
-<li><a href="/cbnews/20200922/1400986.md">喂料？中南海使出阴沉离间计？华日：胡春华刘鹤有分歧</a></li>
-<li><a href="/bannedvideo/20200922/1401178.md">各国联合声明习近平屡教不改，川普今天对中国放狠话</a></li>
-<li><a href="/worldnews/20200923/1401314.md">中共代表再丢脸！联合国人权理事会拍桌子阻曝新疆集中营真相</a></li>
-<li><a href="/bannedvideo/20200922/1401166.md">任志强被判180年都没关系，争取明年去成都吃火锅，就等最后一根稻草了</a></li>
 <li><a href="/cnnews/20200923/1401356.md">习近平联大峰会发言又念错字</a></li>
+<li><a href="/bannedvideo/20200922/1401178.md">各国联合声明习近平屡教不改，川普今天对中国放狠话</a></li>
+<li><a href="/cbnews/20200922/1400986.md">喂料？中南海使出阴沉离间计？华日：胡春华刘鹤有分歧</a></li>
+<li><a href="/bannedvideo/20200922/1401166.md">任志强被判180年都没关系，争取明年去成都吃火锅，就等最后一根稻草了</a></li>
+<li><a href="/worldnews/20200923/1401314.md">中共代表再丢脸！联合国人权理事会拍桌子阻曝新疆集中营真相</a></li>
 <li><a href="/cbnews/20200922/1400944.md">湖北书记应勇抗疫表彰大会当场落泪 引热议</a></li>
 <li><a href="/bannedvideo/20200922/1401222.md">天安门城楼要挂习近平画像 978</a></li>
-<li><a href="/cnnews/20200922/1401225.md">喂料？习近平使出阴沉离间计？中共高官连侄女外甥女也不放过！陆台美三方互动重大信号</a></li>
 <li><a href="/bannedvideo/20200922/1401220.md">联合国拟踢出中共</a></li>
+<li><a href="/cnnews/20200922/1401225.md">喂料？习近平使出阴沉离间计？中共高官连侄女外甥女也不放过！陆台美三方互动重大信号</a></li>
 <li><a href="/headline/20200922/1400929.md">任志强被重判18年</a></li>
 <li><a href="/topimagenews/20200923/1401252.md">完胜歼20！印度飙风战机中印边界炫武 欧盟硬起来 中共大使尴尬 赢了！川普可确认大法官</a></li>
 <li><a href="/bannedvideo/20200922/1400928.md">突发：任志强数罪并罚被重判18年，当庭服从不上诉！回顾：公开秘密庭审蹊跷现场；四罪皆重极限施压，匆匆开庭事出有因；任志强坚持不要律师，红二代有四张王牌震慑习近平【字幕版】</a></li>
 <li><a href="/cbnews/20200922/1400998.md">起诉书曝光内幕！纽约警官“向领导请示一下”领导竟然是...</a></li>
 <li><a href="/taiwannews/20200922/1401174.md">联合国大会起步 特习首日发言 国际格局变了</a></li>
-<li><a href="/bannedvideo/20200922/1400985.md">财经冷眼：任正非挑衅习近平的背后！10万亿投资打水漂，烂尾将超雄安！举国打造庞氏骗局，新注册万家企业疯抢！（20200922第339期）</a></li>
-<li><a href="/comments/20200922/1400940.md">习近平三过毛门而不入 绕过韶山赶赴长沙 七年前异常一幕重演 引外界猜测 中南海不可告人的秘密_183</a></li>
+<li><a href="/ssgc/20200923/1401350.md">〖兲朝浮世绘〗如果说川普反共靠不住的话，习近平反共绝对靠得住</a></li>
 <li><a href="/comments/20200923/1401325.md">川普联大要求中共对全球疫情散播负全责 习近平回应</a></li>
+<li><a href="/bannedvideo/20200922/1400985.md">财经冷眼：任正非挑衅习近平的背后！10万亿投资打水漂，烂尾将超雄安！举国打造庞氏骗局，新注册万家企业疯抢！（20200922第339期）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200923/1401557.md" target="_blank">敢与司马懿争论、迫使诸葛亮斩马谡的曹魏名将</a></li>
 <li><a href="/comments/20200923/1401555.md" target="_blank">【微博精粹】习近平：不许合作！抖音：皇上万碎万万碎</a></li>
 <li><a href="/comments/20200923/1401536.md" target="_blank">华夏的神把“劈山救母”的神话说了两遍，为什么大孝者就可成神呢？文化大革命撕裂了人伦，现在很多人接受“父母不慈，儿女不孝”的现实，这种活而无乐的社会多么的可悲和危险</a></li>
 <li><a href="/comments/20200923/1401510.md" target="_blank">中印驻军拉达克恐成常态 观察人士：丝毫误判都可能引发灾难性后果</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200923/1401332.md" target="_blank">一张被错用了几十年的插图 打脸达尔文~</a></li>
 <li><a href="/comments/20200923/1401325.md" target="_blank">川普联大要求中共对全球疫情散播负全责 习近平回应</a></li>
 <li><a href="/comments/20200923/1401324.md" target="_blank">瑞银：中共“十四五”或不预设GDP目标</a></li>
-<li><a href="/comments/20200923/1401323.md" target="_blank">2020 特斯拉电池日，将有哪些看点？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 <li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 
 </ul>
 </div>
