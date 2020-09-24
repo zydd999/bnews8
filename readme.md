@@ -10,24 +10,24 @@
 <li><a href="/comments/20200924/1401996.md">央视美女主持叶迎春与周永康“玩车震”被抓走 欧阳夏丹被令交代与周永康关系 央视百余人涉嫌卷入两大案 十几名知名主播或美女主持被约谈 与周永康有染的主播模特多达400人 中南海不可告人的秘密_186</a></li>
 <li><a href="/comments/20200924/1402059.md">红二代惊变！蔡霞曝王岐山不救任志强的真正原因</a></li>
 <li><a href="/topimagenews/20200923/1401840.md">川普明确1目标祈求1件事 余茂春揭秘白宫灭共战略 马克龙联大挑战习近平</a></li>
-<li><a href="/cnnews/20200923/1401674.md">朱镕基当年重挫江泽民 挺温家宝上位</a></li>
-<li><a href="/headline/20200924/1402024.md">王岐山为什么不救任志强？ “红二代”的罪与罚</a></li>
-<li><a href="/topimagenews/20200923/1401662.md">猛料曝出！蔡英文和菅义伟已经通了电话？森喜朗赴台竟有“托孤”之意？</a></li>
 <li><a href="/cnnews/20200924/1402120.md">联合国大会上 官网对习近平的称呼竟然是…</a></li>
+<li><a href="/headline/20200924/1402024.md">王岐山为什么不救任志强？ “红二代”的罪与罚</a></li>
 <li><a href="/cnnews/hknews/20200924/1402153.md">中共军机扰台、南海射4弹挑衅 川普呛「够了」:不会再让这种事发生</a></li>
-<li><a href="/baitai/20200923/1401721.md">【立此存照】新时代下“指鹿为马” ：取消英语教育势在必行</a></li>
-<li><a href="/cnnews/20200923/1401716.md">对付北京 川普自曝曾动过这个心思</a></li>
 <li><a href="/funmedia/20200924/1402067.md">为何中国男人到非洲后都不愿意回国？非洲姑娘说出真正原因</a></li>
+<li><a href="/cnnews/20200923/1401716.md">对付北京 川普自曝曾动过这个心思</a></li>
+<li><a href="/baitai/20200923/1401721.md">【立此存照】新时代下“指鹿为马” ：取消英语教育势在必行</a></li>
 <li><a href="/ssgc/20200924/1401965.md">〖兲朝浮世绘〗小英上时代周刊封面了 习近平起到了很大的作用</a></li>
 <li><a href="/comments/20200924/1402014.md">北京官场连番震荡 蔡奇大管家换人 北京四高官相继被查 政协副主席李伟落马</a></li>
-<li><a href="/comments/20200924/1401954.md">证据确凿！美国会报告揭拜登儿子与中共利益关系</a></li>
 <li><a href="/cbnews/20200924/1402065.md">文昭：惊人方案：美军四个师进驻台湾？美国抗中共关键推手发话，川普为这件事可以牺牲贸易协议</a></li>
+<li><a href="/comments/20200924/1401954.md">证据确凿！美国会报告揭拜登儿子与中共利益关系</a></li>
 <li><a href="/cbnews/20200924/1401982.md">东北粮仓重创！黑龙江大坝决堤 7万亩成熟水稻被淹 损失过亿</a></li>
 <li><a href="/baitai/20200923/1401838.md">送去中印边界当炮灰? 解放军痛哭影片疯传实情却是</a></li>
 <li><a href="/cbnews/20200923/1401752.md">耍官腔？中共高官谈新疆和香港 被主持人怒呛</a></li>
-<li><a href="/lifebaike/20200923/1401671.md">鬼谷识人术：有这3种特征的人 大多人品不好 不值得深交</a></li>
 <li><a href="/cbnews/20200924/1402006.md">《最美逆行者》差评如潮 中共心虚忙关评分删帖</a></li>
+<li><a href="/cnnews/20200923/1401877.md">川普警告习近平射战斧 蔡英文菅义伟已通电话？ 金正恩向台湾温馨喊话</a></li>
 <li><a href="/comments/20200923/1401814.md">王岐山靠边 传王沪宁想当国家副主席 暗控重判任志强</a></li>
+<li><a href="/bannedvideo/20200923/1401841.md">清华教授郭于华：中国希望何在？</a></li>
+<li><a href="/comments/20200923/1401775.md">蓬佩奥智囊余茂春呛习近平：缺自知之明，没有真盟友</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200924/1402365.md" target="_blank">2020全球10大热搜景点台湾居首 牛津研究：成功抗疫可守住经济</a></li>
 <li><a href="/comments/20200924/1402346.md" target="_blank">菅义伟与韩国总统及英国首相会谈 聚焦安保领域加强合作</a></li>
 <li><a href="/comments/20200924/1402307.md" target="_blank">解析共机挑衅台海中线 美专家：只是对美台「切香肠战术」宣泄不满</a></li>
 <li><a href="/comments/20200924/1402306.md" target="_blank">鼻毛为什么会蹿出来？鼻毛旺盛是在暗示什么？老中医告诉你真相</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200924/1402089.md" target="_blank">苏晓康：战争 快点来吧</a></li>
 <li><a href="/comments/20200924/1402088.md" target="_blank">林保华：风华正盛红卫兵的末路</a></li>
 <li><a href="/comments/20200924/1402087.md" target="_blank">颜纯鈎：重判任志强 再挖一个坑</a></li>
-<li><a href="/comments/20200924/1402059.md" target="_blank">红二代惊变！蔡霞曝王岐山不救任志强的真正原因</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
 <li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 
 </ul>
 </div>
