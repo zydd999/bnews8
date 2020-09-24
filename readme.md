@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20200923/1401716.md">对付北京 川普自曝曾动过这个心思</a></li>
 <li><a href="/ssgc/20200924/1401965.md">〖兲朝浮世绘〗小英上时代周刊封面了 习近平起到了很大的作用</a></li>
 <li><a href="/comments/20200924/1402014.md">北京官场连番震荡 蔡奇大管家换人 北京四高官相继被查 政协副主席李伟落马</a></li>
-<li><a href="/comments/20200924/1401954.md">证据确凿！美国会报告揭拜登儿子与中共利益关系</a></li>
 <li><a href="/cbnews/20200924/1401982.md">东北粮仓重创！黑龙江大坝决堤 7万亩成熟水稻被淹 损失过亿</a></li>
+<li><a href="/comments/20200924/1401954.md">证据确凿！美国会报告揭拜登儿子与中共利益关系</a></li>
 <li><a href="/cbnews/20200924/1402065.md">文昭：惊人方案：美军四个师进驻台湾？美国抗中共关键推手发话，川普为这件事可以牺牲贸易协议</a></li>
 <li><a href="/baitai/20200923/1401838.md">送去中印边界当炮灰? 解放军痛哭影片疯传实情却是</a></li>
-<li><a href="/cbnews/20200923/1401752.md">耍官腔？中共高官谈新疆和香港 被主持人怒呛</a></li>
-<li><a href="/cbnews/20200924/1402006.md">《最美逆行者》差评如潮 中共心虚忙关评分删帖</a></li>
 <li><a href="/cbnews/20200924/1402154.md">【中英字幕】余茂春演讲完整版：我已成中国近代史第一汉奸；我们与林郑秘密沟通失败：香港试验的四大教训；川普唯一愿为之放弃贸易协议的事（由MacDonald-Laurier Institute授权发布）</a></li>
+<li><a href="/cbnews/20200923/1401752.md">耍官腔？中共高官谈新疆和香港 被主持人怒呛</a></li>
+<li><a href="/bannedvideo/20200924/1402251.md">李克强到上海，一句话，道尽中国经济的凄惨现状</a></li>
+<li><a href="/cbnews/20200924/1402006.md">《最美逆行者》差评如潮 中共心虚忙关评分删帖</a></li>
 <li><a href="/comments/20200923/1401814.md">王岐山靠边 传王沪宁想当国家副主席 暗控重判任志强</a></li>
 <li><a href="/cnnews/20200923/1401877.md">川普警告习近平射战斧 蔡英文菅义伟已通电话？ 金正恩向台湾温馨喊话</a></li>
-<li><a href="/bannedvideo/20200923/1401841.md">清华教授郭于华：中国希望何在？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200924/1402392.md" target="_blank">以古为镜：不可轻看誓言</a></li>
 <li><a href="/cbnews/20200924/1402369.md" target="_blank">假“网红月饼”泛滥 “ 涉案3千万！“美心”中招</a></li>
 <li><a href="/cbnews/20200924/1402326.md" target="_blank">丑闻！美参议院87页报告 揭露拜登之子与中俄金流 涉及人口贩卖</a></li>
 <li><a href="/cbnews/20200924/1402298.md" target="_blank">卫星相揭新疆380个拘留营 部分有扩充工程</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200924/1401934.md" target="_blank">陈破空：美台关系步步高，距建交还有多远？</a></li>
 <li><a href="/cbnews/20200923/1401881.md" target="_blank">多边主义？余茂春酸习近平：中共没真朋友</a></li>
 <li><a href="/cbnews/20200923/1401749.md" target="_blank">提升女性地位的是市场 而不是大法官金斯伯格</a></li>
-<li><a href="/cbnews/20200923/1401752.md" target="_blank">耍官腔？中共高官谈新疆和香港 被主持人怒呛</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200924/1402401.md" target="_blank">【要闻精粹】一国两袖上榜 习与小英赛丑美</a></li>
+<li><a href="/comments/20200924/1402395.md" target="_blank">李燕铭：习近平斩草除根 习家军廖建宇受命清洗薄熙来老巢 横扫大连与辽宁官场 廖建宇背景非同寻常 仕途与胡锦涛王岐山栗战书等5名国级高官有交集 一年半内替王岐山拿下6名副部级高官 三年内拿下近30名辽宁省管官员包括11名大连官员 廖建宇打虎全名单曝光</a></li>
+<li><a href="/comments/20200924/1402394.md" target="_blank">北京上百名访民申请游行 警方如临大敌抓走40多人</a></li>
+<li><a href="/comments/20200924/1402393.md" target="_blank">涉违反洗钱反恐法2300万次 西太平洋银行被罚13亿澳元创记录</a></li>
 <li><a href="/comments/20200924/1402365.md" target="_blank">2020全球10大热搜景点台湾居首 牛津研究：成功抗疫可守住经济</a></li>
 <li><a href="/comments/20200924/1402346.md" target="_blank">菅义伟与韩国总统及英国首相会谈 聚焦安保领域加强合作</a></li>
 <li><a href="/comments/20200924/1402307.md" target="_blank">解析共机挑衅台海中线 美专家：只是对美台「切香肠战术」宣泄不满</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20200924/1402159.md" target="_blank">美澳合作加速摆脱对华依赖重创中国稀土业</a></li>
 <li><a href="/comments/20200924/1402111.md" target="_blank">大选倒计时人民币突然下跌或酝酿巨大风险</a></li>
 <li><a href="/comments/20200924/1402110.md" target="_blank">莫讲 :强权式的校园生态：皇帝一样的老师 奴婢一样的家长</a></li>
-<li><a href="/comments/20200924/1402109.md" target="_blank">美中不断叫阵 大陆狂妄声音不惧战？</a></li>
-<li><a href="/comments/20200924/1402089.md" target="_blank">苏晓康：战争 快点来吧</a></li>
-<li><a href="/comments/20200924/1402088.md" target="_blank">林保华：风华正盛红卫兵的末路</a></li>
-<li><a href="/comments/20200924/1402087.md" target="_blank">颜纯鈎：重判任志强 再挖一个坑</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
