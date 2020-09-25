@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20200924/1402251.md">李克强到上海，一句话，道尽中国经济的凄惨现状</a></li>
 <li><a href="/topimagenews/20200924/1402458.md">败!西方断供中共坦克装甲车停驶 李嘉诚又刷屏：囤地16年被禁 决堤！东北粮仓重创</a></li>
 <li><a href="/bannedvideo/20200924/1402553.md">王沪宁祭出‘三权分立、宪政民主’反习自保</a></li>
 <li><a href="/topimagenews/20200924/1402528.md">大丑闻！拜登奥巴马重磅内幕 大炮再发威！蓬佩奥又干大事 联合国认证习皇帝?网炸锅</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cnnews/hknews/20200924/1402360.md">富豪染病 从加拿大飞香港 空姐空少全中招</a></li>
 <li><a href="/cnnews/20200924/1402278.md">北京官场连震 蔡奇“大管家”换人 四高官被查</a></li>
 <li><a href="/bannedvideo/20200924/1402460.md">制裁常委不足震慑；蓬佩奥：正谨慎权衡是否为习近平定反人类罪！习近平被封短命“殿下”，李克强头版一日游；检察官撤诉中国谍；新华社怒删文，司法部不批准，TikTok交易陷混乱 | 华尔街网报合辑【字幕版】</a></li>
+<li><a href="/worldnews/usa/20200925/1402718.md">安理会惊人一幕 美再提新冠来源 中国外交官暴怒</a></li>
 <li><a href="/bannedvideo/20200924/1402589.md">中共权贵海外资产分布表</a></li>
 <li><a href="/comments/20200924/1402306.md">鼻毛为什么会蹿出来？鼻毛旺盛是在暗示什么？老中医告诉你真相</a></li>
 <li><a href="/cnnews/20200924/1402353.md">一天跌去2700亿！特斯拉系统遭遇全球性宕机！有车主被困在沙漠…</a></li>
-<li><a href="/worldnews/usa/20200925/1402718.md">安理会惊人一幕 美再提新冠来源 中国外交官暴怒</a></li>
-<li><a href="/cbnews/20200924/1402259.md">曝！胡锡进8年前「真心话」中国网友轰：胡锡进背叛祖国</a></li>
 <li><a href="/ssgc/20200925/1402684.md">〖兲朝浮世绘〗不吹牛逼墙内搞不定，吹牛逼墙外搞不定</a></li>
+<li><a href="/cbnews/20200924/1402259.md">曝！胡锡进8年前「真心话」中国网友轰：胡锡进背叛祖国</a></li>
 <li><a href="/topimagenews/20200924/1402349.md">以色列媒体：在叙利亚共炸毁伊朗300亿美元军火 炸死2200人</a></li>
 <li><a href="/bannedvideo/20200924/1402285.md">珠海人发出的视频，东风导弹，市区穿过。网友：平时领导过都是封路，军事调动机密，竟然不封路| #大纪元新闻网</a></li>
+<li><a href="/bannedvideo/20200924/1402345.md">财经冷眼：俄罗斯增兵东北边境欲趁火打劫？三大邻国加入围殴！又一大国爆发排华暴乱，历史悲剧将重演吗？（20200924第341期）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200925/1402860.md" target="_blank">薇羽看世间：【第142期】中共搞芯片大跃进，芯片设计与生产能起死回生吗？华为因无芯而死，中芯国际的命运能摆脱这一归宿吗？</a></li>
 <li><a href="/cbnews/20200925/1402840.md" target="_blank">中国惊爆仿冒美心月饼 工厂旁「有化粪池」</a></li>
 <li><a href="/cbnews/20200925/1402788.md" target="_blank">澳媒：中共仍在新疆建造拘留营 且规模更大</a></li>
 <li><a href="/comments/20200925/1402744.md" target="_blank">中共鼓吹＂斗争＂哲学的奥秘何在？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200924/1401854.md" target="_blank">联合国官方称习近平“殿下”川普“阁下”；李克强跻身人民日报头条右下角；新华社怒删文，TikTok交易陷死局；腾讯在美投资遭翻箱底清查，下个遭殃是阿里？石正丽入选《时代》百位影响力人物先驱者【字幕版】</a></li>
 <li><a href="/cbnews/20200924/1401997.md" target="_blank">蓬佩奥：定习近平犯“种族灭绝罪”还是“反人类罪”？</a></li>
 <li><a href="/cbnews/20200924/1402154.md" target="_blank">【中英字幕】余茂春演讲完整版：我已成中国近代史第一汉奸；我们与林郑秘密沟通失败：香港试验的四大教训；川普唯一愿为之放弃贸易协议的事（由MacDonald-Laurier Institute授权发布）</a></li>
-<li><a href="/cbnews/20200924/1402190.md" target="_blank">捧习还是贬习？联合国官网不称阁下称“殿下”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200925/1402852.md" target="_blank">黄之锋揭港府抓人 吓阻10.1大游行</a></li>
 <li><a href="/comments/20200925/1402800.md" target="_blank">华夏神州的古老文明早已给出了答案：婚姻是一场修行</a></li>
 <li><a href="/comments/20200925/1402817.md" target="_blank">左派故意淡化拜登之子丑闻 媒体人：这是真正大新闻</a></li>
 <li><a href="/comments/20200925/1402816.md" target="_blank">月圆月缺 再听邓丽君深情演绎唐诗宋词</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200925/1402656.md" target="_blank">你相信吗！睡觉也能减肥 燃烧脂肪</a></li>
 <li><a href="/comments/20200925/1402650.md" target="_blank">愿每个善良的人都能被温暖、呵护</a></li>
 <li><a href="/comments/20200925/1402649.md" target="_blank">墙国战狼部：大国宣传原来是这样的</a></li>
-<li><a href="/comments/20200925/1402641.md" target="_blank">怎样教孩子做独立自信 幸福的人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
