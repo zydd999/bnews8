@@ -5,11 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20200924/1402059.md">红二代惊变！蔡霞曝王岐山不救任志强的真正原因</a></li>
 <li><a href="/funmedia/20200924/1402067.md">为何中国男人到非洲后都不愿意回国？非洲姑娘说出真正原因</a></li>
 <li><a href="/cnnews/20200924/1402120.md">联合国大会上 官网对习近平的称呼竟然是…</a></li>
-<li><a href="/cnnews/hknews/20200924/1402153.md">中共军机扰台、南海射4弹挑衅 川普呛「够了」:不会再让这种事发生</a></li>
 <li><a href="/bannedvideo/20200924/1402251.md">李克强到上海，一句话，道尽中国经济的凄惨现状</a></li>
+<li><a href="/cnnews/hknews/20200924/1402153.md">中共军机扰台、南海射4弹挑衅 川普呛「够了」:不会再让这种事发生</a></li>
 <li><a href="/topimagenews/20200924/1402458.md">败!西方断供中共坦克装甲车停驶 李嘉诚又刷屏：囤地16年被禁 决堤！东北粮仓重创</a></li>
 <li><a href="/cbnews/20200924/1402154.md">【中英字幕】余茂春演讲完整版：我已成中国近代史第一汉奸；我们与林郑秘密沟通失败：香港试验的四大教训；川普唯一愿为之放弃贸易协议的事（由MacDonald-Laurier Institute授权发布）</a></li>
 <li><a href="/bannedvideo/20200924/1402553.md">王沪宁祭出‘三权分立、宪政民主’反习自保</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/ssgc/20200924/1402341.md">中共重判任志强的三个严重后果</a></li>
 <li><a href="/cnnews/hknews/20200924/1402299.md">香港四大家族跟党走 拒收编可能倾家荡产</a></li>
 <li><a href="/headline/20200924/1402405.md">恒大地产告急 要求政府协助解困</a></li>
+<li><a href="/bannedvideo/20200925/1402634.md">恒大许家印求救信流出：不救就死给你看！许家印急辟谣：报案！路透：多个消息来源证明真实！许家印擅听龙吟，圈地圈钱机关算尽；千亿债务压顶，沙塔帝国风雨飘摇 | 今日华尔街 2020-9-24【字幕版】</a></li>
 <li><a href="/cbnews/20200924/1402065.md">文昭：惊人方案：美军四个师进驻台湾？美国抗中共关键推手发话，川普为这件事可以牺牲贸易协议</a></li>
-<li><a href="/comments/20200924/1402479.md">中国各地大学惊爆示威潮</a></li>
 <li><a href="/cbnews/20200924/1401997.md">蓬佩奥：定习近平犯“种族灭绝罪”还是“反人类罪”？</a></li>
+<li><a href="/comments/20200924/1402479.md">中国各地大学惊爆示威潮</a></li>
 <li><a href="/cnnews/hknews/20200924/1402360.md">富豪染病 从加拿大飞香港 空姐空少全中招</a></li>
 <li><a href="/cnnews/20200924/1402278.md">北京官场连震 蔡奇“大管家”换人 四高官被查</a></li>
 <li><a href="/topimagenews/20200925/1402618.md">香港四大家族"肉在砧板上" 拒收编可能倾家荡产 中美研究:空污杀死数千万中国人</a></li>
-<li><a href="/bannedvideo/20200925/1402634.md">恒大许家印求救信流出：不救就死给你看！许家印急辟谣：报案！路透：多个消息来源证明真实！许家印擅听龙吟，圈地圈钱机关算尽；千亿债务压顶，沙塔帝国风雨飘摇 | 今日华尔街 2020-9-24【字幕版】</a></li>
 <li><a href="/bannedvideo/20200924/1402460.md">制裁常委不足震慑；蓬佩奥：正谨慎权衡是否为习近平定反人类罪！习近平被封短命“殿下”，李克强头版一日游；检察官撤诉中国谍；新华社怒删文，司法部不批准，TikTok交易陷混乱 | 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/ssgc/20200924/1402125.md">〖微博谈〗习的国际名声因之更加恶臭</a></li>
 <li><a href="/comments/20200924/1402306.md">鼻毛为什么会蹿出来？鼻毛旺盛是在暗示什么？老中医告诉你真相</a></li>
+<li><a href="/bannedvideo/20200924/1402589.md">中共权贵海外资产分布表</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200925/1402773.md" target="_blank">卢卡申科宣誓就职引发抗议潮 欧美多国称其非法</a></li>
 <li><a href="/comments/20200925/1402744.md" target="_blank">中共鼓吹＂斗争＂哲学的奥秘何在？</a></li>
 <li><a href="/comments/20200925/1402748.md" target="_blank">科学家在金星上发现有生命存在的证据？在大气层中监测到磷化氢气体</a></li>
 <li><a href="/comments/20200925/1402738.md" target="_blank">新鲜事！日媒将谢长廷称为“台湾驻日大使”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200924/1402478.md" target="_blank">秋后，喝牛奶豆浆不如喝它，早餐喝一杯，香浓味美对脾胃好</a></li>
 <li><a href="/comments/20200924/1402476.md" target="_blank">【文韬政论】世界需要一个新的联合国</a></li>
 <li><a href="/comments/20200924/1402471.md" target="_blank">纽约中领馆涉间谍案曝光 华人震动</a></li>
-<li><a href="/comments/20200924/1402470.md" target="_blank">华裔美国人发公开信挺川普 支持禁微信</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
 
 </ul>
 </div>
