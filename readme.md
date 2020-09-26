@@ -11,8 +11,8 @@
 <li><a href="/baitai/20200926/1403304.md">方位观察: 李克强已经极度危险</a></li>
 <li><a href="/worldnews/20200925/1402896.md">金正恩险遭暗杀？日海军上将爆：4北韩军官倒戈失败下场惨</a></li>
 <li><a href="/bannedvideo/20200926/1403240.md">意外：美财政部宣布延缓对中国制裁，收窄对香港高官制裁界限；美国海军陆战队司令要求基地搬家：防御解放军进犯！字节跳动负责人遭北京官员斥责：未以家国为重！【字幕版】</a></li>
-<li><a href="/cbnews/20200925/1403164.md">美轰炸机出动 习近平已钻洞？ 国军变美军?首次可打东部战区 中共造假新高度 网笑翻</a></li>
 <li><a href="/bannedvideo/20200925/1403124.md">蓬佩奥：美国将以“反人类罪”或“种族灭绝罪”起诉习近平</a></li>
+<li><a href="/cbnews/20200925/1403164.md">美轰炸机出动 习近平已钻洞？ 国军变美军?首次可打东部战区 中共造假新高度 网笑翻</a></li>
 <li><a href="/topimagenews/20200925/1402966.md">美国对台军售 爆：中国东部军区都打到</a></li>
 <li><a href="/cbnews/20200925/1402958.md">俄罗斯增兵边境欲趁火打劫？中共被“围殴”</a></li>
 <li><a href="/headline/20200925/1403112.md">华为实验室大爆炸 原因未明</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/cnnews/20200925/1402943.md">中共调整入境规则 长居海外的华人仍无法回家</a></li>
 <li><a href="/finance/20200926/1403249.md">一分钟看懂：恒大恐引发的金融、房产和社会风险</a></li>
 <li><a href="/ssgc/20200926/1403258.md">美国财政部公布制裁11名中港官员的执行细节</a></li>
+<li><a href="/bannedvideo/20200926/1403300.md">王毅不战宣言被驳回，蓬佩奥：对于你们，绥靖才是最大的风险，美国待命准备出击！习近平求爱欧洲正式被拒，欧盟理事会主席：我们的答案简单粗暴，欧洲选择美国，即使它不完美【字幕版】</a></li>
 <li><a href="/bannedvideo/20200925/1402915.md">恶人榜已10万人  美国：全部驱逐出境| 真相传媒</a></li>
 <li><a href="/cnnews/hknews/20200925/1402991.md">香港建制派罕见内反林郑月娥</a></li>
-<li><a href="/cnnews/20200925/1402865.md">被揭伤疤 安理会美国再提这事 中共外交官暴怒失控举坐皆惊</a></li>
-<li><a href="/bannedvideo/20200926/1403300.md">王毅不战宣言被驳回，蓬佩奥：对于你们，绥靖才是最大的风险，美国待命准备出击！习近平求爱欧洲正式被拒，欧盟理事会主席：我们的答案简单粗暴，欧洲选择美国，即使它不完美【字幕版】</a></li>
+<li><a href="/cnnews/20200925/1402955.md">金正恩罕见向韩国道歉：做了不好的事</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200926/1403490.md" target="_blank">薇羽看世间：【第143期】一份调查报告，迁出了拜登儿子亨特和中共之间的利益关系，拜登在其中扮演了什麽角色呢？拜登还有资格与川普竞选美国总统吗？</a></li>
 <li><a href="/cbnews/20200926/1403458.md" target="_blank">蓬佩奥: 正审查两个在美国运作的统战组织，川普定了大法官人选</a></li>
 <li><a href="/cbnews/20200926/1403469.md" target="_blank">打开保险！印度明告中共 LAC驻军获自卫开枪授权</a></li>
 <li><a href="/cbnews/20200926/1403447.md" target="_blank">美军大象漫步 几十架鱼鹰密密麻麻排队起飞</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200925/1402958.md" target="_blank">俄罗斯增兵边境欲趁火打劫？中共被“围殴”</a></li>
 <li><a href="/cbnews/20200925/1402907.md" target="_blank">江峰：蓬佩奥讲话释放重大行动信号：对中共情资人员、外围侨团开始下手；马英九“美国飞机不来了”？海峡中线的历史现实意义</a></li>
 <li><a href="/cbnews/20200925/1402895.md" target="_blank">两岸开战谁赢？「共军致命点」曝光</a></li>
-<li><a href="/cbnews/20200925/1402886.md" target="_blank">蓬佩奥：中共驻纽约领事馆是间谍活动枢纽 可能会有更多外交人员和间谍被捕</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200926/1403491.md" target="_blank">如果他真的太“好笑” 这节目就活不下去了</a></li>
 <li><a href="/comments/20200926/1403473.md" target="_blank">李克强访上海登上党媒头版 但一细节更显地位不堪</a></li>
 <li><a href="/comments/20200926/1403470.md" target="_blank">反思中国教育：标准答案教出来的我们</a></li>
 <li><a href="/comments/20200926/1403459.md" target="_blank">新疆集中营卫星照曝光 中共发言人竟称是五星好评住宅区</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20200926/1403291.md" target="_blank">川普：拜登的“反警察”运动须停止 我将永远支持执法英雄</a></li>
 <li><a href="/comments/20200926/1403272.md" target="_blank">极左翼民主党议员AOC与被捕中共间谍昂旺合影曝光</a></li>
 <li><a href="/comments/20200926/1403259.md" target="_blank">山寨日本名牌 中国名创优品申请赴美上市</a></li>
-<li><a href="/comments/20200926/1403250.md" target="_blank">【微博精粹】打武大郎时没听他这么说 武松一来只好酸别人拳大</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 
 </ul>
 </div>
