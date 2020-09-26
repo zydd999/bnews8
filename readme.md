@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20200925/1402801.md">王毅发言遭美国联合国大使呵斥：令人厌恶，为你感到羞耻！美国大选后在美上市中国企业命运难料，谁要打道回府？五角大楼：中国没有胜算仍可能对台动武【字幕版】</a></li>
-<li><a href="/baitai/20200925/1402798.md">习近平是有史以来最会吹牛逼的怂包</a></li>
 <li><a href="/cnnews/20200925/1402914.md">深夜突发！百亿白酒股董事长、总裁、财务总监、董事都被公安抓了</a></li>
 <li><a href="/funmedia/20200925/1402846.md">印度火车上挂满人？看完后才知道，原来我们被骗了这么多年</a></li>
 <li><a href="/topimagenews/20200925/1403113.md">蓬佩奥威武成习近平翻译 习近平日薄西山？王沪宁示意 川普制裁助共科企断中港业务</a></li>
 <li><a href="/finance/20200925/1402935.md">突发闪崩！400亿疫苗大牛股跌停 7万股民懵了！究竟发生了什么？</a></li>
 <li><a href="/worldnews/20200925/1402896.md">金正恩险遭暗杀？日海军上将爆：4北韩军官倒戈失败下场惨</a></li>
 <li><a href="/bannedvideo/20200926/1403240.md">意外：美财政部宣布延缓对中国制裁，收窄对香港高官制裁界限；美国海军陆战队司令要求基地搬家：防御解放军进犯！字节跳动负责人遭北京官员斥责：未以家国为重！【字幕版】</a></li>
-<li><a href="/topimagenews/20200925/1402966.md">美国对台军售 爆：中国东部军区都打到</a></li>
 <li><a href="/cbnews/20200925/1403164.md">美轰炸机出动 习近平已钻洞？ 国军变美军?首次可打东部战区 中共造假新高度 网笑翻</a></li>
+<li><a href="/topimagenews/20200925/1402966.md">美国对台军售 爆：中国东部军区都打到</a></li>
 <li><a href="/cbnews/20200925/1402958.md">俄罗斯增兵边境欲趁火打劫？中共被“围殴”</a></li>
 <li><a href="/bannedvideo/20200925/1403124.md">蓬佩奥：美国将以“反人类罪”或“种族灭绝罪”起诉习近平</a></li>
 <li><a href="/headline/20200925/1403112.md">华为实验室大爆炸 原因未明</a></li>
+<li><a href="/baitai/20200926/1403304.md">方位观察: 李克强已经极度危险</a></li>
 <li><a href="/cbnews/20200925/1403058.md">中共军方高调称报名参军者达300万 网友评论亮瞎</a></li>
 <li><a href="/ssgc/20200925/1403118.md">重囚任志强  掌掴王岐山</a></li>
 <li><a href="/cbnews/20200925/1402895.md">两岸开战谁赢？「共军致命点」曝光</a></li>
 <li><a href="/headline/20200925/1403021.md">中共干部在新疆对维吾尔女性的性虐待：受害者亲诉遭遇</a></li>
 <li><a href="/cnnews/20200925/1402903.md">中国国航一乘客在飞行途中自杀 送医后不治</a></li>
 <li><a href="/cnnews/20200925/1402943.md">中共调整入境规则 长居海外的华人仍无法回家</a></li>
-<li><a href="/baitai/20200926/1403304.md">方位观察: 李克强已经极度危险</a></li>
 <li><a href="/cnnews/20200925/1402815.md">真没粮了？全国首立法禁暴饮暴食 河北11.1实施最高罚款1万</a></li>
-<li><a href="/headline/20200925/1402805.md">任志强事件继续发酵 红二代习近平心头大患</a></li>
 <li><a href="/bannedvideo/20200925/1402915.md">恶人榜已10万人  美国：全部驱逐出境| 真相传媒</a></li>
+<li><a href="/cnnews/20200925/1402865.md">被揭伤疤 安理会美国再提这事 中共外交官暴怒失控举坐皆惊</a></li>
+<li><a href="/cnnews/hknews/20200925/1402991.md">香港建制派罕见内反林郑月娥</a></li>
+<li><a href="/cnnews/20200925/1402955.md">金正恩罕见向韩国道歉：做了不好的事</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20200926/1403372.md" target="_blank">警察在医院里对内科大夫王淑坤大打出手…</a></li>
 <li><a href="/cbnews/20200926/1403342.md" target="_blank">文昭：恒大地产巨型爆雷，“灰犀牛”终於杀到？蓬佩奥要对纽约中领馆下手，闭馆抓人？</a></li>
 <li><a href="/cbnews/20200926/1403306.md" target="_blank">陈破空：中国又发生大爆炸！这回竟然是那里。习近平鼓吹大炼芯片。中印紧张，俄罗斯大军进抵中俄边境</a></li>
 <li><a href="/cbnews/20200926/1403298.md" target="_blank">日本放行 美军在岩国基地追加部署F35B战机</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20200925/1402739.md" target="_blank">天亮时分：美国一夜间发展出的决胜能力;权力的四个来源;美国也能买选票;余茂春与蓬佩奥演讲的启示(政论天下第233集 20200924)</a></li>
 <li><a href="/cbnews/20200925/1402664.md" target="_blank">美国土安全部再发关门令：取消来自恶意行为国家学生4年签证停留权！</a></li>
 <li><a href="/cbnews/20200925/1402709.md" target="_blank">陈破空：动手了！美国清理门户，亲共华人和留学生是走是降？英法德三箭齐发，习近平联大中招</a></li>
-<li><a href="/cbnews/20200925/1402676.md" target="_blank">陆专家自定清华大学为世界一流大学 引热议</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
