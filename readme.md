@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20200926/1403625.md">质疑习?中共高官赞赵紫阳 恒大冲击波！房地产说崩就崩？供应链正"悄然"离开中国</a></li>
 <li><a href="/cbnews/20200926/1403595.md">菅义伟与习近平通话释放三大信号</a></li>
 <li><a href="/topimagenews/20200926/1403723.md">李克强被习近平“踩脚下” 知情人:华为核心保密区起火 北京此物竟要实名制</a></li>
-<li><a href="/cbnews/20200926/1403554.md">中共病毒突变 戴口罩洗手恐怕都不管用</a></li>
 <li><a href="/cnnews/20200927/1403899.md">曲婉婷底线全无？高官妈贪污3.6亿逼死农民工</a></li>
-<li><a href="/cbnews/20200926/1403543.md">华为“实验室” 爆炸起火 神秘背景曝光</a></li>
 <li><a href="/cbnews/20200927/1403809.md">天亮时分：拜登儿子的性奴丑闻;恒大危机拉开习近平经济危机序幕;蓬佩奥是否会关闭纽约领馆?美国司法部成立“剥夺国籍科”(政论天下第234集 20200926)</a></li>
 <li><a href="/bannedvideo/20200927/1403818.md">老先生在重庆街头演讲，唤醒民众，站起来推翻共产土匪党，结束独裁统治。| #大纪元新闻网</a></li>
 <li><a href="/ssgc/20200926/1403721.md">外交降级 美中掰了</a></li>
-<li><a href="/topimagenews/20200926/1403728.md">南海要开战？川普回击习近平用行动表态 菅义伟和习通话3大信号 印军获开第一枪授权</a></li>
 <li><a href="/cnnews/20200927/1403867.md">买下北京2500万豪宅 胡锡进发“爱国”财</a></li>
+<li><a href="/topimagenews/20200926/1403728.md">南海要开战？川普回击习近平用行动表态 菅义伟和习通话3大信号 印军获开第一枪授权</a></li>
+<li><a href="/cnnews/20200927/1403897.md">金融危机很快到来？影响难以预估</a></li>
 <li><a href="/cbnews/20200927/1403848.md">“我不知道习近平是不是起了床就读资本论 但是毫无疑问…”</a></li>
 <li><a href="/cbnews/20200927/1403841.md">菅义伟习近平谈敏感话题 陆媒只字未提</a></li>
 <li><a href="/bannedvideo/20200927/1403811.md">川普总统刚刚提名了艾米巴瑞特为最高法院大法官，各方反应如何？你在担心最高法院的保守派法官太多了吗？</a></li>
 <li><a href="/cnnews/hknews/20200927/1403763.md">美公布制裁11名中港官员执行细节 禁直接、间接交易 不限与港府往来</a></li>
-<li><a href="/cnnews/20200927/1403897.md">金融危机很快到来？影响难以预估</a></li>
 <li><a href="/worldnews/usa/20200927/1403719.md">民主党失心疯了？要摧毁美国的根基</a></li>
 <li><a href="/cnnews/20200926/1403616.md">怕性欲影响学习 传内地大学生校内厕所自宫</a></li>
-<li><a href="/bannedvideo/20200926/1403718.md">快评：中芯国际正式被禁、中美外交战加剧纽约中领馆或被关、印军持枪美军或重返台湾、习共末日疯狂加速灭亡（9/26）</a></li>
 <li><a href="/funmedia/20200927/1403849.md">被6头狮子撕咬6小时 它还一直淡定的吃树叶 反击时刻“帅翻天”</a></li>
+<li><a href="/bannedvideo/20200926/1403718.md">快评：中芯国际正式被禁、中美外交战加剧纽约中领馆或被关、印军持枪美军或重返台湾、习共末日疯狂加速灭亡（9/26）</a></li>
+<li><a href="/comments/20200927/1403861.md">江泽民丑闻：“图样图森破” 网络炸锅了</a></li>
 <li><a href="/yule/20200927/1403758.md">孙红雷小15岁妻子王骏迪近照曝光 少女感十足</a></li>
+<li><a href="/cbnews/20200926/1403613.md">“蛊惑女” 黑龙江30多女中学生持棍街头群殴</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
