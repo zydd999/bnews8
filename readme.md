@@ -8,14 +8,13 @@
 <li><a href="/taiwannews/20200926/1403609.md">美国连夜宣布大消息！，中国惊慌失措</a></li>
 <li><a href="/comments/20200926/1403635.md">惊天内幕：川普要赦免阿桑奇？民主党为何追杀他？</a></li>
 <li><a href="/topimagenews/20200926/1403625.md">质疑习?中共高官赞赵紫阳 恒大冲击波！房地产说崩就崩？供应链正"悄然"离开中国</a></li>
-<li><a href="/cbnews/20200926/1403595.md">菅义伟与习近平通话释放三大信号</a></li>
 <li><a href="/topimagenews/20200926/1403723.md">李克强被习近平“踩脚下” 知情人:华为核心保密区起火 北京此物竟要实名制</a></li>
 <li><a href="/cnnews/20200927/1403899.md">曲婉婷底线全无？高官妈贪污3.6亿逼死农民工</a></li>
 <li><a href="/cbnews/20200927/1403809.md">天亮时分：拜登儿子的性奴丑闻;恒大危机拉开习近平经济危机序幕;蓬佩奥是否会关闭纽约领馆?美国司法部成立“剥夺国籍科”(政论天下第234集 20200926)</a></li>
-<li><a href="/bannedvideo/20200927/1403818.md">老先生在重庆街头演讲，唤醒民众，站起来推翻共产土匪党，结束独裁统治。| #大纪元新闻网</a></li>
 <li><a href="/ssgc/20200926/1403721.md">外交降级 美中掰了</a></li>
-<li><a href="/cnnews/20200927/1403867.md">买下北京2500万豪宅 胡锡进发“爱国”财</a></li>
+<li><a href="/bannedvideo/20200927/1403818.md">老先生在重庆街头演讲，唤醒民众，站起来推翻共产土匪党，结束独裁统治。| #大纪元新闻网</a></li>
 <li><a href="/topimagenews/20200926/1403728.md">南海要开战？川普回击习近平用行动表态 菅义伟和习通话3大信号 印军获开第一枪授权</a></li>
+<li><a href="/cnnews/20200927/1403867.md">买下北京2500万豪宅 胡锡进发“爱国”财</a></li>
 <li><a href="/cnnews/20200927/1403897.md">金融危机很快到来？影响难以预估</a></li>
 <li><a href="/cbnews/20200927/1403848.md">“我不知道习近平是不是起了床就读资本论 但是毫无疑问…”</a></li>
 <li><a href="/cbnews/20200927/1403841.md">菅义伟习近平谈敏感话题 陆媒只字未提</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/bannedvideo/20200926/1403718.md">快评：中芯国际正式被禁、中美外交战加剧纽约中领馆或被关、印军持枪美军或重返台湾、习共末日疯狂加速灭亡（9/26）</a></li>
 <li><a href="/comments/20200927/1403861.md">江泽民丑闻：“图样图森破” 网络炸锅了</a></li>
 <li><a href="/yule/20200927/1403758.md">孙红雷小15岁妻子王骏迪近照曝光 少女感十足</a></li>
+<li><a href="/comments/20200927/1403929.md">【微博精粹】中共国最玄幻的一幕出现了</a></li>
 <li><a href="/cbnews/20200926/1403613.md">“蛊惑女” 黑龙江30多女中学生持棍街头群殴</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
 
 </ul>
 </div>
