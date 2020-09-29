@@ -8,14 +8,13 @@
 <li><a href="/bannedvideo/20200928/1404669.md">李克强口出狂言当面嘲笑川普：美国算什么？中纪委追缴海外资产</a></li>
 <li><a href="/yule/20200928/1404776.md">baby和陈冠希旧照流出 信息量很大</a></li>
 <li><a href="/baitai/20200928/1404716.md">专骗女学生渣教官炫战果 让107女生「破处」</a></li>
-<li><a href="/topimagenews/20200928/1404654.md">惊爆!中共国学生奶计划给孩子喝垃圾 朱镕基爱将挑战习痛批5G 中国夏粮绝收秋粮减民...</a></li>
 <li><a href="/bannedvideo/20200929/1404853.md">习近平翻找彭丽媛照片给人看：你认识她吗？江泽民中南海宴席要求全体说英语；会面八常委，与习近平四次单独会面，谜样库恩如何成北京政权御用西方喉舌？外宣大片中美均遭禁播，中国人民老朋友跌落神坛【字幕版】</a></li>
+<li><a href="/topimagenews/20200928/1404654.md">惊爆!中共国学生奶计划给孩子喝垃圾 朱镕基爱将挑战习痛批5G 中国夏粮绝收秋粮减民...</a></li>
 <li><a href="/topimagenews/20200928/1404683.md">习近平整肃江系一下拿下仨 首次：纽约华人游行高呼灭共 金正恩天敌来了！入冬之乱</a></li>
-<li><a href="/topimagenews/20200928/1404740.md">蓬佩奥访日拔头筹中共慌了 川普开辟对中共10大战场 中纪委罕见谈“跳船”网炸锅</a></li>
 <li><a href="/bannedvideo/20200929/1404808.md">习近平见了川普税单，七常委资产看一看？中纪委收缴海外资产：栗战书汪洋慌不慌；习近平小目标是2035：超越美国再退休！李克强放言埋祸根，刘鹤三年计划是绝地求生|今日华尔街 2020-9-28【字幕版】</a></li>
+<li><a href="/topimagenews/20200928/1404740.md">蓬佩奥访日拔头筹中共慌了 川普开辟对中共10大战场 中纪委罕见谈“跳船”网炸锅</a></li>
 <li><a href="/topimagenews/20200929/1404980.md">看看甩中共多少条街？地球指纹：美国研制不依赖于GPS的新型导航系统</a></li>
 <li><a href="/bannedvideo/20200929/1404914.md">重磅：CCP，你们该离场了！</a></li>
-<li><a href="/cnnews/20200928/1404629.md">此恨悠悠 这是医学界的惊天丑闻</a></li>
 <li><a href="/cbnews/20200929/1404882.md">陈破空：权斗占上风？习近平甩掉接班人。朱镕基亲信发文批习！大胆提到一个人。怎样成为合格的外交部发言人？欧洲终于选边站</a></li>
 <li><a href="/yule/20200929/1404897.md">52岁李克勤生活困难 一年没工作零收入 近照暴瘦一圈</a></li>
 <li><a href="/comments/20200928/1404730.md">神秘宇宙信号被破解！外星人在求救,第四宇宙即将发生爆炸?</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/bannedvideo/20200929/1404928.md">🔥🔥美国第一女预言家预言👁️没有中共的中国将取代美国❗领导人类走向新世界❗【第1集】珍妮的非凡预测能力❗</a></li>
 <li><a href="/comments/20200928/1404687.md">中共五中全会确定10月26开 分析指或生内乱</a></li>
 <li><a href="/cbnews/20200929/1404866.md">美空军演习徽章图案曝光：死神俯视红色中国</a></li>
-<li><a href="/topimagenews/20200929/1405005.md">卡紧中共脖子！ 日本吁携手欧美管制4大先进技术出口</a></li>
 <li><a href="/bannedvideo/20200929/1404955.md">3000年前的圣经竟然预言了2020美国大选，川普会连任吗？（探索与洞见第26集 2020年9月28日）</a></li>
-<li><a href="/health/20200929/1404926.md">中国人为什么普遍爱得糖尿病？医生：背后的3大原因不得不警惕</a></li>
+<li><a href="/topimagenews/20200929/1405005.md">卡紧中共脖子！ 日本吁携手欧美管制4大先进技术出口</a></li>
 <li><a href="/bannedvideo/20200929/1405060.md">到处缺钱，中共的坍塌从“钱”开始，今冬明春是关键点</a></li>
+<li><a href="/health/20200929/1404926.md">中国人为什么普遍爱得糖尿病？医生：背后的3大原因不得不警惕</a></li>
 <li><a href="/bannedvideo/20200928/1404746.md">野心岂止十四五规划，习近平已定下十六五大计：不超美国不退休！五中全会忙讨论：跨陷阱，防脱钩；中国军工谍案翻转：举报人华裔导师曾获类千人计划巨额资金资助！华春莹来了好姊妹，外交部新添女副司长【字幕版】</a></li>
+<li><a href="/ssgc/20200929/1404865.md">〖兲朝浮世绘〗山寨货名创优品在美国上市 华尔街助纣为虐</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20200929/1405257.md" target="_blank">习近平下令加速恢复供销社 到底想干什么？</a></li>
+<li><a href="/comments/20200929/1405256.md" target="_blank">邮寄选票欺诈层出不穷 川普担心的事正在发生</a></li>
 <li><a href="/comments/20200929/1405247.md" target="_blank">【微博精粹】胡叼盘代替外交部威胁关闭上海美领馆 谁授权？</a></li>
 <li><a href="/comments/20200929/1405240.md" target="_blank">“被精神病”成中共当局打压利器 泼墨女境况堪忧</a></li>
 <li><a href="/comments/20200929/1405215.md" target="_blank">孟晚舟再度出庭图翻案 佩戴台湾制口罩引热议</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20200929/1404992.md" target="_blank">中共五中全会确定10月26日开 杀气腾腾</a></li>
 <li><a href="/comments/20200929/1404991.md" target="_blank">陶杰：千个太阳将冰山劈开</a></li>
 <li><a href="/comments/20200929/1404990.md" target="_blank">老鱼吹牛皮：又被李嘉诚先跑了一步？</a></li>
-<li><a href="/comments/20200929/1404989.md" target="_blank">石山：中共的“雅贪”政治 中联办主任一字卖470万</a></li>
-<li><a href="/comments/20200929/1404988.md" target="_blank">李怡：毛二世的“宗教中国化”就意味是假宗教 无神宗教</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 
 </ul>
 </div>
