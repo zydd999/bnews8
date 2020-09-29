@@ -10,9 +10,9 @@
 <li><a href="/cbnews/20200928/1404571.md">北京一公交车司机突然弃车跳桥</a></li>
 <li><a href="/cbnews/20200928/1404521.md">隔离无效？！多地惊爆隔离14天后阳性</a></li>
 <li><a href="/topimagenews/20200928/1404654.md">惊爆!中共国学生奶计划给孩子喝垃圾 朱镕基爱将挑战习痛批5G 中国夏粮绝收秋粮减民...</a></li>
+<li><a href="/yule/20200928/1404776.md">baby和陈冠希旧照流出 信息量很大</a></li>
 <li><a href="/bannedvideo/20200929/1404853.md">习近平翻找彭丽媛照片给人看：你认识她吗？江泽民中南海宴席要求全体说英语；会面八常委，与习近平四次单独会面，谜样库恩如何成北京政权御用西方喉舌？外宣大片中美均遭禁播，中国人民老朋友跌落神坛【字幕版】</a></li>
 <li><a href="/cbnews/20200928/1404497.md">华春莹发推讽美国大陆 网民：这个疯婆子</a></li>
-<li><a href="/yule/20200928/1404776.md">baby和陈冠希旧照流出 信息量很大</a></li>
 <li><a href="/topimagenews/20200928/1404683.md">习近平整肃江系一下拿下仨 首次：纽约华人游行高呼灭共 金正恩天敌来了！入冬之乱</a></li>
 <li><a href="/baitai/20200928/1404716.md">专骗女学生渣教官炫战果 让107女生「破处」</a></li>
 <li><a href="/health/20200928/1404556.md">26岁女子 突发心梗离世 生前不碰烟酒 却把一样东西当水喝</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20200928/1404602.md">中共成为新目标！美军MQ-9死神无人机精准打击 斩首苏莱曼尼世界震惊</a></li>
 <li><a href="/comments/20200928/1404730.md">神秘宇宙信号被破解！外星人在求救,第四宇宙即将发生爆炸?</a></li>
 <li><a href="/cbnews/20200929/1404882.md">陈破空：权斗占上风？习近平甩掉接班人。朱镕基亲信发文批习！大胆提到一个人。怎样成为合格的外交部发言人？欧洲终于选边站</a></li>
-<li><a href="/finance/20200928/1404491.md">拨茧抽丝：恒大若债务违约 真正的核炸弹在这里……</a></li>
 <li><a href="/comments/20200929/1404868.md">【微博精粹】恐怖头子再被忍者炸成肉酱 墙国：有人鼓掌有人哆嗦</a></li>
+<li><a href="/finance/20200928/1404491.md">拨茧抽丝：恒大若债务违约 真正的核炸弹在这里……</a></li>
 <li><a href="/comments/20200928/1404687.md">中共五中全会确定10月26开 分析指或生内乱</a></li>
 <li><a href="/finance/20200928/1404538.md">中共严控资金外流 澳门赌场发生挤兑流失十亿</a></li>
-<li><a href="/cnnews/20200928/1404470.md">知乎网友：华为笑话60则</a></li>
+<li><a href="/cbnews/20200929/1404866.md">美空军演习徽章图案曝光：死神俯视红色中国</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 
 </ul>
 </div>
