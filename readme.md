@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20200929/1405312.md">习近平怕了？有个大消息绝杀 微妙！中共政治局又开隐身会 看看中共真正四大发明</a></li>
 <li><a href="/cbnews/20200929/1405224.md">中共确定五中全会日期 或有怪事发生？</a></li>
+<li><a href="/topimagenews/20200929/1405312.md">习近平怕了？有个大消息绝杀 微妙！中共政治局又开隐身会 看看中共真正四大发明</a></li>
 <li><a href="/topimagenews/20200929/1404980.md">看看甩中共多少条街？地球指纹：美国研制不依赖于GPS的新型导航系统</a></li>
 <li><a href="/bannedvideo/20200929/1404928.md">🔥🔥美国第一女预言家预言👁️没有中共的中国将取代美国❗领导人类走向新世界❗【第1集】珍妮的非凡预测能力❗</a></li>
 <li><a href="/bannedvideo/20200929/1405187.md">马云再次“语惊四座”，中国政府爱听，但老百姓就别折腾了</a></li>
 <li><a href="/headline/20200929/1405284.md">习近平名字写进中委会《工作条例》 学者：终身制将一脉相承</a></li>
-<li><a href="/bannedvideo/20200929/1404955.md">3000年前的圣经竟然预言了2020美国大选，川普会连任吗？（探索与洞见第26集 2020年9月28日）</a></li>
 <li><a href="/bannedvideo/20200929/1405060.md">到处缺钱，中共的坍塌从“钱”开始，今冬明春是关键点</a></li>
+<li><a href="/bannedvideo/20200929/1404955.md">3000年前的圣经竟然预言了2020美国大选，川普会连任吗？（探索与洞见第26集 2020年9月28日）</a></li>
 <li><a href="/comments/20200929/1405287.md">习近平巡查邓朴方地盘 曝邓习分道扬镳七大原因</a></li>
 <li><a href="/health/20200929/1404926.md">中国人为什么普遍爱得糖尿病？医生：背后的3大原因不得不警惕</a></li>
-<li><a href="/headline/20200929/1405339.md">政治局传重磅消息 习近平权威从核心再延伸</a></li>
 <li><a href="/comments/20200929/1405257.md">习近平下令加速恢复供销社 到底想干什么？</a></li>
+<li><a href="/headline/20200929/1405339.md">政治局传重磅消息 习近平权威从核心再延伸</a></li>
 <li><a href="/bannedvideo/20200929/1405274.md">北京高层下封口令：不接美使领馆电话！美副国务卿点名习近平拆防火墙；中国军工谍案翻转：举办人也拿钱；曾与习近平私会四次，他成北京御用西方喉舌；习近平定了小目标：12年超美国|华尔街网报合辑【字幕版】</a></li>
 <li><a href="/topimagenews/20200929/1405304.md">惊 中共外债破关口757亿美元失踪 外储不足万亿中企急赴美圈钱 中共严控澳门赌场大失血</a></li>
 <li><a href="/topimagenews/20200929/1405005.md">卡紧中共脖子！ 日本吁携手欧美管制4大先进技术出口</a></li>
-<li><a href="/cbnews/20200929/1405149.md">中共官媒破口大骂澳洲“白垃圾” 网友：越来越粗野</a></li>
 <li><a href="/cnnews/20200929/1405357.md">川普发动十月惊奇 孟晚舟出中共洋相 习近平被看穿！ 大批华人震惊发现</a></li>
+<li><a href="/cbnews/20200929/1405149.md">中共官媒破口大骂澳洲“白垃圾” 网友：越来越粗野</a></li>
 <li><a href="/topimagenews/20200929/1405347.md">蓬佩奥走遍全球只为一事 旋风将至 王毅手忙脚乱 白宫点名习近平要求拆墙</a></li>
 <li><a href="/cbnews/20200929/1405061.md">美国务院次卿向习近平喊话：「拆除中国网路长城吧！」「柏林围墙都倒了！」</a></li>
 <li><a href="/cbnews/20200929/1405032.md">中共“国师”金灿荣狂言流出：民主是毒药是邪教</a></li>
+<li><a href="/funmedia/20200930/1405410.md">一个人最顶级的修养 不是沉默 不是好好说话 而是…</a></li>
 <li><a href="/health/20200929/1404924.md">日本人公开5大长寿诀窍 第5是喝水 第1是什么 多数人猜不到</a></li>
 <li><a href="/cnnews/20200929/1405207.md">泳池底部好多神秘“黑点” 她下水一看毛骨悚然</a></li>
-<li><a href="/cbnews/20200929/1404931.md">文昭：习近平组常委级“督战队”压阵新疆、实防“跳船”，却泄漏两条心底算计；中共能从拜登身上收获什麽</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
