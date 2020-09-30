@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/finance/20200930/1405463.md">恒大“逼宫”成功！天价违约烟消云散</a></li>
-<li><a href="/ssgc/20200930/1405458.md">美大使感叹习近平毫不妥协 他的底气何在？</a></li>
 <li><a href="/topimagenews/20200930/1405724.md">又一巨头房企倒下 负债700多亿 老板失踪 买了期房的人咋办？</a></li>
 <li><a href="/cbnews/20200930/1405567.md">中共竟敢给美国下指令？美大选辩论 中共隔空急喊：避开这话题</a></li>
 <li><a href="/finance/20200930/1405640.md">恒大巨债震撼中南海 传刘鹤亲自出面收场</a></li>
+<li><a href="/topimagenews/20200930/1405907.md">走投无路！中共政治局新学习邪门了 习近平出新招保终身执政 中共党员入美籍又被拒</a></li>
 <li><a href="/bannedvideo/20200930/1405707.md">财经冷眼：习近平视察深圳被许家印搅黄，恒大虽反转，风险仍大！房子降价潮来了，刚需买房一定再等等！（20200930第345期）</a></li>
 <li><a href="/lifebaike/20200930/1405485.md">清华留美女博士开枪射杀丈夫 与尸共处7天</a></li>
-<li><a href="/topimagenews/20200930/1405907.md">走投无路！中共政治局新学习邪门了 习近平出新招保终身执政 中共党员入美籍又被拒</a></li>
 <li><a href="/cnnews/20200930/1405817.md">还有什么没被禁？ 贝多芬《欢乐颂》变禁曲</a></li>
 <li><a href="/lifebaike/20200930/1405468.md">23岁东北小伙娶58岁老太 婚姻维持21年还是离了</a></li>
 <li><a href="/comments/20200930/1405472.md">今晚总统辩论首场 拜登要求每半小时休息一次 网上热议</a></li>
 <li><a href="/comments/20200930/1405765.md">北京车展女子大喊“你们敢买这辆车吗” 遭黑布套头抬走</a></li>
-<li><a href="/bannedvideo/20200930/1405698.md">2020 第一场总统辩论会，川普攻势凌厉，主持人急护拜登，左媒气急败坏鬼哭狼嚎！ 纳姐邀请老安女士来评一评：谁是这场辩论会赢家？</a></li>
 <li><a href="/bannedvideo/20200930/1405906.md">知情人说透习近平</a></li>
+<li><a href="/bannedvideo/20200930/1405698.md">2020 第一场总统辩论会，川普攻势凌厉，主持人急护拜登，左媒气急败坏鬼哭狼嚎！ 纳姐邀请老安女士来评一评：谁是这场辩论会赢家？</a></li>
 <li><a href="/bannedvideo/20200930/1405726.md">刘鹤出马调解债务，恒大与投资人达成协议；经济国师郑永年接交大名誉院长；贸易协议目标仅完成三成，中国年底前要买千亿产品；搜狗私有化将自美下市| 华尔街财经（20200930）</a></li>
+<li><a href="/bannedvideo/20200930/1405955.md">习近平的真实学历全爆光</a></li>
 <li><a href="/headline/20200930/1405651.md">特朗普与拜登首场辩论 激辩新冠疫情时集中提及中国</a></li>
 <li><a href="/bannedvideo/20200930/1405476.md">央视大裤衩里的「川岛芳子」｜揭秘央视电视台的幕后故事｜【美人计】｜精彩回放 第十二集（第一季）</a></li>
 <li><a href="/topimagenews/20200930/1405855.md">不得了！ 中国银行取钱多了要预约 川普大手笔出钱台商弃共赴美 融创8折卖上海物业</a></li>
 <li><a href="/yule/20200930/1405508.md">又一娱乐圈悲剧！伊能静儿子异装癖 或走上成龙女儿老路</a></li>
 <li><a href="/cbnews/20200930/1405677.md">中共国庆前军演 将军秒破解！...</a></li>
 <li><a href="/taiwannews/20200930/1405869.md">总统大选辩论 吵成一团！拜登呛川普闭嘴 CNN主播：羞耻</a></li>
-<li><a href="/bannedvideo/20200930/1405955.md">习近平的真实学历全爆光</a></li>
 <li><a href="/baitai/20200930/1405744.md">不守信用，你韬光养晦有个锤子用？</a></li>
+<li><a href="/cnnews/20200930/1405717.md">iPhone 12 mini被“降级”：5G没了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201001/1406055.md" target="_blank">逆势而为 法院违法剥夺当事人辩护权 构陷十多人</a></li>
+<li><a href="/comments/20201001/1406054.md" target="_blank">因支持法轮功上中共黑名单 加州前议员揭中共渗透美政界</a></li>
+<li><a href="/comments/20201001/1406053.md" target="_blank">露馅？拜登辩论会上身藏电线与不明物体 遭揭穿</a></li>
+<li><a href="/comments/20201001/1406052.md" target="_blank">神秘的“地下金字塔”，是外星文明留下的遗迹吗？</a></li>
 <li><a href="/comments/20201001/1406048.md" target="_blank">评论 | 王丹：亚洲北约是否将会形成？</a></li>
 <li><a href="/comments/20201001/1406044.md" target="_blank">【微博精粹】刚宣布伟大胜利 就狂打总书记大脸 广州小书记疯了吗</a></li>
 <li><a href="/comments/20201001/1406028.md" target="_blank">川普政府援手 流亡泰国的法轮功学员一家人顺利抵美</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20200930/1405864.md" target="_blank">美国安顾问呛中共：与其等着被追责 不如主动出来担责</a></li>
 <li><a href="/comments/20200930/1405863.md" target="_blank">抛弃拜登 费城消防和护理人员组织宣布支持川普连任</a></li>
 <li><a href="/comments/20200930/1405862.md" target="_blank">英民众评美总统首场辩论： 自信的川普和贫乏的拜登</a></li>
-<li><a href="/comments/20200930/1405861.md" target="_blank">一粒蒜，这样用，解除感冒与咳嗽，全家都用得着</a></li>
-<li><a href="/comments/20200930/1405860.md" target="_blank">3岁儿自述「前世」家里失火细节 投胎前「一直找妈妈」惹哭大人</a></li>
-<li><a href="/comments/20200930/1405857.md" target="_blank">【未普评论】美中联大过招，习近平想和解？</a></li>
-<li><a href="/comments/20200930/1405831.md" target="_blank">肝病、胆囊病、肾炎、肿瘤…尿尿这颜色是前兆</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
 <li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
