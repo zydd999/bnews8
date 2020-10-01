@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20201001/1406292.md">自杀式无人机炸掉雷达 S-300防空导弹系统瘫痪 导弹成了摆设</a></li>
 <li><a href="/comments/20201001/1406207.md">百家姓：习近平不敢打台湾</a></li>
 <li><a href="/yule/20201001/1406309.md">39岁范冰冰「拿书都遮不住」巨肚正面曝光</a></li>
-<li><a href="/topimagenews/20201001/1406461.md">中国楼市掀甩卖潮房价大降 主销美国工厂六成移出中国 A股黑九月股民人均亏2万</a></li>
 <li><a href="/comments/20201001/1406401.md">文革再现？传中共发动全国声讨蔡霞 网民：绝对反效果</a></li>
+<li><a href="/topimagenews/20201001/1406461.md">中国楼市掀甩卖潮房价大降 主销美国工厂六成移出中国 A股黑九月股民人均亏2万</a></li>
 <li><a href="/cbnews/20201001/1406398.md">前中共軍官：北京攻台是假象 根本打不了</a></li>
+<li><a href="/topimagenews/20201001/1406564.md">10.1前后24小时 针对中共 美国来个划时代 两岸三地出大事</a></li>
 <li><a href="/lifebaike/20201001/1406332.md">慈禧有这个特殊癖好 李莲英死前说出她的秘密</a></li>
 <li><a href="/cnnews/20201001/1406473.md">民调川普大胜拜登 左媒裸奔 露馅？拜登被揭 专家评说 中共恐惧什么？</a></li>
-<li><a href="/topimagenews/20201001/1406564.md">10.1前后24小时 针对中共 美国来个划时代 两岸三地出大事</a></li>
 <li><a href="/cnnews/20201001/1406333.md">引渡案本轮听证结束 孟晚舟口罩衣着大变</a></li>
+<li><a href="/bannedvideo/20201002/1406571.md">美国会写给习近平的国庆贺词如宣战檄文！《写在中共纪念夺取政权71周年之际》：我们用40年时间认识到你们本性从未改变，也不会改变；蓬佩奥冷面致辞；香港再现大抓捕！ | 今日华尔街 2020-10-1</a></li>
 <li><a href="/cbnews/20201001/1405988.md">1vs2，川普不容易：论一个主持人是如何败坏一场辩论</a></li>
 <li><a href="/bannedvideo/20201001/1406356.md">财经冷眼：突发！数百亿金融巨头雷爆！5985家金融公司倒闭，数千万金融难民冲击维稳系统！教你几招防割韭菜！（20201001第345期）</a></li>
 <li><a href="/baitai/20201001/1406230.md">习近平王八吃秤砣铁了</a></li>
 <li><a href="/baitai/20201001/1406505.md">没事了? 孟建柱、吴胜利十一酒会露面</a></li>
 <li><a href="/bannedvideo/20201001/1406455.md">美国会83项调查要求制裁中国；孟建柱酒席照上新闻联播；许家印惊动中南海，刘鹤召金融委议对策；蓬佩奥：论侵犯人权中国世界第一；博明：美国将针对中国留学生进行"外科手术"式驱逐| 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/cnnews/hknews/20201001/1406371.md">穿白袜！林兆波陪林郑现身升旗仪式 心不在焉</a></li>
-<li><a href="/bannedvideo/20201002/1406571.md">美国会写给习近平的国庆贺词如宣战檄文！《写在中共纪念夺取政权71周年之际》：我们用40年时间认识到你们本性从未改变，也不会改变；蓬佩奥冷面致辞；香港再现大抓捕！ | 今日华尔街 2020-10-1</a></li>
-<li><a href="/cbnews/20201001/1406138.md">文昭：美高官首谈拆“长城防火墙”，要动手了？川普、拜登首辩谁赢了？”死神“无人机剑指中南海</a></li>
+<li><a href="/cbnews/20201001/1406397.md">不甩中共「十一国庆」美国5军机飞越南海</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201002/1406706.md" target="_blank">减少塑料垃圾 英国今起实施新环境保护法规</a></li>
+<li><a href="/comments/20201002/1406705.md" target="_blank">促制裁中共人权罪犯 英两院152位议员联署请愿</a></li>
 <li><a href="/comments/20201002/1406701.md" target="_blank">中国大陆银行提高存取款限制 有人转账5万被拒</a></li>
 <li><a href="/comments/20201002/1406693.md" target="_blank">最新爆料！“通俄门”调查起因的肮脏内幕浮出水面</a></li>
 <li><a href="/comments/20201002/1406692.md" target="_blank">中南海经济顾问：中国今年不会发生报复性消费</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201001/1406512.md" target="_blank">必须“下车走两步” 西安华清宫无礼对待残疾人引热议</a></li>
 <li><a href="/comments/20201001/1406511.md" target="_blank">周杰伦父女四手联弹贝多芬名曲 昆凌「周老师开课罗」</a></li>
 <li><a href="/comments/20201001/1406484.md" target="_blank">到底谁赢了？川普和拜登均宣布在首场辩论中获胜</a></li>
-<li><a href="/comments/20201001/1406477.md" target="_blank">认同川普价值观 俄州黑人民主党议员宣布支持川普</a></li>
-<li><a href="/comments/20201001/1406476.md" target="_blank">中共侵犯人权 美国会出台具体措施逐一应对</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
 
 </ul>
 </div>
