@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20200930/1405907.md">走投无路！中共政治局新学习邪门了 习近平出新招保终身执政 中共党员入美籍又被拒</a></li>
-<li><a href="/comments/20200930/1405765.md">北京车展女子大喊“你们敢买这辆车吗” 遭黑布套头抬走</a></li>
 <li><a href="/bannedvideo/20200930/1405955.md">习近平的真实学历全爆光</a></li>
+<li><a href="/comments/20200930/1405765.md">北京车展女子大喊“你们敢买这辆车吗” 遭黑布套头抬走</a></li>
 <li><a href="/bannedvideo/20200930/1405906.md">知情人说透习近平</a></li>
 <li><a href="/cnnews/20200930/1405817.md">还有什么没被禁？ 贝多芬《欢乐颂》变禁曲</a></li>
 <li><a href="/lifebaike/20201001/1406142.md">医生警告：男女“亲热”时 有个“部位”尽量别吻 再心动也要忍</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20200930/1405966.md">拚了！ 印度对中共同时祭出3大招 狠甩中共 美研制不用GPS导航系统 恒大逼宫震撼中南海</a></li>
 <li><a href="/topimagenews/20200930/1405855.md">不得了！ 中国银行取钱多了要预约 川普大手笔出钱台商弃共赴美 融创8折卖上海物业</a></li>
 <li><a href="/cnnews/20201001/1405979.md">美中间选民看川普拜登辩论 传拜登事先得到问题和答案 拜登最大盟友之一工会反了</a></li>
-<li><a href="/taiwannews/20200930/1405869.md">总统大选辩论 吵成一团！川普vs拜登</a></li>
 <li><a href="/topimagenews/20201001/1406292.md">自杀式无人机炸掉雷达 S-300防空导弹系统瘫痪 导弹成了摆设</a></li>
-<li><a href="/bannedvideo/20201001/1406017.md">国会200页加密报告：了解习近平真实意图赌注巨大，不可再错！蓬佩奥：论侵犯人权中国世界第一；骂王毅无耻恶心还不够，美大使提议台湾全面参与联合国事务；中国宣布逮捕12港人；恒大逼宫见效，战投表态不回购</a></li>
 <li><a href="/comments/20201001/1406207.md">百家姓：习近平不敢打台湾</a></li>
-<li><a href="/cbnews/20200930/1405875.md">最新研究：9成中共病毒康复者出现后遗症</a></li>
-<li><a href="/bannedvideo/20200930/1405967.md">史上最乱辩论！评论：美国人输了，最大赢家是中国？孟晚舟可望答辩，华为德国出局，促中国调查谷歌垄断 ; 美国法官禁移民费涨价 ; 独角兽Palantir直接上市｜华尔街网报 (20200930)</a></li>
+<li><a href="/taiwannews/20200930/1405869.md">总统大选辩论 吵成一团！川普vs拜登</a></li>
 <li><a href="/cbnews/20201001/1406305.md">「十一」酒会元老消失 李源潮孟建柱吴胜利露面</a></li>
+<li><a href="/cbnews/20200930/1405875.md">最新研究：9成中共病毒康复者出现后遗症</a></li>
+<li><a href="/bannedvideo/20201001/1406017.md">国会200页加密报告：了解习近平真实意图赌注巨大，不可再错！蓬佩奥：论侵犯人权中国世界第一；骂王毅无耻恶心还不够，美大使提议台湾全面参与联合国事务；中国宣布逮捕12港人；恒大逼宫见效，战投表态不回购</a></li>
+<li><a href="/bannedvideo/20200930/1405967.md">史上最乱辩论！评论：美国人输了，最大赢家是中国？孟晚舟可望答辩，华为德国出局，促中国调查谷歌垄断 ; 美国法官禁移民费涨价 ; 独角兽Palantir直接上市｜华尔街网报 (20200930)</a></li>
 <li><a href="/topimagenews/20201001/1406004.md">中美金融战：小心十月惊奇！大选前美揭晓汇率操纵国名单</a></li>
-<li><a href="/comments/20200930/1405970.md">前中共军官：习近平一个人走夜路吹口哨 共产党明年难过关</a></li>
+<li><a href="/bannedvideo/20201001/1406266.md">动邓小平家族利益，习近平这是怎么了？双方矛盾升级无法避免</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201001/1406398.md" target="_blank">前中共軍官：北京攻台是假象 根本打不了</a></li>
+<li><a href="/cbnews/20201001/1406397.md" target="_blank">不甩中共「十一国庆」美国5军机飞越南海</a></li>
 <li><a href="/cbnews/20201001/1406385.md" target="_blank">川普直击涉中共问题 拜登否认无底气</a></li>
 <li><a href="/cbnews/20201001/1406393.md" target="_blank">针对中共一切侵犯人权行径 美国政府都应采取行动 予以回应和制裁</a></li>
 <li><a href="/cbnews/20201001/1406358.md" target="_blank">薇羽看世间：【第148期】美国大选首场辩论会上，拜登是个被操控的机器人？</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20200930/1405900.md" target="_blank">事实核查：美国总统大选的首场辩论会</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/cbnews/20200930/1405749.md" target="_blank">书记公开退党记</a></li>
-<li><a href="/cbnews/20200930/1405704.md" target="_blank">中共对台湾虎视眈眈 奥布莱恩献计策</a></li>
-<li><a href="/cbnews/20200930/1405703.md" target="_blank">限制华为已恐惧 曝中芯疯狂囤货</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201001/1406401.md" target="_blank">文革再现？传中共发动全国声讨蔡霞 网民：绝对反效果</a></li>
 <li><a href="/comments/20201001/1406392.md" target="_blank">微信总编辑叫嚣严管用户 网民痛斥</a></li>
 <li><a href="/comments/20201001/1406391.md" target="_blank">口蘑炒芦笋</a></li>
 <li><a href="/comments/20201001/1406381.md" target="_blank">世维会「十一」全球串联抗议 呼吁国际施压关闭「再教育集中营」</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201001/1406201.md" target="_blank">与灵魂的对话——惊世的“阿尔法3号” 实验</a></li>
 <li><a href="/comments/20201001/1406190.md" target="_blank">中国的油价是美国的11倍 这就是韭菜头上的政府重量</a></li>
 <li><a href="/comments/20201001/1406189.md" target="_blank">中共在非洲殖民 华工与当地黑人受压迫虐待</a></li>
-<li><a href="/comments/20201001/1406188.md" target="_blank">环保主义政策助燃了美国森林大火</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
