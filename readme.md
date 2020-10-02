@@ -16,13 +16,13 @@
 <li><a href="/cbnews/20201001/1406398.md">前中共軍官：北京攻台是假象 根本打不了</a></li>
 <li><a href="/bannedvideo/20201002/1406571.md">美国会写给习近平的国庆贺词如宣战檄文！《写在中共纪念夺取政权71周年之际》：我们用40年时间认识到你们本性从未改变，也不会改变；蓬佩奥冷面致辞；香港再现大抓捕！ | 今日华尔街 2020-10-1</a></li>
 <li><a href="/lifebaike/20201001/1406332.md">慈禧有这个特殊癖好 李莲英死前说出她的秘密</a></li>
+<li><a href="/baitai/20201002/1406694.md">陈忠林: 中国绝对不敢公布的大数据</a></li>
 <li><a href="/cnnews/20201001/1406473.md">民调川普大胜拜登 左媒裸奔 露馅？拜登被揭 专家评说 中共恐惧什么？</a></li>
 <li><a href="/cnnews/20201002/1406622.md">全球楼市泡沫风险榜出炉！香港排名跌至第4 首位系..</a></li>
-<li><a href="/baitai/20201002/1406694.md">陈忠林: 中国绝对不敢公布的大数据</a></li>
 <li><a href="/baitai/20201002/1406632.md">中国根本的问题是大家心知肚明而不敢说</a></li>
 <li><a href="/cnnews/20201001/1406333.md">引渡案本轮听证结束 孟晚舟口罩衣着大变</a></li>
-<li><a href="/baitai/20201001/1406505.md">没事了? 孟建柱、吴胜利十一酒会露面</a></li>
 <li><a href="/bannedvideo/20201001/1406356.md">财经冷眼：突发！数百亿金融巨头雷爆！5985家金融公司倒闭，数千万金融难民冲击维稳系统！教你几招防割韭菜！（20201001第345期）</a></li>
+<li><a href="/baitai/20201001/1406505.md">没事了? 孟建柱、吴胜利十一酒会露面</a></li>
 <li><a href="/ssgc/20201002/1406630.md">〖兲朝浮世绘〗马云彻底交班 光荣完成任务</a></li>
 <li><a href="/bannedvideo/20201001/1406455.md">美国会83项调查要求制裁中国；孟建柱酒席照上新闻联播；许家印惊动中南海，刘鹤召金融委议对策；蓬佩奥：论侵犯人权中国世界第一；博明：美国将针对中国留学生进行"外科手术"式驱逐| 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/cbnews/20201001/1406397.md">不甩中共「十一国庆」美国5军机飞越南海</a></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201002/1406853.md" target="_blank">中药要点——要药</a></li>
+<li><a href="/comments/20201002/1406852.md" target="_blank">2020年最新抑郁症测试题，来试一下自己吧</a></li>
+<li><a href="/comments/20201002/1406851.md" target="_blank">你为什么总是很累？</a></li>
+<li><a href="/comments/20201002/1406850.md" target="_blank">你的自律 决定着你的人生高度</a></li>
+<li><a href="/comments/20201002/1406849.md" target="_blank">不只柚子哦！还有这「3水果」也适合中秋前后吃</a></li>
 <li><a href="/comments/20201002/1406840.md" target="_blank">英媒：美首轮候选人辩论 拜登未赢得选民人心</a></li>
 <li><a href="/comments/20201002/1406804.md" target="_blank">任世豪：看清中共 它把人民当炮灰</a></li>
 <li><a href="/comments/20201002/1406803.md" target="_blank">颜纯钩：高潮时要冷静 低潮时要乐观</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201002/1406676.md" target="_blank">高启全离职紫光是啥信号？中国或流失更多技术人才</a></li>
 <li><a href="/comments/20201002/1406644.md" target="_blank">习近平造芯梦引发烂尾潮 6个百亿级项目停摆</a></li>
 <li><a href="/comments/20201002/1406643.md" target="_blank">英国政府：华为设备的安全漏洞 对英网络安全有长期威胁</a></li>
-<li><a href="/comments/20201002/1406642.md" target="_blank">英国政府将禁止大陆生入读敏感硕士专业</a></li>
-<li><a href="/comments/20201002/1406641.md" target="_blank">奇闻 俄罗斯也抓偷偷给中共技术的”间谍“？</a></li>
-<li><a href="/comments/20201002/1406611.md" target="_blank">特斯拉的自动驾驶 Autopilot，被欧盟权威机构排名第六</a></li>
-<li><a href="/comments/20201002/1406603.md" target="_blank">研究：姜黄具有止痛之药效</a></li>
-<li><a href="/comments/20201002/1406602.md" target="_blank">中年男人离婚的教训：那些腻了的爱情，莫等失去后才懂得要珍惜</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
