@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20201001/1406461.md">中国楼市掀甩卖潮房价大降 主销美国工厂六成移出中国 A股黑九月股民人均亏2万</a></li>
 <li><a href="/topimagenews/20201001/1406564.md">10.1前后24小时 针对中共 美国来个划时代 两岸三地出大事</a></li>
 <li><a href="/cbnews/20201001/1406398.md">前中共軍官：北京攻台是假象 根本打不了</a></li>
+<li><a href="/baitai/20201002/1406631.md">沉雁：老胡这次真的被吓倒了</a></li>
 <li><a href="/bannedvideo/20201002/1406571.md">美国会写给习近平的国庆贺词如宣战檄文！《写在中共纪念夺取政权71周年之际》：我们用40年时间认识到你们本性从未改变，也不会改变；蓬佩奥冷面致辞；香港再现大抓捕！ | 今日华尔街 2020-10-1</a></li>
 <li><a href="/lifebaike/20201001/1406332.md">慈禧有这个特殊癖好 李莲英死前说出她的秘密</a></li>
-<li><a href="/baitai/20201002/1406631.md">沉雁：老胡这次真的被吓倒了</a></li>
 <li><a href="/cnnews/20201001/1406473.md">民调川普大胜拜登 左媒裸奔 露馅？拜登被揭 专家评说 中共恐惧什么？</a></li>
 <li><a href="/cnnews/20201001/1406333.md">引渡案本轮听证结束 孟晚舟口罩衣着大变</a></li>
-<li><a href="/bannedvideo/20201001/1406356.md">财经冷眼：突发！数百亿金融巨头雷爆！5985家金融公司倒闭，数千万金融难民冲击维稳系统！教你几招防割韭菜！（20201001第345期）</a></li>
-<li><a href="/cbnews/20201001/1405988.md">1vs2，川普不容易：论一个主持人是如何败坏一场辩论</a></li>
 <li><a href="/baitai/20201001/1406505.md">没事了? 孟建柱、吴胜利十一酒会露面</a></li>
-<li><a href="/baitai/20201001/1406230.md">习近平王八吃秤砣铁了</a></li>
 <li><a href="/cnnews/20201002/1406622.md">全球楼市泡沫风险榜出炉！香港排名跌至第4 首位系..</a></li>
+<li><a href="/bannedvideo/20201001/1406356.md">财经冷眼：突发！数百亿金融巨头雷爆！5985家金融公司倒闭，数千万金融难民冲击维稳系统！教你几招防割韭菜！（20201001第345期）</a></li>
+<li><a href="/baitai/20201001/1406230.md">习近平王八吃秤砣铁了</a></li>
 <li><a href="/bannedvideo/20201001/1406455.md">美国会83项调查要求制裁中国；孟建柱酒席照上新闻联播；许家印惊动中南海，刘鹤召金融委议对策；蓬佩奥：论侵犯人权中国世界第一；博明：美国将针对中国留学生进行"外科手术"式驱逐| 华尔街网报合辑【字幕版】</a></li>
 <li><a href="/cnnews/hknews/20201001/1406371.md">穿白袜！林兆波陪林郑现身升旗仪式 心不在焉</a></li>
 <li><a href="/cbnews/20201001/1406397.md">不甩中共「十一国庆」美国5军机飞越南海</a></li>
+<li><a href="/cbnews/20201001/1406432.md">美军曾4度考虑以核弹攻击中国！其中2次「牵涉台湾」</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201002/1406792.md" target="_blank">陶杰：人中煞 左胶克星</a></li>
+<li><a href="/comments/20201002/1406791.md" target="_blank">李濠仲：台湾外交正从“暗适应”走向“明适应” 逆转开始</a></li>
+<li><a href="/comments/20201002/1406790.md" target="_blank">沉默的真相：虽有爝光 难明长夜</a></li>
 <li><a href="/comments/20201002/1406749.md" target="_blank">50位美参议员致函贸易代表 吁展开美台BTA谈判</a></li>
 <li><a href="/comments/20201002/1406732.md" target="_blank">禁书解读 | 余杰：为什么要抵制迪斯尼电影木兰？</a></li>
 <li><a href="/comments/20201002/1406731.md" target="_blank">禁书解读 | 余杰：北美华文报纸沦为中共大外宣工具</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201002/1406601.md" target="_blank">新戏刚播毕 石原聪美亲报婚讯「今年内将择吉日入籍」</a></li>
 <li><a href="/comments/20201002/1406593.md" target="_blank">李白为何感觉衰弱——大雅久不作</a></li>
 <li><a href="/comments/20201002/1406592.md" target="_blank">科学家发现距今12000年的“黄金洞”现史前文明遗迹！颠覆人类历史</a></li>
-<li><a href="/comments/20201001/1406556.md" target="_blank">评论 | 朱兆基：解放军没有了美国芯片 失去跟美军对抗的能力</a></li>
-<li><a href="/comments/20201001/1406523.md" target="_blank">应对中共干预“全新复杂局面” 澳洲警察增加中文探员</a></li>
-<li><a href="/comments/20201001/1406522.md" target="_blank">这种生物不需要氧气就可在地球上生存, 外星生命的存在方式超乎想象</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 
 </ul>
 </div>
