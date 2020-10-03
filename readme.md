@@ -13,8 +13,8 @@
 <li><a href="/comments/20201003/1407511.md">盲眼预言家：美国第45任总统染疫 印度神童：中印若开战将在12月</a></li>
 <li><a href="/bannedvideo/20201003/1407312.md">😱😱英国著名通灵师👁️预言2020年瘐子年的8大预言6条已应验❗预言中国大面积爆发内乱正在兑现❓❗</a></li>
 <li><a href="/cnnews/20201003/1407589.md">习近平要拿下王岐山？ 内部消息透实情？！ 习近平极左底气何在?</a></li>
-<li><a href="/topimagenews/20201003/1407316.md">川普露面了：我现在感觉良好!…</a></li>
 <li><a href="/taiwannews/20201003/1407458.md">王岐山被调查，中共内斗白热化？港人抗争：没有国庆只有国殇</a></li>
+<li><a href="/topimagenews/20201003/1407316.md">川普露面了：我现在感觉良好!…</a></li>
 <li><a href="/taiwannews/20201003/1407535.md">红二代与习近平决裂！贵族发动叛变？！反习号角！习近平走毛泽东路线惨踢铁板？！【2020.10.03『年代向钱看』周末精选】</a></li>
 <li><a href="/cnnews/20201003/1407422.md">川普确诊各国问候 小金都动了 只有习近平无动静</a></li>
 <li><a href="/cnnews/20201003/1407439.md">当看到川普在宾州Rally大雨中的图片 瞬间确信 他就是一位战士</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/cnnews/20201003/1407430.md">得知川普确诊后 拜登阵营迅速做了一件事</a></li>
 <li><a href="/bannedvideo/20201003/1407581.md">美国猛料制裁中共，耿爽华春莹要哭，幸灾乐祸报应太快。</a></li>
 <li><a href="/cnnews/20201003/1407464.md">台积电砸440亿元买世界最贵EUV光刻机 长这样</a></li>
+<li><a href="/topimagenews/20201004/1407663.md">川普露面后最新消息变数何在?川普遭遇珍珠港无碍3大原因 美很多城市祈祷守夜</a></li>
 <li><a href="/cnnews/20201003/1407473.md">作好心理准备 让你瞬间惊呆！几组美国名人家庭照片的对比</a></li>
 <li><a href="/comments/20201003/1407573.md">姗姗来迟有何难处？习近平终于致电慰问川普夫妇</a></li>
-<li><a href="/baitai/20201003/1407459.md">二大爷：那些为川普染病而欢呼的人，恐怕都笑早了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201004/1407728.md" target="_blank">《风语咒》真是难得的国产神片，内藏重大预言</a></li>
 <li><a href="/cbnews/20201004/1407721.md" target="_blank">网曝四川简阳市出现随地倒 警察到场拦警戒线</a></li>
 <li><a href="/cbnews/20201004/1407720.md" target="_blank">网曝唐山新街闹市 一车连环撞数十人 满街是血</a></li>
 <li><a href="/cbnews/20201004/1407708.md" target="_blank">中国留英学生研究敏感技术科目将受到限制</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201003/1407123.md" target="_blank">萧铭：川普中招：塞翁失马？</a></li>
 <li><a href="/cbnews/20201002/1407113.md" target="_blank">天亮时分：川普感染新冠病毒，对选情和世界局势的影响</a></li>
 <li><a href="/cbnews/20201002/1407112.md" target="_blank">天路漫游：【川普确诊】新冠检测呈阳性，总统中招我咋看？</a></li>
-<li><a href="/cbnews/20201002/1407067.md" target="_blank">疫苗致残宝宝家长何方美 携墨怒泼县政府门牌</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201004/1407742.md" target="_blank">从月球带回来的岩石样本中发现了锆石，月球脱胎于地球?</a></li>
 <li><a href="/comments/20201004/1407725.md" target="_blank">欧盟美国协调行动 制裁侵犯人权的白俄罗斯官员</a></li>
 <li><a href="/comments/20201004/1407724.md" target="_blank">特斯拉通过小型的无线电接收器发现太阳系外面包裹着一层壳,太阳系象巨型鸡蛋？</a></li>
 <li><a href="/comments/20201004/1407719.md" target="_blank">「金曲31」吴青峰无悬念夺国语歌王 魏如萱一票之差拿下国语歌后</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201003/1407428.md" target="_blank">陶杰：读点马克思就想通</a></li>
 <li><a href="/comments/20201003/1407409.md" target="_blank">中共若攻打台湾 枪声一响老习必倒</a></li>
 <li><a href="/comments/20201003/1407406.md" target="_blank">炎症性肠病有望被蓝莓中的紫檀芪治愈</a></li>
-<li><a href="/comments/20201003/1407405.md" target="_blank">十种看似无害的习惯正在逐渐危害你的健康</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
