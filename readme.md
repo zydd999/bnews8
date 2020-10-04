@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20201004/1407894.md">什么事？美国务院发声明：我们感到非常愤慨</a></li>
 <li><a href="/cbnews/20201004/1407721.md">网曝四川简阳市出现随地倒 警察到场拦警戒线</a></li>
 <li><a href="/cnnews/20201004/1407828.md">最新的法案如过 或将严重打击数百万华裔的未来发展</a></li>
-<li><a href="/cbnews/20201004/1407754.md">川普总统发布对向全国致辞：我会回来的！为了美国，也为了世界，我将战胜病毒！</a></li>
 <li><a href="/comments/20201004/1407995.md">半夜里的“最高指示” 全国人民都像精神分裂了</a></li>
+<li><a href="/cbnews/20201004/1407754.md">川普总统发布对向全国致辞：我会回来的！为了美国，也为了世界，我将战胜病毒！</a></li>
 <li><a href="/cbnews/20201004/1407720.md">网曝唐山新街闹市 一车连环撞数十人 满街是血</a></li>
-<li><a href="/cnnews/20201004/1407741.md">川普住的军医院来头不小！总统级病房豪华内装曝光</a></li>
 <li><a href="/topimagenews/20201004/1407911.md">美国大使和夫人发布临别致辞视频 网友呼吁：和中共国断交</a></li>
+<li><a href="/cnnews/20201004/1407741.md">川普住的军医院来头不小！总统级病房豪华内装曝光</a></li>
 <li><a href="/cnnews/20201004/1407952.md">川普最新消息：已用瑞德西韦第二剂 白宫医生这样说…</a></li>
-<li><a href="/cbnews/20201004/1407757.md">内幕：人人过关 党员网上言论再收紧</a></li>
 <li><a href="/bannedvideo/20201004/1407984.md">省官蒋超良向美泄中共高层祕闻</a></li>
+<li><a href="/cbnews/20201004/1407757.md">内幕：人人过关 党员网上言论再收紧</a></li>
 <li><a href="/comments/20201004/1407941.md">幸灾乐祸的代价：“中共对我们的总统实施了生化攻击”</a></li>
 <li><a href="/lifebaike/20201004/1407862.md">宫女惊见慈禧起床秘密目击者全被砍头</a></li>
 <li><a href="/cbnews/20201004/1407728.md">《风语咒》真是难得的国产神片，内藏重大预言</a></li>
-<li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/baitai/20201004/1408045.md">捉奸殴奸夫儿半裸站床边网喊：关系乱得看不懂</a></li>
+<li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/ssgc/20201004/1407559.md">川普总统染疫 中共骑虎难下</a></li>
 <li><a href="/cbnews/20201004/1407895.md">中共前外交官：与多国同时对抗是外交彻底失败</a></li>
 <li><a href="/bannedvideo/20201004/1407785.md">《石涛聚焦》「CNN：习近平被吓坏啦 实在不知道川普将如何报复他！」参众两院共和党议员与川普竞选官员皆怒吼「中共国把病毒传给了我们的总统 必须让他们付出代价，代表中共国正式干预美国选举」（03/10）</a></li>
-<li><a href="/bannedvideo/20201004/1407732.md">财经冷眼：突发！美国移民局禁止中共党员移民！在美党员将被遣返，退党潮真的来了！（20201004第347期）</a></li>
 <li><a href="/topimagenews/20201004/1408020.md">川普逼中共向死角影响深远 中数百亿巨头爆雷创37万难民 中国经济要完债务恐变数字币</a></li>
+<li><a href="/bannedvideo/20201004/1407732.md">财经冷眼：突发！美国移民局禁止中共党员移民！在美党员将被遣返，退党潮真的来了！（20201004第347期）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201005/1408112.md" target="_blank">中芯国际证实：遭美进一步限制 影响可能大不利</a></li>
 <li><a href="/topimagenews/20201004/1408084.md" target="_blank">巨变 川普禁令发威涉中共官二代? 英国欧盟加拿大异动 移民西方悬了?</a></li>
 <li><a href="/topimagenews/20201004/1408020.md" target="_blank">川普逼中共向死角影响深远 中数百亿巨头爆雷创37万难民 中国经济要完债务恐变数字币</a></li>
 <li><a href="/topimagenews/20201004/1407911.md" target="_blank">美国大使和夫人发布临别致辞视频 网友呼吁：和中共国断交</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201001/1406564.md" target="_blank">10.1前后24小时 针对中共 美国来个划时代 两岸三地出大事</a></li>
 <li><a href="/comments/20201001/1406207.md" target="_blank">百家姓：习近平不敢打台湾</a></li>
 <li><a href="/topimagenews/20201001/1406461.md" target="_blank">中国楼市掀甩卖潮房价大降 主销美国工厂六成移出中国 A股黑九月股民人均亏2万</a></li>
-<li><a href="/topimagenews/20201001/1406292.md" target="_blank">自杀式无人机炸掉雷达 S-300防空导弹系统瘫痪 导弹成了摆设</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
