@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20201003/1407589.md">习近平要拿下王岐山？ 内部消息透实情？！ 习近平极左底气何在?</a></li>
 <li><a href="/cbnews/20201004/1407758.md">欠赌债被逼当性奴！大陆护士杀医生碎尸震惊社会</a></li>
-<li><a href="/lifebaike/20201003/1407571.md">北京被迫迁府 终于印证了断肠遗言</a></li>
 <li><a href="/topimagenews/20201004/1407894.md">什么事？美国务院发声明：我们感到非常愤慨</a></li>
 <li><a href="/bannedvideo/20201004/1407705.md">快评：川普病情好转筹划大招报复中共、众议院中共病毒起源报告并没有采纳阎丽梦说法、美禁止共党申请移民和绿卡（10/3）</a></li>
-<li><a href="/cnnews/20201004/1407828.md">最新的法案如过 或将严重打击数百万华裔的未来发展</a></li>
 <li><a href="/bannedvideo/20201003/1407581.md">美国猛料制裁中共，耿爽华春莹要哭，幸灾乐祸报应太快。</a></li>
+<li><a href="/cnnews/20201004/1407828.md">最新的法案如过 或将严重打击数百万华裔的未来发展</a></li>
 <li><a href="/topimagenews/20201004/1407663.md">川普露面后最新消息变数何在?川普遭遇珍珠港无碍3大原因 美很多城市祈祷守夜</a></li>
 <li><a href="/cbnews/20201004/1407721.md">网曝四川简阳市出现随地倒 警察到场拦警戒线</a></li>
-<li><a href="/cbnews/20201004/1407754.md">川普总统发布对向全国致辞：我会回来的！为了美国，也为了世界，我将战胜病毒！</a></li>
 <li><a href="/topimagenews/20201004/1407911.md">美国大使和夫人发布临别致辞视频 网友呼吁：和中共国断交</a></li>
+<li><a href="/cbnews/20201004/1407754.md">川普总统发布对向全国致辞：我会回来的！为了美国，也为了世界，我将战胜病毒！</a></li>
 <li><a href="/cnnews/20201004/1407741.md">川普住的军医院来头不小！总统级病房豪华内装曝光</a></li>
 <li><a href="/cbnews/20201004/1407720.md">网曝唐山新街闹市 一车连环撞数十人 满街是血</a></li>
 <li><a href="/cbnews/20201004/1407757.md">内幕：人人过关 党员网上言论再收紧</a></li>
-<li><a href="/comments/20201003/1407573.md">姗姗来迟有何难处？习近平终于致电慰问川普夫妇</a></li>
 <li><a href="/lifebaike/20201004/1407862.md">宫女惊见慈禧起床秘密目击者全被砍头</a></li>
-<li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/cbnews/20201004/1407728.md">《风语咒》真是难得的国产神片，内藏重大预言</a></li>
+<li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/ssgc/20201004/1407559.md">川普总统染疫 中共骑虎难下</a></li>
 <li><a href="/cnnews/20201004/1407655.md">核爆消息！美国禁中共党团队员移民 俄防空系统瘫痪 习近平胆寒 中共军演怕美军死神突袭</a></li>
 <li><a href="/cbnews/20201003/1407614.md">美国正式实施共产党员移民禁令</a></li>
 <li><a href="/bannedvideo/20201004/1407785.md">《石涛聚焦》「CNN：习近平被吓坏啦 实在不知道川普将如何报复他！」参众两院共和党议员与川普竞选官员皆怒吼「中共国把病毒传给了我们的总统 必须让他们付出代价，代表中共国正式干预美国选举」（03/10）</a></li>
+<li><a href="/cnnews/20201004/1407952.md">川普最新消息：已用瑞德西韦第二剂 白宫医生这样说…</a></li>
 <li><a href="/bannedvideo/20201004/1407732.md">财经冷眼：突发！美国移民局禁止中共党员移民！在美党员将被遣返，退党潮真的来了！（20201004第347期）</a></li>
+<li><a href="/topimagenews/20201004/1407786.md">川普发最新视频 滔滔不绝 气色不错</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201004/1408020.md" target="_blank">川普逼中共向死角影响深远 中数百亿巨头爆雷创37万难民 中国经济要完债务恐变数字币</a></li>
 <li><a href="/topimagenews/20201004/1407911.md" target="_blank">美国大使和夫人发布临别致辞视频 网友呼吁：和中共国断交</a></li>
 <li><a href="/topimagenews/20201004/1407894.md" target="_blank">什么事？美国务院发声明：我们感到非常愤慨</a></li>
 <li><a href="/topimagenews/20201004/1407786.md" target="_blank">川普发最新视频 滔滔不绝 气色不错</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201001/1406461.md" target="_blank">中国楼市掀甩卖潮房价大降 主销美国工厂六成移出中国 A股黑九月股民人均亏2万</a></li>
 <li><a href="/topimagenews/20201001/1406292.md" target="_blank">自杀式无人机炸掉雷达 S-300防空导弹系统瘫痪 导弹成了摆设</a></li>
 <li><a href="/topimagenews/20201001/1406206.md" target="_blank">阵风战机刚来没几天 米格29又飞临拉达克</a></li>
-<li><a href="/topimagenews/20201001/1406146.md" target="_blank">最后 他听到一个人厉声说：“你要是去华盛顿 中国政府就不来了！”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
