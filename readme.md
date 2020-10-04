@@ -17,17 +17,17 @@
 <li><a href="/taiwannews/20201003/1407457.md">中共病毒疫情在中国多地复燃。，上海医生张文宏中国出现第二波疫情</a></li>
 <li><a href="/lifebaike/20201003/1407571.md">北京被迫迁府 终于印证了断肠遗言</a></li>
 <li><a href="/topimagenews/20201003/1407569.md">外汇竭外资撤中共年损3/4兆美元 中国式穷人资产百万生活无保障 最大黑天鹅撼全球市场</a></li>
-<li><a href="/cbnews/20201003/1407555.md">川普确诊住院治疗！习近平致电慰问了</a></li>
 <li><a href="/topimagenews/20201004/1407663.md">川普露面后最新消息变数何在?川普遭遇珍珠港无碍3大原因 美很多城市祈祷守夜</a></li>
-<li><a href="/cnnews/20201003/1407430.md">得知川普确诊后 拜登阵营迅速做了一件事</a></li>
+<li><a href="/cbnews/20201003/1407555.md">川普确诊住院治疗！习近平致电慰问了</a></li>
 <li><a href="/bannedvideo/20201003/1407581.md">美国猛料制裁中共，耿爽华春莹要哭，幸灾乐祸报应太快。</a></li>
+<li><a href="/cnnews/20201003/1407430.md">得知川普确诊后 拜登阵营迅速做了一件事</a></li>
 <li><a href="/cnnews/20201003/1407464.md">台积电砸440亿元买世界最贵EUV光刻机 长这样</a></li>
 <li><a href="/cnnews/20201003/1407473.md">作好心理准备 让你瞬间惊呆！几组美国名人家庭照片的对比</a></li>
 <li><a href="/comments/20201003/1407573.md">姗姗来迟有何难处？习近平终于致电慰问川普夫妇</a></li>
-<li><a href="/baitai/20201003/1407459.md">二大爷：那些为川普染病而欢呼的人，恐怕都笑早了</a></li>
+<li><a href="/bannedvideo/20201004/1407705.md">快评：川普病情好转筹划大招报复中共、众议院中共病毒起源报告并没有采纳阎丽梦说法、美禁止共党申请移民和绿卡（10/3）</a></li>
 <li><a href="/topimagenews/20201003/1407483.md">史无前例的无人机大战！ 是否意味地面装甲力量再无用处？</a></li>
+<li><a href="/baitai/20201003/1407459.md">二大爷：那些为川普染病而欢呼的人，恐怕都笑早了</a></li>
 <li><a href="/cbnews/20201003/1407408.md">毒打 开水烫… 刘志斌被山西晋中监狱活活虐杀</a></li>
-<li><a href="/headline/20201003/1407325.md">又一名中共引以为荣的天安门屠夫</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201004/1407790.md" target="_blank">天亮时分：川普病情更新；大选民调更有利于川普；美国移民归化局禁止中共党员申请绿卡，https://zhangtianliang.landofhope.tv</a></li>
+<li><a href="/cbnews/20201004/1407789.md" target="_blank">天路漫游：【美国移民】川普确诊後，美国移民局停止中共党员绿卡申请和移民身份调整</a></li>
 <li><a href="/cbnews/20201004/1407783.md" target="_blank">陈破空：总统染疫日，美国政府正式公告：严禁共产党员移民！金正恩习近平争相慰问特朗普。加拿大军舰开进台海</a></li>
 <li><a href="/cbnews/20201004/1407775.md" target="_blank">川普夫妇不幸染疫 “墙国”小粉红狂乱欢呼</a></li>
 <li><a href="/cbnews/20201004/1407754.md" target="_blank">川普总统发布对向全国致辞：我会回来的！为了美国，也为了世界，我将战胜病毒！</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20201003/1407282.md" target="_blank">紧急！谨防中共投毒彭斯副总统 推佩洛西上位</a></li>
 <li><a href="/cbnews/20201003/1407264.md" target="_blank">文昭：川普新冠确诊，他要不行了会发生什麽？对习近平是福是祸，十月惊奇第一波</a></li>
 <li><a href="/cbnews/20201003/1407201.md" target="_blank">饥荒逼近？！网曝东北秋粮仍泡在水中</a></li>
-<li><a href="/cbnews/20201003/1407199.md" target="_blank">陈破空：川普染疾震动全球！神秘军机紧急出动。北京故作沉默。胡锡进暗示超限战得手？股市重挫。各国舆论纷纷</a></li>
-<li><a href="/cbnews/20201003/1407177.md" target="_blank">薇羽看世间：【第149期】川普突然染疫，给我们带来的问题与思考。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
