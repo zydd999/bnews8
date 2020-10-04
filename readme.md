@@ -15,17 +15,17 @@
 <li><a href="/cbnews/20201004/1407754.md">川普总统发布对向全国致辞：我会回来的！为了美国，也为了世界，我将战胜病毒！</a></li>
 <li><a href="/cnnews/20201004/1407741.md">川普住的军医院来头不小！总统级病房豪华内装曝光</a></li>
 <li><a href="/cbnews/20201004/1407720.md">网曝唐山新街闹市 一车连环撞数十人 满街是血</a></li>
-<li><a href="/cbnews/20201004/1407757.md">内幕：人人过关 党员网上言论再收紧</a></li>
 <li><a href="/cnnews/20201004/1407952.md">川普最新消息：已用瑞德西韦第二剂 白宫医生这样说…</a></li>
+<li><a href="/cbnews/20201004/1407757.md">内幕：人人过关 党员网上言论再收紧</a></li>
 <li><a href="/lifebaike/20201004/1407862.md">宫女惊见慈禧起床秘密目击者全被砍头</a></li>
-<li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/cbnews/20201004/1407728.md">《风语咒》真是难得的国产神片，内藏重大预言</a></li>
+<li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/ssgc/20201004/1407559.md">川普总统染疫 中共骑虎难下</a></li>
-<li><a href="/cnnews/20201004/1407655.md">核爆消息！美国禁中共党团队员移民 俄防空系统瘫痪 习近平胆寒 中共军演怕美军死神突袭</a></li>
-<li><a href="/bannedvideo/20201004/1407785.md">《石涛聚焦》「CNN：习近平被吓坏啦 实在不知道川普将如何报复他！」参众两院共和党议员与川普竞选官员皆怒吼「中共国把病毒传给了我们的总统 必须让他们付出代价，代表中共国正式干预美国选举」（03/10）</a></li>
-<li><a href="/cbnews/20201003/1407614.md">美国正式实施共产党员移民禁令</a></li>
-<li><a href="/bannedvideo/20201004/1407732.md">财经冷眼：突发！美国移民局禁止中共党员移民！在美党员将被遣返，退党潮真的来了！（20201004第347期）</a></li>
 <li><a href="/comments/20201004/1407941.md">幸灾乐祸的代价：“中共对我们的总统实施了生化攻击”</a></li>
+<li><a href="/cnnews/20201004/1407655.md">核爆消息！美国禁中共党团队员移民 俄防空系统瘫痪 习近平胆寒 中共军演怕美军死神突袭</a></li>
+<li><a href="/cbnews/20201003/1407614.md">美国正式实施共产党员移民禁令</a></li>
+<li><a href="/bannedvideo/20201004/1407785.md">《石涛聚焦》「CNN：习近平被吓坏啦 实在不知道川普将如何报复他！」参众两院共和党议员与川普竞选官员皆怒吼「中共国把病毒传给了我们的总统 必须让他们付出代价，代表中共国正式干预美国选举」（03/10）</a></li>
+<li><a href="/bannedvideo/20201004/1407732.md">财经冷眼：突发！美国移民局禁止中共党员移民！在美党员将被遣返，退党潮真的来了！（20201004第347期）</a></li>
 <li><a href="/cbnews/20201004/1407895.md">中共前外交官：与多国同时对抗是外交彻底失败</a></li>
 <li><a href="/topimagenews/20201004/1407786.md">川普发最新视频 滔滔不绝 气色不错</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201004/1408067.md" target="_blank">【视频】吉林扶余货车连环撞两车 18人死1伤</a></li>
 <li><a href="/comments/20201004/1408052.md" target="_blank">刘锐绍：五中全会习近平做手脚固权 防集体反扑</a></li>
 <li><a href="/comments/20201004/1408051.md" target="_blank">抬头低头出现头晕 小心是这个脱落了</a></li>
 <li><a href="/comments/20201004/1408050.md" target="_blank">1杯＝6苹果！研究发现它藏有惊人「抗氧化」神效</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201004/1407861.md" target="_blank">张凯律师：人世间 真的有无缘无故的恨</a></li>
 <li><a href="/comments/20201004/1407860.md" target="_blank">一段让人深思的碑文</a></li>
 <li><a href="/comments/20201004/1407859.md" target="_blank">颜纯钩：香港人唯有团结才能走到底</a></li>
-<li><a href="/comments/20201004/1407858.md" target="_blank">【微博精粹】那些庆祝日本大地震 美国911的殇国人10.1又高潮了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 <li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 
 </ul>
 </div>
