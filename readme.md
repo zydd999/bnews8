@@ -12,22 +12,22 @@
 <li><a href="/comments/20201003/1407511.md">盲眼预言家：美国第45任总统染疫 印度神童：中印若开战将在12月</a></li>
 <li><a href="/cnnews/20201003/1407589.md">习近平要拿下王岐山？ 内部消息透实情？！ 习近平极左底气何在?</a></li>
 <li><a href="/taiwannews/20201003/1407535.md">红二代与习近平决裂！贵族发动叛变？！反习号角！习近平走毛泽东路线惨踢铁板？！【2020.10.03『年代向钱看』周末精选】</a></li>
-<li><a href="/cnnews/20201003/1407422.md">川普确诊各国问候 小金都动了 只有习近平无动静</a></li>
 <li><a href="/cnnews/20201003/1407439.md">当看到川普在宾州Rally大雨中的图片 瞬间确信 他就是一位战士</a></li>
+<li><a href="/cnnews/20201003/1407422.md">川普确诊各国问候 小金都动了 只有习近平无动静</a></li>
 <li><a href="/taiwannews/20201003/1407457.md">中共病毒疫情在中国多地复燃。，上海医生张文宏中国出现第二波疫情</a></li>
 <li><a href="/lifebaike/20201003/1407571.md">北京被迫迁府 终于印证了断肠遗言</a></li>
 <li><a href="/topimagenews/20201003/1407569.md">外汇竭外资撤中共年损3/4兆美元 中国式穷人资产百万生活无保障 最大黑天鹅撼全球市场</a></li>
+<li><a href="/bannedvideo/20201004/1407705.md">快评：川普病情好转筹划大招报复中共、众议院中共病毒起源报告并没有采纳阎丽梦说法、美禁止共党申请移民和绿卡（10/3）</a></li>
 <li><a href="/cbnews/20201003/1407555.md">川普确诊住院治疗！习近平致电慰问了</a></li>
 <li><a href="/topimagenews/20201004/1407663.md">川普露面后最新消息变数何在?川普遭遇珍珠港无碍3大原因 美很多城市祈祷守夜</a></li>
 <li><a href="/bannedvideo/20201003/1407581.md">美国猛料制裁中共，耿爽华春莹要哭，幸灾乐祸报应太快。</a></li>
 <li><a href="/cnnews/20201003/1407430.md">得知川普确诊后 拜登阵营迅速做了一件事</a></li>
-<li><a href="/bannedvideo/20201004/1407705.md">快评：川普病情好转筹划大招报复中共、众议院中共病毒起源报告并没有采纳阎丽梦说法、美禁止共党申请移民和绿卡（10/3）</a></li>
 <li><a href="/cnnews/20201003/1407464.md">台积电砸440亿元买世界最贵EUV光刻机 长这样</a></li>
 <li><a href="/cnnews/20201003/1407473.md">作好心理准备 让你瞬间惊呆！几组美国名人家庭照片的对比</a></li>
 <li><a href="/comments/20201003/1407573.md">姗姗来迟有何难处？习近平终于致电慰问川普夫妇</a></li>
 <li><a href="/topimagenews/20201003/1407483.md">史无前例的无人机大战！ 是否意味地面装甲力量再无用处？</a></li>
 <li><a href="/baitai/20201003/1407459.md">二大爷：那些为川普染病而欢呼的人，恐怕都笑早了</a></li>
-<li><a href="/cbnews/20201003/1407408.md">毒打 开水烫… 刘志斌被山西晋中监狱活活虐杀</a></li>
+<li><a href="/cbnews/20201004/1407721.md">网曝四川简阳市出现随地倒 警察到场拦警戒线</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201004/1407817.md" target="_blank">原南京军区司令部离休军官傅义栓遭迫害离世</a></li>
+<li><a href="/cbnews/20201004/1407815.md" target="_blank">遭21年迫害 原南京军区司令部副部长傅义栓离世</a></li>
 <li><a href="/cbnews/20201004/1407792.md" target="_blank">习近平一带一路再遇挫 重要节点遭遇外高加索战事</a></li>
 <li><a href="/cbnews/20201004/1407791.md" target="_blank">贵州精神障碍女被性侵 父亲举报两度被拘留</a></li>
 <li><a href="/cbnews/20201004/1407790.md" target="_blank">天亮时分：川普病情更新；大选民调更有利于川普；美国移民归化局禁止中共党员申请绿卡，https://zhangtianliang.landofhope.tv</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201003/1407327.md" target="_blank">大学生湖南热气球堕地亡全实录 职员「没甚么大事」惹众怒</a></li>
 <li><a href="/cbnews/20201003/1407314.md" target="_blank">天亮时分：川普住院；目前的治疗措施；国会众议员起草法案讲中共定为跨国犯罪集团(政论天下第238集 20201002)</a></li>
 <li><a href="/cbnews/20201003/1407313.md" target="_blank">薇羽看世间：【中文字幕】一部基於真实故事改编的FBI电影。</a></li>
-<li><a href="/topimagenews/20201003/1407290.md" target="_blank">视频：特朗普确诊新冠后首次公开表示感觉自身状态良好</a></li>
-<li><a href="/comments/20201003/1407282.md" target="_blank">紧急！谨防中共投毒彭斯副总统 推佩洛西上位</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 
 </ul>
 </div>
