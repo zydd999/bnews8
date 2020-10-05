@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20201004/1407894.md">什么事？美国务院发声明：我们感到非常愤慨</a></li>
 <li><a href="/cnnews/20201004/1407828.md">最新的法案如过 或将严重打击数百万华裔的未来发展</a></li>
 <li><a href="/comments/20201004/1407995.md">半夜里的“最高指示” 全国人民都像精神分裂了</a></li>
-<li><a href="/topimagenews/20201004/1407911.md">美国大使和夫人发布临别致辞视频 网友呼吁：和中共国断交</a></li>
 <li><a href="/bannedvideo/20201004/1407984.md">省官蒋超良向美泄中共高层祕闻</a></li>
+<li><a href="/topimagenews/20201004/1407911.md">美国大使和夫人发布临别致辞视频 网友呼吁：和中共国断交</a></li>
 <li><a href="/cnnews/20201004/1407952.md">川普最新消息：已用瑞德西韦第二剂 白宫医生这样说…</a></li>
 <li><a href="/baitai/20201004/1408045.md">捉奸殴奸夫儿半裸站床边网喊：关系乱得看不懂</a></li>
 <li><a href="/topimagenews/20201004/1408084.md">巨变 川普禁令发威涉中共官二代? 英国欧盟加拿大异动 移民西方悬了?</a></li>
@@ -18,15 +18,15 @@
 <li><a href="/bannedvideo/20201004/1407898.md">习近平为什么是最后一个慰问川普的外国领导人（2020，10，03第15则）</a></li>
 <li><a href="/bannedvideo/20201004/1408068.md">习近平给自己加冕第四个主席，为进纪念堂做准备</a></li>
 <li><a href="/topimagenews/20201004/1408020.md">川普逼中共向死角影响深远 中数百亿巨头爆雷创37万难民 中国经济要完债务恐变数字币</a></li>
-<li><a href="/baitai/20201005/1408098.md">【立此存照】浙江公安集中公示对翻墙网友的训诫公告</a></li>
 <li><a href="/topimagenews/20201005/1408122.md">惊人一幕中共特色演砸了 习近平对台湾动手必败关键 印度开了挂1天2大军事大捷</a></li>
+<li><a href="/baitai/20201005/1408098.md">【立此存照】浙江公安集中公示对翻墙网友的训诫公告</a></li>
 <li><a href="/cbnews/20201004/1407895.md">中共前外交官：与多国同时对抗是外交彻底失败</a></li>
 <li><a href="/baitai/20201004/1408060.md">复旦大学张维为：美国神话走向终结中国公知集体崩塌</a></li>
 <li><a href="/bannedvideo/20201004/1407785.md">《石涛聚焦》「CNN：习近平被吓坏啦 实在不知道川普将如何报复他！」参众两院共和党议员与川普竞选官员皆怒吼「中共国把病毒传给了我们的总统 必须让他们付出代价，代表中共国正式干预美国选举」（03/10）</a></li>
 <li><a href="/lifebaike/20201004/1407917.md">全国高考状元之死：化装成黑人出逃外国领馆</a></li>
 <li><a href="/topimagenews/20201004/1407786.md">川普发最新视频 滔滔不绝 气色不错</a></li>
-<li><a href="/lifebaike/20201004/1407863.md">他发现新婚妻子常常「拿着吸管躲到厕所里」 这天他忍不住偷看</a></li>
 <li><a href="/cbnews/20201004/1407953.md">将波及中共官二代商二代？美禁止共产党员移民 释放严格执法强烈信号</a></li>
+<li><a href="/lifebaike/20201004/1407863.md">他发现新婚妻子常常「拿着吸管躲到厕所里」 这天他忍不住偷看</a></li>
 <li><a href="/cnnews/20201004/1407928.md">邓小平履历中的造假</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
