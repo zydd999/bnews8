@@ -16,15 +16,15 @@
 <li><a href="/cbnews/20201005/1408153.md">中共院士踩红毯考察庄稼地 网络炸锅</a></li>
 <li><a href="/cnnews/20201005/1408222.md">菅义伟才上台就有动作 中共军方大为紧张</a></li>
 <li><a href="/cnnews/20201005/1408281.md">老百姓动手了！网传视频：执法者打人犯众怒 被民众痛殴</a></li>
+<li><a href="/cnnews/20201005/1408382.md">高速公路大塞车⋯“中国最神秘的组织”现身</a></li>
 <li><a href="/topimagenews/20201005/1408141.md">中美科技战：大陆晶片短缺困境恐蔓延至汽车业</a></li>
 <li><a href="/baitai/20201005/1408157.md">刘道玉 （原武汉大学校长）: 我国没有一所大学校训中有“自由”二字</a></li>
 <li><a href="/cbnews/20201005/1408304.md">“十一”最毒风水局：4万血旗插满武汉</a></li>
 <li><a href="/bannedvideo/20201005/1408080.md">川普总统病情一夜无消息，卢比奥清晨发祷告，蓬佩奥怒斥武汉病毒</a></li>
-<li><a href="/cnnews/20201005/1408382.md">高速公路大塞车⋯“中国最神秘的组织”现身</a></li>
-<li><a href="/cnnews/20201004/1408085.md">川普最新消息 可全面康复？ 特效药一剂可减少病毒99%？ 在医院口述一个声明</a></li>
 <li><a href="/finance/20201005/1408366.md">楼市变了 115万人弃房、200万房降50万！明年房价更悲伤</a></li>
-<li><a href="/funmedia/20201005/1408245.md">为何航母出航会有大量鲸鱼跟随？原因很残忍</a></li>
 <li><a href="/cnnews/20201005/1408414.md">川普“高规”养病 华春莹发推嘲讽又被“打脸”</a></li>
+<li><a href="/cnnews/20201004/1408085.md">川普最新消息 可全面康复？ 特效药一剂可减少病毒99%？ 在医院口述一个声明</a></li>
+<li><a href="/funmedia/20201005/1408245.md">为何航母出航会有大量鲸鱼跟随？原因很残忍</a></li>
 <li><a href="/bannedvideo/20201004/1408079.md">快评：共和党指责中共病毒袭击了川普、中共为何不敢多宣传川普中毒？习龙袍引全球谴责与愤怒（10/4）</a></li>
 <li><a href="/cbnews/20201005/1408238.md">幼儿园副园长金素芳大嚷大叫：“你不签 全园老师都得不到奖金</a></li>
 <li><a href="/bannedvideo/20201005/1408332.md">川普给了支持者一个大惊喜，川普支持率大涨，朱利安尼要中共对病毒负责</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201005/1408576.md" target="_blank">新铁锅如何变成不沾锅？专业大厨教你开锅</a></li>
 <li><a href="/comments/20201005/1408555.md" target="_blank">闫丽梦：清除中共才能找到治疗中共病毒的有效方案</a></li>
 <li><a href="/comments/20201005/1408543.md" target="_blank">大陆“十一”假期车祸频发 酿26死19伤</a></li>
 <li><a href="/comments/20201005/1408542.md" target="_blank">中共迫害宗教 蓬佩奥吁全球联合追责中共 保护宗教自由</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201005/1408345.md" target="_blank">【微博精粹】川普染疫只有小粉红嗨 绿卡没了才是全党同志的最嗨</a></li>
 <li><a href="/comments/20201005/1408326.md" target="_blank">“脱北”青年大爆料！金正恩曾当众辱骂习近平“狗崽子”</a></li>
 <li><a href="/comments/20201005/1408315.md" target="_blank">私分修缮城隍庙的善银 为何分银的人得到的报应不同</a></li>
-<li><a href="/comments/20201005/1408250.md" target="_blank">颜纯钩： 川普染疫美国没事 习近平中招才不可想象</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
 
 </ul>
 </div>
