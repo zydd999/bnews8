@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20201005/1408568.md">王岐山祭出保命五条与习切割</a></li>
 <li><a href="/cnnews/20201005/1408589.md">造反！中共前高官罕见批习近平 胡锡进惹祸还说漏内幕 金正恩当众大骂习3个字</a></li>
-<li><a href="/topimagenews/20201005/1408518.md">中国制造没魂 日机床独霸世界 内循环失败 黄金周上演空城计 中国社会底层 看得我心凉</a></li>
 <li><a href="/topimagenews/20201005/1408607.md">奇迹正发生 川普住院 6大摇摆州变天 智库民调:川普高票连任 蓬佩奥将有“重大宣布”</a></li>
 <li><a href="/cnnews/20201006/1408723.md">不是我干的？习近平慰问川普用词被指藏玄机</a></li>
 <li><a href="/topimagenews/20201006/1408950.md">胡锡进给中南海捅大娄子了 他嘲笑川普 被美国大媒体拎出来曝光了</a></li>
 <li><a href="/ssgc/20201006/1408743.md">〖兲朝浮世绘〗华春莹又翻墙在推特上惹祸了</a></li>
 <li><a href="/bannedvideo/20201006/1408677.md">白宫新闻秘书确诊！川普总统支持者医院外守候遇惊喜</a></li>
 <li><a href="/bannedvideo/20201006/1408765.md">习近平敲山震虎不打虎：王岐山 孟建柱 赵乐际 王晓东都慌</a></li>
-<li><a href="/topimagenews/20201006/1408702.md">快讯！特朗普宣布出院：我比20年前的感觉还好</a></li>
-<li><a href="/comments/20201006/1408902.md">九成中央委员亲属移民 美国禁令震动中共高层</a></li>
 <li><a href="/comments/20201006/1408681.md">评论 | 魏京生：北京的变局</a></li>
+<li><a href="/topimagenews/20201006/1408702.md">快讯！特朗普宣布出院：我比20年前的感觉还好</a></li>
 <li><a href="/cbnews/20201006/1408812.md">天亮时分：川普已经出院；最高法院生变；美国进入加紧灭共期（政论天下第241集 20201005）</a></li>
+<li><a href="/comments/20201006/1408902.md">九成中央委员亲属移民 美国禁令震动中共高层</a></li>
 <li><a href="/cnnews/hknews/20201006/1408758.md">东方之珠不再！香港已成死港 10月长假内地来港658人</a></li>
+<li><a href="/bannedvideo/20201006/1408931.md">中日关系紧张，习近平不把人得罪光了不算完，蓬佩奥笑了</a></li>
 <li><a href="/bannedvideo/20201006/1408864.md">王岐山会成为下一个林彪还是下一个邓小平？（20201005第18则）</a></li>
 <li><a href="/lifebaike/20201005/1408521.md">牛仔裤上的小铆钉有什么用？有超重要功能</a></li>
 <li><a href="/topimagenews/20201006/1408891.md">此时川普在想什么？视频：川普回白宫 做出一惊人动作</a></li>
-<li><a href="/bannedvideo/20201006/1408931.md">中日关系紧张，习近平不把人得罪光了不算完，蓬佩奥笑了</a></li>
-<li><a href="/cbnews/20201006/1408675.md">美国会推出法案：中共是跨国有组织犯罪集团</a></li>
 <li><a href="/cnnews/20201006/1408703.md">50年前的川普长这样 霸气早说要选总统</a></li>
+<li><a href="/cbnews/20201006/1408675.md">美国会推出法案：中共是跨国有组织犯罪集团</a></li>
+<li><a href="/cbnews/20201006/1408813.md">文昭：川普出院，对中共复仇将至？最猛提案：共产党是跨国犯罪组织！牵出一个迷思；禁止党员移民冲击波有多强</a></li>
 <li><a href="/cnnews/20201005/1408522.md">医生指出新冠疫情期间“最危险的物品”</a></li>
 <li><a href="/comments/20201006/1408741.md">天津部分区域房价降幅达到30%</a></li>
-<li><a href="/cbnews/20201006/1408813.md">文昭：川普出院，对中共复仇将至？最猛提案：共产党是跨国犯罪组织！牵出一个迷思；禁止党员移民冲击波有多强</a></li>
+<li><a href="/topimagenews/20201006/1408848.md">川普出院后连发2影片：我可能已经免疫 疫苗很快就会推出</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201006/1409105.md" target="_blank">陈破空：川普神奇归来！仅三天三夜。国务卿或有重大宣布。华为最后靠山撑不住了</a></li>
+<li><a href="/cbnews/20201006/1409076.md" target="_blank">美总统川普出院返回白宫 将参加10/15总统辩论</a></li>
 <li><a href="/cbnews/20201006/1409068.md" target="_blank">蓬佩奥不去他也不去？韩媒曝：王毅恐延后访韩行程</a></li>
 <li><a href="/cbnews/20201006/1409024.md" target="_blank">河南驯兽师遭黑熊扑咬无大碍 揭熊牙早被锯掉</a></li>
 <li><a href="/cbnews/20201006/1409006.md" target="_blank">美国禁止共产党员移民 中共高层震动最大</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20201006/1408692.md" target="_blank">因父母信仰 法轮功儿童遭受中共系统性迫害</a></li>
 <li><a href="/cbnews/20201006/1408651.md" target="_blank">陈破空谈《常识》（之89）： 人权和生存权，哪一个优先？</a></li>
 <li><a href="/cbnews/20201005/1408610.md" target="_blank">川普总统健康情况继续好转 有望周一返回白宫</a></li>
-<li><a href="/cbnews/20201005/1408483.md" target="_blank">天象异常 洛阳白云山、老君山景区下雪了</a></li>
-<li><a href="/cbnews/20201005/1408482.md" target="_blank">甘肃大货车冲入菜市场 酿6死14伤</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201006/1409109.md" target="_blank">步步惊心！中共重创 德国不得不转向 百万人弃房 明年房价更惨 河北取款5万就需预约</a></li>
 <li><a href="/topimagenews/20201006/1408982.md" target="_blank">场面太壮观！川普上街 粉丝沸腾 新民调显示川普支持率反超了拜登</a></li>
 <li><a href="/topimagenews/20201006/1408950.md" target="_blank">胡锡进给中南海捅大娄子了 他嘲笑川普 被美国大媒体拎出来曝光了</a></li>
 <li><a href="/topimagenews/20201006/1408891.md" target="_blank">此时川普在想什么？视频：川普回白宫 做出一惊人动作</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20201003/1407238.md" target="_blank">川普宣布确诊前 美东西两岸「核末日军机」升空</a></li>
 <li><a href="/topimagenews/20201003/1407223.md" target="_blank">川普今唯一公开行程未现身 电话会议交彭斯主持</a></li>
 <li><a href="/topimagenews/20201003/1407179.md" target="_blank">白宫御医诊断信：川普状况良好 继续履行总统职务</a></li>
-<li><a href="/topimagenews/20201003/1407178.md" target="_blank">最大黑天鹅 撼动全球金融市场</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201006/1409079.md" target="_blank">美禁中共党员移民 专家：香港亲共组织成员恐难逃厄运</a></li>
+<li><a href="/comments/20201006/1409078.md" target="_blank">联手发现黑洞 2020年诺贝尔物理奖为英、德、美物理学家分享</a></li>
+<li><a href="/comments/20201006/1409077.md" target="_blank">睡觉会突然抖一下？小心是三大睡眠疾病</a></li>
+<li><a href="/comments/20201006/1409075.md" target="_blank">党校退休教授蔡霞指 中共拦阻 大陆和平转型将非常艰难</a></li>
 <li><a href="/comments/20201006/1409048.md" target="_blank">华春莹发推“是给外国人听的” 胡锡进叼盘评论再翻车</a></li>
 <li><a href="/comments/20201006/1409047.md" target="_blank">平均每26分钟就有1人死于它！ 专家曝：危险因子就藏在生活中</a></li>
 <li><a href="/comments/20201006/1409046.md" target="_blank">彼得潘综合症患者：成年人的百无聊赖是生命不能承受之轻</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201006/1408887.md" target="_blank">蓬佩奥出席四方会谈 观察人士：凸显中共日渐「自我孤立」窘境</a></li>
 <li><a href="/comments/20201006/1408886.md" target="_blank">川普回来了：I&#x27;m back</a></li>
 <li><a href="/comments/20201006/1408885.md" target="_blank">汤姆克鲁斯行驶火车车顶拍《不可能的任务7》惊险画面在网路疯传</a></li>
-<li><a href="/comments/20201006/1408880.md" target="_blank">叶倾城：疫情后一个很残酷的故事</a></li>
-<li><a href="/comments/20201006/1408879.md" target="_blank">明春生活恢复正常？科学家警告：有疫苗也难</a></li>
-<li><a href="/comments/20201006/1408878.md" target="_blank">美禁共产党员移民 港数十万“地下党”危矣？黄之锋发起举报</a></li>
-<li><a href="/comments/20201006/1408877.md" target="_blank">释迦牟尼佛离世时的预言</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
