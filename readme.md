@@ -14,9 +14,9 @@
 <li><a href="/bannedvideo/20201006/1408677.md">白宫新闻秘书确诊！川普总统支持者医院外守候遇惊喜</a></li>
 <li><a href="/bannedvideo/20201006/1408765.md">习近平敲山震虎不打虎：王岐山 孟建柱 赵乐际 王晓东都慌</a></li>
 <li><a href="/comments/20201006/1408681.md">评论 | 魏京生：北京的变局</a></li>
+<li><a href="/comments/20201006/1408902.md">九成中央委员亲属移民 美国禁令震动中共高层</a></li>
 <li><a href="/topimagenews/20201006/1408702.md">快讯！特朗普宣布出院：我比20年前的感觉还好</a></li>
 <li><a href="/cbnews/20201006/1408812.md">天亮时分：川普已经出院；最高法院生变；美国进入加紧灭共期（政论天下第241集 20201005）</a></li>
-<li><a href="/comments/20201006/1408902.md">九成中央委员亲属移民 美国禁令震动中共高层</a></li>
 <li><a href="/cnnews/hknews/20201006/1408758.md">东方之珠不再！香港已成死港 10月长假内地来港658人</a></li>
 <li><a href="/bannedvideo/20201006/1408931.md">中日关系紧张，习近平不把人得罪光了不算完，蓬佩奥笑了</a></li>
 <li><a href="/bannedvideo/20201006/1408864.md">王岐山会成为下一个林彪还是下一个邓小平？（20201005第18则）</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/cbnews/20201006/1408813.md">文昭：川普出院，对中共复仇将至？最猛提案：共产党是跨国犯罪组织！牵出一个迷思；禁止党员移民冲击波有多强</a></li>
 <li><a href="/cbnews/20201006/1408675.md">美国会推出法案：中共是跨国有组织犯罪集团</a></li>
 <li><a href="/cnnews/20201006/1408703.md">50年前的川普长这样 霸气早说要选总统</a></li>
+<li><a href="/topimagenews/20201006/1408982.md">场面太壮观！川普上街 粉丝沸腾 新民调显示川普支持率反超了拜登</a></li>
 <li><a href="/comments/20201006/1408741.md">天津部分区域房价降幅达到30%</a></li>
 <li><a href="/topimagenews/20201006/1408848.md">川普出院后连发2影片：我可能已经免疫 疫苗很快就会推出</a></li>
 <li><a href="/bannedvideo/20201006/1408630.md">解放军下令军方媒体不报道美国大选：不提病情、不提十月惊奇、不提义乌指数</a></li>
-<li><a href="/cnnews/20201006/1408760.md">技穷了！新兴经济体货币贬值物价大涨 央行难减息救市</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201006/1409134.md" target="_blank">世界或7亿多感染新冠病毒 超过官方数字20倍 死亡人数103万</a></li>
+<li><a href="/cbnews/20201006/1409133.md" target="_blank">天安门民主运动後 整个西方社会误判中共</a></li>
 <li><a href="/cbnews/20201006/1409121.md" target="_blank">大陆又现近2600吨毒大米镉超标</a></li>
 <li><a href="/cbnews/20201006/1409110.md" target="_blank">景区人塞爆寸步难行 民众：我后悔了 想回家</a></li>
 <li><a href="/cbnews/20201006/1409105.md" target="_blank">陈破空：川普神奇归来！仅三天三夜。国务卿或有重大宣布。华为最后靠山撑不住了</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201006/1408767.md" target="_blank">美国思想领袖：美国国际宗教事务大使萨姆·布朗巴克：中共与信仰为敌！川普政府正在打击中共侵犯宗教自由的行为；希望人们能够自由地选择信仰！| 大纪元</a></li>
 <li><a href="/cbnews/20201006/1408745.md" target="_blank">陈破空：川普中招，美国要向土共讨说法！不准党员移民，华大妈怒了！胡锡进落下把柄</a></li>
 <li><a href="/cbnews/20201006/1408738.md" target="_blank">专栏 | 夜话中南海：王沪宁的“核心论”与“权威说”</a></li>
-<li><a href="/cbnews/20201006/1408717.md" target="_blank">413年古迹惨毁容 明长城「镇北台」砖墙遭陆客刻满字</a></li>
-<li><a href="/cbnews/20201006/1408692.md" target="_blank">因父母信仰 法轮功儿童遭受中共系统性迫害</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201006/1409135.md" target="_blank">左派拖延无效！参院：高院大法官确认听证照常进行</a></li>
 <li><a href="/comments/20201006/1409122.md" target="_blank">想吃甜食、掉发、失眠…7大征兆快查查 是不是缺这个了</a></li>
 <li><a href="/comments/20201006/1409114.md" target="_blank">【梁京评论】特朗普染疫加大问责习近平的压力</a></li>
 <li><a href="/comments/20201006/1409079.md" target="_blank">美禁中共党员移民 专家：香港亲共组织成员恐难逃厄运</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201006/1408902.md" target="_blank">九成中央委员亲属移民 美国禁令震动中共高层</a></li>
 <li><a href="/comments/20201006/1408901.md" target="_blank">南洋富商：打仗我捐三个月工资 那你还是打游戏吧</a></li>
 <li><a href="/comments/20201006/1408900.md" target="_blank">孙新合：真相不会永远沉默 正义终究要来临</a></li>
-<li><a href="/comments/20201006/1408887.md" target="_blank">蓬佩奥出席四方会谈 观察人士：凸显中共日渐「自我孤立」窘境</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 <li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 
 </ul>
 </div>
