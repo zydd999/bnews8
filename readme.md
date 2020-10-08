@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20201008/1409855.md">川普对中共总复仇信号到！中国疯传川普1件事！真相令人目瞪口呆...</a></li>
 <li><a href="/cbnews/20201008/1409938.md">央视女主播被男友7刀手刃 他大喊“为民除害”</a></li>
 <li><a href="/topimagenews/20201007/1409835.md">习近平惨创中共建政71年纪录 扰台闯大祸 结果干瞪眼 和王岐山关系很微妙</a></li>
-<li><a href="/topimagenews/20201008/1410146.md">紫金矿业63岁董事长娶38岁妻子 网友：一个贪财 一个好色</a></li>
 <li><a href="/comments/20201008/1409918.md">【微博精粹】71年未见 国殇日没接一份贺电 名声太臭！西韩末年</a></li>
+<li><a href="/topimagenews/20201008/1410146.md">紫金矿业63岁董事长娶38岁妻子 网友：一个贪财 一个好色</a></li>
 <li><a href="/cnnews/20201007/1409753.md">川普新禁令杀伤力爆表 打擂！正39国对中共26国 总加速师是条狗新片火爆</a></li>
 <li><a href="/cbnews/20201008/1409922.md">太吓人了 中国十一长假各地塞爆场面曝光</a></li>
 <li><a href="/cnnews/20201008/1409928.md">比癌症还可怕的超级细菌出现了 恐灭绝人类</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/comments/20201007/1409565.md">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20201008/1409875.md">至今不敢挖秦始皇陵的内幕，专家探测到秦始皇陵的“异常结构”</a></li>
 <li><a href="/lifebaike/20201008/1410109.md">延安的性开放：“打游击”最平常 一次五毛</a></li>
-<li><a href="/yule/20201008/1410067.md">曾经爆红的吉祥三宝一家 如今竟然天隔一方</a></li>
 <li><a href="/comments/20201008/1410166.md">彭斯对贺锦丽：你有权发表言论 但却无权更改事实</a></li>
+<li><a href="/yule/20201008/1410067.md">曾经爆红的吉祥三宝一家 如今竟然天隔一方</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201008/1410330.md" target="_blank">习近平1句话倒退70年? 上海人集体起诉李克强 川普发话中共要倒大霉</a></li>
 <li><a href="/topimagenews/20201008/1410321.md" target="_blank">中国银行闹钱荒社会恐慌? 最新!川普要限制蚂蚁腾讯支付 华为手机销量打脸赵立坚</a></li>
 <li><a href="/topimagenews/20201008/1410189.md" target="_blank">袁弓夷：蓬佩奥四处奔波 全球驱逐中共大格局渐成 退党中心很厉害、很厉害&#8230;</a></li>
 <li><a href="/topimagenews/20201008/1410146.md" target="_blank">紫金矿业63岁董事长娶38岁妻子 网友：一个贪财 一个好色</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20201005/1408518.md" target="_blank">中国制造没魂 日机床独霸世界 内循环失败 黄金周上演空城计 中国社会底层 看得我心凉</a></li>
 <li><a href="/topimagenews/20201005/1408141.md" target="_blank">中美科技战：大陆晶片短缺困境恐蔓延至汽车业</a></li>
 <li><a href="/topimagenews/20201005/1408122.md" target="_blank">惊人一幕中共特色演砸了 习近平对台湾动手必败关键 印度开了挂1天2大军事大捷</a></li>
-<li><a href="/topimagenews/20201005/1408112.md" target="_blank">中芯国际证实：遭美进一步限制 影响可能大不利</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201008/1410336.md" target="_blank">中共武统台湾？美国安顾问警告：美国或军事干预</a></li>
+<li><a href="/comments/20201008/1410335.md" target="_blank">美国女诗人路易丝• 格吕克获2020诺贝尔文学奖</a></li>
+<li><a href="/comments/20201008/1410334.md" target="_blank">英国议会指控华为与中共政府串通勾结 将加快切割速度</a></li>
 <li><a href="/comments/20201008/1410328.md" target="_blank">副总统辩论 彭斯一语中的：拜登是中共的拉拉队长</a></li>
 <li><a href="/comments/20201008/1410302.md" target="_blank">政治倾向决定女性容貌 右派比左派柔和漂亮多了</a></li>
 <li><a href="/comments/20201008/1410301.md" target="_blank">特朗普装病？别扯淡了</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201008/1410141.md" target="_blank">19年一遇 Halloween “蓝月亮”怎样拍会更美</a></li>
 <li><a href="/comments/20201008/1410139.md" target="_blank">在谷歌推特上促销百度 你的促销我真的不懂</a></li>
 <li><a href="/comments/20201008/1410125.md" target="_blank">美国人收入显示 美国恰恰最少种族歧视</a></li>
-<li><a href="/comments/20201008/1410124.md" target="_blank">时局大变革在即 中国人该做准备了</a></li>
-<li><a href="/comments/20201008/1410106.md" target="_blank">川普苦战 但拜登却似在重演历史</a></li>
-<li><a href="/comments/20201008/1410105.md" target="_blank">黑人早获平等 黑命贵运动到底想要什么？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
