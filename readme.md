@@ -9,9 +9,9 @@
 <li><a href="/comments/20201008/1409918.md">【微博精粹】71年未见 国殇日没接一份贺电 名声太臭！西韩末年</a></li>
 <li><a href="/comments/20201008/1409942.md">五中全会接班人问题 一尊未必说了算</a></li>
 <li><a href="/topimagenews/20201008/1410146.md">紫金矿业63岁董事长娶38岁妻子 网友：一个贪财 一个好色</a></li>
+<li><a href="/topimagenews/20201008/1410330.md">习近平1句话倒退70年? 上海人集体起诉李克强 川普发话中共要倒大霉</a></li>
 <li><a href="/cbnews/20201008/1409922.md">太吓人了 中国十一长假各地塞爆场面曝光</a></li>
 <li><a href="/cnnews/20201008/1409928.md">比癌症还可怕的超级细菌出现了 恐灭绝人类</a></li>
-<li><a href="/topimagenews/20201008/1410330.md">习近平1句话倒退70年? 上海人集体起诉李克强 川普发话中共要倒大霉</a></li>
 <li><a href="/yule/20201008/1410065.md">冯小刚偷税被罚20亿？判决书公布！网友热议</a></li>
 <li><a href="/bannedvideo/20201008/1410314.md">著名相声演员郭德纲的搭档于谦，因《总加速师是条狗》的节目，引发热议，网民直呼“惊悚”；独立撰稿人诸葛明阳说，不管习怎么做，都会加速中共的灭亡</a></li>
 <li><a href="/cbnews/20201008/1409979.md">【中英字幕】川普总统10月7日对全国致辞：我感染新冠实是上帝恩典，必将让中国付出巨大代价！用再生元是我的主意，将部署军队迅速派发至全国医院，免费使用！</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201009/1410518.md" target="_blank">假庇护真间谍？纽约藏人警察被法官拒绝保释</a></li>
 <li><a href="/comments/20201009/1410510.md" target="_blank">传美国拟限制马云和腾讯移动支付 专家：若属实影响超华为百倍</a></li>
 <li><a href="/comments/20201009/1410505.md" target="_blank">与中共勾结证据确凿 英国防委员会吁提前移除华为5G设备</a></li>
 <li><a href="/comments/20201009/1410493.md" target="_blank">科学家惊奇发现大脑细胞与宇宙拥有一样的结构！每个细胞都有完整的时空？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201008/1410228.md" target="_blank">太多官员死于酒场？甘肃庆城公务员下班后也禁喝酒</a></li>
 <li><a href="/comments/20201008/1410216.md" target="_blank">【要闻精粹】爱恨都是习近平 孩子泄露中国秘密</a></li>
 <li><a href="/comments/20201008/1410210.md" target="_blank">39国联署批中共迫害人权 德媒曝中共战狼式威胁内幕</a></li>
-<li><a href="/comments/20201008/1410209.md" target="_blank">反对中共强推“双语教育” 蒙古族律师胡宝龙被捕</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 
 </ul>
 </div>
