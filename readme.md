@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201009/1410615.md">拜登或被取消竞选资格？希拉里犯有要坐牢的重罪 奥巴马也脱不了干系</a></li>
-<li><a href="/cnnews/20201009/1410799.md">印度神童再预言！12月「全球恐临巨灾」</a></li>
 <li><a href="/topimagenews/20201009/1410614.md">撤销美国籍！41岁华男与妻子将遣返回国 遭诈欺签证、走私、盗窃等24项罪名…</a></li>
+<li><a href="/cnnews/20201009/1410799.md">印度神童再预言！12月「全球恐临巨灾」</a></li>
 <li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
 <li><a href="/headline/20201009/1410528.md">傅希秋与郭文贵矛盾升级 双方各表明强硬立场</a></li>
 <li><a href="/comments/20201009/1410583.md">现在没有谁害怕江泽民 想说甚么都可以！中共十八大前中共军委在北京市区兴建12套别墅 江泽民家族入住 中南海谣言预言_308</a></li>
@@ -17,16 +17,16 @@
 <li><a href="/lifebaike/20201009/1410554.md">真相让人痛苦 日军就这样飞过延安从不空袭</a></li>
 <li><a href="/lifebaike/20201009/1410608.md">64岁大妈肝癌离世 医生：1种菜是“烂肝王” 很多人却天天吃</a></li>
 <li><a href="/yule/20201009/1410557.md">中国首位“世界小姐”冠军 不攀富豪 不嫁豪门 嫁给了爱情</a></li>
-<li><a href="/topimagenews/20201009/1410710.md">中共哭晕在厕所！白宫医生：川普完成治疗 周六可重返公共场合</a></li>
 <li><a href="/cnnews/20201009/1410989.md">广州某教官自曝破处107名女生： “真好睡！”</a></li>
-<li><a href="/bannedvideo/20201009/1410733.md">突发：民主党明天要提罢免川普，原因剖析：与两场总统辩论有关，拜登和贺锦丽注定要输</a></li>
+<li><a href="/topimagenews/20201009/1410710.md">中共哭晕在厕所！白宫医生：川普完成治疗 周六可重返公共场合</a></li>
 <li><a href="/cnnews/20201009/1410779.md">慎入 ！贺锦丽一个动作看吐网友 网评：白骨精色诱唐三藏</a></li>
+<li><a href="/bannedvideo/20201009/1410733.md">突发：民主党明天要提罢免川普，原因剖析：与两场总统辩论有关，拜登和贺锦丽注定要输</a></li>
 <li><a href="/taiwannews/20201009/1410844.md">今晚辩论结果出来了！彭斯完胜哈里斯！哈里斯辩论硬伤太多</a></li>
 <li><a href="/bannedvideo/20201009/1410859.md">财经冷眼：川普再遭弹劾，习近平闭关总动员！人民币美元黄金深度分析 ，谁是活路，谁是死路？（20201009第353期）</a></li>
 <li><a href="/comments/20201009/1410653.md">网爆董宏为“隔壁王朝”基石 抓他党内地动山摇</a></li>
 <li><a href="/headline/20201009/1410560.md">特朗普：我要我们的军队回家，为中国、俄罗斯等做好准备</a></li>
-<li><a href="/cbnews/20201009/1410743.md">华春莹在推特成箭靶 被网友连番狂怼</a></li>
 <li><a href="/baitai/20201009/1410921.md">武汉女副区长与商人自驾游坠河亡「神秘组合」引关注</a></li>
+<li><a href="/cbnews/20201009/1410743.md">华春莹在推特成箭靶 被网友连番狂怼</a></li>
 <li><a href="/finance/20201009/1410765.md">暴跌1800亿！说好的十一报复式消费呢？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 
 </ul>
 </div>
