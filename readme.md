@@ -11,23 +11,23 @@
 <li><a href="/comments/20201008/1410357.md">惊！广西“爱国”大学生称要杀掉6亿穷人 包括自己父母</a></li>
 <li><a href="/cnnews/20201008/1410270.md">诺奖医学、化学奖揭晓 李嘉诚开心到老泪纵横</a></li>
 <li><a href="/cnnews/20201008/1410304.md">马斯克又一个“吹过的牛”要实现了</a></li>
-<li><a href="/topimagenews/20201008/1410321.md">中国银行闹钱荒社会恐慌? 最新!川普要限制蚂蚁腾讯支付 华为手机销量打脸赵立坚</a></li>
 <li><a href="/topimagenews/20201009/1410615.md">拜登或被取消竞选资格？希拉里犯有要坐牢的重罪 奥巴马也脱不了干系</a></li>
+<li><a href="/topimagenews/20201008/1410321.md">中国银行闹钱荒社会恐慌? 最新!川普要限制蚂蚁腾讯支付 华为手机销量打脸赵立坚</a></li>
 <li><a href="/bannedvideo/20201008/1410241.md">李克强被56个上海农民起诉，中国人不再沉默</a></li>
 <li><a href="/cbnews/20201009/1410536.md">网传广西“爱国”大学生公开信 称要杀掉6亿穷人</a></li>
 <li><a href="/comments/20201008/1410216.md">【要闻精粹】爱恨都是习近平 孩子泄露中国秘密</a></li>
-<li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
 <li><a href="/topimagenews/20201009/1410614.md">撤销美国籍！41岁华男与妻子将遣返回国 遭诈欺签证、走私、盗窃等24项罪名…</a></li>
-<li><a href="/bannedvideo/20201008/1410428.md">大快人心！希拉里快要进监狱了！川普的反击，通俄门邮件门大白天下，正在兑现承诺！</a></li>
+<li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
 <li><a href="/headline/20201009/1410528.md">傅希秋与郭文贵矛盾升级 双方各表明强硬立场</a></li>
 <li><a href="/comments/20201009/1410583.md">现在没有谁害怕江泽民 想说甚么都可以！中共十八大前中共军委在北京市区兴建12套别墅 江泽民家族入住 中南海谣言预言_308</a></li>
-<li><a href="/lifebaike/20201009/1410554.md">真相让人痛苦 日军就这样飞过延安从不空袭</a></li>
+<li><a href="/bannedvideo/20201008/1410428.md">大快人心！希拉里快要进监狱了！川普的反击，通俄门邮件门大白天下，正在兑现承诺！</a></li>
 <li><a href="/cbnews/20201008/1410297.md">中国“反美爱国者”骤增 已到“非常可怕”地步</a></li>
-<li><a href="/cbnews/20201008/1410178.md">中共力挺拜登? 彭斯炮轰中共就被断讯</a></li>
+<li><a href="/lifebaike/20201009/1410554.md">真相让人痛苦 日军就这样飞过延安从不空袭</a></li>
 <li><a href="/yule/20201009/1410557.md">中国首位“世界小姐”冠军 不攀富豪 不嫁豪门 嫁给了爱情</a></li>
 <li><a href="/headline/20201009/1410560.md">特朗普：我要我们的军队回家，为中国、俄罗斯等做好准备</a></li>
 <li><a href="/lifebaike/20201008/1410220.md">这几个汽车保养最好不要做 不仅费时费钱 而且对汽车伤害很大</a></li>
 <li><a href="/cnnews/20201008/1410463.md">川普对中共赶尽杀绝？ 谈话图疯传 共军「杰作」？川普装病？别扯淡了</a></li>
+<li><a href="/headline/20201008/1410268.md">遭指偷送儿子移民加拿大 胡锡进回应澄清只有一个女儿在北京上班</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
