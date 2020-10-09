@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201008/1410330.md">习近平1句话倒退70年? 上海人集体起诉李克强 川普发话中共要倒大霉</a></li>
 <li><a href="/topimagenews/20201008/1410146.md">紫金矿业63岁董事长娶38岁妻子 网友：一个贪财 一个好色</a></li>
-<li><a href="/finance/20201008/1410203.md">震惊！中国手里竟然已经没有了外汇的现金储备？而且…</a></li>
 <li><a href="/bannedvideo/20201008/1410314.md">著名相声演员郭德纲的搭档于谦，因《总加速师是条狗》的节目，引发热议，网民直呼“惊悚”；独立撰稿人诸葛明阳说，不管习怎么做，都会加速中共的灭亡</a></li>
+<li><a href="/finance/20201008/1410203.md">震惊！中国手里竟然已经没有了外汇的现金储备？而且…</a></li>
 <li><a href="/comments/20201008/1410357.md">惊！广西“爱国”大学生称要杀掉6亿穷人 包括自己父母</a></li>
 <li><a href="/cbnews/20201009/1410535.md">天亮时分：突发：佩洛西明天或提议免除川普总统职务，方式为动用宪法第25修正案；地球人爱习近平多于川普？（政论天下第244集 20201008）</a></li>
 <li><a href="/cnnews/20201008/1410270.md">诺奖医学、化学奖揭晓 李嘉诚开心到老泪纵横</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/comments/20201008/1410216.md">【要闻精粹】爱恨都是习近平 孩子泄露中国秘密</a></li>
 <li><a href="/comments/20201008/1410166.md">彭斯对贺锦丽：你有权发表言论 但却无权更改事实</a></li>
 <li><a href="/bannedvideo/20201008/1410428.md">大快人心！希拉里快要进监狱了！川普的反击，通俄门邮件门大白天下，正在兑现承诺！</a></li>
-<li><a href="/cbnews/20201008/1410178.md">中共力挺拜登? 彭斯炮轰中共就被断讯</a></li>
-<li><a href="/cnnews/20201008/1410111.md">63岁百亿老板再婚 爆妻未病就有新欢 婚照有3娃</a></li>
 <li><a href="/cbnews/20201009/1410536.md">网传广西“爱国”大学生公开信 称要杀掉6亿穷人</a></li>
+<li><a href="/cnnews/20201008/1410111.md">63岁百亿老板再婚 爆妻未病就有新欢 婚照有3娃</a></li>
+<li><a href="/cbnews/20201008/1410178.md">中共力挺拜登? 彭斯炮轰中共就被断讯</a></li>
 <li><a href="/cbnews/20201008/1410297.md">中国“反美爱国者”骤增 已到“非常可怕”地步</a></li>
 <li><a href="/cbnews/20201008/1410155.md">视中共为友还是敌？彭斯贺锦丽回应南辕北辙</a></li>
+<li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
 <li><a href="/lifebaike/20201008/1410220.md">这几个汽车保养最好不要做 不仅费时费钱 而且对汽车伤害很大</a></li>
 <li><a href="/cbnews/20201008/1410098.md">联合国大会上的中共“战狼” 包围恐吓女外交官</a></li>
-<li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
-<li><a href="/cnnews/20201008/1410110.md">美众议院终于对这四大科技巨头动手了</a></li>
+<li><a href="/headline/20201009/1410528.md">傅希秋与郭文贵矛盾升级 双方各表明强硬立场</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201009/1410653.md" target="_blank">网爆董宏为“隔壁王朝”基石 抓他党内地动山摇</a></li>
+<li><a href="/comments/20201009/1410644.md" target="_blank">李濠仲：加拿大驻联合国大使这样“电”中国代表</a></li>
+<li><a href="/comments/20201009/1410643.md" target="_blank">陶杰：黑白陈述</a></li>
+<li><a href="/comments/20201009/1410642.md" target="_blank">方圆：国民党突然反共所为何事？</a></li>
+<li><a href="/comments/20201009/1410641.md" target="_blank">陶杰：他会骗 你不会 谁赢谁输</a></li>
 <li><a href="/comments/20201009/1410634.md" target="_blank">印尼外长：印尼南海立场不变 不承认中共的九段线</a></li>
 <li><a href="/comments/20201009/1410626.md" target="_blank">古立：香港人是吓大的 疫苗不是独步单方</a></li>
 <li><a href="/comments/20201009/1410625.md" target="_blank">河森堡：辽阔的无奈 局促的可行性 诺奖外感言</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201008/1410402.md" target="_blank">茄子肉末粉丝煲 百吃不厌的家常菜</a></li>
 <li><a href="/comments/20201008/1410401.md" target="_blank">时事大家谈： 蓬佩奥联日印澳抗衡中国，实现“亚洲小北约”有多远？</a></li>
 <li><a href="/comments/20201008/1410369.md" target="_blank">中共外汇现金储备进入枯竭期</a></li>
-<li><a href="/comments/20201008/1410365.md" target="_blank">【文韬政论】特朗普染疫后围堵中共的前景</a></li>
-<li><a href="/comments/20201008/1410358.md" target="_blank">强推汉语引大规模抗争 内蒙古书记首开腔</a></li>
-<li><a href="/comments/20201008/1410357.md" target="_blank">惊！广西“爱国”大学生称要杀掉6亿穷人 包括自己父母</a></li>
-<li><a href="/comments/20201008/1410356.md" target="_blank">副总统辩论落幕 网络大腕：彭斯大气、沉稳、思路清晰</a></li>
-<li><a href="/comments/20201008/1410352.md" target="_blank">【杜耀明评论】教育局官僚的专业失德</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
