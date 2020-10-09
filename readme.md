@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20201009/1410615.md">拜登或被取消竞选资格？希拉里犯有要坐牢的重罪 奥巴马也脱不了干系</a></li>
 <li><a href="/cnnews/20201008/1410304.md">马斯克又一个“吹过的牛”要实现了</a></li>
 <li><a href="/topimagenews/20201008/1410321.md">中国银行闹钱荒社会恐慌? 最新!川普要限制蚂蚁腾讯支付 华为手机销量打脸赵立坚</a></li>
-<li><a href="/bannedvideo/20201008/1410241.md">李克强被56个上海农民起诉，中国人不再沉默</a></li>
 <li><a href="/topimagenews/20201009/1410614.md">撤销美国籍！41岁华男与妻子将遣返回国 遭诈欺签证、走私、盗窃等24项罪名…</a></li>
+<li><a href="/bannedvideo/20201008/1410241.md">李克强被56个上海农民起诉，中国人不再沉默</a></li>
 <li><a href="/cbnews/20201009/1410536.md">网传广西“爱国”大学生公开信 称要杀掉6亿穷人</a></li>
-<li><a href="/comments/20201008/1410216.md">【要闻精粹】爱恨都是习近平 孩子泄露中国秘密</a></li>
 <li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
 <li><a href="/comments/20201009/1410583.md">现在没有谁害怕江泽民 想说甚么都可以！中共十八大前中共军委在北京市区兴建12套别墅 江泽民家族入住 中南海谣言预言_308</a></li>
 <li><a href="/headline/20201009/1410528.md">傅希秋与郭文贵矛盾升级 双方各表明强硬立场</a></li>
 <li><a href="/bannedvideo/20201008/1410428.md">大快人心！希拉里快要进监狱了！川普的反击，通俄门邮件门大白天下，正在兑现承诺！</a></li>
+<li><a href="/cbnews/20201008/1410297.md">中国“反美爱国者”骤增 已到“非常可怕”地步</a></li>
 <li><a href="/lifebaike/20201009/1410554.md">真相让人痛苦 日军就这样飞过延安从不空袭</a></li>
 <li><a href="/yule/20201009/1410557.md">中国首位“世界小姐”冠军 不攀富豪 不嫁豪门 嫁给了爱情</a></li>
-<li><a href="/cbnews/20201008/1410297.md">中国“反美爱国者”骤增 已到“非常可怕”地步</a></li>
-<li><a href="/headline/20201009/1410560.md">特朗普：我要我们的军队回家，为中国、俄罗斯等做好准备</a></li>
 <li><a href="/lifebaike/20201009/1410608.md">64岁大妈肝癌离世 医生：1种菜是“烂肝王” 很多人却天天吃</a></li>
-<li><a href="/lifebaike/20201008/1410220.md">这几个汽车保养最好不要做 不仅费时费钱 而且对汽车伤害很大</a></li>
+<li><a href="/headline/20201009/1410560.md">特朗普：我要我们的军队回家，为中国、俄罗斯等做好准备</a></li>
 <li><a href="/cnnews/20201008/1410463.md">川普对中共赶尽杀绝？ 谈话图疯传 共军「杰作」？川普装病？别扯淡了</a></li>
 <li><a href="/bannedvideo/20201009/1410596.md">🔥🔥美国预言家珍妮👁️预言中国命运❗预言未来中国将取代美国领导世界走向新纪元❗【第3集：预言大结局】</a></li>
+<li><a href="/headline/20201008/1410268.md">遭指偷送儿子移民加拿大 胡锡进回应澄清只有一个女儿在北京上班</a></li>
+<li><a href="/cnnews/20201009/1410631.md">中共官员轿车冲断护栏 倒扣河中 乘客全部死亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 <li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
