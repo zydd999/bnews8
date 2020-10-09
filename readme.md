@@ -14,19 +14,19 @@
 <li><a href="/topimagenews/20201008/1410321.md">中国银行闹钱荒社会恐慌? 最新!川普要限制蚂蚁腾讯支付 华为手机销量打脸赵立坚</a></li>
 <li><a href="/bannedvideo/20201008/1410241.md">李克强被56个上海农民起诉，中国人不再沉默</a></li>
 <li><a href="/cbnews/20201009/1410536.md">网传广西“爱国”大学生公开信 称要杀掉6亿穷人</a></li>
+<li><a href="/topimagenews/20201009/1410615.md">拜登或被取消竞选资格？希拉里犯有要坐牢的重罪 奥巴马也脱不了干系</a></li>
 <li><a href="/comments/20201008/1410216.md">【要闻精粹】爱恨都是习近平 孩子泄露中国秘密</a></li>
 <li><a href="/ssgc/20201009/1410533.md">〖兲朝浮世绘〗习近平抓了王岐山的大秘董宏 会跟王岐山撕破脸吗？</a></li>
-<li><a href="/topimagenews/20201009/1410615.md">拜登或被取消竞选资格？希拉里犯有要坐牢的重罪 奥巴马也脱不了干系</a></li>
 <li><a href="/comments/20201008/1410166.md">彭斯对贺锦丽：你有权发表言论 但却无权更改事实</a></li>
 <li><a href="/bannedvideo/20201008/1410428.md">大快人心！希拉里快要进监狱了！川普的反击，通俄门邮件门大白天下，正在兑现承诺！</a></li>
 <li><a href="/headline/20201009/1410528.md">傅希秋与郭文贵矛盾升级 双方各表明强硬立场</a></li>
 <li><a href="/cbnews/20201008/1410178.md">中共力挺拜登? 彭斯炮轰中共就被断讯</a></li>
 <li><a href="/cbnews/20201008/1410297.md">中国“反美爱国者”骤增 已到“非常可怕”地步</a></li>
-<li><a href="/cbnews/20201008/1410155.md">视中共为友还是敌？彭斯贺锦丽回应南辕北辙</a></li>
-<li><a href="/lifebaike/20201008/1410220.md">这几个汽车保养最好不要做 不仅费时费钱 而且对汽车伤害很大</a></li>
 <li><a href="/lifebaike/20201009/1410554.md">真相让人痛苦 日军就这样飞过延安从不空袭</a></li>
+<li><a href="/cbnews/20201008/1410155.md">视中共为友还是敌？彭斯贺锦丽回应南辕北辙</a></li>
 <li><a href="/yule/20201009/1410557.md">中国首位“世界小姐”冠军 不攀富豪 不嫁豪门 嫁给了爱情</a></li>
-<li><a href="/bannedvideo/20201008/1410175.md">财经冷眼：中国炒房之神被全网封杀！无数信用卡高杠杆炒房者资金链断裂，炒房时代彻底终结！（20201008第352期）</a></li>
+<li><a href="/lifebaike/20201008/1410220.md">这几个汽车保养最好不要做 不仅费时费钱 而且对汽车伤害很大</a></li>
+<li><a href="/comments/20201009/1410583.md">现在没有谁害怕江泽民 想说甚么都可以！中共十八大前中共军委在北京市区兴建12套别墅 江泽民家族入住 中南海谣言预言_308</a></li>
 <li><a href="/cnnews/20201008/1410463.md">川普对中共赶尽杀绝？ 谈话图疯传 共军「杰作」？川普装病？别扯淡了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201009/1410743.md" target="_blank">华春莹在推特成箭靶 被网友连番狂怼</a></li>
 <li><a href="/cbnews/20201009/1410742.md" target="_blank">拜登之子的前商业伙伴欺诈罪成将面临判刑</a></li>
 <li><a href="/cbnews/20201009/1410679.md" target="_blank">薇羽看世间：【中文字幕】副总统辩论会，候选人作风迥异，别具看点。彭斯绅士风度，有理有据，真情实意；哈里斯言词光鲜，技巧娴熟，假话连篇。本集辩论主题在疫情、副总统角色和经济。</a></li>
 <li><a href="/cbnews/20201009/1410594.md" target="_blank">文昭：习总「内循环」大计被「精分」玩坏；美国大选首度激辩中国话题，中南海暗喜</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201008/1410155.md" target="_blank">视中共为友还是敌？彭斯贺锦丽回应南辕北辙</a></li>
 <li><a href="/cbnews/20201008/1410154.md" target="_blank">美国现在要给印度五把尖刀 可让印军战斗力提升一倍</a></li>
 <li><a href="/cbnews/20201008/1410136.md" target="_blank">“如果你不勇敢地面对这些恶霸 他们就会不断找上门来”</a></li>
-<li><a href="/cbnews/20201008/1410135.md" target="_blank">江峰：2020美国副总统辩论会 彭斯VS贺锦丽 直播点评&#8212;江峰时刻</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
