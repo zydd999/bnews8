@@ -22,11 +22,11 @@
 <li><a href="/topimagenews/20201009/1410987.md">豁出去了 朝鲜人竟敢这样“打倒党高层”</a></li>
 <li><a href="/baitai/20201009/1411015.md">华社新闻｜“带包香烟”为什么会成为敏感词被屏蔽？</a></li>
 <li><a href="/cnnews/20201009/1410780.md">阎丽梦再发论文 称武汉肺炎病毒是中共超限生物武器</a></li>
+<li><a href="/renquan/20201010/1411189.md">从大批药品移出医保看中国大陆权贵劫掠下的民生艰困</a></li>
 <li><a href="/comments/20201009/1410862.md">权力高度集中的习近平 为何不安？</a></li>
 <li><a href="/finance/20201009/1410764.md">200亿中国啤酒龙头出大事了 7万股民直接懵了</a></li>
 <li><a href="/cnnews/20201009/1410812.md">副手辩论之后 川普痛批：贺锦丽是魔鬼、共产党</a></li>
-<li><a href="/renquan/20201010/1411189.md">从大批药品移出医保看中国大陆权贵劫掠下的民生艰困</a></li>
-<li><a href="/cbnews/20201009/1410988.md">中国男为“网络女神”掏光20万积蓄 见本尊瞬间崩溃</a></li>
+<li><a href="/topimagenews/20201010/1411300.md">中共大使成功激怒印度人 使馆前贴满海报 祝贺中华民国国庆</a></li>
 <li><a href="/bannedvideo/20201009/1410835.md">苹果手机中国热卖，华为没落，沉默的大多数用钱投票，14亿铜墙铁壁哪去了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201010/1411373.md" target="_blank">林晓旭：这些可怜的孩子 受到中共黑手的摧残蹂躏</a></li>
 <li><a href="/cbnews/20201010/1411356.md" target="_blank">习近平罕见遭党内非议 警告左转和战狼</a></li>
 <li><a href="/cbnews/20201010/1411329.md" target="_blank">共军小心了？前美高官主张「借F-35隐型战斗机」给台湾</a></li>
 <li><a href="/cbnews/20201010/1411328.md" target="_blank">纳瓦罗：中共处心积虑审查彭斯辩论会一举一动</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201009/1411014.md" target="_blank">美国参议员促调查北京干预美大选</a></li>
 <li><a href="/cbnews/20201009/1410988.md" target="_blank">中国男为“网络女神”掏光20万积蓄 见本尊瞬间崩溃</a></li>
 <li><a href="/cbnews/20201009/1410947.md" target="_blank">习近平思想正式迈入思政课大纲 成为高校必修课</a></li>
-<li><a href="/cbnews/20201009/1410946.md" target="_blank">陈秋实处于监视居住状态，当局他不准上网、发讯息，外界探访</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201010/1411391.md" target="_blank">五中全会前现反习暗涌 党内改革派撰文警告</a></li>
+<li><a href="/comments/20201010/1411390.md" target="_blank">台湾“双十”国庆 蔡英文：坚持主权民主 维护两岸稳定</a></li>
 <li><a href="/comments/20201010/1411367.md" target="_blank">中国人的苦日子快熬到头了</a></li>
 <li><a href="/comments/20201010/1411366.md" target="_blank">辽阔的无奈局促的可行性</a></li>
 <li><a href="/comments/20201010/1411357.md" target="_blank">【要闻精粹】笑得太早成笑话 幕后黑手终被唾</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
 <li><a href="/comments/20201010/1411220.md" target="_blank">日本警视厅外事部门将扩编 加强应对朝鲜中共间谍</a></li>
-<li><a href="/comments/20201010/1411219.md" target="_blank">英、法等欧洲轴心国正在逐步排除华为</a></li>
-<li><a href="/comments/20201010/1411186.md" target="_blank">「海克利尔城堡」的伯爵一家封城的日子「唐顿庄园」再现英国贵族精神</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
