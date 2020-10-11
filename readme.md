@@ -12,22 +12,22 @@
 <li><a href="/cbnews/20201011/1411791.md">法媒：王岐山可能遇到了麻烦</a></li>
 <li><a href="/cnnews/20201010/1411575.md">天哪！惊心内幕！民主党致胜法宝 川普竟然落选 专家都打报不平 袁立评贺锦丽引共鸣</a></li>
 <li><a href="/finance/20201011/1411756.md">又诚实了？李克强吐「这席话」 惊爆中国经济基本盘恐不稳</a></li>
-<li><a href="/topimagenews/20201010/1411589.md">不得了川普让印军战力翻倍 菅义伟令北京头痛蔡英文大突破 内部泄爆发比中共公布早数月</a></li>
 <li><a href="/cbnews/20201011/1411655.md">网曝手机充电起火烧了房子 说出手机品牌收到警察警告</a></li>
+<li><a href="/topimagenews/20201010/1411589.md">不得了川普让印军战力翻倍 菅义伟令北京头痛蔡英文大突破 内部泄爆发比中共公布早数月</a></li>
 <li><a href="/headline/20201011/1411706.md">金正恩罕见落泪 就无法改善国人生活致歉</a></li>
 <li><a href="/cnnews/20201011/1411695.md">网曝武汉老太太怒砸中共牌子</a></li>
 <li><a href="/cbnews/20201011/1411753.md">天亮时分：蓬佩奥将公布希拉里电邮；民主党所获选票超过共和党一倍！拜登蔑视选民；川普愿捐血！（政论天下第246集 20201010）</a></li>
 <li><a href="/lifebaike/20201011/1411683.md">父子二人相继查出肠癌 抱头痛哭 医生叹息：只因1件事做得太多</a></li>
 <li><a href="/cbnews/20201010/1411498.md">北京连续阴霾五级重度污染 网民：连空气都是臭的</a></li>
 <li><a href="/comments/20201011/1411722.md">中共所有党魁都不知道：共产党的终极绝密</a></li>
-<li><a href="/cbnews/20201011/1411732.md">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
-<li><a href="/cbnews/20201010/1411463.md">“反美斗士”金灿荣为留美儿子举行婚礼 诠释“反美是工作”</a></li>
 <li><a href="/comments/20201011/1411855.md">【微博精粹】川大爷又出惊人一举 碾压中南海人渣</a></li>
+<li><a href="/cbnews/20201011/1411732.md">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
 <li><a href="/cnnews/20201011/1411652.md">小心通胀突飙！全世界粮食都在涨价…</a></li>
 <li><a href="/cnnews/20201011/1411740.md">苹果发表会遭泄密！iPhone 全新4大关键技术流出</a></li>
 <li><a href="/health/20201011/1411674.md">中国每天一万人确诊癌症 医生忠告 想长寿 晨起请坚持三多三少</a></li>
-<li><a href="/taiwannews/20201010/1411461.md">五独乱习！政治压力锅扩大！政权陷危机！习近平有新备战计画？！未来接班人选？！【2020.10.10『年代向钱看』周末精选】</a></li>
 <li><a href="/lifebaike/20201011/1411682.md">4个表现一出现 表明肝不好了 四类食物多吃无益 还是戒掉为好</a></li>
+<li><a href="/comments/20201010/1411474.md">中共内部文件泄露疫情爆发比官方公布早数月</a></li>
+<li><a href="/cnnews/20201011/1411724.md">食材放冰箱冷冻1年！1家9口吃下肚中毒 惨酿7死2命危</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
