@@ -25,9 +25,9 @@
 <li><a href="/cnnews/20201010/1411575.md">天哪！惊心内幕！民主党致胜法宝 川普竟然落选 专家都打报不平 袁立评贺锦丽引共鸣</a></li>
 <li><a href="/topimagenews/20201010/1411354.md">8千亿资金缺口！中国收费公路：修不起的“金光大道”</a></li>
 <li><a href="/topimagenews/20201010/1411589.md">不得了川普让印军战力翻倍 菅义伟令北京头痛蔡英文大突破 内部泄爆发比中共公布早数月</a></li>
+<li><a href="/cbnews/20201010/1411498.md">北京连续阴霾五级重度污染 网民：连空气都是臭的</a></li>
 <li><a href="/bannedvideo/20201010/1411364.md">美国已全面摆出开打的阵势，一切从拆除南海人工岛礁开始</a></li>
 <li><a href="/bannedvideo/20201010/1411450.md">内蒙文件泄露中共多个军事机密</a></li>
-<li><a href="/cbnews/20201010/1411498.md">北京连续阴霾五级重度污染 网民：连空气都是臭的</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201011/1411755.md" target="_blank">蓬佩奥惊爆中共已在中印边境部署6万重兵</a></li>
+<li><a href="/cbnews/20201011/1411754.md" target="_blank">双手悬挂26楼边缘…小六童垂晃后坠楼亡 惊悚画面曝光</a></li>
+<li><a href="/cbnews/20201011/1411753.md" target="_blank">天亮时分：蓬佩奥将公布希拉里电邮；民主党所获选票超过共和党一倍！拜登蔑视选民；川普愿捐血！（政论天下第246集 20201010）</a></li>
 <li><a href="/cbnews/20201011/1411732.md" target="_blank">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
 <li><a href="/cbnews/20201011/1411705.md" target="_blank">陈破空：不寻常，前高官轮番痛批习近平！印度欢庆中华民国国庆。巴基斯坦突禁抖音</a></li>
 <li><a href="/cbnews/20201011/1411655.md" target="_blank">网曝手机充电起火烧了房子 说出手机品牌收到警察警告</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
 <li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/cbnews/20201010/1411224.md" target="_blank">天路漫游：【传奇故事】宽容的力量小故事</a></li>
-<li><a href="/cbnews/20201010/1411218.md" target="_blank">蔡英文国庆演说主题 坚持主权民主 有决心维持两岸稳定</a></li>
-<li><a href="/cbnews/20201010/1411210.md" target="_blank">文昭：川普疫後对共复仇计划初现，从阿富汗撤军进驻台湾？动荡世界里的追问：共产党倒了谁接手中国？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201011/1411746.md" target="_blank">中共搞全民脱贫要“面子” 百万大学贫困生救助金遭削减</a></li>
+<li><a href="/comments/20201011/1411745.md" target="_blank">内蒙古藏了个小镇 住的人有着俄罗斯的面孔和浓郁的东北口音</a></li>
 <li><a href="/comments/20201011/1411738.md" target="_blank">钢铁直男彭斯碾压民主党小三贺锦丽</a></li>
 <li><a href="/comments/20201011/1411737.md" target="_blank">颜纯鈎：冷血的政府 变态的青年</a></li>
 <li><a href="/comments/20201011/1411736.md" target="_blank">陈昭南：反战与反共？维也纳两次跪降与反抗的历史教训</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201010/1411503.md" target="_blank">中共欲再霸占联合国人权理事会席位 人权组织：不应让迫害人权国家当选</a></li>
 <li><a href="/comments/20201010/1411492.md" target="_blank">警惕！40%的脑中风都是因它而起</a></li>
 <li><a href="/comments/20201010/1411491.md" target="_blank">所有糖尿病的并发症都是损伤了体内这一最庞大“系统&quot;，到底应该怎么保护它呢？</a></li>
-<li><a href="/comments/20201010/1411474.md" target="_blank">中共内部文件泄露疫情爆发比官方公布早数月</a></li>
-<li><a href="/comments/20201010/1411393.md" target="_blank">魔鬼让中国人象牲口一样的生活了五十年，近二十年来很多人已经不懂得什么叫做象人一样的活着。此刻习主席的“人类命运共同体”逼疯了全人类，人们被迫用生命去做出选择。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 
 </ul>
 </div>
