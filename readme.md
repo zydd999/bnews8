@@ -22,12 +22,12 @@
 <li><a href="/health/20201010/1411438.md">76岁不长斑 80岁不痴呆 方法竟这么简单</a></li>
 <li><a href="/cnnews/20201010/1411575.md">天哪！惊心内幕！民主党致胜法宝 川普竟然落选 专家都打报不平 袁立评贺锦丽引共鸣</a></li>
 <li><a href="/topimagenews/20201010/1411589.md">不得了川普让印军战力翻倍 菅义伟令北京头痛蔡英文大突破 内部泄爆发比中共公布早数月</a></li>
+<li><a href="/cbnews/20201011/1411655.md">网曝手机充电起火烧了房子 说出手机品牌收到警察警告</a></li>
 <li><a href="/topimagenews/20201010/1411354.md">8千亿资金缺口！中国收费公路：修不起的“金光大道”</a></li>
 <li><a href="/cbnews/20201010/1411498.md">北京连续阴霾五级重度污染 网民：连空气都是臭的</a></li>
-<li><a href="/cbnews/20201011/1411655.md">网曝手机充电起火烧了房子 说出手机品牌收到警察警告</a></li>
 <li><a href="/bannedvideo/20201010/1411364.md">美国已全面摆出开打的阵势，一切从拆除南海人工岛礁开始</a></li>
-<li><a href="/bannedvideo/20201010/1411450.md">内蒙文件泄露中共多个军事机密</a></li>
 <li><a href="/cbnews/20201010/1411455.md">蔡英文国庆演说 胡锡进给中共找台阶</a></li>
+<li><a href="/bannedvideo/20201010/1411450.md">内蒙文件泄露中共多个军事机密</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201011/1411791.md" target="_blank">法媒：王岐山可能遇到了麻烦</a></li>
 <li><a href="/cbnews/20201011/1411755.md" target="_blank">蓬佩奥惊爆中共已在中印边境部署6万重兵</a></li>
 <li><a href="/cbnews/20201011/1411754.md" target="_blank">双手悬挂26楼边缘…小六童垂晃后坠楼亡 惊悚画面曝光</a></li>
 <li><a href="/cbnews/20201011/1411753.md" target="_blank">天亮时分：蓬佩奥将公布希拉里电邮；民主党所获选票超过共和党一倍！拜登蔑视选民；川普愿捐血！（政论天下第246集 20201010）</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201010/1411250.md" target="_blank">美总统川普在白宫外演讲 将重返竞选活动</a></li>
 <li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
 <li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201011/1411807.md" target="_blank">法大教授：洗脑成效 只要我从正面阐述西方文明 学生就反感</a></li>
+<li><a href="/comments/20201011/1411806.md" target="_blank">历史之瞳：逆全球化 论巴别塔的倒掉</a></li>
+<li><a href="/comments/20201011/1411804.md" target="_blank">胡佛研究院院长赖斯 中共利用更多网军控制言论</a></li>
+<li><a href="/comments/20201011/1411803.md" target="_blank">方圆: 中共与美争霸不自量力</a></li>
 <li><a href="/comments/20201011/1411775.md" target="_blank">中共宣称两年建成空间站 进一步威胁世界安全</a></li>
 <li><a href="/comments/20201011/1411758.md" target="_blank">著名时评员详评副总统辩论：民主党大势已去</a></li>
 <li><a href="/comments/20201011/1411757.md" target="_blank">非洲黑人卖给有钱人后</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201011/1411593.md" target="_blank">Honda设计华丽转型，2021轻卡、SUV强调越野元素</a></li>
 <li><a href="/comments/20201010/1411555.md" target="_blank">时事大家谈：特朗普新冠治疗找到“银弹”？</a></li>
 <li><a href="/comments/20201010/1411554.md" target="_blank">时事大家谈：特朗普染疫对竞选连任的利与弊</a></li>
-<li><a href="/comments/20201010/1411525.md" target="_blank">你可记得80多年前 一寸河山一寸血 十万青年十万兵</a></li>
-<li><a href="/comments/20201010/1411524.md" target="_blank">小行星撞击地球只是一个导火索！恐龙灭绝的真实原因或被找到</a></li>
-<li><a href="/comments/20201010/1411517.md" target="_blank">川普执政活好评 56%美国人称现在比4年前过得好</a></li>
-<li><a href="/comments/20201010/1411504.md" target="_blank">一个方法，让你成为测谎高手！研究：撒谎时它会出卖你</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200424/1318689.md" target="_blank">【特稿】越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
 
 </ul>
 </div>
