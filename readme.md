@@ -20,13 +20,13 @@
 <li><a href="/baitai/20201011/1411926.md">网文转贴：中国各省骗子大全</a></li>
 <li><a href="/comments/20201011/1411722.md">中共所有党魁都不知道：共产党的终极绝密</a></li>
 <li><a href="/bannedvideo/20201011/1411938.md">财经冷眼：最新！数字货币大规模落地推进！央行发出人民币贬值信号！P2P巨头赴美上市的背后！（20201011第354期）</a></li>
-<li><a href="/cbnews/20201011/1411732.md">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
 <li><a href="/comments/20201011/1411912.md">符合5个特征的人，恭喜，你很有可能是“癌症免疫体”</a></li>
+<li><a href="/cbnews/20201011/1411732.md">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
 <li><a href="/comments/20201011/1411854.md">中共国十大混吃部门 八大恶心事</a></li>
 <li><a href="/cnnews/20201011/1411740.md">苹果发表会遭泄密！iPhone 全新4大关键技术流出</a></li>
 <li><a href="/health/20201011/1411674.md">中国每天一万人确诊癌症 医生忠告 想长寿 晨起请坚持三多三少</a></li>
+<li><a href="/bannedvideo/20201011/1412032.md">习近平南下深圳与林郑会面，北京下急令周一前做好一切准备；王毅笑里藏刀：无意与美国拼高下；北京称破获百起台湾谍案；美股让中企爱恨交加：被喊打驱逐也要在美上市；蓬佩奥：六万中国兵压境印度，是可忍孰不可忍？</a></li>
 <li><a href="/cnnews/20201011/1411652.md">小心通胀突飙！全世界粮食都在涨价…</a></li>
-<li><a href="/cnnews/20201011/1411724.md">食材放冰箱冷冻1年！1家9口吃下肚中毒 惨酿7死2命危</a></li>
 <li><a href="/cnnews/20201011/1411886.md">林彪对毛的研究入木三分 提出在毛面前如何自保的“三字诀”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201012/1412071.md" target="_blank">盖洛普民调：大多数美国人认为现在生活比四年前更好</a></li>
 <li><a href="/cbnews/20201011/1412021.md" target="_blank">”大五毛“染香的“国安”老公遭清洗 被控间谍罪 将在北京受审</a></li>
 <li><a href="/cbnews/20201011/1411916.md" target="_blank">日本出动三艘军舰 于南海进行反潜演习</a></li>
 <li><a href="/cbnews/20201011/1411915.md" target="_blank">“衡量国家秘密的真正内涵就是 韭菜如果都知道了 党国就得灭亡”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201010/1411463.md" target="_blank">“反美斗士”金灿荣为留美儿子举行婚礼 诠释“反美是工作”</a></li>
 <li><a href="/cbnews/20201010/1411455.md" target="_blank">蔡英文国庆演说 胡锡进给中共找台阶</a></li>
 <li><a href="/cbnews/20201010/1411454.md" target="_blank">薇羽看世间：【第155期】众议院议长佩洛西，突然提出用第25修正案罢免川普总统。这一明知几乎不可能的任务，佩洛西究竟是疯了，还是另有用意？</a></li>
-<li><a href="/cbnews/20201010/1411408.md" target="_blank">江峰：川普明示阿富汗撤军为对中共备战！美中必有一战不再遮掩！对抗中共五代战机，台湾“租” 最先进F 35形成碾压优势</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201012/1412070.md" target="_blank">乱了！华南理工教授涉性侵多名女生 遭解聘</a></li>
 <li><a href="/comments/20201011/1412055.md" target="_blank">中国会出现第二次大饥荒吗？《大饥荒》作者解密</a></li>
 <li><a href="/comments/20201011/1412047.md" target="_blank">刘锐绍分析习近平迟28小时问候川普三大原因</a></li>
 <li><a href="/comments/20201011/1412043.md" target="_blank">英调查报告： 中共若不隐瞒疫情 全球至少可以少死10万人</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201011/1411881.md" target="_blank">亲子之间：玉不琢 不成器</a></li>
 <li><a href="/comments/20201011/1411880.md" target="_blank">苏东坡对张良的评论</a></li>
 <li><a href="/comments/20201011/1411879.md" target="_blank">梵蒂冈的道德挑战</a></li>
-<li><a href="/comments/20201011/1411855.md" target="_blank">【微博精粹】川大爷又出惊人一举 碾压中南海人渣</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/ccpdope/20200425/1319297.md" target="_blank">特稿:越亲中共疫情越重 防疫有良方</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 
 </ul>
 </div>
