@@ -9,7 +9,6 @@
 <li><a href="/cbnews/20201011/1411791.md">法媒：王岐山可能遇到了麻烦</a></li>
 <li><a href="/finance/20201011/1411756.md">又诚实了？李克强吐「这席话」 惊爆中国经济基本盘恐不稳</a></li>
 <li><a href="/topimagenews/20201011/1412001.md">中国空城房价跌到几万一套 郭台铭跑了 阿里要完？ 黄奇帆谈话泄多少秘密？</a></li>
-<li><a href="/headline/20201011/1411706.md">金正恩罕见落泪 就无法改善国人生活致歉</a></li>
 <li><a href="/bannedvideo/20201011/1412032.md">习近平南下深圳与林郑会面，北京下急令周一前做好一切准备；王毅笑里藏刀：无意与美国拼高下；北京称破获百起台湾谍案；美股让中企爱恨交加：被喊打驱逐也要在美上市；蓬佩奥：六万中国兵压境印度，是可忍孰不可忍？</a></li>
 <li><a href="/cbnews/20201011/1411900.md">川普在憋什么大招？蓬佩奥：我不想在他将要做出的决定之前透露...</a></li>
 <li><a href="/cbnews/20201011/1411753.md">天亮时分：蓬佩奥将公布希拉里电邮；民主党所获选票超过共和党一倍！拜登蔑视选民；川普愿捐血！（政论天下第246集 20201010）</a></li>
@@ -22,6 +21,7 @@
 <li><a href="/cbnews/20201011/1411732.md">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
 <li><a href="/comments/20201011/1411854.md">中共国十大混吃部门 八大恶心事</a></li>
 <li><a href="/cnnews/20201011/1411740.md">苹果发表会遭泄密！iPhone 全新4大关键技术流出</a></li>
+<li><a href="/topimagenews/20201012/1412097.md">川普惊人一举碾压中南海 黑人抛弃民主党挺川大游行 大使泄底:拜登当选和中共...</a></li>
 <li><a href="/cbnews/20201011/1411915.md">“衡量国家秘密的真正内涵就是 韭菜如果都知道了 党国就得灭亡”</a></li>
 <li><a href="/baitai/20201011/1412009.md">新冠肺炎 大连疾控中心发布紧急提醒：近期非必要勿前往青岛</a></li>
 <li><a href="/cnnews/20201011/1411886.md">林彪对毛的研究入木三分 提出在毛面前如何自保的“三字诀”</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201012/1412179.md" target="_blank">陈破空：惊魂，金正恩半夜大阅兵！华春莹大喊海盗。胡锡进低声叫屈。金灿荣大办婚礼。美国剑指腾讯和蚂蚁</a></li>
 <li><a href="/cbnews/20201012/1412169.md" target="_blank">要打仗了？中共官方要求大学师生收看台谍案报导</a></li>
 <li><a href="/cbnews/20201012/1412101.md" target="_blank">美看破中共“霸占”联合国手段 出手反制</a></li>
 <li><a href="/cbnews/20201012/1412100.md" target="_blank">蓬佩奥坦言：台湾是美中一个冲突点</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201011/1411754.md" target="_blank">双手悬挂26楼边缘…小六童垂晃后坠楼亡 惊悚画面曝光</a></li>
 <li><a href="/cbnews/20201011/1411753.md" target="_blank">天亮时分：蓬佩奥将公布希拉里电邮；民主党所获选票超过共和党一倍！拜登蔑视选民；川普愿捐血！（政论天下第246集 20201010）</a></li>
 <li><a href="/cbnews/20201011/1411732.md" target="_blank">15万元积蓄遭男友骗光 北漂女「绝地大复仇」…结局网惊呆</a></li>
-<li><a href="/cbnews/20201011/1411705.md" target="_blank">陈破空：不寻常，前高官轮番痛批习近平！印度欢庆中华民国国庆。巴基斯坦突禁抖音</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 
 </ul>
 </div>
