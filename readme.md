@@ -6,20 +6,19 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20201011/1412032.md">习近平南下深圳与林郑会面，北京下急令周一前做好一切准备；王毅笑里藏刀：无意与美国拼高下；北京称破获百起台湾谍案；美股让中企爱恨交加：被喊打驱逐也要在美上市；蓬佩奥：六万中国兵压境印度，是可忍孰不可忍？</a></li>
-<li><a href="/finance/20201011/1412024.md">又诚实了？李克强惊爆基本盘不稳 内部消息：江泽民的秘密 王岐山会出事吗？</a></li>
 <li><a href="/comments/20201012/1412122.md">任志强案再起波澜 案中一关键女性浮现 官媒五中全会前揭任志强贪腐内幕 这是要把任志强搞倒后再搞臭…… 中南海谣言预言_319</a></li>
 <li><a href="/topimagenews/20201012/1412097.md">川普惊人一举碾压中南海 黑人抛弃民主党挺川大游行 大使泄底:拜登当选和中共...</a></li>
 <li><a href="/ssgc/20201012/1412126.md">〖兲朝浮世绘〗耿爽一发言，吓得各国代表都尿遁了</a></li>
 <li><a href="/cbnews/20201012/1412099.md">疫情扩大 青岛大规模测核酸 多地发旅行警告</a></li>
 <li><a href="/topimagenews/20201012/1412078.md">川普震慑习近平 美军无预警 川普在憋什么大招？蓬佩奥说.. 华春莹问白宫下个禁谁？反火</a></li>
-<li><a href="/cbnews/20201012/1412248.md">封闭小区了！国殇日过后 中国青岛市疫情再现</a></li>
 <li><a href="/funmedia/20201012/1412157.md">女子在泰国做鱼疗 导致鱼儿全翻白肚 女子：当时没忍住</a></li>
+<li><a href="/cbnews/20201012/1412248.md">封闭小区了！国殇日过后 中国青岛市疫情再现</a></li>
 <li><a href="/cbnews/20201012/1412297.md">美国会报告：开发技术 击破中共防火墙！确定并制裁负责中共器官移植系统官员</a></li>
 <li><a href="/cbnews/20201012/1412169.md">要打仗了？中共官方要求大学师生收看台谍案报导</a></li>
+<li><a href="/topimagenews/20201012/1412355.md">劲爆！拜登的白手套要受审！蓬佩奥公布希拉里3万封私密邮件…媒体炸锅</a></li>
 <li><a href="/bannedvideo/20201011/1412056.md">习近平动身南巡，深圳急戒备！争功邓小平百年大计一张蓝图绘到底：我不犯颠覆性历史失误！五中全会集权逆风，只修条例不修党章；党内发声：美国等我们在压力下犯错垮台，勿重演噩梦</a></li>
 <li><a href="/cnnews/hknews/20201012/1412186.md">五中全会前 习近平为何动作频频</a></li>
 <li><a href="/bannedvideo/20201012/1412225.md">习近平喊“我们”让广西大学生石可激动写公开信，胡锡进、金灿荣紧急泼冷水：“我们”里没有你</a></li>
-<li><a href="/topimagenews/20201012/1412355.md">劲爆！拜登的白手套要受审！蓬佩奥公布希拉里3万封私密邮件…媒体炸锅</a></li>
 <li><a href="/comments/20201012/1412232.md">微信 请停止你无耻的偷听行为</a></li>
 <li><a href="/lifebaike/20201012/1412140.md">日本人每天必吃的“长寿菜” 我国产量大却没人吃 含碘比紫菜高</a></li>
 <li><a href="/bannedvideo/20201011/1412054.md">中越边境建墙，要么跪着唱征服，要么赶紧跑，穷人移民，必须经历一个痛苦的过渡期！</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20201012/1412317.md">王岐山要出事儿？乱世残局，体制内人人自危，谁都不安全</a></li>
 <li><a href="/cnnews/20201012/1412103.md">美大学孔子学院中方代表遭搜索后 被发现陈尸家中</a></li>
 <li><a href="/comments/20201012/1412254.md">残忍的提问：中国人的钱都到哪儿去了？</a></li>
+<li><a href="/baitai/20201012/1412346.md">湘西最后的赶尸匠还原赶尸全过程 揭让尸体行走真相</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201012/1412549.md" target="_blank">中共孔子学院 常驻美国院长FBI调查期间死亡</a></li>
 <li><a href="/cbnews/20201012/1412505.md" target="_blank">5G技术军事化 美国防部注资6亿</a></li>
 <li><a href="/cbnews/20201012/1412464.md" target="_blank">央视播台谍案漏洞百出 陆委会：恶意炒作</a></li>
 <li><a href="/cbnews/20201012/1412463.md" target="_blank">亲人命危急探病 江苏访民遭黑保安持钢叉堵门</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201012/1412099.md" target="_blank">疫情扩大 青岛大规模测核酸 多地发旅行警告</a></li>
 <li><a href="/cbnews/20201012/1412090.md" target="_blank">扯爆！中国建商为卖房 竟装「假地铁站牌」骗买家</a></li>
 <li><a href="/cbnews/20201012/1412089.md" target="_blank">大陆抢先曝光伪Phone12 他实测开箱傻眼：相机用黏的</a></li>
-<li><a href="/cbnews/20201012/1412071.md" target="_blank">盖洛普民调：大多数美国人认为现在生活比四年前更好</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
 <li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 
 </ul>
 </div>
