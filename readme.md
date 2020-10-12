@@ -16,18 +16,18 @@
 <li><a href="/bannedvideo/20201011/1411938.md">财经冷眼：最新！数字货币大规模落地推进！央行发出人民币贬值信号！P2P巨头赴美上市的背后！（20201011第354期）</a></li>
 <li><a href="/ssgc/20201012/1412126.md">〖兲朝浮世绘〗耿爽一发言，吓得各国代表都尿遁了</a></li>
 <li><a href="/cbnews/20201012/1412099.md">疫情扩大 青岛大规模测核酸 多地发旅行警告</a></li>
-<li><a href="/baitai/20201011/1412009.md">新冠肺炎 大连疾控中心发布紧急提醒：近期非必要勿前往青岛</a></li>
 <li><a href="/topimagenews/20201012/1412078.md">川普震慑习近平 美军无预警 川普在憋什么大招？蓬佩奥说.. 华春莹问白宫下个禁谁？反火</a></li>
+<li><a href="/baitai/20201011/1412009.md">新冠肺炎 大连疾控中心发布紧急提醒：近期非必要勿前往青岛</a></li>
 <li><a href="/cnnews/20201011/1411886.md">林彪对毛的研究入木三分 提出在毛面前如何自保的“三字诀”</a></li>
 <li><a href="/cbnews/20201011/1411915.md">“衡量国家秘密的真正内涵就是 韭菜如果都知道了 党国就得灭亡”</a></li>
 <li><a href="/bannedvideo/20201011/1411936.md">网友：近日，广东省佛山市顺德区陈村花卉大道，没有任何碰撞，行驶中的大货车头瞬间垮塌 #大陆民生</a></li>
 <li><a href="/cbnews/20201011/1411906.md">薇羽看世间：【第156期】习近平抓江泽民文旦滕文生的副手董宏，查太子党邓朴方的独立王国中国残联，中共权贵大决裂？</a></li>
 <li><a href="/bannedvideo/20201011/1412056.md">习近平动身南巡，深圳急戒备！争功邓小平百年大计一张蓝图绘到底：我不犯颠覆性历史失误！五中全会集权逆风，只修条例不修党章；党内发声：美国等我们在压力下犯错垮台，勿重演噩梦</a></li>
 <li><a href="/bannedvideo/20201011/1412054.md">中越边境建墙，要么跪着唱征服，要么赶紧跑，穷人移民，必须经历一个痛苦的过渡期！</a></li>
-<li><a href="/comments/20201011/1412005.md">五中全会将开 习近平权力要升？“十四五”如梦泡影？</a></li>
 <li><a href="/lifebaike/20201011/1411975.md">造假上名校 华裔完美女儿被揭穿 恼羞成怒杀爸妈</a></li>
+<li><a href="/comments/20201011/1412005.md">五中全会将开 习近平权力要升？“十四五”如梦泡影？</a></li>
 <li><a href="/cbnews/20201011/1412021.md">”大五毛“染香的“国安”老公遭清洗 被控间谍罪 将在北京受审</a></li>
-<li><a href="/lifebaike/20201011/1411957.md">今天才清楚 酸奶盒上藏 了一个小机关 超市的店员不会告诉你</a></li>
+<li><a href="/funmedia/20201012/1412157.md">女子在泰国做鱼疗 导致鱼儿全翻白肚 女子：当时没忍住</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201012/1412288.md" target="_blank">十月命带劫数，待满血复活，天下大变</a></li>
+<li><a href="/comments/20201012/1412273.md" target="_blank">名家专栏：左派对美国高校言论自由的冲击</a></li>
 <li><a href="/comments/20201012/1412256.md" target="_blank">陶杰：伪自由派 出现在雏妓大亨名单上的克林顿和奥巴马</a></li>
 <li><a href="/comments/20201012/1412255.md" target="_blank">李怡：中共炮手邬维庸劝港人躺下享受强奸令人作呕</a></li>
 <li><a href="/comments/20201012/1412254.md" target="_blank">残忍的提问：中国人的钱都到哪儿去了？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201011/1412042.md" target="_blank">小米红薯粥</a></li>
 <li><a href="/comments/20201011/1412041.md" target="_blank">美国领创，史上真正的商用自动驾驶出租车上路了</a></li>
 <li><a href="/comments/20201011/1412034.md" target="_blank">解读文艺复兴之后两百年间的美术（下）</a></li>
-<li><a href="/comments/20201011/1412027.md" target="_blank">黑龙江7人食用酸汤子死亡 疑似黄曲霉素中毒</a></li>
-<li><a href="/comments/20201011/1412019.md" target="_blank">宋征时：通过对比揭秘蔡霞</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
