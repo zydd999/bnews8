@@ -25,9 +25,9 @@
 <li><a href="/lifebaike/20201012/1412140.md">日本人每天必吃的“长寿菜” 我国产量大却没人吃 含碘比紫菜高</a></li>
 <li><a href="/lifebaike/20201011/1411975.md">造假上名校 华裔完美女儿被揭穿 恼羞成怒杀爸妈</a></li>
 <li><a href="/bannedvideo/20201011/1412054.md">中越边境建墙，要么跪着唱征服，要么赶紧跑，穷人移民，必须经历一个痛苦的过渡期！</a></li>
-<li><a href="/cbnews/20201011/1411906.md">薇羽看世间：【第156期】习近平抓江泽民文旦滕文生的副手董宏，查太子党邓朴方的独立王国中国残联，中共权贵大决裂？</a></li>
 <li><a href="/comments/20201011/1412005.md">五中全会将开 习近平权力要升？“十四五”如梦泡影？</a></li>
 <li><a href="/cnnews/20201012/1412094.md">五中全会前习近平将南巡深圳 会释出何信号？</a></li>
+<li><a href="/cnnews/hknews/20201012/1412186.md">五中全会前 习近平为何动作频频</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201012/1412364.md" target="_blank">秋冬忧郁超想吃甜食 甜食会增加忧郁症发作风险</a></li>
+<li><a href="/comments/20201012/1412363.md" target="_blank">放低姿态是智慧，有意思的“败犬效应”</a></li>
+<li><a href="/comments/20201012/1412362.md" target="_blank">寒露后，抓紧收敛阳气，别错过一年一次改善体虚的机会</a></li>
+<li><a href="/comments/20201012/1412361.md" target="_blank">一家9人7死2命危 竟是吃了冷冻的这个</a></li>
 <li><a href="/comments/20201012/1412336.md" target="_blank">习近平南下深圳释放新指示 专家：将吸收和统战香港</a></li>
 <li><a href="/comments/20201012/1412320.md" target="_blank">台湾公民李孟居央视「被认罪」副总统赖清德回应</a></li>
 <li><a href="/comments/20201012/1412319.md" target="_blank">日本「迷你版李小龙」10岁男童7年练成一身惊人肌肉</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201012/1412213.md" target="_blank">【笨贼列传】你以为天衣无缝的计划 结果如何</a></li>
 <li><a href="/comments/20201012/1412202.md" target="_blank">黎智英：台湾也要感谢党 不应仇视习大大</a></li>
 <li><a href="/comments/20201012/1412201.md" target="_blank">孔子：人可以不吃饭 不可疑没有诚信</a></li>
-<li><a href="/comments/20201012/1412181.md" target="_blank">聚焦瑞典特殊防疫：继台湾之后的又一个成功典范（下）</a></li>
-<li><a href="/comments/20201012/1412180.md" target="_blank">聚焦瑞典特殊防疫：继台湾之后的又一个成功典范（中）</a></li>
-<li><a href="/comments/20201012/1412122.md" target="_blank">任志强案再起波澜 案中一关键女性浮现 官媒五中全会前揭任志强贪腐内幕 这是要把任志强搞倒后再搞臭…… 中南海谣言预言_319</a></li>
-<li><a href="/comments/20201012/1412070.md" target="_blank">乱了！华南理工教授涉性侵多名女生 遭解聘</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 
 </ul>
 </div>
