@@ -14,14 +14,14 @@
 <li><a href="/lifebaike/20201012/1412469.md">美艳名模离奇失踪 一年后发现裸体流落贫民窟</a></li>
 <li><a href="/cnnews/hknews/20201012/1412381.md">傻眼！中共狠逮数百「台谍」？马英九竟冷回一句话</a></li>
 <li><a href="/worldnews/20201012/1412451.md">朝鲜阅兵金正恩挑夜间 原来特别为了它…</a></li>
-<li><a href="/topimagenews/20201012/1412355.md">劲爆！拜登的白手套要受审！蓬佩奥公布希拉里3万封私密邮件…媒体炸锅</a></li>
 <li><a href="/cnnews/20201013/1412685.md">习近平考察潮州逛商业街 保镖暗拽导游未果</a></li>
+<li><a href="/topimagenews/20201012/1412355.md">劲爆！拜登的白手套要受审！蓬佩奥公布希拉里3万封私密邮件…媒体炸锅</a></li>
 <li><a href="/topimagenews/20201013/1412639.md">拜登拉票说错话「试试自己的乳房」 网友傻眼狂轰：该治痴呆症</a></li>
 <li><a href="/cbnews/20201013/1412708.md">专栏 | 夜话中南海：王沪宁最有可能在二十大上出任党中央副主席</a></li>
 <li><a href="/cbnews/20201012/1412390.md">蓬佩奥：中共已开始在各方面付出代价</a></li>
 <li><a href="/topimagenews/20201012/1412531.md">卖房难中国建商创惊人一幕 中国人先拿命赚钱后拿钱续命 剑指中资欧盟变脸审查敏感投资</a></li>
-<li><a href="/baitai/20201012/1412346.md">湘西最后的赶尸匠还原赶尸全过程 揭让尸体行走真相</a></li>
 <li><a href="/bannedvideo/20201012/1412586.md">大限已到！蓬佩奥提交制裁中共官员名单；习近平街头演讲：从庆丰包子到潮州肉丸，没工夫喝功夫茶；胡锡进大谈任志强案内情：他迟早出事！玩政治屁股要干净！赵立坚：闫丽梦活着却被美国说死了；最高法大法官听证开始</a></li>
+<li><a href="/baitai/20201012/1412346.md">湘西最后的赶尸匠还原赶尸全过程 揭让尸体行走真相</a></li>
 <li><a href="/cbnews/20201013/1412683.md">醉汉调戏女老板被霸气踹倒视频火了！结果出现大反转</a></li>
 <li><a href="/headline/20201013/1412657.md">任志强案新细节曝光 舆论不买账</a></li>
 <li><a href="/headline/20201012/1412448.md">高调南下深圳：学者指习近平欲「左右逢源」</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201013/1412860.md" target="_blank">网传视频：城管被老百姓当街暴打</a></li>
 <li><a href="/cbnews/20201013/1412853.md" target="_blank">锦州社保局有恃无恐 任意侵吞公民的养老金</a></li>
 <li><a href="/cbnews/20201013/1412834.md" target="_blank">审判长：我们知道炼法轮功的都是善良人</a></li>
 <li><a href="/cbnews/20201013/1412833.md" target="_blank">天亮时分：20201012 川普与UFO；美国高院听证最新进展与什么是人的权利；世卫警告各国不要再封城（政论天下第247集 20201012）</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201012/1412376.md" target="_blank">呼吁习近平调查江泽民俄奸案通俄门事件</a></li>
 <li><a href="/cbnews/20201012/1412390.md" target="_blank">蓬佩奥：中共已开始在各方面付出代价</a></li>
 <li><a href="/cbnews/20201012/1412389.md" target="_blank">广西女直播主起床听声响 一看床底吓坏了…</a></li>
-<li><a href="/cbnews/20201012/1412366.md" target="_blank">十一前有确诊？9月23日青岛返回者被要求检测</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201013/1412864.md" target="_blank">【微博精粹】十月惊奇连惊奇 找到最大吸血鬼 发现美国加速师</a></li>
+<li><a href="/comments/20201013/1412863.md" target="_blank">名家专栏：朱利安尼：谨记中共对我们的攻击</a></li>
 <li><a href="/comments/20201013/1412858.md" target="_blank">评论：九大标志显示美国民主党越来越激进</a></li>
 <li><a href="/comments/20201013/1412856.md" target="_blank">吓人故事：一只被看不起的“狗”</a></li>
 <li><a href="/comments/20201013/1412837.md" target="_blank">欧阳乾：倪萍的“假电报” 让我的童年很受伤</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201012/1412621.md" target="_blank">中共央行出手稳汇率挽救出口</a></li>
 <li><a href="/comments/20201012/1412617.md" target="_blank">评论 | 朱兆基：解放军长期缺乏实战经验 只有盲目的爱国主义与无知</a></li>
 <li><a href="/comments/20201012/1412604.md" target="_blank">【视频直播】美国高院大法官提名人巴雷特参院听证第一天</a></li>
-<li><a href="/comments/20201012/1412603.md" target="_blank">致人死地的法老图坦卡蒙的千年咒语,终于被破解 ?</a></li>
-<li><a href="/comments/20201012/1412572.md" target="_blank">大揭密！蓬佩奥：大选前将解密希拉里“电邮门”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 
 </ul>
 </div>
