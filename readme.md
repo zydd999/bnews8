@@ -9,15 +9,15 @@
 <li><a href="/topimagenews/20201014/1413242.md">川普必胜2个迹象2个数据 南海真开打？内部文件亮了 惊曝美最重要机构与中共密切</a></li>
 <li><a href="/topimagenews/20201014/1413546.md">习近平健康引关注！频频停顿喝水 多次咳嗽</a></li>
 <li><a href="/bannedvideo/20201014/1413231.md">全美投票已开始，目前投拜登的选票是投川普的两倍？ 纳姐邀请美国选举问题专家陈力简教授来分析大选惊心动魄的最新进展！</a></li>
-<li><a href="/cnnews/20201014/1413528.md">拜登东窗事发？川普转推此文：这就是我将透露给总统的秘密</a></li>
 <li><a href="/comments/20201014/1413310.md">希拉里“电邮门”曝惊天秘密：奥巴马曾助习近平“登基”</a></li>
+<li><a href="/cnnews/20201014/1413528.md">拜登东窗事发？川普转推此文：这就是我将透露给总统的秘密</a></li>
 <li><a href="/cnnews/20201014/1413432.md">央视翻车！力捧抗疫护士嫁军人原来是渣男配小三</a></li>
 <li><a href="/cbnews/20201013/1413226.md">青岛保密半封城游客曝麻烦了 李克强再哭穷 王毅出访大撒币 美国会报告：击破中共防火墙</a></li>
 <li><a href="/bannedvideo/20201014/1413594.md">习近平：深圳40年等于别人100年。打了草稿还是这种水平！</a></li>
 <li><a href="/ssgc/20201014/1413303.md">最美护士和兵哥哥的爱情翻车了</a></li>
-<li><a href="/cnnews/20201014/1413294.md">苹果发表iPhone 12系列手机 看这两大亮点</a></li>
-<li><a href="/topimagenews/20201014/1413454.md">苹果日报：台海上空紧张一刻！台战机逼退苏恺30 破共机频扰西南空域诡计</a></li>
 <li><a href="/lifebaike/20201014/1413459.md">周永康严管嫩妻 圈内秘守“在外混的规矩”</a></li>
+<li><a href="/topimagenews/20201014/1413454.md">苹果日报：台海上空紧张一刻！台战机逼退苏恺30 破共机频扰西南空域诡计</a></li>
+<li><a href="/cnnews/20201014/1413294.md">苹果发表iPhone 12系列手机 看这两大亮点</a></li>
 <li><a href="/bannedvideo/20201014/1413577.md">习近平深圳喊十个坚持，A股港股齐跌，不点名赞扬习仲勋；蚂蚁集团被查，IPO遭延迟；习近平三次南巡越趋铁腕；中国三审出口管制法草案</a></li>
 <li><a href="/cbnews/20201014/1413423.md">天亮时分：习近平南巡走死路；三个好时机全错过，内循环恶果已凸现；川普会突袭访台？（政论天下第248集 20201013）</a></li>
 <li><a href="/baitai/20201014/1413538.md">公安局长王家黔从外地高价找漂亮小姐 被抓前与情妇抱头痛哭</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/lifebaike/20201014/1413413.md">最后太监才净身完大清就灭亡临终前爆末代皇后裸身秘密</a></li>
 <li><a href="/cbnews/20201014/1413565.md">国民党改名 国台办回应</a></li>
 <li><a href="/bannedvideo/20201014/1413503.md">运气似乎站到了中共这一边，很多人煎熬沮丧，从三方面分析实情</a></li>
-<li><a href="/cbnews/20201014/1413364.md">陈破空：习近平亲民秀，意外捧红潮州大妈！部分中国人心碎，恨上瑞典餐馆和韩国乐队</a></li>
 <li><a href="/bannedvideo/20201014/1413532.md">拜登大脑断片连续发作！佩洛西突然面临被罢免？川普集会跳舞，左派和中共到底啥关系？</a></li>
-<li><a href="/bannedvideo/20201014/1413514.md">印度神童再预言：12月全球恐有巨灾</a></li>
+<li><a href="/lifebaike/20201014/1413596.md">—个瞒了50年的骗局: 它是癌症帮凶 比香烟还容易上瘾！可你却天天吃…</a></li>
+<li><a href="/comments/20201014/1413649.md">人民币贬值 如何带钱逃离中国？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201014/1413822.md" target="_blank">习近平南巡出了这么多事 国军飞官逼退共军破诡计 两杀招反制北斗飞弹攻击</a></li>
 <li><a href="/topimagenews/20201014/1413721.md" target="_blank">惊！ 中国十强总值为苹果16% 中共严打讨薪割韭菜连根刨 川普抗共很辛苦八面埋伏</a></li>
 <li><a href="/topimagenews/20201014/1413546.md" target="_blank">习近平健康引关注！频频停顿喝水 多次咳嗽</a></li>
 <li><a href="/topimagenews/20201014/1413454.md" target="_blank">苹果日报：台海上空紧张一刻！台战机逼退苏恺30 破共机频扰西南空域诡计</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201010/1411327.md" target="_blank">布拉特：中国经济所有的红灯都亮了</a></li>
 <li><a href="/topimagenews/20201010/1411300.md" target="_blank">中共大使成功激怒印度人 使馆前贴满海报 祝贺中华民国国庆</a></li>
 <li><a href="/topimagenews/20201009/1411001.md" target="_blank">川普关键时刻撤军备战中共 撤销美国籍！中国夫妇要遣返 华春莹成箭靶被连番狂怼</a></li>
-<li><a href="/topimagenews/20201009/1410987.md" target="_blank">豁出去了 朝鲜人竟敢这样“打倒党高层”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 <li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
 
 </ul>
 </div>
