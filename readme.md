@@ -5,10 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20201014/1413281.md">不要命了？网曝习近平访汕头 一女子突然冲上去</a></li>
 <li><a href="/topimagenews/20201014/1413546.md">习近平健康引关注！频频停顿喝水 多次咳嗽</a></li>
-<li><a href="/comments/20201014/1413310.md">希拉里“电邮门”曝惊天秘密：奥巴马曾助习近平“登基”</a></li>
 <li><a href="/cnnews/20201014/1413528.md">拜登东窗事发？川普转推此文：这就是我将透露给总统的秘密</a></li>
+<li><a href="/comments/20201014/1413310.md">希拉里“电邮门”曝惊天秘密：奥巴马曾助习近平“登基”</a></li>
 <li><a href="/cnnews/20201014/1413432.md">央视翻车！力捧抗疫护士嫁军人原来是渣男配小三</a></li>
 <li><a href="/lifebaike/20201014/1413459.md">周永康严管嫩妻 圈内秘守“在外混的规矩”</a></li>
 <li><a href="/bannedvideo/20201014/1413594.md">习近平：深圳40年等于别人100年。打了草稿还是这种水平！</a></li>
@@ -16,8 +15,8 @@
 <li><a href="/topimagenews/20201014/1413454.md">苹果日报：台海上空紧张一刻！台战机逼退苏恺30 破共机频扰西南空域诡计</a></li>
 <li><a href="/cnnews/20201014/1413294.md">苹果发表iPhone 12系列手机 看这两大亮点</a></li>
 <li><a href="/bannedvideo/20201014/1413577.md">习近平深圳喊十个坚持，A股港股齐跌，不点名赞扬习仲勋；蚂蚁集团被查，IPO遭延迟；习近平三次南巡越趋铁腕；中国三审出口管制法草案</a></li>
-<li><a href="/cnnews/20201014/1413613.md">中国富人移民梦碎 欧盟成员国11月1日废除"黄金护照"</a></li>
 <li><a href="/comments/20201014/1413649.md">人民币贬值 如何带钱逃离中国？</a></li>
+<li><a href="/cnnews/20201014/1413613.md">中国富人移民梦碎 欧盟成员国11月1日废除"黄金护照"</a></li>
 <li><a href="/cbnews/20201014/1413423.md">天亮时分：习近平南巡走死路；三个好时机全错过，内循环恶果已凸现；川普会突袭访台？（政论天下第248集 20201013）</a></li>
 <li><a href="/baitai/20201014/1413538.md">公安局长王家黔从外地高价找漂亮小姐 被抓前与情妇抱头痛哭</a></li>
 <li><a href="/topimagenews/20201014/1413834.md">习近平出事了？现惊人一幕 青岛严重了各地医疗队支援 川普压倒性胜利几大理由</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20201014/1413503.md">运气似乎站到了中共这一边，很多人煎熬沮丧，从三方面分析实情</a></li>
 <li><a href="/health/20201014/1413608.md">便秘的“天敌”找到了 不是香蕉 平时多吃 让你“一通到底”</a></li>
 <li><a href="/bannedvideo/20201014/1413532.md">拜登大脑断片连续发作！佩洛西突然面临被罢免？川普集会跳舞，左派和中共到底啥关系？</a></li>
+<li><a href="/topimagenews/20201014/1413721.md">惊！ 中国十强总值为苹果16% 中共严打讨薪割韭菜连根刨 川普抗共很辛苦八面埋伏</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201015/1413909.md" target="_blank">断尾求生？传华为拟出售经济型荣耀手机业务</a></li>
+<li><a href="/comments/20201015/1413908.md" target="_blank">英媒： 川普总统改变中东格局 带来和平曙光</a></li>
 <li><a href="/comments/20201015/1413899.md" target="_blank">谎话连篇 拜登为拉选票编造自己有“亲黑人”经历</a></li>
 <li><a href="/comments/20201015/1413898.md" target="_blank">要改革又要内循环 习近平深圳讲话释放什么信号？</a></li>
 <li><a href="/comments/20201015/1413873.md" target="_blank">铁证如山！拜登儿子丑闻电邮曝光 参院介入调查</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201014/1413576.md" target="_blank">新手登百岳 高山症认知不可少</a></li>
 <li><a href="/comments/20201014/1413574.md" target="_blank">男孩右眼钻进寄生虫险失明！这病多见于儿童</a></li>
 <li><a href="/comments/20201014/1413573.md" target="_blank">一入秋冬陷抑郁</a></li>
-<li><a href="/comments/20201014/1413572.md" target="_blank">谈到补气！这样做最简单</a></li>
-<li><a href="/comments/20201014/1413571.md" target="_blank">日本研究：新冠病毒在人体肌肤可保持9小时的传染能力</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 
 </ul>
 </div>
