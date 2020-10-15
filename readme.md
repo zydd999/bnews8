@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20201014/1413528.md">拜登东窗事发？川普转推此文：这就是我将透露给总统的秘密</a></li>
 <li><a href="/topimagenews/20201014/1413546.md">习近平健康引关注！频频停顿喝水 多次咳嗽</a></li>
-<li><a href="/cnnews/20201014/1413432.md">央视翻车！力捧抗疫护士嫁军人原来是渣男配小三</a></li>
 <li><a href="/lifebaike/20201014/1413459.md">周永康严管嫩妻 圈内秘守“在外混的规矩”</a></li>
 <li><a href="/bannedvideo/20201014/1413594.md">习近平：深圳40年等于别人100年。打了草稿还是这种水平！</a></li>
 <li><a href="/topimagenews/20201014/1413834.md">习近平出事了？现惊人一幕 青岛严重了各地医疗队支援 川普压倒性胜利几大理由</a></li>
-<li><a href="/topimagenews/20201014/1413454.md">苹果日报：台海上空紧张一刻！台战机逼退苏恺30 破共机频扰西南空域诡计</a></li>
 <li><a href="/comments/20201014/1413649.md">人民币贬值 如何带钱逃离中国？</a></li>
+<li><a href="/topimagenews/20201014/1413454.md">苹果日报：台海上空紧张一刻！台战机逼退苏恺30 破共机频扰西南空域诡计</a></li>
 <li><a href="/bannedvideo/20201014/1413577.md">习近平深圳喊十个坚持，A股港股齐跌，不点名赞扬习仲勋；蚂蚁集团被查，IPO遭延迟；习近平三次南巡越趋铁腕；中国三审出口管制法草案</a></li>
 <li><a href="/cnnews/20201014/1413613.md">中国富人移民梦碎 欧盟成员国11月1日废除"黄金护照"</a></li>
-<li><a href="/cbnews/20201014/1413423.md">天亮时分：习近平南巡走死路；三个好时机全错过，内循环恶果已凸现；川普会突袭访台？（政论天下第248集 20201013）</a></li>
-<li><a href="/baitai/20201014/1413538.md">公安局长王家黔从外地高价找漂亮小姐 被抓前与情妇抱头痛哭</a></li>
 <li><a href="/cnnews/20201015/1413936.md">习近平“南巡”现五大异常</a></li>
+<li><a href="/baitai/20201014/1413538.md">公安局长王家黔从外地高价找漂亮小姐 被抓前与情妇抱头痛哭</a></li>
+<li><a href="/cnnews/20201015/1413921.md">青岛疫情爆发 传胡锦涛之子胡海峰“临危受命”任市长</a></li>
 <li><a href="/cbnews/20201014/1413565.md">国民党改名 国台办回应</a></li>
 <li><a href="/lifebaike/20201014/1413596.md">—个瞒了50年的骗局: 它是癌症帮凶 比香烟还容易上瘾！可你却天天吃…</a></li>
-<li><a href="/cnnews/20201015/1413921.md">青岛疫情爆发 传胡锦涛之子胡海峰“临危受命”任市长</a></li>
 <li><a href="/health/20201014/1413608.md">便秘的“天敌”找到了 不是香蕉 平时多吃 让你“一通到底”</a></li>
 <li><a href="/bannedvideo/20201014/1413503.md">运气似乎站到了中共这一边，很多人煎熬沮丧，从三方面分析实情</a></li>
-<li><a href="/cnnews/20201014/1413614.md">美国新超音速客机量产 洛杉矶飞北京只要5.5小时</a></li>
 <li><a href="/topimagenews/20201014/1413721.md">惊！ 中国十强总值为苹果16% 中共严打讨薪割韭菜连根刨 川普抗共很辛苦八面埋伏</a></li>
+<li><a href="/cnnews/20201014/1413614.md">美国新超音速客机量产 洛杉矶飞北京只要5.5小时</a></li>
 <li><a href="/headline/20201014/1413637.md">习近平讲话期间多次咳嗽 回顾深圳发展史不点名提其父作用</a></li>
 <li><a href="/bannedvideo/20201014/1413532.md">拜登大脑断片连续发作！佩洛西突然面临被罢免？川普集会跳舞，左派和中共到底啥关系？</a></li>
 <li><a href="/bannedvideo/20201014/1413542.md">《石涛聚焦》「彭丽媛10.12灰袍质素露面 惊叹内隐」极似道袍式淡灰旗袍 配以简朴家设 对比习近平奢靡-自卑式豪华「孤家寡人 非习近平莫属」（13/10）</a></li>
+<li><a href="/bannedvideo/20201014/1413514.md">印度神童再预言：12月全球恐有巨灾</a></li>
+<li><a href="/ssgc/20201015/1413901.md">〖兲朝浮世绘〗习近平是个大精分</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201015/1414085.md" target="_blank">中国9月手机出货转弱年减36%</a></li>
+<li><a href="/comments/20201015/1414084.md" target="_blank">【东方纵横】世纪大选 敲打中共</a></li>
 <li><a href="/comments/20201015/1414068.md" target="_blank">张惠妹回家乡开唱 业者看好商机民众却大为难过</a></li>
 <li><a href="/comments/20201015/1414059.md" target="_blank">李平：仇美仇华都要杀中国人？</a></li>
 <li><a href="/comments/20201015/1414058.md" target="_blank">李怡：善霸 美国保守主义传统的价值观</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201015/1413925.md" target="_blank">评论 | 王丹：中国的数字化货币逐渐浮出水面</a></li>
 <li><a href="/comments/20201015/1413909.md" target="_blank">断尾求生？传华为拟出售经济型荣耀手机业务</a></li>
 <li><a href="/comments/20201015/1413908.md" target="_blank">英媒： 川普总统改变中东格局 带来和平曙光</a></li>
-<li><a href="/comments/20201015/1413899.md" target="_blank">谎话连篇 拜登为拉选票编造自己有“亲黑人”经历</a></li>
-<li><a href="/comments/20201015/1413898.md" target="_blank">要改革又要内循环 习近平深圳讲话释放什么信号？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 
 </ul>
 </div>
