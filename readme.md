@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201014/1413546.md">习近平健康引关注！频频停顿喝水 多次咳嗽</a></li>
 <li><a href="/cnnews/20201014/1413528.md">拜登东窗事发？川普转推此文：这就是我将透露给总统的秘密</a></li>
+<li><a href="/topimagenews/20201014/1413546.md">习近平健康引关注！频频停顿喝水 多次咳嗽</a></li>
 <li><a href="/cnnews/20201014/1413432.md">央视翻车！力捧抗疫护士嫁军人原来是渣男配小三</a></li>
 <li><a href="/lifebaike/20201014/1413459.md">周永康严管嫩妻 圈内秘守“在外混的规矩”</a></li>
 <li><a href="/bannedvideo/20201014/1413594.md">习近平：深圳40年等于别人100年。打了草稿还是这种水平！</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20201014/1413613.md">中国富人移民梦碎 欧盟成员国11月1日废除"黄金护照"</a></li>
 <li><a href="/cbnews/20201014/1413423.md">天亮时分：习近平南巡走死路；三个好时机全错过，内循环恶果已凸现；川普会突袭访台？（政论天下第248集 20201013）</a></li>
 <li><a href="/baitai/20201014/1413538.md">公安局长王家黔从外地高价找漂亮小姐 被抓前与情妇抱头痛哭</a></li>
+<li><a href="/cnnews/20201015/1413936.md">习近平“南巡”现五大异常</a></li>
 <li><a href="/lifebaike/20201014/1413413.md">最后太监才净身完大清就灭亡临终前爆末代皇后裸身秘密</a></li>
 <li><a href="/cbnews/20201014/1413565.md">国民党改名 国台办回应</a></li>
 <li><a href="/lifebaike/20201014/1413596.md">—个瞒了50年的骗局: 它是癌症帮凶 比香烟还容易上瘾！可你却天天吃…</a></li>
-<li><a href="/bannedvideo/20201014/1413503.md">运气似乎站到了中共这一边，很多人煎熬沮丧，从三方面分析实情</a></li>
 <li><a href="/health/20201014/1413608.md">便秘的“天敌”找到了 不是香蕉 平时多吃 让你“一通到底”</a></li>
+<li><a href="/bannedvideo/20201014/1413503.md">运气似乎站到了中共这一边，很多人煎熬沮丧，从三方面分析实情</a></li>
 <li><a href="/topimagenews/20201014/1413721.md">惊！ 中国十强总值为苹果16% 中共严打讨薪割韭菜连根刨 川普抗共很辛苦八面埋伏</a></li>
-<li><a href="/headline/20201014/1413637.md">习近平讲话期间多次咳嗽 回顾深圳发展史不点名提其父作用</a></li>
 <li><a href="/cnnews/20201014/1413614.md">美国新超音速客机量产 洛杉矶飞北京只要5.5小时</a></li>
+<li><a href="/headline/20201014/1413637.md">习近平讲话期间多次咳嗽 回顾深圳发展史不点名提其父作用</a></li>
 <li><a href="/bannedvideo/20201014/1413532.md">拜登大脑断片连续发作！佩洛西突然面临被罢免？川普集会跳舞，左派和中共到底啥关系？</a></li>
-<li><a href="/cnnews/20201015/1413936.md">习近平“南巡”现五大异常</a></li>
-<li><a href="/bannedvideo/20201014/1413542.md">《石涛聚焦》「彭丽媛10.12灰袍质素露面 惊叹内隐」极似道袍式淡灰旗袍 配以简朴家设 对比习近平奢靡-自卑式豪华「孤家寡人 非习近平莫属」（13/10）</a></li>
+<li><a href="/cnnews/20201015/1413921.md">青岛疫情爆发 传胡锦涛之子胡海峰“临危受命”任市长</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201015/1414048.md" target="_blank">蓬佩奥获自由奖：被送中的12港人「没犯任何罪」</a></li>
+<li><a href="/comments/20201015/1414047.md" target="_blank">香港设立退党热线 协助大陆民众“三退”</a></li>
+<li><a href="/comments/20201015/1414039.md" target="_blank">捷克参院改选反对党大胜 维特齐可望连任议长</a></li>
+<li><a href="/comments/20201015/1414032.md" target="_blank">颜纯鈎：灭共是根本 换走习近平 香港仍然没有一国两制</a></li>
 <li><a href="/comments/20201015/1414023.md" target="_blank">中共密件泄天机 破解疫情 印度男孩有妙招</a></li>
 <li><a href="/comments/20201015/1414020.md" target="_blank">二大爷：山寨造成的弯道翻车笑话</a></li>
 <li><a href="/comments/20201015/1414019.md" target="_blank">彭小明：为何隐瞒中共党员身份 我为杨建利做一个旁证</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201015/1413872.md" target="_blank">科学家首次发现黑洞居然像蜘蛛一样在宇宙中广泛结网,震惊了科学界</a></li>
 <li><a href="/comments/20201015/1413861.md" target="_blank">传苹果要求台系厂商将至多30%产能迁出中国</a></li>
 <li><a href="/comments/20201014/1413794.md" target="_blank">15000年海底遗迹的石墙上刻着神秘的文字图案，史前文明高度发达？</a></li>
-<li><a href="/comments/20201014/1413732.md" target="_blank">参院听证第三天 看巴雷特在刀光剑影中再展智慧（直播）</a></li>
-<li><a href="/comments/20201014/1413707.md" target="_blank">全球首例年轻新冠患者 体温正常 行走说话困难</a></li>
-<li><a href="/comments/20201014/1413702.md" target="_blank">【未普评论】习王翻脸了？</a></li>
-<li><a href="/comments/20201014/1413701.md" target="_blank">【华府看天下】美国大选充满变数 疫情下56%美国民众自我感觉良好</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 
 </ul>
 </div>
