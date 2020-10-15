@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20201015/1413947.md">发现婚戒不见 男主人急调监视器…看完失窃过程却浑身发抖</a></li>
 <li><a href="/ssgc/20201015/1413901.md">〖兲朝浮世绘〗习近平是个大精分</a></li>
 <li><a href="/cbnews/20201015/1413946.md">不寻常变化！蔡霞：中共正逐步形成警察政府模式</a></li>
-<li><a href="/worldnews/20201015/1413990.md">都是演出来的？金正恩公开落泪 专家揭惊人事实：他怕了</a></li>
-<li><a href="/topimagenews/20201014/1413822.md">习近平南巡出了这么多事 国军飞官逼退共军破诡计 两杀招反制北斗飞弹攻击</a></li>
-<li><a href="/cnnews/20201015/1414112.md">继续爆料！CIA吹哨人艾伦放出大量证据 :拜登和希拉里资助伊朗…</a></li>
 <li><a href="/cbnews/20201015/1414290.md">希拉里电邮重磅解密 曝美拒王立军庇护内幕</a></li>
+<li><a href="/worldnews/20201015/1413990.md">都是演出来的？金正恩公开落泪 专家揭惊人事实：他怕了</a></li>
+<li><a href="/cnnews/20201015/1414112.md">继续爆料！CIA吹哨人艾伦放出大量证据 :拜登和希拉里资助伊朗…</a></li>
 <li><a href="/cnnews/20201015/1414222.md">习近平亲临表彰深圳40年大会 马化腾罕见失踪</a></li>
 <li><a href="/comments/20201015/1414162.md">林郑示范中共独裁统治卑劣手段</a></li>
 <li><a href="/bannedvideo/20201015/1413863.md">12分钟小拜登不雅视频和电邮证据是什么？</a></li>
 <li><a href="/cbnews/20201015/1414030.md">文昭：习近平深圳发言多次咳嗽惹猜疑，习宣布「前所未有问题」却「错配」；美国总统大选冲刺的诡秘现象</a></li>
 <li><a href="/cnnews/20201015/1414223.md">郭文贵纽约豪宅遭申请破产保护 涉逾亿美元债务</a></li>
+<li><a href="/cnnews/20201015/1414325.md">林郑月娥被定边座位? 陶杰:深圳经济大会见证香港边缘化</a></li>
 <li><a href="/cnnews/20201015/1413922.md">中国“包子夫妻”传奇：财富已超27亿</a></li>
 <li><a href="/cbnews/20201015/1414024.md">福克斯新闻：硬盘曝光拜登之子 腐败 吸毒 性乱</a></li>
 <li><a href="/health/20201015/1414235.md">买食盐 不管什么牌子 只要没看到这俩字 再便宜也别买</a></li>
-<li><a href="/cnnews/20201015/1414325.md">林郑月娥被定边座位? 陶杰:深圳经济大会见证香港边缘化</a></li>
 <li><a href="/cbnews/20201015/1413997.md">陈破空：总书记咳嗽不止，惊动深圳！献花邓小平，做给美国人看？第一夫人意外露脸</a></li>
+<li><a href="/headline/20201015/1413846.md">时事大家谈： “习核心”出人意料未入《条例》，习近平权威升降引人猜疑？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
