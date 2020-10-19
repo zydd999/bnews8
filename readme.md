@@ -13,18 +13,18 @@
 <li><a href="/cbnews/20201018/1415993.md">中共北京允许摆地摊 暴露大陆失业率上升 经济不景气</a></li>
 <li><a href="/cbnews/20201019/1416222.md">中共五中全会前现兵变之兆？传英美发现两大问题</a></li>
 <li><a href="/cbnews/20201018/1416090.md">他涉嫌贪污2亿潜逃温哥华7年 北京9套房产被查</a></li>
-<li><a href="/topimagenews/20201018/1415934.md">惊爆！FBI儿童色情律师涉入拜登“硬盘门”</a></li>
 <li><a href="/worldnews/usa/20201018/1416098.md">中美斗争升级 传北京警告若审解放军背景间谍案 就抓在华美国人</a></li>
 <li><a href="/topimagenews/20201018/1416181.md">拜登团队发备忘录求救：川普仍有可能胜选且已经有迹象了</a></li>
 <li><a href="/headline/20201018/1416120.md">中国青岛普筛千万人都阴性 陈时中讽：真是伟大，但怎么可能？</a></li>
 <li><a href="/cbnews/20201018/1416038.md">九一三 林彪出逃前的最后7天发生了什么？</a></li>
-<li><a href="/cnnews/20201018/1415991.md">左翼疯狂了！预谋政变 以抵制川普连任 要把全美变成“波特兰”【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201019/1416223.md">又一军工系省级大员上位 习近平想大冒险？</a></li>
+<li><a href="/cnnews/20201018/1415991.md">左翼疯狂了！预谋政变 以抵制川普连任 要把全美变成“波特兰”【阿波罗网编译】</a></li>
 <li><a href="/comments/20201018/1415968.md">【微博精粹】普大帝强拆习小弟 堵死最后出口 路没了</a></li>
 <li><a href="/cnnews/20201019/1416215.md">灾难前兆？江苏省长江入海口数万螃蟹上岸</a></li>
 <li><a href="/cbnews/20201018/1416014.md">薇羽看世间：【第161期】习近平从深圳匆匆回京，有人猜是中招，有人猜是政变，而他还有一个死局，却无法破解。</a></li>
 <li><a href="/bannedvideo/20201018/1415998.md">通共门摊事：亨特拜登牵出习近平！证据井喷，乔拜登祸不单行？前法官王林清：我没盗卷</a></li>
 <li><a href="/cbnews/20201018/1416114.md">经济陷入“不循环” 状态 大陆地方债规模创新高</a></li>
+<li><a href="/comments/20201019/1416250.md">美国来电 疫情两个月之内结束</a></li>
 <li><a href="/topimagenews/20201018/1416200.md">中国多家快递商爆罢工 疑因削价竞争砍工资酿祸</a></li>
 <li><a href="/cnnews/20201018/1416034.md">毛生命的最后几年 毛和邓的权力博弈</a></li>
 <li><a href="/health/20201018/1416058.md">经常夜里两个时间醒 是肝脏在求救！坚持四件事 肝病就能远一点</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201019/1416360.md" target="_blank">陈破空：十月惊奇！拜登家族丑闻越闹越大，旧金山爆发激烈冲突！中共渗透考验美国民主</a></li>
 <li><a href="/cbnews/20201019/1416334.md" target="_blank">中共又造假？共军发布誓师大会 中国网友痛批「见不得人」</a></li>
 <li><a href="/cbnews/20201019/1416259.md" target="_blank">青岛红发大妈炫富？ 戴270万金饰上街做筛检</a></li>
 <li><a href="/cbnews/20201019/1416223.md" target="_blank">又一军工系省级大员上位 习近平想大冒险？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201018/1415858.md" target="_blank">恐吓台湾 央视“移花接木”抛出5年前军演</a></li>
 <li><a href="/cbnews/20201018/1415857.md" target="_blank">青岛染疫男载客231人 网民：乘客接触者呢？</a></li>
 <li><a href="/cbnews/20201018/1415847.md" target="_blank">朱利安尼：拜登子与中共特工共用办公室 危及国安</a></li>
-<li><a href="/cbnews/20201018/1415846.md" target="_blank">药品回扣泛滥 大陆医疗暴利惊人</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201019/1416346.md" target="_blank">第一次看清共产党的嘴脸</a></li>
+<li><a href="/comments/20201019/1416345.md" target="_blank">陶杰：实现和平的“新龙马精神”</a></li>
+<li><a href="/comments/20201019/1416344.md" target="_blank">林保华：美中关系：奥巴马受辱 拜登有责</a></li>
+<li><a href="/comments/20201019/1416343.md" target="_blank">【超惊悚】台湾差点因这两人被灭</a></li>
+<li><a href="/comments/20201019/1416342.md" target="_blank">二大爷：洛阳亲友如相问 说我在喝板蓝根</a></li>
 <li><a href="/comments/20201019/1416332.md" target="_blank">习近平捧深压港 刘锐绍：七宗败事说明深圳无法超越香港</a></li>
 <li><a href="/comments/20201019/1416331.md" target="_blank">三胞胎民国人小鬼大 超龄反应宋一国拥抱老婆画面</a></li>
 <li><a href="/comments/20201019/1416330.md" target="_blank">除了丰田RAV4 Hybrid，这七款混动SUV也值得关注</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201018/1416063.md" target="_blank">茶树菇烧豆腐</a></li>
 <li><a href="/comments/20201018/1416062.md" target="_blank">流亡港青餐厅遭台男泼粪 犯罪动机与金钱有关</a></li>
 <li><a href="/comments/20201018/1416047.md" target="_blank">德法英等国单日确诊屡创新高 欧洲成疫情震央</a></li>
-<li><a href="/comments/20201018/1416046.md" target="_blank">「香港最丑男人」八两金25岁儿子曝光引网热议</a></li>
-<li><a href="/comments/20201018/1416023.md" target="_blank">重金属超标？哪些鱼有营养又安全？</a></li>
-<li><a href="/comments/20201018/1416022.md" target="_blank">眼科之要药——菊花</a></li>
-<li><a href="/comments/20201018/1416021.md" target="_blank">这些隐藏的“死亡预告”会在睡觉时出现，最好查查心脏</a></li>
-<li><a href="/comments/20201018/1416020.md" target="_blank">肺不好的人，身体会出现“1粗1麻1痛”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
