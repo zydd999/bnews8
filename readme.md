@@ -15,16 +15,16 @@
 <li><a href="/ssgc/20201019/1416281.md">〖兲朝浮世绘〗习近平跟美国对抗玩得很嗨</a></li>
 <li><a href="/bannedvideo/20201019/1416552.md">媒体爆：亨特涉性虐中国未成年少女 多人受害；不止亨特 拜登女婿也爱和中共做生意；亨特抱怨：钱干嘛要和老爹分半？中共誓师片为何打马赛克？战车变营帐？印度成功试射核飞弹 挑明剑指中共</a></li>
 <li><a href="/cnnews/20201019/1416395.md">中国人抢iPhone12 华为急曝新机输惨了</a></li>
-<li><a href="/topimagenews/20201019/1416519.md">刘长乐家摊上事了 女婿跑路 削工资竞争 中国多家快递罢工 外媒：习近平时日不多了</a></li>
 <li><a href="/topimagenews/20201019/1416583.md">兵变外习近平治军还有大问题 江系为何放风部署超高音速导弹 五中全会后或有大事发生？</a></li>
+<li><a href="/topimagenews/20201019/1416519.md">刘长乐家摊上事了 女婿跑路 削工资竞争 中国多家快递罢工 外媒：习近平时日不多了</a></li>
 <li><a href="/cnnews/20201019/1416438.md">凤凰卫视刘长乐家摊上事了 女婿跑路 凤凰卫视急忙撇清</a></li>
 <li><a href="/bannedvideo/20201019/1416483.md">内幕彭丽媛 宋祖英 梦鸽 她们的恩怨仇恨（启明笑谈202001019）</a></li>
 <li><a href="/cnnews/20201019/1416537.md">美国预测“第三次世界大战”的可能景象</a></li>
 <li><a href="/topimagenews/20201019/1416445.md">黑幕重重！暗访上汽大众、东风日产4S店:砸坏好零件再修 截留油液回收再卖</a></li>
-<li><a href="/bannedvideo/20201019/1416253.md">中国出现新冠状病毒猪瘟</a></li>
 <li><a href="/cbnews/20201019/1416425.md">习南下强调“不可妄动” 分析：怕军队冒进酿祸</a></li>
-<li><a href="/taiwannews/20201019/1416292.md">川普最后关头变策略：让拜登自我暴露缺陷，停止蛮发火力</a></li>
+<li><a href="/bannedvideo/20201019/1416253.md">中国出现新冠状病毒猪瘟</a></li>
 <li><a href="/cnnews/20201019/1416406.md">周恩来想把贺龙之死责任推给毛 毛用一件历史旧案把他打回原形</a></li>
+<li><a href="/taiwannews/20201019/1416292.md">川普最后关头变策略：让拜登自我暴露缺陷，停止蛮发火力</a></li>
 <li><a href="/ssgc/20201019/1416399.md">〖微博谈〗这就是中国的无望之处</a></li>
 <li><a href="/cnnews/20201019/1416436.md">终于找到了！流感在冬天传播的真实原因</a></li>
 <li><a href="/comments/20201019/1416462.md">战狼变流氓！中共驻外大使殴打台湾外交官致重伤</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201020/1416820.md" target="_blank">华尔街日报社论：拜登经济学会让美国付出代价</a></li>
 <li><a href="/cbnews/20201020/1416773.md" target="_blank">青岛版“火神山”医院开建 设千张床位 真实疫情引惊疑</a></li>
 <li><a href="/cbnews/20201020/1416760.md" target="_blank">专栏 | 夜话中南海：安徒生的童话与中国的现实 &#8212;-“习近平的新思想”媲美“皇帝的新衣”</a></li>
 <li><a href="/cbnews/20201020/1416758.md" target="_blank">陈破空谈《常识》（之93）：民主意味着动乱吗？事实恰恰相反</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201019/1416360.md" target="_blank">陈破空：十月惊奇！拜登家族丑闻越闹越大，旧金山爆发激烈冲突！中共渗透考验美国民主</a></li>
 <li><a href="/cbnews/20201019/1416334.md" target="_blank">中共又造假？共军发布誓师大会 中国网友痛批「见不得人」</a></li>
 <li><a href="/cbnews/20201019/1416259.md" target="_blank">青岛红发大妈炫富？ 戴270万金饰上街做筛检</a></li>
-<li><a href="/cbnews/20201019/1416223.md" target="_blank">又一军工系省级大员上位 习近平想大冒险？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201020/1416818.md" target="_blank">专家：人民币升值正掏空中国经济</a></li>
+<li><a href="/comments/20201020/1416817.md" target="_blank">美国将提供10亿美元贷款 协助发展中国家放弃华为</a></li>
+<li><a href="/comments/20201020/1416816.md" target="_blank">「玉娇龙」步入中年 网上热传41岁章子怡未P图照</a></li>
 <li><a href="/comments/20201020/1416802.md" target="_blank">世界在正视并调查中共“按需杀人 活摘器官”的罪恶</a></li>
 <li><a href="/comments/20201020/1416801.md" target="_blank">禁止澳洲进口 中国东北煤炭今冬缺口3700万吨</a></li>
 <li><a href="/comments/20201020/1416800.md" target="_blank">高冷恐怖的冥王星竟然有颗驿动的“心”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201019/1416578.md" target="_blank">美助卿：已对中共可怕的强摘器官展开调查</a></li>
 <li><a href="/comments/20201019/1416569.md" target="_blank">成都大学新书记走马上任 毛洪涛轻生原因依然成谜</a></li>
 <li><a href="/comments/20201019/1416558.md" target="_blank">蓬佩奥“净网计划”初见成效 华为被多国抛弃</a></li>
-<li><a href="/comments/20201019/1416555.md" target="_blank">【林忌评论】阻台湾飞机 必自食其果</a></li>
-<li><a href="/comments/20201019/1416549.md" target="_blank">拜登孙女承认：拜登若当选将执行极左政策</a></li>
-<li><a href="/comments/20201019/1416548.md" target="_blank">重磅！朱利安尼称拜登家族已触犯RICO法 足以被定罪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
