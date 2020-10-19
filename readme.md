@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20201019/1416222.md">中共五中全会前现兵变之兆？传英美发现两大问题</a></li>
 <li><a href="/taiwannews/20201019/1416294.md">财经冷眼海外华人尽量不要回国三个战争信号已经发出</a></li>
 <li><a href="/cbnews/20201019/1416223.md">又一军工系省级大员上位 习近平想大冒险？</a></li>
-<li><a href="/topimagenews/20201018/1416181.md">拜登团队发备忘录求救：川普仍有可能胜选且已经有迹象了</a></li>
 <li><a href="/cnnews/20201019/1416215.md">灾难前兆？江苏省长江入海口数万螃蟹上岸</a></li>
 <li><a href="/cbnews/20201019/1416334.md">中共又造假？共军发布誓师大会 中国网友痛批「见不得人」</a></li>
-<li><a href="/cnnews/hknews/20201019/1416387.md">中共外交流氓｜太嚣张！中共外交官竟闯入活动打人</a></li>
 <li><a href="/comments/20201019/1416250.md">美国来电 疫情两个月之内结束</a></li>
+<li><a href="/cnnews/hknews/20201019/1416387.md">中共外交流氓｜太嚣张！中共外交官竟闯入活动打人</a></li>
 <li><a href="/cbnews/20201019/1416259.md">青岛红发大妈炫富？ 戴270万金饰上街做筛检</a></li>
 <li><a href="/topimagenews/20201018/1416200.md">中国多家快递商爆罢工 疑因削价竞争砍工资酿祸</a></li>
 <li><a href="/cnnews/20201019/1416216.md">钟南山遭人民日报打脸：板蓝根对冠状病毒不可能有效</a></li>
+<li><a href="/cbnews/20201019/1416529.md">湖北省长王晓东传突然中风 消失月余终有下落</a></li>
 <li><a href="/ssgc/20201019/1416281.md">〖兲朝浮世绘〗习近平跟美国对抗玩得很嗨</a></li>
 <li><a href="/yule/20201019/1416321.md">李宇春恨不得删光光的旧照 只怪当时太年轻</a></li>
-<li><a href="/cbnews/20201019/1416529.md">湖北省长王晓东传突然中风 消失月余终有下落</a></li>
 <li><a href="/cnnews/20201019/1416224.md">国会出手了！推特等社媒巨头或面临大量诉讼</a></li>
 <li><a href="/cnnews/20201019/1416395.md">中国人抢iPhone12 华为急曝新机输惨了</a></li>
-<li><a href="/cbnews/20201018/1416202.md">上海野生动物园饲养员遭熊群拖走撕咬 猛兽区现已关闭</a></li>
 <li><a href="/cnnews/20201019/1416438.md">凤凰卫视刘长乐家摊上事了 女婿跑路 凤凰卫视急忙撇清</a></li>
-<li><a href="/taiwannews/20201019/1416292.md">川普最后关头变策略：让拜登自我暴露缺陷，停止蛮发火力</a></li>
-<li><a href="/bannedvideo/20201019/1416253.md">中国出现新冠状病毒猪瘟</a></li>
-<li><a href="/yule/20201019/1416239.md">章子怡班上的“6朵金花” 5人大红大紫 唯独校花现状令人唏嘘</a></li>
+<li><a href="/cbnews/20201018/1416202.md">上海野生动物园饲养员遭熊群拖走撕咬 猛兽区现已关闭</a></li>
+<li><a href="/cbnews/20201019/1416530.md">五中全会人事卡位战打响？传新华社社长换人</a></li>
 <li><a href="/topimagenews/20201019/1416519.md">刘长乐家摊上事了 女婿跑路 削工资竞争 中国多家快递罢工 外媒：习近平时日不多了</a></li>
+<li><a href="/bannedvideo/20201019/1416253.md">中国出现新冠状病毒猪瘟</a></li>
+<li><a href="/taiwannews/20201019/1416292.md">川普最后关头变策略：让拜登自我暴露缺陷，停止蛮发火力</a></li>
 <li><a href="/topimagenews/20201019/1416445.md">黑幕重重！暗访上汽大众、东风日产4S店:砸坏好零件再修 截留油液回收再卖</a></li>
+<li><a href="/yule/20201019/1416239.md">章子怡班上的“6朵金花” 5人大红大紫 唯独校花现状令人唏嘘</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201019/1416696.md" target="_blank">加拿大勘探者遭遇UFO，身体被灼伤留下终身烙印</a></li>
 <li><a href="/comments/20201019/1416661.md" target="_blank">食用自制酸汤子酿惨剧 黑龙江一家9口中毒身亡</a></li>
 <li><a href="/comments/20201019/1416658.md" target="_blank">评论 | 唯色：我们的圣地，他们的垃圾场（一）——有关中国艺术家张洹在圣山冈仁波齐实施“大地艺术”装置作品</a></li>
 <li><a href="/comments/20201019/1416588.md" target="_blank">中国高校今年28名厅局级官员被查 校长、书记超7成</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201019/1416458.md" target="_blank">秋季解秋乏，喝什么茶比较好呢？</a></li>
 <li><a href="/comments/20201019/1416457.md" target="_blank">保温杯里不能装的4种“水”</a></li>
 <li><a href="/comments/20201019/1416456.md" target="_blank">瞬移——神足通？发生在中国25年前的奇事（上）</a></li>
-<li><a href="/comments/20201019/1416441.md" target="_blank">中共五中全会清场期 辽宁访民被“钓”进驻京办</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
 
 </ul>
 </div>
