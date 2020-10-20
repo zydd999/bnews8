@@ -9,11 +9,9 @@
 <li><a href="/cbnews/20201019/1416334.md">中共又造假？共军发布誓师大会 中国网友痛批「见不得人」</a></li>
 <li><a href="/cbnews/20201019/1416529.md">湖北省长王晓东传突然中风 消失月余终有下落</a></li>
 <li><a href="/cnnews/hknews/20201019/1416387.md">中共外交流氓｜太嚣张！中共外交官竟闯入活动打人</a></li>
-<li><a href="/cbnews/20201019/1416259.md">青岛红发大妈炫富？ 戴270万金饰上街做筛检</a></li>
 <li><a href="/yule/20201019/1416321.md">李宇春恨不得删光光的旧照 只怪当时太年轻</a></li>
 <li><a href="/cbnews/20201019/1416530.md">五中全会人事卡位战打响？传新华社社长换人</a></li>
 <li><a href="/bannedvideo/20201019/1416552.md">媒体爆：亨特涉性虐中国未成年少女 多人受害；不止亨特 拜登女婿也爱和中共做生意；亨特抱怨：钱干嘛要和老爹分半？中共誓师片为何打马赛克？战车变营帐？印度成功试射核飞弹 挑明剑指中共</a></li>
-<li><a href="/ssgc/20201019/1416281.md">〖兲朝浮世绘〗习近平跟美国对抗玩得很嗨</a></li>
 <li><a href="/cnnews/20201019/1416395.md">中国人抢iPhone12 华为急曝新机输惨了</a></li>
 <li><a href="/topimagenews/20201019/1416583.md">兵变外习近平治军还有大问题 江系为何放风部署超高音速导弹 五中全会后或有大事发生？</a></li>
 <li><a href="/topimagenews/20201019/1416519.md">刘长乐家摊上事了 女婿跑路 削工资竞争 中国多家快递罢工 外媒：习近平时日不多了</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/bannedvideo/20201019/1416483.md">内幕彭丽媛 宋祖英 梦鸽 她们的恩怨仇恨（启明笑谈202001019）</a></li>
 <li><a href="/cnnews/20201019/1416537.md">美国预测“第三次世界大战”的可能景象</a></li>
 <li><a href="/topimagenews/20201019/1416445.md">黑幕重重！暗访上汽大众、东风日产4S店:砸坏好零件再修 截留油液回收再卖</a></li>
+<li><a href="/cnnews/20201020/1416776.md">不跪了！青岛老大爷挂美英国旗：民主万岁 独裁必亡</a></li>
 <li><a href="/cnnews/20201019/1416406.md">周恩来想把贺龙之死责任推给毛 毛用一件历史旧案把他打回原形</a></li>
 <li><a href="/cbnews/20201019/1416425.md">习南下强调“不可妄动” 分析：怕军队冒进酿祸</a></li>
+<li><a href="/bannedvideo/20201020/1416754.md">拜登儿子可怕虐童性照片 已被中共设局；拜登家族已触犯RICO法 足以被定罪；前白宫官员披露拜登泄密 致30名CIA中国特工遭处决【希望看新闻】</a></li>
 <li><a href="/taiwannews/20201019/1416292.md">川普最后关头变策略：让拜登自我暴露缺陷，停止蛮发火力</a></li>
 <li><a href="/ssgc/20201019/1416399.md">〖微博谈〗这就是中国的无望之处</a></li>
 <li><a href="/cnnews/20201019/1416436.md">终于找到了！流感在冬天传播的真实原因</a></li>
-<li><a href="/cnnews/20201020/1416776.md">不跪了！青岛老大爷挂美英国旗：民主万岁 独裁必亡</a></li>
 <li><a href="/comments/20201019/1416462.md">战狼变流氓！中共驻外大使殴打台湾外交官致重伤</a></li>
+<li><a href="/cbnews/20201020/1416721.md">2女先后进地窖却「人间蒸发」村民揭恐怖真相：根本毒窟</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201020/1416905.md" target="_blank">娜塔莎莎：一个大学党委书记之死</a></li>
+<li><a href="/comments/20201020/1416904.md" target="_blank">分享22条日本社畜写的川柳诗 太搞了</a></li>
 <li><a href="/comments/20201020/1416901.md" target="_blank">美国陈冠希：拜家子的硬盘里藏了什么？</a></li>
 <li><a href="/comments/20201020/1416825.md" target="_blank">法轮功创造的医学奇迹(四)</a></li>
 <li><a href="/comments/20201020/1416824.md" target="_blank">共和党议员促司法部长：任命特别检查官调查拜登丑闻</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201019/1416696.md" target="_blank">加拿大勘探者遭遇UFO，身体被灼伤留下终身烙印</a></li>
 <li><a href="/comments/20201019/1416661.md" target="_blank">食用自制酸汤子酿惨剧 黑龙江一家9口中毒身亡</a></li>
 <li><a href="/comments/20201019/1416658.md" target="_blank">评论 | 唯色：我们的圣地，他们的垃圾场（一）——有关中国艺术家张洹在圣山冈仁波齐实施“大地艺术”装置作品</a></li>
-<li><a href="/comments/20201019/1416588.md" target="_blank">中国高校今年28名厅局级官员被查 校长、书记超7成</a></li>
-<li><a href="/comments/20201019/1416587.md" target="_blank">东南沿海部署新款高超音速导弹 中共加速武力犯台</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
