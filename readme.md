@@ -9,8 +9,8 @@
 <li><a href="/comments/20201020/1417271.md">五中全会前北京出事了！罕见爆发群体抗议</a></li>
 <li><a href="/topimagenews/20201020/1417170.md">曝！中共现金外汇储备将见底 经济靠债务支撑罚款经济严重 川普封杀华为中兴5G祭银弹</a></li>
 <li><a href="/topimagenews/20201021/1417317.md">“中共国库没有钱来不及啦！”闫丽梦老乡：“这是什么文件 这是灭绝人性的文件！”</a></li>
-<li><a href="/topimagenews/20201020/1417081.md">美再释明确信号！“台湾被美视为伙伴盟友！” 中共若动武 薛瑞福：美会介入</a></li>
 <li><a href="/lifebaike/20201020/1417042.md">面善心狠的人 多半都有这3个特征 需小心提防 不可深交</a></li>
+<li><a href="/topimagenews/20201020/1417081.md">美再释明确信号！“台湾被美视为伙伴盟友！” 中共若动武 薛瑞福：美会介入</a></li>
 <li><a href="/lifebaike/20201020/1417058.md">天然“肾脏充电器”终于被发现了！男性常吃这3种 为肾充充电</a></li>
 <li><a href="/cnnews/20201021/1417378.md">青岛人自曝房价暴跌刷屏！经济低迷百姓叫苦</a></li>
 <li><a href="/cnnews/20201020/1417300.md">爆炸性消息！拜登儿子侵犯折磨多个中国孩子【阿波罗网编译】</a></li>
@@ -21,12 +21,12 @@
 <li><a href="/cbnews/20201020/1417141.md">可打北京上海 美射程1610公里超级炮将成主战舰强心剂</a></li>
 <li><a href="/cbnews/20201020/1417201.md">中共五中全会前夕 政法系高官密集落马</a></li>
 <li><a href="/cbnews/20201021/1417535.md">七常委和王岐山同时现身 背后意义不寻常</a></li>
-<li><a href="/bannedvideo/20201021/1417336.md">五中全会前北京出事了！超过3000人集体抗议；美宣布制裁与伊朗航运公司做生意的中国实体与个人；疫情导致美国损失约20亿美元，中共被警告“这笔帐必有到期的一天”</a></li>
 <li><a href="/headline/20201021/1417341.md">争议人物庹震出任人民日报社长</a></li>
-<li><a href="/bannedvideo/20201020/1417031.md">财经冷眼：自毁30年金融支柱！高层同一天放两大招，为金融灾难做准备！自保是当务之急！（20201020第361期）</a></li>
+<li><a href="/bannedvideo/20201021/1417336.md">五中全会前北京出事了！超过3000人集体抗议；美宣布制裁与伊朗航运公司做生意的中国实体与个人；疫情导致美国损失约20亿美元，中共被警告“这笔帐必有到期的一天”</a></li>
 <li><a href="/cnnews/20201021/1417436.md">湖北高院副院长张忠斌自杀身亡 有人可以安心睡觉了？</a></li>
 <li><a href="/cbnews/20201021/1417353.md">78户豪宅无人领！放20年沦鬼屋 邻居愣：1栋要1千万</a></li>
 <li><a href="/health/20201021/1417434.md">注意 起床后发现有这5个状况 说明你身体很健康 继续保持</a></li>
+<li><a href="/topimagenews/20201021/1417497.md">川普：我看过拜登“来自地狱的笔记本电脑”</a></li>
 <li><a href="/bannedvideo/20201020/1417065.md">天象警示中共政变随时发生 谁是政变者（启明笑谈202001020）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
