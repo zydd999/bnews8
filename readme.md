@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201021/1417317.md">“中共国库没有钱来不及啦！”闫丽梦老乡：“这是什么文件 这是灭绝人性的文件！”</a></li>
 <li><a href="/cnnews/20201021/1417378.md">青岛人自曝房价暴跌刷屏！经济低迷百姓叫苦</a></li>
-<li><a href="/cnnews/20201020/1417300.md">爆炸性消息！拜登儿子侵犯折磨多个中国孩子【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201021/1417535.md">七常委和王岐山同时现身 背后意义不寻常</a></li>
+<li><a href="/cnnews/20201020/1417300.md">爆炸性消息！拜登儿子侵犯折磨多个中国孩子【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201021/1417437.md">网曝90%VPN由中共网警开发！什么是安全的翻墙软件首选？</a></li>
 <li><a href="/taiwannews/20201021/1417531.md">中共提供幼女让小拜登强奸虐待！美国将抛弃拜登！世界将抵制中共</a></li>
 <li><a href="/ssgc/20201021/1417404.md">〖兲朝浮世绘〗拜登儿子强奸中国女童 中共要扶拜登上台目标明确</a></li>
 <li><a href="/topimagenews/20201021/1417712.md">大爆雷 ！40亿产品全线违约延期 资金缺口或超20亿元</a></li>
 <li><a href="/cbnews/20201021/1417611.md">内幕：烟台遭遇双重疫情 中共隐瞒</a></li>
 <li><a href="/headline/20201021/1417341.md">争议人物庹震出任人民日报社长</a></li>
+<li><a href="/cbnews/20201021/1417737.md">朋友邀约李女吃宵夜 上厕所回来 傻眼…</a></li>
+<li><a href="/cbnews/20201021/1417779.md">保安用开水浇流浪孕猫：它眼角流泪 腹中4胎全死</a></li>
 <li><a href="/topimagenews/20201021/1417610.md">朱利安尼报警！自述将亨特与未成年女童色情照送警局</a></li>
 <li><a href="/topimagenews/20201021/1417497.md">川普：我看过拜登“来自地狱的笔记本电脑”</a></li>
-<li><a href="/cbnews/20201021/1417737.md">朋友邀约李女吃宵夜 上厕所回来 傻眼…</a></li>
+<li><a href="/cnnews/20201021/1417785.md">中共老朋友默克尔变脸 李克强"复活"北京翻盘 青岛人自曝房价暴跌刷屏</a></li>
 <li><a href="/cnnews/20201021/1417436.md">湖北高院副院长张忠斌自杀身亡 有人可以安心睡觉了？</a></li>
-<li><a href="/cbnews/20201021/1417779.md">保安用开水浇流浪孕猫：它眼角流泪 腹中4胎全死</a></li>
 <li><a href="/bannedvideo/20201021/1417336.md">五中全会前北京出事了！超过3000人集体抗议；美宣布制裁与伊朗航运公司做生意的中国实体与个人；疫情导致美国损失约20亿美元，中共被警告“这笔帐必有到期的一天”</a></li>
-<li><a href="/yule/20201021/1417604.md">“冻龄”都是骗人 台下林志颖何炅真实模样 皮肤苍老憔悴私大叔</a></li>
 <li><a href="/health/20201021/1417434.md">注意 起床后发现有这5个状况 说明你身体很健康 继续保持</a></li>
+<li><a href="/yule/20201021/1417604.md">“冻龄”都是骗人 台下林志颖何炅真实模样 皮肤苍老憔悴私大叔</a></li>
 <li><a href="/cbnews/20201021/1417353.md">78户豪宅无人领！放20年沦鬼屋 邻居愣：1栋要1千万</a></li>
+<li><a href="/cbnews/20201021/1417713.md">印度将与台湾展开谈判…赵立坚气炸</a></li>
 <li><a href="/lifebaike/20201021/1417455.md">傻眼！“铁娘子”火拼“婊子陈” 江泽民猛敲桌</a></li>
 <li><a href="/topimagenews/20201021/1417699.md">二次闪崩！“游戏界茅台”逼近跌停 半日市值蒸发42亿元</a></li>
-<li><a href="/cnnews/20201021/1417785.md">中共老朋友默克尔变脸 李克强"复活"北京翻盘 青岛人自曝房价暴跌刷屏</a></li>
-<li><a href="/baitai/20201021/1417504.md">魏京生：习近平的路走下去中国不是崛起，而是崩溃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201021/1417911.md" target="_blank">美对违反伊朗禁令港企制裁 白手套商人地位堪比孟晚舟？</a></li>
 <li><a href="/comments/20201021/1417886.md" target="_blank">一万年前的碟状神秘金属物体，是外星人的还是史前巨人族的？</a></li>
 <li><a href="/comments/20201021/1417883.md" target="_blank">新冠疫情打击航空业 国泰航空裁员近6000人</a></li>
 <li><a href="/comments/20201021/1417868.md" target="_blank">又是贵州！贫困县耗8600万建苗族女雕像</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201021/1417685.md" target="_blank">研究发现：心情和免疫力之间存在紧密联系</a></li>
 <li><a href="/comments/20201021/1417684.md" target="_blank">可怕的「他人之手」——男子手失控如鬼附身</a></li>
 <li><a href="/comments/20201021/1417655.md" target="_blank">陈奕迅「疫」年只有2份工作 爆罹患「荷包乾硬化」</a></li>
-<li><a href="/comments/20201021/1417618.md" target="_blank">古代文明vs现代文明，中国有四大发明，西方有五大发明。古人们的智慧，如今人们还望尘莫及！｜探索与洞见</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
 
 </ul>
 </div>
