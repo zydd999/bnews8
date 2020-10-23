@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20201023/1418645.md">坐拥加拿大豪宅 薄熙来儿子薄瓜瓜现状曝光</a></li>
 <li><a href="/cnnews/20201023/1418620.md">五中全会前贵州再爆丑闻 接班人大战你死我活？</a></li>
 <li><a href="/cnnews/20201023/1418631.md">习近平下决心攻打台湾?美媒:这是进万神殿的手段</a></li>
-<li><a href="/topimagenews/20201023/1418574.md">掰了！华尔街要拜登交代和中共财务 内部大料中国人审查脸书内容 大事 关键摇摆州要翻盘</a></li>
 <li><a href="/comments/20201023/1418865.md">习近平谈韩战警告“中国人民惹不得” 网络炸锅</a></li>
 <li><a href="/cnnews/hknews/20201023/1418643.md">全球最贵街道熄火 每平曾超千万 房租腰斩无人问</a></li>
 <li><a href="/cnnews/20201023/1418644.md">美除籍科追查华裔党员 华人夫妇被夺美国籍</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/cnnews/20201023/1418882.md">美总统大选倒数 骆家辉等6位前商务部长联名公开挺拜登</a></li>
 <li><a href="/bannedvideo/20201023/1418750.md">爆炸新闻：川普带关键证人出席总统辩论大会；华尔街日报要求拜登交代与中共关系；朱利安尼被泼脏水，将曝光更多证据</a></li>
 <li><a href="/cnnews/hknews/20201023/1418940.md">香港300百万人护照可申请居英上路 中国谴责干涉内政并威胁不承认</a></li>
-<li><a href="/cnnews/20201023/1418968.md">iPhone12火速开箱 蓝色实机到手超美</a></li>
 <li><a href="/cbnews/20201023/1418996.md">北京雄安新区拆迁真相 村民：太坑人</a></li>
-<li><a href="/bannedvideo/20201023/1418688.md">雪崩来了：新邮件曝光一串民主党大佬！关键证人实名指控拜登勾兑中共 ！亨特合伙人接受证人保护。</a></li>
+<li><a href="/cnnews/20201023/1418968.md">iPhone12火速开箱 蓝色实机到手超美</a></li>
 <li><a href="/bannedvideo/20201023/1418716.md">福克斯超级猛料协助川普排干沼泽，美国半数政客要陪希拉里坐牢？这可不是开玩笑！</a></li>
-<li><a href="/comments/20201023/1418844.md">【微博精粹】只剩10天！川普胜选灭共 中国人民明年也能投票了</a></li>
+<li><a href="/bannedvideo/20201023/1418688.md">雪崩来了：新邮件曝光一串民主党大佬！关键证人实名指控拜登勾兑中共 ！亨特合伙人接受证人保护。</a></li>
 <li><a href="/cnnews/20201023/1418873.md">拜登儿子不雅照硬盘流出 周六晚将做重大披露</a></li>
+<li><a href="/comments/20201023/1418844.md">【微博精粹】只剩10天！川普胜选灭共 中国人民明年也能投票了</a></li>
+<li><a href="/bannedvideo/20201023/1418944.md">文睿：习近平：中国人民惹不得，惹翻了，是不好办的。一尊身边没人了吗？</a></li>
 <li><a href="/ssgc/20201023/1418649.md">〖兲朝浮世绘〗中共的渗透将在美国掀起大海啸</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 <li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 
 </ul>
 </div>
