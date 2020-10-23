@@ -16,11 +16,11 @@
 <li><a href="/bannedvideo/20201023/1418706.md">💥惊爆❗️民主党要塌方，与中共勾连名单曝光！贺锦丽舒默在列，拜登女婿也卷入；美批准三对台军售，6中方媒体被定“外国使团”；脸书顾6华人审查言论【 大纪元 新闻看点10.22】最新中国新闻</a></li>
 <li><a href="/comments/20201023/1418953.md">金正恩夫人消失9个月 朝鲜疯传三原因</a></li>
 <li><a href="/topimagenews/20201023/1418941.md">大数据分析与美媒民调迴异：拜登很大机会落败</a></li>
+<li><a href="/cbnews/20201023/1418996.md">北京雄安新区拆迁真相 村民：太坑人</a></li>
 <li><a href="/cnnews/20201023/1418666.md">大揭秘：江泽民究竟为何物？</a></li>
 <li><a href="/cnnews/20201023/1418882.md">美总统大选倒数 骆家辉等6位前商务部长联名公开挺拜登</a></li>
-<li><a href="/bannedvideo/20201023/1418750.md">爆炸新闻：川普带关键证人出席总统辩论大会；华尔街日报要求拜登交代与中共关系；朱利安尼被泼脏水，将曝光更多证据</a></li>
 <li><a href="/cnnews/hknews/20201023/1418940.md">香港300百万人护照可申请居英上路 中国谴责干涉内政并威胁不承认</a></li>
-<li><a href="/cbnews/20201023/1418996.md">北京雄安新区拆迁真相 村民：太坑人</a></li>
+<li><a href="/bannedvideo/20201023/1418750.md">爆炸新闻：川普带关键证人出席总统辩论大会；华尔街日报要求拜登交代与中共关系；朱利安尼被泼脏水，将曝光更多证据</a></li>
 <li><a href="/cnnews/20201023/1418968.md">iPhone12火速开箱 蓝色实机到手超美</a></li>
 <li><a href="/bannedvideo/20201023/1418716.md">福克斯超级猛料协助川普排干沼泽，美国半数政客要陪希拉里坐牢？这可不是开玩笑！</a></li>
 <li><a href="/bannedvideo/20201023/1418688.md">雪崩来了：新邮件曝光一串民主党大佬！关键证人实名指控拜登勾兑中共 ！亨特合伙人接受证人保护。</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201024/1419175.md" target="_blank">最新！ 拜登完了川普支持率超奥巴马 刚曝中共给拜登家族什么 克林顿夫妇收了多少钱？</a></li>
 <li><a href="/topimagenews/20201024/1419161.md" target="_blank">惊爆拜登硬盘门 布什副总参谋长奥巴马大管家共和党主席都卷入【阿波罗网编译美媒独家】</a></li>
 <li><a href="/topimagenews/20201023/1419001.md" target="_blank">掀公愤！中国制造回销 欧汽车爆工潮 中国抗疫富人更富穷人更穷 中国经济有三高风险</a></li>
 <li><a href="/topimagenews/20201023/1418941.md" target="_blank">大数据分析与美媒民调迴异：拜登很大机会落败</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201021/1417497.md" target="_blank">川普：我看过拜登“来自地狱的笔记本电脑”</a></li>
 <li><a href="/topimagenews/20201021/1417337.md" target="_blank">美媒取得拜登之子签名文件 疑为「电邮门」新事证</a></li>
 <li><a href="/topimagenews/20201021/1417317.md" target="_blank">“中共国库没有钱来不及啦！”闫丽梦老乡：“这是什么文件 这是灭绝人性的文件！”</a></li>
-<li><a href="/topimagenews/20201020/1417287.md" target="_blank">拜登被儿子伤到吐血！朱利安尼为何邀班农加盟？拜登家为何缄默不语？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
