@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201023/1418865.md">习近平谈韩战警告“中国人民惹不得” 网络炸锅</a></li>
 <li><a href="/bannedvideo/20201023/1418850.md">保守派大法官叛变 美国大选变量分析</a></li>
-<li><a href="/topimagenews/20201023/1418689.md">掀公愤！裁员、中国制造后再回销 欧洲汽车爆工潮</a></li>
 <li><a href="/comments/20201023/1418953.md">金正恩夫人消失9个月 朝鲜疯传三原因</a></li>
 <li><a href="/bannedvideo/20201023/1418706.md">💥惊爆❗️民主党要塌方，与中共勾连名单曝光！贺锦丽舒默在列，拜登女婿也卷入；美批准三对台军售，6中方媒体被定“外国使团”；脸书顾6华人审查言论【 大纪元 新闻看点10.22】最新中国新闻</a></li>
 <li><a href="/topimagenews/20201023/1418941.md">大数据分析与美媒民调迴异：拜登很大机会落败</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cnnews/20201023/1419108.md">海外华人圈炸锅！持H-1B签证的中国人要被他们害惨！内有华为前员工【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201023/1418968.md">iPhone12火速开箱 蓝色实机到手超美</a></li>
 <li><a href="/cnnews/20201023/1418882.md">美总统大选倒数 骆家辉等6位前商务部长联名公开挺拜登</a></li>
+<li><a href="/topimagenews/20201024/1419175.md">最新！ 拜登完了川普支持率超奥巴马 刚曝中共给拜登家族什么 克林顿夫妇收了多少钱？</a></li>
 <li><a href="/cnnews/hknews/20201023/1418940.md">香港300百万人护照可申请居英上路 中国谴责干涉内政并威胁不承认</a></li>
 <li><a href="/bannedvideo/20201023/1418750.md">爆炸新闻：川普带关键证人出席总统辩论大会；华尔街日报要求拜登交代与中共关系；朱利安尼被泼脏水，将曝光更多证据</a></li>
-<li><a href="/topimagenews/20201024/1419175.md">最新！ 拜登完了川普支持率超奥巴马 刚曝中共给拜登家族什么 克林顿夫妇收了多少钱？</a></li>
 <li><a href="/bannedvideo/20201023/1418944.md">文睿：习近平：中国人民惹不得，惹翻了，是不好办的。一尊身边没人了吗？</a></li>
 <li><a href="/bannedvideo/20201023/1418716.md">福克斯超级猛料协助川普排干沼泽，美国半数政客要陪希拉里坐牢？这可不是开玩笑！</a></li>
-<li><a href="/bannedvideo/20201023/1418688.md">雪崩来了：新邮件曝光一串民主党大佬！关键证人实名指控拜登勾兑中共 ！亨特合伙人接受证人保护。</a></li>
 <li><a href="/cnnews/20201023/1418873.md">拜登儿子不雅照硬盘流出 周六晚将做重大披露</a></li>
 <li><a href="/comments/20201023/1418844.md">【微博精粹】只剩10天！川普胜选灭共 中国人民明年也能投票了</a></li>
+<li><a href="/cnnews/20201023/1419151.md">习近平警告1句话网络炸锅 超密集做这事胡春华突承诺 百发百中!台飞弹打中共翼龙</a></li>
 <li><a href="/baitai/20201023/1418885.md">贪2千万落马：我着魔一样贪图女色包养多名情妇</a></li>
 <li><a href="/headline/20201023/1419007.md">四十年来最强政治动员令 学者指习近平意在安内</a></li>
 <li><a href="/taiwannews/20201023/1418957.md">美国大选最後一场辩论解析：川普全方位碾压，拜登犯了哪些错误</a></li>
-<li><a href="/taiwannews/20201023/1418960.md">中国内斗竟延烧美大选？ 薄熙来私生女曝光拜登与习近平权钱交易</a></li>
 <li><a href="/baitai/20201023/1419064.md">「每次买菜少1颗」！丈夫偷藏性药出轨上海女子怒用榔头打死</a></li>
+<li><a href="/taiwannews/20201023/1418960.md">中国内斗竟延烧美大选？ 薄熙来私生女曝光拜登与习近平权钱交易</a></li>
+<li><a href="/topimagenews/20201023/1418912.md">辩论会上 川普直指拜登：你就是那个大人物</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201024/1419279.md" target="_blank">颜纯鈎：重提抗美援朝 真的准备打仗？</a></li>
+<li><a href="/comments/20201024/1419278.md" target="_blank">苦胆：百姓急需的不是“脱贫” 而是脱“平”…</a></li>
 <li><a href="/comments/20201024/1419259.md" target="_blank">FBI要见电邮门吹哨人&#8211;亨特的前商业伙伴</a></li>
 <li><a href="/comments/20201024/1419258.md" target="_blank">放大300倍，地球上和月球上的沙子内部有何不同？</a></li>
 <li><a href="/comments/20201024/1419247.md" target="_blank">美国制裁显效 华为三季度收入增幅仅有3.7%</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201023/1419021.md" target="_blank">如果拜登一家知道：地球是宇宙中心一个24小时的直播室，每个地球人都是真人秀的主角，会不会觉得很惊悚呢？看懂《The Truman Show》也许能改写他们命运的剧本。</a></li>
 <li><a href="/comments/20201023/1419009.md" target="_blank">【美大选终场辩论】英媒 ：六大领域分歧如此之大</a></li>
 <li><a href="/comments/20201023/1418986.md" target="_blank">中共以“疫苗外交”诱台邦交国转向 美：品质无保障</a></li>
-<li><a href="/comments/20201023/1418985.md" target="_blank">伦敦16家经典儿童下午茶 从小「品味」英国传统</a></li>
-<li><a href="/comments/20201023/1418971.md" target="_blank">与美签署新导弹协议 台湾称“无意与中共军备竞赛”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
