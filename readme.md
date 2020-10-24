@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20201024/1419528.md">高层内部集体反习？五中全会前释异常信号</a></li>
-<li><a href="/bannedvideo/20201024/1419463.md">🈲 传北京301医院戒严！接诊大人物，地下送诊；习又现病状，高调谈韩战，列当今三大开战条件；新知情人冒险揭老拜登老底，奥巴马或涉事；白宫中文批中共统战；美台军售，共军发严重恐吓</a></li>
 <li><a href="/cnnews/20201024/1419505.md">习近平搞不定了 王岐山终于出山</a></li>
+<li><a href="/bannedvideo/20201024/1419463.md">🈲 传北京301医院戒严！接诊大人物，地下送诊；习又现病状，高调谈韩战，列当今三大开战条件；新知情人冒险揭老拜登老底，奥巴马或涉事；白宫中文批中共统战；美台军售，共军发严重恐吓</a></li>
 <li><a href="/topimagenews/20201024/1419418.md">又露馅了！拜登辩论会作弊再被抓包</a></li>
 <li><a href="/cbnews/20201024/1419465.md">见证中共历次危机 京西宾馆突然重警密布</a></li>
 <li><a href="/cbnews/20201024/1419272.md">陈破空：习近平模仿慈禧，向各国宣战！突然冒出土幽默。离场时步履踉跄。匆忙返京有原因。习家军后院起火</a></li>
@@ -19,13 +19,13 @@
 <li><a href="/cbnews/20201024/1419556.md">中共公安部局长疑被贬职调至地方任厅官</a></li>
 <li><a href="/cnnews/20201024/1419374.md">网络疯传！拜登支持者纽约街头大骂挺川亚裔"该死的中国佬！"</a></li>
 <li><a href="/ssgc/20201024/1419260.md">〖兲朝浮世绘〗习近平邀请美国来打仗？</a></li>
-<li><a href="/lifebaike/20201024/1419312.md">火大了 邓小平不留情面 汪东兴黯然辞职</a></li>
 <li><a href="/funmedia/20201024/1419402.md">新疆姑娘为啥不想嫁到内地？听完她们的真实想法，果然很尴尬</a></li>
+<li><a href="/lifebaike/20201024/1419312.md">火大了 邓小平不留情面 汪东兴黯然辞职</a></li>
 <li><a href="/cbnews/20201024/1419568.md">中美撕破脸 川普：等著瞧！习近平：惹不得</a></li>
 <li><a href="/cbnews/20201024/1419581.md">“我是战俘不是英雄” “向我开炮”原型90岁摆摊 盘点志愿军战俘悲剧人生</a></li>
 <li><a href="/topimagenews/20201024/1419448.md">美媒惊爆：拜登用潜入美国政府的克格勃间谍名字做化名？</a></li>
-<li><a href="/cnnews/20201024/1419490.md">美国总统终场辩论 川普少问拜登一句 或影响美大选结局</a></li>
 <li><a href="/baitai/20201024/1419602.md">中国公职人员办公室配置设新标准：台式、笔电至少使用六年</a></li>
+<li><a href="/cnnews/20201024/1419490.md">美国总统终场辩论 川普少问拜登一句 或影响美大选结局</a></li>
 <li><a href="/bannedvideo/20201024/1419291.md">习近平暗示中共死路一条！</a></li>
 <li><a href="/bannedvideo/20201024/1419549.md">习近平警告“中国人民惹不得” 有组织犯罪要开始？中国韭菜组织起来简单，让习近平脱稿太难；四十年来最狠 习近平困境中对外放话何意？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
 
 </ul>
 </div>
