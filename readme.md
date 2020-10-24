@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20201023/1418996.md">北京雄安新区拆迁真相 村民：太坑人</a></li>
 <li><a href="/cnnews/20201023/1419108.md">海外华人圈炸锅！持H-1B签证的中国人要被他们害惨！内有华为前员工【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201024/1419232.md">五中全会马上要开 权斗、打仗…成实锤的是</a></li>
-<li><a href="/topimagenews/20201023/1418941.md">大数据分析与美媒民调迴异：拜登很大机会落败</a></li>
 <li><a href="/cnnews/20201023/1418968.md">iPhone12火速开箱 蓝色实机到手超美</a></li>
 <li><a href="/cnnews/20201023/1419151.md">习近平警告1句话网络炸锅 超密集做这事胡春华突承诺 百发百中!台飞弹打中共翼龙</a></li>
-<li><a href="/cnnews/hknews/20201023/1418940.md">香港300百万人护照可申请居英上路 中国谴责干涉内政并威胁不承认</a></li>
 <li><a href="/cbnews/20201024/1419272.md">陈破空：习近平模仿慈禧，向各国宣战！突然冒出土幽默。离场时步履踉跄。匆忙返京有原因。习家军后院起火</a></li>
-<li><a href="/bannedvideo/20201023/1418944.md">文睿：习近平：中国人民惹不得，惹翻了，是不好办的。一尊身边没人了吗？</a></li>
 <li><a href="/topimagenews/20201024/1419418.md">又露馅了！拜登辩论会作弊再被抓包</a></li>
 <li><a href="/cnnews/20201024/1419230.md">出事？中共专家承认国产疫苗不够安全 吁普通民众暂不接种</a></li>
 <li><a href="/cnnews/20201024/1419231.md">网友：习近平讲话 4个短句 看了3次稿子</a></li>
 <li><a href="/baitai/20201023/1419064.md">「每次买菜少1颗」！丈夫偷藏性药出轨上海女子怒用榔头打死</a></li>
 <li><a href="/taiwannews/20201023/1418960.md">中国内斗竟延烧美大选？ 薄熙来私生女曝光拜登与习近平权钱交易</a></li>
+<li><a href="/topimagenews/20201024/1419395.md">谷歌翻译太缺德了！共和党大佬：取消在谷歌的中国人的H-1B签证</a></li>
 <li><a href="/headline/20201023/1419007.md">四十年来最强政治动员令 学者指习近平意在安内</a></li>
 <li><a href="/cnnews/hknews/20201024/1419227.md">港珠澳大桥通车两年 每年惨赔80亿今年更惨</a></li>
-<li><a href="/topimagenews/20201024/1419395.md">谷歌翻译太缺德了！共和党大佬：取消在谷歌的中国人的H-1B签证</a></li>
 <li><a href="/taiwannews/20201023/1418957.md">美国大选最後一场辩论解析：川普全方位碾压，拜登犯了哪些错误</a></li>
 <li><a href="/ssgc/20201024/1419260.md">〖兲朝浮世绘〗习近平邀请美国来打仗？</a></li>
+<li><a href="/bannedvideo/20201024/1419463.md">🈲 传北京301医院戒严！接诊大人物，地下送诊；习又现病状，高调谈韩战，列当今三大开战条件；新知情人冒险揭老拜登老底，奥巴马或涉事；白宫中文批中共统战；美台军售，共军发严重恐吓</a></li>
 <li><a href="/headline/20201023/1419079.md">人民日报新社长被爆料有六情妇 台学者观察集体反习征兆</a></li>
+<li><a href="/topimagenews/20201024/1419161.md">惊爆拜登硬盘门 布什副总参谋长奥巴马大管家共和党主席都卷入【阿波罗网编译美媒独家】</a></li>
+<li><a href="/cnnews/20201024/1419374.md">网络疯传！拜登支持者纽约街头大骂挺川亚裔"该死的中国佬！"</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201024/1419530.md" target="_blank">剁椒炒平菇</a></li>
 <li><a href="/comments/20201024/1419520.md" target="_blank">人权律师常玮平再遭监视居住 曾拍视频揭酷刑</a></li>
 <li><a href="/comments/20201024/1419519.md" target="_blank">柬埔寨民众中使馆前集会 抗议中共在柬设立军事基地</a></li>
 <li><a href="/comments/20201024/1419497.md" target="_blank">心跳越慢越长寿？其实，医生说这样的心率长寿</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201024/1419371.md" target="_blank">中共的流氓外交与贾樟柯遇见“小粉红”</a></li>
 <li><a href="/comments/20201024/1419370.md" target="_blank">网民热议:“中国人民是惹不得的如果惹翻了是不好办的”</a></li>
 <li><a href="/comments/20201024/1419356.md" target="_blank">【东方纵横】川普胜选的十大理由</a></li>
-<li><a href="/comments/20201024/1419346.md" target="_blank">李平：中共及党魁的野心</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
