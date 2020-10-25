@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20201024/1419528.md">高层内部集体反习？五中全会前释异常信号</a></li>
-<li><a href="/cnnews/20201024/1419505.md">习近平搞不定了 王岐山终于出山</a></li>
 <li><a href="/topimagenews/20201024/1419632.md">习近平威胁川普马上出事 惊人一幕被发现 信号！中共专家吁暂不接种 汶川震中区3天5连震</a></li>
 <li><a href="/cnnews/20201024/1419540.md">大跌眼镜 如川普夺连任 "这行就玩完了"</a></li>
 <li><a href="/cnnews/20201024/1419560.md">37℃已成为历史 人类体温越来越低意味着什么</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/cnnews/20201025/1419703.md">习近平搞不定王岐山出山 专家分析民主党最后10天 美媒惊爆拜登用这个化名？</a></li>
 <li><a href="/comments/20201025/1419789.md">2020韩国小姐决赛尺度惊人 佳丽们得凭真本事</a></li>
 <li><a href="/topimagenews/20201025/1419696.md">怒 拜登升共军战力克里国务卿叛国 拜登辩论作弊被戳破 拜登支持者大骂挺川者中国佬</a></li>
-<li><a href="/cbnews/20201024/1419581.md">“我是战俘不是英雄” “向我开炮”原型90岁摆摊 盘点志愿军战俘悲剧人生</a></li>
 <li><a href="/cbnews/20201024/1419568.md">中美撕破脸 川普：等著瞧！习近平：惹不得</a></li>
+<li><a href="/cbnews/20201024/1419581.md">“我是战俘不是英雄” “向我开炮”原型90岁摆摊 盘点志愿军战俘悲剧人生</a></li>
 <li><a href="/cbnews/20201025/1419752.md">超狂！越南战机乱窜威逼让共军气炸了…两军相距仅十公尺</a></li>
 <li><a href="/cbnews/20201025/1419751.md">核武1小时进驻台湾！美专家惊揭力抗中共解放军「大绝招」</a></li>
 <li><a href="/baitai/20201024/1419602.md">中国公职人员办公室配置设新标准：台式、笔电至少使用六年</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/comments/20201025/1419706.md">清朝大太监李莲英墓被开棺时，考古专家惊出一身冷汗！死因成谜？</a></li>
 <li><a href="/cnnews/20201024/1419571.md">中国突现新型网络骗局 受害人被骗半生积蓄</a></li>
 <li><a href="/topimagenews/20201024/1419580.md">跑！郭台铭清仓阿里巴巴 微球！中国制造不能承受 川普制裁显效华为难救</a></li>
-<li><a href="/bannedvideo/20201024/1419501.md">习近平喊话美国是要开战吗？中南海要有大事发生（启明笑谈20201024）</a></li>
 <li><a href="/headline/20201024/1419578.md">朱镕基露面 庆92寿辰精神好</a></li>
+<li><a href="/cbnews/20201024/1419677.md">说谎？解放军“迷路”被俘 印媒：搜出手机、储存设备</a></li>
+<li><a href="/cbnews/20201025/1419825.md">天亮时分：20201024 左媒大反水，拜登的凶兆；闸门已经打开，真相无可隐瞒；CNN总裁即将离任，评论员也赞川普（政论天下第258集 20201024）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201025/1419944.md" target="_blank">减重秘笈：做对一件事 每天吃到饱也能瘦</a></li>
 <li><a href="/comments/20201025/1419939.md" target="_blank">五中全会将至 红二代评接班人问题及反习势力</a></li>
 <li><a href="/comments/20201025/1419925.md" target="_blank">【视频】UFO大揭秘：外星人与美国总统的邂逅和绝对机密&#8230;.</a></li>
 <li><a href="/comments/20201025/1419920.md" target="_blank">与拜登利益勾连的叶简明 竟是前政治局常委私生子？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201025/1419789.md" target="_blank">2020韩国小姐决赛尺度惊人 佳丽们得凭真本事</a></li>
 <li><a href="/comments/20201025/1419768.md" target="_blank">美总统大选结果11月3日能揭晓吗？专家：不一定</a></li>
 <li><a href="/comments/20201025/1419763.md" target="_blank">为何宇宙总是漆黑一片？看似简单，却隐藏着宇宙的大秘密</a></li>
-<li><a href="/comments/20201025/1419747.md" target="_blank">推巴雷特大法官确认进程 参院罕见增加周六辩论</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
