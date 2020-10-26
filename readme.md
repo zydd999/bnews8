@@ -9,8 +9,8 @@
 <li><a href="/comments/20201026/1420284.md">拜登儿子亨特电邮门14岁少女身分曝光！白宫记者里昂：他哥哥的女儿</a></li>
 <li><a href="/bannedvideo/20201026/1420286.md">色情硬盘 刘亦菲&佩洛西儿子也上榜；好莱坞栽赃陷害朱利安尼真相；高下立见！川普获世界支持 拜登大选无望；中共窜改 “抗美援朝”历史至今</a></li>
 <li><a href="/finance/20201026/1420222.md">全国最繁华的商业街上海南京路商铺开始大量倒闭</a></li>
-<li><a href="/comments/20201026/1420315.md">中共五中全会今开 王岐山朱镕基曝光被指拥美派占上风</a></li>
 <li><a href="/topimagenews/20201026/1420441.md">川普为何如此艰难？只因他为了美国 触动了一条70年来无人敢动的规则 ...</a></li>
+<li><a href="/comments/20201026/1420315.md">中共五中全会今开 王岐山朱镕基曝光被指拥美派占上风</a></li>
 <li><a href="/topimagenews/20201026/1420234.md">拜登、川普谁没望了？谢金河爆范畴肯定无疑是「他」当选！这位关键「市场神人」仍未表态</a></li>
 <li><a href="/topimagenews/20201026/1420202.md">习近平抢先手反掉进黑洞？川普西太关岛南海齐放招 急!央视赤裸裸干预美大选</a></li>
 <li><a href="/cnnews/20201026/1420275.md">亨特不雅影片疑遭流出 争议网站独家曝光 社交网路疯传</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/bannedvideo/20201026/1420295.md">习近平被人叫板：孙子！缩头乌龟！ 1068</a></li>
 <li><a href="/cbnews/20201026/1420212.md">南京女河边绑鞋带被闺蜜推下河 拉扯间双双溺亡</a></li>
 <li><a href="/topimagenews/20201026/1420440.md">拜登看了会气疯！美共和党大佬：我20年没见过这样的事…</a></li>
-<li><a href="/cbnews/20201026/1420280.md">陈破空：劲爆！拜登家族太乱，父子女儿媳妇尽都那样！打乱习近平一盘大棋。还扯出奥巴马父女</a></li>
 <li><a href="/baitai/20201026/1420335.md">习近平图穷匕见</a></li>
+<li><a href="/cbnews/20201026/1420280.md">陈破空：劲爆！拜登家族太乱，父子女儿媳妇尽都那样！打乱习近平一盘大棋。还扯出奥巴马父女</a></li>
 <li><a href="/cbnews/20201026/1420377.md">中共绑架国人抗美 老百姓实际行动疯狂打脸</a></li>
 <li><a href="/ssgc/20201026/1420247.md">〖兲朝浮世绘〗这次方济各秀过头了？！摆明站在魔鬼一边</a></li>
 <li><a href="/cbnews/20201026/1420267.md">她砸439万元买「2楼景观房」成品却被路人「当公厕用」</a></li>
+<li><a href="/cbnews/20201026/1420506.md">新华社社长蔡名照被免职 传曾出轨实习生遭捉奸</a></li>
 <li><a href="/lifebaike/20201026/1420243.md">肺部有癌 睡眠先知 当睡眠有这几种症状时 可能是癌症找上门</a></li>
 <li><a href="/cbnews/20201026/1420443.md">喀什4地疫情升级 民众迁往乌鲁木齐、青海</a></li>
+<li><a href="/cbnews/20201026/1420479.md">秋冬瘟疫恐爆发 大陆专家揭新疆疫情成因图</a></li>
 <li><a href="/cnnews/20201026/1420261.md">中美科技战：大陆企业“曲线”获取晶片关键设备</a></li>
-<li><a href="/cbnews/20201026/1420506.md">新华社社长蔡名照被免职 传曾出轨实习生遭捉奸</a></li>
-<li><a href="/cnnews/20201026/1420191.md">拜登前景？美国安委主席说 私会习近平8次 国务院解密？ 参议院揭秘深层政府害川普</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
