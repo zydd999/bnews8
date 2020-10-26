@@ -9,25 +9,25 @@
 <li><a href="/bannedvideo/20201026/1420286.md">色情硬盘 刘亦菲&佩洛西儿子也上榜；好莱坞栽赃陷害朱利安尼真相；高下立见！川普获世界支持 拜登大选无望；中共窜改 “抗美援朝”历史至今</a></li>
 <li><a href="/comments/20201026/1420284.md">拜登儿子亨特电邮门14岁少女身分曝光！白宫记者里昂：他哥哥的女儿</a></li>
 <li><a href="/comments/20201026/1420315.md">中共五中全会今开 王岐山朱镕基曝光被指拥美派占上风</a></li>
-<li><a href="/cnnews/20201026/1420275.md">亨特不雅影片疑遭流出 争议网站独家曝光 社交网路疯传</a></li>
 <li><a href="/topimagenews/20201026/1420441.md">川普为何如此艰难？只因他为了美国 触动了一条70年来无人敢动的规则 ...</a></li>
+<li><a href="/cnnews/20201026/1420275.md">亨特不雅影片疑遭流出 争议网站独家曝光 社交网路疯传</a></li>
 <li><a href="/bannedvideo/20201026/1420295.md">习近平被人叫板：孙子！缩头乌龟！ 1068</a></li>
-<li><a href="/topimagenews/20201026/1420234.md">拜登、川普谁没望了？谢金河爆范畴肯定无疑是「他」当选！这位关键「市场神人」仍未表态</a></li>
 <li><a href="/cbnews/20201026/1420506.md">新华社社长蔡名照被免职 传曾出轨实习生遭捉奸</a></li>
 <li><a href="/cnnews/20201026/1420529.md">大倒闭!中国最繁华商业街商铺 王岐山警告金融风险讲话被封 中企曲线获取光刻机没用？</a></li>
 <li><a href="/topimagenews/20201026/1420440.md">拜登看了会气疯！美共和党大佬：我20年没见过这样的事…</a></li>
 <li><a href="/cbnews/20201026/1420479.md">秋冬瘟疫恐爆发 大陆专家揭新疆疫情成因图</a></li>
-<li><a href="/bannedvideo/20201026/1420548.md">这个信号很异常 高层要密谋集体反习？亨特电邮又爆出神秘人物；民主党和中共或渊源很深；五中全会前朱镕基“露面”庆生引猜测</a></li>
 <li><a href="/topimagenews/20201026/1420612.md">习近平绕不过 红二代罗宇逝 点习2大问题 马云演讲猛怼王岐山 啥信号？</a></li>
+<li><a href="/bannedvideo/20201026/1420548.md">这个信号很异常 高层要密谋集体反习？亨特电邮又爆出神秘人物；民主党和中共或渊源很深；五中全会前朱镕基“露面”庆生引猜测</a></li>
 <li><a href="/baitai/20201026/1420335.md">习近平图穷匕见</a></li>
 <li><a href="/cbnews/20201026/1420280.md">陈破空：劲爆！拜登家族太乱，父子女儿媳妇尽都那样！打乱习近平一盘大棋。还扯出奥巴马父女</a></li>
 <li><a href="/cbnews/20201026/1420377.md">中共绑架国人抗美 老百姓实际行动疯狂打脸</a></li>
+<li><a href="/topimagenews/20201026/1420667.md">疯传!拜登不小心说实话？ 惊人一幕！拜登看了会气晕！ 解雇FBI局长？白宫幕僚长...</a></li>
 <li><a href="/ssgc/20201026/1420247.md">〖兲朝浮世绘〗这次方济各秀过头了？！摆明站在魔鬼一边</a></li>
 <li><a href="/renquan/20201026/1420472.md">二十年前绝密文件曝光</a></li>
-<li><a href="/topimagenews/20201026/1420667.md">疯传!拜登不小心说实话？ 惊人一幕！拜登看了会气晕！ 解雇FBI局长？白宫幕僚长...</a></li>
 <li><a href="/cbnews/20201026/1420267.md">她砸439万元买「2楼景观房」成品却被路人「当公厕用」</a></li>
 <li><a href="/cbnews/20201026/1420443.md">喀什4地疫情升级 民众迁往乌鲁木齐、青海</a></li>
 <li><a href="/headline/20201026/1420508.md">北京宣布制裁波音、洛歇马丁、雷神</a></li>
+<li><a href="/cbnews/20201026/1420521.md">五中全会首日戒备森严 信访局却人山人海</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
