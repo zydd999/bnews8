@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20201025/1419952.md">真急了！中共官媒赤裸裸干预大选！指示美科技巨头监管川普总统</a></li>
 <li><a href="/comments/20201026/1420284.md">拜登儿子亨特电邮门14岁少女身分曝光！白宫记者里昂：他哥哥的女儿</a></li>
 <li><a href="/headline/20201025/1420115.md">罗瑞卿之子罗宇在美国去世 曾揭邓小平89下令开枪</a></li>
-<li><a href="/cnnews/20201025/1419938.md">「美食作家」王刚「教炒饭」！小粉红崩溃：对毛泽东儿子不敬</a></li>
 <li><a href="/cnnews/20201025/1419946.md">川普拜登终场辩论后 “我能改选票吗”谷歌搜索量激增</a></li>
 <li><a href="/topimagenews/20201026/1420234.md">拜登、川普谁没望了？谢金河爆范畴肯定无疑是「他」当选！这位关键「市场神人」仍未表态</a></li>
-<li><a href="/finance/20201026/1420222.md">全国最繁华的商业街上海南京路商铺开始大量倒闭</a></li>
 <li><a href="/baitai/20201025/1420043.md">分析江苏省委常委政法委书记王立科主动投案 不排除未来更多“老虎”自首</a></li>
 <li><a href="/comments/20201025/1420118.md">八件事证明 中国人现在什么都不信了</a></li>
-<li><a href="/topimagenews/20201026/1420202.md">习近平抢先手反掉进黑洞？川普西太关岛南海齐放招 急!央视赤裸裸干预美大选</a></li>
+<li><a href="/finance/20201026/1420222.md">全国最繁华的商业街上海南京路商铺开始大量倒闭</a></li>
 <li><a href="/bannedvideo/20201026/1420286.md">色情硬盘 刘亦菲&佩洛西儿子也上榜；好莱坞栽赃陷害朱利安尼真相；高下立见！川普获世界支持 拜登大选无望；中共窜改 “抗美援朝”历史至今</a></li>
+<li><a href="/topimagenews/20201026/1420202.md">习近平抢先手反掉进黑洞？川普西太关岛南海齐放招 急!央视赤裸裸干预美大选</a></li>
 <li><a href="/cnnews/20201026/1420275.md">亨特不雅影片疑遭流出 争议网站独家曝光 社交网路疯传</a></li>
 <li><a href="/comments/20201025/1419939.md">五中全会将至 红二代评接班人问题及反习势力</a></li>
-<li><a href="/cbnews/20201026/1420212.md">南京女河边绑鞋带被闺蜜推下河 拉扯间双双溺亡</a></li>
 <li><a href="/cbnews/20201026/1420210.md">浙江超大型无人直升机在展示会坠毁在主席台前</a></li>
-<li><a href="/comments/20201025/1419985.md">血管是否阻塞？手指一按就知道</a></li>
+<li><a href="/cbnews/20201026/1420212.md">南京女河边绑鞋带被闺蜜推下河 拉扯间双双溺亡</a></li>
 <li><a href="/cbnews/20201026/1420280.md">陈破空：劲爆！拜登家族太乱，父子女儿媳妇尽都那样！打乱习近平一盘大棋。还扯出奥巴马父女</a></li>
+<li><a href="/topimagenews/20201026/1420376.md">王岐山刚说完这番话 马云演讲 句句惊人！什么信号？</a></li>
+<li><a href="/comments/20201025/1419985.md">血管是否阻塞？手指一按就知道</a></li>
 <li><a href="/ssgc/20201026/1420247.md">〖兲朝浮世绘〗这次方济各秀过头了？！摆明站在魔鬼一边</a></li>
 <li><a href="/comments/20201025/1419965.md">加拿大、丹麦研究：血型可能会影响新冠病毒感染程度</a></li>
-<li><a href="/health/20201025/1420009.md">出事了！大量儿童感冒药被紧急召回快告诉家人</a></li>
 <li><a href="/cbnews/20201026/1420267.md">她砸439万元买「2楼景观房」成品却被路人「当公厕用」</a></li>
+<li><a href="/health/20201025/1420009.md">出事了！大量儿童感冒药被紧急召回快告诉家人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201026/1420411.md" target="_blank">全球逾30城市集会 声援12名「送中」港人呼声响彻全球</a></li>
+<li><a href="/comments/20201026/1420410.md" target="_blank">苏贞昌回击习近平 ：别以为「战争」可以威胁台湾人</a></li>
 <li><a href="/comments/20201026/1420406.md" target="_blank">人生的境界中包含着一个“义”</a></li>
 <li><a href="/comments/20201026/1420351.md" target="_blank">爱黛儿「一半的我」惊艳外界 改身换面变了一个人</a></li>
 <li><a href="/comments/20201026/1420325.md" target="_blank">伪史！遵义会议确立了毛对全党全军的领导？（下）</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201026/1420216.md" target="_blank">又一波「猫照」流行风，五花八门的「肩猫」让人哭笑不得~</a></li>
 <li><a href="/comments/20201026/1420209.md" target="_blank">美共和党策略师：三大原因助川普再次入主白宫</a></li>
 <li><a href="/comments/20201025/1420154.md" target="_blank">重阳节我们谢天帝、祖先恩德！但却是“大凶之节”？</a></li>
-<li><a href="/comments/20201025/1420118.md" target="_blank">八件事证明 中国人现在什么都不信了</a></li>
-<li><a href="/comments/20201025/1420101.md" target="_blank">闻到这些味道，是你的健康危险了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 <li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
