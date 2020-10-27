@@ -15,9 +15,9 @@
 <li><a href="/cbnews/20201027/1420855.md">文昭：朱熔基现身、王岐山「开炮」是再出山前奏？「五中全会」充满变数；选情冲刺、川普铁粉来源之谜</a></li>
 <li><a href="/cnnews/20201027/1420897.md">川岛芳子曾经色诱溥仪 一句话让她非常尴尬</a></li>
 <li><a href="/cbnews/20201027/1421035.md">网传上海爆发本土疫情 官方否认</a></li>
+<li><a href="/topimagenews/20201027/1421239.md">习近平开五中全会最重要消息 打台湾？共军分九等谁最炮灰 重庆小区自治吓坏中南海？</a></li>
 <li><a href="/cbnews/20201027/1420819.md">陈破空：拜登突然表态：中共不是美国最大威胁！他自己的私生活也乱。土共包围台湾小岛！习近平读稿五中全会</a></li>
 <li><a href="/ssgc/20201027/1420784.md">〖兲朝浮世绘〗纽约时报已经彻底沦落为人民日报的姐妹报了</a></li>
-<li><a href="/topimagenews/20201027/1421239.md">习近平开五中全会最重要消息 打台湾？共军分九等谁最炮灰 重庆小区自治吓坏中南海？</a></li>
 <li><a href="/bannedvideo/20201027/1421023.md">财经冷眼：最后收割信号发出！房地产税真的要来了！人口断崖背后的中国资产价格危局！（20201027第366期）</a></li>
 <li><a href="/health/20201027/1420792.md">寿命短的男人 走路会有五个信号 若你五个都没有 恭喜你很健康</a></li>
 <li><a href="/cnnews/20201027/1420953.md">孟晚舟被逮当晚画面曝光 加拿大骑警出庭吐露过程</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cbnews/20201027/1421003.md">“剑走偏锋” 山东公务员用母猪发情素投毒</a></li>
 <li><a href="/cbnews/20201027/1420801.md">中共已接近掌控全世界！前德国情报局长急示警 要欧洲封杀华为</a></li>
 <li><a href="/cnnews/20201027/1420999.md">张春桥从未反对华国锋 叶剑英故意灌醉王洪文</a></li>
-<li><a href="/cbnews/20201027/1420731.md">专栏 | 夜话中南海：习近平将师法毛泽东持续执政到寿终</a></li>
 <li><a href="/cbnews/20201027/1421133.md">五中全会期间 北京戒备森严 很多人失去自由</a></li>
+<li><a href="/cbnews/20201027/1420731.md">专栏 | 夜话中南海：习近平将师法毛泽东持续执政到寿终</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201028/1421346.md" target="_blank">无视中共制裁 美国务院批准对台价值24亿美元武器交易</a></li>
 <li><a href="/comments/20201028/1421322.md" target="_blank">朝鲜战争 战俘回中共国受到的“特殊待遇”</a></li>
 <li><a href="/comments/20201028/1421317.md" target="_blank">川普宾州一日三地集会人气爆棚 选民不要社会主义</a></li>
 <li><a href="/comments/20201028/1421306.md" target="_blank">保守主义若败退 美国将携手世界一起衰落</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201027/1421046.md" target="_blank">道家经典《阴符经》留给人的养生平安之道</a></li>
 <li><a href="/comments/20201027/1421045.md" target="_blank">秋燥不妨试一下麦冬泡茶</a></li>
 <li><a href="/comments/20201027/1421034.md" target="_blank">纯露配方：改善口臭胀气及粉刺 一瓶搞定</a></li>
-<li><a href="/comments/20201027/1421028.md" target="_blank">秋冬来了，粮荒也来了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
