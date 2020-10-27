@@ -12,8 +12,6 @@
 <li><a href="/bannedvideo/20201026/1420548.md">这个信号很异常 高层要密谋集体反习？亨特电邮又爆出神秘人物；民主党和中共或渊源很深；五中全会前朱镕基“露面”庆生引猜测</a></li>
 <li><a href="/topimagenews/20201026/1420667.md">疯传!拜登不小心说实话？ 惊人一幕！拜登看了会气晕！ 解雇FBI局长？白宫幕僚长...</a></li>
 <li><a href="/funmedia/20201027/1420805.md">晚上的飞机为什么比白天便宜呢？知道后我不想坐飞机了</a></li>
-<li><a href="/cbnews/20201026/1420479.md">秋冬瘟疫恐爆发 大陆专家揭新疆疫情成因图</a></li>
-<li><a href="/renquan/20201026/1420472.md">二十年前绝密文件曝光</a></li>
 <li><a href="/topimagenews/20201027/1420910.md">出动4万兵力 美日航母压阵 16艘舰艇一字排开 十几架飞机呼啸而过</a></li>
 <li><a href="/comments/20201027/1420737.md">二十年前中共最核心才能看的绝密文件曝光</a></li>
 <li><a href="/bannedvideo/20201026/1420601.md">乳山统计局服用母猪催情素两年半结果难以想像！ 1069</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/cbnews/20201026/1420521.md">五中全会首日戒备森严 信访局却人山人海</a></li>
 <li><a href="/cbnews/20201027/1420855.md">文昭：朱熔基现身、王岐山「开炮」是再出山前奏？「五中全会」充满变数；选情冲刺、川普铁粉来源之谜</a></li>
 <li><a href="/ssgc/20201027/1420784.md">〖兲朝浮世绘〗纽约时报已经彻底沦落为人民日报的姐妹报了</a></li>
+<li><a href="/cnnews/20201027/1420897.md">川岛芳子曾经色诱溥仪 一句话让她非常尴尬</a></li>
 <li><a href="/headline/20201026/1420508.md">北京宣布制裁波音、洛歇马丁、雷神</a></li>
 <li><a href="/health/20201027/1420792.md">寿命短的男人 走路会有五个信号 若你五个都没有 恭喜你很健康</a></li>
 <li><a href="/cbnews/20201027/1420835.md">天亮时分：川普将撤换FBI局长；硬盘门更劲爆内容流出；七州允许选民更改投票；巴雷特正式成为高院大法官；我所知道的大纪元（政论天下第259集 20201026）</a></li>
-<li><a href="/cnnews/20201027/1420897.md">川岛芳子曾经色诱溥仪 一句话让她非常尴尬</a></li>
 <li><a href="/cbnews/20201027/1421009.md">习近平无接班人 港媒：五中全会无重大人事任命</a></li>
+<li><a href="/cnnews/20201027/1420953.md">孟晚舟被逮当晚画面曝光 加拿大骑警出庭吐露过程</a></li>
 <li><a href="/cbnews/20201027/1420801.md">中共已接近掌控全世界！前德国情报局长急示警 要欧洲封杀华为</a></li>
+<li><a href="/cnnews/20201027/1420711.md">拜登：「如果再让乔治当上4年」川普：他忘了我的名字 假新闻集团正为他掩饰</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201027/1421074.md" target="_blank">江苏政法书记投案内幕流出 传妻与薄熙来有染</a></li>
 <li><a href="/cbnews/20201027/1421035.md" target="_blank">网传上海爆发本土疫情 官方否认</a></li>
 <li><a href="/cbnews/20201027/1421022.md" target="_blank">江峰：抗美援朝预热五中全会，习近平引用惹不起的鼻祖毛泽东讲话的真实目的； 三分二美国人愿意为台湾军事冒险</a></li>
 <li><a href="/cbnews/20201027/1421009.md" target="_blank">习近平无接班人 港媒：五中全会无重大人事任命</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201026/1420642.md" target="_blank">美媒：《经济学人》拿钱“洗白”华为隐瞒近10年利益关系</a></li>
 <li><a href="/cbnews/20201026/1420593.md" target="_blank">不满中共六四开枪滞留法国的罗瑞卿之子罗宇逝世</a></li>
 <li><a href="/cbnews/20201026/1420552.md" target="_blank">美军轰炸机刚进驻关岛 就现身台湾附近海域</a></li>
-<li><a href="/cbnews/20201026/1420521.md" target="_blank">五中全会首日戒备森严 信访局却人山人海</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
