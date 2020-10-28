@@ -5,27 +5,27 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201027/1421239.md">习近平开五中全会最重要消息 打台湾？共军分九等谁最炮灰 重庆小区自治吓坏中南海？</a></li>
 <li><a href="/yule/20201028/1421411.md">在北京夜总会怒扇向华强两耳光的他 后来怎样了？</a></li>
 <li><a href="/cnnews/20201028/1421605.md">五中全会重大人事调整传泡汤 两已下台高官意外成焦点</a></li>
 <li><a href="/cnnews/20201028/1421452.md">传金与正对她有戒心 北韩副外长被罚强迫下田3个月</a></li>
 <li><a href="/topimagenews/20201028/1421324.md">惊爆！美抓获595例中共间谍 对美和中国人多大影响？川普军售把共军打回海里</a></li>
-<li><a href="/topimagenews/20201028/1421638.md">川普真逗！发了一推特 一个字没说 网络沸腾</a></li>
 <li><a href="/cbnews/20201028/1421392.md">中共高速建成中越边境墙 网友：像监狱墙 柏林墙再现</a></li>
+<li><a href="/topimagenews/20201028/1421638.md">川普真逗！发了一推特 一个字没说 网络沸腾</a></li>
 <li><a href="/bannedvideo/20201028/1421536.md">突发！改投票风暴来临，美国大选提前结束！川普四年成绩单出炉，美国人泪崩：川普这47个月</a></li>
-<li><a href="/cnnews/20201028/1421549.md">这张图要火！自媒体大咖笑讽：就怕猪一样的队友</a></li>
 <li><a href="/topimagenews/20201028/1421679.md">聚餐画面刚上传 导弹就从天而降！7名恐怖头目被美军精准斩首</a></li>
+<li><a href="/cnnews/20201028/1421549.md">这张图要火！自媒体大咖笑讽：就怕猪一样的队友</a></li>
 <li><a href="/bannedvideo/20201028/1421604.md">文睿：末世凄凉，习近平真正的苦日子开始了，未来七天或度日如年</a></li>
+<li><a href="/cnnews/20201028/1421657.md">宾州遭重创 选情告急 罕见CNN也承认拜登已经输了</a></li>
 <li><a href="/lifebaike/20201028/1421423.md">毛骨悚然！女子一个人自拍 太阳镜里竟出现3人…</a></li>
 <li><a href="/cnnews/hknews/20201027/1421284.md">突发！传4港人进入美国驻港总领事馆寻求政治庇护？</a></li>
-<li><a href="/cnnews/20201028/1421657.md">宾州遭重创 选情告急 罕见CNN也承认拜登已经输了</a></li>
 <li><a href="/cbnews/20201028/1421340.md">陈破空说段子：耿爽在联合国大哭大闹：我还不成熟阿</a></li>
 <li><a href="/cnnews/20201028/1421453.md">毛泽东林彪恩怨始末</a></li>
 <li><a href="/ssgc/20201028/1421437.md">〖兲朝浮世绘〗中共再次教育美国人，不要相信中共的任何承诺</a></li>
 <li><a href="/cbnews/20201028/1421283.md">238天零确诊？江西突发“重要防疫通知”</a></li>
 <li><a href="/cbnews/20201028/1421639.md">亨特炫耀：中国亿万富翁亲手为我做午餐</a></li>
-<li><a href="/cnnews/20201028/1421342.md">不只搞上姪女！亨特再爆租豪宅开毒趴 每晚花2300美元狂欢</a></li>
 <li><a href="/cnnews/20201028/1421680.md">苹果激进！三款AirPods新品曝光：外形大变样</a></li>
+<li><a href="/comments/20201028/1421698.md">网曝中南海地下老鼠般结构 涉中共高层就医及逃亡</a></li>
+<li><a href="/cnnews/20201028/1421342.md">不只搞上姪女！亨特再爆租豪宅开毒趴 每晚花2300美元狂欢</a></li>
 <li><a href="/cbnews/20201028/1421295.md">江峰：大法官连夜就职！美国政治生态已变，保未来数十年保守主义路线；常识：大选究竟在选啥，怎麽个选法？【2020大选评说】</a></li>
 <li><a href="/bannedvideo/20201028/1421608.md">中国经济复苏？ 上海深圳大量实体店倒闭</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201028/1421823.md" target="_blank">威州集会人山人海 川普号召选民“为美国梦而投票”</a></li>
+<li><a href="/comments/20201028/1421822.md" target="_blank">时事大家谈：五中全会看点：习近平还会改革开放吗？</a></li>
 <li><a href="/comments/20201028/1421813.md" target="_blank">四十年来在中国进入美领馆避难成功离境的只有他们</a></li>
 <li><a href="/comments/20201028/1421812.md" target="_blank">2000多年前的巨型猫咪地画现身秘鲁,什么人创造,为何而造</a></li>
 <li><a href="/comments/20201028/1421800.md" target="_blank">受访福克斯 证人详述拜登家族收取中共巨款事实</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201028/1421579.md" target="_blank">否认朝鲜侵略引发韩战 中共遭韩国朝野群起反击</a></li>
 <li><a href="/comments/20201028/1421571.md" target="_blank">【微博精粹】爱死总加速师了 它又加了一脚油门送共产党去死</a></li>
 <li><a href="/comments/20201028/1421547.md" target="_blank">娘家总是劝：好好回去过日子吧 警察也家暴</a></li>
-<li><a href="/comments/20201028/1421546.md" target="_blank">亚尼大帝：书院来信 感染力真的太强了我头皮发麻</a></li>
-<li><a href="/comments/20201028/1421526.md" target="_blank">彭博：军售“防御性武器” 美台「刺猬战略」更加一致</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
