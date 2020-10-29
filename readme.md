@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20201028/1421605.md">五中全会重大人事调整传泡汤 两已下台高官意外成焦点</a></li>
-<li><a href="/bannedvideo/20201028/1421536.md">突发！改投票风暴来临，美国大选提前结束！川普四年成绩单出炉，美国人泪崩：川普这47个月</a></li>
 <li><a href="/topimagenews/20201028/1421638.md">川普真逗！发了一推特 一个字没说 网络沸腾</a></li>
 <li><a href="/topimagenews/20201028/1421679.md">聚餐画面刚上传 导弹就从天而降！7名恐怖头目被美军精准斩首</a></li>
 <li><a href="/bannedvideo/20201028/1421604.md">文睿：末世凄凉，习近平真正的苦日子开始了，未来七天或度日如年</a></li>
@@ -21,6 +20,7 @@
 <li><a href="/ccpdope/20201029/1421876.md">绝！川普一推 左媒全傻 除非没长眼 </a></li>
 <li><a href="/topimagenews/20201029/1421896.md">早期投票川普4赢3 拜登：如果当选携手中国 儿自曝和中共间谍合伙</a></li>
 <li><a href="/bannedvideo/20201028/1421608.md">中国经济复苏？ 上海深圳大量实体店倒闭</a></li>
+<li><a href="/taiwannews/20201029/1421956.md">拜登GG了？美大选最新民调 网友全吓一跳</a></li>
 <li><a href="/baitai/20201028/1421672.md">致命的驭民术：让你总缺“3两银子”，便抽走整个民族的灵魂</a></li>
 <li><a href="/cnnews/20201028/1421613.md">内蒙古官场大面积塌方 一天四厅官落马 背后何玄机？</a></li>
 <li><a href="/bannedvideo/20201028/1421745.md">“女怕午时生 男怕子夜临”啥意思？</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201029/1422106.md" target="_blank">两女子同时溺亡 真相曝光后让人后背发麻</a></li>
+<li><a href="/comments/20201029/1422105.md" target="_blank">三孩政策当真要来？网友炸锅留言扎心了</a></li>
 <li><a href="/comments/20201029/1422092.md" target="_blank">买车必看！“可靠性”差评最多，买这十款车时多留心</a></li>
 <li><a href="/comments/20201029/1422083.md" target="_blank">尼尔．弗格森：美中为何走向新冷战？原因出在习近平而不是川普</a></li>
 <li><a href="/comments/20201029/1422082.md" target="_blank">维舟：只有小道消息才能救中国？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201029/1421933.md" target="_blank">产业链去中共化布局 70%外企拟将产能撤出中国</a></li>
 <li><a href="/comments/20201029/1421917.md" target="_blank">美大选倒数第6天 川普行程紧密 拜登在家乡“讨论疫情”</a></li>
 <li><a href="/comments/20201029/1421906.md" target="_blank">北京处理疫情失去国际信任 世人多认是罪魁祸首</a></li>
-<li><a href="/comments/20201029/1421891.md" target="_blank">残忍的现实：如果父母得了这5种癌，那你&#8230;..也很“危险”</a></li>
-<li><a href="/comments/20201029/1421890.md" target="_blank">唯色RFA博客： 天葬师、“康巴松茸”、六十三根辫子及丹增德勒仁波切（四）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
