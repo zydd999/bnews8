@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/taiwannews/20201029/1421956.md">拜登GG了？美大选最新民调 网友全吓一跳</a></li>
 <li><a href="/cbnews/20201029/1422062.md">一线采访：上海浦东现疫情 管控全面升级</a></li>
 <li><a href="/bannedvideo/20201029/1421963.md">习近平、王岐山‘友谊的小船’马上翻！1080</a></li>
 <li><a href="/headline/20201029/1422359.md">五中全会闭幕：公报不提民营经济</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/comments/20201029/1422106.md">两女子同时溺亡 真相曝光后让人后背发麻</a></li>
 <li><a href="/bannedvideo/20201029/1422235.md">文睿：失业居然恶化到了这种程度，中国大踏步朝最穷国家迈进</a></li>
 <li><a href="/yule/20201029/1422297.md">范冰冰水桶腰残酷现形 惨输54岁香港温碧霞</a></li>
-<li><a href="/cbnews/20201029/1421988.md">五中全会在开 石家庄突现“两个太阳” 网友：改朝换代？</a></li>
 <li><a href="/cnnews/20201029/1422263.md">4年前狂押川普赢 华尔街大咖又给惊人预测</a></li>
-<li><a href="/bannedvideo/20201029/1422344.md">习近平要掌权至2035 垂帘听政至2049？王岐山旧部带队进驻内蒙古 又有“大老虎”？石家庄现“两个太阳” 预示改朝换代？</a></li>
+<li><a href="/cbnews/20201029/1421988.md">五中全会在开 石家庄突现“两个太阳” 网友：改朝换代？</a></li>
 <li><a href="/topimagenews/20201029/1422443.md">惊爆拜登家真出手了？! 内部消息拜登树倒猢狲散 川普新支持者大增数字惊人</a></li>
-<li><a href="/ssgc/20201029/1421952.md">〖兲朝浮世绘〗习近平的“友好组织”密谋颠覆美国</a></li>
+<li><a href="/bannedvideo/20201029/1422344.md">习近平要掌权至2035 垂帘听政至2049？王岐山旧部带队进驻内蒙古 又有“大老虎”？石家庄现“两个太阳” 预示改朝换代？</a></li>
 <li><a href="/cbnews/20201029/1422165.md">蓬佩奥：习近平总书记讲民族复兴 这个词其实有真正的意思</a></li>
 <li><a href="/topimagenews/20201029/1421973.md">美打击中共在美“猎狐行动”：八人被起诉 其中五人被捕</a></li>
 <li><a href="/cbnews/20201029/1421989.md">攻台计划曝光？中共神秘军训基地露馅了 竟1：1仿清泉岗</a></li>
+<li><a href="/topimagenews/20201029/1422425.md">异象！习近平看到咋想？ 刚翻墙就被抓 维基百科沦陷 中国人偷渡越南百多人被抓</a></li>
 <li><a href="/cnnews/20201029/1422322.md">福克斯主持：邮件被打开 亨特机密文件消失</a></li>
 <li><a href="/health/20201029/1422261.md">一天内放屁不断 是肠癌吗？提醒：出现3个特征 最好做个肠镜</a></li>
-<li><a href="/topimagenews/20201029/1422425.md">异象！习近平看到咋想？ 刚翻墙就被抓 维基百科沦陷 中国人偷渡越南百多人被抓</a></li>
 <li><a href="/baitai/20201029/1422224.md">陕西小伙为赚大钱去伊拉克当兵 同行12人只有他幸存</a></li>
 <li><a href="/cnnews/20201029/1422110.md">川普新支持者大增！共和党大佬：数字惊人</a></li>
+<li><a href="/comments/20201029/1422432.md">五中全会集体认怂？中共国防部今竟向美喊话“求和”</a></li>
 <li><a href="/lifebaike/20201029/1422123.md">李鹏没有老糊涂 “两记重拳”要江泽民的命</a></li>
 <li><a href="/topimagenews/20201029/1422215.md">世纪高尔夫球手力挺川普 感人推文：现在 你们有机会采取行动了</a></li>
+<li><a href="/headline/20201029/1422375.md">中共19届五中全会闭幕 接班人还没影</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
 
 </ul>
 </div>
