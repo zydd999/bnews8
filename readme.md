@@ -9,12 +9,11 @@
 <li><a href="/headline/20201028/1421744.md">“两岸进入准战争状态”？ 国台办发言人陷入沉默40秒</a></li>
 <li><a href="/taiwannews/20201029/1421956.md">拜登GG了？美大选最新民调 网友全吓一跳</a></li>
 <li><a href="/cbnews/20201029/1422062.md">一线采访：上海浦东现疫情 管控全面升级</a></li>
-<li><a href="/topimagenews/20201028/1421733.md">7成要跑!供应链撤离中国势不可挡 中共火速建成“柏林墙” 微软转向建台湾云中心</a></li>
 <li><a href="/ccpdope/20201029/1421876.md">绝！川普一推 左媒全傻 除非没长眼 </a></li>
 <li><a href="/topimagenews/20201029/1421896.md">早期投票川普4赢3 拜登：如果当选携手中国 儿自曝和中共间谍合伙</a></li>
 <li><a href="/bannedvideo/20201028/1421745.md">“女怕午时生 男怕子夜临”啥意思？</a></li>
-<li><a href="/cbnews/20201029/1421901.md">FBI、司法部抓捕在美恐吓国民的中国特工</a></li>
 <li><a href="/bannedvideo/20201029/1421963.md">习近平、王岐山‘友谊的小船’马上翻！1080</a></li>
+<li><a href="/cbnews/20201029/1421901.md">FBI、司法部抓捕在美恐吓国民的中国特工</a></li>
 <li><a href="/topimagenews/20201029/1422198.md">你知道吗？江泽民整容后 嘴巴闭起来很费劲...</a></li>
 <li><a href="/bannedvideo/20201028/1421831.md">党史杂谈（310）—还原毛岸英的真实结局，林彪说了一句实话</a></li>
 <li><a href="/cbnews/20201029/1421988.md">五中全会在开 石家庄突现“两个太阳” 网友：改朝换代？</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cbnews/20201029/1421989.md">攻台计划曝光？中共神秘军训基地露馅了 竟1：1仿清泉岗</a></li>
 <li><a href="/topimagenews/20201029/1421907.md">美重磅调查起底习第五纵队 港学生没向美领事馆求庇护？ 美印签新协议 中共颤抖</a></li>
 <li><a href="/headline/20201028/1421767.md">任正非：华为今天的困难，是设计出来的芯片国内基础工业造不出来</a></li>
+<li><a href="/cbnews/20201029/1422165.md">蓬佩奥：习近平总书记讲民族复兴 这个词其实有真正的意思</a></li>
 <li><a href="/cnnews/20201029/1422110.md">川普新支持者大增！共和党大佬：数字惊人</a></li>
 <li><a href="/lifebaike/20201028/1421737.md">推倒中共防火墙？SpaceX"星链"网路测试</a></li>
-<li><a href="/cbnews/20201028/1421734.md">美军新杀手锏将成中共海军梦魇</a></li>
-<li><a href="/cbnews/20201029/1422165.md">蓬佩奥：习近平总书记讲民族复兴 这个词其实有真正的意思</a></li>
+<li><a href="/ssgc/20201029/1422059.md">为共和党保驾护航快30年的人，不是川普，而是一名黑人</a></li>
+<li><a href="/baitai/20201029/1421903.md">边城：发生在法国的这事比美国换总统更重要，事关全世界的走向</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 
 </ul>
 </div>
