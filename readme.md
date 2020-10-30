@@ -20,13 +20,13 @@
 <li><a href="/bannedvideo/20201030/1422800.md">财经冷眼：最新！五中全会政经解读！房地产要彻底凉了！习近平强化党内核心，不定接班人，强推内循环背后！（20201029第369期）</a></li>
 <li><a href="/cnnews/20201030/1422519.md">特鲁多气到爆粗口 一群蠢货要毁掉加拿大？</a></li>
 <li><a href="/cbnews/20201030/1422729.md">五中全会集体认怂？中共向美喊话：希望减少敌意</a></li>
-<li><a href="/topimagenews/20201030/1422658.md">拜登民调应该最少减掉10%？川普有一黄金指标遥遥领先</a></li>
-<li><a href="/cbnews/20201030/1422754.md">被“猎狐”监视恐吓 美华人夫妇为武汉在逃官员</a></li>
-<li><a href="/ssgc/20201030/1422551.md">生产大国变进口大国 中国稀土策略面临困境</a></li>
 <li><a href="/topimagenews/20201030/1422820.md">习近平一招手 他们就来了 库克们对中共献媚：你感觉到房间在震动吗？</a></li>
-<li><a href="/funmedia/20201030/1422544.md">人到中年 没事别参加同学聚会 场面十分辣眼睛</a></li>
-<li><a href="/cbnews/20201030/1422848.md">结婚当天前女友砸场 拉红布条：新郎我爱过</a></li>
+<li><a href="/cbnews/20201030/1422754.md">被“猎狐”监视恐吓 美华人夫妇为武汉在逃官员</a></li>
+<li><a href="/topimagenews/20201030/1422658.md">拜登民调应该最少减掉10%？川普有一黄金指标遥遥领先</a></li>
 <li><a href="/headline/20201030/1422894.md">王沪宁任中央政策研究室主任18年终离职：继任人为政治新星江金权</a></li>
+<li><a href="/ssgc/20201030/1422551.md">生产大国变进口大国 中国稀土策略面临困境</a></li>
+<li><a href="/cbnews/20201030/1422848.md">结婚当天前女友砸场 拉红布条：新郎我爱过</a></li>
+<li><a href="/funmedia/20201030/1422544.md">人到中年 没事别参加同学聚会 场面十分辣眼睛</a></li>
 <li><a href="/topimagenews/20201030/1422877.md">华盛顿时报：川普的成就当代任何总统都无法比拟</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201031/1423097.md" target="_blank">陈破空说段子：王沪宁有三个笔名，让大家猜一猜</a></li>
 <li><a href="/cbnews/20201030/1423000.md" target="_blank">江峰：中共猎人成FBI猎物，惊！川普集会人心所向与拜登民调偏心所致； 美国常识：是否与中共开战—-国父们的战争原则【2020大选评说】</a></li>
 <li><a href="/cbnews/20201030/1422991.md" target="_blank">五中全会闭幕最强调1点 中共高层对川普认怂 真假？ 习近平台湾国师睁眼撒谎</a></li>
 <li><a href="/cbnews/20201030/1422983.md" target="_blank">陈破空：惊传江泽民死亡？习近平密谋颠覆美国！中共五名特工落网。国会严厉质问三大社交媒体</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201029/1422424.md" target="_blank">江峰：五中全会闭幕, 梦幻十四五计画: 踢开美帝科技搞量子 AI 5G 大数据｜习近平和川普能让对方听懂的语言是什麽? 大选常识: 宗教信仰是立国原则【2020大选评说】</a></li>
 <li><a href="/cbnews/20201029/1422310.md" target="_blank">内蒙女企业家行善20年 被法院判为黑老大</a></li>
 <li><a href="/cbnews/20201029/1422274.md" target="_blank">影评：用凄美的故事诠释忧伤，用传神的艺术传递希望</a></li>
-<li><a href="/cbnews/20201029/1422277.md" target="_blank">&#8220;疯狂&#8221;的培训 中国家具厂员工跪地自掴</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201031/1423085.md" target="_blank">传统蓝州地位不稳 川普与拜登周五在明尼苏达“对决”</a></li>
+<li><a href="/comments/20201031/1423081.md" target="_blank">评论 | 王力雄： 回忆新疆旅行见闻（十三）</a></li>
 <li><a href="/comments/20201031/1423072.md" target="_blank">川普的非裔支持率涨至31% 创几十年来历史新高</a></li>
 <li><a href="/comments/20201031/1423056.md" target="_blank">法轮功创造的医学奇迹(七)</a></li>
 <li><a href="/comments/20201031/1423055.md" target="_blank">日本自然疗法名医天然排毒术，解决数十年的顽固便秘</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201030/1422757.md" target="_blank">2021本田CR-V？斯巴鲁Forester？哪个更适合您？</a></li>
 <li><a href="/comments/20201030/1422734.md" target="_blank">坏知识分子坐在家里 就会给社会造成巨大灾难</a></li>
 <li><a href="/comments/20201030/1422717.md" target="_blank">【微博精粹】砖家竟然公告抵御死神定点清除 安抚还是刺激老大</a></li>
-<li><a href="/comments/20201030/1422707.md" target="_blank">五中全会公报不提民营经济 习近平铁定“国进民退”？</a></li>
-<li><a href="/comments/20201030/1422706.md" target="_blank">硬盘门再爆：亨特曾任华信执行董事 与中共军方关系密切</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 
 </ul>
 </div>
