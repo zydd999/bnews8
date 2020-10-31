@@ -11,18 +11,18 @@
 <li><a href="/taiwannews/20201031/1423177.md">！拜登这次麻烦大了！铁证如山？特朗普终于出手了，背后阴谋曝光</a></li>
 <li><a href="/cnnews/20201031/1423164.md">邓丽君昔日写真曝光</a></li>
 <li><a href="/worldnews/20201031/1423154.md">重磅突发：乔·拜登被乌克兰法庭列为刑事嫌犯</a></li>
+<li><a href="/cbnews/20201031/1423366.md">涉孙力军案 央视女主播证实出事</a></li>
 <li><a href="/cbnews/20201031/1423204.md">中共十九届五中全会公报隐藏了一个计划</a></li>
 <li><a href="/cbnews/20201031/1423284.md">“猎狐行动”特工在美被捕 中共政府立刻“切割”</a></li>
-<li><a href="/cbnews/20201031/1423366.md">涉孙力军案 央视女主播证实出事</a></li>
-<li><a href="/cnnews/20201031/1423068.md">傻眼？拜登民调至少减1成 失窃拜登密件为何神秘复出？ 4年前预测川普当选如今说...</a></li>
 <li><a href="/cbnews/20201031/1423187.md">文昭：美军两路调兵声势浩大，蓬佩奥：这才是「惹翻了不好办」；读懂「十四五规划」不靠科学靠玄学</a></li>
 <li><a href="/comments/20201031/1423307.md">致习李公开信：关于江泽民“危害国家安全罪”案件</a></li>
 <li><a href="/comments/20201031/1423109.md">“民营经济”消失？ 经济学者：中共将全面掠夺私人财富</a></li>
+<li><a href="/bannedvideo/20201031/1423351.md">习近平最怕啥？五中全会公报中壹个词出现22次！怕垮台？中共再拒中美脱钩！推特终于解封《纽约邮报》账号；CNN建议《纽约邮报》“删贴” 被同行批！超准预言家 犹太拉比：川普会连任【希望看新闻】</a></li>
 <li><a href="/bannedvideo/20201031/1423339.md">中共“千年大计”狠折腾 雄安新区再遭强拆</a></li>
 <li><a href="/ssgc/20201031/1423158.md">〖兲朝浮世绘〗凭分买米 指日可待</a></li>
 <li><a href="/bannedvideo/20201031/1423340.md">中共高层求变局?学者解析五中全会公报</a></li>
-<li><a href="/bannedvideo/20201031/1423351.md">习近平最怕啥？五中全会公报中壹个词出现22次！怕垮台？中共再拒中美脱钩！推特终于解封《纽约邮报》账号；CNN建议《纽约邮报》“删贴” 被同行批！超准预言家 犹太拉比：川普会连任【希望看新闻】</a></li>
 <li><a href="/topimagenews/20201031/1423146.md">川普长子：美国染疫死亡人数已寥寥无几</a></li>
+<li><a href="/cbnews/20201031/1423369.md">五中全会变“丐帮”聚会 菜谱晒出菜根、萝卜皮 网民嘲讽：作秀</a></li>
 <li><a href="/comments/20201031/1423106.md">黑洞是宇宙的“废品转化工厂”？科学家：宇宙有可能是一个巨大的高级智慧体</a></li>
 <li><a href="/worldnews/20201031/1423286.md">盲婆预言成真？数十个伊斯兰国家加入了围剿法国</a></li>
 <li><a href="/bannedvideo/20201031/1423092.md">美国三大电视网倾全力攻击川普，在黄金时段的晚间新闻中，对川普发布的负评报导高达92%，而对拜登的负评报导只有34%，川普面对的硬仗，还包括了假新闻媒体</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201101/1423599.md" target="_blank">陈破空：拜登淡出终场 川普越战越强 嘉宾：章天亮、萧铭【陈破空纵论天下】</a></li>
 <li><a href="/cbnews/20201031/1423545.md" target="_blank">江峰：江峰 方伟周末互动Q&amp;A【2020大选评说】</a></li>
 <li><a href="/cbnews/20201031/1423371.md" target="_blank">北京一带一路梦碎 中亚小国屡爆反共冲突</a></li>
 <li><a href="/cbnews/20201031/1423370.md" target="_blank">因应中共威胁 英国情报机构征中文人才</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201031/1423139.md" target="_blank">专栏 | 夜话中南海：中共二十大之前应该不会再有高层人事异动</a></li>
 <li><a href="/cbnews/20201031/1423134.md" target="_blank">11/6起 自美赴中须持核酸检测+血清抗体「双阴性」证明</a></li>
 <li><a href="/cbnews/20201031/1423116.md" target="_blank">遭刑讯逼供历27年冤狱 张玉环获496万赔偿 追责难</a></li>
-<li><a href="/cbnews/20201031/1423115.md" target="_blank">求婚藏纸箱…男捧玫瑰花蹦出来 惊见陌生女结局神展开</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201101/1423594.md" target="_blank">美国媒体人分析摇摆州为何从蓝变红</a></li>
 <li><a href="/comments/20201101/1423589.md" target="_blank">最新爆料！脸书CEO扎克伯格或与拜登家族丑闻有染</a></li>
 <li><a href="/comments/20201101/1423573.md" target="_blank">陕西13网友QQ传播境外政治信息被判刑 另1人死亡 原因不明</a></li>
 <li><a href="/comments/20201031/1423439.md" target="_blank">江西设计师感染病毒 遭当局禁锢式隔离近两个月</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201031/1423416.md" target="_blank">时事大家谈 ：从韩国流感疫苗事件看迷思和事实</a></li>
 <li><a href="/comments/20201031/1423415.md" target="_blank">时事大家谈 ：如何应对秋冬新冠流感两面夹击</a></li>
 <li><a href="/comments/20201031/1423389.md" target="_blank">【要闻精粹】凭分买米升级 恐怖分子不打自招？</a></li>
-<li><a href="/comments/20201031/1423307.md" target="_blank">致习李公开信：关于江泽民“危害国家安全罪”案件</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 
 </ul>
 </div>
