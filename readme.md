@@ -15,18 +15,18 @@
 <li><a href="/taiwannews/20201031/1423177.md">！拜登这次麻烦大了！铁证如山？特朗普终于出手了，背后阴谋曝光</a></li>
 <li><a href="/cbnews/20201031/1423284.md">“猎狐行动”特工在美被捕 中共政府立刻“切割”</a></li>
 <li><a href="/cnnews/20201031/1423068.md">傻眼？拜登民调至少减1成 失窃拜登密件为何神秘复出？ 4年前预测川普当选如今说...</a></li>
-<li><a href="/cbnews/20201031/1423204.md">中共十九届五中全会公报隐藏了一个计划</a></li>
-<li><a href="/cbnews/20201031/1423187.md">文昭：美军两路调兵声势浩大，蓬佩奥：这才是「惹翻了不好办」；读懂「十四五规划」不靠科学靠玄学</a></li>
 <li><a href="/comments/20201031/1423109.md">“民营经济”消失？ 经济学者：中共将全面掠夺私人财富</a></li>
-<li><a href="/topimagenews/20201031/1423146.md">川普长子：美国染疫死亡人数已寥寥无几</a></li>
+<li><a href="/cbnews/20201031/1423187.md">文昭：美军两路调兵声势浩大，蓬佩奥：这才是「惹翻了不好办」；读懂「十四五规划」不靠科学靠玄学</a></li>
+<li><a href="/cbnews/20201031/1423204.md">中共十九届五中全会公报隐藏了一个计划</a></li>
+<li><a href="/comments/20201031/1423307.md">致习李公开信：关于江泽民“危害国家安全罪”案件</a></li>
 <li><a href="/ssgc/20201031/1423158.md">〖兲朝浮世绘〗凭分买米 指日可待</a></li>
+<li><a href="/topimagenews/20201031/1423146.md">川普长子：美国染疫死亡人数已寥寥无几</a></li>
 <li><a href="/cbnews/20201030/1422991.md">五中全会闭幕最强调1点 中共高层对川普认怂 真假？ 习近平台湾国师睁眼撒谎</a></li>
 <li><a href="/comments/20201031/1423106.md">黑洞是宇宙的“废品转化工厂”？科学家：宇宙有可能是一个巨大的高级智慧体</a></li>
-<li><a href="/comments/20201031/1423307.md">致习李公开信：关于江泽民“危害国家安全罪”案件</a></li>
 <li><a href="/bannedvideo/20201031/1423092.md">美国三大电视网倾全力攻击川普，在黄金时段的晚间新闻中，对川普发布的负评报导高达92%，而对拜登的负评报导只有34%，川普面对的硬仗，还包括了假新闻媒体</a></li>
+<li><a href="/bannedvideo/20201031/1423336.md">据说中国正在推广疫苗，实际上经过知情人爆料，真相竟然是......</a></li>
 <li><a href="/lifebaike/20201031/1423163.md">延安整风真相：就地处死、砍成肉酱</a></li>
 <li><a href="/worldnews/20201031/1423286.md">盲婆预言成真？数十个伊斯兰国家加入了围剿法国</a></li>
-<li><a href="/cbnews/20201031/1423139.md">专栏 | 夜话中南海：中共二十大之前应该不会再有高层人事异动</a></li>
 <li><a href="/health/20201031/1423209.md">比糖和盐还"可怕"的调味剂 我们可能每天都在吃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 
 </ul>
 </div>
