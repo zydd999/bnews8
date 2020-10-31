@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20201030/1422777.md">五中全会｜以罕见名义举行记者会 江金权接替王沪宁首亮相</a></li>
 <li><a href="/cbnews/20201030/1422796.md">完全边缘化？五中全会公报里的这些内容 全部消失</a></li>
 <li><a href="/worldnews/20201030/1422837.md">玄松月篡位 金正恩后宫大乱斗 金与正犯了大忌</a></li>
-<li><a href="/headline/20201030/1422613.md">习近平预备长期执政 中共五中全会为何不明说</a></li>
 <li><a href="/bannedvideo/20201030/1422655.md">改了！习曾主政的省份改叫习一省，习二省，习三省...?｜【胡编的花式叼盘】 混球系列 🎞 第四集</a></li>
-<li><a href="/topimagenews/20201030/1422890.md">习近平最担心川普这一点 债券废了 国企违约当局不管 稀土牌令失灵 急从美进口</a></li>
 <li><a href="/bannedvideo/20201030/1422800.md">财经冷眼：最新！五中全会政经解读！房地产要彻底凉了！习近平强化党内核心，不定接班人，强推内循环背后！（20201029第369期）</a></li>
+<li><a href="/topimagenews/20201030/1422890.md">习近平最担心川普这一点 债券废了 国企违约当局不管 稀土牌令失灵 急从美进口</a></li>
 <li><a href="/cbnews/20201030/1422983.md">陈破空：惊传江泽民死亡？习近平密谋颠覆美国！中共五名特工落网。国会严厉质问三大社交媒体</a></li>
-<li><a href="/topimagenews/20201030/1422820.md">习近平一招手 他们就来了 库克们对中共献媚：你感觉到房间在震动吗？</a></li>
 <li><a href="/headline/20201030/1422894.md">王沪宁任中央政策研究室主任18年终离职：继任人为政治新星江金权</a></li>
+<li><a href="/topimagenews/20201030/1422820.md">习近平一招手 他们就来了 库克们对中共献媚：你感觉到房间在震动吗？</a></li>
 <li><a href="/cbnews/20201030/1422729.md">五中全会集体认怂？中共向美喊话：希望减少敌意</a></li>
 <li><a href="/cbnews/20201030/1422754.md">被“猎狐”监视恐吓 美华人夫妇为武汉在逃官员</a></li>
-<li><a href="/topimagenews/20201030/1422658.md">拜登民调应该最少减掉10%？川普有一黄金指标遥遥领先</a></li>
 <li><a href="/cbnews/20201030/1422848.md">结婚当天前女友砸场 拉红布条：新郎我爱过</a></li>
+<li><a href="/topimagenews/20201030/1422658.md">拜登民调应该最少减掉10%？川普有一黄金指标遥遥领先</a></li>
 <li><a href="/topimagenews/20201030/1422877.md">华盛顿时报：川普的成就当代任何总统都无法比拟</a></li>
 <li><a href="/lifebaike/20201030/1422823.md">人妻被困在车上 锁4小时被晒死到处都是指纹</a></li>
 <li><a href="/ssgc/20201030/1422995.md">史丹利搬离深圳:没有一个人是悲伤的</a></li>
 <li><a href="/health/20201030/1422891.md">不是维C！8成新冠感染者体内缺少这种维生素</a></li>
 <li><a href="/baitai/20201030/1422975.md">保温杯泄婚外情 妻出轨2男贵州夫痛下杀手</a></li>
+<li><a href="/cnnews/20201031/1423068.md">傻眼？拜登民调至少减1成 失窃拜登密件为何神秘复出？ 4年前预测川普当选如今说...</a></li>
 <li><a href="/lifebaike/20201030/1422667.md">清华教授：请务必告诉孩子 如果有人打了你！再忙也花2分钟看看</a></li>
 <li><a href="/cnnews/20201030/1422696.md">重磅：司法部官员证实 已对亨特展开刑事调查</a></li>
-<li><a href="/cnnews/20201030/1422735.md">卷国库数十亿 “大马和珅”只为泡遍女明星？</a></li>
 <li><a href="/finance/20201030/1422690.md">语不惊人死不休 习近平的马屁精国师又“睁眼说瞎话”了</a></li>
+<li><a href="/cnnews/20201030/1422735.md">卷国库数十亿 “大马和珅”只为泡遍女明星？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201031/1423179.md" target="_blank">勿让中共混充“中国”</a></li>
+<li><a href="/comments/20201031/1423178.md" target="_blank">川普一夫当关万夫莫开</a></li>
+<li><a href="/comments/20201031/1423173.md" target="_blank">7.0强震袭土耳其希腊近海 至少19死逾700伤 专家警告：还有强烈余震</a></li>
 <li><a href="/comments/20201031/1423165.md" target="_blank">二大爷：捐个儿子行不行？</a></li>
 <li><a href="/comments/20201031/1423157.md" target="_blank">官员误入阴曹地府 返回阳间有妙方</a></li>
 <li><a href="/comments/20201031/1423156.md" target="_blank">丰田“汽车召回”又扩大车款！全球已超580万辆</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201030/1423031.md" target="_blank">欧洲疫情加剧 多国单日新增确诊纷创纪录</a></li>
 <li><a href="/comments/20201030/1423007.md" target="_blank">千年古墓中的发现揭开了秦始皇32个子女的死亡之谜</a></li>
 <li><a href="/comments/20201030/1422936.md" target="_blank">中共病毒受害者家属维权遭打压抹黑 杨占青叹问责难</a></li>
-<li><a href="/comments/20201030/1422910.md" target="_blank">大选前冲刺 川普携夫人佛州家乡竞选演讲 盛况空前</a></li>
-<li><a href="/comments/20201030/1422831.md" target="_blank">和你想得很不同的！专家破解维生素C迷思</a></li>
-<li><a href="/comments/20201030/1422830.md" target="_blank">秋冬食补进行时，来聊聊大枣</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
