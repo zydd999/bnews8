@@ -16,8 +16,8 @@
 <li><a href="/finance/20201031/1423383.md">共产！公私合营上演中共全面夺财 马云杠王岐山喊话习近平？ 蚂蚁上市最终难躲川普狙击</a></li>
 <li><a href="/topimagenews/20201031/1423563.md">川普长子1句话惊人 CDC有个爆炸性数据</a></li>
 <li><a href="/headline/20201101/1423643.md">赴华需“双阴性证明” 海外华人彻底断了回国念头</a></li>
-<li><a href="/funmedia/20201031/1423377.md">小哥修手机打开后盖发现100美金和一张纸条："老婆要查 别修…"？然而….</a></li>
 <li><a href="/cbnews/20201101/1423693.md">陈破空：五中全会最大惊奇：王沪宁失宠！习近平开始摆脱他。拜登躲在左媒的庇护下，躺着选就能赢？</a></li>
+<li><a href="/funmedia/20201031/1423377.md">小哥修手机打开后盖发现100美金和一张纸条："老婆要查 别修…"？然而….</a></li>
 <li><a href="/comments/20201031/1423428.md">高干病房护士：中共一知名高官死前极度恐惧痛苦</a></li>
 <li><a href="/cbnews/20201031/1423363.md">中共又玩花样 下周开始 赴中国大陆人员须凭双阴性证明登机</a></li>
 <li><a href="/topimagenews/20201101/1423611.md">党媒挖苦美国租房市场危机 评论大翻车</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/finance/20201031/1423381.md">国内粮价跳涨开始：粮荒越来越近了…</a></li>
 <li><a href="/bannedvideo/20201031/1423314.md">传四川突发疫情 酒店内人员不许出门</a></li>
 <li><a href="/cbnews/20201031/1423362.md">三菱重工—日本军工龙头 恐怖的生产力 被定为下一代战机主承包商 【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20201031/1423344.md">文睿：15年后，中国人均GDP超过4万美元，中共这个玩笑开大了</a></li>
+<li><a href="/finance/20201101/1423665.md">内循环成死循环？中共急了 统计局长一段话出现13个“消费”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201101/1423826.md" target="_blank">示威者迫使卢卡申科让步 两名亲信被调职 镇压者士气恐大落</a></li>
+<li><a href="/topimagenews/20201101/1423825.md" target="_blank">突发！香港警方进行大抓捕！ 朱凯廸陈志全等7名民主派被抓</a></li>
 <li><a href="/topimagenews/20201101/1423611.md" target="_blank">党媒挖苦美国租房市场危机 评论大翻车</a></li>
 <li><a href="/topimagenews/20201101/1423610.md" target="_blank">亨特硬盘门牵出一神秘部门 与拜登做生意竟是它</a></li>
 <li><a href="/topimagenews/20201031/1423563.md" target="_blank">川普长子1句话惊人 CDC有个爆炸性数据</a></li>
@@ -90,14 +92,15 @@
 <li><a href="/topimagenews/20201029/1422100.md" target="_blank">若中共控制全球5G 白宫国安顾问：将能取得每个人的信息&#8230;</a></li>
 <li><a href="/topimagenews/20201029/1421983.md" target="_blank">经济学人频洗白「华为」 美媒︰双方近10年往来利益遭隐匿</a></li>
 <li><a href="/topimagenews/20201029/1421973.md" target="_blank">美打击中共在美“猎狐行动”：八人被起诉 其中五人被捕</a></li>
-<li><a href="/topimagenews/20201029/1421907.md" target="_blank">美重磅调查起底习第五纵队 港学生没向美领事馆求庇护？ 美印签新协议 中共颤抖</a></li>
-<li><a href="/topimagenews/20201029/1421896.md" target="_blank">早期投票川普4赢3 拜登：如果当选携手中国 儿自曝和中共间谍合伙</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201101/1423830.md" target="_blank">体验流浪汉生活 收入竟比上班赚的多？</a></li>
+<li><a href="/comments/20201101/1423829.md" target="_blank">面对中共外宣进攻 美民主成败在此一役</a></li>
+<li><a href="/comments/20201101/1423828.md" target="_blank">11月3日 你和我为谁投票？</a></li>
 <li><a href="/comments/20201101/1423821.md" target="_blank">【微博精粹】想留西方赶紧切割党 别等川普当选 想回墙国赶紧订票</a></li>
 <li><a href="/comments/20201101/1423820.md" target="_blank">曲阜师大数学系吊打清北排第一的背后</a></li>
 <li><a href="/comments/20201101/1423819.md" target="_blank">李平：中共特色的大势判断及脱钩对策</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201101/1423697.md" target="_blank">李怡：为甚么支持川普</a></li>
 <li><a href="/comments/20201101/1423696.md" target="_blank">二大爷：怎么看川粉？</a></li>
 <li><a href="/comments/20201101/1423694.md" target="_blank">英国确诊破百万 首相宣布一个月禁足令</a></li>
-<li><a href="/comments/20201101/1423684.md" target="_blank">英国情报机构招募中文人才 应对中共威胁</a></li>
-<li><a href="/comments/20201101/1423674.md" target="_blank">宇航员们在太空中都遇到了什么奇异现象</a></li>
-<li><a href="/comments/20201101/1423668.md" target="_blank">大医院治不好的病症小门诊有妙方</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
