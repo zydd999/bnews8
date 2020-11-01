@@ -13,20 +13,20 @@
 <li><a href="/finance/20201031/1423383.md">共产！公私合营上演中共全面夺财 马云杠王岐山喊话习近平？ 蚂蚁上市最终难躲川普狙击</a></li>
 <li><a href="/cnnews/hknews/20201101/1423816.md">港台“千年一遇美女” 1个回应网友沸腾：一定会红</a></li>
 <li><a href="/topimagenews/20201031/1423563.md">川普长子1句话惊人 CDC有个爆炸性数据</a></li>
-<li><a href="/headline/20201101/1423643.md">赴华需“双阴性证明” 海外华人彻底断了回国念头</a></li>
 <li><a href="/funmedia/20201031/1423377.md">小哥修手机打开后盖发现100美金和一张纸条："老婆要查 别修…"？然而….</a></li>
+<li><a href="/headline/20201101/1423643.md">赴华需“双阴性证明” 海外华人彻底断了回国念头</a></li>
 <li><a href="/comments/20201031/1423428.md">高干病房护士：中共一知名高官死前极度恐惧痛苦</a></li>
 <li><a href="/topimagenews/20201101/1423611.md">党媒挖苦美国租房市场危机 评论大翻车</a></li>
 <li><a href="/cnnews/20201101/1423672.md">出海捕到人面鱼！愁眉苦脸盯着你 渔民吓到不敢吃</a></li>
 <li><a href="/cnnews/20201101/1423782.md">NASA终于拍到这"活物" 超诡异画面曝光</a></li>
 <li><a href="/cbnews/20201031/1423363.md">中共又玩花样 下周开始 赴中国大陆人员须凭双阴性证明登机</a></li>
 <li><a href="/cnnews/20201101/1423602.md">刚刚曝出真正十月惊奇 最新料又涉老拜登扎克伯格 老天爷还送来了对比一幕</a></li>
-<li><a href="/finance/20201101/1423665.md">内循环成死循环？中共急了 统计局长一段话出现13个“消费”</a></li>
 <li><a href="/finance/20201031/1423381.md">国内粮价跳涨开始：粮荒越来越近了…</a></li>
+<li><a href="/finance/20201101/1423665.md">内循环成死循环？中共急了 统计局长一段话出现13个“消费”</a></li>
 <li><a href="/ssgc/20201101/1423726.md">〖微博谈〗川普已经赢了</a></li>
 <li><a href="/cnnews/hknews/20201101/1423817.md">美国总统大选倒数！蔡英文表态了</a></li>
-<li><a href="/health/20201101/1423710.md">男人开始衰老的八大标志 只要没超过四个 恭喜你身体还很健康</a></li>
 <li><a href="/cnnews/hknews/20201101/1423796.md">真豪！香港富豪刘銮雄拍卖三幅名画 套现5.2亿</a></li>
+<li><a href="/health/20201101/1423710.md">男人开始衰老的八大标志 只要没超过四个 恭喜你身体还很健康</a></li>
 <li><a href="/cbnews/20201031/1423362.md">三菱重工—日本军工龙头 恐怖的生产力 被定为下一代战机主承包商 【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201101/1423928.md" target="_blank">萧铭：媒体最後“帮”大忙; 民调和民意差距有多大？亨特 拜登硬盘门是如何筹划的？</a></li>
 <li><a href="/cbnews/20201101/1423834.md" target="_blank">腾讯大秘密被盯上？美智库点出腾讯真正要害 国安风险比TikTok高</a></li>
 <li><a href="/cbnews/20201101/1423761.md" target="_blank">007也要懂中文！英情报机构扩大招募华语人才</a></li>
 <li><a href="/cbnews/20201101/1423760.md" target="_blank">中国各地抗美煽情 热炒毛岸英 不提蛋炒饭</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201031/1423365.md" target="_blank">五眼联盟情报惊现大漏洞！加拿大情报主管竟是共谍 能说流利中文</a></li>
 <li><a href="/cbnews/20201031/1423363.md" target="_blank">中共又玩花样 下周开始 赴中国大陆人员须凭双阴性证明登机</a></li>
 <li><a href="/cbnews/20201031/1423362.md" target="_blank">三菱重工—日本军工龙头 恐怖的生产力 被定为下一代战机主承包商 【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201031/1423361.md" target="_blank">翻拍《棋灵王》被批毁童年 中共大内宣引众怒</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201101/1423925.md" target="_blank">“抗美援朝”纪念中共只让提毛岸英 不让说蛋炒饭</a></li>
 <li><a href="/comments/20201101/1423892.md" target="_blank">高血压是吃出来的！医生忠告：晚上坚持“三多两不要”</a></li>
 <li><a href="/comments/20201101/1423891.md" target="_blank">毒素废物通通排出去，免费的新陈代谢让你肌肤紧实无瑕透亮</a></li>
 <li><a href="/comments/20201101/1423885.md" target="_blank">防御两个最大敌人？日拟建新型神盾舰原因</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201101/1423777.md" target="_blank">一张意味深长的照片 照出女权运动的悖论</a></li>
 <li><a href="/comments/20201101/1423741.md" target="_blank">颜纯钩: 如今这国势成中共心腹之患</a></li>
 <li><a href="/comments/20201101/1423740.md" target="_blank">刘锐绍：五中全会只有一个主旨：全程巩固「习权」</a></li>
-<li><a href="/comments/20201101/1423739.md" target="_blank">唐浩: 解密《川普预言》美国大选谁胜出 前总统们未来下场</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 
 </ul>
 </div>
