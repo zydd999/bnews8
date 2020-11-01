@@ -13,21 +13,21 @@
 <li><a href="/bannedvideo/20201031/1423339.md">中共“千年大计”狠折腾 雄安新区再遭强拆</a></li>
 <li><a href="/cbnews/20201101/1423601.md">曝底层现况！中国网红惊叹中国比想像中穷：活得下去是奇迹</a></li>
 <li><a href="/bannedvideo/20201031/1423340.md">中共高层求变局?学者解析五中全会公报</a></li>
+<li><a href="/cbnews/20201101/1423693.md">陈破空：五中全会最大惊奇：王沪宁失宠！习近平开始摆脱他。拜登躲在左媒的庇护下，躺着选就能赢？</a></li>
 <li><a href="/finance/20201031/1423383.md">共产！公私合营上演中共全面夺财 马云杠王岐山喊话习近平？ 蚂蚁上市最终难躲川普狙击</a></li>
 <li><a href="/topimagenews/20201031/1423563.md">川普长子1句话惊人 CDC有个爆炸性数据</a></li>
 <li><a href="/headline/20201101/1423643.md">赴华需“双阴性证明” 海外华人彻底断了回国念头</a></li>
-<li><a href="/cbnews/20201101/1423693.md">陈破空：五中全会最大惊奇：王沪宁失宠！习近平开始摆脱他。拜登躲在左媒的庇护下，躺着选就能赢？</a></li>
 <li><a href="/funmedia/20201031/1423377.md">小哥修手机打开后盖发现100美金和一张纸条："老婆要查 别修…"？然而….</a></li>
 <li><a href="/comments/20201031/1423428.md">高干病房护士：中共一知名高官死前极度恐惧痛苦</a></li>
-<li><a href="/cbnews/20201031/1423363.md">中共又玩花样 下周开始 赴中国大陆人员须凭双阴性证明登机</a></li>
 <li><a href="/topimagenews/20201101/1423611.md">党媒挖苦美国租房市场危机 评论大翻车</a></li>
+<li><a href="/cbnews/20201031/1423363.md">中共又玩花样 下周开始 赴中国大陆人员须凭双阴性证明登机</a></li>
 <li><a href="/cnnews/20201101/1423602.md">刚刚曝出真正十月惊奇 最新料又涉老拜登扎克伯格 老天爷还送来了对比一幕</a></li>
-<li><a href="/taiwannews/20201031/1423341.md">硬盘门连美中大棋 学者：未来五个月或更大风暴</a></li>
 <li><a href="/cnnews/20201101/1423672.md">出海捕到人面鱼！愁眉苦脸盯着你 渔民吓到不敢吃</a></li>
+<li><a href="/taiwannews/20201031/1423341.md">硬盘门连美中大棋 学者：未来五个月或更大风暴</a></li>
 <li><a href="/finance/20201031/1423381.md">国内粮价跳涨开始：粮荒越来越近了…</a></li>
+<li><a href="/finance/20201101/1423665.md">内循环成死循环？中共急了 统计局长一段话出现13个“消费”</a></li>
 <li><a href="/bannedvideo/20201031/1423314.md">传四川突发疫情 酒店内人员不许出门</a></li>
 <li><a href="/cbnews/20201031/1423362.md">三菱重工—日本军工龙头 恐怖的生产力 被定为下一代战机主承包商 【阿波罗网编译】</a></li>
-<li><a href="/finance/20201101/1423665.md">内循环成死循环？中共急了 统计局长一段话出现13个“消费”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201101/1423834.md" target="_blank">腾讯大秘密被盯上？美智库点出腾讯真正要害 国安风险比TikTok高</a></li>
 <li><a href="/cbnews/20201101/1423761.md" target="_blank">007也要懂中文！英情报机构扩大招募华语人才</a></li>
 <li><a href="/cbnews/20201101/1423760.md" target="_blank">中国各地抗美煽情 热炒毛岸英 不提蛋炒饭</a></li>
 <li><a href="/cbnews/20201101/1423443.md" target="_blank">名家专栏：唯川普能解美国自我仇恨问题</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201031/1423363.md" target="_blank">中共又玩花样 下周开始 赴中国大陆人员须凭双阴性证明登机</a></li>
 <li><a href="/cbnews/20201031/1423362.md" target="_blank">三菱重工—日本军工龙头 恐怖的生产力 被定为下一代战机主承包商 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201031/1423361.md" target="_blank">翻拍《棋灵王》被批毁童年 中共大内宣引众怒</a></li>
-<li><a href="/cbnews/20201031/1423350.md" target="_blank">蓬佩奥：中共是宗教自由的最大威胁</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201101/1423835.md" target="_blank">回国被隔离在酒店的那些天</a></li>
 <li><a href="/comments/20201101/1423830.md" target="_blank">体验流浪汉生活 收入竟比上班赚的多？</a></li>
 <li><a href="/comments/20201101/1423829.md" target="_blank">面对中共外宣进攻 美民主成败在此一役</a></li>
 <li><a href="/comments/20201101/1423828.md" target="_blank">11月3日 你和我为谁投票？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201101/1423698.md" target="_blank">吴嘉隆：拜登父子丑闻陷风波 揭爆料背后的心机交锋</a></li>
 <li><a href="/comments/20201101/1423697.md" target="_blank">李怡：为甚么支持川普</a></li>
 <li><a href="/comments/20201101/1423696.md" target="_blank">二大爷：怎么看川粉？</a></li>
-<li><a href="/comments/20201101/1423694.md" target="_blank">英国确诊破百万 首相宣布一个月禁足令</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
 
 </ul>
 </div>
