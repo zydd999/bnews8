@@ -11,21 +11,21 @@
 <li><a href="/topimagenews/20201102/1424079.md">拜登完了!美媒不约而同集体大变身 拜登罕见一幕视频无言以对 纳瓦罗预言拜登将被消失 </a></li>
 <li><a href="/funmedia/20201102/1424153.md">诺贝尔重大发现：决定人寿命长短的不是吃和运动 而是…</a></li>
 <li><a href="/topimagenews/20201101/1423948.md">中共中央记招坚拒美中脱钩 急!统计局长1段话现13次此字 5大银行坏帐恶化千多支行关闭</a></li>
-<li><a href="/bannedvideo/20201101/1423858.md">财经冷眼：多城房子现白菜价，楼市变现渠道被锁死！卖房移民彻底没戏！（20201101第370期）</a></li>
 <li><a href="/cnnews/20201101/1423863.md">重磅：亨特硬盘含克林顿、奥巴马和佩洛西私密</a></li>
 <li><a href="/comments/20201101/1423892.md">高血压是吃出来的！医生忠告：晚上坚持“三多两不要”</a></li>
 <li><a href="/bannedvideo/20201101/1424027.md">【#纪元播报】法媒：王岐山可能遇到了麻烦</a></li>
 <li><a href="/bannedvideo/20201102/1424077.md">为什么中共突现冲突的声音？习近平气势汹汹演给谁看？</a></li>
 <li><a href="/lifebaike/20201102/1424124.md">高血压死敌终于被发现 父母每天喝一杯 血压可能会悄然下降</a></li>
+<li><a href="/ssgc/20201101/1424051.md">评论 | 魏京生：习近平的滑铁卢</a></li>
 <li><a href="/bannedvideo/20201101/1424002.md">川普的复仇：“没有当初你对我的羞辱，就不会有我今天为你掘墓”</a></li>
 <li><a href="/cbnews/20201102/1424113.md">三峡工程建成11年才完成验收 网友：中共领导人集体甩锅</a></li>
-<li><a href="/ssgc/20201101/1424051.md">评论 | 魏京生：习近平的滑铁卢</a></li>
 <li><a href="/cnnews/20201102/1424088.md">拜登最少判15年 石破天惊1天多少重磅消息 民主党极左:民调至少砍半 左派计划占领白宫</a></li>
 <li><a href="/cbnews/20201101/1423928.md">萧铭：媒体最後“帮”大忙; 民调和民意差距有多大？亨特 拜登硬盘门是如何筹划的？</a></li>
 <li><a href="/taiwannews/20201101/1423846.md">麦克阿瑟的战后岁月及临终前的预言</a></li>
 <li><a href="/cnnews/20201102/1424080.md">小学生作文写「我的妈妈」 老师看完这篇笑翻：妈妈会哭</a></li>
 <li><a href="/topimagenews/20201102/1424179.md">经济回温破功！中国大学应届毕业生仅25%找到工作</a></li>
 <li><a href="/cnnews/20201102/1424105.md">大陆新流行词「内卷」 恶性竞争导致生活更艰辛</a></li>
+<li><a href="/bannedvideo/20201102/1424162.md">扫墓的妈妈 被眼前一幕惊呆了！去世孩子的墓竟然。。。</a></li>
 <li><a href="/taiwannews/20201101/1423944.md">11/1发烧关键 美大选「终局已定」？拜登丑闻声量爆表</a></li>
 <li><a href="/ssgc/20201102/1424157.md">〖兲朝浮世绘〗三峡这事儿上 中共高层人人都在当甩锅侠</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
