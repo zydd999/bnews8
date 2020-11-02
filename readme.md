@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20201101/1423909.md">习近平开大会说中国人民组织起来了，本以为是组织起来反美，结果是组织起来买苹果！｜【中国人民组织起来了】时事小品_大陆新闻解毒</a></li>
 <li><a href="/topimagenews/20201102/1424072.md">习近平王岐山放狠话有大事？香港突发3件事 件件重要 曝腾讯大秘密？美智库点穴</a></li>
 <li><a href="/topimagenews/20201102/1424079.md">拜登完了!美媒不约而同集体大变身 拜登罕见一幕视频无言以对 纳瓦罗预言拜登将被消失 </a></li>
 <li><a href="/funmedia/20201102/1424153.md">诺贝尔重大发现：决定人寿命长短的不是吃和运动 而是…</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/ssgc/20201101/1424051.md">评论 | 魏京生：习近平的滑铁卢</a></li>
 <li><a href="/lifebaike/20201102/1424124.md">高血压死敌终于被发现 父母每天喝一杯 血压可能会悄然下降</a></li>
 <li><a href="/cbnews/20201102/1424113.md">三峡工程建成11年才完成验收 网友：中共领导人集体甩锅</a></li>
+<li><a href="/topimagenews/20201102/1424290.md">大主教致信川普：一个名为“大重构”的全球阴谋 正在进行中</a></li>
 <li><a href="/bannedvideo/20201101/1424002.md">川普的复仇：“没有当初你对我的羞辱，就不会有我今天为你掘墓”</a></li>
 <li><a href="/topimagenews/20201102/1424179.md">经济回温破功！中国大学应届毕业生仅25%找到工作</a></li>
 <li><a href="/cnnews/20201102/1424088.md">拜登最少判15年 石破天惊1天多少重磅消息 民主党极左:民调至少砍半 左派计划占领白宫</a></li>
-<li><a href="/topimagenews/20201102/1424290.md">大主教致信川普：一个名为“大重构”的全球阴谋 正在进行中</a></li>
-<li><a href="/taiwannews/20201101/1423846.md">麦克阿瑟的战后岁月及临终前的预言</a></li>
 <li><a href="/cbnews/20201102/1424198.md">安徽大学美女团干部被当街举报“插足”别人婚姻</a></li>
-<li><a href="/cbnews/20201101/1423928.md">萧铭：媒体最後“帮”大忙; 民调和民意差距有多大？亨特 拜登硬盘门是如何筹划的？</a></li>
 <li><a href="/cnnews/20201102/1424080.md">小学生作文写「我的妈妈」 老师看完这篇笑翻：妈妈会哭</a></li>
+<li><a href="/cbnews/20201101/1423928.md">萧铭：媒体最後“帮”大忙; 民调和民意差距有多大？亨特 拜登硬盘门是如何筹划的？</a></li>
 <li><a href="/bannedvideo/20201102/1424162.md">扫墓的妈妈 被眼前一幕惊呆了！去世孩子的墓竟然。。。</a></li>
+<li><a href="/cnnews/20201102/1424188.md">近100辆！拜登竞选巴士遭川普支持者车队包围 川普：我爱德州</a></li>
 <li><a href="/cnnews/20201102/1424105.md">大陆新流行词「内卷」 恶性竞争导致生活更艰辛</a></li>
 <li><a href="/ssgc/20201102/1424157.md">〖兲朝浮世绘〗三峡这事儿上 中共高层人人都在当甩锅侠</a></li>
-<li><a href="/cnnews/20201102/1424188.md">近100辆！拜登竞选巴士遭川普支持者车队包围 川普：我爱德州</a></li>
 <li><a href="/taiwannews/20201101/1423944.md">11/1发烧关键 美大选「终局已定」？拜登丑闻声量爆表</a></li>
+<li><a href="/yule/20201102/1424094.md">林青霞穿紧身登山服凸显身材 网友：老了仍是美女</a></li>
+<li><a href="/comments/20201101/1423951.md">刘锐绍：王岐山高调现身凸显体制不改革经济不行</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201102/1424395.md" target="_blank">诡异！悄悄通过验收 三峡工程验收委主任是谁？</a></li>
+<li><a href="/cbnews/20201102/1424394.md" target="_blank">中共密谋颠覆美国 汪洋为纽约统促会会长</a></li>
 <li><a href="/cbnews/20201102/1424378.md" target="_blank">名家专栏：为何拜登永不会成所有美国人总统</a></li>
 <li><a href="/cbnews/20201102/1424336.md" target="_blank">释何信号？中共推“家庭应急物资”清单惹猜测</a></li>
 <li><a href="/cbnews/20201102/1424256.md" target="_blank">NBC节目介绍了中共最害怕的纪录片</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201101/1423760.md" target="_blank">中国各地抗美煽情 热炒毛岸英 不提蛋炒饭</a></li>
 <li><a href="/cbnews/20201101/1423443.md" target="_blank">名家专栏：唯川普能解美国自我仇恨问题</a></li>
 <li><a href="/cbnews/20201101/1423735.md" target="_blank">美国海军世界第一 哪个国家能算第二第三</a></li>
-<li><a href="/cbnews/20201101/1423734.md" target="_blank">大陆明起进行第7次全国人口普查 普查表分为4类</a></li>
-<li><a href="/cbnews/20201101/1423733.md" target="_blank">中国威海市民居突然爆炸 造成1死3伤</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201102/1424401.md" target="_blank">土耳其总统贴台湾国旗感谢强震后关慰 遭中共施压下架</a></li>
+<li><a href="/comments/20201102/1424400.md" target="_blank">杏鲍菇最诱人的吃法-水煮杏鲍菇 麻辣鲜香 开胃下饭</a></li>
 <li><a href="/comments/20201102/1424370.md" target="_blank">覃永沛被押整一年 妻斥中共假法治打压异己</a></li>
 <li><a href="/comments/20201102/1424360.md" target="_blank">美中持续对决 东南亚国家选边站？</a></li>
 <li><a href="/comments/20201102/1424359.md" target="_blank">寿命短的男人，喝酒时常有的共性，若你都没有，恭喜你很健康</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201102/1424110.md" target="_blank">加州华人: 川普当选可带来正义、公平、讲道德的社会</a></li>
 <li><a href="/comments/20201102/1424109.md" target="_blank">鱼越大越有毒？明确鱼类食用守则，安心吃鱼吧</a></li>
 <li><a href="/comments/20201102/1424092.md" target="_blank">2020美国大选谁会赢？我来做民调</a></li>
-<li><a href="/comments/20201102/1424089.md" target="_blank">不愿篡改历史 法国取消与内蒙古合作展览</a></li>
-<li><a href="/comments/20201102/1424069.md" target="_blank">第二大脑：“肠胃”对人的影响超乎想像</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
