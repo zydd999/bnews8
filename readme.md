@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20201104/1425637.md">中共半官网已宣布川普获胜</a></li>
 <li><a href="/topimagenews/20201104/1425286.md">习近平势弱？恩师突露面 马云杠习？蚂蚁集团出大事 震撼 川普和无数美国人都拼了</a></li>
 <li><a href="/bannedvideo/20201104/1425366.md">【#美国大选精选】前线最新消息：共和党远超民主党，投票热烈创百年记录！</a></li>
+<li><a href="/cnnews/20201104/1425678.md">只剩7州没开完 川普213：238暂落后拜登“赢面大”</a></li>
 <li><a href="/cnnews/20201104/1425340.md">在河南安阳考察时“群众演员”造假 连李克强都不信</a></li>
 <li><a href="/topimagenews/20201104/1425620.md">快讯！川普发推：大胜</a></li>
 <li><a href="/bannedvideo/20201104/1425445.md">蚂蚁集团暂缓上市，马云怼上王岐山，悲剧了！背後是习近平和江泽民的再次较量--天钧政经</a></li>
 <li><a href="/cnnews/20201104/1425490.md">敏感时刻 川普大儿子发出一条意味深长的推文</a></li>
-<li><a href="/cnnews/20201104/1425678.md">只剩7州没开完 川普213：238暂落后拜登“赢面大”</a></li>
-<li><a href="/ssgc/20201104/1425373.md">〖兲朝浮世绘〗所有人都高估了习近平的心胸</a></li>
 <li><a href="/topimagenews/20201104/1425724.md">马云被喝停：蚂蚁人仰马翻 高层内斗 重击马云3个要害 约谈内容流出重启上市无期</a></li>
+<li><a href="/ssgc/20201104/1425373.md">〖兲朝浮世绘〗所有人都高估了习近平的心胸</a></li>
 <li><a href="/cbnews/20201104/1425523.md">萧铭：2020美国大选日直播</a></li>
+<li><a href="/cnnews/20201104/1425681.md">美国大选决战时刻宾州突喊停 拖至周五</a></li>
 <li><a href="/cnnews/20201104/1425539.md">4年前一幕重演？川普领先0.8% 团队一片欢呼</a></li>
 <li><a href="/cnnews/20201104/1425632.md">推特疯了！川普10分钟三条推文 给干掉了两条</a></li>
-<li><a href="/cnnews/20201104/1425681.md">美国大选决战时刻宾州突喊停 拖至周五</a></li>
-<li><a href="/cnnews/20201104/1425576.md">川普优势渐显！关键三州 其中一州已翻红</a></li>
 <li><a href="/taiwannews/20201104/1425692.md">美国大选突变 川普彭斯宣布：大选获胜直接上告最高法院 1-2</a></li>
+<li><a href="/cnnews/20201104/1425576.md">川普优势渐显！关键三州 其中一州已翻红</a></li>
 <li><a href="/cbnews/20201104/1425671.md">美国大选开票 中共官方民间反响两重天</a></li>
 <li><a href="/worldnews/usa/20201104/1425247.md">最后的演讲！川普提前宣布了胜利，并“公布”了自己的舞姿…更多商店忙着钉木板防暴</a></li>
 <li><a href="/cbnews/20201104/1425398.md">惊爆：WHO与中共签订秘密协议</a></li>
-<li><a href="/cbnews/20201104/1425557.md">视频：福建边防军人被强拆，边防军出兵抓捕强拆队</a></li>
 <li><a href="/cbnews/20201104/1425655.md">江泽民内部讲话：邓小平去世是“大喜事” 江泽民对邓家下狠手</a></li>
+<li><a href="/cbnews/20201104/1425557.md">视频：福建边防军人被强拆，边防军出兵抓捕强拆队</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
