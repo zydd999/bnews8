@@ -8,11 +8,11 @@
 <li><a href="/topimagenews/20201104/1425235.md">川普大胜迹象多 过400票？最新！民主党王牌改口了 川普放信号 左派寄望...</a></li>
 <li><a href="/cnnews/20201104/1425386.md">李克强河南考察 意外发生了 持续了20秒…</a></li>
 <li><a href="/topimagenews/20201103/1425096.md">习近平被揭承认承诺落空 中共透真实窘境王毅失业？ 孟晚舟案会翻盘吗？</a></li>
-<li><a href="/topimagenews/20201104/1425286.md">习近平势弱？恩师突露面 马云杠习？蚂蚁集团出大事 震撼 川普和无数美国人都拼了</a></li>
 <li><a href="/topimagenews/20201104/1425637.md">中共半官网已宣布川普获胜</a></li>
+<li><a href="/topimagenews/20201104/1425286.md">习近平势弱？恩师突露面 马云杠习？蚂蚁集团出大事 震撼 川普和无数美国人都拼了</a></li>
 <li><a href="/bannedvideo/20201104/1425366.md">【#美国大选精选】前线最新消息：共和党远超民主党，投票热烈创百年记录！</a></li>
-<li><a href="/cnnews/20201104/1425340.md">在河南安阳考察时“群众演员”造假 连李克强都不信</a></li>
 <li><a href="/topimagenews/20201104/1425620.md">快讯！川普发推：大胜</a></li>
+<li><a href="/cnnews/20201104/1425340.md">在河南安阳考察时“群众演员”造假 连李克强都不信</a></li>
 <li><a href="/cnnews/20201104/1425490.md">敏感时刻 川普大儿子发出一条意味深长的推文</a></li>
 <li><a href="/bannedvideo/20201104/1425445.md">蚂蚁集团暂缓上市，马云怼上王岐山，悲剧了！背後是习近平和江泽民的再次较量--天钧政经</a></li>
 <li><a href="/ssgc/20201104/1425373.md">〖兲朝浮世绘〗所有人都高估了习近平的心胸</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/cnnews/20201104/1425539.md">4年前一幕重演？川普领先0.8% 团队一片欢呼</a></li>
 <li><a href="/cnnews/20201104/1425576.md">川普优势渐显！关键三州 其中一州已翻红</a></li>
 <li><a href="/cnnews/20201104/1425632.md">推特疯了！川普10分钟三条推文 给干掉了两条</a></li>
+<li><a href="/cnnews/20201104/1425678.md">只剩7州没开完 川普213：238暂落后拜登“赢面大”</a></li>
 <li><a href="/worldnews/usa/20201104/1425247.md">最后的演讲！川普提前宣布了胜利，并“公布”了自己的舞姿…更多商店忙着钉木板防暴</a></li>
 <li><a href="/cbnews/20201104/1425398.md">惊爆：WHO与中共签订秘密协议</a></li>
-<li><a href="/cnnews/20201104/1425678.md">只剩7州没开完 川普213：238暂落后拜登“赢面大”</a></li>
+<li><a href="/topimagenews/20201104/1425724.md">马云被喝停：蚂蚁人仰马翻 高层内斗 重击马云3个要害 约谈内容流出重启上市无期</a></li>
 <li><a href="/cbnews/20201104/1425557.md">视频：福建边防军人被强拆，边防军出兵抓捕强拆队</a></li>
 <li><a href="/cnnews/20201104/1425369.md">中共如何严格控管美国大选信息？</a></li>
 <li><a href="/cbnews/20201104/1425606.md">陈破空：美国大选日午夜，陈破空率先宣布：川普胜了！拜登败了。美国赢了！中共输了。左媒惨遭打脸</a></li>
-<li><a href="/headline/20201104/1425224.md">蚂蚁上市突然被叫停，官民争斗使蚂蚁金服秒变“马已经服”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
 
 </ul>
 </div>
