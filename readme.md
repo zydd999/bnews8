@@ -18,11 +18,11 @@
 <li><a href="/cnnews/20201104/1425539.md">4年前一幕重演？川普领先0.8% 团队一片欢呼</a></li>
 <li><a href="/cbnews/20201104/1425760.md">美国大选川普赢了，中国微信群很多人要喝酒庆祝！</a></li>
 <li><a href="/cbnews/20201104/1425655.md">江泽民内部讲话：邓小平去世是“大喜事” 江泽民对邓家下狠手</a></li>
-<li><a href="/cnnews/20201104/1425632.md">推特疯了！川普10分钟三条推文 给干掉了两条</a></li>
 <li><a href="/cbnews/20201104/1425671.md">美国大选开票 中共官方民间反响两重天</a></li>
+<li><a href="/cnnews/20201104/1425632.md">推特疯了！川普10分钟三条推文 给干掉了两条</a></li>
 <li><a href="/cnnews/20201104/1425576.md">川普优势渐显！关键三州 其中一州已翻红</a></li>
-<li><a href="/cnnews/20201105/1425876.md">密西根州局势被逆转 川普：好奇怪一个接一个神奇地消失</a></li>
 <li><a href="/topimagenews/20201104/1425824.md">李克强出门1趟撞2档子事 这视频火了！4人训斥马云 小粉红道士报复要曝性丑闻</a></li>
+<li><a href="/cnnews/20201105/1425876.md">密西根州局势被逆转 川普：好奇怪一个接一个神奇地消失</a></li>
 <li><a href="/cbnews/20201104/1425557.md">视频：福建边防军人被强拆，边防军出兵抓捕强拆队</a></li>
 <li><a href="/worldnews/usa/20201104/1425247.md">最后的演讲！川普提前宣布了胜利，并“公布”了自己的舞姿…更多商店忙着钉木板防暴</a></li>
 <li><a href="/cnnews/20201105/1425884.md">川普胜选被偷走？ 79天混乱动荡期开始？ 民主党政变能否成功？</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201105/1425768.md" target="_blank">又现异象 内蒙 沈阳同现“三日横空”</a></li>
+<li><a href="/cbnews/20201105/1425901.md" target="_blank">川普赢了，美国却输了…苦战之后一些州长还在忙着作弊和拖延，总统在白宫发声…</a></li>
 <li><a href="/cbnews/20201105/1426035.md" target="_blank">陈破空：事态诡异！拜登半夜开口，计票突然翻盘！特朗普展开法律行动。左媒假民调穿帮</a></li>
 <li><a href="/cbnews/20201105/1426030.md" target="_blank">文昭：拜登反超胜出？川普不干法庭见！争议升温疑云起；选举难产和川普落败以後都会发生什麽？</a></li>
 <li><a href="/cbnews/20201105/1426006.md" target="_blank">四个自信？中共内部文件泄实情 涉全方位监控学生手段</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201104/1425606.md" target="_blank">陈破空：美国大选日午夜，陈破空率先宣布：川普胜了！拜登败了。美国赢了！中共输了。左媒惨遭打脸</a></li>
 <li><a href="/cbnews/20201104/1425562.md" target="_blank">文昭、公子沈、悉尼奶爸：总统大选后，美中关系是打？是和？ | 三权合一</a></li>
 <li><a href="/cbnews/20201104/1425570.md" target="_blank">中南海“关心”美国大选 看看党媒如何宣传</a></li>
-<li><a href="/cbnews/20201104/1425569.md" target="_blank">韩情报机构：朝鲜正建造2艘可载潜射导弹潜艇</a></li>
-<li><a href="/cbnews/20201104/1425568.md" target="_blank">中国82岁老人第三次结婚！他见妻子胎记泪崩…</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201105/1426064.md" target="_blank">【东方纵横】中美南海对决</a></li>
+<li><a href="/comments/20201105/1426060.md" target="_blank">新当选的25岁联邦众议员：全新的共和党时代到来了</a></li>
+<li><a href="/comments/20201105/1426050.md" target="_blank">汪浩：为什么数以百万计的美国人这么爱川普？</a></li>
+<li><a href="/comments/20201105/1426049.md" target="_blank">二大爷：世纪选战之后美国何去何从？</a></li>
 <li><a href="/comments/20201105/1426043.md" target="_blank">【东方纵横】大选舞弊 阴影重重</a></li>
 <li><a href="/comments/20201105/1426033.md" target="_blank">解局：马云要倒？盛宴收场 中南海混战四大悬疑</a></li>
 <li><a href="/comments/20201105/1426028.md" target="_blank">史前艺术巅峰之作:5亿年前的壁画，史前文明的力证？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201105/1425885.md" target="_blank">评论 | 陈光诚：美国绥靖政策若重返 世界前景不堪设想</a></li>
 <li><a href="/comments/20201105/1425873.md" target="_blank">日本漫画猫主的灵感~猫咪与面包</a></li>
 <li><a href="/comments/20201104/1425841.md" target="_blank">英国康沃尔郡海滩拍摄到白色UFO？以惊人的速度直升云层</a></li>
-<li><a href="/comments/20201104/1425840.md" target="_blank">时事大家谈美国大选特别节目：选举终结悬念未尽：专家解析目前大选结果</a></li>
-<li><a href="/comments/20201104/1425800.md" target="_blank">【华府看天下】北京空想拜登胜出 美对华政策「拨乱反正」</a></li>
-<li><a href="/comments/20201104/1425779.md" target="_blank">恐袭在维也纳：独行枪手为IS恐怖分子 5名死者有华人</a></li>
-<li><a href="/comments/20201104/1425775.md" target="_blank">【未普评论】定于一尊的春秋大梦——从五中全会谈起</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
