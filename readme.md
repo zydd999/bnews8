@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20201105/1425898.md">川普稳赢历翻天覆地一夜 民主党阵营大量选举欺诈 推特疯了！狂删川普推文</a></li>
 <li><a href="/topimagenews/20201105/1426135.md">惊人预测！“戌月末拜登宣布当选 亥月初被川普…” 3月前铁口直断网络疯传</a></li>
 <li><a href="/cnnews/20201105/1426055.md">美国史无前例的一幕！一分钟之内发生的事惹恼亿万人</a></li>
-<li><a href="/cbnews/20201104/1425760.md">美国大选川普赢了，中国微信群很多人要喝酒庆祝！</a></li>
 <li><a href="/cbnews/20201105/1425901.md">川普赢了，美国却输了…苦战之后一些州长还在忙着作弊和拖延，总统在白宫发声…</a></li>
 <li><a href="/topimagenews/20201104/1425824.md">李克强出门1趟撞2档子事 这视频火了！4人训斥马云 小粉红道士报复要曝性丑闻</a></li>
 <li><a href="/cnnews/20201105/1425876.md">密西根州局势被逆转 川普：好奇怪一个接一个神奇地消失</a></li>
@@ -16,16 +15,17 @@
 <li><a href="/bannedvideo/20201105/1425927.md">民主党用选举作弊搞夺权政变！美国民主制度危在旦夕！纳姐邀请老安女士来一起分析昨天的大选惊奇</a></li>
 <li><a href="/cbnews/20201105/1426006.md">四个自信？中共内部文件泄实情 涉全方位监控学生手段</a></li>
 <li><a href="/bannedvideo/20201105/1426165.md">国家耻辱！拜登盗取大选结果？官媒反水了？新浪率先公布川普连任！大陆民众没票也关注！美国大选是“正邪较量”引共鸣《希望看新闻》</a></li>
-<li><a href="/cnnews/hknews/20201105/1425935.md">拜登当选若失智由贺锦丽接任美国总统?吕秀莲:台湾会面临很大危机</a></li>
 <li><a href="/cnnews/20201105/1426190.md">还有60万票没开！川普若「拿下58%」有望翻盘亚利桑那</a></li>
+<li><a href="/cnnews/hknews/20201105/1425935.md">拜登当选若失智由贺锦丽接任美国总统?吕秀莲:台湾会面临很大危机</a></li>
 <li><a href="/cbnews/20201105/1426030.md">文昭：拜登反超胜出？川普不干法庭见！争议升温疑云起；选举难产和川普落败以後都会发生什麽？</a></li>
 <li><a href="/cbnews/20201105/1426091.md">天亮时分：选情大逆转，未来78天可能发生的事（政论天下第266集 20201104）</a></li>
 <li><a href="/ssgc/20201105/1425987.md">〖兲朝浮世绘〗先富的必须带动后富的，不愿意不行</a></li>
+<li><a href="/cbnews/20201105/1426228.md">中共红二代压倒性力挺川普 因为他能制约习近平</a></li>
 <li><a href="/bannedvideo/20201105/1426092.md">拜登选票舞弊证据曝光；质疑选票违法川普已诉诸法庭；希望之声美国大选直播流量210万网评第一【希望看新闻】</a></li>
 <li><a href="/cnnews/20201105/1426105.md">川普开票先盛后衰一夜变色 美前官员揭重大疑点…</a></li>
+<li><a href="/cnnews/20201105/1426244.md">当妈后感觉不是人:被公公盯着喂奶、强捏乳头</a></li>
 <li><a href="/cnnews/20201105/1425903.md">川普要大赢了？希拉里「深夜突发」败选贴文：别灰心丧志</a></li>
 <li><a href="/taiwannews/20201104/1425796.md">独！最终决战！美国大选大势底定？！川普预测拿306选举票！民主党与工人阶级脱节！美国务院大选当天核准售台4架MQ-9无人机！【年代向钱看】20201104</a></li>
-<li><a href="/cbnews/20201105/1426228.md">中共红二代压倒性力挺川普 因为他能制约习近平</a></li>
 <li><a href="/cbnews/20201105/1425969.md">拜登选情告急 胡锡进急了 大骂美国民调机构</a></li>
 <li><a href="/comments/20201105/1426033.md">解局：马云要倒？盛宴收场 中南海混战四大悬疑</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
