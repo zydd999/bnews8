@@ -16,17 +16,17 @@
 <li><a href="/topimagenews/20201106/1426512.md">美最高法院出手了 华人发现威州突变蓝谜底 10种作弊信号蓝州有9个</a></li>
 <li><a href="/cnnews/20201105/1426375.md">咋办？川普团队发现大规模欺诈 美大选博弈 有个输家定了 史无前例一幕惹怒亿万人</a></li>
 <li><a href="/cbnews/20201105/1426091.md">天亮时分：选情大逆转，未来78天可能发生的事（政论天下第266集 20201104）</a></li>
+<li><a href="/cnnews/20201106/1426587.md">令计划儿子令谷命丧北四环保福寺桥內幕</a></li>
 <li><a href="/cnnews/20201105/1426105.md">川普开票先盛后衰一夜变色 美前官员揭重大疑点…</a></li>
 <li><a href="/bannedvideo/20201105/1426092.md">拜登选票舞弊证据曝光；质疑选票违法川普已诉诸法庭；希望之声美国大选直播流量210万网评第一【希望看新闻】</a></li>
 <li><a href="/comments/20201105/1426215.md">爆料：美民主党与FBI勾结 利用隐蔽程序操控选票</a></li>
 <li><a href="/cnnews/20201105/1426303.md">中学生物理竞赛 这省独得20金 颁奖现场糗了</a></li>
-<li><a href="/cnnews/20201106/1426587.md">令计划儿子令谷命丧北四环保福寺桥內幕</a></li>
 <li><a href="/baitai/20201106/1426465.md">贺锦丽即将成为美国历史上第一位女总统，这让希拉里情何以堪？</a></li>
 <li><a href="/bannedvideo/20201105/1426238.md">选举大翻转，拜登反超川普，美国进入宪政危机。会发生内战吗？</a></li>
 <li><a href="/cnnews/20201105/1426320.md">为何质疑选票真实性 川普团队揭露主要疑点</a></li>
 <li><a href="/cnnews/20201105/1426258.md">亚利桑那州格伦代尔发现18张被盗选票</a></li>
-<li><a href="/cnnews/20201105/1426083.md">中共指示奏效？看看川普都经历了什么</a></li>
 <li><a href="/bannedvideo/20201106/1426522.md">《石涛聚焦》「美国选举政变：刚刚发生！川普宾州取得重大法律胜利」高法许可15名律师进入宾州费城选票中心「前佛州总检察长：发现1张非法选票 废掉宾州」川普：挑战所有选举欺诈！我们必将取胜！（05/11）</a></li>
+<li><a href="/finance/20201106/1426527.md">习近平追杀马云！？阻蚂蚁金服IPO上市 专家曝关键原因</a></li>
 <li><a href="/ssgc/20201105/1426454.md">北京，你就准备脱钩吧</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201106/1426644.md" target="_blank">大连富二代露心理死穴被诈2236万 老同学穿帮判无期徒刑</a></li>
 <li><a href="/cbnews/20201106/1426633.md" target="_blank">大爷大妈自制「吸钱神器」 灵车路过即冲出马路抢钱</a></li>
 <li><a href="/cbnews/20201106/1426594.md" target="_blank">文昭：川普在宾州诉讼获得突破！大选「加时赛」正式开打；事实线索的核查、和「川黑」的心结</a></li>
 <li><a href="/cbnews/20201106/1426592.md" target="_blank">陈破空：大量疑点！拜登一夜翻盘有猫腻。希拉里和佩罗西说话露底？党媒大合唱：世上只有太监好</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201105/1425901.md" target="_blank">川普赢了，美国却输了…苦战之后一些州长还在忙着作弊和拖延，总统在白宫发声…</a></li>
 <li><a href="/cbnews/20201105/1426035.md" target="_blank">陈破空：事态诡异！拜登半夜开口，计票突然翻盘！特朗普展开法律行动。左媒假民调穿帮</a></li>
 <li><a href="/cbnews/20201105/1426030.md" target="_blank">文昭：拜登反超胜出？川普不干法庭见！争议升温疑云起；选举难产和川普落败以後都会发生什麽？</a></li>
-<li><a href="/cbnews/20201105/1426006.md" target="_blank">四个自信？中共内部文件泄实情 涉全方位监控学生手段</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201106/1426656.md" target="_blank">一剑飘尘：美国大选——屠龙刀对倚天剑 光明顶大决战</a></li>
+<li><a href="/comments/20201106/1426655.md" target="_blank">第一次见国人有如此大政治热情 今年最魔幻的朋友圈</a></li>
 <li><a href="/comments/20201106/1426640.md" target="_blank">加拿大驻港总领事：已备妥撤离30万在港侨民方案</a></li>
 <li><a href="/comments/20201106/1426630.md" target="_blank">拜登一夜之间反超川普 澳议员：美大选肯定舞弊</a></li>
 <li><a href="/comments/20201106/1426616.md" target="_blank">数个摇摆州明显舞弊？多方预测川普胜选概率大</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201105/1426450.md" target="_blank">年纪轻轻领悟人生大自在</a></li>
 <li><a href="/comments/20201105/1426449.md" target="_blank">时事大家谈：美国大选对世界和中国意味着什么？</a></li>
 <li><a href="/comments/20201105/1426432.md" target="_blank">常喝「这碗汤」 大肠癌风险降22％</a></li>
-<li><a href="/comments/20201105/1426431.md" target="_blank">名医认证最好的助眠菜单！晚餐竟更要这个才能一夜好眠</a></li>
-<li><a href="/comments/20201105/1426367.md" target="_blank">【选情更新11/5】选战变法律战！川普战场州提起多项诉讼</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
