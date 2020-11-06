@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20201106/1426587.md">令计划儿子令谷命丧北四环保福寺桥內幕</a></li>
 <li><a href="/topimagenews/20201106/1426741.md">意义重大！参议院共和党议员们集体声明 力挺川普</a></li>
 <li><a href="/cnnews/20201106/1426660.md">智商爆表帖出现：拜登团队造假的比较糙！他们万万没想到…</a></li>
-<li><a href="/topimagenews/20201106/1426575.md">川普誓言发起「法律挑战」推文宣布：拜登声称拿下的州 我们都要告</a></li>
 <li><a href="/cnnews/20201106/1426781.md">福克斯名嘴大选感言：不幸之中大幸 我们保住了美国</a></li>
 <li><a href="/cnnews/20201106/1426770.md">川普竞选团队： 11月6日会有川普获胜的清晰消息</a></li>
 <li><a href="/cnnews/20201106/1426865.md">这件事 习近平罕见认怂 马云问题在这!啥时知道? 蚂蚁走向何方?谁最苦？</a></li>
@@ -22,6 +21,7 @@
 <li><a href="/taiwannews/20201106/1426908.md">2020.11.06｜美国总统大选胜负未定，但已看见输赢！谁是输家？谁是赢家？｜童温层</a></li>
 <li><a href="/cbnews/20201106/1426765.md">萧铭：川普胜利的最後通道？</a></li>
 <li><a href="/baitai/20201106/1426803.md">世界上最强大也最成熟的宪政国家，可以造假选票让输家荣登总统宝座！？</a></li>
+<li><a href="/topimagenews/20201107/1427028.md">拜登说句大实话大家都不信？ 戌月末预言今天应验一半？ 爆料潮！美邮局又来一个</a></li>
 <li><a href="/topimagenews/20201106/1426787.md">2020美国大选：不是宫斗剧 而是价值观之战 正与邪的最后较量</a></li>
 <li><a href="/bannedvideo/20201106/1426846.md">🈲惊天阴谋👁️共产邪恶利用民主党为了选票而设的坑，引来毁灭的大火，企图与全人类同归于尽❗1千年前的预言正在兑现❗❗</a></li>
 <li><a href="/bannedvideo/20201106/1426811.md">美国大选法律战进入白热化！更多证据曝光!中国章鱼哥现身网络，神在考验我们的信心和耐心？</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201107/1427137.md" target="_blank">吹哨人揭宾州邮局舞弊 前检查官说宾州州长违宪 川普转推</a></li>
 <li><a href="/comments/20201107/1427109.md" target="_blank">川普周五发布声明：为美国而战 永不言弃</a></li>
 <li><a href="/comments/20201107/1427101.md" target="_blank">不敢相信眼前的事！民主党监票员：费城高层太腐败</a></li>
 <li><a href="/comments/20201107/1427100.md" target="_blank">中共央行：数字人民币尚无正式推出时间表</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201106/1426911.md" target="_blank">英国封锁前最后一刻 民众上演「逃跑」桥段</a></li>
 <li><a href="/comments/20201106/1426906.md" target="_blank">印度再接收3架飙风战机 两场军演并行 示威中共</a></li>
 <li><a href="/comments/20201106/1426902.md" target="_blank">喝酒减压 救难英雄愁更愁</a></li>
-<li><a href="/comments/20201106/1426839.md" target="_blank">帛琉富商惠恕仁可望当选总统 继续秉持友台政策</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 <li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 
 </ul>
 </div>
