@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20201106/1426546.md">画面太残忍！阿塞拜疆虐杀战俘现场视频曝光</a></li>
 <li><a href="/cnnews/20201106/1426770.md">川普竞选团队： 11月6日会有川普获胜的清晰消息</a></li>
 <li><a href="/cnnews/20201106/1426571.md">调查邮寄选票诈欺 外媒曝美司法部允许武装联邦特工进入投票站</a></li>
-<li><a href="/bannedvideo/20201106/1426522.md">《石涛聚焦》「美国选举政变：刚刚发生！川普宾州取得重大法律胜利」高法许可15名律师进入宾州费城选票中心「前佛州总检察长：发现1张非法选票 废掉宾州」川普：挑战所有选举欺诈！我们必将取胜！（05/11）</a></li>
 <li><a href="/cnnews/20201106/1426706.md">川普发表讲话：选举被大媒体、大财团和大科技公司介入 遭3家媒体中断直播</a></li>
+<li><a href="/bannedvideo/20201106/1426522.md">《石涛聚焦》「美国选举政变：刚刚发生！川普宾州取得重大法律胜利」高法许可15名律师进入宾州费城选票中心「前佛州总检察长：发现1张非法选票 废掉宾州」川普：挑战所有选举欺诈！我们必将取胜！（05/11）</a></li>
 <li><a href="/cbnews/20201106/1426594.md">文昭：川普在宾州诉讼获得突破！大选「加时赛」正式开打；事实线索的核查、和「川黑」的心结</a></li>
 <li><a href="/cnnews/20201106/1426545.md">6 620人呈阳性 中国爆发大规模布鲁氏菌感染事件</a></li>
 <li><a href="/ssgc/20201105/1426454.md">北京，你就准备脱钩吧</a></li>
+<li><a href="/cnnews/20201106/1426810.md">视频为证！看看他们在干嘛？</a></li>
 <li><a href="/cnnews/20201106/1426542.md">川普法律战首胜！宾州最高法院批准计票暂停</a></li>
-<li><a href="/bannedvideo/20201106/1426525.md">大选舞弊！机器做票证据曝光；幽灵票引发民间抗议 执法部门拟介入；大选夜的阴谋 暴乱幽灵票</a></li>
 <li><a href="/health/20201106/1426797.md">超过8小时别吃！医生曝「这种蔬菜」特别容易致癌</a></li>
+<li><a href="/bannedvideo/20201106/1426525.md">大选舞弊！机器做票证据曝光；幽灵票引发民间抗议 执法部门拟介入；大选夜的阴谋 暴乱幽灵票</a></li>
 <li><a href="/ssgc/20201106/1426564.md">〖兲朝浮世绘〗人不够鬼来凑 死人都来为拜登投票了</a></li>
-<li><a href="/cbnews/20201106/1426666.md">天亮时分：四州提告，为什么川普必须胜选？为什么真相比胜选更加重要？（政论天下第267集 20201105）</a></li>
-<li><a href="/bannedvideo/20201106/1426659.md">川普连吿五州；抗议大选舞弊，纽约示威游行；拜登若胜选，恐将一事无成；顺丰快递涉大选舞弊？知名主播质疑四大疑点；内斗延烧外交部，中共突换12大使【 大纪元 新闻看点11.05】最新中国新闻</a></li>
+<li><a href="/cnnews/20201106/1426865.md">这件事 习近平罕见认怂 马云问题在这!啥时知道? 蚂蚁走向何方?谁最苦？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
