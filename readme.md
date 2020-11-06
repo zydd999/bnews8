@@ -6,8 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201105/1426135.md">惊人预测！“戌月末拜登宣布当选 亥月初被川普…” 3月前铁口直断网络疯传</a></li>
-<li><a href="/cnnews/20201105/1426055.md">美国史无前例的一幕！一分钟之内发生的事惹恼亿万人</a></li>
-<li><a href="/cbnews/20201105/1425901.md">川普赢了，美国却输了…苦战之后一些州长还在忙着作弊和拖延，总统在白宫发声…</a></li>
 <li><a href="/topimagenews/20201105/1426317.md">马云彻底翻车？这水到底多深？淘宝已被监察 蚂蚁因祸得福？掀万亿退款 马云暴跌30亿美元</a></li>
 <li><a href="/cnnews/20201105/1426302.md">美最高法院出手！命宾州民主党对选票逾期做出回应</a></li>
 <li><a href="/cnnews/20201105/1426244.md">当妈后感觉不是人:被公公盯着喂奶、强捏乳头</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/bannedvideo/20201105/1426092.md">拜登选票舞弊证据曝光；质疑选票违法川普已诉诸法庭；希望之声美国大选直播流量210万网评第一【希望看新闻】</a></li>
 <li><a href="/comments/20201105/1426215.md">爆料：美民主党与FBI勾结 利用隐蔽程序操控选票</a></li>
 <li><a href="/cnnews/20201105/1426303.md">中学生物理竞赛 这省独得20金 颁奖现场糗了</a></li>
-<li><a href="/bannedvideo/20201105/1426238.md">选举大翻转，拜登反超川普，美国进入宪政危机。会发生内战吗？</a></li>
+<li><a href="/cnnews/20201106/1426587.md">令计划儿子令谷命丧北四环保福寺桥內幕</a></li>
 <li><a href="/baitai/20201106/1426465.md">贺锦丽即将成为美国历史上第一位女总统，这让希拉里情何以堪？</a></li>
+<li><a href="/bannedvideo/20201105/1426238.md">选举大翻转，拜登反超川普，美国进入宪政危机。会发生内战吗？</a></li>
 <li><a href="/cnnews/20201105/1426320.md">为何质疑选票真实性 川普团队揭露主要疑点</a></li>
 <li><a href="/cnnews/20201105/1426258.md">亚利桑那州格伦代尔发现18张被盗选票</a></li>
-<li><a href="/cnnews/20201106/1426587.md">令计划儿子令谷命丧北四环保福寺桥內幕</a></li>
 <li><a href="/cnnews/20201105/1426083.md">中共指示奏效？看看川普都经历了什么</a></li>
+<li><a href="/bannedvideo/20201106/1426522.md">《石涛聚焦》「美国选举政变：刚刚发生！川普宾州取得重大法律胜利」高法许可15名律师进入宾州费城选票中心「前佛州总检察长：发现1张非法选票 废掉宾州」川普：挑战所有选举欺诈！我们必将取胜！（05/11）</a></li>
+<li><a href="/ssgc/20201105/1426454.md">北京，你就准备脱钩吧</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201106/1426633.md" target="_blank">大爷大妈自制「吸钱神器」 灵车路过即冲出马路抢钱</a></li>
 <li><a href="/cbnews/20201106/1426594.md" target="_blank">文昭：川普在宾州诉讼获得突破！大选「加时赛」正式开打；事实线索的核查、和「川黑」的心结</a></li>
 <li><a href="/cbnews/20201106/1426592.md" target="_blank">陈破空：大量疑点！拜登一夜翻盘有猫腻。希拉里和佩罗西说话露底？党媒大合唱：世上只有太监好</a></li>
 <li><a href="/cbnews/20201106/1426568.md" target="_blank">纳瓦罗：美媒成中共“有用白痴” 民主党和中共形成邪恶联盟</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201105/1426035.md" target="_blank">陈破空：事态诡异！拜登半夜开口，计票突然翻盘！特朗普展开法律行动。左媒假民调穿帮</a></li>
 <li><a href="/cbnews/20201105/1426030.md" target="_blank">文昭：拜登反超胜出？川普不干法庭见！争议升温疑云起；选举难产和川普落败以後都会发生什麽？</a></li>
 <li><a href="/cbnews/20201105/1426006.md" target="_blank">四个自信？中共内部文件泄实情 涉全方位监控学生手段</a></li>
-<li><a href="/cbnews/20201105/1425969.md" target="_blank">拜登选情告急 胡锡进急了 大骂美国民调机构</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201106/1426640.md" target="_blank">加拿大驻港总领事：已备妥撤离30万在港侨民方案</a></li>
 <li><a href="/comments/20201106/1426630.md" target="_blank">拜登一夜之间反超川普 澳议员：美大选肯定舞弊</a></li>
 <li><a href="/comments/20201106/1426616.md" target="_blank">数个摇摆州明显舞弊？多方预测川普胜选概率大</a></li>
 <li><a href="/comments/20201106/1426598.md" target="_blank">蚂蚁上市被叫停 马云乱捅蜂窝闯大祸</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201105/1426432.md" target="_blank">常喝「这碗汤」 大肠癌风险降22％</a></li>
 <li><a href="/comments/20201105/1426431.md" target="_blank">名医认证最好的助眠菜单！晚餐竟更要这个才能一夜好眠</a></li>
 <li><a href="/comments/20201105/1426367.md" target="_blank">【选情更新11/5】选战变法律战！川普战场州提起多项诉讼</a></li>
-<li><a href="/comments/20201105/1426365.md" target="_blank">【杜耀明评论】法官坦白批评 警方污点露底</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 
 </ul>
 </div>
