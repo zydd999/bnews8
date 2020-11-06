@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201105/1426135.md">惊人预测！“戌月末拜登宣布当选 亥月初被川普…” 3月前铁口直断网络疯传</a></li>
 <li><a href="/topimagenews/20201105/1426317.md">马云彻底翻车？这水到底多深？淘宝已被监察 蚂蚁因祸得福？掀万亿退款 马云暴跌30亿美元</a></li>
 <li><a href="/cnnews/20201105/1426302.md">美最高法院出手！命宾州民主党对选票逾期做出回应</a></li>
 <li><a href="/cnnews/20201105/1426244.md">当妈后感觉不是人:被公公盯着喂奶、强捏乳头</a></li>
-<li><a href="/topimagenews/20201106/1426479.md">川普和共和党大反击来了 美中将曝民主党FBI用软件作弊 美媒曝密州邮局集体造假</a></li>
 <li><a href="/bannedvideo/20201105/1426165.md">国家耻辱！拜登盗取大选结果？官媒反水了？新浪率先公布川普连任！大陆民众没票也关注！美国大选是“正邪较量”引共鸣《希望看新闻》</a></li>
+<li><a href="/topimagenews/20201106/1426479.md">川普和共和党大反击来了 美中将曝民主党FBI用软件作弊 美媒曝密州邮局集体造假</a></li>
 <li><a href="/cbnews/20201105/1426228.md">中共红二代压倒性力挺川普 因为他能制约习近平</a></li>
-<li><a href="/cnnews/20201105/1426190.md">还有60万票没开！川普若「拿下58%」有望翻盘亚利桑那</a></li>
 <li><a href="/topimagenews/20201106/1426512.md">美最高法院出手了 华人发现威州突变蓝谜底 10种作弊信号蓝州有9个</a></li>
+<li><a href="/cnnews/20201105/1426190.md">还有60万票没开！川普若「拿下58%」有望翻盘亚利桑那</a></li>
 <li><a href="/cnnews/20201106/1426587.md">令计划儿子令谷命丧北四环保福寺桥內幕</a></li>
 <li><a href="/cnnews/20201105/1426375.md">咋办？川普团队发现大规模欺诈 美大选博弈 有个输家定了 史无前例一幕惹怒亿万人</a></li>
-<li><a href="/comments/20201105/1426215.md">爆料：美民主党与FBI勾结 利用隐蔽程序操控选票</a></li>
 <li><a href="/finance/20201106/1426527.md">习近平追杀马云！？阻蚂蚁金服IPO上市 专家曝关键原因</a></li>
+<li><a href="/comments/20201105/1426215.md">爆料：美民主党与FBI勾结 利用隐蔽程序操控选票</a></li>
 <li><a href="/cnnews/20201105/1426303.md">中学生物理竞赛 这省独得20金 颁奖现场糗了</a></li>
 <li><a href="/baitai/20201106/1426465.md">贺锦丽即将成为美国历史上第一位女总统，这让希拉里情何以堪？</a></li>
+<li><a href="/cnnews/20201106/1426546.md">画面太残忍！阿塞拜疆虐杀战俘现场视频曝光</a></li>
 <li><a href="/bannedvideo/20201105/1426238.md">选举大翻转，拜登反超川普，美国进入宪政危机。会发生内战吗？</a></li>
 <li><a href="/bannedvideo/20201106/1426522.md">《石涛聚焦》「美国选举政变：刚刚发生！川普宾州取得重大法律胜利」高法许可15名律师进入宾州费城选票中心「前佛州总检察长：发现1张非法选票 废掉宾州」川普：挑战所有选举欺诈！我们必将取胜！（05/11）</a></li>
 <li><a href="/cnnews/20201105/1426320.md">为何质疑选票真实性 川普团队揭露主要疑点</a></li>
 <li><a href="/cnnews/20201105/1426258.md">亚利桑那州格伦代尔发现18张被盗选票</a></li>
-<li><a href="/cnnews/20201106/1426546.md">画面太残忍！阿塞拜疆虐杀战俘现场视频曝光</a></li>
+<li><a href="/topimagenews/20201106/1426575.md">川普誓言发起「法律挑战」推文宣布：拜登声称拿下的州 我们都要告</a></li>
 <li><a href="/ssgc/20201105/1426454.md">北京，你就准备脱钩吧</a></li>
 <li><a href="/bannedvideo/20201105/1426456.md">【直播】川普在拉斯维加斯召开“重要声明”发布会（中文同声翻译）</a></li>
-<li><a href="/topimagenews/20201106/1426575.md">川普誓言发起「法律挑战」推文宣布：拜登声称拿下的州 我们都要告</a></li>
+<li><a href="/cnnews/20201106/1426545.md">6 620人呈阳性 中国爆发大规模布鲁氏菌感染事件</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201106/1426695.md" target="_blank">马云挑战王岐山？习追杀马云?背后靠山被掀一个</a></li>
+<li><a href="/comments/20201106/1426693.md" target="_blank">张万新:一向支持民主党的华裔 为什么改投川普？</a></li>
 <li><a href="/comments/20201106/1426678.md" target="_blank">陶杰：川普不是毛泽东 他是美国的齐天大圣</a></li>
 <li><a href="/comments/20201106/1426667.md" target="_blank">立冬到 营养师：冬令进补6件事务必注意</a></li>
 <li><a href="/comments/20201106/1426656.md" target="_blank">一剑飘尘：美国大选——屠龙刀对倚天剑 光明顶大决战</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201106/1426463.md" target="_blank">NASA“新视野”号拍摄到太阳系中最原始的天体 太阳系早期演化的谜团或将被揭开</a></li>
 <li><a href="/comments/20201105/1426453.md" target="_blank">美国大选火爆 中国商家抢注“特朗普——拜登”酒商标</a></li>
 <li><a href="/comments/20201105/1426452.md" target="_blank">民调遭两党批评失真 成最大输家</a></li>
-<li><a href="/comments/20201105/1426451.md" target="_blank">半年内美国仅向中国发放808份F-1签证 比去年下降99%</a></li>
-<li><a href="/comments/20201105/1426450.md" target="_blank">年纪轻轻领悟人生大自在</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
