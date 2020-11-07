@@ -12,21 +12,21 @@
 <li><a href="/bannedvideo/20201107/1427199.md">共和党刑事提告，乔治亚从新计票；爆料越来越多，知名主播收罪证；纽约邮报变节？民主党人惊呼政变；义乌厂长爆大料，全美川粉抗议；格雷厄姆捐50万，川普誓言捍卫公正【 大纪元 新闻看点11.06】中国新闻</a></li>
 <li><a href="/cbnews/20201107/1427365.md">多家美媒掐断川普讲话直播 网友微博回复亮了</a></li>
 <li><a href="/taiwannews/20201107/1427389.md">川普藏杀招？一剑封喉？</a></li>
-<li><a href="/cbnews/20201107/1427394.md">201107 拜登胜选 习近平稳了? 川普力挽狂澜 美选揭晓 成王败寇 川普力挽狂澜? 川普选战打得漂亮 美国政治翻新一页 最终结果悬未确定 全美多地爆示威</a></li>
 <li><a href="/cbnews/20201107/1427221.md">中共外交部回应双阴性证明措施 网民猛批：手段卑劣 可憎</a></li>
+<li><a href="/cbnews/20201107/1427394.md">201107 拜登胜选 习近平稳了? 川普力挽狂澜 美选揭晓 成王败寇 川普力挽狂澜? 川普选战打得漂亮 美国政治翻新一页 最终结果悬未确定 全美多地爆示威</a></li>
 <li><a href="/bannedvideo/20201107/1427412.md">川普在密歇根州壹个县计票翻盘领先！美高院裁定：宾州迟到选票分开单算；邮局第2吹哨人揭宾州迟到选票造假；川普：永不放弃为美国而战；谷歌操控信息 暗助民主党多得选票【希望看新闻】</a></li>
 <li><a href="/worldnews/20201107/1427276.md">美大选邮寄选票惊见顺丰快递 业者证实：从中国寄的</a></li>
-<li><a href="/cnnews/20201107/1427282.md">大主教三发公开信：深层政府早已提前武装好自己 以从事...</a></li>
 <li><a href="/topimagenews/20201108/1427517.md">惊爆 “密歇根州实际上川普大胜 摇摆州个个都是密歇根州” 大主教预言最后结局</a></li>
+<li><a href="/cnnews/20201107/1427282.md">大主教三发公开信：深层政府早已提前武装好自己 以从事...</a></li>
 <li><a href="/comments/20201107/1427396.md">重磅 软件修复后密安特里姆郡转红 七大摇摆州仍用该软件</a></li>
 <li><a href="/cnnews/hknews/20201107/1427357.md">政治困扰 香港中小学现退学潮</a></li>
 <li><a href="/bannedvideo/20201107/1427395.md">解密巴比伦大淫妇</a></li>
+<li><a href="/cnnews/20201108/1427508.md">川普霸气宣布：我赢得了总统大选 以很大的优势 将召开大型记者会</a></li>
 <li><a href="/lifebaike/20201107/1427129.md">邓小平杨尚昆为何分道扬镳？原来如此</a></li>
 <li><a href="/cnnews/20201107/1427319.md">英国拍摄到白色UFO？以惊人的速度直升云层</a></li>
-<li><a href="/cnnews/20201108/1427508.md">川普霸气宣布：我赢得了总统大选 以很大的优势 将召开大型记者会</a></li>
+<li><a href="/cbnews/20201108/1427515.md">福克斯主播：如果拜登胜选 将开启寡头时代</a></li>
 <li><a href="/cbnews/20201107/1426928.md">川普“复仇记”——戳破民主党大选舞弊的阴谋</a></li>
 <li><a href="/comments/20201107/1427335.md">中共官媒记者讽蓬佩奥“该找新工作了” 遭网友炮轰</a></li>
-<li><a href="/bannedvideo/20201107/1427435.md">川普为我们而战，我们也要为川普而战；奥马尔忙着购买选票，AOC忙着秋后算账；社会主义的下三滥正在摧残美国</a></li>
 <li><a href="/worldnews/usa/20201108/1427514.md">突发：民主党总统候选人拜登获273张选举人票 超过当选美国总统的270张门槛</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201108/1427588.md" target="_blank">前苏联解体与外星文明“天狼星人”有关？</a></li>
 <li><a href="/comments/20201108/1427583.md" target="_blank">川普支持者多州集会 抗议“选举舞弊”和“偷窃选举”</a></li>
 <li><a href="/comments/20201108/1427582.md" target="_blank">多州曝大选舞弊 川普起诉 律师建议更换司法部长</a></li>
 <li><a href="/comments/20201108/1427581.md" target="_blank">美国太阳谷滑雪度假村 2020/2021年度北美最佳滑雪胜地</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201107/1427333.md" target="_blank">惊！新冠会令智商下降，严重者可使大脑老化10年</a></li>
 <li><a href="/comments/20201107/1427317.md" target="_blank">一夜翻蓝：来自幽灵军团的选票</a></li>
 <li><a href="/comments/20201107/1427313.md" target="_blank">名家专栏：大选劫案 威州极高投票率的背后</a></li>
-<li><a href="/comments/20201107/1427312.md" target="_blank">【要闻精选】腐败全跳出来 西危机东闹剧 联合国倒出手</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
