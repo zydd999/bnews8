@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/headline/20201107/1427060.md">马云为何引起当局震怒？央行官员透露真相</a></li>
 <li><a href="/cnnews/20201107/1427246.md">快讯！美国最高法院保守派大法官发布命令…</a></li>
-<li><a href="/topimagenews/20201107/1427050.md">2摇摆州一夜变色 川普阵营发声明：尚未结束 总统将再度当选</a></li>
 <li><a href="/renquan/20201107/1427233.md">中共当局再度发出“打土豪”号令</a></li>
 <li><a href="/cnnews/20201107/1427112.md">上海进博会实拍：“盛大”召开 冷清展位 狂买粮食</a></li>
 <li><a href="/cbnews/20201107/1427151.md">宾州法院支持川普团队：逾期选票不予计算</a></li>
@@ -15,19 +13,21 @@
 <li><a href="/cbnews/20201107/1427365.md">多家美媒掐断川普讲话直播 网友微博回复亮了</a></li>
 <li><a href="/bannedvideo/20201107/1427199.md">共和党刑事提告，乔治亚从新计票；爆料越来越多，知名主播收罪证；纽约邮报变节？民主党人惊呼政变；义乌厂长爆大料，全美川粉抗议；格雷厄姆捐50万，川普誓言捍卫公正【 大纪元 新闻看点11.06】中国新闻</a></li>
 <li><a href="/taiwannews/20201107/1427389.md">川普藏杀招？一剑封喉？</a></li>
-<li><a href="/cbnews/20201107/1427221.md">中共外交部回应双阴性证明措施 网民猛批：手段卑劣 可憎</a></li>
 <li><a href="/cbnews/20201107/1427394.md">201107 拜登胜选 习近平稳了? 川普力挽狂澜 美选揭晓 成王败寇 川普力挽狂澜? 川普选战打得漂亮 美国政治翻新一页 最终结果悬未确定 全美多地爆示威</a></li>
+<li><a href="/cbnews/20201107/1427221.md">中共外交部回应双阴性证明措施 网民猛批：手段卑劣 可憎</a></li>
 <li><a href="/worldnews/20201107/1427276.md">美大选邮寄选票惊见顺丰快递 业者证实：从中国寄的</a></li>
+<li><a href="/bannedvideo/20201107/1427412.md">川普在密歇根州壹个县计票翻盘领先！美高院裁定：宾州迟到选票分开单算；邮局第2吹哨人揭宾州迟到选票造假；川普：永不放弃为美国而战；谷歌操控信息 暗助民主党多得选票【希望看新闻】</a></li>
 <li><a href="/cnnews/20201107/1427282.md">大主教三发公开信：深层政府早已提前武装好自己 以从事...</a></li>
 <li><a href="/cnnews/hknews/20201107/1427357.md">政治困扰 香港中小学现退学潮</a></li>
-<li><a href="/bannedvideo/20201107/1427412.md">川普在密歇根州壹个县计票翻盘领先！美高院裁定：宾州迟到选票分开单算；邮局第2吹哨人揭宾州迟到选票造假；川普：永不放弃为美国而战；谷歌操控信息 暗助民主党多得选票【希望看新闻】</a></li>
 <li><a href="/cnnews/20201107/1427104.md">叶玉卿女儿挺川普遭死亡威胁 喊话别攻击立场不同的人</a></li>
 <li><a href="/cbnews/20201107/1427113.md">专栏 | 夜话中南海：中共理论幕僚最高官至正部长级 王沪宁是唯一例外</a></li>
-<li><a href="/lifebaike/20201107/1427129.md">邓小平杨尚昆为何分道扬镳？原来如此</a></li>
 <li><a href="/comments/20201107/1427396.md">重磅 软件修复后密安特里姆郡转红 七大摇摆州仍用该软件</a></li>
-<li><a href="/bannedvideo/20201107/1427103.md">吹哨人频频出现 牧师预言：黑暗过后光明会来；中共偷拍拜登之子 拜登已与狼共舞；联合国被揭大丑闻：向中共提供黑名单</a></li>
+<li><a href="/lifebaike/20201107/1427129.md">邓小平杨尚昆为何分道扬镳？原来如此</a></li>
 <li><a href="/bannedvideo/20201107/1427395.md">解密巴比伦大淫妇</a></li>
+<li><a href="/bannedvideo/20201107/1427103.md">吹哨人频频出现 牧师预言：黑暗过后光明会来；中共偷拍拜登之子 拜登已与狼共舞；联合国被揭大丑闻：向中共提供黑名单</a></li>
 <li><a href="/cnnews/20201107/1427319.md">英国拍摄到白色UFO？以惊人的速度直升云层</a></li>
+<li><a href="/cbnews/20201107/1426928.md">川普“复仇记”——戳破民主党大选舞弊的阴谋</a></li>
+<li><a href="/comments/20201107/1427101.md">不敢相信眼前的事！民主党监票员：费城高层太腐败</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 
 </ul>
 </div>
