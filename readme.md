@@ -10,12 +10,11 @@
 <li><a href="/topimagenews/20201108/1427517.md">惊爆 “密歇根州实际上川普大胜 摇摆州个个都是密歇根州” 大主教预言最后结局</a></li>
 <li><a href="/cbnews/20201107/1427365.md">多家美媒掐断川普讲话直播 网友微博回复亮了</a></li>
 <li><a href="/cbnews/20201107/1427394.md">201107 拜登胜选 习近平稳了? 川普力挽狂澜 美选揭晓 成王败寇 川普力挽狂澜? 川普选战打得漂亮 美国政治翻新一页 最终结果悬未确定 全美多地爆示威</a></li>
-<li><a href="/cbnews/20201107/1427221.md">中共外交部回应双阴性证明措施 网民猛批：手段卑劣 可憎</a></li>
 <li><a href="/taiwannews/20201107/1427389.md">川普藏杀招？一剑封喉？</a></li>
+<li><a href="/topimagenews/20201108/1427556.md">川普大胜被偷谜底终曝光 原来手眼通天到她他他 习近平也卷入？必须的？</a></li>
 <li><a href="/worldnews/20201107/1427276.md">美大选邮寄选票惊见顺丰快递 业者证实：从中国寄的</a></li>
 <li><a href="/cnnews/20201108/1427508.md">川普霸气宣布：我赢得了总统大选 以很大的优势 将召开大型记者会</a></li>
 <li><a href="/bannedvideo/20201107/1427412.md">川普在密歇根州壹个县计票翻盘领先！美高院裁定：宾州迟到选票分开单算；邮局第2吹哨人揭宾州迟到选票造假；川普：永不放弃为美国而战；谷歌操控信息 暗助民主党多得选票【希望看新闻】</a></li>
-<li><a href="/topimagenews/20201108/1427556.md">川普大胜被偷谜底终曝光 原来手眼通天到她他他 习近平也卷入？必须的？</a></li>
 <li><a href="/cbnews/20201108/1427515.md">福克斯主播：如果拜登胜选 将开启寡头时代</a></li>
 <li><a href="/worldnews/usa/20201108/1427514.md">突发：民主党总统候选人拜登获273张选举人票 超过当选美国总统的270张门槛</a></li>
 <li><a href="/cnnews/20201107/1427282.md">大主教三发公开信：深层政府早已提前武装好自己 以从事...</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/bannedvideo/20201108/1427503.md">重磅作弊证据曝光，拜登遭重挫胜选演讲被迫推迟；独家分析：它们急于冒险的三大原因</a></li>
 <li><a href="/cnnews/hknews/20201107/1427357.md">政治困扰 香港中小学现退学潮</a></li>
 <li><a href="/cnnews/20201108/1427506.md">震惊中国三千多家上市公司全造假 马云引习近平震怒?官员披露 习撑进博会但门可罗雀</a></li>
-<li><a href="/bannedvideo/20201107/1427395.md">解密巴比伦大淫妇</a></li>
 <li><a href="/worldnews/usa/20201108/1427555.md">共和党首位重磅人士道贺拜登</a></li>
-<li><a href="/cnnews/20201107/1427319.md">英国拍摄到白色UFO？以惊人的速度直升云层</a></li>
+<li><a href="/bannedvideo/20201107/1427395.md">解密巴比伦大淫妇</a></li>
 <li><a href="/topimagenews/20201108/1427570.md">川普：拜登急于假扮成胜选赢家 因害怕事实被揭露 媒体大力帮忙</a></li>
+<li><a href="/cnnews/20201107/1427319.md">英国拍摄到白色UFO？以惊人的速度直升云层</a></li>
+<li><a href="/bannedvideo/20201107/1427435.md">川普为我们而战，我们也要为川普而战；奥马尔忙着购买选票，AOC忙着秋后算账；社会主义的下三滥正在摧残美国</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201108/1427654.md" target="_blank">关键时刻力挺川普！斯洛文尼亚总理公开发声</a></li>
 <li><a href="/topimagenews/20201108/1427570.md" target="_blank">川普：拜登急于假扮成胜选赢家 因害怕事实被揭露 媒体大力帮忙</a></li>
 <li><a href="/topimagenews/20201108/1427556.md" target="_blank">川普大胜被偷谜底终曝光 原来手眼通天到她他他 习近平也卷入？必须的？</a></li>
 <li><a href="/topimagenews/20201108/1427517.md" target="_blank">惊爆 “密歇根州实际上川普大胜 摇摆州个个都是密歇根州” 大主教预言最后结局</a></li>
@@ -91,13 +92,19 @@
 <li><a href="/topimagenews/20201104/1425420.md" target="_blank">中共为何叫川普「特朗普」？她揭秘：俄国小弟！死共产党</a></li>
 <li><a href="/topimagenews/20201104/1425286.md" target="_blank">习近平势弱？恩师突露面 马云杠习？蚂蚁集团出大事 震撼 川普和无数美国人都拼了</a></li>
 <li><a href="/topimagenews/20201104/1425285.md" target="_blank">数关键摇摆州民调逆转 川普：我们会拿下胜利</a></li>
-<li><a href="/topimagenews/20201104/1425235.md" target="_blank">川普大胜迹象多 过400票？最新！民主党王牌改口了 川普放信号 左派寄望&#8230;</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201108/1427687.md" target="_blank">一个家庭的遭遇令人难以想象</a></li>
+<li><a href="/comments/20201108/1427673.md" target="_blank">陶杰：印第安人比黑命贵</a></li>
+<li><a href="/comments/20201108/1427672.md" target="_blank">大选终局 拉开新时代序幕</a></li>
+<li><a href="/comments/20201108/1427671.md" target="_blank">身体与心念</a></li>
+<li><a href="/comments/20201108/1427670.md" target="_blank">美国大选舞弊背后的鬼影</a></li>
+<li><a href="/comments/20201108/1427669.md" target="_blank">中国五千间P2P执剩三间 投资者恐失八千亿</a></li>
+<li><a href="/comments/20201108/1427668.md" target="_blank">方圆：武统难度太高 中共对台拖字诀</a></li>
 <li><a href="/comments/20201108/1427639.md" target="_blank">大选成美国最大钓鱼行动？</a></li>
 <li><a href="/comments/20201108/1427636.md" target="_blank">文贯中答马国川：若错过时间窗口 中国现代化进程将中断</a></li>
 <li><a href="/comments/20201108/1427635.md" target="_blank">林保华: 马爸爸挑战习大大：蚂蚁缘槐夸大国</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20201108/1427502.md" target="_blank">欧盟制裁白俄罗斯升级 禁止总统等15人入境欧盟</a></li>
 <li><a href="/comments/20201108/1427495.md" target="_blank">【选情更新11/7】多州选举舞弊证据浮现 川普誓言战斗到最后</a></li>
 <li><a href="/comments/20201107/1427451.md" target="_blank">自称来自2030年的男子预言2020年川普会在美国大选中连任总统</a></li>
-<li><a href="/comments/20201107/1427429.md" target="_blank">【东方纵横】独家分析 跪异的计票</a></li>
-<li><a href="/comments/20201107/1427425.md" target="_blank">吃橘子别忘了这个 抗发炎抗癌</a></li>
-<li><a href="/comments/20201107/1427418.md" target="_blank">美高法院大法官：宾州必须将逾期票与按期票分开</a></li>
-<li><a href="/comments/20201107/1427396.md" target="_blank">重磅 软件修复后密安特里姆郡转红 七大摇摆州仍用该软件</a></li>
-<li><a href="/comments/20201107/1427352.md" target="_blank">澳洲首次引用《反外国干预法》 起诉华人社团领袖</a></li>
-<li><a href="/comments/20201107/1427351.md" target="_blank">柿子有黑点了还能吃吗？</a></li>
-<li><a href="/comments/20201107/1427350.md" target="_blank">立冬聪明进补！医师推「平补气血方」最适合</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
 
 </ul>
 </div>
