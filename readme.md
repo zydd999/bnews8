@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201108/1427517.md">惊爆 “密歇根州实际上川普大胜 摇摆州个个都是密歇根州” 大主教预言最后结局</a></li>
-<li><a href="/cbnews/20201107/1427394.md">201107 拜登胜选 习近平稳了? 川普力挽狂澜 美选揭晓 成王败寇 川普力挽狂澜? 川普选战打得漂亮 美国政治翻新一页 最终结果悬未确定 全美多地爆示威</a></li>
 <li><a href="/topimagenews/20201108/1427556.md">川普大胜被偷谜底终曝光 原来手眼通天到她他他 习近平也卷入？必须的？</a></li>
-<li><a href="/taiwannews/20201107/1427389.md">川普藏杀招？一剑封喉？</a></li>
-<li><a href="/taiwannews/20201108/1427601.md">美国参,众议院共和党声明</a></li>
+<li><a href="/cbnews/20201107/1427394.md">201107 拜登胜选 习近平稳了? 川普力挽狂澜 美选揭晓 成王败寇 川普力挽狂澜? 川普选战打得漂亮 美国政治翻新一页 最终结果悬未确定 全美多地爆示威</a></li>
 <li><a href="/bannedvideo/20201107/1427412.md">川普在密歇根州壹个县计票翻盘领先！美高院裁定：宾州迟到选票分开单算；邮局第2吹哨人揭宾州迟到选票造假；川普：永不放弃为美国而战；谷歌操控信息 暗助民主党多得选票【希望看新闻】</a></li>
+<li><a href="/taiwannews/20201108/1427601.md">美国参,众议院共和党声明</a></li>
 <li><a href="/cnnews/20201108/1427508.md">川普霸气宣布：我赢得了总统大选 以很大的优势 将召开大型记者会</a></li>
-<li><a href="/worldnews/usa/20201108/1427615.md">拜登宣布胜选 谁道贺了 谁沉默着</a></li>
 <li><a href="/cbnews/20201108/1427515.md">福克斯主播：如果拜登胜选 将开启寡头时代</a></li>
+<li><a href="/worldnews/usa/20201108/1427615.md">拜登宣布胜选 谁道贺了 谁沉默着</a></li>
+<li><a href="/cnnews/20201108/1427756.md">美国大选预测似乎惊人的应验了！奇门预测：拜登败象太过明显</a></li>
 <li><a href="/worldnews/usa/20201108/1427514.md">突发：民主党总统候选人拜登获273张选举人票 超过当选美国总统的270张门槛</a></li>
 <li><a href="/topimagenews/20201108/1427654.md">关键时刻力挺川普！斯洛文尼亚总理公开发声</a></li>
 <li><a href="/comments/20201107/1427396.md">重磅 软件修复后密安特里姆郡转红 七大摇摆州仍用该软件</a></li>
-<li><a href="/cnnews/20201108/1427756.md">美国大选预测似乎惊人的应验了！奇门预测：拜登败象太过明显</a></li>
 <li><a href="/cbnews/20201108/1427552.md">杭州富二代渣男娶校花兄弟1句「怒砍60刀杀妻」入狱又伤人</a></li>
 <li><a href="/worldnews/usa/20201108/1427555.md">共和党首位重磅人士道贺拜登</a></li>
 <li><a href="/topimagenews/20201108/1427570.md">川普：拜登急于假扮成胜选赢家 因害怕事实被揭露 媒体大力帮忙</a></li>
-<li><a href="/bannedvideo/20201108/1427503.md">重磅作弊证据曝光，拜登遭重挫胜选演讲被迫推迟；独家分析：它们急于冒险的三大原因</a></li>
 <li><a href="/cbnews/20201108/1427593.md">网络热传民间高人解密 美国大选惊动天神助川普</a></li>
+<li><a href="/bannedvideo/20201108/1427503.md">重磅作弊证据曝光，拜登遭重挫胜选演讲被迫推迟；独家分析：它们急于冒险的三大原因</a></li>
 <li><a href="/bannedvideo/20201107/1427395.md">解密巴比伦大淫妇</a></li>
 <li><a href="/cnnews/20201108/1427506.md">震惊中国三千多家上市公司全造假 马云引习近平震怒?官员披露 习撑进博会但门可罗雀</a></li>
 <li><a href="/ssgc/20201108/1427554.md">川普就拜登宣布获胜发表声明</a></li>
+<li><a href="/bannedvideo/20201108/1427782.md">左媒紧急宣布拜登当选！川普放辣招，白等傻眼！证人井喷，法律诉讼全上，沼泽干了</a></li>
+<li><a href="/bannedvideo/20201108/1427754.md">开始收网了？拜登德州政治总监被指控选票舞弊！持枪送假选票？费城警方逮捕运送假选票的武装人员！惊人证据曝光？底特律政府官员培训大选计票员造假？《希望看新闻》</a></li>
 <li><a href="/bannedvideo/20201108/1427569.md">突发：媒体宣布出拜登当选！川普拒绝承认！下一步会怎么样？--秦鹏快评</a></li>
-<li><a href="/bannedvideo/20201107/1427435.md">川普为我们而战，我们也要为川普而战；奥马尔忙着购买选票，AOC忙着秋后算账；社会主义的下三滥正在摧残美国</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201108/1427867.md" target="_blank">美媒称拜登获胜 巴西总统未祝贺：「最重要的是上帝」</a></li>
 <li><a href="/comments/20201108/1427844.md" target="_blank">吃素的人立冬后怎么进补？这个汤让你从头到脚温暖起来</a></li>
 <li><a href="/comments/20201108/1427821.md" target="_blank">【视频】二十四节气之立冬</a></li>
 <li><a href="/comments/20201108/1427820.md" target="_blank">甘草被誉为“国老”，解毒补中气、调和百药&#8230;&#8230;</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201108/1427668.md" target="_blank">方圆：武统难度太高 中共对台拖字诀</a></li>
 <li><a href="/comments/20201108/1427639.md" target="_blank">大选成美国最大钓鱼行动？</a></li>
 <li><a href="/comments/20201108/1427636.md" target="_blank">文贯中答马国川：若错过时间窗口 中国现代化进程将中断</a></li>
-<li><a href="/comments/20201108/1427635.md" target="_blank">林保华: 马爸爸挑战习大大：蚂蚁缘槐夸大国</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 
 </ul>
 </div>
