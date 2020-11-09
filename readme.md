@@ -19,15 +19,15 @@
 <li><a href="/ssgc/20201108/1427866.md">大数据告诉你：拜登失败了  美国大选为什么难产</a></li>
 <li><a href="/taiwannews/20201108/1427874.md">美国联邦选举委员会主席说川普的诉讼是「非常有效的指控」.</a></li>
 <li><a href="/topimagenews/20201109/1428204.md">短短几天 川普总统推特账号出现一惊人现象</a></li>
-<li><a href="/topimagenews/20201109/1428008.md">美国选举舞弊逐渐曝光 川普支持者提出六大疑点</a></li>
-<li><a href="/funmedia/20201109/1428077.md">异性有「不正当」的关系 会有这3个异常 藏不住</a></li>
 <li><a href="/cbnews/20201109/1428182.md">美政治战略家：川普仍然能赢得总统大选</a></li>
-<li><a href="/cbnews/20201109/1428009.md">砸千万买房 她一进屋内见「6支不明柱子」百万元恐飞了</a></li>
 <li><a href="/comments/20201109/1428109.md">蚂蚁搬家不成 刘锐绍：马云被整牵出大佬 习要动手</a></li>
+<li><a href="/funmedia/20201109/1428077.md">异性有「不正当」的关系 会有这3个异常 藏不住</a></li>
+<li><a href="/topimagenews/20201109/1428008.md">美国选举舞弊逐渐曝光 川普支持者提出六大疑点</a></li>
+<li><a href="/topimagenews/20201109/1428231.md">突发！乔治亚州13万2千选票可能不合格</a></li>
+<li><a href="/cbnews/20201109/1428009.md">砸千万买房 她一进屋内见「6支不明柱子」百万元恐飞了</a></li>
+<li><a href="/cnnews/20201109/1428219.md">山西落马女市长 长期与多人通奸 被捕时双腿发软</a></li>
 <li><a href="/bannedvideo/20201108/1427872.md">🈲光明会卡牌👁️魔鬼的预言：策划政变👁️暗杀川普 毁灭人类❗❗</a></li>
 <li><a href="/comments/20201108/1427873.md">马云再遭当局警告 别玩“钱生钱游戏”</a></li>
-<li><a href="/cbnews/20201109/1428032.md">南京高铁“出轨”“撞”上了公交车</a></li>
-<li><a href="/topimagenews/20201109/1428001.md">蚂蚁金服IPO上市喊卡 谢金河：潜藏反习派股东是线索</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201109/1428265.md" target="_blank">川普对中共的看法是正确的 欧议会最大党团领袖：中共是美欧共同的政治敌人</a></li>
 <li><a href="/cbnews/20201109/1428192.md" target="_blank">公安局周忠森副局长威胁她：“我说停你的退休金就能停”</a></li>
 <li><a href="/cbnews/20201109/1428080.md" target="_blank">资深共和党参议员挺川普：不要让步 奋力反击</a></li>
 <li><a href="/cbnews/20201109/1428182.md" target="_blank">美政治战略家：川普仍然能赢得总统大选</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201108/1427930.md" target="_blank">大选更新11.8：川普:周一大规模诉讼</a></li>
 <li><a href="/cbnews/20201108/1427929.md" target="_blank">大纪元声明：法律诉讼未决前 不宣布大选胜者</a></li>
 <li><a href="/cbnews/20201108/1427913.md" target="_blank">继大纪元之后 美又一媒体不承认拜登当选</a></li>
-<li><a href="/cbnews/20201108/1427896.md" target="_blank">组图：美国民众在最高法院前为川普祈祷</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 
 </ul>
 </div>
