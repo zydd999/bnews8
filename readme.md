@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20201109/1427979.md">川普共和党强硬反击出手 选举私有化扎克伯格被告 美国能幸存? 民要战斗到底</a></li>
 <li><a href="/cbnews/20201109/1428026.md">习近平仍未祝贺拜登 恐知内情？</a></li>
 <li><a href="/cnnews/20201109/1428050.md">陕西狼父！多次强姦女儿 女婿面前逞兽行</a></li>
-<li><a href="/topimagenews/20201108/1427900.md">拜登伪胜选 美洲2总统不睬 燕过留痕！搜索图泄露了 感叹!拜登犯罪家族名副其实</a></li>
 <li><a href="/cbnews/20201109/1428040.md">佐治亚州计票发现问题 或反转选情</a></li>
+<li><a href="/topimagenews/20201108/1427900.md">拜登伪胜选 美洲2总统不睬 燕过留痕！搜索图泄露了 感叹!拜登犯罪家族名副其实</a></li>
 <li><a href="/topimagenews/20201109/1428002.md">川普曝拜登和媒体怕什么？ 了不起！实名吹哨人冒险救国 多国领导人急表态 网不屑</a></li>
-<li><a href="/cnnews/20201108/1427814.md">“90名目击证人！” 朱利安尼准备发起联邦诉讼大战</a></li>
+<li><a href="/comments/20201109/1428146.md">媒体宣布拜登获胜？局势将速演变为围剿腐败的民主党高层</a></li>
 <li><a href="/taiwannews/20201108/1427874.md">美国联邦选举委员会主席说川普的诉讼是「非常有效的指控」.</a></li>
 <li><a href="/ssgc/20201108/1427866.md">大数据告诉你：拜登失败了  美国大选为什么难产</a></li>
-<li><a href="/comments/20201109/1428146.md">媒体宣布拜登获胜？局势将速演变为围剿腐败的民主党高层</a></li>
 <li><a href="/topimagenews/20201109/1428008.md">美国选举舞弊逐渐曝光 川普支持者提出六大疑点</a></li>
-<li><a href="/lifebaike/20201108/1427828.md">公款买单始祖 江泽民闯红灯区看脱衣舞嫖娼</a></li>
 <li><a href="/funmedia/20201109/1428077.md">异性有「不正当」的关系 会有这3个异常 藏不住</a></li>
-<li><a href="/cnnews/20201108/1427815.md">视频：老外讽刺人不带脏字！你们选了败登 你们就是沉默的大多数</a></li>
-<li><a href="/cbnews/20201109/1428009.md">砸千万买房 她一进屋内见「6支不明柱子」百万元恐飞了</a></li>
+<li><a href="/lifebaike/20201108/1427828.md">公款买单始祖 江泽民闯红灯区看脱衣舞嫖娼</a></li>
 <li><a href="/topimagenews/20201109/1428204.md">短短几天 川普总统推特账号出现一惊人现象</a></li>
+<li><a href="/cbnews/20201109/1428009.md">砸千万买房 她一进屋内见「6支不明柱子」百万元恐飞了</a></li>
+<li><a href="/cbnews/20201109/1428182.md">美政治战略家：川普仍然能赢得总统大选</a></li>
 <li><a href="/bannedvideo/20201108/1427872.md">🈲光明会卡牌👁️魔鬼的预言：策划政变👁️暗杀川普 毁灭人类❗❗</a></li>
+<li><a href="/comments/20201108/1427873.md">马云再遭当局警告 别玩“钱生钱游戏”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201109/1428238.md" target="_blank">朝鲜消息人士：大批中共病毒患者在集中营被饿死</a></li>
+<li><a href="/comments/20201109/1428237.md" target="_blank">不只甲肝乙肝！ 台湾2成肝癌竟与「它」有关</a></li>
+<li><a href="/comments/20201109/1428236.md" target="_blank">它是万恶食物吗？会塞住心血管吗？日本专家来为其讨回公道&#8230;</a></li>
+<li><a href="/comments/20201109/1428235.md" target="_blank">手机上的3个“监听”设置，第三个其实你关了也没用</a></li>
+<li><a href="/comments/20201109/1428234.md" target="_blank">立冬进补！不要和「降血压药」一起吃</a></li>
+<li><a href="/comments/20201109/1428233.md" target="_blank">冬季食疗原则</a></li>
 <li><a href="/comments/20201109/1428229.md" target="_blank">好莱坞名流力挺川普 称「拜登胜选」是假消息</a></li>
 <li><a href="/comments/20201109/1428198.md" target="_blank">【希望之声TV】1.5亿美国人有权知道真相</a></li>
 <li><a href="/comments/20201109/1428177.md" target="_blank">【微博精粹】英国人：全世界都知道川普赢了！小川普：战斗到底</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20201108/1427949.md" target="_blank">箭在弦上的心跳 见正邪中神在拣选</a></li>
 <li><a href="/comments/20201108/1427906.md" target="_blank">白宫是否易主牵动台湾 美学者：不用太担心</a></li>
 <li><a href="/comments/20201108/1427903.md" target="_blank">这款洗脑神药狂骗20年 下架前还收割韭菜10亿</a></li>
-<li><a href="/comments/20201108/1427873.md" target="_blank">马云再遭当局警告 别玩“钱生钱游戏”</a></li>
-<li><a href="/comments/20201108/1427867.md" target="_blank">美媒称拜登获胜 巴西总统未祝贺：「最重要的是上帝」</a></li>
-<li><a href="/comments/20201108/1427844.md" target="_blank">吃素的人立冬后怎么进补？这个汤让你从头到脚温暖起来</a></li>
-<li><a href="/comments/20201108/1427821.md" target="_blank">【视频】二十四节气之立冬</a></li>
-<li><a href="/comments/20201108/1427820.md" target="_blank">甘草被誉为“国老”，解毒补中气、调和百药&#8230;&#8230;</a></li>
-<li><a href="/comments/20201108/1427819.md" target="_blank">立冬，2个汉字7件雅事，太有文化了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 
 </ul>
 </div>
