@@ -12,22 +12,22 @@
 <li><a href="/taiwannews/20201110/1428596.md">震惊世界! 最高法院给特朗普总统带来了奇迹！ 拜登在美国的欺诈行为</a></li>
 <li><a href="/taiwannews/20201110/1428499.md">最后一刻戏！ 特朗普总统赢得了重大胜利，走进了白色建筑</a></li>
 <li><a href="/topimagenews/20201110/1428626.md">川普推特5连发！手中握有选举舞弊证据一旦公布绝对令人震惊</a></li>
-<li><a href="/topimagenews/20201110/1428480.md">快讯！川普宣布解雇国防部长埃斯佩</a></li>
 <li><a href="/cnnews/20201110/1428777.md">文革死去的美女们：开膛破肚 活摘器官 强奸至死</a></li>
 <li><a href="/topimagenews/20201110/1428737.md">细思极恐的视频出现了！川普下降的选票数竟然和拜登增长的完全一样</a></li>
-<li><a href="/cnnews/20201110/1428481.md">1.5亿人投票「邮寄选票逾1亿张」？川普：这场选举被拜登阵营偷了</a></li>
 <li><a href="/topimagenews/20201110/1428985.md">突发！拜登没法宣布接管白宫了 大选作弊向中共学啥？ 默克尔们漏算了</a></li>
+<li><a href="/cnnews/20201110/1428481.md">1.5亿人投票「邮寄选票逾1亿张」？川普：这场选举被拜登阵营偷了</a></li>
 <li><a href="/topimagenews/20201110/1428738.md">想看川普热闹？中共媒体又玩砸了！评论区再次大翻车：谁笑到最后还不一定呢</a></li>
 <li><a href="/topimagenews/20201110/1428736.md">将拜登打回原形！美著名民调网：从来没说拜登赢得宾夕法尼亚州</a></li>
 <li><a href="/cnnews/20201110/1428896.md">成千上万的未密封选票抵达密歇根州 全部投给民主党人</a></li>
 <li><a href="/cbnews/20201110/1428866.md">北京罕见不敢承认拜登 专家：习近平有三大担忧</a></li>
 <li><a href="/topimagenews/20201110/1428739.md">惊爆！“投票人的出生日期都是01-01-1900”</a></li>
 <li><a href="/topimagenews/20201110/1428520.md">因应中共镇压香港异见者 川普政府再制裁4人</a></li>
-<li><a href="/topimagenews/20201110/1428627.md">美司法部长授权司法部调查“大量有关投票违规行为的指控”</a></li>
 <li><a href="/taiwannews/20201110/1428953.md">新闻11月11日: 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
+<li><a href="/topimagenews/20201110/1428627.md">美司法部长授权司法部调查“大量有关投票违规行为的指控”</a></li>
 <li><a href="/bannedvideo/20201110/1428484.md">快讯：川普主动出击！美国国防部长埃斯珀被停职！【希望之声TV】</a></li>
 <li><a href="/taiwannews/20201110/1428619.md">新闻11月10日: 白宫收到好消息后，美国人民支持特朗普连任99％</a></li>
 <li><a href="/cnnews/20201110/1428589.md">撞南墙！拜登寻求总统权力移交 美总务署长未批准</a></li>
+<li><a href="/taiwannews/20201110/1428701.md">战狼又复萌？中共党媒高层爆粗口辱骂德外长</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
