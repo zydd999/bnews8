@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20201110/1428464.md">大选谁赢1天之内形势逆转 爆炸性消息1个比1个震撼 川普大手笔！美军抵台</a></li>
 <li><a href="/topimagenews/20201109/1428402.md">拜登白高兴！要等这个政府机构发声明 民主党全委会发了个通知？</a></li>
 <li><a href="/topimagenews/20201110/1428491.md">快讯！蓬佩奥宣布：今天 美国制裁了19家企业和…</a></li>
-<li><a href="/topimagenews/20201110/1428480.md">快讯！川普宣布解雇国防部长埃斯佩</a></li>
 <li><a href="/cbnews/20201110/1428565.md">中共拒绝正式承认拜登当选的背后</a></li>
+<li><a href="/topimagenews/20201110/1428480.md">快讯！川普宣布解雇国防部长埃斯佩</a></li>
 <li><a href="/taiwannews/20201110/1428499.md">最后一刻戏！ 特朗普总统赢得了重大胜利，走进了白色建筑</a></li>
 <li><a href="/topimagenews/20201110/1428626.md">川普推特5连发！手中握有选举舞弊证据一旦公布绝对令人震惊</a></li>
-<li><a href="/taiwannews/20201110/1428596.md">震惊世界! 最高法院给特朗普总统带来了奇迹！ 拜登在美国的欺诈行为</a></li>
 <li><a href="/topimagenews/20201110/1428731.md">爆出猛料！泄密视频的内容真的发生了！密歇根总检察长竟力阻真相曝光</a></li>
+<li><a href="/taiwannews/20201110/1428596.md">震惊世界! 最高法院给特朗普总统带来了奇迹！ 拜登在美国的欺诈行为</a></li>
 <li><a href="/cnnews/20201110/1428481.md">1.5亿人投票「邮寄选票逾1亿张」？川普：这场选举被拜登阵营偷了</a></li>
 <li><a href="/topimagenews/20201110/1428737.md">细思极恐的视频出现了！川普下降的选票数竟然和拜登增长的完全一样</a></li>
-<li><a href="/topimagenews/20201110/1428520.md">因应中共镇压香港异见者 川普政府再制裁4人</a></li>
 <li><a href="/cnnews/20201110/1428777.md">文革死去的美女们：开膛破肚 活摘器官 强奸至死</a></li>
+<li><a href="/topimagenews/20201110/1428520.md">因应中共镇压香港异见者 川普政府再制裁4人</a></li>
 <li><a href="/topimagenews/20201110/1428627.md">美司法部长授权司法部调查“大量有关投票违规行为的指控”</a></li>
 <li><a href="/bannedvideo/20201110/1428484.md">快讯：川普主动出击！美国国防部长埃斯珀被停职！【希望之声TV】</a></li>
 <li><a href="/taiwannews/20201110/1428619.md">新闻11月10日: 白宫收到好消息后，美国人民支持特朗普连任99％</a></li>
 <li><a href="/cbnews/20201110/1428435.md">脸书被控砸钱干预美国大选 札克伯格吃官司</a></li>
 <li><a href="/cnnews/20201110/1428589.md">撞南墙！拜登寻求总统权力移交 美总务署长未批准</a></li>
-<li><a href="/cbnews/20201110/1428624.md">文昭：为大动作扫清障碍？川普突然撤换国防部长；选举司法战和「虫族大战」，不能放弃的理由</a></li>
 <li><a href="/topimagenews/20201110/1428738.md">想看川普热闹？中共媒体又玩砸了！评论区再次大翻车：谁笑到最后还不一定呢</a></li>
-<li><a href="/taiwannews/20201110/1428701.md">战狼又复萌？中共党媒高层爆粗口辱骂德外长</a></li>
 <li><a href="/topimagenews/20201110/1428736.md">将拜登打回原形！美著名民调网：从来没说拜登赢得宾夕法尼亚州</a></li>
+<li><a href="/cbnews/20201110/1428624.md">文昭：为大动作扫清障碍？川普突然撤换国防部长；选举司法战和「虫族大战」，不能放弃的理由</a></li>
+<li><a href="/topimagenews/20201110/1428739.md">惊爆！“投票人的出生日期都是01-01-1900”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
 
 </ul>
 </div>
