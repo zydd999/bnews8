@@ -16,17 +16,17 @@
 <li><a href="/taiwannews/20201110/1428953.md">新闻11月11日: 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
 <li><a href="/topimagenews/20201111/1429032.md">川普全面开战将强势回归? 内华达撞到华人律师枪口上 12州检察长挺川普团队</a></li>
 <li><a href="/cnnews/20201110/1428896.md">成千上万的未密封选票抵达密歇根州 全部投给民主党人</a></li>
-<li><a href="/topimagenews/20201110/1428739.md">惊爆！“投票人的出生日期都是01-01-1900”</a></li>
 <li><a href="/bannedvideo/20201111/1429062.md">RCP撤回决定 拜登失去总统资格票数；辉瑞疫苗有效 主流媒体抹杀川普政府贡献</a></li>
+<li><a href="/topimagenews/20201110/1428739.md">惊爆！“投票人的出生日期都是01-01-1900”</a></li>
 <li><a href="/cbnews/20201111/1429112.md">蓬佩奥：将顺利过渡到川普政府第二任期</a></li>
-<li><a href="/taiwannews/20201110/1428701.md">战狼又复萌？中共党媒高层爆粗口辱骂德外长</a></li>
 <li><a href="/cbnews/20201110/1428740.md">刘志庚被调查 东莞人击鼓燃炮庆祝</a></li>
 <li><a href="/bannedvideo/20201110/1428996.md">拜登被悄悄下架，知名选举网站RCP因选票争议，撤下宾州与亚利桑那州选举人票；司法部长巴尔下令彻查大规模选举欺诈，震动主流媒体；福克斯主播掐断白宫发言人直播；佩洛西拒绝谴责社会主义</a></li>
 <li><a href="/cbnews/20201110/1428920.md">陈破空：非常时刻！特朗普突然调换国防部长。胡锡进慌劝习近平：千万别惹他</a></li>
 <li><a href="/cnnews/20201111/1429046.md">川普：下周会有结果 我会赢 让美国再次伟大</a></li>
 <li><a href="/ssgc/20201110/1428991.md">蔡总统，拜拜了</a></li>
 <li><a href="/health/20201111/1429134.md">患上抑郁症的人 嘴边常挂着3句口头禅 可千万别以为很正常</a></li>
-<li><a href="/comments/20201110/1428683.md">关于“光明会”的50件事情</a></li>
+<li><a href="/headline/20201111/1429162.md">蚂蚁风波未平息 中共最高层为何震怒</a></li>
+<li><a href="/cbnews/20201111/1429198.md">川普忽更换国防部长 吓到中共高层？</a></li>
 <li><a href="/topimagenews/20201110/1428735.md">选后才传疫苗捷报！川普怒批「政治阴谋」：我说过很多次了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201111/1428702.md" target="_blank">有一种品牌的炮灰，名字叫“爱国者”</a></li>
+<li><a href="/cbnews/20201111/1429306.md" target="_blank">拜登胞弟及儿子是中共代理人？参议员促调查</a></li>
 <li><a href="/cbnews/20201111/1429292.md" target="_blank">川普大选后支持率攀升</a></li>
 <li><a href="/cbnews/20201111/1429275.md" target="_blank">人权律师致信中共领导人：任何语言、文字无法再现政府的下流和不道德</a></li>
 <li><a href="/cbnews/20201111/1429248.md" target="_blank">江峰：裴洛西将失议长大位，民主党终极计划落空； 蓬培奥关键时刻力挺川普【江峰时刻】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201110/1428821.md" target="_blank">彭斯：总统大选没有结束</a></li>
 <li><a href="/cbnews/20201110/1428820.md" target="_blank">美司法部长巴尔授权调查总统大选选举舞弊</a></li>
 <li><a href="/cbnews/20201110/1428742.md" target="_blank">中共媒体高调报拜登胜选 评论：赌徒的庆贺</a></li>
-<li><a href="/cbnews/20201110/1428740.md" target="_blank">刘志庚被调查 东莞人击鼓燃炮庆祝</a></li>
-<li><a href="/cbnews/20201110/1428722.md" target="_blank">萧铭：接下来最重头：参议院选举</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201111/1429312.md" target="_blank">东京奥运或对外国观众开放 14天免隔离措施研拟中</a></li>
+<li><a href="/comments/20201111/1428702.md" target="_blank">有一种品牌的炮灰，名字叫“爱国者”</a></li>
 <li><a href="/comments/20201111/1429281.md" target="_blank">【专访】袁弓夷：选票政变置美国于内战边缘 川普需要得力防长</a></li>
 <li><a href="/comments/20201111/1429274.md" target="_blank">台湾侨领 支持川普打官司揭发大选舞弊</a></li>
 <li><a href="/comments/20201111/1429257.md" target="_blank">【微博精粹】11月才是大惊奇！全世界将见证川普再创奇迹</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201111/1429142.md" target="_blank">奇！大选前“选举舞弊惩罚”类词条在谷歌搜索量飙升</a></li>
 <li><a href="/comments/20201111/1429141.md" target="_blank">艺术是来源于生活高于生活的精髓</a></li>
 <li><a href="/comments/20201111/1429109.md" target="_blank">蓬佩奥：美国将顺利过渡到第二任川普政府</a></li>
-<li><a href="/comments/20201111/1429108.md" target="_blank">多位议员挺川普 麦康奈尔：川普100%有权起诉选举欺诈</a></li>
-<li><a href="/comments/20201111/1429107.md" target="_blank">中国步入通缩 实体债务危机或一触即发</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
