@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/taiwannews/20201111/1429392.md">特朗普总统正式超越拜登！ 民主党欺骗选票！特朗普赢了</a></li>
 <li><a href="/cnnews/20201111/1429362.md">司法战威慑力显 宾州之后 川普或将再夺回一州</a></li>
-<li><a href="/headline/20201111/1429162.md">蚂蚁风波未平息 中共最高层为何震怒</a></li>
 <li><a href="/bannedvideo/20201111/1429271.md">川普微笑反击，彭斯蓬佩奥同发声！拜登票骤减至259！贺电消失，拜粉狂搜“选举欺诈惩罚”</a></li>
+<li><a href="/headline/20201111/1429162.md">蚂蚁风波未平息 中共最高层为何震怒</a></li>
 <li><a href="/lifebaike/20201111/1429217.md">新婚夜妻子不愿同房 丈夫把她关猪圈 早上打开门 丈夫如遭雷击</a></li>
 <li><a href="/cnnews/20201111/1429309.md">又有啥猛料？朱利安尼：你们会震惊的…</a></li>
 <li><a href="/cbnews/20201111/1429198.md">川普忽更换国防部长 吓到中共高层？</a></li>
@@ -22,10 +22,10 @@
 <li><a href="/bannedvideo/20201111/1429165.md">两策划人被曝光 证实有组织政变；拜登曲线被改 川普团队已提起诉讼；谷歌阻档保守党派广告 参院领袖挺川普；</a></li>
 <li><a href="/cbnews/20201111/1429292.md">川普大选后支持率攀升</a></li>
 <li><a href="/taiwannews/20201111/1429305.md">拜登选举人票已回到259？民主党人有78天“政变”计划？</a></li>
-<li><a href="/cnnews/20201111/1429090.md">上海疫情已传至安徽 一社区凌晨2点紧急封闭</a></li>
 <li><a href="/bannedvideo/20201111/1429206.md">拜登失去资格，承认还不是总统；10州检察长挺川普，巴尔破例调查舞弊；共和党大佬挺川普，天秤向川普倾斜；最奇葩投票：母狗邮寄选票；宾州邮局员工遭报复，奥巴马将任驻英大使？【 大纪元 新闻看点11.10】</a></li>
 <li><a href="/headline/20201111/1429413.md">中国企业家孙大午因抗议官方暴力被捕 大午集团被政府接管</a></li>
 <li><a href="/cbnews/20201111/1429248.md">江峰：裴洛西将失议长大位，民主党终极计划落空； 蓬培奥关键时刻力挺川普【江峰时刻】</a></li>
+<li><a href="/cbnews/20201111/1429566.md">江峰：不到270票！拜登总统梦醒，噩梦方始，贺电的各国领袖尴尬了！宪政危机在法槌声还是枪声中终结？【2020大选评说】</a></li>
 <li><a href="/ssgc/20201111/1429111.md">〖兲朝浮世绘〗美国2020选举，是人类选举史上的奇耻大辱</a></li>
 <li><a href="/bannedvideo/20201111/1429448.md">佩洛西不会继续当议长；共和党将拿下参议院；川普发推赞蓬佩奥；奇！“选举舞弊惩罚”词条在谷歌搜索量飙升；新录音曝光 宾州邮局吹哨人遭特工恐吓；宾州众议院议长要求对州选举全面审核【希望看新闻】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
