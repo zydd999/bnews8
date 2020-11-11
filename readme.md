@@ -11,8 +11,8 @@
 <li><a href="/cnnews/20201111/1429362.md">司法战威慑力显 宾州之后 川普或将再夺回一州</a></li>
 <li><a href="/headline/20201111/1429162.md">蚂蚁风波未平息 中共最高层为何震怒</a></li>
 <li><a href="/bannedvideo/20201111/1429271.md">川普微笑反击，彭斯蓬佩奥同发声！拜登票骤减至259！贺电消失，拜粉狂搜“选举欺诈惩罚”</a></li>
-<li><a href="/cnnews/20201111/1429309.md">又有啥猛料？朱利安尼：你们会震惊的…</a></li>
 <li><a href="/lifebaike/20201111/1429217.md">新婚夜妻子不愿同房 丈夫把她关猪圈 早上打开门 丈夫如遭雷击</a></li>
+<li><a href="/cnnews/20201111/1429309.md">又有啥猛料？朱利安尼：你们会震惊的…</a></li>
 <li><a href="/cbnews/20201111/1429198.md">川普忽更换国防部长 吓到中共高层？</a></li>
 <li><a href="/cbnews/20201111/1429112.md">蓬佩奥：将顺利过渡到川普政府第二任期</a></li>
 <li><a href="/health/20201111/1429134.md">患上抑郁症的人 嘴边常挂着3句口头禅 可千万别以为很正常</a></li>
@@ -20,13 +20,13 @@
 <li><a href="/cbnews/20201111/1429245.md">面对大选舞弊“政变” 川普已稳住大局</a></li>
 <li><a href="/cbnews/20201111/1429197.md">不利拜登消息频现 中共终将玩火自焚</a></li>
 <li><a href="/topimagenews/20201111/1429226.md">和奥巴马、索罗斯、克林顿、佩洛西是什么关系？投票软件更多内幕被挖出</a></li>
+<li><a href="/cnnews/20201111/1429411.md">习近平再出手马云好日子到头 躲川普制裁 华为卖品牌 中国疫苗巴西出大事</a></li>
 <li><a href="/bannedvideo/20201111/1429165.md">两策划人被曝光 证实有组织政变；拜登曲线被改 川普团队已提起诉讼；谷歌阻档保守党派广告 参院领袖挺川普；</a></li>
 <li><a href="/cbnews/20201111/1429292.md">川普大选后支持率攀升</a></li>
-<li><a href="/cnnews/20201111/1429411.md">习近平再出手马云好日子到头 躲川普制裁 华为卖品牌 中国疫苗巴西出大事</a></li>
 <li><a href="/taiwannews/20201111/1429305.md">拜登选举人票已回到259？民主党人有78天“政变”计划？</a></li>
 <li><a href="/cnnews/20201111/1429046.md">川普：下周会有结果 我会赢 让美国再次伟大</a></li>
-<li><a href="/bannedvideo/20201111/1429206.md">拜登失去资格，承认还不是总统；10州检察长挺川普，巴尔破例调查舞弊；共和党大佬挺川普，天秤向川普倾斜；最奇葩投票：母狗邮寄选票；宾州邮局员工遭报复，奥巴马将任驻英大使？【 大纪元 新闻看点11.10】</a></li>
 <li><a href="/cnnews/20201111/1429090.md">上海疫情已传至安徽 一社区凌晨2点紧急封闭</a></li>
+<li><a href="/bannedvideo/20201111/1429206.md">拜登失去资格，承认还不是总统；10州检察长挺川普，巴尔破例调查舞弊；共和党大佬挺川普，天秤向川普倾斜；最奇葩投票：母狗邮寄选票；宾州邮局员工遭报复，奥巴马将任驻英大使？【 大纪元 新闻看点11.10】</a></li>
 <li><a href="/cbnews/20201111/1429248.md">江峰：裴洛西将失议长大位，民主党终极计划落空； 蓬培奥关键时刻力挺川普【江峰时刻】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201112/1429597.md" target="_blank">大选更新11·11 川普：人民不接受舞弊</a></li>
 <li><a href="/cbnews/20201111/1429566.md" target="_blank">江峰：不到270票！拜登总统梦醒，噩梦方始，贺电的各国领袖尴尬了！宪政危机在法槌声还是枪声中终结？【2020大选评说】</a></li>
 <li><a href="/cbnews/20201111/1429554.md" target="_blank">川普反攻一浪高过一浪 对中国人发出美国承诺 曝大量新料还都是名人 拿下15票左媒封杀</a></li>
 <li><a href="/cbnews/20201111/1429443.md" target="_blank">拜登并未当选 外国领导人不应致贺</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201111/1429056.md" target="_blank">惊呆！「拜登」变大陆注册商标 将卖「尿失禁成人垫」</a></li>
 <li><a href="/cbnews/20201110/1428990.md" target="_blank">大选更新11.10：川普：我们会赢</a></li>
 <li><a href="/cbnews/20201110/1428920.md" target="_blank">陈破空：非常时刻！特朗普突然调换国防部长。胡锡进慌劝习近平：千万别惹他</a></li>
-<li><a href="/cbnews/20201110/1428892.md" target="_blank">袁弓夷：大陆媒体早早报道喜讯露马脚</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201112/1429596.md" target="_blank">老兵节彭斯感言：改善老兵待遇 川普政府贡献杰出</a></li>
+<li><a href="/comments/20201112/1429595.md" target="_blank">巴西转向想买辉瑞疫苗 停止大陆疫苗测试</a></li>
 <li><a href="/comments/20201112/1429581.md" target="_blank">欧洲冠状病毒疫情30万死 欧盟向辉瑞订3亿剂疫苗</a></li>
 <li><a href="/comments/20201112/1429575.md" target="_blank">全球仅一例！因全身DNA断裂在极度痛苦中死亡</a></li>
 <li><a href="/comments/20201111/1429560.md" target="_blank">证据充分！川普阵营状告密州竞选委员会大选计票作弊</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201111/1429274.md" target="_blank">台湾侨领 支持川普打官司揭发大选舞弊</a></li>
 <li><a href="/comments/20201111/1429257.md" target="_blank">【微博精粹】11月才是大惊奇！全世界将见证川普再创奇迹</a></li>
 <li><a href="/comments/20201111/1429251.md" target="_blank">笑看拜登沐猴而冠 川普总统大网将收</a></li>
-<li><a href="/comments/20201111/1429250.md" target="_blank">拜登自行宣布当选是祸不是福？11月14日后见分晓</a></li>
-<li><a href="/comments/20201111/1429249.md" target="_blank">华人为什么挺川 大选后一年内惊人预言</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 
 </ul>
 </div>
