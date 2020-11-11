@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201110/1428985.md">突发！拜登没法宣布接管白宫了 大选作弊向中共学啥？ 默克尔们漏算了</a></li>
 <li><a href="/cnnews/20201111/1429079.md">拜登德州负责人被FBI羁押 佩洛西议长位子悬了？惊人一幕！美媒成新闻联播</a></li>
-<li><a href="/cbnews/20201110/1428866.md">北京罕见不敢承认拜登 专家：习近平有三大担忧</a></li>
 <li><a href="/taiwannews/20201110/1428953.md">新闻11月11日: 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
 <li><a href="/topimagenews/20201111/1429032.md">川普全面开战将强势回归? 内华达撞到华人律师枪口上 12州检察长挺川普团队</a></li>
 <li><a href="/cnnews/20201110/1428896.md">成千上万的未密封选票抵达密歇根州 全部投给民主党人</a></li>
@@ -15,9 +14,9 @@
 <li><a href="/cbnews/20201111/1429112.md">蓬佩奥：将顺利过渡到川普政府第二任期</a></li>
 <li><a href="/cbnews/20201111/1429198.md">川普忽更换国防部长 吓到中共高层？</a></li>
 <li><a href="/lifebaike/20201111/1429217.md">新婚夜妻子不愿同房 丈夫把她关猪圈 早上打开门 丈夫如遭雷击</a></li>
+<li><a href="/bannedvideo/20201111/1429271.md">川普微笑反击，彭斯蓬佩奥同发声！拜登票骤减至259！贺电消失，拜粉狂搜“选举欺诈惩罚”</a></li>
 <li><a href="/headline/20201111/1429162.md">蚂蚁风波未平息 中共最高层为何震怒</a></li>
 <li><a href="/bannedvideo/20201110/1428996.md">拜登被悄悄下架，知名选举网站RCP因选票争议，撤下宾州与亚利桑那州选举人票；司法部长巴尔下令彻查大规模选举欺诈，震动主流媒体；福克斯主播掐断白宫发言人直播；佩洛西拒绝谴责社会主义</a></li>
-<li><a href="/bannedvideo/20201111/1429271.md">川普微笑反击，彭斯蓬佩奥同发声！拜登票骤减至259！贺电消失，拜粉狂搜“选举欺诈惩罚”</a></li>
 <li><a href="/cbnews/20201111/1429197.md">不利拜登消息频现 中共终将玩火自焚</a></li>
 <li><a href="/health/20201111/1429134.md">患上抑郁症的人 嘴边常挂着3句口头禅 可千万别以为很正常</a></li>
 <li><a href="/bannedvideo/20201111/1429165.md">两策划人被曝光 证实有组织政变；拜登曲线被改 川普团队已提起诉讼；谷歌阻档保守党派广告 参院领袖挺川普；</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20201111/1429206.md">拜登失去资格，承认还不是总统；10州检察长挺川普，巴尔破例调查舞弊；共和党大佬挺川普，天秤向川普倾斜；最奇葩投票：母狗邮寄选票；宾州邮局员工遭报复，奥巴马将任驻英大使？【 大纪元 新闻看点11.10】</a></li>
 <li><a href="/cnnews/20201111/1429090.md">上海疫情已传至安徽 一社区凌晨2点紧急封闭</a></li>
 <li><a href="/ssgc/20201111/1429111.md">〖兲朝浮世绘〗美国2020选举，是人类选举史上的奇耻大辱</a></li>
+<li><a href="/cnnews/20201111/1429309.md">又有啥猛料？朱利安尼：你们会震惊的…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201111/1429410.md" target="_blank">强撕疫源标签 中共将武汉抹粉为“英雄城市”</a></li>
 <li><a href="/cbnews/20201111/1429245.md" target="_blank">面对大选舞弊“政变” 川普已稳住大局</a></li>
 <li><a href="/comments/20201111/1428702.md" target="_blank">有一种品牌的炮灰，名字叫“爱国者”</a></li>
 <li><a href="/cbnews/20201111/1429306.md" target="_blank">拜登胞弟及儿子是中共代理人？参议员促调查</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201110/1428866.md" target="_blank">北京罕见不敢承认拜登 专家：习近平有三大担忧</a></li>
 <li><a href="/cbnews/20201110/1428863.md" target="_blank">江峰：拜登“白登”！高院不灵？登顶阴谋三部曲；国防部长辞退透露川普决胜信念？蔡英文贺电为何不该赶早</a></li>
 <li><a href="/cbnews/20201110/1428821.md" target="_blank">彭斯：总统大选没有结束</a></li>
-<li><a href="/cbnews/20201110/1428820.md" target="_blank">美司法部长巴尔授权调查总统大选选举舞弊</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201111/1429398.md" target="_blank">立冬后多吃暖身三宝，少吃三白，分别指的是啥？</a></li>
 <li><a href="/comments/20201111/1429388.md" target="_blank">中国民众大胆受访爆实话：川普和拜登是正与邪的较量</a></li>
 <li><a href="/comments/20201111/1429387.md" target="_blank">生病了有何禁忌？《黄帝内经》讲了这11条</a></li>
 <li><a href="/comments/20201111/1429386.md" target="_blank">癌症总是静悄悄的，睡觉前坚持四个少，癌细胞才会更远</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201111/1429187.md" target="_blank">中俄间谍对捷克利益构成迫切威胁</a></li>
 <li><a href="/comments/20201111/1429180.md" target="_blank">见鬼了？密西根州有上万“亡灵”寄回了选票</a></li>
 <li><a href="/comments/20201111/1429178.md" target="_blank">蓬佩奥宣布：台美经济对话20日登场 柯拉克主谈</a></li>
-<li><a href="/comments/20201111/1429177.md" target="_blank">3600年前的古印度就拥有了核武器？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
