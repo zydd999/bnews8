@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/taiwannews/20201111/1429392.md">特朗普总统正式超越拜登！ 民主党欺骗选票！特朗普赢了</a></li>
 <li><a href="/cnnews/20201111/1429362.md">司法战威慑力显 宾州之后 川普或将再夺回一州</a></li>
-<li><a href="/cnnews/20201111/1429309.md">又有啥猛料？朱利安尼：你们会震惊的…</a></li>
 <li><a href="/cbnews/20201111/1429566.md">江峰：不到270票！拜登总统梦醒，噩梦方始，贺电的各国领袖尴尬了！宪政危机在法槌声还是枪声中终结？【2020大选评说】</a></li>
 <li><a href="/topimagenews/20201111/1429360.md">感人！终身民主党人：总统先生 我想为您免费提供法律服务</a></li>
 <li><a href="/topimagenews/20201112/1429644.md">川普反击震慑大显立竿见影 贺电刹车 他追究拜登家通共 特工恐吓民主党对抗被打脸</a></li>
@@ -20,12 +19,13 @@
 <li><a href="/headline/20201111/1429413.md">中国企业家孙大午因抗议官方暴力被捕 大午集团被政府接管</a></li>
 <li><a href="/bannedvideo/20201111/1429448.md">佩洛西不会继续当议长；共和党将拿下参议院；川普发推赞蓬佩奥；奇！“选举舞弊惩罚”词条在谷歌搜索量飙升；新录音曝光 宾州邮局吹哨人遭特工恐吓；宾州众议院议长要求对州选举全面审核【希望看新闻】</a></li>
 <li><a href="/cbnews/20201112/1429612.md">辉瑞发声明：出炉疫苗是川普疫苗计划的一部分</a></li>
+<li><a href="/cbnews/20201112/1429671.md">黑命贵组织致信拜登：我们选了你 你要回报</a></li>
 <li><a href="/finance/20201111/1429374.md">最妖河南首富：包养情妇超生 3天挥霍18亿</a></li>
 <li><a href="/cbnews/20201111/1429417.md">深圳将推行“强制休假” 民间质疑不靠谱</a></li>
-<li><a href="/cbnews/20201112/1429671.md">黑命贵组织致信拜登：我们选了你 你要回报</a></li>
 <li><a href="/topimagenews/20201112/1429686.md">白宫安插3效忠川普官员进五角大厦 曾指奥巴马是「恐怖分子首脑」</a></li>
 <li><a href="/topimagenews/20201111/1429359.md">左媒一手遮天 36％投拜登选民不知其丑闻 13%说知道会不投</a></li>
 <li><a href="/cbnews/20201111/1429443.md">拜登并未当选 外国领导人不应致贺</a></li>
+<li><a href="/worldnews/usa/20201112/1429615.md">川普律师宣布重新计票现重大转机！而福克斯新闻选择了公然背叛！它掐掉了白宫发布会的直播！朱利安尼称他的的诉讼取得了实质性的进展</a></li>
 <li><a href="/topimagenews/20201112/1429618.md">「奥巴马监控我的竞选活动」 川普：抓到了吧</a></li>
 <li><a href="/bannedvideo/20201112/1429630.md">网络牛人 计算出川普在各州被偷走的选票； 宾州爆大量选票被退回  比邮寄日期还早；大选释出沼泽 网友呼吁搬离推特</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 
 </ul>
 </div>
