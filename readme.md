@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20201113/1430394.md">排山倒海直斥中共！川普顶尖大律师：他们忘记了我们是…</a></li>
 <li><a href="/cbnews/20201113/1430164.md">爱荷华发现计票错误 共和党众议院再拿一席</a></li>
 <li><a href="/worldnews/usa/20201113/1430157.md">气晕拜登！英国首相发的“贺电”暗藏玄机…这乌龙贺信估计要上历史书…</a></li>
-<li><a href="/topimagenews/20201113/1430333.md">气晕拜登！英国首相发的“贺电”暗藏玄机</a></li>
-<li><a href="/cbnews/20201113/1430429.md">川普律师伍德：中共干预大选 拜登等将入狱</a></li>
 <li><a href="/headline/20201113/1430277.md">《华尔街日报》：习近平亲自阻止了蚂蚁集团的IPO</a></li>
+<li><a href="/topimagenews/20201113/1430333.md">气晕拜登！英国首相发的“贺电”暗藏玄机</a></li>
 <li><a href="/comments/20201113/1430224.md">千亿级国企爆雷：账上400多亿现金还不上10亿债券</a></li>
+<li><a href="/cbnews/20201113/1430429.md">川普律师伍德：中共干预大选 拜登等将入狱</a></li>
 <li><a href="/cnnews/20201113/1430158.md">好消息！川普总统：Dominion试图改变大举 但被抓包 【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201113/1430502.md">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
 <li><a href="/cnnews/20201113/1430188.md">美国人站出来！一万一千人宣誓为选举作弊作证 康州一个选区票没算 加上后共和党翻盘</a></li>
 <li><a href="/cnnews/20201113/1430315.md">华尔街日报：习近平亲自决定终止蚂蚁370亿美元IPO</a></li>
 <li><a href="/cnnews/20201113/1430173.md">大选夜川普乔州大胜 供水突然中断计票叫停 美媒独家曝黑幕 原来竟是一场戏？</a></li>
-<li><a href="/comments/20201113/1430132.md">评论 | 王丹：马云的失恋与恐怖情人</a></li>
-<li><a href="/cbnews/20201113/1430502.md">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
 <li><a href="/comments/20201113/1430372.md">习近平罕见现身浦东30年大会 一件事无人相信？</a></li>
+<li><a href="/comments/20201113/1430132.md">评论 | 王丹：马云的失恋与恐怖情人</a></li>
 <li><a href="/bannedvideo/20201113/1430353.md">川普捷报频传，布局很深力求一网打尽，未来预测，做好了最坏准备.2020年11月12日</a></li>
+<li><a href="/cbnews/20201113/1430531.md">川普这一表态北京紧张 谈美国大选 微博统统删</a></li>
+<li><a href="/cbnews/20201113/1430538.md">陈破空：特朗普突对中共发禁令！港人爆料：习近平父亲曾有惊人主张。蓬配奥引喻里根时代</a></li>
+<li><a href="/topimagenews/20201113/1430541.md">谁倒霉？川普重磅禁令沾共军都惨了 美媒爆习亲定打马云蚂蚁 双十一快递小哥罢工上热搜</a></li>
 <li><a href="/cbnews/20201113/1430382.md">原中央警卫局长杨德中病逝 一度被逐出中南海</a></li>
 <li><a href="/cnnews/20201113/1430142.md">福克斯新闻挺拜登胜选收视率暴跌 不得不雇用危机管理团队【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201113/1430538.md">陈破空：特朗普突对中共发禁令！港人爆料：习近平父亲曾有惊人主张。蓬配奥引喻里根时代</a></li>
-<li><a href="/cbnews/20201113/1430531.md">川普这一表态北京紧张 谈美国大选 微博统统删</a></li>
-<li><a href="/taiwannews/20201113/1430127.md">胡锡进向习近平报告美国大选，拜登和川普都不稳，但有一人稳了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 
 </ul>
 </div>
