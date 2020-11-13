@@ -11,22 +11,22 @@
 <li><a href="/headline/20201113/1430277.md">《华尔街日报》：习近平亲自阻止了蚂蚁集团的IPO</a></li>
 <li><a href="/cbnews/20201113/1430502.md">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
 <li><a href="/cbnews/20201113/1430538.md">陈破空：特朗普突对中共发禁令！港人爆料：习近平父亲曾有惊人主张。蓬配奥引喻里根时代</a></li>
-<li><a href="/topimagenews/20201113/1430333.md">气晕拜登！英国首相发的“贺电”暗藏玄机</a></li>
 <li><a href="/topimagenews/20201114/1430644.md">重选？爆炸性新闻！他表态选举或非法左媒不敢报 拜登示弱媒体用词微妙变化</a></li>
+<li><a href="/topimagenews/20201113/1430333.md">气晕拜登！英国首相发的“贺电”暗藏玄机</a></li>
 <li><a href="/cbnews/20201113/1430429.md">川普律师伍德：中共干预大选 拜登等将入狱</a></li>
 <li><a href="/cbnews/20201113/1430531.md">川普这一表态北京紧张 谈美国大选 微博统统删</a></li>
 <li><a href="/comments/20201113/1430372.md">习近平罕见现身浦东30年大会 一件事无人相信？</a></li>
 <li><a href="/headline/20201113/1430512.md">马云讲了什么话引中共高层愤怒？港媒透露话前有人劝其低调</a></li>
 <li><a href="/topimagenews/20201113/1430541.md">谁倒霉？川普重磅禁令沾共军都惨了 美媒爆习亲定打马云蚂蚁 双十一快递小哥罢工上热搜</a></li>
 <li><a href="/cnnews/20201113/1430315.md">华尔街日报：习近平亲自决定终止蚂蚁370亿美元IPO</a></li>
-<li><a href="/topimagenews/20201113/1430598.md">糟心！民主党绝密高层女儿说漏 州长被曝与中共密切换投票机 华人热议中共最怕一幕出现</a></li>
-<li><a href="/bannedvideo/20201113/1430592.md">国内没收护照，限制人员出国，边境管控更加严格！</a></li>
 <li><a href="/baitai/20201113/1430610.md">广东捣破淫窝！按外貌能力分3档次一晚可挣50万</a></li>
+<li><a href="/bannedvideo/20201113/1430592.md">国内没收护照，限制人员出国，边境管控更加严格！</a></li>
+<li><a href="/topimagenews/20201113/1430598.md">糟心！民主党绝密高层女儿说漏 州长被曝与中共密切换投票机 华人热议中共最怕一幕出现</a></li>
 <li><a href="/cbnews/20201113/1430470.md">川普必胜 即将王者归来</a></li>
 <li><a href="/bannedvideo/20201113/1430353.md">川普捷报频传，布局很深力求一网打尽，未来预测，做好了最坏准备.2020年11月12日</a></li>
+<li><a href="/cbnews/20201114/1430653.md">川普三连击 中共外交部突然祝贺拜登</a></li>
 <li><a href="/cbnews/20201113/1430382.md">原中央警卫局长杨德中病逝 一度被逐出中南海</a></li>
 <li><a href="/cbnews/20201113/1430415.md">中国华信已破产 创办人叶简明来头大有军方背景</a></li>
-<li><a href="/cbnews/20201114/1430653.md">川普三连击 中共外交部突然祝贺拜登</a></li>
 <li><a href="/baitai/20201113/1430589.md">衡阳市委原书记李亿龙 尽选比自己女儿还小的女性发生关系</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201114/1430780.md" target="_blank">Twitter吹嘘内容审查结果初显</a></li>
 <li><a href="/cbnews/20201114/1430756.md" target="_blank">专栏 | 夜话中南海：现任政治局常委栗战书第一个确定在二十大上退休</a></li>
 <li><a href="/cbnews/20201114/1430727.md" target="_blank">太淡定了 湖南87岁老妇坠河后抱臂漂浮获救</a></li>
 <li><a href="/cbnews/20201114/1430723.md" target="_blank">大选更新11·13 川普：巨大支持 备感温暖</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201113/1430415.md" target="_blank">中国华信已破产 创办人叶简明来头大有军方背景</a></li>
 <li><a href="/cbnews/20201113/1430414.md" target="_blank">河北无极县一工厂爆炸 7死1伤 现场满目疮痍</a></li>
 <li><a href="/cbnews/20201113/1430411.md" target="_blank">曹长青∶美国的第四次重大选择</a></li>
-<li><a href="/cbnews/20201113/1430382.md" target="_blank">原中央警卫局长杨德中病逝 一度被逐出中南海</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201114/1430789.md" target="_blank">李平：杀死了立法会杀不死香港</a></li>
 <li><a href="/comments/20201114/1430778.md" target="_blank">评论 | 刘青：马云们不懂覆巢无完卵吗？</a></li>
 <li><a href="/comments/20201114/1430759.md" target="_blank">纳瓦罗：白宫正以推定川普连任的模式继续运作</a></li>
 <li><a href="/comments/20201114/1430758.md" target="_blank">「东方夏威夷」之称的韩国济州岛人气景点</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201113/1430603.md" target="_blank">【选情更新11/13】专家揭Dominion投票软件重大缺陷 川普：拜登其实输很惨</a></li>
 <li><a href="/comments/20201113/1430572.md" target="_blank">中国各地疫情频爆 却不断向境外甩锅</a></li>
 <li><a href="/comments/20201113/1430562.md" target="_blank">推特现自称北韩官员帐号大外宣兼批韩国</a></li>
-<li><a href="/comments/20201113/1430556.md" target="_blank">拜登丑闻再现：其过渡团队高级助理曾为亨特注资300万美元</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 
 </ul>
 </div>
