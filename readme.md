@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201113/1430141.md">爆炸!选票机内部人起义 川普会轻易赢得这两州 蓬佩奥警告拜登别违法</a></li>
 <li><a href="/bannedvideo/20201113/1430152.md">彭佩奥为什么对川普连任这么肯定？因为有一条路，即便最高法院被判了川普，也能让川普合法连任！纳姐邀请英国戴维为大家讲一讲这条路！</a></li>
+<li><a href="/topimagenews/20201113/1430441.md">推特中文圈热议一件事 中共最害怕的一幕出现了</a></li>
 <li><a href="/topimagenews/20201113/1430394.md">排山倒海直斥中共！川普顶尖大律师：他们忘记了我们是…</a></li>
 <li><a href="/cbnews/20201113/1430164.md">爱荷华发现计票错误 共和党众议院再拿一席</a></li>
-<li><a href="/topimagenews/20201113/1430441.md">推特中文圈热议一件事 中共最害怕的一幕出现了</a></li>
 <li><a href="/worldnews/usa/20201113/1430157.md">气晕拜登！英国首相发的“贺电”暗藏玄机…这乌龙贺信估计要上历史书…</a></li>
 <li><a href="/topimagenews/20201113/1430333.md">气晕拜登！英国首相发的“贺电”暗藏玄机</a></li>
-<li><a href="/cnnews/20201113/1430158.md">好消息！川普总统：Dominion试图改变大举 但被抓包 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201113/1430429.md">川普律师伍德：中共干预大选 拜登等将入狱</a></li>
+<li><a href="/cnnews/20201113/1430158.md">好消息！川普总统：Dominion试图改变大举 但被抓包 【阿波罗网编译】</a></li>
 <li><a href="/comments/20201113/1430224.md">千亿级国企爆雷：账上400多亿现金还不上10亿债券</a></li>
-<li><a href="/cnnews/20201113/1430188.md">美国人站出来！一万一千人宣誓为选举作弊作证 康州一个选区票没算 加上后共和党翻盘</a></li>
 <li><a href="/headline/20201113/1430277.md">《华尔街日报》：习近平亲自阻止了蚂蚁集团的IPO</a></li>
+<li><a href="/cnnews/20201113/1430188.md">美国人站出来！一万一千人宣誓为选举作弊作证 康州一个选区票没算 加上后共和党翻盘</a></li>
 <li><a href="/cnnews/20201113/1430315.md">华尔街日报：习近平亲自决定终止蚂蚁370亿美元IPO</a></li>
 <li><a href="/cnnews/20201113/1430173.md">大选夜川普乔州大胜 供水突然中断计票叫停 美媒独家曝黑幕 原来竟是一场戏？</a></li>
 <li><a href="/comments/20201113/1430132.md">评论 | 王丹：马云的失恋与恐怖情人</a></li>
 <li><a href="/bannedvideo/20201113/1430353.md">川普捷报频传，布局很深力求一网打尽，未来预测，做好了最坏准备.2020年11月12日</a></li>
 <li><a href="/comments/20201113/1430372.md">习近平罕见现身浦东30年大会 一件事无人相信？</a></li>
-<li><a href="/taiwannews/20201113/1430511.md">特朗普稳了！拜登跌落270票！总统5日游成世界笑柄</a></li>
-<li><a href="/cnnews/20201113/1430142.md">福克斯新闻挺拜登胜选收视率暴跌 不得不雇用危机管理团队【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201113/1430502.md">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
 <li><a href="/cbnews/20201113/1430382.md">原中央警卫局长杨德中病逝 一度被逐出中南海</a></li>
+<li><a href="/cnnews/20201113/1430142.md">福克斯新闻挺拜登胜选收视率暴跌 不得不雇用危机管理团队【阿波罗网编译】</a></li>
 <li><a href="/taiwannews/20201113/1430127.md">胡锡进向习近平报告美国大选，拜登和川普都不稳，但有一人稳了</a></li>
 <li><a href="/lifebaike/20201113/1430249.md">致癌的五种隔夜菜找到了 隔夜蔬菜排在第三位 排在首位的经常吃</a></li>
-<li><a href="/cbnews/20201113/1430502.md">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
+<li><a href="/cnnews/20201113/1430360.md">美FEC主席：民主党违规行径或导致选举非法</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201113/1430572.md" target="_blank">中国各地疫情频爆 却不断向境外甩锅</a></li>
 <li><a href="/comments/20201113/1430562.md" target="_blank">推特现自称北韩官员帐号大外宣兼批韩国</a></li>
 <li><a href="/comments/20201113/1430556.md" target="_blank">拜登丑闻再现：其过渡团队高级助理曾为亨特注资300万美元</a></li>
 <li><a href="/comments/20201113/1430552.md" target="_blank">威胁习近平？美媒爆马云令习震怒 亲自叫停蚂蚁上市</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201113/1430367.md" target="_blank">投书：为什么说共产党是中华民族的汉奸、骗子、罪人</a></li>
 <li><a href="/comments/20201113/1430355.md" target="_blank">孙大骆：习近平不想做终身制</a></li>
 <li><a href="/comments/20201113/1430343.md" target="_blank">高慧然：蔡总统 拜拜了 别告诉我她是一时疏忽</a></li>
-<li><a href="/comments/20201113/1430342.md" target="_blank">曾献唱挺川普 22岁非裔勇夺“美国小姐”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
