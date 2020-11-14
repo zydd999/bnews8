@@ -5,15 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201113/1430394.md">排山倒海直斥中共！川普顶尖大律师：他们忘记了我们是…</a></li>
 <li><a href="/topimagenews/20201113/1430441.md">推特中文圈热议一件事 中共最害怕的一幕出现了</a></li>
 <li><a href="/cbnews/20201113/1430502.md">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
 <li><a href="/cbnews/20201113/1430538.md">陈破空：特朗普突对中共发禁令！港人爆料：习近平父亲曾有惊人主张。蓬配奥引喻里根时代</a></li>
 <li><a href="/cbnews/20201113/1430531.md">川普这一表态北京紧张 谈美国大选 微博统统删</a></li>
 <li><a href="/topimagenews/20201114/1430644.md">重选？爆炸性新闻！他表态选举或非法左媒不敢报 拜登示弱媒体用词微妙变化</a></li>
 <li><a href="/cbnews/20201113/1430429.md">川普律师伍德：中共干预大选 拜登等将入狱</a></li>
-<li><a href="/headline/20201113/1430512.md">马云讲了什么话引中共高层愤怒？港媒透露话前有人劝其低调</a></li>
 <li><a href="/cbnews/20201114/1430756.md">专栏 | 夜话中南海：现任政治局常委栗战书第一个确定在二十大上退休</a></li>
+<li><a href="/headline/20201113/1430512.md">马云讲了什么话引中共高层愤怒？港媒透露话前有人劝其低调</a></li>
 <li><a href="/topimagenews/20201113/1430541.md">谁倒霉？川普重磅禁令沾共军都惨了 美媒爆习亲定打马云蚂蚁 双十一快递小哥罢工上热搜</a></li>
 <li><a href="/topimagenews/20201114/1430698.md">习近平操控扶拜登上位？ 拜登奥巴马都将入狱？ 美8成地区用问题投票机</a></li>
 <li><a href="/topimagenews/20201113/1430598.md">糟心！民主党绝密高层女儿说漏 州长被曝与中共密切换投票机 华人热议中共最怕一幕出现</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/baitai/20201113/1430610.md">广东捣破淫窝！按外貌能力分3档次一晚可挣50万</a></li>
 <li><a href="/bannedvideo/20201113/1430592.md">国内没收护照，限制人员出国，边境管控更加严格！</a></li>
 <li><a href="/cbnews/20201113/1430470.md">川普必胜 即将王者归来</a></li>
-<li><a href="/taiwannews/20201114/1430654.md">新闻11月13日: 精彩的最后一刻戏！ 特朗普总统赢得了重大胜利</a></li>
 <li><a href="/topimagenews/20201114/1430701.md">再轰计票系统！川普：有问题的州应该马上列入川普胜选州 拜登输很多</a></li>
+<li><a href="/taiwannews/20201114/1430654.md">新闻11月13日: 精彩的最后一刻戏！ 特朗普总统赢得了重大胜利</a></li>
+<li><a href="/worldnews/usa/20201114/1430765.md">美军最高将领：我们不向暴君或独裁者宣誓，效忠宪法</a></li>
 <li><a href="/cbnews/20201113/1430415.md">中国华信已破产 创办人叶简明来头大有军方背景</a></li>
 <li><a href="/baitai/20201113/1430589.md">衡阳市委原书记李亿龙 尽选比自己女儿还小的女性发生关系</a></li>
-<li><a href="/worldnews/usa/20201114/1430765.md">美军最高将领：我们不向暴君或独裁者宣誓，效忠宪法</a></li>
 <li><a href="/cbnews/20201114/1430661.md">大选更新11·13 川普：拜登没赢 他输很多</a></li>
 <li><a href="/comments/20201114/1430690.md">千年古墓被发掘,墓室惊现12个字,看呆考古专家</a></li>
+<li><a href="/cbnews/20201114/1430723.md">大选更新11·13 川普：巨大支持 备感温暖</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201114/1430924.md" target="_blank">北京男子锁喉摔倒警察 大喊：你知道我爸是谁吗？</a></li>
 <li><a href="/cbnews/20201114/1430895.md" target="_blank">大陆人关注美大选 指民主党作弊 望川普胜选</a></li>
 <li><a href="/cbnews/20201114/1430894.md" target="_blank">天亮时分：选委会主席：非法选举；各州最新进展和战略；周六挺川大游行，川普或出席；（政论天下第275集 20201113）</a></li>
 <li><a href="/cbnews/20201114/1430808.md" target="_blank">全面反攻！川普宾州诉讼获胜后开始在多个战场州发起新战役…强行换国防部长准备启动1807反叛乱法…左右两派还组织在华盛顿武斗？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201113/1430448.md" target="_blank">媒体宣布拜登胜选是共产主义精神战</a></li>
 <li><a href="/cbnews/20201113/1430502.md" target="_blank">中南海罕见承认：疫情非常严峻 这个冬天不好过</a></li>
 <li><a href="/cbnews/20201113/1430501.md" target="_blank">内蒙古三名退休官员同一天被调查</a></li>
-<li><a href="/cbnews/20201113/1430473.md" target="_blank">中共警察：“我要把你活埋了！”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 
 </ul>
 </div>
