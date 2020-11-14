@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201114/1430644.md">重选？爆炸性新闻！他表态选举或非法左媒不敢报 拜登示弱媒体用词微妙变化</a></li>
 <li><a href="/cbnews/20201114/1430756.md">专栏 | 夜话中南海：现任政治局常委栗战书第一个确定在二十大上退休</a></li>
 <li><a href="/cnnews/20201114/1430948.md">美军闪电突袭！或已掌握选举舞弊铁证！美国会议员爆出惊人消息</a></li>
 <li><a href="/topimagenews/20201114/1430698.md">习近平操控扶拜登上位？ 拜登奥巴马都将入狱？ 美8成地区用问题投票机</a></li>
 <li><a href="/bannedvideo/20201114/1430818.md">江泽民每天找处女玩 政法委书记们听了表示……</a></li>
 <li><a href="/cbnews/20201114/1430653.md">川普三连击 中共外交部突然祝贺拜登</a></li>
 <li><a href="/worldnews/usa/20201114/1430765.md">美军最高将领：我们不向暴君或独裁者宣誓，效忠宪法</a></li>
-<li><a href="/bannedvideo/20201114/1430827.md">比拜登多5票，川普法律战首胜；中共祝贺拜登胜选，习近平表态了？抓捕拜登奥巴马!?46人神秘死亡，希拉里难逃干系；美国进入国家紧急状态；台湾不属中共国，蓬佩奥踩中共红线【 大纪元 新闻看点11.12】</a></li>
 <li><a href="/cnnews/20201114/1430995.md">海政招待所成幽会之地 宋祖英贴身女侍曝江泽民秽乱文工团内幕</a></li>
+<li><a href="/bannedvideo/20201114/1430827.md">比拜登多5票，川普法律战首胜；中共祝贺拜登胜选，习近平表态了？抓捕拜登奥巴马!?46人神秘死亡，希拉里难逃干系；美国进入国家紧急状态；台湾不属中共国，蓬佩奥踩中共红线【 大纪元 新闻看点11.12】</a></li>
 <li><a href="/bannedvideo/20201114/1430969.md">美军在德国法兰克福扣押Scytl公司服务器，与Dominion计票公司篡票活动相关，中情局被完全排除在行动外！此事由美国一位德州联邦众议员率先曝光，信度与更多细节，仍待时间检验</a></li>
 <li><a href="/cnnews/20201114/1430873.md">马云好友 大陆富豪「钱多多」在香港大街被砍</a></li>
 <li><a href="/cbnews/20201114/1430924.md">北京男子锁喉摔倒警察 大喊：你知道我爸是谁吗？</a></li>
 <li><a href="/cnnews/hknews/20201114/1430987.md">马云好友惊传香港遭追斩重伤</a></li>
 <li><a href="/topimagenews/20201114/1430701.md">再轰计票系统！川普：有问题的州应该马上列入川普胜选州 拜登输很多</a></li>
 <li><a href="/taiwannews/20201114/1430654.md">新闻11月13日: 精彩的最后一刻戏！ 特朗普总统赢得了重大胜利</a></li>
-<li><a href="/bannedvideo/20201114/1430806.md">川普宣布美国进入紧急状态，蓬佩奥称台湾从来不属于中国</a></li>
 <li><a href="/comments/20201114/1430983.md">大陆知名游戏公司突发血案7人遭斩 传有玩家倾家荡产</a></li>
+<li><a href="/bannedvideo/20201114/1430806.md">川普宣布美国进入紧急状态，蓬佩奥称台湾从来不属于中国</a></li>
 <li><a href="/cbnews/20201114/1430808.md">全面反攻！川普宾州诉讼获胜后开始在多个战场州发起新战役…强行换国防部长准备启动1807反叛乱法…左右两派还组织在华盛顿武斗？</a></li>
-<li><a href="/cnnews/20201114/1430917.md">格斗白热化！大量蓝州检察官拼命阻挡巴尔选举调查 网友怒了</a></li>
 <li><a href="/cbnews/20201114/1430967.md">疫情升级 湖北黄冈罗田县宣布进入战时状态</a></li>
+<li><a href="/cnnews/20201114/1430917.md">格斗白热化！大量蓝州检察官拼命阻挡巴尔选举调查 网友怒了</a></li>
 <li><a href="/comments/20201114/1430690.md">千年古墓被发掘,墓室惊现12个字,看呆考古专家</a></li>
 <li><a href="/cbnews/20201114/1430661.md">大选更新11·13 川普：拜登没赢 他输很多</a></li>
-<li><a href="/cbnews/20201114/1430833.md">文昭：拜登会进「辛普森案」的坑？最後关头川普或对中共下雷霆重手</a></li>
+<li><a href="/bannedvideo/20201114/1431019.md">【谢田时间】惊心动魄！传美国国会议员透露：美军突袭德国法兰克福服务器所在地，投票作弊服务器被缴获 CIA卷入 试图抹掉证据！</a></li>
+<li><a href="/bannedvideo/20201114/1430988.md">🈲中共灭亡在即👁️4大兵变征兆❗盘点2020 四大兵变天象预言❗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 
 </ul>
 </div>
