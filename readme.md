@@ -9,14 +9,13 @@
 <li><a href="/topimagenews/20201114/1430644.md">重选？爆炸性新闻！他表态选举或非法左媒不敢报 拜登示弱媒体用词微妙变化</a></li>
 <li><a href="/cbnews/20201113/1430531.md">川普这一表态北京紧张 谈美国大选 微博统统删</a></li>
 <li><a href="/cbnews/20201114/1430756.md">专栏 | 夜话中南海：现任政治局常委栗战书第一个确定在二十大上退休</a></li>
-<li><a href="/headline/20201113/1430512.md">马云讲了什么话引中共高层愤怒？港媒透露话前有人劝其低调</a></li>
 <li><a href="/topimagenews/20201113/1430541.md">谁倒霉？川普重磅禁令沾共军都惨了 美媒爆习亲定打马云蚂蚁 双十一快递小哥罢工上热搜</a></li>
 <li><a href="/topimagenews/20201114/1430698.md">习近平操控扶拜登上位？ 拜登奥巴马都将入狱？ 美8成地区用问题投票机</a></li>
 <li><a href="/baitai/20201113/1430610.md">广东捣破淫窝！按外貌能力分3档次一晚可挣50万</a></li>
 <li><a href="/topimagenews/20201113/1430598.md">糟心！民主党绝密高层女儿说漏 州长被曝与中共密切换投票机 华人热议中共最怕一幕出现</a></li>
+<li><a href="/cnnews/20201114/1430948.md">美军闪电突袭！或已掌握选举舞弊铁证！美国会议员爆出惊人消息</a></li>
 <li><a href="/bannedvideo/20201114/1430818.md">江泽民每天找处女玩 政法委书记们听了表示……</a></li>
 <li><a href="/cbnews/20201114/1430653.md">川普三连击 中共外交部突然祝贺拜登</a></li>
-<li><a href="/cnnews/20201114/1430948.md">美军闪电突袭！或已掌握选举舞弊铁证！美国会议员爆出惊人消息</a></li>
 <li><a href="/bannedvideo/20201113/1430592.md">国内没收护照，限制人员出国，边境管控更加严格！</a></li>
 <li><a href="/worldnews/usa/20201114/1430765.md">美军最高将领：我们不向暴君或独裁者宣誓，效忠宪法</a></li>
 <li><a href="/cbnews/20201113/1430470.md">川普必胜 即将王者归来</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20201114/1430806.md">川普宣布美国进入紧急状态，蓬佩奥称台湾从来不属于中国</a></li>
 <li><a href="/comments/20201114/1430690.md">千年古墓被发掘,墓室惊现12个字,看呆考古专家</a></li>
 <li><a href="/cbnews/20201114/1430661.md">大选更新11·13 川普：拜登没赢 他输很多</a></li>
+<li><a href="/cbnews/20201114/1430808.md">全面反攻！川普宾州诉讼获胜后开始在多个战场州发起新战役…强行换国防部长准备启动1807反叛乱法…左右两派还组织在华盛顿武斗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
 
 </ul>
 </div>
