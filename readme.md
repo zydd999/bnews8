@@ -19,10 +19,10 @@
 <li><a href="/cnnews/20201114/1430873.md">马云好友 大陆富豪「钱多多」在香港大街被砍</a></li>
 <li><a href="/topimagenews/20201114/1430701.md">再轰计票系统！川普：有问题的州应该马上列入川普胜选州 拜登输很多</a></li>
 <li><a href="/cbnews/20201114/1430924.md">北京男子锁喉摔倒警察 大喊：你知道我爸是谁吗？</a></li>
+<li><a href="/bannedvideo/20201114/1430969.md">美军在德国法兰克福扣押Scytl公司服务器，与Dominion计票公司篡票活动相关，中情局被完全排除在行动外！此事由美国一位德州联邦众议员率先曝光，信度与更多细节，仍待时间检验</a></li>
 <li><a href="/taiwannews/20201114/1430654.md">新闻11月13日: 精彩的最后一刻戏！ 特朗普总统赢得了重大胜利</a></li>
 <li><a href="/baitai/20201113/1430589.md">衡阳市委原书记李亿龙 尽选比自己女儿还小的女性发生关系</a></li>
 <li><a href="/bannedvideo/20201114/1430806.md">川普宣布美国进入紧急状态，蓬佩奥称台湾从来不属于中国</a></li>
-<li><a href="/bannedvideo/20201114/1430969.md">美军在德国法兰克福扣押Scytl公司服务器，与Dominion计票公司篡票活动相关，中情局被完全排除在行动外！此事由美国一位德州联邦众议员率先曝光，信度与更多细节，仍待时间检验</a></li>
 <li><a href="/cnnews/20201114/1430917.md">格斗白热化！大量蓝州检察官拼命阻挡巴尔选举调查 网友怒了</a></li>
 <li><a href="/cbnews/20201114/1430808.md">全面反攻！川普宾州诉讼获胜后开始在多个战场州发起新战役…强行换国防部长准备启动1807反叛乱法…左右两派还组织在华盛顿武斗？</a></li>
 <li><a href="/comments/20201114/1430690.md">千年古墓被发掘,墓室惊现12个字,看呆考古专家</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201114/1431067.md" target="_blank">台湾学者：拜登是「奥巴马2.0」川普连任才能有效遏共</a></li>
 <li><a href="/comments/20201114/1430983.md" target="_blank">大陆知名游戏公司突发血案7人遭斩 传有玩家倾家荡产</a></li>
 <li><a href="/comments/20201114/1430982.md" target="_blank">患难见真情！澳洲驻台代表：台湾是 ｢真正的朋友｣</a></li>
 <li><a href="/comments/20201114/1430980.md" target="_blank">程翔：从川普选情看美国暗黑势力</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201114/1430855.md" target="_blank">日本防卫省智库：中共正在太空等新领域扩大威胁</a></li>
 <li><a href="/comments/20201114/1430854.md" target="_blank">潘小涛：美国乱局 北京有机可乘？</a></li>
 <li><a href="/comments/20201114/1430853.md" target="_blank">德媒：激怒&#8221;圣上&#8221; 习近平一声令下蚂蚁、马云痛失百亿</a></li>
-<li><a href="/comments/20201114/1430847.md" target="_blank">【东方纵横】川普完胜共和党</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
