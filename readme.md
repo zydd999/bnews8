@@ -9,21 +9,21 @@
 <li><a href="/cbnews/20201114/1431108.md">大选更新11·14 川普加州获票数创纪录</a></li>
 <li><a href="/comments/20201114/1430983.md">大陆知名游戏公司突发血案7人遭斩 传有玩家倾家荡产</a></li>
 <li><a href="/cbnews/20201115/1431161.md">突袭德意志！川普派兵端掉境外计票服务器、宣布“国家紧急状态”！开启“抵抗外国势力操纵政变”的战役…</a></li>
-<li><a href="/cnnews/hknews/20201114/1430987.md">马云好友惊传香港遭追斩重伤</a></li>
 <li><a href="/cbnews/20201115/1431205.md">习近平在扬州与“群众”互动 明知都是演员 仍很投入</a></li>
+<li><a href="/cnnews/hknews/20201114/1430987.md">马云好友惊传香港遭追斩重伤</a></li>
 <li><a href="/bannedvideo/20201114/1431019.md">【谢田时间】惊心动魄！传美国国会议员透露：美军突袭德国法兰克福服务器所在地，投票作弊服务器被缴获 CIA卷入 试图抹掉证据！</a></li>
 <li><a href="/bannedvideo/20201115/1431226.md">美国大选正式进入大逆转阶段！多米尼作弊软件真相大白，百万挺川大游行，这才是美国人的素质，大选照妖镜让我不再相信官方媒体！</a></li>
-<li><a href="/cbnews/20201114/1431132.md">美军突袭大选作弊窝点！已掌控偷换选票证据</a></li>
 <li><a href="/comments/20201115/1431139.md">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20201114/1431132.md">美军突袭大选作弊窝点！已掌控偷换选票证据</a></li>
 <li><a href="/cnnews/20201115/1431174.md">川普下一步要这样碾压获胜 川普雷霆之击中南海惶恐 拜登又曝以权谋私大丑闻</a></li>
 <li><a href="/bannedvideo/20201114/1431092.md">美国总统川普发布行政令，宣布进入“国家紧急状态”，严禁美国人投资任何有共军背景的中国企业，此外，国务卿蓬佩奥说“台湾一直不是中国的一部分”，看来中共这下恼火了</a></li>
 <li><a href="/cbnews/20201115/1431173.md">著名律师：拜登当不上总统 而是进牢房</a></li>
-<li><a href="/bannedvideo/20201114/1430988.md">🈲中共灭亡在即👁️4大兵变征兆❗盘点2020 四大兵变天象预言❗</a></li>
 <li><a href="/cbnews/20201115/1431061.md">服务器被曝遭美没收 Scytl辟谣声明后当机</a></li>
+<li><a href="/bannedvideo/20201114/1430988.md">🈲中共灭亡在即👁️4大兵变征兆❗盘点2020 四大兵变天象预言❗</a></li>
 <li><a href="/bannedvideo/20201115/1431154.md">收网，美军，德国，服务器，真实400+/100+。川普老谋深算，中共傻眼，马斯克暗中助力，离科技公司远远的。对未经证实的消息的分析</a></li>
 <li><a href="/cnnews/20201115/1431206.md">李源潮罕见现身上海进博会</a></li>
-<li><a href="/funmedia/20201114/1431029.md">杀了250万只之后 丹麦首相道歉：“杀错了!”</a></li>
 <li><a href="/yule/20201115/1431190.md">“最帅卓一航”病逝 年仅58岁 患癌期间只有干妹妹照顾</a></li>
+<li><a href="/funmedia/20201114/1431029.md">杀了250万只之后 丹麦首相道歉：“杀错了!”</a></li>
 <li><a href="/cnnews/20201114/1431031.md">抗暴！中国人刷屏抗议中共 企业家孙大午感人事迹传出 川普制裁！中企遭“特”袭</a></li>
 <li><a href="/topimagenews/20201115/1431326.md">川普顶尖大律师出手！起诉乔治亚州共和党州务卿 希拉里律师黑暗协议被曝光</a></li>
 <li><a href="/cnnews/20201115/1431248.md">全文翻译 阿利托大法官：现在还没天黑 但是已经快了</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201115/1431433.md" target="_blank">选举舞弊再曝实锤？好消息！川普将赢下乔治亚州？【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201115/1431393.md" target="_blank">美媒：拜登不仅仅偷了川普的选票 他还偷了…</a></li>
 <li><a href="/topimagenews/20201115/1431370.md" target="_blank">川普团队律师：“我一定会放出大杀器！把他们一个一个揪出来”</a></li>
 <li><a href="/topimagenews/20201115/1431369.md" target="_blank">很少人能想到！规模最大的沉默川粉竟然是她们</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201112/1429644.md" target="_blank">川普反击震慑大显立竿见影 贺电刹车 他追究拜登家通共 特工恐吓民主党对抗被打脸</a></li>
 <li><a href="/topimagenews/20201112/1429633.md" target="_blank">控计票错误、幽灵选票 川普团队将在密西根州开告</a></li>
 <li><a href="/topimagenews/20201112/1429619.md" target="_blank">告别推特与脸书？川普转移社群重心至Gab与Parler</a></li>
-<li><a href="/topimagenews/20201112/1429618.md" target="_blank">「奥巴马监控我的竞选活动」 川普：抓到了吧</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
