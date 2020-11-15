@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20201115/1431174.md">川普下一步要这样碾压获胜 川普雷霆之击中南海惶恐 拜登又曝以权谋私大丑闻</a></li>
 <li><a href="/cbnews/20201115/1431061.md">服务器被曝遭美没收 Scytl辟谣声明后当机</a></li>
 <li><a href="/bannedvideo/20201115/1431154.md">收网，美军，德国，服务器，真实400+/100+。川普老谋深算，中共傻眼，马斯克暗中助力，离科技公司远远的。对未经证实的消息的分析</a></li>
-<li><a href="/cbnews/20201115/1431173.md">著名律师：拜登当不上总统 而是进牢房</a></li>
 <li><a href="/topimagenews/20201115/1431369.md">很少人能想到！规模最大的沉默川粉竟然是她们</a></li>
-<li><a href="/topimagenews/20201115/1431326.md">川普顶尖大律师出手！起诉乔治亚州共和党州务卿 希拉里律师黑暗协议被曝光</a></li>
+<li><a href="/cbnews/20201115/1431173.md">著名律师：拜登当不上总统 而是进牢房</a></li>
 <li><a href="/topimagenews/20201115/1431393.md">美媒：拜登不仅仅偷了川普的选票 他还偷了…</a></li>
 <li><a href="/cnnews/20201115/1431206.md">李源潮罕见现身上海进博会</a></li>
+<li><a href="/topimagenews/20201115/1431326.md">川普顶尖大律师出手！起诉乔治亚州共和党州务卿 希拉里律师黑暗协议被曝光</a></li>
 <li><a href="/yule/20201115/1431190.md">“最帅卓一航”病逝 年仅58岁 患癌期间只有干妹妹照顾</a></li>
 <li><a href="/cnnews/20201115/1431248.md">全文翻译 阿利托大法官：现在还没天黑 但是已经快了</a></li>
-<li><a href="/topimagenews/20201115/1431370.md">川普团队律师：“我一定会放出大杀器！把他们一个一个揪出来”</a></li>
 <li><a href="/taiwannews/20201115/1431377.md">整个美国都收到了特朗普总统的好消息！特朗普总统100％获胜</a></li>
-<li><a href="/cnnews/20201114/1431084.md">视频：酒店已满！美国各州川普支持者 齐赴华盛顿参加百万人大游行</a></li>
-<li><a href="/ssgc/20201114/1431120.md">川普启动雷霆之击 北京忧心之事将至</a></li>
-<li><a href="/cnnews/20201115/1431186.md">川普现身场面沸腾全美挺川 团队致电125万选民挨个查 川普：不要和我赌会连任</a></li>
+<li><a href="/topimagenews/20201115/1431370.md">川普团队律师：“我一定会放出大杀器！把他们一个一个揪出来”</a></li>
 <li><a href="/topimagenews/20201115/1431433.md">选举舞弊再曝实锤？好消息！川普将赢下乔治亚州？【阿波罗网编译】</a></li>
+<li><a href="/ssgc/20201114/1431120.md">川普启动雷霆之击 北京忧心之事将至</a></li>
+<li><a href="/cnnews/20201114/1431084.md">视频：酒店已满！美国各州川普支持者 齐赴华盛顿参加百万人大游行</a></li>
+<li><a href="/cnnews/20201115/1431186.md">川普现身场面沸腾全美挺川 团队致电125万选民挨个查 川普：不要和我赌会连任</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 
 </ul>
 </div>
