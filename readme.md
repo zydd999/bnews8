@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20201115/1431466.md">突然宣布：中国联通2G3G退网 民叹“咋办？”</a></li>
 <li><a href="/cbnews/20201116/1431654.md">安徽女护士死于副院长家楼顶 生前遭其强暴 父发公开信求救遭封杀</a></li>
 <li><a href="/taiwannews/20201115/1431471.md">美国首都万人空巷，川普落泪，有哪些影响和意义？.</a></li>
+<li><a href="/health/20201116/1431769.md">26岁女子每天放屁50多次 送医后化验单吓到医生</a></li>
 <li><a href="/comments/20201116/1431633.md">为何找不到外星人？科学家给出可怕的假说</a></li>
 <li><a href="/ssgc/20201116/1431675.md">〖兲朝浮世绘〗多行不义必自毙，AT&amp;T要卖CNN了</a></li>
-<li><a href="/health/20201116/1431769.md">26岁女子每天放屁50多次 送医后化验单吓到医生</a></li>
 <li><a href="/cbnews/20201116/1431640.md">武斗开始！川普支持者和黑命贵在争夺华盛顿！计票公司辟谣被打脸…它之前发的广告就写着“德国先进服务器”</a></li>
+<li><a href="/cbnews/20201116/1431778.md">惊 吉林辽源现“中共病毒”随地倒 围观民众竟笑出声</a></li>
 <li><a href="/cnnews/20201115/1431469.md">教宗把持不住？ 方济各在辣妹IG照按赞遭抓包</a></li>
 <li><a href="/bannedvideo/20201116/1431604.md">反川普恐怖组织成员操控投票系统：都安排好了！CNN或将面临被出售命运，反川普达极致，母公司AT&T欠帐1500亿；DC挺川普百万游行，场面震撼！极左组织袭击游行参与者</a></li>
-<li><a href="/cbnews/20201116/1431778.md">惊 吉林辽源现“中共病毒”随地倒 围观民众竟笑出声</a></li>
+<li><a href="/bannedvideo/20201116/1431782.md">财经冷眼：中国建成世界最大自贸圈！国运真的到了？美国或重返TPP反制！中共为什么这么害怕TPP？深入分析TPP的杀伤力！（20201116第382期）</a></li>
 <li><a href="/comments/20201116/1431593.md">重磅！吹哨人揭美大选原始数据：加州翻红 川普以410票大赢</a></li>
 <li><a href="/cbnews/20201115/1426632.md">“阴谋的败落”，了解世界顶级暗势力，川普终将大胜（2）</a></li>
-<li><a href="/yule/20201116/1431672.md">王刚8年后首回应砸宝案！曾传鉴宝错砸2亿古董 称：本不愿再提</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201116/1431916.md" target="_blank">西安事变爆发 宋美龄第一时间要找的是这个人</a></li>
+<li><a href="/comments/20201116/1431915.md" target="_blank">道士说的八字真言 蒋介石琢磨了24年终于印证</a></li>
 <li><a href="/comments/20201116/1431866.md" target="_blank">马来西亚拒北京引渡维族难民要求 学者大赞「很负责任」</a></li>
 <li><a href="/comments/20201116/1431865.md" target="_blank">素不相识就撞衫、撞包、撞发型、甚至还要撞个脸~</a></li>
 <li><a href="/comments/20201116/1431860.md" target="_blank">一朵看似普通的小白花，遇水后展现神奇的魔法，呈现一种冰清玉洁的美感</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201116/1431662.md" target="_blank">对川普的攻击是现代版傲慢与偏见</a></li>
 <li><a href="/comments/20201116/1431656.md" target="_blank">几十万人华盛顿自由广场挺川普 华裔同护美国传统价值</a></li>
 <li><a href="/comments/20201116/1431651.md" target="_blank">川普律师鲍威尔：我们将推翻数州的大选结果</a></li>
-<li><a href="/comments/20201116/1431650.md" target="_blank">乌克兰总统染疫内阁沦陷喊话促改革持续</a></li>
-<li><a href="/comments/20201116/1431636.md" target="_blank">乔州州务卿被告上法庭 川普律师：更改计票方式违宪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
