@@ -6,14 +6,13 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20201116/1431676.md">德国吹哨人爆美大选真实数据： 川普410票大赢</a></li>
-<li><a href="/cbnews/20201116/1431617.md">重磅！德国吹哨人爆美大选真实数据： 川普410票大赢</a></li>
 <li><a href="/cbnews/20201116/1431645.md">网曝重庆市街头出现随地倒 民众似乎已经麻木</a></li>
 <li><a href="/topimagenews/20201116/1431873.md">拜登凉凉！“到今天为止 还没有明显的当选总统” 美政府运作小组首席委员发声</a></li>
 <li><a href="/topimagenews/20201116/1431625.md">黑幕你想象不到！ 川普女律师曝内幕 应该开除FBI雷局长 摇摆州可重新投票</a></li>
 <li><a href="/cbnews/20201116/1431654.md">安徽女护士死于副院长家楼顶 生前遭其强暴 父发公开信求救遭封杀</a></li>
 <li><a href="/topimagenews/20201116/1431731.md">惊爆！投票系统软件公司董事长 被任命为拜登“过渡团队”成员</a></li>
-<li><a href="/cnnews/20201116/1431853.md">选票真的在德国的服务器上！震撼视频！安全专家曝光：改动选票非常容易</a></li>
 <li><a href="/health/20201116/1431769.md">26岁女子每天放屁50多次 送医后化验单吓到医生</a></li>
+<li><a href="/cnnews/20201116/1431853.md">选票真的在德国的服务器上！震撼视频！安全专家曝光：改动选票非常容易</a></li>
 <li><a href="/comments/20201116/1431633.md">为何找不到外星人？科学家给出可怕的假说</a></li>
 <li><a href="/cbnews/20201116/1431946.md">陈破空：习近平突然空降上海！追击政敌？下达军队作战大纲，恐吓谁？金灿荣泄露重大机密</a></li>
 <li><a href="/ssgc/20201116/1431675.md">〖兲朝浮世绘〗多行不义必自毙，AT&amp;T要卖CNN了</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/lifebaike/20201116/1431742.md">好准哦！孩子几点出生 决定他一生的性格</a></li>
 <li><a href="/cbnews/20201116/1431639.md">亚美尼亚基督徒含泪烧毁家园！阿塞拜疆穆斯林大军在普京的默许下接管城镇……战争结束了</a></li>
 <li><a href="/cbnews/20201116/1431938.md">RCEP协定，做给美国看的戏</a></li>
+<li><a href="/baitai/20201116/1432012.md">「抓住一切机会各种摩擦」 女教师怀孕仍校内四处「激战」男教师</a></li>
 <li><a href="/yule/20201116/1431672.md">王刚8年后首回应砸宝案！曾传鉴宝错砸2亿古董 称：本不愿再提</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201117/1432110.md" target="_blank">被央视污言秽语狂骂 蓬佩奥：继续制裁</a></li>
 <li><a href="/cbnews/20201117/1432105.md" target="_blank">大选更新11.16：川普将发起重大诉讼</a></li>
 <li><a href="/cbnews/20201117/1432101.md" target="_blank">广东2岁男童搭网约车横跨两省 到终点众人惊呆了</a></li>
 <li><a href="/cbnews/20201117/1432083.md" target="_blank">美国思想领袖：中国观察员莫拉·莫伊尼汉：西藏正在消亡，水资源在被武器化！亚洲水域问题远不止三峡大坝，中共如何控制亚洲水资源？为何这些危机没被真正报导过？美国对新疆官员实施制裁有何意味？| 大纪元</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201116/1431645.md" target="_blank">网曝重庆市街头出现随地倒 民众似乎已经麻木</a></li>
 <li><a href="/cbnews/20201116/1431637.md" target="_blank">陈破空：美国大选争议，民主党取消庆功宴</a></li>
 <li><a href="/cbnews/20201116/1431618.md" target="_blank">美国公立教育歪曲历史 造成社会主义思潮泛滥</a></li>
-<li><a href="/cbnews/20201116/1431617.md" target="_blank">重磅！德国吹哨人爆美大选真实数据： 川普410票大赢</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
