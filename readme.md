@@ -24,10 +24,10 @@
 <li><a href="/cbnews/20201116/1431639.md">亚美尼亚基督徒含泪烧毁家园！阿塞拜疆穆斯林大军在普京的默许下接管城镇……战争结束了</a></li>
 <li><a href="/topimagenews/20201116/1432047.md">替川普鸣不平 伊万卡开腔怒斥：可耻 小川普：主流传媒是暴力的帮凶</a></li>
 <li><a href="/bannedvideo/20201116/1431999.md">太搞笑了！拜登获得八千万选票，哈哈！史无前例破记录的数据！</a></li>
+<li><a href="/topimagenews/20201117/1432130.md">川普胜18个风向标县碾压拜登 投票机发明者忘形狂笑变大哭 拜登中共勾兑江系曝闭门会议</a></li>
+<li><a href="/taiwannews/20201117/1432088.md">习近平突然空降上海！追击政敌？下达军队作战大纲，恐吓谁？-陈破空</a></li>
 <li><a href="/health/20201116/1431909.md">晨起后洗头和晚上睡前洗头 哪种危害大？多久洗一次头才健康？</a></li>
 <li><a href="/bannedvideo/20201116/1431941.md">原始数据曝光！川普票数超高 早已大赢,声势浩大 川普支持者华府游行,习在江泽民老家向小童喊一句话 火了,马云好友被追杀 释放信号？蚂蚁集团背后水很深,原始数据曝光！,川普票数超高,早已大赢,曝光,数据</a></li>
-<li><a href="/cnnews/20201116/1432005.md">头朝下卡石缝24小时…他最终被就地掩埋</a></li>
-<li><a href="/topimagenews/20201117/1432130.md">川普胜18个风向标县碾压拜登 投票机发明者忘形狂笑变大哭 拜登中共勾兑江系曝闭门会议</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201117/1432220.md" target="_blank">美媒：拜登上台华为将重返美国 危及自由社会</a></li>
+<li><a href="/comments/20201117/1432219.md" target="_blank">耶稣被钉十字架是为了外星人?</a></li>
 <li><a href="/comments/20201117/1432208.md" target="_blank">A股爆雷：天齐锂业超100亿债务或违约</a></li>
 <li><a href="/comments/20201117/1432201.md" target="_blank">挺川大游行告诉你 美国川粉都是些什么人</a></li>
 <li><a href="/comments/20201117/1432200.md" target="_blank">蚂蚁造富梦想幻灭 杭州一夜暴涨的楼市又跌了</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201116/1432024.md" target="_blank">刘锐绍：习近平趁美国大选加速集权 提早引爆内部动荡</a></li>
 <li><a href="/comments/20201116/1432023.md" target="_blank">【选情更新11/16】川普在风向标县大胜 示入主白宫信号 川普：我已赢了</a></li>
 <li><a href="/comments/20201116/1431991.md" target="_blank">高校高科技监控学生归寝时间 “非法离寝”者遭处罚引热议</a></li>
-<li><a href="/comments/20201116/1431899.md" target="_blank">中共不能代表中国人民的N个理由（之六）：愚民洗脑，中共岂能代表中国人民</a></li>
-<li><a href="/comments/20201116/1431978.md" target="_blank">历史上的今天／SARS首例在中国大陆被发现</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
 
 </ul>
 </div>
