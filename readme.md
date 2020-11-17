@@ -16,8 +16,8 @@
 <li><a href="/topimagenews/20201117/1432369.md">费城黑帮老大要和拜登翻脸！ 他参与了世纪大劫案：美国总统大选</a></li>
 <li><a href="/bannedvideo/20201117/1432501.md">【谢田时间】内部人士：蚂蚁不能上市原因-马云私下骂习近平是习畜生被告密；中共严重钱慌 中国人出国旅游难上加难</a></li>
 <li><a href="/ssgc/20201117/1432166.md">〖兲朝浮世绘〗谁都不如朝中社骂拜登狠</a></li>
-<li><a href="/comments/20201117/1432455.md">王岐山何止站稳了脚跟？又再高调露面</a></li>
 <li><a href="/renquan/20201117/1432497.md">内蒙警察王胜利被灭口前的遗书</a></li>
+<li><a href="/comments/20201117/1432455.md">王岐山何止站稳了脚跟？又再高调露面</a></li>
 <li><a href="/cbnews/20201117/1432335.md">中国多地持续出现疫情 中共甩锅…</a></li>
 <li><a href="/cbnews/20201117/1432287.md">天亮时分：美国最大民兵组织将抵制拜登；大选中的华人身影；维州可能翻红？川普宾州撤诉？互联网巨头的串谋（政论天下第276集 20201116）</a></li>
 <li><a href="/cbnews/20201117/1432368.md">江峰：高院一锤定音难？乔治亚重开票再现弊端 川普的难和出路；干涉大选制裁令，川普两年前已悄悄布局</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/headline/20201117/1432364.md">又一民营企业家落马 南京前首富杨宗义被查</a></li>
 <li><a href="/yule/20201117/1432232.md">26岁混血女孩因长得太甜上日本热搜第一</a></li>
 <li><a href="/funmedia/20201117/1432289.md">真正聪明的女人 不会嫁入这3种家庭</a></li>
-<li><a href="/cbnews/20201117/1432160.md">西安病了么？为什么那么多人要进行核酸检测？</a></li>
+<li><a href="/health/20201117/1432374.md">7种美食是公认的“催老剂” 你却舍不得丢掉 难怪比别人老得快</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201118/1432674.md" target="_blank">怪闻：善良老人被列为“网逃”追捕</a></li>
 <li><a href="/comments/20201118/1432659.md" target="_blank">近藤真彦认5年婚外情 杰尼斯严惩无限期停止活动</a></li>
 <li><a href="/comments/20201118/1432649.md" target="_blank">包商银行65亿资本债永久注销 投资者血本无归</a></li>
 <li><a href="/comments/20201118/1432648.md" target="_blank">促宗教自由部长级会议召开 蓬佩奥吁全球关注</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201117/1432390.md" target="_blank">冬日饮茶有禁忌，几个“不宜”你知多少？</a></li>
 <li><a href="/comments/20201117/1432389.md" target="_blank">提醒：冬天记得要戴帽子</a></li>
 <li><a href="/comments/20201117/1432362.md" target="_blank">运动可延缓老化的关键原因</a></li>
-<li><a href="/comments/20201117/1432356.md" target="_blank">没有美台加入 台经济专家：不看好15国签署的RCEP</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
