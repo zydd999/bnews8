@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201116/1431873.md">拜登凉凉！“到今天为止 还没有明显的当选总统” 美政府运作小组首席委员发声</a></li>
 <li><a href="/cnnews/20201116/1431853.md">选票真的在德国的服务器上！震撼视频！安全专家曝光：改动选票非常容易</a></li>
-<li><a href="/cbnews/20201117/1432168.md">好友香港被砍后 网曝马云立刻采取了这个行动</a></li>
 <li><a href="/baitai/20201116/1432012.md">「抓住一切机会各种摩擦」 女教师怀孕仍校内四处「激战」男教师</a></li>
+<li><a href="/cbnews/20201117/1432168.md">好友香港被砍后 网曝马云立刻采取了这个行动</a></li>
 <li><a href="/cbnews/20201116/1431946.md">陈破空：习近平突然空降上海！追击政敌？下达军队作战大纲，恐吓谁？金灿荣泄露重大机密</a></li>
 <li><a href="/topimagenews/20201117/1432109.md">川普公开宣布胜利！反川媒体CNN因虚假宣传而导致运营不下去…被挂牌出售！盘点他们撒的谎…</a></li>
 <li><a href="/cbnews/20201116/1431874.md">中共官媒打架 只因抗日新剧太雷人</a></li>
 <li><a href="/topimagenews/20201117/1432130.md">川普胜18个风向标县碾压拜登 投票机发明者忘形狂笑变大哭 拜登中共勾兑江系曝闭门会议</a></li>
-<li><a href="/health/20201117/1432195.md">“中国式养车”充满穷人思维 专家：再这样下去 迟早要报废</a></li>
 <li><a href="/cnnews/20201116/1432054.md">形势逆转！关键时刻黑石苏世民力挺川普</a></li>
+<li><a href="/health/20201117/1432195.md">“中国式养车”充满穷人思维 专家：再这样下去 迟早要报废</a></li>
 <li><a href="/cbnews/20201116/1431938.md">RCEP协定，做给美国看的戏</a></li>
-<li><a href="/cnnews/20201116/1431833.md">她掌握了什么证据？川普律师：他们甚至可以从德国或委内瑞拉...</a></li>
 <li><a href="/lifebaike/20201116/1431905.md">为何出租车经常跑不用大修 私家车跑的不多要常修？原因很真实</a></li>
 <li><a href="/topimagenews/20201116/1432047.md">替川普鸣不平 伊万卡开腔怒斥：可耻 小川普：主流传媒是暴力的帮凶</a></li>
 <li><a href="/bannedvideo/20201116/1431999.md">太搞笑了！拜登获得八千万选票，哈哈！史无前例破记录的数据！</a></li>
 <li><a href="/taiwannews/20201117/1432088.md">习近平突然空降上海！追击政敌？下达军队作战大纲，恐吓谁？-陈破空</a></li>
 <li><a href="/headline/20201117/1432187.md">意大利出现新冠病毒疑比武汉通报更早 病毒源头调查中国阻力大</a></li>
 <li><a href="/health/20201116/1431909.md">晨起后洗头和晚上睡前洗头 哪种危害大？多久洗一次头才健康？</a></li>
-<li><a href="/bannedvideo/20201116/1431941.md">原始数据曝光！川普票数超高 早已大赢,声势浩大 川普支持者华府游行,习在江泽民老家向小童喊一句话 火了,马云好友被追杀 释放信号？蚂蚁集团背后水很深,原始数据曝光！,川普票数超高,早已大赢,曝光,数据</a></li>
 <li><a href="/ssgc/20201117/1432166.md">〖兲朝浮世绘〗谁都不如朝中社骂拜登狠</a></li>
+<li><a href="/bannedvideo/20201116/1431941.md">原始数据曝光！川普票数超高 早已大赢,声势浩大 川普支持者华府游行,习在江泽民老家向小童喊一句话 火了,马云好友被追杀 释放信号？蚂蚁集团背后水很深,原始数据曝光！,川普票数超高,早已大赢,曝光,数据</a></li>
 <li><a href="/cnnews/20201116/1432005.md">头朝下卡石缝24小时…他最终被就地掩埋</a></li>
-<li><a href="/baitai/20201116/1431894.md">亲戚冷漠 88岁老人把300万房产送给楼下水果摊店主</a></li>
 <li><a href="/cnnews/20201117/1432134.md">女大学生重庆景区落水 61岁英国总领事跳水救人</a></li>
+<li><a href="/baitai/20201116/1431894.md">亲戚冷漠 88岁老人把300万房产送给楼下水果摊店主</a></li>
+<li><a href="/comments/20201117/1432098.md">在南极禁飞区美国前飞行工程师看到了许多不该看到的东西</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201117/1432344.md" target="_blank">&#8220;我得到可靠消息 美军一支部队确实进行了控制计算机服务器的行动&#8221;</a></li>
 <li><a href="/topimagenews/20201117/1432325.md" target="_blank">“我了解第一手情况”川普律师释重磅证词：这个阴谋始于十多年前..</a></li>
 <li><a href="/topimagenews/20201117/1432313.md" target="_blank">这可能是他们最后悔的视频！黑掉Dominion投票机 只需6步！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201117/1432263.md" target="_blank">重量级民主党竞选顾问爆料：“每张选票最多五分钟就搞定”</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201114/1430701.md" target="_blank">再轰计票系统！川普：有问题的州应该马上列入川普胜选州 拜登输很多</a></li>
 <li><a href="/topimagenews/20201114/1430698.md" target="_blank">习近平操控扶拜登上位？ 拜登奥巴马都将入狱？ 美8成地区用问题投票机</a></li>
 <li><a href="/topimagenews/20201114/1430644.md" target="_blank">重选？爆炸性新闻！他表态选举或非法左媒不敢报 拜登示弱媒体用词微妙变化</a></li>
-<li><a href="/topimagenews/20201113/1430598.md" target="_blank">糟心！民主党绝密高层女儿说漏 州长被曝与中共密切换投票机 华人热议中共最怕一幕出现</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 
 </ul>
 </div>
