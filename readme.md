@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20201117/1432312.md">川普宣布胜选，拜登懵！光明之子军团晒震撼证据！中共央视暴骂蓬佩奥！左媒怎么啦？</a></li>
-<li><a href="/topimagenews/20201117/1432313.md">这可能是他们最后悔的视频！黑掉Dominion投票机 只需6步！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201117/1432344.md">"我得到可靠消息 美军一支部队确实进行了控制计算机服务器的行动"</a></li>
+<li><a href="/topimagenews/20201117/1432313.md">这可能是他们最后悔的视频！黑掉Dominion投票机 只需6步！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201117/1432446.md">习近平高谈爱国最恨富人1点 党媒吹嘘RCEP被戳穿重要2点 14名中国船员被绑票失踪</a></li>
 <li><a href="/topimagenews/20201117/1432369.md">费城黑帮老大要和拜登翻脸！ 他参与了世纪大劫案：美国总统大选</a></li>
 <li><a href="/bannedvideo/20201117/1432501.md">【谢田时间】内部人士：蚂蚁不能上市原因-马云私下骂习近平是习畜生被告密；中共严重钱慌 中国人出国旅游难上加难</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20201117/1432368.md">江峰：高院一锤定音难？乔治亚重开票再现弊端 川普的难和出路；干涉大选制裁令，川普两年前已悄悄布局</a></li>
 <li><a href="/ssgc/20201117/1432450.md">华尔街之王突然挺川普传达了什么信号？</a></li>
 <li><a href="/headline/20201117/1432364.md">又一民营企业家落马 南京前首富杨宗义被查</a></li>
+<li><a href="/topimagenews/20201118/1432628.md">天 数百万人出来指证作弊 民主党溃败？大佬发话 此州顶不住!CIA局长...</a></li>
 <li><a href="/topimagenews/20201117/1432325.md">“我了解第一手情况”川普律师释重磅证词：这个阴谋始于十多年前..</a></li>
 <li><a href="/yule/20201117/1432232.md">26岁混血女孩因长得太甜上日本热搜第一</a></li>
 <li><a href="/funmedia/20201117/1432289.md">真正聪明的女人 不会嫁入这3种家庭</a></li>
-<li><a href="/topimagenews/20201118/1432628.md">天 数百万人出来指证作弊 民主党溃败？大佬发话 此州顶不住!CIA局长...</a></li>
 <li><a href="/taiwannews/20201117/1432568.md">独！中国富豪被消失！习近平警告马云！要「拿钱救党」？！中共用钱收买全世界！传媒、千人计划遭全面渗透？美从中东撤军备战中国？！【年代向钱看】20201117</a></li>
 <li><a href="/health/20201117/1432374.md">7种美食是公认的“催老剂” 你却舍不得丢掉 难怪比别人老得快</a></li>
 <li><a href="/cbnews/20201117/1432507.md">大选更新11.17：选举舞弊越揭越深</a></li>
-<li><a href="/yule/20201117/1432217.md">39岁范冰冰近照曝光 筷子腿超显长 却被指没高级感？</a></li>
 <li><a href="/comments/20201117/1432295.md">疯狂！河北保定高碑店警察荷枪实弹暴力绑架靳凤羽</a></li>
 <li><a href="/topimagenews/20201117/1432263.md">重量级民主党竞选顾问爆料：“每张选票最多五分钟就搞定”</a></li>
+<li><a href="/cbnews/20201117/1432327.md">川普再让北京吃苦头？美商务部传人事异动</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201118/1432733.md" target="_blank">美军舰击落洲际弹道导弹 首试成功</a></li>
+<li><a href="/cbnews/20201118/1432732.md" target="_blank">王岐山罕见深夜露面 疑向拜登阵营喊话</a></li>
 <li><a href="/cbnews/20201118/1432693.md" target="_blank">从政治、学术到社媒 中共触角有多长？</a></li>
 <li><a href="/cbnews/20201118/1432692.md" target="_blank">保定法轮功学员靳凤羽遭荷枪实弹的警察绑架</a></li>
 <li><a href="/cbnews/20201118/1432691.md" target="_blank">疫情期间多上网课 9省市中小学生逾70%近视加深</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20201117/1424740.md" target="_blank">治国大道(十八)：西方魔道</a></li>
 <li><a href="/cbnews/20201117/1432228.md" target="_blank">文昭：川普团队称实锤在握，将雷霆反击！人民展示力量，拜登「疑罪从无」就职？北京推出超大自贸圈，全球化回马枪？</a></li>
 <li><a href="/topimagenews/20201117/1432109.md" target="_blank">川普公开宣布胜利！反川媒体CNN因虚假宣传而导致运营不下去…被挂牌出售！盘点他们撒的谎…</a></li>
-<li><a href="/cbnews/20201117/1432199.md" target="_blank">专栏 | 夜话中南海：习近平的“之江新军”原来是这样炼成的</a></li>
-<li><a href="/cbnews/20201117/1432168.md" target="_blank">好友香港被砍后 网曝马云立刻采取了这个行动</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201118/1432745.md" target="_blank">德州众议员巴宾：我相信川普在法庭能够胜诉</a></li>
+<li><a href="/comments/20201118/1432731.md" target="_blank">川普与拜登之争的根本</a></li>
 <li><a href="/comments/20201118/1432717.md" target="_blank">华盛顿挺川维宪大游行到底有多少人？</a></li>
 <li><a href="/comments/20201118/1432708.md" target="_blank">经济学家：蚂蚁集团不可能在中国上市了</a></li>
 <li><a href="/comments/20201118/1432707.md" target="_blank">紫光和华晨两家国企同日宣布违约</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201117/1432438.md" target="_blank">名家专栏：大选远远没结束的20个理由</a></li>
 <li><a href="/comments/20201117/1432406.md" target="_blank">刮起红色飓风的美大选如何遭窃 鲍威尔用例证揭原由</a></li>
 <li><a href="/comments/20201117/1432403.md" target="_blank">韩战惨烈真相：连长宁愿自残也不上战场</a></li>
-<li><a href="/comments/20201117/1432393.md" target="_blank">「蔬菜界人参」防骨质疏松又呵护心脏</a></li>
-<li><a href="/comments/20201117/1432392.md" target="_blank">知道【香害】吗？香起来也要人要命的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
