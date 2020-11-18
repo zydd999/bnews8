@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20201117/1432313.md">这可能是他们最后悔的视频！黑掉Dominion投票机 只需6步！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201117/1432446.md">习近平高谈爱国最恨富人1点 党媒吹嘘RCEP被戳穿重要2点 14名中国船员被绑票失踪</a></li>
 <li><a href="/bannedvideo/20201117/1432501.md">【谢田时间】内部人士：蚂蚁不能上市原因-马云私下骂习近平是习畜生被告密；中共严重钱慌 中国人出国旅游难上加难</a></li>
-<li><a href="/topimagenews/20201117/1432369.md">费城黑帮老大要和拜登翻脸！ 他参与了世纪大劫案：美国总统大选</a></li>
 <li><a href="/comments/20201117/1432455.md">王岐山何止站稳了脚跟？又再高调露面</a></li>
+<li><a href="/topimagenews/20201117/1432369.md">费城黑帮老大要和拜登翻脸！ 他参与了世纪大劫案：美国总统大选</a></li>
 <li><a href="/renquan/20201117/1432497.md">内蒙警察王胜利被灭口前的遗书</a></li>
 <li><a href="/cbnews/20201117/1432335.md">中国多地持续出现疫情 中共甩锅…</a></li>
 <li><a href="/topimagenews/20201118/1432628.md">天 数百万人出来指证作弊 民主党溃败？大佬发话 此州顶不住!CIA局长...</a></li>
-<li><a href="/cbnews/20201117/1432287.md">天亮时分：美国最大民兵组织将抵制拜登；大选中的华人身影；维州可能翻红？川普宾州撤诉？互联网巨头的串谋（政论天下第276集 20201116）</a></li>
+<li><a href="/topimagenews/20201118/1432762.md">美国大选已经Game Over，川普的水平高得令人震怖</a></li>
 <li><a href="/cbnews/20201117/1432368.md">江峰：高院一锤定音难？乔治亚重开票再现弊端 川普的难和出路；干涉大选制裁令，川普两年前已悄悄布局</a></li>
 <li><a href="/ssgc/20201117/1432450.md">华尔街之王突然挺川普传达了什么信号？</a></li>
-<li><a href="/topimagenews/20201118/1432762.md">美国大选已经Game Over，川普的水平高得令人震惊</a></li>
 <li><a href="/headline/20201117/1432364.md">又一民营企业家落马 南京前首富杨宗义被查</a></li>
 <li><a href="/topimagenews/20201117/1432325.md">“我了解第一手情况”川普律师释重磅证词：这个阴谋始于十多年前..</a></li>
 <li><a href="/taiwannews/20201117/1432568.md">独！中国富豪被消失！习近平警告马云！要「拿钱救党」？！中共用钱收买全世界！传媒、千人计划遭全面渗透？美从中东撤军备战中国？！【年代向钱看】20201117</a></li>
-<li><a href="/funmedia/20201117/1432289.md">真正聪明的女人 不会嫁入这3种家庭</a></li>
 <li><a href="/health/20201117/1432374.md">7种美食是公认的“催老剂” 你却舍不得丢掉 难怪比别人老得快</a></li>
 <li><a href="/cbnews/20201117/1432507.md">大选更新11.17：选举舞弊越揭越深</a></li>
 <li><a href="/cbnews/20201118/1432663.md">惊！拜登竟表态「台湾是中国一部分」 专家曝台美辛酸内幕</a></li>
 <li><a href="/comments/20201117/1432295.md">疯狂！河北保定高碑店警察荷枪实弹暴力绑架靳凤羽</a></li>
+<li><a href="/cnnews/20201118/1432702.md">王沪宁高级黑？习近平一句话夹带“江泽民”3字</a></li>
 <li><a href="/cbnews/20201117/1432327.md">川普再让北京吃苦头？美商务部传人事异动</a></li>
+<li><a href="/ssgc/20201118/1432709.md">〖兲朝浮世绘〗将习近平立为“中华人民共和国国父” 高级黑还是真马屁？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,10 +36,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201118/1432831.md" target="_blank">明居正老师201114精华片段   总统大选创120年新高投票率 美国社会走向分裂?美国大选纷扰 暴露民主缺点?</a></li>
 <li><a href="/cbnews/20201118/1432794.md" target="_blank">陈破空：美国大选争议跟进，最新发展。陈破空与网友在线互动</a></li>
 <li><a href="/cbnews/20201118/1432790.md" target="_blank">统计报告指：拜登在宾州的选票大幅造假</a></li>
 <li><a href="/cbnews/20201118/1432779.md" target="_blank">文昭：「深喉」证人浮现、成川普反击利剑！黑道老大也反水拜登？「三权分立」为何今天不灵了</a></li>
-<li><a href="/topimagenews/20201118/1432762.md" target="_blank">美国大选已经Game Over，川普的水平高得令人震惊</a></li>
+<li><a href="/topimagenews/20201118/1432762.md" target="_blank">美国大选已经Game Over，川普的水平高得令人震怖</a></li>
 <li><a href="/cbnews/20201118/1432595.md" target="_blank">费城黑帮替拜登作票？美独家报导热传</a></li>
 <li><a href="/cbnews/20201118/1432611.md" target="_blank">文昭、王剑、公子沈：一尊发威，香港民主已死？| 三权合一</a></li>
 <li><a href="/cbnews/20201118/1432733.md" target="_blank">美军舰击落洲际弹道导弹 首试成功</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201117/1432368.md" target="_blank">江峰：高院一锤定音难？乔治亚重开票再现弊端 川普的难和出路；干涉大选制裁令，川普两年前已悄悄布局</a></li>
 <li><a href="/cbnews/20201117/1432351.md" target="_blank">对抗中共掠夺 川普政府将采取更深入广泛行动</a></li>
 <li><a href="/cbnews/20201117/1432335.md" target="_blank">中国多地持续出现疫情 中共甩锅…</a></li>
-<li><a href="/cbnews/20201117/1432327.md" target="_blank">川普再让北京吃苦头？美商务部传人事异动</a></li>
 
 </ul>
 </div>
@@ -68,7 +68,7 @@
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
 <li><a href="/topimagenews/20201118/1432797.md" target="_blank">投票机变成偷票机MIT博士图解选举舞弊</a></li>
-<li><a href="/topimagenews/20201118/1432762.md" target="_blank">美国大选已经Game Over，川普的水平高得令人震惊</a></li>
+<li><a href="/topimagenews/20201118/1432762.md" target="_blank">美国大选已经Game Over，川普的水平高得令人震怖</a></li>
 <li><a href="/topimagenews/20201118/1432628.md" target="_blank">天 数百万人出来指证作弊 民主党溃败？大佬发话 此州顶不住!CIA局长&#8230;</a></li>
 <li><a href="/topimagenews/20201117/1432499.md" target="_blank">新冠病毒死亡率：共和党州仅为民主党州的一半</a></li>
 <li><a href="/topimagenews/20201117/1432446.md" target="_blank">习近平高谈爱国最恨富人1点 党媒吹嘘RCEP被戳穿重要2点 14名中国船员被绑票失踪</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201118/1432837.md" target="_blank">《汤姆猫与杰利鼠》真人版电影首支预告片曝光</a></li>
+<li><a href="/comments/20201118/1432830.md" target="_blank">颜纯钩：美国与台湾会被边缘化吗？新加坡早报又替大国急了</a></li>
+<li><a href="/comments/20201118/1432829.md" target="_blank">陶杰：再论拥川普你得罪了谁</a></li>
+<li><a href="/comments/20201118/1432828.md" target="_blank">林莲华：川普抗“窃”：永远不要赌我输</a></li>
 <li><a href="/comments/20201118/1432796.md" target="_blank">【东方纵横】不要脸书 推翻推特</a></li>
 <li><a href="/comments/20201118/1432788.md" target="_blank">川普团队：宾州16.5万名共和党选民邮寄选票失踪</a></li>
 <li><a href="/comments/20201118/1432777.md" target="_blank">朱利安尼：几个案件准备就绪 将推进至最高法院</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201118/1432648.md" target="_blank">促宗教自由部长级会议召开 蓬佩奥吁全球关注</a></li>
 <li><a href="/comments/20201118/1432647.md" target="_blank">香辣酥脆的孜然煎藕片</a></li>
 <li><a href="/comments/20201118/1432621.md" target="_blank">改善脂肪肝、远离肝癌 必须知道「三少一多」的饮食原则</a></li>
-<li><a href="/comments/20201118/1432620.md" target="_blank">冬季定期洗车，别忘了这三样工具</a></li>
-<li><a href="/comments/20201118/1432598.md" target="_blank">染新冠154天身亡 医：病毒在他体内至少变种4次</a></li>
-<li><a href="/comments/20201117/1432585.md" target="_blank">【选情更新11/17】乔治亚州手动计票 监票员曝光问题</a></li>
-<li><a href="/comments/20201117/1432584.md" target="_blank">濒死体验者神奇的苏醒后，出书《天堂的证据》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
 
 </ul>
 </div>
