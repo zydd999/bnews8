@@ -9,17 +9,16 @@
 <li><a href="/topimagenews/20201118/1432628.md">天 数百万人出来指证作弊 民主党溃败？大佬发话 此州顶不住!CIA局长...</a></li>
 <li><a href="/cnnews/20201118/1432702.md">王沪宁高级黑？习近平一句话夹带“江泽民”3字</a></li>
 <li><a href="/ssgc/20201118/1432709.md">〖兲朝浮世绘〗将习近平立为“中华人民共和国国父” 高级黑还是真马屁？</a></li>
-<li><a href="/bannedvideo/20201118/1432905.md">惊天证词爆出，川普告知拜登游戏结束！民主党人纷纷脱离；华尔街大佬和福克斯为川普发声</a></li>
 <li><a href="/cbnews/20201118/1432732.md">王岐山罕见深夜露面 疑向拜登阵营喊话</a></li>
+<li><a href="/bannedvideo/20201118/1432905.md">惊天证词爆出，川普告知拜登游戏结束！民主党人纷纷脱离；华尔街大佬和福克斯为川普发声</a></li>
 <li><a href="/topimagenews/20201118/1433020.md">中国多地紧急通知严控师生外出 美疫苗成功中国品牌突消音 中企违约已高达1200亿</a></li>
-<li><a href="/bannedvideo/20201118/1432729.md">美国防部扬言72小时消灭中共海军，金正恩患难见真情力挺川普，CCP一如既往做忍者神龟。</a></li>
+<li><a href="/cnnews/20201118/1432990.md">川普竞选律师鲍威尔：如果首席大法官驳回选举欺诈诉讼将被弹劾【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201118/1432918.md">财经冷眼：升级！北上广深等数十大城市限制办理护照，人员出境开始扎口！进口食品带毒背后的大棋局！（20201118第384期）</a></li>
 <li><a href="/comments/20201118/1432776.md">CNN女主播为反川普言论公开道歉 网民这样回应</a></li>
 <li><a href="/worldnews/usa/20201118/1432754.md">特朗普肯定连任，道理简单得根本就不用想</a></li>
-<li><a href="/cnnews/20201118/1432990.md">川普竞选律师鲍威尔：如果首席大法官驳回选举欺诈诉讼将被弹劾【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201118/1432663.md">惊！拜登竟表态「台湾是中国一部分」 专家曝台美辛酸内幕</a></li>
-<li><a href="/cnnews/20201118/1432787.md">发现139个疑点！内华达州县竞选结果被封 川普欢呼影响重大！【阿波罗网编译】</a></li>
 <li><a href="/comments/20201118/1432967.md">川普总统喜欢吃什么使他保持旺盛的精力？你肯定想不到</a></li>
+<li><a href="/cnnews/20201118/1432787.md">发现139个疑点！内华达州县竞选结果被封 川普欢呼影响重大！【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201118/1432955.md">陈全国又缺席中共中央级会议 引揣测</a></li>
 <li><a href="/topimagenews/20201118/1432954.md">林伍德大律师：“川普大概赢得了超过400张选举人票！”</a></li>
 <li><a href="/cnnews/20201118/1432773.md">因不孕被赶走 改嫁后连生11子成豪门贵妇 儿子名扬四海</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/lifebaike/20201118/1432852.md">42岁女子脑梗 半月后离世 医生：这种调料天天吃 血管怎能不堵</a></li>
 <li><a href="/yule/20201118/1432868.md">曾红过毛阿敏 破产被亲弟打成脑震荡 62岁靠做保姆养女儿</a></li>
 <li><a href="/cbnews/20201118/1432952.md">中共用色情手段将拜登家族“套牢”？</a></li>
+<li><a href="/headline/20201118/1432995.md">南京前首富被刑拘 中国民企老板人心惶惶</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路（视</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
