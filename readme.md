@@ -19,14 +19,14 @@
 <li><a href="/cbnews/20201119/1433195.md">拒绝承认拜登胜选！美最大民兵组织：会效法开国元勋反抗到底</a></li>
 <li><a href="/cnnews/20201119/1433247.md">习近平：我们都在同一艘船上 网友：请上贼船</a></li>
 <li><a href="/cbnews/20201119/1433255.md">天津疫情升级！滨海新区数百人被拉走隔离</a></li>
-<li><a href="/cbnews/20201118/1433064.md">陈破空：特朗普加紧拆共！蓬佩奥让党媒抓狂。习近平又抄金正恩作业？小粉红太牛。余茂春发声</a></li>
 <li><a href="/cnnews/hknews/20201119/1433396.md">美、澳、加、新和英国政府就香港问题发表联合声明</a></li>
 <li><a href="/topimagenews/20201119/1433403.md">9626票错计给拜登 乔州第四个县发现计票错误</a></li>
-<li><a href="/health/20201119/1433270.md">进入40岁后 坚持这2个运动对男性很重要</a></li>
+<li><a href="/cbnews/20201118/1433064.md">陈破空：特朗普加紧拆共！蓬佩奥让党媒抓狂。习近平又抄金正恩作业？小粉红太牛。余茂春发声</a></li>
 <li><a href="/cnnews/20201119/1433436.md">用英语发邮件 华人被中国驻加大使馆怼了…</a></li>
+<li><a href="/health/20201119/1433270.md">进入40岁后 坚持这2个运动对男性很重要</a></li>
 <li><a href="/bannedvideo/20201118/1433117.md">这期我只敢小心翼翼的聊，牵扯太多大人物，看完自然懂。</a></li>
 <li><a href="/cbnews/20201118/1433159.md">江峰：川普两员法律大将能负重任麽？拜登急於登基为何被国防部打道回府？反叛乱法会是川普的最後雷霆手段？【2020大选评说】</a></li>
-<li><a href="/headline/20201118/1433167.md">中国官员警告澳大利亚：若以中国为敌，中国就会成为你的敌人</a></li>
+<li><a href="/cnnews/20201119/1433513.md">大逆转！韦恩县共和党人撤销投票认证 提交宣誓书称家人受到威胁【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20201119/1433386.md">把３句话常挂嘴上的人 最「面善心黑」不值得深交 要趁早远离</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201119/1433580.md" target="_blank">美国务院报告揭九大弱点 中国经济面临危机</a></li>
 <li><a href="/comments/20201119/1433558.md" target="_blank">美国安顾问欧布莱恩出访菲越 强化双边关系和安全合作</a></li>
 <li><a href="/comments/20201119/1433545.md" target="_blank">有效改善肩颈僵硬的汉方药与食材</a></li>
 <li><a href="/comments/20201119/1433542.md" target="_blank">重磅！川普团队成员称已破译Dominion服务器原始情报</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201119/1433432.md" target="_blank">习总踩死蚁 民企跟党走 中共驯服资本家 吸纳变掌控</a></li>
 <li><a href="/comments/20201119/1433413.md" target="_blank">罗博特：“候任总统”之败登</a></li>
 <li><a href="/comments/20201119/1433412.md" target="_blank">孙大午说他是一个干净的人 我相信 你呢？</a></li>
-<li><a href="/comments/20201119/1433400.md" target="_blank">袁奉初曝狱里狱外遭非法对待 精神和肉体遭双重摧残</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 
 </ul>
 </div>
