@@ -14,19 +14,19 @@
 <li><a href="/bannedvideo/20201119/1433284.md">美代理防长米勒战前动员：集结特种部队和情报单位，黑白对决前夜，你搬好板凳准备看大戏！</a></li>
 <li><a href="/comments/20201119/1433542.md">重磅！川普团队成员称已破译Dominion服务器原始情报</a></li>
 <li><a href="/cnnews/20201119/1433513.md">大逆转！韦恩县共和党人撤销投票认证 提交宣誓书称家人受到威胁【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201119/1433381.md">98%被标记为投给拜登！乔州证人：可疑“崭新选票”上都有一个...</a></li>
 <li><a href="/cbnews/20201119/1433559.md">视频：大陆 100列火车 同时趴窝</a></li>
 <li><a href="/cbnews/20201119/1433195.md">拒绝承认拜登胜选！美最大民兵组织：会效法开国元勋反抗到底</a></li>
+<li><a href="/topimagenews/20201119/1433381.md">98%被标记为投给拜登！乔州证人：可疑“崭新选票”上都有一个...</a></li>
 <li><a href="/bannedvideo/20201119/1433415.md">川普律师:“海怪”已释放，所有人将惊呆；川普“三线”并进战略详解；国防部长“非常手段”想干啥？</a></li>
 <li><a href="/yule/20201119/1433515.md">范冰冰红毯无P照垮成大妈 网泄残酷迹象复出无望</a></li>
 <li><a href="/cnnews/20201119/1433247.md">习近平：我们都在同一艘船上 网友：请上贼船</a></li>
+<li><a href="/cnnews/20201119/1433564.md">渣到爆：副院长让情人住楼下 原配捉奸他先报警</a></li>
 <li><a href="/cbnews/20201119/1433255.md">天津疫情升级！滨海新区数百人被拉走隔离</a></li>
 <li><a href="/topimagenews/20201119/1433403.md">9626票错计给拜登 乔州第四个县发现计票错误</a></li>
 <li><a href="/cnnews/hknews/20201119/1433396.md">美、澳、加、新和英国政府就香港问题发表联合声明</a></li>
-<li><a href="/cnnews/20201119/1433564.md">渣到爆：副院长让情人住楼下 原配捉奸他先报警</a></li>
+<li><a href="/topimagenews/20201119/1433575.md">孙大午创三权分立冲击中共? 郭台铭转战越南将成出口龙头 RCEP恐触发供应链搬出中国</a></li>
 <li><a href="/health/20201119/1433270.md">进入40岁后 坚持这2个运动对男性很重要</a></li>
 <li><a href="/cnnews/20201119/1433436.md">用英语发邮件 华人被中国驻加大使馆怼了…</a></li>
-<li><a href="/topimagenews/20201119/1433575.md">孙大午创三权分立冲击中共? 郭台铭转战越南将成出口龙头 RCEP恐触发供应链搬出中国</a></li>
 <li><a href="/cbnews/20201119/1433563.md">落选文明城市 竟强迫女教师上电视道歉</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201120/1433744.md" target="_blank">海妖被捕获! 川普团队称破译投票机原数据 共和党高层暗指CIA、FBI政变</a></li>
 <li><a href="/topimagenews/20201119/1433575.md" target="_blank">孙大午创三权分立冲击中共? 郭台铭转战越南将成出口龙头 RCEP恐触发供应链搬出中国</a></li>
 <li><a href="/topimagenews/20201119/1433403.md" target="_blank">9626票错计给拜登 乔州第四个县发现计票错误</a></li>
 <li><a href="/topimagenews/20201119/1433381.md" target="_blank">98%被标记为投给拜登！乔州证人：可疑“崭新选票”上都有一个&#8230;</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20201117/1432100.md" target="_blank">川普大手笔证明选举违宪 投票机公司是他的人运作 左媒真狠!挺川人数压百倍</a></li>
 <li><a href="/topimagenews/20201116/1432047.md" target="_blank">替川普鸣不平 伊万卡开腔怒斥：可耻 小川普：主流传媒是暴力的帮凶</a></li>
 <li><a href="/topimagenews/20201116/1431873.md" target="_blank">拜登凉凉！“到今天为止 还没有明显的当选总统” 美政府运作小组首席委员发声</a></li>
-<li><a href="/topimagenews/20201116/1431813.md" target="_blank">脉络日渐清晰！&#8221;最佳窃取选举的律师&#8221;再被抓包 背后是她？【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201120/1433738.md" target="_blank">大山深处有人家</a></li>
 <li><a href="/comments/20201119/1433708.md" target="_blank">史前岩画惊现“飞机”和“巨型帆船”！科学家：地球文明不断“轮回”</a></li>
 <li><a href="/comments/20201119/1433686.md" target="_blank">川普会赢！ 美议员：国会有权否决各州的投票结果</a></li>
 <li><a href="/comments/20201119/1433685.md" target="_blank">【选情更新11/19】议员指大选结果或由国会定 伍德律师：川普已获400张选举人票</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201119/1433516.md" target="_blank">第三届宗教自由部长级会议 瑞典议员：立即停止迫害法轮功</a></li>
 <li><a href="/comments/20201119/1433500.md" target="_blank">经纬西东:美国大选血色三角 人类文明生死之战</a></li>
 <li><a href="/comments/20201119/1433499.md" target="_blank">何蔚：是谁在分裂我们的国家？</a></li>
-<li><a href="/comments/20201119/1433491.md" target="_blank">密歇根韦恩县认证仍僵持不下 共和党委员称被误导</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
