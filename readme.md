@@ -18,16 +18,16 @@
 <li><a href="/ssgc/20201119/1433262.md">〖兲朝浮世绘〗中共外宣竟然用战争威胁美国</a></li>
 <li><a href="/headline/20201118/1433164.md">“舵手”称号再现 习近平个人崇拜再升级</a></li>
 <li><a href="/cbnews/20201118/1432952.md">中共用色情手段将拜登家族“套牢”？</a></li>
-<li><a href="/bannedvideo/20201119/1433284.md">美代理防长米勒战前动员：集结特种部队和情报单位，黑白对决前夜，你搬好板凳准备看大戏！</a></li>
 <li><a href="/topimagenews/20201119/1433381.md">98%被标记为投给拜登！乔州证人：可疑“崭新选票”上都有一个...</a></li>
+<li><a href="/bannedvideo/20201119/1433284.md">美代理防长米勒战前动员：集结特种部队和情报单位，黑白对决前夜，你搬好板凳准备看大戏！</a></li>
 <li><a href="/comments/20201118/1433001.md">后遗症一堆！罹患COVID-19后似永无痊愈之日</a></li>
 <li><a href="/cbnews/20201118/1432950.md">川普的越战越勇 拜登必败</a></li>
 <li><a href="/cbnews/20201119/1433195.md">拒绝承认拜登胜选！美最大民兵组织：会效法开国元勋反抗到底</a></li>
-<li><a href="/cbnews/20201118/1433064.md">陈破空：特朗普加紧拆共！蓬佩奥让党媒抓狂。习近平又抄金正恩作业？小粉红太牛。余茂春发声</a></li>
 <li><a href="/cnnews/20201119/1433247.md">习近平：我们都在同一艘船上 网友：请上贼船</a></li>
 <li><a href="/cbnews/20201119/1433255.md">天津疫情升级！滨海新区数百人被拉走隔离</a></li>
+<li><a href="/cbnews/20201118/1433064.md">陈破空：特朗普加紧拆共！蓬佩奥让党媒抓狂。习近平又抄金正恩作业？小粉红太牛。余茂春发声</a></li>
 <li><a href="/health/20201119/1433270.md">进入40岁后 坚持这2个运动对男性很重要</a></li>
-<li><a href="/bannedvideo/20201118/1433117.md">这期我只敢小心翼翼的聊，牵扯太多大人物，看完自然懂。</a></li>
+<li><a href="/cnnews/20201119/1433481.md">川普:拜登在凌晨3点42分收到了… 这简直是难以置信！【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201119/1433516.md" target="_blank">第三届宗教自由部长级会议 瑞典议员：立即停止迫害法轮功</a></li>
 <li><a href="/comments/20201119/1433500.md" target="_blank">经纬西东:美国大选血色三角 人类文明生死之战</a></li>
 <li><a href="/comments/20201119/1433499.md" target="_blank">何蔚：是谁在分裂我们的国家？</a></li>
 <li><a href="/comments/20201119/1433491.md" target="_blank">密歇根韦恩县认证仍僵持不下 共和党委员称被误导</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201119/1433363.md" target="_blank">立此存照：我们救人不行但拒承认“不行”很行</a></li>
 <li><a href="/comments/20201119/1433362.md" target="_blank">保守主义溃败：美国的问题 世界的难题</a></li>
 <li><a href="/comments/20201119/1433346.md" target="_blank">选票舞弊尚未终结，拜登又被乌克兰起诉</a></li>
-<li><a href="/comments/20201119/1433337.md" target="_blank">亚当斯：那种能够威胁公共自由的权力 不应托付给任何人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
