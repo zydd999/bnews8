@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20201119/1433559.md">视频：大陆 100列火车 同时趴窝</a></li>
 <li><a href="/cnnews/20201119/1433564.md">渣到爆：副院长让情人住楼下 原配捉奸他先报警</a></li>
 <li><a href="/topimagenews/20201120/1433756.md">中国穷到什么程度？陆媒揭惊人真相：5.6亿人完全没存款</a></li>
 <li><a href="/topimagenews/20201120/1433744.md">海妖被捕获! 川普团队称破译投票机原数据 共和党高层暗指CIA、FBI政变</a></li>
+<li><a href="/comments/20201120/1434017.md">谁是毛新宇的亲生父亲？一张照片给出了答案</a></li>
 <li><a href="/topimagenews/20201119/1433575.md">孙大午创三权分立冲击中共? 郭台铭转战越南将成出口龙头 RCEP恐触发供应链搬出中国</a></li>
 <li><a href="/taiwannews/20201120/1433843.md">台湾F-16失联战机已投共？资讯封锁中</a></li>
-<li><a href="/comments/20201120/1434017.md">谁是毛新宇的亲生父亲？一张照片给出了答案</a></li>
 <li><a href="/cbnews/20201119/1433615.md">陈破空：忽然！王沪宁高捧习近平，七大封号压倒毛泽东！习的国师在新加坡遭警告，他倡议建立清华小学</a></li>
 <li><a href="/topimagenews/20201120/1433938.md">川普宾州竞选律师获官方保护 惊曝：威胁人竟然是...【阿波罗网编译 】</a></li>
 <li><a href="/cnnews/20201120/1433821.md">个人崇拜再升级 中共喉舌封习7称号火爆热传</a></li>
@@ -20,7 +19,6 @@
 <li><a href="/comments/20201119/1433664.md">个人崇拜再升级 中共喉舌封习7称号</a></li>
 <li><a href="/topimagenews/20201120/1433793.md">“川普对深层政府决战开始” 中共挑衅川普力挫习近平咋办？ 美移民局新政策非法得绿卡...</a></li>
 <li><a href="/bannedvideo/20201120/1433847.md">密歇根认证选举结果反转内幕曝光；美国防部长命令：特种部队归白宫控制；民主党不满参院选举结果问责舒默和AOC；拜登阵营贿赂原住民 花钱买票【希望之声TV】</a></li>
-<li><a href="/cbnews/20201119/1433563.md">落选文明城市 竟强迫女教师上电视道歉</a></li>
 <li><a href="/cnnews/20201120/1433968.md">习近平心腹丁薛祥埋伏入常？两大员卡位引猜测</a></li>
 <li><a href="/headline/20201120/1433734.md">专访任志强案知情人罗明珠：任案与中共高层斗争的关系</a></li>
 <li><a href="/cnnews/20201120/1433836.md">上海女装阔？月薪8000 贷60万元上健身私教课</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/bannedvideo/20201119/1433584.md">网安局局长倒转枪头 美大选舞弊水太深；美媒揭习家军一关键人物；习现身江泽民老家后 南京富豪杨宗义被查；习要翻旧账 马云被迫拱手交权？美军用一招 南海无死角包围中共；</a></li>
 <li><a href="/ssgc/20201120/1433834.md">〖兲朝浮世绘〗中共外交部威胁要戳瞎五眼联盟</a></li>
 <li><a href="/bannedvideo/20201120/1433755.md">特种行动部队！紧急状态令！这些表明是川普提前做好了局吗？纳姐和朱乐平律师用中文解读专栏作家凯瑞女士刚才的分析预测！</a></li>
+<li><a href="/lifebaike/20201120/1433864.md">比离婚还伤人！婚姻中男人说6句话 最让女人绝望</a></li>
+<li><a href="/cbnews/20201120/1433962.md">赵立坚威胁戳瞎“五眼联盟” 遭网友炮轰</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201120/1434170.md" target="_blank">战狼王毅下周连访日韩搏外交 分析：习近平出访恐难成</a></li>
 <li><a href="/comments/20201120/1434158.md" target="_blank">中国实施最严锁国令 海外华人回家难上加难</a></li>
 <li><a href="/comments/20201120/1434147.md" target="_blank">亲共华媒前总编曝中共渗透手段 吁加国立法反外国干预</a></li>
 <li><a href="/comments/20201120/1434146.md" target="_blank">川普内阁高官再访台 台美将合力推进国际环保</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201120/1433950.md" target="_blank">【中南火海】被誉为“反谍之王”的杨奇清</a></li>
 <li><a href="/comments/20201120/1433929.md" target="_blank">鲍威尔：川普在选举中大胜 法律团队将证实这一点</a></li>
 <li><a href="/comments/20201120/1433914.md" target="_blank">【东方纵横】疫苗问世 川普大功</a></li>
-<li><a href="/comments/20201120/1433909.md" target="_blank">川普阵营周四新闻发布会 9个法律战关键点公开</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
