@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20201120/1433744.md">海妖被捕获! 川普团队称破译投票机原数据 共和党高层暗指CIA、FBI政变</a></li>
 <li><a href="/cnnews/20201120/1433821.md">个人崇拜再升级 中共喉舌封习7称号火爆热传</a></li>
 <li><a href="/baitai/20201120/1434095.md">长春少女一天接客20次赚一万块 被抓时称自己累到虚脱</a></li>
-<li><a href="/topimagenews/20201120/1434024.md">重磅！鲍威尔律师证实德国服务器一事：这是真的 但我…</a></li>
 <li><a href="/worldnews/usa/20201120/1433870.md">豁出去了？ 中国外交部发言人赵立坚再爆粗口</a></li>
+<li><a href="/topimagenews/20201120/1434024.md">重磅！鲍威尔律师证实德国服务器一事：这是真的 但我…</a></li>
 <li><a href="/topimagenews/20201120/1433938.md">川普宾州竞选律师获官方保护 惊曝：威胁人竟然是...【阿波罗网编译 】</a></li>
 <li><a href="/headline/20201120/1433734.md">专访任志强案知情人罗明珠：任案与中共高层斗争的关系</a></li>
-<li><a href="/topimagenews/20201120/1433793.md">“川普对深层政府决战开始” 中共挑衅川普力挫习近平咋办？ 美移民局新政策非法得绿卡...</a></li>
 <li><a href="/cnnews/20201120/1433968.md">习近平心腹丁薛祥埋伏入常？两大员卡位引猜测</a></li>
+<li><a href="/topimagenews/20201120/1433793.md">“川普对深层政府决战开始” 中共挑衅川普力挫习近平咋办？ 美移民局新政策非法得绿卡...</a></li>
 <li><a href="/bannedvideo/20201120/1433847.md">密歇根认证选举结果反转内幕曝光；美国防部长命令：特种部队归白宫控制；民主党不满参院选举结果问责舒默和AOC；拜登阵营贿赂原住民 花钱买票【希望之声TV】</a></li>
-<li><a href="/cnnews/20201120/1433836.md">上海女装阔？月薪8000 贷60万元上健身私教课</a></li>
-<li><a href="/taiwannews/20201120/1434031.md">拜登曲线 ：多米尼计票公司高管已开始逃跑</a></li>
-<li><a href="/cnnews/20201119/1433693.md">震撼！川普实际赢了深蓝弗州 最后结果川普走这条路就赢了 爆炸内幕：暗门讓欺诈不留痕</a></li>
-<li><a href="/cbnews/20201120/1434156.md">闭关锁国？大陆因私护照停办 华人回国更难</a></li>
-<li><a href="/ssgc/20201120/1433834.md">〖兲朝浮世绘〗中共外交部威胁要戳瞎五眼联盟</a></li>
 <li><a href="/bannedvideo/20201120/1434137.md">高人透玄机发生一件大事 很多预言将改变习近平命运自己选择（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20201120/1434156.md">闭关锁国？大陆因私护照停办 华人回国更难</a></li>
+<li><a href="/taiwannews/20201120/1434031.md">拜登曲线 ：多米尼计票公司高管已开始逃跑</a></li>
+<li><a href="/cnnews/20201120/1433836.md">上海女装阔？月薪8000 贷60万元上健身私教课</a></li>
 <li><a href="/cbnews/20201120/1434092.md">他20亿身家遭官员洗劫 今沦为乞丐</a></li>
+<li><a href="/ssgc/20201120/1433834.md">〖兲朝浮世绘〗中共外交部威胁要戳瞎五眼联盟</a></li>
 <li><a href="/cbnews/20201120/1433962.md">赵立坚威胁戳瞎“五眼联盟” 遭网友炮轰</a></li>
-<li><a href="/bannedvideo/20201120/1433755.md">特种行动部队！紧急状态令！这些表明是川普提前做好了局吗？纳姐和朱乐平律师用中文解读专栏作家凯瑞女士刚才的分析预测！</a></li>
+<li><a href="/topimagenews/20201120/1434185.md">习近平翻旧账马云要拱手交权 中国需求大增美国粮价涨3成 人民币升值 出口订单大减</a></li>
 <li><a href="/comments/20201120/1433989.md">【微博精粹】19日爆雷！Dominion 这回把拜登卖到底裤都掉了</a></li>
+<li><a href="/bannedvideo/20201120/1433755.md">特种行动部队！紧急状态令！这些表明是川普提前做好了局吗？纳姐和朱乐平律师用中文解读专栏作家凯瑞女士刚才的分析预测！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201120/1434295.md" target="_blank">用饺子皮也能做出超好吃的葱油饼 成功率百分之百</a></li>
+<li><a href="/comments/20201120/1434294.md" target="_blank">医院里的秘密：无效医疗——触目惊心!!</a></li>
+<li><a href="/comments/20201120/1434293.md" target="_blank">大陆5.6亿人无存款 穷到何程度</a></li>
 <li><a href="/comments/20201120/1434277.md" target="_blank">川普法律顾问痛斥假媒体：其报导毫无公正可言</a></li>
 <li><a href="/comments/20201120/1434276.md" target="_blank">【选情更新11/20】川普律师称本次选举实为“政变” 鲍威尔：川普已压倒性获胜</a></li>
 <li><a href="/comments/20201120/1434275.md" target="_blank">欧美疫苗捷报频传，中共闹心：不求快？&#8230;&#8230;</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201120/1434044.md" target="_blank">澳洲再结缘 告别“不死的癌症”</a></li>
 <li><a href="/comments/20201120/1434043.md" target="_blank">蓬佩奥登上以色列戈兰高地 美国务卿第一人</a></li>
 <li><a href="/comments/20201120/1434039.md" target="_blank">方伟:核爆级新闻发布会或成选举征战分水岭</a></li>
-<li><a href="/comments/20201120/1434017.md" target="_blank">谁是毛新宇的亲生父亲？一张照片给出了答案</a></li>
-<li><a href="/comments/20201120/1433995.md" target="_blank">拒认证选举结果遭威胁 密州共和党人获川普致电慰问</a></li>
-<li><a href="/comments/20201120/1433989.md" target="_blank">【微博精粹】19日爆雷！Dominion 这回把拜登卖到底裤都掉了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
