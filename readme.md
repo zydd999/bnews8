@@ -12,18 +12,18 @@
 <li><a href="/cnnews/20201120/1433821.md">个人崇拜再升级 中共喉舌封习7称号火爆热传</a></li>
 <li><a href="/baitai/20201120/1434095.md">长春少女一天接客20次赚一万块 被抓时称自己累到虚脱</a></li>
 <li><a href="/worldnews/usa/20201120/1433870.md">豁出去了？ 中国外交部发言人赵立坚再爆粗口</a></li>
-<li><a href="/topimagenews/20201120/1434024.md">重磅！鲍威尔律师证实德国服务器一事：这是真的 但我…</a></li>
 <li><a href="/topimagenews/20201120/1433938.md">川普宾州竞选律师获官方保护 惊曝：威胁人竟然是...【阿波罗网编译 】</a></li>
-<li><a href="/headline/20201120/1433734.md">专访任志强案知情人罗明珠：任案与中共高层斗争的关系</a></li>
+<li><a href="/topimagenews/20201120/1434024.md">重磅！鲍威尔律师证实德国服务器一事：这是真的 但我…</a></li>
 <li><a href="/cnnews/20201120/1433968.md">习近平心腹丁薛祥埋伏入常？两大员卡位引猜测</a></li>
 <li><a href="/topimagenews/20201120/1433793.md">“川普对深层政府决战开始” 中共挑衅川普力挫习近平咋办？ 美移民局新政策非法得绿卡...</a></li>
-<li><a href="/bannedvideo/20201120/1433847.md">密歇根认证选举结果反转内幕曝光；美国防部长命令：特种部队归白宫控制；民主党不满参院选举结果问责舒默和AOC；拜登阵营贿赂原住民 花钱买票【希望之声TV】</a></li>
 <li><a href="/cbnews/20201120/1434156.md">闭关锁国？大陆因私护照停办 华人回国更难</a></li>
+<li><a href="/bannedvideo/20201120/1433847.md">密歇根认证选举结果反转内幕曝光；美国防部长命令：特种部队归白宫控制；民主党不满参院选举结果问责舒默和AOC；拜登阵营贿赂原住民 花钱买票【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20201120/1434137.md">高人透玄机发生一件大事 很多预言将改变习近平命运自己选择（启明笑谈20200720）</a></li>
+<li><a href="/topimagenews/20201120/1434185.md">习近平翻旧账马云要拱手交权 中国需求大增美国粮价涨3成 人民币升值 出口订单大减</a></li>
 <li><a href="/taiwannews/20201120/1434031.md">拜登曲线 ：多米尼计票公司高管已开始逃跑</a></li>
 <li><a href="/cnnews/20201120/1433836.md">上海女装阔？月薪8000 贷60万元上健身私教课</a></li>
-<li><a href="/topimagenews/20201120/1434185.md">习近平翻旧账马云要拱手交权 中国需求大增美国粮价涨3成 人民币升值 出口订单大减</a></li>
 <li><a href="/cbnews/20201120/1434092.md">他20亿身家遭官员洗劫 今沦为乞丐</a></li>
+<li><a href="/headline/20201120/1434184.md">高层人事异动 一日4省委书记任命</a></li>
 <li><a href="/ssgc/20201120/1433834.md">〖兲朝浮世绘〗中共外交部威胁要戳瞎五眼联盟</a></li>
 <li><a href="/cbnews/20201120/1433962.md">赵立坚威胁戳瞎“五眼联盟” 遭网友炮轰</a></li>
 <li><a href="/comments/20201120/1433989.md">【微博精粹】19日爆雷！Dominion 这回把拜登卖到底裤都掉了</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201121/1434340.md" target="_blank">陈破空说段子：美国选举难产，各国选举花样。那中国呢？</a></li>
 <li><a href="/cbnews/20201120/1434237.md" target="_blank">钟南山罕见承认：武汉地区危重症死亡率近40%</a></li>
 <li><a href="/cbnews/20201120/1434198.md" target="_blank">陈破空：习近平峰会读稿，遭人当面呛声！克林顿说：某人颠覆美中关系。芮成钢即将出狱，很多高官和高官夫人不安</a></li>
 <li><a href="/cbnews/20201120/1434186.md" target="_blank">辱母杀人案于欢出狱 自曝一度心如死灰</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201120/1433794.md" target="_blank">「结束隐退」英国重返欧洲最强部队 空天指挥部、国家网络部队出列</a></li>
 <li><a href="/cbnews/20201120/1433787.md" target="_blank">逼杜鲁道表态！加拿大众议院通过动议 促30天内禁用华为5G</a></li>
 <li><a href="/cbnews/20201120/1433777.md" target="_blank">大选更新11·19：“拜登当选总统是谎言”</a></li>
-<li><a href="/cbnews/20201119/1433709.md" target="_blank">大选更新11·19：议员吁国会对大选听证</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 
 </ul>
 </div>
