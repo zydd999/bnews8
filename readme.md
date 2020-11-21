@@ -7,19 +7,19 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20201121/1434372.md">变态贪官百位情妇体毛沾本本 被捕时与小三激战</a></li>
 <li><a href="/finance/20201121/1434412.md">人民币官价重贬 专家示警</a></li>
-<li><a href="/topimagenews/20201121/1434367.md">宾州法院宣布缺席票无效 乔州长拒答拿多猫腻回扣 左媒显颓势 黑川没新招</a></li>
 <li><a href="/ssgc/20201121/1434447.md">〖兲朝浮世绘〗逃过了薄熙来 却没能逃得过习近平</a></li>
+<li><a href="/topimagenews/20201121/1434367.md">宾州法院宣布缺席票无效 乔州长拒答拿多猫腻回扣 左媒显颓势 黑川没新招</a></li>
 <li><a href="/comments/20201121/1434482.md">快讯：美最高法院人员变动 4名保守大法官负责摇摆州</a></li>
 <li><a href="/cbnews/20201120/1434237.md">钟南山罕见承认：武汉地区危重症死亡率近40%</a></li>
 <li><a href="/cnnews/20201121/1434677.md">拜登空欢喜一场！乔治亚州闹出乌龙【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201121/1434652.md">川普律师：德国服务器的确在美军手中 4个美国最敌对国家连入服务器</a></li>
 <li><a href="/bannedvideo/20201120/1434289.md">朱利安尼核弹发布会之后，民主党大佬要干嘛？大家不觉得心里毛毛的吗？</a></li>
+<li><a href="/topimagenews/20201121/1434652.md">川普律师：德国服务器的确在美军手中 4个美国最敌对国家连入服务器</a></li>
 <li><a href="/cbnews/20201121/1434559.md">慈善富豪微信转发红军杀人 被中共判刑20年</a></li>
-<li><a href="/cbnews/20201121/1434680.md">钓鱼行动？民主党议员落网！克星来了？川普提名联邦法官主查高层欺诈？自欺欺人？乔州审计软件有严重漏洞【希望之声TV】</a></li>
 <li><a href="/cbnews/20201121/1434458.md">习再拒“脱钩” 专家：美中脱钩或致中共垮台</a></li>
+<li><a href="/cbnews/20201121/1434680.md">钓鱼行动？民主党议员落网！克星来了？川普提名联邦法官主查高层欺诈？自欺欺人？乔州审计软件有严重漏洞【希望之声TV】</a></li>
+<li><a href="/yule/20201121/1434748.md">歌坛天后和大15岁相声大师偷情 甘做地下情人</a></li>
 <li><a href="/topimagenews/20201121/1434715.md">投票机服务器被缴获 拜登早就“承认了”</a></li>
 <li><a href="/cnnews/20201120/1434270.md">东北特大暴风雪 空中现“雪浪”</a></li>
-<li><a href="/yule/20201121/1434748.md">歌坛天后和大15岁相声大师偷情 甘做地下情人</a></li>
 <li><a href="/cbnews/20201121/1434668.md">川普习近平亚太峰会同框 两人“隔”离的很远</a></li>
 <li><a href="/yule/20201121/1434444.md">方中信相恋24年妻揭残酷真相「希望来世不再做夫妻」</a></li>
 <li><a href="/bannedvideo/20201121/1434455.md">天灭中共  权贵移民路断</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201121/1434848.md" target="_blank">远看山有色，近听水无声——神奇的题画诗</a></li>
 <li><a href="/comments/20201121/1434829.md" target="_blank">秋葵控血糖！这个时段吃，血糖不再起起伏伏</a></li>
 <li><a href="/comments/20201121/1434807.md" target="_blank">中国疫情升温 内蒙满洲里封城 官报2例网传5例以上</a></li>
 <li><a href="/comments/20201121/1434804.md" target="_blank">减压除焦虑 使个人获得幸福感的荷尔蒙</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201121/1434638.md" target="_blank">人间思想笔记：这是人间？</a></li>
 <li><a href="/comments/20201121/1434637.md" target="_blank">颜纯钩：习近平面临内外麻烦自我周旋</a></li>
 <li><a href="/comments/20201121/1434629.md" target="_blank">【东方纵横】舞弊手段知多少</a></li>
-<li><a href="/comments/20201121/1434610.md" target="_blank">林炎平：始于乌托邦终于古拉格：左派——文明的掘墓者</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
