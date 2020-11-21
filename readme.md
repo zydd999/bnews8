@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20201121/1434744.md">特朗普律师团公布铁证！顺便给海外华人提个忠告</a></li>
 <li><a href="/cbnews/20201121/1434803.md">陈破空：有情况？习近平紧急撤换四省一把手！某人高升，只因干了一件神秘大事。奥巴马新书忆胡温</a></li>
 <li><a href="/finance/20201121/1434788.md">要出事?央企密集转让房产最低卖1万 习向首富们下手冻结资产 官方再打马云和互联网大鳄</a></li>
-<li><a href="/cbnews/20201121/1434680.md">钓鱼行动？民主党议员落网！克星来了？川普提名联邦法官主查高层欺诈？自欺欺人？乔州审计软件有严重漏洞【希望之声TV】</a></li>
 <li><a href="/cbnews/20201121/1434458.md">习再拒“脱钩” 专家：美中脱钩或致中共垮台</a></li>
+<li><a href="/cbnews/20201121/1434680.md">钓鱼行动？民主党议员落网！克星来了？川普提名联邦法官主查高层欺诈？自欺欺人？乔州审计软件有严重漏洞【希望之声TV】</a></li>
 <li><a href="/topimagenews/20201121/1434715.md">投票机服务器被缴获 拜登早就“承认了”</a></li>
 <li><a href="/lifebaike/20201121/1434764.md">银行家的美貌女儿如何沦为公共情妇？</a></li>
 <li><a href="/cbnews/20201121/1434760.md">再爆疫情！上海官方急“封院” 4015人隔离</a></li>
 <li><a href="/cbnews/20201121/1434668.md">川普习近平亚太峰会同框 两人“隔”离的很远</a></li>
 <li><a href="/cbnews/20201121/1434706.md">核爆！鲍威尔一番话 揭开世界级大黑幕一角</a></li>
-<li><a href="/bannedvideo/20201121/1434455.md">天灭中共  权贵移民路断</a></li>
 <li><a href="/bannedvideo/20201121/1434718.md">财经冷眼：最新！恒大赖账200亿拖垮苏宁！债务危机下，这些民营和国企巨头都在谢幕！（20201121第386期）</a></li>
 <li><a href="/cbnews/20201121/1434673.md">中共官场逆淘汰 钻营派阮成发“冒升”</a></li>
 <li><a href="/funmedia/20201121/1434656.md">凭直觉你认为图中谁是真空姐？测别人眼中的你</a></li>
 <li><a href="/ssgc/20201121/1434776.md">孙大骆：王沪宁20大后当委员长</a></li>
-<li><a href="/cnnews/20201121/1434450.md">上海再爆疫情！网曝南汇中心医院一护士感染遭封闭</a></li>
 <li><a href="/ssgc/20201121/1434517.md">〖微博谈〗真是令人难以置信</a></li>
 <li><a href="/cbnews/20201121/1434674.md">川普律师：压倒性的胜利德国服务器数据显示川普得410张选举人票</a></li>
+<li><a href="/comments/20201121/1434722.md">阴谋论？刺杀川普总统的信号出现了？</a></li>
+<li><a href="/comments/20201121/1434700.md">“共产共妻”的惊人真相 分房分地分老婆和闺女</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 
 </ul>
 </div>
