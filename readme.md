@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20201122/1434924.md">鲍威尔：川普已经决定释放“海怪”</a></li>
 <li><a href="/topimagenews/20201122/1435087.md">专家惊爆：Dominion与中国数据中心直接关联？</a></li>
 <li><a href="/bannedvideo/20201122/1435185.md">我越来越怀疑这次瘟疫就是一个阴谋，目的就是为了颠覆美国的选举；助选川普我以捐款的方式参与改变世界并且引以为傲！</a></li>
-<li><a href="/comments/20201122/1435095.md">已成中共弃子？陆媒揭成龙撒了37年的弥天大谎</a></li>
 <li><a href="/topimagenews/20201122/1435200.md">成龙自曝嫖娼出轨家暴 曾跟十几个妓女发生关系</a></li>
+<li><a href="/comments/20201122/1435095.md">已成中共弃子？陆媒揭成龙撒了37年的弥天大谎</a></li>
 <li><a href="/topimagenews/20201122/1435068.md">林伍德律师的这段话 会让无数人惊掉下巴!【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201122/1434965.md">习近平中纪委安插嫡系 密查孙政才案被曝光</a></li>
-<li><a href="/comments/20201122/1434994.md">前英国大律师：CIA操控美大选 欧盟中共都知情</a></li>
 <li><a href="/cnnews/20201122/1435205.md">中共4省书记异动 丑闻不断的阮成发上位引关注</a></li>
-<li><a href="/comments/20201122/1434879.md">苍天呐！美国警长因雕刻了西瓜而被开除公职…西瓜和南瓜都表示很无辜：“我们不代表人类种族”</a></li>
+<li><a href="/comments/20201122/1434994.md">前英国大律师：CIA操控美大选 欧盟中共都知情</a></li>
 <li><a href="/topimagenews/20201122/1435081.md">鲍威尔：乔治亚州是我要炸掉的第一个州 州长和州务卿也要...</a></li>
-<li><a href="/comments/20201122/1434880.md">最后通牒！马克龙总统给法国穆斯林2周时间“宣誓忠于共和价值观宪章”…不忠于法国的全部驱逐</a></li>
+<li><a href="/comments/20201122/1434879.md">苍天呐！美国警长因雕刻了西瓜而被开除公职…西瓜和南瓜都表示很无辜：“我们不代表人类种族”</a></li>
 <li><a href="/bannedvideo/20201122/1435186.md">川普已进“安全屋”！民主党承认作弊？索命邮件威胁林伍德律师！司马昭之心路人皆知！</a></li>
+<li><a href="/comments/20201122/1434880.md">最后通牒！马克龙总统给法国穆斯林2周时间“宣誓忠于共和价值观宪章”…不忠于法国的全部驱逐</a></li>
+<li><a href="/bannedvideo/20201122/1435180.md">文睿：你们天天说中共要完了，多少年过去了，不脸红吗？回应大家的这种质疑</a></li>
 <li><a href="/cbnews/20201122/1434905.md">浙江绍兴突爆疫情！一小区5千多人全员核酸检测</a></li>
 <li><a href="/cnnews/20201122/1435025.md">民主党N种行动可能：清理门户或暗杀川普？</a></li>
-<li><a href="/bannedvideo/20201122/1435180.md">文睿：你们天天说中共要完了，多少年过去了，不脸红吗？回应大家的这种质疑</a></li>
-<li><a href="/cbnews/20201122/1434871.md">大选更新11.21：川普：乔州舞弊信息将出炉</a></li>
 <li><a href="/lifebaike/20201122/1434942.md">「一场同学聚会 毁了我的婚姻」：人到中年 要学会「不合群」</a></li>
+<li><a href="/cbnews/20201122/1434871.md">大选更新11.21：川普：乔州舞弊信息将出炉</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
