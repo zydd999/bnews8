@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20201121/1434482.md">快讯：美最高法院人员变动 4名保守大法官负责摇摆州</a></li>
 <li><a href="/yule/20201121/1434748.md">歌坛天后和大15岁相声大师偷情 甘做地下情人</a></li>
 <li><a href="/cnnews/20201121/1434677.md">拜登空欢喜一场！乔治亚州闹出乌龙【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201121/1434652.md">川普律师：德国服务器的确在美军手中 4个美国最敌对国家连入服务器</a></li>
 <li><a href="/cbnews/20201121/1434559.md">慈善富豪微信转发红军杀人 被中共判刑20年</a></li>
+<li><a href="/topimagenews/20201121/1434652.md">川普律师：德国服务器的确在美军手中 4个美国最敌对国家连入服务器</a></li>
 <li><a href="/cbnews/20201121/1434744.md">特朗普律师团公布铁证！顺便给海外华人提个忠告</a></li>
 <li><a href="/cbnews/20201121/1434803.md">陈破空：有情况？习近平紧急撤换四省一把手！某人高升，只因干了一件神秘大事。奥巴马新书忆胡温</a></li>
 <li><a href="/finance/20201121/1434788.md">要出事?央企密集转让房产最低卖1万 习向首富们下手冻结资产 官方再打马云和互联网大鳄</a></li>
-<li><a href="/cbnews/20201121/1434680.md">钓鱼行动？民主党议员落网！克星来了？川普提名联邦法官主查高层欺诈？自欺欺人？乔州审计软件有严重漏洞【希望之声TV】</a></li>
 <li><a href="/lifebaike/20201121/1434764.md">银行家的美貌女儿如何沦为公共情妇？</a></li>
+<li><a href="/cbnews/20201121/1434680.md">钓鱼行动？民主党议员落网！克星来了？川普提名联邦法官主查高层欺诈？自欺欺人？乔州审计软件有严重漏洞【希望之声TV】</a></li>
 <li><a href="/topimagenews/20201121/1434715.md">投票机服务器被缴获 拜登早就“承认了”</a></li>
 <li><a href="/cbnews/20201121/1434760.md">再爆疫情！上海官方急“封院” 4015人隔离</a></li>
 <li><a href="/cbnews/20201121/1434668.md">川普习近平亚太峰会同框 两人“隔”离的很远</a></li>
+<li><a href="/cbnews/20201122/1434885.md">女大学生遭拐卖农村老汉！「囚禁猪圈17年」父再见心都碎了</a></li>
 <li><a href="/cbnews/20201121/1434706.md">核爆！鲍威尔一番话 揭开世界级大黑幕一角</a></li>
 <li><a href="/bannedvideo/20201121/1434718.md">财经冷眼：最新！恒大赖账200亿拖垮苏宁！债务危机下，这些民营和国企巨头都在谢幕！（20201121第386期）</a></li>
-<li><a href="/cbnews/20201122/1434885.md">女大学生遭拐卖农村老汉！「囚禁猪圈17年」父再见心都碎了</a></li>
+<li><a href="/cnnews/20201122/1434888.md">习近平王岐山联手3大信号？谁放风任志强曾庆红是朋友？惊爆拜登去年10月诡异警告</a></li>
 <li><a href="/cbnews/20201121/1434673.md">中共官场逆淘汰 钻营派阮成发“冒升”</a></li>
+<li><a href="/topimagenews/20201122/1434900.md">抄底多猫腻?美司法部专机降落多伦多 宾州大变 民主党紧张了 密歇根州也要翻盘？</a></li>
 <li><a href="/funmedia/20201121/1434656.md">凭直觉你认为图中谁是真空姐？测别人眼中的你</a></li>
 <li><a href="/ssgc/20201121/1434776.md">孙大骆：王沪宁20大后当委员长</a></li>
+<li><a href="/taiwannews/20201122/1434919.md">美国突然宣布重大消息！拜登败了！特朗普声称拜登民主党作弊</a></li>
 <li><a href="/ssgc/20201121/1434517.md">〖微博谈〗真是令人难以置信</a></li>
-<li><a href="/cnnews/20201122/1434888.md">习近平王岐山联手3大信号？谁放风任志强曾庆红是朋友？惊爆拜登去年10月诡异警告</a></li>
 <li><a href="/cbnews/20201121/1434674.md">川普律师：压倒性的胜利德国服务器数据显示川普得410张选举人票</a></li>
-<li><a href="/comments/20201121/1434722.md">阴谋论？刺杀川普总统的信号出现了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201122/1434880.md" target="_blank">最后通牒！马克龙总统给法国穆斯林2周时间“宣誓忠于共和价值观宪章”…不忠于法国的全部驱逐</a></li>
+<li><a href="/comments/20201122/1434946.md" target="_blank">做贼心虚？Dominion公司美加总部人去楼空 高管失踪  </a></li>
 <li><a href="/comments/20201122/1434933.md" target="_blank">重磅！鲍威尔揭大选服务器Scytl被美军截获 四敌国介入</a></li>
 <li><a href="/comments/20201122/1434931.md" target="_blank">如果地球的位置再向太阳靠近10厘米，答案可能很残酷</a></li>
 <li><a href="/comments/20201122/1434923.md" target="_blank">专家推反封锁政策《大巴灵顿宣言》 已近70万人签名支持</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201121/1434731.md" target="_blank">男人肾虚 4个方法巧调理</a></li>
 <li><a href="/comments/20201121/1434730.md" target="_blank">寒冬将至，艾灸这几个穴位，让我们元气十足</a></li>
 <li><a href="/comments/20201121/1434729.md" target="_blank">小雪节气，补肾藏精，安神养志 记住九个字</a></li>
-<li><a href="/comments/20201121/1434722.md" target="_blank">阴谋论？刺杀川普总统的信号出现了？</a></li>
-<li><a href="/comments/20201121/1434714.md" target="_blank">首届台美经济对话签署备忘录 聚焦5G供应链等议题</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
