@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20201122/1434888.md">习近平王岐山联手3大信号？谁放风任志强曾庆红是朋友？惊爆拜登去年10月诡异警告</a></li>
 <li><a href="/cbnews/20201122/1434885.md">女大学生遭拐卖农村老汉！「囚禁猪圈17年」父再见心都碎了</a></li>
 <li><a href="/topimagenews/20201122/1434900.md">抄底多猫腻?美司法部专机降落多伦多 宾州大变 民主党紧张了 密歇根州也要翻盘？</a></li>
-<li><a href="/cbnews/20201122/1434924.md">鲍威尔：川普已经决定释放“海怪”</a></li>
 <li><a href="/cbnews/20201122/1434910.md">前高官怒揭中国人身份证4处语文错误 网友：故意的</a></li>
+<li><a href="/cbnews/20201122/1434924.md">鲍威尔：川普已经决定释放“海怪”</a></li>
 <li><a href="/topimagenews/20201122/1435087.md">专家惊爆：Dominion与中国数据中心直接关联？</a></li>
 <li><a href="/comments/20201122/1435095.md">已成中共弃子？陆媒揭成龙撒了37年的弥天大谎</a></li>
 <li><a href="/topimagenews/20201122/1435068.md">林伍德律师的这段话 会让无数人惊掉下巴!【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201122/1435200.md">成龙自曝嫖娼出轨家暴 曾跟十几个妓女发生关系</a></li>
+<li><a href="/bannedvideo/20201122/1435185.md">我越来越怀疑这次瘟疫就是一个阴谋，目的就是为了颠覆美国的选举；助选川普我以捐款的方式参与改变世界并且引以为傲！</a></li>
 <li><a href="/cbnews/20201122/1434965.md">习近平中纪委安插嫡系 密查孙政才案被曝光</a></li>
 <li><a href="/comments/20201122/1434994.md">前英国大律师：CIA操控美大选 欧盟中共都知情</a></li>
-<li><a href="/bannedvideo/20201122/1435185.md">我越来越怀疑这次瘟疫就是一个阴谋，目的就是为了颠覆美国的选举；助选川普我以捐款的方式参与改变世界并且引以为傲！</a></li>
 <li><a href="/comments/20201122/1434879.md">苍天呐！美国警长因雕刻了西瓜而被开除公职…西瓜和南瓜都表示很无辜：“我们不代表人类种族”</a></li>
 <li><a href="/topimagenews/20201122/1435081.md">鲍威尔：乔治亚州是我要炸掉的第一个州 州长和州务卿也要...</a></li>
 <li><a href="/comments/20201122/1434880.md">最后通牒！马克龙总统给法国穆斯林2周时间“宣誓忠于共和价值观宪章”…不忠于法国的全部驱逐</a></li>
 <li><a href="/cbnews/20201122/1434905.md">浙江绍兴突爆疫情！一小区5千多人全员核酸检测</a></li>
-<li><a href="/cbnews/20201122/1434871.md">大选更新11.21：川普：乔州舞弊信息将出炉</a></li>
 <li><a href="/cnnews/20201122/1435025.md">民主党N种行动可能：清理门户或暗杀川普？</a></li>
+<li><a href="/cbnews/20201122/1434871.md">大选更新11.21：川普：乔州舞弊信息将出炉</a></li>
 <li><a href="/lifebaike/20201122/1434942.md">「一场同学聚会 毁了我的婚姻」：人到中年 要学会「不合群」</a></li>
 <li><a href="/cnnews/20201122/1435028.md">“奥巴马是这一切的背后黑手？”鲍威尔：是 还有…【阿波罗网编译】</a></li>
 <li><a href="/health/20201122/1435088.md">全世界公认的最健康作息时间表 没有之一 值得收藏</a></li>
-<li><a href="/comments/20201122/1434896.md">3亿年前的石头间的螺丝钉,地球文明循环了多少次？</a></li>
+<li><a href="/cnnews/20201122/1435205.md">中共4省书记异动 丑闻不断的阮成发上位引关注</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201122/1435307.md" target="_blank">澳议员谴责中共迫害法轮功 澳总理誓言坚守澳洲精神</a></li>
 <li><a href="/cbnews/20201122/1435237.md" target="_blank">美国大十字日全食带预言川普大选及末世大决战</a></li>
 <li><a href="/cbnews/20201122/1435255.md" target="_blank">浙江绍兴突爆疫情 全省进入紧张状态</a></li>
 <li><a href="/cbnews/20201122/1435251.md" target="_blank">大选更新11.22：川普要求乔州重新计票</a></li>
@@ -60,13 +61,14 @@
 <li><a href="/cbnews/20201122/1434934.md" target="_blank">〖图集〗乔治亚挺川普反窃选</a></li>
 <li><a href="/cbnews/20201122/1434924.md" target="_blank">鲍威尔：川普已经决定释放“海怪”</a></li>
 <li><a href="/cbnews/20201122/1434920.md" target="_blank">陈破空：直播预告：50州集会挺川！计票公司跑路。陈破空与网友互动 Q&amp;A 美东时间11月21日周六晚上8点，即中国时间11月22日周日早上9点</a></li>
-<li><a href="/cbnews/20201122/1434916.md" target="_blank">川普律师：下周在乔治亚州的诉讼将“令人震惊”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201122/1435307.md" target="_blank">澳议员谴责中共迫害法轮功 澳总理誓言坚守澳洲精神</a></li>
+<li><a href="/topimagenews/20201122/1435305.md" target="_blank">爆炸消息 操控大选欧盟中共都知情 CIA前FBI/CIA局长参与 鲍威尔拿到多猫腻实时证据</a></li>
 <li><a href="/topimagenews/20201122/1435236.md" target="_blank">李克强杠上了？泄内循环窘境 陆百城楼市库存超5亿连增23月 川普要直奔6G再甩中共10条街</a></li>
 <li><a href="/topimagenews/20201122/1435200.md" target="_blank">成龙自曝嫖娼出轨家暴 曾跟十几个妓女发生关系</a></li>
 <li><a href="/topimagenews/20201122/1435110.md" target="_blank">1950年宋美龄对全美演说：未来的人们都将在善恶间抉择</a></li>
@@ -90,14 +92,13 @@
 <li><a href="/topimagenews/20201120/1433938.md" target="_blank">川普宾州竞选律师获官方保护 惊曝：威胁人竟然是&#8230;【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20201120/1433793.md" target="_blank">“川普对深层政府决战开始” 中共挑衅川普力挫习近平咋办？ 美移民局新政策非法得绿卡&#8230;</a></li>
 <li><a href="/topimagenews/20201120/1433756.md" target="_blank">中国穷到什么程度？陆媒揭惊人真相：5.6亿人完全没存款</a></li>
-<li><a href="/topimagenews/20201120/1433744.md" target="_blank">海妖被捕获! 川普团队称破译投票机原数据 共和党高层暗指CIA、FBI政变</a></li>
-<li><a href="/topimagenews/20201119/1433575.md" target="_blank">孙大午创三权分立冲击中共? 郭台铭转战越南将成出口龙头 RCEP恐触发供应链搬出中国</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201122/1435307.md" target="_blank">澳议员谴责中共迫害法轮功 澳总理誓言坚守澳洲精神</a></li>
 <li><a href="/comments/20201122/1435270.md" target="_blank">美印太情报总指挥官旋风抵台？ 台美低调：无可奉告</a></li>
 <li><a href="/comments/20201122/1435269.md" target="_blank">为什么新冠病毒转阴后会突然恶化 中医世家两料理可避免</a></li>
 <li><a href="/comments/20201122/1435260.md" target="_blank">美媒体人：应将美新冠疫苗命名为“川普” 以彰其政绩</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201122/1435062.md" target="_blank">强大而沮丧的“中共国”特别危险？</a></li>
 <li><a href="/comments/20201122/1435053.md" target="_blank">惊！黄洁夫证实中共器官移植是经济发展需要</a></li>
 <li><a href="/comments/20201122/1435047.md" target="_blank">东海一枭:做一个好人&#8212;兼为好人孙大午鼓与呼</a></li>
-<li><a href="/comments/20201122/1435046.md" target="_blank">啃老与弃老 我们时代的楢山节考</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 
 </ul>
 </div>
