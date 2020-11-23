@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20201122/1435087.md">专家惊爆：Dominion与中国数据中心直接关联？</a></li>
 <li><a href="/topimagenews/20201122/1435068.md">林伍德律师的这段话 会让无数人惊掉下巴!【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201122/1435205.md">中共4省书记异动 丑闻不断的阮成发上位引关注</a></li>
-<li><a href="/topimagenews/20201122/1435236.md">李克强杠上了？泄内循环窘境 陆百城楼市库存超5亿连增23月 川普要直奔6G再甩中共10条街</a></li>
 <li><a href="/topimagenews/20201123/1435372.md">川普怒批大选舞弊 对众议院共和党主席开砲：你只是不希望我把美军撤回国内</a></li>
+<li><a href="/topimagenews/20201122/1435236.md">李克强杠上了？泄内循环窘境 陆百城楼市库存超5亿连增23月 川普要直奔6G再甩中共10条街</a></li>
 <li><a href="/bannedvideo/20201122/1435186.md">川普已进“安全屋”！民主党承认作弊？索命邮件威胁林伍德律师！司马昭之心路人皆知！</a></li>
 <li><a href="/bannedvideo/20201122/1435180.md">文睿：你们天天说中共要完了，多少年过去了，不脸红吗？回应大家的这种质疑</a></li>
 <li><a href="/cbnews/20201122/1435255.md">浙江绍兴突爆疫情 全省进入紧张状态</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20201122/1435025.md">民主党N种行动可能：清理门户或暗杀川普？</a></li>
 <li><a href="/health/20201122/1435088.md">全世界公认的最健康作息时间表 没有之一 值得收藏</a></li>
 <li><a href="/topimagenews/20201122/1435305.md">爆炸消息 操控大选欧盟中共都知情 CIA前FBI/CIA局长参与 鲍威尔拿到多猫腻实时证据</a></li>
-<li><a href="/cbnews/20201122/1435132.md">最后的疯狂？推特将把总统账户交给拜登！销毁证据？乔州路边惊现遭弃投票机！又一个内鬼？谷歌副总裁遭五角大楼解雇</a></li>
 <li><a href="/topimagenews/20201123/1435362.md">刺杀川普信号貌似出现? "美国史上最大选举抢劫" 拜登曝闷声发大财新丑闻</a></li>
-<li><a href="/health/20201122/1435090.md">医生不会告诉你 这水果是清肺之王 止咳润肺效果是梨的10倍</a></li>
+<li><a href="/cbnews/20201122/1435132.md">最后的疯狂？推特将把总统账户交给拜登！销毁证据？乔州路边惊现遭弃投票机！又一个内鬼？谷歌副总裁遭五角大楼解雇</a></li>
 <li><a href="/comments/20201122/1435074.md">习近平力推“内循环” 李克强不唱和再泄窘境</a></li>
-<li><a href="/topimagenews/20201122/1435086.md">惊曝四敌国掌握"多猫腻" 奥巴马把软体给了哪国？佩洛西恐将下台话混乱</a></li>
+<li><a href="/cbnews/20201123/1435363.md">鲍威尔：第一个炸掉此州 这州长怕了？审计再变局 国安:从德国获得一硬件</a></li>
+<li><a href="/health/20201122/1435090.md">医生不会告诉你 这水果是清肺之王 止咳润肺效果是梨的10倍</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201123/1435528.md" target="_blank">天亮时分：川普跟鲍威尔切割？集中精力打赢选战；宾州修改大选数据，警惕民主党销毁证据的方法（政论天下第283集 20201122）</a></li>
 <li><a href="/cbnews/20201123/1435480.md" target="_blank">【停止窃选演讲】年仅18岁青年自由思想者项目主席：媒体不能指定谁是总统</a></li>
 <li><a href="/cbnews/20201123/1435479.md" target="_blank">川普竞选团队发声明与鲍威尔切割 各方解读中 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】</a></li>
 <li><a href="/cbnews/20201123/1435433.md" target="_blank">川普支持者坚信“狮子王”新演绎</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20201123/1435317.md" target="_blank">鲍威尔：“超大规模”诉讼即将到来</a></li>
 <li><a href="/comments/20201122/1435307.md" target="_blank">澳议员谴责中共迫害法轮功 澳总理誓言坚守澳洲精神</a></li>
 <li><a href="/cbnews/20201122/1435237.md" target="_blank">美国大十字日全食带预言川普大选及末世大决战</a></li>
-<li><a href="/cbnews/20201122/1435255.md" target="_blank">浙江绍兴突爆疫情 全省进入紧张状态</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201123/1435530.md" target="_blank">快讯！弗林将军代鲍威尔律师发出声明【阿波罗网编译】</a></li>
 <li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
 <li><a href="/topimagenews/20201123/1435381.md" target="_blank">讲不到3分钟！华为手机突「膨胀炸开」 爱尔兰男：才买两个月</a></li>
 <li><a href="/topimagenews/20201123/1435372.md" target="_blank">川普怒批大选舞弊 对众议院共和党主席开砲：你只是不希望我把美军撤回国内</a></li>
@@ -91,13 +92,19 @@
 <li><a href="/topimagenews/20201121/1434630.md" target="_blank">巧合？放大招？四大保守派大法官负责四大战场州 【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20201121/1434367.md" target="_blank">宾州法院宣布缺席票无效 乔州长拒答拿多猫腻回扣 左媒显颓势 黑川没新招</a></li>
 <li><a href="/topimagenews/20201120/1434185.md" target="_blank">习近平翻旧账马云要拱手交权 中国需求大增美国粮价涨3成 人民币升值 出口订单大减</a></li>
-<li><a href="/topimagenews/20201120/1434024.md" target="_blank">重磅！鲍威尔律师证实德国服务器一事：这是真的 但我…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201123/1435538.md" target="_blank">陶杰：吹泡泡</a></li>
+<li><a href="/comments/20201123/1435537.md" target="_blank">吴奕军：马云何必犯愚蠢的错误</a></li>
+<li><a href="/comments/20201123/1435536.md" target="_blank">从著名占星家珍妮・狄克逊对今年的预言说起 揭秘神秘的三个6</a></li>
+<li><a href="/comments/20201123/1435529.md" target="_blank">不可过食 内脏脂肪会分泌“毒药”</a></li>
+<li><a href="/comments/20201123/1435522.md" target="_blank">吕布被曹操生擒求宽恕 过往劣迹刘备一语揭穿</a></li>
+<li><a href="/comments/20201123/1435521.md" target="_blank">蒋介石日记里如何反省色心 成为冷静谋略家的</a></li>
+<li><a href="/comments/20201123/1435520.md" target="_blank">Angelababy遇见「胶脸」网红8秒反应影片疯传</a></li>
 <li><a href="/comments/20201123/1435517.md" target="_blank">一文读懂“华盛顿沼泽”和“深层影子政府”</a></li>
 <li><a href="/comments/20201123/1435516.md" target="_blank">东方：国产芯片为什么不行？</a></li>
 <li><a href="/comments/20201123/1435514.md" target="_blank">张洁平：我欠你们很多眼泪要到现场还</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20201123/1435405.md" target="_blank">鲍威尔：将起诉数州选举官员 首先是乔治亚州</a></li>
 <li><a href="/comments/20201123/1435404.md" target="_blank">54岁刘嘉玲绑双马尾演少女 网友「超违和」难入戏</a></li>
 <li><a href="/comments/20201123/1435378.md" target="_blank">扞卫民主共和 守护宪政根基 宾州民众州府表达心声</a></li>
-<li><a href="/comments/20201123/1435341.md" target="_blank">川普竞选团队已要求乔治亚州重新计票</a></li>
-<li><a href="/comments/20201123/1435336.md" target="_blank">“华盛顿沼泽”及“深层影子政府”</a></li>
-<li><a href="/comments/20201123/1435333.md" target="_blank">【选情更新11/22】川普团队：下周的诉讼案将有如神助</a></li>
-<li><a href="/comments/20201123/1435331.md" target="_blank">从著名占星家珍妮・狄克逊对今年的预言说起</a></li>
-<li><a href="/comments/20201122/1435309.md" target="_blank">有决心暂停宾州认证 朱利安尼：将提诉最高法院</a></li>
-<li><a href="/comments/20201122/1435307.md" target="_blank">澳议员谴责中共迫害法轮功 澳总理誓言坚守澳洲精神</a></li>
-<li><a href="/comments/20201122/1435270.md" target="_blank">美印太情报总指挥官旋风抵台？ 台美低调：无可奉告</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
 
 </ul>
 </div>
