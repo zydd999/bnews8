@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201122/1435236.md">李克强杠上了？泄内循环窘境 陆百城楼市库存超5亿连增23月 川普要直奔6G再甩中共10条街</a></li>
 <li><a href="/topimagenews/20201123/1435372.md">川普怒批大选舞弊 对众议院共和党主席开砲：你只是不希望我把美军撤回国内</a></li>
 <li><a href="/cbnews/20201122/1435255.md">浙江绍兴突爆疫情 全省进入紧张状态</a></li>
 <li><a href="/comments/20201123/1435422.md">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/cbnews/20201123/1435653.md">王沪宁突然被免 专家揭习近平用意</a></li>
 <li><a href="/topimagenews/20201123/1435570.md">鲍威尔律师为何身份突变？“一切都有计划？”</a></li>
 <li><a href="/cbnews/20201123/1435479.md">川普竞选团队发声明与鲍威尔切割 各方解读中 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】</a></li>
-<li><a href="/cbnews/20201123/1435653.md">王沪宁突然被免 专家揭习近平用意</a></li>
 <li><a href="/bannedvideo/20201123/1435332.md">不懂就问：前任总统奥巴马有权力指挥现役部队占领白宫，并且把川普赶出来吗？</a></li>
 <li><a href="/comments/20201123/1435550.md">胡锦涛身边全是内奸 唯一亲信如今坐冷板凳</a></li>
 <li><a href="/cbnews/20201123/1435420.md">一线采访：上海疫情扩散多地 机场封检</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/comments/20201123/1435356.md">川普公开感谢奥巴马任命的法官驳回宾州的诉讼，说这等于将虚假大选送入了最高法！FOX主持人卡尔森公开“叛变”，更多街头暴力涌现</a></li>
 <li><a href="/ssgc/20201123/1435379.md">〖兲朝浮世绘〗中共一定是其中的1/4，华大妈渴望的更加猛烈的暴风雨终于要来了</a></li>
 <li><a href="/topimagenews/20201123/1435362.md">刺杀川普信号貌似出现? "美国史上最大选举抢劫" 拜登曝闷声发大财新丑闻</a></li>
+<li><a href="/topimagenews/20201123/1435628.md">鲍威尔最新声明：不允许伟大共和国被内外的共产主义者窃取【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201122/1435305.md">爆炸消息 操控大选欧盟中共都知情 CIA前FBI/CIA局长参与 鲍威尔拿到多猫腻实时证据</a></li>
 <li><a href="/comments/20201123/1435539.md">夏林：印度神童突然复出 改预言 献良策</a></li>
-<li><a href="/topimagenews/20201123/1435628.md">鲍威尔最新声明：不允许伟大共和国被内外的共产主义者窃取【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201123/1435381.md">讲不到3分钟！华为手机突「膨胀炸开」 爱尔兰男：才买两个月</a></li>
 <li><a href="/comments/20201123/1435440.md">川普团队新声明涉及鲍威尔 美媒消息人士透露原因</a></li>
 <li><a href="/cbnews/20201123/1435363.md">鲍威尔：第一个炸掉此州 这州长怕了？审计再变局 国安:从德国获得一硬件</a></li>
 <li><a href="/finance/20201123/1435424.md">重磅！新冠明年将完全不是个事，螺纹钢连续大涨气势如虹</a></li>
 <li><a href="/cbnews/20201122/1435245.md">陈破空：习近平头大了！美国索赔声浪骤起。北京拉台独清单，头号竟是毛泽东？习仲勋遭缺席审判</a></li>
 <li><a href="/cbnews/20201123/1435391.md">美国政府宣布 正式退出开放天空条约</a></li>
+<li><a href="/cbnews/20201123/1435382.md">想让袭臀学弟「社死」！北京清华女怒公审 监视器曝光却逆转了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201123/1435788.md" target="_blank">注意！心肌梗塞「隐藏症状」是这些</a></li>
+<li><a href="/comments/20201123/1435787.md" target="_blank">别和巧克力一起吃！这些相克食物恐致癌</a></li>
 <li><a href="/comments/20201123/1435751.md" target="_blank">路透：川普拟再制裁89家中共军企</a></li>
 <li><a href="/comments/20201123/1435739.md" target="_blank">美宣布退出《开放天空条约》</a></li>
 <li><a href="/comments/20201123/1435336.md" target="_blank">“华盛顿沼泽”及“深层影子政府”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201123/1435550.md" target="_blank">胡锦涛身边全是内奸 唯一亲信如今坐冷板凳</a></li>
 <li><a href="/comments/20201123/1435539.md" target="_blank">夏林：印度神童突然复出 改预言 献良策</a></li>
 <li><a href="/comments/20201123/1435538.md" target="_blank">陶杰：吹泡泡</a></li>
-<li><a href="/comments/20201123/1435537.md" target="_blank">吴奕军：马云何必犯愚蠢的错误</a></li>
-<li><a href="/comments/20201123/1435536.md" target="_blank">从著名占星家珍妮・狄克逊对今年的预言说起 揭秘神秘的三个6</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
