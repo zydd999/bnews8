@@ -14,19 +14,19 @@
 <li><a href="/cbnews/20201124/1436193.md">中共严控中国公民出境？…</a></li>
 <li><a href="/cbnews/20201124/1436187.md">内讧了？为啥拜登着急组阁？又一个叛变？川普火力全开！都是一伙的？“多猫腻”和“安提法”是一家？【希望之声TV】</a></li>
 <li><a href="/cbnews/20201124/1435978.md">G20峰会习近平提国际“健康码”惹争议</a></li>
+<li><a href="/bannedvideo/20201124/1436350.md">马云事件最新内幕 原来大家都被骗了；民主党人才济济 为何强推失智的拜登上位？鲍威尔独立 川普团队变阵 大戏开演；习近平在扬州吃饭私照流出？网友：替身；网爆反习高官绝笔信一宣传大佬出事？</a></li>
 <li><a href="/cbnews/20201124/1436333.md">美总务局长给拜登的信函，不是妥协，是炸弹</a></li>
 <li><a href="/cnnews/20201124/1436207.md">放出惊人猛料！ 林伍德大律师：重罪！【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20201124/1436350.md">马云事件最新内幕 原来大家都被骗了；民主党人才济济 为何强推失智的拜登上位？鲍威尔独立 川普团队变阵 大戏开演；习近平在扬州吃饭私照流出？网友：替身；网爆反习高官绝笔信一宣传大佬出事？</a></li>
 <li><a href="/ssgc/20201124/1435986.md">〖兲朝浮世绘〗鲍威尔女士真是一位刚正不阿的英雄豪杰</a></li>
 <li><a href="/topimagenews/20201124/1436313.md">马云一生最大考验3大巨浪 832个贫困县全脱贫？更穷! GDP67%来自抗疫网斥吃人</a></li>
 <li><a href="/cbnews/20201124/1436203.md">江峰：突发：总统权力开始移交！总务管理局长墨菲遭胁迫，川普善心启动过渡，并未认可“过渡总统”；鲍威尔遇白宫律师团队“切割”，看川普艰难与深层安排</a></li>
 <li><a href="/cnnews/20201124/1436122.md">保守派大法官发威 川普团队获得重要进展【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201124/1435981.md">朱镕基大秘升官 习胡江朱人马混战贵州</a></li>
 <li><a href="/bannedvideo/20201124/1436237.md">川普开始交接权力，到底谁是真命天子？</a></li>
+<li><a href="/bannedvideo/20201124/1436348.md">劲爆!一切在计划中!林伍德律师连发推文晒证据!</a></li>
 <li><a href="/comments/20201124/1435983.md">平行世界真的存在？NASA科学家发现惊人证据</a></li>
 <li><a href="/cbnews/20201124/1436256.md">钟南山又带货！这次不是保健品</a></li>
 <li><a href="/bannedvideo/20201124/1436100.md">拜登急于组阁？奥巴马诱降，扎克伯格浮出！义人川普，与影子和沼泽怪兽作战的人</a></li>
-<li><a href="/bannedvideo/20201124/1436348.md">劲爆!一切在计划中!林伍德律师连发推文晒证据!</a></li>
 <li><a href="/lifebaike/20201124/1436120.md">汽车有天窗和没天窗有什么区别？老司机：一到冬天就知道了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
