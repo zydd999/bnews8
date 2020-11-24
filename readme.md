@@ -15,11 +15,10 @@
 <li><a href="/cbnews/20201124/1436333.md">美总务局长给拜登的信函，不是妥协，是炸弹</a></li>
 <li><a href="/cnnews/20201124/1436207.md">放出惊人猛料！ 林伍德大律师：重罪！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201124/1436313.md">马云一生最大考验3大巨浪 832个贫困县全脱贫？更穷! GDP67%来自抗疫网斥吃人</a></li>
-<li><a href="/ssgc/20201124/1435986.md">〖兲朝浮世绘〗鲍威尔女士真是一位刚正不阿的英雄豪杰</a></li>
+<li><a href="/topimagenews/20201125/1436469.md">川普同意过渡拜登窃国未成 密歇根州传来重大利好消息 法律专家：川普有足够时间</a></li>
 <li><a href="/cbnews/20201124/1436203.md">江峰：突发：总统权力开始移交！总务管理局长墨菲遭胁迫，川普善心启动过渡，并未认可“过渡总统”；鲍威尔遇白宫律师团队“切割”，看川普艰难与深层安排</a></li>
 <li><a href="/cnnews/20201124/1436122.md">保守派大法官发威 川普团队获得重要进展【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201124/1436348.md">劲爆!一切在计划中!林伍德律师连发推文晒证据!</a></li>
-<li><a href="/topimagenews/20201125/1436469.md">川普同意过渡拜登窃国未成 密歇根州传来重大利好消息 法律专家：川普有足够时间</a></li>
 <li><a href="/bannedvideo/20201124/1436237.md">川普开始交接权力，到底谁是真命天子？</a></li>
 <li><a href="/cbnews/20201124/1436256.md">钟南山又带货！这次不是保健品</a></li>
 <li><a href="/bannedvideo/20201124/1436100.md">拜登急于组阁？奥巴马诱降，扎克伯格浮出！义人川普，与影子和沼泽怪兽作战的人</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20201124/1436305.md">孟祥锋职务异动引关注 港媒：将出任中南海大管家</a></li>
 <li><a href="/cnnews/hknews/20201124/1436293.md">不满中方屡次违背联合声明 英国考虑撤走香港终审法院的英籍法官</a></li>
 <li><a href="/lifebaike/20201124/1436086.md">中国的地下捐精乱象</a></li>
+<li><a href="/cbnews/20201124/1436035.md">GSA致信拜登 准备过渡  主谋浮现 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/11/23)</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201125/1436579.md" target="_blank">墨西哥移民: 美国不可落入社会主义者手中</a></li>
+<li><a href="/comments/20201125/1436578.md" target="_blank">中共干涉美大选再添疑云 Dominion总裁：投票机有中国组件</a></li>
+<li><a href="/comments/20201125/1436577.md" target="_blank">如果掌握了暗能量的使用技术，人类和宇宙会怎样</a></li>
+<li><a href="/comments/20201125/1436576.md" target="_blank">最像英国女星艾玛华森的人是她!粉丝也崩溃「谁是谁」</a></li>
 <li><a href="/comments/20201125/1436564.md" target="_blank">独特标语牌引注目 圣安东尼奥公司老板表心意</a></li>
 <li><a href="/comments/20201125/1436563.md" target="_blank">福克斯名主持：媒体与拜登公开勾结 操纵美国大选</a></li>
 <li><a href="/comments/20201125/1436561.md" target="_blank">精英统治世界 世界会变成什么样？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201124/1436337.md" target="_blank">美第一夫人白宫喜迎2020年圣诞树</a></li>
 <li><a href="/comments/20201124/1436336.md" target="_blank">民调：56%的选民希望共和党继续执掌联邦参议院</a></li>
 <li><a href="/comments/20201124/1436329.md" target="_blank">英外交大臣拉布：英国拟撤出香港终审法院法官</a></li>
-<li><a href="/comments/20201124/1436247.md" target="_blank">中共不能代表中国人民的N个理由之（十一）： 毁灭道德，中共岂能代表中国人民</a></li>
-<li><a href="/comments/20201124/1436264.md" target="_blank">英律师向国际法庭提告：北京对维吾尔人犯下反人类罪</a></li>
-<li><a href="/comments/20201124/1436263.md" target="_blank">我们已知的终极病毒“朊病毒”，电影丧尸的灵感来源</a></li>
-<li><a href="/comments/20201124/1436261.md" target="_blank">关于食物的寒热属性</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 <li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
