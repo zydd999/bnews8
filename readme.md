@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20201125/1436584.md">火了！是他吗？网曝习近平在扬州吃饭私照</a></li>
 <li><a href="/finance/20201125/1436587.md">传习近平最后一刻出手 马云被边控 已做最坏打算</a></li>
-<li><a href="/topimagenews/20201125/1436469.md">川普同意过渡拜登窃国未成 密歇根州传来重大利好消息 法律专家：川普有足够时间</a></li>
 <li><a href="/cbnews/20201125/1436862.md">权力惊人 中纪委直接进会场抓人…</a></li>
 <li><a href="/bannedvideo/20201125/1436508.md">川普刚刚在白宫发表讲话；从未支持过川普的电商公司创始人巴恩爆料：选举做假了，我们知道他们是怎么做的，我们可以证明！</a></li>
 <li><a href="/comments/20201125/1436514.md">UFO坠毁美国市郊,科学家对外星人尸体研究获得惊人发现</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/worldnews/usa/20201125/1436495.md">伊万娜·川普晒爱情春天，挽着小男友上街被拍…川总依然坚守推特拒绝承认失败，总务署也并没有向拜登低头…</a></li>
 <li><a href="/cbnews/20201125/1436754.md">鲍威尔：周三将提交“庞大”诉讼状 川普会连任</a></li>
 <li><a href="/bannedvideo/20201125/1436852.md">2021年预言上半年最艰难 印度男孩修改预言发生了什么?（启明笑谈20201125）</a></li>
-<li><a href="/cbnews/20201125/1436598.md">文昭：总务署和国防部开始交接；中国警察竟道出美国大选真机；现实感和「常识阴谋论」</a></li>
 <li><a href="/cbnews/20201125/1436824.md">江峰：243年前华盛顿预见了今天的川普！宣告美国第三次国难的到来并带领人民走过劫难</a></li>
-<li><a href="/cbnews/20201125/1436518.md">被左媒歪曲的信函 联邦总务署署长给拜登的信；林伍德：很快乔治亚州会有人进监狱【希望之声TV】</a></li>
+<li><a href="/cbnews/20201125/1436598.md">文昭：总务署和国防部开始交接；中国警察竟道出美国大选真机；现实感和「常识阴谋论」</a></li>
 <li><a href="/cbnews/20201125/1436795.md">抓住了？有人拿中共的钱换美国大选？截获作弊视频？民主党师爷披露：为啥拜登大量选票无法解释 【希望之声TV】</a></li>
+<li><a href="/comments/20201125/1436916.md">视频：婴儿感受到他的威胁，奋力哭喊，最后孩子的父亲夺回了小宝宝</a></li>
+<li><a href="/cbnews/20201125/1436518.md">被左媒歪曲的信函 联邦总务署署长给拜登的信；林伍德：很快乔治亚州会有人进监狱【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20201125/1436615.md">重磅：肯尼迪第57号备忘录被激活，瞄准废掉CIA的武功！周密布局，川普总统进入准军事行动！</a></li>
-<li><a href="/comments/20201125/1436547.md">名家专栏：川普总统秘密会谈内容被泄露</a></li>
 <li><a href="/cbnews/20201125/1436531.md">称死4千人等于没死惹众怒 李毅遭人民大学急切割</a></li>
+<li><a href="/comments/20201125/1436547.md">名家专栏：川普总统秘密会谈内容被泄露</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201126/1437038.md" target="_blank">江峰：林伍德爆大海怪真实身份—美军网络战计划，代号圣雷达！拜登内阁到位，可以一窝端了【江峰时刻20201125】</a></li>
 <li><a href="/cbnews/20201125/1436983.md" target="_blank">大选更新11.25：美议员：宾州认证是鲁莽的</a></li>
 <li><a href="/cbnews/20201125/1436956.md" target="_blank">陈破空：英国动议出兵中国？日本强烈赞同。习近平拍脑袋，宣布实现全面小康！李克强大唱反调，要求讲真话</a></li>
 <li><a href="/cbnews/20201125/1436951.md" target="_blank">鲍威尔在乔治亚州提起独立诉讼！林伍德：乔州很多人将入狱！朱利安尼：要将舞弊案诉至最高院！宾州等三大战场州举行公开听证会！RNC主席：川普绝不会放弃战斗【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201125/1436648.md" target="_blank">天亮时分：79%的川普选民认为大选被盗；用这个方法可将官司直接打到最高法院；三州立法机关将举行大选听证（政论天下第285集 20201124）</a></li>
 <li><a href="/cbnews/20201125/1436365.md" target="_blank">日内瓦论坛 曝光中共活摘法轮功学员器官罪行</a></li>
 <li><a href="/cbnews/20201125/1436367.md" target="_blank">感恩节诉心声 澳华人：法轮功创始人功德无量</a></li>
-<li><a href="/cbnews/20201125/1436375.md" target="_blank">美国议员将提两党立法 制止中共活摘器官</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 
 </ul>
 </div>
