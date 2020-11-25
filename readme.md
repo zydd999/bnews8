@@ -8,26 +8,26 @@
 <li><a href="/bannedvideo/20201124/1436350.md">马云事件最新内幕 原来大家都被骗了；民主党人才济济 为何强推失智的拜登上位？鲍威尔独立 川普团队变阵 大戏开演；习近平在扬州吃饭私照流出？网友：替身；网爆反习高官绝笔信一宣传大佬出事？</a></li>
 <li><a href="/cbnews/20201124/1436193.md">中共严控中国公民出境？…</a></li>
 <li><a href="/cbnews/20201124/1436187.md">内讧了？为啥拜登着急组阁？又一个叛变？川普火力全开！都是一伙的？“多猫腻”和“安提法”是一家？【希望之声TV】</a></li>
+<li><a href="/cbnews/20201125/1436584.md">火了！是他吗？网曝习近平在扬州吃饭私照</a></li>
 <li><a href="/cbnews/20201124/1436333.md">美总务局长给拜登的信函，不是妥协，是炸弹</a></li>
 <li><a href="/cnnews/20201124/1436207.md">放出惊人猛料！ 林伍德大律师：重罪！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201125/1436469.md">川普同意过渡拜登窃国未成 密歇根州传来重大利好消息 法律专家：川普有足够时间</a></li>
-<li><a href="/cbnews/20201125/1436584.md">火了！是他吗？网曝习近平在扬州吃饭私照</a></li>
+<li><a href="/finance/20201125/1436587.md">传习近平最后一刻出手 马云被边控 已做最坏打算</a></li>
 <li><a href="/topimagenews/20201124/1436313.md">马云一生最大考验3大巨浪 832个贫困县全脱贫？更穷! GDP67%来自抗疫网斥吃人</a></li>
 <li><a href="/bannedvideo/20201125/1436508.md">川普刚刚在白宫发表讲话；从未支持过川普的电商公司创始人巴恩爆料：选举做假了，我们知道他们是怎么做的，我们可以证明！</a></li>
-<li><a href="/finance/20201125/1436587.md">传习近平最后一刻出手 马云被边控 已做最坏打算</a></li>
 <li><a href="/cbnews/20201124/1436203.md">江峰：突发：总统权力开始移交！总务管理局长墨菲遭胁迫，川普善心启动过渡，并未认可“过渡总统”；鲍威尔遇白宫律师团队“切割”，看川普艰难与深层安排</a></li>
-<li><a href="/bannedvideo/20201124/1436348.md">劲爆!一切在计划中!林伍德律师连发推文晒证据!</a></li>
 <li><a href="/ssgc/20201125/1436580.md">〖兲朝浮世绘〗录用女公务员乳房要对称，这是在选美？</a></li>
-<li><a href="/comments/20201125/1436514.md">UFO坠毁美国市郊,科学家对外星人尸体研究获得惊人发现</a></li>
+<li><a href="/bannedvideo/20201124/1436348.md">劲爆!一切在计划中!林伍德律师连发推文晒证据!</a></li>
 <li><a href="/cbnews/20201124/1436256.md">钟南山又带货！这次不是保健品</a></li>
+<li><a href="/comments/20201125/1436514.md">UFO坠毁美国市郊,科学家对外星人尸体研究获得惊人发现</a></li>
 <li><a href="/bannedvideo/20201124/1436237.md">川普开始交接权力，到底谁是真命天子？</a></li>
 <li><a href="/cnnews/20201124/1436305.md">孟祥锋职务异动引关注 港媒：将出任中南海大管家</a></li>
 <li><a href="/cnnews/hknews/20201124/1436293.md">不满中方屡次违背联合声明 英国考虑撤走香港终审法院的英籍法官</a></li>
+<li><a href="/cbnews/20201125/1436650.md">中共严控公民出境 学者指藏两大目的</a></li>
 <li><a href="/cbnews/20201125/1436518.md">被左媒歪曲的信函 联邦总务署署长给拜登的信；林伍德：很快乔治亚州会有人进监狱【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20201124/1436290.md">上海多地爆发疫情 民间批官方隐瞒</a></li>
+<li><a href="/cnnews/20201125/1436591.md">快讯！宾夕法尼亚等三大战场州将就2020选举举行公开听证会【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201124/1436190.md">川普团队周一取得两大进展</a></li>
-<li><a href="/cbnews/20201125/1436650.md">中共严控公民出境 学者指藏两大目的</a></li>
-<li><a href="/comments/20201125/1436547.md">名家专栏：川普总统秘密会谈内容被泄露</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201125/1436766.md" target="_blank">萧铭：纽约时报数据成为川普打赢宾州官司的关键？</a></li>
 <li><a href="/cbnews/20201125/1436758.md" target="_blank">川普诱敌深入，已经锁定胜局将一网打尽</a></li>
 <li><a href="/cbnews/20201125/1436754.md" target="_blank">鲍威尔：周三将提交“庞大”诉讼状 川普会连任</a></li>
 <li><a href="/cbnews/20201125/1436751.md" target="_blank">道琼斯指数首次突破3万 ；朱利安尼：和鲍威尔分开 各自申诉；共和党人在4州发起16项选举后法律战；众议员吁各州检察长诉违宪州 直接上高院【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201125/1436521.md" target="_blank">左媒民调：97%川普支持者不承认拜登胜选</a></li>
 <li><a href="/cbnews/20201125/1436518.md" target="_blank">被左媒歪曲的信函 联邦总务署署长给拜登的信；林伍德：很快乔治亚州会有人进监狱【希望之声TV】</a></li>
 <li><a href="/cbnews/20201125/1436517.md" target="_blank">陈破空：直播预告：过渡拜登？信件原来如此！川普阵营提起更多诉讼。陈破空与网友互动Q&amp;A 美东时间11月24日周二晚8点、即中国时间11月25日周三早9点</a></li>
-<li><a href="/cbnews/20201124/1436383.md" target="_blank">美总务署长：我、家人和宠物 安全受威胁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 
 </ul>
 </div>
