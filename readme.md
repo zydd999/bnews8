@@ -14,20 +14,20 @@
 <li><a href="/bannedvideo/20201125/1436508.md">川普刚刚在白宫发表讲话；从未支持过川普的电商公司创始人巴恩爆料：选举做假了，我们知道他们是怎么做的，我们可以证明！</a></li>
 <li><a href="/cbnews/20201125/1436650.md">中共严控公民出境 学者指藏两大目的</a></li>
 <li><a href="/bannedvideo/20201124/1436348.md">劲爆!一切在计划中!林伍德律师连发推文晒证据!</a></li>
-<li><a href="/ssgc/20201125/1436580.md">〖兲朝浮世绘〗录用女公务员乳房要对称，这是在选美？</a></li>
 <li><a href="/comments/20201125/1436514.md">UFO坠毁美国市郊,科学家对外星人尸体研究获得惊人发现</a></li>
-<li><a href="/cnnews/20201124/1436305.md">孟祥锋职务异动引关注 港媒：将出任中南海大管家</a></li>
+<li><a href="/ssgc/20201125/1436580.md">〖兲朝浮世绘〗录用女公务员乳房要对称，这是在选美？</a></li>
 <li><a href="/cbnews/20201125/1436707.md">习近平与李克强顶牛？四省书记调动突现异常</a></li>
+<li><a href="/cnnews/20201124/1436305.md">孟祥锋职务异动引关注 港媒：将出任中南海大管家</a></li>
 <li><a href="/cnnews/20201125/1436591.md">快讯！宾夕法尼亚等三大战场州将就2020选举举行公开听证会【阿波罗网编译】</a></li>
-<li><a href="/cnnews/hknews/20201124/1436293.md">不满中方屡次违背联合声明 英国考虑撤走香港终审法院的英籍法官</a></li>
 <li><a href="/cbnews/20201125/1436758.md">川普诱敌深入，已经锁定胜局将一网打尽</a></li>
-<li><a href="/bannedvideo/20201124/1436290.md">上海多地爆发疫情 民间批官方隐瞒</a></li>
 <li><a href="/cbnews/20201125/1436518.md">被左媒歪曲的信函 联邦总务署署长给拜登的信；林伍德：很快乔治亚州会有人进监狱【希望之声TV】</a></li>
 <li><a href="/worldnews/usa/20201125/1436495.md">伊万娜·川普晒爱情春天，挽着小男友上街被拍…川总依然坚守推特拒绝承认失败，总务署也并没有向拜登低头…</a></li>
+<li><a href="/cnnews/20201125/1436807.md">川普团队再传喜讯！白宫办公厅主任：内华达州重大新闻...【阿波罗网编译】</a></li>
 <li><a href="/comments/20201125/1436547.md">名家专栏：川普总统秘密会谈内容被泄露</a></li>
 <li><a href="/cbnews/20201125/1436531.md">称死4千人等于没死惹众怒 李毅遭人民大学急切割</a></li>
 <li><a href="/cbnews/20201125/1436598.md">文昭：总务署和国防部开始交接；中国警察竟道出美国大选真机；现实感和「常识阴谋论」</a></li>
-<li><a href="/bannedvideo/20201125/1436615.md">重磅：肯尼迪第57号备忘录被激活，瞄准废掉CIA的武功！周密布局，川普总统进入准军事行动！</a></li>
+<li><a href="/cbnews/20201125/1436754.md">鲍威尔：周三将提交“庞大”诉讼状 川普会连任</a></li>
+<li><a href="/cbnews/20201124/1436332.md">陈破空：国际评出年度最大事件：习近平惊醒世界！中共比瘟疫更糟。习家军追打马云，认定他集结反习势力</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201125/1436862.md" target="_blank">权力惊人 中纪委直接进会场抓人…</a></li>
 <li><a href="/cbnews/20201125/1436833.md" target="_blank">中国陕西高速路40多辆车相撞起火 已致3死6伤</a></li>
 <li><a href="/cbnews/20201125/1436824.md" target="_blank">江峰：243年前华盛顿预见了今天的川普！宣告美国第三次国难的到来并带领人民走过劫难</a></li>
 <li><a href="/cbnews/20201125/1436795.md" target="_blank">抓住了？有人拿中共的钱换美国大选？截获作弊视频？民主党师爷披露：为啥拜登大量选票无法解释 【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201125/1436584.md" target="_blank">火了！是他吗？网曝习近平在扬州吃饭私照</a></li>
 <li><a href="/cbnews/20201125/1436583.md" target="_blank">什么征兆？湖北襄阳乌鸦一大片</a></li>
 <li><a href="/cbnews/20201125/1436544.md" target="_blank">川普：绝不向假选票和“Dominion”让步</a></li>
-<li><a href="/comments/20201125/1436540.md" target="_blank">陈光诚：若自以为可以左右逢源，将钉历史耻辱柱</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201125/1436856.md" target="_blank">四省换书记“撞车”李克强会议 涉习李斗不寻常内情？</a></li>
+<li><a href="/comments/20201125/1436855.md" target="_blank">前台师大学者被控间谍罪判刑4年 陆委会斥北京政治恶炒</a></li>
 <li><a href="/comments/20201125/1436847.md" target="_blank">到底是垃圾食品还是养生精华，老火煲汤！我心中的彷徨</a></li>
 <li><a href="/comments/20201125/1436846.md" target="_blank">空气污染不只影响心肺！ 最新研究：眼睛也遭殃</a></li>
 <li><a href="/comments/20201125/1436845.md" target="_blank">意念对人体的巨大影响</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201125/1436697.md" target="_blank">【中南火海】10: 白手套叶简明 勾连拜登人间蒸发</a></li>
 <li><a href="/comments/20201125/1436696.md" target="_blank">陶杰：人民币变美元 一个电话汇出去</a></li>
 <li><a href="/comments/20201125/1436684.md" target="_blank">鲍威尔将发起独立诉讼！最快明日“引爆”乔治亚州</a></li>
-<li><a href="/comments/20201125/1436683.md" target="_blank">中日外长会谈 日媒：紧张关系未见改善</a></li>
-<li><a href="/comments/20201125/1436679.md" target="_blank">寂静的村庄：死于虐待 葬于阴婚</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 
 </ul>
 </div>
