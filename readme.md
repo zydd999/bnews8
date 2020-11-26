@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20201125/1436970.md">犹太拉比预言：川普连任将是这个日子</a></li>
 <li><a href="/comments/20201126/1437090.md">惊人异象再现 知名博主闫润涛说他不会看到川普连任 声称他预测30年来从没有错过 结果感染中共病毒暴亡 中南海谣言预言_395</a></li>
 <li><a href="/cbnews/20201126/1437081.md">川普转推：“海怪”就是美国国防部的网络战备计划</a></li>
-<li><a href="/comments/20201125/1436916.md">视频：婴儿感受到他的威胁，奋力哭喊，最后孩子的父亲夺回了小宝宝</a></li>
 <li><a href="/cbnews/20201125/1436956.md">陈破空：英国动议出兵中国？日本强烈赞同。习近平拍脑袋，宣布实现全面小康！李克强大唱反调，要求讲真话</a></li>
-<li><a href="/cbnews/20201125/1436754.md">鲍威尔：周三将提交“庞大”诉讼状 川普会连任</a></li>
+<li><a href="/comments/20201125/1436916.md">视频：婴儿感受到他的威胁，奋力哭喊，最后孩子的父亲夺回了小宝宝</a></li>
 <li><a href="/cbnews/20201125/1436914.md">拜登组阁国安顾问居然是他？难怪傅莹隔空喊话</a></li>
 <li><a href="/topimagenews/20201126/1437110.md">川普秘密会谈内容被泄露 惊爆五角大楼成国安威胁 川普共和党4州16法律战</a></li>
-<li><a href="/bannedvideo/20201125/1436852.md">2021年预言上半年最艰难 印度男孩修改预言发生了什么?（启明笑谈20201125）</a></li>
-<li><a href="/cbnews/20201125/1436824.md">江峰：243年前华盛顿预见了今天的川普！宣告美国第三次国难的到来并带领人民走过劫难</a></li>
 <li><a href="/ssgc/20201126/1437156.md">〖兲朝浮世绘〗习近平终于把自己上升到了金三胖的级别</a></li>
-<li><a href="/bannedvideo/20201125/1436944.md">林伍德震撼 猛料 希拉里亲自指导销毁舞弊证据,鲍威尔注册为军事律师 引爆灭共大战,美官方机构松口交接川普输了？不是的,港媒：孟祥锋将出任中南海大管家,什么征兆？湖北襄阳乌鸦一大片,为何中共严控公民出境</a></li>
+<li><a href="/bannedvideo/20201125/1436852.md">2021年预言上半年最艰难 印度男孩修改预言发生了什么?（启明笑谈20201125）</a></li>
 <li><a href="/cbnews/20201126/1437140.md">中共公安部推行“网证” 网友：申纪兰的提案实现了</a></li>
+<li><a href="/cbnews/20201125/1436824.md">江峰：243年前华盛顿预见了今天的川普！宣告美国第三次国难的到来并带领人民走过劫难</a></li>
+<li><a href="/bannedvideo/20201125/1436944.md">林伍德震撼 猛料 希拉里亲自指导销毁舞弊证据,鲍威尔注册为军事律师 引爆灭共大战,美官方机构松口交接川普输了？不是的,港媒：孟祥锋将出任中南海大管家,什么征兆？湖北襄阳乌鸦一大片,为何中共严控公民出境</a></li>
 <li><a href="/cbnews/20201125/1436795.md">抓住了？有人拿中共的钱换美国大选？截获作弊视频？民主党师爷披露：为啥拜登大量选票无法解释 【希望之声TV】</a></li>
-<li><a href="/comments/20201126/1437123.md">逆转！宾州法官下令叫停该州选举认证</a></li>
-<li><a href="/topimagenews/20201126/1437096.md">鲍威尔揭秘投票机主使藏匿 共和党加州翻转4席超全美 拜登"国务卿"涉庞大军火利益</a></li>
 <li><a href="/topimagenews/20201126/1437210.md">快讯！川普总统宣布特赦弗林将军【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201126/1437096.md">鲍威尔揭秘投票机主使藏匿 共和党加州翻转4席超全美 拜登"国务卿"涉庞大军火利益</a></li>
+<li><a href="/comments/20201126/1437123.md">逆转！宾州法官下令叫停该州选举认证</a></li>
+<li><a href="/cbnews/20201126/1437219.md">习近平匆忙祝贺拜登 中共垮台恐再加速</a></li>
 <li><a href="/cbnews/20201126/1437038.md">江峰：林伍德爆大海怪真实身份—美军网络战计划，代号圣雷达！拜登内阁到位，可以一窝端了【江峰时刻20201125】</a></li>
-<li><a href="/cnnews/20201126/1437055.md">德国总理府遭车冲撞！车身上写：停止全球化政治 你们是杀害小孩和老人的该死凶手</a></li>
+<li><a href="/cbnews/20201125/1436951.md">鲍威尔在乔治亚州提起独立诉讼！林伍德：乔州很多人将入狱！朱利安尼：要将舞弊案诉至最高院！宾州等三大战场州举行公开听证会！RNC主席：川普绝不会放弃战斗【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201126/1437397.md" target="_blank">揭秘！拜登过渡团队成员与中共渊源深</a></li>
+<li><a href="/comments/20201126/1437393.md" target="_blank">一再暴雷 不高明的骗子和奸商为何总能横行无忌</a></li>
+<li><a href="/comments/20201126/1437392.md" target="_blank">习近平上演的荒诞剧与悲歌</a></li>
 <li><a href="/comments/20201126/1437383.md" target="_blank">【东方纵横】州政府违宪 川普怎么办</a></li>
 <li><a href="/comments/20201126/1437381.md" target="_blank">美高级情报官访台 台海风声紧</a></li>
 <li><a href="/comments/20201126/1437352.md" target="_blank">草根丽人:美总务局长给拜登的信函 不是妥协 是炸弹</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201126/1437245.md" target="_blank">宾州州议院选举听证会 川普：不应被违法者吓倒</a></li>
 <li><a href="/comments/20201126/1437237.md" target="_blank">feicun: “中国已经不再有贫困县了”但老家依然是被遗忘的一角</a></li>
 <li><a href="/comments/20201126/1437236.md" target="_blank">咖啡吐司:死四千人等于没死人？为何有些人活成了畜生的模样？</a></li>
-<li><a href="/comments/20201126/1437235.md" target="_blank">范畴：菁英民主还是平民民主？</a></li>
-<li><a href="/comments/20201126/1437185.md" target="_blank">要公正选举不要窃选 要川普连任不要拜登</a></li>
-<li><a href="/comments/20201126/1437184.md" target="_blank">银河系曾经存在别的外星文明? 科学家: 就在金星上</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
 
 </ul>
 </div>
