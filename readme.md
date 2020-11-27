@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20201127/1437764.md">【大捷】宾州听证会舞弊证据坐实，川普锁定胜局连任无悬念，拜登宾州、乔州被打脸，退选概率大增，拜登过渡政府发生内讧权斗，习近平高调祝贺拜登，习近平魔咒再现</a></li>
-<li><a href="/cnnews/20201127/1437840.md">林彪日记大揭秘 毛的私话令林直冒冷汗</a></li>
 <li><a href="/cnnews/20201127/1438045.md">川普大行动！基辛格等11名国防部高级顾问突然被撤职</a></li>
+<li><a href="/cnnews/20201127/1437840.md">林彪日记大揭秘 毛的私话令林直冒冷汗</a></li>
 <li><a href="/cbnews/20201127/1437698.md">“杀恐怖分子不眨眼”的新国防部长，令安提法们胆寒</a></li>
 <li><a href="/taiwannews/20201127/1437903.md">鲍威尔最后一次警告，拜登要么退选，要么后半生在监狱渡过</a></li>
 <li><a href="/topimagenews/20201127/1437920.md">宾州听证会上震撼发言 愿北约联合情报中心总监：必须打到最高法院！【阿波罗网编译】</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201128/1438318.md" target="_blank">美商务部开罕见先例！动用关税对付中共汇率操纵和不公平补贴</a></li>
 <li><a href="/topimagenews/20201128/1438282.md" target="_blank">美国媒体曝猛料：拜登亲赴亲赴此国提前3年布局作弊</a></li>
 <li><a href="/topimagenews/20201127/1438070.md" target="_blank">弗林将军声明：鲍威尔女士就像一个从天而降的天使…</a></li>
 <li><a href="/topimagenews/20201127/1438026.md" target="_blank">彻头彻尾的笑话!5名拜登支持者迎接他&#8211;但他却获得了8000万张选票</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20201124/1436313.md" target="_blank">马云一生最大考验3大巨浪 832个贫困县全脱贫？更穷! GDP67%来自抗疫网斥吃人</a></li>
 <li><a href="/topimagenews/20201124/1435894.md" target="_blank">中共转向强制多生？农村现惊人标语</a></li>
 <li><a href="/topimagenews/20201124/1435891.md" target="_blank">王沪宁突被免习近平这用意？ 上海一片混乱中共镇不住了 大五毛司马南夹头改撞头</a></li>
-<li><a href="/topimagenews/20201123/1435628.md" target="_blank">鲍威尔最新声明：不允许伟大共和国被内外的共产主义者窃取【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201128/1438328.md" target="_blank">蚂蚁集团背后股东水有多深？为何急于IPO？</a></li>
 <li><a href="/comments/20201128/1438298.md" target="_blank">沙漠中一片宁静的绿洲：亚利桑那城堡温泉</a></li>
 <li><a href="/comments/20201128/1438278.md" target="_blank">中国最诡异的三大禁地，很多现象科学无法解释</a></li>
 <li><a href="/comments/20201128/1438272.md" target="_blank">言语暴力！轻易酿成的10大伤害</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201127/1437993.md" target="_blank">他造淫业 经过这事吓得毛骨悚然 从此改邪归正</a></li>
 <li><a href="/comments/20201127/1437992.md" target="_blank">挖坟毁尸盗墓！这些历史名人死后也不得安生</a></li>
 <li><a href="/comments/20201127/1437988.md" target="_blank">他从小愚笨 经过一段奇遇后智慧大开 才华横溢</a></li>
-<li><a href="/comments/20201127/1437982.md" target="_blank">【微博精粹】总加速师“贺喜” 真会找时候 不看黄历惹的祸</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
