@@ -8,12 +8,11 @@
 <li><a href="/cbnews/20201127/1437724.md">银行活存8000万人民币 他急事要领出 银行一听拒绝 原因竟是如此</a></li>
 <li><a href="/yule/20201127/1437699.md">范冰冰彻底完蛋？大陆广电总局又一禁令曝光</a></li>
 <li><a href="/cnnews/20201127/1438045.md">川普大行动！基辛格等11名国防部高级顾问突然被撤职</a></li>
-<li><a href="/bannedvideo/20201127/1437764.md">【大捷】宾州听证会舞弊证据坐实，川普锁定胜局连任无悬念，拜登宾州、乔州被打脸，退选概率大增，拜登过渡政府发生内讧权斗，习近平高调祝贺拜登，习近平魔咒再现</a></li>
 <li><a href="/cbnews/20201127/1437698.md">“杀恐怖分子不眨眼”的新国防部长，令安提法们胆寒</a></li>
+<li><a href="/bannedvideo/20201127/1437764.md">【大捷】宾州听证会舞弊证据坐实，川普锁定胜局连任无悬念，拜登宾州、乔州被打脸，退选概率大增，拜登过渡政府发生内讧权斗，习近平高调祝贺拜登，习近平魔咒再现</a></li>
 <li><a href="/cnnews/20201127/1437840.md">林彪日记大揭秘 毛的私话令林直冒冷汗</a></li>
 <li><a href="/topimagenews/20201126/1437670.md">国父给川普铺垫连任之路 团队放大招！阻击拜登的270伪票有道</a></li>
 <li><a href="/topimagenews/20201127/1437920.md">宾州听证会上震撼发言 愿北约联合情报中心总监：必须打到最高法院！【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201126/1437615.md">川普重大突破1天多条重磅 “海怪”是川普抓深层政府？美媒曝联想盗技术干扰大选</a></li>
 <li><a href="/taiwannews/20201127/1437903.md">鲍威尔最后一次警告，拜登要么退选，要么后半生在监狱渡过</a></li>
 <li><a href="/ssgc/20201127/1437777.md">〖兲朝浮世绘〗拜登的8千万选票支持者去哪儿了？</a></li>
 <li><a href="/topimagenews/20201127/1438026.md">彻头彻尾的笑话!5名拜登支持者迎接他--但他却获得了8000万张选票</a></li>
@@ -24,9 +23,10 @@
 <li><a href="/cnnews/20201127/1437895.md">敏感时刻 最高法院5：4通过一项裁定 大选终局预演？</a></li>
 <li><a href="/yule/20201127/1437704.md">47岁袁立罕曝近况！脸部圆润腹部吸睛</a></li>
 <li><a href="/topimagenews/20201127/1438070.md">弗林将军声明：鲍威尔女士就像一个从天而降的天使…</a></li>
+<li><a href="/cbnews/20201127/1438130.md">女子抽奖得一辆轿车开心发表感言 下台后傻眼了</a></li>
+<li><a href="/cbnews/20201127/1437940.md">京津联动 江绵恒老巢中科院人事变</a></li>
 <li><a href="/cbnews/20201127/1437757.md">全美律师保守派组织 诉讼选举不实结果；法庭胜利川普有机会提供证据 推翻内华达州结果；朱利安尼：宾州若认证结果就犯了伪证罪【希望之声TV】</a></li>
 <li><a href="/worldnews/20201127/1437799.md">王毅提钓鱼台问题解决方案 日本今拒绝</a></li>
-<li><a href="/cbnews/20201127/1437940.md">京津联动 江绵恒老巢中科院人事变</a></li>
 <li><a href="/ssgc/20201127/1437956.md">〖微博谈〗有没有感觉川普现在正在盘坑？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 
 </ul>
 </div>
