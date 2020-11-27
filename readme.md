@@ -11,7 +11,6 @@
 <li><a href="/bannedvideo/20201127/1437764.md">【大捷】宾州听证会舞弊证据坐实，川普锁定胜局连任无悬念，拜登宾州、乔州被打脸，退选概率大增，拜登过渡政府发生内讧权斗，习近平高调祝贺拜登，习近平魔咒再现</a></li>
 <li><a href="/cbnews/20201127/1437698.md">“杀恐怖分子不眨眼”的新国防部长，令安提法们胆寒</a></li>
 <li><a href="/cnnews/20201127/1437840.md">林彪日记大揭秘 毛的私话令林直冒冷汗</a></li>
-<li><a href="/topimagenews/20201126/1437670.md">国父给川普铺垫连任之路 团队放大招！阻击拜登的270伪票有道</a></li>
 <li><a href="/taiwannews/20201127/1437903.md">鲍威尔最后一次警告，拜登要么退选，要么后半生在监狱渡过</a></li>
 <li><a href="/topimagenews/20201127/1437920.md">宾州听证会上震撼发言 愿北约联合情报中心总监：必须打到最高法院！【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20201127/1437777.md">〖兲朝浮世绘〗拜登的8千万选票支持者去哪儿了？</a></li>
@@ -23,9 +22,10 @@
 <li><a href="/cnnews/20201127/1437950.md">感人视频：美国人哭了！为了川普</a></li>
 <li><a href="/cnnews/20201127/1437895.md">敏感时刻 最高法院5：4通过一项裁定 大选终局预演？</a></li>
 <li><a href="/yule/20201127/1437704.md">47岁袁立罕曝近况！脸部圆润腹部吸睛</a></li>
-<li><a href="/cbnews/20201127/1437940.md">京津联动 江绵恒老巢中科院人事变</a></li>
-<li><a href="/ssgc/20201127/1437956.md">〖微博谈〗有没有感觉川普现在正在盘坑？</a></li>
 <li><a href="/baitai/20201127/1438087.md">大陆侏儒医生诱奸妇女招数</a></li>
+<li><a href="/cbnews/20201127/1437940.md">京津联动 江绵恒老巢中科院人事变</a></li>
+<li><a href="/bannedvideo/20201127/1438109.md">财经冷眼：最新！恒大被发改委调查，这次真的悬了！中国这个红得烫手的风口行业要凉！（20201127第390期）</a></li>
+<li><a href="/ssgc/20201127/1437956.md">〖微博谈〗有没有感觉川普现在正在盘坑？</a></li>
 <li><a href="/cbnews/20201127/1437757.md">全美律师保守派组织 诉讼选举不实结果；法庭胜利川普有机会提供证据 推翻内华达州结果；朱利安尼：宾州若认证结果就犯了伪证罪【希望之声TV】</a></li>
 <li><a href="/worldnews/20201127/1437799.md">王毅提钓鱼台问题解决方案 日本今拒绝</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201127/1438256.md" target="_blank">美国防部人事变动 解雇11位知名顾问</a></li>
 <li><a href="/cbnews/20201127/1438229.md" target="_blank">讨说法手刃6公安 刀客血性好汉杨佳12年前被中共处死</a></li>
 <li><a href="/cbnews/20201127/1438220.md" target="_blank">大选更新11·27：川普：选举是骗局</a></li>
 <li><a href="/cbnews/20201127/1438117.md" target="_blank">基辛格等国防部顾问被免 川普再清沼泽</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201127/1437762.md" target="_blank">四川自贡一幼儿园50多名幼儿感染诺如病毒 已停课</a></li>
 <li><a href="/cbnews/20201127/1437761.md" target="_blank">杨佳案12年 网友悲叹：中国已经没有这样的汉子了</a></li>
 <li><a href="/cbnews/20201127/1437760.md" target="_blank">陈破空：直播预告：大律师投下震撼弹！宾州听证会轰动。川普赢来转机？陈破空与网友互动 Q&amp;A 美东时间11月26日周四晚上8点，即中国时间11月27日周五早上9点</a></li>
-<li><a href="/cbnews/20201127/1437757.md" target="_blank">全美律师保守派组织 诉讼选举不实结果；法庭胜利川普有机会提供证据 推翻内华达州结果；朱利安尼：宾州若认证结果就犯了伪证罪【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201127/1438255.md" target="_blank">美国防部解职11名顾问 包括基辛格及多名前政府官员</a></li>
+<li><a href="/comments/20201127/1438254.md" target="_blank">欧洲难民潮再起 数国联合叫板欧盟</a></li>
 <li><a href="/comments/20201127/1438230.md" target="_blank">提重磅诉讼 鲍威尔状告乔治亚州长州务卿违反宪法</a></li>
 <li><a href="/comments/20201127/1438216.md" target="_blank">【选情更新11/27】民调：2/3选民支持重新计票 川普：本次大选是巨大骗局 我不能让步</a></li>
 <li><a href="/comments/20201127/1438163.md" target="_blank">印度高官访斯里兰卡尼泊尔 强化三方合作抵御中共</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201127/1437963.md" target="_blank">【东方纵横】鲍威尔起诉 爆料内容</a></li>
 <li><a href="/comments/20201127/1437954.md" target="_blank">广东梅州前市委书记被双开 其大秘自缢身亡</a></li>
 <li><a href="/comments/20201127/1437953.md" target="_blank">鲍威尔起诉选举舞弊案后 推特封锁其网站“扞卫共和国”</a></li>
-<li><a href="/comments/20201127/1437952.md" target="_blank">香港大纪元印刷厂被监视 各界呼吁：扞卫讲真话媒体</a></li>
-<li><a href="/comments/20201127/1437949.md" target="_blank">林保华：川普主义已屹立在历史洪流中</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
