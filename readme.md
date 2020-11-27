@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20201126/1437534.md">疫情爆发武汉医生被下封口令 日媒曝恐怖内幕</a></li>
 <li><a href="/cbnews/20201127/1437724.md">银行活存8000万人民币 他急事要领出 银行一听拒绝 原因竟是如此</a></li>
 <li><a href="/yule/20201127/1437699.md">范冰冰彻底完蛋？大陆广电总局又一禁令曝光</a></li>
-<li><a href="/topimagenews/20201126/1437533.md">蓬佩奥：拜登团队幻想世界 揭秘马云触犯习近平3大禁忌 胡锡进谈北京最低​​工资遭痛批</a></li>
 <li><a href="/bannedvideo/20201126/1437592.md">震撼弹!!!叛国罪!!!鲍威尔104页起诉书,有人顶不住了……</a></li>
 <li><a href="/cbnews/20201127/1437698.md">“杀恐怖分子不眨眼”的新国防部长，令安提法们胆寒</a></li>
 <li><a href="/bannedvideo/20201127/1437764.md">【大捷】宾州听证会舞弊证据坐实，川普锁定胜局连任无悬念，拜登宾州、乔州被打脸，退选概率大增，拜登过渡政府发生内讧权斗，习近平高调祝贺拜登，习近平魔咒再现</a></li>
 <li><a href="/topimagenews/20201126/1437670.md">国父给川普铺垫连任之路 团队放大招！阻击拜登的270伪票有道</a></li>
 <li><a href="/cnnews/20201127/1437840.md">林彪日记大揭秘 毛的私话令林直冒冷汗</a></li>
-<li><a href="/topimagenews/20201126/1437615.md">川普重大突破1天多条重磅 “海怪”是川普抓深层政府？美媒曝联想盗技术干扰大选</a></li>
-<li><a href="/topimagenews/20201127/1437920.md">宾州听证会上震撼发言 愿北约联合情报中心总监：必须打到最高法院！【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201127/1438045.md">川普大行动！基辛格等11名国防部高级顾问突然被撤职</a></li>
+<li><a href="/topimagenews/20201127/1437920.md">宾州听证会上震撼发言 愿北约联合情报中心总监：必须打到最高法院！【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201126/1437615.md">川普重大突破1天多条重磅 “海怪”是川普抓深层政府？美媒曝联想盗技术干扰大选</a></li>
 <li><a href="/taiwannews/20201127/1437903.md">鲍威尔最后一次警告，拜登要么退选，要么后半生在监狱渡过</a></li>
-<li><a href="/cbnews/20201127/1437725.md">川普逆袭正式开始！宾州现史上第二次“葛底斯堡宣言”…朱利安尼律师一番慷慨陈词引来各方点赞！法官宣布宾州…</a></li>
 <li><a href="/ssgc/20201127/1437777.md">〖兲朝浮世绘〗拜登的8千万选票支持者去哪儿了？</a></li>
-<li><a href="/cbnews/20201126/1437535.md">专家揭习近平压力山大 政权脆弱 野心不小</a></li>
+<li><a href="/cbnews/20201127/1437725.md">川普逆袭正式开始！宾州现史上第二次“葛底斯堡宣言”…朱利安尼律师一番慷慨陈词引来各方点赞！法官宣布宾州…</a></li>
 <li><a href="/comments/20201126/1437586.md">65岁母狂嗑「壮阳药」 儿得知真相气炸</a></li>
+<li><a href="/topimagenews/20201127/1438026.md">彻头彻尾的笑话!5名拜登支持者迎接他--但他却获得了8000万张选票</a></li>
 <li><a href="/cnnews/20201126/1437654.md">宾州毁灭证据！罪加一等 直指大选结果作废【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201127/1437950.md">感人视频：美国人哭了！为了川普</a></li>
 <li><a href="/health/20201127/1437816.md">那些不喝矿泉水和桶装水 每天只用烧水壶烧水喝的人 怎么样了？</a></li>
-<li><a href="/topimagenews/20201127/1438026.md">彻头彻尾的笑话!5名拜登支持者迎接他--但他却获得了8000万张选票</a></li>
 <li><a href="/cnnews/20201127/1437895.md">敏感时刻 最高法院5：4通过一项裁定 大选终局预演？</a></li>
 <li><a href="/yule/20201127/1437704.md">47岁袁立罕曝近况！脸部圆润腹部吸睛</a></li>
+<li><a href="/cbnews/20201127/1437757.md">全美律师保守派组织 诉讼选举不实结果；法庭胜利川普有机会提供证据 推翻内华达州结果；朱利安尼：宾州若认证结果就犯了伪证罪【希望之声TV】</a></li>
+<li><a href="/worldnews/20201127/1437799.md">王毅提钓鱼台问题解决方案 日本今拒绝</a></li>
+<li><a href="/cbnews/20201126/1437550.md">陈破空：忍不住了！习近平突然向拜登发贺电。王岐山也插上一脚。王毅访日，竟遭这名女生击败</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201127/1438130.md" target="_blank">女子抽奖得一辆轿车开心发表感言 下台后傻眼了</a></li>
 <li><a href="/cbnews/20201127/1438123.md" target="_blank">感恩节送糖 中国大妈竟遭威胁要举报过洋节</a></li>
 <li><a href="/cbnews/20201127/1438110.md" target="_blank">女纪委书记被杀抛尸黄河 嫌疑人为村支书</a></li>
 <li><a href="/cbnews/20201127/1438030.md" target="_blank">谁是泄密者？川普秘密会谈内容遭泄露？离间计？左派离间共和党议员？蓬佩奥嘲讽：拜登团队生活于幻想世界【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201127/1437724.md" target="_blank">银行活存8000万人民币 他急事要领出 银行一听拒绝 原因竟是如此</a></li>
 <li><a href="/cbnews/20201127/1437684.md" target="_blank">迫害法轮功的公安局副局长石建强被维权人士举报</a></li>
 <li><a href="/cbnews/20201126/1437631.md" target="_blank">鲍威尔乔州提交百页诉状 被指如炸弹之母</a></li>
-<li><a href="/cbnews/20201126/1437630.md" target="_blank">大选更新11·26：乔州紧急动议巡回法庭获准</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
