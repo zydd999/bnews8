@@ -13,12 +13,11 @@
 <li><a href="/cbnews/20201129/1438745.md">川普手里真正的杀手锏是这个</a></li>
 <li><a href="/topimagenews/20201128/1438779.md">25000美元！威斯康星州天价选举数据库 他一怒真买了！结果大惊…</a></li>
 <li><a href="/topimagenews/20201129/1438889.md">再控宾州多出110万张空气票 川普：我已经大胜 全世界都在看</a></li>
-<li><a href="/cnnews/20201128/1438615.md">iPhone12零部件占比曝光 韩国27% 中国仅…</a></li>
 <li><a href="/topimagenews/20201129/1438851.md">鲍威尔力挽狂澜 乔州诉状包括前所未有内幕 仅赢下简单指控 川普就能翻盘</a></li>
 <li><a href="/cbnews/20201129/1438944.md">大陆女歌手公开质疑钟南山遭禁言 “沈佳欣”热搜</a></li>
 <li><a href="/cnnews/20201128/1438679.md">川普开罕见先例惩罚中共 震惊 中美穷人收入差25倍 马云蚂蚁为何急于IPO？</a></li>
-<li><a href="/bannedvideo/20201128/1438744.md">国防部和CIA干起来了，川普取得多米尼服务器！猪党面临分裂谁先反水？</a></li>
 <li><a href="/cbnews/20201129/1438920.md">川普大反攻  拜登接近了监牢</a></li>
+<li><a href="/bannedvideo/20201128/1438744.md">国防部和CIA干起来了，川普取得多米尼服务器！猪党面临分裂谁先反水？</a></li>
 <li><a href="/yule/20201129/1438874.md">朱军性侵案即将开庭！56岁近照面部臃肿憔悴</a></li>
 <li><a href="/taiwannews/20201128/1438648.md">中国富豪落难！被逼拿钱救党？！企业要爱国！中国富豪在劫难逃？！紫光债券违约！中国企业债撑不住？！【2020.11.28『年代向钱看』周末精选】</a></li>
 <li><a href="/cnnews/20201128/1438646.md">太超前！三星公开首款三折叠屏手机</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/bannedvideo/20201129/1438895.md">什么？CNN居然说川普有望最终获胜？宾州法官表示宾州选举或违宪，共和党有望获胜；大律师鲍威尔手握超级证人！纳姐邀请英杰牧师分析最新战况及拜登若上台对基督教的毁灭性打击!</a></li>
 <li><a href="/comments/20201128/1438703.md">习近平砸钱造芯酿百亿级“烂尾” 北京高官罕见呛声</a></li>
 <li><a href="/cnnews/20201129/1438967.md">青岛市政府一把手现身 胡海峰升官传闻再落空</a></li>
-<li><a href="/yule/20201128/1438616.md">吉克隽逸卸妆 素颜曝光后让人惊呆</a></li>
 <li><a href="/cbnews/20201129/1438884.md">特首林郑月娥因美国制裁家藏现金 中资银行为何“爱莫能助”</a></li>
+<li><a href="/cbnews/20201129/1438862.md">周五宾州法官裁定：阻止任何进一步的选举认证</a></li>
+<li><a href="/cnnews/20201129/1438922.md">亚利桑那追随宾州脚步要翻盘 内华达上万选民无性别无生日 美议员：川普众院表决赢白宫</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
