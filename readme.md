@@ -7,11 +7,9 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20201128/1438620.md">习近平接见军官透不安？他不笑谁都不敢笑</a></li>
 <li><a href="/cbnews/20201128/1438644.md">给习近平难堪？ 刚宣布全面脱贫 北京人喊活不下去</a></li>
-<li><a href="/bannedvideo/20201128/1438709.md">CNN称川普总统可能“再次当选”,伊朗国宝级核科学家被击杀,CIA老板暴怒!</a></li>
 <li><a href="/baitai/20201128/1438753.md">5男1女，中学生不雅视频震惊全网：未成年的世界，早就不单纯</a></li>
+<li><a href="/bannedvideo/20201128/1438709.md">CNN称川普总统可能“再次当选”,伊朗国宝级核科学家被击杀,CIA老板暴怒!</a></li>
 <li><a href="/topimagenews/20201128/1438742.md">出大事 宾州要翻天 我们人民说了算 大选最高法判川普赢？</a></li>
-<li><a href="/topimagenews/20201128/1438585.md">听证会起作用了！全文翻译：宾州众议院提出决议 质疑选举结果</a></li>
-<li><a href="/cbnews/20201128/1438532.md">自川普当选总统后，关于Q的预言越来越火热了</a></li>
 <li><a href="/lifebaike/20201128/1438602.md">纵欲 正在榨干4亿中国年轻人</a></li>
 <li><a href="/topimagenews/20201129/1438889.md">再控宾州多出110万张空气票 川普：我已经大胜 全世界都在看</a></li>
 <li><a href="/topimagenews/20201128/1438779.md">25000美元！威斯康星州天价选举数据库 他一怒真买了！结果大惊…</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/topimagenews/20201129/1438851.md">鲍威尔力挽狂澜 乔州诉状包括前所未有内幕 仅赢下简单指控 川普就能翻盘</a></li>
 <li><a href="/cnnews/20201128/1438679.md">川普开罕见先例惩罚中共 震惊 中美穷人收入差25倍 马云蚂蚁为何急于IPO？</a></li>
 <li><a href="/bannedvideo/20201128/1438744.md">国防部和CIA干起来了，川普取得多米尼服务器！猪党面临分裂谁先反水？</a></li>
-<li><a href="/yule/20201129/1438874.md">朱军性侵案即将开庭！56岁近照面部臃肿憔悴</a></li>
 <li><a href="/cbnews/20201129/1438944.md">大陆女歌手公开质疑钟南山遭禁言 “沈佳欣”热搜</a></li>
+<li><a href="/yule/20201129/1438874.md">朱军性侵案即将开庭！56岁近照面部臃肿憔悴</a></li>
 <li><a href="/taiwannews/20201128/1438648.md">中国富豪落难！被逼拿钱救党？！企业要爱国！中国富豪在劫难逃？！紫光债券违约！中国企业债撑不住？！【2020.11.28『年代向钱看』周末精选】</a></li>
 <li><a href="/cnnews/20201128/1438646.md">太超前！三星公开首款三折叠屏手机</a></li>
-<li><a href="/cnnews/20201129/1438912.md">一家欢度感恩节！ 伊凡卡秀日常全家照引注目</a></li>
 <li><a href="/cbnews/20201129/1438920.md">川普大反攻  拜登接近了监牢</a></li>
-<li><a href="/comments/20201128/1438703.md">习近平砸钱造芯酿百亿级“烂尾” 北京高官罕见呛声</a></li>
+<li><a href="/cnnews/20201129/1438912.md">一家欢度感恩节！ 伊凡卡秀日常全家照引注目</a></li>
 <li><a href="/bannedvideo/20201129/1438895.md">什么？CNN居然说川普有望最终获胜？宾州法官表示宾州选举或违宪，共和党有望获胜；大律师鲍威尔手握超级证人！纳姐邀请英杰牧师分析最新战况及拜登若上台对基督教的毁灭性打击!</a></li>
+<li><a href="/comments/20201128/1438703.md">习近平砸钱造芯酿百亿级“烂尾” 北京高官罕见呛声</a></li>
+<li><a href="/cbnews/20201129/1438884.md">特首林郑月娥因美国制裁家藏现金 中资银行为何“爱莫能助”</a></li>
+<li><a href="/yule/20201128/1438616.md">吉克隽逸卸妆 素颜曝光后让人惊呆</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201129/1439082.md" target="_blank">邪恶轴心国伊朗核科学家遭暗杀身亡 曾被认为是下届总统候选人</a></li>
 <li><a href="/cbnews/20201129/1439063.md" target="_blank">如何反攻政变？川普早有B计划？华人站起来！他们竟敢公开批评川普的华人支持者！自食其果？美国制裁下的林郑只能花现金</a></li>
 <li><a href="/cbnews/20201129/1439048.md" target="_blank">宁夏41法轮功学员遭非法关押绑架 近况不明</a></li>
 <li><a href="/cbnews/20201129/1439047.md" target="_blank">网曝新疆喀什日夜赶工建方舱医院</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201128/1438710.md" target="_blank">川普团队项目经理、前美国陆军上校米尔斯，分享希望在哪儿，告诉每个华人，你能做什么。 嘉宾:前美国陆军上校约翰. 米尔斯，主持人:方伟【希望之声TV】(2020/11/28)</a></li>
 <li><a href="/cbnews/20201128/1438700.md" target="_blank">中共试点实施网络身份证 以后凭证上网不是梦</a></li>
 <li><a href="/cbnews/20201128/1438698.md" target="_blank">林伍德：多米尼在巴塞罗那操控 我看到证据；宾州议会拟任命选举人团成员！鲍威尔：用钱买票 有支票存根照；亚利桑那议会将举行公听会；贺锦丽拒辞参议员 她都不相信拜登”胜选&#8221;？【希望之声TV】</a></li>
-<li><a href="/cbnews/20201128/1438694.md" target="_blank">陈破空：习近平不放心身边人？他的老朋友栽了！马拉多纳反川？奇人奇事。英国大律师起诉习陈</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
