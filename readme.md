@@ -21,13 +21,13 @@
 <li><a href="/taiwannews/20201128/1438648.md">中国富豪落难！被逼拿钱救党？！企业要爱国！中国富豪在劫难逃？！紫光债券违约！中国企业债撑不住？！【2020.11.28『年代向钱看』周末精选】</a></li>
 <li><a href="/cnnews/20201128/1438646.md">太超前！三星公开首款三折叠屏手机</a></li>
 <li><a href="/cnnews/20201129/1438912.md">一家欢度感恩节！ 伊凡卡秀日常全家照引注目</a></li>
-<li><a href="/cnnews/20201129/1438967.md">青岛市政府一把手现身 胡海峰升官传闻再落空</a></li>
-<li><a href="/bannedvideo/20201129/1438895.md">什么？CNN居然说川普有望最终获胜？宾州法官表示宾州选举或违宪，共和党有望获胜；大律师鲍威尔手握超级证人！纳姐邀请英杰牧师分析最新战况及拜登若上台对基督教的毁灭性打击!</a></li>
-<li><a href="/comments/20201128/1438703.md">习近平砸钱造芯酿百亿级“烂尾” 北京高官罕见呛声</a></li>
-<li><a href="/cbnews/20201129/1438884.md">特首林郑月娥因美国制裁家藏现金 中资银行为何“爱莫能助”</a></li>
 <li><a href="/topimagenews/20201129/1439062.md">天意！一个命令曝光！中共伊朗很快大祸临头？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201129/1438862.md">周五宾州法官裁定：阻止任何进一步的选举认证</a></li>
+<li><a href="/cnnews/20201129/1438967.md">青岛市政府一把手现身 胡海峰升官传闻再落空</a></li>
+<li><a href="/comments/20201128/1438703.md">习近平砸钱造芯酿百亿级“烂尾” 北京高官罕见呛声</a></li>
+<li><a href="/bannedvideo/20201129/1438895.md">什么？CNN居然说川普有望最终获胜？宾州法官表示宾州选举或违宪，共和党有望获胜；大律师鲍威尔手握超级证人！纳姐邀请英杰牧师分析最新战况及拜登若上台对基督教的毁灭性打击!</a></li>
+<li><a href="/cbnews/20201129/1438884.md">特首林郑月娥因美国制裁家藏现金 中资银行为何“爱莫能助”</a></li>
 <li><a href="/cnnews/20201129/1438922.md">亚利桑那追随宾州脚步要翻盘 内华达上万选民无性别无生日 美议员：川普众院表决赢白宫</a></li>
+<li><a href="/cbnews/20201129/1438862.md">周五宾州法官裁定：阻止任何进一步的选举认证</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201129/1439099.md" target="_blank">中共统治洗脑下 大陆家长举报班主任索贿 被其他家长泼热水后 又被公安拘留20天</a></li>
 <li><a href="/cbnews/20201129/1439096.md" target="_blank">以色列摩萨德 令恐怖分子闻风丧胆 至今未出过叛徒</a></li>
 <li><a href="/cbnews/20201129/1439082.md" target="_blank">邪恶轴心国伊朗核科学家遭暗杀身亡 曾被认为是下届总统候选人</a></li>
 <li><a href="/cbnews/20201129/1439063.md" target="_blank">如何反攻政变？川普早有B计划？华人站起来！他们竟敢公开批评川普的华人支持者！自食其果？美国制裁下的林郑只能花现金</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20201128/1438786.md" target="_blank">拍案惊奇：左媒白宫撒泼</a></li>
 <li><a href="/cbnews/20201128/1438748.md" target="_blank">大选更新11.28：宾州议会要求撤销选举认证</a></li>
 <li><a href="/cbnews/20201128/1438710.md" target="_blank">川普团队项目经理、前美国陆军上校米尔斯，分享希望在哪儿，告诉每个华人，你能做什么。 嘉宾:前美国陆军上校约翰. 米尔斯，主持人:方伟【希望之声TV】(2020/11/28)</a></li>
-<li><a href="/cbnews/20201128/1438700.md" target="_blank">中共试点实施网络身份证 以后凭证上网不是梦</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201129/1439098.md" target="_blank">美将军惊曝：美军特种部队和中情局交火 中共等参与针对川普未遂政变【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201129/1439062.md" target="_blank">天意！一个命令曝光！中共伊朗很快大祸临头？【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201129/1438889.md" target="_blank">再控宾州多出110万张空气票 川普：我已经大胜 全世界都在看</a></li>
 <li><a href="/topimagenews/20201129/1438851.md" target="_blank">鲍威尔力挽狂澜 乔州诉状包括前所未有内幕 仅赢下简单指控 川普就能翻盘</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/comments/20201125/1436916.md" target="_blank">视频：婴儿感受到他的威胁，奋力哭喊，最后孩子的父亲夺回了小宝宝</a></li>
 <li><a href="/topimagenews/20201125/1436913.md" target="_blank">感恩节诉心声 澳洲民运领袖：法轮功创始人功德无量</a></li>
 <li><a href="/topimagenews/20201125/1436851.md" target="_blank">鲍威尔：投票机老板藏匿在空壳和私募公司中</a></li>
-<li><a href="/topimagenews/20201125/1436783.md" target="_blank">左媒和民调再被打脸： 27场选举 共和党全赢了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 
 </ul>
 </div>
