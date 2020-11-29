@@ -13,20 +13,20 @@
 <li><a href="/comments/20201129/1439011.md">头号警花沦为情妇 同事说她"日后大有前途”</a></li>
 <li><a href="/comments/20201129/1439051.md">【微博精粹】美国爆雷！防长宣部对外关闭领空 叛国分子插翅难逃</a></li>
 <li><a href="/cnnews/20201129/1438967.md">青岛市政府一把手现身 胡海峰升官传闻再落空</a></li>
+<li><a href="/topimagenews/20201129/1439209.md">川普大胜 拜登多出77万假选票 突发！威州现数千假票 投票人数超选民231万</a></li>
 <li><a href="/cnnews/20201129/1439088.md">美国选票是中国人印的？老外把这个视频直接配上英文字幕 热传</a></li>
 <li><a href="/cnnews/20201129/1439169.md">谁敢用？ 习近平新举动爆全球野心 女歌手质疑钟南山遭禁上热搜 习助威北京高官唱反调</a></li>
-<li><a href="/topimagenews/20201129/1439209.md">川普大胜 拜登多出77万假选票 突发！威州现数千假票 投票人数超选民231万</a></li>
-<li><a href="/cnnews/20201129/1439139.md">红二代林东被查 系林则徐后裔</a></li>
 <li><a href="/cnnews/20201129/1439121.md">突发: 威斯康星州戴恩县重计票现数千张假票</a></li>
+<li><a href="/cnnews/20201129/1439139.md">红二代林东被查 系林则徐后裔</a></li>
 <li><a href="/cbnews/20201129/1439099.md">中共统治洗脑下 大陆家长举报班主任索贿 被其他家长泼热水后 又被公安拘留20天</a></li>
-<li><a href="/cnnews/20201129/1438912.md">一家欢度感恩节！ 伊凡卡秀日常全家照引注目</a></li>
 <li><a href="/cbnews/20201129/1438997.md">情况不妙？习近平不笑谁都不敢笑</a></li>
 <li><a href="/cbnews/20201129/1439033.md">“把五花肉切成女朋友的样子"广告惹议 网批变态</a></li>
 <li><a href="/cnnews/20201129/1439013.md">身家亿万 美46岁华裔电商网站创始人意外去世</a></li>
 <li><a href="/lifebaike/20201129/1439108.md">最长肉的“主食”就是它 白米饭靠边站 热量堪比吃油 要忌口</a></li>
 <li><a href="/health/20201129/1439075.md">比砒霜毒几十倍！这种开水都烫不死的“致癌物” 你也许每天在吃</a></li>
-<li><a href="/cnnews/20201129/1438922.md">亚利桑那追随宾州脚步要翻盘 内华达上万选民无性别无生日 美议员：川普众院表决赢白宫</a></li>
+<li><a href="/bannedvideo/20201129/1439181.md">这么漂亮的沈佳欣，就因为质疑了终南山院士！就被网络霸凌，还有王法吗？还有法律吗？</a></li>
 <li><a href="/taiwannews/20201129/1439155.md">鲍威尔投下「炸弹之母」：中共操控大选细节曝光</a></li>
+<li><a href="/cnnews/20201129/1438922.md">亚利桑那追随宾州脚步要翻盘 内华达上万选民无性别无生日 美议员：川普众院表决赢白宫</a></li>
 <li><a href="/cbnews/20201129/1439168.md">陈破空：内蒙古之乱，习近平嫁祸李克强？林郑家中堆满现金！谁干掉了伊朗总设计师</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201130/1439290.md" target="_blank">川普点破威州重要发现 州议会选总统有多种途径 震惊：密歇根投票率高达8倍</a></li>
 <li><a href="/topimagenews/20201130/1439271.md" target="_blank">亚太「封锁世代」 陷失业危机 「经济梦」化为泡影</a></li>
 <li><a href="/topimagenews/20201130/1439243.md" target="_blank">川普阵营大反攻开始 弗林将军首次披露8大要点 左派叫嚣开战宾州最新消息</a></li>
 <li><a href="/topimagenews/20201129/1439209.md" target="_blank">川普大胜 拜登多出77万假选票 突发！威州现数千假票 投票人数超选民231万</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201126/1437290.md" target="_blank">宾夕法尼亚听证会 目击证人一番话 在座一片哗然！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201126/1437210.md" target="_blank">快讯！川普总统宣布特赦弗林将军【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201126/1437110.md" target="_blank">川普秘密会谈内容被泄露 惊爆五角大楼成国安威胁 川普共和党4州16法律战</a></li>
-<li><a href="/topimagenews/20201126/1437096.md" target="_blank">鲍威尔揭秘投票机主使藏匿 共和党加州翻转4席超全美 拜登&#8221;国务卿&#8221;涉庞大军火利益</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
 
 </ul>
 </div>
