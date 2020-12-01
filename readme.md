@@ -25,9 +25,9 @@
 <li><a href="/funmedia/20201201/1440043.md">施工挖出百米长140岁蛇精司机当场吓死 前夜蛇精给老板托梦</a></li>
 <li><a href="/bannedvideo/20201201/1440236.md">奥玛黑28日被抓？惊不惊喜意不意外？亚利桑那不要碧莲修改川普选票！</a></li>
 <li><a href="/cnnews/20201201/1439854.md">中方21轮船16航班遭美突查党员身份 华春莹跳脚</a></li>
-<li><a href="/cbnews/20201201/1439820.md">中共报复 称制裁4美国人 遭港网民嘲讽</a></li>
-<li><a href="/health/20201201/1439883.md">中国人吃的白米饭 其实是“最差主食”？原来这么多年都吃错了</a></li>
+<li><a href="/bannedvideo/20201201/1440340.md">美利坚共和国遭到攻击，已进入战争状态，川普总统随时下令全面大抓铺，新账旧账一起算。马先  12月1专题1</a></li>
 <li><a href="/bannedvideo/20201201/1440052.md">奥巴马休推，拜登自残，佩洛西垂帘，哈里斯副总。川普祝你们健康。马先 1130专题4</a></li>
+<li><a href="/health/20201201/1439883.md">中国人吃的白米饭 其实是“最差主食”？原来这么多年都吃错了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201202/1440494.md" target="_blank">内蒙古满洲里新增8病例 再添3中风险地区</a></li>
+<li><a href="/cbnews/20201202/1440493.md" target="_blank">上海为离婚冷静期试水 离婚先等30天掀争议</a></li>
+<li><a href="/cbnews/20201202/1440492.md" target="_blank">深圳港籍货车司机确诊 封闭相关市场和小区</a></li>
+<li><a href="/cbnews/20201202/1440488.md" target="_blank">效仿林肯？“我们人民”呼吁特朗普宣布有限戒严法【希望之声TV】</a></li>
 <li><a href="/cbnews/20201202/1440469.md" target="_blank">正义就要来了特别注意总统令 伍德发警告乔州州长入狱 中国印美选票台媒揭秘细节</a></li>
 <li><a href="/cbnews/20201202/1440438.md" target="_blank">陈破空：特朗普总统连线亚利桑那紧急听证会(中英字幕)</a></li>
 <li><a href="/cbnews/20201202/1440399.md" target="_blank">川普致谢听证会：2020大选是美国史上最大骗局 【希望之声TV】</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20201201/1440042.md" target="_blank">想监控全球？中共要外国人凭健康码赴中国</a></li>
 <li><a href="/cbnews/20201201/1440020.md" target="_blank">美知名主持人：在中共问题上不要信任拜登</a></li>
 <li><a href="/cbnews/20201201/1439992.md" target="_blank">美司法部新规 允许射击毒气等刑罚；强悍挺川队伍扩散至国外引关注；密歇根州长涉违宪遭弹劾【希望之声TV】</a></li>
-<li><a href="/cbnews/20201201/1439980.md" target="_blank">天亮时分：为7400万人而战；宾州、亚利桑那和乔治亚州最新战况；（政论天下第291集 20201130）</a></li>
-<li><a href="/cbnews/20201201/1439951.md" target="_blank">广州“粤A AAAAA”车牌巡逻车火了</a></li>
-<li><a href="/cbnews/20201201/1439938.md" target="_blank">〖博谈编译〗如果你们能拯救美国的选举权，就算失去了你们的政治生涯都是值得的</a></li>
-<li><a href="/cbnews/20201201/1439927.md" target="_blank">文昭：「白帽黑客」出证词；将军透露法兰克福「夺机之变」细节惊心动魄；乔州法庭一夜两变、激烈较量</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201202/1440486.md" target="_blank">华晨债务违约 中国建行和工商行踩雷</a></li>
+<li><a href="/comments/20201202/1440485.md" target="_blank">巴尔无视舞弊证据 川普律师团队：司法部迄今无所作为</a></li>
+<li><a href="/comments/20201202/1440484.md" target="_blank">美证券交易纪录：中共通过瑞银为Dominion提供4亿美元</a></li>
+<li><a href="/comments/20201202/1440483.md" target="_blank">2021年中国高校毕业生909万 官方称就业形势严峻</a></li>
+<li><a href="/comments/20201202/1440482.md" target="_blank">民众施压奏效 法国政府宣布重写惹争议的护警法案</a></li>
 <li><a href="/comments/20201202/1440464.md" target="_blank">川普亚利桑那小胜 法官准许共和党人核查抽样选票</a></li>
 <li><a href="/comments/20201202/1440454.md" target="_blank">为什么猫咪那么喜欢粘在键盘上你知道吗？</a></li>
 <li><a href="/comments/20201202/1440452.md" target="_blank">时而天真可爱，时而搞怪慵懒，人见人爱</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201201/1440225.md" target="_blank">哈佛研究：要看病还是找找女医生吧</a></li>
 <li><a href="/comments/20201201/1440220.md" target="_blank">美国大选：川普的证据与谋略</a></li>
 <li><a href="/comments/20201201/1440219.md" target="_blank">在美利坚合众国处在最黑暗时 我举起了支持川普的旗帜</a></li>
-<li><a href="/comments/20201201/1440179.md" target="_blank">伊朗又一革命卫队高级指挥官遭袭丧命</a></li>
-<li><a href="/comments/20201201/1440168.md" target="_blank">王宇律师执照被注销 慨叹中国人权状况恶劣</a></li>
-<li><a href="/comments/20201201/1440167.md" target="_blank">传金正恩及家族充当「小白鼠」 接种中共实验型疫苗</a></li>
-<li><a href="/comments/20201201/1440166.md" target="_blank">「5要6不」原则 远离新型A型流感</a></li>
-<li><a href="/comments/20201201/1440165.md" target="_blank">在这疫情的冬天，进补要搞清楚这些</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
