@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20201128/1438620.md">习近平接见军官透不安？他不笑谁都不敢笑</a></li>
-<li><a href="/cnnews/hknews/20201128/1438534.md">共匪一折腾 全球最贵街道熄火 每平曾超千万房租腰斩无人问</a></li>
-<li><a href="/cbnews/20201128/1438644.md">给习近平难堪？ 刚宣布全面脱贫 北京人喊活不下去</a></li>
-<li><a href="/bannedvideo/20201128/1438709.md">CNN称川普总统可能“再次当选”,伊朗国宝级核科学家被击杀,CIA老板暴怒!</a></li>
-<li><a href="/baitai/20201128/1438753.md">5男1女，中学生不雅视频震惊全网：未成年的世界，早就不单纯</a></li>
-<li><a href="/comments/20201128/1438507.md">惨烈！获得8000万张选票“当选总统”感恩节宣言仅1000人次浏览！更奇葩的是夹道欢迎他出巡的民众“数量太惨烈”…致主流媒体翻车</a></li>
-<li><a href="/topimagenews/20201128/1438585.md">听证会起作用了！全文翻译：宾州众议院提出决议 质疑选举结果</a></li>
-<li><a href="/topimagenews/20201128/1438742.md">出大事 宾州要翻天 我们人民说了算 大选最高法判川普赢？</a></li>
-<li><a href="/cbnews/20201128/1438532.md">自川普当选总统后，关于Q的预言越来越火热了</a></li>
-<li><a href="/lifebaike/20201128/1438602.md">纵欲 正在榨干4亿中国年轻人</a></li>
-<li><a href="/topimagenews/20201128/1438779.md">25000美元！威斯康星州天价选举数据库 他一怒真买了！结果大惊…</a></li>
-<li><a href="/cbnews/20201128/1438517.md">一字不差的报导！川普叹新闻自由不再；宾州法院驳回上诉  川普律师：上最高法院；史无前例！美政论家评拜登创五大奇蹟【希望之声TV】</a></li>
-<li><a href="/cnnews/20201128/1438615.md">iPhone12零部件占比曝光 韩国27% 中国仅…</a></li>
-<li><a href="/topimagenews/20201129/1438851.md">鲍威尔力挽狂澜 乔州诉状包括前所未有内幕 仅赢下简单指控 川普就能翻盘</a></li>
-<li><a href="/cnnews/20201128/1438679.md">川普开罕见先例惩罚中共 震惊 中美穷人收入差25倍 马云蚂蚁为何急于IPO？</a></li>
-<li><a href="/comments/20201128/1438560.md">巴西副总统：北京犯了一个外交错误</a></li>
-<li><a href="/bannedvideo/20201128/1438744.md">国防部和CIA干起来了，川普取得多米尼服务器！猪党面临分裂谁先反水？</a></li>
-<li><a href="/taiwannews/20201128/1438648.md">中国富豪落难！被逼拿钱救党？！企业要爱国！中国富豪在劫难逃？！紫光债券违约！中国企业债撑不住？！【2020.11.28『年代向钱看』周末精选】</a></li>
-<li><a href="/cnnews/20201128/1438646.md">太超前！三星公开首款三折叠屏手机</a></li>
-<li><a href="/topimagenews/20201129/1438889.md">再控宾州多出110万张空气票 川普：我已经大胜 全世界都在看</a></li>
-<li><a href="/cnnews/20201128/1438488.md">快讯！驻白宫记者：宾州共和党议员提出决议 对选举结果提出异议【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201128/1438443.md">文昭：宾州诉讼确定入禀最高法院！大法官们一项判决显本色；鲍威尔的「海怪」长这样；美版「周公东征」</a></li>
-<li><a href="/topimagenews/20201128/1438467.md">川普呛拜登：除非能证明荒谬的8千万票哪来的 他有无法解决的大问题</a></li>
+<li><a href="/cbnews/20201130/1439437.md">拜登又倒霉了！特勤局忽然撤出安保人员 拜登傻眼 佩洛西大骂</a></li>
+<li><a href="/finance/20201130/1439488.md">看中国：马云事件曝最新内幕 原来大家都被骗了</a></li>
+<li><a href="/bannedvideo/20201130/1439653.md">收网！CIA局长被拘已经招供，败灯脚伤暗铺后路！真巧！弗林将军持续公布选举舞弊证据！</a></li>
+<li><a href="/comments/20201130/1439469.md">【微博精粹】特种部队牺牲5人 拜登 贺锦丽坐卧不宁了</a></li>
+<li><a href="/topimagenews/20201130/1439556.md">惊心动魄！林伍德大律师：鲍威尔和我赢了 然后输了 但最后...【阿波罗网编译】</a></li>
+<li><a href="/lifebaike/20201130/1439535.md">手机如果出现这6种情况 有可能正在被“监听” 你中招了没？</a></li>
+<li><a href="/cbnews/20201130/1439584.md">江苏特大爆炸近700人死伤53人获刑高官免罪</a></li>
+<li><a href="/cbnews/20201201/1439734.md">大陆强拆 上海黄浦区户主燃爆煤气罐同归于尽 场面惨烈</a></li>
+<li><a href="/cnnews/20201130/1439593.md">书记包养22情妇搞“群芳宴” 评选“年度佳丽”</a></li>
+<li><a href="/topimagenews/20201201/1439781.md">迄今最爆炸性内幕 川普连任没跑了 痛批深层政府 呼唤勇者</a></li>
+<li><a href="/cnnews/20201130/1439498.md">急忙销毁证据！他下令擦除投票机数据 共和党人大怒 准备占领众议院【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201130/1439513.md">李克强不认账？中共脱贫如同美国大选</a></li>
+<li><a href="/comments/20201130/1439481.md">原话翻译！大海怪原来是他们！美军缴获中情局服务器细节！将军释放信息核弹</a></li>
+<li><a href="/bannedvideo/20201201/1439731.md">CIA局长被捕，川普身边的内鬼开始清除，密切关注奥巴马、佩洛西、哈里斯们的行踪。马先 11月30专题3</a></li>
+<li><a href="/cnnews/20201130/1439592.md">川普有惊人准备 专家：拜登恐被深层政府抛弃陷狱</a></li>
+<li><a href="/headline/20201130/1439651.md">浙农林大一女学生日记曝料援交传艾滋病危险引校园紧张</a></li>
+<li><a href="/comments/20201130/1439379.md">通灵师预测2021年：某世界领导人遭暗杀</a></li>
+<li><a href="/comments/20201130/1439542.md">赵立坚推特贴假图澳洲朝野震怒 莫里森：北京应感到羞耻</a></li>
+<li><a href="/headline/20201130/1439554.md">中国人赴美查共产党员身份 北京严正交涉 21艘轮船16班机指遭美警突击查入党问题</a></li>
+<li><a href="/cnnews/20201130/1439594.md">金正恩压力达最高点 党媒：前所未闻的苦难</a></li>
+<li><a href="/cbnews/20201130/1439567.md">赵立坚发文秒惹怒澳洲 总理莫里森要求中共道歉</a></li>
+<li><a href="/topimagenews/20201130/1439615.md">不妙 习近平笑不出来 官宣脱贫 北京人喊活不下去 挑战下 中共默许第三胎</a></li>
+<li><a href="/bannedvideo/20201130/1439500.md">美特种部队血战中情局夺回服务器！拜登和习近平的各种怕；政变仍在进行，川普开始收网</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,37 +36,54 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/cbnews/20201129/1438745.md" target="_blank">川普手里真正的杀手锏是这个</a></li>
-<li><a href="/cbnews/20201129/1438920.md" target="_blank">川普大反攻  拜登接近了监牢</a></li>
-<li><a href="/cbnews/20201129/1438945.md" target="_blank">内幕：中共透过文化交流向世界散播谎言</a></li>
-<li><a href="/cbnews/20201129/1438944.md" target="_blank">大陆女歌手公开质疑钟南山遭禁言 “沈佳欣”热搜</a></li>
-<li><a href="/cbnews/20201129/1438916.md" target="_blank">江峰：川普两条战线：明线 法律战，宾州案上诉高院；暗线 清理华盛顿沼泽，会战国防部，清除中共卧底基辛格、奥尔布赖特</a></li>
-<li><a href="/cbnews/20201129/1438908.md" target="_blank">伊朗核武领军人物法赫里扎德遇刺；曝光亨特[硬盘门] 店老板遭人身威胁；墨西哥总统三拒恭贺拜登 称大选结束即祝贺当选总统；联邦法官：共和党人可能赢得宾州诉讼【希望之声TV】</a></li>
-<li><a href="/cbnews/20201129/1438904.md" target="_blank">陈破空：直播预告：宾州有戏！密州重大发现。各州民众热烈挺川。陈破空与网友互动 Q&amp;A 美东时间11月28日周六晚上8点，即中港台时间11月29日周日早上9点</a></li>
-<li><a href="/cbnews/20201129/1438884.md" target="_blank">特首林郑月娥因美国制裁家藏现金 中资银行为何“爱莫能助”</a></li>
-<li><a href="/cbnews/20201129/1438862.md" target="_blank">周五宾州法官裁定：阻止任何进一步的选举认证</a></li>
-<li><a href="/cbnews/20201128/1438786.md" target="_blank">拍案惊奇：左媒白宫撒泼</a></li>
-<li><a href="/cbnews/20201128/1438748.md" target="_blank">大选更新11.28：宾州议会要求撤销选举认证</a></li>
-<li><a href="/cbnews/20201128/1438710.md" target="_blank">川普团队项目经理、前美国陆军上校米尔斯，分享希望在哪儿，告诉每个华人，你能做什么。 嘉宾:前美国陆军上校约翰. 米尔斯，主持人:方伟【希望之声TV】(2020/11/28)</a></li>
-<li><a href="/cbnews/20201128/1438700.md" target="_blank">中共试点实施网络身份证 以后凭证上网不是梦</a></li>
-<li><a href="/cbnews/20201128/1438698.md" target="_blank">林伍德：多米尼在巴塞罗那操控 我看到证据；宾州议会拟任命选举人团成员！鲍威尔：用钱买票 有支票存根照；亚利桑那议会将举行公听会；贺锦丽拒辞参议员 她都不相信拜登”胜选&#8221;？【希望之声TV】</a></li>
-<li><a href="/cbnews/20201128/1438694.md" target="_blank">陈破空：习近平不放心身边人？他的老朋友栽了！马拉多纳反川？奇人奇事。英国大律师起诉习陈</a></li>
-<li><a href="/cbnews/20201128/1438691.md" target="_blank">朱利安尼在宾州听证会上的发言</a></li>
-<li><a href="/cbnews/20201128/1438681.md" target="_blank">201128 香港人替台湾挡子弹 香港民主梦破灭? 美国与共产主义的决战 民主党为何以命相搏总统大位? 美国媒体左倾 转向马克思主义意识形态?</a></li>
-<li><a href="/cbnews/20201128/1438658.md" target="_blank">印度防长：已授权部队阻止中共军队单方行动</a></li>
-<li><a href="/cbnews/20201128/1438644.md" target="_blank">给习近平难堪？ 刚宣布全面脱贫 北京人喊活不下去</a></li>
-<li><a href="/cbnews/20201128/1438621.md" target="_blank">人权律师常玮平被秘密关押 瑞士律会要习近平放人</a></li>
-<li><a href="/cbnews/20201128/1438620.md" target="_blank">习近平接见军官透不安？他不笑谁都不敢笑</a></li>
-<li><a href="/cbnews/20201128/1438596.md" target="_blank">盛雪：边做美食边聊美国大选</a></li>
-<li><a href="/cbnews/20201128/1438532.md" target="_blank">自川普当选总统后，关于Q的预言越来越火热了</a></li>
-<li><a href="/cbnews/20201128/1438582.md" target="_blank">开始甩锅了吗？黑命贵和安提法要分家？台湾危险了？拜登顾问曾想卖台湾给中共抵债？太猖狂？川普斥假新闻记者！【希望之声TV】</a></li>
-<li><a href="/cbnews/20201128/1438574.md" target="_blank">冤狱11年 女高级工程师王楣泓再度遭绑架</a></li>
+<li><a href="/cbnews/20201201/1439927.md" target="_blank">文昭：「白帽黑客」出证词；将军透露法兰克福「夺机之变」细节惊心动魄；乔州法庭一夜两变、激烈较量</a></li>
+<li><a href="/cbnews/20201201/1439728.md" target="_blank">川普是天选之人？ 专家解析他与圣经的关连</a></li>
+<li><a href="/cbnews/20201201/1439913.md" target="_blank">舞弊证据更多曝光中两州匆忙认证 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/11/30)</a></li>
+<li><a href="/cbnews/20201201/1439909.md" target="_blank">川普在用大选做诱饵，下一盘大棋？</a></li>
+<li><a href="/cbnews/20201201/1439829.md" target="_blank">陈破空：直播预告：乔州大戏，法官三次改口！亚利桑那听证会轰动。陈破空与网友互动Q&amp;A 美东时间11月30日周一晚8点、即中港台时间12月1日周二早9点</a></li>
+<li><a href="/cbnews/20201201/1439828.md" target="_blank">〖11月30日博谈编译集锦〗</a></li>
+<li><a href="/cbnews/20201201/1439820.md" target="_blank">中共报复 称制裁4美国人 遭港网民嘲讽</a></li>
+<li><a href="/cbnews/20201201/1439808.md" target="_blank">江苏响水爆炸案酿近七百死伤 53人获刑最高20年</a></li>
+<li><a href="/cbnews/20201201/1439807.md" target="_blank">云南腾冲景区工作人员从高空热气球上坠落身亡</a></li>
+<li><a href="/cbnews/20201201/1439806.md" target="_blank">上海黄浦区强拆 户主燃爆煤气罐同归于尽</a></li>
+<li><a href="/cbnews/20201201/1439800.md" target="_blank">威胁全球的大重置计划？民主党人违反CoVID规则的背后！；乔州法官深夜再翻案 宣布禁删投票机取证数据【希望之声TV】</a></li>
+<li><a href="/cbnews/20201201/1439734.md" target="_blank">大陆强拆 上海黄浦区户主燃爆煤气罐同归于尽 场面惨烈</a></li>
+<li><a href="/cbnews/20201130/1439688.md" target="_blank">大选更新11·30：逾3亿黑钱助民主党选举</a></li>
+<li><a href="/cbnews/20201130/1439658.md" target="_blank">欧盟将与美国联合 应对抗衡中共威胁</a></li>
+<li><a href="/cbnews/20201130/1439644.md" target="_blank">FBI介入调查大选？主动索要调查结果；川普：推翻选举结果 需要勇敢法官；俄亥俄州确认选举结果 川普获胜；巴西总统：美大选存在违法行为；拜登脚部骨折去医院 不愿媒体看见【希望之声TV】</a></li>
+<li><a href="/cbnews/20201130/1439643.md" target="_blank">陈破空：接见官兵，习近平笑不出来！党媒吹嘘韩战，遭美国大使馆教育。土共甩锅邻国。战狼冒犯巴西</a></li>
+<li><a href="/cbnews/20201130/1439584.md" target="_blank">江苏特大爆炸近700人死伤53人获刑高官免罪</a></li>
+<li><a href="/cbnews/20201130/1439574.md" target="_blank">习近平脱贫「啃硬骨头」四川雇流氓强迫签字…</a></li>
+<li><a href="/cbnews/20201130/1439569.md" target="_blank">新闻拍案惊奇 大宇的故事</a></li>
+<li><a href="/cbnews/20201130/1439567.md" target="_blank">赵立坚发文秒惹怒澳洲 总理莫里森要求中共道歉</a></li>
+<li><a href="/cbnews/20201130/1439566.md" target="_blank">弗林将军：叛国政变正在发生 中共参与其中</a></li>
+<li><a href="/cbnews/20201130/1439513.md" target="_blank">李克强不认账？中共脱贫如同美国大选</a></li>
+<li><a href="/cbnews/20201130/1439499.md" target="_blank">亚利桑那州议会听证解读 嘉宾:方伟 辛恬 谢田 蓝述 主持人:高洁【希望之声TV】(2020/11/30)</a></li>
+<li><a href="/cbnews/20201130/1439494.md" target="_blank">巡回法院驳回诉讼  内藏玄机？川普推“狮子战鬣狗” 意味深长引热议；CNN踢爆：3亿“黑钱”助拜登大选；中共又将疫源甩锅海外 WHO主任打脸【希望之声TV】</a></li>
+<li><a href="/comments/20201130/1439481.md" target="_blank">原话翻译！大海怪原来是他们！美军缴获中情局服务器细节！将军释放信息核弹</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201201/1439781.md" target="_blank">迄今最爆炸性内幕 川普连任没跑了 痛批深层政府 呼唤勇者</a></li>
+<li><a href="/topimagenews/20201201/1439743.md" target="_blank">川普愤怒 质问为何不许我起诉 要绕开司法部行动了 “对多猫腻合同刑事调查”</a></li>
+<li><a href="/topimagenews/20201201/1439730.md" target="_blank">揭秘天涯最大悬案：王思聪舅舅两次杀妻疑云</a></li>
+<li><a href="/topimagenews/20201130/1439615.md" target="_blank">不妙 习近平笑不出来 官宣脱贫 北京人喊活不下去 挑战下 中共默许第三胎</a></li>
+<li><a href="/topimagenews/20201130/1439556.md" target="_blank">惊心动魄！林伍德大律师：鲍威尔和我赢了 然后输了 但最后&#8230;【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201130/1439512.md" target="_blank">川普痛批科技巨头与媒体掌话语权：不报选举是骗局 跟亨特的事没两样</a></li>
+<li><a href="/topimagenews/20201130/1439486.md" target="_blank">川普说要用125%的精力去做这件事【阿波罗网编译】</a></li>
+<li><a href="/comments/20201130/1439481.md" target="_blank">原话翻译！大海怪原来是他们！美军缴获中情局服务器细节！将军释放信息核弹</a></li>
+<li><a href="/topimagenews/20201130/1439454.md" target="_blank">令多少国家元首汗颜 不承认拜登当选！巴西总统：美大选存在欺诈</a></li>
+<li><a href="/topimagenews/20201130/1439362.md" target="_blank">这才是真相！川普不仅没有退缩 他还要… 【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201130/1439300.md" target="_blank">川普选后首次受访 抨击司法系统及传媒 质疑拜登得票数字</a></li>
+<li><a href="/topimagenews/20201130/1439290.md" target="_blank">川普点破威州重要发现 州议会选总统有多种途径 震惊：密歇根投票率高达8倍</a></li>
+<li><a href="/topimagenews/20201130/1439271.md" target="_blank">亚太「封锁世代」 陷失业危机 「经济梦」化为泡影</a></li>
+<li><a href="/topimagenews/20201130/1439243.md" target="_blank">川普阵营大反攻开始 弗林将军首次披露8大要点 左派叫嚣开战宾州最新消息</a></li>
+<li><a href="/topimagenews/20201129/1439209.md" target="_blank">川普大胜 拜登多出77万假选票 突发！威州现数千假票 投票人数超选民231万</a></li>
+<li><a href="/topimagenews/20201129/1439098.md" target="_blank">美将军惊曝：美军特种部队和中情局交火 中共等参与针对川普未遂政变【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201129/1439062.md" target="_blank">天意！一个命令曝光！中共伊朗很快大祸临头？【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201129/1438889.md" target="_blank">再控宾州多出110万张空气票 川普：我已经大胜 全世界都在看</a></li>
 <li><a href="/topimagenews/20201129/1438851.md" target="_blank">鲍威尔力挽狂澜 乔州诉状包括前所未有内幕 仅赢下简单指控 川普就能翻盘</a></li>
 <li><a href="/topimagenews/20201128/1438779.md" target="_blank">25000美元！威斯康星州天价选举数据库 他一怒真买了！结果大惊…</a></li>
@@ -75,54 +92,37 @@
 <li><a href="/comments/20201128/1438507.md" target="_blank">惨烈！获得8000万张选票“当选总统”感恩节宣言仅1000人次浏览！更奇葩的是夹道欢迎他出巡的民众“数量太惨烈”…致主流媒体翻车</a></li>
 <li><a href="/topimagenews/20201128/1438467.md" target="_blank">川普呛拜登：除非能证明荒谬的8千万票哪来的 他有无法解决的大问题</a></li>
 <li><a href="/topimagenews/20201128/1438318.md" target="_blank">美商务部开罕见先例！动用关税对付中共汇率操纵和不公平补贴</a></li>
-<li><a href="/topimagenews/20201128/1438282.md" target="_blank">美国媒体曝猛料：拜登亲赴亲赴此国提前3年布局作弊</a></li>
-<li><a href="/topimagenews/20201127/1438070.md" target="_blank">弗林将军声明：鲍威尔女士就像一个从天而降的天使…</a></li>
-<li><a href="/topimagenews/20201127/1438026.md" target="_blank">彻头彻尾的笑话!5名拜登支持者迎接他&#8211;但他却获得了8000万张选票</a></li>
-<li><a href="/topimagenews/20201127/1437920.md" target="_blank">宾州听证会上震撼发言 愿北约联合情报中心总监：必须打到最高法院！【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201126/1437670.md" target="_blank">国父给川普铺垫连任之路 团队放大招！阻击拜登的270伪票有道</a></li>
-<li><a href="/topimagenews/20201126/1437615.md" target="_blank">川普重大突破1天多条重磅 “海怪”是川普抓深层政府？美媒曝联想盗技术干扰大选</a></li>
-<li><a href="/topimagenews/20201126/1437533.md" target="_blank">蓬佩奥：拜登团队幻想世界 揭秘马云触犯习近平3大禁忌 胡锡进谈北京最低​​工资遭痛批</a></li>
-<li><a href="/topimagenews/20201126/1437384.md" target="_blank">宾州法官发布紧急命令！停止认证拜登当选事务</a></li>
-<li><a href="/topimagenews/20201126/1437290.md" target="_blank">宾夕法尼亚听证会 目击证人一番话 在座一片哗然！【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201126/1437210.md" target="_blank">快讯！川普总统宣布特赦弗林将军【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201126/1437110.md" target="_blank">川普秘密会谈内容被泄露 惊爆五角大楼成国安威胁 川普共和党4州16法律战</a></li>
-<li><a href="/topimagenews/20201126/1437096.md" target="_blank">鲍威尔揭秘投票机主使藏匿 共和党加州翻转4席超全美 拜登&#8221;国务卿&#8221;涉庞大军火利益</a></li>
-<li><a href="/comments/20201125/1436916.md" target="_blank">视频：婴儿感受到他的威胁，奋力哭喊，最后孩子的父亲夺回了小宝宝</a></li>
-<li><a href="/topimagenews/20201125/1436913.md" target="_blank">感恩节诉心声 澳洲民运领袖：法轮功创始人功德无量</a></li>
-<li><a href="/topimagenews/20201125/1436851.md" target="_blank">鲍威尔：投票机老板藏匿在空壳和私募公司中</a></li>
-<li><a href="/topimagenews/20201125/1436783.md" target="_blank">左媒和民调再被打脸： 27场选举 共和党全赢了</a></li>
-<li><a href="/topimagenews/20201125/1436760.md" target="_blank">人以群分！拜登梦想组阁 竟然找他们做左膀右臂 【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/comments/20201129/1438981.md" target="_blank">只要信仰与民心还在 正义将战胜邪恶</a></li>
-<li><a href="/comments/20201129/1438978.md" target="_blank">骚客文艺:举报宿管阿姨的大学生 不仅坏 而且蠢</a></li>
-<li><a href="/comments/20201129/1438975.md" target="_blank">在感恩和祈祷中 看美大选展现神的旨意</a></li>
-<li><a href="/comments/20201129/1438973.md" target="_blank">欧中友好小组遭审查 涉嫌渗透欧盟为中共站台</a></li>
-<li><a href="/comments/20201129/1438963.md" target="_blank">二大爷：人狠话不多：摩萨德暗杀史</a></li>
-<li><a href="/comments/20201129/1438962.md" target="_blank">对比当下 看看二战前主流媒体都作了什么</a></li>
-<li><a href="/comments/20201129/1438961.md" target="_blank">思想领袖：戈萨尔：媒体无权宣布大选结果</a></li>
-<li><a href="/comments/20201129/1438943.md" target="_blank">香港监察再吁中共送回12港人 英称港状况97后最糟</a></li>
-<li><a href="/comments/20201129/1438941.md" target="_blank">巴黎5万人“为自由而走” 捍卫资讯自由</a></li>
-<li><a href="/comments/20201129/1438915.md" target="_blank">【选情更新11/28】鲍威尔发视频揭Dominion篡改计票结果 川普：宾州凭空造出110万选票</a></li>
-<li><a href="/comments/20201129/1438903.md" target="_blank">鲍威尔诉状：Dominion系统操纵了三个州150多万选票</a></li>
-<li><a href="/comments/20201129/1438897.md" target="_blank">朱利安尼：川普团队正推动摇摆州议会 直接任命选举人</a></li>
-<li><a href="/comments/20201129/1438896.md" target="_blank">明代鲁荒王陵出土了文物界中的“劳斯莱斯”！中国仅有五颗</a></li>
-<li><a href="/comments/20201129/1438855.md" target="_blank">家常尖椒肉丝炒面</a></li>
-<li><a href="/comments/20201129/1438837.md" target="_blank">何谓健康饮食？结果颠覆以往的观念</a></li>
-<li><a href="/comments/20201128/1438783.md" target="_blank">高僧尸骨千年未腐,X光扫描揭开谜团</a></li>
-<li><a href="/comments/20201128/1438782.md" target="_blank">时事大家谈：如何应对疫情导致的精神健康危机</a></li>
-<li><a href="/comments/20201128/1438781.md" target="_blank">时事大家谈：欧美疫苗接种在即 匈牙利违规购中国疫苗</a></li>
-<li><a href="/comments/20201128/1438780.md" target="_blank">时事大家谈：欧美疫苗接种在即 匈牙利违规购中国疫苗; 如何应对疫情导致的精神健康危机</a></li>
-<li><a href="/comments/20201128/1438719.md" target="_blank">回家就想躺着？你不是懒，可能只是虚，四个调理方法快收好</a></li>
-<li><a href="/comments/20201128/1438714.md" target="_blank">中共对民企老板连下狠手 分析：终结共产党是唯一希望</a></li>
-<li><a href="/comments/20201128/1438703.md" target="_blank">习近平砸钱造芯酿百亿级“烂尾” 北京高官罕见呛声</a></li>
-<li><a href="/comments/20201128/1438702.md" target="_blank">共产学者李毅仗势口出狂言 称新冠4000人死亡 等于没死人</a></li>
-<li><a href="/comments/20201128/1438677.md" target="_blank">加拿大藏人维吾尔人控诉 北京威胁令人不敢想像</a></li>
-<li><a href="/comments/20201128/1438670.md" target="_blank">澳前总理回应中共：铁腕手段对澳“适得其反”</a></li>
+<li><a href="/comments/20201201/1439928.md" target="_blank">多个迹象表明拜登大势已去</a></li>
+<li><a href="/comments/20201201/1439922.md" target="_blank">为什么那么多人想去日本，看看这些贴心的生活事物你就知道啦~</a></li>
+<li><a href="/comments/20201201/1439762.md" target="_blank">公然毁灭证据？州务卿让各县官员删除投票机数据…共和党人悲愤焦急要占领州议会和他家！2020大选剧情再掀高潮</a></li>
+<li><a href="/comments/20201201/1439860.md" target="_blank">亚利桑那听证会 监票员证人：加州人、难民获得选票</a></li>
+<li><a href="/comments/20201201/1439859.md" target="_blank">美参院就职委员会主席拒绝承认拜登为“当选总统”</a></li>
+<li><a href="/comments/20201201/1439858.md" target="_blank">玛雅预言中保护地球人的“彩虹战士”已出现？</a></li>
+<li><a href="/comments/20201201/1439857.md" target="_blank">恐怖！预言警告：当心“大凶黑色12月”</a></li>
+<li><a href="/comments/20201201/1439835.md" target="_blank">新创歌曲“紫心勋章”传递美国精神 扞卫自由</a></li>
+<li><a href="/comments/20201201/1439834.md" target="_blank">总投资2000亿 清华紫光两个芯片项目陷入停滞</a></li>
+<li><a href="/comments/20201201/1439830.md" target="_blank">左翼社会主义者的八大流氓手段</a></li>
+<li><a href="/comments/20201201/1439827.md" target="_blank">彭博：中共成立联合工作组监管蚂蚁集团</a></li>
+<li><a href="/comments/20201201/1439826.md" target="_blank">宾州州议员正式提案 要求撤回选举结果证明</a></li>
+<li><a href="/comments/20201201/1439825.md" target="_blank">金里奇：2020年大选或是近两世纪最大窃选案</a></li>
+<li><a href="/comments/20201201/1439824.md" target="_blank">美国拟将中芯国际和中海油列入国防部制裁名单</a></li>
+<li><a href="/comments/20201201/1439823.md" target="_blank">在德国，获得“2021德国汽车”大奖的，竟然是辆日本车？</a></li>
+<li><a href="/comments/20201201/1439815.md" target="_blank">选举专家：左派法官窃选举立法权 州议会应收回该权</a></li>
+<li><a href="/comments/20201201/1439814.md" target="_blank">国企债务连环爆雷 中共央行额外放水3500亿维稳</a></li>
+<li><a href="/comments/20201201/1439797.md" target="_blank">走出马三家调查报导 捅了马蜂窝</a></li>
+<li><a href="/comments/20201201/1439788.md" target="_blank">弗林将军：窃取美国大选是中共蓄谋已久的阴谋</a></li>
+<li><a href="/comments/20201201/1439787.md" target="_blank">护士揭秘“小灰人”是四维空间生物？与人类完全不同的补充能量的方式</a></li>
+<li><a href="/comments/20201201/1439786.md" target="_blank">BTS入围葛莱美遭陆媒警告「致词时小心说话」</a></li>
+<li><a href="/comments/20201201/1439785.md" target="_blank">冬季养肾暖身保养茶</a></li>
+<li><a href="/comments/20201201/1439767.md" target="_blank">赚到了 “一件事”免费帮你分泌良性荷尔蒙</a></li>
+<li><a href="/comments/20201201/1439748.md" target="_blank">德国女大学生的三次实验 提供了一个启示</a></li>
+<li><a href="/comments/20201201/1439735.md" target="_blank">【视频直播】亚利桑那州参议院举行选举诚信听证会</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
