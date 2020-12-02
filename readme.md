@@ -13,10 +13,8 @@
 <li><a href="/funmedia/20201202/1440583.md">很多男人都想娶日本女人！知道这些后 你们还真的敢娶吗？</a></li>
 <li><a href="/taiwannews/20201202/1440777.md">🔥重磅！川普总统有可能宣布戒严？</a></li>
 <li><a href="/topimagenews/20201202/1440808.md">“宣布戒严 发起大规模逮捕" 将军呼吁川普援引反叛乱法【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20201202/1440498.md">司法部长巴尔说没有舞弊证据 川普律师团队：司法部迄今无所作为</a></li>
 <li><a href="/bannedvideo/20201202/1440757.md">快报:“美国总统大选”司法部正式声明:巴尔没有肯定“选举没有舞弊”,川普再提终止第230法案.</a></li>
 <li><a href="/comments/20201202/1440823.md">网曝胡锡进遭副手实名举报与女员工通奸 有两私生子</a></li>
-<li><a href="/ssgc/20201202/1440502.md">〖兲朝浮世绘〗没想到美国司法部长巴尔也是沼泽地的大鳄鱼</a></li>
 <li><a href="/headline/20201202/1440894.md">曾吼要割方方舌头的女孩陷入蛋壳公寓危机无处栖身上网求助之后</a></li>
 <li><a href="/bannedvideo/20201202/1440597.md">习近平想要一场战争解困？中共政治局会议罕见提出备战打仗--天钧政经</a></li>
 <li><a href="/topimagenews/20201202/1440845.md">震惊！多猫腻被中资买走 大选前政府文件为证 我们人民大会促新大选</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/comments/20201202/1440830.md">习近平不断要求开战_在他的领导下是否还有人权可言</a></li>
 <li><a href="/bannedvideo/20201202/1440897.md">CNN逼川普下台录音被曝光,总裁暴怒!林伍德呼吁启动反叛乱法.</a></li>
 <li><a href="/cbnews/20201202/1440762.md">深喉浮出水面了？国土安全部也参与了？司法部反水了吗？川普明暗两线作战是什么？朱利安尼被共和党人拒之门外【希望之声TV】</a></li>
+<li><a href="/cnnews/20201202/1440849.md">习近平月内3次喊“打仗” 四面出击再失策</a></li>
 <li><a href="/cnnews/20201202/1440521.md">上海假名媛诈财500万 被抓时爱马仕挂满墙…</a></li>
+<li><a href="/finance/20201202/1440560.md">马化腾：2020黑天鹅满天飞 一场大洗牌将开始</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201203/1441131.md" target="_blank">中共控制的瑞银证券与Dominion关系深</a></li>
 <li><a href="/cbnews/20201203/1441111.md" target="_blank">美国USCC：加大审查投资中国的公司和资金</a></li>
 <li><a href="/cbnews/20201203/1441110.md" target="_blank">中共最强淫僧高官倒台后一年多 接替者曝光</a></li>
 <li><a href="/cbnews/20201203/1441089.md" target="_blank">宾州确认选举案成功上诉最高法院！；CNN会议录音继续被曝光；川普：除非终止第230条，否则将否决国防法【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201202/1440774.md" target="_blank">强收水费 北京大兴村党委收钱不出收据 借疫情盘剥百姓</a></li>
 <li><a href="/cbnews/20201202/1440762.md" target="_blank">深喉浮出水面了？国土安全部也参与了？司法部反水了吗？川普明暗两线作战是什么？朱利安尼被共和党人拒之门外【希望之声TV】</a></li>
 <li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：利用华尔街搞定美国</a></li>
-<li><a href="/comments/20201202/1440697.md" target="_blank">特稿：美国第五十九届总统大选将成为本世纪历史拐点的界碑</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201203/1441135.md" target="_blank">方伟评重磅采访: 美国大选是涉及叛国大罪的一场政变</a></li>
 <li><a href="/comments/20201203/1441106.md" target="_blank">川普：如不废除230法案 我将不得不否决《国防授权法》</a></li>
 <li><a href="/comments/20201203/1441097.md" target="_blank">巴斯：中国市场政治风险高于金融风险</a></li>
 <li><a href="/comments/20201203/1441080.md" target="_blank">张曼玉私下行径曝光 在空姐眼里是这样的明星</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201202/1440840.md" target="_blank">危害大于疗效 百种药物上黑名单</a></li>
 <li><a href="/comments/20201202/1440839.md" target="_blank">补血吃红色系？错了！这色系才真的补到爆</a></li>
 <li><a href="/comments/20201202/1440838.md" target="_blank">体温低容易导致免疫力下降！5招教你免疫力翻5倍</a></li>
-<li><a href="/comments/20201202/1440834.md" target="_blank">福建派系势力交错 港媒揭中共政治高地内情</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
