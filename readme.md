@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20201202/1440641.md">天亮时分：巴尔叛变；华盛顿时报整版广告呼吁川普“戒严、军管、重选”；参议员克鲁兹紧急要求最高法院审理大选案（政论天下第292集 20201201）</a></li>
 <li><a href="/topimagenews/20201202/1440468.md">击碎邪恶幻想 川普总统表态 还有好消息 深层政府司法失利变招</a></li>
 <li><a href="/topimagenews/20201202/1440808.md">“宣布戒严 发起大规模逮捕" 将军呼吁川普援引反叛乱法【阿波罗网编译】</a></li>
-<li><a href="/taiwannews/20201202/1440777.md">🔥重磅！川普总统有可能宣布戒严？</a></li>
 <li><a href="/funmedia/20201202/1440583.md">很多男人都想娶日本女人！知道这些后 你们还真的敢娶吗？</a></li>
+<li><a href="/taiwannews/20201202/1440777.md">🔥重磅！川普总统有可能宣布戒严？</a></li>
 <li><a href="/cnnews/20201202/1440498.md">司法部长巴尔说没有舞弊证据 川普律师团队：司法部迄今无所作为</a></li>
 <li><a href="/bannedvideo/20201202/1440757.md">快报:“美国总统大选”司法部正式声明:巴尔没有肯定“选举没有舞弊”,川普再提终止第230法案.</a></li>
 <li><a href="/comments/20201202/1440823.md">网曝胡锡进遭副手实名举报与女员工通奸 有两私生子</a></li>
 <li><a href="/ssgc/20201202/1440502.md">〖兲朝浮世绘〗没想到美国司法部长巴尔也是沼泽地的大鳄鱼</a></li>
-<li><a href="/headline/20201202/1440374.md">中澳打大？澳大利亚媒体刊89六四挡坦克车队照 告知这是真图</a></li>
 <li><a href="/bannedvideo/20201202/1440597.md">习近平想要一场战争解困？中共政治局会议罕见提出备战打仗--天钧政经</a></li>
-<li><a href="/bannedvideo/20201202/1440515.md">拜登即将做出艰难的选择，退选自保求宽赦。亨特的旅行记录？硬盘门进入更深入的调查。马先 12月2专题1</a></li>
 <li><a href="/bannedvideo/20201202/1440768.md">财经冷眼：4亿房奴98%选错！29万亿楼市收割机启动，银行成最大赢家！还有最后28天补救！（20201202第395期）</a></li>
+<li><a href="/bannedvideo/20201202/1440515.md">拜登即将做出艰难的选择，退选自保求宽赦。亨特的旅行记录？硬盘门进入更深入的调查。马先 12月2专题1</a></li>
 <li><a href="/cnnews/20201202/1440460.md">华春莹称制裁4名美国民间人士 网友笑翻了</a></li>
 <li><a href="/cbnews/20201202/1440469.md">正义就要来了特别注意总统令 伍德发警告乔州州长入狱 中国印美选票台媒揭秘细节</a></li>
 <li><a href="/bannedvideo/20201202/1440786.md">🔥紧急！美国有可能戒严？</a></li>
+<li><a href="/topimagenews/20201202/1440845.md">震惊！多猫腻被中资买走 大选前政府文件为证 我们人民大会促新大选</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201203/1441015.md" target="_blank">江峰：司法部长巴尔，叛节者还是墙头草，今天见川普定夺！戒严令下重开大选还是内战，茶党领袖发出强音【大选评说】</a></li>
+<li><a href="/cbnews/20201203/1440999.md" target="_blank">大选更新12.2：鲍威尔林伍德将开发布会</a></li>
+<li><a href="/cbnews/20201203/1440998.md" target="_blank">对抗中俄威胁 美国澳洲共同研发超高音速导弹</a></li>
 <li><a href="/cbnews/20201202/1440919.md" target="_blank">中共限制外国人和华侨的宗教活动自由</a></li>
 <li><a href="/cbnews/20201202/1440918.md" target="_blank">泼墨习近平像的董瑶琼 发视频控诉遭监控 现已失联</a></li>
 <li><a href="/cbnews/20201202/1440898.md" target="_blank">CNN慌了！内部会议被录音曝光；拜登政府新闻团队含多名CNN成员；司法部声明：巴尔没说；克鲁兹敦促高院迅速审理宾州上诉案；律师团队：从纽约送至宾州 28万选票全消失【希望之声TV】</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20201202/1440636.md" target="_blank">大选更新12.1：林伍德：美国正走向内战</a></li>
 <li><a href="/cbnews/20201202/1440605.md" target="_blank">民众敦促： 终止叛国行为  审判叛国罪 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/01)</a></li>
 <li><a href="/cbnews/20201202/1440602.md" target="_blank">中共四个亿投资多猫腻，实锤证据深度介入大选政变！资金链兜兜转转，索罗斯若影若现！司法部长变节，又一黑手现原形！川普的卫国战争，你选择自由还是毁灭！</a></li>
-<li><a href="/cbnews/20201202/1440598.md" target="_blank">视频：新唐人在美国人气爆棚</a></li>
-<li><a href="/cbnews/20201202/1440595.md" target="_blank">〖博谈编译〗Dominion母公司获中国政府控股银行4亿美元投资</a></li>
-<li><a href="/cbnews/20201202/1440578.md" target="_blank">文昭、王剑、公子沈：习李再斗法，民众被脱贫 | 三权合一</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
