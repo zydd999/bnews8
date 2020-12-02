@@ -11,20 +11,20 @@
 <li><a href="/headline/20201201/1440213.md">中国再传新一波高层人事变动</a></li>
 <li><a href="/comments/20201201/1439928.md">多个迹象表明拜登大势已去</a></li>
 <li><a href="/bannedvideo/20201201/1440250.md">突破!宾州议会正式否决大选认证,州府违宪!关于奥巴马的传闻……川普推特治国的秘密.</a></li>
-<li><a href="/topimagenews/20201201/1440268.md">现原形！密歇根共和党主席竟不让朱利安尼在听证会上作证 【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201202/1440425.md">奥巴马被抓？宣布了？大反转 舞弊猖獗 美国敌人霉运连连</a></li>
 <li><a href="/cbnews/20201201/1440137.md">惨绝人伦 当班护士：只有几天就可以生下来了</a></li>
 <li><a href="/cnnews/20201201/1440032.md">震撼！证人：我永远不可能做认证 宁可辞职也不…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201202/1440425.md">奥巴马被抓？宣布了？大反转 舞弊猖獗 美国敌人霉运连连</a></li>
+<li><a href="/topimagenews/20201201/1440268.md">现原形！密歇根共和党主席竟不让朱利安尼在听证会上作证 【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201201/1439909.md">川普在用大选做诱饵，下一盘大棋？</a></li>
 <li><a href="/bannedvideo/20201201/1440244.md">传CIA局长在交火中受伤 已经被捕；鲍威尔起诉书确认 选票水印有猫腻；他狠砸2.5万美元查询选举数据 看后大惊；宾州高院也被渗透？避重就轻驳回诉讼；赵立坚竟用假图怒斥澳军；</a></li>
 <li><a href="/cbnews/20201201/1440257.md">赵立坚的辱澳图，意外为澳大利亚造福。中共战友如梦初醒，华社侨领竟无一人为中共说话（坐澳观天第218期 20201201）</a></li>
-<li><a href="/cbnews/20201201/1439909.md">川普在用大选做诱饵，下一盘大棋？</a></li>
 <li><a href="/cbnews/20201201/1440089.md">拜登会被抛弃吗？川普早有惊人准备 ！司法部、FBI和诸多官员被起诉？川普为何要指定特别检察官？【希望之声TV】</a></li>
-<li><a href="/bannedvideo/20201201/1440340.md">美利坚共和国遭到攻击，已进入战争状态，川普总统随时下令全面大抓铺，新账旧账一起算。马先  12月1专题1</a></li>
 <li><a href="/topimagenews/20201202/1440424.md">推特拒删赵立坚讽澳洲假图 网友火大贴 「天安门」出征战狼</a></li>
+<li><a href="/bannedvideo/20201201/1440340.md">美利坚共和国遭到攻击，已进入战争状态，川普总统随时下令全面大抓铺，新账旧账一起算。马先  12月1专题1</a></li>
 <li><a href="/cnnews/20201201/1440152.md">真相的力量！亚利桑那爆炸性新闻 议员们要夺回权力 宾州一幕再现【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201202/1440414.md">赵立坚假图片嘲讽澳洲军人 澳媒刊「六四坦克人照」反击</a></li>
 <li><a href="/funmedia/20201201/1440043.md">施工挖出百米长140岁蛇精司机当场吓死 前夜蛇精给老板托梦</a></li>
 <li><a href="/bannedvideo/20201201/1440236.md">奥玛黑28日被抓？惊不惊喜意不意外？亚利桑那不要碧莲修改川普选票！</a></li>
-<li><a href="/topimagenews/20201202/1440414.md">赵立坚假图片嘲讽澳洲军人 澳媒刊「六四坦克人照」反击</a></li>
 <li><a href="/bannedvideo/20201201/1440052.md">奥巴马休推，拜登自残，佩洛西垂帘，哈里斯副总。川普祝你们健康。马先 1130专题4</a></li>
 <li><a href="/cnnews/20201201/1440223.md">清算Facebook和谷歌的时刻到了</a></li>
 <li><a href="/lifebaike/20201201/1440160.md">买车就买低配？老司机：没有这三大配件 买了之后就会后悔</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201202/1440579.md" target="_blank">文昭：CNN「倒戈」拜登？有蹊跷；美国急查入境中共党员；右翼提议「军管选举」</a></li>
 <li><a href="/cbnews/20201202/1440528.md" target="_blank">美国务院指控中共这项“罪名” 悬赏500万搜证据</a></li>
 <li><a href="/cbnews/20201202/1440527.md" target="_blank">中共政治局会议决定人事布局 唐仁健将任农业部长</a></li>
 <li><a href="/cbnews/20201202/1440526.md" target="_blank">大陆调整五省市一把手 全为60后地方大员 福建、海南省委书记换人</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201201/1440272.md" target="_blank">大选更新12.1：川普团队向威州最高院提诉</a></li>
 <li><a href="/cbnews/20201201/1440263.md" target="_blank">维权律师王宇被北京当局注销执照</a></li>
 <li><a href="/cbnews/20201201/1440257.md" target="_blank">赵立坚的辱澳图，意外为澳大利亚造福。中共战友如梦初醒，华社侨领竟无一人为中共说话（坐澳观天第218期 20201201）</a></li>
-<li><a href="/cbnews/20201201/1440252.md" target="_blank">陈破空：政治局通过条例，矛头暗指习近平？美国突查中共党员！男女战狼惹毛澳大利亚</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201202/1440573.md" target="_blank">鲍威尔：司法部和FBI严重腐败 需要整体“消毒”</a></li>
 <li><a href="/comments/20201202/1440545.md" target="_blank">学生家长为何集体找教委讨说法？</a></li>
 <li><a href="/comments/20201202/1440544.md" target="_blank">大律师林伍德呼吁宣布戒严令重新举行大选</a></li>
 <li><a href="/comments/20201202/1440543.md" target="_blank">科学家：宇宙早该支离破碎，现在只是苟延残喘？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201201/1440355.md" target="_blank">【视频直播】密歇根州议会举行大选计票问题听证会</a></li>
 <li><a href="/comments/20201201/1440248.md" target="_blank">华左们的故事（1）</a></li>
 <li><a href="/comments/20201201/1440330.md" target="_blank">亚利桑那听证会 吹哨人揭民主党候选人被预植3.5万票</a></li>
-<li><a href="/comments/20201201/1440258.md" target="_blank">百余页机密文件曝光 CNN披露中共当局隐匿疫情</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 
 </ul>
 </div>
