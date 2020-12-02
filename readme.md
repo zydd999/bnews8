@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20201202/1440425.md">奥巴马被抓？宣布了？大反转 舞弊猖獗 美国敌人霉运连连</a></li>
 <li><a href="/cnnews/20201202/1440520.md">手握通话记录 他扬言今晚曝猛料 CNN彻底慌了</a></li>
 <li><a href="/topimagenews/20201202/1440424.md">推特拒删赵立坚讽澳洲假图 网友火大贴 「天安门」出征战狼</a></li>
-<li><a href="/bannedvideo/20201201/1440340.md">美利坚共和国遭到攻击，已进入战争状态，川普总统随时下令全面大抓铺，新账旧账一起算。马先  12月1专题1</a></li>
 <li><a href="/bannedvideo/20201202/1440516.md">拜登主动认输，求川普大赦。习近平终于发贺电，要求拜登坚持到底，不然就会把他们的合伙人给供出来。马先 1125专题3</a></li>
-<li><a href="/topimagenews/20201201/1440268.md">现原形！密歇根共和党主席竟不让朱利安尼在听证会上作证 【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20201201/1440340.md">美利坚共和国遭到攻击，已进入战争状态，川普总统随时下令全面大抓铺，新账旧账一起算。马先  12月1专题1</a></li>
 <li><a href="/topimagenews/20201202/1440414.md">赵立坚假图片嘲讽澳洲军人 澳媒刊「六四坦克人照」反击</a></li>
 <li><a href="/comments/20201202/1440697.md">特稿：美国第五十九届总统大选将成为本世纪历史拐点的界碑</a></li>
 <li><a href="/topimagenews/20201202/1440468.md">击碎邪恶幻想 川普总统表态 还有好消息 深层政府司法失利变招</a></li>
 <li><a href="/cbnews/20201202/1440641.md">天亮时分：巴尔叛变；华盛顿时报整版广告呼吁川普“戒严、军管、重选”；参议员克鲁兹紧急要求最高法院审理大选案（政论天下第292集 20201201）</a></li>
-<li><a href="/cnnews/20201202/1440498.md">司法部长巴尔说没有舞弊证据 川普律师团队：司法部迄今无所作为</a></li>
 <li><a href="/taiwannews/20201202/1440777.md">🔥重磅！川普总统有可能宣布戒严？</a></li>
+<li><a href="/cnnews/20201202/1440498.md">司法部长巴尔说没有舞弊证据 川普律师团队：司法部迄今无所作为</a></li>
 <li><a href="/funmedia/20201202/1440583.md">很多男人都想娶日本女人！知道这些后 你们还真的敢娶吗？</a></li>
 <li><a href="/bannedvideo/20201202/1440757.md">快报:“美国总统大选”司法部正式声明:巴尔没有肯定“选举没有舞弊”,川普再提终止第230法案.</a></li>
 <li><a href="/ssgc/20201202/1440502.md">〖兲朝浮世绘〗没想到美国司法部长巴尔也是沼泽地的大鳄鱼</a></li>
-<li><a href="/headline/20201202/1440374.md">中澳打大？澳大利亚媒体刊89六四挡坦克车队照 告知这是真图</a></li>
 <li><a href="/topimagenews/20201202/1440808.md">“宣布戒严 发起大规模逮捕" 将军呼吁川普援引反叛乱法【阿波罗网编译】</a></li>
+<li><a href="/headline/20201202/1440374.md">中澳打大？澳大利亚媒体刊89六四挡坦克车队照 告知这是真图</a></li>
+<li><a href="/cbnews/20201202/1440837.md">习近平难握枪杆子 许家军就是习家军？</a></li>
 <li><a href="/bannedvideo/20201202/1440597.md">习近平想要一场战争解困？中共政治局会议罕见提出备战打仗--天钧政经</a></li>
-<li><a href="/cnnews/20201202/1440460.md">华春莹称制裁4名美国民间人士 网友笑翻了</a></li>
 <li><a href="/bannedvideo/20201202/1440515.md">拜登即将做出艰难的选择，退选自保求宽赦。亨特的旅行记录？硬盘门进入更深入的调查。马先 12月2专题1</a></li>
+<li><a href="/cnnews/20201202/1440460.md">华春莹称制裁4名美国民间人士 网友笑翻了</a></li>
 <li><a href="/cbnews/20201202/1440469.md">正义就要来了特别注意总统令 伍德发警告乔州州长入狱 中国印美选票台媒揭秘细节</a></li>
 <li><a href="/bannedvideo/20201202/1440768.md">财经冷眼：4亿房奴98%选错！29万亿楼市收割机启动，银行成最大赢家！还有最后28天补救！（20201202第395期）</a></li>
-<li><a href="/cbnews/20201202/1440837.md">习近平难握枪杆子 许家军就是习家军？</a></li>
+<li><a href="/lifebaike/20201202/1440477.md">英灵媒惊世预言：2021年一男性世界领袖被暗杀</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201202/1440910.md" target="_blank">曾被访民举报涉贪腐 黑龙江省长王文涛进京任职</a></li>
+<li><a href="/comments/20201202/1440909.md" target="_blank">美媒揭Smartmatic雇员政治倾向：86%捐款给民主党</a></li>
+<li><a href="/comments/20201202/1440908.md" target="_blank">中共国安法香港再发力 三民主青年判罪入狱</a></li>
 <li><a href="/comments/20201202/1440884.md" target="_blank">田云：数十证人现身密歇根听证会 揭选举舞弊</a></li>
 <li><a href="/comments/20201202/1440880.md" target="_blank">郑中原：习近平高喊备战 却让两个医生在沿海当一哥</a></li>
 <li><a href="/comments/20201202/1440848.md" target="_blank">【首发】川普必将获胜！他的苦心其实很多人不懂？</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201202/1440750.md" target="_blank">北京小汤山强拆黑衣人进驻半月 居民求助无门</a></li>
 <li><a href="/comments/20201202/1440748.md" target="_blank">清算异见人士 港警拘捕浸大学生会长 </a></li>
 <li><a href="/comments/20201202/1440741.md" target="_blank">美国会报告吁强化美台关键经济合作 立法升格AIT处长位阶</a></li>
-<li><a href="/comments/20201202/1440723.md" target="_blank">巴尔称未见大选严重舞弊 网民称其沼泽大鳄鱼</a></li>
-<li><a href="/comments/20201202/1440722.md" target="_blank">【专访】亚利桑那集会演讲者：走出来 扞卫我们的宪法</a></li>
-<li><a href="/comments/20201202/1440721.md" target="_blank">绝密档案揭露滔天罪行 甩锅半个世纪也没甩掉</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
