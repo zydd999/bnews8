@@ -7,16 +7,16 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201203/1441124.md">【直播 12/2】突发！川普发布任内最重要演讲！ （中文同声传译）</a></li>
 <li><a href="/cbnews/20201203/1441470.md">32名中国人命丧朝鲜 中共「政治处理」内幕曝光</a></li>
-<li><a href="/comments/20201203/1441496.md">被爆和胡锡进有私生子的张楠伊 近况及照片曝光</a></li>
 <li><a href="/cbnews/20201203/1441110.md">中共最强淫僧高官倒台后一年多 接替者曝光</a></li>
+<li><a href="/comments/20201203/1441496.md">被爆和胡锡进有私生子的张楠伊 近况及照片曝光</a></li>
 <li><a href="/topimagenews/20201203/1441323.md">以色列摩萨德如何杀死伊朗核武专家？成功后刺客完美脱身</a></li>
 <li><a href="/bannedvideo/20201203/1441183.md">川普总统：这可能是我史上最重要的讲话（请广传 让更多人知道真相）</a></li>
 <li><a href="/bannedvideo/20201203/1441435.md">网友：11月30日凌晨三点多，北京中共国家信访局外已排满了访民。每逢节点，都是北京接待全国各地访民的高峰期</a></li>
 <li><a href="/sports/20201203/1441473.md">突发：前中国足协副主席被警方带走</a></li>
 <li><a href="/cbnews/20201203/1441376.md">中南海押宝拜登 “搞定美国”计划曝光</a></li>
 <li><a href="/cbnews/20201203/1441478.md">习近平加紧部署人马 调旧部进京</a></li>
-<li><a href="/comments/20201203/1440900.md">又出“叛徒”？共和党在密州组织大选欺诈听证会，而本党监委会主席竟阻止川普律师作证？右媒刊发宣战檄文要求总统“动手”</a></li>
 <li><a href="/bannedvideo/20201203/1441281.md">印度神童阿南德最新预言 预见美国大选阴谋 现在疫情开始反弹直至2021年第一季 几招帮你走出当下困境。</a></li>
+<li><a href="/comments/20201203/1440900.md">又出“叛徒”？共和党在密州组织大选欺诈听证会，而本党监委会主席竟阻止川普律师作证？右媒刊发宣战檄文要求总统“动手”</a></li>
 <li><a href="/taiwannews/20201203/1441443.md">川普今日发表最重要演讲，接下来会发生什么？</a></li>
 <li><a href="/cbnews/20201203/1441252.md">文昭：川普发表「最重要讲话」，见证历史、他接下来要做什麽？巴尔的倒戈、人民是最终的力量</a></li>
 <li><a href="/bannedvideo/20201203/1441181.md">司法部长巴尔全然否认大选舞弊，犯罪现场诱捕成功，川普政府将彻查叛国同谋、帮凶，戊子月惊心动魄的一周开始了。马先</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/bannedvideo/20201203/1441127.md">马云事件余波未平，马化腾真的害怕了，称大洗牌开启—天钧政经</a></li>
 <li><a href="/cnnews/20201203/1441329.md">雷霆手段！弗林将军转发一重磅请愿书 并意味深长的说… 【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201203/1441121.md">北京房价普降 二手房降百万 新房最高优惠182万</a></li>
-<li><a href="/topimagenews/20201203/1441487.md">生死存亡时刻 他他她不约而同？</a></li>
 <li><a href="/topimagenews/20201203/1441549.md">CNN老底被掀 看看谁是老领导 CNN总裁：不报拜登硬盘门 此州眼看要翻盘</a></li>
+<li><a href="/topimagenews/20201203/1441487.md">生死存亡时刻 他他她不约而同？</a></li>
 <li><a href="/ssgc/20201203/1441146.md">〖兲朝浮世绘〗把作弊当民主，怎一个贱字了得</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201204/1441698.md" target="_blank">截至2020年10月底 中国453家房企破产</a></li>
+<li><a href="/comments/20201204/1441697.md" target="_blank">Dominion合同工举报：底特律3万多选票被多次统计</a></li>
+<li><a href="/comments/20201204/1441694.md" target="_blank">2020年美国新车，销量最好的前十款</a></li>
 <li><a href="/comments/20201204/1441683.md" target="_blank">扬言对挺川者秋后算账 《野兽》露出真面目</a></li>
 <li><a href="/comments/20201204/1441675.md" target="_blank">众议员拟在联席会挑战选举人团认证拜登当选 川普致谢</a></li>
 <li><a href="/comments/20201204/1441666.md" target="_blank">埋藏绝世宝剑的千年古墓,项羽、唐伯虎等人都未能挖掘成功</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201203/1441481.md" target="_blank">拍案惊奇：中共爆华尔街叛国 周庭生日遭判监</a></li>
 <li><a href="/comments/20201203/1441472.md" target="_blank">支持川普的美国人民现在就是秋菊</a></li>
 <li><a href="/comments/20201203/1441423.md" target="_blank">剑指中共 澳洲国会授权联邦可否决与外国政府的任何协议</a></li>
-<li><a href="/comments/20201203/1441416.md" target="_blank">美国左媒对选举舞弊集体噤声 学者：将失去公信力</a></li>
-<li><a href="/comments/20201203/1441398.md" target="_blank">隐形的叛变与公然的销毁，困境中的美国…</a></li>
-<li><a href="/comments/20201203/1441382.md" target="_blank">麦金纳尼将军“特种部队大战CIA·法兰克福之战阵亡5人”陈述遭陆军发言人质疑，CNN反告川普团队“公然窃听媒体”…</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 
 </ul>
 </div>
