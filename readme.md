@@ -9,7 +9,6 @@
 <li><a href="/taiwannews/20201202/1440777.md">🔥重磅！川普总统有可能宣布戒严？</a></li>
 <li><a href="/comments/20201203/1441124.md">【直播 12/2】突发！川普发布任内最重要演讲！ （中文同声传译）</a></li>
 <li><a href="/topimagenews/20201202/1440808.md">“宣布戒严 发起大规模逮捕" 将军呼吁川普援引反叛乱法【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20201202/1440757.md">快报:“美国总统大选”司法部正式声明:巴尔没有肯定“选举没有舞弊”,川普再提终止第230法案.</a></li>
 <li><a href="/comments/20201202/1440823.md">网曝胡锡进遭副手实名举报与女员工通奸 有两私生子</a></li>
 <li><a href="/topimagenews/20201203/1441064.md">逼川普下台 会议内容惨遭曝光 跌破眼镜！大批1岁大美军全投拜登</a></li>
 <li><a href="/headline/20201202/1440894.md">曾吼要割方方舌头的女孩陷入蛋壳公寓危机无处栖身上网求助之后</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/comments/20201202/1440830.md">习近平不断要求开战_在他的领导下是否还有人权可言</a></li>
 <li><a href="/cbnews/20201203/1441110.md">中共最强淫僧高官倒台后一年多 接替者曝光</a></li>
 <li><a href="/bannedvideo/20201202/1440897.md">CNN逼川普下台录音被曝光,总裁暴怒!林伍德呼吁启动反叛乱法.</a></li>
-<li><a href="/cnnews/20201202/1440849.md">习近平月内3次喊“打仗” 四面出击再失策</a></li>
 <li><a href="/cnnews/20201203/1441037.md">惊人视频曝光 就这样把川普做掉？亚利桑那州裁定可查选票抽样</a></li>
+<li><a href="/cnnews/20201202/1440849.md">习近平月内3次喊“打仗” 四面出击再失策</a></li>
 <li><a href="/cbnews/20201202/1440762.md">深喉浮出水面了？国土安全部也参与了？司法部反水了吗？川普明暗两线作战是什么？朱利安尼被共和党人拒之门外【希望之声TV】</a></li>
 <li><a href="/comments/20201202/1440834.md">福建派系势力交错 港媒揭中共政治高地内情</a></li>
 <li><a href="/headline/20201202/1440905.md">高层省部际人事传新动向 习近平一旧部属进京</a></li>
 <li><a href="/cnnews/20201202/1440949.md">巴尔坐实深层政府？司法部所谓澄清情况很微妙 巴尔到底是谁的人？</a></li>
+<li><a href="/cbnews/20201203/1441015.md">江峰：司法部长巴尔，叛节者还是墙头草，今天见川普定夺！戒严令下重开大选还是内战，茶党领袖发出强音【大选评说】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201203/1441373.md" target="_blank">川普是克星？中共自曝搞不定川普！叛国者们完了？林伍德呼吁非暴力公民抗命！ CNN打自己的脸？早年投票机造假报导被挖出</a></li>
 <li><a href="/cbnews/20201203/1441366.md" target="_blank">泼墨女孩董瑶琼失联 界立建揭黑幕吁外界关注</a></li>
 <li><a href="/cbnews/20201203/1441325.md" target="_blank">公然毁灭证据！州务卿让各县删除投票机数据 大选剧情再掀高潮</a></li>
 <li><a href="/cbnews/20201203/1441324.md" target="_blank">中共控制的瑞银证券与Dominion关系曝光</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201203/1441078.md" target="_blank">胡锡进被副手举报 与两名女员工有私生子</a></li>
 <li><a href="/cbnews/20201203/1441045.md" target="_blank">陈破空特约评论：中国主导亚太自贸协定？边签约边违约。中共与澳大利亚激烈冲突</a></li>
 <li><a href="/cbnews/20201203/1441024.md" target="_blank">美司法部声明：巴尔没有肯定选举没有舞弊</a></li>
-<li><a href="/cbnews/20201203/1441015.md" target="_blank">江峰：司法部长巴尔，叛节者还是墙头草，今天见川普定夺！戒严令下重开大选还是内战，茶党领袖发出强音【大选评说】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201203/1441367.md" target="_blank">【要闻精粹】作践民主的奴才和大鳄 又一次重演溃败悲剧</a></li>
 <li><a href="/comments/20201203/1441328.md" target="_blank">死局 蛋壳房比黑中介更厉害</a></li>
 <li><a href="/comments/20201203/1441327.md" target="_blank">陶杰：“从政”不是玩泥沙</a></li>
 <li><a href="/comments/20201203/1441320.md" target="_blank">美国会通过移除违规中概股法案 递交川普签署</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201203/1441213.md" target="_blank">黄之锋等3人遭判刑 美台政要同声谴责</a></li>
 <li><a href="/comments/20201203/1440900.md" target="_blank">又出“叛徒”？共和党在密州组织大选欺诈听证会，而本党监委会主席竟阻止川普律师作证？右媒刊发宣战檄文要求总统“动手”</a></li>
 <li><a href="/comments/20201203/1441193.md" target="_blank">颜纯鈎：宁化飞灰 不作浮尘 顶住苦难 等待黎明</a></li>
-<li><a href="/comments/20201203/1441192.md" target="_blank">美特种兵与CIA在德国为服务器血战 预示了什么？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
