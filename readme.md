@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201203/1441496.md">被爆和胡锡进有私生子的张楠伊 近况及照片曝光</a></li>
-<li><a href="/cbnews/20201203/1441478.md">习近平加紧部署人马 调旧部进京</a></li>
 <li><a href="/topimagenews/20201204/1441733.md">巴尔要走人了？川普冲着中共来 好消息 乔州又现6.5万非法选票 足以翻盘</a></li>
 <li><a href="/bannedvideo/20201203/1441521.md">中共要求从12月1号起，搭机去中国的外籍旅客，都要有它们审发的健康码才能够登机，媒体揭露健康码连上公安系统，资料都被上传，专家认为，中共打算以控制疫情之名，大行加严监控之实。</a></li>
 <li><a href="/topimagenews/20201204/1441655.md">一锤定音 他势不可挡 拜登发言人亮共产党身份？ 挖根源头在这里</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/bannedvideo/20201204/1441816.md">奥黑马为了当太上皇，已经不要碧莲了，深蓝州要小心，民主党要搞大事情！</a></li>
 <li><a href="/bannedvideo/20201204/1441893.md">赵立坚傻了！川普真叫川建国！林伍德鲍威尔川普演讲接龙，全面发布美国人行动号令</a></li>
 <li><a href="/bannedvideo/20201204/1441690.md">惊爆核弹级证据：监控录像清析纪录佐治亚一计票点几个人的作弊现场！抓现形了，你还怎么抵赖？川普说，击败选举欺诈，将是他对美国最大的贡献！</a></li>
-<li><a href="/ssgc/20201204/1441730.md">〖兲朝浮世绘〗中共为何搞不定川普 因为川普有信仰不会被收买</a></li>
 <li><a href="/topimagenews/20201204/1441776.md">美情报首长：中共是二战后全球民主自由最大威胁 测试发展具有生物增强能力的士兵</a></li>
+<li><a href="/ssgc/20201204/1441730.md">〖兲朝浮世绘〗中共为何搞不定川普 因为川普有信仰不会被收买</a></li>
 <li><a href="/bannedvideo/20201204/1441671.md">乔治亚的听证会呈现重磅证据，投票日的监视录像：有个开票所 媒体和共和党监票员，在晚上十点 被骗离开，结果有四个人留下来 偷偷继续开票</a></li>
 <li><a href="/bannedvideo/20201204/1441749.md">揭胡锡进的老底，《环球时报》内斗，习近平要整肃宣传系统--天钧政经</a></li>
+<li><a href="/cbnews/20201204/1441827.md">深圳、内蒙疫情连爆 当地再现封门封村</a></li>
 <li><a href="/funmedia/20201204/1441805.md">在外打工多年的男人半夜回到家门口 却听到妻子…</a></li>
 <li><a href="/bannedvideo/20201204/1441691.md">《石涛聚焦》「美国选举政变 最高法院无奈！可判川普获胜 无法解决美国整体系统性腐败-欺诈！」菲林中将：川普总统有明确的胜利之路 麦金纳吉中将：内战以来最危险的局势「林肯之道 唯一选择」（03/12）</a></li>
-<li><a href="/cbnews/20201204/1441827.md">深圳、内蒙疫情连爆 当地再现封门封村</a></li>
+<li><a href="/cbnews/20201204/1441868.md">川普发表“最重要讲话”，美国两党之争已经到了刺刀见红的阶段</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201204/1442051.md" target="_blank">兄弟姐妹四人被迫害 大地震幸存者刘桂锦含冤离世</a></li>
 <li><a href="/cbnews/20201204/1442043.md" target="_blank">打麻将曝光200亿家产 海南高院女院长获刑18年</a></li>
 <li><a href="/cbnews/20201204/1442037.md" target="_blank">美情报总监：中共无道德底线 发展生物士兵</a></li>
 <li><a href="/cbnews/20201204/1441982.md" target="_blank">在百度登假广告 银川黑医院手术中勒索敛财超亿</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20201204/1441802.md" target="_blank">美国防部增列中芯中海油等4家中企 认定受解放军控制</a></li>
 <li><a href="/cbnews/20201204/1441792.md" target="_blank">宣誓证人无惧后果 正邪交战令人动容 ；消息人士称，美国各州计划下周起诉Facebook；亚利桑那调查百张选票中 欺诈率是3%【希望之声TV】</a></li>
 <li><a href="/cbnews/20201204/1441752.md" target="_blank">刘鹤2018年在白宫附近与华尔街巨企高层会面</a></li>
-<li><a href="/cbnews/20201204/1441748.md" target="_blank">〖博谈编译〗投票观察者被赶走后 从桌下推出了装满选票的手提箱</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201204/1442050.md" target="_blank">“电影大片”证词 林伍德发抗命纲领 众议员将挑战拜登当选 川普点赞</a></li>
 <li><a href="/topimagenews/20201204/1442014.md" target="_blank">这些家伙被川普死死盯上了！他为此事连发数次推文 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201204/1441990.md" target="_blank">乔治亚州堪称舞弊大全 演员列出一则数字 网友惊呼：拜登十倍【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201204/1441871.md" target="_blank">中国收贿酿疫情！美联社揭机密文件「曾一段时间无确诊」</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20201202/1440414.md" target="_blank">赵立坚假图片嘲讽澳洲军人 澳媒刊「六四坦克人照」反击</a></li>
 <li><a href="/topimagenews/20201201/1440268.md" target="_blank">现原形！密歇根共和党主席竟不让朱利安尼在听证会上作证 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201201/1440232.md" target="_blank">习近平最后一场 灾难来临？涉委内瑞拉 川普制裁中共央企 赵立坚发假照澳总理斥可耻</a></li>
-<li><a href="/topimagenews/20201201/1439781.md" target="_blank">迄今最爆炸性内幕 川普连任没跑了 痛批深层政府 呼唤勇者</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
 
 </ul>
 </div>
