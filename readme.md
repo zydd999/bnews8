@@ -18,15 +18,15 @@
 <li><a href="/bannedvideo/20201203/1441521.md">中共要求从12月1号起，搭机去中国的外籍旅客，都要有它们审发的健康码才能够登机，媒体揭露健康码连上公安系统，资料都被上传，专家认为，中共打算以控制疫情之名，大行加严监控之实。</a></li>
 <li><a href="/worldnews/20201203/1441471.md">一张“照片”引发中澳冲突升级 美国表态了</a></li>
 <li><a href="/cnnews/20201203/1441329.md">雷霆手段！弗林将军转发一重磅请愿书 并意味深长的说… 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201203/1441549.md">CNN老底被掀 看看谁是老领导 CNN总裁：不报拜登硬盘门 此州眼看要翻盘</a></li>
 <li><a href="/topimagenews/20201204/1441655.md">一锤定音 他势不可挡 拜登发言人亮共产党身份？ 挖根源头在这里</a></li>
+<li><a href="/topimagenews/20201203/1441549.md">CNN老底被掀 看看谁是老领导 CNN总裁：不报拜登硬盘门 此州眼看要翻盘</a></li>
 <li><a href="/cnnews/20201203/1441475.md">金正恩注射中国疫苗？中共前党魁家属疑说实情</a></li>
 <li><a href="/topimagenews/20201203/1441487.md">生死存亡时刻 他他她不约而同？</a></li>
 <li><a href="/comments/20201203/1441382.md">麦金纳尼将军“特种部队大战CIA·法兰克福之战阵亡5人”陈述遭陆军发言人质疑，CNN反告川普团队“公然窃听媒体”…</a></li>
+<li><a href="/topimagenews/20201203/1441592.md">首曝内幕 林伍德喊话习近平 选票欺诈叛国 巴尔有份？插个USB 拜登飙升5万票</a></li>
 <li><a href="/headline/20201203/1441385.md">美国司法部：上千名隐瞒军人身份的中国学者已离境</a></li>
 <li><a href="/yule/20201203/1441345.md">女艺人头等舱遇公司高管 被骗婚生子遭施暴 事情曝光后收到死亡威胁</a></li>
-<li><a href="/topimagenews/20201203/1441592.md">首曝内幕 林伍德喊话习近平 选票欺诈叛国 巴尔有份？插个USB 拜登飙升5万票</a></li>
-<li><a href="/cbnews/20201203/1441218.md">川普最重要声明：捍卫宪法   人民吹响反击号角 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/02)</a></li>
+<li><a href="/headline/20201204/1441654.md">借去丹麦开会之机 香港民主党前立法会议员许智峯宣布流亡海外</a></li>
 <li><a href="/cnnews/20201203/1441439.md">大量谈话细节曝光！麦金纳尼将军力促川普动手！ 【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201204/1441829.md" target="_blank">更多证据爆光  司法部哪去了？ 嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/03)</a></li>
 <li><a href="/cbnews/20201204/1441806.md" target="_blank">不惜重现911，CNN密谋逼川普下台！川普发表最重要演讲，美利坚战云密布！拜登提线木偶，提线另有黑手！“我爱中国”成洋网红财富密码！</a></li>
 <li><a href="/cbnews/20201204/1441802.md" target="_blank">美国防部增列中芯中海油等4家中企 认定受解放军控制</a></li>
 <li><a href="/cbnews/20201204/1441792.md" target="_blank">宣誓证人无惧后果 正邪交战令人动容 ；消息人士称，美国各州计划下周起诉Facebook；亚利桑那调查百张选票中 欺诈率是3%【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201203/1441437.md" target="_blank">行政令让川普应对中共干预大选有依据</a></li>
 <li><a href="/cbnews/20201203/1441478.md" target="_blank">习近平加紧部署人马 调旧部进京</a></li>
 <li><a href="/cbnews/20201203/1441470.md" target="_blank">32名中国人命丧朝鲜 中共「政治处理」内幕曝光</a></li>
-<li><a href="/cbnews/20201203/1441422.md" target="_blank">美国海军成立第一舰队 维护西太平洋和东印度洋区域</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201204/1441819.md" target="_blank">美疾控中心主任呼吁勿因疫情关学校 拜登唱反调</a></li>
+<li><a href="/comments/20201204/1441818.md" target="_blank">前CIA官员：今年的大选舞弊可能是大阴谋的一部分</a></li>
 <li><a href="/comments/20201204/1441796.md" target="_blank">蒙到!「少女时代」太妍生日帮粉丝拿下高考4分题</a></li>
 <li><a href="/comments/20201204/1441773.md" target="_blank">冤枉人致死 死后转生到人家还债 有此印记为证</a></li>
 <li><a href="/comments/20201204/1441772.md" target="_blank">人绝对留不住不义之财 真的有“掠剩使”这个官职</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201204/1441610.md" target="_blank">传美国发新规严限中共党员及其家属赴美旅游</a></li>
 <li><a href="/comments/20201204/1441609.md" target="_blank">【选情更新12/3】川普紧急讲话 誓言扞卫宪法 保护美国选举制度</a></li>
 <li><a href="/comments/20201204/1441608.md" target="_blank">弗林将军呼吁川普发布戒严令 让军方监督重新选举</a></li>
-<li><a href="/comments/20201203/1441597.md" target="_blank">【独家】王维洛最新揭密：三峡工程创造的利润哪去了</a></li>
-<li><a href="/comments/20201203/1441596.md" target="_blank">泰坦尼克号的沉没是应了木乃伊的诅咒?</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
