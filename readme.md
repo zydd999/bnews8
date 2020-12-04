@@ -14,7 +14,6 @@
 <li><a href="/sports/20201203/1441473.md">突发：前中国足协副主席被警方带走</a></li>
 <li><a href="/cbnews/20201203/1441478.md">习近平加紧部署人马 调旧部进京</a></li>
 <li><a href="/taiwannews/20201203/1441443.md">川普今日发表最重要演讲，接下来会发生什么？</a></li>
-<li><a href="/cbnews/20201203/1441252.md">文昭：川普发表「最重要讲话」，见证历史、他接下来要做什麽？巴尔的倒戈、人民是最终的力量</a></li>
 <li><a href="/bannedvideo/20201203/1441521.md">中共要求从12月1号起，搭机去中国的外籍旅客，都要有它们审发的健康码才能够登机，媒体揭露健康码连上公安系统，资料都被上传，专家认为，中共打算以控制疫情之名，大行加严监控之实。</a></li>
 <li><a href="/worldnews/20201203/1441471.md">一张“照片”引发中澳冲突升级 美国表态了</a></li>
 <li><a href="/topimagenews/20201204/1441655.md">一锤定音 他势不可挡 拜登发言人亮共产党身份？ 挖根源头在这里</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/topimagenews/20201203/1441549.md">CNN老底被掀 看看谁是老领导 CNN总裁：不报拜登硬盘门 此州眼看要翻盘</a></li>
 <li><a href="/cnnews/20201203/1441475.md">金正恩注射中国疫苗？中共前党魁家属疑说实情</a></li>
 <li><a href="/topimagenews/20201203/1441487.md">生死存亡时刻 他他她不约而同？</a></li>
-<li><a href="/comments/20201203/1441382.md">麦金纳尼将军“特种部队大战CIA·法兰克福之战阵亡5人”陈述遭陆军发言人质疑，CNN反告川普团队“公然窃听媒体”…</a></li>
-<li><a href="/headline/20201203/1441385.md">美国司法部：上千名隐瞒军人身份的中国学者已离境</a></li>
 <li><a href="/topimagenews/20201203/1441592.md">首曝内幕 林伍德喊话习近平 选票欺诈叛国 巴尔有份？插个USB 拜登飙升5万票</a></li>
+<li><a href="/comments/20201203/1441382.md">麦金纳尼将军“特种部队大战CIA·法兰克福之战阵亡5人”陈述遭陆军发言人质疑，CNN反告川普团队“公然窃听媒体”…</a></li>
 <li><a href="/headline/20201204/1441654.md">借去丹麦开会之机 香港民主党前立法会议员许智峯宣布流亡海外</a></li>
+<li><a href="/headline/20201203/1441385.md">美国司法部：上千名隐瞒军人身份的中国学者已离境</a></li>
 <li><a href="/yule/20201203/1441345.md">女艺人头等舱遇公司高管 被骗婚生子遭施暴 事情曝光后收到死亡威胁</a></li>
+<li><a href="/topimagenews/20201204/1441733.md">巴尔要走人了？川普冲着中共来 好消息 乔州又现6.5万非法选票 足以翻盘</a></li>
 <li><a href="/cnnews/20201203/1441439.md">大量谈话细节曝光！麦金纳尼将军力促川普动手！ 【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201204/1441861.md" target="_blank">监控录像显示 乔治亚唱票站在关门后秘密计票</a></li>
+<li><a href="/comments/20201204/1441860.md" target="_blank">CNN内部电话解密三：对拜登父子性丑闻“视而不见”</a></li>
+<li><a href="/comments/20201204/1441859.md" target="_blank">日本谴责港府对周庭等人判刑：考虑与G7成员国联合应对</a></li>
+<li><a href="/comments/20201204/1441855.md" target="_blank">何蔚：世界“大选”</a></li>
 <li><a href="/comments/20201204/1441819.md" target="_blank">美疾控中心主任呼吁勿因疫情关学校 拜登唱反调</a></li>
 <li><a href="/comments/20201204/1441818.md" target="_blank">前CIA官员：今年的大选舞弊可能是大阴谋的一部分</a></li>
 <li><a href="/comments/20201204/1441796.md" target="_blank">蒙到!「少女时代」太妍生日帮粉丝拿下高考4分题</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201204/1441675.md" target="_blank">众议员拟在联席会挑战选举人团认证拜登当选 川普致谢</a></li>
 <li><a href="/comments/20201204/1441666.md" target="_blank">埋藏绝世宝剑的千年古墓,项羽、唐伯虎等人都未能挖掘成功</a></li>
 <li><a href="/comments/20201204/1441635.md" target="_blank">美籍大陆女星白灵赞「可爱国家」台湾防疫成效</a></li>
-<li><a href="/comments/20201204/1441628.md" target="_blank">乔州紧急上诉获法院批准 鲍威尔：人人应扞卫美国</a></li>
-<li><a href="/comments/20201204/1441610.md" target="_blank">传美国发新规严限中共党员及其家属赴美旅游</a></li>
-<li><a href="/comments/20201204/1441609.md" target="_blank">【选情更新12/3】川普紧急讲话 誓言扞卫宪法 保护美国选举制度</a></li>
-<li><a href="/comments/20201204/1441608.md" target="_blank">弗林将军呼吁川普发布戒严令 让军方监督重新选举</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 
 </ul>
 </div>
