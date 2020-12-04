@@ -18,13 +18,13 @@
 <li><a href="/topimagenews/20201204/1441871.md">中国收贿酿疫情！美联社揭机密文件「曾一段时间无确诊」</a></li>
 <li><a href="/headline/20201204/1441654.md">借去丹麦开会之机 香港民主党前立法会议员许智峯宣布流亡海外</a></li>
 <li><a href="/topimagenews/20201203/1441592.md">首曝内幕 林伍德喊话习近平 选票欺诈叛国 巴尔有份？插个USB 拜登飙升5万票</a></li>
-<li><a href="/cnnews/20201203/1441475.md">金正恩注射中国疫苗？中共前党魁家属疑说实情</a></li>
-<li><a href="/topimagenews/20201203/1441487.md">生死存亡时刻 他他她不约而同？</a></li>
-<li><a href="/worldnews/usa/20201204/1441649.md">朱利安·阿桑奇的女友呼吁川普“在最后的日子里”赦免他…在她听说川普甚至“赦免了火鸡”之后；顺道放出个“爆炸性视频”</a></li>
-<li><a href="/bannedvideo/20201204/1441816.md">奥黑马为了当太上皇，已经不要碧莲了，深蓝州要小心，民主党要搞大事情！</a></li>
 <li><a href="/cbnews/20201204/1441954.md">为中共高官叛逃留口子？美限制党员入境藏玄机</a></li>
-<li><a href="/bannedvideo/20201204/1441690.md">惊爆核弹级证据：监控录像清析纪录佐治亚一计票点几个人的作弊现场！抓现形了，你还怎么抵赖？川普说，击败选举欺诈，将是他对美国最大的贡献！</a></li>
+<li><a href="/cnnews/20201203/1441475.md">金正恩注射中国疫苗？中共前党魁家属疑说实情</a></li>
+<li><a href="/worldnews/usa/20201204/1441649.md">朱利安·阿桑奇的女友呼吁川普“在最后的日子里”赦免他…在她听说川普甚至“赦免了火鸡”之后；顺道放出个“爆炸性视频”</a></li>
+<li><a href="/topimagenews/20201203/1441487.md">生死存亡时刻 他他她不约而同？</a></li>
+<li><a href="/bannedvideo/20201204/1441816.md">奥黑马为了当太上皇，已经不要碧莲了，深蓝州要小心，民主党要搞大事情！</a></li>
 <li><a href="/bannedvideo/20201204/1441893.md">赵立坚傻了！川普真叫川建国！林伍德鲍威尔川普演讲接龙，全面发布美国人行动号令</a></li>
+<li><a href="/bannedvideo/20201204/1441690.md">惊爆核弹级证据：监控录像清析纪录佐治亚一计票点几个人的作弊现场！抓现形了，你还怎么抵赖？川普说，击败选举欺诈，将是他对美国最大的贡献！</a></li>
 <li><a href="/ssgc/20201204/1441730.md">〖兲朝浮世绘〗中共为何搞不定川普 因为川普有信仰不会被收买</a></li>
 <li><a href="/topimagenews/20201204/1441776.md">美情报首长：中共是二战后全球民主自由最大威胁 测试发展具有生物增强能力的士兵</a></li>
 <li><a href="/bannedvideo/20201204/1441671.md">乔治亚的听证会呈现重磅证据，投票日的监视录像：有个开票所 媒体和共和党监票员，在晚上十点 被骗离开，结果有四个人留下来 偷偷继续开票</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201204/1442037.md" target="_blank">美情报总监：中共无道德底线 发展生物士兵</a></li>
 <li><a href="/cbnews/20201204/1441982.md" target="_blank">在百度登假广告 银川黑医院手术中勒索敛财超亿</a></li>
 <li><a href="/cbnews/20201204/1441966.md" target="_blank">中共战狼惹众怒 批赵立坚加拿大外长也谴责</a></li>
 <li><a href="/cbnews/20201204/1441965.md" target="_blank">国保大队长任绵辉：不要跟我们讲人权 我们就是人权</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201204/1441752.md" target="_blank">刘鹤2018年在白宫附近与华尔街巨企高层会面</a></li>
 <li><a href="/cbnews/20201204/1441748.md" target="_blank">〖博谈编译〗投票观察者被赶走后 从桌下推出了装满选票的手提箱</a></li>
 <li><a href="/cbnews/20201204/1441713.md" target="_blank">大选更新12·3：川普律师：议员恐吓证人</a></li>
-<li><a href="/cbnews/20201204/1441702.md" target="_blank">美国左派推“中国不是我们的敌人”背后</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201204/1442031.md" target="_blank">限制中共党员签证却仍留余地 美方有何考量？</a></li>
+<li><a href="/comments/20201204/1442030.md" target="_blank">爱模仿的调皮老爸，搞笑「复制」女儿网美照：到底谁更美？</a></li>
 <li><a href="/comments/20201204/1442024.md" target="_blank">女研究员怒曝遭“习近平国师”性骚扰内幕</a></li>
 <li><a href="/comments/20201204/1442023.md" target="_blank">香港知名民运人士连遭重判收押 王丹：北京测试美国底线</a></li>
 <li><a href="/comments/20201204/1442022.md" target="_blank">午后惊爆？天空白光伴巨响 纽约、加拿大躲过一劫?</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201204/1441855.md" target="_blank">何蔚：世界“大选”</a></li>
 <li><a href="/comments/20201204/1441819.md" target="_blank">美疾控中心主任呼吁勿因疫情关学校 拜登唱反调</a></li>
 <li><a href="/comments/20201204/1441818.md" target="_blank">前CIA官员：今年的大选舞弊可能是大阴谋的一部分</a></li>
-<li><a href="/comments/20201204/1441796.md" target="_blank">蒙到!「少女时代」太妍生日帮粉丝拿下高考4分题</a></li>
-<li><a href="/comments/20201204/1441773.md" target="_blank">冤枉人致死 死后转生到人家还债 有此印记为证</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
