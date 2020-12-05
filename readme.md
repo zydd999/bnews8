@@ -14,7 +14,6 @@
 <li><a href="/comments/20201204/1442044.md">全家接连确诊「胰脏癌」！只因「爱吃它」...</a></li>
 <li><a href="/cbnews/20201204/1442043.md">打麻将曝光200亿家产 海南高院女院长获刑18年</a></li>
 <li><a href="/topimagenews/20201205/1442285.md">川普演讲 7常委罕见行动 听证会后形势大变 阿波罗网今天一口气4个视频被黄标</a></li>
-<li><a href="/topimagenews/20201204/1442014.md">这些家伙被川普死死盯上了！他为此事连发数次推文 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201205/1442307.md">预言自己？拜登采访吐真言；川普拒绝接受国防法案 要求结束第230条！； YouTube新规将对对“令人反感”的评论用户发出警告【希望之声TV】</a></li>
 <li><a href="/cnnews/20201205/1442206.md">6栋上海别墅90年代276万一次付清 大老板20年后回原址傻眼了</a></li>
 <li><a href="/topimagenews/20201204/1442050.md">“电影大片”证词 林伍德发抗命纲领 众议员将挑战拜登当选 川普点赞</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/hknews/20201204/1442102.md">英国正以每分钟超过5本速度向港人发放BNO护照</a></li>
 <li><a href="/lifebaike/20201204/1442085.md">知名华人女富商遇害 牵出中国大陆神秘资金</a></li>
 <li><a href="/cbnews/20201205/1442303.md">川普定性大选违宪 为重磅行动做铺垫</a></li>
+<li><a href="/bannedvideo/20201205/1442292.md">猫神抗议川普绝食24小时，乔治亚州听证会原始视频流传，州长、州务卿互相甩锅，民主党崩溃在即</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201205/1442595.md" target="_blank">赵立坚推文被指精心策划 转推者大多是假帐号</a></li>
+<li><a href="/comments/20201205/1442594.md" target="_blank">内蒙古官场持续震荡 5名厅官同一天被查</a></li>
 <li><a href="/comments/20201205/1442572.md" target="_blank">北约：中共潜在威胁北约 需与印太国家结盟应对</a></li>
 <li><a href="/comments/20201205/1442571.md" target="_blank">从一个美国生长小女孩身上所感悟到的教育差异和生存的重要</a></li>
 <li><a href="/comments/20201205/1442564.md" target="_blank">“外宣”遭叫停 美国务院终止五个中共文化交流项目</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201205/1442495.md" target="_blank">陶杰：中国没有右翼</a></li>
 <li><a href="/comments/20201205/1442494.md" target="_blank">德媒：为何中国此次敢于对澳洲下重手？</a></li>
 <li><a href="/comments/20201205/1442493.md" target="_blank">李怡∶徒劳无功与干涉有功</a></li>
-<li><a href="/comments/20201205/1442492.md" target="_blank">范畴：民主-大历史下的对号入座</a></li>
-<li><a href="/comments/20201205/1442491.md" target="_blank">即将实现：川普总统赢得2020年大选的路径</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
