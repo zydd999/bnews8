@@ -13,20 +13,20 @@
 <li><a href="/bannedvideo/20201205/1442409.md">美国即将切断中共金融动脉，相当于要了中共的命，总加速师一定会发动战争，制造人道灾难，百姓要远离军事设施，屯粮保命。1205问答3 马先</a></li>
 <li><a href="/cbnews/20201205/1442307.md">预言自己？拜登采访吐真言；川普拒绝接受国防法案 要求结束第230条！； YouTube新规将对对“令人反感”的评论用户发出警告【希望之声TV】</a></li>
 <li><a href="/baitai/20201205/1442413.md">张艺谋还有8个私生子一个孩子给1000万?夫人陈婷沉默</a></li>
-<li><a href="/cbnews/20201204/1442087.md">陈破空：原来如此！习近平宣布此事有阳谋。党媒暗示年轻人要造反！马云遭影射</a></li>
 <li><a href="/topimagenews/20201205/1442291.md">大决战在即 巴尔要下台有信号？</a></li>
+<li><a href="/cnnews/20201205/1442549.md">突发！全文：美国宣布终止中共资助的5项宣传计划【阿波罗网编译】</a></li>
+<li><a href="/worldnews/usa/20201205/1442274.md">川普声称“惩罚”硅谷科技公司！在推特宣布“川普下野后再乱说便封禁其账号”之后…</a></li>
 <li><a href="/cbnews/20201205/1442336.md">天亮时分：乔州录像发威，风向开始变化；拜登称这种情况下会称病辞去总统职务；宾州、密西根和亚利桑那的重大进展；（政论天下第295集 20201204）</a></li>
 <li><a href="/bannedvideo/20201204/1442105.md">比好莱坞电影还悬疑，亨特败灯笔记本电脑维修店老板被灭口的罗生门</a></li>
-<li><a href="/worldnews/usa/20201205/1442274.md">川普声称“惩罚”硅谷科技公司！在推特宣布“川普下野后再乱说便封禁其账号”之后…</a></li>
-<li><a href="/cnnews/20201205/1442549.md">突发！全文：美国宣布终止中共资助的5项宣传计划【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201205/1442225.md">重量级众议员挺川  揭佩洛西谋划；乔州新证据太震撼  州长松口；内华达听证 证据首呈堂；美传教士:左派对抗神旨  川普才是总统；坚定福音派99％ 投川普；秋后算账 《野兽》露出真面目【希望之声TV】</a></li>
-<li><a href="/cnnews/hknews/20201204/1442102.md">英国正以每分钟超过5本速度向港人发放BNO护照</a></li>
 <li><a href="/cbnews/20201205/1442303.md">川普定性大选违宪 为重磅行动做铺垫</a></li>
+<li><a href="/cnnews/hknews/20201204/1442102.md">英国正以每分钟超过5本速度向港人发放BNO护照</a></li>
 <li><a href="/bannedvideo/20201205/1442292.md">猫神抗议川普绝食24小时，乔治亚州听证会原始视频流传，州长、州务卿互相甩锅，民主党崩溃在即</a></li>
+<li><a href="/topimagenews/20201205/1442568.md">拜登硬盘门爆料人没死！现身网络讲述自己的故事【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20201204/1442141.md">404了，全都404了</a></li>
 <li><a href="/bannedvideo/20201205/1442354.md">川普给巴尔最后的表演时间，福克斯卡尔森：习近平轻则过失杀人，重则屠杀罪。国家情报总监：中共干预大选证据令人震惊。12月5  马先</a></li>
 <li><a href="/topimagenews/20201205/1442408.md">拼命想销毁罪证！乔治亚官员们再度施压法官 真急了！【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201205/1442568.md">拜登硬盘门爆料人没死！现身网络讲述自己的故事【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20201205/1442579.md">最高五百万美元奖金！美驻华大使馆公布中文公告 网友：中国人都懂</a></li>
 <li><a href="/baitai/20201205/1442372.md">蔡霞：失败的党——一个体制内人士与北京决裂</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
 <li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 
 </ul>
 </div>
