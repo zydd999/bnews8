@@ -7,9 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201207/1443483.md">十字路口的抉择：惊天动地的大战即将到来</a></li>
 <li><a href="/health/20201207/1443310.md">尿酸的“克星”被找到了！豆腐竟然排第二 排在第一就是我们常吃</a></li>
-<li><a href="/cbnews/20201207/1443274.md">中共火箭乱坠 要老百姓自我防护 还不许拍照</a></li>
-<li><a href="/cnnews/20201207/1443505.md">武器威力惊人！伊朗科学家被斩首 死亡现场震惊全世界独裁者【阿波罗网编译】</a></li>
 <li><a href="/comments/20201207/1443247.md">要动手了？川普开除了9名国防部参谋并认命了“自己人”，着手援引912法令“军事应对外国势力信息战”进行实际部署…</a></li>
+<li><a href="/cnnews/20201207/1443505.md">武器威力惊人！伊朗科学家被斩首 死亡现场震惊全世界独裁者【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201207/1443583.md">网曝东莞惊现“随地倒” 中国疫情当局封锁</a></li>
 <li><a href="/topimagenews/20201207/1443560.md">誓揭真相！弗林将军：我一定是让奥巴马感到胆战心惊！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201207/1443309.md">大陆经营环境恶化 再有日企关闭深圳厂 1500多名员工将被遣散</a></li>
@@ -19,8 +18,8 @@
 <li><a href="/baitai/20201207/1443466.md">国台办副主任＂龚十亿＂:逼睡台湾女明星 疑遭结怨亲家举报</a></li>
 <li><a href="/cbnews/20201207/1443612.md">作弊到头 川普将里程碑式改革选举 左媒疯狂！要杀绝共和党</a></li>
 <li><a href="/lifebaike/20201207/1443567.md">汽车油表灯亮了还能跑多远？老司机：不用慌 记住这个里程</a></li>
-<li><a href="/yule/20201207/1443490.md">49岁李亚鹏见90后女友家长 酒柜疑暴露女方家境</a></li>
 <li><a href="/comments/20201207/1443691.md">重大转变！民意的力量！Alito大法官将响应日期提前到12月8日</a></li>
+<li><a href="/yule/20201207/1443490.md">49岁李亚鹏见90后女友家长 酒柜疑暴露女方家境</a></li>
 <li><a href="/bannedvideo/20201207/1443571.md">推背图里的图片与川普怎么这么像 千年前的作者早已预见?（启明笑谈20200720）</a></li>
 <li><a href="/cbnews/20201207/1443596.md">朱镕基女翻译朱彤任德银中国董事长</a></li>
 <li><a href="/cnnews/20201207/1443506.md">全球反中共挺澳！美国霸气宣布：白宫酒会将提供澳洲葡萄酒</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20201207/1443611.md">列车清洁员捡钻戒后上缴 反而被罚钱 原因想不到</a></li>
 <li><a href="/bannedvideo/20201207/1443533.md">文睿：习近平的冬天到了，一尊不得不面对一种特殊的煎熬，前路步步惊心</a></li>
 <li><a href="/bannedvideo/20201207/1443417.md">国家情报总监拉特克里夫：中共蓄意让病毒传遍全球，扰乱美国大选。情报证实国外势力确实干预大选(12/06)</a></li>
+<li><a href="/cbnews/20201207/1443241.md">选举政变 川普雷霆反击的时刻到了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
