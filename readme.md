@@ -5,12 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20201207/1443483.md">十字路口的抉择：惊天动地的大战即将到来</a></li>
 <li><a href="/cnnews/20201207/1443505.md">武器威力惊人！伊朗科学家被斩首 死亡现场震惊全世界独裁者【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201207/1443583.md">网曝东莞惊现“随地倒” 中国疫情当局封锁</a></li>
 <li><a href="/cbnews/20201208/1443771.md">美国宣布制裁14名中共全国人大常委会副委员长</a></li>
 <li><a href="/topimagenews/20201207/1443560.md">誓揭真相！弗林将军：我一定是让奥巴马感到胆战心惊！【阿波罗网编译】</a></li>
-<li><a href="/yule/20201207/1443490.md">49岁李亚鹏见90后女友家长 酒柜疑暴露女方家境</a></li>
 <li><a href="/lifebaike/20201207/1443567.md">汽车油表灯亮了还能跑多远？老司机：不用慌 记住这个里程</a></li>
 <li><a href="/comments/20201207/1443691.md">重大转变！民意的力量！Alito大法官将响应日期提前到12月8日</a></li>
 <li><a href="/topimagenews/20201208/1443820.md">拜登梦碎 宪法设定任命选举人时限是... 芯片断供重创 大众汽车也停产 不止汽车行业</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/bannedvideo/20201207/1443533.md">文睿：习近平的冬天到了，一尊不得不面对一种特殊的煎熬，前路步步惊心</a></li>
 <li><a href="/cnnews/hknews/20201207/1443581.md">中大校园内游行 8人被国安处拘捕</a></li>
 <li><a href="/ssgc/20201208/1443776.md">〖兲朝浮世绘〗武汉肺炎的锅从美洲飞到欧洲现在终于飞到澳洲了</a></li>
-<li><a href="/bannedvideo/20201207/1443684.md">为什么还不动手?川普的真实经历给我们答案.</a></li>
 <li><a href="/cbnews/20201208/1443739.md">大选更新12.7：国家情报总监：选举舞弊解决后才能宣布赢家</a></li>
+<li><a href="/bannedvideo/20201207/1443684.md">为什么还不动手?川普的真实经历给我们答案.</a></li>
 <li><a href="/cnnews/20201207/1443617.md">炮制捧习曲引轰动 湖南前书记徐守盛病死</a></li>
-<li><a href="/cbnews/20201207/1443677.md">美司法部长巴尔考虑年底前辞职；专家：川普的目标是引出深层政府；朱利安尼染疫 发推说感觉良好；川普团队审查密歇根投票机 48小时后知结果【希望之声TV】</a></li>
-<li><a href="/cnnews/20201207/1443620.md">美国警长有多牛？加州警长霸气回应州长禁足令</a></li>
 <li><a href="/topimagenews/20201208/1443834.md">乔州“行李箱”丑闻第三人正是造水管爆裂谣言者</a></li>
+<li><a href="/cbnews/20201207/1443677.md">美司法部长巴尔考虑年底前辞职；专家：川普的目标是引出深层政府；朱利安尼染疫 发推说感觉良好；川普团队审查密歇根投票机 48小时后知结果【希望之声TV】</a></li>
+<li><a href="/cnnews/20201208/1443857.md">中共官员可以将情妇提拔到这个位置？</a></li>
+<li><a href="/cnnews/20201207/1443620.md">美国警长有多牛？加州警长霸气回应州长禁足令</a></li>
+<li><a href="/cbnews/20201207/1443676.md">陈破空：习近平智囊惊人泄密：买通了拜登家族！搞定了华尔街。在美国高层有人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201208/1444025.md" target="_blank">美国打击中共措施不断 中共内部一团败相 崩溃在即</a></li>
+<li><a href="/comments/20201208/1444017.md" target="_blank">【微博精粹】新戏！联邦特工又突袭缴获8硬盘 3电脑 一口袋闪存</a></li>
+<li><a href="/comments/20201208/1443786.md" target="_blank">连中15枪！以色列摩萨德高级指挥官遇刺身亡！与此同时，川普律师感染病毒入院……</a></li>
 <li><a href="/comments/20201208/1443997.md" target="_blank">川普：等着瞧 未来几天有很多大事发生</a></li>
 <li><a href="/comments/20201208/1443996.md" target="_blank">澳洲拟立《人权法》 禁止侵犯人权者入境</a></li>
 <li><a href="/comments/20201208/1443981.md" target="_blank">史上四大才女个个命运多舛 有一人还没得善终</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201208/1443825.md" target="_blank">中共病毒加剧供应紧张 全球粮价逼近6年来最高点</a></li>
 <li><a href="/comments/20201208/1443824.md" target="_blank">中国猪价反弹 白条肉出厂价37元/公斤 环比涨1.6%</a></li>
 <li><a href="/comments/20201208/1443812.md" target="_blank">美参议员吁调查大选舞弊 “必须让法律程序起作用”</a></li>
-<li><a href="/comments/20201208/1443811.md" target="_blank">【选情更新12/7】川普誓言彻底修复美国选举系统 鲍威尔乔州案将上诉</a></li>
-<li><a href="/comments/20201208/1443810.md" target="_blank">麦金纳尼中将：事先预告民主党作弊手段令其狗急跳墙</a></li>
-<li><a href="/comments/20201208/1443794.md" target="_blank">美专家详述拜登不能抵御中共侵害美国四大原因</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
 
 </ul>
 </div>
