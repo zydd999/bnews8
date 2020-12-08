@@ -9,11 +9,9 @@
 <li><a href="/topimagenews/20201208/1443990.md">大戏即将上演！川普：未来几天你会看到有很多大事发生【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201208/1443820.md">拜登梦碎 宪法设定任命选举人时限是... 芯片断供重创 大众汽车也停产 不止汽车行业</a></li>
 <li><a href="/comments/20201207/1443691.md">重大转变！民意的力量！Alito大法官将响应日期提前到12月8日</a></li>
-<li><a href="/cbnews/20201207/1443612.md">作弊到头 川普将里程碑式改革选举 左媒疯狂！要杀绝共和党</a></li>
 <li><a href="/cbnews/20201208/1444051.md">韩正和栗战书暂躲一劫 14副国级被制裁内幕曝光</a></li>
 <li><a href="/topimagenews/20201208/1444081.md">快讯！川普亲自发视频 翟东生丑态遍全球 拜登和中共东窗事发【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201208/1443857.md">中共官员可以将情妇提拔到这个位置？</a></li>
-<li><a href="/cbnews/20201207/1443611.md">列车清洁员捡钻戒后上缴 反而被罚钱 原因想不到</a></li>
 <li><a href="/cbnews/20201208/1443844.md">14名中共人大副委员长及家属被禁入境美国</a></li>
 <li><a href="/comments/20201208/1443786.md">连中15枪！以色列摩萨德高级指挥官遇刺身亡！与此同时，川普律师感染病毒入院……</a></li>
 <li><a href="/cnnews/20201208/1443858.md">美国连出重拳打击中共 胡锡进发战狼文又闹笑话</a></li>
@@ -23,11 +21,13 @@
 <li><a href="/cbnews/20201208/1443887.md">执法部门启动调查；突发爆料：多米尼使用中国企业的调制解调器；国家情报总监：选举问题解决后才能宣布赢家 ；大法官阿利托下令 宾州须提前回应争议；密歇根州法官拒绝鲍威尔的选举诉讼【希望之声TV】</a></li>
 <li><a href="/cbnews/20201208/1443739.md">大选更新12.7：国家情报总监：选举舞弊解决后才能宣布赢家</a></li>
 <li><a href="/cbnews/20201208/1443923.md">文昭：美国制裁人大常委会全部14个副国级！紧迫的一周，川普几天之内关键战场要出结果</a></li>
+<li><a href="/lifebaike/20201208/1443974.md">这幅图 你若看到的是个女人 视力可能出了问题！自查</a></li>
 <li><a href="/cnnews/20201207/1443617.md">炮制捧习曲引轰动 湖南前书记徐守盛病死</a></li>
 <li><a href="/cbnews/20201207/1443677.md">美司法部长巴尔考虑年底前辞职；专家：川普的目标是引出深层政府；朱利安尼染疫 发推说感觉良好；川普团队审查密歇根投票机 48小时后知结果【希望之声TV】</a></li>
+<li><a href="/cnnews/20201208/1444131.md">快讯！川普总统和彭斯副总统亲自起诉拜登贺锦丽【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201207/1443676.md">陈破空：习近平智囊惊人泄密：买通了拜登家族！搞定了华尔街。在美国高层有人</a></li>
-<li><a href="/lifebaike/20201208/1443974.md">这幅图 你若看到的是个女人 视力可能出了问题！自查</a></li>
 <li><a href="/cnnews/20201207/1443620.md">美国警长有多牛？加州警长霸气回应州长禁足令</a></li>
+<li><a href="/cbnews/20201208/1443944.md">大法官阿利托玩攻心计，宾州诉讼现转机！威胁恐吓，民主党已沦为黑手党！又来了一个猪队友，翟东升火了！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.07)‬</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201208/1444177.md" target="_blank">「拒绝中共」网站签名逾23万 外国人加入反共大潮</a></li>
+<li><a href="/cbnews/20201208/1444185.md" target="_blank">温家宝前大管家丘小雄病逝</a></li>
+<li><a href="/cbnews/20201208/1444184.md" target="_blank">病毒源头 中共嫁祸美国后又甩锅…</a></li>
+<li><a href="/cbnews/20201208/1444176.md" target="_blank">翟东升视频里的主人公都找到了 包括：犹太老太太和书店老板</a></li>
 <li><a href="/cbnews/20201208/1444173.md" target="_blank">北京市经侦总队信访窗口大门紧闭，民众聚集呐喊：玖富立案</a></li>
 <li><a href="/cbnews/20201208/1444111.md" target="_blank">美国冻结14名中共人大副委员长资产</a></li>
 <li><a href="/cbnews/20201208/1444110.md" target="_blank">法轮功将人权恶棍名单递交28国政府 要求制裁迫害者</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20201208/1443841.md" target="_blank">中共专家泄漏国家机密；委内瑞拉议会选举 彭培奥发声；宾州爆大量选举违规行为！大法官释放新信号【希望之声TV】</a></li>
 <li><a href="/cbnews/20201208/1443829.md" target="_blank">香港移民潮：“昔日我爱国，现在我想逃到英国”</a></li>
 <li><a href="/cbnews/20201208/1443789.md" target="_blank">美国收紧中共党员旅游签证 网友拍手叫好</a></li>
-<li><a href="/cbnews/20201208/1443788.md" target="_blank">深圳地铁故障上热搜 网友披露全年地铁故障大全</a></li>
-<li><a href="/cbnews/20201208/1443787.md" target="_blank">四川成都突现确诊 医院紧急停诊 小区封闭</a></li>
-<li><a href="/cbnews/20201208/1443771.md" target="_blank">美国宣布制裁14名中共全国人大常委会副委员长</a></li>
-<li><a href="/cbnews/20201208/1443766.md" target="_blank">内华达州数据库竟发到巴基斯坦  被通报司法部；拜登梦碎！ 专家点出《宪法》规定关键日期；又有人睡不着了  美国拟再制裁14名中港官员；美众院周一可望通过庇护港人法案；【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
 <li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
