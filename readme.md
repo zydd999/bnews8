@@ -12,17 +12,17 @@
 <li><a href="/topimagenews/20201207/1443560.md">誓揭真相！弗林将军：我一定是让奥巴马感到胆战心惊！【阿波罗网编译】</a></li>
 <li><a href="/baitai/20201207/1443466.md">国台办副主任＂龚十亿＂:逼睡台湾女明星 疑遭结怨亲家举报</a></li>
 <li><a href="/lifebaike/20201207/1443567.md">汽车油表灯亮了还能跑多远？老司机：不用慌 记住这个里程</a></li>
-<li><a href="/comments/20201207/1443691.md">重大转变！民意的力量！Alito大法官将响应日期提前到12月8日</a></li>
 <li><a href="/yule/20201207/1443490.md">49岁李亚鹏见90后女友家长 酒柜疑暴露女方家境</a></li>
+<li><a href="/comments/20201207/1443691.md">重大转变！民意的力量！Alito大法官将响应日期提前到12月8日</a></li>
 <li><a href="/cbnews/20201207/1443612.md">作弊到头 川普将里程碑式改革选举 左媒疯狂！要杀绝共和党</a></li>
 <li><a href="/bannedvideo/20201207/1443571.md">推背图里的图片与川普怎么这么像 千年前的作者早已预见?（启明笑谈20200720）</a></li>
 <li><a href="/cbnews/20201207/1443596.md">朱镕基女翻译朱彤任德银中国董事长</a></li>
+<li><a href="/topimagenews/20201208/1443820.md">拜登梦碎 宪法设定任命选举人时限是... 芯片断供重创 大众汽车也停产 不止汽车行业</a></li>
 <li><a href="/cbnews/20201207/1443611.md">列车清洁员捡钻戒后上缴 反而被罚钱 原因想不到</a></li>
 <li><a href="/cnnews/20201207/1443506.md">全球反中共挺澳！美国霸气宣布：白宫酒会将提供澳洲葡萄酒</a></li>
 <li><a href="/bannedvideo/20201207/1443533.md">文睿：习近平的冬天到了，一尊不得不面对一种特殊的煎熬，前路步步惊心</a></li>
 <li><a href="/cnnews/hknews/20201207/1443581.md">中大校园内游行 8人被国安处拘捕</a></li>
-<li><a href="/topimagenews/20201208/1443820.md">拜登梦碎 宪法设定任命选举人时限是... 芯片断供重创 大众汽车也停产 不止汽车行业</a></li>
-<li><a href="/bannedvideo/20201207/1443417.md">国家情报总监拉特克里夫：中共蓄意让病毒传遍全球，扰乱美国大选。情报证实国外势力确实干预大选(12/06)</a></li>
+<li><a href="/ssgc/20201208/1443776.md">〖兲朝浮世绘〗武汉肺炎的锅从美洲飞到欧洲现在终于飞到澳洲了</a></li>
 <li><a href="/comments/20201207/1443463.md">遭川普四天七大招重击 中南海炸锅？动向微妙</a></li>
 <li><a href="/cnnews/20201207/1443617.md">炮制捧习曲引轰动 湖南前书记徐守盛病死</a></li>
 <li><a href="/bannedvideo/20201207/1443684.md">为什么还不动手?川普的真实经历给我们答案.</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201208/1443944.md" target="_blank">大法官阿利托玩攻心计，宾州诉讼现转机！威胁恐吓，民主党已沦为黑手党！又来了一个猪队友，翟东升火了！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.07)‬</a></li>
 <li><a href="/cbnews/20201208/1443931.md" target="_blank">三周见分晓   珍珠港时刻到来   嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/07)</a></li>
 <li><a href="/cbnews/20201208/1443923.md" target="_blank">文昭：美国制裁人大常委会全部14个副国级！紧迫的一周，川普几天之内关键战场要出结果</a></li>
 <li><a href="/cbnews/20201208/1443887.md" target="_blank">执法部门启动调查；突发爆料：多米尼使用中国企业的调制解调器；国家情报总监：选举问题解决后才能宣布赢家 ；大法官阿利托下令 宾州须提前回应争议；密歇根州法官拒绝鲍威尔的选举诉讼【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201207/1443625.md" target="_blank">皖女溺亡案再掀舆论风波 央视主播辩解遭痛斥</a></li>
 <li><a href="/cbnews/20201207/1443612.md" target="_blank">作弊到头 川普将里程碑式改革选举 左媒疯狂！要杀绝共和党</a></li>
 <li><a href="/cbnews/20201207/1443611.md" target="_blank">列车清洁员捡钻戒后上缴 反而被罚钱 原因想不到</a></li>
-<li><a href="/cbnews/20201207/1443604.md" target="_blank">美最高情报官评大选:确有外国势力介入</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201208/1443945.md" target="_blank">百家姓：十字路口的抉择：惊天动地的大战即将到来</a></li>
 <li><a href="/comments/20201208/1443908.md" target="_blank">鲍威尔将就乔州选举舞弊诉讼诉诸最高法院</a></li>
 <li><a href="/comments/20201208/1443897.md" target="_blank">乔州州长不愿召开特别会议 议员们：无需他同意</a></li>
 <li><a href="/comments/20201208/1443865.md" target="_blank">乔州舞弊录像爆更多疑点 现场红衣主管多次接可疑电话</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201207/1443697.md" target="_blank">失联50年的卫星突然「复活」传信号 疑被外星人操控？</a></li>
 <li><a href="/comments/20201207/1443692.md" target="_blank">中国工人乌干达集体确诊 陈时中一语道破：疫苗安全有疑虑</a></li>
 <li><a href="/comments/20201207/1443691.md" target="_blank">重大转变！民意的力量！Alito大法官将响应日期提前到12月8日</a></li>
-<li><a href="/comments/20201207/1443689.md" target="_blank">美国务院披露：大量美国退休金流入中资股票</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
