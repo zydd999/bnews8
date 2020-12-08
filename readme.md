@@ -8,15 +8,15 @@
 <li><a href="/topimagenews/20201208/1443820.md">拜登梦碎 宪法设定任命选举人时限是... 芯片断供重创 大众汽车也停产 不止汽车行业</a></li>
 <li><a href="/topimagenews/20201208/1443990.md">大戏即将上演！川普：未来几天你会看到有很多大事发生【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201208/1444131.md">快讯！川普总统和彭斯副总统亲自起诉拜登贺锦丽【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201208/1444081.md">快讯！川普亲自发视频 翟东生丑态遍全球 拜登和中共东窗事发【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201208/1444051.md">韩正和栗战书暂躲一劫 14副国级被制裁内幕曝光</a></li>
+<li><a href="/topimagenews/20201208/1444081.md">快讯！川普亲自发视频 翟东生丑态遍全球 拜登和中共东窗事发【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201208/1443857.md">中共官员可以将情妇提拔到这个位置？</a></li>
 <li><a href="/topimagenews/20201208/1444195.md">大好消息 国家情报总监：拜登根本没当选 著名法学家预测最高法判川普赢</a></li>
 <li><a href="/baitai/20201208/1444107.md">王朔:赵忠祥坑惨了无数人 就是个公交车</a></li>
 <li><a href="/cbnews/20201208/1444176.md">翟东升视频里的主人公都找到了 包括：犹太老太太和书店老板</a></li>
 <li><a href="/comments/20201208/1443786.md">连中15枪！以色列摩萨德高级指挥官遇刺身亡！与此同时，川普律师感染病毒入院……</a></li>
-<li><a href="/cnnews/20201208/1443858.md">美国连出重拳打击中共 胡锡进发战狼文又闹笑话</a></li>
 <li><a href="/cbnews/20201208/1443844.md">14名中共人大副委员长及家属被禁入境美国</a></li>
+<li><a href="/cnnews/20201208/1443858.md">美国连出重拳打击中共 胡锡进发战狼文又闹笑话</a></li>
 <li><a href="/bannedvideo/20201208/1444238.md">翟东升出名了！福克斯几乎播放了完整视频，并配大标题“中国教授说：咱们在美国上边有人！” 塔克说：这几乎是实锤证据，证实了美国政界、精英层、华尔街很多人与中共勾结，证实了亨特拜登与中共的关系是事实</a></li>
 <li><a href="/cbnews/20201208/1444111.md">美国冻结14名中共人大副委员长资产</a></li>
 <li><a href="/cnnews/20201208/1444201.md">美媒曝：中共间谍利用美色 接近美国政治权力</a></li>
@@ -67,6 +67,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201209/1444375.md" target="_blank">辉瑞疫苗有副作用? 美护士 : 接种后疑自己感染新冠病毒</a></li>
+<li><a href="/topimagenews/20201209/1444374.md" target="_blank">雷霆之击 德州起诉4摇摆州选举违宪 直接告到最高法院</a></li>
 <li><a href="/topimagenews/20201209/1444363.md" target="_blank">中国逾百万人施打实验疫苗 制造商海外医疗纠纷多</a></li>
 <li><a href="/topimagenews/20201208/1444195.md" target="_blank">大好消息 国家情报总监：拜登根本没当选 著名法学家预测最高法判川普赢</a></li>
 <li><a href="/topimagenews/20201208/1444081.md" target="_blank">快讯！川普亲自发视频 翟东生丑态遍全球 拜登和中共东窗事发【阿波罗网编译】</a></li>
@@ -90,14 +92,14 @@
 <li><a href="/topimagenews/20201205/1442408.md" target="_blank">拼命想销毁罪证！乔治亚官员们再度施压法官 真急了！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201205/1442397.md" target="_blank">目前为止 这是最有力的证据 …【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201205/1442396.md" target="_blank">西安事变爆发 第一个知道结果的不是宋美龄而是他</a></li>
-<li><a href="/topimagenews/20201205/1442375.md" target="_blank">真欺负人！民主党议员象看怪物一样的看着证人 一脸不屑的问&#8230; 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201205/1442363.md" target="_blank">加入白宫之战！弗林将军吐露心声：是时候站出来说话！【 阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201209/1444382.md" target="_blank">【视频回放】川普在中共病毒疫苗峰会上讲话 答记者问</a></li>
+<li><a href="/comments/20201209/1444381.md" target="_blank">美国、加拿大对新移民身份转换有新规定</a></li>
 <li><a href="/comments/20201209/1444370.md" target="_blank">德州指控四摇摆州选举违宪 直接打到联邦最高法院</a></li>
 <li><a href="/comments/20201209/1444369.md" target="_blank">川普总统和彭斯副总统亲自起诉拜登和贺锦丽</a></li>
 <li><a href="/comments/20201209/1444341.md" target="_blank">Angelababy不再放闪黄晓明 网叹「早点公开得了」</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201208/1444076.md" target="_blank">湖北维权者尹旭安遭违法关押 传健康恶化一度病危</a></li>
 <li><a href="/comments/20201208/1444074.md" target="_blank">28名亚利桑那州议员要求取消该州选举认证</a></li>
 <li><a href="/comments/20201208/1444073.md" target="_blank">香港民主派再有8人被捕 梁国雄：「政治大清算」</a></li>
-<li><a href="/comments/20201208/1444025.md" target="_blank">美国打击中共措施不断 中共内部一团败相 崩溃在即</a></li>
-<li><a href="/comments/20201208/1444017.md" target="_blank">【微博精粹】新戏！联邦特工又突袭缴获8硬盘 3电脑 一口袋闪存</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 <li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
