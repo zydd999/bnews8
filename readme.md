@@ -22,12 +22,12 @@
 <li><a href="/baitai/20201209/1444695.md">北京将强拆香堂别墅 房产证如废纸一张</a></li>
 <li><a href="/topimagenews/20201209/1444582.md">限期回应！最高法院向四大战场州宣布截止日期【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201209/1444578.md">美国有点乱，习近平又误判！中共真的可以喘息了？错！川普灭共动作加紧，江峰潜水去干嘛？让李正找找</a></li>
-<li><a href="/cnnews/20201209/1444365.md">14中共官员遭制裁！罗冠聪曝「玄机」：美国看穿中共底牌</a></li>
 <li><a href="/cbnews/20201209/1444431.md">南京访民网上贴标语支持川普后遭传唤</a></li>
-<li><a href="/cbnews/20201209/1444407.md">最近中共专家翟东升的一段视频，在网上热传，连川普都转发了，他都说了啥？(视频来源于曾铮英文频道“Inconvenient Truths by Jennifer Zeng 曾铮真言)【希望之声TV】</a></li>
 <li><a href="/cnnews/20201209/1444693.md">报应！中共女间谍火烧民主党议员！福克斯名嘴全美播送大丑闻【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201209/1444407.md">最近中共专家翟东升的一段视频，在网上热传，连川普都转发了，他都说了啥？(视频来源于曾铮英文频道“Inconvenient Truths by Jennifer Zeng 曾铮真言)【希望之声TV】</a></li>
 <li><a href="/cnnews/20201209/1444646.md">美国大选舞弊曝光 民意力撑川普 拜登支持者沉默了…</a></li>
 <li><a href="/lifebaike/20201209/1444609.md">如果微信绑定了银行卡 这些功能赶快关闭 不然密码形同虚设</a></li>
+<li><a href="/comments/20201209/1444465.md">翟东升演讲续发酵 他提到的亲共美国老太身份曝光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201210/1444951.md" target="_blank">陈破空：拆解洗脑术，推倒红墙！觉醒从这里开始</a></li>
 <li><a href="/cbnews/20201210/1444903.md" target="_blank">江峰：为什麽挺川案子输这麽多？德州快刀斩乱麻，状告战场四州违宪，川普逆转时刻降临；美此批制裁下手狠，一色中共副国级高官遭痛击，海外清算开始</a></li>
 <li><a href="/cbnews/20201209/1444820.md" target="_blank">朱利安尼几乎所有症状都消失 预计周三出院</a></li>
 <li><a href="/cbnews/20201209/1444819.md" target="_blank">大选更新12.9：国会委员会否认拜登当选</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201209/1444306.md" target="_blank">打不倒的川普 背后站着“我们人民”</a></li>
 <li><a href="/cbnews/20201209/1444561.md" target="_blank">明居正老师1205精华片段  拜登不认中共是敌人  川普功亏一溃  蓝皮书揭露中共 正视中国挑战</a></li>
 <li><a href="/cbnews/20201209/1444560.md" target="_blank">川普彭斯起诉拜登贺锦丽，你们跑不了的！德州一口气状告四州， 大选政变司法战的里程碑！中共渗透495公路圈，与深层政府狼狈为奸！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.08)‬</a></li>
-<li><a href="/cbnews/20201209/1444538.md" target="_blank">天亮时分：大转折——德州起诉宾州等四战场州，七州加入战团，最高法院接手；高院下令周四下午3点前回应；最理想的判决是什么？（政论天下第299集 20201208）</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201210/1444955.md" target="_blank">德州起诉四摇摆州新进展 川普：我们将加盟此案</a></li>
 <li><a href="/comments/20201210/1444949.md" target="_blank">美情报总监：中共的目标是取代美国 寄望于美国不反击</a></li>
 <li><a href="/comments/20201210/1444941.md" target="_blank">德州检方呼吁高院尽快推进诉四摇摆州案</a></li>
 <li><a href="/comments/20201210/1444929.md" target="_blank">“A股最强绞肉机”11个跌停 股民人均亏损191万</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201209/1444694.md" target="_blank">「紫荆党」拟招25万党员 港媒：北京恐透过代理人掌控香港</a></li>
 <li><a href="/comments/20201209/1444640.md" target="_blank">鸡蛋吃了以后蛋壳可别再扔了 太可惜了！看看都能做什么用？</a></li>
 <li><a href="/comments/20201209/1444639.md" target="_blank">鸡蛋天天吃，到底对人好不好</a></li>
-<li><a href="/comments/20201209/1444629.md" target="_blank">安倍明年可能访问台湾 外交部：乐观其成</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 <li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 
 </ul>
 </div>
