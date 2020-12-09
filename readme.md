@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20201208/1444131.md">快讯！川普总统和彭斯副总统亲自起诉拜登贺锦丽【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201208/1444176.md">翟东升视频里的主人公都找到了 包括：犹太老太太和书店老板</a></li>
 <li><a href="/topimagenews/20201208/1444195.md">大好消息 国家情报总监：拜登根本没当选 著名法学家预测最高法判川普赢</a></li>
 <li><a href="/bannedvideo/20201208/1444238.md">翟东升出名了！福克斯几乎播放了完整视频，并配大标题“中国教授说：咱们在美国上边有人！” 塔克说：这几乎是实锤证据，证实了美国政界、精英层、华尔街很多人与中共勾结，证实了亨特拜登与中共的关系是事实</a></li>
 <li><a href="/cbnews/20201209/1444405.md">中共女特务暴露逃回国 跟多名美政客关系暧昧</a></li>
 <li><a href="/cnnews/20201208/1444201.md">美媒曝：中共间谍利用美色 接近美国政治权力</a></li>
-<li><a href="/cnnews/20201209/1444412.md">美总统就职委员会否决确认拜登当选的决议</a></li>
 <li><a href="/cbnews/20201208/1444216.md">中共再批四军老虎 分析：习有强烈不安全感</a></li>
+<li><a href="/cnnews/20201209/1444412.md">美总统就职委员会否决确认拜登当选的决议</a></li>
 <li><a href="/cnnews/20201208/1444300.md">惊心动魄 川普雷霆反击的时刻到了？乔州投票机查出偷票铁证 官方临场剔除最致命证人</a></li>
 <li><a href="/cbnews/20201209/1444461.md">川普彭斯亲自起诉拜登贺锦丽；美代理防长被突然叫回 外界猜测行动开始？；揭秘翟东升视频中被称为中共老朋友的老太真实身分；质疑中共秘密超限战 美驻华外交官受到微波武器攻击！【希望之声TV】</a></li>
-<li><a href="/cbnews/20201209/1444417.md">董卿美国豪宅1栋楼不下10个卫生间 堪比皇宫</a></li>
 <li><a href="/health/20201209/1444493.md">电热水壶那么方便 为什么外国人却很少用？听完分析 我把家里的扔了</a></li>
+<li><a href="/cbnews/20201209/1444417.md">董卿美国豪宅1栋楼不下10个卫生间 堪比皇宫</a></li>
+<li><a href="/comments/20201209/1444555.md">习近平频喊“备战打仗” 内情原来如此不堪？</a></li>
 <li><a href="/cbnews/20201208/1444173.md">北京市经侦总队信访窗口大门紧闭，民众聚集呐喊：玖富立案</a></li>
 <li><a href="/cbnews/20201208/1444185.md">温家宝前大管家丘小雄病逝</a></li>
-<li><a href="/comments/20201209/1444555.md">习近平频喊“备战打仗” 内情原来如此不堪？</a></li>
 <li><a href="/cnnews/20201209/1444337.md">网课中突然没画面！11岁弟惨死全班面前 警惊见诡异线索</a></li>
 <li><a href="/bannedvideo/20201209/1444335.md">川普预报的大事到来！德州起诉四个关键州，直接搞到最高法院；宾州政府按期回应了大法官；什么是美国选举程序中的“安全港”？翟东升演说“火了”，众人寻觅他口中的“华尔街老太太”</a></li>
 <li><a href="/topimagenews/20201209/1444375.md">辉瑞疫苗有副作用? 美护士 : 接种后疑自己感染新冠病毒</a></li>
-<li><a href="/bannedvideo/20201208/1444187.md">12月8日，四川成都疫情扩大，当局称防控迅速进入战时状态。视频中是成都理工大学宿舍楼下面的救护车及救护人员；让学生搬出去，将宿舍当隔离区</a></li>
 <li><a href="/cnnews/20201209/1444365.md">14中共官员遭制裁！罗冠聪曝「玄机」：美国看穿中共底牌</a></li>
+<li><a href="/bannedvideo/20201208/1444187.md">12月8日，四川成都疫情扩大，当局称防控迅速进入战时状态。视频中是成都理工大学宿舍楼下面的救护车及救护人员；让学生搬出去，将宿舍当隔离区</a></li>
 <li><a href="/cbnews/20201209/1444431.md">南京访民网上贴标语支持川普后遭传唤</a></li>
 <li><a href="/cbnews/20201209/1444407.md">最近中共专家翟东升的一段视频，在网上热传，连川普都转发了，他都说了啥？(视频来源于曾铮英文频道“Inconvenient Truths by Jennifer Zeng 曾铮真言)【希望之声TV】</a></li>
 <li><a href="/cnnews/20201209/1444347.md">川普差点洩密？专家曝美和外星人「签约」：人类尚未准备好</a></li>
+<li><a href="/cbnews/20201209/1444603.md">14名副国级高官被制裁 中南海连喊三个“严重”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
