@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20201209/1444769.md">睡在习近平上铺的兄弟 身兼八职控官场</a></li>
 <li><a href="/bannedvideo/20201209/1444701.md">大事发生!川普给拜登的最后机会，退选坐牢自己决定（启明笑谈20201209）</a></li>
 <li><a href="/comments/20201209/1444711.md">美国制裁14名中共副国级高官 中南海炸锅</a></li>
+<li><a href="/health/20201209/1444691.md">医生解剖了5000多例猝死者后发现：猝死的人都有这些规律</a></li>
 <li><a href="/cnnews/20201209/1444770.md">习近平“国师”爆性骚：至少6女子受害</a></li>
 <li><a href="/bannedvideo/20201209/1444887.md">川普总统7号说几天内“会有大事发生”，语音才落，大事果然接二连三。德州要把4大摇摆州，告上最高法院。川普和彭斯也亲自起诉拜登和贺锦丽，为更大事做铺垫。</a></li>
-<li><a href="/health/20201209/1444691.md">医生解剖了5000多例猝死者后发现：猝死的人都有这些规律</a></li>
 <li><a href="/baitai/20201209/1444695.md">北京将强拆香堂别墅 房产证如废纸一张</a></li>
 <li><a href="/topimagenews/20201209/1444582.md">限期回应！最高法院向四大战场州宣布截止日期【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201209/1444578.md">美国有点乱，习近平又误判！中共真的可以喘息了？错！川普灭共动作加紧，江峰潜水去干嘛？让李正找找</a></li>
 <li><a href="/bannedvideo/20201209/1444806.md">成都疫情持续扩大引发逃离潮</a></li>
 <li><a href="/cnnews/20201209/1444693.md">报应！中共女间谍火烧民主党议员！福克斯名嘴全美播送大丑闻【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20201209/1444646.md">美国大选舞弊曝光 民意力撑川普 拜登支持者沉默了…</a></li>
+<li><a href="/taiwannews/20201210/1444913.md">四川疫情大爆发 成都人匆忙外逃被堵.大学封校</a></li>
 <li><a href="/lifebaike/20201209/1444609.md">如果微信绑定了银行卡 这些功能赶快关闭 不然密码形同虚设</a></li>
+<li><a href="/cnnews/20201209/1444646.md">美国大选舞弊曝光 民意力撑川普 拜登支持者沉默了…</a></li>
 <li><a href="/cnnews/20201209/1444789.md">芯片巨头英特尔和英伟达麻烦来了</a></li>
 <li><a href="/cnnews/20201209/1444771.md">中国工程院院士获刑10年 关键罪名被删除</a></li>
 <li><a href="/worldnews/20201209/1444667.md">澳大利亚第一大臣“接种”了疫苗， 但针头盖子仍在针头上？</a></li>
-<li><a href="/taiwannews/20201210/1444913.md">四川疫情大爆发 成都人匆忙外逃被堵.大学封校</a></li>
+<li><a href="/bannedvideo/20201210/1444910.md">高速公路上开出成都市的汽车源源不绝，开进成都的一辆也没有。难道有听到什么风声？全是出成都。</a></li>
 <li><a href="/cbnews/20201209/1444727.md">中共应急管理部长王玉普病亡 曾迫害法轮功</a></li>
-<li><a href="/bannedvideo/20201209/1444732.md">在疫苗峰会上记者问川普，为什么不邀请下一届拜登政府交接团队参加？川普说…（12/08）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201210/1445081.md" target="_blank">文昭：YouTube新规，文昭频道要搬家？测试版中宣部上线；十七州战团决战最高院</a></li>
 <li><a href="/cbnews/20201210/1445021.md" target="_blank">美情报界议员陷中共美人计 佩洛西被质问</a></li>
 <li><a href="/cbnews/20201210/1445020.md" target="_blank">中印边境打斗片疑曝光 官方沉默 网络疯传</a></li>
 <li><a href="/cbnews/20201210/1445019.md" target="_blank">美前军官：大选只是共产主义侵美的一部分</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201209/1444727.md" target="_blank">中共应急管理部长王玉普病亡 曾迫害法轮功</a></li>
 <li><a href="/cbnews/20201209/1444647.md" target="_blank">【第206期】最高法院法律战开打；乔治亚州州长是中共老朋友，川普接下来会宣布中共干预美国大选，抓捕坎普？800年一遇天象，庚子魔咒启动？</a></li>
 <li><a href="/cbnews/20201209/1444642.md" target="_blank">〖博谈编译〗多州将加入德州向最高法院起诉四个摇摆州</a></li>
-<li><a href="/cbnews/20201209/1444637.md" target="_blank">美总统川普签署政令 新冠病毒疫苗美国优先</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201210/1445072.md" target="_blank">世界冒出十几根神秘金属柱子 2001太空漫游再现</a></li>
+<li><a href="/comments/20201210/1445071.md" target="_blank">田馥甄遭前东家控侵权 经纪公司「跨年演出如常」</a></li>
 <li><a href="/comments/20201210/1445044.md" target="_blank">世界人权日 台湾法轮功律师团问候高智晟等人权律师</a></li>
 <li><a href="/comments/20201210/1445043.md" target="_blank">油管将删提及“选举舞弊”内容 议员：应废除230条款</a></li>
 <li><a href="/comments/20201210/1445042.md" target="_blank">2000多万台新手机被植入病毒，机主隐私全部裸奔</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201209/1444890.md" target="_blank">习近平强化禁令又说要保障党员权利 到底想干什么？</a></li>
 <li><a href="/comments/20201209/1444818.md" target="_blank">山楂桂圆红枣茶 补气血 祛瘀滞 安神助眠</a></li>
 <li><a href="/comments/20201209/1444814.md" target="_blank">德州案新进展：高院令四摇摆州12月10日前答复</a></li>
-<li><a href="/comments/20201209/1444810.md" target="_blank">美参议员科顿：华尔街高管长期做中共说客 必须停止</a></li>
-<li><a href="/comments/20201209/1444809.md" target="_blank">获颁新闻自由奖 黎智英：你们的声援是我们的救赎</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
 <li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
