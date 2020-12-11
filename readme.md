@@ -12,18 +12,18 @@
 <li><a href="/worldnews/20201211/1445541.md">富商走向刚降落直升机！下秒螺旋桨爆头 倒地惨亡</a></li>
 <li><a href="/worldnews/20201211/1445557.md">游轮爆感染 大批华人遭封!乘客:最怕的还是来了</a></li>
 <li><a href="/topimagenews/20201211/1445730.md">重磅！川普转引：一场政变正在我们眼前发生...</a></li>
-<li><a href="/ssgc/20201211/1445547.md">〖兲朝浮世绘〗一睡倾人城 再睡倾人国</a></li>
 <li><a href="/cbnews/20201211/1445787.md">国防部动手了？CIA被缴械？叛国者的下场是什么？美军参谋长喊话，中共想打仗？</a></li>
+<li><a href="/ssgc/20201211/1445547.md">〖兲朝浮世绘〗一睡倾人城 再睡倾人国</a></li>
+<li><a href="/bannedvideo/20201211/1445826.md">CNN主播库默痛苦预告 川普将推翻大选结果；谁在破坏民主 库默和CNN颠倒黑白 混淆视听；德州牵头控告舞弊 红蓝州最高法院公开对抗；金斯伯格去世 为川普翻盘铺路 天意难违！12月10日 【西岸观察】</a></li>
 <li><a href="/cbnews/20201211/1445652.md">色谍方芳或已被FBI控制 裙下臣是屁王！大统领加入德州军团 深度解析四种可能结果！再度揭秘深层政府 万能之眼到底是谁的眼！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.10)‬</a></li>
 <li><a href="/cbnews/20201211/1445606.md">女间谍事件发酵涉奥巴马 在美工资曝光；拜登开会BLM质问：怎不邀我们？自媒体人视频被删 另辟蹊径传真相；民调：川普选民乔州决选会投票 但不信任制度；摩洛哥建交以色列加入亚伯拉罕协议【希望之声TV】</a></li>
-<li><a href="/bannedvideo/20201211/1445826.md">CNN主播库默痛苦预告 川普将推翻大选结果；谁在破坏民主 库默和CNN颠倒黑白 混淆视听；德州牵头控告舞弊 红蓝州最高法院公开对抗；金斯伯格去世 为川普翻盘铺路 天意难违！12月10日 【西岸观察】</a></li>
 <li><a href="/topimagenews/20201210/1445461.md">拯救美国 好消息！朱利安尼出院 超20位议员促巴尔任命特别检察官</a></li>
 <li><a href="/bannedvideo/20201211/1445465.md">孟晚舟漫天要价强硬的态度引起小粉红的高潮，红三代的世界你不懂！</a></li>
 <li><a href="/bannedvideo/20201211/1445784.md">最新:爆炸新闻！宾州加入德州 自己告自己 | 【2020美国大选中文翻译】｜大陆新闻解毒</a></li>
 <li><a href="/topimagenews/20201211/1445525.md">对中鹰派白邦瑞接任美国防政策委员会主席</a></li>
 <li><a href="/lifebaike/20201211/1445621.md">女浴室旁设办公室 女演员难逃潜规则</a></li>
-<li><a href="/cnnews/20201211/1445528.md">引狼入室 川普反击制裁中共黑帮老大政协委员 叛徒！特鲁多不顾川普反对训练共军冷战</a></li>
 <li><a href="/bannedvideo/20201211/1445732.md">美国将在近期宣布中共为跨国犯罪组织，美国100%会向中共开战。12月11专题2</a></li>
+<li><a href="/cnnews/20201211/1445528.md">引狼入室 川普反击制裁中共黑帮老大政协委员 叛徒！特鲁多不顾川普反对训练共军冷战</a></li>
 <li><a href="/worldnews/usa/20201211/1445501.md">天雷滚滚！拜登要任命皮特当驻华大使…国会共和党人却否决“承认拜登为当选”决议！17个州追随德州起诉宾州…</a></li>
 <li><a href="/cbnews/20201211/1445555.md">习近平再添“猪队友” 中使馆转推川普指控</a></li>
 <li><a href="/cbnews/20201211/1445713.md">不装了？华春莹自认「战狼」头衔 网友嘲笑</a></li>
@@ -131,30 +131,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
 <li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 
 </ul>
 </div>
