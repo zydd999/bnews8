@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20201212/1446249.md">川普更换作战司令部指挥官：此人十分彪悍 有实战经验</a></li>
 <li><a href="/bannedvideo/20201212/1446377.md">美国最高法院7比2驳回德州诉讼；保守派大法官 有人坚守 有人动摇；鲍威尔连夜向最高法院提交新诉讼；德州共和党呼吁红州自组联邦宣布独立；捍卫宪法 百万川粉明日上街</a></li>
 <li><a href="/comments/20201212/1446378.md">子年、子月、子日，出大事了</a></li>
-<li><a href="/cnnews/20201212/1446153.md">德州议员将提案公投决定是否「独立建国」</a></li>
 <li><a href="/cbnews/20201212/1446215.md">最高院驳回德州军团诉讼，美利坚面临抉择！败贺组合成为时代年度疯晕人物！预言还是预谋？这套卡牌很光明！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.11)‬</a></li>
 <li><a href="/cbnews/20201212/1446478.md">陈破空：习近平急了！公开向党内政敌亮剑。遭制裁高官竟向美国示好。高官夫人心乱</a></li>
 <li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
 <li><a href="/bannedvideo/20201212/1446460.md">德州诉讼被驳回,川普最后的机会……当法律不能维护公平、正义……我们将如何选择?</a></li>
-<li><a href="/cbnews/20201212/1446184.md">德州案受挫 川普呼唤民意   嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/11)</a></li>
 <li><a href="/cbnews/20201212/1446526.md">江峰：裴洛西将失去议长职位 民主党终极目标落空； 蓬培奥关键时刻发声，力挺川普</a></li>
+<li><a href="/cbnews/20201212/1446184.md">德州案受挫 川普呼唤民意   嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/11)</a></li>
 <li><a href="/taiwannews/20201212/1446162.md">12/12拜登发生巨大危险，特朗普发动近身肉搏战</a></li>
 <li><a href="/cbnews/20201212/1446264.md">拜登不会赢，六大诡异是巧合❓</a></li>
 <li><a href="/bannedvideo/20201212/1446159.md">💥未来24小时美国要出大事情！诉讼风暴红蓝对决！决定历史走向的临界点，大家小心猪党拍黑砖！</a></li>
 <li><a href="/cnnews/20201212/1446238.md">快讯！宾州众议员再向最高法院提交申请书【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201212/1446363.md">突发：最高法拒绝了德州诉讼 更大事件将会发生？</a></li>
 <li><a href="/cnnews/20201212/1446390.md">“戒严!新的选举!手工点票！由军方计票！…”无数民众力挺川普【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20201212/1446492.md">德州诉讼被驳回？老共接管美国高院和国会，摊牌了！不装了！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201213/1446711.md" target="_blank">仅2大法官愿接案 川普早有准备？智勇俱失? 川普感叹！民众呼应；挺总统  民间呼吁军方计票；深层政府报复开始  德州总检察长被传唤；令人发指  蓬佩奥妻子被调查【希望之声TV】</a></li>
 <li><a href="/cbnews/20201213/1446708.md" target="_blank">陈破空：直播预告：大规模挺川！美国人民不服。美利坚处在关键时刻。陈破空与网友互动 Q&amp;A 美东时间12月12日周六晚上八点，即中港台时间12月13日周日早上九点</a></li>
 <li><a href="/cbnews/20201213/1446693.md" target="_blank">美情报专家揭中共间谍男女通吃包括同性恋 美国多达数千 穿梭在顶层社会</a></li>
 <li><a href="/cbnews/20201213/1446692.md" target="_blank">钟南山为自己塑像揭幕 网友：要超习近平？钟悬了</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201212/1446421.md" target="_blank">Witch and the King (南瓜女巫和国王/英文版)</a></li>
 <li><a href="/cbnews/20201212/1446420.md" target="_blank">胆小的大狼狗  A &#8220;coward&#8221; dog</a></li>
 <li><a href="/cbnews/20201212/1446414.md" target="_blank">南瓜女巫和国王/Chinese version of witch and the King</a></li>
-<li><a href="/cbnews/20201212/1446413.md" target="_blank">A &#8220;coward &#8221; dog /胆小的大狼狗英文版</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
 <li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 
 </ul>
 </div>
