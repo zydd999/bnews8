@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20201211/1445865.md">香港突现紫荆党 中南海再斗？扯上朱镕基</a></li>
 <li><a href="/bannedvideo/20201211/1445826.md">CNN主播库默痛苦预告 川普将推翻大选结果；谁在破坏民主 库默和CNN颠倒黑白 混淆视听；德州牵头控告舞弊 红蓝州最高法院公开对抗；金斯伯格去世 为川普翻盘铺路 天意难违！12月10日 【西岸观察】</a></li>
-<li><a href="/cbnews/20201212/1446121.md">德州最高法院案件最新进展</a></li>
 <li><a href="/taiwannews/20201211/1445949.md">独！庞皮欧再宣布制裁17人！川普再斗习大？！中国目标是取代美国？！和统无望？武统登场？！震慑台湾？全球房价飙涨！不吃不喝20年也难买房 ？【年代向钱看】20201211</a></li>
+<li><a href="/cbnews/20201212/1446121.md">德州最高法院案件最新进展</a></li>
 <li><a href="/topimagenews/20201212/1446093.md">习近平 连连碰钉子</a></li>
 <li><a href="/cbnews/20201211/1445936.md">陈破空：突然！美中大使馆都大胆说穿！胡锡进拼了，长篇讥讽习近平！大批中企被赶出华尔街</a></li>
 <li><a href="/bannedvideo/20201212/1446032.md">独家重磅！前哈佛实验室主任继续匿名爆料：中共轻松收买联合国为其所用；外国资金渗透高校，左派教育荒谬至极，彻底反智！第一手资料，触目惊心！</a></li>
 <li><a href="/bannedvideo/20201211/1445893.md">【袁红冰热点】独家爆 翟东升婚外情场争风吃醋 发视频争网红!翟东升视频爆证据 中共在美国全力核心圈有人，拜登上台可被中共左右</a></li>
-<li><a href="/cbnews/20201212/1446100.md">习近平行踪异常 身陷两难 被迫转向？</a></li>
 <li><a href="/cbnews/20201212/1446191.md">大选更新12·11：最高法驳回德州诉讼</a></li>
+<li><a href="/cbnews/20201212/1446100.md">习近平行踪异常 身陷两难 被迫转向？</a></li>
 <li><a href="/cbnews/20201212/1446099.md">美元人民币谁更牛？赵立坚雷人语引群嘲</a></li>
 <li><a href="/cnnews/20201211/1445842.md">重磅！五角大楼宣布计划撤回对中情局大部分军事支持 【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20201211/1445910.md">女间谍事件发酵 还牵出拜登、奥巴马？方芳又回到美国？亨特被查 左媒趋利转调；中共在美国的“老朋友”都有谁？华尔街为何押拜登？</a></li>
 <li><a href="/cnnews/20201212/1446153.md">德州议员将提案公投决定是否「独立建国」</a></li>
+<li><a href="/bannedvideo/20201211/1445910.md">女间谍事件发酵 还牵出拜登、奥巴马？方芳又回到美国？亨特被查 左媒趋利转调；中共在美国的“老朋友”都有谁？华尔街为何押拜登？</a></li>
 <li><a href="/topimagenews/20201211/1445830.md">示范意义重大！林伍德大律师向最高法院提起诉讼【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201211/1445873.md">朱利安尼语出惊人：到底有多少共谍贴上拜登？</a></li>
 <li><a href="/cnnews/20201211/1445913.md">川普新突破</a></li>
+<li><a href="/cnnews/hknews/20201212/1446147.md">李嘉诚喜得诺奖奖牌 敏感时刻再评香港？</a></li>
 <li><a href="/cbnews/20201211/1445939.md">近50个州在德州诉讼案中选边站；意外的川粉？中使馆转推川普大选推文；德州检察长：起诉谷歌 几周后将到来；乔州两民主党参议员候选人 被爆与共产党有关【希望之声TV】</a></li>
-<li><a href="/cbnews/20201211/1445804.md">【第208期】中共女间谍跟奥巴马有关联？传已入境美国被捕；加拿大特鲁多亲共秘密文件曝光，讨好习近平，加国培训共军，两个迈克还在押。</a></li>
+<li><a href="/cbnews/20201212/1446249.md">川普更换作战司令部指挥官：此人十分彪悍 有实战经验</a></li>
 <li><a href="/taiwannews/20201211/1445867.md">美六州再提动议挺德州！川普：最高法院有机会拯救国家</a></li>
 <li><a href="/ssgc/20201212/1446097.md">〖兲朝浮世绘〗拜登成弃子 要被丢掉了？</a></li>
-<li><a href="/cnnews/hknews/20201212/1446147.md">李嘉诚喜得诺奖奖牌 敏感时刻再评香港？</a></li>
-<li><a href="/bannedvideo/20201211/1445874.md">一小时内连发9推 川普首用“政变”一词</a></li>
+<li><a href="/cbnews/20201212/1446184.md">德州案受挫 川普呼唤民意   嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/11)</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201212/1446351.md" target="_blank">江峰：MV《川建国》</a></li>
 <li><a href="/cbnews/20201212/1446346.md" target="_blank">拜登危险了？幕后操纵者着急上位？实锤证据？脸书言论审查原来是抖音做的！彻底没戏了？FCC通过华为中兴禁用清单 撤销中国电信在美运营权</a></li>
 <li><a href="/comments/20201212/1446313.md" target="_blank">准备1861吧，剑是维护自由的最后手段</a></li>
 <li><a href="/cbnews/20201212/1446308.md" target="_blank">翻版王沪宁？揭习近平国师与江泽民隐秘关系</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201212/1446115.md" target="_blank">为何挺川？纽约华人：对社会主义有切肤之痛</a></li>
 <li><a href="/cbnews/20201212/1446114.md" target="_blank">分析：美国制裁厦门公安 剑指公安部和最高层</a></li>
 <li><a href="/cbnews/20201212/1446113.md" target="_blank">126名美国国会众议员支持“德州诉讼”</a></li>
-<li><a href="/cbnews/20201212/1446112.md" target="_blank">大选更新12·11：多位知名保守人士吁新选举人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 <li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 
 </ul>
 </div>
