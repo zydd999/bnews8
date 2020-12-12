@@ -7,12 +7,10 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201212/1446341.md">快讯！川普对最高法院的回应来了！ 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201212/1446121.md">德州最高法院案件最新进展</a></li>
-<li><a href="/cbnews/20201212/1446100.md">习近平行踪异常 身陷两难 被迫转向？</a></li>
 <li><a href="/cnnews/20201212/1446450.md">令人发指 蓬佩奥妻子被调查；共和党大佬改立场 率18名议员提决议 支持川普法律战</a></li>
 <li><a href="/cbnews/20201212/1446191.md">大选更新12·11：最高法驳回德州诉讼</a></li>
 <li><a href="/cbnews/20201212/1446285.md">突发！联邦最高法院驳回德州诉摇摆州案；川普阵营新突破! 美国参议院将就选举举行首次听证会 ；彭博社女记者被指“危害国安” 遭中国当局拘留【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20201212/1446381.md">财经冷眼：苏宁被质押给淘宝，传张近东儿媳被习近平侄子抢走！苏宁真要完？又一3000亿级巨头内外债雷爆将倒闭！(202022第403期)</a></li>
-<li><a href="/cbnews/20201212/1446099.md">美元人民币谁更牛？赵立坚雷人语引群嘲</a></li>
 <li><a href="/cnnews/hknews/20201212/1446147.md">李嘉诚喜得诺奖奖牌 敏感时刻再评香港？</a></li>
 <li><a href="/cnnews/20201212/1446463.md">习近平收拾了马云 富二代变得听话了</a></li>
 <li><a href="/topimagenews/20201212/1446361.md">快讯！川普：一场被操纵的选举 继续战斗吧！ 【阿波罗网编译】</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/comments/20201212/1446378.md">子年、子月、子日，出大事了</a></li>
 <li><a href="/cnnews/20201212/1446153.md">德州议员将提案公投决定是否「独立建国」</a></li>
 <li><a href="/cbnews/20201212/1446215.md">最高院驳回德州军团诉讼，美利坚面临抉择！败贺组合成为时代年度疯晕人物！预言还是预谋？这套卡牌很光明！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.11)‬</a></li>
-<li><a href="/cbnews/20201212/1446478.md">陈破空：习近平急了！公开向党内政敌亮剑。遭制裁高官竟向美国示好。高官夫人心乱</a></li>
 <li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
+<li><a href="/cbnews/20201212/1446478.md">陈破空：习近平急了！公开向党内政敌亮剑。遭制裁高官竟向美国示好。高官夫人心乱</a></li>
 <li><a href="/bannedvideo/20201212/1446460.md">德州诉讼被驳回,川普最后的机会……当法律不能维护公平、正义……我们将如何选择?</a></li>
 <li><a href="/cbnews/20201212/1446184.md">德州案受挫 川普呼唤民意   嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/11)</a></li>
-<li><a href="/ssgc/20201212/1446097.md">〖兲朝浮世绘〗拜登成弃子 要被丢掉了？</a></li>
 <li><a href="/taiwannews/20201212/1446162.md">12/12拜登发生巨大危险，特朗普发动近身肉搏战</a></li>
 <li><a href="/cbnews/20201212/1446264.md">拜登不会赢，六大诡异是巧合❓</a></li>
+<li><a href="/bannedvideo/20201212/1446159.md">💥未来24小时美国要出大事情！诉讼风暴红蓝对决！决定历史走向的临界点，大家小心猪党拍黑砖！</a></li>
+<li><a href="/cnnews/20201212/1446238.md">快讯！宾州众议员再向最高法院提交申请书【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201212/1446145.md">14副国级高官被美制裁 中共对等反制笑翻网友</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
