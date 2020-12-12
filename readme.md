@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20201212/1446153.md">德州议员将提案公投决定是否「独立建国」</a></li>
 <li><a href="/cnnews/20201211/1445842.md">重磅！五角大楼宣布计划撤回对中情局大部分军事支持 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201211/1445910.md">女间谍事件发酵 还牵出拜登、奥巴马？方芳又回到美国？亨特被查 左媒趋利转调；中共在美国的“老朋友”都有谁？华尔街为何押拜登？</a></li>
-<li><a href="/topimagenews/20201211/1445830.md">示范意义重大！林伍德大律师向最高法院提起诉讼【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201212/1446249.md">川普更换作战司令部指挥官：此人十分彪悍 有实战经验</a></li>
+<li><a href="/topimagenews/20201212/1446341.md">快讯！川普对最高法院的回应来了！ 【阿波罗网编译】</a></li>
 <li><a href="/cnnews/hknews/20201212/1446147.md">李嘉诚喜得诺奖奖牌 敏感时刻再评香港？</a></li>
 <li><a href="/cbnews/20201211/1445873.md">朱利安尼语出惊人：到底有多少共谍贴上拜登？</a></li>
 <li><a href="/cnnews/20201211/1445913.md">川普新突破</a></li>
-<li><a href="/cbnews/20201212/1446249.md">川普更换作战司令部指挥官：此人十分彪悍 有实战经验</a></li>
-<li><a href="/cbnews/20201211/1445939.md">近50个州在德州诉讼案中选边站；意外的川粉？中使馆转推川普大选推文；德州检察长：起诉谷歌 几周后将到来；乔州两民主党参议员候选人 被爆与共产党有关【希望之声TV】</a></li>
 <li><a href="/cbnews/20201212/1446184.md">德州案受挫 川普呼唤民意   嘉宾:方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/11)</a></li>
+<li><a href="/cbnews/20201211/1445939.md">近50个州在德州诉讼案中选边站；意外的川粉？中使馆转推川普大选推文；德州检察长：起诉谷歌 几周后将到来；乔州两民主党参议员候选人 被爆与共产党有关【希望之声TV】</a></li>
 <li><a href="/taiwannews/20201211/1445867.md">美六州再提动议挺德州！川普：最高法院有机会拯救国家</a></li>
+<li><a href="/cbnews/20201212/1446215.md">最高院驳回德州军团诉讼，美利坚面临抉择！败贺组合成为时代年度疯晕人物！预言还是预谋？这套卡牌很光明！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.11)‬</a></li>
 <li><a href="/ssgc/20201212/1446097.md">〖兲朝浮世绘〗拜登成弃子 要被丢掉了？</a></li>
-<li><a href="/bannedvideo/20201211/1445874.md">一小时内连发9推 川普首用“政变”一词</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201212/1446375.md" target="_blank">遭制裁的中共人大副委员长们的两宗罪</a></li>
 <li><a href="/cbnews/20201212/1446362.md" target="_blank">详解乔治亚州与中共密切关系 不止于商业</a></li>
 <li><a href="/cbnews/20201212/1446360.md" target="_blank">【第209期】德州诉讼被最高法院驳回，法律战走不通？红脖子誓言捍卫宪法！美国内战从德州爆发？王毅中美关系讲话三版本，演的哪一出？</a></li>
 <li><a href="/cbnews/20201212/1446351.md" target="_blank">江峰：MV《川建国》</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201212/1446122.md" target="_blank">陈破空：直播预告：期待最高法院历史性裁决！五十州动起来，全美法律大战。陈破空与网友互动 Q&amp;A 美东时间12月11日周五晚上八点，即中港台时间12月11日周日早上九点</a></li>
 <li><a href="/cbnews/20201212/1446121.md" target="_blank">德州最高法院案件最新进展</a></li>
 <li><a href="/cbnews/20201212/1446120.md" target="_blank">司法部长“巴尔”对亨特·拜登的调查保持沉默达数月之久</a></li>
-<li><a href="/cbnews/20201212/1446115.md" target="_blank">为何挺川？纽约华人：对社会主义有切肤之痛</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201212/1446365.md" target="_blank">进行信息审查？ YouTube背后中共的影子</a></li>
 <li><a href="/comments/20201212/1446364.md" target="_blank">小学生作文《低调》火了！ 天才误算也能击中马云</a></li>
 <li><a href="/comments/20201212/1446350.md" target="_blank">促无罪释放黄之锋黎智英等 美参议员：他们只是冒犯了习的玻璃心</a></li>
 <li><a href="/comments/20201212/1446345.md" target="_blank">【要闻精粹】自己作死谁也挡不住 打脸中共一个接一个</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201212/1446231.md" target="_blank">中国历史转折 一场流氓战胜规则的悲剧</a></li>
 <li><a href="/comments/20201212/1446222.md" target="_blank">美国主流媒体怎么了 （中）</a></li>
 <li><a href="/comments/20201212/1446208.md" target="_blank">曲项向天歌——古诗的自动立体声效</a></li>
-<li><a href="/comments/20201212/1446207.md" target="_blank">全智贤新戏《智异山》剧照曝光 网:以为代言广告</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 <li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
 
 </ul>
 </div>
