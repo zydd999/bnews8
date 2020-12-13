@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20201213/1446790.md">震撼！无数美军士兵力挺川普 高喊USA 川普随行者有一特殊人物</a></li>
 <li><a href="/comments/20201213/1446770.md">川普还有戏吗？给你一颗定心丸</a></li>
 <li><a href="/topimagenews/20201213/1446977.md">川普首次大动作警告习近平 毕福剑遭央视封杀露面自比 人权日北京千人强拆别墅村</a></li>
-<li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
 <li><a href="/comments/20201213/1446803.md">马云：我早就做好了坐牢的准备</a></li>
 <li><a href="/bannedvideo/20201213/1446683.md">美国最高法院支持川普集会</a></li>
 <li><a href="/cbnews/20201212/1446526.md">江峰：裴洛西将失去议长职位 民主党终极目标落空； 蓬培奥关键时刻发声，力挺川普</a></li>
 <li><a href="/comments/20201213/1446611.md">灯灭！美国最高法驳回德州选举诉讼！川普公开唾骂了他亲自提拔的“法学精英”…全美进入内战准备模式…</a></li>
 <li><a href="/cbnews/20201213/1446693.md">美情报专家揭中共间谍男女通吃包括同性恋 美国多达数千 穿梭在顶层社会</a></li>
-<li><a href="/bannedvideo/20201213/1446620.md">【最高法驳回德州诉讼！美国民众抗议】现场人山人海，民众挥舞旗帜，共唱国歌；川普总统乘坐海军陆战一号飞机划过华盛顿上空</a></li>
 <li><a href="/topimagenews/20201213/1446728.md">救国战争 危在咫尺 最高法院拒受理不是坏事？</a></li>
+<li><a href="/bannedvideo/20201213/1446620.md">【最高法驳回德州诉讼！美国民众抗议】现场人山人海，民众挥舞旗帜，共唱国歌；川普总统乘坐海军陆战一号飞机划过华盛顿上空</a></li>
 <li><a href="/comments/20201213/1446933.md">习近平正式要收割 北京释信号 民企老板慌了？</a></li>
 <li><a href="/bannedvideo/20201212/1446492.md">德州诉讼被驳回？老共接管美国高院和国会，摊牌了！不装了！</a></li>
 <li><a href="/cnnews/20201213/1446973.md">“原配丈夫”和“二婚丈夫”有什么区别？再婚女人道出真心</a></li>
 <li><a href="/cbnews/20201213/1446715.md">文昭：最高法院路绝？两个诡异现象预示未来；最後的出路关键在最後的觉悟</a></li>
 <li><a href="/cnnews/20201213/1446694.md">情报总监 报告写好？习近平花6亿美元买多猫腻果然有鬼</a></li>
 <li><a href="/topimagenews/20201213/1446563.md">德州公投建国？法律战到头？阿波罗网2周前分析不能指望大法官,最新分析…</a></li>
-<li><a href="/yule/20201213/1446704.md">室外仅5度 47岁朱茵现露天舞台 一身短裙惹网友心疼：不冷吗</a></li>
 <li><a href="/cnnews/20201213/1447017.md">重大信号都给忽略了？川普推文中藏着神秘信息 林伍德大律师看懂了！【阿波罗网编译】</a></li>
+<li><a href="/yule/20201213/1446704.md">室外仅5度 47岁朱茵现露天舞台 一身短裙惹网友心疼：不冷吗</a></li>
 <li><a href="/comments/20201213/1446964.md">【微博精粹】澳籍女谍色诱国军将领竟去美国 方芳们遍布五眼联盟</a></li>
 <li><a href="/cbnews/20201213/1446600.md">亏大了…昆明女砸1400万买14套房 一年跌300万</a></li>
-<li><a href="/bannedvideo/20201212/1446482.md">习近平失踪了？闭门思过还是准备打仗？身边有没有异动？美国即将定罪中共，国台办扬言要打台湾。12月12专题1 马先</a></li>
+<li><a href="/comments/20201213/1446853.md">总冠军吸毒被捕：冰毒 上瘾背后是性的疯狂</a></li>
+<li><a href="/cbnews/20201213/1446896.md">美情报界：女间谍多达数千 中共女谍最阴险</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201213/1447117.md" target="_blank">勇气与智慧，“且行且珍惜”吧，最高法院</a></li>
 <li><a href="/cbnews/20201213/1447141.md" target="_blank">陈破空：王沪宁怎么了？专找美女记者下手！中共官员连续坠楼。美国疫苗启用！秘鲁叫停中国疫苗</a></li>
 <li><a href="/cbnews/20201213/1447097.md" target="_blank">20201213 最高院驳回 川普声东击西 还有大招逆转  中共人大副委员长全列制裁 下一波栗战书危险!习近平? 中共军事扩张威胁美国 资本主义堕落引左右战 川普努力抗争中</a></li>
 <li><a href="/cbnews/20201213/1447024.md" target="_blank">视频：盛雪怒批老民运胡说</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201213/1446692.md" target="_blank">钟南山为自己塑像揭幕 网友：要超习近平？钟悬了</a></li>
 <li><a href="/cbnews/20201213/1446691.md" target="_blank">新疆吐鲁番突现本土感染病例 病源未知</a></li>
 <li><a href="/cbnews/20201213/1446682.md" target="_blank">〖博谈编译〗“川普就是为这个历史时刻而生的”</a></li>
-<li><a href="/cbnews/20201213/1446647.md" target="_blank">被拘彭博雇员与澳籍官媒主播是好友 疑两案相关</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 
 </ul>
 </div>
