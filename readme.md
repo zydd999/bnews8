@@ -12,20 +12,20 @@
 <li><a href="/cnnews/20201212/1446463.md">习近平收拾了马云 富二代变得听话了</a></li>
 <li><a href="/comments/20201212/1446378.md">子年、子月、子日，出大事了</a></li>
 <li><a href="/topimagenews/20201212/1446361.md">快讯！川普：一场被操纵的选举 继续战斗吧！ 【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201212/1446249.md">川普更换作战司令部指挥官：此人十分彪悍 有实战经验</a></li>
 <li><a href="/bannedvideo/20201212/1446377.md">美国最高法院7比2驳回德州诉讼；保守派大法官 有人坚守 有人动摇；鲍威尔连夜向最高法院提交新诉讼；德州共和党呼吁红州自组联邦宣布独立；捍卫宪法 百万川粉明日上街</a></li>
 <li><a href="/cbnews/20201212/1446478.md">陈破空：习近平急了！公开向党内政敌亮剑。遭制裁高官竟向美国示好。高官夫人心乱</a></li>
-<li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
 <li><a href="/cbnews/20201213/1446692.md">钟南山为自己塑像揭幕 网友：要超习近平？钟悬了</a></li>
-<li><a href="/bannedvideo/20201212/1446460.md">德州诉讼被驳回,川普最后的机会……当法律不能维护公平、正义……我们将如何选择?</a></li>
+<li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
 <li><a href="/cbnews/20201212/1446526.md">江峰：裴洛西将失去议长职位 民主党终极目标落空； 蓬培奥关键时刻发声，力挺川普</a></li>
-<li><a href="/cbnews/20201212/1446264.md">拜登不会赢，六大诡异是巧合❓</a></li>
+<li><a href="/bannedvideo/20201212/1446460.md">德州诉讼被驳回,川普最后的机会……当法律不能维护公平、正义……我们将如何选择?</a></li>
+<li><a href="/bannedvideo/20201213/1446683.md">美国最高法院支持川普集会</a></li>
 <li><a href="/bannedvideo/20201213/1446620.md">【最高法驳回德州诉讼！美国民众抗议】现场人山人海，民众挥舞旗帜，共唱国歌；川普总统乘坐海军陆战一号飞机划过华盛顿上空</a></li>
-<li><a href="/cnnews/20201212/1446390.md">“戒严!新的选举!手工点票！由军方计票！…”无数民众力挺川普【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201212/1446363.md">突发：最高法拒绝了德州诉讼 更大事件将会发生？</a></li>
+<li><a href="/cnnews/20201212/1446390.md">“戒严!新的选举!手工点票！由军方计票！…”无数民众力挺川普【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201212/1446492.md">德州诉讼被驳回？老共接管美国高院和国会，摊牌了！不装了！</a></li>
 <li><a href="/bannedvideo/20201212/1446437.md">文睿：再大的蝼蚁也只是蝼蚁，中共开始对中产阶级动手了</a></li>
-<li><a href="/bannedvideo/20201213/1446683.md">美国最高法院支持川普集会</a></li>
+<li><a href="/cbnews/20201213/1446693.md">美情报专家揭中共间谍男女通吃包括同性恋 美国多达数千 穿梭在顶层社会</a></li>
+<li><a href="/topimagenews/20201213/1446563.md">德州公投建国？法律战到头？阿波罗网2周前分析不能指望大法官,最新分析…</a></li>
 <li><a href="/cbnews/20201212/1446308.md">翻版王沪宁？揭习近平国师与江泽民隐秘关系</a></li>
 <li><a href="/taiwannews/20201212/1446337.md">最高法院回拒德州诉讼！最严峻时刻到来，美国或走向另一个方向</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201213/1446854.md" target="_blank">热贴：这次上帝给了川普如林肯的历史机遇</a></li>
+<li><a href="/comments/20201213/1446853.md" target="_blank">总冠军吸毒被捕：冰毒 上瘾背后是性的疯狂</a></li>
+<li><a href="/comments/20201213/1446850.md" target="_blank">袁弓夷：军事法庭审判叛国者</a></li>
+<li><a href="/comments/20201213/1446848.md" target="_blank">“凡尔赛”是什么梗？你如何看待朋友圈那些“凡尔赛花式炫富”？</a></li>
 <li><a href="/comments/20201213/1446804.md" target="_blank">彭天然： 芮成钢：刚出狱 谢邀</a></li>
 <li><a href="/comments/20201213/1446803.md" target="_blank">马云：我早就做好了坐牢的准备</a></li>
 <li><a href="/comments/20201213/1446802.md" target="_blank">网络民议：只许州官进口 不许百姓买肉</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201213/1446615.md" target="_blank">【视频直播】百万川普支持者云集华府 反对窃选 呼唤大选诚信</a></li>
 <li><a href="/comments/20201213/1446614.md" target="_blank">德州案被驳回 白宫发言人谴责高院逃避职责</a></li>
 <li><a href="/comments/20201213/1446592.md" target="_blank">【选情更新12/12】德州案被高院驳回 川普：高院无智无勇 令人失望 战斗才开始</a></li>
-<li><a href="/comments/20201213/1446579.md" target="_blank">被川普骂：行动迟缓的“老乌龟”！FDA终于授权疫苗使用</a></li>
-<li><a href="/comments/20201213/1446577.md" target="_blank">美国3雪豹感染COVID-19 ，为第6种确诊动物</a></li>
-<li><a href="/comments/20201212/1446532.md" target="_blank">德州案被高院驳回 民众呼吁川普行使总统权夺回美国</a></li>
-<li><a href="/comments/20201212/1446475.md" target="_blank">地方债危机加剧 谢田：警惕地方与中央政府互相甩锅</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
