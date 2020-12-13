@@ -6,17 +6,14 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201213/1446803.md">马云：我早就做好了坐牢的准备</a></li>
-<li><a href="/cbnews/20201213/1446692.md">钟南山为自己塑像揭幕 网友：要超习近平？钟悬了</a></li>
 <li><a href="/comments/20201213/1446770.md">川普还有戏吗？给你一颗定心丸</a></li>
 <li><a href="/topimagenews/20201213/1446790.md">震撼！无数美军士兵力挺川普 高喊USA 川普随行者有一特殊人物</a></li>
 <li><a href="/topimagenews/20201213/1446977.md">川普首次大动作警告习近平 毕福剑遭央视封杀露面自比 人权日北京千人强拆别墅村</a></li>
-<li><a href="/bannedvideo/20201213/1446683.md">美国最高法院支持川普集会</a></li>
 <li><a href="/cbnews/20201213/1447148.md">195万中共党员的名单炸弹明天将曝光</a></li>
 <li><a href="/comments/20201213/1446933.md">习近平正式要收割 北京释信号 民企老板慌了？</a></li>
 <li><a href="/taiwannews/20201213/1447067.md">新闻12月13日 : ！谁也没想到！特朗普曝光不能说的秘密</a></li>
 <li><a href="/comments/20201213/1446611.md">灯灭！美国最高法驳回德州选举诉讼！川普公开唾骂了他亲自提拔的“法学精英”…全美进入内战准备模式…</a></li>
 <li><a href="/cnnews/20201213/1447017.md">重大信号都给忽略了？川普推文中藏着神秘信息 林伍德大律师看懂了！【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201213/1446693.md">美情报专家揭中共间谍男女通吃包括同性恋 美国多达数千 穿梭在顶层社会</a></li>
 <li><a href="/baitai/20201213/1447128.md">婆媳轮流服侍公公为侍寝权闹翻网：这是演后宫「争床」传</a></li>
 <li><a href="/topimagenews/20201213/1446728.md">救国战争 危在咫尺 最高法院拒受理不是坏事？</a></li>
 <li><a href="/cnnews/20201213/1446973.md">“原配丈夫”和“二婚丈夫”有什么区别？再婚女人道出真心</a></li>
@@ -27,7 +24,10 @@
 <li><a href="/yule/20201213/1446704.md">室外仅5度 47岁朱茵现露天舞台 一身短裙惹网友心疼：不冷吗</a></li>
 <li><a href="/cnnews/20201213/1447061.md">川普最后手段？准备回到1861年吧！中共培训外国政治人物输出习思想</a></li>
 <li><a href="/cbnews/20201213/1447141.md">陈破空：王沪宁怎么了？专找美女记者下手！中共官员连续坠楼。美国疫苗启用！秘鲁叫停中国疫苗</a></li>
+<li><a href="/topimagenews/20201214/1447208.md">为此而生 川普还有戏吗？CIA女局长怎么了？美国爱国者一片欢腾</a></li>
 <li><a href="/comments/20201213/1446964.md">【微博精粹】澳籍女谍色诱国军将领竟去美国 方芳们遍布五眼联盟</a></li>
+<li><a href="/cbnews/20201213/1446896.md">美情报界：女间谍多达数千 中共女谍最阴险</a></li>
+<li><a href="/cbnews/20201213/1446980.md">打官司只为“暖场” ？川普还有两大绝招？乌纱帽不保？乔州州务卿恐被革职？国会通过国防授权法案 川普可能行使否决权？【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201214/1447270.md" target="_blank">路透：骇客入侵美财政部窃资讯 白宫开国安会议</a></li>
+<li><a href="/cbnews/20201214/1447267.md" target="_blank">陈破空：直播预告：12月14日，美国迎来关键一天！选举人团是否有变数？陈破空与网友互动 Q&amp;A 美东时间12月13日周日晚上八点，即中港台时间12月14日周一早上九点</a></li>
+<li><a href="/cbnews/20201214/1447265.md" target="_blank">大选更新12.13：鲍威尔：川普行政令可扣押投票机</a></li>
 <li><a href="/cbnews/20201214/1447248.md" target="_blank">把积蓄全藏家里！58岁翁烧柴煮饭 60万现金变灰烬</a></li>
 <li><a href="/cbnews/20201214/1447245.md" target="_blank">章家敦：北京“将使用任何可能的手段”从内部摧毁美国</a></li>
 <li><a href="/cbnews/20201214/1447239.md" target="_blank">大律师伍德：川普应该宣布戒严</a></li>
@@ -58,15 +61,14 @@
 <li><a href="/cbnews/20201213/1446793.md" target="_blank">习近平怕什么？再强调政治安全</a></li>
 <li><a href="/cbnews/20201213/1446760.md" target="_blank">中南海“首犯”露面 中美商会讲话不忘捧习</a></li>
 <li><a href="/cbnews/20201213/1446759.md" target="_blank">大陆5旬外送郎每天送餐12小时 叹：儿子毕业3年只待在家</a></li>
-<li><a href="/cbnews/20201213/1446748.md" target="_blank">大选更新12.12：川粉：我们很快会大赢</a></li>
-<li><a href="/cbnews/20201213/1446747.md" target="_blank">1776/2020 伟大复兴从今天开始   嘉宾: 方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/12)</a></li>
-<li><a href="/cbnews/20201213/1446725.md" target="_blank">司法维权路不通，1861要重演？捍卫宪法拯救联邦，川建国的玄武门之变！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.12)‬</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201214/1447269.md" target="_blank">众院GOP党鞭：法律战仍在进行 拜登尚未当选</a></li>
+<li><a href="/topimagenews/20201214/1447268.md" target="_blank">震惊！中共基因编辑定制人类 习近平表现异常到底怎么了？ 芯片国企都救不了！坐视违约</a></li>
 <li><a href="/topimagenews/20201214/1447208.md" target="_blank">为此而生 川普还有戏吗？CIA女局长怎么了？美国爱国者一片欢腾</a></li>
 <li><a href="/topimagenews/20201213/1446977.md" target="_blank">川普首次大动作警告习近平 毕福剑遭央视封杀露面自比 人权日北京千人强拆别墅村</a></li>
 <li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
@@ -90,14 +92,13 @@
 <li><a href="/topimagenews/20201210/1445461.md" target="_blank">拯救美国 好消息！朱利安尼出院 超20位议员促巴尔任命特别检察官</a></li>
 <li><a href="/topimagenews/20201210/1445358.md" target="_blank">一呼百应 川普联手德州告上最高法院 美宾州州长确诊中共病毒 在家隔离</a></li>
 <li><a href="/topimagenews/20201210/1445210.md" target="_blank">所谓深层政府到底是什么？</a></li>
-<li><a href="/topimagenews/20201210/1445168.md" target="_blank">参与操纵大选？扎克伯格夫妇给“民主党特工”提供巨款【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201210/1445098.md" target="_blank">习近平频喊“备战打仗”内情不堪 四川战时状态居民出逃被堵 多学校封校</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201214/1447264.md" target="_blank">鲍威尔向高院提诉 要求撤三州认证并阻选举人投票</a></li>
 <li><a href="/comments/20201214/1447253.md" target="_blank">【选情更新12/13】川普将拒签《国防授权法》对抗社媒保护伞第230条</a></li>
 <li><a href="/comments/20201214/1447241.md" target="_blank">川普：比起诉讼冲突 拜登当“非法总统”更糟</a></li>
 <li><a href="/comments/20201214/1447231.md" target="_blank">中共官员报告泄密如何在海外统战和打压信仰</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201213/1446963.md" target="_blank">中共美人计案 加州众议员被指听其安排实习生</a></li>
 <li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
 <li><a href="/comments/20201213/1446933.md" target="_blank">习近平正式要收割 北京释信号 民企老板慌了？</a></li>
-<li><a href="/comments/20201213/1446926.md" target="_blank">中共病毒爆发一年中共防疫思维新瓶装旧酒</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 
 </ul>
 </div>
