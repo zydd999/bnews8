@@ -17,17 +17,17 @@
 <li><a href="/baitai/20201213/1447128.md">婆媳轮流服侍公公为侍寝权闹翻网：这是演后宫「争床」传</a></li>
 <li><a href="/cnnews/20201213/1446973.md">“原配丈夫”和“二婚丈夫”有什么区别？再婚女人道出真心</a></li>
 <li><a href="/topimagenews/20201213/1446728.md">救国战争 危在咫尺 最高法院拒受理不是坏事？</a></li>
+<li><a href="/topimagenews/20201214/1447208.md">为此而生 川普还有戏吗？CIA女局长怎么了？美国爱国者一片欢腾</a></li>
 <li><a href="/cbnews/20201213/1446715.md">文昭：最高法院路绝？两个诡异现象预示未来；最後的出路关键在最後的觉悟</a></li>
 <li><a href="/baitai/20201213/1447010.md">主宰全球新冠肺炎疫情病毒株被找到 登国际期刊</a></li>
-<li><a href="/topimagenews/20201214/1447208.md">为此而生 川普还有戏吗？CIA女局长怎么了？美国爱国者一片欢腾</a></li>
 <li><a href="/comments/20201213/1446853.md">总冠军吸毒被捕：冰毒 上瘾背后是性的疯狂</a></li>
+<li><a href="/taiwannews/20201214/1447204.md">最後的痛苦！川普今晨承认：明天-选举团日不好过 但绝不言败</a></li>
 <li><a href="/cbnews/20201213/1447141.md">陈破空：王沪宁怎么了？专找美女记者下手！中共官员连续坠楼。美国疫苗启用！秘鲁叫停中国疫苗</a></li>
 <li><a href="/cnnews/20201213/1447061.md">川普最后手段？准备回到1861年吧！中共培训外国政治人物输出习思想</a></li>
 <li><a href="/comments/20201213/1446964.md">【微博精粹】澳籍女谍色诱国军将领竟去美国 方芳们遍布五眼联盟</a></li>
-<li><a href="/taiwannews/20201214/1447204.md">最後的痛苦！川普今晨承认：明天-选举团日不好过 但绝不言败</a></li>
 <li><a href="/cbnews/20201213/1446896.md">美情报界：女间谍多达数千 中共女谍最阴险</a></li>
 <li><a href="/cbnews/20201213/1446980.md">打官司只为“暖场” ？川普还有两大绝招？乌纱帽不保？乔州州务卿恐被革职？国会通过国防授权法案 川普可能行使否决权？【希望之声TV】</a></li>
-<li><a href="/bannedvideo/20201213/1447021.md">共党表示一定要把老朋友扶上位，否则未来的四年，它们就要官不聊生了 【官不聊生】时事小品_大陆新闻解毒</a></li>
+<li><a href="/comments/20201213/1447096.md">中共195万党员名单外泄 惊曝渗透英领馆、辉瑞、波音</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201214/1447292.md" target="_blank">华盛顿DC集会 波士顿华人发出响亮声音</a></li>
+<li><a href="/comments/20201214/1447291.md" target="_blank">袁弓夷：川普总统在等待老百姓的觉醒</a></li>
+<li><a href="/comments/20201214/1447290.md" target="_blank">川普：巴尔选举前不调查亨特 “正义”来的太晚</a></li>
+<li><a href="/comments/20201214/1447289.md" target="_blank">现在大蒜都这么贵了，你会囤积吗？</a></li>
+<li><a href="/comments/20201214/1447288.md" target="_blank">摆脱手脚冰冷！疗愈系饮品让你健康过严冬</a></li>
+<li><a href="/comments/20201214/1447287.md" target="_blank">冬天要当心暗藏多种致病菌的这个健康【地雷】</a></li>
+<li><a href="/comments/20201214/1447286.md" target="_blank">维生素D，为什么是英国人的“大力丸”……</a></li>
 <li><a href="/comments/20201214/1447271.md" target="_blank">川普到访西点军校橄榄球赛 军官学员齐声高呼“USA”</a></li>
 <li><a href="/comments/20201214/1447264.md" target="_blank">鲍威尔向高院提诉 要求撤三州认证并阻选举人投票</a></li>
 <li><a href="/comments/20201214/1447253.md" target="_blank">【选情更新12/13】川普将拒签《国防授权法》对抗社媒保护伞第230条</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20201213/1447044.md" target="_blank">甲亢患者的日常保健</a></li>
 <li><a href="/comments/20201213/1447027.md" target="_blank">顺利脱险！越野车司机展现90度下坡超惊险技术~</a></li>
 <li><a href="/comments/20201213/1447026.md" target="_blank">狗狗也会拦冰淇淋车？它能吃吗？</a></li>
-<li><a href="/comments/20201213/1447019.md" target="_blank">内蒙包头副市长王美斌坠亡 大陆律师质疑死因</a></li>
-<li><a href="/comments/20201213/1447018.md" target="_blank">最辛苦也最幸福的工作，养娃的爸妈不容易啊~</a></li>
-<li><a href="/comments/20201213/1446989.md" target="_blank">他帮中共打赢辽沈战役 在政治运动中被整30年</a></li>
-<li><a href="/comments/20201213/1446965.md" target="_blank">程翔: 基辛格时代的终结</a></li>
-<li><a href="/comments/20201213/1446964.md" target="_blank">【微博精粹】澳籍女谍色诱国军将领竟去美国 方芳们遍布五眼联盟</a></li>
-<li><a href="/comments/20201213/1446963.md" target="_blank">中共美人计案 加州众议员被指听其安排实习生</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
