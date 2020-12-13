@@ -5,12 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20201213/1446790.md">震撼！无数美军士兵力挺川普 高喊USA 川普随行者有一特殊人物</a></li>
 <li><a href="/cbnews/20201213/1446692.md">钟南山为自己塑像揭幕 网友：要超习近平？钟悬了</a></li>
+<li><a href="/topimagenews/20201213/1446790.md">震撼！无数美军士兵力挺川普 高喊USA 川普随行者有一特殊人物</a></li>
 <li><a href="/comments/20201213/1446770.md">川普还有戏吗？给你一颗定心丸</a></li>
 <li><a href="/cbnews/20201212/1446478.md">陈破空：习近平急了！公开向党内政敌亮剑。遭制裁高官竟向美国示好。高官夫人心乱</a></li>
-<li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
 <li><a href="/topimagenews/20201213/1446977.md">川普首次大动作警告习近平 毕福剑遭央视封杀露面自比 人权日北京千人强拆别墅村</a></li>
+<li><a href="/taiwannews/20201212/1446484.md">最高法悍然驳回德州诉讼！德州霸气回应！这三人登上耻辱柱</a></li>
 <li><a href="/comments/20201213/1446803.md">马云：我早就做好了坐牢的准备</a></li>
 <li><a href="/bannedvideo/20201213/1446683.md">美国最高法院支持川普集会</a></li>
 <li><a href="/cbnews/20201212/1446526.md">江峰：裴洛西将失去议长职位 民主党终极目标落空； 蓬培奥关键时刻发声，力挺川普</a></li>
@@ -20,9 +20,9 @@
 <li><a href="/topimagenews/20201213/1446728.md">救国战争 危在咫尺 最高法院拒受理不是坏事？</a></li>
 <li><a href="/comments/20201213/1446933.md">习近平正式要收割 北京释信号 民企老板慌了？</a></li>
 <li><a href="/bannedvideo/20201212/1446492.md">德州诉讼被驳回？老共接管美国高院和国会，摊牌了！不装了！</a></li>
-<li><a href="/cbnews/20201213/1446715.md">文昭：最高法院路绝？两个诡异现象预示未来；最後的出路关键在最後的觉悟</a></li>
-<li><a href="/cnnews/20201213/1446694.md">情报总监 报告写好？习近平花6亿美元买多猫腻果然有鬼</a></li>
 <li><a href="/cnnews/20201213/1446973.md">“原配丈夫”和“二婚丈夫”有什么区别？再婚女人道出真心</a></li>
+<li><a href="/cnnews/20201213/1446694.md">情报总监 报告写好？习近平花6亿美元买多猫腻果然有鬼</a></li>
+<li><a href="/cbnews/20201213/1446715.md">文昭：最高法院路绝？两个诡异现象预示未来；最後的出路关键在最後的觉悟</a></li>
 <li><a href="/topimagenews/20201213/1446563.md">德州公投建国？法律战到头？阿波罗网2周前分析不能指望大法官,最新分析…</a></li>
 <li><a href="/yule/20201213/1446704.md">室外仅5度 47岁朱茵现露天舞台 一身短裙惹网友心疼：不冷吗</a></li>
 <li><a href="/cbnews/20201213/1446600.md">亏大了…昆明女砸1400万买14套房 一年跌300万</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 
 </ul>
 </div>
