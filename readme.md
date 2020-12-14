@@ -11,13 +11,13 @@
 <li><a href="/bannedvideo/20201214/1447266.md">川普：法庭不是讲理的地方，国会也不给你申冤，那就让我们反击吧！人民就等一声令下了！12月14 专题  马先</a></li>
 <li><a href="/worldnews/20201214/1447243.md">四川惊现武汉封城惨况 中国网友大惊：这么快重演</a></li>
 <li><a href="/cbnews/20201214/1447552.md">分析：习近平遭致命一击 疑有人从内部瓦解中共</a></li>
-<li><a href="/ssgc/20201214/1447244.md">〖兲朝浮世绘〗三个川普任命的大法官都叛变 美国人民要起义</a></li>
 <li><a href="/funmedia/20201214/1447295.md">泰国和韩国都不去了 中国游客又扑向了这里 当地人：送钱来了</a></li>
+<li><a href="/ssgc/20201214/1447244.md">〖兲朝浮世绘〗三个川普任命的大法官都叛变 美国人民要起义</a></li>
 <li><a href="/topimagenews/20201214/1447438.md">阿波罗网4个月前率先重磅报道此事！现成全球爆炸性新闻【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201214/1447268.md">震惊！中共基因编辑定制人类 习近平表现异常到底怎么了？ 芯片国企都救不了！坐视违约</a></li>
-<li><a href="/cnnews/20201214/1447383.md">黎智英「铁链缠腰」震惊全球 人权组织执行长：有必要吗？</a></li>
-<li><a href="/cbnews/20201214/1447200.md">钟南山为“钟南山雕像”揭幕 网友讥讽如潮</a></li>
 <li><a href="/cnnews/20201214/1447530.md">看看这是什么？！林伍德愤怒发声：做你们该死的工作！【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201214/1447200.md">钟南山为“钟南山雕像”揭幕 网友讥讽如潮</a></li>
+<li><a href="/cnnews/20201214/1447383.md">黎智英「铁链缠腰」震惊全球 人权组织执行长：有必要吗？</a></li>
 <li><a href="/bannedvideo/20201214/1447276.md">财经冷眼：  突发！中共195万党员名单外泄，海外情报系统受重创！波音空客辉瑞汇丰、西方领事馆8万机构潜伏大量党员！美国财政部信息被有组织窃取！（20201213第404期）</a></li>
 <li><a href="/taiwannews/20201214/1447516.md">🔥反击开始 川普王牌将出！</a></li>
 <li><a href="/bannedvideo/20201214/1447342.md">重磅消息❗找到阿南德预言2021“习一尊”倒台证据❗3大预言 “习一尊”脑袋不保❗❗</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/cnnews/20201214/1447240.md">新冠肺炎：辉瑞疫苗副作用 4人接种后面瘫</a></li>
 <li><a href="/comments/20201214/1447222.md">展开武斗！成千上万的民众涌到华盛顿特区，高举国旗与安提法展开了斗争！多人被刀刺伤，警方开始抓人…</a></li>
 <li><a href="/bannedvideo/20201214/1447293.md">惊爆200万中共党员名单！请记住，这还不是大招！间谍大军玩残美国，搞垮全世界！</a></li>
-<li><a href="/cnnews/20201214/1447235.md">天呈异象 99%的人不知道这件事</a></li>
 <li><a href="/comments/20201214/1447401.md">川普政府又一项历史性突破</a></li>
+<li><a href="/cnnews/20201214/1447235.md">天呈异象 99%的人不知道这件事</a></li>
 <li><a href="/comments/20201214/1447402.md">林保华：195万党员名单外泄 中共高层的叛徒是他？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201214/1447672.md" target="_blank">中共党员渗透西方多国驻华使领馆及大企业</a></li>
 <li><a href="/cbnews/20201214/1447663.md" target="_blank">川普：摇摆州认证拜登赢 是犯下严重罪行</a></li>
 <li><a href="/cbnews/20201214/1447662.md" target="_blank">大选更新12.14：企业家：来自中共的政变</a></li>
 <li><a href="/cbnews/20201214/1447655.md" target="_blank">鲍威尔：可行使外国干涉选举行政令；川普：摇摆州认证拜登赢 是严重罪行；参院周三选举听证会 名律师将作证；弗林将军：有国外渗透，应发戒严令！左翼暴徒华府行凶 集会后刺伤多人【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201214/1447265.md" target="_blank">大选更新12.13：鲍威尔：川普行政令可扣押投票机</a></li>
 <li><a href="/cbnews/20201214/1447248.md" target="_blank">把积蓄全藏家里！58岁翁烧柴煮饭 60万现金变灰烬</a></li>
 <li><a href="/cbnews/20201214/1447245.md" target="_blank">章家敦：北京“将使用任何可能的手段”从内部摧毁美国</a></li>
-<li><a href="/cbnews/20201214/1447239.md" target="_blank">大律师伍德：川普应该宣布戒严</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201214/1447671.md" target="_blank">大陆新娘为中共搞统战 遭台北地检署起诉 最高判7年</a></li>
 <li><a href="/comments/20201214/1447643.md" target="_blank">阿里“五虎将”之一的胡伟雄传涉贪被带走</a></li>
 <li><a href="/comments/20201214/1447642.md" target="_blank">川普：摇摆州有大量选举欺诈 认证拜登赢是犯重罪</a></li>
 <li><a href="/comments/20201214/1447600.md" target="_blank">王藏夫妇已被起诉 亲属被株连</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201214/1447364.md" target="_blank">关键高官外泄195万党员名单？习急换自己人</a></li>
 <li><a href="/comments/20201214/1447222.md" target="_blank">展开武斗！成千上万的民众涌到华盛顿特区，高举国旗与安提法展开了斗争！多人被刀刺伤，警方开始抓人…</a></li>
 <li><a href="/comments/20201214/1447308.md" target="_blank">美媒：亨特·拜登接到传票 需提交20个实体相关文件</a></li>
-<li><a href="/comments/20201214/1447307.md" target="_blank">曾预言最高院失守的占星师给出大选的最终结果</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
 <li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
