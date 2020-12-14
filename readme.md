@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20201214/1447268.md">震惊！中共基因编辑定制人类 习近平表现异常到底怎么了？ 芯片国企都救不了！坐视违约</a></li>
 <li><a href="/bannedvideo/20201214/1447640.md">司法部长巴尔受贿4000万美元，比珍珠港事件严重百倍！美国被这帮瘪犊子们给整完犊子啦！</a></li>
 <li><a href="/cnnews/20201214/1447530.md">看看这是什么？！林伍德愤怒发声：做你们该死的工作！【阿波罗网编译】</a></li>
-<li><a href="/taiwannews/20201214/1447516.md">🔥反击开始 川普王牌将出！</a></li>
 <li><a href="/cbnews/20201214/1447616.md">快讯：谷歌大规模故障 临时看油管办法</a></li>
+<li><a href="/taiwannews/20201214/1447516.md">🔥反击开始 川普王牌将出！</a></li>
 <li><a href="/cnnews/20201214/1447383.md">黎智英「铁链缠腰」震惊全球 人权组织执行长：有必要吗？</a></li>
 <li><a href="/bannedvideo/20201214/1447276.md">财经冷眼：  突发！中共195万党员名单外泄，海外情报系统受重创！波音空客辉瑞汇丰、西方领事馆8万机构潜伏大量党员！美国财政部信息被有组织窃取！（20201213第404期）</a></li>
 <li><a href="/bannedvideo/20201214/1447342.md">重磅消息❗找到阿南德预言2021“习一尊”倒台证据❗3大预言 “习一尊”脑袋不保❗❗</a></li>
-<li><a href="/yule/20201214/1447220.md">李若彤承认曾入戏爱上古天乐：满心满眼都是他 自曝两人无法发展原因</a></li>
+<li><a href="/cnnews/20201214/1447626.md">震撼大戏 关键时刻 川普宣布...共和党党鞭：拜登尚未当选</a></li>
 <li><a href="/cnnews/20201214/1447240.md">新冠肺炎：辉瑞疫苗副作用 4人接种后面瘫</a></li>
 <li><a href="/cbnews/20201214/1447560.md">让中国自由吧！ 前共和党主席：中国人已准备好改变</a></li>
 <li><a href="/cbnews/20201214/1447489.md">CIA女局长吉娜•哈斯佩尔Gina Haspel的真实去向？配合大动作，作战司令部指挥官换人。弗林将军表示:美国总统由人民决定！州务卿有这兄弟 乔州选举结果不奇怪</a></li>
-<li><a href="/cnnews/20201214/1447626.md">震撼大戏 关键时刻 川普宣布...共和党党鞭：拜登尚未当选</a></li>
 <li><a href="/comments/20201214/1447401.md">川普政府又一项历史性突破</a></li>
 <li><a href="/cnnews/20201214/1447235.md">天呈异象 99%的人不知道这件事</a></li>
 <li><a href="/comments/20201214/1447222.md">展开武斗！成千上万的民众涌到华盛顿特区，高举国旗与安提法展开了斗争！多人被刀刺伤，警方开始抓人…</a></li>
+<li><a href="/bannedvideo/20201214/1447293.md">惊爆200万中共党员名单！请记住，这还不是大招！间谍大军玩残美国，搞垮全世界！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201215/1447758.md" target="_blank">美情报界:女谍数千 女共谍最阴险；丑闻议员听从女谍建议；惊！中共“外交官”手伸到各个角落；美富翁:缓慢的政变；骇客入侵美财政部 白宫开国安会议；谷歌YouTube等25项服务一度瘫痪【希望之声TV】</a></li>
 <li><a href="/cbnews/20201214/1447723.md" target="_blank">加入对中国封锁网！德国将派军舰巡航印太</a></li>
 <li><a href="/cbnews/20201214/1447672.md" target="_blank">中共党员渗透西方多国驻华使领馆及大企业</a></li>
 <li><a href="/cbnews/20201214/1447663.md" target="_blank">川普：摇摆州认证拜登赢 是犯下严重罪行</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201214/1447270.md" target="_blank">路透：骇客入侵美财政部窃资讯 白宫开国安会议</a></li>
 <li><a href="/cbnews/20201214/1447267.md" target="_blank">陈破空：直播预告：12月14日，美国迎来关键一天！选举人团是否有变数？陈破空与网友互动 Q&amp;A 美东时间12月13日周日晚上八点，即中港台时间12月14日周一早上九点</a></li>
 <li><a href="/cbnews/20201214/1447265.md" target="_blank">大选更新12.13：鲍威尔：川普行政令可扣押投票机</a></li>
-<li><a href="/cbnews/20201214/1447248.md" target="_blank">把积蓄全藏家里！58岁翁烧柴煮饭 60万现金变灰烬</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201215/1447754.md" target="_blank">【选情更新12/14】本周是关键 弗林将军：总统应宣布戒严</a></li>
 <li><a href="/comments/20201215/1447738.md" target="_blank">美作家：川普五项政绩创纪录 左媒闭口不谈</a></li>
 <li><a href="/comments/20201215/1447729.md" target="_blank">美企业家：中共对2020大选发起了一场政变</a></li>
 <li><a href="/comments/20201214/1447673.md" target="_blank">《黄帝内经》：原来肾虚的真正原因是……</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201214/1447380.md" target="_blank">需要行动的不是川普 而是你</a></li>
 <li><a href="/comments/20201214/1447379.md" target="_blank">李濠仲：其实川普比拜登好懂</a></li>
 <li><a href="/comments/20201214/1447378.md" target="_blank">二大爷：伊朗带路党：谢谢你 摩萨德</a></li>
-<li><a href="/comments/20201214/1447377.md" target="_blank">川普的大决战刚开始 是时候拯救美国的未来了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
