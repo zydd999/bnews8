@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20201214/1447640.md">司法部长巴尔受贿4000万美元，比珍珠港事件严重百倍！美国被这帮瘪犊子们给整完犊子啦！</a></li>
 <li><a href="/cnnews/20201215/1447804.md">内循环失效？俄罗斯停止供电 浙江立刻停产</a></li>
 <li><a href="/bannedvideo/20201215/1447768.md">突发：扭转乾坤的核弹报告终见天日！为川普铺平绝地反击之路！过程艰辛遭死亡威胁！</a></li>
 <li><a href="/cnnews/20201215/1447752.md">喜出望外 川普签署行政命令 | 警告摇摆州：认证拜登赢犯下重罪</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/topimagenews/20201215/1447943.md">四摇摆州共和党选举人投“替代”票给川普</a></li>
 <li><a href="/topimagenews/20201215/1448053.md">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201215/1447788.md">都是拜登坏消息 巴尔要下台 | 拜登司法部长人选被控性骚扰 多人受害</a></li>
-<li><a href="/topimagenews/20201215/1447921.md">选举人团投票标志大选结束？川普幕僚驳斥</a></li>
 <li><a href="/cbnews/20201215/1447963.md">天亮时分：六州79张选举人票投给川普；巴尔辞职；密西根报告显示Dominion有意设计了作弊后门（政论天下第304集 20201214）</a></li>
+<li><a href="/topimagenews/20201215/1447921.md">选举人团投票标志大选结束？川普幕僚驳斥</a></li>
 <li><a href="/cbnews/20201215/1448063.md">全美7个州选出了两套总统“选举人”</a></li>
 <li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
 <li><a href="/cbnews/20201215/1447822.md">专家：习近平清楚 台湾打不下 中共会垮台</a></li>
+<li><a href="/taiwannews/20201215/1448050.md">蔡英文投靠拜登 宣称正式选出拜登为下任总统</a></li>
 <li><a href="/topimagenews/20201215/1447875.md">重磅！川普：司法部长巴尔将离开 副司法部长将成为代理司法部长【 阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201215/1447812.md">白宫高级顾问：“另一套选举人”将把川普的选票送到国会</a></li>
-<li><a href="/taiwannews/20201215/1448050.md">蔡英文投靠拜登 宣称正式选出拜登为下任总统</a></li>
+<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
 <li><a href="/cnnews/20201215/1447858.md">令人毛骨悚然！比尔·盖茨突然说让穷人先接种疫苗……【阿波罗网编译】图/视频</a></li>
 <li><a href="/cnnews/20201215/1447860.md">细思极恐：注射中共病毒疫苗后出现艾滋病阳性结果…</a></li>
-<li><a href="/baitai/20201214/1447648.md">花旗：国际资金正不断进入中国人民币汇率或挑战6算关</a></li>
-<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
+<li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
+<li><a href="/comments/20201215/1447774.md">美媒：司法部长巴尔从华尔街获4千万美金身家</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201215/1448301.md" target="_blank">7个州选出了两组总统选举人；白宫新闻秘书评拜登演讲；国防部换顾问 金里奇等人入选；川普宣布：司法部长巴尔圣诞节前离任；议员：壹天1300投诉；FTC要求9大社媒说明 如何搜集个人信息【希望之声TV】</a></li>
+<li><a href="/cbnews/20201215/1448299.md" target="_blank">大选更新12.15：代司法部长主管外国干预大选</a></li>
+<li><a href="/cbnews/20201215/1448298.md" target="_blank">大陆网约车为救婴闯红灯被罚 婴儿家属拒作证 令人寒心</a></li>
 <li><a href="/cbnews/20201215/1448277.md" target="_blank">陈破空：重大泄密！共特名册陆续曝光。反习阵营在行动！广州活见鬼：钟南山提前那个了</a></li>
 <li><a href="/cbnews/20201215/1448257.md" target="_blank">疫情未减 中国闹血荒 基层强制摊派献血</a></li>
 <li><a href="/cbnews/20201215/1448234.md" target="_blank">武汉女副市长徐洪兰被调查 事件登热搜榜</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20201215/1447932.md" target="_blank">最高院被狙击占星师神准预言，接下来他还说了啥？巴尔主动请辞，留点面子吧！川普不是凯撒，他是否会跨过那条卢比孔河？</a></li>
 <li><a href="/cbnews/20201215/1447909.md" target="_blank">中国多地疫情爆发 黑省东宁封城 人车禁离开</a></li>
 <li><a href="/cbnews/20201215/1447911.md" target="_blank">耶路撒冷邮报：921名政要抗议中共迫害法轮功</a></li>
-<li><a href="/cbnews/20201215/1447912.md" target="_blank">加拿大前司法部长：对中共的长期迫害必须采取行动</a></li>
-<li><a href="/cbnews/20201215/1447913.md" target="_blank">谁在盗窃美国？大纪元新唐人发布重磅纪录片</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 <li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 
 </ul>
 </div>
