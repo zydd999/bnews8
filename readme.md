@@ -8,8 +8,8 @@
 <li><a href="/cbnews/20201214/1447552.md">分析：习近平遭致命一击 疑有人从内部瓦解中共</a></li>
 <li><a href="/bannedvideo/20201214/1447640.md">司法部长巴尔受贿4000万美元，比珍珠港事件严重百倍！美国被这帮瘪犊子们给整完犊子啦！</a></li>
 <li><a href="/cnnews/20201215/1447804.md">内循环失效？俄罗斯停止供电 浙江立刻停产</a></li>
-<li><a href="/cnnews/20201215/1447752.md">喜出望外 川普签署行政命令 | 警告摇摆州：认证拜登赢犯下重罪</a></li>
 <li><a href="/taiwannews/20201214/1447516.md">🔥反击开始 川普王牌将出！</a></li>
+<li><a href="/cnnews/20201215/1447752.md">喜出望外 川普签署行政命令 | 警告摇摆州：认证拜登赢犯下重罪</a></li>
 <li><a href="/bannedvideo/20201215/1447768.md">突发：扭转乾坤的核弹报告终见天日！为川普铺平绝地反击之路！过程艰辛遭死亡威胁！</a></li>
 <li><a href="/cnnews/20201214/1447530.md">看看这是什么？！林伍德愤怒发声：做你们该死的工作！【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201215/1447799.md">川普制裁致中共内部生变 分析：习“提早开枪”</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20201214/1447560.md">让中国自由吧！ 前共和党主席：中国人已准备好改变</a></li>
 <li><a href="/cbnews/20201214/1447489.md">CIA女局长吉娜•哈斯佩尔Gina Haspel的真实去向？配合大动作，作战司令部指挥官换人。弗林将军表示:美国总统由人民决定！州务卿有这兄弟 乔州选举结果不奇怪</a></li>
 <li><a href="/cbnews/20201215/1447821.md">方芳成热点 共产国家的性间谍训练毁灭人性</a></li>
-<li><a href="/topimagenews/20201215/1447788.md">都是拜登坏消息 巴尔要下台 | 拜登司法部长人选被控性骚扰 多人受害</a></li>
 <li><a href="/comments/20201215/1447764.md">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/topimagenews/20201215/1447788.md">都是拜登坏消息 巴尔要下台 | 拜登司法部长人选被控性骚扰 多人受害</a></li>
 <li><a href="/bannedvideo/20201214/1447637.md">福林将军：川普100%会连任！因为有实锤证据证明外国势力严重干预和操纵大选，国家情报总监18日会出报告。执行2018年总统令！（12/13福克斯）</a></li>
-<li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
-<li><a href="/topimagenews/20201214/1447551.md">吓一跳！中共外交官把触角伸到了美国的各个角落</a></li>
 <li><a href="/cbnews/20201215/1447812.md">白宫高级顾问：“另一套选举人”将把川普的选票送到国会</a></li>
+<li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
+<li><a href="/topimagenews/20201215/1447943.md">四摇摆州共和党选举人投“替代”票给川普</a></li>
+<li><a href="/topimagenews/20201214/1447551.md">吓一跳！中共外交官把触角伸到了美国的各个角落</a></li>
 <li><a href="/baitai/20201214/1447648.md">花旗：国际资金正不断进入中国人民币汇率或挑战6算关</a></li>
 <li><a href="/comments/20201215/1447774.md">美媒：司法部长巴尔从华尔街获4千万美金身家</a></li>
-<li><a href="/topimagenews/20201215/1447943.md">四摇摆州共和党选举人投“替代”票给川普</a></li>
-<li><a href="/taiwannews/20201214/1447498.md">12/14日选举人团投票，川普发出严厉警告</a></li>
+<li><a href="/cbnews/20201215/1447822.md">专家：习近平清楚 台湾打不下 中共会垮台</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201215/1448094.md" target="_blank">蓬佩奥：中共是自由世界每个人的最大威胁</a></li>
 <li><a href="/cbnews/20201215/1448090.md" target="_blank">12月14日选举人投票 你需了解的六件事</a></li>
 <li><a href="/cbnews/20201215/1448085.md" target="_blank">12月14日选举人投票 你需了解的六件事；林伍德呼吁：囤积食物和水 准备应对特殊情况；曾任恐怖组织首领 谭德塞被控群体灭绝罪【希望之声TV】</a></li>
 <li><a href="/cbnews/20201215/1448084.md" target="_blank">【第212期】薇羽直播：巴尔被开！军事法官代司法部长；7州共和党投川普！拜登今夜无眠；200万中共党员名单泄露，5.2万在美国；中共军方退役将领买下200平方英里美国土地，建飞机跑道。</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201215/1447821.md" target="_blank">方芳成热点 共产国家的性间谍训练毁灭人性</a></li>
 <li><a href="/cbnews/20201215/1447820.md" target="_blank">长江口突发重大船难 中国船员3死5失踪</a></li>
 <li><a href="/cbnews/20201215/1447815.md" target="_blank">陈破空：直播预告：12月14日！重燃希望：多州共和党人另投选举人票！威州密州传出好消息。 陈破空与网友互动Q&amp;A 美东时间12月14日周一晚8点、即中港台时间12月15日周二早9点</a></li>
-<li><a href="/cbnews/20201215/1447813.md" target="_blank">鉴证报告：Dominion错误率达68%，“故意设计用作系统性欺诈”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 
 </ul>
 </div>
