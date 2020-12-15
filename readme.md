@@ -12,22 +12,22 @@
 <li><a href="/comments/20201215/1447764.md">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 <li><a href="/cbnews/20201215/1447821.md">方芳成热点 共产国家的性间谍训练毁灭人性</a></li>
 <li><a href="/topimagenews/20201215/1448013.md">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…</a></li>
+<li><a href="/cnnews/20201215/1448222.md">成都封城7天疫情骤升 当地人一番话看完好难过</a></li>
 <li><a href="/topimagenews/20201215/1447943.md">四摇摆州共和党选举人投“替代”票给川普</a></li>
 <li><a href="/topimagenews/20201215/1448053.md">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201215/1447788.md">都是拜登坏消息 巴尔要下台 | 拜登司法部长人选被控性骚扰 多人受害</a></li>
 <li><a href="/cbnews/20201215/1448173.md">司法部长巴尔辞职信全文翻译</a></li>
+<li><a href="/topimagenews/20201215/1447788.md">都是拜登坏消息 巴尔要下台 | 拜登司法部长人选被控性骚扰 多人受害</a></li>
 <li><a href="/cbnews/20201215/1447963.md">天亮时分：六州79张选举人票投给川普；巴尔辞职；密西根报告显示Dominion有意设计了作弊后门（政论天下第304集 20201214）</a></li>
-<li><a href="/cnnews/20201215/1448222.md">成都封城7天疫情骤升 当地人一番话看完好难过</a></li>
 <li><a href="/topimagenews/20201215/1447921.md">选举人团投票标志大选结束？川普幕僚驳斥</a></li>
 <li><a href="/cbnews/20201215/1448063.md">全美7个州选出了两套总统“选举人”</a></li>
-<li><a href="/taiwannews/20201215/1448050.md">蔡英文投靠拜登 宣称正式选出拜登为下任总统</a></li>
-<li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
-<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
-<li><a href="/cbnews/20201215/1447822.md">专家：习近平清楚 台湾打不下 中共会垮台</a></li>
-<li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
-<li><a href="/topimagenews/20201215/1447875.md">重磅！川普：司法部长巴尔将离开 副司法部长将成为代理司法部长【 阿波罗网编译】</a></li>
-<li><a href="/cnnews/20201215/1447858.md">令人毛骨悚然！比尔·盖茨突然说让穷人先接种疫苗……【阿波罗网编译】图/视频</a></li>
 <li><a href="/cbnews/20201215/1448234.md">武汉女副市长徐洪兰被调查 事件登热搜榜</a></li>
+<li><a href="/taiwannews/20201215/1448050.md">蔡英文投靠拜登 宣称正式选出拜登为下任总统</a></li>
+<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
+<li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
+<li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
+<li><a href="/cbnews/20201215/1447822.md">专家：习近平清楚 台湾打不下 中共会垮台</a></li>
+<li><a href="/taiwannews/20201215/1448228.md">最高法院给特朗普总统带来了奇迹！ 拜登在美国的欺诈行为</a></li>
+<li><a href="/topimagenews/20201215/1447875.md">重磅！川普：司法部长巴尔将离开 副司法部长将成为代理司法部长【 阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
 
 </ul>
 </div>
