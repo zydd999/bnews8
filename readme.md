@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20201215/1447752.md">喜出望外 川普签署行政命令 | 警告摇摆州：认证拜登赢犯下重罪</a></li>
 <li><a href="/taiwannews/20201214/1447516.md">🔥反击开始 川普王牌将出！</a></li>
 <li><a href="/cnnews/20201214/1447530.md">看看这是什么？！林伍德愤怒发声：做你们该死的工作！【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201214/1447616.md">快讯：谷歌大规模故障 临时看油管办法</a></li>
 <li><a href="/cnnews/20201214/1447383.md">黎智英「铁链缠腰」震惊全球 人权组织执行长：有必要吗？</a></li>
-<li><a href="/bannedvideo/20201214/1447342.md">重磅消息❗找到阿南德预言2021“习一尊”倒台证据❗3大预言 “习一尊”脑袋不保❗❗</a></li>
 <li><a href="/bannedvideo/20201215/1447768.md">突发：扭转乾坤的核弹报告终见天日！为川普铺平绝地反击之路！过程艰辛遭死亡威胁！</a></li>
+<li><a href="/cbnews/20201214/1447616.md">快讯：谷歌大规模故障 临时看油管办法</a></li>
+<li><a href="/bannedvideo/20201214/1447342.md">重磅消息❗找到阿南德预言2021“习一尊”倒台证据❗3大预言 “习一尊”脑袋不保❗❗</a></li>
 <li><a href="/cnnews/20201214/1447626.md">震撼大戏 关键时刻 川普宣布...共和党党鞭：拜登尚未当选</a></li>
+<li><a href="/cnnews/20201215/1447804.md">内循环失效？俄罗斯停止供电 浙江立刻停产</a></li>
 <li><a href="/cbnews/20201214/1447560.md">让中国自由吧！ 前共和党主席：中国人已准备好改变</a></li>
 <li><a href="/cbnews/20201214/1447489.md">CIA女局长吉娜•哈斯佩尔Gina Haspel的真实去向？配合大动作，作战司令部指挥官换人。弗林将军表示:美国总统由人民决定！州务卿有这兄弟 乔州选举结果不奇怪</a></li>
 <li><a href="/comments/20201214/1447401.md">川普政府又一项历史性突破</a></li>
 <li><a href="/topimagenews/20201214/1447551.md">吓一跳！中共外交官把触角伸到了美国的各个角落</a></li>
-<li><a href="/cnnews/20201215/1447804.md">内循环失效？俄罗斯停止供电 浙江立刻停产</a></li>
 <li><a href="/bannedvideo/20201214/1447637.md">福林将军：川普100%会连任！因为有实锤证据证明外国势力严重干预和操纵大选，国家情报总监18日会出报告。执行2018年总统令！（12/13福克斯）</a></li>
-<li><a href="/comments/20201214/1447222.md">展开武斗！成千上万的民众涌到华盛顿特区，高举国旗与安提法展开了斗争！多人被刀刺伤，警方开始抓人…</a></li>
 <li><a href="/comments/20201214/1447402.md">林保华：195万党员名单外泄 中共高层的叛徒是他？</a></li>
-<li><a href="/taiwannews/20201214/1447498.md">12/14日选举人团投票，川普发出严厉警告</a></li>
 <li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
+<li><a href="/taiwannews/20201214/1447498.md">12/14日选举人团投票，川普发出严厉警告</a></li>
 <li><a href="/baitai/20201214/1447648.md">花旗：国际资金正不断进入中国人民币汇率或挑战6算关</a></li>
 <li><a href="/baitai/20201214/1447417.md">浅评习近平内部讲话</a></li>
+<li><a href="/worldnews/20201214/1447591.md">全球最大手套商爆发大规模疫情 已有员工死亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,12 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201215/1447932.md" target="_blank">最高院被狙击占星师神准预言，接下来他还说了啥？巴尔主动请辞，留点面子吧！川普不是凯撒，他是否会跨过那条卢比孔河？</a></li>
+<li><a href="/cbnews/20201215/1447909.md" target="_blank">中国多地疫情爆发 黑省东宁封城 人车禁离开</a></li>
+<li><a href="/cbnews/20201215/1447911.md" target="_blank">耶路撒冷邮报：921名政要抗议中共迫害法轮功</a></li>
+<li><a href="/cbnews/20201215/1447912.md" target="_blank">加拿大前司法部长：对中共的长期迫害必须采取行动</a></li>
+<li><a href="/cbnews/20201215/1447913.md" target="_blank">谁在盗窃美国？大纪元新唐人发布重磅纪录片</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 <li><a href="/cbnews/20201215/1447924.md" target="_blank">中共也影响共和党？章家敦：北京企图摧毁美国</a></li>
 <li><a href="/cbnews/20201215/1447914.md" target="_blank">威斯康星州最高法院裁决 支持共和党；投票系统报告出炉 密州法庭允许发布；川普政府官员起诉CNN诽谤；纽约州长库默被指控性骚扰 有多名受害者；报告:88％大学限制表达和在线演讲【希望之声TV】</a></li>
 <li><a href="/cbnews/20201215/1447850.md" target="_blank">华盛顿DC集会游行 民众认清中共邪恶</a></li>
@@ -55,18 +61,13 @@
 <li><a href="/cbnews/20201214/1447672.md" target="_blank">中共党员渗透西方多国驻华使领馆及大企业</a></li>
 <li><a href="/cbnews/20201214/1447663.md" target="_blank">川普：摇摆州认证拜登赢 是犯下严重罪行</a></li>
 <li><a href="/cbnews/20201214/1447662.md" target="_blank">大选更新12.14：企业家：来自中共的政变</a></li>
-<li><a href="/cbnews/20201214/1447655.md" target="_blank">鲍威尔：可行使外国干涉选举行政令；川普：摇摆州认证拜登赢 是严重罪行；参院周三选举听证会 名律师将作证；弗林将军：有国外渗透，应发戒严令！左翼暴徒华府行凶 集会后刺伤多人【希望之声TV】</a></li>
-<li><a href="/cbnews/20201214/1447636.md" target="_blank">陈破空：习近平骄狂，遭澳大利亚石头教训！二百万共党潜伏，震动英国！加拿大叫停训狼项目</a></li>
-<li><a href="/cbnews/20201214/1447616.md" target="_blank">快讯：谷歌大规模故障 临时看油管办法</a></li>
-<li><a href="/cbnews/20201214/1447590.md" target="_blank">黑龙江省市民举报贪污入冤狱 遭狱方殴打致瘫痪</a></li>
-<li><a href="/cbnews/20201214/1447571.md" target="_blank">宫振花为每月200多元钱 举报…</a></li>
-<li><a href="/cbnews/20201214/1447560.md" target="_blank">让中国自由吧！ 前共和党主席：中国人已准备好改变</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 <li><a href="/topimagenews/20201215/1447921.md" target="_blank">选举人团投票标志大选结束？川普幕僚驳斥</a></li>
 <li><a href="/topimagenews/20201215/1447919.md" target="_blank">中美大新闻 美情报权威爆料 奥巴马庇护4大类犯罪集团 专家：川普连任有机会拉垮中共</a></li>
 <li><a href="/topimagenews/20201215/1447918.md" target="_blank">美国防部顾问大换血！金里奇等8人加入国防政策委员会</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20201212/1446361.md" target="_blank">快讯！川普：一场被操纵的选举 继续战斗吧！ 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201212/1446341.md" target="_blank">快讯！川普对最高法院的回应来了！ 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201212/1446304.md" target="_blank">豪赌？扎克伯格3.5亿买通佐治亚选举机构？油管大肆封号</a></li>
-<li><a href="/topimagenews/20201212/1446247.md" target="_blank">加州民主党人支持川普：不分党派守护自由</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201215/1447928.md" target="_blank">多米尼投票机软件近期被黑 美国土安全部介入调查</a></li>
+<li><a href="/comments/20201215/1447927.md" target="_blank">选举人团投票日 四州议员将替代票投给川普</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 <li><a href="/comments/20201215/1447900.md" target="_blank">快讯：美司法部长巴尔遭解职 川普任命新人选</a></li>
 <li><a href="/comments/20201215/1447899.md" target="_blank">白宫顾问：摇摆州议会推共和党选举人团 可助川普连任</a></li>
 <li><a href="/comments/20201215/1447864.md" target="_blank">美媒：亨特税务文件漏报40万美金被发现</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201215/1447790.md" target="_blank">中国明年3、4月超两万亿信用债到期 违约风险增加</a></li>
 <li><a href="/comments/20201215/1447775.md" target="_blank">蓬佩奥：川普打击伊斯兰恐怖主义 让美国和世界更安全</a></li>
 <li><a href="/comments/20201215/1447774.md" target="_blank">美媒：司法部长巴尔从华尔街获4千万美金身家</a></li>
-<li><a href="/comments/20201215/1447767.md" target="_blank">女助理指控纽约州长库默性骚扰 多人受害</a></li>
-<li><a href="/comments/20201215/1447766.md" target="_blank">华府挺川集会民众：我们在扞卫最后的自由之地</a></li>
-<li><a href="/comments/20201215/1447765.md" target="_blank">密歇根投票机错误率达68.05% 设备日志被删</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 
 </ul>
 </div>
