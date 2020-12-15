@@ -17,16 +17,16 @@
 <li><a href="/topimagenews/20201215/1448053.md">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201215/1448173.md">司法部长巴尔辞职信全文翻译</a></li>
 <li><a href="/topimagenews/20201215/1447788.md">都是拜登坏消息 巴尔要下台 | 拜登司法部长人选被控性骚扰 多人受害</a></li>
+<li><a href="/taiwannews/20201215/1448228.md">最高法院给特朗普总统带来了奇迹！ 拜登在美国的欺诈行为</a></li>
 <li><a href="/cbnews/20201215/1447963.md">天亮时分：六州79张选举人票投给川普；巴尔辞职；密西根报告显示Dominion有意设计了作弊后门（政论天下第304集 20201214）</a></li>
+<li><a href="/cbnews/20201215/1448234.md">武汉女副市长徐洪兰被调查 事件登热搜榜</a></li>
 <li><a href="/topimagenews/20201215/1447921.md">选举人团投票标志大选结束？川普幕僚驳斥</a></li>
 <li><a href="/cbnews/20201215/1448063.md">全美7个州选出了两套总统“选举人”</a></li>
-<li><a href="/cbnews/20201215/1448234.md">武汉女副市长徐洪兰被调查 事件登热搜榜</a></li>
+<li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
 <li><a href="/taiwannews/20201215/1448050.md">蔡英文投靠拜登 宣称正式选出拜登为下任总统</a></li>
 <li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
 <li><a href="/bannedvideo/20201215/1447735.md">美国72小时，真正的危机时刻到来！林伍德：战争储备清单，呼吁在信息来源失去的情况下，坚信总统只有一个，就是川普！不是拜登。1214专题2 马先</a></li>
-<li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
 <li><a href="/cbnews/20201215/1447822.md">专家：习近平清楚 台湾打不下 中共会垮台</a></li>
-<li><a href="/taiwannews/20201215/1448228.md">最高法院给特朗普总统带来了奇迹！ 拜登在美国的欺诈行为</a></li>
 <li><a href="/topimagenews/20201215/1447875.md">重磅！川普：司法部长巴尔将离开 副司法部长将成为代理司法部长【 阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201216/1448370.md" target="_blank">深谙中共渗透美国手段 罗森走马上任代理司法部长</a></li>
 <li><a href="/comments/20201215/1448319.md" target="_blank">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
 <li><a href="/comments/20201215/1448303.md" target="_blank">蓬佩奥：中共是美国和自由世界的最大威胁</a></li>
 <li><a href="/comments/20201215/1448281.md" target="_blank">王岐山中纪委旧部异动 陈小江摊上“烫手山芋”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201215/1448106.md" target="_blank">谭德塞涉种族灭绝 被告上国际刑事法院</a></li>
 <li><a href="/comments/20201215/1448105.md" target="_blank">中共党员渗透遍全球 澳专家：威胁严重超越安全风险</a></li>
 <li><a href="/comments/20201215/1448088.md" target="_blank">3.6亿中国人已为中共垮台进入新中国做好准备</a></li>
-<li><a href="/comments/20201215/1448087.md" target="_blank">美国防部大换血 金里奇等8人加入国防政策委员会</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
