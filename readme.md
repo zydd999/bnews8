@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201216/1448694.md" target="_blank">【文雍漫谈】人脸识别，正在终结人类的自由、重置人类的命运</a></li>
 <li><a href="/cbnews/20201216/1448868.md" target="_blank">【第213期】薇羽直播：家贼难防！太阳风漏洞横扫美国国防网络，谁是背后黑影？多米尼也有关联。</a></li>
 <li><a href="/cbnews/20201216/1448847.md" target="_blank">专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊</a></li>
 <li><a href="/cbnews/20201216/1448846.md" target="_blank">专栏 | 夜话中南海：赵乐际当年省委书记的前后任都是“党内巨贪”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201216/1448669.md" target="_blank">深谙中共渗透美国手段 罗森走马上任代理司法部长；白宫发言人：对选举提出挑战 川普不会让步；疫情封锁下富人“出埃及” 纽约市损失340亿【希望之声TV】</a></li>
 <li><a href="/cbnews/20201216/1448612.md" target="_blank">〖博谈编译〗“美国大选是自由与共产主义、正义与邪恶之战”</a></li>
 <li><a href="/cbnews/20201216/1448600.md" target="_blank">明居正老师1212 精华片段  解放军鹰派王在希们 挟习近平往武统方向狂奔  台湾走向急独?国民党无可为 中共更急武统?</a></li>
-<li><a href="/cbnews/20201216/1448585.md" target="_blank">天亮时分：密西根州务卿和索罗斯的关系；内华达Dominion机器的废票率达到70%；（政论天下第305集 20201215）</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201216/1448903.md" target="_blank">武汉女副市长被调查 甩锅的周先旺为何无事？</a></li>
+<li><a href="/comments/20201216/1448902.md" target="_blank">美参院国土安全和政府事务委员会将听证美大选舞弊案</a></li>
+<li><a href="/comments/20201216/1448901.md" target="_blank">甜蜜陷阱加长线钓鱼 美专家揭中共间谍手法</a></li>
+<li><a href="/comments/20201216/1448900.md" target="_blank">密州两院下传票 要求保留2020年大选证据</a></li>
+<li><a href="/comments/20201216/1448898.md" target="_blank">川普孤军奋战 台专家吁国人挺身报恩最友台总统</a></li>
+<li><a href="/comments/20201216/1448897.md" target="_blank">厨房里最不能长久使用的几个物件都是什么</a></li>
+<li><a href="/comments/20201216/1448896.md" target="_blank">加拿大绝美的冰雪奇缘，体验枫叶之国的冬季热情</a></li>
+<li><a href="/comments/20201216/1448703.md" target="_blank">亨特生意合伙人声明：拜登父子在国外赚取数百万美元 很多钱来自共产中国</a></li>
 <li><a href="/comments/20201216/1448854.md" target="_blank">【林忌评论】把疫苗政治化 是林郑自己</a></li>
 <li><a href="/comments/20201216/1448853.md" target="_blank">【杜耀明评论】本来无黑钱，何处洗贼贜？</a></li>
 <li><a href="/comments/20201216/1448852.md" target="_blank">【华府看天下】北漂财金精英组紫荆党野心勃勃 中共权贵斗争更为白热化</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20201216/1448830.md" target="_blank">从国情咨文仪式看美国两党政治 (曹长青)</a></li>
 <li><a href="/comments/20201216/1448829.md" target="_blank">“中东多米诺”冲击中国长城 (曹长青)</a></li>
 <li><a href="/comments/20201216/1448828.md" target="_blank">温家宝在「中外记者会」玩把戏(曹长青)</a></li>
-<li><a href="/comments/20201216/1448827.md" target="_blank">道德火炬下的中共暗鼠 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448826.md" target="_blank">日本骚扰，中国强暴 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448825.md" target="_blank">胡锦涛最怕上帝 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448824.md" target="_blank">伦敦大爆炸激励全球反恐 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448809.md" target="_blank">【微博精粹】拜登自称胜选遭暴踩 逼出最深大鳄 终于要收网了</a></li>
-<li><a href="/comments/20201216/1448752.md" target="_blank">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
-<li><a href="/comments/20201216/1448751.md" target="_blank">李燕铭：五角大楼紧急关闭机密系统网络 国防部顾问大换血 川普十大动作强化军权 携国防部长与情报总监现身西点军校 重磅行动箭在弦上 川普罕见规定防长出意外时军官继任顺序 置之死地而后生 或非常行动瓦解大选政变</a></li>
-<li><a href="/comments/20201216/1448750.md" target="_blank">“华龙一号”核反应炉试运转异常 定性“0级运行事件” 国家核安全局派出专家赴福清核电厂现场 中南海不可告人的秘密_273</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 
 </ul>
 </div>
