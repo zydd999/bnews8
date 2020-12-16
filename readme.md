@@ -5,13 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/taiwannews/20201216/1448439.md">最后一刻风变了！最高法院给特朗普总统带来了奇迹</a></li>
 <li><a href="/cbnews/20201216/1448536.md">我们都错怪巴尔了，他在和川建国唱一出双簧！维基解密放出重磅文件，希拉里乔帮主榜上有名！联邦面临分裂，川建国也许是最后一任总统！</a></li>
 <li><a href="/cnnews/20201216/1448450.md">美国大选：参议院共和党领袖 祝贺拜登当选</a></li>
 <li><a href="/ssgc/20201216/1448469.md">〖兲朝浮世绘〗深海大鳄终于浮出水面，连带吸附其上的虾兵蟹将</a></li>
 <li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
 <li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
-<li><a href="/cbnews/20201216/1448446.md">病毒杀入北京 朝阳区被封的酒店在庆丰包子铺旁</a></li>
 <li><a href="/topimagenews/20201216/1449015.md">永远别幻想川普会出局！ 一切都安排好了！法律站在川普总统一边！【阿波罗网编译】</a></li>
 <li><a href="/comments/20201216/1448649.md">川普：给作弊嫌犯最后一次坦白的机会</a></li>
 <li><a href="/cbnews/20201216/1449067.md">被爆与多名高官太太有染 传芮成钢出狱火速离京</a></li>
@@ -19,15 +17,17 @@
 <li><a href="/topimagenews/20201216/1448785.md">情报总监会提供报告吗？白宫发言人回应来了</a></li>
 <li><a href="/comments/20201216/1448746.md">令计划老婆谷丽萍勾搭央视主播芮成钢内幕 央视女的这样……男的也是这样…… 芮成钢被逮了个正着 中南海不可告人的秘密_272</a></li>
 <li><a href="/cnnews/20201216/1448604.md">澳洲豪宅里的中国富豪：美女环绕</a></li>
+<li><a href="/taiwannews/20201216/1449189.md">震惊！拜登这次麻烦大了！特朗普要求与拜登当面对峙</a></li>
 <li><a href="/cnnews/20201216/1448602.md">扎克伯格摊上大事了！涉10个黑钱机器 五个基金会 5亿美元干涉选举【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201216/1449079.md">福克斯玛丽亚昨天12/14说：情报消息源告知我，川普总统确实赢了大选！</a></li>
-<li><a href="/taiwannews/20201216/1449189.md">震惊！拜登这次麻烦大了！特朗普要求与拜登当面对峙</a></li>
 <li><a href="/cbnews/20201216/1448460.md">中共央企纪念西安事变 海报惊现蒋介石剿共名言</a></li>
 <li><a href="/topimagenews/20201216/1448492.md">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
 <li><a href="/comments/20201216/1448749.md">习近平“龙脉”被压 下令强拆北京昌平香堂 前常委陶铸女儿陶斯亮家被强拆 诗人郭小川70岁女儿被拘押 政法大学教授杨玉圣绝食抗议 有人给总理李克强写信…… 中南海谣言预言_410</a></li>
 <li><a href="/headline/20201216/1449097.md">报道指李偲嫣已离世</a></li>
 <li><a href="/cbnews/20201216/1449068.md">习近平不满意？林郑上京述职突然叫停</a></li>
+<li><a href="/cbnews/20201216/1448847.md">专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊</a></li>
 <li><a href="/cbnews/20201216/1449001.md">江峰：麦康奈尔变节还是老谋？1月8日关键，参议院舞弊听证！拜登代表了美国灵魂？猴急胜选只为制造合法性对抗川普雷霆手段</a></li>
+<li><a href="/lifebaike/20201216/1448519.md">彭德怀 万里等都看过没有穿裤子女人</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201217/1449342.md" target="_blank">拒绝放弃 两院共和党人将联手挑战选举人团结果</a></li>
 <li><a href="/comments/20201217/1449327.md" target="_blank">中芯国际高层人事地震 CEO梁孟松提交辞呈</a></li>
 <li><a href="/comments/20201217/1449326.md" target="_blank">17众议员要求佩洛西 将私通共谍议员踢出情委会</a></li>
 <li><a href="/comments/20201217/1449299.md" target="_blank">美国投资者开始起诉中芯国际</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201216/1449108.md" target="_blank">时事大家谈：民主国家防共手册出台，西方对中共全面觉醒？</a></li>
 <li><a href="/comments/20201216/1449107.md" target="_blank">时事大家谈：习近平的“回归”农村政策能走多远？</a></li>
 <li><a href="/comments/20201216/1449106.md" target="_blank">时事大家谈：马云受辱孙大午入狱，习近平以爱国主义警告民营商人？</a></li>
-<li><a href="/comments/20201216/1449105.md" target="_blank">焦点对话：习近平铁腕改造香港 战狼剑指五眼联盟</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
