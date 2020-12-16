@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/taiwannews/20201216/1448439.md">最后一刻风变了！最高法院给特朗普总统带来了奇迹</a></li>
 <li><a href="/taiwannews/20201216/1448434.md">新闻12月16日 : 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
-<li><a href="/cbnews/20201215/1448234.md">武汉女副市长徐洪兰被调查 事件登热搜榜</a></li>
 <li><a href="/cbnews/20201215/1448277.md">陈破空：重大泄密！共特名册陆续曝光。反习阵营在行动！广州活见鬼：钟南山提前那个了</a></li>
 <li><a href="/cbnews/20201216/1448536.md">我们都错怪巴尔了，他在和川建国唱一出双簧！维基解密放出重磅文件，希拉里乔帮主榜上有名！联邦面临分裂，川建国也许是最后一任总统！</a></li>
 <li><a href="/topimagenews/20201215/1448302.md">拜登被戳穿 惨遭自家狗打脸 铁证出炉！美国国家安全不保</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/comments/20201216/1448431.md">中共央行放水9500亿 分析：通胀就要来了</a></li>
 <li><a href="/ssgc/20201216/1448469.md">〖兲朝浮世绘〗深海大鳄终于浮出水面，连带吸附其上的虾兵蟹将</a></li>
 <li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
+<li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
 <li><a href="/comments/20201216/1448649.md">川普：给作弊嫌犯最后一次坦白的机会</a></li>
 <li><a href="/cbnews/20201216/1448446.md">病毒杀入北京 朝阳区被封的酒店在庆丰包子铺旁</a></li>
-<li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
 <li><a href="/comments/20201215/1448319.md">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
 <li><a href="/cbnews/20201216/1448460.md">中共央企纪念西安事变 海报惊现蒋介石剿共名言</a></li>
 <li><a href="/topimagenews/20201216/1448492.md">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
 <li><a href="/cnnews/20201216/1448604.md">澳洲豪宅里的中国富豪：美女环绕</a></li>
-<li><a href="/cbnews/20201216/1448422.md">孝顺母！大陆女童独自卖水果「赚32元」开心返家 遭性侵杀害</a></li>
+<li><a href="/topimagenews/20201216/1448785.md">情报总监会提供报告吗？白宫发言人回应来了</a></li>
 <li><a href="/cnnews/20201216/1448602.md">扎克伯格摊上大事了！涉10个黑钱机器 五个基金会 5亿美元干涉选举【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201216/1448422.md">孝顺母！大陆女童独自卖水果「赚32元」开心返家 遭性侵杀害</a></li>
 <li><a href="/cbnews/20201216/1448407.md">川普伍德赞巴尔引热议  副司法部长代任；美国大媒知道谁给他们发薪水 揭秘与中共商业关系【希望之声TV】</a></li>
 <li><a href="/headline/20201216/1448369.md">中国否认距台北232公里的福清核电站发生放射性泄漏</a></li>
-<li><a href="/topimagenews/20201216/1448785.md">情报总监会提供报告吗？白宫发言人回应来了</a></li>
+<li><a href="/comments/20201215/1448281.md">王岐山中纪委旧部异动 陈小江摊上“烫手山芋”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,21 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201216/1449116.md" target="_blank">时事大家谈：新冠大流行 中国角色一言难尽？</a></li>
+<li><a href="/comments/20201216/1449115.md" target="_blank">时事大家谈：新冠疫苗诞生 疫情终结还是持久战开始？</a></li>
+<li><a href="/comments/20201216/1449114.md" target="_blank">时事大家谈：年终回望：新冠疫情下的中国人权</a></li>
+<li><a href="/comments/20201216/1449113.md" target="_blank">时事大家谈：中共下决心解决挨骂问题，战狼外交会奏效吗？</a></li>
+<li><a href="/comments/20201216/1449112.md" target="_blank">时事大家谈: 蛋壳爆雷“韭菜”遭殃，中国模式为何不灵？</a></li>
+<li><a href="/comments/20201216/1449111.md" target="_blank">时事大家谈：月内三提“备战打仗”，习近平用意何在？</a></li>
+<li><a href="/comments/20201216/1449110.md" target="_blank">时事大家谈：中国应对老龄化政策要落地，延缓退休为何如此扎心？</a></li>
+<li><a href="/comments/20201216/1449109.md" target="_blank">时事大家谈：中国人口危机严峻，问题岂止是3000万男光棍？</a></li>
+<li><a href="/comments/20201216/1449108.md" target="_blank">时事大家谈：民主国家防共手册出台，西方对中共全面觉醒？</a></li>
+<li><a href="/comments/20201216/1449107.md" target="_blank">时事大家谈：习近平的“回归”农村政策能走多远？</a></li>
+<li><a href="/comments/20201216/1449106.md" target="_blank">时事大家谈：马云受辱孙大午入狱，习近平以爱国主义警告民营商人？</a></li>
+<li><a href="/comments/20201216/1449105.md" target="_blank">焦点对话：习近平铁腕改造香港 战狼剑指五眼联盟</a></li>
+<li><a href="/comments/20201216/1449103.md" target="_blank">焦点对话：中共大内宣升级 “习思想”无孔不入</a></li>
+<li><a href="/comments/20201216/1449102.md" target="_blank">焦点对话：解密杨恒均与成蕾案 中澳&quot;双面谍&quot;还是人质外交？</a></li>
+<li><a href="/comments/20201216/1449101.md" target="_blank">焦点对话：习近平视察海军陆战队 美神盾舰穿越台海</a></li>
 <li><a href="/comments/20201216/1449078.md" target="_blank">2020年中共抓捕117名记者 居全球之最</a></li>
 <li><a href="/comments/20201216/1449061.md" target="_blank">中共党员安插驻华领馆 中国雇员证实有政治任务</a></li>
 <li><a href="/comments/20201216/1449060.md" target="_blank">山东聊城“牧师”身穿红军服培训 网民：都是撒旦的差役</a></li>
@@ -108,21 +123,6 @@
 <li><a href="/comments/20201216/1449055.md" target="_blank">膝关节痛不是老人专利哦！做错这些行为很容易中镖</a></li>
 <li><a href="/comments/20201216/1449054.md" target="_blank">水果越吃越胖？！水果热量排行大公开</a></li>
 <li><a href="/comments/20201216/1449053.md" target="_blank">爱吃甜食作息又不正常 胃痛竟查出胰脏癌</a></li>
-<li><a href="/comments/20201216/1449043.md" target="_blank">评论 | 魏京生：世界人权日寄语</a></li>
-<li><a href="/comments/20201216/1449042.md" target="_blank">聚焦维吾尔 | 伊利夏提：维吾尔人和清真寺</a></li>
-<li><a href="/comments/20201216/1449041.md" target="_blank">唯色RFA博客：天葬师、“康巴松茸”、六十三根辫子及丹增德勒仁波切（七）</a></li>
-<li><a href="/comments/20201216/1449040.md" target="_blank">评论 | 陈破空：中国全面脱贫？习近平的阳谋</a></li>
-<li><a href="/comments/20201216/1449039.md" target="_blank">评论 | 胡平：瞒外不瞒内 瞒下不瞒上</a></li>
-<li><a href="/comments/20201216/1449038.md" target="_blank">评论 | 胡平：民主转型中的民族问题</a></li>
-<li><a href="/comments/20201216/1449037.md" target="_blank">评论 | 陈光诚：中共历来无法无天 如今裸奔更常态化</a></li>
-<li><a href="/comments/20201216/1449036.md" target="_blank">评论 | 傅申奇：中国的人权状况</a></li>
-<li><a href="/comments/20201216/1449035.md" target="_blank">评论 | 傅申奇：全面脱贫</a></li>
-<li><a href="/comments/20201216/1449034.md" target="_blank">评论 | 程晓农：中共“南向崛起”的“立威之举”？</a></li>
-<li><a href="/comments/20201216/1449033.md" target="_blank">评论 | 余杰：《人民日报》为何痛批马保国？</a></li>
-<li><a href="/comments/20201216/1448997.md" target="_blank">周永康招供指派中共海外特工制造震惊全美的灭门案 周永康儿子周滨贪腐与淫乱内幕 周滨“商业帝国”资产上万亿 被没收900亿元 中南海不可告人的秘密_275</a></li>
-<li><a href="/comments/20201216/1448996.md" target="_blank">李燕铭：朱镕基长子朱云来频繁现身 话锋突变 大谈疫情后的中国变局 这是高级黑？还是给习近平灌迷魂汤？</a></li>
-<li><a href="/comments/20201216/1448995.md" target="_blank">大选舞弊分裂美国 德州再次独立？州议员将提案公投决定是否独立建国 最高法院驳回诉讼 德州强硬回应 呼吁組建守宪联盟 宾州亚利桑那州再向最高法院诉讼</a></li>
-<li><a href="/comments/20201216/1448994.md" target="_blank">最高法院驳回德州诉讼 川普：战斗才刚刚开始 川普对最高法院失望 白宫发言人：最高法院没有一名法官就案件事实发表意见 川普团队律师：最高院的决定是可怕错误 令人愤怒 总统考量其它选择</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 
 </ul>
 </div>
