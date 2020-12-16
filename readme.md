@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20201215/1448222.md">成都封城7天疫情骤升 当地人一番话看完好难过</a></li>
 <li><a href="/cbnews/20201215/1448234.md">武汉女副市长徐洪兰被调查 事件登热搜榜</a></li>
 <li><a href="/taiwannews/20201216/1448434.md">新闻12月16日 : 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
+<li><a href="/taiwannews/20201216/1448439.md">最后一刻风变了！最高法院给特朗普总统带来了奇迹</a></li>
 <li><a href="/cbnews/20201215/1448173.md">司法部长巴尔辞职信全文翻译</a></li>
 <li><a href="/cbnews/20201215/1448277.md">陈破空：重大泄密！共特名册陆续曝光。反习阵营在行动！广州活见鬼：钟南山提前那个了</a></li>
 <li><a href="/topimagenews/20201215/1448053.md">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…【阿波罗网编译】</a></li>
-<li><a href="/taiwannews/20201216/1448439.md">最后一刻风变了！最高法院给特朗普总统带来了奇迹</a></li>
 <li><a href="/topimagenews/20201215/1448302.md">拜登被戳穿 惨遭自家狗打脸 铁证出炉！美国国家安全不保</a></li>
 <li><a href="/cnnews/20201215/1448313.md">突发！联邦调查局 法警局 德州骑警联手出击，多猫腻难逃大网【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201215/1448063.md">全美7个州选出了两套总统“选举人”</a></li>
 <li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
 <li><a href="/taiwannews/20201215/1448050.md">蔡英文投靠拜登 宣称正式选出拜登为下任总统</a></li>
-<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
 <li><a href="/cnnews/20201216/1448450.md">美国大选：参议院共和党领袖 祝贺拜登当选</a></li>
+<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
 <li><a href="/cnnews/20201215/1448098.md">脸书被查！推特被查！YouTube被查！…</a></li>
 <li><a href="/taiwannews/20201215/1448168.md">巴尔辞职信提选举异常！下台前将有行动？</a></li>
 <li><a href="/cnnews/20201215/1448159.md">历史性一幕！勇敢的共和党选举人站出来 向川普总统投下神圣的一票 【阿波罗网编译】</a></li>
 <li><a href="/comments/20201215/1448058.md">【微博精粹】大料一爆 巴尔辞职司法部长的谜底就揭开了</a></li>
-<li><a href="/comments/20201215/1448319.md">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
-<li><a href="/cbnews/20201215/1447989.md">炒比特币输2000万 大连男杀3岁女偕妻跳海…获救后求判死刑</a></li>
 <li><a href="/comments/20201216/1448431.md">中共央行放水9500亿 分析：通胀就要来了</a></li>
+<li><a href="/comments/20201215/1448319.md">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
+<li><a href="/cbnews/20201216/1448446.md">病毒杀入北京 朝阳区被封的酒店在庆丰包子铺旁</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201216/1448585.md" target="_blank">天亮时分：密西根州务卿和索罗斯的关系；内华达Dominion机器的废票率达到70%；（政论天下第305集 20201215）</a></li>
+<li><a href="/cbnews/20201216/1448584.md" target="_blank">民调：多数人希望川普“继续战斗抽干华府沼泽”</a></li>
 <li><a href="/comments/20201216/1448569.md" target="_blank">百家姓：历史为川普总统铺平了绝地反击之路</a></li>
 <li><a href="/cbnews/20201216/1448563.md" target="_blank">多县取得突破    川普的战前部署  嘉宾: 方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/15)</a></li>
 <li><a href="/cbnews/20201216/1448442.md" target="_blank">厦门警察迫害法轮功被美制裁 中共宣传推上热搜榜</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201216/1448373.md" target="_blank">美国联邦部门遭网络攻击 政府通信或被外国监看</a></li>
 <li><a href="/cbnews/20201215/1448320.md" target="_blank">情报总监陪同川普观看球赛后 巴尔辞职</a></li>
 <li><a href="/cbnews/20201215/1448304.md" target="_blank">大选后首次 Dominion CEO将出席密歇根听证会</a></li>
-<li><a href="/cbnews/20201215/1448301.md" target="_blank">7个州选出了两组总统选举人；白宫新闻秘书评拜登演讲；国防部换顾问 金里奇等人入选；川普宣布：司法部长巴尔圣诞节前离任；议员：壹天1300投诉；FTC要求9大社媒说明 如何搜集个人信息【希望之声TV】</a></li>
-<li><a href="/cbnews/20201215/1448299.md" target="_blank">大选更新12.15：代司法部长主管外国干预大选</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
