@@ -12,7 +12,6 @@
 <li><a href="/taiwannews/20201216/1448434.md">新闻12月16日 : 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
 <li><a href="/cbnews/20201215/1448277.md">陈破空：重大泄密！共特名册陆续曝光。反习阵营在行动！广州活见鬼：钟南山提前那个了</a></li>
 <li><a href="/cbnews/20201216/1448536.md">我们都错怪巴尔了，他在和川建国唱一出双簧！维基解密放出重磅文件，希拉里乔帮主榜上有名！联邦面临分裂，川建国也许是最后一任总统！</a></li>
-<li><a href="/cbnews/20201215/1448173.md">司法部长巴尔辞职信全文翻译</a></li>
 <li><a href="/topimagenews/20201215/1448302.md">拜登被戳穿 惨遭自家狗打脸 铁证出炉！美国国家安全不保</a></li>
 <li><a href="/cnnews/20201215/1448313.md">突发！联邦调查局 法警局 德州骑警联手出击，多猫腻难逃大网【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201216/1448450.md">美国大选：参议院共和党领袖 祝贺拜登当选</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/cbnews/20201216/1448422.md">孝顺母！大陆女童独自卖水果「赚32元」开心返家 遭性侵杀害</a></li>
 <li><a href="/headline/20201216/1448369.md">中国否认距台北232公里的福清核电站发生放射性泄漏</a></li>
 <li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
+<li><a href="/comments/20201216/1448649.md">川普：给作弊嫌犯最后一次坦白的机会</a></li>
 <li><a href="/comments/20201215/1448281.md">王岐山中纪委旧部异动 陈小江摊上“烫手山芋”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201216/1449001.md" target="_blank">江峰：麦康奈尔变节还是老谋？1月8日关键，参议院舞弊听证！拜登代表了美国灵魂？猴急胜选只为制造合法性对抗川普雷霆手段</a></li>
 <li><a href="/cbnews/20201216/1448694.md" target="_blank">【文雍漫谈】人脸识别，正在终结人类的自由、重置人类的命运</a></li>
 <li><a href="/cbnews/20201216/1448868.md" target="_blank">【第213期】薇羽直播：家贼难防！太阳风漏洞横扫美国国防网络，谁是背后黑影？多米尼也有关联。</a></li>
 <li><a href="/cbnews/20201216/1448847.md" target="_blank">专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201216/1448689.md" target="_blank">大选更新12.15：白宫：川普不会放弃法律挑战</a></li>
 <li><a href="/cbnews/20201216/1448669.md" target="_blank">深谙中共渗透美国手段 罗森走马上任代理司法部长；白宫发言人：对选举提出挑战 川普不会让步；疫情封锁下富人“出埃及” 纽约市损失340亿【希望之声TV】</a></li>
 <li><a href="/cbnews/20201216/1448612.md" target="_blank">〖博谈编译〗“美国大选是自由与共产主义、正义与邪恶之战”</a></li>
-<li><a href="/cbnews/20201216/1448600.md" target="_blank">明居正老师1212 精华片段  解放军鹰派王在希们 挟习近平往武统方向狂奔  台湾走向急独?国民党无可为 中共更急武统?</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
