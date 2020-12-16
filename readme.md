@@ -21,13 +21,13 @@
 <li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
 <li><a href="/cbnews/20201216/1448446.md">病毒杀入北京 朝阳区被封的酒店在庆丰包子铺旁</a></li>
 <li><a href="/comments/20201215/1448319.md">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
-<li><a href="/taiwannews/20201215/1448168.md">巴尔辞职信提选举异常！下台前将有行动？</a></li>
-<li><a href="/cnnews/20201215/1448159.md">历史性一幕！勇敢的共和党选举人站出来 向川普总统投下神圣的一票 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201216/1448460.md">中共央企纪念西安事变 海报惊现蒋介石剿共名言</a></li>
 <li><a href="/topimagenews/20201216/1448492.md">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
 <li><a href="/cbnews/20201216/1448407.md">川普伍德赞巴尔引热议  副司法部长代任；美国大媒知道谁给他们发薪水 揭秘与中共商业关系【希望之声TV】</a></li>
 <li><a href="/cbnews/20201216/1448422.md">孝顺母！大陆女童独自卖水果「赚32元」开心返家 遭性侵杀害</a></li>
 <li><a href="/headline/20201216/1448369.md">中国否认距台北232公里的福清核电站发生放射性泄漏</a></li>
+<li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
+<li><a href="/comments/20201215/1448281.md">王岐山中纪委旧部异动 陈小江摊上“烫手山芋”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,18 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201216/1448997.md" target="_blank">周永康招供指派中共海外特工制造震惊全美的灭门案 周永康儿子周滨贪腐与淫乱内幕 周滨“商业帝国”资产上万亿 被没收900亿元 中南海不可告人的秘密_275</a></li>
+<li><a href="/comments/20201216/1448996.md" target="_blank">李燕铭：朱镕基长子朱云来频繁现身 话锋突变 大谈疫情后的中国变局 这是高级黑？还是给习近平灌迷魂汤？</a></li>
+<li><a href="/comments/20201216/1448995.md" target="_blank">大选舞弊分裂美国 德州再次独立？州议员将提案公投决定是否独立建国 最高法院驳回诉讼 德州强硬回应 呼吁組建守宪联盟 宾州亚利桑那州再向最高法院诉讼</a></li>
+<li><a href="/comments/20201216/1448994.md" target="_blank">最高法院驳回德州诉讼 川普：战斗才刚刚开始 川普对最高法院失望 白宫发言人：最高法院没有一名法官就案件事实发表意见 川普团队律师：最高院的决定是可怕错误 令人愤怒 总统考量其它选择</a></li>
+<li><a href="/comments/20201216/1448993.md" target="_blank">中国民航局建议空姐穿一次性尿不湿……</a></li>
+<li><a href="/comments/20201216/1448992.md" target="_blank">中共机密文件保存与销毁内幕出人意外 中共官场“双重领导”名存实亡 中南海不可告人的秘密_271</a></li>
+<li><a href="/comments/20201216/1448991.md" target="_blank">李嘉诚祝贺诺贝尔奖得主 感言呼应“红颜知己”周凯旋 疑暗讽林郑</a></li>
+<li><a href="/comments/20201216/1448990.md" target="_blank">中共C919客机交付困难 最后一刻或遭美致命打击 可能会被无限期推迟 中南海谣言预言_409</a></li>
+<li><a href="/comments/20201216/1448989.md" target="_blank">川普发布美国太空战略对抗中共探月工程 中共老朋友基辛格被解雇 川普的“中国策略权威”白邦瑞接掌五角大楼要职 美国防部报告披露开发新武器应对中共海军扩张</a></li>
+<li><a href="/comments/20201216/1448988.md" target="_blank">温家宝前大管家丘小雄患癌症去世 温家宝刘鹤送花圈 丘小雄同学圈与妻子背景不一般 温家宝连身边人员都难保 中共党内派系斗争激烈 温家宝卸任前夕 丘小雄调职有降格之嫌 中南海不可告人的秘密_263</a></li>
+<li><a href="/comments/20201216/1448987.md" target="_blank">北京有人持手榴弹上访 大批警察围堵 狙击手趴在街上持枪瞄准…… 现场实录 中南海不可告人的秘密_270</a></li>
+<li><a href="/comments/20201216/1448986.md" target="_blank">央视一姐董卿要出事？陆媒起底董卿美国豪宅比宫殿还豪华 披露董卿换过5任男友最后嫁给富豪内幕 董卿美国豪宅内景曝光 中南海不可告人的秘密_269</a></li>
 <li><a href="/comments/20201216/1448903.md" target="_blank">武汉女副市长被调查 甩锅的周先旺为何无事？</a></li>
 <li><a href="/comments/20201216/1448902.md" target="_blank">美参院国土安全和政府事务委员会将听证美大选舞弊案</a></li>
 <li><a href="/comments/20201216/1448901.md" target="_blank">甜蜜陷阱加长线钓鱼 美专家揭中共间谍手法</a></li>
@@ -111,18 +123,6 @@
 <li><a href="/comments/20201216/1448852.md" target="_blank">【华府看天下】北漂财金精英组紫荆党野心勃勃 中共权贵斗争更为白热化</a></li>
 <li><a href="/comments/20201216/1448851.md" target="_blank">【梁京评论】许智峯银行账户被封事件提出的重大问题</a></li>
 <li><a href="/comments/20201216/1448850.md" target="_blank">【林忌评论】香港银行户口随时被冻结</a></li>
-<li><a href="/comments/20201216/1448849.md" target="_blank">【杜耀明评论】编制重整露出马脚 裁员偷走新闻自由</a></li>
-<li><a href="/comments/20201216/1448848.md" target="_blank">【林忌评论】全民检测自打嘴巴 安心上路刻舟求剑</a></li>
-<li><a href="/comments/20201216/1448837.md" target="_blank">新闻自由的代价(曹长青)</a></li>
-<li><a href="/comments/20201216/1448836.md" target="_blank">多元媒体影响美国大选 （曹长青）</a></li>
-<li><a href="/comments/20201216/1448835.md" target="_blank">江泽民为何再次 “卖国”？ (曹长青)</a></li>
-<li><a href="/comments/20201216/1448834.md" target="_blank">中共和两个小邪恶 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448833.md" target="_blank">诽谤法轮功学员有罪 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448832.md" target="_blank">结束共产党，才有新中国 （曹长青）</a></li>
-<li><a href="/comments/20201216/1448831.md" target="_blank">布什誓言全球传播自由 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448830.md" target="_blank">从国情咨文仪式看美国两党政治 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448829.md" target="_blank">“中东多米诺”冲击中国长城 (曹长青)</a></li>
-<li><a href="/comments/20201216/1448828.md" target="_blank">温家宝在「中外记者会」玩把戏(曹长青)</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
