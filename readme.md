@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20201216/1448450.md">美国大选：参议院共和党领袖 祝贺拜登当选</a></li>
 <li><a href="/ssgc/20201216/1448469.md">〖兲朝浮世绘〗深海大鳄终于浮出水面，连带吸附其上的虾兵蟹将</a></li>
 <li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
-<li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
 <li><a href="/cbnews/20201216/1448446.md">病毒杀入北京 朝阳区被封的酒店在庆丰包子铺旁</a></li>
+<li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
 <li><a href="/topimagenews/20201216/1449015.md">永远别幻想川普会出局！ 一切都安排好了！法律站在川普总统一边！【阿波罗网编译】</a></li>
 <li><a href="/comments/20201216/1448649.md">川普：给作弊嫌犯最后一次坦白的机会</a></li>
-<li><a href="/topimagenews/20201216/1448785.md">情报总监会提供报告吗？白宫发言人回应来了</a></li>
 <li><a href="/cbnews/20201216/1449067.md">被爆与多名高官太太有染 传芮成钢出狱火速离京</a></li>
+<li><a href="/topimagenews/20201216/1448785.md">情报总监会提供报告吗？白宫发言人回应来了</a></li>
 <li><a href="/comments/20201216/1448746.md">令计划老婆谷丽萍勾搭央视主播芮成钢内幕 央视女的这样……男的也是这样…… 芮成钢被逮了个正着 中南海不可告人的秘密_272</a></li>
 <li><a href="/cnnews/20201216/1448604.md">澳洲豪宅里的中国富豪：美女环绕</a></li>
 <li><a href="/cnnews/20201216/1448602.md">扎克伯格摊上大事了！涉10个黑钱机器 五个基金会 5亿美元干涉选举【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201216/1448460.md">中共央企纪念西安事变 海报惊现蒋介石剿共名言</a></li>
 <li><a href="/cbnews/20201216/1448422.md">孝顺母！大陆女童独自卖水果「赚32元」开心返家 遭性侵杀害</a></li>
 <li><a href="/topimagenews/20201216/1448492.md">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
+<li><a href="/topimagenews/20201216/1449151.md">棋高一招 川普要一网打尽？</a></li>
 <li><a href="/comments/20201216/1448749.md">习近平“龙脉”被压 下令强拆北京昌平香堂 前常委陶铸女儿陶斯亮家被强拆 诗人郭小川70岁女儿被拘押 政法大学教授杨玉圣绝食抗议 有人给总理李克强写信…… 中南海谣言预言_410</a></li>
 <li><a href="/cbnews/20201216/1448407.md">川普伍德赞巴尔引热议  副司法部长代任；美国大媒知道谁给他们发薪水 揭秘与中共商业关系【希望之声TV】</a></li>
-<li><a href="/topimagenews/20201216/1449151.md">棋高一招 川普要一网打尽？</a></li>
-<li><a href="/lifebaike/20201216/1448519.md">彭德怀 万里等都看过没有穿裤子女人</a></li>
+<li><a href="/bannedvideo/20201216/1449079.md">福克斯玛丽亚昨天12/14说：情报消息源告知我，川普总统确实赢了大选！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201217/1449268.md" target="_blank">脸书推特现大量“美女俊男” 有着特殊的任务 内藏惊人黑幕 中南海不可告人的秘密_276</a></li>
+<li><a href="/comments/20201217/1449267.md" target="_blank">【选情更新12/16】重大讯号：川普认同林.伍德推文 要清理沼泽了</a></li>
+<li><a href="/comments/20201217/1449262.md" target="_blank">评论 | 何清涟：中国抓住了瑞士什么痛点？</a></li>
 <li><a href="/comments/20201216/1449248.md" target="_blank">弗吉尼亚州长候选人：拜登“获胜”靠欺诈 川普应宣布戒严</a></li>
 <li><a href="/comments/20201216/1449220.md" target="_blank">【视频直播】联邦参议院首度就大选违规举行听证会</a></li>
 <li><a href="/comments/20201216/1449207.md" target="_blank">亚利桑那州议会下令审计多米尼投票机</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201216/1449078.md" target="_blank">2020年中共抓捕117名记者 居全球之最</a></li>
 <li><a href="/comments/20201216/1449061.md" target="_blank">中共党员安插驻华领馆 中国雇员证实有政治任务</a></li>
 <li><a href="/comments/20201216/1449060.md" target="_blank">山东聊城“牧师”身穿红军服培训 网民：都是撒旦的差役</a></li>
-<li><a href="/comments/20201216/1449059.md" target="_blank">修法禁对朝散发传单 文在寅遭轰「向金正恩低头」</a></li>
-<li><a href="/comments/20201216/1449058.md" target="_blank">解读7州共和党议员为啥推出另一组替代选举人</a></li>
-<li><a href="/comments/20201216/1449057.md" target="_blank">连续喝它4天, 就能洗掉肝脏80%毒素！给肝脏进行深层排毒</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
 
 </ul>
 </div>
