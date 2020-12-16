@@ -36,6 +36,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201216/1448868.md" target="_blank">【第213期】薇羽直播：家贼难防！太阳风漏洞横扫美国国防网络，谁是背后黑影？多米尼也有关联。</a></li>
+<li><a href="/cbnews/20201216/1448847.md" target="_blank">专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊</a></li>
+<li><a href="/cbnews/20201216/1448846.md" target="_blank">专栏 | 夜话中南海：赵乐际当年省委书记的前后任都是“党内巨贪”</a></li>
+<li><a href="/cbnews/20201216/1448845.md" target="_blank">专栏 | 夜话中南海：未步苏荣后尘，强卫的不幸与万幸</a></li>
+<li><a href="/cbnews/20201216/1448844.md" target="_blank">专栏 | 夜话中南海：强卫“寸心无愧”的自辩激怒习近平</a></li>
 <li><a href="/cbnews/20201216/1448804.md" target="_blank">翟东升说的“老朋友”是谁 白邦瑞作出分析</a></li>
 <li><a href="/cbnews/20201216/1448803.md" target="_blank">陷中共「美人计」 17议员促佩洛西将涉丑闻议员撤职</a></li>
 <li><a href="/cbnews/20201216/1448802.md" target="_blank">竟然有他们！195万外泄中共党员名单隐藏中共盖世太保成员</a></li>
@@ -56,11 +61,6 @@
 <li><a href="/cbnews/20201216/1448612.md" target="_blank">〖博谈编译〗“美国大选是自由与共产主义、正义与邪恶之战”</a></li>
 <li><a href="/cbnews/20201216/1448600.md" target="_blank">明居正老师1212 精华片段  解放军鹰派王在希们 挟习近平往武统方向狂奔  台湾走向急独?国民党无可为 中共更急武统?</a></li>
 <li><a href="/cbnews/20201216/1448585.md" target="_blank">天亮时分：密西根州务卿和索罗斯的关系；内华达Dominion机器的废票率达到70%；（政论天下第305集 20201215）</a></li>
-<li><a href="/cbnews/20201216/1448584.md" target="_blank">民调：多数人希望川普“继续战斗抽干华府沼泽”</a></li>
-<li><a href="/comments/20201216/1448569.md" target="_blank">百家姓：历史为川普总统铺平了绝地反击之路</a></li>
-<li><a href="/cbnews/20201216/1448563.md" target="_blank">多县取得突破    川普的战前部署  嘉宾: 方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/15)</a></li>
-<li><a href="/cbnews/20201216/1448442.md" target="_blank">厦门警察迫害法轮功被美制裁 中共宣传推上热搜榜</a></li>
-<li><a href="/cbnews/20201216/1448536.md" target="_blank">我们都错怪巴尔了，他在和川建国唱一出双簧！维基解密放出重磅文件，希拉里乔帮主榜上有名！联邦面临分裂，川建国也许是最后一任总统！</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201216/1448854.md" target="_blank">【林忌评论】把疫苗政治化 是林郑自己</a></li>
+<li><a href="/comments/20201216/1448853.md" target="_blank">【杜耀明评论】本来无黑钱，何处洗贼贜？</a></li>
+<li><a href="/comments/20201216/1448852.md" target="_blank">【华府看天下】北漂财金精英组紫荆党野心勃勃 中共权贵斗争更为白热化</a></li>
+<li><a href="/comments/20201216/1448851.md" target="_blank">【梁京评论】许智峯银行账户被封事件提出的重大问题</a></li>
+<li><a href="/comments/20201216/1448850.md" target="_blank">【林忌评论】香港银行户口随时被冻结</a></li>
+<li><a href="/comments/20201216/1448849.md" target="_blank">【杜耀明评论】编制重整露出马脚 裁员偷走新闻自由</a></li>
+<li><a href="/comments/20201216/1448848.md" target="_blank">【林忌评论】全民检测自打嘴巴 安心上路刻舟求剑</a></li>
 <li><a href="/comments/20201216/1448837.md" target="_blank">新闻自由的代价(曹长青)</a></li>
 <li><a href="/comments/20201216/1448836.md" target="_blank">多元媒体影响美国大选 （曹长青）</a></li>
 <li><a href="/comments/20201216/1448835.md" target="_blank">江泽民为何再次 “卖国”？ (曹长青)</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20201216/1448752.md" target="_blank">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
 <li><a href="/comments/20201216/1448751.md" target="_blank">李燕铭：五角大楼紧急关闭机密系统网络 国防部顾问大换血 川普十大动作强化军权 携国防部长与情报总监现身西点军校 重磅行动箭在弦上 川普罕见规定防长出意外时军官继任顺序 置之死地而后生 或非常行动瓦解大选政变</a></li>
 <li><a href="/comments/20201216/1448750.md" target="_blank">“华龙一号”核反应炉试运转异常 定性“0级运行事件” 国家核安全局派出专家赴福清核电厂现场 中南海不可告人的秘密_273</a></li>
-<li><a href="/comments/20201216/1448749.md" target="_blank">习近平“龙脉”被压 下令强拆北京昌平香堂 前常委陶铸女儿陶斯亮家被强拆 诗人郭小川70岁女儿被拘押 政法大学教授杨玉圣绝食抗议 有人给总理李克强写信…… 中南海谣言预言_410</a></li>
-<li><a href="/comments/20201216/1448748.md" target="_blank">李燕铭：武汉市女副市长徐洪兰被查 登微博热搜榜 湖北高院副院长张忠斌被约谈后自杀身亡 细节曝光 中央巡视组进驻湖北与武汉 两个月24名官员落马 中纪委女副部级高官带队巡视 背景不一般</a></li>
-<li><a href="/comments/20201216/1448747.md" target="_blank">李燕铭：燕铭时评博客网址遭推特封杀 燕铭时评油管频道被油管关闭 燕铭时评脸书账号遭脸书多次封杀……是谁如此恐惧燕铭时评？中共大外宣及海内外暗黑势力末日在即 正告背后的黑手们早日收手莫再作恶 欠下的都得还 报应来时悔之晚矣</a></li>
-<li><a href="/comments/20201216/1448746.md" target="_blank">令计划老婆谷丽萍勾搭央视主播芮成钢内幕 央视女的这样……男的也是这样…… 芮成钢被逮了个正着 中南海不可告人的秘密_272</a></li>
-<li><a href="/comments/20201216/1448745.md" target="_blank">李燕铭：这几条消息联系起来看 细思极恐！中共在西方大规模杀人计划被证实？微信热传惊天秘密</a></li>
-<li><a href="/comments/20201216/1448744.md" target="_blank">李燕铭：内蒙古包头市副市长王美斌坠楼身亡 被自杀？内幕揭秘 三支人马同期进驻 助力栗战书旧部清洗三常委利益圈</a></li>
-<li><a href="/comments/20201216/1448743.md" target="_blank">李燕铭：习近平两路大军夹击 赵乐际三名旧部同日落马 曾庆红窝点震荡不已 江泽民集团钱袋子纷纷出事</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
