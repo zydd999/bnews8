@@ -12,22 +12,22 @@
 <li><a href="/taiwannews/20201216/1448434.md">新闻12月16日 : 整个美国都收到了特朗普总统的好消息！ 太好了</a></li>
 <li><a href="/cbnews/20201215/1448277.md">陈破空：重大泄密！共特名册陆续曝光。反习阵营在行动！广州活见鬼：钟南山提前那个了</a></li>
 <li><a href="/cbnews/20201215/1448173.md">司法部长巴尔辞职信全文翻译</a></li>
-<li><a href="/topimagenews/20201215/1448302.md">拜登被戳穿 惨遭自家狗打脸 铁证出炉！美国国家安全不保</a></li>
 <li><a href="/cbnews/20201216/1448536.md">我们都错怪巴尔了，他在和川建国唱一出双簧！维基解密放出重磅文件，希拉里乔帮主榜上有名！联邦面临分裂，川建国也许是最后一任总统！</a></li>
+<li><a href="/topimagenews/20201215/1448302.md">拜登被戳穿 惨遭自家狗打脸 铁证出炉！美国国家安全不保</a></li>
 <li><a href="/cnnews/20201215/1448313.md">突发！联邦调查局 法警局 德州骑警联手出击，多猫腻难逃大网【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201216/1448450.md">美国大选：参议院共和党领袖 祝贺拜登当选</a></li>
 <li><a href="/worldnews/usa/20201215/1448079.md">选举人团投票拜登获胜？让子弹再飞一会儿</a></li>
-<li><a href="/bannedvideo/20201215/1448119.md">💥情报总监报告完成了？！川普或采军事选项，拆C机构，美国短暂非常时期；林伍德：储备水食物武器；巴尔确认离职；阿桑奇可能被赦免；国防部长继承顺序更新；三关键州选举人投票“意外”</a></li>
 <li><a href="/comments/20201216/1448431.md">中共央行放水9500亿 分析：通胀就要来了</a></li>
 <li><a href="/ssgc/20201216/1448469.md">〖兲朝浮世绘〗深海大鳄终于浮出水面，连带吸附其上的虾兵蟹将</a></li>
 <li><a href="/cbnews/20201216/1448446.md">病毒杀入北京 朝阳区被封的酒店在庆丰包子铺旁</a></li>
-<li><a href="/comments/20201215/1448319.md">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
-<li><a href="/taiwannews/20201215/1448168.md">巴尔辞职信提选举异常！下台前将有行动？</a></li>
 <li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
+<li><a href="/taiwannews/20201215/1448168.md">巴尔辞职信提选举异常！下台前将有行动？</a></li>
+<li><a href="/comments/20201215/1448319.md">肿瘤医院院长：这4种食物，每吃一口都是在喂养癌细胞</a></li>
 <li><a href="/cnnews/20201215/1448159.md">历史性一幕！勇敢的共和党选举人站出来 向川普总统投下神圣的一票 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201216/1448492.md">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
 <li><a href="/cbnews/20201216/1448460.md">中共央企纪念西安事变 海报惊现蒋介石剿共名言</a></li>
+<li><a href="/topimagenews/20201216/1448492.md">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
 <li><a href="/cbnews/20201216/1448407.md">川普伍德赞巴尔引热议  副司法部长代任；美国大媒知道谁给他们发薪水 揭秘与中共商业关系【希望之声TV】</a></li>
+<li><a href="/cbnews/20201216/1448422.md">孝顺母！大陆女童独自卖水果「赚32元」开心返家 遭性侵杀害</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,18 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201216/1448752.md" target="_blank">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
+<li><a href="/comments/20201216/1448751.md" target="_blank">李燕铭：五角大楼紧急关闭机密系统网络 国防部顾问大换血 川普十大动作强化军权 携国防部长与情报总监现身西点军校 重磅行动箭在弦上 川普罕见规定防长出意外时军官继任顺序 置之死地而后生 或非常行动瓦解大选政变</a></li>
+<li><a href="/comments/20201216/1448750.md" target="_blank">“华龙一号”核反应炉试运转异常 定性“0级运行事件” 国家核安全局派出专家赴福清核电厂现场 中南海不可告人的秘密_273</a></li>
+<li><a href="/comments/20201216/1448749.md" target="_blank">习近平“龙脉”被压 下令强拆北京昌平香堂 前常委陶铸女儿陶斯亮家被强拆 诗人郭小川70岁女儿被拘押 政法大学教授杨玉圣绝食抗议 有人给总理李克强写信…… 中南海谣言预言_410</a></li>
+<li><a href="/comments/20201216/1448748.md" target="_blank">李燕铭：武汉市女副市长徐洪兰被查 登微博热搜榜 湖北高院副院长张忠斌被约谈后自杀身亡 细节曝光 中央巡视组进驻湖北与武汉 两个月24名官员落马 中纪委女副部级高官带队巡视 背景不一般</a></li>
+<li><a href="/comments/20201216/1448747.md" target="_blank">李燕铭：燕铭时评博客网址遭推特封杀 燕铭时评油管频道被油管关闭 燕铭时评脸书账号遭脸书多次封杀……是谁如此恐惧燕铭时评？中共大外宣及海内外暗黑势力末日在即 正告背后的黑手们早日收手莫再作恶 欠下的都得还 报应来时悔之晚矣</a></li>
+<li><a href="/comments/20201216/1448746.md" target="_blank">令计划老婆谷丽萍勾搭央视主播芮成钢内幕 央视女的这样……男的也是这样…… 芮成钢被逮了个正着 中南海不可告人的秘密_272</a></li>
+<li><a href="/comments/20201216/1448745.md" target="_blank">李燕铭：这几条消息联系起来看 细思极恐！中共在西方大规模杀人计划被证实？微信热传惊天秘密</a></li>
+<li><a href="/comments/20201216/1448744.md" target="_blank">李燕铭：内蒙古包头市副市长王美斌坠楼身亡 被自杀？内幕揭秘 三支人马同期进驻 助力栗战书旧部清洗三常委利益圈</a></li>
+<li><a href="/comments/20201216/1448743.md" target="_blank">李燕铭：习近平两路大军夹击 赵乐际三名旧部同日落马 曾庆红窝点震荡不已 江泽民集团钱袋子纷纷出事</a></li>
+<li><a href="/comments/20201216/1448742.md" target="_blank">川普推文藏重大信号！大选法律战升级 川普点明叛国罪 拟派特别检察官调查大选舞弊 麦金纳尼中将：川普确切知道谁参与大选舞弊 他们将会被逮捕 川普总统必须采取五个行动 戒严只是其中之一</a></li>
+<li><a href="/comments/20201216/1448741.md" target="_blank">战斗才刚刚开始！川普批准B计划 鲍威尔向最高法院提交四个舞弊州的紧急诉案 弗林将军：美国处关键时刻 人民决定总统</a></li>
 <li><a href="/comments/20201216/1448740.md" target="_blank">李燕铭：江绵恒生工系统再遭重击！华大基因被曝基因编辑58名婴儿 正在进行“定制人类”、“人造生命”等邪恶计划 华大基因董事长汪建宣称“把林志玲的卵子弄出来与某市长的精子结合” 举报文遭全网封杀 华大基因旗下两公司被美列入“实体清单”</a></li>
 <li><a href="/comments/20201216/1448688.md" target="_blank">中国多地动用钢叉防疫引爆争议</a></li>
 <li><a href="/comments/20201216/1448687.md" target="_blank">坚果也怕黄曲毒素，吃不好会造成的很大危害</a></li>
@@ -111,18 +123,6 @@
 <li><a href="/comments/20201216/1448649.md" target="_blank">川普：给作弊嫌犯最后一次坦白的机会</a></li>
 <li><a href="/comments/20201216/1448611.md" target="_blank">因习近平去过？刘云山跟风去潮汕 他在一份特别名单上</a></li>
 <li><a href="/comments/20201216/1448610.md" target="_blank">消息：五角大楼紧急关闭机密系统网络</a></li>
-<li><a href="/comments/20201216/1448596.md" target="_blank">川普任命社交媒体鹰派 剑指第230条 将终结大科技公司审查权力</a></li>
-<li><a href="/comments/20201216/1448595.md" target="_blank">局势追评：两个美国 川普打碎了右派买单 左派赴宴的游戏</a></li>
-<li><a href="/comments/20201216/1448594.md" target="_blank">庄晓斌：十二月十八日绝对是可载入史册的日子</a></li>
-<li><a href="/comments/20201216/1448579.md" target="_blank">民意调查：美国人对选举舞弊的认知增加</a></li>
-<li><a href="/comments/20201216/1448578.md" target="_blank">盘点历史上那些皇帝的奇葩嗜好</a></li>
-<li><a href="/comments/20201216/1448569.md" target="_blank">百家姓：历史为川普总统铺平了绝地反击之路</a></li>
-<li><a href="/comments/20201216/1448559.md" target="_blank">查清朝重臣陶澍的祖宗三代 看他兴旺的秘密</a></li>
-<li><a href="/comments/20201216/1448404.md" target="_blank">共和党绝地反击！多个州出现“双选”奇景！川普开掉司法部长巴尔，这大官身上又藏着什么秘密？</a></li>
-<li><a href="/comments/20201216/1448543.md" target="_blank">林·伍德：川普将采取雷霆行动 “他有个计划”</a></li>
-<li><a href="/comments/20201216/1448485.md" target="_blank">林.伍德：乔州州长和州务卿将很快进监狱</a></li>
-<li><a href="/comments/20201216/1448484.md" target="_blank">中药古今研究：鹿茸</a></li>
-<li><a href="/comments/20201216/1448483.md" target="_blank">哈佛医学院列出必吃的10个超级食物</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
 <li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 
 </ul>
 </div>
