@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20201216/1449067.md">被爆与多名高官太太有染 传芮成钢出狱火速离京</a></li>
 <li><a href="/comments/20201217/1449360.md">习近平梦碎 中共核武专家死亡 半个月三名院士去世 诡异！今年迄今已有38名两院院士去世 平均一个月3至4名院士去世 三年逾百名两院院士去世 名单曝光 中南海不可告人的秘密_277</a></li>
 <li><a href="/topimagenews/20201216/1449151.md">棋高一招 川普要一网打尽？</a></li>
 <li><a href="/taiwannews/20201216/1449189.md">震惊！拜登这次麻烦大了！特朗普要求与拜登当面对峙</a></li>
@@ -13,20 +12,21 @@
 <li><a href="/cbnews/20201217/1449367.md">大连突发严重疫情 大连人叫苦不迭</a></li>
 <li><a href="/taiwannews/20201217/1449473.md">特朗普总统胜出！ 数以百万计的美国跳舞庆祝</a></li>
 <li><a href="/bannedvideo/20201217/1449424.md">川普（特朗普）没有把美军最高军阶的参谋联席会议主席米利放在国防部长继承人名单上，但管采购的副秘书长，管工程的副秘书长却在列。有什么奥秘？川普为何悄悄签署总统令，列出长名单做国防部长后备人选？</a></li>
-<li><a href="/cbnews/20201216/1449068.md">习近平不满意？林郑上京述职突然叫停</a></li>
 <li><a href="/headline/20201216/1449097.md">报道指李偲嫣已离世</a></li>
+<li><a href="/taiwannews/20201217/1449580.md">奇迹特朗普总统！ 调查局收回了拜登的票！ 特朗普总统赢了</a></li>
 <li><a href="/taiwannews/20201216/1449199.md">整个美国都收到了特朗普总统的好消息！ 拜登作弊暴露</a></li>
 <li><a href="/topimagenews/20201217/1449515.md">大鳄们将赔光老本！干涉大选制裁行政令 是他们生命中无法承受之重</a></li>
+<li><a href="/taiwannews/20201217/1449581.md">特朗普总统胜出！谁也没想到，一切来得如此之快</a></li>
 <li><a href="/topimagenews/20201217/1449361.md">为中共站台 亲共团体发起人李偲嫣猝死 讽刺周庭现世报？</a></li>
-<li><a href="/taiwannews/20201217/1449580.md">奇迹特朗普总统！ 调查局收回了拜登的票！ 特朗普总统赢了</a></li>
 <li><a href="/cbnews/20201217/1449368.md">天津强推疫苗致数百人感染 冷链员工恐再受害</a></li>
 <li><a href="/cnnews/20201217/1449316.md">拜登就怕 川普这招|佛州州长不承认败登为当选总统，华人点赞</a></li>
-<li><a href="/taiwannews/20201217/1449581.md">特朗普总统胜出！谁也没想到，一切来得如此之快</a></li>
 <li><a href="/bannedvideo/20201217/1449334.md">在麦康奈尔投降之后，参议院国安委员会坚持召开选举舞弊听证会！共和党主席强森怒斥民主党委员撒谎，双方交火激烈！川普若使用戒严令就是独裁者吗？纳姐邀请林博士来深入分析！</a></li>
 <li><a href="/bannedvideo/20201217/1449352.md">川普暗示要宣布戒严？背水一战 麦康纳尔的水很深（启明笑谈20201216）</a></li>
+<li><a href="/cbnews/20201217/1449551.md">川普回应麦康奈尔承认拜登当选 赵小兰遭调查; 审查大选有问题，美参院听证 六人作证;  入侵大选的黑客软件 与克林顿家族关系密切？ ; 蓬佩奥参加国务院假日派对后自我隔离【希望之声TV】</a></li>
 <li><a href="/cbnews/20201217/1449477.md">文昭：参院听证激烈交锋，川普逼近决断时刻；情报总监放风、异常再现</a></li>
-<li><a href="/bannedvideo/20201217/1449330.md">共和党大佬叛变，议会阻击川普翻盘，逼川普最后发力，麦康奈尔究竟为什么要叛变？</a></li>
+<li><a href="/ssgc/20201217/1449378.md">〖兲朝浮世绘〗拜登的三观真的很雷人</a></li>
 <li><a href="/cbnews/20201217/1449411.md">AOC要求佩洛西与舒默下台；维基解密创始人与希拉里时期国务院对话录音曝光；选票粉碎也能判真假  二维码发明人语出惊人；委员会建议更改林肯高中的名字 川普斥不公；【希望之声TV】</a></li>
+<li><a href="/bannedvideo/20201217/1449330.md">共和党大佬叛变，议会阻击川普翻盘，逼川普最后发力，麦康奈尔究竟为什么要叛变？</a></li>
 <li><a href="/cbnews/20201217/1449257.md">江峰：奥巴马八年布局，川普两月破阵； 巴尔离职，圣诞节前重要讲话谁猜得透？司法部接班人可是狠角儿【大选评说2020】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201217/1449738.md" target="_blank">另类阶级斗争 美国种族歧视是怎么来的？</a></li>
 <li><a href="/comments/20201217/1449731.md" target="_blank">英文大纪元：关键时刻 川普应采取行动</a></li>
 <li><a href="/comments/20201217/1449723.md" target="_blank">脸书扎克伯格干预美国大选内幕：5亿美元与秘密算法 川普阵营重磅反击 脸书被控非法垄断市场 被要求分离Instagram和WhatsApp在内的资产</a></li>
 <li><a href="/comments/20201217/1449721.md" target="_blank">「柬埔寨不是疫苗实验场」亲共柬总理拒用中国疫苗</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201217/1449584.md" target="_blank">陶杰：正是江南好风景</a></li>
 <li><a href="/comments/20201217/1449571.md" target="_blank">程晓农：中国要澳大利亚靠边站的真实意图</a></li>
 <li><a href="/comments/20201217/1449556.md" target="_blank">NASA公布一组今昔对比照 人类破坏力惊人</a></li>
-<li><a href="/comments/20201217/1449555.md" target="_blank">百家姓: 历史为川普总统铺平了绝地反击之路</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
