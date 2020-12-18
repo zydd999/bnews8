@@ -14,20 +14,20 @@
 <li><a href="/comments/20201218/1450241.md">传中央调查组开进阿里巴巴 学者：高层对马云很厌恶</a></li>
 <li><a href="/topimagenews/20201218/1449998.md">中共报复 砸了自己 起底习近平“高参”翟东升：市侩滑头、大草包</a></li>
 <li><a href="/cnnews/20201218/1450118.md">维基解密曝一批重磅文件 看奥巴马与谁勾兑？娈童集团、乔布斯患艾滋病等等等等</a></li>
-<li><a href="/bannedvideo/20201218/1450246.md">💥反川普电话曝光，首席大法官摊上事；最高法接了鲍威尔诉密歇根案，乔州开始验证选票签名；外国干预大选报告推迟，三大幕后真相！国务院定性中共，共军惹恼印太美军；中共灭活疫苗很危险</a></li>
 <li><a href="/ssgc/20201218/1450032.md">〖兲朝浮世绘〗拜登马克龙都中招了，看来习近平的杀伤力远高于希特勒</a></li>
 <li><a href="/topimagenews/20201218/1450018.md">美国务院罕见连夜多次发推 强调中共为最大威胁</a></li>
+<li><a href="/bannedvideo/20201218/1450246.md">💥反川普电话曝光，首席大法官摊上事；最高法接了鲍威尔诉密歇根案，乔州开始验证选票签名；外国干预大选报告推迟，三大幕后真相！国务院定性中共，共军惹恼印太美军；中共灭活疫苗很危险</a></li>
 <li><a href="/baitai/20201218/1450155.md">共匪垮台在即，中国人要有思想准备</a></li>
 <li><a href="/topimagenews/20201218/1450139.md">一个字 “拖”！鲍威尔律师怒揭最高法院真相 【阿波罗网编译 】</a></li>
 <li><a href="/cnnews/20201218/1450090.md">江泽民赵小兰竟是这种关系 中共如何腐蚀美国政要</a></li>
 <li><a href="/topimagenews/20201218/1449985.md">情报评估报告推迟啥后果？总监披露：中共干涉美国大选 情报界掩盖</a></li>
-<li><a href="/cbnews/20201218/1450092.md">突破:鲍威尔的”海怪“已达高院；MIT博士取得关键诉讼胜利 ；电商巨头揭露干预美大选是中共“杀手锏” ；美国务院连夜连发推 强调中共为最大威胁；外国黑客入侵对美政府网络构成严重风险【希望之声TV】</a></li>
 <li><a href="/lifebaike/20201218/1450117.md">揭北京特大卖淫集团 的士带客警察作线人免费嫖</a></li>
-<li><a href="/cnnews/20201218/1450265.md">震惊！亚利桑那州发现79万假选票</a></li>
+<li><a href="/cbnews/20201218/1450092.md">突破:鲍威尔的”海怪“已达高院；MIT博士取得关键诉讼胜利 ；电商巨头揭露干预美大选是中共“杀手锏” ；美国务院连夜连发推 强调中共为最大威胁；外国黑客入侵对美政府网络构成严重风险【希望之声TV】</a></li>
 <li><a href="/comments/20201218/1450254.md">蛋壳公寓受害青年怒批中共 实名退团宣言</a></li>
-<li><a href="/taiwannews/20201218/1450342.md">美国最高法院发布了拜登紧急逮捕令！选举舞弊的证据已经揭晓</a></li>
+<li><a href="/cnnews/20201218/1450265.md">震惊！亚利桑那州发现79万假选票</a></li>
 <li><a href="/topimagenews/20201218/1449954.md">拉斯穆森最新调查：62%共和党人、28%独立选民与17%民主党人相信民主党偷了这次选举</a></li>
 <li><a href="/bannedvideo/20201218/1450057.md">财经冷眼：  涨声一片！2021年大通胀 ，终于来了！（20201217第409期）</a></li>
+<li><a href="/topimagenews/20201218/1450323.md">都来索要中共党员名单！排查中共党员行动仅仅是开始</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201218/1450469.md" target="_blank">大选更新12·18：乔州将检查邮寄选票签名</a></li>
+<li><a href="/comments/20201218/1450454.md" target="_blank">关键时刻 川普採取行动？｜美情报总监是另一个巴尔？</a></li>
 <li><a href="/cbnews/20201218/1450450.md" target="_blank">林伍德爆高院拒德州诉讼案内幕；高院故意拖延鲍威尔的紧急请愿；纳瓦罗重磅报告揭选举问题六层面；彭斯乔州集会：和川普壹起继续奋斗【希望之声TV】</a></li>
 <li><a href="/cbnews/20201218/1450433.md" target="_blank">陈破空：全国关注，这名老外顿成网红！法国总统中招，大批欧洲政要隔离。拜登不停咳嗽</a></li>
 <li><a href="/cbnews/20201218/1450413.md" target="_blank">最高法院黑幕曝光 首席大法官应立刻辞职 参院司委会主席:科技巨头邮寄选票威胁美国</a></li>
@@ -59,14 +61,14 @@
 <li><a href="/comments/20201218/1449926.md" target="_blank">川普的困境：“以一人战一国！”，你我的选择：“红色还是蓝色药丸？”</a></li>
 <li><a href="/cbnews/20201218/1450131.md" target="_blank">鲍威尔遭警告 高法内幕爆光  嘉宾: 方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/17)</a></li>
 <li><a href="/cbnews/20201218/1450126.md" target="_blank">大选更新12·17：纳瓦罗报告揭选举违规六层面</a></li>
-<li><a href="/comments/20201218/1449973.md" target="_blank">拜登到亚特兰大“演说”，然而这是《饥饿游戏》的拍摄现场…他任命的教育部长，比他任命的驻华大使更“辣眼睛”……</a></li>
-<li><a href="/cbnews/20201218/1450092.md" target="_blank">突破:鲍威尔的”海怪“已达高院；MIT博士取得关键诉讼胜利 ；电商巨头揭露干预美大选是中共“杀手锏” ；美国务院连夜连发推 强调中共为最大威胁；外国黑客入侵对美政府网络构成严重风险【希望之声TV】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201218/1450464.md" target="_blank">利剑高悬 热传乔州舞弊行李箱视频中的紫衣女 愿做污点证人</a></li>
+<li><a href="/comments/20201218/1450454.md" target="_blank">关键时刻 川普採取行动？｜美情报总监是另一个巴尔？</a></li>
 <li><a href="/topimagenews/20201218/1450323.md" target="_blank">都来索要中共党员名单！排查中共党员行动仅仅是开始</a></li>
 <li><a href="/topimagenews/20201218/1450305.md" target="_blank">说明白了！“戒严法已经实行了64次 并非史无前例” 弗林将军再释重磅信号 【阿波罗网编译】</a></li>
 <li><a href="/comments/20201218/1450254.md" target="_blank">蛋壳公寓受害青年怒批中共 实名退团宣言</a></li>
@@ -90,14 +92,13 @@
 <li><a href="/topimagenews/20201216/1448785.md" target="_blank">情报总监会提供报告吗？白宫发言人回应来了</a></li>
 <li><a href="/topimagenews/20201216/1448784.md" target="_blank">竟是川普总统功劳？中共195万党员名单引全球震惊 中共枪法大乱 自曝其丑</a></li>
 <li><a href="/topimagenews/20201216/1448783.md" target="_blank">百分百同意采取行动！弗林将军：亿万爱国者站在你周围…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201216/1448782.md" target="_blank">拜登咳嗽14000次？网友：根据多米尼…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201216/1448632.md" target="_blank">MSCI部分指数剔除10家国防黑名单中企 中芯国际在列</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201218/1450454.md" target="_blank">关键时刻 川普採取行动？｜美情报总监是另一个巴尔？</a></li>
 <li><a href="/comments/20201218/1450449.md" target="_blank">瑞士制表工艺及北非小米列世界文化遗产</a></li>
 <li><a href="/comments/20201218/1450446.md" target="_blank">中共将为5千万人施打未通过审核「国产疫苗」</a></li>
 <li><a href="/comments/20201218/1450396.md" target="_blank">韩国妇人鼓励黄之锋：如圣经中的约书亚撑过考验</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201218/1450219.md" target="_blank">彭斯在乔治亚助选 誓言为公平的选举奋斗</a></li>
 <li><a href="/comments/20201218/1450205.md" target="_blank">陈沂成了星二代 自爆继母是金马影后陆小芬</a></li>
 <li><a href="/comments/20201218/1450195.md" target="_blank">川普，该出手了</a></li>
-<li><a href="/comments/20201218/1450192.md" target="_blank">共和党领袖：民主党议员私通女共谍 FBI置若罔闻</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
 <li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
