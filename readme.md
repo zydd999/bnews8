@@ -12,7 +12,6 @@
 <li><a href="/topimagenews/20201217/1449883.md">怕牢狱之灾？乔治亚州务卿忽宣布：全州签名验票 川普团队：不管1月6日结果 都将继续战斗</a></li>
 <li><a href="/headline/20201217/1449751.md">消息人士：中央调查组本周进驻阿里巴巴 马云湖畔大学云南分校规划用地遭终止</a></li>
 <li><a href="/comments/20201217/1449901.md">习近平亲信公安部常务副部长王小洪被举报 中南海不可告人的秘密_278</a></li>
-<li><a href="/cbnews/20201217/1449596.md">周永康招供指派海外特工制造震惊美国的灭门案</a></li>
 <li><a href="/cbnews/20201218/1450010.md">新华社抨击内部“投降派” 中共内斗疑云再起</a></li>
 <li><a href="/comments/20201218/1449949.md">维基解密：习近平击败李克强 成为胡锦涛接班人的内幕 李克强有软肋 被团派拖累 中南海不可告人的秘密_279</a></li>
 <li><a href="/bannedvideo/20201218/1450077.md">警报：奥巴马快跑！川普天才行动计划流出？最高法院首席大法官露馅！反转太多……</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20201217/1449730.md">美国国家情报总监办公室（ODNI）周三（12月16日）通过推特对外宣布说，情报总监约翰·拉特克利夫（John Ratcliffe）在18日的截止日提交对外国干预美国大选的评估报告</a></li>
 <li><a href="/cbnews/20201217/1449651.md">“蓬佩奥被隔离”窜热搜 近5000万人围观 一细节露馅</a></li>
 <li><a href="/health/20201217/1449710.md">几块钱一斤的它 是肠道垃圾的天敌！常吃还护血管、防癌 五高人群要常吃</a></li>
+<li><a href="/topimagenews/20201218/1449985.md">情报评估报告推迟啥后果？总监披露：中共干涉美国大选 情报界掩盖</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201218/1450252.md" target="_blank">希拉里被奥巴马设局？罪证曝光！谷歌要被拆分？全美40个州联合提告！国家安全有威胁 ！川普宣布延长紧急状态；</a></li>
+<li><a href="/cbnews/20201218/1450248.md" target="_blank">中共吹嘘称接回7万人 网友打脸：天价机票 回国难</a></li>
 <li><a href="/comments/20201218/1450240.md" target="_blank">微信影响力无所不在 调查报告：澳洲中文媒体遭中共控制</a></li>
 <li><a href="/cbnews/20201218/1450234.md" target="_blank">太可怕！特斯拉Model S在北京失控撞楼 车主跳车逃生</a></li>
 <li><a href="/cbnews/20201218/1450214.md" target="_blank">怕坐牢？乔治亚州务卿：全州签名验票 多州计划1月6日发动国会战？;为求川普特赦 阿桑奇再释惊人内幕; 格雷厄姆呼吁设立特别检察官 调查亨特【希望之声TV】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201218/1450010.md" target="_blank">新华社抨击内部“投降派” 中共内斗疑云再起</a></li>
 <li><a href="/cbnews/20201218/1450008.md" target="_blank">美国国会推出法案 要求惩罚中共的强摘器官行为</a></li>
 <li><a href="/cbnews/20201218/1450007.md" target="_blank">“扎克伯格”选举资金条款：不听话 钱收回</a></li>
-<li><a href="/cbnews/20201218/1449995.md" target="_blank">“扎克伯格”选举资金条款：不听话钱收回</a></li>
-<li><a href="/cbnews/20201218/1449978.md" target="_blank">纳瓦罗报告：“千刀万剐偷窃”做实选举舞弊</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201218/1450250.md" target="_blank">美媒：为组建家庭企业 亨特让拜登加盟华鹰</a></li>
 <li><a href="/comments/20201218/1450241.md" target="_blank">传中央调查组开进阿里巴巴 学者：高层对马云很厌恶</a></li>
 <li><a href="/comments/20201218/1450240.md" target="_blank">微信影响力无所不在 调查报告：澳洲中文媒体遭中共控制</a></li>
 <li><a href="/comments/20201218/1450237.md" target="_blank">德州诉摇摆州案遭拒有内幕？首席大法官被揭从中作梗</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201218/1450138.md" target="_blank">核弹道飞弹试射成功 印媒：中国发抖了</a></li>
 <li><a href="/comments/20201218/1450125.md" target="_blank">纳瓦罗发迄今最详尽选举调查 曝光6领域欺诈行为</a></li>
 <li><a href="/comments/20201218/1450124.md" target="_blank">福克斯名主持：拜登选的驻华大使是中共“宣传部长”</a></li>
-<li><a href="/comments/20201218/1449973.md" target="_blank">拜登到亚特兰大“演说”，然而这是《饥饿游戏》的拍摄现场…他任命的教育部长，比他任命的驻华大使更“辣眼睛”……</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 
 </ul>
 </div>
