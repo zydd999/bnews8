@@ -13,7 +13,6 @@
 <li><a href="/finance/20201218/1450365.md">突发:支付宝下线所有互联网存款产品 马云悬了?</a></li>
 <li><a href="/baitai/20201218/1450155.md">共匪垮台在即，中国人要有思想准备</a></li>
 <li><a href="/cnnews/20201218/1450118.md">维基解密曝一批重磅文件 看奥巴马与谁勾兑？娈童集团、乔布斯患艾滋病等等等等</a></li>
-<li><a href="/topimagenews/20201218/1450018.md">美国务院罕见连夜多次发推 强调中共为最大威胁</a></li>
 <li><a href="/bannedvideo/20201218/1450246.md">💥反川普电话曝光，首席大法官摊上事；最高法接了鲍威尔诉密歇根案，乔州开始验证选票签名；外国干预大选报告推迟，三大幕后真相！国务院定性中共，共军惹恼印太美军；中共灭活疫苗很危险</a></li>
 <li><a href="/bannedvideo/20201218/1450439.md">美国必有内战，中美必有一战，中华有可能被肢解；坏人不讲武德，好人耗子尾汁！</a></li>
 <li><a href="/topimagenews/20201218/1450323.md">都来索要中共党员名单！排查中共党员行动仅仅是开始</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20201218/1450139.md">一个字 “拖”！鲍威尔律师怒揭最高法院真相 【阿波罗网编译 】</a></li>
 <li><a href="/cnnews/20201218/1450090.md">江泽民赵小兰竟是这种关系 中共如何腐蚀美国政要</a></li>
 <li><a href="/cnnews/20201218/1450265.md">震惊！亚利桑那州发现79万假选票</a></li>
+<li><a href="/topimagenews/20201219/1450570.md">美国防部紧急全面暂停与拜登权力交接工作</a></li>
 <li><a href="/cbnews/20201218/1450092.md">突破:鲍威尔的”海怪“已达高院；MIT博士取得关键诉讼胜利 ；电商巨头揭露干预美大选是中共“杀手锏” ；美国务院连夜连发推 强调中共为最大威胁；外国黑客入侵对美政府网络构成严重风险【希望之声TV】</a></li>
 <li><a href="/baitai/20201218/1450352.md">二大爷：袋鼠搬起了石头</a></li>
-<li><a href="/topimagenews/20201219/1450570.md">美国防部紧急全面暂停与拜登权力交接工作</a></li>
 <li><a href="/topimagenews/20201218/1450464.md">利剑高悬 热传乔州舞弊行李箱视频中的紫衣女 愿做污点证人</a></li>
 <li><a href="/bannedvideo/20201218/1450057.md">财经冷眼：  涨声一片！2021年大通胀 ，终于来了！（20201217第409期）</a></li>
 <li><a href="/lifebaike/20201218/1450331.md">马桶冲力下降怎么办？教你一招 冲力立马强10倍</a></li>
+<li><a href="/cbnews/20201218/1450347.md">恐慌 年关临近疫情再燃 大陆专家：过年能不回家就别回</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201219/1450662.md" target="_blank">中共急切甩锅 掩盖大连严重疫情</a></li>
+<li><a href="/cbnews/20201219/1450661.md" target="_blank">急寻人 习近平的庆丰包子铺成了中共病毒传染源</a></li>
 <li><a href="/cbnews/20201219/1450652.md" target="_blank">弗林：外国介入大选 川普有多个选项应对</a></li>
 <li><a href="/cbnews/20201219/1450607.md" target="_blank">水太深?乔州州长准女婿出事  探员被撂倒关联？弗林将军再数川普可行方案；数字不说谎 又有79万张被“洗过”选票爆出；新媒体风云榜排行谁上位？名人都爱用手势？什么标志？【希望之声TV】</a></li>
 <li><a href="/cbnews/20201218/1450545.md" target="_blank">华为阿里巴巴联手开发维族人面部识别工具</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201218/1450189.md" target="_blank">1213吴嘉隆精华片段  川普声东击西 还有大招逆转?  巡回法律战仅铺陈 川普打舞弊非重点</a></li>
 <li><a href="/cbnews/20201218/1450188.md" target="_blank">1213黄澎孝精华片段  中共人大副委员长全列制裁  下一波栗战书!习近平?</a></li>
 <li><a href="/cbnews/20201218/1450179.md" target="_blank">外国黑客入侵对美政府网络构成严重风险</a></li>
-<li><a href="/cbnews/20201218/1450178.md" target="_blank">习近平心腹王小洪因迫害人权被举报</a></li>
-<li><a href="/cbnews/20201218/1450177.md" target="_blank">Dominion捅大窟窿 北京瑞银大洗牌</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201219/1450660.md" target="_blank">李燕铭：川普重磅动作！大事要发生？！美国防部代理部长米勒下令：全面暂停与当选总统拜登团队的过渡工作 此举震惊五角大楼官员</a></li>
+<li><a href="/comments/20201219/1450657.md" target="_blank">习近平“积极考虑加入TPP” 但日本拒绝降低标准</a></li>
+<li><a href="/comments/20201219/1450656.md" target="_blank">MyPillow公司总裁：最终赢家一定是川普</a></li>
 <li><a href="/comments/20201219/1450651.md" target="_blank">陇原悲歌: 袁江母亲诉述儿子令人唏嘘的遭遇</a></li>
 <li><a href="/comments/20201219/1450650.md" target="_blank">美国将中芯国际及60家中企列入黑名单</a></li>
 <li><a href="/comments/20201219/1450644.md" target="_blank">李燕铭：武警部队司令换人 太子党上将王宁卸职 北京卫戍区司令王春宁卸职半年后去向明确 曾传涉政变 习近平清洗武警部队 正副司令十多名将领落马</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201218/1450446.md" target="_blank">中共将为5千万人施打未通过审核「国产疫苗」</a></li>
 <li><a href="/comments/20201218/1450396.md" target="_blank">韩国妇人鼓励黄之锋：如圣经中的约书亚撑过考验</a></li>
 <li><a href="/comments/20201218/1450372.md" target="_blank">咖啡到底抗发炎的、还是让体内发炎更严重的？</a></li>
-<li><a href="/comments/20201218/1450371.md" target="_blank">宅在家这样健康吃</a></li>
-<li><a href="/comments/20201218/1450370.md" target="_blank">戒菸 12 小时身体就改变！如果一年呢？</a></li>
-<li><a href="/comments/20201218/1450369.md" target="_blank">失智症的前兆</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
