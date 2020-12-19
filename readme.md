@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20201219/1451029.md">防政变？武警司令换人 太子党替太子党</a></li>
 <li><a href="/cbnews/20201219/1451121.md">陈破空：军中异动，习近平突然撤换四上将！王沪宁大骂高层亲美派。马云还不快跑</a></li>
 <li><a href="/bannedvideo/20201219/1450946.md">郭文贵说的今天美国会有大事发生，是不是川普要对几个舞弊州实行有限的军管戒严</a></li>
+<li><a href="/comments/20201219/1450916.md">重磅!荷兰银行家揭露:光明会金融体系血祭孩童</a></li>
 <li><a href="/topimagenews/20201219/1451053.md">川普出手 拜登没辙 要国防部立即重启交接 米勒不答应 美沦陷成委内瑞拉</a></li>
 <li><a href="/cbnews/20201219/1450963.md">又怂了！ 战狼外长放软话 吁美别打贸易战：谁也离不开谁 网民嘲讽</a></li>
-<li><a href="/comments/20201219/1450916.md">重磅!荷兰银行家揭露:光明会金融体系血祭孩童</a></li>
 <li><a href="/cbnews/20201219/1450724.md">五角大楼停止交接！林伍德发推：备好粮食弹药！据传白宫开始疏散工作人员！首席大法官罗伯兹是“小岛”贵宾！圣徒圣血未显神蹟，信徒担忧灾难降临！【新闻最嘲点姜光宇】Mr.FunnyNews (12.18)‬</a></li>
 <li><a href="/bannedvideo/20201219/1450940.md">密歇根海军陆战队员集体被紧急召回 休假泡汤了；前川普团队高层称 四到5个摇摆州将被有限度军管；五角大楼喊停与拜登团队交接 原因成谜；弗林：总统可动用军力在摇摆州重新选举</a></li>
 <li><a href="/topimagenews/20201219/1451143.md">大新闻：奥巴马泄底视频热传 川普再出手“拉黑”中芯大疆等60家中企</a></li>
-<li><a href="/cbnews/20201219/1450694.md">回国更难！民航局修改国际航班熔断禁令</a></li>
 <li><a href="/cbnews/20201219/1450912.md">中南海罕见大动作 省委书记提前密集换人</a></li>
-<li><a href="/cnnews/20201219/1450689.md">北京开重磅会议 地方大员提前集结“拜码头”</a></li>
 <li><a href="/comments/20201219/1450987.md">【独家】最关键时刻狠捅川普一刀！深度解析：麦康奈尔临阵倒戈对美国大选的影响（二）</a></li>
 <li><a href="/cbnews/20201219/1451105.md">撒币25亿美元帮巴国还债 中共惹众怒忙删报导</a></li>
 <li><a href="/cnnews/20201219/1450937.md">重磅！川普总统会见代理国防部长米勒【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201219/1450735.md">文昭：国防部停止向拜登交接，有大事要发生？川普采取雷霆手段的三个途径；大法官是倒川暗深势力？</a></li>
+<li><a href="/bannedvideo/20201219/1450959.md">财经冷眼： 突发！60家中企巨头被制裁 ！中共导弹火箭将缺芯熄火？中芯国际被断芯，内讧爆发或倒闭！（20201208第411期）</a></li>
+<li><a href="/cnnews/20201219/1451030.md">中石油下令海外办事处紧急销毁文件</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201220/1451300.md" target="_blank">陈破空：直播预告：白宫密集商讨，军队浮现分歧？最大网攻可能源自中国。川普号召1月6日大示威。陈破空与网友互动Q&amp;A 美东时间12月19日周六晚8点、即中港台时间12月20日周日早9点</a></li>
+<li><a href="/cbnews/20201220/1451299.md" target="_blank">情报总监评估报告已交总统手上；彭斯一展硬汉风格  宣布太空部队命名；美国将永久关闭最后2个驻俄领馆；美媒：亨特曾问会计入狱后收入；加州呼吁罢免佩洛西侄子；  密州选票重审叹为观止【希望之声TV】</a></li>
 <li><a href="/cbnews/20201220/1451286.md" target="_blank">黑龙江绥芬河被隔离民众自诉：最难的一年</a></li>
 <li><a href="/cbnews/20201220/1451285.md" target="_blank">黑龙江安达化工厂剧烈爆炸 3人死亡4人受伤</a></li>
 <li><a href="/cbnews/20201220/1451284.md" target="_blank">反了？山东泰安男子开铲车冲市政府 警察特警猛追</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20201219/1450963.md" target="_blank">又怂了！ 战狼外长放软话 吁美别打贸易战：谁也离不开谁 网民嘲讽</a></li>
 <li><a href="/cbnews/20201219/1450953.md" target="_blank">江峰：输官司赢天下川普早规划；纳瓦罗报告真爱国抗击高院政治假中立；蓬培奥国务院一日数槌砸中共，军事行动盯紧投票机</a></li>
 <li><a href="/comments/20201219/1450950.md" target="_blank">【12月19日 挺川灭共站出来 台北游行集会】传达正义理念 民众高喊台美合作挺川口号</a></li>
-<li><a href="/cbnews/20201219/1450941.md" target="_blank">【第216期】中共向美国投下数字核弹？多米尼急删链接避嫌？剥开太阳风和多米尼的层层关系。蓬佩奥发声明，制裁中共59家实体，赵小兰家族财路被堵。</a></li>
-<li><a href="/cbnews/20201219/1450923.md" target="_blank">习近平晋升四上将满面愁容引猜测</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201220/1451302.md" target="_blank">因变种病毒株的出现 英相宣布伦敦4级警报</a></li>
 <li><a href="/comments/20201220/1451291.md" target="_blank">【精彩网文】美国民兵组织守誓者致川普总统公开信 呼吁川普十大行动平叛 命令美军进入二级防卫状态甚至一级防卫状态</a></li>
 <li><a href="/comments/20201220/1451279.md" target="_blank">韩国摄影记者镜头下难拍的3美 周子瑜上榜</a></li>
 <li><a href="/comments/20201220/1451268.md" target="_blank">王立军要和薄熙来鱼死网破 三军对峙剑拔弩张 薄熙来埋伏狙击手欲伺机击毙王立军 美国海军陆战队子弹上膛待命 中南海不可告人的秘密_280</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201219/1450887.md" target="_blank">大瓜！最高法大法官竟然是腐败硕鼠？川普律师林伍德掀起推特巨浪；阿桑奇的维基解密开始爆美军阿富汗黑料…</a></li>
 <li><a href="/comments/20201219/1450916.md" target="_blank">重磅!荷兰银行家揭露:光明会金融体系血祭孩童</a></li>
 <li><a href="/comments/20201219/1451109.md" target="_blank">“马前卒”林郑众叛亲离来日无多</a></li>
-<li><a href="/comments/20201219/1451085.md" target="_blank">川普的惊天秘密-Q （2）：水很深</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
