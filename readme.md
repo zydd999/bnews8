@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20201216/1448536.md">我们都错怪巴尔了，他在和川建国唱一出双簧！维基解密放出重磅文件，希拉里乔帮主榜上有名！联邦面临分裂，川建国也许是最后一任总统！</a></li>
-<li><a href="/comments/20201216/1448752.md">传芮成钢出狱将赴香港任职 年薪400万港币 陆媒相关报导被速删 芮成钢与20位官夫人有染？遭令计划妻子谷丽萍性侵？央视主持芮成钢落马原因及狱中服刑内幕揭秘 芮成钢频频闹出国际笑话 背后大佬原来是…… 中南海不可告人的秘密_274</a></li>
-<li><a href="/bannedvideo/20201216/1448534.md">麦康纳尔不是临阵倒戈，而是潜行背刺；别以为川普没牌打，猪党更急！</a></li>
-<li><a href="/topimagenews/20201216/1449015.md">永远别幻想川普会出局！ 一切都安排好了！法律站在川普总统一边！【阿波罗网编译】</a></li>
-<li><a href="/comments/20201216/1448649.md">川普：给作弊嫌犯最后一次坦白的机会</a></li>
-<li><a href="/cbnews/20201216/1449067.md">被爆与多名高官太太有染 传芮成钢出狱火速离京</a></li>
-<li><a href="/topimagenews/20201216/1449151.md">棋高一招 川普要一网打尽？</a></li>
-<li><a href="/comments/20201216/1448746.md">令计划老婆谷丽萍勾搭央视主播芮成钢内幕 央视女的这样……男的也是这样…… 芮成钢被逮了个正着 中南海不可告人的秘密_272</a></li>
-<li><a href="/topimagenews/20201216/1448785.md">情报总监会提供报告吗？白宫发言人回应来了</a></li>
-<li><a href="/taiwannews/20201216/1449189.md">震惊！拜登这次麻烦大了！特朗普要求与拜登当面对峙</a></li>
-<li><a href="/cnnews/20201216/1448604.md">澳洲豪宅里的中国富豪：美女环绕</a></li>
-<li><a href="/cnnews/20201216/1448602.md">扎克伯格摊上大事了！涉10个黑钱机器 五个基金会 5亿美元干涉选举【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20201216/1449079.md">福克斯玛丽亚昨天12/14说：情报消息源告知我，川普总统确实赢了大选！</a></li>
-<li><a href="/comments/20201216/1448749.md">习近平“龙脉”被压 下令强拆北京昌平香堂 前常委陶铸女儿陶斯亮家被强拆 诗人郭小川70岁女儿被拘押 政法大学教授杨玉圣绝食抗议 有人给总理李克强写信…… 中南海谣言预言_410</a></li>
-<li><a href="/headline/20201216/1449097.md">报道指李偲嫣已离世</a></li>
-<li><a href="/cbnews/20201216/1449068.md">习近平不满意？林郑上京述职突然叫停</a></li>
-<li><a href="/cbnews/20201216/1448847.md">专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊</a></li>
-<li><a href="/cbnews/20201216/1449001.md">江峰：麦康奈尔变节还是老谋？1月8日关键，参议院舞弊听证！拜登代表了美国灵魂？猴急胜选只为制造合法性对抗川普雷霆手段</a></li>
-<li><a href="/lifebaike/20201216/1448519.md">彭德怀 万里等都看过没有穿裤子女人</a></li>
-<li><a href="/comments/20201216/1448569.md">百家姓：历史为川普总统铺平了绝地反击之路</a></li>
-<li><a href="/cbnews/20201216/1448738.md">开始备战了？川普签特殊行政令 ？网络黑手被抓？三大执法联手出击 ？川普发起新诉讼？挑战新墨西哥州选举结果</a></li>
-<li><a href="/topimagenews/20201216/1448784.md">竟是川普总统功劳？中共195万党员名单引全球震惊 中共枪法大乱 自曝其丑</a></li>
-<li><a href="/taiwannews/20201216/1449199.md">整个美国都收到了特朗普总统的好消息！ 拜登作弊暴露</a></li>
+<li><a href="/comments/20201218/1450241.md">传中央调查组开进阿里巴巴 学者：高层对马云很厌恶</a></li>
+<li><a href="/cbnews/20201218/1450134.md">川普直升机上神秘暗号释放开战信号? 川普隐藏的神秘双重身份？</a></li>
+<li><a href="/taiwannews/20201218/1450410.md">最高法院为特朗普总统带来了好处！ 特朗普赢了</a></li>
+<li><a href="/topimagenews/20201219/1450570.md">美国防部紧急全面暂停与拜登权力交接工作</a></li>
+<li><a href="/finance/20201218/1450365.md">突发:支付宝下线所有互联网存款产品 马云悬了?</a></li>
+<li><a href="/bannedvideo/20201218/1450246.md">💥反川普电话曝光，首席大法官摊上事；最高法接了鲍威尔诉密歇根案，乔州开始验证选票签名；外国干预大选报告推迟，三大幕后真相！国务院定性中共，共军惹恼印太美军；中共灭活疫苗很危险</a></li>
+<li><a href="/bannedvideo/20201218/1450439.md">美国必有内战，中美必有一战，中华有可能被肢解；坏人不讲武德，好人耗子尾汁！</a></li>
+<li><a href="/topimagenews/20201218/1450323.md">都来索要中共党员名单！排查中共党员行动仅仅是开始</a></li>
+<li><a href="/topimagenews/20201219/1450601.md">加州的55票竟也违反选举法 投票无效！【阿波罗网编译】</a></li>
+<li><a href="/comments/20201218/1450254.md">蛋壳公寓受害青年怒批中共 实名退团宣言</a></li>
+<li><a href="/cnnews/20201218/1450265.md">震惊！亚利桑那州发现79万假选票</a></li>
+<li><a href="/topimagenews/20201219/1450602.md">川普重磅信号！美国务院罕见连夜多次发推 强调中共为最大威胁</a></li>
+<li><a href="/topimagenews/20201219/1450654.md">川普总统戒严令呼之欲出？中共杀手锏露底了</a></li>
+<li><a href="/topimagenews/20201218/1450464.md">利剑高悬 热传乔州舞弊行李箱视频中的紫衣女 愿做污点证人</a></li>
+<li><a href="/baitai/20201218/1450352.md">二大爷：袋鼠搬起了石头</a></li>
+<li><a href="/lifebaike/20201218/1450331.md">马桶冲力下降怎么办？教你一招 冲力立马强10倍</a></li>
+<li><a href="/cbnews/20201218/1450347.md">恐慌 年关临近疫情再燃 大陆专家：过年能不回家就别回</a></li>
+<li><a href="/cbnews/20201218/1450252.md">希拉里被奥巴马设局？罪证曝光！谷歌要被拆分？全美40个州联合提告！国家安全有威胁 ！川普宣布延长紧急状态；</a></li>
+<li><a href="/lifebaike/20201218/1450426.md">北交大学生跳楼 坠亡现场摆满鲜花 遗书曝光</a></li>
+<li><a href="/cbnews/20201218/1450248.md">中共吹嘘称接回7万人 网友打脸：天价机票 回国难</a></li>
+<li><a href="/cbnews/20201218/1450413.md">最高法院黑幕曝光 首席大法官应立刻辞职 参院司委会主席:科技巨头邮寄选票威胁美国</a></li>
+<li><a href="/ssgc/20201219/1450659.md">〖兲朝浮世绘〗二百斤一尊的脑子起码得进250斤水才能作出这么愚蠢的决定</a></li>
+<li><a href="/comments/20201218/1450359.md">中国债务风暴将至？ 刘泰英：计划经济失控就会爆</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,93 +36,93 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/cbnews/20201217/1449386.md" target="_blank">大选更新12·16：林伍德：主流媒体是中共的宣传工具</a></li>
-<li><a href="/cbnews/20201217/1449379.md" target="_blank">〖博谈编译〗SolarWinds与奥巴马、克林顿、香港及美国大选有关</a></li>
-<li><a href="/cbnews/20201217/1449369.md" target="_blank">美国海军将任命首位女性 出任航空母舰舰长</a></li>
-<li><a href="/cbnews/20201217/1449368.md" target="_blank">天津强推疫苗致数百人感染 冷链员工恐再受害</a></li>
-<li><a href="/cbnews/20201217/1449367.md" target="_blank">大连突发严重疫情 大连人叫苦不迭</a></li>
-<li><a href="/cbnews/20201217/1449362.md" target="_blank">近两百万中共党员名单曝光 渗透英国官商机构</a></li>
-<li><a href="/cbnews/20201217/1449302.md" target="_blank">软件母公司法律对三家媒体发出警告;《大纪元》等也被警告？何去何从？密州议员:永远别幻想川普出局！参议院今天进行大选听证；维基再解密重要人物；情报权威:奥巴马庇护4大类犯罪集团【希望之声TV】</a></li>
-<li><a href="/cbnews/20201217/1449257.md" target="_blank">江峰：奥巴马八年布局，川普两月破阵； 巴尔离职，圣诞节前重要讲话谁猜得透？司法部接班人可是狠角儿【大选评说2020】</a></li>
-<li><a href="/cbnews/20201216/1449204.md" target="_blank">美国思想领袖：导弹防御专家雷贝卡·海因里希斯：中共的最终目标是「取代美国！」；川普政府已把中共定为头号威胁！为何说退出《中导条约》 是一个最英明的决定？谁能阻止中共的侵略行为？| 大纪元</a></li>
-<li><a href="/cbnews/20201216/1449202.md" target="_blank">美国思想领袖：美国传统基金会高级研究员迈克·冈萨雷斯：BLM运动与中共关系！美国正经历文化大革命？反种族主义搞起了批斗会？我们的自由正面临威胁！黑命贵创始人与亲共组织华人进步会的关系！| 大纪元</a></li>
-<li><a href="/cbnews/20201216/1449194.md" target="_blank">大陆 陆患癌老人自掘坟墓等死 网友轰中共医疗制度养老制度</a></li>
-<li><a href="/cbnews/20201216/1449187.md" target="_blank">外泄中共党员名单隐藏610犯罪组织成员</a></li>
-<li><a href="/cbnews/20201216/1449186.md" target="_blank">大选更新12·16：帮川普翻盘 七议员响应</a></li>
-<li><a href="/cbnews/20201216/1449181.md" target="_blank">美媒：接受*多*猫*腻*说客捐款后 麦康奈尔阻止了两项选举诚信法案；报告：扎克伯格涉5亿黑钱干涉&#8230;.. ？消息：五角大楼紧急关闭机密系统网络；川普转推：给了乔州长官机会 他们将坐牢【希望之声TV】</a></li>
-<li><a href="/cbnews/20201216/1449153.md" target="_blank">未投产已停摆！广州注资10亿最大芯片厂“烂尾”</a></li>
-<li><a href="/cbnews/20201216/1449145.md" target="_blank">陈破空：习近平密谋两件大事！招来德国军舰，加盟英法联军。神秘人物流放香港</a></li>
-<li><a href="/cbnews/20201216/1449068.md" target="_blank">习近平不满意？林郑上京述职突然叫停</a></li>
-<li><a href="/cbnews/20201216/1449067.md" target="_blank">被爆与多名高官太太有染 传芮成钢出狱火速离京</a></li>
-<li><a href="/cbnews/20201216/1449016.md" target="_blank">内蒙老巢被深查 刘云山现身潮汕捧习？</a></li>
-<li><a href="/cbnews/20201216/1449001.md" target="_blank">江峰：麦康奈尔变节还是老谋？1月8日关键，参议院舞弊听证！拜登代表了美国灵魂？猴急胜选只为制造合法性对抗川普雷霆手段</a></li>
-<li><a href="/cbnews/20201216/1448694.md" target="_blank">【文雍漫谈】人脸识别，正在终结人类的自由、重置人类的命运</a></li>
-<li><a href="/cbnews/20201216/1448868.md" target="_blank">【第213期】薇羽直播：家贼难防！太阳风漏洞横扫美国国防网络，谁是背后黑影？多米尼也有关联。</a></li>
-<li><a href="/cbnews/20201216/1448847.md" target="_blank">专栏 | 夜话中南海：习近平与赵乐际之间的私人情谊</a></li>
-<li><a href="/cbnews/20201216/1448846.md" target="_blank">专栏 | 夜话中南海：赵乐际当年省委书记的前后任都是“党内巨贪”</a></li>
-<li><a href="/cbnews/20201216/1448845.md" target="_blank">专栏 | 夜话中南海：未步苏荣后尘，强卫的不幸与万幸</a></li>
+<li><a href="/cbnews/20201219/1450772.md" target="_blank">天亮时分：川普只剩一条路（政论天下第307集 20201218）</a></li>
+<li><a href="/cbnews/20201219/1450770.md" target="_blank">大选更新12·18：川普：对最高法院非常失望</a></li>
+<li><a href="/cbnews/20201219/1450749.md" target="_blank">18号还是大日子！ 摇摆州军管呼之欲出  嘉宾: 方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/18)</a></li>
+<li><a href="/comments/20201219/1450523.md" target="_blank">人妖“教育部长”？这就是你们想要的？</a></li>
+<li><a href="/cbnews/20201219/1450738.md" target="_blank">五角大楼停止一项重要通报会 为什么？由索罗斯资助的检察官向乔州选民发出警告； 加州庇护法：释放判有重罪的非法外国人 ；谁对 &#8220;虚高 &#8220;的COVID数据感到愤怒？【希望之声TV】</a></li>
+<li><a href="/cbnews/20201219/1450735.md" target="_blank">文昭：国防部停止向拜登交接，有大事要发生？川普采取雷霆手段的三个途径；大法官是倒川暗深势力？</a></li>
+<li><a href="/cbnews/20201219/1450729.md" target="_blank">密歇根州务卿在习近平母校传授美国大选</a></li>
+<li><a href="/cbnews/20201219/1450724.md" target="_blank">五角大楼停止交接！林伍德发推：备好粮食弹药！据传白宫开始疏散工作人员！首席大法官罗伯兹是“小岛”贵宾！圣徒圣血未显神蹟，信徒担忧灾难降临！【新闻最嘲点姜光宇】Mr.FunnyNews (12.18)‬</a></li>
+<li><a href="/cbnews/20201219/1450721.md" target="_blank">大选更新12·18：“请总统下令戒严拯救国家”</a></li>
+<li><a href="/cbnews/20201219/1450706.md" target="_blank">陈破空：直播预告：国防部暂停对拜登团队简报！密西根一县翻盘。更多议员挺身而出。陈破空与网友互动Q&amp;A 美东时间12月18日周五晚8点、即中港台时间12月19日周六早9点</a></li>
+<li><a href="/cbnews/20201219/1450703.md" target="_blank">川普政府将60家中共军方相关企业列入黑名单</a></li>
+<li><a href="/cbnews/20201219/1450699.md" target="_blank">专栏 | 夜话中南海：青海“红二代”赵乐际的政治发迹之谜</a></li>
+<li><a href="/cbnews/20201219/1450695.md" target="_blank">福斯新闻：亨特成功说服拜登加盟中共华鹰</a></li>
+<li><a href="/cbnews/20201219/1450694.md" target="_blank">回国更难！民航局修改国际航班熔断禁令</a></li>
+<li><a href="/cbnews/20201219/1450693.md" target="_blank">川普任命“1776委员会”推动“爱国主义教育”</a></li>
+<li><a href="/cbnews/20201219/1450686.md" target="_blank">美著名智库专家：中共通过撒谎和侵略 渗透全世界</a></li>
+<li><a href="/cbnews/20201219/1450675.md" target="_blank">报告：中共在瑞士搞统战 绵密程度超乎想像</a></li>
+<li><a href="/cbnews/20201219/1450662.md" target="_blank">中共急切甩锅 掩盖大连严重疫情</a></li>
+<li><a href="/cbnews/20201219/1450661.md" target="_blank">急寻人 习近平的庆丰包子铺成了中共病毒传染源</a></li>
+<li><a href="/cbnews/20201219/1450652.md" target="_blank">弗林：外国介入大选 川普有多个选项应对</a></li>
+<li><a href="/comments/20201219/1450628.md" target="_blank">请签名：白宫网站请愿 请川普总统下戒严令拯救美国</a></li>
+<li><a href="/cbnews/20201219/1450607.md" target="_blank">水太深?乔州州长准女婿出事  探员被撂倒关联？弗林将军再数川普可行方案；数字不说谎 又有79万张被“洗过”选票爆出；新媒体风云榜排行谁上位？名人都爱用手势？什么标志？【希望之声TV】</a></li>
+<li><a href="/cbnews/20201218/1450545.md" target="_blank">华为阿里巴巴联手开发维族人面部识别工具</a></li>
+<li><a href="/cbnews/20201218/1450469.md" target="_blank">大选更新12·18：乔州将检查邮寄选票签名</a></li>
+<li><a href="/comments/20201218/1450454.md" target="_blank">关键时刻 川普採取行动？｜美情报总监是另一个巴尔？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201219/1450748.md" target="_blank">川普动手了！德州也行动了！突发重磅信号！震惊！亚利桑那州发现79万假选票</a></li>
+<li><a href="/topimagenews/20201219/1450737.md" target="_blank">马云悬了? 大选黑手？白宫网站请愿：请总统下令戒严 拯救国家</a></li>
+<li><a href="/topimagenews/20201219/1450654.md" target="_blank">川普总统戒严令呼之欲出？中共杀手锏露底了</a></li>
+<li><a href="/comments/20201219/1450628.md" target="_blank">请签名：白宫网站请愿 请川普总统下戒严令拯救美国</a></li>
+<li><a href="/topimagenews/20201219/1450602.md" target="_blank">川普重磅信号！美国务院罕见连夜多次发推 强调中共为最大威胁</a></li>
+<li><a href="/topimagenews/20201219/1450601.md" target="_blank">加州的55票竟也违反选举法 投票无效！【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201219/1450570.md" target="_blank">美国防部紧急全面暂停与拜登权力交接工作</a></li>
+<li><a href="/topimagenews/20201218/1450464.md" target="_blank">利剑高悬 热传乔州舞弊行李箱视频中的紫衣女 愿做污点证人</a></li>
+<li><a href="/comments/20201218/1450454.md" target="_blank">关键时刻 川普採取行动？｜美情报总监是另一个巴尔？</a></li>
+<li><a href="/topimagenews/20201218/1450323.md" target="_blank">都来索要中共党员名单！排查中共党员行动仅仅是开始</a></li>
+<li><a href="/topimagenews/20201218/1450305.md" target="_blank">说明白了！“戒严法已经实行了64次 并非史无前例” 弗林将军再释重磅信号 【阿波罗网编译】</a></li>
+<li><a href="/comments/20201218/1450254.md" target="_blank">蛋壳公寓受害青年怒批中共 实名退团宣言</a></li>
+<li><a href="/topimagenews/20201218/1450139.md" target="_blank">一个字 “拖”！鲍威尔律师怒揭最高法院真相 【阿波罗网编译 】</a></li>
+<li><a href="/topimagenews/20201218/1450018.md" target="_blank">美国务院罕见连夜多次发推 强调中共为最大威胁</a></li>
+<li><a href="/topimagenews/20201218/1449998.md" target="_blank">中共报复 砸了自己 起底习近平“高参”翟东升：市侩滑头、大草包</a></li>
+<li><a href="/topimagenews/20201218/1449985.md" target="_blank">情报评估报告推迟啥后果？总监披露：中共干涉美国大选 情报界掩盖</a></li>
+<li><a href="/topimagenews/20201218/1449954.md" target="_blank">拉斯穆森最新调查：62%共和党人、28%独立选民与17%民主党人相信民主党偷了这次选举</a></li>
+<li><a href="/topimagenews/20201217/1449883.md" target="_blank">怕牢狱之灾？乔治亚州务卿忽宣布：全州签名验票 川普团队：不管1月6日结果 都将继续战斗</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20201217/1449777.md" target="_blank">联手 两院共和党人将挑战选举人团结果 “太阳风”涉国安隐患被查 多猫腻速删信息</a></li>
+<li><a href="/comments/20201217/1449731.md" target="_blank">英文大纪元：关键时刻 川普应采取行动</a></li>
+<li><a href="/topimagenews/20201217/1449567.md" target="_blank">是巧合吗？操作选举的大鳄难道真的有他？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20201217/1449515.md" target="_blank">大鳄们将赔光老本！干涉大选制裁行政令 是他们生命中无法承受之重</a></li>
+<li><a href="/comments/20201217/1449492.md" target="_blank">世纪之问：难道“主流媒体”都错了？</a></li>
 <li><a href="/topimagenews/20201217/1449361.md" target="_blank">为中共站台 亲共团体发起人李偲嫣猝死 讽刺周庭现世报？</a></li>
-<li><a href="/topimagenews/20201217/1449344.md" target="_blank">反制中共对澳贸易打压 五眼联盟拟对中实施新一轮「贸易制裁」</a></li>
-<li><a href="/topimagenews/20201216/1449151.md" target="_blank">棋高一招 川普要一网打尽？</a></li>
-<li><a href="/topimagenews/20201216/1449015.md" target="_blank">永远别幻想川普会出局！ 一切都安排好了！法律站在川普总统一边！【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201216/1449014.md" target="_blank">驳麦康奈尔 美众议员：一切都在选民手中</a></li>
-<li><a href="/topimagenews/20201216/1448785.md" target="_blank">情报总监会提供报告吗？白宫发言人回应来了</a></li>
-<li><a href="/topimagenews/20201216/1448784.md" target="_blank">竟是川普总统功劳？中共195万党员名单引全球震惊 中共枪法大乱 自曝其丑</a></li>
-<li><a href="/topimagenews/20201216/1448783.md" target="_blank">百分百同意采取行动！弗林将军：亿万爱国者站在你周围…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201216/1448782.md" target="_blank">拜登咳嗽14000次？网友：根据多米尼…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201216/1448632.md" target="_blank">MSCI部分指数剔除10家国防黑名单中企 中芯国际在列</a></li>
-<li><a href="/comments/20201216/1448569.md" target="_blank">百家姓：历史为川普总统铺平了绝地反击之路</a></li>
-<li><a href="/topimagenews/20201216/1448492.md" target="_blank">美国大选：确认程序存变数 另类选举人或扭转局面</a></li>
-<li><a href="/topimagenews/20201215/1448302.md" target="_blank">拜登被戳穿 惨遭自家狗打脸 铁证出炉！美国国家安全不保</a></li>
-<li><a href="/topimagenews/20201215/1448146.md" target="_blank">川普总统再发起诉讼 挑战新墨西哥州的选举结果【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201215/1448053.md" target="_blank">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201215/1448013.md" target="_blank">要开大战？川普签特殊行政令 如果国防部长去世、辞职后军方…</a></li>
-<li><a href="/topimagenews/20201215/1447943.md" target="_blank">四摇摆州共和党选举人投“替代”票给川普</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20201215/1447921.md" target="_blank">选举人团投票标志大选结束？川普幕僚驳斥</a></li>
-<li><a href="/topimagenews/20201215/1447919.md" target="_blank">中美大新闻 美情报权威爆料 奥巴马庇护4大类犯罪集团 专家：川普连任有机会拉垮中共</a></li>
-<li><a href="/topimagenews/20201215/1447918.md" target="_blank">美国防部顾问大换血！金里奇等8人加入国防政策委员会</a></li>
-<li><a href="/topimagenews/20201215/1447875.md" target="_blank">重磅！川普：司法部长巴尔将离开 副司法部长将成为代理司法部长【 阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201215/1447874.md" target="_blank">川普突然推迟美高官新冠疫苗接种计划 原因尚不明</a></li>
-<li><a href="/topimagenews/20201215/1447819.md" target="_blank">法证报告：Dominion软件为选举舞弊而设计</a></li>
-<li><a href="/topimagenews/20201215/1447818.md" target="_blank">除方芳外 美民主党众议院委员再曝与他有关系？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/comments/20201217/1449385.md" target="_blank">国会首次选举违规听证 参议员誓言重建选民信心</a></li>
-<li><a href="/comments/20201217/1449384.md" target="_blank">近10年最流行的12种饮食减重法</a></li>
-<li><a href="/comments/20201217/1449383.md" target="_blank">视力明显下降，当心静脉长血栓了</a></li>
-<li><a href="/comments/20201217/1449371.md" target="_blank">最分裂的美国 最具希望的时刻</a></li>
-<li><a href="/comments/20201217/1449366.md" target="_blank">打脸习近平？超四成中国人年均休闲开支不足1000元</a></li>
-<li><a href="/comments/20201217/1449365.md" target="_blank">法律组织：扎克伯格投入5亿美元干预美国大选</a></li>
-<li><a href="/comments/20201217/1449360.md" target="_blank">习近平梦碎 中共核武专家死亡 半个月三名院士去世 诡异！今年迄今已有38名两院院士去世 平均一个月3至4名院士去世 三年逾百名两院院士去世 名单曝光 中南海不可告人的秘密_277</a></li>
-<li><a href="/comments/20201217/1449357.md" target="_blank">宗教领袖：正邪大战 美国人面临人生最大抉择</a></li>
-<li><a href="/comments/20201217/1449355.md" target="_blank">鲍威尔：总统应立刻查封每台投票机 做司法鉴定</a></li>
-<li><a href="/comments/20201217/1449342.md" target="_blank">拒绝放弃 两院共和党人将联手挑战选举人团结果</a></li>
-<li><a href="/comments/20201217/1449327.md" target="_blank">中芯国际高层人事地震 CEO梁孟松提交辞呈</a></li>
-<li><a href="/comments/20201217/1449326.md" target="_blank">17众议员要求佩洛西 将私通共谍议员踢出情委会</a></li>
-<li><a href="/comments/20201217/1449299.md" target="_blank">美国投资者开始起诉中芯国际</a></li>
-<li><a href="/comments/20201217/1449283.md" target="_blank">MSCI明晟将从指数中删除7家中企股票</a></li>
-<li><a href="/comments/20201217/1449282.md" target="_blank">川普：麦康奈尔太快放弃 人民很愤怒</a></li>
-<li><a href="/comments/20201217/1449281.md" target="_blank">在这些生机勃勃的地方，来观赏彩虹的每种颜色吧</a></li>
-<li><a href="/comments/20201217/1449268.md" target="_blank">脸书推特现大量“美女俊男” 有着特殊的任务 内藏惊人黑幕 中南海不可告人的秘密_276</a></li>
-<li><a href="/comments/20201217/1449267.md" target="_blank">【选情更新12/16】重大讯号：川普认同林.伍德推文 要清理沼泽了</a></li>
-<li><a href="/comments/20201217/1449262.md" target="_blank">评论 | 何清涟：中国抓住了瑞士什么痛点？</a></li>
-<li><a href="/comments/20201216/1449248.md" target="_blank">弗吉尼亚州长候选人：拜登“获胜”靠欺诈 川普应宣布戒严</a></li>
-<li><a href="/comments/20201216/1449220.md" target="_blank">【视频直播】联邦参议院首度就大选违规举行听证会</a></li>
-<li><a href="/comments/20201216/1449207.md" target="_blank">亚利桑那州议会下令审计多米尼投票机</a></li>
-<li><a href="/comments/20201216/1449195.md" target="_blank">前驻华外国领馆中国雇员称 大部分被安插的党员都有政治任务</a></li>
-<li><a href="/comments/20201216/1449116.md" target="_blank">时事大家谈：新冠大流行 中国角色一言难尽？</a></li>
-<li><a href="/comments/20201216/1449115.md" target="_blank">时事大家谈：新冠疫苗诞生 疫情终结还是持久战开始？</a></li>
+<li><a href="/comments/20201219/1450801.md" target="_blank">潘小涛：一带一路失败的教训</a></li>
+<li><a href="/comments/20201219/1450800.md" target="_blank">【慎入】一胎化的恐怖图片：中共的残暴 纳粹都自叹不如</a></li>
+<li><a href="/comments/20201219/1450788.md" target="_blank">川普正式签署让中概股从美国退市法案</a></li>
+<li><a href="/comments/20201219/1450787.md" target="_blank">澳洲内阁改组 反共鹰派任副国防部长</a></li>
+<li><a href="/comments/20201219/1450775.md" target="_blank">美国民兵组织守誓者致川普总统呼吁平叛的公开信</a></li>
+<li><a href="/comments/20201219/1450769.md" target="_blank">川普正式任命“1776”爱国教育咨询委员会</a></li>
+<li><a href="/comments/20201219/1450760.md" target="_blank">中澳关系急剧下滑 袋鼠搬起了石头</a></li>
+<li><a href="/comments/20201219/1450759.md" target="_blank">2020年后世界如何应对中共的挑战？</a></li>
+<li><a href="/comments/20201219/1450754.md" target="_blank">王岐山曾与赵小兰“咬耳朵” 评：他才是玩渗透的大佬</a></li>
+<li><a href="/comments/20201219/1450747.md" target="_blank">瑞幸咖啡做假账 美国监管当局灰头土脸</a></li>
+<li><a href="/comments/20201219/1450746.md" target="_blank">土耳其精英打辉瑞普通人注中国疫苗？</a></li>
+<li><a href="/comments/20201219/1450523.md" target="_blank">人妖“教育部长”？这就是你们想要的？</a></li>
+<li><a href="/comments/20201219/1450742.md" target="_blank">朝鲜船长收听自由亚洲电台 在上百名船长和渔业高官面前遭射击处决</a></li>
+<li><a href="/comments/20201219/1450739.md" target="_blank">颜纯鈎：689落井下石 777万箭穿心</a></li>
+<li><a href="/comments/20201219/1450727.md" target="_blank">立言:游说美国中共拉拢美国精英充当“带路党”</a></li>
+<li><a href="/comments/20201219/1450726.md" target="_blank">胡宁宛：澳煤与电荒 一幕杀敌八百自损三千的戏</a></li>
+<li><a href="/comments/20201219/1450725.md" target="_blank">李怡：选择错了也不后悔</a></li>
+<li><a href="/comments/20201219/1450720.md" target="_blank">金言：川普“雷霆行动” 占尽天时地利人和</a></li>
+<li><a href="/comments/20201219/1450719.md" target="_blank">研究：新冠肺炎的死亡率是流感近3倍</a></li>
+<li><a href="/comments/20201219/1450702.md" target="_blank">开水你烧对了吗？烧开水的正确打开方式</a></li>
+<li><a href="/comments/20201219/1450701.md" target="_blank">「熬夜」被WHO列为致癌因子！5大指标检测睡眠指数</a></li>
+<li><a href="/comments/20201219/1450700.md" target="_blank">警惕！冬季这种“小病”会致命，别不当一回事</a></li>
+<li><a href="/comments/20201219/1450692.md" target="_blank">川普：共和党参议员应否决选举人团总统提名</a></li>
+<li><a href="/comments/20201219/1450681.md" target="_blank">中共脱贫？贫穷线低于世银每日1.9美元标准</a></li>
+<li><a href="/comments/20201219/1450680.md" target="_blank">五角大楼回应暂停拜登团队交接：受疫情影响</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 
 </ul>
 </div>
