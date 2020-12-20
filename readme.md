@@ -5,15 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/yule/20201219/1450868.md">撒贝宁人设翻车?保送北大原因曝光 内幕超想象</a></li>
 <li><a href="/cbnews/20201219/1450923.md">习近平晋升四上将满面愁容引猜测</a></li>
 <li><a href="/cnnews/20201219/1451056.md">证据直交川普总统！国际盟友出手相助！ 弗林将军释放惊人信息 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201219/1451029.md">防政变？武警司令换人 太子党替太子党</a></li>
 <li><a href="/cbnews/20201219/1451121.md">陈破空：军中异动，习近平突然撤换四上将！王沪宁大骂高层亲美派。马云还不快跑</a></li>
 <li><a href="/bannedvideo/20201219/1450946.md">郭文贵说的今天美国会有大事发生，是不是川普要对几个舞弊州实行有限的军管戒严</a></li>
 <li><a href="/comments/20201219/1450916.md">重磅!荷兰银行家揭露:光明会金融体系血祭孩童</a></li>
-<li><a href="/cbnews/20201219/1450963.md">又怂了！ 战狼外长放软话 吁美别打贸易战：谁也离不开谁 网民嘲讽</a></li>
 <li><a href="/topimagenews/20201220/1451283.md">习近平满面愁容？ 撒币25亿美元犯众怒 多地限电惹民怨四起 港台大事对比强烈</a></li>
+<li><a href="/cbnews/20201219/1450963.md">又怂了！ 战狼外长放软话 吁美别打贸易战：谁也离不开谁 网民嘲讽</a></li>
 <li><a href="/topimagenews/20201219/1451053.md">川普出手 拜登没辙 要国防部立即重启交接 米勒不答应 美沦陷成委内瑞拉</a></li>
 <li><a href="/cbnews/20201220/1451299.md">情报总监评估报告已交总统手上；彭斯一展硬汉风格  宣布太空部队命名；美国将永久关闭最后2个驻俄领馆；美媒：亨特曾问会计入狱后收入；加州呼吁罢免佩洛西侄子；  密州选票重审叹为观止【希望之声TV】</a></li>
 <li><a href="/cbnews/20201220/1451284.md">反了？山东泰安男子开铲车冲市政府 警察特警猛追</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/comments/20201219/1450987.md">【独家】最关键时刻狠捅川普一刀！深度解析：麦康奈尔临阵倒戈对美国大选的影响（二）</a></li>
 <li><a href="/cbnews/20201219/1451105.md">撒币25亿美元帮巴国还债 中共惹众怒忙删报导</a></li>
 <li><a href="/weiquan/20201219/1451178.md">天津软件工程师周绍卿因在推特上发文&#12289;点赞竟然被判刑9个月</a></li>
+<li><a href="/comments/20201220/1451268.md">王立军要和薄熙来鱼死网破 三军对峙剑拔弩张 薄熙来埋伏狙击手欲伺机击毙王立军 美国海军陆战队子弹上膛待命 中南海不可告人的秘密_280</a></li>
 <li><a href="/cnnews/20201219/1450937.md">重磅！川普总统会见代理国防部长米勒【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201219/1450959.md">财经冷眼： 突发！60家中企巨头被制裁 ！中共导弹火箭将缺芯熄火？中芯国际被断芯，内讧爆发或倒闭！（20201208第411期）</a></li>
 <li><a href="/cnnews/20201220/1451212.md">美元连跌9个月！满手美元怎么办？谢金河：靠这扭转</a></li>
 <li><a href="/comments/20201220/1451249.md">惊！出现传播新变种病毒株 疫苗可能无效 英相宣布警报升级</a></li>
-<li><a href="/comments/20201220/1451268.md">王立军要和薄熙来鱼死网破 三军对峙剑拔弩张 薄熙来埋伏狙击手欲伺机击毙王立军 美国海军陆战队子弹上膛待命 中南海不可告人的秘密_280</a></li>
+<li><a href="/cnnews/20201219/1451030.md">中石油下令海外办事处紧急销毁文件</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201220/1451508.md" target="_blank">天亮时分：川普白宫讨论军事行动方案；太阳风背后是中共（政论天下第308集 20201219）</a></li>
 <li><a href="/comments/20201220/1451463.md" target="_blank">川普的惊天秘密-Q（4）：暴风雨前的麦凯恩之死</a></li>
 <li><a href="/cbnews/20201220/1451420.md" target="_blank">美国大选年终大礼：川普吊打拜登</a></li>
 <li><a href="/comments/20201220/1451445.md" target="_blank">模特公司始创人涉参与美国元首级淫媒案</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201220/1451209.md" target="_blank">大选更新12.19：川普吁支持者参加1月6日抗议</a></li>
 <li><a href="/cbnews/20201219/1451177.md" target="_blank">川普签署外企问责法 中企不合规就下市</a></li>
 <li><a href="/cbnews/20201219/1451173.md" target="_blank">美国防部暂停过渡 四方皆惊</a></li>
-<li><a href="/cbnews/20201219/1451150.md" target="_blank">蓬佩奥： 中共研发的疫苗不安全；川普签外国公司问责法 中企危矣；川普赢诉讼人口普查 不算非法移民；说壹套做壹套 罗德岛民主党州长 要求民众待家里 自己却去酒吧【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201220/1451510.md" target="_blank">惨！深陷经济危机 伊拉克宣布史上最大幅度货币贬值</a></li>
+<li><a href="/comments/20201220/1451507.md" target="_blank">美国前总统小布什弟弟与江绵恒合办公司 财色兼收 在离婚声明中直认不讳：他在香港和泰国公干时曾跟多名女子发生性关系 而且这些女子都是送上门的 中南海不可告人的秘密_281</a></li>
+<li><a href="/comments/20201220/1451505.md" target="_blank">突然密集晋升将领 习近平为何没有笑容？</a></li>
+<li><a href="/comments/20201220/1451500.md" target="_blank">川普在等的沼泽大鳄</a></li>
+<li><a href="/comments/20201220/1451499.md" target="_blank">发人深省 传说中的事当今正在发生</a></li>
+<li><a href="/comments/20201220/1451498.md" target="_blank">日本没有政治正确 日本人为何支持川普？</a></li>
+<li><a href="/comments/20201220/1451497.md" target="_blank">副县长倒在显赫情妇裙下 为升迁百般伺候</a></li>
 <li><a href="/comments/20201220/1451491.md" target="_blank">川普的惊天秘密-Q（6）：风暴就在眼前，塞申斯还在睡觉吗？</a></li>
 <li><a href="/comments/20201220/1451481.md" target="_blank">川普的惊天秘密-Q（5）：Q的爱丽丝漫游记</a></li>
 <li><a href="/comments/20201220/1451480.md" target="_blank">副舍长：拜登 小心头顶的达摩克利斯之剑</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20201220/1451383.md" target="_blank">台湾！想飞，别怕受伤害</a></li>
 <li><a href="/comments/20201220/1451378.md" target="_blank">中共推疫苗外交 国内大规模接种 孙春兰泄露危险</a></li>
 <li><a href="/comments/20201220/1451377.md" target="_blank">二十四节气：冬至可是个大日子，赶快准备起来</a></li>
-<li><a href="/comments/20201220/1451372.md" target="_blank">刘虎：“百亿”高院副院长夫妇滑铁卢</a></li>
-<li><a href="/comments/20201220/1451371.md" target="_blank">老鱼吹牛皮：澳大利亚是纸猫吗？</a></li>
-<li><a href="/comments/20201220/1451363.md" target="_blank">愤怒美国人纽约中领馆前抗议中共渗透</a></li>
-<li><a href="/comments/20201220/1451362.md" target="_blank">买羽绒服时，要看懂吊牌的“秘密”，这些参数很重要</a></li>
-<li><a href="/comments/20201220/1451361.md" target="_blank">冬至冬至，幸福必至，冬至的民俗给人们带来哪些运气的祈盼？</a></li>
-<li><a href="/comments/20201220/1451351.md" target="_blank">真相已无法掩盖 美国人开始行动了</a></li>
-<li><a href="/comments/20201220/1451339.md" target="_blank">为窃取美国 奥巴马布下的的深层政府暗桩有多少？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 
 </ul>
 </div>
