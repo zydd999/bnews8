@@ -17,15 +17,15 @@
 <li><a href="/ssgc/20201220/1451728.md">解读一下：川普的“戒严令=假新闻”到底说给谁听？</a></li>
 <li><a href="/comments/20201220/1451520.md">川普的惊天秘密-Q（7）：9/11 恐怖袭击的层层迷雾</a></li>
 <li><a href="/comments/20201220/1451654.md">视频：中国X录像带，间谍活动，人工智能等</a></li>
+<li><a href="/cnnews/20201221/1451802.md">川普戒严令 惊人逆转 【深度报道】</a></li>
 <li><a href="/bannedvideo/20201220/1451718.md">弗林将军再爆猛料,“戒严法”逼迫美军鳄鱼现身,五角大楼停止交接有内情!为什么政客无法战胜川普?</a></li>
 <li><a href="/finance/20201220/1451590.md">6万股民懵了 股价暴跌96% 还有3天定退市生死</a></li>
 <li><a href="/bannedvideo/20201220/1451588.md">川普团队内部人士透露，川普总统即将施行戒严令（军事管制）！海军陆战队在密歇根州大急流市已经集结待命(12/19TruNews报道)</a></li>
 <li><a href="/cbnews/20201220/1451352.md">赴中乘客注意！中共使馆发布核酸、血清抗体检测新要求</a></li>
 <li><a href="/comments/20201220/1451093.md">川普的惊天秘密-Q（11）：准备好，性奴岛将引爆觉醒火山</a></li>
-<li><a href="/bannedvideo/20201220/1451620.md">阿桑奇正式请求川普特赦 维基解密再爆惊人内幕</a></li>
 <li><a href="/cbnews/20201220/1451735.md">大选更新12.20：川普：戒严令是假新闻</a></li>
+<li><a href="/bannedvideo/20201220/1451620.md">阿桑奇正式请求川普特赦 维基解密再爆惊人内幕</a></li>
 <li><a href="/topimagenews/20201220/1451365.md">川普警告麦康奈尔 ：硬起来 否则共和党不复存在 批左媒炒作俄国网攻 掩护中共</a></li>
-<li><a href="/cnnews/20201221/1451802.md">川普戒严令 惊人逆转 【深度报道】</a></li>
 <li><a href="/cbnews/20201220/1451408.md">全美反窃选呼声下 乔州州长突现身白宫晚会</a></li>
 <li><a href="/comments/20201220/1451463.md">川普的惊天秘密-Q（4）：暴风雨前的麦凯恩之死</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201221/1451878.md" target="_blank">川普必胜 宾州首府集会 民众要求扞卫宪法制止政变</a></li>
 <li><a href="/comments/20201221/1451870.md" target="_blank">冬令进补18问</a></li>
 <li><a href="/comments/20201221/1451869.md" target="_blank">什么是药酒？药酒与保健酒怎么区分？</a></li>
 <li><a href="/comments/20201221/1451868.md" target="_blank">冬至大过年，饮食有讲究</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201220/1451734.md" target="_blank">从新工会运动检视劳动三权</a></li>
 <li><a href="/comments/20201220/1451733.md" target="_blank">《还愿》重新上架 6 小时后再下架 中国打压、越境审查无日无之</a></li>
 <li><a href="/comments/20201220/1451732.md" target="_blank">预告来年有赤字 陈茂波咨询短片扮厨师：预备预算案如为家人准备晚餐</a></li>
-<li><a href="/comments/20201220/1451731.md" target="_blank">【图片+视频】苦瓜加绿豆，不出3天，头晕手麻消失了,颈椎病、肩周炎也拜拜了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
