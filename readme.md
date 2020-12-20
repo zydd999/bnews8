@@ -18,16 +18,16 @@
 <li><a href="/bannedvideo/20201220/1451587.md">在美国攻打中共时，福建，海南，江西，大连，青岛这几个地方会非常危险！</a></li>
 <li><a href="/cbnews/20201220/1451366.md">鲍威尔将任特别检察官   川普敦促民意直达议员  嘉宾: 方伟 蓝述 主持人:高洁【希望之声TV】(2020/12/19)</a></li>
 <li><a href="/comments/20201220/1451249.md">惊！出现传播新变种病毒株 疫苗可能无效 英相宣布警报升级</a></li>
-<li><a href="/comments/20201220/1451520.md">川普的惊天秘密-Q（7）：9/11 恐怖袭击的层层迷雾</a></li>
 <li><a href="/cbnews/20201220/1451703.md">陈破空：高层会议缺一人！王岐山跟她怎么啦？习近平这样问候马克龙。美国定性某国珍珠港袭击</a></li>
-<li><a href="/bannedvideo/20201220/1451588.md">川普团队内部人士透露，川普总统即将施行戒严令（军事管制）！海军陆战队在密歇根州大急流市已经集结待命(12/19TruNews报道)</a></li>
+<li><a href="/comments/20201220/1451520.md">川普的惊天秘密-Q（7）：9/11 恐怖袭击的层层迷雾</a></li>
 <li><a href="/comments/20201220/1451654.md">视频：中国X录像带，间谍活动，人工智能等</a></li>
+<li><a href="/bannedvideo/20201220/1451588.md">川普团队内部人士透露，川普总统即将施行戒严令（军事管制）！海军陆战队在密歇根州大急流市已经集结待命(12/19TruNews报道)</a></li>
 <li><a href="/bannedvideo/20201220/1451297.md">猪党末日疯狂之后好消息不断，密歇根乔治亚州绷不住了，证据在手白宫我有，川普也玩以共灭共。</a></li>
 <li><a href="/finance/20201220/1451590.md">6万股民懵了 股价暴跌96% 还有3天定退市生死</a></li>
 <li><a href="/cbnews/20201220/1451352.md">赴中乘客注意！中共使馆发布核酸、血清抗体检测新要求</a></li>
 <li><a href="/comments/20201220/1451093.md">川普的惊天秘密-Q（11）：准备好，性奴岛将引爆觉醒火山</a></li>
-<li><a href="/bannedvideo/20201220/1451620.md">阿桑奇正式请求川普特赦 维基解密再爆惊人内幕</a></li>
 <li><a href="/topimagenews/20201220/1451365.md">川普警告麦康奈尔 ：硬起来 否则共和党不复存在 批左媒炒作俄国网攻 掩护中共</a></li>
+<li><a href="/bannedvideo/20201220/1451620.md">阿桑奇正式请求川普特赦 维基解密再爆惊人内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201221/1451806.md" target="_blank">美科技业明星纷出走硅谷 主因政治与生活环境</a></li>
 <li><a href="/cbnews/20201221/1451793.md" target="_blank">金融专家：中共永远不会给华尔街想要的</a></li>
 <li><a href="/cbnews/20201221/1451787.md" target="_blank">弗林：我被“埋入”地下六尺</a></li>
 <li><a href="/cbnews/20201220/1451735.md" target="_blank">大选更新12.20：川普：戒严令是假新闻</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201220/1451408.md" target="_blank">全美反窃选呼声下 乔州州长突现身白宫晚会</a></li>
 <li><a href="/cbnews/20201220/1451404.md" target="_blank">大陆男子开铲车直冲市政府 公安猛追 官逼民反时代</a></li>
 <li><a href="/cbnews/20201220/1451386.md" target="_blank">美军制定未来海上目标 以新战略应对中共威胁</a></li>
-<li><a href="/cbnews/20201220/1451385.md" target="_blank">数千中共机密文件外泄 3200条秘密指示全曝光</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
 <li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
