@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20201222/1452575.md">中国多地限电停产到底为何？美媒：马云求生内幕流出</a></li>
 <li><a href="/cnnews/20201222/1452504.md">传江苏镇江中共机关拒绝接种新冠疫苗 网友：内部知根底</a></li>
 <li><a href="/lifebaike/20201222/1452545.md">一种“假孝顺”悄然兴起 比啃老还遭老人恨 儿女们却争相模仿</a></li>
-<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
 <li><a href="/topimagenews/20201222/1452789.md">携枪抗议者们 议会大厦外怒吼：逮捕州长 让我们进去</a></li>
 <li><a href="/funmedia/20201222/1452529.md">俗语“一日夫妻百日恩” 其实下半句才是经典 知道的人却不多</a></li>
 <li><a href="/comments/20201222/1452267.md">“没人敢骂中国…”川普绝望发文后，参议员罗姆尼痛斥川普“没胆谴责普京”…</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/bannedvideo/20201222/1452552.md">彭斯值得信任吗？1月6日历史将使他成为关键性人物。善良忠诚，川普信任。12月21专题+问答</a></li>
 <li><a href="/cbnews/20201222/1452626.md">他的出生地是个谜，知道真相的人已经不在了！他的信仰是个谜，这八年都在猜谜！深扒影子势力的十六年计画！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.21)‬</a></li>
 <li><a href="/cbnews/20201222/1452844.md">涉多名高级将领 38名军旅作家罕见集体退出作协</a></li>
-<li><a href="/worldnews/usa/20201222/1452501.md">美国宣布中国官员实施额外的签证限制</a></li>
 <li><a href="/topimagenews/20201222/1452728.md">幕僚长：川普反击将至！黑川记者： 鲍威尔第三次现身白宫 【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201222/1452970.md">大陆北上广突然大范围停电 断网断水街道漆黑如隔世</a></li>
 <li><a href="/topimagenews/20201222/1452914.md">川普加码 内外作战</a></li>
 <li><a href="/comments/20201222/1452519.md">川普：我们离揭开大选舞弊真相越来越近</a></li>
-<li><a href="/cbnews/20201222/1452970.md">大陆北上广突然大范围停电 断网断水街道漆黑如隔世</a></li>
 <li><a href="/cnnews/20201222/1452796.md">弦子：2014年6月9日发生在化妆室的全部经过</a></li>
+<li><a href="/bannedvideo/20201222/1452766.md">川普将要清除他身边的一条大鳄鱼，知晓希拉里秘密的人又有一个离奇死亡了</a></li>
+<li><a href="/bannedvideo/20201222/1452599.md">💥福克斯主播怒了：我尼玛不会让中共接管美国！印度男孩早就预言川普连任！过程坎坷又忐忑！白宫幕僚通共？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201223/1453152.md" target="_blank">美前官员：情报“政治化”正损害美国民主</a></li>
 <li><a href="/cbnews/20201223/1453147.md" target="_blank">传大连海洋大学学生染疫 全校停课做检测</a></li>
 <li><a href="/cbnews/20201223/1453139.md" target="_blank">大连疫情难控 全员核酸检测 海洋大学被封 网友怒怼</a></li>
 <li><a href="/cbnews/20201223/1453138.md" target="_blank">沈阳货车猛烈撞击轻轨列车瞬间</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201222/1452738.md" target="_blank">宪法律师：助川普制胜 彭斯握有关键底牌；失控！五国出现新变种病毒 英国告急 重挫全球股市；美国务卿宣布将进一步限制迫害人权的中共官员的签证【希望之声TV】</a></li>
 <li><a href="/cbnews/20201222/1452734.md" target="_blank">谁在盗窃美国？大纪元新唐人推出中文版纪录片</a></li>
 <li><a href="/cbnews/20201222/1452713.md" target="_blank">江峰：四年之殇</a></li>
-<li><a href="/cbnews/20201222/1452432.md" target="_blank">中共病毒突变感染率超70% 英国告急 各国禁航</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201223/1453150.md" target="_blank">通胀正在到来：中国猪肉批发价涨2.9%</a></li>
+<li><a href="/comments/20201223/1453149.md" target="_blank">厨房常用酱油等七种调味品的使用终于搞明白了</a></li>
 <li><a href="/comments/20201223/1453144.md" target="_blank">中国50城租金回报率平均不足2% 厦门81年才回本</a></li>
 <li><a href="/comments/20201223/1453134.md" target="_blank">川普白宫会见挑战选举人票议员</a></li>
 <li><a href="/comments/20201223/1453133.md" target="_blank">2021年一季度中国超千亿债券到期 违约风险积聚</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201223/1453053.md" target="_blank">有大成就的人靠的都是这个 现在的很多人都不知道了</a></li>
 <li><a href="/comments/20201223/1453048.md" target="_blank">闪躲疫情？金正恩乘专机飞往东海岸 中坚干部用暗语表不满</a></li>
 <li><a href="/comments/20201223/1453033.md" target="_blank">【专访】在海外做事很廉价 运动需以本土为主 — 流亡张昆阳的抗争想像</a></li>
-<li><a href="/comments/20201223/1453032.md" target="_blank">【裁定违法】警故意展示《立场》记者身份证 更向私隐专员提供不实资料 歪理狡辩</a></li>
-<li><a href="/comments/20201223/1453031.md" target="_blank">陈健民：在最坏的境况才能看到人的尊严 在最黑暗的夜晚才能看到星星</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
