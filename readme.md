@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20201221/1452077.md">川普拿到了，习近平要在1月6日之前干掉川普的讲话录音，另外谈谈国内的粮食危机问题</a></li>
 <li><a href="/topimagenews/20201221/1452107.md">惊弓之鸟 中国各地民众恐慌|打脸习近平？超四成中国人年均休闲开支不足千元</a></li>
 <li><a href="/topimagenews/20201221/1452138.md">军队已做好准备！林伍德:川普会让人们知道一些事情</a></li>
 <li><a href="/cbnews/20201221/1452167.md">中共隐瞒疫情真相 大量机密文件曝光</a></li>
 <li><a href="/cbnews/20201221/1452228.md">状况不断 湖南又全面进入“战时状态”</a></li>
-<li><a href="/worldnews/20201221/1452209.md">印度神童预言成真！英国变种病毒肆虐「大凶」持续到3月</a></li>
 <li><a href="/topimagenews/20201222/1452575.md">中国多地限电停产到底为何？美媒：马云求生内幕流出</a></li>
+<li><a href="/worldnews/20201221/1452209.md">印度神童预言成真！英国变种病毒肆虐「大凶」持续到3月</a></li>
 <li><a href="/cbnews/20201221/1452255.md">陈破空：习近平报复前高官，吓唬某政治老人？公共情夫行踪成谜。胡锡进金灿荣语出惊人</a></li>
-<li><a href="/bannedvideo/20201221/1452146.md">文睿：广州、深圳居然也停电了，情况不妙啊！除了电，供暖也出问题了</a></li>
 <li><a href="/cnnews/20201222/1452504.md">传江苏镇江中共机关拒绝接种新冠疫苗 网友：内部知根底</a></li>
+<li><a href="/bannedvideo/20201221/1452146.md">文睿：广州、深圳居然也停电了，情况不妙啊！除了电，供暖也出问题了</a></li>
 <li><a href="/comments/20201221/1452193.md">“未来日子要非常小心”</a></li>
 <li><a href="/topimagenews/20201222/1452466.md">维基解密揭奥巴马老底 是选举欺诈专家 从基层就靠此起家 和今年选举欺诈这关系</a></li>
 <li><a href="/cbnews/20201222/1452437.md">她半夜穿内衣到处敲门！结局「神展开」网狂赞：遇到对的人</a></li>
 <li><a href="/cbnews/20201221/1452100.md">落马派出所长押运途中死亡 尸体多处骨折出血</a></li>
 <li><a href="/baitai/20201221/1452173.md">关于英国变种病毒的三个基本认识</a></li>
 <li><a href="/cnnews/20201221/1452187.md">拜登还没赢—而是一场噩梦 赢的会是川普</a></li>
+<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
 <li><a href="/cnnews/20201221/1452217.md">苹果突然宣布：关闭美国这州所有零售门店</a></li>
 <li><a href="/taiwannews/20201222/1452379.md">习近平报复前高官，吓唬某政治老人？公共情夫行踪成谜-陈破空</a></li>
 <li><a href="/comments/20201221/1452367.md">赊刀人！不为人知的神秘预言家 时间直指2021</a></li>
 <li><a href="/topimagenews/20201221/1452098.md">怪不得拜登这么说 情报界老手一语破迷团【阿波罗网编译】</a></li>
-<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
 <li><a href="/ssgc/20201221/1452126.md">川普真是太磨几了吗？</a></li>
 <li><a href="/comments/20201221/1452273.md">马云处境糟糕 传交出蚂蚁集团部分股权求生</a></li>
+<li><a href="/bannedvideo/20201221/1452274.md">情报总监钓鱼行动，释放假情报，30分钟后泄露到敌方，成功擒拿叛国贼。中美两国开大会，一边雷霆战，一边卡脖子。12月20专题</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201222/1452738.md" target="_blank">宪法律师：助川普制胜 彭斯握有关键底牌；失控！五国出现新变种病毒 英国告急 重挫全球股市；美国务卿宣布将进一步限制迫害人权的中共官员的签证【希望之声TV】</a></li>
+<li><a href="/cbnews/20201222/1452734.md" target="_blank">谁在盗窃美国？大纪元新唐人推出中文版纪录片</a></li>
 <li><a href="/cbnews/20201222/1452713.md" target="_blank">江峰：四年之殇</a></li>
 <li><a href="/cbnews/20201222/1452432.md" target="_blank">中共病毒突变感染率超70% 英国告急 各国禁航</a></li>
 <li><a href="/cbnews/20201222/1452686.md" target="_blank">美国土安全部宣布 加强限制中共党员入境</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20201222/1452444.md" target="_blank">陈破空说段子：李克强探访村民 ，全面脱贫的故事原来是这样</a></li>
 <li><a href="/cbnews/20201222/1452437.md" target="_blank">她半夜穿内衣到处敲门！结局「神展开」网狂赞：遇到对的人</a></li>
 <li><a href="/cbnews/20201222/1452427.md" target="_blank">FOX大揭麦康奈尔佩洛西老底；白宫会议 与会者透内幕；议员官员齐声喊停  佩洛西聋了吗？香港大抓捕测试？ 拜登态度含糊中共暗喜；加州州长在工作人员检测出病毒阳性后再次隔离【希望之声TV】</a></li>
-<li><a href="/comments/20201221/1452367.md" target="_blank">赊刀人！不为人知的神秘预言家 时间直指2021</a></li>
-<li><a href="/cbnews/20201221/1452313.md" target="_blank">大选更新12.21：克鲁兹：法办大选舞弊者</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201222/1452728.md" target="_blank">幕僚长：川普反击将至！黑川记者： 鲍威尔第三次现身白宫 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201222/1452575.md" target="_blank">中国多地限电停产到底为何？美媒：马云求生内幕流出</a></li>
 <li><a href="/topimagenews/20201222/1452466.md" target="_blank">维基解密揭奥巴马老底 是选举欺诈专家 从基层就靠此起家 和今年选举欺诈这关系</a></li>
 <li><a href="/topimagenews/20201222/1452456.md" target="_blank">多国暂禁英国航班 澳洲不跟进 质疑变种病毒株的说法</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20201220/1451220.md" target="_blank">川普赞纳瓦罗重磅报告 预告1月6日华府抗议活动</a></li>
 <li><a href="/topimagenews/20201220/1451218.md" target="_blank">川普“雷霆行动”占尽天时 乔州再爆重大漏洞 制表机中提前移出36张存储卡</a></li>
 <li><a href="/topimagenews/20201219/1451143.md" target="_blank">大新闻：奥巴马泄底视频热传 川普再出手“拉黑”中芯大疆等60家中企</a></li>
-<li><a href="/comments/20201219/1450887.md" target="_blank">大瓜！最高法大法官竟然是腐败硕鼠？川普律师林伍德掀起推特巨浪；阿桑奇的维基解密开始爆美军阿富汗黑料…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201222/1452733.md" target="_blank">外国干涉大选报告推迟 美前官员忧情报部门“政治化”</a></li>
+<li><a href="/comments/20201222/1452727.md" target="_blank">【专访】脱罪日遇学民战友判囚 钱诗文被“无中生有检控”后的愤怒与内疚</a></li>
+<li><a href="/comments/20201222/1452726.md" target="_blank">“宾州搞出大新闻！” 川普发推又被蓝标</a></li>
 <li><a href="/comments/20201222/1452190.md" target="_blank">黑客入侵、多猫腻投票系统、“政治正确”下的教育危机、真正的爱国者</a></li>
 <li><a href="/comments/20201222/1452715.md" target="_blank">【微博精粹】70年来最不要脸的屎尸级口号 没有之一</a></li>
 <li><a href="/comments/20201222/1452267.md" target="_blank">“没人敢骂中国…”川普绝望发文后，参议员罗姆尼痛斥川普“没胆谴责普京”…</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201222/1452640.md" target="_blank">美参院国安委主席：法庭完全未听取大选舞弊案证据</a></li>
 <li><a href="/comments/20201222/1452631.md" target="_blank">【欺世大观】42 刘文彩一件事 羞臊共党70年</a></li>
 <li><a href="/comments/20201222/1452622.md" target="_blank">白宫幕僚长：川普见数名国会议员 “反击”将至</a></li>
-<li><a href="/comments/20201222/1452621.md" target="_blank">拜登再宣布“当选”一周后 贺锦丽仍未辞参议员</a></li>
-<li><a href="/comments/20201222/1452603.md" target="_blank">逾40国封锁英国无协议脱欧乱象提前登场</a></li>
-<li><a href="/comments/20201222/1452600.md" target="_blank">来扒一扒吃蚝油到底都有什么讲究？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 <li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
