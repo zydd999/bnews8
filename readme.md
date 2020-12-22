@@ -7,12 +7,11 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201222/1452575.md">中国多地限电停产到底为何？美媒：马云求生内幕流出</a></li>
 <li><a href="/cnnews/20201222/1452504.md">传江苏镇江中共机关拒绝接种新冠疫苗 网友：内部知根底</a></li>
-<li><a href="/cbnews/20201221/1452255.md">陈破空：习近平报复前高官，吓唬某政治老人？公共情夫行踪成谜。胡锡进金灿荣语出惊人</a></li>
 <li><a href="/comments/20201222/1452267.md">“没人敢骂中国…”川普绝望发文后，参议员罗姆尼痛斥川普“没胆谴责普京”…</a></li>
 <li><a href="/lifebaike/20201222/1452545.md">一种“假孝顺”悄然兴起 比啃老还遭老人恨 儿女们却争相模仿</a></li>
+<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
 <li><a href="/lifebaike/20201222/1452632.md">无头巨佛裂山而出 高僧：天下将大乱</a></li>
 <li><a href="/cbnews/20201222/1452437.md">她半夜穿内衣到处敲门！结局「神展开」网狂赞：遇到对的人</a></li>
-<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
 <li><a href="/topimagenews/20201222/1452789.md">携枪抗议者们 议会大厦外怒吼：逮捕州长 让我们进去</a></li>
 <li><a href="/topimagenews/20201222/1452466.md">维基解密揭奥巴马老底 是选举欺诈专家 从基层就靠此起家 和今年选举欺诈这关系</a></li>
 <li><a href="/funmedia/20201222/1452529.md">俗语“一日夫妻百日恩” 其实下半句才是经典 知道的人却不多</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/ssgc/20201222/1452491.md">〖兲朝浮世绘〗欧盟这是不想让拜登抢了去兲朝割韭菜的先机</a></li>
 <li><a href="/worldnews/usa/20201222/1452501.md">美国宣布中国官员实施额外的签证限制</a></li>
 <li><a href="/bannedvideo/20201222/1452552.md">彭斯值得信任吗？1月6日历史将使他成为关键性人物。善良忠诚，川普信任。12月21专题+问答</a></li>
+<li><a href="/comments/20201222/1452795.md">年近80拜登给自己注射了疫苗！美国网友很感动？不，评论区完全翻车了…</a></li>
+<li><a href="/topimagenews/20201222/1452823.md">【独家】重磅！中共又一批名单大曝光！渗透全球秘密方式浮出水面</a></li>
 <li><a href="/comments/20201221/1452273.md">马云处境糟糕 传交出蚂蚁集团部分股权求生</a></li>
 <li><a href="/bannedvideo/20201221/1452274.md">情报总监钓鱼行动，释放假情报，30分钟后泄露到敌方，成功擒拿叛国贼。中美两国开大会，一边雷霆战，一边卡脖子。12月20专题</a></li>
-<li><a href="/cbnews/20201222/1452467.md">广州冬至大停电！官方称「不存在」 网民酸：你们信吗？</a></li>
 <li><a href="/cbnews/20201222/1452626.md">他的出生地是个谜，知道真相的人已经不在了！他的信仰是个谜，这八年都在猜谜！深扒影子势力的十六年计画！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.21)‬</a></li>
-<li><a href="/comments/20201222/1452795.md">年近80拜登给自己注射了疫苗！美国网友很感动？不，评论区完全翻车了…</a></li>
+<li><a href="/cbnews/20201222/1452467.md">广州冬至大停电！官方称「不存在」 网民酸：你们信吗？</a></li>
 <li><a href="/weiquan/20201221/1452335.md">肖青山以中国式&#8220;政治正确&#8221;维权&#65292;&#8220;低级红&#8221;令浙江省政府驻京办领导吓破胆</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201222/1452557.md" target="_blank">【大纪元独家纪录片】2020美国大选调查——谁在盗窃美国？</a></li>
 <li><a href="/cbnews/20201222/1452909.md" target="_blank">陈破空：美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
 <li><a href="/cbnews/20201222/1452894.md" target="_blank">示警伊朗 美海军罕见披露核潜舰动态</a></li>
 <li><a href="/cbnews/20201222/1452885.md" target="_blank">他们在担心什么？救人良药还是控制人的手段？</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20201222/1452544.md" target="_blank">维基解密文件爆破ACORN为奥巴马拉票术； FBI局长遮掩和俄罗斯能源公司的关系；巴尔拒绝指定特别顾问调查拜登家族；白宫病毒协调员实施双重标准；纾困案达成协议美国人又可以拿钱了【希望之声TV】</a></li>
 <li><a href="/cbnews/20201222/1452528.md" target="_blank">冬至福利：“白等”咸猪手</a></li>
 <li><a href="/cbnews/20201222/1452527.md" target="_blank">中共疫苗接种摸底 机关部门一致拒绝接种</a></li>
-<li><a href="/cbnews/20201222/1452521.md" target="_blank">陈破空：直播预告：神秘莫测的时刻，特朗普下一步是什么？每天都有事实曝光，巴尔下台前还犟嘴。陈破空与网友互动Q&amp;A 美东时间12月21日周一晚8点、即中港台时间12月22日周二早9点</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201222/1452557.md" target="_blank">【大纪元独家纪录片】2020美国大选调查——谁在盗窃美国？</a></li>
 <li><a href="/topimagenews/20201222/1452823.md" target="_blank">【独家】重磅！中共又一批名单大曝光！渗透全球秘密方式浮出水面</a></li>
 <li><a href="/topimagenews/20201222/1452789.md" target="_blank">携枪抗议者们 议会大厦外怒吼：逮捕州长 让我们进去</a></li>
 <li><a href="/topimagenews/20201222/1452764.md" target="_blank">国会阻击战即将打响！“是时候战斗了”议员慷慨发声！【阿波罗网编译】</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20201220/1451560.md" target="_blank">有什么特殊含义吗？白宫媒体主管连发特殊照片 引人无限遐想</a></li>
 <li><a href="/comments/20201220/1451520.md" target="_blank">川普的惊天秘密-Q（7）：9/11 恐怖袭击的层层迷雾</a></li>
 <li><a href="/topimagenews/20201220/1451365.md" target="_blank">川普警告麦康奈尔 ：硬起来 否则共和党不复存在 批左媒炒作俄国网攻 掩护中共</a></li>
-<li><a href="/topimagenews/20201220/1451283.md" target="_blank">习近平满面愁容？ 撒币25亿美元犯众怒 多地限电惹民怨四起 港台大事对比强烈</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201222/1452557.md" target="_blank">【大纪元独家纪录片】2020美国大选调查——谁在盗窃美国？</a></li>
 <li><a href="/comments/20201222/1452882.md" target="_blank">当人们以为疫苗能够对抗新冠 病毒开始“反击”</a></li>
 <li><a href="/comments/20201222/1452861.md" target="_blank">川普授予澳、印领袖及安倍晋三美最高军事勋章</a></li>
 <li><a href="/comments/20201222/1452859.md" target="_blank">张建宗据报率陈肇始聂德权 赴深圳晤卫健委官员 政府未发新闻稿</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201222/1452772.md" target="_blank">本土阴谋论研究家 Gary Kwan 谈 Deep State、特朗普及中国怪论介入</a></li>
 <li><a href="/comments/20201222/1452771.md" target="_blank">非同寻常！38个军方成员集体退出中国作协 目的竟是这个？</a></li>
 <li><a href="/comments/20201222/1452762.md" target="_blank">身体这样东西越少 人就越老</a></li>
-<li><a href="/comments/20201222/1452757.md" target="_blank">李燕铭：江泽民主导 中共贿赂克林顿夫妇 制定专门方案渗透美国国会 拜登同江泽民会谈 助力中共加入世贸组织 中共围猎拜登内幕系列之一</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
