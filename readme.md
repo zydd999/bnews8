@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20201221/1452167.md">中共隐瞒疫情真相 大量机密文件曝光</a></li>
 <li><a href="/topimagenews/20201222/1452575.md">中国多地限电停产到底为何？美媒：马云求生内幕流出</a></li>
 <li><a href="/cbnews/20201221/1452228.md">状况不断 湖南又全面进入“战时状态”</a></li>
 <li><a href="/worldnews/20201221/1452209.md">印度神童预言成真！英国变种病毒肆虐「大凶」持续到3月</a></li>
-<li><a href="/cnnews/20201222/1452504.md">传江苏镇江中共机关拒绝接种新冠疫苗 网友：内部知根底</a></li>
 <li><a href="/cbnews/20201221/1452255.md">陈破空：习近平报复前高官，吓唬某政治老人？公共情夫行踪成谜。胡锡进金灿荣语出惊人</a></li>
+<li><a href="/cnnews/20201222/1452504.md">传江苏镇江中共机关拒绝接种新冠疫苗 网友：内部知根底</a></li>
 <li><a href="/comments/20201221/1452193.md">“未来日子要非常小心”</a></li>
 <li><a href="/lifebaike/20201222/1452545.md">一种“假孝顺”悄然兴起 比啃老还遭老人恨 儿女们却争相模仿</a></li>
-<li><a href="/cbnews/20201222/1452437.md">她半夜穿内衣到处敲门！结局「神展开」网狂赞：遇到对的人</a></li>
-<li><a href="/baitai/20201221/1452173.md">关于英国变种病毒的三个基本认识</a></li>
 <li><a href="/lifebaike/20201222/1452632.md">无头巨佛裂山而出 高僧：天下将大乱</a></li>
+<li><a href="/cbnews/20201222/1452437.md">她半夜穿内衣到处敲门！结局「神展开」网狂赞：遇到对的人</a></li>
 <li><a href="/topimagenews/20201222/1452466.md">维基解密揭奥巴马老底 是选举欺诈专家 从基层就靠此起家 和今年选举欺诈这关系</a></li>
+<li><a href="/comments/20201222/1452267.md">“没人敢骂中国…”川普绝望发文后，参议员罗姆尼痛斥川普“没胆谴责普京”…</a></li>
+<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
 <li><a href="/funmedia/20201222/1452529.md">俗语“一日夫妻百日恩” 其实下半句才是经典 知道的人却不多</a></li>
 <li><a href="/cnnews/20201221/1452187.md">拜登还没赢—而是一场噩梦 赢的会是川普</a></li>
-<li><a href="/comments/20201222/1452494.md">范围超广！广深断电后 北京上海停电通知曝光 中国网友懵了</a></li>
-<li><a href="/comments/20201222/1452267.md">“没人敢骂中国…”川普绝望发文后，参议员罗姆尼痛斥川普“没胆谴责普京”…</a></li>
 <li><a href="/comments/20201221/1452367.md">赊刀人！不为人知的神秘预言家 时间直指2021</a></li>
 <li><a href="/taiwannews/20201222/1452379.md">习近平报复前高官，吓唬某政治老人？公共情夫行踪成谜-陈破空</a></li>
 <li><a href="/cnnews/20201221/1452217.md">苹果突然宣布：关闭美国这州所有零售门店</a></li>
-<li><a href="/ssgc/20201222/1452491.md">〖兲朝浮世绘〗欧盟这是不想让拜登抢了去兲朝割韭菜的先机</a></li>
 <li><a href="/ssgc/20201222/1452516.md">美式笑话：拜登还有一个月上台</a></li>
+<li><a href="/ssgc/20201222/1452491.md">〖兲朝浮世绘〗欧盟这是不想让拜登抢了去兲朝割韭菜的先机</a></li>
 <li><a href="/worldnews/usa/20201222/1452501.md">美国宣布中国官员实施额外的签证限制</a></li>
 <li><a href="/bannedvideo/20201222/1452552.md">彭斯值得信任吗？1月6日历史将使他成为关键性人物。善良忠诚，川普信任。12月21专题+问答</a></li>
+<li><a href="/comments/20201221/1452273.md">马云处境糟糕 传交出蚂蚁集团部分股权求生</a></li>
+<li><a href="/bannedvideo/20201221/1452274.md">情报总监钓鱼行动，释放假情报，30分钟后泄露到敌方，成功擒拿叛国贼。中美两国开大会，一边雷霆战，一边卡脖子。12月20专题</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201222/1452844.md" target="_blank">涉多名高级将领 38名军旅作家罕见集体退出作协</a></li>
 <li><a href="/comments/20201222/1452776.md" target="_blank">川普谈非法选票：宾州将传出大新闻</a></li>
 <li><a href="/comments/20201222/1452775.md" target="_blank">与会者揭“戒严”假新闻内幕：川普被内部人出卖</a></li>
 <li><a href="/cbnews/20201222/1452765.md" target="_blank">篷佩奥：美国左媒受利益诱惑 已成为中共帮凶</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201222/1452497.md" target="_blank">美国土安全部：2021年美国欢迎香港难民</a></li>
 <li><a href="/cbnews/20201222/1452495.md" target="_blank">专栏 | 夜话中南海：习近平对赵乐际既有乡党情节，更有父辈情谊</a></li>
 <li><a href="/cbnews/20201222/1452481.md" target="_blank">蓬佩奥批美国媒体贪图利益 帮中共叙事</a></li>
-<li><a href="/cbnews/20201222/1452467.md" target="_blank">广州冬至大停电！官方称「不存在」 网民酸：你们信吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
