@@ -20,14 +20,14 @@
 <li><a href="/bannedvideo/20201223/1453393.md">财经冷眼：都错了！缺煤只是表象，限电背后的四大阴谋！“供给侧改革”改成“供给侧管理”，习近平的大棋再进一步！（20201223第416期）</a></li>
 <li><a href="/lifebaike/20201223/1453182.md">“我眼中的中国留学生 比你想的还糟糕！”外国教授一席话扎心了</a></li>
 <li><a href="/topimagenews/20201223/1453433.md">巴尔即将离职 川普下令 授权总检察长... 【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20201223/1453142.md">什么信号！川普暗示什么？川普拆分国安局和网络司令部的联合领导结构</a></li>
 <li><a href="/comments/20201223/1453379.md">中国多地大停电内幕深 分析指或涉四大原因</a></li>
+<li><a href="/cnnews/20201223/1453142.md">什么信号！川普暗示什么？川普拆分国安局和网络司令部的联合领导结构</a></li>
+<li><a href="/cbnews/20201223/1453568.md">陈破空：中国大停电！事关高层权斗？普京报复习近平。王毅隐喻最黑暗时刻</a></li>
 <li><a href="/cbnews/20201223/1453367.md">天亮时分：亚利桑那州周三认证川普胜选？教皇年底前辞职；周三是大日子；两院救助法案废除总统使用反叛乱法；白宫幕僚禁止鲍威尔接近川普（政论天下第310集 20201222）</a></li>
 <li><a href="/headline/20201223/1453043.md">疑阻习近平「龙脉」北京香堂村强拆持续 献媚画家范曾也保不住家财</a></li>
 <li><a href="/cnnews/20201223/1453170.md">媒体大佬：拜登上台后很快被贺锦丽取代</a></li>
-<li><a href="/cbnews/20201223/1453568.md">陈破空：中国大停电！事关高层权斗？普京报复习近平。王毅隐喻最黑暗时刻</a></li>
-<li><a href="/ssgc/20201223/1453145.md">〖兲朝浮世绘〗中共攻击美国死穴，美国法律和舆论居然无能为力</a></li>
 <li><a href="/funmedia/20201223/1453223.md">两千年前 玛雅人曾留下二维码？游客好奇去扫码 最后扫出了什么</a></li>
+<li><a href="/ssgc/20201223/1453145.md">〖兲朝浮世绘〗中共攻击美国死穴，美国法律和舆论居然无能为力</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201224/1453700.md" target="_blank">川普何时 动用叛乱法 美国土安全部部长发布对中共的新定性</a></li>
 <li><a href="/topimagenews/20201223/1453578.md" target="_blank">川普最伟大盟友是谁？情报“政治化”正损害美国民主</a></li>
 <li><a href="/comments/20201223/1453408.md" target="_blank">🔥川普白宫演说：我们巨大胜选人民都知道</a></li>
 <li><a href="/topimagenews/20201223/1453495.md" target="_blank">朱利安尼要曝大料 成头号被报复对象 乔州参院审查报告：选举结果不可信应撤销认证</a></li>
@@ -91,13 +92,21 @@
 <li><a href="/topimagenews/20201221/1452138.md" target="_blank">军队已做好准备！林伍德:川普会让人们知道一些事情</a></li>
 <li><a href="/topimagenews/20201221/1452107.md" target="_blank">惊弓之鸟 中国各地民众恐慌|打脸习近平？超四成中国人年均休闲开支不足千元</a></li>
 <li><a href="/topimagenews/20201221/1452098.md" target="_blank">怪不得拜登这么说 情报界老手一语破迷团【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201221/1452063.md" target="_blank">“拜登的劫难很重！”风水师：川普拜登火水相拼 川普八成概率赢得大选</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201224/1453693.md" target="_blank">民主党领袖称赞川普说法 同意每人2000美元津贴</a></li>
+<li><a href="/comments/20201224/1453692.md" target="_blank">娱乐圈散水记 — 作为工业自毁案例的周柏豪</a></li>
+<li><a href="/comments/20201224/1453691.md" target="_blank">金里奇撰文批评大选的舞弊现象</a></li>
+<li><a href="/comments/20201224/1453690.md" target="_blank">征文比赛被指“影响社区和谐” 民政署威胁停拨款 主办方：署方不满文章提移民</a></li>
+<li><a href="/comments/20201224/1453689.md" target="_blank">【2020 全家福．5】12 港人未归 邓棨然母：林郑你做过乜 弟：绝望中散播烛光</a></li>
+<li><a href="/comments/20201224/1453688.md" target="_blank">放眼2021年 英预言家谈川普与世界大事</a></li>
+<li><a href="/comments/20201224/1453687.md" target="_blank">拜登称对美网络攻击仍不受控 黑客来自俄罗斯</a></li>
+<li><a href="/comments/20201224/1453686.md" target="_blank">拜登：9000亿美元救济法案只是首付</a></li>
+<li><a href="/comments/20201224/1453685.md" target="_blank">佩洛西同意川普提议 每人发2000美元纾困金</a></li>
 <li><a href="/comments/20201223/1453679.md" target="_blank">伊波拉发现者：真正致命的病毒还没出现</a></li>
 <li><a href="/comments/20201223/1453678.md" target="_blank">煮一顿饭等同抽2包菸 养成这习惯保命</a></li>
 <li><a href="/comments/20201223/1453651.md" target="_blank">用户上看10亿！ Telegram明年将推出收费服务</a></li>
@@ -114,15 +123,6 @@
 <li><a href="/comments/20201223/1453593.md" target="_blank">罗瑞卿儿子罗宇《告别总参谋部》揭露叶剑英小夫人裸体投海。叶剑英六任妻子：冯华、曾宪植、危拱之、吴博、李刚。叶剑英子女：叶选宁、叶选平、叶选廉、叶向真。中共十大元帅共拥妻妾49人（笑梅看中国第015期）</a></li>
 <li><a href="/comments/20201223/1453579.md" target="_blank">香港传入英国变种病毒 2留学生确诊</a></li>
 <li><a href="/comments/20201223/1453573.md" target="_blank">【梁京评论】2020的中国教训</a></li>
-<li><a href="/comments/20201223/1453569.md" target="_blank">王若望的妻子羊子女士撰文，揭露江泽民封杀镇压《世界经济导报》，说服万里，逼朱镕基迫害王若望，讨好巴结邓小平，六四事件后上位中共总书记。王若望曾因批评毛泽东入狱四年，后与刘宾雁和方励之一起，被邓小平点名</a></li>
-<li><a href="/comments/20201223/1453566.md" target="_blank">【武汉肺炎】张建宗昨秘密率团上深圳开会 明报：内地官员盼港订清零目标 无要求再全民检测</a></li>
-<li><a href="/comments/20201223/1453408.md" target="_blank">🔥川普白宫演说：我们巨大胜选人民都知道</a></li>
-<li><a href="/comments/20201223/1453489.md" target="_blank">湖北富商遭洗劫20多亿 揭前公安部副部长炮制假案</a></li>
-<li><a href="/comments/20201223/1453488.md" target="_blank">欧盟促北京释放李昱函高智晟等人权律师与维权人士</a></li>
-<li><a href="/comments/20201223/1453482.md" target="_blank">写在区议员 DQ 潮之前</a></li>
-<li><a href="/comments/20201223/1453477.md" target="_blank">美国会通过“台湾保证法” 进一步深化台美关系</a></li>
-<li><a href="/comments/20201223/1453458.md" target="_blank">笔记本是一直插着电源好，还是没电再充好？测试显示该这样</a></li>
-<li><a href="/comments/20201223/1453457.md" target="_blank">防癌抗癌！不如补点维生素B6</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 
 </ul>
 </div>
