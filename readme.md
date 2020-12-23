@@ -5,13 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20201223/1453195.md">江泽民警卫组织人去习近平亲属及王岐山家示威 习近平亲属被傅政华窃听录音 傅政华与国务院副总理马凯弟弟合伙放高利贷 中南海不可告人的秘密_285</a></li>
 <li><a href="/topimagenews/20201222/1452994.md">魔鬼协议 林伍德深夜发文</a></li>
+<li><a href="/comments/20201223/1453195.md">江泽民警卫组织人去习近平亲属及王岐山家示威 习近平亲属被傅政华窃听录音 傅政华与国务院副总理马凯弟弟合伙放高利贷 中南海不可告人的秘密_285</a></li>
 <li><a href="/topimagenews/20201223/1453180.md">川普出重手！中共急为拜登叫屈</a></li>
 <li><a href="/cbnews/20201222/1452909.md">陈破空：美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
 <li><a href="/bannedvideo/20201223/1453177.md">佩洛西发出威胁，扬言揪着川普头发把他拖出白宫？彭斯表态：1月6号要真相。川普：余生很长，何必惊慌。12月22专题2 马先</a></li>
-<li><a href="/topimagenews/20201223/1453285.md">快讯！川普总统发布特赦令 对20人进行赦免或减刑【阿波罗网编译】</a></li>
 <li><a href="/comments/20201223/1453336.md">习近平为什么要搞死马云？网友说答案在这</a></li>
+<li><a href="/topimagenews/20201223/1453285.md">快讯！川普总统发布特赦令 对20人进行赦免或减刑【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201222/1452970.md">大陆北上广突然大范围停电 断网断水街道漆黑如隔世</a></li>
 <li><a href="/taiwannews/20201222/1453013.md">美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
 <li><a href="/bannedvideo/20201223/1453196.md">【直播 12.22】麻烦正在走来：哈里斯要辞职了。川普选择走法律战和议会路线，後果是什麽？如果大唐没有玄武门之变…</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20201222/1452914.md">川普加码 内外作战</a></li>
 <li><a href="/topimagenews/20201222/1453017.md">公理何在？诚实的选举官员拒绝认证有欺诈嫌疑的选举结果 结果就必须是过着躲猫猫的生活</a></li>
 <li><a href="/lifebaike/20201223/1453182.md">“我眼中的中国留学生 比你想的还糟糕！”外国教授一席话扎心了</a></li>
-<li><a href="/cnnews/20201223/1453142.md">什么信号！川普暗示什么？川普拆分国安局和网络司令部的联合领导结构</a></li>
 <li><a href="/worldnews/20201223/1453371.md">拿督今年预言几乎全中 他曝2021年15项预测</a></li>
+<li><a href="/cnnews/20201223/1453142.md">什么信号！川普暗示什么？川普拆分国安局和网络司令部的联合领导结构</a></li>
 <li><a href="/topimagenews/20201222/1453016.md">川普女顾问埃利斯反对使用《叛乱法》 华人网友一面倒她</a></li>
 <li><a href="/cnnews/20201223/1453170.md">媒体大佬：拜登上台后很快被贺锦丽取代</a></li>
+<li><a href="/cbnews/20201223/1453367.md">天亮时分：亚利桑那州周三认证川普胜选？教皇年底前辞职；周三是大日子；两院救助法案废除总统使用反叛乱法；白宫幕僚禁止鲍威尔接近川普（政论天下第310集 20201222）</a></li>
 <li><a href="/ssgc/20201223/1453145.md">〖兲朝浮世绘〗中共攻击美国死穴，美国法律和舆论居然无能为力</a></li>
-<li><a href="/headline/20201223/1453043.md">疑阻习近平「龙脉」北京香堂村强拆持续 献媚画家范曾也保不住家财</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -114,6 +114,7 @@
 <li><a href="/comments/20201223/1453422.md" target="_blank">北京香堂村遭强拆 颂习画家范曾也难保家财</a></li>
 <li><a href="/comments/20201223/1453405.md" target="_blank">琼瑶等逾百作家联署 抵制于正和郭敬明抄袭</a></li>
 <li><a href="/comments/20201223/1453396.md" target="_blank">川普最新发表“制止窃选”讲话：拜登家族从中共手里获得了数以百万美元 美国已经失去了言论自由 美国人民对史无前例的大选舞弊充满愤怒和恐惧……</a></li>
+<li><a href="/comments/20201223/1453372.md" target="_blank">川普演说视频 &#8211; 否决新冠救助法案</a></li>
 <li><a href="/comments/20201223/1453392.md" target="_blank">【视频】新年前再爆疫情！大连市变相封城 金州区居民超市疯狂抢菜</a></li>
 <li><a href="/comments/20201223/1453388.md" target="_blank">川普：国会9000亿美元的纾困法案是耻辱</a></li>
 <li><a href="/comments/20201223/1453379.md" target="_blank">中国多地大停电内幕深 分析指或涉四大原因</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201223/1453336.md" target="_blank">习近平为什么要搞死马云？网友说答案在这</a></li>
 <li><a href="/comments/20201223/1453321.md" target="_blank">中共病毒变种含14种突变 专家：更易侵入人体</a></li>
 <li><a href="/comments/20201223/1453315.md" target="_blank">【欺世大觀】43: “南霸天”蒙冤 红色娘子军下场惨</a></li>
-<li><a href="/comments/20201223/1453314.md" target="_blank">陈铭尧：全世界亲眼看到 美国的民主不是天上掉下来的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
