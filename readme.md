@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201223/1453195.md">江泽民警卫组织人去习近平亲属及王岐山家示威 习近平亲属被傅政华窃听录音 傅政华与国务院副总理马凯弟弟合伙放高利贷 中南海不可告人的秘密_285</a></li>
-<li><a href="/topimagenews/20201222/1452994.md">魔鬼协议 林伍德深夜发文</a></li>
 <li><a href="/topimagenews/20201223/1453180.md">川普出重手！中共急为拜登叫屈</a></li>
 <li><a href="/bannedvideo/20201223/1453177.md">佩洛西发出威胁，扬言揪着川普头发把他拖出白宫？彭斯表态：1月6号要真相。川普：余生很长，何必惊慌。12月22专题2 马先</a></li>
 <li><a href="/comments/20201223/1453336.md">习近平为什么要搞死马云？网友说答案在这</a></li>
-<li><a href="/topimagenews/20201223/1453285.md">快讯！川普总统发布特赦令 对20人进行赦免或减刑【阿波罗网编译】</a></li>
 <li><a href="/finance/20201223/1453178.md">看中国独家：马云已“人人喊打” 习近平想要他的命？</a></li>
-<li><a href="/taiwannews/20201222/1453013.md">美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
+<li><a href="/topimagenews/20201223/1453285.md">快讯！川普总统发布特赦令 对20人进行赦免或减刑【阿波罗网编译】</a></li>
 <li><a href="/comments/20201223/1453208.md">再现反习声 ​​习近平“收割”马云掀波澜 一篇短文窜红网络</a></li>
+<li><a href="/taiwannews/20201222/1453013.md">美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
 <li><a href="/bannedvideo/20201223/1453196.md">【直播 12.22】麻烦正在走来：哈里斯要辞职了。川普选择走法律战和议会路线，後果是什麽？如果大唐没有玄武门之变…</a></li>
 <li><a href="/cnnews/20201223/1453368.md">一个低调而重要的人物！川普总统宣布大量人事任命 其中有他！【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201223/1453139.md">大连疫情难控 全员核酸检测 海洋大学被封 网友怒怼</a></li>
-<li><a href="/worldnews/20201223/1453371.md">拿督今年预言几乎全中 他曝2021年15项预测</a></li>
 <li><a href="/topimagenews/20201223/1453440.md">麦康奈尔反川赤裸裸 参院两党领袖达成协议 阻止川普否决国防授权法</a></li>
-<li><a href="/topimagenews/20201222/1453017.md">公理何在？诚实的选举官员拒绝认证有欺诈嫌疑的选举结果 结果就必须是过着躲猫猫的生活</a></li>
+<li><a href="/worldnews/20201223/1453371.md">拿督今年预言几乎全中 他曝2021年15项预测</a></li>
 <li><a href="/bannedvideo/20201223/1453393.md">财经冷眼：都错了！缺煤只是表象，限电背后的四大阴谋！“供给侧改革”改成“供给侧管理”，习近平的大棋再进一步！（20201223第416期）</a></li>
+<li><a href="/topimagenews/20201222/1453017.md">公理何在？诚实的选举官员拒绝认证有欺诈嫌疑的选举结果 结果就必须是过着躲猫猫的生活</a></li>
 <li><a href="/lifebaike/20201223/1453182.md">“我眼中的中国留学生 比你想的还糟糕！”外国教授一席话扎心了</a></li>
 <li><a href="/cnnews/20201223/1453142.md">什么信号！川普暗示什么？川普拆分国安局和网络司令部的联合领导结构</a></li>
-<li><a href="/topimagenews/20201222/1453016.md">川普女顾问埃利斯反对使用《叛乱法》 华人网友一面倒她</a></li>
 <li><a href="/topimagenews/20201223/1453433.md">巴尔即将离职 川普下令 授权总检察长... 【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20201223/1453367.md">天亮时分：亚利桑那州周三认证川普胜选？教皇年底前辞职；周三是大日子；两院救助法案废除总统使用反叛乱法；白宫幕僚禁止鲍威尔接近川普（政论天下第310集 20201222）</a></li>
 <li><a href="/comments/20201223/1453379.md">中国多地大停电内幕深 分析指或涉四大原因</a></li>
+<li><a href="/topimagenews/20201222/1453016.md">川普女顾问埃利斯反对使用《叛乱法》 华人网友一面倒她</a></li>
+<li><a href="/cbnews/20201223/1453367.md">天亮时分：亚利桑那州周三认证川普胜选？教皇年底前辞职；周三是大日子；两院救助法案废除总统使用反叛乱法；白宫幕僚禁止鲍威尔接近川普（政论天下第310集 20201222）</a></li>
 <li><a href="/headline/20201223/1453043.md">疑阻习近平「龙脉」北京香堂村强拆持续 献媚画家范曾也保不住家财</a></li>
+<li><a href="/cnnews/20201223/1453170.md">媒体大佬：拜登上台后很快被贺锦丽取代</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201223/1453647.md" target="_blank">民众助力乔州参议员连任 吁挽救美国结束共产罪恶</a></li>
+<li><a href="/comments/20201223/1453644.md" target="_blank">时事大家谈：香堂拆迁众说纷纭，北京为何大动干戈？</a></li>
 <li><a href="/comments/20201223/1453635.md" target="_blank">麦康奈尔：我对拜登比民主党对川普好得多</a></li>
 <li><a href="/comments/20201223/1453632.md" target="_blank">国安法后 34 人向英国寻求庇护 较以往每季个位数急升 一名申请者未够 18 岁</a></li>
 <li><a href="/comments/20201223/1453630.md" target="_blank">被贺一诚节节领先的所谓“年年考第一”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201223/1453456.md" target="_blank">冬至“一阳生”，遵循阳气始生的规律，需注意脚部保暖</a></li>
 <li><a href="/comments/20201223/1453455.md" target="_blank">血栓不是突然到来，血栓来的时候晚上常常有四个共同点</a></li>
 <li><a href="/comments/20201223/1453454.md" target="_blank">传统的圣诞大餐菜单上都有什么？祝大家圣诞快乐</a></li>
-<li><a href="/comments/20201223/1453391.md" target="_blank">西点军校舞弊：疫情的危害，远不止是生命健康，更是危害到美国的基石</a></li>
-<li><a href="/comments/20201223/1453434.md" target="_blank">【回带・周柏豪】雨伞时指“这只是开始” 去年悼梁凌杰 今对阿叻称不识黄之锋</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 
 </ul>
 </div>
