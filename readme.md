@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20201222/1452860.md">大搜捕又延伸到周边县市──“上级“下了死命令：掘地三尺…</a></li>
-<li><a href="/topimagenews/20201223/1453180.md">川普出重手！中共急为拜登叫屈</a></li>
 <li><a href="/comments/20201223/1453195.md">江泽民警卫组织人去习近平亲属及王岐山家示威 习近平亲属被傅政华窃听录音 傅政华与国务院副总理马凯弟弟合伙放高利贷 中南海不可告人的秘密_285</a></li>
+<li><a href="/topimagenews/20201223/1453180.md">川普出重手！中共急为拜登叫屈</a></li>
 <li><a href="/topimagenews/20201222/1452994.md">魔鬼协议 林伍德深夜发文</a></li>
 <li><a href="/cbnews/20201222/1452909.md">陈破空：美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
 <li><a href="/bannedvideo/20201223/1453177.md">佩洛西发出威胁，扬言揪着川普头发把他拖出白宫？彭斯表态：1月6号要真相。川普：余生很长，何必惊慌。12月22专题2 马先</a></li>
 <li><a href="/topimagenews/20201223/1453285.md">快讯！川普总统发布特赦令 对20人进行赦免或减刑【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201222/1452970.md">大陆北上广突然大范围停电 断网断水街道漆黑如隔世</a></li>
-<li><a href="/cbnews/20201222/1452844.md">涉多名高级将领 38名军旅作家罕见集体退出作协</a></li>
 <li><a href="/taiwannews/20201222/1453013.md">美国干爹走了！沉重打击习近平。熬不住了！王毅温情喊话澳大利亚</a></li>
 <li><a href="/bannedvideo/20201223/1453196.md">【直播 12.22】麻烦正在走来：哈里斯要辞职了。川普选择走法律战和议会路线，後果是什麽？如果大唐没有玄武门之变…</a></li>
 <li><a href="/comments/20201223/1453208.md">再现反习声 ​​习近平“收割”马云掀波澜 一篇短文窜红网络</a></li>
+<li><a href="/comments/20201223/1453336.md">习近平为什么要搞死马云？网友说答案在这</a></li>
 <li><a href="/finance/20201223/1453178.md">看中国独家：马云已“人人喊打” 习近平想要他的命？</a></li>
 <li><a href="/cbnews/20201223/1453139.md">大连疫情难控 全员核酸检测 海洋大学被封 网友怒怼</a></li>
-<li><a href="/comments/20201223/1453336.md">习近平为什么要搞死马云？网友说答案在这</a></li>
 <li><a href="/topimagenews/20201222/1452914.md">川普加码 内外作战</a></li>
 <li><a href="/topimagenews/20201222/1453017.md">公理何在？诚实的选举官员拒绝认证有欺诈嫌疑的选举结果 结果就必须是过着躲猫猫的生活</a></li>
 <li><a href="/lifebaike/20201223/1453182.md">“我眼中的中国留学生 比你想的还糟糕！”外国教授一席话扎心了</a></li>
 <li><a href="/cnnews/20201223/1453142.md">什么信号！川普暗示什么？川普拆分国安局和网络司令部的联合领导结构</a></li>
+<li><a href="/cnnews/20201223/1453368.md">一个低调而重要的人物！川普总统宣布大量人事任命 其中有他！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20201222/1453016.md">川普女顾问埃利斯反对使用《叛乱法》 华人网友一面倒她</a></li>
 <li><a href="/cnnews/20201223/1453170.md">媒体大佬：拜登上台后很快被贺锦丽取代</a></li>
-<li><a href="/cnnews/20201223/1453368.md">一个低调而重要的人物！川普总统宣布大量人事任命 其中有他！【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20201223/1453145.md">〖兲朝浮世绘〗中共攻击美国死穴，美国法律和舆论居然无能为力</a></li>
+<li><a href="/headline/20201223/1453043.md">疑阻习近平「龙脉」北京香堂村强拆持续 献媚画家范曾也保不住家财</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201223/1453458.md" target="_blank">笔记本是一直插着电源好，还是没电再充好？测试显示该这样</a></li>
+<li><a href="/comments/20201223/1453457.md" target="_blank">防癌抗癌！不如补点维生素B6</a></li>
+<li><a href="/comments/20201223/1453456.md" target="_blank">冬至“一阳生”，遵循阳气始生的规律，需注意脚部保暖</a></li>
+<li><a href="/comments/20201223/1453455.md" target="_blank">血栓不是突然到来，血栓来的时候晚上常常有四个共同点</a></li>
+<li><a href="/comments/20201223/1453454.md" target="_blank">传统的圣诞大餐菜单上都有什么？祝大家圣诞快乐</a></li>
 <li><a href="/comments/20201223/1453391.md" target="_blank">西点军校舞弊：疫情的危害，远不止是生命健康，更是危害到美国的基石</a></li>
 <li><a href="/comments/20201223/1453434.md" target="_blank">【回带・周柏豪】雨伞时指“这只是开始” 去年悼梁凌杰 今对阿叻称不识黄之锋</a></li>
 <li><a href="/comments/20201223/1453429.md" target="_blank">李燕铭：江泽民曾庆红新一轮金融政变？一批股票集体暴跌 上海公安密集抓捕配资大佬李跃宗与多家上市公司实控人 上海帮又一金融大佬被查 习近平重磅清洗江泽民老巢 习家军5干将接掌上海官场6要职</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201223/1453304.md" target="_blank">竹内结子离世3个月 前夫终于开口谈儿子去留</a></li>
 <li><a href="/comments/20201223/1453296.md" target="_blank">李平：大停电掴了中共三次脸</a></li>
 <li><a href="/comments/20201223/1453295.md" target="_blank">卢诗翰：有多少答案 穿越了时间</a></li>
-<li><a href="/comments/20201223/1453294.md" target="_blank">没有人 能逃出互联网金融的镰刀</a></li>
-<li><a href="/comments/20201223/1453293.md" target="_blank">颜纯钩：限电 断电究竟谁的主意</a></li>
-<li><a href="/comments/20201223/1453292.md" target="_blank">陶杰：Cathay=中国？</a></li>
-<li><a href="/comments/20201223/1453273.md" target="_blank">真没想到，这么好吃的德国苹果派原来制做这么简单</a></li>
-<li><a href="/comments/20201223/1453264.md" target="_blank">咋还突然缺电了？以后还会缺别的吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
 <li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
