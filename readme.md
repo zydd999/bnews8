@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20201222/1452796.md">弦子：2014年6月9日发生在化妆室的全部经过</a></li>
 <li><a href="/bannedvideo/20201222/1452766.md">川普将要清除他身边的一条大鳄鱼，知晓希拉里秘密的人又有一个离奇死亡了</a></li>
 <li><a href="/topimagenews/20201222/1453017.md">公理何在？诚实的选举官员拒绝认证有欺诈嫌疑的选举结果 结果就必须是过着躲猫猫的生活</a></li>
-<li><a href="/bannedvideo/20201222/1452599.md">💥福克斯主播怒了：我尼玛不会让中共接管美国！印度男孩早就预言川普连任！过程坎坷又忐忑！白宫幕僚通共？</a></li>
 <li><a href="/topimagenews/20201222/1453016.md">川普女顾问埃利斯反对使用《叛乱法》 华人网友一面倒她</a></li>
+<li><a href="/bannedvideo/20201222/1452599.md">💥福克斯主播怒了：我尼玛不会让中共接管美国！印度男孩早就预言川普连任！过程坎坷又忐忑！白宫幕僚通共？</a></li>
+<li><a href="/topimagenews/20201223/1453180.md">川普出重手！中共急为拜登叫屈</a></li>
 <li><a href="/bannedvideo/20201222/1452684.md">7500万人投票给了川普，如果拜登拿到超过6000万，我就在你面前吃下我的帽子，这是场欺诈的选举，大家心知肚明；多米尼证人一手证据首爆光，对质多米尼CEO；诈尸还魂投票 代投、多投</a></li>
-<li><a href="/bannedvideo/20201222/1452763.md">财经冷眼：刚刚闭幕的中央经济工作会议，释放8大罕见信号 ！明年投资必看！（20201221第415期）</a></li>
-<li><a href="/worldnews/usa/20201222/1452841.md">中国军队称出动海空力量驱离了美军“麦凯恩”号导弹驱逐舰</a></li>
+<li><a href="/cbnews/20201223/1453139.md">大连疫情难控 全员核酸检测 海洋大学被封 网友怒怼</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201223/1453227.md" target="_blank">疫情笼罩下的圣诞   中共战狼再发声 嘉宾: 方伟 蓝述 谢田 江峰 主持人:高洁【希望之声TV】(2020/12/22)</a></li>
 <li><a href="/cbnews/20201223/1453190.md" target="_blank">以救济为名 纾困法案超20亿送外国；多数选民认为民主党应抛弃佩洛西；拜登提名国安顾问 前情报代理总监担忧；格雷厄姆挑战巴尔 吁彻查亨特‧拜登海外交易；西点军校最大的作弊丑闻曝光【希望之声TV】</a></li>
 <li><a href="/cbnews/20201223/1453183.md" target="_blank">拜登疫苗注射秀，差点变成瞌睡秀！“奶嘴乐”恶毒的娱乐至死计画，比尔盖茨是重要推手！【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.22)‬</a></li>
 <li><a href="/cbnews/20201223/1453175.md" target="_blank">疑似中共间谍拟收买西方记者提供情报</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201222/1452880.md" target="_blank">浙江男童无故殴打4外国女童 斥骂&#8221;死老外&#8221;</a></li>
 <li><a href="/cbnews/20201222/1452860.md" target="_blank">大搜捕又延伸到周边县市──“上级“下了死命令：掘地三尺…</a></li>
 <li><a href="/cbnews/20201222/1452844.md" target="_blank">涉多名高级将领 38名军旅作家罕见集体退出作协</a></li>
-<li><a href="/comments/20201222/1452776.md" target="_blank">川普谈非法选票：宾州将传出大新闻</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201223/1453209.md" target="_blank">川普要等的“势”，急不来</a></li>
+<li><a href="/comments/20201223/1453226.md" target="_blank">盘点史上三个辛丑年发生的那些心痛事</a></li>
+<li><a href="/comments/20201223/1453222.md" target="_blank">澳大利亚或成这次冲突的最大赢家</a></li>
+<li><a href="/comments/20201223/1453221.md" target="_blank">挑战北京维持航行自由 美舰穿过南沙海域</a></li>
 <li><a href="/comments/20201223/1453217.md" target="_blank">2021年，将停售的宝马车！缘由各有不同</a></li>
 <li><a href="/comments/20201223/1453208.md" target="_blank">再现反习声 ​​习近平“收割”马云掀波澜 一篇短文窜红网络</a></li>
 <li><a href="/comments/20201223/1453203.md" target="_blank">美国记者：中共特工要收买我当“爆料人“</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201223/1453129.md" target="_blank">冬至补阳用鹿茸</a></li>
 <li><a href="/comments/20201223/1453124.md" target="_blank">陈肇始提“英国病毒”而非“501Y 病毒株” 被问是否污名化 食衞局：传媒有欠公允</a></li>
 <li><a href="/comments/20201223/1453123.md" target="_blank">英国圣诞活动取消酸“谢谢中国” 引爆中英外交口水战</a></li>
-<li><a href="/comments/20201223/1453117.md" target="_blank">加拿大否决山东国企收购北极金矿交易</a></li>
-<li><a href="/comments/20201223/1453116.md" target="_blank">中国A股五大指数下跌 外资出逃近36亿</a></li>
-<li><a href="/comments/20201223/1453105.md" target="_blank">拜登接种中共病毒疫苗 称赞川普“快速行动”</a></li>
-<li><a href="/comments/20201223/1453099.md" target="_blank">【图片+视频】为何中国曾经万邦来朝？得民心得天下，失民心失天下</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 
 </ul>
 </div>
