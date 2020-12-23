@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201224/1453771.md" target="_blank">陈破空特约评论：共产党要砸澳洲，反被澳洲砸伤</a></li>
 <li><a href="/cbnews/20201224/1453741.md" target="_blank">欲废川普军权?近6000页法案内设机关; 救济金额引民怨 川普发话佩洛西转向？顾问:如果拜等确认自己当选  应赞成选举透明；国安部长: 中共要颠覆美国人生活方式；CDC：新毒株恐已来美【希望之声TV】</a></li>
 <li><a href="/cbnews/20201224/1453724.md" target="_blank">大陆疫苗开打分两步 张文宏：让领导干部先打</a></li>
 <li><a href="/topimagenews/20201224/1453628.md" target="_blank">川普最新表态：绝不容忍大选舞弊</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20201223/1453004.md" target="_blank">川普的如愿、不如愿与大如愿</a></li>
 <li><a href="/comments/20201223/1453209.md" target="_blank">川普要等的“势”，急不来</a></li>
 <li><a href="/cbnews/20201223/1453227.md" target="_blank">疫情笼罩下的圣诞   中共战狼再发声 嘉宾: 方伟 蓝述 谢田 江峰 主持人:高洁【希望之声TV】(2020/12/22)</a></li>
-<li><a href="/cbnews/20201223/1453190.md" target="_blank">以救济为名 纾困法案超20亿送外国；多数选民认为民主党应抛弃佩洛西；拜登提名国安顾问 前情报代理总监担忧；格雷厄姆挑战巴尔 吁彻查亨特‧拜登海外交易；西点军校最大的作弊丑闻曝光【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201224/1453761.md" target="_blank">资本市场缺钱 内需不足 中共盯上居民储蓄</a></li>
+<li><a href="/comments/20201224/1453760.md" target="_blank">美媒：中共全球野心膨胀 美中冷战加剧</a></li>
+<li><a href="/comments/20201224/1453754.md" target="_blank">何君尧获“新香港人”捐款 设国安教育中心 撰国安教材培训教师 倡设量刑委员会废法官假发</a></li>
+<li><a href="/comments/20201224/1453753.md" target="_blank">【武肺疫炎】曾称市民不能选择疫苗种类 今改口“有得拣” 林郑：可能表达唔清楚</a></li>
+<li><a href="/comments/20201224/1453752.md" target="_blank">【12 港人送中】内地律师卢思位撰文 分析一审程序、家属旁听、判刑等法理问题</a></li>
 <li><a href="/comments/20201224/1453743.md" target="_blank">拜登警告：病毒流行的“黑暗日子”即将到来</a></li>
 <li><a href="/comments/20201224/1453742.md" target="_blank">英国将讨论是否在更多地区实施最严格防疫限制措</a></li>
 <li><a href="/comments/20201224/1453735.md" target="_blank">评论 | 唯色：译者Kamila Hladíková对我的访谈：关于记忆、流亡及“藏族文学”（一）</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201223/1453678.md" target="_blank">煮一顿饭等同抽2包菸 养成这习惯保命</a></li>
 <li><a href="/comments/20201223/1453651.md" target="_blank">用户上看10亿！ Telegram明年将推出收费服务</a></li>
 <li><a href="/comments/20201223/1453647.md" target="_blank">民众助力乔州参议员连任 吁挽救美国结束共产罪恶</a></li>
-<li><a href="/comments/20201223/1453644.md" target="_blank">时事大家谈：香堂拆迁众说纷纭，北京为何大动干戈？</a></li>
-<li><a href="/comments/20201223/1453635.md" target="_blank">麦康奈尔：我对拜登比民主党对川普好得多</a></li>
-<li><a href="/comments/20201223/1453632.md" target="_blank">国安法后 34 人向英国寻求庇护 较以往每季个位数急升 一名申请者未够 18 岁</a></li>
-<li><a href="/comments/20201223/1453630.md" target="_blank">被贺一诚节节领先的所谓“年年考第一”</a></li>
-<li><a href="/comments/20201223/1453629.md" target="_blank">飞行服务队列美商务部黑名单 限制购买商品、技术 总监胡伟雄称不影响服务</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
