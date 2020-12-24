@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201224/1453772.md">不明火球急坠中国 当地人怕爆：瞬间狂震…凌晨亮如白昼</a></li>
 <li><a href="/cbnews/20201224/1454043.md">习近平服软了？美军舰已驶近南沙！最后努力机会？1月6日将是川普的试金石！美国土安全部再发警告：中共通讯设备危及数据安全</a></li>
-<li><a href="/bannedvideo/20201224/1453808.md">突发：川普否决国防授权法；川普在白宫发表演讲怒斥佩洛西用六百美金羞辱美国人民，佩洛西立马服软，葫芦里卖的什么药？梵提纲出卖，背叛！嘉宾：哈佛学者陶瑞</a></li>
 <li><a href="/cbnews/20201224/1453724.md">大陆疫苗开打分两步 张文宏：让领导干部先打</a></li>
-<li><a href="/bannedvideo/20201224/1453782.md">哈里斯终于辞职参议员，川普真的会赢得国会投票吗，彭斯为演讲说了什么，深层政府加塞是害怕什么？川普律师再次跳船，猫神准备参加川普第二届线上就职典礼</a></li>
+<li><a href="/bannedvideo/20201224/1453808.md">突发：川普否决国防授权法；川普在白宫发表演讲怒斥佩洛西用六百美金羞辱美国人民，佩洛西立马服软，葫芦里卖的什么药？梵提纲出卖，背叛！嘉宾：哈佛学者陶瑞</a></li>
 <li><a href="/comments/20201224/1453906.md">习近平亲信刘鹤原定出席的一场重要会谈被推迟 知情人士披露内幕 中南海谣言预言_413</a></li>
+<li><a href="/bannedvideo/20201224/1453782.md">哈里斯终于辞职参议员，川普真的会赢得国会投票吗，彭斯为演讲说了什么，深层政府加塞是害怕什么？川普律师再次跳船，猫神准备参加川普第二届线上就职典礼</a></li>
 <li><a href="/comments/20201224/1453761.md">资本市场缺钱 内需不足 中共盯上居民储蓄</a></li>
-<li><a href="/topimagenews/20201224/1454045.md">中共认怂 开始卸船澳洲煤|知识青年成新时代“农民工”|部分城市房价下跌 最惨腰斩</a></li>
 <li><a href="/bannedvideo/20201224/1454088.md">【重磅】林伍德：清算开始了！</a></li>
+<li><a href="/topimagenews/20201224/1454045.md">中共认怂 开始卸船澳洲煤|知识青年成新时代“农民工”|部分城市房价下跌 最惨腰斩</a></li>
 <li><a href="/cbnews/20201224/1454036.md">雄安新区出大事？掌事高官突转任闲职</a></li>
 <li><a href="/comments/20201224/1454004.md">阿里巴巴突被立案调查 传马云出不了中国</a></li>
 <li><a href="/topimagenews/20201224/1453700.md">川普何时 动用叛乱法 美国土安全部部长发布对中共的新定性</a></li>
 <li><a href="/topimagenews/20201224/1453850.md">美媒/佩洛西：揪住川普的头发和手脚 把他拖出白宫【阿波罗网编译报道】</a></li>
 <li><a href="/cnnews/20201224/1453854.md">宋美龄 绝对不是一般的</a></li>
-<li><a href="/topimagenews/20201224/1454026.md">国会想窃取军权？川普：在哪部署军队由总统决定 国会不得僭权【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20201224/1454035.md">财经冷眼：突发！阿里被中央多部门调查、马云被限制出境！送支付宝给习近平为什么不要？，马云3种结局已注定！（20201223第417期）</a></li>
+<li><a href="/topimagenews/20201224/1454026.md">国会想窃取军权？川普：在哪部署军队由总统决定 国会不得僭权【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201224/1453949.md">石正丽称“欢迎世卫访问病毒所” 官方急撇清</a></li>
+<li><a href="/bannedvideo/20201224/1454114.md">文睿：实锤，马云真出事儿了，一尊为了钱也是豁出去了</a></li>
 <li><a href="/bannedvideo/20201224/1454075.md">网友：大陆多地现人突然倒地，也无人敢扶</a></li>
 <li><a href="/topimagenews/20201224/1453628.md">川普最新表态：绝不容忍大选舞弊</a></li>
 <li><a href="/cnnews/20201224/1453964.md">以6票之差败北 民主党议员候选人吁众院调查</a></li>
 <li><a href="/ssgc/20201224/1453819.md">〖兲朝浮世绘〗美国厉害了，撒起币来和厉害国有得一比了</a></li>
 <li><a href="/cbnews/20201224/1453803.md">北京疫情蔓延 顺义一小区被封 浙江宁波被感染</a></li>
-<li><a href="/cbnews/20201224/1453862.md">拜登抱怨 五角大楼发声明； 川普同时发特赦令 大量人事任命；报告：中共为密谋15年！下一步竟是…；前国安官员：北京黑客能力2016年已超俄罗斯；居民逃离 加州恐失众议院席位和选举投票权【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201224/1454322.md" target="_blank">自由亚洲电台换老板 美前国安副顾问叶望辉接任</a></li>
 <li><a href="/comments/20201224/1454317.md" target="_blank">川普再赦26人 含前川普竞选团队官员和伊万卡公公</a></li>
 <li><a href="/comments/20201224/1454316.md" target="_blank">不是揾隔篱师奶打阿妈，是遭家暴而要报警求助</a></li>
 <li><a href="/comments/20201224/1454315.md" target="_blank">律政司向终院提上诉 申候讯期间继续羁柙黎智英 要求假期内紧急聆讯</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201224/1454113.md" target="_blank">【图片+视频】台湾新埔名产： 鲜甜多汁的沙糖桔</a></li>
 <li><a href="/comments/20201224/1454111.md" target="_blank">英国欧盟贸易协议接近达成 有望数小时内宣布</a></li>
 <li><a href="/comments/20201224/1454109.md" target="_blank">中欧投资谈判历时七年 最终结果取决中国人权状况</a></li>
-<li><a href="/comments/20201224/1454102.md" target="_blank">战羊出场：评哈工大学生举报宿管阿姨</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
