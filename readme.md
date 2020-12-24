@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20201224/1453724.md">大陆疫苗开打分两步 张文宏：让领导干部先打</a></li>
 <li><a href="/bannedvideo/20201224/1453782.md">哈里斯终于辞职参议员，川普真的会赢得国会投票吗，彭斯为演讲说了什么，深层政府加塞是害怕什么？川普律师再次跳船，猫神准备参加川普第二届线上就职典礼</a></li>
 <li><a href="/comments/20201224/1453906.md">习近平亲信刘鹤原定出席的一场重要会谈被推迟 知情人士披露内幕 中南海谣言预言_413</a></li>
-<li><a href="/bannedvideo/20201223/1453459.md">各国对中共党员和留学生的签证限制越来越严了，恶性通货膨胀将很快到来。</a></li>
 <li><a href="/bannedvideo/20201223/1453577.md">国土安全局发布重磅报告：中共对美国本土发动袭击。蓬佩奥提升制裁中共等级，再暴一批企业黑名单。12月22专题1马先</a></li>
 <li><a href="/topimagenews/20201223/1453495.md">朱利安尼要曝大料 成头号被报复对象 乔州参院审查报告：选举结果不可信应撤销认证</a></li>
 <li><a href="/comments/20201224/1453761.md">资本市场缺钱 内需不足 中共盯上居民储蓄</a></li>
 <li><a href="/topimagenews/20201224/1453850.md">美媒/佩洛西：揪住川普的头发和手脚 把他拖出白宫【阿波罗网编译报道】</a></li>
 <li><a href="/topimagenews/20201224/1453700.md">川普何时 动用叛乱法 美国土安全部部长发布对中共的新定性</a></li>
-<li><a href="/cnnews/20201224/1453854.md">宋美龄 绝对不是一般的</a></li>
-<li><a href="/comments/20201223/1453458.md">笔记本是一直插着电源好，还是没电再充好？测试显示该这样</a></li>
 <li><a href="/cbnews/20201224/1454043.md">习近平服软了？美军舰已驶近南沙！最后努力机会？1月6日将是川普的试金石！美国土安全部再发警告：中共通讯设备危及数据安全</a></li>
+<li><a href="/cnnews/20201224/1453854.md">宋美龄 绝对不是一般的</a></li>
 <li><a href="/cnnews/20201224/1453949.md">石正丽称“欢迎世卫访问病毒所” 官方急撇清</a></li>
-<li><a href="/topimagenews/20201224/1453628.md">川普最新表态：绝不容忍大选舞弊</a></li>
-<li><a href="/cbnews/20201224/1453803.md">北京疫情蔓延 顺义一小区被封 浙江宁波被感染</a></li>
 <li><a href="/topimagenews/20201224/1454045.md">中共认怂 开始卸船澳洲煤|知识青年成新时代“农民工”|部分城市房价下跌 最惨腰斩</a></li>
+<li><a href="/topimagenews/20201224/1453628.md">川普最新表态：绝不容忍大选舞弊</a></li>
+<li><a href="/comments/20201224/1454004.md">阿里巴巴突被立案调查 传马云出不了中国</a></li>
+<li><a href="/cbnews/20201224/1453803.md">北京疫情蔓延 顺义一小区被封 浙江宁波被感染</a></li>
+<li><a href="/topimagenews/20201224/1454026.md">国会想窃取军权？川普：在哪部署军队由总统决定 国会不得僭权【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20201224/1453819.md">〖兲朝浮世绘〗美国厉害了，撒起币来和厉害国有得一比了</a></li>
+<li><a href="/cnnews/20201224/1453964.md">以6票之差败北 民主党议员候选人吁众院调查</a></li>
+<li><a href="/cbnews/20201224/1454036.md">雄安新区出大事？掌事高官突转任闲职</a></li>
 <li><a href="/topimagenews/20201223/1453578.md">川普最伟大盟友是谁？情报“政治化”正损害美国民主</a></li>
-<li><a href="/cbnews/20201224/1453862.md">拜登抱怨 五角大楼发声明； 川普同时发特赦令 大量人事任命；报告：中共为密谋15年！下一步竟是…；前国安官员：北京黑客能力2016年已超俄罗斯；居民逃离 加州恐失众议院席位和选举投票权【希望之声TV】</a></li>
-<li><a href="/headline/20201223/1453452.md">国家级机构护航 “上山下乡”恐卷土重来</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201224/1454127.md" target="_blank">习近平追打马云 蚂蚁集团将被二次约谈</a></li>
+<li><a href="/comments/20201224/1454113.md" target="_blank">【图片+视频】台湾新埔名产： 鲜甜多汁的沙糖桔</a></li>
 <li><a href="/comments/20201224/1454111.md" target="_blank">英国欧盟贸易协议接近达成 有望数小时内宣布</a></li>
 <li><a href="/comments/20201224/1454109.md" target="_blank">中欧投资谈判历时七年 最终结果取决中国人权状况</a></li>
 <li><a href="/comments/20201224/1454102.md" target="_blank">战羊出场：评哈工大学生举报宿管阿姨</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201224/1453990.md" target="_blank">最高收入YouTuber 9岁男童年赚近三千万美元</a></li>
 <li><a href="/comments/20201224/1453986.md" target="_blank">上海195万中共党员名单外泄，惊现六一零组织成员。“610”是专职迫害法轮功的犯罪机构，美欧等国通过《全球马格尼茨基法案》法案后，“610”成员成各国制裁人权罪犯主要目标之一（笑梅看中国第018期）</a></li>
 <li><a href="/comments/20201224/1453985.md" target="_blank">黎明前的黑暗 预言中的灾难已经到来？</a></li>
-<li><a href="/comments/20201224/1453984.md" target="_blank">“御林军“新掌门有什么神秘背景</a></li>
-<li><a href="/comments/20201224/1453983.md" target="_blank">吴惠林：人工智慧AI经济的美与愁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
