@@ -11,8 +11,8 @@
 <li><a href="/comments/20201225/1454805.md">李燕铭：习近平年终重磅打虎！前军委委员上将李继耐之子李磊被查 李磊六年前突然被免职 一度流传出家遁入佛门 两军委委员对抗习中央 习近平震怒 李继耐廖锡龙被通报八宗罪</a></li>
 <li><a href="/cbnews/20201225/1454714.md">与习关系没变？胡锦涛以“文选”亮相</a></li>
 <li><a href="/topimagenews/20201225/1454796.md">“我们不接受像拜登这样的骗子作为领导人 最好准备好迎接麻烦”【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20201225/1454467.md">生死时刻 上海9岁男孩救了一家人和整栋楼邻居</a></li>
 <li><a href="/yule/20201225/1454468.md">隐藏33年 父亲是陈道明多年来不拼爹不炒作</a></li>
+<li><a href="/cnnews/20201225/1454467.md">生死时刻 上海9岁男孩救了一家人和整栋楼邻居</a></li>
 <li><a href="/worldnews/20201225/1454472.md">X疾病来了：致死率恐达9成 传染力相当于中共病毒</a></li>
 <li><a href="/cnnews/20201225/1454830.md">马云已两月没露面记者联系不上他</a></li>
 <li><a href="/cnnews/hknews/20201225/1454705.md">向华强申请台湾依亲居留 陆委会回应</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20201225/1454715.md">大连疫情 疑似已失控 房门钉死 民众大喊：我要吃饭</a></li>
 <li><a href="/cbnews/20201225/1454660.md">中国出大事？神秘火球坠落青海 “1米长、重10吨”</a></li>
 <li><a href="/cbnews/20201225/1454761.md">习新时代上山下乡 1968年知青下乡运动卷土重来</a></li>
-<li><a href="/cbnews/20201225/1454462.md">大连确诊暴增三度全员检测 门被钉死了不让出</a></li>
 <li><a href="/ssgc/20201225/1454481.md">〖兲朝浮世绘〗美国人真的不知道欧汉龙是什么货色吗？</a></li>
 <li><a href="/funmedia/20201225/1454522.md">尼泊尔人当街洗澡为哪般</a></li>
-<li><a href="/comments/20201225/1454838.md">习近平为2035年控制权力进行暴力布局</a></li>
 <li><a href="/topimagenews/20201225/1454985.md">圣诞重磅信号！美资安局官宣意味深长？亚利桑那驳回共和党选举诉讼 王笃然分析</a></li>
+<li><a href="/comments/20201225/1454838.md">习近平为2035年控制权力进行暴力布局</a></li>
+<li><a href="/bannedvideo/20201225/1454799.md">刘伯温预言病毒二次爆发点明时间及灾难后世间乱象（启明笑谈20201225）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201226/1455100.md" target="_blank">北京写字楼空置率近20% 租金下降8.4%</a></li>
 <li><a href="/comments/20201226/1455087.md" target="_blank">种猪3万一头 种子按粒卖：中国人饭碗还没端稳</a></li>
 <li><a href="/comments/20201226/1455079.md" target="_blank">5000家归零！P2P爆雷难倒中南海 李克强承认形势严峻</a></li>
 <li><a href="/comments/20201226/1455078.md" target="_blank">川普再批科技巨头审查言论 吁国会废除第230条</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20201226/1454988.md" target="_blank">【图片】迎新年明慧画展（4）：《绘画：返本归真 大法小弟子》《绘画：盼》《绘画：感恩》《绘画：莲花圣洁》……</a></li>
 <li><a href="/comments/20201225/1454978.md" target="_blank">中国民权联主席：不让中共把美国变成第二个中国</a></li>
 <li><a href="/comments/20201225/1454954.md" target="_blank">【图片】迎新年明慧画展（3）：《国画：浊世清莲》《绘画：凤鸣九霄》《绘画：送真相》《绘画：唤众生》……</a></li>
-<li><a href="/comments/20201225/1454952.md" target="_blank">“嘿！宝马，圣诞/新年快乐！” 一份BMW的节日问候</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
