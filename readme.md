@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20201226/1455089.md">彭斯背弃川普放弃宪法权利，乔治亚演讲话外音证实，共和党大佬再次阻击川普，纾困法案暗藏玄机，把川普逼上决裂绝路</a></li>
 <li><a href="/cbnews/20201226/1455135.md">周永康儿媳给习近平写信：一切都可以不要</a></li>
-<li><a href="/cnnews/20201225/1454830.md">马云已两月没露面记者联系不上他</a></li>
 <li><a href="/cbnews/20201225/1454863.md">突发：参与新冠药物研发 生物科技部副主任被查</a></li>
 <li><a href="/topimagenews/20201225/1454985.md">圣诞重磅信号！美资安局官宣意味深长？亚利桑那驳回共和党选举诉讼 王笃然分析</a></li>
 <li><a href="/cbnews/20201226/1455284.md">一触即发？美军宣布重大部署！马云出事了？一天被割7000亿！重罪！她威胁选举官员被起诉；</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/topimagenews/20201225/1454916.md">川普总统力挽狂澜 警告美国文化大革命 看不下去！民主党吹哨人揭党内选举舞弊</a></li>
 <li><a href="/cnnews/20201226/1455123.md">0.2秒掏枪杀暴徒！安倍晋三「最狠」女保镖 超狂背景曝</a></li>
 <li><a href="/health/20201225/1454847.md">耶鲁证实 按这个量吃坚果可提高癌症患者痊愈率</a></li>
+<li><a href="/comments/20201226/1455288.md">川普撤离白宫关键时刻突然刹车 等待新指令 彭斯成焦点</a></li>
 <li><a href="/cbnews/20201225/1454899.md">陈破空：卫戍区司令来去神秘，习近平放不放心？跟马云过不去，刀指政治老人。第二首都失败</a></li>
 <li><a href="/cbnews/20201226/1455111.md">中国疫情诡异 多地出现“随地倒” 无人敢扶</a></li>
 <li><a href="/cnnews/20201226/1455120.md">美国惊见3公尺高神秘生物？驯鹿惊慌逃窜 民：脚印像人</a></li>
 <li><a href="/topimagenews/20201226/1455090.md">川普击中要害 中南海被卡 阿波罗网独家：中共渗透 IBM竟然798个中共党员</a></li>
 <li><a href="/headline/20201226/1455197.md">阿里巴巴遭查 浙江省委书记表态效忠 马云前途叵测？</a></li>
 <li><a href="/cnnews/hknews/20201226/1455164.md">形容2020泰山压顶 习近平年终总结听取政治局成员自我批评</a></li>
-<li><a href="/comments/20201226/1455288.md">川普撤离白宫关键时刻突然刹车 等待新指令 彭斯成焦点</a></li>
 <li><a href="/health/20201226/1455251.md">人能多久不睡觉？美国小伙硬撑了264个小时 后来他睡了多久？</a></li>
-<li><a href="/comments/20201226/1455026.md">新时期中共中央淫乱6巨头，周永康曾庆红薄熙来徐才厚郭伯雄罗干入榜。毛泽东和她的女人：杨开慧、贺子珍、丁玲、史沫特莱、吴广惠、江青、孙维世、张玉凤。胡耀邦秘书林牧痛斥罗干。（笑梅看中国第001期）</a></li>
 <li><a href="/funmedia/20201226/1455074.md">新婚夜 新娘手机震动9次上厕所回消息 新郎当场草拟协议：离婚</a></li>
+<li><a href="/comments/20201226/1455026.md">新时期中共中央淫乱6巨头，周永康曾庆红薄熙来徐才厚郭伯雄罗干入榜。毛泽东和她的女人：杨开慧、贺子珍、丁玲、史沫特莱、吴广惠、江青、孙维世、张玉凤。胡耀邦秘书林牧痛斥罗干。（笑梅看中国第001期）</a></li>
 <li><a href="/topimagenews/20201226/1455006.md">威斯康星州议员加入最新联邦诉讼 要求在国会唱票之前…【阿波罗网编译】</a></li>
+<li><a href="/health/20201226/1455227.md">实锤！世卫组织公布致癌清单：除了中式咸鱼 这4种食物也要少吃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201226/1455433.md" target="_blank">内地抵制“洋节” 综艺节目圣诞树、装饰“打格” 网民︰惨不忍睹</a></li>
+<li><a href="/comments/20201226/1455432.md" target="_blank">网民传容海恩申移民美国 发起白宫联署阻止 容海恩：无申请移民，谣言止于智者</a></li>
+<li><a href="/comments/20201226/1455431.md" target="_blank">武汉实地报道疫情 公民记者、律师张展将被判刑</a></li>
 <li><a href="/comments/20201226/1455386.md" target="_blank">好邻舍教会员工： 20 人已集体辞职 对堂主任陈凯兴失望不信任 斥不重视员工安危</a></li>
 <li><a href="/comments/20201226/1455382.md" target="_blank">【电视新闻的黄昏？（二）】回望 TVB：雨伞后的加速崩坏 反修例运动“大功告成”</a></li>
 <li><a href="/comments/20201226/1455377.md" target="_blank">【12 港人送中】12.28 深圳开审 保安局：正了解更多审讯情况 未回应会否派员旁听</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201226/1455290.md" target="_blank">奇！琥珀内藏1亿年前花朵化石</a></li>
 <li><a href="/comments/20201226/1455288.md" target="_blank">川普撤离白宫关键时刻突然刹车 等待新指令 彭斯成焦点</a></li>
 <li><a href="/comments/20201226/1455275.md" target="_blank">全球各国人均工作时长排行</a></li>
-<li><a href="/comments/20201226/1455274.md" target="_blank">瞳小瞳:月明如水的骄傲</a></li>
-<li><a href="/comments/20201226/1455273.md" target="_blank">对比颜值和论点 两个女孩的世界大战？</a></li>
-<li><a href="/comments/20201226/1455259.md" target="_blank">两分多钟的视频把當今局世描述得再清楚不过</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
 <li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
