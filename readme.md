@@ -7,12 +7,12 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20201226/1455399.md">网络疯传：情报委员会主席被抓！有被抓记录！真相究竟是？【阿波罗网编译】</a></li>
 <li><a href="/comments/20201227/1455653.md">比薄熙来骂的还狠？传马云骂习近平被告密</a></li>
-<li><a href="/comments/20201227/1455585.md">炸裂！彭斯副总统与爱泼斯坦性奴岛？川普律师林伍德正在曝光！看上去平安夜长谈是彻底崩了…</a></li>
 <li><a href="/topimagenews/20201227/1455617.md">北京疫情扩散形同封城 内部消息中国人口大跌 习近平变调认泰山压顶</a></li>
+<li><a href="/comments/20201227/1455585.md">炸裂！彭斯副总统与爱泼斯坦性奴岛？川普律师林伍德正在曝光！看上去平安夜长谈是彻底崩了…</a></li>
 <li><a href="/cnnews/20201226/1455462.md">川普撤离白宫关键时刻突然刹车 彭斯成焦点</a></li>
 <li><a href="/bannedvideo/20201226/1455421.md">财经冷眼： 突发！北京病例暴增进入战时，80万人核酸，封城措施正在启动！大连紧急封城！大中城市想回老家过年的要尽快走！（20201226第220期）</a></li>
-<li><a href="/cnnews/20201226/1455445.md">习近平文宣猛批的“投降派”都有谁？</a></li>
 <li><a href="/comments/20201226/1455388.md">警惕“兽印”疫苗！“兽印”以疫苗的方式被全世界人注射？</a></li>
+<li><a href="/cnnews/20201226/1455445.md">习近平文宣猛批的“投降派”都有谁？</a></li>
 <li><a href="/topimagenews/20201226/1455400.md">中美情报大战：中情局特工很短时间内就被中共识别出来 问题出在哪里？</a></li>
 <li><a href="/cnnews/20201226/1455435.md">阿忆：英达是谁的孙子？</a></li>
 <li><a href="/bannedvideo/20201227/1455618.md">川普一大早发推炮轰最高法院，司法部，FBI，共和党；彭斯是叛徒吗？威斯康星州现一丝曙光. 哈佛学者陶瑞，纳姐</a></li>
@@ -20,10 +20,10 @@
 <li><a href="/comments/20201227/1455701.md">不祥之兆！ 网络疯传：克林顿死了 情报委员会主席被抓了</a></li>
 <li><a href="/topimagenews/20201226/1455443.md">美国大选 鹿死谁手？</a></li>
 <li><a href="/cbnews/20201226/1455474.md">陈破空：政治局突然开会，习近平报复上将！他曾参与政变？中欧协议受阻，法国撂重话：先解决新疆问题</a></li>
-<li><a href="/renquan/xgmyd/20201226/1455472.md">中共文革往事 女政委被脱光推上楼顶示众</a></li>
-<li><a href="/cbnews/20201227/1455632.md">12月26日《光明日报》聊腊肉 网友：寓意深刻</a></li>
 <li><a href="/cnnews/20201227/1455830.md">彭斯副总统与爱泼斯坦性奴岛？川普律师林伍德正在曝光</a></li>
+<li><a href="/renquan/xgmyd/20201226/1455472.md">中共文革往事 女政委被脱光推上楼顶示众</a></li>
 <li><a href="/yule/20201227/1455651.md">网友戏称横店现状：戏服像“垃圾” 美女遍地都是</a></li>
+<li><a href="/cbnews/20201227/1455632.md">12月26日《光明日报》聊腊肉 网友：寓意深刻</a></li>
 <li><a href="/lifebaike/20201226/1455427.md">李白喝醉写一上联 酒醒后却对不出下联 上联成千古绝对流传至今</a></li>
 <li><a href="/topimagenews/20201227/1455607.md">机关算尽自动流产？他她勾兑否决川普对纾困法案否决 民主党战略家举报拜登大选作弊</a></li>
 <li><a href="/cnnews/20201226/1455497.md">大选局势3种走向1种结局？鲍威尔曝川普白宫幕僚内幕 斯通诉巴尔司法部等2500万</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 
 </ul>
 </div>
