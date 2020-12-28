@@ -20,14 +20,14 @@
 <li><a href="/cbnews/20201228/1456317.md">党媒刊沉重名单 中南海无人上榜 内情诡秘</a></li>
 <li><a href="/comments/20201228/1456255.md">中国龙脉一日连现两起异象 ！要变天？</a></li>
 <li><a href="/comments/20201228/1456388.md">李燕铭：习近平先下手为强 严防中国版深层政府政变 李鹏之子李小鹏紧跟习近平反垄断 中共政经格局撕裂震荡</a></li>
-<li><a href="/topimagenews/20201228/1456392.md">说出无数人的心声！林伍德一番话引众网友共鸣！ 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201228/1456486.md">火腿肠里吃出“老鼠腿” 中共官方回应惹怒网民</a></li>
+<li><a href="/bannedvideo/20201228/1456588.md">川普圣诞节不军管, 坚持长期法律诉讼! 拜登上台可能性大增! 正义才是法治的根本!【微视频】20201228</a></li>
+<li><a href="/topimagenews/20201228/1456392.md">说出无数人的心声！林伍德一番话引众网友共鸣！ 【阿波罗网编译】</a></li>
+<li><a href="/comments/20201228/1456482.md">霸王级寒潮侵袭中国 官方紧急发布警报</a></li>
 <li><a href="/bannedvideo/20201228/1456391.md">中共情报头子熊光楷竟然是双面大鳄鱼，另外是温家宝和贾庆林在政治局的民主生活会上写信向习近平发难的</a></li>
 <li><a href="/ssgc/20201228/1456260.md">曾节明: 特朗普缺陷暴露无遗，再不奋起必垮台</a></li>
-<li><a href="/comments/20201228/1456482.md">霸王级寒潮侵袭中国 官方紧急发布警报</a></li>
-<li><a href="/cnnews/20201228/1456349.md">中共高官被打到送加护病房 两嫌瞎吐：打错人了</a></li>
-<li><a href="/comments/20201228/1456280.md">四大预言异口同声：2021年更惨！英预言家预测2021年：川普将展开一场猛烈的战役 中国爆发新病毒 马来西亚预言家郑博见爆15项预测 印度少年：“大凶”降临 诺查丹玛斯预测2021年：可怕的病毒、大饥荒、大地震</a></li>
 <li><a href="/cbnews/20201228/1456503.md">变种中共病毒已经改变传播方式和感染人群</a></li>
+<li><a href="/cnnews/20201228/1456349.md">中共高官被打到送加护病房 两嫌瞎吐：打错人了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201229/1456694.md" target="_blank">弗林将军：共产主义正在对美国内外夹击</a></li>
+<li><a href="/comments/20201229/1456693.md" target="_blank">川普签署疫情救助法案 美股周一上涨</a></li>
 <li><a href="/comments/20201229/1456680.md" target="_blank">糖尿病喝咖啡好吗？2种茶有助控制血糖</a></li>
 <li><a href="/comments/20201229/1456677.md" target="_blank">留岛不留人</a></li>
 <li><a href="/comments/20201229/1456676.md" target="_blank">30 年风雨不改出席六四晚会 去年坐轮椅坚持游行 支联会资深义工黄清和离世 终年 83 岁</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201228/1456525.md" target="_blank">张杰：上山下乡运动为何卷土重来？</a></li>
 <li><a href="/comments/20201228/1456524.md" target="_blank">秦胆：香港媒体就是这样遭红潮换血而没落</a></li>
 <li><a href="/comments/20201228/1456520.md" target="_blank">习近平捣鬼？美军事记者：中共海军指挥出问题</a></li>
-<li><a href="/comments/20201228/1456519.md" target="_blank">变种病毒登陆韩国葡萄牙 普京决定接种俄产疫苗</a></li>
-<li><a href="/comments/20201228/1456518.md" target="_blank">疫情下 雪梨跨年烟火须宅内赏 日本民众限居家迎新年</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
