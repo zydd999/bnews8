@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20201229/1457077.md">习近平脑部有个血管瘤，他要做手术了</a></li>
-<li><a href="/lifebaike/20201229/1457004.md">女人老不老实 看身上三个地方 特别是第二个</a></li>
 <li><a href="/comments/20201229/1457260.md">网络疯传习近平将动关键手术 已成立特别危机办</a></li>
-<li><a href="/bannedvideo/20201229/1457057.md">据传“港医”泄漏：习近平患脑血管瘤，急需手术！这个冬天果然不好过。新年愉快！希望康复，继续加速。12月28专题2 马先</a></li>
 <li><a href="/topimagenews/20201229/1457137.md">宾州总统认证结果有误：误差多达20多万票 是拜登领先票2倍多</a></li>
 <li><a href="/topimagenews/20201229/1457362.md">夺回大选 最新消息</a></li>
 <li><a href="/baitai/20201229/1457173.md">房地产春天来了？是的，2021年是房地产之年</a></li>
 <li><a href="/comments/20201230/1457381.md">网络疯传习近平将做颅内手术 已成立“国家特别危机办” 成员名单异常 习近平一日连签四个主席令 北京三日凌空 要变天？古籍：三日并出者，国君必亡其位！中南海谣言预言_414</a></li>
 <li><a href="/comments/20201229/1457168.md">川普仍将连任总统？沼泽鳄鱼露出尾巴已惶恐</a></li>
 <li><a href="/comments/20201229/1457210.md">老布什葬礼上的秘密和大海妖2.0</a></li>
-<li><a href="/bannedvideo/20201229/1457197.md">外界热传 习近平将动脑血管瘤手术；纳什维尔爆炸案 发现导弹袭击痕迹；川普再吁参加6日华府集会 人数或达150万；川普不军管 拜登上台可能性大增；大突破！川普发重要声明；中国修国防法 疑为“开战”创造</a></li>
-<li><a href="/bannedvideo/20201230/1457496.md">习近平歪脖子秘密大曝光，准备接受危险手术，成立后事筹备小组，败登再涉腐，彭斯苦肉计骗过猫神？周瑜打黄盖？</a></li>
 <li><a href="/cnnews/20201229/1457215.md">老翁打新冠疫苗 两小时后心脏病发亡</a></li>
-<li><a href="/worldnews/usa/20201229/1457170.md">宾州反转，乌克兰亮出拜登腐败新证据，特朗普向连任又进一大步</a></li>
 <li><a href="/cbnews/20201230/1457485.md">天亮时分：诺查丹玛斯的预言：2021年，人口丧失一半人口；川普当选美国人最崇拜的人；麦康奈尔阻击援助法案，背后有何算计？（政论天下第315集 20201229）</a></li>
-<li><a href="/bannedvideo/20201229/1457075.md">财经冷眼：1万家企业烂尾工程遍地超雄安，10万亿投资正在打水漂！习近平又一政绩工程落空！（20201228第423期）</a></li>
-<li><a href="/topimagenews/20201229/1457132.md">声明全文翻译：众议员戈默特就彭斯诉讼案声明 【阿波罗网编译】</a></li>
+<li><a href="/worldnews/usa/20201229/1457170.md">宾州反转，乌克兰亮出拜登腐败新证据，特朗普向连任又进一大步</a></li>
 <li><a href="/comments/20201230/1457510.md">究竟死多少人？最新研究：武汉实际染疫人数是官方公布10倍</a></li>
+<li><a href="/topimagenews/20201229/1457132.md">声明全文翻译：众议员戈默特就彭斯诉讼案声明 【阿波罗网编译】</a></li>
 <li><a href="/yule/20201230/1457401.md">美得不科学！51岁孟庭苇曝逆龄近照 网惊：年轻这么多</a></li>
 <li><a href="/cbnews/20201229/1457140.md">浙江前一把手胞弟 车建军卸职间接证实落马</a></li>
-<li><a href="/bannedvideo/20201229/1457323.md">贺锦丽公然恐吓川普支持者，扬言上台后报复抓人！福克斯玛丽亚报道拜登被中共收买时突遭“断播”。乌克兰确认拜登犯罪事实，他已经没有了竞选总统的资格！12月29专题-1 马先</a></li>
 <li><a href="/cnnews/20201230/1457536.md">千金酒驾酿2亡「砸钱逃死刑」被轰 出庭画面网惊：照片修好大</a></li>
+<li><a href="/ssgc/20201230/1457483.md">〖兲朝浮世绘〗土共厉害了,要下手管六道轮回了</a></li>
 <li><a href="/cbnews/20201229/1457081.md">公民记者张展绝食坐轮椅出庭 母亲哭诉：被警察骗了</a></li>
+<li><a href="/comments/20201229/1457022.md">【微博精粹】2020岁尾 全中国遭霸王寒流急冻 党媒怀疑……</a></li>
+<li><a href="/cbnews/20201229/1457192.md">北京强推刷脸出入 居民抵制：在不在家他们都知道</a></li>
+<li><a href="/health/20201229/1457091.md">父子俩 经常腹泻 查出肝癌 厨房两样东西要勤换</a></li>
+<li><a href="/ssgc/20201229/1457172.md">马云的危机</a></li>
+<li><a href="/cbnews/20201229/1457056.md">江峰：川普渡假 有人发慌 一月六号见！【江峰时刻】</a></li>
+<li><a href="/lifebaike/20201229/1457145.md">韩国小夫妻的精致生活：全屋一尘不染 收纳堪比模范 简单而幸福</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201230/1457688.md" target="_blank">鲍威尔公布证据 遭来自各方威胁；川普批共和党高层 麦康奈尔承诺处理三项要求；WHO 预警发生更大疫情 日本首现南非变种病毒；网络疯传：习近平要做开颅手术 中共成立特别危机办；【希望之声TV】</a></li>
+<li><a href="/cbnews/20201230/1457681.md" target="_blank">习近平和胡锦涛一样？美国后悔看走眼</a></li>
+<li><a href="/cbnews/20201230/1457675.md" target="_blank">江峰：CIA局长人选 拜登看上了“中国人民老朋友”【江峰时刻直播20201229】</a></li>
 <li><a href="/cbnews/20201230/1457663.md" target="_blank">一幅名画暴露天机，面对这场世纪大瘟疫，我们该何去何从？天使的剑，瘟神的骗，你选哪一个？【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.29）‬</a></li>
 <li><a href="/cbnews/20201230/1457640.md" target="_blank">〖博谈编译〗这不是选举舞弊，是叛国</a></li>
 <li><a href="/cbnews/20201230/1457619.md" target="_blank">【2020盘点】美军关键武器测试</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20201230/1457473.md" target="_blank">地裂？民饥？北京惊现“3个太阳”民间热议</a></li>
 <li><a href="/cbnews/20201230/1457472.md" target="_blank">寒流袭中国8成国土“冻透” 民叹没电没碳“死在年尾”</a></li>
 <li><a href="/cbnews/20201230/1457417.md" target="_blank">宾州议员寻真相  再爆20万票误差；前顾问特赦后会川普 私下说了什么？白宫发布加强版对中共军企投资禁令，高中生起诉内华达州左派“灌输”；大主教逝世纪念 川普吁结束全世界宗教迫害；【希望之声TV】</a></li>
-<li><a href="/cbnews/20201230/1457372.md" target="_blank">中共百种酷刑：水牢</a></li>
-<li><a href="/cbnews/20201229/1457304.md" target="_blank">亨特电脑维修店主告推特诽谤 求偿五亿美元</a></li>
-<li><a href="/cbnews/20201229/1457282.md" target="_blank">推特惹官司！交出亨特硬盘的电脑修理店老板起诉推特诽谤；川普律师：司法部应调查大选问题 仍可做壹些事；众议院推翻川普对国防授权法案的否决权【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201230/1457689.md" target="_blank">年末异象：火流星、奇光、地震 中共党魁健康传言四起</a></li>
+<li><a href="/comments/20201230/1457683.md" target="_blank">【微博精粹】美法监委主席：贺锦丽非美国自然公民 无权竞选总统</a></li>
+<li><a href="/comments/20201230/1457680.md" target="_blank">骇人听闻 苏军大规模奸杀 连同胞都不放过</a></li>
 <li><a href="/comments/20201230/1457660.md" target="_blank">神助攻！美国之外的角力 乌克兰为何死磕拜登</a></li>
 <li><a href="/comments/20201230/1457659.md" target="_blank">北游：马云的垄断 何炅的收礼</a></li>
 <li><a href="/comments/20201230/1457647.md" target="_blank">习近平开政治局民主生活会 政治局委员逐个发言人人过关 刘鹤最特殊引发猜测 中南海不可告人的秘密_288</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20201230/1457513.md" target="_blank">世界和平组织吁必须干预中共活摘器官行径</a></li>
 <li><a href="/comments/20201230/1457512.md" target="_blank">中国褐皮书：中国消费市场疲弱 零售业信贷困难</a></li>
 <li><a href="/comments/20201230/1457511.md" target="_blank">【2020 全家福．9】刀锋下的政党 解散之后 好好活着的责任</a></li>
-<li><a href="/comments/20201230/1457510.md" target="_blank">究竟死多少人？最新研究：武汉实际染疫人数是官方公布10倍</a></li>
-<li><a href="/comments/20201230/1457509.md" target="_blank">中共灭蒙语运动再加码 小学三年级起全汉语教学</a></li>
-<li><a href="/comments/20201230/1457482.md" target="_blank">众议员喊话司法部 派特别检察官调查亨特</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 
 </ul>
 </div>
