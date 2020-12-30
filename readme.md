@@ -13,8 +13,8 @@
 <li><a href="/comments/20201230/1457510.md">究竟死多少人？最新研究：武汉实际染疫人数是官方公布10倍</a></li>
 <li><a href="/cbnews/20201230/1457721.md">习近平政治局开会 刘鹤“坚不除罩”引猜测</a></li>
 <li><a href="/cnnews/20201230/1457547.md">2021年4大黑天鹅 一只比一只恐怖？</a></li>
-<li><a href="/cnnews/20201230/1457536.md">千金酒驾酿2亡「砸钱逃死刑」被轰 出庭画面网惊：照片修好大</a></li>
 <li><a href="/bannedvideo/20201230/1457526.md">川普和习近平的下场</a></li>
+<li><a href="/cnnews/20201230/1457536.md">千金酒驾酿2亡「砸钱逃死刑」被轰 出庭画面网惊：照片修好大</a></li>
 <li><a href="/cbnews/20201230/1457741.md">人民愤怒了？150万爱国者已启程！做实了？中共主导网攻白宫！拜登要对中共强硬？外交演说藏信号；</a></li>
 <li><a href="/topimagenews/20201230/1457573.md">拜登白等？美民主党高层威胁未遂 乌克兰议员突曝拜登猛料 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201230/1457554.md">文昭：北京再现「紧急状态」；重磅新证据备战1月6日；美国大报反水深挖小拜登生意网、无可避免的後果</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/comments/20201230/1457683.md">【微博精粹】美法监委主席：贺锦丽非美国自然公民 无权竞选总统</a></li>
 <li><a href="/yule/20201230/1457401.md">美得不科学！51岁孟庭苇曝逆龄近照 网惊：年轻这么多</a></li>
 <li><a href="/ssgc/20201230/1457483.md">〖兲朝浮世绘〗土共厉害了,要下手管六道轮回了</a></li>
-<li><a href="/topimagenews/20201230/1457561.md">民主党内讧 AOC被警告 不用挑战他！惊爆选票故意印错位置 导致无数选川普票作废</a></li>
 <li><a href="/health/20201230/1457581.md">晚上睡觉会有这3个现象，表明肾脏挺强健，若你有，恭喜你</a></li>
+<li><a href="/topimagenews/20201230/1457561.md">民主党内讧 AOC被警告 不用挑战他！惊爆选票故意印错位置 导致无数选川普票作废</a></li>
 <li><a href="/cnnews/20201230/1457712.md">比2020更可怕？诺查丹玛斯预言2021：仅剩一半人口</a></li>
-<li><a href="/cbnews/20201230/1457522.md">北京进口汽车配件检测阳性 网友: 甩锅新高度</a></li>
 <li><a href="/cbnews/20201230/1457473.md">地裂？民饥？北京惊现“3个太阳”民间热议</a></li>
+<li><a href="/cbnews/20201230/1457522.md">北京进口汽车配件检测阳性 网友: 甩锅新高度</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201230/1457996.md" target="_blank">路州当选议员上任前染疫去世 国会首例</a></li>
+<li><a href="/comments/20201230/1457994.md" target="_blank">王若望的妻子羊子女士撰文揭露江泽民封杀镇压《世界经济导报》说服万里逼朱镕基迫害王若望，讨好巴结邓小平，六四事件后上位中共总书记。王若望曾因批评毛泽东入狱四年后与刘宾雁和方励之一起，被邓小平点名开除党籍</a></li>
+<li><a href="/comments/20201230/1457990.md" target="_blank">浙江书记再挺习表忠 陆媒暗示马云结局</a></li>
+<li><a href="/comments/20201230/1457989.md" target="_blank">彭斯是否有权决定选举人票？资深媒体人如是说</a></li>
+<li><a href="/comments/20201230/1457988.md" target="_blank">替中共搜集情报被美判刑 新加坡人回国再遭拘捕调查</a></li>
+<li><a href="/comments/20201230/1457987.md" target="_blank">中共疫苗只服务政治！为发财和权力！韭菜的命算什么呢&#8230;</a></li>
 <li><a href="/comments/20201230/1457978.md" target="_blank">习近平脑瘤急需动手术？ 31日晚新年谈话是关键</a></li>
 <li><a href="/comments/20201230/1457977.md" target="_blank">美国国会首例 当选议员上任前染疫身亡</a></li>
 <li><a href="/comments/20201230/1457976.md" target="_blank">英国单日确诊飊升5.3万人 专家:进入非常危险阶段</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20201230/1457867.md" target="_blank">即将正式脱欧 英国与越南签署自贸协定 各蒙其利</a></li>
 <li><a href="/comments/20201230/1457866.md" target="_blank">中药古今研究：核桃仁</a></li>
 <li><a href="/comments/20201230/1457865.md" target="_blank">突遇中风不要慌 记住口诀能自救</a></li>
-<li><a href="/comments/20201230/1457864.md" target="_blank">台湾癌症时钟快转11秒 大肠癌蝉联冠军</a></li>
-<li><a href="/comments/20201230/1457863.md" target="_blank">【五脏之伤，穷必及肾】怎样用中药养护肾脏？</a></li>
-<li><a href="/comments/20201230/1457855.md" target="_blank">美韩分析：金与正将掌大权 成为现代首位女独裁者</a></li>
-<li><a href="/comments/20201230/1457842.md" target="_blank">公民记者张展遭中共当局判刑 蓬佩奥：无条件放人</a></li>
-<li><a href="/comments/20201230/1457805.md" target="_blank">左媒体的抹黑（2）：为什么川普越破产越有钱，川普的“6次破产”</a></li>
-<li><a href="/comments/20201230/1457827.md" target="_blank">【年终回顾】2020—走向世界舞台的台湾</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 
 </ul>
 </div>
