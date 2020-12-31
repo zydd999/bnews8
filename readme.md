@@ -20,14 +20,14 @@
 <li><a href="/bblog/20201230/1457799.md">毛泽东下套谋杀了林彪</a></li>
 <li><a href="/cbnews/20201230/1457794.md">北京沈阳疫情持续升温 无锡杭州黑河亦遭感染</a></li>
 <li><a href="/headline/20201230/1457985.md">张展案内幕披露 当庭多次打断法官：国家之所以衰败 正因为你荒谬的问题</a></li>
+<li><a href="/cnnews/20201231/1458159.md">拜登再次口误 无意中泄露了大秘密？推特</a></li>
 <li><a href="/topimagenews/20201230/1457911.md">麦康奈尔 挑战川普 爱国者响应召唤 “为川普游行”加州启程 1月6日聚DC</a></li>
+<li><a href="/topimagenews/20201231/1458215.md">习近平最新消息 刚“胜利”就过渡 刘鹤异常引猜测|惊爆奥巴马希拉里和共军情报机构交往</a></li>
 <li><a href="/cbnews/20201230/1457892.md">举国疫情四起 北京高官竟睁眼说瞎话</a></li>
 <li><a href="/cnnews/20201230/1457712.md">比2020更可怕？诺查丹玛斯预言2021：仅剩一半人口</a></li>
-<li><a href="/cnnews/20201231/1458159.md">拜登再次口误 无意中泄露了大秘密？推特</a></li>
-<li><a href="/topimagenews/20201231/1458215.md">习近平最新消息 刚“胜利”就过渡 刘鹤异常引猜测|惊爆奥巴马希拉里和共军情报机构交往</a></li>
+<li><a href="/cbnews/20201231/1458205.md">21年前假死，小肯尼迪尚在人世！乌克兰猛打拜登，向川普投名状？傅聪和马思聪，谁是真正的聪明人？ 【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.30）‬</a></li>
 <li><a href="/topimagenews/20201231/1458141.md">麦康奈尔提法案 含2千美元支票 废除230条款 调查选举欺诈</a></li>
 <li><a href="/yule/20201231/1458094.md">知名女星沦落摆地摊？穿着朴素无明星样</a></li>
-<li><a href="/finance/20201230/1457780.md">“无理由”暴跌！2天暴跌30% 机构资金疯狂出逃 发生了什么？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201231/1458375.md" target="_blank">多位美参议员拟定1月6日挑战选举人团；威州缺席选票违规案 川普向最高法院申诉；联邦检察官突然辞职 跟调查大选问题有关？；欲增影响力？科技巨头“校友”加入拜登团队引关注【希望之声TV】</a></li>
 <li><a href="/cbnews/20201231/1458334.md" target="_blank">赵立坚：西藏活佛转世 必须遵守国家法律</a></li>
 <li><a href="/cbnews/20201231/1458332.md" target="_blank">天亮时分：彭斯拒绝选择选举人；参议院1月6日将挑战选举人团；乔治亚参议院决定审计Fulton郡选票；大选翻盘还能指望谁？</a></li>
 <li><a href="/cbnews/20201231/1458291.md" target="_blank">若拜登上台将推行大重置计划 光明会新世界秩序？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201230/1457934.md" target="_blank">宋徽宗迫害佛教的惨烈恶报</a></li>
 <li><a href="/cbnews/20201230/1457930.md" target="_blank">胆敢向1.4亿中国男人叫板 这家药厂被网民骂翻</a></li>
 <li><a href="/cbnews/20201230/1457892.md" target="_blank">举国疫情四起 北京高官竟睁眼说瞎话</a></li>
-<li><a href="/cbnews/20201230/1457891.md" target="_blank">&#8220;吹哨一周年&#8221; 数十万网友微博热搜&#8221;李文亮&#8221;</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201231/1458377.md" target="_blank">李燕铭：习近平清洗刀把子严防政变 武警部队高层换掉一半 武警司令与两名副司令、纪委书记、参谋长换人</a></li>
+<li><a href="/comments/20201231/1458374.md" target="_blank">辞旧迎新 海内外民众感谢李洪志大师 恭祝新年好</a></li>
+<li><a href="/comments/20201231/1458373.md" target="_blank">美出走香港 北京阻美抛售驻港总领馆房产</a></li>
+<li><a href="/comments/20201231/1458371.md" target="_blank">戴口罩强制令有漏洞？控制疫情传播可能有更有效的措施</a></li>
+<li><a href="/comments/20201231/1458368.md" target="_blank">陶杰:嗅觉的扭曲</a></li>
 <li><a href="/comments/20201231/1458345.md" target="_blank">谁将被历史“清零”？</a></li>
 <li><a href="/comments/20201231/1458344.md" target="_blank">网络博弈：“张展,你好好活着”</a></li>
 <li><a href="/comments/20201231/1458324.md" target="_blank">美国清洁网络计划重创中共全球5G野心</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20201231/1458240.md" target="_blank">艾晓明: 今天 在丁香路611号上班</a></li>
 <li><a href="/comments/20201231/1458239.md" target="_blank">林忌：中共外宣的渗透力</a></li>
 <li><a href="/comments/20201231/1458238.md" target="_blank">颜纯鈎：川普签署新法案 台湾得到更实质支持</a></li>
-<li><a href="/comments/20201231/1458237.md" target="_blank">林保华：全球面对中共“地下党”威胁</a></li>
-<li><a href="/comments/20201231/1458226.md" target="_blank">美国数百万只鸟一个月内离奇暴毙 死前表现诡异 死亡原因恐怖</a></li>
-<li><a href="/comments/20201231/1458225.md" target="_blank">起亚Sorento：2021纽约时代广场倒计时的主角</a></li>
-<li><a href="/comments/20201231/1458208.md" target="_blank">最独特画面！800年最接近一次！木土星相合 国际太空站从中穿越</a></li>
-<li><a href="/comments/20201231/1458207.md" target="_blank">习近平开政治局民主生活会 刘鹤最特殊</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 <li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 
 </ul>
 </div>
