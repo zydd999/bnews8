@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20201231/1458454.md">美副国安顾问:震惊欧盟领导人完成中欧投资协定 扯下遮羞布 罔顾人权看重利益</a></li>
 <li><a href="/cnnews/20201231/1458559.md">国已不国 川普怒吼：辞职 乔州证人：州务卿派人带手铐威胁县选举官员</a></li>
 <li><a href="/cbnews/20201231/1458156.md">李文亮“吹哨” 周年 艾芬右眼失明 官方全面打压</a></li>
-<li><a href="/cbnews/20201231/1458142.md">浙江妇砸25万整形 回春不成变「很凶很凶」</a></li>
 <li><a href="/cbnews/20201231/1458577.md">陈破空：惊传！习近平将动脑手术？刘鹤表现异常。张展威武不屈，胡锡进跪献理论</a></li>
+<li><a href="/cbnews/20201231/1458142.md">浙江妇砸25万整形 回春不成变「很凶很凶」</a></li>
 <li><a href="/cbnews/20201231/1458469.md">丈母娘婚礼提１个条件 新郎妈呛完这句转身走人</a></li>
 <li><a href="/cnnews/20201231/1458286.md">欲盖弥彰？石正丽称“永远查不出病毒源头”</a></li>
 <li><a href="/cbnews/20201231/1458157.md">河北农民生火煮饭被拘5天 网友：脱贫了怎么不用天然气</a></li>
-<li><a href="/topimagenews/20201231/1458135.md">寒流中「限电」中国网民冻坏了 上课点蜡烛、上班只能开电脑…</a></li>
 <li><a href="/funmedia/20201231/1458235.md">女人不经意的三句“鬼话” 代表已经出轨 专门欺骗老实人</a></li>
 <li><a href="/cbnews/20201231/1458332.md">天亮时分：彭斯拒绝选择选举人；参议院1月6日将挑战选举人团；乔治亚参议院决定审计Fulton郡选票；大选翻盘还能指望谁？</a></li>
 <li><a href="/cbnews/20201231/1458391.md">雄安新区难搞 此人将接下烫手山芋</a></li>
-<li><a href="/cnnews/20201231/1458349.md">纳瓦罗气愤发声：当你想去沃尔玛购物时…想想这条推文吧</a></li>
+<li><a href="/topimagenews/20201231/1458656.md">拜登泄密深层政府计划？故意的？打脸左媒 彭斯出访早取消</a></li>
+<li><a href="/cnnews/20201231/1458516.md">美国护士接种辉瑞疫苗8天后确诊 专家这样解释</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210101/1458761.md" target="_blank">8年官司终结 美球星乔丹胜诉中企侵权案</a></li>
+<li><a href="/comments/20210101/1458759.md" target="_blank">【预告】2021新年期间 新唐人播放神韵音乐会</a></li>
+<li><a href="/comments/20210101/1458758.md" target="_blank">习近平不待见 四成港人给0分 林郑两头不讨好</a></li>
+<li><a href="/comments/20210101/1458757.md" target="_blank">【视频】迎接2021 各国跨年烟火秀线上看</a></li>
 <li><a href="/comments/20210101/1458749.md" target="_blank">网络疯传习近平入院动手术 名嘴评：龙椅不稳征兆</a></li>
 <li><a href="/comments/20210101/1458748.md" target="_blank">所谓的“司法独立” 根本已不存在</a></li>
 <li><a href="/comments/20210101/1458747.md" target="_blank">遭三警虐打 六旬翁入禀索偿 官准律政司列作被告</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20201231/1458610.md" target="_blank">【杜耀明评论】林郑底气薄弱注定四面楚歌</a></li>
 <li><a href="/comments/20201231/1458598.md" target="_blank">【华府看天下】2021年中国经济反弹将难持续 与民主世界对抗将加剧</a></li>
 <li><a href="/comments/20201231/1458593.md" target="_blank">回顾2020年 明星艺人接连殒落</a></li>
-<li><a href="/comments/20201231/1458588.md" target="_blank">贸易报复澳洲 台专家：中共是失控的经济列车</a></li>
-<li><a href="/comments/20201231/1458572.md" target="_blank">廉署的堕落作为香港文明倒退的历史地标</a></li>
-<li><a href="/comments/20201231/1458571.md" target="_blank">上海杨浦区法院前院长任涌飞获刑 传涉色情会所大案</a></li>
-<li><a href="/comments/20201231/1458570.md" target="_blank">【历史题风波】考评局：从未施压或要求辞职 杨颖宇反击：管理层 7 月曾与他“讨论去留”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
 
 </ul>
 </div>
