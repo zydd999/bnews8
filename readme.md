@@ -11,7 +11,6 @@
 <li><a href="/cbnews/20201231/1458205.md">21年前假死，小肯尼迪尚在人世！乌克兰猛打拜登，向川普投名状？傅聪和马思聪，谁是真正的聪明人？ 【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.30）‬</a></li>
 <li><a href="/topimagenews/20201231/1458267.md">快讯！白宫声明提“沼泽地” ：川普总统拒绝低头！【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201231/1458159.md">拜登再次口误 无意中泄露了大秘密？推特</a></li>
-<li><a href="/yule/20201231/1458094.md">知名女星沦落摆地摊？穿着朴素无明星样</a></li>
 <li><a href="/topimagenews/20201231/1458141.md">麦康奈尔提法案 含2千美元支票 废除230条款 调查选举欺诈</a></li>
 <li><a href="/topimagenews/20201231/1458429.md">听证会爆炸性一幕！ 专家：我黑进了多米尼系统【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20201231/1458427.md">看中国：大连疫情告急 非万不得已不公布死亡人数</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cbnews/20201231/1458156.md">李文亮“吹哨” 周年 艾芬右眼失明 官方全面打压</a></li>
 <li><a href="/cbnews/20201231/1458142.md">浙江妇砸25万整形 回春不成变「很凶很凶」</a></li>
 <li><a href="/cbnews/20201231/1458469.md">丈母娘婚礼提１个条件 新郎妈呛完这句转身走人</a></li>
+<li><a href="/cnnews/20201231/1458559.md">国已不国 川普怒吼：辞职 乔州证人：州务卿派人带手铐威胁县选举官员</a></li>
 <li><a href="/cbnews/20201231/1458157.md">河北农民生火煮饭被拘5天 网友：脱贫了怎么不用天然气</a></li>
 <li><a href="/cnnews/20201231/1458286.md">欲盖弥彰？石正丽称“永远查不出病毒源头”</a></li>
 <li><a href="/topimagenews/20201231/1458135.md">寒流中「限电」中国网民冻坏了 上课点蜡烛、上班只能开电脑…</a></li>
-<li><a href="/cnnews/20201231/1458559.md">国已不国 川普怒吼：辞职 乔州证人：州务卿派人带手铐威胁县选举官员</a></li>
+<li><a href="/cbnews/20201231/1458577.md">陈破空：惊传！习近平将动脑手术？刘鹤表现异常。张展威武不屈，胡锡进跪献理论</a></li>
 <li><a href="/funmedia/20201231/1458235.md">女人不经意的三句“鬼话” 代表已经出轨 专门欺骗老实人</a></li>
 <li><a href="/cbnews/20201231/1458332.md">天亮时分：彭斯拒绝选择选举人；参议院1月6日将挑战选举人团；乔治亚参议院决定审计Fulton郡选票；大选翻盘还能指望谁？</a></li>
-<li><a href="/cbnews/20201231/1458577.md">陈破空：惊传！习近平将动脑手术？刘鹤表现异常。张展威武不屈，胡锡进跪献理论</a></li>
+<li><a href="/cbnews/20201231/1458391.md">雄安新区难搞 此人将接下烫手山芋</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210101/1458740.md" target="_blank">反川共和党议员：超过100位国会议员1月6日会站出来；变计划 川普提前回白宫；川普接获情报：中共悬赏对美军发动袭击； 欧盟与中共达协定 美副国安顾问:扯下遮羞布 【希望之声TV】</a></li>
 <li><a href="/cbnews/20201231/1458646.md" target="_blank">博明批欧洲领导人急于完成中欧投资协定</a></li>
 <li><a href="/cbnews/20201231/1458628.md" target="_blank">美使馆：彭斯1月以色列之行早已取消；川普竞选顾问：1月6日将提交不同证据；共和党议员将挑战选举人团投票 拜登团队回应【希望之声TV】</a></li>
 <li><a href="/cbnews/20201231/1458596.md" target="_blank">美国思想领袖：国会议员 劳伦·博珀特：要终结社会主义议程！为何主张反对关闭，开放餐厅营业？依赖救济只会陷入贫穷的循环，自立会让生活更好；介入政坛的契机，如何翻转弱势处境取得今日的成就？｜ # 大纪元</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20201231/1458334.md" target="_blank">赵立坚：西藏活佛转世 必须遵守国家法律</a></li>
 <li><a href="/cbnews/20201231/1458332.md" target="_blank">天亮时分：彭斯拒绝选择选举人；参议院1月6日将挑战选举人团；乔治亚参议院决定审计Fulton郡选票；大选翻盘还能指望谁？</a></li>
 <li><a href="/cbnews/20201231/1458291.md" target="_blank">若拜登上台将推行大重置计划 光明会新世界秩序？</a></li>
-<li><a href="/cbnews/20201231/1458264.md" target="_blank">乔州听证会爆新料   参议院第一挑战者出现  嘉宾: 蓝述  方伟  主持人:高洁【希望之声TV】(2020/12/30)</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210101/1458734.md" target="_blank">中国疫苗接种层层动员 却遭遇“领导先打”尴尬</a></li>
+<li><a href="/comments/20210101/1458733.md" target="_blank">跨年度大都会运输署更新新年交通运行时间</a></li>
 <li><a href="/comments/20210101/1458719.md" target="_blank">网络疯传习近平入院动手术 评：龙椅不稳征兆</a></li>
 <li><a href="/comments/20210101/1458708.md" target="_blank">天安门六四事件后，戒严部队大抓捕。解放军进驻北京市公安局各公安分局、公安派出所，抓捕“暴徒”、“动乱分子”和“非法组织成员”，滥捕、毒打事件层出不穷（笑梅看中国第021期）</a></li>
 <li><a href="/comments/20210101/1458707.md" target="_blank">香港风水大师预测疫情更严重，死人更多，2021年末都不会结束</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20201231/1458568.md" target="_blank">假传圣旨者的必胜方程式</a></li>
 <li><a href="/comments/20201231/1458567.md" target="_blank">【视频】阿隋厨房：比螃蟹还好吃的赛螃蟹 只需这么做</a></li>
 <li><a href="/comments/20201231/1458566.md" target="_blank">冀 2020 快点完结 却无人有把握 2021 会更好</a></li>
-<li><a href="/comments/20201231/1458565.md" target="_blank">前香港众志成员周庭除夕突变“甲级犯” 调往大榄女惩教所服刑</a></li>
-<li><a href="/comments/20201231/1458564.md" target="_blank">【12 港人案】英议员轰判刑违《中英联合声明》 攻击香港自由</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
 <li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
