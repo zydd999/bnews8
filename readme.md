@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20201230/1457613.md">马云传被正式双规 阿里董事长张勇也被带走 陆媒发文《突发重磅！马云被边控！》 边控命令来自习近平 马云已两月没露面 记者联系不上他 陆媒罕见放话：阿里巴巴行为已经是黑社会行为！马云的下场到底是和珅还是九千岁魏忠贤？中南海谣言预言_415</a></li>
 <li><a href="/topimagenews/20201230/1457793.md">内部消息：“疫情非常非常严重！”中国首次发现本土中共病毒变异病例！图</a></li>
-<li><a href="/cnnews/20201230/1457547.md">2021年4大黑天鹅 一只比一只恐怖？</a></li>
 <li><a href="/cbnews/20201230/1457721.md">习近平政治局开会 刘鹤“坚不除罩”引猜测</a></li>
 <li><a href="/cnnews/20201230/1457968.md">奇耻大辱：彭斯竟不同意1月6日采取行动【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20201230/1457554.md">文昭：北京再现「紧急状态」；重磅新证据备战1月6日；美国大报反水深挖小拜登生意网、无可避免的後果</a></li>
@@ -22,9 +21,10 @@
 <li><a href="/comments/20201230/1457990.md">浙江书记再挺习表忠 陆媒暗示马云结局</a></li>
 <li><a href="/comments/20201230/1457683.md">【微博精粹】美法监委主席：贺锦丽非美国自然公民 无权竞选总统</a></li>
 <li><a href="/cbnews/20201230/1457794.md">北京沈阳疫情持续升温 无锡杭州黑河亦遭感染</a></li>
-<li><a href="/bblog/20201230/1457799.md">毛泽东下套谋杀了林彪</a></li>
 <li><a href="/headline/20201230/1457985.md">张展案内幕披露 当庭多次打断法官：国家之所以衰败 正因为你荒谬的问题</a></li>
+<li><a href="/bblog/20201230/1457799.md">毛泽东下套谋杀了林彪</a></li>
 <li><a href="/topimagenews/20201230/1457911.md">麦康奈尔 挑战川普 爱国者响应召唤 “为川普游行”加州启程 1月6日聚DC</a></li>
+<li><a href="/comments/20201231/1458081.md">【视频】习近平脑血管瘤近况被曝光之后，紧急同普京通电话意味着什么？</a></li>
 <li><a href="/cnnews/20201230/1457712.md">比2020更可怕？诺查丹玛斯预言2021：仅剩一半人口</a></li>
 <li><a href="/cbnews/20201230/1457892.md">举国疫情四起 北京高官竟睁眼说瞎话</a></li>
 <li><a href="/health/20201230/1457581.md">晚上睡觉会有这3个现象，表明肾脏挺强健，若你有，恭喜你</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20201231/1458231.md" target="_blank">中国疫情加剧 沈阳全面进入“战时状态”</a></li>
+<li><a href="/cbnews/20201231/1458241.md" target="_blank">比尔在采访中表现失常  福西承认对美国人说谎；美国税局和财政部开始向民众发送纾困金；参议员：乔州参院席位决定美国是否走“社会主义道路”；北京惊现“3个太阳”民间称不祥之兆【希望之声TV】</a></li>
 <li><a href="/cbnews/20201231/1458205.md" target="_blank">21年前假死，小肯尼迪尚在人世！乌克兰猛打拜登，向川普投名状？傅聪和马思聪，谁是真正的聪明人？ 【新闻最嘲点 姜光宇】Mr.FunnyNews (2020.12.30）‬</a></li>
 <li><a href="/cbnews/20201231/1458184.md" target="_blank">陈破空：直播预告：参议员挺身而出！彭斯取消外访。两老着慌，密谋操纵联席会议。乔州内幕惊诧。陈破空与网友互动Q&amp;A 美东时间12月30日周三晚8点、即中港台时间12月31日周四早9点</a></li>
 <li><a href="/cbnews/20201231/1458180.md" target="_blank">美日印越飞弹包围网成形？剑指中共？</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/comments/20201230/1457805.md" target="_blank">左媒体的抹黑（2）：为什么川普越破产越有钱，川普的“6次破产”</a></li>
 <li><a href="/cbnews/20201230/1457817.md" target="_blank">山东一环卫工人雪天倒在路边死亡 发现时已冻僵</a></li>
 <li><a href="/cbnews/20201230/1457816.md" target="_blank">73岁法轮功学员高金平遭冤判7年入狱</a></li>
-<li><a href="/cbnews/20201230/1457795.md" target="_blank">荆州违建关公像迁拆招标 投资额达4000万人民币</a></li>
-<li><a href="/cbnews/20201230/1457794.md" target="_blank">北京沈阳疫情持续升温 无锡杭州黑河亦遭感染</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20201231/1458232.md" target="_blank">中共泄密 武汉中招人数 比官方数字高10倍|北京沈阳疫情升温 天南地北现病例</a></li>
 <li><a href="/topimagenews/20201231/1458215.md" target="_blank">习近平最新消息 刚“胜利”就过渡 刘鹤异常引猜测|惊爆奥巴马希拉里和共军情报机构交往</a></li>
 <li><a href="/topimagenews/20201231/1458150.md" target="_blank">参议员霍利发声明：1月6日挑战选举人团投票结果</a></li>
 <li><a href="/topimagenews/20201231/1458141.md" target="_blank">麦康奈尔提法案 含2千美元支票 废除230条款 调查选举欺诈</a></li>
@@ -91,13 +92,18 @@
 <li><a href="/topimagenews/20201228/1456590.md" target="_blank">宾州发现欺诈新证 54万姓氏中24万竟是绝户 左派检察长报复鲍威尔 川普回应</a></li>
 <li><a href="/topimagenews/20201228/1456433.md" target="_blank">资本大逃亡！对外负债首次突破6万亿美元</a></li>
 <li><a href="/topimagenews/20201228/1456392.md" target="_blank">说出无数人的心声！林伍德一番话引众网友共鸣！ 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201228/1456382.md" target="_blank">150亿市值蒸发！泡泡玛特崩了！被爆拆封二次销售</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20201231/1458240.md" target="_blank">艾晓明: 今天 在丁香路611号上班</a></li>
+<li><a href="/comments/20201231/1458239.md" target="_blank">林忌：中共外宣的渗透力</a></li>
+<li><a href="/comments/20201231/1458238.md" target="_blank">颜纯鈎：川普签署新法案 台湾得到更实质支持</a></li>
+<li><a href="/comments/20201231/1458237.md" target="_blank">林保华：全球面对中共“地下党”威胁</a></li>
+<li><a href="/comments/20201231/1458226.md" target="_blank">美国数百万只鸟一个月内离奇暴毙 死前表现诡异 死亡原因恐怖</a></li>
+<li><a href="/comments/20201231/1458225.md" target="_blank">起亚Sorento：2021纽约时代广场倒计时的主角</a></li>
 <li><a href="/comments/20201231/1458208.md" target="_blank">最独特画面！800年最接近一次！木土星相合 国际太空站从中穿越</a></li>
 <li><a href="/comments/20201231/1458207.md" target="_blank">习近平开政治局民主生活会 刘鹤最特殊</a></li>
 <li><a href="/comments/20201231/1458198.md" target="_blank">拜登：若入主白宫 将加快发放疫苗</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20201231/1458148.md" target="_blank">路透社：梵蒂冈在港设非正式外交使团 两修女内地被捕 揭汤汉曾裁走正委声明部份内容</a></li>
 <li><a href="/comments/20201231/1458138.md" target="_blank">调查：超四成日本科技公司正将供应链移出中国</a></li>
 <li><a href="/comments/20201231/1458133.md" target="_blank">【2020经济盘点之三】失业率上升 收入减少 民生凋敝</a></li>
-<li><a href="/comments/20201231/1458132.md" target="_blank">【视频+点击链接】十集纪录片：《阴谋的败落》</a></li>
-<li><a href="/comments/20201231/1458124.md" target="_blank">李燕铭：天津市政法高官田建国落马 多名副手查办令计划等副国级及省部级大老虎而获晋升 田建国反常落马 有何内幕？</a></li>
-<li><a href="/comments/20201231/1458122.md" target="_blank">习近平宣称脱贫“胜利” 缺底气？再设5年过渡期</a></li>
-<li><a href="/comments/20201231/1458121.md" target="_blank">历史的转折时刻 哪些帝王抓住良机改写了历史</a></li>
-<li><a href="/comments/20201231/1458111.md" target="_blank">刘亦菲原形毕露!粉丝缓颊帮倒忙更尴尬</a></li>
-<li><a href="/comments/20201231/1458108.md" target="_blank">【12 港人案】家属回应判刑 郑子豪父亲：每日都是冤枉 斥港府亲自送 12 个仔女去大陆</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 
 </ul>
 </div>
