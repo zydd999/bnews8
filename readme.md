@@ -14,12 +14,12 @@
 <li><a href="/comments/20201231/1458693.md">李燕铭：习近平破“家变”传言？新年贺词背景有变 13张照片首次上架 罕见晒出习近平与彭丽媛的合影、习近平一家三口的合影、彭丽媛年轻时的单人照……曾有传言彭丽媛与习近平分居</a></li>
 <li><a href="/comments/20210101/1458718.md">打脸！跨年川建国竟然又赢了？8000万票“当选总统”乔拜登表示很无奈…</a></li>
 <li><a href="/cbnews/20210101/1459043.md">新年有⼤事发⽣？川普说已经签署！主流媒体黑名单出炉！看看都有谁被中共收买？迎接2021各国跨年烟火秀线上看</a></li>
-<li><a href="/topimagenews/20210101/1458930.md">德国多米尼服务器再起波澜 新的说法出现</a></li>
 <li><a href="/cbnews/20210101/1458740.md">反川共和党议员：超过100位国会议员1月6日会站出来；变计划 川普提前回白宫；川普接获情报：中共悬赏对美军发动袭击； 欧盟与中共达协定 美副国安顾问:扯下遮羞布 【希望之声TV】</a></li>
+<li><a href="/topimagenews/20210101/1458930.md">德国多米尼服务器再起波澜 新的说法出现</a></li>
 <li><a href="/comments/20210101/1458707.md">香港风水大师预测疫情更严重，死人更多，2021年末都不会结束</a></li>
+<li><a href="/topimagenews/20210101/1459089.md">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
 <li><a href="/topimagenews/20201231/1458656.md">拜登泄密深层政府计划？故意的？打脸左媒 彭斯出访早取消</a></li>
 <li><a href="/topimagenews/20210101/1458808.md">上海不疯跨年夜倒数 疫情下青年挣扎拚就业</a></li>
-<li><a href="/topimagenews/20210101/1459089.md">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
 <li><a href="/comments/20210101/1458719.md">网络疯传习近平入院动手术 评：龙椅不稳征兆</a></li>
 <li><a href="/topimagenews/20210101/1458715.md">司法部顾问报告惊爆 六摇摆州多出26.8万张选票 川普这1项就赢乔州【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210101/1458750.md">众议员曝：麦克奈尔佩罗西密谋1月6日 阻止挑战认证拜登</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210101/1459212.md" target="_blank">陈破空：习近平录像讲话，处处露馅！习弟有危险。拒见林郑有玄机。新年最强问候语</a></li>
 <li><a href="/cbnews/20210101/1459196.md" target="_blank">撕破脸？华为突然全面下架腾讯游戏</a></li>
 <li><a href="/cbnews/20210101/1459195.md" target="_blank">习近平贺词数“成就” 外界质疑</a></li>
 <li><a href="/cbnews/20210101/1459156.md" target="_blank">恐怖！中共西藏军区给士兵配备自杀和军官遥控灭口装置</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210101/1458717.md" target="_blank">川普发动了史无前例的信息超限战</a></li>
 <li><a href="/cbnews/20210101/1458713.md" target="_blank">《归途》女主角新年感恩李洪志先生（上）</a></li>
 <li><a href="/cbnews/20210101/1458879.md" target="_blank">美2艘军舰通过台湾海峡！美军：展现对印太自由开放的承诺</a></li>
-<li><a href="/cbnews/20210101/1458873.md" target="_blank">民主党内部水火不容  拜登处境尴尬；2020年的媒体丑闻和争议；一些医护人员拒绝使用COVID-19疫苗【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210101/1459216.md" target="_blank">为什么会有失败主义？</a></li>
+<li><a href="/comments/20210101/1459210.md" target="_blank">网传中国前首富黄光裕获释后露面 与友人合照</a></li>
+<li><a href="/comments/20210101/1459209.md" target="_blank">广西维权人士韦亚妮被捕 疑与11.12广州大抓捕有关</a></li>
+<li><a href="/comments/20210101/1459208.md" target="_blank">事实告诉我们：惜命最好的方式不是养生，而居然是这个</a></li>
 <li><a href="/comments/20210101/1459199.md" target="_blank">纽约吉时羽：Q与川普和美国军方关系密切的佐证</a></li>
 <li><a href="/comments/20210101/1459198.md" target="_blank">澳洲新计划将让亚太局势翻起巨浪</a></li>
 <li><a href="/comments/20210101/1459179.md" target="_blank">彭斯团队回应起诉：参众两院才应是被告</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210101/1459021.md" target="_blank">2021 希望之声新年祈福</a></li>
 <li><a href="/comments/20210101/1459010.md" target="_blank">12港人案判刑 蓬佩奥批中共脆弱独裁</a></li>
 <li><a href="/comments/20210101/1459009.md" target="_blank">2020：参与反送中运动被定罪儿童的统计</a></li>
-<li><a href="/comments/20210101/1459006.md" target="_blank">“这是考验人们灵魂的时刻！“川普难！其实华盛顿也非常之难</a></li>
-<li><a href="/comments/20210101/1459005.md" target="_blank">【微博精粹】新年金句</a></li>
-<li><a href="/comments/20210101/1458973.md" target="_blank">川普新年讲话：2020美国人民创造了历史</a></li>
-<li><a href="/comments/20210101/1458939.md" target="_blank">新年伊始话元旦 传承习俗重内涵</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
