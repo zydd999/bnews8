@@ -20,12 +20,12 @@
 <li><a href="/weiquan/20210101/1459266.md">三十八军退伍老军人高宏毅&#8220;元旦&#8221;怒问&#65306;谁截留了习王承诺我的小康</a></li>
 <li><a href="/topimagenews/20210101/1459077.md">碰了一鼻子灰！麦康纳尔想给霍利参议员施压 结果尴尬了【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210101/1459196.md">撕破脸？华为突然全面下架腾讯游戏</a></li>
+<li><a href="/topimagenews/20210102/1459331.md">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
 <li><a href="/cbnews/20210101/1459195.md">习近平贺词数“成就” 外界质疑</a></li>
 <li><a href="/funmedia/20210101/1458838.md">你可能不知道: 富士山不是日本的 每年日本需要交天价租金</a></li>
 <li><a href="/comments/20210101/1459127.md">日本曝光“六四”机密文件 遭中共蒙骗30年</a></li>
-<li><a href="/bannedvideo/20210101/1458872.md">班农解读川普总统在2020年的最后一天突然提前回到华盛顿白宫（12/31）</a></li>
-<li><a href="/topimagenews/20210102/1459331.md">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
 <li><a href="/cbnews/20210101/1458717.md">川普发动了史无前例的信息超限战</a></li>
+<li><a href="/bannedvideo/20210101/1458872.md">班农解读川普总统在2020年的最后一天突然提前回到华盛顿白宫（12/31）</a></li>
 <li><a href="/cnnews/20210101/1458794.md">惊呆：华人女子在COSTCO买到假IPHONE12？</a></li>
 <li><a href="/comments/20210101/1458783.md">2020中国十大丑陋建筑出炉！网友一看真的傻眼了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210102/1459390.md" target="_blank">受非裔爱戴 川普当选《非洲世界》年度人物</a></li>
+<li><a href="/comments/20210102/1459389.md" target="_blank">2021年健康身体行动表，请笑纳</a></li>
+<li><a href="/comments/20210102/1459388.md" target="_blank">手套，围巾小心变成病菌温床</a></li>
+<li><a href="/comments/20210102/1459387.md" target="_blank">中共病毒（武汉肺炎）这2个变异株 恐爆下波流行</a></li>
+<li><a href="/comments/20210102/1459385.md" target="_blank">评论 | 胡平：中国脱贫率世界第一是因为中国造贫率世界第一 ——写在辞旧迎新之际</a></li>
 <li><a href="/comments/20210102/1459375.md" target="_blank">政法系统年终大洗牌 北京市政法委书记换人女官接任 重庆最高法院院长换人女院长重返最高法院 薄熙来案主审法官王旭光一路升官 接掌习近平老家陕西省检察院 安徽政法委书记换人前政法委副书记传被抓</a></li>
 <li><a href="/comments/20210102/1459372.md" target="_blank">川普新年送礼：延长移民禁令 保护美国劳工</a></li>
 <li><a href="/comments/20210102/1459368.md" target="_blank">CDC预测：未来3周美国或有8万人死于中共病毒</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210102/1459302.md" target="_blank">参院共和党大佬拟施压霍利 主角缺席场面尴尬</a></li>
 <li><a href="/comments/20210102/1459301.md" target="_blank">全球精英拟“大重构” 中共操纵欲称霸世界</a></li>
 <li><a href="/comments/20210102/1459287.md" target="_blank">林郑拍片谈保育功绩 不提皇后码头重建 称将保留主教山配水库</a></li>
-<li><a href="/comments/20210102/1459286.md" target="_blank">【黎智英再还柙】汤家骅：国安法被告须自证不再犯法 才有望保释 不影响无罪推定</a></li>
-<li><a href="/comments/20210101/1459281.md" target="_blank">元旦CP!《爱的迫降》玄彬孙艺珍终认爱</a></li>
-<li><a href="/comments/20210101/1459102.md" target="_blank">俄国少女癌症复发5次 修炼法轮功奇迹康复</a></li>
-<li><a href="/comments/20210101/1459239.md" target="_blank">乱流下平安不易 活在残破香港必须警惕的十件事</a></li>
-<li><a href="/comments/20210101/1459238.md" target="_blank">刑事检控专员发表年报 指检控决定被不同立场人士质疑 指控拖延检控“毫无根据”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 
 </ul>
 </div>
