@@ -7,11 +7,11 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210101/1458833.md">邓小平政治遗嘱录音传达到政治局委员一级和军队大军区正职一级 遗嘱最关键内容曝光 两高官劝江泽民发动台海战争从而继续掌握党军最高权力 被胡锦涛法办 中南海不可告人的秘密_289</a></li>
 <li><a href="/cnnews/20210101/1458816.md">亚丁机场大爆炸：差一步成功内阁集体斩首？</a></li>
-<li><a href="/cbnews/20210101/1458787.md">王岐山现身 茶话会历年常委有一变化</a></li>
 <li><a href="/comments/20210101/1458771.md">《推背图》预言：中国未来天子</a></li>
+<li><a href="/cbnews/20210101/1458787.md">王岐山现身 茶话会历年常委有一变化</a></li>
+<li><a href="/cbnews/20210101/1459229.md">新年首日就反了？官媒公然刊习近平黑框“遗照”</a></li>
 <li><a href="/bblog/20210101/1457799.md">毛泽东下套谋杀了林彪</a></li>
 <li><a href="/comments/20210101/1458718.md">打脸！跨年川建国竟然又赢了？8000万票“当选总统”乔拜登表示很无奈…</a></li>
-<li><a href="/cbnews/20210101/1459229.md">新年首日就反了？官媒公然刊习近平黑框“遗照”</a></li>
 <li><a href="/cbnews/20210101/1459212.md">陈破空：习近平录像讲话，处处露馅！习弟有危险。拒见林郑有玄机。新年最强问候语</a></li>
 <li><a href="/topimagenews/20210101/1459089.md">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
 <li><a href="/cbnews/20210101/1459156.md">恐怖！中共西藏军区给士兵配备自杀和军官遥控灭口装置</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/cbnews/20210101/1459196.md">撕破脸？华为突然全面下架腾讯游戏</a></li>
 <li><a href="/funmedia/20210101/1458838.md">你可能不知道: 富士山不是日本的 每年日本需要交天价租金</a></li>
 <li><a href="/comments/20210101/1459127.md">日本曝光“六四”机密文件 遭中共蒙骗30年</a></li>
+<li><a href="/cbnews/20210101/1459195.md">习近平贺词数“成就” 外界质疑</a></li>
 <li><a href="/cnnews/20210101/1458794.md">惊呆：华人女子在COSTCO买到假IPHONE12？</a></li>
 <li><a href="/cbnews/20210101/1458717.md">川普发动了史无前例的信息超限战</a></li>
 <li><a href="/bannedvideo/20210101/1458872.md">班农解读川普总统在2020年的最后一天突然提前回到华盛顿白宫（12/31）</a></li>
-<li><a href="/funmedia/20210101/1458901.md">你把子孙的便宜占尽了，子孙就挣不来钱，子女就倒霉了，因小果大</a></li>
-<li><a href="/cbnews/20210101/1459195.md">习近平贺词数“成就” 外界质疑</a></li>
+<li><a href="/comments/20210101/1458783.md">2020中国十大丑陋建筑出炉！网友一看真的傻眼了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210102/1459345.md" target="_blank">陈破空：秦始皇的是非功过，遗祸中国两千年！世界至今不得安宁</a></li>
 <li><a href="/cbnews/20210102/1459340.md" target="_blank">霍利回击麦康纳尔 140名议员将挑战选举结果；纽交所给中移动等700多上市公司敲丧钟；川普签法案 国防部180天揭UFO讯息；麦康奈尔佩洛西密谋1月6日？彭斯回应起诉：参众两院应是被告【希望之声TV】</a></li>
 <li><a href="/cbnews/20210101/1459231.md" target="_blank">“旅行”加“晚宴” 西媒如何被中共收买</a></li>
 <li><a href="/cbnews/20210101/1459229.md" target="_blank">新年首日就反了？官媒公然刊习近平黑框“遗照”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210101/1458931.md" target="_blank">离婚都抢不着号了！！！离婚冷静期实施倒计时 长沙民众排队离婚</a></li>
 <li><a href="/cbnews/20210101/1458917.md" target="_blank">李翘楚持续遭迫害 其父愤而宣布受骗所写保证作废</a></li>
 <li><a href="/cbnews/20210101/1458782.md" target="_blank">曾节明: 中国社会民主党2021年元旦致词</a></li>
-<li><a href="/cbnews/20210101/1458766.md" target="_blank">多少大陆医院涉嫌活摘人体器官（2）</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210102/1459352.md" target="_blank">纽交所将启动三家中国电信企业的退市程序</a></li>
 <li><a href="/comments/20210102/1459343.md" target="_blank">甘肃第一巨贪雷志强贪92亿元震惊中南海 省委书记被供出落马 雷志强被判死缓终身监禁不得减刑假释 其豪宅如赖昌星“红楼” 雷志强儿子一个电话就可以让银行一次性拿出4个亿 就像他自己开的银行一样 中南海不可告人的秘密_290</a></li>
 <li><a href="/comments/20210102/1459341.md" target="_blank">避敏感问题 拜登远程发布会设置记者禁聊</a></li>
 <li><a href="/comments/20210102/1459337.md" target="_blank">【2020经济盘点之五】中国楼市：从史诗级泡沫到最大灰犀牛</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210101/1459210.md" target="_blank">网传中国前首富黄光裕获释后露面 与友人合照</a></li>
 <li><a href="/comments/20210101/1459209.md" target="_blank">广西维权人士韦亚妮被捕 疑与11.12广州大抓捕有关</a></li>
 <li><a href="/comments/20210101/1459208.md" target="_blank">事实告诉我们：惜命最好的方式不是养生，而居然是这个</a></li>
-<li><a href="/comments/20210101/1459199.md" target="_blank">纽约吉时羽：Q与川普和美国军方关系密切的佐证</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200518/1330564.md" target="_blank">【庆祝513】非裔学员：修炼法轮功带来人生转机</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
 
 </ul>
 </div>
