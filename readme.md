@@ -10,23 +10,23 @@
 <li><a href="/cbnews/20210101/1459212.md">陈破空：习近平录像讲话，处处露馅！习弟有危险。拒见林郑有玄机。新年最强问候语</a></li>
 <li><a href="/topimagenews/20210101/1459089.md">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
 <li><a href="/topimagenews/20210102/1459331.md">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
-<li><a href="/cbnews/20210101/1459043.md">新年有⼤事发⽣？川普说已经签署！主流媒体黑名单出炉！看看都有谁被中共收买？迎接2021各国跨年烟火秀线上看</a></li>
 <li><a href="/cbnews/20210101/1459156.md">恐怖！中共西藏军区给士兵配备自杀和军官遥控灭口装置</a></li>
-<li><a href="/topimagenews/20210101/1458930.md">德国多米尼服务器再起波澜 新的说法出现</a></li>
-<li><a href="/weiquan/20210101/1459266.md">三十八军退伍老军人高宏毅&#8220;元旦&#8221;怒问&#65306;谁截留了习王承诺我的小康</a></li>
+<li><a href="/cbnews/20210101/1459043.md">新年有⼤事发⽣？川普说已经签署！主流媒体黑名单出炉！看看都有谁被中共收买？迎接2021各国跨年烟火秀线上看</a></li>
 <li><a href="/ssgc/20210102/1459406.md">〖兲朝浮世绘〗马云跑了？持有圣基茨护照</a></li>
+<li><a href="/weiquan/20210101/1459266.md">三十八军退伍老军人高宏毅&#8220;元旦&#8221;怒问&#65306;谁截留了习王承诺我的小康</a></li>
 <li><a href="/topimagenews/20210101/1459077.md">碰了一鼻子灰！麦康纳尔想给霍利参议员施压 结果尴尬了【阿波罗网编译】</a></li>
 <li><a href="/comments/20210101/1459127.md">日本曝光“六四”机密文件 遭中共蒙骗30年</a></li>
 <li><a href="/cbnews/20210101/1459196.md">撕破脸？华为突然全面下架腾讯游戏</a></li>
 <li><a href="/comments/20210102/1459343.md">甘肃第一巨贪雷志强贪92亿元震惊中南海 省委书记被供出落马 雷志强被判死缓终身监禁不得减刑假释 其豪宅如赖昌星“红楼” 雷志强儿子一个电话就可以让银行一次性拿出4个亿 就像他自己开的银行一样 中南海不可告人的秘密_290</a></li>
 <li><a href="/comments/20210102/1459401.md">必须注意！闫丽梦对西方的警告：中共使用COVID19作为统治世界的生物武器</a></li>
-<li><a href="/cbnews/20210101/1459195.md">习近平贺词数“成就” 外界质疑</a></li>
 <li><a href="/comments/20210102/1459455.md">毛新宇预言中共2021年灭亡</a></li>
+<li><a href="/cbnews/20210101/1459195.md">习近平贺词数“成就” 外界质疑</a></li>
+<li><a href="/ssgc/20210102/1459318.md">马云能躲过中共这一劫吗？</a></li>
 <li><a href="/cbnews/20210101/1459107.md">“吹哨”周年 艾芬医生右眼失明 仍遭打压</a></li>
 <li><a href="/cnnews/20210101/1459048.md">习近平梦碎？中共逾百院士离世 岁末再失一人</a></li>
-<li><a href="/ssgc/20210102/1459318.md">马云能躲过中共这一劫吗？</a></li>
 <li><a href="/cbnews/20210101/1458962.md">“内蒙呼格冤案”制造者之一刘旭自缢身亡</a></li>
 <li><a href="/comments/20210101/1459057.md">专家爆惊人内幕：接种疫苗，你有更大的可能会死于病毒</a></li>
+<li><a href="/bannedvideo/20210101/1459016.md">赵立坚计划投胎；胡锡进反习近平？刘鹤泄密，蓬佩奥怼中共迫害张展！傅聪逃共一生终丢命</a></li>
 <li><a href="/comments/20210101/1459179.md">彭斯团队回应起诉：参众两院才应是被告</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -53,6 +53,7 @@
 <li><a href="/cbnews/20210102/1459357.md" target="_blank">煤改气版“可可托海牧羊人”在新年第一天火了</a></li>
 <li><a href="/cbnews/20210102/1459345.md" target="_blank">陈破空：秦始皇的是非功过，遗祸中国两千年！世界至今不得安宁</a></li>
 <li><a href="/cbnews/20210102/1459340.md" target="_blank">霍利回击麦康纳尔 140名议员将挑战选举结果；纽交所给中移动等700多上市公司敲丧钟；川普签法案 国防部180天揭UFO讯息；麦康奈尔佩洛西密谋1月6日？彭斯回应起诉：参众两院应是被告【希望之声TV】</a></li>
+<li><a href="/comments/20210101/1459057.md" target="_blank">专家爆惊人内幕：接种疫苗，你有更大的可能会死于病毒</a></li>
 <li><a href="/comments/20210101/1459199.md" target="_blank">纽约吉时羽：Q与川普和美国军方关系密切的佐证</a></li>
 <li><a href="/cbnews/20210101/1459231.md" target="_blank">“旅行”加“晚宴” 西媒如何被中共收买</a></li>
 <li><a href="/cbnews/20210101/1459229.md" target="_blank">新年首日就反了？官媒公然刊习近平黑框“遗照”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210101/1459212.md" target="_blank">陈破空：习近平录像讲话，处处露馅！习弟有危险。拒见林郑有玄机。新年最强问候语</a></li>
 <li><a href="/cbnews/20210101/1459196.md" target="_blank">撕破脸？华为突然全面下架腾讯游戏</a></li>
 <li><a href="/cbnews/20210101/1459195.md" target="_blank">习近平贺词数“成就” 外界质疑</a></li>
-<li><a href="/cbnews/20210101/1459156.md" target="_blank">恐怖！中共西藏军区给士兵配备自杀和军官遥控灭口装置</a></li>
 
 </ul>
 </div>
@@ -69,6 +69,7 @@
 <ul>
 <li><a href="/topimagenews/20210102/1459467.md" target="_blank">中国经济面临高债务、失业和消费疲软三大问题</a></li>
 <li><a href="/topimagenews/20210102/1459331.md" target="_blank">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
+<li><a href="/comments/20210101/1459057.md" target="_blank">专家爆惊人内幕：接种疫苗，你有更大的可能会死于病毒</a></li>
 <li><a href="/topimagenews/20210101/1459258.md" target="_blank">奥巴马政治领路人是共产主义者 毕生目标是毁灭美国|怕提问 拜登视频会禁1功能</a></li>
 <li><a href="/topimagenews/20210101/1459119.md" target="_blank">麦康奈尔：直接发2千美元是富人的社会主义</a></li>
 <li><a href="/topimagenews/20210101/1459089.md" target="_blank">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20201231/1458104.md" target="_blank">提诉彭斯？亚利桑那共和党主席道出玄机 宾州联邦检察官辞职 曾调查废弃邮寄选票案</a></li>
 <li><a href="/topimagenews/20201230/1457911.md" target="_blank">麦康奈尔 挑战川普 爱国者响应召唤 “为川普游行”加州启程 1月6日聚DC</a></li>
 <li><a href="/topimagenews/20201230/1457793.md" target="_blank">内部消息：“疫情非常非常严重！”中国首次发现本土中共病毒变异病例！图</a></li>
-<li><a href="/topimagenews/20201230/1457783.md" target="_blank">惊人录音曝光：川普在加州都赢了！拜登的假选票用飞机运来&#8230;</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210102/1459535.md" target="_blank">费良勇：别了 悲伤的2020年</a></li>
+<li><a href="/comments/20210102/1459533.md" target="_blank">前线义务急救员 — 穿着反光背心的那丝希望</a></li>
 <li><a href="/comments/20210102/1459516.md" target="_blank">2020 千言万语堵在心头</a></li>
 <li><a href="/comments/20210102/1459513.md" target="_blank">美众议员：彭斯有权选“觉得合适”的选举人票</a></li>
 <li><a href="/comments/20210102/1459512.md" target="_blank">缺少维他命D真的会让你处于死于疫情的高风险中？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210102/1459390.md" target="_blank">受非裔爱戴 川普当选《非洲世界》年度人物</a></li>
 <li><a href="/comments/20210102/1459389.md" target="_blank">2021年健康身体行动表，请笑纳</a></li>
 <li><a href="/comments/20210102/1459388.md" target="_blank">手套，围巾小心变成病菌温床</a></li>
-<li><a href="/comments/20210102/1459387.md" target="_blank">中共病毒（武汉肺炎）这2个变异株 恐爆下波流行</a></li>
-<li><a href="/comments/20210102/1459385.md" target="_blank">评论 | 胡平：中国脱贫率世界第一是因为中国造贫率世界第一 ——写在辞旧迎新之际</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 
 </ul>
 </div>
