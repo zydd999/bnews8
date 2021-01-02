@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210101/1459229.md">新年首日就反了？官媒公然刊习近平黑框“遗照”</a></li>
 <li><a href="/bblog/20210101/1457799.md">毛泽东下套谋杀了林彪</a></li>
-<li><a href="/comments/20210101/1458718.md">打脸！跨年川建国竟然又赢了？8000万票“当选总统”乔拜登表示很无奈…</a></li>
 <li><a href="/cbnews/20210101/1459212.md">陈破空：习近平录像讲话，处处露馅！习弟有危险。拒见林郑有玄机。新年最强问候语</a></li>
 <li><a href="/topimagenews/20210101/1459089.md">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
 <li><a href="/cbnews/20210101/1459043.md">新年有⼤事发⽣？川普说已经签署！主流媒体黑名单出炉！看看都有谁被中共收买？迎接2021各国跨年烟火秀线上看</a></li>
-<li><a href="/cbnews/20210101/1459156.md">恐怖！中共西藏军区给士兵配备自杀和军官遥控灭口装置</a></li>
 <li><a href="/topimagenews/20210102/1459331.md">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
+<li><a href="/cbnews/20210101/1459156.md">恐怖！中共西藏军区给士兵配备自杀和军官遥控灭口装置</a></li>
 <li><a href="/topimagenews/20210101/1458930.md">德国多米尼服务器再起波澜 新的说法出现</a></li>
 <li><a href="/weiquan/20210101/1459266.md">三十八军退伍老军人高宏毅&#8220;元旦&#8221;怒问&#65306;谁截留了习王承诺我的小康</a></li>
 <li><a href="/topimagenews/20210101/1459077.md">碰了一鼻子灰！麦康纳尔想给霍利参议员施压 结果尴尬了【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210101/1459196.md">撕破脸？华为突然全面下架腾讯游戏</a></li>
 <li><a href="/comments/20210101/1459127.md">日本曝光“六四”机密文件 遭中共蒙骗30年</a></li>
+<li><a href="/ssgc/20210102/1459406.md">〖兲朝浮世绘〗马云跑了？持有圣基茨护照</a></li>
 <li><a href="/cbnews/20210101/1459195.md">习近平贺词数“成就” 外界质疑</a></li>
-<li><a href="/cbnews/20210101/1458717.md">川普发动了史无前例的信息超限战</a></li>
+<li><a href="/comments/20210102/1459343.md">甘肃第一巨贪雷志强贪92亿元震惊中南海 省委书记被供出落马 雷志强被判死缓终身监禁不得减刑假释 其豪宅如赖昌星“红楼” 雷志强儿子一个电话就可以让银行一次性拿出4个亿 就像他自己开的银行一样 中南海不可告人的秘密_290</a></li>
 <li><a href="/funmedia/20210101/1458901.md">你把子孙的便宜占尽了，子孙就挣不来钱，子女就倒霉了，因小果大</a></li>
 <li><a href="/cbnews/20210101/1459107.md">“吹哨”周年 艾芬医生右眼失明 仍遭打压</a></li>
-<li><a href="/ssgc/20210102/1459406.md">〖兲朝浮世绘〗马云跑了？持有圣基茨护照</a></li>
 <li><a href="/cnnews/20210101/1459048.md">习近平梦碎？中共逾百院士离世 岁末再失一人</a></li>
 <li><a href="/cbnews/20210101/1458962.md">“内蒙呼格冤案”制造者之一刘旭自缢身亡</a></li>
-<li><a href="/comments/20210102/1459343.md">甘肃第一巨贪雷志强贪92亿元震惊中南海 省委书记被供出落马 雷志强被判死缓终身监禁不得减刑假释 其豪宅如赖昌星“红楼” 雷志强儿子一个电话就可以让银行一次性拿出4个亿 就像他自己开的银行一样 中南海不可告人的秘密_290</a></li>
 <li><a href="/comments/20210101/1459179.md">彭斯团队回应起诉：参众两院才应是被告</a></li>
 <li><a href="/comments/20210101/1459057.md">专家爆惊人内幕：接种疫苗，你有更大的可能会死于病毒</a></li>
+<li><a href="/ssgc/20210102/1459318.md">马云能躲过中共这一劫吗？</a></li>
+<li><a href="/topimagenews/20210101/1459119.md">麦康奈尔：直接发2千美元是富人的社会主义</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210102/1459478.md" target="_blank">61国法轮功信仰者发贺信问候法轮功创始人李洪志先生新年好</a></li>
 <li><a href="/cbnews/20210102/1459444.md" target="_blank">83名议员要求 国会山携枪；拜登抱怨过渡遇阻？白宫预算办反驳；发明家爆出乔州派卡车拉走并销毁证据？；川普在出招！决定延长移民禁令【希望之声TV】</a></li>
 <li><a href="/cbnews/20210102/1459425.md" target="_blank">陈破空：直播预告：麦康奈尔全力反川！彭斯遭深层压制。乔州某党候选人通共？陈破空与网友互动Q&amp;A 美东时间1月1日周五晚8点、即中港台时间1月2日周六早9点</a></li>
 <li><a href="/cbnews/20210102/1459417.md" target="_blank">智库民调：68%英国人过去3年对中共印象恶化</a></li>
@@ -47,6 +48,7 @@
 <li><a href="/cbnews/20210102/1459357.md" target="_blank">煤改气版“可可托海牧羊人”在新年第一天火了</a></li>
 <li><a href="/cbnews/20210102/1459345.md" target="_blank">陈破空：秦始皇的是非功过，遗祸中国两千年！世界至今不得安宁</a></li>
 <li><a href="/cbnews/20210102/1459340.md" target="_blank">霍利回击麦康纳尔 140名议员将挑战选举结果；纽交所给中移动等700多上市公司敲丧钟；川普签法案 国防部180天揭UFO讯息；麦康奈尔佩洛西密谋1月6日？彭斯回应起诉：参众两院应是被告【希望之声TV】</a></li>
+<li><a href="/comments/20210101/1459199.md" target="_blank">纽约吉时羽：Q与川普和美国军方关系密切的佐证</a></li>
 <li><a href="/cbnews/20210101/1459231.md" target="_blank">“旅行”加“晚宴” 西媒如何被中共收买</a></li>
 <li><a href="/cbnews/20210101/1459229.md" target="_blank">新年首日就反了？官媒公然刊习近平黑框“遗照”</a></li>
 <li><a href="/cbnews/20210101/1459226.md" target="_blank">谁拿走了法兰克福投票机服务器？川普新年前夕讲话：美国人民创造了历史！中国出现首例英国变种病毒；10港人被判刑 蓬佩奥发声明谴责【希望之声TV】</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20210101/1459090.md" target="_blank">昆山苹果工厂拖欠工资 逾千工人到市政府游行示威</a></li>
 <li><a href="/cbnews/20210101/1459078.md" target="_blank">因65元农业税 重庆男被抄家上电视蒙冤25年</a></li>
 <li><a href="/cbnews/20210101/1459063.md" target="_blank">中国首例英国变种病毒确诊 大陆媒体鲜少报道</a></li>
-<li><a href="/cbnews/20210101/1459047.md" target="_blank">中共病毒疫情远没有结束 武汉跨年夜人挤人</a></li>
-<li><a href="/cbnews/20210101/1459043.md" target="_blank">新年有⼤事发⽣？川普说已经签署！主流媒体黑名单出炉！看看都有谁被中共收买？迎接2021各国跨年烟火秀线上看</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210102/1459467.md" target="_blank">中国经济面临高债务、失业和消费疲软三大问题</a></li>
 <li><a href="/topimagenews/20210102/1459331.md" target="_blank">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
 <li><a href="/topimagenews/20210101/1459258.md" target="_blank">奥巴马政治领路人是共产主义者 毕生目标是毁灭美国|怕提问 拜登视频会禁1功能</a></li>
 <li><a href="/topimagenews/20210101/1459119.md" target="_blank">麦康奈尔：直接发2千美元是富人的社会主义</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20201230/1457911.md" target="_blank">麦康奈尔 挑战川普 爱国者响应召唤 “为川普游行”加州启程 1月6日聚DC</a></li>
 <li><a href="/topimagenews/20201230/1457793.md" target="_blank">内部消息：“疫情非常非常严重！”中国首次发现本土中共病毒变异病例！图</a></li>
 <li><a href="/topimagenews/20201230/1457783.md" target="_blank">惊人录音曝光：川普在加州都赢了！拜登的假选票用飞机运来&#8230;</a></li>
-<li><a href="/topimagenews/20201230/1457573.md" target="_blank">拜登白等？美民主党高层威胁未遂 乌克兰议员突曝拜登猛料 【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210102/1459477.md" target="_blank">佛罗里达州发现首个变种中共病毒患者</a></li>
 <li><a href="/comments/20210102/1459459.md" target="_blank">【采访】疫情或失控 黑河市封城后新年发紧急通告</a></li>
 <li><a href="/comments/20210102/1459455.md" target="_blank">毛新宇预言中共2021年灭亡</a></li>
 <li><a href="/comments/20210102/1459446.md" target="_blank">由傅聪辞世想到另一个名字带聪的人</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210102/1459352.md" target="_blank">纽交所将启动三家中国电信企业的退市程序</a></li>
 <li><a href="/comments/20210102/1459343.md" target="_blank">甘肃第一巨贪雷志强贪92亿元震惊中南海 省委书记被供出落马 雷志强被判死缓终身监禁不得减刑假释 其豪宅如赖昌星“红楼” 雷志强儿子一个电话就可以让银行一次性拿出4个亿 就像他自己开的银行一样 中南海不可告人的秘密_290</a></li>
 <li><a href="/comments/20210102/1459341.md" target="_blank">避敏感问题 拜登远程发布会设置记者禁聊</a></li>
-<li><a href="/comments/20210102/1459337.md" target="_blank">【2020经济盘点之五】中国楼市：从史诗级泡沫到最大灰犀牛</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
