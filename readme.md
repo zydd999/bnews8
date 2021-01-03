@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/renquan/20210102/1459554.md">孙治军被批准逮捕</a></li>
 <li><a href="/topimagenews/20210102/1459542.md">俞元：川普还有几分胜算？</a></li>
-<li><a href="/topimagenews/20210102/1459836.md">出大事！众议院民主党提案修法 内容不得了</a></li>
 <li><a href="/cnnews/20210102/1459582.md">中共军队奇葩装备被骂翻！完全没有人性了</a></li>
+<li><a href="/topimagenews/20210102/1459836.md">出大事！众议院民主党提案修法 内容不得了</a></li>
 <li><a href="/cbnews/20210102/1459657.md">伊朗暗X行动？川普提前赶回白宫；CIA换黑白标志，暗含玄机；乔州听证会，更多实证曝光，涉中国惠州；爱泼斯坦没S？小肯尼迪没S？</a></li>
 <li><a href="/cbnews/20210102/1459815.md">川普：1月6日将公布大量证据；麦康奈尔：1月6日将是我投下的最重要的票；担忧美国前景 情报社区调查大选问题！日媒：至少44名日本学者参与中共“千人计划”【希望之声TV】</a></li>
-<li><a href="/topimagenews/20210102/1459563.md">川普：1月6日将公布大量选举欺诈证据 我们已经赢得大选 大胜</a></li>
 <li><a href="/topimagenews/20210102/1459775.md">美媒：1月6日 如有足够多参议员挑战 川普就会胜|拜登支持修法令传播艾滋病毒不再算违法</a></li>
+<li><a href="/topimagenews/20210102/1459563.md">川普：1月6日将公布大量选举欺诈证据 我们已经赢得大选 大胜</a></li>
 <li><a href="/comments/20210102/1459688.md">【要闻集粹】马云跑掉了吗？贪婪要承担后果</a></li>
-<li><a href="/topimagenews/20210102/1459641.md">“逮捕布朗！”民众聚集俄勒冈州州长家门外抗议【阿波罗网编译】</a></li>
 <li><a href="/comments/20210102/1459547.md">比尔盖词: 朱军为什么老爱揉董卿的手？</a></li>
+<li><a href="/topimagenews/20210102/1459641.md">“逮捕布朗！”民众聚集俄勒冈州州长家门外抗议【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210102/1459699.md">房子住久了发现 这6件家具根本不实用 白白浪费钱又占地方</a></li>
+<li><a href="/ssgc/20210103/1459950.md">〖兲朝浮世绘〗现在可以毫不怀疑地说，川普的下一任美国总统，赢定了</a></li>
+<li><a href="/headline/20210103/1459889.md">北京秘密调查新冠起源 美联社：习近平直接负责</a></li>
 <li><a href="/comments/20210102/1459744.md">解局：习升上将异常 北京卫戍区不稳 武警高层换一半</a></li>
 <li><a href="/baitai/20210102/1459799.md">武汉日记饱受围剿方方跨年发文：极左祸国殃民</a></li>
-<li><a href="/headline/20210103/1459889.md">北京秘密调查新冠起源 美联社：习近平直接负责</a></li>
+<li><a href="/cbnews/20210103/1459989.md">长春女教师补课期间出轨学生家长 宾馆开房被当场捉住</a></li>
 <li><a href="/cbnews/20210102/1459649.md">习近平被黑？官媒新年发“遗像”！反人类？共军配备自毁和遥控灭口装置！乔州决选安全吗？史上最大8千人监票！</a></li>
-<li><a href="/ssgc/20210103/1459950.md">〖兲朝浮世绘〗现在可以毫不怀疑地说，川普的下一任美国总统，赢定了</a></li>
-<li><a href="/cnnews/20210102/1459511.md">年终奖金只有8元！ 四川高校教授寒风中拉横幅「讨薪」</a></li>
 <li><a href="/cnnews/20210102/1459732.md">坏消息！变种新冠病毒在各个年龄层迅速传播</a></li>
 <li><a href="/cbnews/20210102/1459562.md">天亮时分：彭斯辞职？一月六日DC见！140名共和党议员挑战选举结果？香港“青关会”解散（政论天下第318集 20210101）</a></li>
 <li><a href="/cbnews/20210102/1459643.md">周永康曾亲自批示，要求将黄光裕案办为铁案</a></li>
 <li><a href="/comments/20210102/1459745.md">美国新闻专业大学生冒零分风险报道川普 意外得高分</a></li>
-<li><a href="/cbnews/20210103/1459989.md">长春女教师补课期间出轨学生家长 宾馆开房被当场捉住</a></li>
+<li><a href="/cnnews/20210102/1459583.md">神秘的Q难道是小肯尼迪？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210103/1460029.md" target="_blank">习近平干预小国共产党被怼| 港中共打手组织突然解散| 蓬佩奥宣布与共产政权长期斗争|</a></li>
 <li><a href="/topimagenews/20210103/1459945.md" target="_blank">鲍威尔大律师号召爱国者行动 拜登提名女财长获华尔街700万美元演讲费</a></li>
 <li><a href="/topimagenews/20210103/1459936.md" target="_blank">7名参议员4名当选参议员发布联合声明 呼唤10天紧急审核</a></li>
 <li><a href="/topimagenews/20210103/1459895.md" target="_blank">曝美国两党之外的统一党 感知1月6日啥光景</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210101/1458808.md" target="_blank">上海不疯跨年夜倒数 疫情下青年挣扎拚就业</a></li>
 <li><a href="/topimagenews/20210101/1458750.md" target="_blank">众议员曝：麦克奈尔佩罗西密谋1月6日 阻止挑战认证拜登</a></li>
 <li><a href="/topimagenews/20210101/1458715.md" target="_blank">司法部顾问报告惊爆 六摇摆州多出26.8万张选票 川普这1项就赢乔州【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20201231/1458656.md" target="_blank">拜登泄密深层政府计划？故意的？打脸左媒 彭斯出访早取消</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
