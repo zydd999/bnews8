@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/renquan/20210102/1459554.md">孙治军被批准逮捕</a></li>
 <li><a href="/cnnews/20210102/1459582.md">中共军队奇葩装备被骂翻！完全没有人性了</a></li>
 <li><a href="/topimagenews/20210102/1459836.md">出大事！众议院民主党提案修法 内容不得了</a></li>
 <li><a href="/cbnews/20210102/1459657.md">伊朗暗X行动？川普提前赶回白宫；CIA换黑白标志，暗含玄机；乔州听证会，更多实证曝光，涉中国惠州；爱泼斯坦没S？小肯尼迪没S？</a></li>
 <li><a href="/cbnews/20210102/1459815.md">川普：1月6日将公布大量证据；麦康奈尔：1月6日将是我投下的最重要的票；担忧美国前景 情报社区调查大选问题！日媒：至少44名日本学者参与中共“千人计划”【希望之声TV】</a></li>
-<li><a href="/topimagenews/20210102/1459775.md">美媒：1月6日 如有足够多参议员挑战 川普就会胜|拜登支持修法令传播艾滋病毒不再算违法</a></li>
-<li><a href="/comments/20210102/1459688.md">【要闻集粹】马云跑掉了吗？贪婪要承担后果</a></li>
-<li><a href="/topimagenews/20210102/1459563.md">川普：1月6日将公布大量选举欺诈证据 我们已经赢得大选 大胜</a></li>
 <li><a href="/ssgc/20210103/1459950.md">〖兲朝浮世绘〗现在可以毫不怀疑地说，川普的下一任美国总统，赢定了</a></li>
-<li><a href="/headline/20210103/1459889.md">北京秘密调查新冠起源 美联社：习近平直接负责</a></li>
+<li><a href="/comments/20210102/1459688.md">【要闻集粹】马云跑掉了吗？贪婪要承担后果</a></li>
+<li><a href="/topimagenews/20210102/1459775.md">美媒：1月6日 如有足够多参议员挑战 川普就会胜|拜登支持修法令传播艾滋病毒不再算违法</a></li>
 <li><a href="/cbnews/20210103/1459989.md">长春女教师补课期间出轨学生家长 宾馆开房被当场捉住</a></li>
+<li><a href="/headline/20210103/1459889.md">北京秘密调查新冠起源 美联社：习近平直接负责</a></li>
 <li><a href="/topimagenews/20210102/1459641.md">“逮捕布朗！”民众聚集俄勒冈州州长家门外抗议【阿波罗网编译】</a></li>
-<li><a href="/lifebaike/20210102/1459699.md">房子住久了发现 这6件家具根本不实用 白白浪费钱又占地方</a></li>
 <li><a href="/finance/20210103/1459961.md">8万股民无眠：暴跌99% 200亿市值灰飞烟灭</a></li>
-<li><a href="/comments/20210102/1459744.md">解局：习升上将异常 北京卫戍区不稳 武警高层换一半</a></li>
+<li><a href="/lifebaike/20210102/1459699.md">房子住久了发现 这6件家具根本不实用 白白浪费钱又占地方</a></li>
 <li><a href="/baitai/20210102/1459799.md">武汉日记饱受围剿方方跨年发文：极左祸国殃民</a></li>
+<li><a href="/comments/20210102/1459744.md">解局：习升上将异常 北京卫戍区不稳 武警高层换一半</a></li>
 <li><a href="/cbnews/20210102/1459649.md">习近平被黑？官媒新年发“遗像”！反人类？共军配备自毁和遥控灭口装置！乔州决选安全吗？史上最大8千人监票！</a></li>
 <li><a href="/cnnews/20210102/1459732.md">坏消息！变种新冠病毒在各个年龄层迅速传播</a></li>
 <li><a href="/cbnews/20210102/1459643.md">周永康曾亲自批示，要求将黄光裕案办为铁案</a></li>
-<li><a href="/cbnews/20210102/1459562.md">天亮时分：彭斯辞职？一月六日DC见！140名共和党议员挑战选举结果？香港“青关会”解散（政论天下第318集 20210101）</a></li>
 <li><a href="/comments/20210102/1459745.md">美国新闻专业大学生冒零分风险报道川普 意外得高分</a></li>
-<li><a href="/cnnews/20210102/1459583.md">神秘的Q难道是小肯尼迪？</a></li>
 <li><a href="/cbnews/20210103/1459892.md">马云突缺席自创的真人秀 已2个月未露面</a></li>
+<li><a href="/cnnews/20210102/1459583.md">神秘的Q难道是小肯尼迪？</a></li>
+<li><a href="/funmedia/20210102/1459743.md">500年前的古画放大后惊现穿越者？</a></li>
+<li><a href="/baitai/20210102/1459788.md">爱立信CEO：若华为禁令不解除 爱立信将离开瑞典</a></li>
+<li><a href="/cnnews/20210102/1459733.md">神祕金属巨柱 跨年夜现踪加拿大多伦多湖岸</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210103/1460130.md" target="_blank">成龙元旦病态现身 借2人力才能走路</a></li>
+<li><a href="/comments/20210103/1460125.md" target="_blank">闫丽梦对西方的警告：中共使用COVID19作为统治世界的生物武器</a></li>
+<li><a href="/comments/20210103/1460124.md" target="_blank">东方：误判习近平</a></li>
+<li><a href="/comments/20210103/1460123.md" target="_blank">林保华：傅聪傅雷之死 防疫防共则生</a></li>
+<li><a href="/comments/20210103/1460122.md" target="_blank">十面埋伏待时而动 五军阵助川普平乱</a></li>
+<li><a href="/comments/20210103/1460121.md" target="_blank">民众的吼声将迎来新年曙光</a></li>
+<li><a href="/comments/20210103/1460117.md" target="_blank">进入战时状态！惊传沈阳居民逃离隔离区 被抓送拘留</a></li>
 <li><a href="/comments/20210103/1460097.md" target="_blank">懂得拒绝 才能活得不纠结</a></li>
 <li><a href="/comments/20210103/1460096.md" target="_blank">中国人权律师团律师2021年新年献辞</a></li>
 <li><a href="/comments/20210103/1460095.md" target="_blank">时事军事：挑起“灰色战争” 中共闯下大祸</a></li>
@@ -114,15 +121,8 @@
 <li><a href="/comments/20210103/1460023.md" target="_blank">25岁大陆女星元旦猝逝 母悲痛:怎么说走就走</a></li>
 <li><a href="/comments/20210103/1460021.md" target="_blank">“别指望彭斯能在1月6日拯救我们”</a></li>
 <li><a href="/comments/20210103/1460020.md" target="_blank">China CCP Global Plan to Enslave the World with AI Interview</a></li>
-<li><a href="/comments/20210103/1460016.md" target="_blank">危急关头 彭斯会走哪条路</a></li>
 <li><a href="/comments/20210103/1459886.md" target="_blank">约240名以色列人在接种疫苗后，被确诊感染了冠状病毒</a></li>
-<li><a href="/comments/20210103/1460005.md" target="_blank">2020年总结，讲讲让我震惊的华二代的疯狂左化</a></li>
-<li><a href="/comments/20210103/1460007.md" target="_blank">2021年元旦 告别苦难 迎接曙光</a></li>
-<li><a href="/comments/20210103/1460006.md" target="_blank">数据科学家作证：乔州1.7万川普票被转给拜登</a></li>
-<li><a href="/comments/20210103/1459994.md" target="_blank">鲍威尔：彭斯应拒绝摇摆州选举人团票</a></li>
-<li><a href="/comments/20210103/1459988.md" target="_blank">以色列逾1成民众打疫苗 接种率世界第一</a></li>
-<li><a href="/comments/20210103/1459967.md" target="_blank">专家：拜登移民政策将再导致美南部边境危机</a></li>
-<li><a href="/comments/20210103/1459966.md" target="_blank">女记者从几近失明到重见光明</a></li>
+<li><a href="/comments/20210103/1460016.md" target="_blank">危急关头 彭斯会走哪条路</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 
 </ul>
 </div>
