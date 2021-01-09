@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210102/1459836.md">出大事！众议院民主党提案修法 内容不得了</a></li>
-<li><a href="/cbnews/20210103/1459989.md">长春女教师补课期间出轨学生家长 宾馆开房被当场捉住</a></li>
-<li><a href="/headline/20210103/1459889.md">北京秘密调查新冠起源 美联社：习近平直接负责</a></li>
-<li><a href="/cbnews/20210102/1459815.md">川普：1月6日将公布大量证据；麦康奈尔：1月6日将是我投下的最重要的票；担忧美国前景 情报社区调查大选问题！日媒：至少44名日本学者参与中共“千人计划”【希望之声TV】</a></li>
-<li><a href="/ssgc/20210103/1459950.md">〖兲朝浮世绘〗现在可以毫不怀疑地说，川普的下一任美国总统，赢定了</a></li>
-<li><a href="/finance/20210103/1459961.md">8万股民无眠：暴跌99% 200亿市值灰飞烟灭</a></li>
-<li><a href="/baitai/20210102/1459799.md">武汉日记饱受围剿方方跨年发文：极左祸国殃民</a></li>
-<li><a href="/cbnews/20210103/1459977.md">沈阳发布1号通知：非必要岗位工作人员不上班、公共场所全部停业</a></li>
-<li><a href="/funmedia/20210103/1460000.md">5位世界“顶级美人” 我国仅上榜2位</a></li>
-<li><a href="/cnnews/20210103/1460102.md">1月6日变数加大 彭斯突发声明支持挑战</a></li>
-<li><a href="/topimagenews/20210103/1460029.md">习近平干预小国共产党被怼| 港中共打手组织突然解散| 蓬佩奥宣布与共产政权长期斗争|</a></li>
-<li><a href="/cnnews/20210103/1460127.md">朱军的“流氓”艺术揉董卿手按金晨臀部还有弦子起诉</a></li>
-<li><a href="/comments/20210103/1459886.md">约240名以色列人在接种疫苗后，被确诊感染了冠状病毒</a></li>
-<li><a href="/comments/20210103/1460023.md">25岁大陆女星元旦猝逝 母悲痛:怎么说走就走</a></li>
-<li><a href="/funmedia/20210103/1459990.md">小学生的零分试题走红 老师看了直发抖 家长看完想呼一巴掌</a></li>
-<li><a href="/cbnews/20210103/1459892.md">马云突缺席自创的真人秀 已2个月未露面</a></li>
-<li><a href="/cbnews/20210103/1459998.md">文昭：突发：克鲁兹与10名参议员声明发起挑战，再现百年奇景；1月6日国会风暴必至；重大意义何在</a></li>
-<li><a href="/cbnews/20210103/1460205.md">刚刚 福建发生地震 网友：在被窝里被震醒</a></li>
-<li><a href="/lifebaike/20210103/1459993.md">新婚第二天 妻子睡到中午才醒 客厅传来吵闹 妻子含泪报警</a></li>
-<li><a href="/topimagenews/20210103/1459945.md">鲍威尔大律师号召爱国者行动 拜登提名女财长获华尔街700万美元演讲费</a></li>
-<li><a href="/comments/20210103/1460130.md">成龙元旦病态现身 借2人力才能走路</a></li>
-<li><a href="/cbnews/20210103/1460218.md">他是谦谦君子，还是深沼大鳄？为什么蓬佩奥的推文里没有他？老布什的葬礼上，他也收到小纸条；真实的彭斯颠覆你的三观？</a></li>
-<li><a href="/bblog/20210103/1459773.md">异象！“血月”挂夜空 2021年灾难预兆？</a></li>
+<li><a href="/topimagenews/20210108/1463408.md">刚刚！川普对全美发表最新讲话 【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210108/1463506.md">零下17度停电停暖 北京人冻到哭</a></li>
+<li><a href="/topimagenews/20210108/1463640.md">风云突变！对进入国会大厦者的搜捕开始了</a></li>
+<li><a href="/comments/20210108/1463476.md">意教授宣誓作证 受指示操纵投票系统窃取川普选票</a></li>
+<li><a href="/comments/20210108/1463806.md">马云恐成第二个薄熙来 中宣部下报导指引密令 规格等同重大政治案报导禁令 马云事件从来不是“钱”的问题 政变疑云浮现 高层内斗由暗斗转为明斗 连装都不用装了 中南海谣言预言_421</a></li>
+<li><a href="/cbnews/20210108/1463591.md">爆中共为拜登竞选总统支招 文件被曝光</a></li>
+<li><a href="/topimagenews/20210108/1463797.md">彭斯在国会冲击案后1句话引发哗然 美国国运逆转 疫情在认证日后要突飞猛进</a></li>
+<li><a href="/cbnews/20210108/1463709.md">陈破空：中南海连开秘密会议。习近平没露面！王沪宁掌大权？美国特殊人物访台</a></li>
+<li><a href="/topimagenews/20210108/1463642.md">中共首都供暖危机民怨升腾 打脸中共 尼共愿从印度获疫苗 中国家电企业“白忙活”</a></li>
+<li><a href="/cbnews/20210108/1463371.md">川普1小时前发表电视讲话（同声传译）</a></li>
+<li><a href="/comments/20210108/1463509.md">中共七常委新年首次开会 党媒报导泄核心隐忧？</a></li>
+<li><a href="/topimagenews/20210109/1463899.md">川普总统在憋大招？美国代理国防部长露端倪；佩洛西弹劾川普 彭斯什么态度？</a></li>
+<li><a href="/comments/20210108/1463418.md">天目所见：接引天使现身带走了国会山受难者</a></li>
+<li><a href="/topimagenews/20210109/1463812.md">反击小布什 蓬佩奥：美国不是香蕉共和国</a></li>
+<li><a href="/topimagenews/20210108/1463454.md">墨西哥总统批Facebook封锁川普帐户 拒斥美国国会暴动</a></li>
+<li><a href="/cbnews/20210109/1463864.md">习近平风水出大事！黄创夏惊曝：「龙兴之地」有状况</a></li>
+<li><a href="/cbnews/20210108/1463409.md">寒流-7度在上海洗澡「水管竟结冻」！赌王最美千金断水冷惨崩溃</a></li>
+<li><a href="/comments/20210108/1463775.md">消息：彭斯拒绝解除川普总统职务</a></li>
+<li><a href="/bannedvideo/20210108/1463624.md">川普总统谴责了国会暴力事件，却未说施暴的是谁；说要确保权力平稳无缝地过渡到新政府，却没说那一个新政府。讲话非常政治正确，对手可以理解成他服软了；但又说“精彩旅程才刚刚开始”，让支持者充满希望</a></li>
+<li><a href="/yule/20210108/1463472.md">62岁山口百惠近照曝光 首度与儿媳妇同框</a></li>
+<li><a href="/cbnews/20210108/1463561.md">三千医护驰援石家庄 "方舱医院2.0 "曝光</a></li>
+<li><a href="/baitai/20210108/1463545.md">美国前议长金里奇：为什么我不接受拜登成为总统？-</a></li>
+<li><a href="/cbnews/20210108/1463500.md">蓬佩奥打台湾牌？美大使下周访台释放啥信号？美国遇难关，中共狂欢！美官员：各州需调查选举违规 重拾大选权力</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,93 +36,93 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/cbnews/20210103/1460301.md" target="_blank">法国“阵风”对阵中共歼20 谁更强</a></li>
-<li><a href="/cbnews/20210103/1460264.md" target="_blank">河北省南宫市发现核酸检测阳性患者 清河县发布紧急公告</a></li>
-<li><a href="/cbnews/20210103/1460261.md" target="_blank">广东从一例英国输入的新冠肺炎确诊病例中发现B.1.1.7突变株</a></li>
-<li><a href="/comments/20210103/1460229.md" target="_blank">忠义道侠传|第一回 道人华山遇帝君 圣王转轮再入尘（2）</a></li>
-<li><a href="/cbnews/20210103/1460241.md" target="_blank">专家惊爆：接种疫苗，你更可能死于病毒</a></li>
-<li><a href="/cbnews/20210103/1460218.md" target="_blank">他是谦谦君子，还是深沼大鳄？为什么蓬佩奥的推文里没有他？老布什的葬礼上，他也收到小纸条；真实的彭斯颠覆你的三观？</a></li>
-<li><a href="/comments/20210103/1449645.md" target="_blank">修炼法轮大法身心受益 台裔女子：原来生命如此珍贵</a></li>
-<li><a href="/cbnews/20210103/1460205.md" target="_blank">刚刚 福建发生地震 网友：在被窝里被震醒</a></li>
-<li><a href="/cbnews/20210103/1460195.md" target="_blank">逆天新规：不能分男女，叫父母子女都违法？拜登提名女财长，700万演讲费被曝光！川普推特治国，四年发超过25000条推⽂【希望之声TV】</a></li>
-<li><a href="/cbnews/20210103/1460139.md" target="_blank">进入战时状态！惊传沈阳居民逃离隔离区被抓送拘留</a></li>
-<li><a href="/cbnews/20210103/1460084.md" target="_blank">天亮时分：突发！克鲁兹等12名参议员将挑战选举人团，彭斯支持；拜登让支持者不要参加他的“就职典礼”；轻易检测伪造选票的方法（政论天下第318集 20210101）</a></li>
-<li><a href="/cbnews/20210103/1460056.md" target="_blank">大陆维权人士：挺川普就是挺自由民主</a></li>
-<li><a href="/cbnews/20210103/1460055.md" target="_blank">为监视访民 中共为黑保安准备移动房</a></li>
-<li><a href="/cbnews/20210103/1460049.md" target="_blank">彭斯：欢迎参众议员6日提反对意见和呈交证据</a></li>
-<li><a href="/cbnews/20210103/1460038.md" target="_blank">媒体：为救华为 爱立信向瑞典政府施压</a></li>
-<li><a href="/cbnews/20210103/1460037.md" target="_blank">东北疫情蔓延 锦州师专封校</a></li>
-<li><a href="/cbnews/20210103/1460036.md" target="_blank">马云突缺席自创的真人秀 已两月未露面</a></li>
-<li><a href="/cbnews/20210103/1460022.md" target="_blank">12参议员挑战选举人团能否奏效？众议院议长明天出炉有何影响？  嘉宾: 方伟  蓝述   主持人:高洁 【希望之声TV】(2021/01/02)</a></li>
-<li><a href="/cbnews/20210103/1459998.md" target="_blank">文昭：突发：克鲁兹与10名参议员声明发起挑战，再现百年奇景；1月6日国会风暴必至；重大意义何在</a></li>
-<li><a href="/cbnews/20210103/1459989.md" target="_blank">长春女教师补课期间出轨学生家长 宾馆开房被当场捉住</a></li>
-<li><a href="/cbnews/20210103/1459977.md" target="_blank">沈阳发布1号通知：非必要岗位工作人员不上班、公共场所全部停业</a></li>
-<li><a href="/cbnews/20210103/1459969.md" target="_blank">超过12名共和党参议员反对选举人认证；专家爆内幕：接种疫苗 更可能死于病毒；法官驳回彭斯案  高法首席大法官将辞职；佩洛西新年夜半报警；2021年第一场流星雨 1月3日大爆发【希望之声TV】</a></li>
-<li><a href="/cbnews/20210103/1459953.md" target="_blank">陈破空：直播预告：打破沉默！12名参议员挺身而出！摇摆州处处惊叹号。彭斯案遭驳回。陈破空与网友互动Q&amp;A 美东时间1月2日周六晚8点、即中港台时间1月3日周日早9点</a></li>
-<li><a href="/cbnews/20210103/1459935.md" target="_blank">克鲁兹等12参议员1月6日将挑战拜登胜选</a></li>
-<li><a href="/cbnews/20210103/1459892.md" target="_blank">马云突缺席自创的真人秀 已2个月未露面</a></li>
+<li><a href="/cbnews/20210109/1464014.md" target="_blank">文昭：「後川」时代美国会分裂吗？「纽时」发「六四社论」，传统派希望全绝？我们要做那些准备</a></li>
+<li><a href="/cbnews/20210109/1463991.md" target="_blank">蓬佩奥连发推直指中共 警告其核武咄咄逼人;因挑战选举人团被取消出书合同 ;霍利起诉出版商;外媒：马云恐成第2个薄熙来 官方严控报导【希望之声TV】</a></li>
+<li><a href="/cbnews/20210109/1463990.md" target="_blank">川爷讲话暗藏玄机，到底谁入了谁的局？！川爷太会演，骗了所有人！“材料”蒐集几近结束，大戏渐入最后高潮！ 【新闻最嘲点 姜光宇】Mr.FunnyNews (2021.01.08）‬</a></li>
+<li><a href="/cbnews/20210109/1463962.md" target="_blank">陈破空：直播预告：罢免总统？佩洛西不依不饶，彭斯断然拒绝！川普表态不出席拜登典礼。情报总监报告迟来有因。陈破空与网友互动 Q&amp;A 美东时间1月8日周五晚8点、即中港台时间1月9日周六早9点</a></li>
+<li><a href="/cbnews/20210109/1463954.md" target="_blank">奇特的取暖方式 骑三轮车一圈一圈的转</a></li>
+<li><a href="/cbnews/20210109/1463945.md" target="_blank">【新闻串烧】索罗斯为何如此仇恨川普？美国大选中索罗斯做了啥？川普拒绝国会新冠纾困法案，佩洛西在法案中藏阴谋；变种病毒出现在美国境内；中国停电，中共准备打仗？</a></li>
+<li><a href="/cbnews/20210109/1463926.md" target="_blank">广西43岁妇女绝经数月后怀孕 宝宝一出生就「10岁」</a></li>
+<li><a href="/cbnews/20210109/1463904.md" target="_blank">中国疫情升温！河北通报127例 石家庄、邢台禁人车出市</a></li>
+<li><a href="/cbnews/20210109/1463893.md" target="_blank">突发！川普不出席就职典礼;左媒和中共同调攻击川普  中立媒体谴责；突变！？谁开始搜捕国会大厦闯入者？社交网像异端裁判所？墨西哥总统为川普发声【希望之声TV】</a></li>
+<li><a href="/cbnews/20210109/1463864.md" target="_blank">习近平风水出大事！黄创夏惊曝：「龙兴之地」有状况</a></li>
+<li><a href="/cbnews/20210109/1463858.md" target="_blank">六四抗命拒开枪军长徐勤先过世 享寿85岁</a></li>
+<li><a href="/cbnews/20210109/1463832.md" target="_blank">六四拒绝领军开枪 徐勤先将军去世</a></li>
+<li><a href="/cbnews/20210109/1463831.md" target="_blank">河北疫情失控！石家庄新增127例本土 各地医护驰援</a></li>
+<li><a href="/cbnews/20210109/1463817.md" target="_blank">河北疫情失控！石家庄、邢台新增33本土案例 严控人车进出</a></li>
+<li><a href="/cbnews/20210108/1463726.md" target="_blank">川普发表讲话指 美国必须永远是法治民主国家</a></li>
+<li><a href="/cbnews/20210108/1463714.md" target="_blank">拒绝镇压六四民主运动的抗命将军徐勤先逝世 享年85岁</a></li>
+<li><a href="/cbnews/20210108/1463709.md" target="_blank">陈破空：中南海连开秘密会议。习近平没露面！王沪宁掌大权？美国特殊人物访台</a></li>
+<li><a href="/cbnews/20210108/1463644.md" target="_blank">河北中风险区达17个 北京两机场11条班线停运</a></li>
+<li><a href="/cbnews/20210108/1463627.md" target="_blank">华信董座拿锤子打总经理 网友：简单粗暴</a></li>
+<li><a href="/cbnews/20210108/1463611.md" target="_blank">临近年关 中国疫情卷土重来 各地倡议原地过年</a></li>
+<li><a href="/cbnews/20210108/1463604.md" target="_blank">蓬佩奥连发推直指中共 警告其核武咄咄逼人</a></li>
+<li><a href="/cbnews/20210108/1463591.md" target="_blank">爆中共为拜登竞选总统支招 文件被曝光</a></li>
+<li><a href="/cbnews/20210108/1463580.md" target="_blank">北京修订对台统战条例 专家：中共法律不可信</a></li>
+<li><a href="/cbnews/20210108/1463579.md" target="_blank">接待日不开门 八旬访民-19℃北京信访办门口挨冻</a></li>
+<li><a href="/cbnews/20210108/1463569.md" target="_blank">四川浸温泉7人离奇遭电击 19岁女昏迷至今</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/topimagenews/20210103/1460242.md" target="_blank">让所有美国人民来评判！霍利下战书：在参议院进行辩论！ 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210103/1460029.md" target="_blank">习近平干预小国共产党被怼| 港中共打手组织突然解散| 蓬佩奥宣布与共产政权长期斗争|</a></li>
-<li><a href="/topimagenews/20210103/1459945.md" target="_blank">鲍威尔大律师号召爱国者行动 拜登提名女财长获华尔街700万美元演讲费</a></li>
-<li><a href="/topimagenews/20210103/1459936.md" target="_blank">7名参议员4名当选参议员发布联合声明 呼唤10天紧急审核</a></li>
-<li><a href="/topimagenews/20210103/1459895.md" target="_blank">曝美国两党之外的统一党 感知1月6日啥光景</a></li>
-<li><a href="/topimagenews/20210102/1459836.md" target="_blank">出大事！众议院民主党提案修法 内容不得了</a></li>
-<li><a href="/topimagenews/20210102/1459775.md" target="_blank">美媒：1月6日 如有足够多参议员挑战 川普就会胜|拜登支持修法令传播艾滋病毒不再算违法</a></li>
-<li><a href="/comments/20210102/1459745.md" target="_blank">美国新闻专业大学生冒零分风险报道川普 意外得高分</a></li>
-<li><a href="/topimagenews/20210102/1459641.md" target="_blank">“逮捕布朗！”民众聚集俄勒冈州州长家门外抗议【阿波罗网编译】</a></li>
-<li><a href="/comments/20210102/1459575.md" target="_blank">三国均发生老人注射疫苗后死亡</a></li>
-<li><a href="/topimagenews/20210102/1459563.md" target="_blank">川普：1月6日将公布大量选举欺诈证据 我们已经赢得大选 大胜</a></li>
-<li><a href="/topimagenews/20210102/1459542.md" target="_blank">俞元：川普还有几分胜算？</a></li>
-<li><a href="/topimagenews/20210102/1459467.md" target="_blank">中国经济面临高债务、失业和消费疲软三大问题</a></li>
-<li><a href="/topimagenews/20210102/1459331.md" target="_blank">彭斯拒推翻选举人团投票结果 林伍德：彭斯不打算继续他的政治生涯</a></li>
-<li><a href="/comments/20210101/1459057.md" target="_blank">专家爆惊人内幕：接种疫苗，你有更大的可能会死于病毒</a></li>
-<li><a href="/topimagenews/20210101/1459258.md" target="_blank">奥巴马政治领路人是共产主义者 毕生目标是毁灭美国|怕提问 拜登视频会禁1功能</a></li>
-<li><a href="/topimagenews/20210101/1459119.md" target="_blank">麦康奈尔：直接发2千美元是富人的社会主义</a></li>
-<li><a href="/topimagenews/20210101/1459089.md" target="_blank">太棒了！“每一张选票上都有肉眼不能看见的记号”</a></li>
-<li><a href="/topimagenews/20210101/1459088.md" target="_blank">投票机正在与中国供应商进行通讯！专家在直播中惊曝…【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210101/1459077.md" target="_blank">碰了一鼻子灰！麦康纳尔想给霍利参议员施压 结果尴尬了【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210101/1459018.md" target="_blank">川普再出招 美移民与工作签证限令延至3月底</a></li>
-<li><a href="/topimagenews/20210101/1458982.md" target="_blank">川普要说什么？弗林将军引用华盛顿名言 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210101/1458930.md" target="_blank">德国多米尼服务器再起波澜 新的说法出现</a></li>
-<li><a href="/topimagenews/20210101/1458808.md" target="_blank">上海不疯跨年夜倒数 疫情下青年挣扎拚就业</a></li>
-<li><a href="/topimagenews/20210101/1458750.md" target="_blank">众议员曝：麦克奈尔佩罗西密谋1月6日 阻止挑战认证拜登</a></li>
+<li><a href="/topimagenews/20210109/1463974.md" target="_blank">佩洛西再泼污水 指川普失常恐使用核武</a></li>
+<li><a href="/topimagenews/20210109/1463952.md" target="_blank">梦想当暴君的米歇尔·奥巴马 呼吁科技公司永久禁川【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210109/1463924.md" target="_blank">田纳西州共和党前众议院议长和两位众议员被FBI突袭【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210109/1463899.md" target="_blank">川普总统在憋大招？美国代理国防部长露端倪；佩洛西弹劾川普 彭斯什么态度？</a></li>
+<li><a href="/topimagenews/20210109/1463888.md" target="_blank">窃选是更大威胁 民调：45％共和党人支持进入国会大厦的抗议行动【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210109/1463879.md" target="_blank">为何黑命贵创始人在国会大厦内拍摄警察射击抗议者？视频：国会警察招呼大家进来</a></li>
+<li><a href="/topimagenews/20210109/1463877.md" target="_blank">国会山警官西尼克 在与美国国会大厦的抗议者对峙后死亡 死因不明【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210109/1463863.md" target="_blank">川普在推特宣布：1月20日不会参加拜登就职典礼</a></li>
+<li><a href="/topimagenews/20210109/1463812.md" target="_blank">反击小布什 蓬佩奥：美国不是香蕉共和国</a></li>
+<li><a href="/topimagenews/20210108/1463797.md" target="_blank">彭斯在国会冲击案后1句话引发哗然 美国国运逆转 疫情在认证日后要突飞猛进</a></li>
+<li><a href="/topimagenews/20210108/1463642.md" target="_blank">中共首都供暖危机民怨升腾 打脸中共 尼共愿从印度获疫苗 中国家电企业“白忙活”</a></li>
+<li><a href="/topimagenews/20210108/1463640.md" target="_blank">风云突变！对进入国会大厦者的搜捕开始了</a></li>
+<li><a href="/comments/20210108/1463476.md" target="_blank">意教授宣誓作证 受指示操纵投票系统窃取川普选票</a></li>
+<li><a href="/topimagenews/20210108/1463454.md" target="_blank">墨西哥总统批Facebook封锁川普帐户 拒斥美国国会暴动</a></li>
+<li><a href="/topimagenews/20210108/1463408.md" target="_blank">刚刚！川普对全美发表最新讲话 【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210108/1463198.md" target="_blank">视频：彭斯搞的联席会议不允许辩论 把议员赶到国会走廊 关起门给拜登站台</a></li>
+<li><a href="/topimagenews/20210107/1462951.md" target="_blank">退役女军人国会被近距离行刑式枪杀完整视频(油管已删)</a></li>
+<li><a href="/topimagenews/20210107/1463150.md" target="_blank">1月6日推特上镇压爱国者的言论四起，都是来自蓝标认证账户【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210107/1463127.md" target="_blank">美媒独家：目击者称“穿着西装的男人”枪杀了国会受害者【阿波罗网编译报道】</a></li>
+<li><a href="/topimagenews/20210107/1463125.md" target="_blank">川普总统的国家安全副顾问博明辞职【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210107/1463106.md" target="_blank">终身民主党的人权律师特雷尔语出惊人 我永远不会抛弃川普总统</a></li>
+<li><a href="/topimagenews/20210107/1463064.md" target="_blank">哇：保守政治行动会议主席 竟然说女孩被打死是应该的【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210107/1463059.md" target="_blank">视频：良心发现？这人说自己是被买来冲击国会的【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210107/1463029.md" target="_blank">即时电报将加入推特和脸书 可能将川普总统的帐户暂停24小时【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210107/1463016.md" target="_blank">肆无忌惮无法无天！11月3日大选日再现 乔州2议员决选「逆转胜」诡异频</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
-<li><a href="/comments/20210103/1460306.md" target="_blank">冬季经常咳嗽需要养肺，多吃3种食物，喉咙舒服</a></li>
-<li><a href="/comments/20210103/1460305.md" target="_blank">中医是如何治疗癌症的？治疗原理是什么？</a></li>
-<li><a href="/comments/20210103/1460304.md" target="_blank">癌症年轻化！那&#8230;真凶是谁？</a></li>
-<li><a href="/comments/20210103/1460294.md" target="_blank">魏晋：北京陷政治性大疫 蔡奇争入常速找替罪羊</a></li>
-<li><a href="/comments/20210103/1460278.md" target="_blank">【宋朝福利有多好】(一)生育给补贴 教育免费</a></li>
-<li><a href="/comments/20210103/1460266.md" target="_blank">恶劣时代下的曙光</a></li>
-<li><a href="/comments/20210103/1460265.md" target="_blank">【12 港人案】3 家属赴深圳盼探监 保安局：不会安排或陪同探望</a></li>
-<li><a href="/comments/20210103/1460263.md" target="_blank">苏军的性暴行令人发指 斯大林态度纵容</a></li>
-<li><a href="/comments/20210103/1460229.md" target="_blank">忠义道侠传|第一回 道人华山遇帝君 圣王转轮再入尘（2）</a></li>
-<li><a href="/comments/20210103/1460256.md" target="_blank">近9成年轻人对港府无信心 学者：社会累积未爆火药</a></li>
-<li><a href="/comments/20210103/1460240.md" target="_blank">国安法后拒欧美议会邀请访问 梁家杰：与其送头不如保留实力 公民党将转低调</a></li>
-<li><a href="/comments/20210103/1460239.md" target="_blank">全美20州调涨最低工资看看自己是否在其中</a></li>
-<li><a href="/comments/20210103/1449645.md" target="_blank">修炼法轮大法身心受益 台裔女子：原来生命如此珍贵</a></li>
-<li><a href="/comments/20210103/1460201.md" target="_blank">彭斯：欢迎议员1月6日挑战选举并提交证据</a></li>
-<li><a href="/comments/20210103/1460200.md" target="_blank">哈佛大学天文系主任语出惊人：外星文明已于2017年造访</a></li>
-<li><a href="/comments/20210103/1460199.md" target="_blank">新的一年，继续保持好奇及同理心</a></li>
-<li><a href="/comments/20210103/1460185.md" target="_blank">彭斯“欢迎”参众两院议员 1月6日挑战选举人票</a></li>
-<li><a href="/comments/20210103/1460184.md" target="_blank">哈佛大学天文系主任：外星文明已于2017年造访</a></li>
-<li><a href="/comments/20210103/1460168.md" target="_blank">美众院议长佩洛西家车库传遭涂鸦</a></li>
-<li><a href="/comments/20210103/1460167.md" target="_blank">接种中共病毒疫苗后 墨西哥医生出现脑脊髓炎症状</a></li>
-<li><a href="/comments/20210103/1460166.md" target="_blank">截至去年底已出现四种中共病毒变体</a></li>
-<li><a href="/comments/20210103/1460165.md" target="_blank">【要闻精粹】一切演得都是那么的真实</a></li>
-<li><a href="/comments/20210103/1460164.md" target="_blank">【微博精粹】蓬佩奥反常1天20多推 包括1张让某些人睡不着的照片</a></li>
-<li><a href="/comments/20210103/1460142.md" target="_blank">陶杰：2020年是一个巨变年 永将载史册</a></li>
-<li><a href="/comments/20210103/1460141.md" target="_blank">闻知睿: 从“首名美籍中共党员”的经历看今日美国</a></li>
+<li><a href="/comments/20210109/1464011.md" target="_blank">在哥伦布之前中国人已发现美洲大陆？</a></li>
+<li><a href="/comments/20210109/1464008.md" target="_blank">甲子一周前夕的伤怀与感慨</a></li>
+<li><a href="/comments/20210109/1464005.md" target="_blank">我参加了1月6日华盛顿DC百万人和平集会</a></li>
+<li><a href="/comments/20210109/1463999.md" target="_blank">入关美国遭罚款？！到底带错了什么东西？</a></li>
+<li><a href="/comments/20210109/1463971.md" target="_blank">一氧化碳中毒常不自知 外观也无异常</a></li>
+<li><a href="/comments/20210109/1463970.md" target="_blank">《BMJ》：糖尿病患者喝茶、咖啡能降死亡率？</a></li>
+<li><a href="/comments/20210109/1463969.md" target="_blank">多吃水果一定健康？搞不好小心变脂肪肝</a></li>
+<li><a href="/comments/20210109/1463968.md" target="_blank">大陆27岁人气网红机上猝逝 公司:难以置信</a></li>
+<li><a href="/comments/20210109/1463949.md" target="_blank">中国歌王关贵敏，曾患早期肝硬化，炼法轮功康复。后移民美国，参与神韵艺术团演出。他和妻子邹晓群坚决不向共产党低头，当众撕毁与江泽民合影（笑梅看中国第026期）</a></li>
+<li><a href="/comments/20210109/1463947.md" target="_blank">蓬佩奥反驳布什：国会骚乱不会令美国成香蕉共和国</a></li>
+<li><a href="/comments/20210109/1463946.md" target="_blank">历史上人神分离的“绝天地通”事件 现代人都理解偏了</a></li>
+<li><a href="/comments/20210109/1463931.md" target="_blank">学者：中共控制留学生长期在美搞间谍活动</a></li>
+<li><a href="/comments/20210109/1463930.md" target="_blank">2020年度美国最畅销车排行：前20名中，SUV占11款</a></li>
+<li><a href="/comments/20210109/1463923.md" target="_blank">【视频】林伍德：犯罪过程走完! 叛国贼会被逮捕入狱</a></li>
+<li><a href="/comments/20210109/1463922.md" target="_blank">川普宣布不参加1月20日白宫典礼 3小时获40多万点赞</a></li>
+<li><a href="/comments/20210109/1463921.md" target="_blank">被AOC要求辞职 克鲁兹：国会骚乱与我们无关</a></li>
+<li><a href="/comments/20210109/1463920.md" target="_blank">芯片价格上涨30% 业内人士：中国产品将失去竞争力</a></li>
+<li><a href="/comments/20210109/1463909.md" target="_blank">美国场外交易市场将禁止买卖12支中国股票</a></li>
+<li><a href="/comments/20210109/1463908.md" target="_blank">MSCI明晟等指数供应商将移除三家中国电信巨头</a></li>
+<li><a href="/comments/20210109/1463907.md" target="_blank">日本人气漫画《灌篮高手》将拍电影版</a></li>
+<li><a href="/comments/20210109/1463898.md" target="_blank">【初选疯狂搜捕】李国麟被捕 护士协会主席源志敏：尽力帮助 强调李未支持“揽炒”</a></li>
+<li><a href="/comments/20210109/1463897.md" target="_blank">【初选疯狂搜捕】谭惠珠：民主派否决预算案 有意酿宪制危机 反映“有组织、有策划”犯案</a></li>
+<li><a href="/comments/20210109/1463896.md" target="_blank">【视频】林伍德：犯罪过程走完! 叛国贼会被逮捕入狱！川普声明会有序过渡⋯⋯拜登?第二任期?</a></li>
+<li><a href="/comments/20210109/1463895.md" target="_blank">拯救美国，不是靠川普，是找回对神的正信</a></li>
+<li><a href="/comments/20210109/1463892.md" target="_blank">1月7日全美单日死亡数首次突破4,000</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">天目所见：川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
