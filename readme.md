@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210109/1464197.md">陆媒：马云已外逃！习近平对马云失去耐心？马云金融阴谋已彻底败露且无力回天？网曝马云秘密出逃路径与内幕 中南海谣言预言_422</a></li>
 <li><a href="/comments/20210109/1464231.md">惊传马云已秘密出逃成功</a></li>
 <li><a href="/cbnews/20210109/1464302.md">惊传马云已秘密出逃</a></li>
 <li><a href="/comments/20210109/1464227.md">李燕铭：江泽民曾庆红提供拜登2020年大选击败川普战略 薄熙来私生女薄嘉琪执行 细思极恐 习近平亲自下令抓捕上海帮军方间谍叶简明 中美各方势力末日生死搏杀才刚刚开始……</a></li>
@@ -18,12 +17,13 @@
 <li><a href="/comments/20210110/1464505.md">习近平面临泰山压顶危难时刻 官媒罕见披露中南海遭遇三重严重冲击 李克强紧急发话 七省宣布战时状态 副国级高官：拱卫首都安全刻不容缓 迅速激活战时指挥体系</a></li>
 <li><a href="/worldnews/20210109/1464293.md">扛不住了？北京对澳洲抛出橄榄枝</a></li>
 <li><a href="/topimagenews/20210110/1464540.md">不畏谷歌下架苹果威胁 PARLER声明坚持言论自由 不会向独裁者们屈服</a></li>
-<li><a href="/cbnews/20210109/1464199.md">大陆疫情严峻？6天7省宣布战时状态</a></li>
+<li><a href="/topimagenews/20210110/1464585.md">蓬佩奥：不能压制7500万选民声音</a></li>
 <li><a href="/topimagenews/20210109/1464393.md">邮件服务商也出来站台 川普竞选团队已经不能向支持者发送邮件了【阿波罗网编译】</a></li>
 <li><a href="/comments/20210109/1464408.md">推特“永久停用”川普帐号后效应： 放眼望去，满屏皆川普</a></li>
-<li><a href="/cbnews/20210109/1464345.md">陈破空：陈敏尔亲信受审。习近平敲打接班人！赖小民情妇过百，遭高层妒忌。华春莹会撒娇</a></li>
-<li><a href="/topimagenews/20210110/1464585.md">蓬佩奥：不能压制7500万选民声音</a></li>
 <li><a href="/cbnews/20210110/1464562.md">男撞到女外送员 竟下车狂赏她巴掌！下秒遭人飞踢教训</a></li>
+<li><a href="/cbnews/20210109/1464345.md">陈破空：陈敏尔亲信受审。习近平敲打接班人！赖小民情妇过百，遭高层妒忌。华春莹会撒娇</a></li>
+<li><a href="/cbnews/20210110/1464686.md">【突发】6000名全副武装国防卫队进入华盛顿  国会周围搭建高墙  传川普进入夏延山防核军事基地 佩洛西在边境被控  班农作战室播客突遭关闭</a></li>
+<li><a href="/cnnews/20210110/1464737.md">画面曝光！青海女贪官的密室被打开，她丈夫只看一半就受不了</a></li>
 <li><a href="/cnnews/20210109/1464442.md">美国名嘴：民主党人“畏惧退缩”和“惊慌失措”担心川普释放重磅机密【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210109/1464282.md">中年以后 男人要少做2种运动</a></li>
 <li><a href="/comments/20210110/1464483.md">拉斯穆森民调：川普支持率上升至51%</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210110/1464814.md" target="_blank">国会大厦围攻事件：四名退伍军人亲身讲述周三美国国会大厦抗议活动的情况</a></li>
+<li><a href="/comments/20210110/1464812.md" target="_blank">失踪的川普才是最可怕的金毛</a></li>
 <li><a href="/cbnews/20210110/1464800.md" target="_blank">“我们都是川普”网民换头像斥推特封杀川普</a></li>
 <li><a href="/cbnews/20210110/1464799.md" target="_blank">左翼人士鼓动抗议者闯入国会大厦 劝警方离开</a></li>
 <li><a href="/cbnews/20210110/1464750.md" target="_blank">突发直播唐柏桥 Lucy：反击！ 爆佩洛西电脑突然被偷边个做既！ 侵侵并未认输！正在部署&#8230;</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20210109/1464445.md" target="_blank">【热点解读】都指向1月16日！双方已亮剑，一场更大风暴正在酝酿之中。佩洛西电脑丢失？川普或启动GIANT VOICE、军事法庭、太空部队。美国民兵联盟再次声明。</a></li>
 <li><a href="/cbnews/20210109/1464400.md" target="_blank">推特永久冻结账号 川普将自行搭建平台发声</a></li>
 <li><a href="/cbnews/20210109/1464395.md" target="_blank">华大基因被曝基因编辑58名婴儿 举报文遭全网封杀</a></li>
-<li><a href="/cbnews/20210109/1464687.md" target="_blank">【重磅】麦金纳尼中将：1月6号美国军方秘密实施白帽行动 特种部队取走了佩洛西的电脑 他们都将是叛国罪  最新消息： 佩洛西在边境被拦下送往秘密地点等待审判 林和鲍威尔现身军事法庭 马云已经秘密出逃</a></li>
-<li><a href="/comments/20210109/1464370.md" target="_blank">惊爆：中共授意佩洛西阻止川普向中国发射核武器</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210110/1464812.md" target="_blank">失踪的川普才是最可怕的金毛</a></li>
 <li><a href="/topimagenews/20210110/1464794.md" target="_blank">扛不住了？习近平抛出橄榄枝；北京115万监视器全球最多；北京政法大学教授绝食抗议强拆</a></li>
 <li><a href="/topimagenews/20210110/1464779.md" target="_blank">亿万富翁：FBI跳出来 将选票从分析团队手中拿走 都给粉碎了 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210110/1464749.md" target="_blank">蓬佩奥力挺川普：&#8221;我为我们的成就感到骄傲&#8230;&#8230;历史会很好地记住我们“【阿波罗网编译】</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20210109/1463924.md" target="_blank">田纳西州共和党前众议院议长和两位众议员被FBI突袭【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210109/1463899.md" target="_blank">川普总统在憋大招？美国代理国防部长露端倪；佩洛西弹劾川普 彭斯什么态度？</a></li>
 <li><a href="/topimagenews/20210109/1463888.md" target="_blank">窃选是更大威胁 民调：45％共和党人支持进入国会大厦的抗议行动【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210109/1463879.md" target="_blank">为何黑命贵创始人在国会大厦内拍摄警察射击抗议者？视频：国会警察招呼大家进来</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210110/1464812.md" target="_blank">失踪的川普才是最可怕的金毛</a></li>
+<li><a href="/comments/20210110/1464811.md" target="_blank">世卫团赴中受阻 法学者：中共腐败未变 或再爆新病毒疫情</a></li>
+<li><a href="/comments/20210110/1464810.md" target="_blank">微信用户不要坐等被封，选择其他社交软件才是上策</a></li>
+<li><a href="/comments/20210110/1464808.md" target="_blank">谁做了1月6日这个局？朱利安尼重磅视频解说 结果不出所料</a></li>
 <li><a href="/comments/20210110/1464806.md" target="_blank">【微博精粹】11月3日后川爷只做了一件事</a></li>
 <li><a href="/comments/20210110/1464785.md" target="_blank">陶杰: 不相信</a></li>
 <li><a href="/comments/20210110/1464782.md" target="_blank">诡异！习近平连续10天隐身 就连这两重要日子都未露面？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210110/1464640.md" target="_blank">长平观察：马云的中国智慧</a></li>
 <li><a href="/comments/20210110/1464639.md" target="_blank">赵晓辉：拯救美国，不是靠川普，是找回对神的正信</a></li>
 <li><a href="/comments/20210110/1464630.md" target="_blank">《女神降临》超夸张中国业配惹怒韩网:成了陆剧</a></li>
-<li><a href="/comments/20210110/1464622.md" target="_blank">社交媒体集体封杀意味着什么？</a></li>
-<li><a href="/comments/20210110/1464621.md" target="_blank">推特永久禁言川普 名主持林博自停推特账户</a></li>
-<li><a href="/comments/20210110/1464619.md" target="_blank">英国疫情蔓延 女王与菲利普亲王已接种疫苗</a></li>
-<li><a href="/comments/20210110/1464617.md" target="_blank">2021年，中共最挣扎的一年</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 
 </ul>
 </div>
