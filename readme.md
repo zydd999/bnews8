@@ -7,26 +7,26 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210110/1464812.md">失踪的川普才是最可怕的金毛</a></li>
 <li><a href="/comments/20210110/1464533.md">惊人之语：为什么佩洛西快要急死了</a></li>
-<li><a href="/cbnews/20210110/1464686.md">【突发】6000名全副武装国防卫队进入华盛顿  国会周围搭建高墙  传川普进入夏延山防核军事基地 佩洛西在边境被控  班农作战室播客突遭关闭</a></li>
 <li><a href="/comments/20210110/1464909.md">川普开始收网行动！意大利总统已经被秘密抓捕 美国很多州已经在部署军队 拜登会在下一阶段被抓  DC马上会有断网 川普将于1月21号回到白宫</a></li>
+<li><a href="/cbnews/20210110/1464686.md">【突发】6000名全副武装国防卫队进入华盛顿  国会周围搭建高墙  传川普进入夏延山防核军事基地 佩洛西在边境被控  班农作战室播客突遭关闭</a></li>
 <li><a href="/comments/20210110/1464505.md">习近平面临泰山压顶危难时刻 官媒罕见披露中南海遭遇三重严重冲击 李克强紧急发话 七省宣布战时状态 副国级高官：拱卫首都安全刻不容缓 迅速激活战时指挥体系</a></li>
 <li><a href="/cnnews/20210110/1464737.md">画面曝光！青海女贪官的密室被打开，她丈夫只看一半就受不了</a></li>
-<li><a href="/topimagenews/20210110/1464540.md">不畏谷歌下架苹果威胁 PARLER声明坚持言论自由 不会向独裁者们屈服</a></li>
 <li><a href="/renquan/20210110/1464615.md">郭飞雄：致李克强总理、赵克志部长的紧急公开信</a></li>
-<li><a href="/cbnews/20210110/1464750.md">突发直播唐柏桥 Lucy：反击！ 爆佩洛西电脑突然被偷边个做既！ 侵侵并未认输！正在部署...</a></li>
-<li><a href="/cbnews/20210110/1464562.md">男撞到女外送员 竟下车狂赏她巴掌！下秒遭人飞踢教训</a></li>
 <li><a href="/comments/20210110/1464912.md">【视频】突发：6000名全副武装国防卫队进入华盛顿 ！国会周围搭建高墙 ！传川普进入夏延山防核军事基地！佩洛西在边境被控</a></li>
-<li><a href="/cnnews/20210110/1464843.md">军权依然在川普总统手中 国防部官员拒绝参与军事政变【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210110/1464750.md">突发直播唐柏桥 Lucy：反击！ 爆佩洛西电脑突然被偷边个做既！ 侵侵并未认输！正在部署...</a></li>
+<li><a href="/topimagenews/20210110/1464540.md">不畏谷歌下架苹果威胁 PARLER声明坚持言论自由 不会向独裁者们屈服</a></li>
+<li><a href="/cbnews/20210110/1464562.md">男撞到女外送员 竟下车狂赏她巴掌！下秒遭人飞踢教训</a></li>
 <li><a href="/topimagenews/20210110/1464585.md">蓬佩奥：不能压制7500万选民声音</a></li>
+<li><a href="/cnnews/20210110/1464843.md">军权依然在川普总统手中 国防部官员拒绝参与军事政变【阿波罗网编译】</a></li>
 <li><a href="/health/20210110/1464657.md">出国留学前夕，20岁学霸意外查出艾滋病：常跟陌生人寻求刺激</a></li>
 <li><a href="/cnnews/20210110/1464946.md">习近平和李克强势力之争？黑龙江省长“难产”</a></li>
-<li><a href="/comments/20210110/1464808.md">谁做了1月6日这个局？朱利安尼重磅视频解说 结果不出所料</a></li>
-<li><a href="/topimagenews/20210110/1464846.md">前中情局局长想发动文革？要开7500万人的羞辱会？【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210110/1464943.md">河北封城无用 2000万人居家隔离 确诊爆不停</a></li>
-<li><a href="/cnnews/20210110/1464680.md">推特出现疑似亨特娈童照 格雷厄姆同情川普？</a></li>
+<li><a href="/topimagenews/20210110/1464846.md">前中情局局长想发动文革？要开7500万人的羞辱会？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210110/1464808.md">谁做了1月6日这个局？朱利安尼重磅视频解说 结果不出所料</a></li>
 <li><a href="/topimagenews/20210110/1464794.md">扛不住了？习近平抛出橄榄枝；北京115万监视器全球最多；北京政法大学教授绝食抗议强拆</a></li>
-<li><a href="/cbnews/20210110/1464713.md">贼都看不下去了！男子回家撞见妻子偷欢反遭暴砍，两小偷拼死相救</a></li>
+<li><a href="/cnnews/20210110/1464680.md">推特出现疑似亨特娈童照 格雷厄姆同情川普？</a></li>
 <li><a href="/topimagenews/20210110/1464749.md">蓬佩奥力挺川普："我为我们的成就感到骄傲......历史会很好地记住我们“【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210110/1464713.md">贼都看不下去了！男子回家撞见妻子偷欢反遭暴砍，两小偷拼死相救</a></li>
 <li><a href="/topimagenews/20210110/1464779.md">亿万富翁：FBI跳出来 将选票从分析团队手中拿走 都给粉碎了 【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20210105/1461133.md" target="_blank">林伍德大律师舍命爆出惊天秘密</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
