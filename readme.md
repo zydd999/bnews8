@@ -23,11 +23,11 @@
 <li><a href="/cbnews/20210109/1464199.md">大陆疫情严峻？6天7省宣布战时状态</a></li>
 <li><a href="/cbnews/20210109/1464144.md">江峰：急下手弹劾川普，为什麽12天也等不了； 精神状态差按下核按钮？谎言目的何在【江峰时刻】</a></li>
 <li><a href="/cnnews/20210109/1464190.md">拜登将议员霍利和克鲁兹比作纳粹戈培尔 霍利反击：收回这些变态的言论 【阿波罗网编译】</a></li>
+<li><a href="/comments/20210110/1464533.md">惊人之语：为什么佩洛西快要急死了</a></li>
 <li><a href="/topimagenews/20210109/1464393.md">邮件服务商也出来站台 川普竞选团队已经不能向支持者发送邮件了【阿波罗网编译】</a></li>
 <li><a href="/comments/20210109/1464408.md">推特“永久停用”川普帐号后效应： 放眼望去，满屏皆川普</a></li>
 <li><a href="/cbnews/20210109/1464345.md">陈破空：陈敏尔亲信受审。习近平敲打接班人！赖小民情妇过百，遭高层妒忌。华春莹会撒娇</a></li>
-<li><a href="/lifebaike/20210109/1464282.md">中年以后 男人要少做2种运动</a></li>
-<li><a href="/comments/20210109/1464143.md">香港名媛罗力力抱5个月女儿跳楼自杀 全身赤裸</a></li>
+<li><a href="/comments/20210110/1464505.md">习近平面临泰山压顶危难时刻 官媒罕见披露中南海遭遇三重严重冲击 李克强紧急发话 七省宣布战时状态 副国级高官：拱卫首都安全刻不容缓 迅速激活战时指挥体系</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210110/1464617.md" target="_blank">2021年，中共最挣扎的一年</a></li>
+<li><a href="/comments/20210110/1464614.md" target="_blank">变种病毒株不仅传染力强 半数以上感染者都被无症状者传染</a></li>
 <li><a href="/comments/20210110/1464606.md" target="_blank">美国的无耻之徒</a></li>
 <li><a href="/comments/20210110/1464605.md" target="_blank">选择漠视舞弊 美国将终尝苦果</a></li>
 <li><a href="/comments/20210110/1464599.md" target="_blank">骂人的小伙子最终“三退”了</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210110/1464493.md" target="_blank">练乙铮与金庸所见略同</a></li>
 <li><a href="/comments/20210110/1464490.md" target="_blank">【走进周梓乐之死．2】一个香港青年殒落，和它撕开的时代伤口</a></li>
 <li><a href="/comments/20210110/1464486.md" target="_blank">中共最高法院院长周强被举报 主要犯罪事实与部份重点案例曝光 江泽民一直想培养周强入常终落空 周强死保虎王对抗习近平 老虎党一旦夺权成功 王岐山就要上电视台认罪 中南海不可告人的秘密_298</a></li>
-<li><a href="/comments/20210110/1464484.md" target="_blank">评论：诚实面对大选舞弊 美国民主才有希望</a></li>
-<li><a href="/comments/20210110/1464483.md" target="_blank">拉斯穆森民调：川普支持率上升至51%</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210105/1461133.md" target="_blank">林伍德大律师舍命爆出惊天秘密</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
