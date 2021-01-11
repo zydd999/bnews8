@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210111/1465113.md">【重磅】川普正式宣布大反击开始！前中央情报局官员 改革党总统候选人斯蒂尔：军队已经部署 川普11号实施《平叛法》 彭斯政治生涯彻底结束！ 为他的灵魂祈祷   林伍德：彭斯是第一个</a></li>
 <li><a href="/comments/20210111/1465172.md">独家爆料：习近平进入地下指挥所准备核战争</a></li>
-<li><a href="/cnnews/20210110/1464946.md">习近平和李克强势力之争？黑龙江省长“难产”</a></li>
 <li><a href="/comments/20210111/1465312.md">最新消息：川普总统签署《平叛法》后飞往加利福尼亚海军陆战队基地彭德尔顿营地</a></li>
 <li><a href="/cbnews/20210110/1464972.md">陈破空：惊传马云跑了！习近平病重？再次缺席重要会议。党媒狂炒美国国会事件。河北疫情竟然归因于</a></li>
 <li><a href="/bannedvideo/20210111/1465272.md">老川平叛了！美加边境线封了防叛逃！教皇被抓！彭皮奥推特发布行动暗号！【猪妹piggirl】</a></li>
 <li><a href="/comments/20210111/1465228.md">山雨欲来！大批美军今日进驻华盛顿 空域突对民航关闭</a></li>
-<li><a href="/cbnews/20210110/1464943.md">河北封城无用 2000万人居家隔离 确诊爆不停</a></li>
 <li><a href="/cnnews/20210111/1465105.md">朱利安尼：川普必须进行大规模解密，“这是他欠美国人民的”</a></li>
 <li><a href="/topimagenews/20210111/1465255.md">兑现承诺！川普总统将访问德州【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210111/1465046.md">川普前私人律师和民主党合作 提供控告川普和川普家族的证词【阿波罗网编译】</a></li>
 <li><a href="/health/20210111/1465124.md">年轻夫妻结婚5年不孕去检查，结果丈夫懵了：妻子实际上是个男性</a></li>
 <li><a href="/comments/20210110/1464983.md">为何众议长佩洛西疯抢核武按钮?蓬佩奥釜底抽薪!中共进退两难,都是自己惹的祸!</a></li>
+<li><a href="/comments/20210111/1465323.md">【突发直播】川普凌晨启用反叛乱法？</a></li>
 <li><a href="/comments/20210111/1465188.md">惊！51岁美国国会警察自杀身亡 1月6日曾当值</a></li>
 <li><a href="/topimagenews/20210111/1465086.md">美媒最新消息：阿兰-德肖维茨：民主党人无法做到弹劾川普 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210111/1465186.md">众议员努尼斯透露，未来十天内可能公布武汉实验室病毒真相！大科技公司公然侵犯公民权利，他们背后是中共和左派，他们应该被刑事起诉，应该对他们进行“有组织犯罪”调查，这适用于RICO法案</a></li>
 <li><a href="/cbnews/20210110/1464974.md">大连交警跪地铲雪 网友：中共在培养影帝</a></li>
-<li><a href="/comments/20210111/1465323.md">【突发直播】川普凌晨启用反叛乱法？</a></li>
 <li><a href="/comments/20210111/1465187.md">美媒：司法部不对川普提出指控！佩洛西有点急了</a></li>
 <li><a href="/topimagenews/20210111/1465099.md">不认同左派定性暴乱 美国防部定性1月6日是宪法第一修正案抗议</a></li>
 <li><a href="/comments/20210111/1465287.md">袁弓夷：意大利参与大选舞弊？</a></li>
 <li><a href="/cnnews/20210111/1465125.md">3死4伤！疯狂枪手滥杀 芝大中国留学生头部中弹死</a></li>
 <li><a href="/cbnews/20210110/1464964.md">中国富豪海外一掷千金 西方人震惊：钱从哪来</a></li>
+<li><a href="/bannedvideo/20210111/1465293.md">拜登金正恩“密语”曝光！川普战友蓬佩奥祭出美台关系杀手锏！佩洛西慌了，习近平空喜一场</a></li>
+<li><a href="/bannedvideo/20210111/1465182.md">《石涛聚焦》“林伍德律师 Parler 声称：川普总统会使用紧急广播系统 苹果手机将更新关闭该系统”刚刚收到苹果手机更新通知：确实涉及信息系统内容 😱 （10/01/21）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210111/1465469.md" target="_blank">日本惊现全新新冠变种病毒</a></li>
 <li><a href="/comments/20210111/1465438.md" target="_blank">东方纵横：佩洛西政变</a></li>
 <li><a href="/comments/20210111/1465433.md" target="_blank">川普能启动《反叛乱法》吗？</a></li>
 <li><a href="/comments/20210111/1465430.md" target="_blank">没手机就心慌烦躁？ ３步骤教你掌控自我</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210111/1465315.md" target="_blank">河北疫情大爆发！北京修改封锁令 石家庄一捆大葱卖到160元</a></li>
 <li><a href="/comments/20210111/1465312.md" target="_blank">最新消息：川普总统签署《平叛法》后飞往加利福尼亚海军陆战队基地彭德尔顿营地</a></li>
 <li><a href="/comments/20210111/1465311.md" target="_blank">专家解析：拜登上台对富人们是福是祸？</a></li>
-<li><a href="/comments/20210111/1465301.md" target="_blank">蓬佩奥重拳出击 落实川普外交政策打击中共</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
