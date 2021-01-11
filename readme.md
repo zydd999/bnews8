@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210110/1464909.md">川普开始收网行动！意大利总统已经被秘密抓捕 美国很多州已经在部署军队 拜登会在下一阶段被抓  DC马上会有断网 川普将于1月21号回到白宫</a></li>
 <li><a href="/bannedvideo/20210111/1465113.md">【重磅】川普正式宣布大反击开始！前中央情报局官员 改革党总统候选人斯蒂尔：军队已经部署 川普11号实施《平叛法》 彭斯政治生涯彻底结束！ 为他的灵魂祈祷   林伍德：彭斯是第一个</a></li>
 <li><a href="/comments/20210111/1465172.md">独家爆料：习近平进入地下指挥所准备核战争</a></li>
 <li><a href="/cnnews/20210110/1464946.md">习近平和李克强势力之争？黑龙江省长“难产”</a></li>
 <li><a href="/cbnews/20210110/1464972.md">陈破空：惊传马云跑了！习近平病重？再次缺席重要会议。党媒狂炒美国国会事件。河北疫情竟然归因于</a></li>
 <li><a href="/comments/20210111/1465228.md">山雨欲来！大批美军今日进驻华盛顿 空域突对民航关闭</a></li>
-<li><a href="/cbnews/20210110/1464943.md">河北封城无用 2000万人居家隔离 确诊爆不停</a></li>
 <li><a href="/bannedvideo/20210111/1465272.md">老川平叛了！美加边境线封了防叛逃！教皇被抓！彭皮奥推特发布行动暗号！【猪妹piggirl】</a></li>
+<li><a href="/cbnews/20210110/1464943.md">河北封城无用 2000万人居家隔离 确诊爆不停</a></li>
 <li><a href="/cnnews/20210111/1465105.md">朱利安尼：川普必须进行大规模解密，“这是他欠美国人民的”</a></li>
+<li><a href="/comments/20210111/1465312.md">最新消息：川普总统签署《平叛法》后飞往加利福尼亚海军陆战队基地彭德尔顿营地</a></li>
 <li><a href="/topimagenews/20210111/1465046.md">川普前私人律师和民主党合作 提供控告川普和川普家族的证词【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210111/1465255.md">兑现承诺！川普总统将访问德州【阿波罗网编译】</a></li>
-<li><a href="/comments/20210111/1465312.md">最新消息：川普总统签署《平叛法》后飞往加利福尼亚海军陆战队基地彭德尔顿营地</a></li>
 <li><a href="/health/20210111/1465124.md">年轻夫妻结婚5年不孕去检查，结果丈夫懵了：妻子实际上是个男性</a></li>
 <li><a href="/comments/20210110/1464983.md">为何众议长佩洛西疯抢核武按钮?蓬佩奥釜底抽薪!中共进退两难,都是自己惹的祸!</a></li>
 <li><a href="/comments/20210111/1465188.md">惊！51岁美国国会警察自杀身亡 1月6日曾当值</a></li>
-<li><a href="/bannedvideo/20210111/1465186.md">众议员努尼斯透露，未来十天内可能公布武汉实验室病毒真相！大科技公司公然侵犯公民权利，他们背后是中共和左派，他们应该被刑事起诉，应该对他们进行“有组织犯罪”调查，这适用于RICO法案</a></li>
 <li><a href="/topimagenews/20210111/1465086.md">美媒最新消息：阿兰-德肖维茨：民主党人无法做到弹劾川普 【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210111/1465186.md">众议员努尼斯透露，未来十天内可能公布武汉实验室病毒真相！大科技公司公然侵犯公民权利，他们背后是中共和左派，他们应该被刑事起诉，应该对他们进行“有组织犯罪”调查，这适用于RICO法案</a></li>
 <li><a href="/cbnews/20210110/1464974.md">大连交警跪地铲雪 网友：中共在培养影帝</a></li>
 <li><a href="/comments/20210111/1465187.md">美媒：司法部不对川普提出指控！佩洛西有点急了</a></li>
 <li><a href="/topimagenews/20210111/1465099.md">不认同左派定性暴乱 美国防部定性1月6日是宪法第一修正案抗议</a></li>
 <li><a href="/cnnews/20210111/1465125.md">3死4伤！疯狂枪手滥杀 芝大中国留学生头部中弹死</a></li>
 <li><a href="/cbnews/20210110/1464964.md">中国富豪海外一掷千金 西方人震惊：钱从哪来</a></li>
+<li><a href="/comments/20210111/1465287.md">袁弓夷：佩洛西被捕？意大利参与大选舞弊</a></li>
 <li><a href="/bannedvideo/20210111/1465182.md">《石涛聚焦》“林伍德律师 Parler 声称：川普总统会使用紧急广播系统 苹果手机将更新关闭该系统”刚刚收到苹果手机更新通知：确实涉及信息系统内容 😱 （10/01/21）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210111/1465402.md" target="_blank">薄熙来搭档刘国强被双开 花巨资跑官买官被骗</a></li>
 <li><a href="/cbnews/20210111/1465398.md" target="_blank">曾节明：对美国2020年大选的表态，中共为何破天荒的反常？</a></li>
 <li><a href="/cbnews/20210111/1465343.md" target="_blank">石家庄大爷拒戴口罩搁狠话 身分遭网友起底</a></li>
 <li><a href="/cbnews/20210111/1465342.md" target="_blank">海南14岁少女嫁15岁少年 这肚子…网友全看傻</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210110/1465044.md" target="_blank">中共最高法院院长周强涉多少命案？</a></li>
 <li><a href="/cbnews/20210110/1465043.md" target="_blank">哈佛专家：弹劾川普是违宪行为</a></li>
 <li><a href="/cbnews/20210110/1465026.md" target="_blank">白宫官员及议员斥责推特封川普账号；亚马逊将不再给Parler提供云服务器；苹果谷歌下架Parler应用程序；CNN宣布将竭力使福克斯停播、破产；麦康奈尔：19日前不可能完成弹劾总统程序【希望之声TV】</a></li>
-<li><a href="/cbnews/20210110/1465025.md" target="_blank">石家庄再有11地升中风险区 黑龙江疫情扩散</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 
 </ul>
 </div>
