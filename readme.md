@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210110/1464909.md">川普开始收网行动！意大利总统已经被秘密抓捕 美国很多州已经在部署军队 拜登会在下一阶段被抓  DC马上会有断网 川普将于1月21号回到白宫</a></li>
 <li><a href="/comments/20210110/1464812.md">失踪的川普才是最可怕的金毛</a></li>
-<li><a href="/cbnews/20210110/1464686.md">【突发】6000名全副武装国防卫队进入华盛顿  国会周围搭建高墙  传川普进入夏延山防核军事基地 佩洛西在边境被控  班农作战室播客突遭关闭</a></li>
-<li><a href="/cnnews/20210110/1464737.md">画面曝光！青海女贪官的密室被打开，她丈夫只看一半就受不了</a></li>
-<li><a href="/cbnews/20210110/1464750.md">突发直播唐柏桥 Lucy：反击！ 爆佩洛西电脑突然被偷边个做既！ 侵侵并未认输！正在部署...</a></li>
 <li><a href="/bannedvideo/20210111/1465113.md">【重磅】川普正式宣布大反击开始！前中央情报局官员 改革党总统候选人斯蒂尔：军队已经部署 川普11号实施《平叛法》 彭斯政治生涯彻底结束！ 为他的灵魂祈祷   林伍德：彭斯是第一个</a></li>
+<li><a href="/cbnews/20210110/1464750.md">突发直播唐柏桥 Lucy：反击！ 爆佩洛西电脑突然被偷边个做既！ 侵侵并未认输！正在部署...</a></li>
 <li><a href="/cnnews/20210110/1464843.md">军权依然在川普总统手中 国防部官员拒绝参与军事政变【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210110/1464946.md">习近平和李克强势力之争？黑龙江省长“难产”</a></li>
 <li><a href="/cbnews/20210110/1464972.md">陈破空：惊传马云跑了！习近平病重？再次缺席重要会议。党媒狂炒美国国会事件。河北疫情竟然归因于</a></li>
 <li><a href="/cbnews/20210110/1464943.md">河北封城无用 2000万人居家隔离 确诊爆不停</a></li>
 <li><a href="/topimagenews/20210111/1465046.md">川普前私人律师和民主党合作 提供控告川普和川普家族的证词【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210110/1464846.md">前中情局局长想发动文革？要开7500万人的羞辱会？【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210111/1465105.md">朱利安尼：川普必须进行大规模解密，“这是他欠美国人民的”</a></li>
+<li><a href="/topimagenews/20210110/1464846.md">前中情局局长想发动文革？要开7500万人的羞辱会？【阿波罗网编译】</a></li>
 <li><a href="/comments/20210110/1464808.md">谁做了1月6日这个局？朱利安尼重磅视频解说 结果不出所料</a></li>
 <li><a href="/topimagenews/20210110/1464794.md">扛不住了？习近平抛出橄榄枝；北京115万监视器全球最多；北京政法大学教授绝食抗议强拆</a></li>
+<li><a href="/comments/20210111/1465172.md">独家爆料：习近平进入地下指挥所准备核战争</a></li>
 <li><a href="/comments/20210110/1464983.md">为何众议长佩洛西疯抢核武按钮?蓬佩奥釜底抽薪!中共进退两难,都是自己惹的祸!</a></li>
-<li><a href="/topimagenews/20210110/1464749.md">蓬佩奥力挺川普："我为我们的成就感到骄傲......历史会很好地记住我们“【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210111/1465086.md">美媒最新消息：阿兰-德肖维茨：民主党人无法做到弹劾川普 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210110/1464779.md">亿万富翁：FBI跳出来 将选票从分析团队手中拿走 都给粉碎了 【阿波罗网编译】</a></li>
-<li><a href="/comments/20210111/1465172.md">独家爆料：习近平进入地下指挥所准备核战争</a></li>
+<li><a href="/topimagenews/20210111/1465099.md">不认同左派定性暴乱 美国防部定性1月6日是宪法第一修正案抗议</a></li>
 <li><a href="/cbnews/20210110/1464974.md">大连交警跪地铲雪 网友：中共在培养影帝</a></li>
 <li><a href="/topimagenews/20210110/1464845.md">川普新军楔入情报体系;中欧投资协议中共未遂;马云被整早有禁令 此事才真惹怒习？</a></li>
-<li><a href="/topimagenews/20210111/1465099.md">不认同左派定性暴乱 美国防部定性1月6日是宪法第一修正案抗议</a></li>
+<li><a href="/cbnews/20210110/1464964.md">中国富豪海外一掷千金 西方人震惊：钱从哪来</a></li>
+<li><a href="/health/20210111/1465124.md">年轻夫妻结婚5年不孕去检查，结果丈夫懵了：妻子实际上是个男性</a></li>
+<li><a href="/cnnews/20210111/1465125.md">3死4伤！疯狂枪手滥杀 芝大中国留学生头部中弹死</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210111/1465256.md" target="_blank">【突发】蓬佩奥罕见发出全民通告 CIA前情报官称美国已进入战争状态 预计川普16号夺回共和国 大量军人在国会集结 华盛顿国家机场领空完全关闭 巴基斯坦大停电内幕曝光 导致美军下周二军事行动被迫提前</a></li>
 <li><a href="/cbnews/20210111/1465254.md" target="_blank">天亮时分：弹劾还是第二十五修正案？我们周一就会知道彭斯的真面目；拜登要打击全美步枪协会（政论天下第326集 20210109）</a></li>
 <li><a href="/cbnews/20210111/1465233.md" target="_blank">“石家庄物价稳定”？网民大吐槽：骗谁？</a></li>
 <li><a href="/comments/20210111/1465188.md" target="_blank">惊！51岁美国国会警察自杀身亡 1月6日曾当值</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210110/1464975.md" target="_blank">马云消失后 外媒盘点 这几大富豪也有类似遭遇</a></li>
 <li><a href="/cbnews/20210110/1464974.md" target="_blank">大连交警跪地铲雪 网友：中共在培养影帝</a></li>
 <li><a href="/cbnews/20210110/1464972.md" target="_blank">陈破空：惊传马云跑了！习近平病重？再次缺席重要会议。党媒狂炒美国国会事件。河北疫情竟然归因于</a></li>
-<li><a href="/cbnews/20210110/1464966.md" target="_blank">跟进海豹突击队 海军陆战队步兵将获新装置</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210111/1465274.md" target="_blank">郭飞雄致中共总理李克强与公安部长赵克志紧急公开信 要求两人责令广东省广州市公安局最快时间做一件事</a></li>
+<li><a href="/comments/20210111/1465273.md" target="_blank">川普拟赴德州美墨边境 走访边境墙</a></li>
 <li><a href="/comments/20210111/1465262.md" target="_blank">【欺世大观】47 叛徒名 英雄帽 瞿秋白求死解套</a></li>
 <li><a href="/comments/20210111/1465256.md" target="_blank">【突发】蓬佩奥罕见发出全民通告 CIA前情报官称美国已进入战争状态 预计川普16号夺回共和国 大量军人在国会集结 华盛顿国家机场领空完全关闭 巴基斯坦大停电内幕曝光 导致美军下周二军事行动被迫提前</a></li>
 <li><a href="/comments/20210111/1465244.md" target="_blank">西弗吉尼亚州众议员因参与国会示威辞职</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210111/1465097.md" target="_blank">美媒：中共如何用微信审查海外异议言论</a></li>
 <li><a href="/comments/20210111/1465096.md" target="_blank">拜登称将在任期内打击全国步枪协会</a></li>
 <li><a href="/comments/20210111/1465089.md" target="_blank">脱口秀主持：华府沼泽惧怕川普的剩余几天任期</a></li>
-<li><a href="/comments/20210111/1465083.md" target="_blank">【精彩网文】保命要紧 为什么疫情总在这几个省反复？组图（慎入）</a></li>
-<li><a href="/comments/20210111/1465078.md" target="_blank">中国中高风险区扩到70多个 无症感染者比例是官方数据369倍</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
