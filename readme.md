@@ -10,23 +10,23 @@
 <li><a href="/comments/20210111/1465312.md">最新消息：川普总统签署《平叛法》后飞往加利福尼亚海军陆战队基地彭德尔顿营地</a></li>
 <li><a href="/comments/20210111/1465228.md">山雨欲来！大批美军今日进驻华盛顿 空域突对民航关闭</a></li>
 <li><a href="/bannedvideo/20210111/1465272.md">老川平叛了！美加边境线封了防叛逃！教皇被抓！彭皮奥推特发布行动暗号！【猪妹piggirl】</a></li>
-<li><a href="/health/20210111/1465124.md">年轻夫妻结婚5年不孕去检查，结果丈夫懵了：妻子实际上是个男性</a></li>
 <li><a href="/comments/20210111/1465531.md">【突发】美国第一夫人梅拉尼娅美东时间7am在白宫网站发表公开信（中文翻译）：我们的前进之路 (First Lady Melania Trump: Our Path Forward)</a></li>
+<li><a href="/health/20210111/1465124.md">年轻夫妻结婚5年不孕去检查，结果丈夫懵了：妻子实际上是个男性</a></li>
 <li><a href="/bannedvideo/20210111/1465337.md">孙力军，肖建华已经挂了，习近平在做脑部血管瘤手术时北植入了芯片，成了天线宝宝</a></li>
-<li><a href="/bannedvideo/20210111/1465493.md">好嗨呦！各路坊间传闻的解读：抓捕已经开始，只是不公开！</a></li>
 <li><a href="/cnnews/20210111/1465550.md">刚刚通知！今起 全部关闭</a></li>
-<li><a href="/cnnews/20210111/1465105.md">朱利安尼：川普必须进行大规模解密，“这是他欠美国人民的”</a></li>
+<li><a href="/bannedvideo/20210111/1465493.md">好嗨呦！各路坊间传闻的解读：抓捕已经开始，只是不公开！</a></li>
 <li><a href="/comments/20210111/1465323.md">【突发直播】川普凌晨启用反叛乱法？</a></li>
-<li><a href="/topimagenews/20210111/1465255.md">兑现承诺！川普总统将访问德州【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210111/1465105.md">朱利安尼：川普必须进行大规模解密，“这是他欠美国人民的”</a></li>
 <li><a href="/bannedvideo/20210111/1465186.md">众议员努尼斯透露，未来十天内可能公布武汉实验室病毒真相！大科技公司公然侵犯公民权利，他们背后是中共和左派，他们应该被刑事起诉，应该对他们进行“有组织犯罪”调查，这适用于RICO法案</a></li>
+<li><a href="/topimagenews/20210111/1465255.md">兑现承诺！川普总统将访问德州【阿波罗网编译】</a></li>
 <li><a href="/comments/20210111/1465188.md">惊！51岁美国国会警察自杀身亡 1月6日曾当值</a></li>
 <li><a href="/topimagenews/20210111/1465086.md">美媒最新消息：阿兰-德肖维茨：民主党人无法做到弹劾川普 【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210111/1465336.md">姗姗来迟？1月6日后 外国干预美国大选报告终于出炉</a></li>
 <li><a href="/cbnews/20210111/1465342.md">海南14岁少女嫁15岁少年 这肚子…网友全看傻</a></li>
 <li><a href="/topimagenews/20210111/1465099.md">不认同左派定性暴乱 美国防部定性1月6日是宪法第一修正案抗议</a></li>
 <li><a href="/comments/20210111/1465187.md">美媒：司法部不对川普提出指控！佩洛西有点急了</a></li>
-<li><a href="/cnnews/20210111/1465325.md">深夜奇袭！以色列战机突袭伊朗导弹基地 俄罗斯防空导弹拦不住</a></li>
 <li><a href="/cbnews/20210111/1465506.md">陈破空：为一个女人，习近平和李克强权斗再起！最强印军调往前线，中印大战在即？</a></li>
+<li><a href="/cnnews/20210111/1465325.md">深夜奇袭！以色列战机突袭伊朗导弹基地 俄罗斯防空导弹拦不住</a></li>
 <li><a href="/comments/20210111/1465287.md">袁弓夷：意大利参与大选舞弊？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1465681.md" target="_blank">第一夫人：国会事件令人失望 吁美国尽快疗伤</a></li>
 <li><a href="/comments/20210112/1465673.md" target="_blank">戴黄口罩被赶离法庭 事主：冇做错唔会换 担心事件影响涉案人裁决</a></li>
 <li><a href="/comments/20210112/1465666.md" target="_blank">死者总数破3万 美加州经历中共病毒“致命周末”</a></li>
 <li><a href="/comments/20210112/1465664.md" target="_blank">【突发】川普总统今天将发表重要电视讲话  youtube 有直播  现在正在倒计时</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210111/1465516.md" target="_blank">马云遭关在黑暗房间 正被“强制洗脑”？</a></li>
 <li><a href="/comments/20210111/1465514.md" target="_blank">社群平台封杀川普 卢比奥：扼杀言论自由沦为中共笑柄</a></li>
 <li><a href="/comments/20210111/1465505.md" target="_blank">中共3虎同一天被双开 均在去年落马</a></li>
-<li><a href="/comments/20210111/1465504.md" target="_blank">韩国伊朗商讨油轮被扣问题 意见分歧无果而终</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 
 </ul>
 </div>
