@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20210112/1465874.md">快讯！川普总统批准哥伦比亚特区紧急声明【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210112/1465911.md">FBI 警告：若弹劾川普，50个州或爆发武装起义</a></li>
 <li><a href="/comments/20210112/1466006.md">川普团队新推出的川普视频被伊万卡电报账号置顶 标题：The best is yet to come!（最好的还在后面!）彭佩奥继续猛轰中共 重锤敲打VOA   网络消息：拜登的20号典礼根本不会存在</a></li>
-<li><a href="/cbnews/20210112/1465974.md">原38军军长徐勤先少将生前这句话让邓小平胆战心惊</a></li>
 <li><a href="/comments/20210112/1465909.md">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
+<li><a href="/cbnews/20210112/1465974.md">原38军军长徐勤先少将生前这句话让邓小平胆战心惊</a></li>
 <li><a href="/cnnews/20210112/1465972.md">您没看错！脸书和推特被爱达荷州互联网服务商屏蔽</a></li>
 <li><a href="/cnnews/20210112/1465741.md">全球多地现WhatsApp删除潮</a></li>
 <li><a href="/cbnews/20210112/1465983.md">曾公开支持江泽民、薄熙来 习近平会动陈云的儿子吗？</a></li>
 <li><a href="/headline/20210112/1465652.md">习近平对省部级干部讲话 就中国、世界局势的最新表述</a></li>
 <li><a href="/lifebaike/20210112/1465773.md">面试官：给你20块，怎么请老板吃大餐？应届生冷静回答被录取</a></li>
 <li><a href="/bannedvideo/20210112/1465800.md">佩洛西去哪儿了？弹劾川普却没出境秀口罩？parler好无辜，躺着被硅谷联盟给玩趴了！</a></li>
-<li><a href="/bannedvideo/20210112/1465832.md">三大诡异事件：美国国务院网站称川普任期结束！？预告川普最新讲话，一波三折，原因为何？蓬佩奥在美国之音讲话被内部网删除！</a></li>
 <li><a href="/cnnews/20210112/1466045.md">唾弃民主党的马列统治 德州议员考虑脱美，更多州有意加入【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210112/1466092.md">班农在采访纳瓦罗时说，了不起的郭文贵早就警告美国的科技公司和社交媒体会像中共对中国人一样对待美国人，现在你们都看到了吧！(01/11)</a></li>
+<li><a href="/bannedvideo/20210112/1465832.md">三大诡异事件：美国国务院网站称川普任期结束！？预告川普最新讲话，一波三折，原因为何？蓬佩奥在美国之音讲话被内部网删除！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210112/1466235.md" target="_blank">川普彭斯白宫会面 就反对弹劾达共识；共和党阻止民主党壹致通过罢免川普的决议；纳瓦罗：民主党过度发挥了；国土安全部代理部长突然辞职；多国政界谴责科技巨头封川普账号【希望之声TV】</a></li>
 <li><a href="/cbnews/20210112/1466222.md" target="_blank">川普彭斯再次会面，彭斯还会背后捅刀子吗？伊万卡发一漫画，在传递什么信息？佩洛西缺席首日弹劾议会，网友热议。推特、亚马逊股价暴跌。网络供应商禁用脸书、推特。</a></li>
 <li><a href="/cbnews/20210112/1466194.md" target="_blank">黑龙江望奎县封城 疫情扩散至吉林长春</a></li>
 <li><a href="/cbnews/20210112/1466195.md" target="_blank">澳专家：掩盖疫情散播谎言 中共成全球威胁</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210112/1465918.md" target="_blank">天亮时分：数字极权，左派不怕吗？川普应该做的两件事（政论天下第327集 20210111）</a></li>
 <li><a href="/comments/20210112/1465909.md" target="_blank">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
 <li><a href="/cbnews/20210112/1465904.md" target="_blank">河北感染创新高 黑龙江绥化市疫情再起</a></li>
-<li><a href="/cbnews/20210112/1465865.md" target="_blank">蓬佩奥宣布古巴是恐怖主义赞助国</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1466240.md" target="_blank">【视频】彭佩奥：极权国家的人民视美国为希望 美国之音应向那些最黑暗地方传播光明</a></li>
 <li><a href="/comments/20210112/1466223.md" target="_blank">川普贸易代表促拜登维持对中关税政策</a></li>
 <li><a href="/comments/20210112/1466218.md" target="_blank">金融猛人:特朗普真的只剩8天？</a></li>
 <li><a href="/comments/20210112/1466174.md" target="_blank">奇妙的旅途刚刚开始，最好的还在后面：排干沼泽、抓捕怪物</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210112/1466033.md" target="_blank">葡萄牙总统确诊 日本将再追加3府县进入紧急状态</a></li>
 <li><a href="/comments/20210112/1466011.md" target="_blank">【视频】这些都是真的吗？</a></li>
 <li><a href="/comments/20210112/1466010.md" target="_blank">犹太拉比：科技巨头审查言论是反神战争 终将被弥赛亚打败</a></li>
-<li><a href="/comments/20210112/1466006.md" target="_blank">川普团队新推出的川普视频被伊万卡电报账号置顶 标题：The best is yet to come!（最好的还在后面!）彭佩奥继续猛轰中共 重锤敲打VOA   网络消息：拜登的20号典礼根本不会存在</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
