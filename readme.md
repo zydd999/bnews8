@@ -20,14 +20,14 @@
 <li><a href="/comments/20210112/1465909.md">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
 <li><a href="/cbnews/20210112/1465974.md">原38军军长徐勤先少将生前这句话让邓小平胆战心惊</a></li>
 <li><a href="/cnnews/20210112/1465972.md">您没看错！脸书和推特被爱达荷州互联网服务商屏蔽</a></li>
+<li><a href="/bannedvideo/20210112/1466092.md">班农在采访纳瓦罗时说，了不起的郭文贵早就警告美国的科技公司和社交媒体会像中共对中国人一样对待美国人，现在你们都看到了吧！(01/11)</a></li>
 <li><a href="/cnnews/20210112/1465741.md">全球多地现WhatsApp删除潮</a></li>
 <li><a href="/cbnews/20210112/1465983.md">曾公开支持江泽民、薄熙来 习近平会动陈云的儿子吗？</a></li>
-<li><a href="/bannedvideo/20210112/1466092.md">班农在采访纳瓦罗时说，了不起的郭文贵早就警告美国的科技公司和社交媒体会像中共对中国人一样对待美国人，现在你们都看到了吧！(01/11)</a></li>
-<li><a href="/headline/20210112/1465652.md">习近平对省部级干部讲话 就中国、世界局势的最新表述</a></li>
+<li><a href="/cbnews/20210112/1466147.md">陈破空：手术成功？习近平终于露面！王岐山罕见坐台。三名副主席的荒诞人生！金正恩加冕，妹妹失踪</a></li>
 <li><a href="/lifebaike/20210112/1465773.md">面试官：给你20块，怎么请老板吃大餐？应届生冷静回答被录取</a></li>
+<li><a href="/headline/20210112/1465652.md">习近平对省部级干部讲话 就中国、世界局势的最新表述</a></li>
 <li><a href="/cnnews/20210112/1466045.md">唾弃民主党的马列统治 德州议员考虑脱美，更多州有意加入【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210112/1465800.md">佩洛西去哪儿了？弹劾川普却没出境秀口罩？parler好无辜，躺着被硅谷联盟给玩趴了！</a></li>
-<li><a href="/cbnews/20210112/1466147.md">陈破空：手术成功？习近平终于露面！王岐山罕见坐台。三名副主席的荒诞人生！金正恩加冕，妹妹失踪</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210113/1466267.md" target="_blank">【重磅】前CIA情报官证实：部署在华盛顿的1.5万人部队将执行总统的特殊任务 很多卧底军官参与行动  川普将没收华尔街100万亿美元非法财富 大风暴即将来临</a></li>
+<li><a href="/comments/20210113/1466265.md" target="_blank">【林忌评论】《基本法》违反《国安法》？</a></li>
+<li><a href="/comments/20210113/1466260.md" target="_blank">中大生校门外派传单 吁同学拒向保安“show 证”入校 警大学站外截查</a></li>
+<li><a href="/comments/20210113/1466259.md" target="_blank">【初选大搜捕】林郑斥外国政府“双重标准” 无视中国国家安全 盈富基金事件显“霸权主义”</a></li>
+<li><a href="/comments/20210113/1466258.md" target="_blank">【初选疯狂搜捕】美媒：被捕者电子设备遭“送中”破解 港警暂未能破解较新型号 iPhone</a></li>
+<li><a href="/comments/20210113/1466257.md" target="_blank">工会制 12 港人绘本 建制派狙击“荼毒小朋友” 蔡若莲：借童话包装政治宣传 若教师使用将严肃跟进</a></li>
+<li><a href="/comments/20210113/1466256.md" target="_blank">科技巨头联手封杀Parler 后 川粉转移阵地 Telegram美下载量跃居第2名</a></li>
+<li><a href="/comments/20210113/1466255.md" target="_blank">2月“恐爆惊人灾难”！印度神童预言被YouTube下架</a></li>
 <li><a href="/comments/20210112/1466250.md" target="_blank">美众院共和党人成功阻止佩洛西解职川普</a></li>
 <li><a href="/comments/20210112/1466249.md" target="_blank">【突发】彭佩奥正在发表重要声明 ！Today at 10:30 a.m. EST, Pompeo  deliver remarks at the PressClubDC.</a></li>
 <li><a href="/comments/20210112/1466240.md" target="_blank">【视频】彭佩奥：极权国家的人民视美国为希望 美国之音应向那些最黑暗地方传播光明</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210112/1466101.md" target="_blank">评估人士：中国制疫苗巴西后期试验 有效力低于60％</a></li>
 <li><a href="/comments/20210112/1466100.md" target="_blank">茶水能直接杀灭新冠病毒？冬季适合喝什么茶</a></li>
 <li><a href="/comments/20210112/1466099.md" target="_blank">研究：9成新冠病患在一定时间内，有免疫力</a></li>
-<li><a href="/comments/20210112/1466098.md" target="_blank">肾虚、气虚、血虚，你是哪种虚？怎么调理教给你</a></li>
-<li><a href="/comments/20210112/1466097.md" target="_blank">海带会让甲状腺肿大吗？营养师的建议是&#8230;</a></li>
-<li><a href="/comments/20210112/1466085.md" target="_blank">路透引北京消息：拟改立法会选举制度 今年 9 月选举或再押后</a></li>
-<li><a href="/comments/20210112/1466068.md" target="_blank">十万火急 学者分析川普军管三因素</a></li>
-<li><a href="/comments/20210112/1466047.md" target="_blank">双菇炒面筋</a></li>
-<li><a href="/comments/20210112/1466034.md" target="_blank">孙大骆：中共发出战争警告 美国回应极其软弱</a></li>
-<li><a href="/comments/20210112/1466036.md" target="_blank">怒斥叶刘淑仪</a></li>
-<li><a href="/comments/20210112/1466033.md" target="_blank">葡萄牙总统确诊 日本将再追加3府县进入紧急状态</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
 
 </ul>
 </div>
