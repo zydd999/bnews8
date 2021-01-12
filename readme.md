@@ -18,14 +18,14 @@
 <li><a href="/cbnews/20210111/1465342.md">海南14岁少女嫁15岁少年 这肚子…网友全看傻</a></li>
 <li><a href="/cbnews/20210112/1465707.md">共和党叫停民主党首次罢免川普表决</a></li>
 <li><a href="/cnnews/20210111/1465536.md">果然害怕：佩罗西在《60分钟》采访中承认 弹劾川普总统的动机是…视频【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210112/1465839.md">川普已经赢得主宰沼泽地力量的一方，佩洛西构陷川普信函曝光，世界将重新大洗牌，川普胜势即将到来。1月11专题+问答 马先</a></li>
 <li><a href="/topimagenews/20210111/1465507.md">机场视频:上了禁飞黑名的单国会大厦抗议者 已经不能坐飞机了【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210111/1465325.md">深夜奇袭！以色列战机突袭伊朗导弹基地 俄罗斯防空导弹拦不住</a></li>
-<li><a href="/comments/20210111/1465287.md">袁弓夷：意大利参与大选舞弊？</a></li>
 <li><a href="/bannedvideo/20210111/1465293.md">拜登金正恩“密语”曝光！川普战友蓬佩奥祭出美台关系杀手锏！佩洛西慌了，习近平空喜一场</a></li>
-<li><a href="/bannedvideo/20210112/1465839.md">川普已经赢得主宰沼泽地力量的一方，佩洛西构陷川普信函曝光，世界将重新大洗牌，川普胜势即将到来。1月11专题+问答 马先</a></li>
 <li><a href="/cbnews/20210111/1465563.md">至暗时刻来临，川普总统“永不放弃”。国防部拒绝配合佩洛西发动“军事政变”。国防部定性6日国会事件。麦金纳尼中将证实拿到佩洛西的电脑。川普将视察德州。</a></li>
 <li><a href="/comments/20210111/1465433.md">川普能启动《反叛乱法》吗？</a></li>
 <li><a href="/worldnews/20210111/1465456.md">印尼客机坠毁细节曝光：不是空中爆炸 而是…</a></li>
+<li><a href="/cbnews/20210112/1465725.md">疫情爆发 北京封国道 河北逾千民齐吼：放行</a></li>
 <li><a href="/cbnews/20210111/1465326.md">国防官员确认川普仍为总司令  拒绝军事政变；民调：川普支持率上升至48%；奥巴马前中情局长要排斥7500万川普支持者？印尼飞机失事【希望之声TV】</a></li>
 <li><a href="/cnnews/20210111/1465448.md">中共首贪赖小民是怎样发迹的？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1465953.md" target="_blank">【突发直播】华盛顿进入紧急状态 佩洛西未现身国会</a></li>
 <li><a href="/comments/20210112/1465941.md" target="_blank">【微博精粹】佩大妈们在干希特勒都没干过的事 看看金正恩的惊人警告</a></li>
 <li><a href="/comments/20210112/1465938.md" target="_blank">【重磅】川普1月11号发出震撼信息：暴风雨即将来临 ！请大家保持冷静！事情正在发生 为了大家的利益 不公开展示 现在全世界都在看着我们</a></li>
 <li><a href="/comments/20210112/1465928.md" target="_blank">痛斥当局要置常玮平于死地 常妻：我必须要站出来</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210112/1465747.md" target="_blank">武汉染疫真实死亡人数惊人！英媒：中共删武汉病毒所3000份重要报告 研究：武汉染疫人数为官方通报的3倍 无症状为369倍</a></li>
 <li><a href="/comments/20210112/1465736.md" target="_blank">中国50家上市房企市值去年缩水8000亿元</a></li>
 <li><a href="/comments/20210112/1465735.md" target="_blank">台商加速撤离中国 去年直接投资锐减一半</a></li>
-<li><a href="/comments/20210112/1465734.md" target="_blank">日本漫画家的预言~15个应验了12个半</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 
 </ul>
 </div>
