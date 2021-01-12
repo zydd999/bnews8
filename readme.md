@@ -12,22 +12,22 @@
 <li><a href="/comments/20210111/1465531.md">【突发】美国第一夫人梅拉尼娅美东时间7am在白宫网站发表公开信（中文翻译）：我们的前进之路 (First Lady Melania Trump: Our Path Forward)</a></li>
 <li><a href="/comments/20210111/1465323.md">【突发直播】川普凌晨启用反叛乱法？</a></li>
 <li><a href="/bannedvideo/20210111/1465493.md">好嗨呦！各路坊间传闻的解读：抓捕已经开始，只是不公开！</a></li>
-<li><a href="/topimagenews/20210111/1465255.md">兑现承诺！川普总统将访问德州【阿波罗网编译】</a></li>
 <li><a href="/comments/20210112/1465664.md">【突发】川普总统今天或将发表重要电视讲话  youtube或有直播</a></li>
 <li><a href="/cnnews/20210111/1465336.md">姗姗来迟？1月6日后 外国干预美国大选报告终于出炉</a></li>
 <li><a href="/cnnews/20210112/1465680.md">马云「被消失」？日媒警告习近平将付惨痛代价 重创中国</a></li>
 <li><a href="/cbnews/20210111/1465506.md">陈破空：为一个女人，习近平和李克强权斗再起！最强印军调往前线，中印大战在即？</a></li>
 <li><a href="/cbnews/20210111/1465342.md">海南14岁少女嫁15岁少年 这肚子…网友全看傻</a></li>
 <li><a href="/cnnews/20210111/1465536.md">果然害怕：佩罗西在《60分钟》采访中承认 弹劾川普总统的动机是…视频【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210112/1465707.md">共和党叫停民主党首次罢免川普表决</a></li>
 <li><a href="/topimagenews/20210111/1465507.md">机场视频:上了禁飞黑名的单国会大厦抗议者 已经不能坐飞机了【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210111/1465325.md">深夜奇袭！以色列战机突袭伊朗导弹基地 俄罗斯防空导弹拦不住</a></li>
-<li><a href="/cbnews/20210112/1465707.md">共和党叫停民主党首次罢免川普表决</a></li>
 <li><a href="/comments/20210111/1465287.md">袁弓夷：意大利参与大选舞弊？</a></li>
 <li><a href="/bannedvideo/20210111/1465293.md">拜登金正恩“密语”曝光！川普战友蓬佩奥祭出美台关系杀手锏！佩洛西慌了，习近平空喜一场</a></li>
 <li><a href="/cbnews/20210111/1465563.md">至暗时刻来临，川普总统“永不放弃”。国防部拒绝配合佩洛西发动“军事政变”。国防部定性6日国会事件。麦金纳尼中将证实拿到佩洛西的电脑。川普将视察德州。</a></li>
 <li><a href="/comments/20210111/1465433.md">川普能启动《反叛乱法》吗？</a></li>
-<li><a href="/cbnews/20210111/1465326.md">国防官员确认川普仍为总司令  拒绝军事政变；民调：川普支持率上升至48%；奥巴马前中情局长要排斥7500万川普支持者？印尼飞机失事【希望之声TV】</a></li>
 <li><a href="/worldnews/20210111/1465456.md">印尼客机坠毁细节曝光：不是空中爆炸 而是…</a></li>
+<li><a href="/cbnews/20210111/1465326.md">国防官员确认川普仍为总司令  拒绝军事政变；民调：川普支持率上升至48%；奥巴马前中情局长要排斥7500万川普支持者？印尼飞机失事【希望之声TV】</a></li>
+<li><a href="/cnnews/20210111/1465448.md">中共首贪赖小民是怎样发迹的？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1465909.md" target="_blank">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
+<li><a href="/cbnews/20210112/1465904.md" target="_blank">河北感染创新高 黑龙江绥化市疫情再起</a></li>
 <li><a href="/cbnews/20210112/1465865.md" target="_blank">蓬佩奥宣布古巴是恐怖主义赞助国</a></li>
 <li><a href="/cbnews/20210112/1465858.md" target="_blank">蓬佩奥讲话 推特股价大跌 Parler提诉 意味着什么？ 嘉宾：方伟 蓝述  主持：高洁 【希望之声TV】(2021/01/11)</a></li>
 <li><a href="/cbnews/20210112/1465838.md" target="_blank">文昭：被封到电视、川普还能「反围剿」吗？Parler後下个被清算的是谁；阻止美国成「墙国」的出路在哪</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20210111/1465506.md" target="_blank">陈破空：为一个女人，习近平和李克强权斗再起！最强印军调往前线，中印大战在即？</a></li>
 <li><a href="/cbnews/20210111/1465414.md" target="_blank">打击中共 取消美台交往限制 学者：助台重回国际社会</a></li>
 <li><a href="/cbnews/20210111/1465413.md" target="_blank">“抗疫史诗”变味？北京半封城几乎只出不进</a></li>
-<li><a href="/cbnews/20210111/1465402.md" target="_blank">薄熙来搭档刘国强被双开 花巨资跑官买官被骗</a></li>
-<li><a href="/cbnews/20210111/1465398.md" target="_blank">曾节明：对美国2020年大选的表态，中共为何破天荒的反常？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1465909.md" target="_blank">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
 <li><a href="/topimagenews/20210112/1465782.md" target="_blank">民主党制下的美国或成“大加州” 犹太拉比：科技巨头审查言论是反神战争</a></li>
 <li><a href="/topimagenews/20210112/1465723.md" target="_blank">白宫贸易顾问纳瓦罗：习近平借马云“杀鸡儆猴”</a></li>
 <li><a href="/topimagenews/20210112/1465662.md" target="_blank">禁川普不禁恶名昭彰独裁者 推特股价崩跌10%</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210109/1464373.md" target="_blank">历史惊人相似 里应外合 国会警察开门让安提法冲入大楼 多组视频</a></li>
 <li><a href="/comments/20210109/1464370.md" target="_blank">惊爆：中共授意佩洛西阻止川普向中国发射核武器</a></li>
 <li><a href="/comments/20210109/1464320.md" target="_blank">生命探索：双螺旋的无线电秘密（视频）</a></li>
-<li><a href="/topimagenews/20210109/1464289.md" target="_blank">爆炸新闻：麦康奈尔发出弹劾川普总统备忘录 配合佩罗西强推【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1465909.md" target="_blank">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
+<li><a href="/comments/20210112/1465910.md" target="_blank">川普政府将古巴列入恐怖主义资助国清单</a></li>
 <li><a href="/comments/20210112/1465901.md" target="_blank">湖北啤酒大王李大红去世 家属向医院索赔逾2千万</a></li>
 <li><a href="/comments/20210112/1465900.md" target="_blank">从索多玛的覆灭 找到从大灾中逃生的秘诀</a></li>
 <li><a href="/comments/20210112/1465893.md" target="_blank">川普批准华府进入紧急状态 声明一览</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210112/1465720.md" target="_blank">美经济学教授：向大选舞弊屈服绝非爱国</a></li>
 <li><a href="/comments/20210112/1465719.md" target="_blank">反对弹劾总统 多位议员吁议长停止分裂国家</a></li>
 <li><a href="/comments/20210112/1465718.md" target="_blank">传中共要求蚂蚁、腾讯等科技巨头分享消费者数据</a></li>
-<li><a href="/comments/20210112/1465710.md" target="_blank">报个平安 人无事 未死得</a></li>
-<li><a href="/comments/20210112/1465709.md" target="_blank">官赶黄口罩 前区院暂委法官批做法不妥当 但指口罩如有“FDNOL”或被视为政治宣传</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
