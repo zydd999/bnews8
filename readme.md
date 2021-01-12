@@ -19,8 +19,8 @@
 <li><a href="/cbnews/20210112/1465911.md">FBI 警告：若弹劾川普，50个州或爆发武装起义</a></li>
 <li><a href="/cbnews/20210112/1465974.md">原38军军长徐勤先少将生前这句话让邓小平胆战心惊</a></li>
 <li><a href="/comments/20210112/1465909.md">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
-<li><a href="/cnnews/20210112/1465972.md">您没看错！脸书和推特被爱达荷州互联网服务商屏蔽</a></li>
 <li><a href="/cnnews/20210112/1466137.md">共和党要大变革？美众议员：和川普总统周日谈过，共和党需要大变革</a></li>
+<li><a href="/cnnews/20210112/1465972.md">您没看错！脸书和推特被爱达荷州互联网服务商屏蔽</a></li>
 <li><a href="/cbnews/20210112/1465983.md">曾公开支持江泽民、薄熙来 习近平会动陈云的儿子吗？</a></li>
 <li><a href="/cnnews/20210112/1465741.md">全球多地现WhatsApp删除潮</a></li>
 <li><a href="/cnnews/20210112/1466045.md">唾弃民主党的马列统治 德州议员考虑脱美，更多州有意加入【阿波罗网编译】</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210113/1466335.md" target="_blank">证据显示：中共斥巨资在美全力部署信息战网络</a></li>
+<li><a href="/comments/20210113/1466334.md" target="_blank">北卡基督徒：川普唤醒了美国各族裔民众</a></li>
+<li><a href="/comments/20210113/1466333.md" target="_blank">金正恩胞妹金与正被踢出朝鲜政治局更多内情曝光</a></li>
+<li><a href="/comments/20210113/1466329.md" target="_blank">武汉封城周年将届 中共下令媒体淡化相关报导</a></li>
 <li><a href="/comments/20210113/1466328.md" target="_blank">美电商巨头：共产党正在接管美国</a></li>
 <li><a href="/comments/20210113/1466326.md" target="_blank">【视频】蓬佩奥美国之音演讲：美国之音不能拿纳税人的钱成为中共外宣平台！这种行为非常危险</a></li>
 <li><a href="/comments/20210113/1466325.md" target="_blank">【视频】名主持林博为何要自停推特账户</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210112/1466240.md" target="_blank">【视频】彭佩奥：极权国家的人民视美国为希望 美国之音应向那些最黑暗地方传播光明</a></li>
 <li><a href="/comments/20210112/1466223.md" target="_blank">川普贸易代表促拜登维持对中关税政策</a></li>
 <li><a href="/comments/20210112/1466218.md" target="_blank">金融猛人:特朗普真的只剩8天？</a></li>
-<li><a href="/comments/20210112/1466174.md" target="_blank">奇妙的旅途刚刚开始，最好的还在后面：排干沼泽、抓捕怪物</a></li>
-<li><a href="/comments/20210112/1466199.md" target="_blank">【中大入口争执】学生会谴责校方报警拘学生 形容中大“将学子一步步推向深渊”</a></li>
-<li><a href="/comments/20210112/1466198.md" target="_blank">【武汉肺炎】香港 01 记者初步确诊 消息指上周五曾访问梁卓伟</a></li>
-<li><a href="/comments/20210112/1466181.md" target="_blank">前大陆国安官员退党 渴望助力“三退”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
