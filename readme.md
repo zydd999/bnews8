@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210111/1465312.md">最新消息：川普总统签署《平叛法》后飞往加利福尼亚海军陆战队基地彭德尔顿营地</a></li>
-<li><a href="/bannedvideo/20210111/1465272.md">老川平叛了！美加边境线封了防叛逃！教皇被抓！彭皮奥推特发布行动暗号！【猪妹piggirl】</a></li>
 <li><a href="/bannedvideo/20210111/1465337.md">孙力军，肖建华已经挂了，习近平在做脑部血管瘤手术时北植入了芯片，成了天线宝宝</a></li>
 <li><a href="/cnnews/20210111/1465550.md">刚刚通知！今起 全部关闭</a></li>
 <li><a href="/comments/20210111/1465531.md">【突发】美国第一夫人梅拉尼娅美东时间7am在白宫网站发表公开信（中文翻译）：我们的前进之路 (First Lady Melania Trump: Our Path Forward)</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/cnnews/20210112/1465680.md">马云「被消失」？日媒警告习近平将付惨痛代价 重创中国</a></li>
 <li><a href="/cbnews/20210111/1465506.md">陈破空：为一个女人，习近平和李克强权斗再起！最强印军调往前线，中印大战在即？</a></li>
 <li><a href="/cbnews/20210111/1465342.md">海南14岁少女嫁15岁少年 这肚子…网友全看傻</a></li>
-<li><a href="/cnnews/20210111/1465536.md">果然害怕：佩罗西在《60分钟》采访中承认 弹劾川普总统的动机是…视频【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210112/1465707.md">共和党叫停民主党首次罢免川普表决</a></li>
+<li><a href="/cnnews/20210111/1465536.md">果然害怕：佩罗西在《60分钟》采访中承认 弹劾川普总统的动机是…视频【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210111/1465507.md">机场视频:上了禁飞黑名的单国会大厦抗议者 已经不能坐飞机了【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210111/1465325.md">深夜奇袭！以色列战机突袭伊朗导弹基地 俄罗斯防空导弹拦不住</a></li>
 <li><a href="/comments/20210111/1465287.md">袁弓夷：意大利参与大选舞弊？</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/worldnews/20210111/1465456.md">印尼客机坠毁细节曝光：不是空中爆炸 而是…</a></li>
 <li><a href="/cbnews/20210111/1465326.md">国防官员确认川普仍为总司令  拒绝军事政变；民调：川普支持率上升至48%；奥巴马前中情局长要排斥7500万川普支持者？印尼飞机失事【希望之声TV】</a></li>
 <li><a href="/cnnews/20210111/1465448.md">中共首贪赖小民是怎样发迹的？</a></li>
+<li><a href="/bannedvideo/20210112/1465839.md">川普已经赢得主宰沼泽地力量的一方，佩洛西构陷川普信函曝光，世界将重新大洗牌，川普胜势即将到来。1月11专题+问答 马先</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210112/1465918.md" target="_blank">天亮时分：数字极权，左派不怕吗？川普应该做的两件事（政论天下第327集 20210111）</a></li>
 <li><a href="/comments/20210112/1465909.md" target="_blank">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
 <li><a href="/cbnews/20210112/1465904.md" target="_blank">河北感染创新高 黑龙江绥化市疫情再起</a></li>
 <li><a href="/cbnews/20210112/1465865.md" target="_blank">蓬佩奥宣布古巴是恐怖主义赞助国</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210111/1465515.md" target="_blank">佩洛西：弹劾为川普不会再竞选总统；法学教授：川普讲话没有号召暴力；Parler遭禁用 执行长：公司可能破产；白宫：川普周二将访德州边境【希望之声TV】</a></li>
 <li><a href="/cbnews/20210111/1465506.md" target="_blank">陈破空：为一个女人，习近平和李克强权斗再起！最强印军调往前线，中印大战在即？</a></li>
 <li><a href="/cbnews/20210111/1465414.md" target="_blank">打击中共 取消美台交往限制 学者：助台重回国际社会</a></li>
-<li><a href="/cbnews/20210111/1465413.md" target="_blank">“抗疫史诗”变味？北京半封城几乎只出不进</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210112/1465928.md" target="_blank">痛斥当局要置常玮平于死地 常妻：我必须要站出来</a></li>
+<li><a href="/comments/20210112/1465927.md" target="_blank">美媒：川普彭斯会面 就反对弹劾达共识</a></li>
 <li><a href="/comments/20210112/1465909.md" target="_blank">孙大骆：中共对台战争已经箭在弦上——中共党政军高官开什么会</a></li>
 <li><a href="/comments/20210112/1465910.md" target="_blank">川普政府将古巴列入恐怖主义资助国清单</a></li>
 <li><a href="/comments/20210112/1465901.md" target="_blank">湖北啤酒大王李大红去世 家属向医院索赔逾2千万</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210112/1465734.md" target="_blank">日本漫画家的预言~15个应验了12个半</a></li>
 <li><a href="/comments/20210112/1465722.md" target="_blank">美国第一夫人发表声明：我们的前进道路</a></li>
 <li><a href="/comments/20210112/1465720.md" target="_blank">美经济学教授：向大选舞弊屈服绝非爱国</a></li>
-<li><a href="/comments/20210112/1465719.md" target="_blank">反对弹劾总统 多位议员吁议长停止分裂国家</a></li>
-<li><a href="/comments/20210112/1465718.md" target="_blank">传中共要求蚂蚁、腾讯等科技巨头分享消费者数据</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
 <li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 
 </ul>
 </div>
