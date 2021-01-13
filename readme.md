@@ -7,15 +7,14 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210112/1466147.md">陈破空：手术成功？习近平终于露面！王岐山罕见坐台。三名副主席的荒诞人生！金正恩加冕，妹妹失踪</a></li>
 <li><a href="/bannedvideo/20210112/1466092.md">班农在采访纳瓦罗时说，了不起的郭文贵早就警告美国的科技公司和社交媒体会像中共对中国人一样对待美国人，现在你们都看到了吧！(01/11)</a></li>
-<li><a href="/comments/20210112/1466006.md">川普团队新推出的川普视频被伊万卡电报账号置顶 标题：The best is yet to come!（最好的还在后面!）彭佩奥继续猛轰中共 重锤敲打VOA   网络消息：拜登的20号典礼根本不会存在</a></li>
 <li><a href="/comments/20210113/1466333.md">金正恩胞妹金与正被踢出朝鲜政治局更多内情曝光</a></li>
 <li><a href="/cnnews/20210112/1466137.md">共和党要大变革？美众议员：和川普总统周日谈过，共和党需要大变革</a></li>
-<li><a href="/comments/20210113/1466267.md">【重磅】前CIA情报官证实：部署在华盛顿的1.5万人部队将执行总统的特殊任务 很多卧底军官参与行动  川普将没收华尔街100万亿美元非法财富 大风暴即将来临</a></li>
 <li><a href="/cbnews/20210113/1466464.md">川普德州讲话  美军八将领联合声明  嘉宾：蓝述 谢田 陈光诚  主持：高洁【希望之声TV】(2021/01/12)</a></li>
+<li><a href="/comments/20210113/1466267.md">【重磅】前CIA情报官证实：部署在华盛顿的1.5万人部队将执行总统的特殊任务 很多卧底军官参与行动  川普将没收华尔街100万亿美元非法财富 大风暴即将来临</a></li>
 <li><a href="/cnnews/20210113/1466331.md">克拉夫特去不了台湾 美国务院取消所有出访</a></li>
 <li><a href="/cbnews/20210113/1466369.md">福克斯新闻：亨特硬盘里想不到的内容会震惊所有人</a></li>
-<li><a href="/cnnews/20210112/1466045.md">唾弃民主党的马列统治 德州议员考虑脱美，更多州有意加入【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210113/1466528.md">众议院共和党主席 “从未有过更严重的总统背叛了–我将投票弹劾总统“【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210112/1466045.md">唾弃民主党的马列统治 德州议员考虑脱美，更多州有意加入【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210113/1466399.md">男人"糟蹋"肝脏的3个行为，喝酒排第三，榜首让不少人"脸红"</a></li>
 <li><a href="/cbnews/20210112/1466222.md">川普彭斯再次会面，彭斯还会背后捅刀子吗？伊万卡发一漫画，在传递什么信息？佩洛西缺席首日弹劾议会，网友热议。推特、亚马逊股价暴跌。网络供应商禁用脸书、推特。</a></li>
 <li><a href="/baitai/20210112/1466161.md">印度神童预言2月或爆更大灾难到呢个月先回复正常｜附2021预言</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/topimagenews/20210113/1466490.md">你就是个社会主义者！民主党大佬舒默纽约重磅发布会被砸场【阿波罗网记者编译】</a></li>
 <li><a href="/comments/20210112/1466174.md">奇妙的旅途刚刚开始，最好的还在后面：排干沼泽、抓捕怪物</a></li>
 <li><a href="/cbnews/20210113/1466404.md">（更新）川普彭斯再次会面，彭斯还会背后捅刀子吗？伊万卡发一漫画，在传递什么信息？让佩洛西惊恐的两件事。佩婆缺席首日弹劾议会，网友热议。推特、亚马逊股价暴跌。</a></li>
+<li><a href="/cnnews/20210113/1466474.md">赖小民死刑，我心疼的不是他带走的补肾秘方</a></li>
 <li><a href="/topimagenews/20210112/1466219.md">受够了网络盖世太保？允许言论自由的替代产品名录这里有【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210112/1466019.md">一片肃杀之气！全球最大的枪械社群网站被GoDaddy踢出</a></li>
+<li><a href="/comments/20210112/1466218.md">金融猛人:特朗普真的只剩8天？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210113/1466671.md" target="_blank">川普在德州阿拉莫视察边境墙 川普演讲: 弹劾与言论打压分裂国家</a></li>
+<li><a href="/cbnews/20210113/1466670.md" target="_blank">【1/13 直播】陈时中说明医护确诊后续 新增4境外确诊 台湾中央疫情指挥中心记者会</a></li>
 <li><a href="/cbnews/20210113/1466647.md" target="_blank">河北2万人紧急转移 英国增设临时太平间</a></li>
 <li><a href="/cbnews/20210113/1466640.md" target="_blank">川普会不会辞职？已有议员证实！人财两空？脸书推特遭员工抛弃！蓬佩奥证实伊朗与基地组织关系密切【希望之声TV】</a></li>
 <li><a href="/cbnews/20210113/1466638.md" target="_blank">内部人士踢爆石家庄每日新增病例过百</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210113/1466383.md" target="_blank">川普在登机去德州前的简短讲话，其中表达了对弹劾的看法。川普说，无中生有的弹劾案，正在给我们国家造成巨大的危害，我不想有爆力，没有他们所说的暴力……</a></li>
 <li><a href="/cbnews/20210113/1466379.md" target="_blank">陈破空：直播预告：特朗普突抵美墨边界！行前与彭斯相谈融洽。批准华盛顿紧急状态为哪班？陈破空与网友互动 Q&amp;A 美东时间1月12日周二晚8点半、即中港台时间1月13日周三早9点半</a></li>
 <li><a href="/cbnews/20210113/1466377.md" target="_blank">川普1月6日后首次公开讲话</a></li>
-<li><a href="/cbnews/20210113/1466369.md" target="_blank">福克斯新闻：亨特硬盘里想不到的内容会震惊所有人</a></li>
-<li><a href="/cbnews/20210113/1466368.md" target="_blank">河北廊坊核酸检测点现随地倒 离北京仅30公里</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
