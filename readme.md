@@ -5,13 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/ssgc/20210112/1465915.md">川普将在3月4日王者归来 逮捕的人包括前总统和米歇尔·奥巴马等</a></li>
-<li><a href="/comments/20210112/1465938.md">【重磅】1月11号震撼信息：暴风雨即将来临 ！请大家保持冷静！事情正在发生 为了大家的利益 不公开展示 现在全世界都在看着我们</a></li>
 <li><a href="/cbnews/20210112/1466147.md">陈破空：手术成功？习近平终于露面！王岐山罕见坐台。三名副主席的荒诞人生！金正恩加冕，妹妹失踪</a></li>
 <li><a href="/bannedvideo/20210112/1466092.md">班农在采访纳瓦罗时说，了不起的郭文贵早就警告美国的科技公司和社交媒体会像中共对中国人一样对待美国人，现在你们都看到了吧！(01/11)</a></li>
 <li><a href="/cbnews/20210112/1465974.md">原38军军长徐勤先少将生前这句话让邓小平胆战心惊</a></li>
 <li><a href="/comments/20210112/1466006.md">川普团队新推出的川普视频被伊万卡电报账号置顶 标题：The best is yet to come!（最好的还在后面!）彭佩奥继续猛轰中共 重锤敲打VOA   网络消息：拜登的20号典礼根本不会存在</a></li>
-<li><a href="/cbnews/20210112/1465911.md">FBI 警告：若弹劾川普，50个州或爆发武装起义</a></li>
 <li><a href="/comments/20210113/1466333.md">金正恩胞妹金与正被踢出朝鲜政治局更多内情曝光</a></li>
 <li><a href="/cnnews/20210113/1466331.md">克拉夫特去不了台湾 美国务院取消所有出访</a></li>
 <li><a href="/cnnews/20210112/1466137.md">共和党要大变革？美众议员：和川普总统周日谈过，共和党需要大变革</a></li>
@@ -19,8 +16,8 @@
 <li><a href="/cbnews/20210112/1465983.md">曾公开支持江泽民、薄熙来 习近平会动陈云的儿子吗？</a></li>
 <li><a href="/cnnews/20210112/1465972.md">您没看错！脸书和推特被爱达荷州互联网服务商屏蔽</a></li>
 <li><a href="/cnnews/20210112/1466045.md">唾弃民主党的马列统治 德州议员考虑脱美，更多州有意加入【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20210112/1466191.md">奇书《川普预言》作者最新预言, 暗示川普处境艰难, 身边有“披着羊皮的狼”! 拜登就职前武装抗议加剧, 民兵要动手? 真观点</a></li>
 <li><a href="/cbnews/20210113/1466369.md">福克斯新闻：亨特硬盘里想不到的内容会震惊所有人</a></li>
+<li><a href="/bannedvideo/20210112/1466191.md">奇书《川普预言》作者最新预言, 暗示川普处境艰难, 身边有“披着羊皮的狼”! 拜登就职前武装抗议加剧, 民兵要动手? 真观点</a></li>
 <li><a href="/cbnews/20210112/1466222.md">川普彭斯再次会面，彭斯还会背后捅刀子吗？伊万卡发一漫画，在传递什么信息？佩洛西缺席首日弹劾议会，网友热议。推特、亚马逊股价暴跌。网络供应商禁用脸书、推特。</a></li>
 <li><a href="/cnnews/20210112/1466125.md">扼杀言论 脸书推特股价暴跌 人心所向 几千员工求职自由言论平台【阿波罗网编译】</a></li>
 <li><a href="/baitai/20210112/1466161.md">印度神童预言2月或爆更大灾难到呢个月先回复正常｜附2021预言</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/cbnews/20210112/1466067.md">中共别想武力犯台 加国参谋总长:「西方国家要让北京知道动武的代价」</a></li>
 <li><a href="/comments/20210112/1465993.md">马云出事内幕 习近平一箭双雕 民企巨头人人自危 白宫高官曝内幕：习近平杀鸡儆猴巩固个人权力 中南海谣言预言_424</a></li>
 <li><a href="/topimagenews/20210113/1466316.md">川普批弹劾「猎巫 荒谬至极」已造成极大愤怒 集会演说完全合适</a></li>
+<li><a href="/cbnews/20210113/1466464.md">川普德州讲话  美军八将领联合声明  嘉宾：蓝述 谢田 陈光诚  主持：高洁【希望之声TV】(2021/01/12)</a></li>
+<li><a href="/comments/20210112/1466174.md">奇妙的旅途刚刚开始，最好的还在后面：排干沼泽、抓捕怪物</a></li>
+<li><a href="/topimagenews/20210112/1466219.md">受够了网络盖世太保？允许言论自由的替代产品名录这里有【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210113/1466605.md" target="_blank">恐慌！哈尔滨再焊死楼门 黑龙江全面沦陷</a></li>
+<li><a href="/cbnews/20210113/1466599.md" target="_blank">美提案“指定中共为跨国犯罪集团“；就职典礼 国民警卫队将部署1.5万名士兵；美高级顾问：民意希望国会放弃弹劾；Parler首席执行官生命遭威胁 ； 中国疫情严重 多省无限期押后召开两会【希望之声TV】</a></li>
 <li><a href="/cbnews/20210113/1466571.md" target="_blank">萧铭：麦康奈尔放行弹劾？</a></li>
 <li><a href="/cbnews/20210113/1466554.md" target="_blank">习近平打虎动真格？赖小民死刑惹猜测</a></li>
 <li><a href="/cbnews/20210113/1466552.md" target="_blank">天亮时分：明早启动弹劾川普案，彭斯表态；麦康奈尔态度暧昧；在线支付停止给川普捐款功能（政论天下第328集 20210112）</a></li>
@@ -56,11 +58,9 @@
 <li><a href="/cbnews/20210113/1466368.md" target="_blank">河北廊坊核酸检测点现随地倒 离北京仅30公里</a></li>
 <li><a href="/cbnews/20210113/1466367.md" target="_blank">中国多地疫情持续暴增 中共人代会推迟</a></li>
 <li><a href="/cbnews/20210113/1466350.md" target="_blank">川普总统在德州演讲【希望之声TV】(2021/01/12)</a></li>
+<li><a href="/cbnews/20210113/1466598.md" target="_blank">美反情报负责人﹕中共将改变手段继续窃密</a></li>
 <li><a href="/cbnews/20210113/1466322.md" target="_blank">澳总理拒绝“大重构” 称“我们不需要它”</a></li>
 <li><a href="/cbnews/20210113/1466285.md" target="_blank">国会发中共宣传报？议员要佩洛西住手；德州想从共产美国独立 几个州有意加入；弹劾污名化川普  专家：这是中共的手段；Parler被封杀或破产 专家：谨防大公司成专制剥削者；葡萄牙总统染疫【希望之声TV】</a></li>
-<li><a href="/comments/20210112/1465679.md" target="_blank">蓬佩奥在国家新闻俱乐部发表讲话（同声传译）</a></li>
-<li><a href="/cbnews/20210112/1466235.md" target="_blank">川普彭斯白宫会面 就反对弹劾达共识；共和党阻止民主党壹致通过罢免川普的决议；纳瓦罗：民主党过度发挥了；国土安全部代理部长突然辞职；多国政界谴责科技巨头封川普账号【希望之声TV】</a></li>
-<li><a href="/cbnews/20210112/1466222.md" target="_blank">川普彭斯再次会面，彭斯还会背后捅刀子吗？伊万卡发一漫画，在传递什么信息？佩洛西缺席首日弹劾议会，网友热议。推特、亚马逊股价暴跌。网络供应商禁用脸书、推特。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210113/1466608.md" target="_blank">彭斯正式拒绝国会弹劾川普要求 声明译文一览</a></li>
 <li><a href="/comments/20210113/1466580.md" target="_blank">蓬佩奥取消欧洲出访 原因系保障政府过渡</a></li>
 <li><a href="/comments/20210113/1466574.md" target="_blank">陶杰：说不完的川普 1月6日活脱脱的华盛顿小型六四版</a></li>
 <li><a href="/comments/20210113/1466567.md" target="_blank">诡异！疫苗甫上市 国药控股董事长突去职</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210113/1466462.md" target="_blank">98岁杨振宁语告44岁翁帆：一旦他离世她可改嫁 翁帆听了后……</a></li>
 <li><a href="/comments/20210113/1466461.md" target="_blank">章子怡演15岁少女难说服陆网 汪峰心疼力挺</a></li>
 <li><a href="/comments/20210113/1466238.md" target="_blank">疫情反扑病毒变种远超想象 疫苗背后藏有哪些惊天秘密？｜未解之谜｜探索与洞见</a></li>
-<li><a href="/comments/20210113/1466450.md" target="_blank">突发 美国务院突取消访台计划 蓬佩奥令全体留守防意外</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
+<li><a href="/comments/20210105/1461133.md" target="_blank">林伍德大律师舍命爆出惊天秘密</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
