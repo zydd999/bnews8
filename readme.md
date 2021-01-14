@@ -15,13 +15,13 @@
 <li><a href="/comments/20210114/1467127.md">【突发】川普1月13号批准康涅狄格 乔治亚 犹他州 路易斯安那州因严重自然灾害需联邦援助   极大可能是为实施《反叛乱法》  川普同时发声明：全国人民保持和平和镇静</a></li>
 <li><a href="/comments/20210113/1466954.md">辉瑞疫苗有效率或仅有29%！接种后不断出现死亡案例！牛津疫苗被专家呼吁停止推广</a></li>
 <li><a href="/topimagenews/20210113/1466698.md">恐怖！河北居家隔离2000万人！ 严防疫情传入北京</a></li>
-<li><a href="/cbnews/20210114/1467140.md">川普的新社交媒体账号</a></li>
 <li><a href="/topimagenews/20210114/1467182.md">习近平重提大变局 川普提前30年解密 24小时内4民主党议员确诊，美国会麻烦来了</a></li>
+<li><a href="/cbnews/20210114/1467140.md">川普的新社交媒体账号</a></li>
 <li><a href="/cbnews/20210113/1466640.md">川普会不会辞职？已有议员证实！人财两空？脸书推特遭员工抛弃！蓬佩奥证实伊朗与基地组织关系密切【希望之声TV】</a></li>
 <li><a href="/cnnews/20210114/1467167.md">华人从国内转500万欲海外买房 却被政府充公</a></li>
 <li><a href="/bannedvideo/20210114/1467154.md">军方表态挺川普，美国大抓捕德州打头阵，国会议员受贿弹劾川普，他们在怕什么？</a></li>
-<li><a href="/baitai/20210113/1466713.md">媒体：蓬佩奥在咖啡馆密会以色列情报部门摩萨德负责人</a></li>
 <li><a href="/cnnews/20210114/1467125.md">中国恐“全境沦陷” 疫情扩散8省</a></li>
+<li><a href="/baitai/20210113/1466713.md">媒体：蓬佩奥在咖啡馆密会以色列情报部门摩萨德负责人</a></li>
 <li><a href="/cbnews/20210113/1466638.md">内部人士踢爆石家庄每日新增病例过百</a></li>
 <li><a href="/cnnews/20210113/1466652.md">彭斯正式拒绝国会弹劾川普声明全文</a></li>
 <li><a href="/cbnews/20210113/1466844.md">港媒：前38军军长徐勤先突离世有异常 军医蒋彦永情况也令人忧</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210114/1467366.md" target="_blank">遗体烧不完！德国迈森疫情持续恶化 火葬场负荷量爆棚</a></li>
+<li><a href="/comments/20210114/1467365.md" target="_blank">【视频】阿隋厨房：回锅肉</a></li>
+<li><a href="/comments/20210114/1467363.md" target="_blank">【视频】国会事件后川普民调支持率反升！弹劾听证 两议员发言精彩</a></li>
 <li><a href="/comments/20210114/1467360.md" target="_blank">马云处境如何？知情者：正在杭州“避风头”</a></li>
 <li><a href="/comments/20210114/1467353.md" target="_blank">吴晗在“学者”与“奴才”之间的双重人格</a></li>
 <li><a href="/comments/20210114/1467352.md" target="_blank">文渊: &#8220;牺牲红利”论和“割韭菜”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210114/1467249.md" target="_blank">川普政府秘密平稳过渡 不是拜登而是军方 弗林将军将执掌一段时间 川普的军事行动正在展开 Transition into martial law as predicted 请持续关注</a></li>
 <li><a href="/comments/20210114/1467247.md" target="_blank">川普发布演讲：从事暴力者在攻击我们国家</a></li>
 <li><a href="/comments/20210114/1467242.md" target="_blank">德法欧等全球政治精英谴责：科技巨头联合封杀川普帐号</a></li>
-<li><a href="/comments/20210114/1467241.md" target="_blank">【视频】特大瘟疫箭在弦上！人类应该怎样避祸就福？</a></li>
-<li><a href="/comments/20210114/1467240.md" target="_blank">继英国、南非后 美俄亥俄发现2种新的变种病毒株</a></li>
-<li><a href="/comments/20210114/1467238.md" target="_blank">汪浩：再论“台湾为什么重要？”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
 <li><a href="/comments/20201218/1450327.md" target="_blank">美国深层政府内幕揭密：魔鬼2020计划书</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 
 </ul>
 </div>
