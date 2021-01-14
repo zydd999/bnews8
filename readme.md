@@ -20,14 +20,14 @@
 <li><a href="/cbnews/20210114/1467345.md">海军陆战队司令斥责佩洛西：“你这个自私自利的家伙”</a></li>
 <li><a href="/comments/20210114/1467544.md">下周将是风暴周！巨大的解密风暴造成华盛顿恐惧</a></li>
 <li><a href="/bannedvideo/20210114/1467372.md">1月20日后，老川将继续执政！放软话背后的策略和真实进度！【猪妹piggirl】</a></li>
+<li><a href="/cnnews/20210114/1467546.md">习近平在党校开会 高官内部歧视性政策被曝</a></li>
 <li><a href="/comments/20210114/1467469.md">【爆料】川普不参见1月20号典礼是因为没有典礼  拜登永远不会当总统  伊万卡13号发电文：拜登当选了吗？川普预计3-4月份处理选票问题 海军陆战队司令力挺川普</a></li>
 <li><a href="/comments/20210114/1467440.md">蓬佩奥推特发暗号 爱国者行动 第一轮抓捕开始</a></li>
-<li><a href="/cnnews/20210114/1467546.md">习近平在党校开会 高官内部歧视性政策被曝</a></li>
 <li><a href="/cnnews/20210114/1467403.md">FBI悄然公布文件：佩洛西之父和黑帮的关系 肯尼迪要求FBI调查 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210114/1467397.md">原来在2016年支持川普参选的是军方的力量，现在军方正在暗处行动来围剿暗黑势力，另破局暗黑势力的是马斯克的星链和太空军</a></li>
 <li><a href="/comments/20210114/1467314.md">这才是美国！德州开第一枪 逮捕大选舞弊女子 最高刑期20年</a></li>
-<li><a href="/comments/20210114/1467409.md">川普必胜：超限战全面开打，信息战、舆论战、科技战、宣传战、生化战</a></li>
 <li><a href="/yule/20210114/1467133.md">中年女演员：半是无戏可拍的尴尬，半是烤瓷牙+硅胶脸</a></li>
+<li><a href="/comments/20210114/1467409.md">川普必胜：超限战全面开打，信息战、舆论战、科技战、宣传战、生化战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210115/1467750.md" target="_blank">川普行政令加强版  中共军企证券“一刀切”；韩前总统朴槿惠犯受贿罪 终审获刑20年；社交平台GAB恢复川普总统全部推文；人权报告：中国人权进入至暗时期；六名加州用户状告腾讯【希望之声TV】</a></li>
 <li><a href="/cbnews/20210114/1467637.md" target="_blank">川普签新令 再强化禁美国人投资涉军方中企</a></li>
 <li><a href="/cbnews/20210114/1467636.md" target="_blank">若第二次弹劾川普不成，民主党在密谋另一阴招。伊万卡要竞选下一任美国总统？猪党大佬舒默被当街痛骂。川普政府提前30年解密台湾政策文件，用意为何？高科技公司自食其果。</a></li>
 <li><a href="/cbnews/20210114/1467630.md" target="_blank">第二波疫情开始横扫全球各地；美13天内新增逾300万新冠病毒病例；Parler执行长：不知道Parler平台何时回归；亚马逊合作伙伴删支持枪支的网站；9家陆企股价低于1元 88家破2元【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210114/1467345.md" target="_blank">海军陆战队司令斥责佩洛西：“你这个自私自利的家伙”</a></li>
 <li><a href="/cbnews/20210114/1467346.md" target="_blank">【全球新闻 1月13日】川普总统发表声明 反对暴力呼吁保持冷静/美众议院通过川普弹劾案/</a></li>
 <li><a href="/cbnews/20210114/1467328.md" target="_blank">【中文字幕】1月13日，川普总统在白宫发表重要演讲。强调法律与秩序，并说真正的支持者永远不会威胁或骚扰他们的同胞。</a></li>
-<li><a href="/cbnews/20210114/1467323.md" target="_blank">川普总统发表声明 反对暴力呼吁保持冷静</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210115/1467760.md" target="_blank">共和党反击！拜登将被弹劾  军方发最新声明（黑笔签名）：军人的标准是“非政治” 军人在民主选举过程中不扮演角色 打脸8个将领是政治投机假签名（蓝笔签名）川普发表演讲让民众镇静 拒绝暴力</a></li>
+<li><a href="/comments/20210115/1467759.md" target="_blank">最爱人民币？自称“罗杰叔叔”的华裔网红Uncle Roger陷入辱华风波 迅速删片致歉</a></li>
+<li><a href="/comments/20210115/1467758.md" target="_blank">【专访】原中共官员李传良：共产党将很快自食恶果 面临垮台</a></li>
+<li><a href="/comments/20210115/1467752.md" target="_blank">“文革”造就的恶徒终于被感化 要做好人了</a></li>
 <li><a href="/comments/20210115/1467748.md" target="_blank">得舒饮食：控制血压 不可不知的饮食法</a></li>
 <li><a href="/comments/20210115/1467742.md" target="_blank">美参议员：弹劾川普是否导致弹劾华盛顿？</a></li>
 <li><a href="/comments/20210115/1467741.md" target="_blank">禁川普砸自己 推特脸书两天蒸发512亿美元</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210114/1467634.md" target="_blank">【杜耀明评论】特区政府财政走上清零之路</a></li>
 <li><a href="/comments/20210114/1467625.md" target="_blank">川普政府提早30年解密印太战略文件</a></li>
 <li><a href="/comments/20210114/1467624.md" target="_blank">建方舱医院？传河北疫情已死200多人</a></li>
-<li><a href="/comments/20210114/1467621.md" target="_blank">【国安封网】实测 11 流动固网服务商 仅两间可连结“香港编年史” 专家估计正调整封锁方式</a></li>
-<li><a href="/comments/20210114/1467620.md" target="_blank">立法会委员会 Zoom 开会 疑边开会边揸车 郭伟强：已尽快找位置停车</a></li>
-<li><a href="/comments/20210114/1467600.md" target="_blank">刘兆佳倡国安公署助审查立选区选参选人 只容许中国籍投票</a></li>
-<li><a href="/comments/20210114/1467599.md" target="_blank">区议会秘书处引《文汇》报道 指公民党刘珈汶借场予“公民议政平台”开会 威胁扣薪津</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20201123/1435422.md" target="_blank">女律师鲍威尔发毒誓：被人灭门也要扳倒拜登</a></li>
+<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
 
 </ul>
 </div>
