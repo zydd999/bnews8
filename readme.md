@@ -12,22 +12,22 @@
 <li><a href="/headline/20210113/1466778.md">报道：马云正在杭州避风头</a></li>
 <li><a href="/comments/20210113/1466787.md">怎么办呐？川普带走了核武手提箱！而反川议员们却躲入了一个奇怪的“错误”房间…美军开始“占领”华盛顿</a></li>
 <li><a href="/cnnews/20210113/1466728.md">北京夺印上海下毒东北抡锤，惊人的高管内讧</a></li>
-<li><a href="/topimagenews/20210113/1466490.md">你就是个社会主义者！民主党大佬舒默纽约重磅发布会被砸场【阿波罗网记者编译】</a></li>
 <li><a href="/topimagenews/20210114/1467062.md">美军高层确认拜登 佩罗西二度弹劾川普总统 朱利安尼遭纽约律师协会审查</a></li>
 <li><a href="/topimagenews/20210113/1466698.md">恐怖！河北居家隔离2000万人！ 严防疫情传入北京</a></li>
 <li><a href="/comments/20210113/1466954.md">辉瑞疫苗有效率或仅有29%！接种后不断出现死亡案例！牛津疫苗被专家呼吁停止推广</a></li>
 <li><a href="/cbnews/20210113/1466605.md">恐慌！哈尔滨再焊死楼门 黑龙江全面沦陷</a></li>
 <li><a href="/cbnews/20210113/1466640.md">川普会不会辞职？已有议员证实！人财两空？脸书推特遭员工抛弃！蓬佩奥证实伊朗与基地组织关系密切【希望之声TV】</a></li>
-<li><a href="/cnnews/20210113/1466517.md">共和党的终结：米奇·麦康奈尔告诉记者 川普总统罪可弹劾【阿波罗网记者编译】</a></li>
 <li><a href="/cnnews/20210113/1466516.md">中国疫苗不妙？国药控股董事长突传辞任</a></li>
+<li><a href="/cnnews/20210113/1466517.md">共和党的终结：米奇·麦康奈尔告诉记者 川普总统罪可弹劾【阿波罗网记者编译】</a></li>
 <li><a href="/baitai/20210113/1466713.md">媒体：蓬佩奥在咖啡馆密会以色列情报部门摩萨德负责人</a></li>
 <li><a href="/cbnews/20210113/1466638.md">内部人士踢爆石家庄每日新增病例过百</a></li>
 <li><a href="/cnnews/20210113/1466652.md">彭斯正式拒绝国会弹劾川普声明全文</a></li>
 <li><a href="/cbnews/20210113/1466844.md">港媒：前38军军长徐勤先突离世有异常 军医蒋彦永情况也令人忧</a></li>
 <li><a href="/cnnews/20210113/1466903.md">福建一副县长神秘坠海 港媒曝内幕</a></li>
+<li><a href="/comments/20210114/1467127.md">【突发】川普1月13号批准康涅狄格 乔治亚 犹他州 路易斯安那州因严重自然灾害需联邦援助   极大可能是为实施《反叛乱法》  川普同时发声明：全国人民保持和平和镇静</a></li>
 <li><a href="/cbnews/20210113/1466795.md">井冈山两个山大王 选择与毛泽东中共合作 最终落惨死下场</a></li>
 <li><a href="/comments/20210113/1466745.md">它是唯一含有维生素D的蔬菜，疫情当下，请不要手软</a></li>
-<li><a href="/cnnews/20210113/1466649.md">这就是选票？美国5大科技巨头市值蒸发1466亿美元</a></li>
+<li><a href="/cbnews/20210113/1466838.md">熊姓警察双脚叉开 对她左右开弓…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210114/1467248.md" target="_blank">【芳菲访谈】独立时评人士戈壁东： 这次大选不是美国体制问题 而是人类要如何生活 朝哪里扩展的问题</a></li>
 <li><a href="/cbnews/20210114/1467234.md" target="_blank">文昭：川普「广阔天地」弹劾也封不住；科技巨头的下一步，「太上总统」或其他？推特干政、马云受害</a></li>
 <li><a href="/cbnews/20210114/1467233.md" target="_blank">【#时事纵横】美众院通过第二次弹劾川普议案，辩论激烈；川普解密情报？中共毁灭证据；民主党坚持罢免弹劾，共和党议员态度不一；拜登上台，继续抗衡中共？英、加、美禁止进口新疆奴工产品</a></li>
 <li><a href="/cbnews/20210114/1467232.md" target="_blank">河北疫情扩散山西，手掌大白菜惊现天价</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210114/1467096.md" target="_blank">要隔离的人太多 石家庄急建方舱医院 网友忧</a></li>
 <li><a href="/cbnews/20210114/1467091.md" target="_blank">蓬佩奥忧心演讲 该邪恶联盟是中东最大威胁</a></li>
 <li><a href="/cbnews/20210114/1467082.md" target="_blank">【环球直击 1月13日】大陆多地进入“战时状态”/白宫提前解密阻中共扩张/世卫赴中国调查 中共删病毒研究文章</a></li>
-<li><a href="/cbnews/20210114/1467071.md" target="_blank">【DC国会事件】目击者 Rena Wang：四五运动和六四大屠杀我都在天安门广场  DC国会事件我们已经被一些坏人设局了</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210114/1467254.md" target="_blank">程映虹：为什么华人不在乎“政治正确” 华人的种族观念与族群认同</a></li>
+<li><a href="/comments/20210114/1467253.md" target="_blank">财经： 精准监控 有人去洗手间超时3秒扣工资 上班买饭被扣误工费</a></li>
+<li><a href="/comments/20210114/1467250.md" target="_blank">巴西打脸中国疫苗效率 官媒急找替罪羊</a></li>
+<li><a href="/comments/20210114/1467249.md" target="_blank">川普政府秘密平稳过渡 不是拜登而是军方 弗林将军将执掌一段时间 川普的军事行动正在展开 Transition into martial law as predicted 请持续关注</a></li>
+<li><a href="/comments/20210114/1467247.md" target="_blank">川普发布演讲：从事暴力者在攻击我们国家</a></li>
+<li><a href="/comments/20210114/1467242.md" target="_blank">德法欧等全球政治精英谴责：科技巨头联合封杀川普帐号</a></li>
+<li><a href="/comments/20210114/1467241.md" target="_blank">【视频】特大瘟疫箭在弦上！人类应该怎样避祸就福？</a></li>
+<li><a href="/comments/20210114/1467240.md" target="_blank">继英国、南非后 美俄亥俄发现2种新的变种病毒株</a></li>
 <li><a href="/comments/20210114/1467238.md" target="_blank">汪浩：再论“台湾为什么重要？”</a></li>
 <li><a href="/comments/20210114/1467230.md" target="_blank">陆媒：马云跑不了！英媒：马云正在杭州“避风头” 马云现状传出八种不同说法 习近平整肃马云原因有三 马云下场或比吴小晖更惨 中南海谣言预言_427</a></li>
 <li><a href="/comments/20210114/1467223.md" target="_blank">美国全面禁止中国新疆番茄、棉花及其制品出口</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210114/1467111.md" target="_blank">蓬佩奥：川普逆转了前政府对中共的绥靖政策</a></li>
 <li><a href="/comments/20210114/1467110.md" target="_blank">经济下行 中国信托业风险加速暴露</a></li>
 <li><a href="/comments/20210114/1467109.md" target="_blank">评论 | 胡平：醉翁之意不在酒——简评中国历史研究院的一篇奇文</a></li>
-<li><a href="/comments/20210114/1467105.md" target="_blank">被自杀？官不聊生 中共官员频频坠楼或自杀身亡 福建一副县长神秘坠海 内蒙包头副市长坠亡 广西药监局女局长堕楼身亡……中南海不可告人的秘密_301</a></li>
-<li><a href="/comments/20210114/1467104.md" target="_blank">推“脱美独立” 德州议员：还有数州也感兴趣</a></li>
-<li><a href="/comments/20210114/1467103.md" target="_blank">美前议员注册外国代理人服务中共 压力下取消</a></li>
-<li><a href="/comments/20210114/1467102.md" target="_blank">机构报告：2020年北京甲级写字楼空置率达15.8%</a></li>
-<li><a href="/comments/20210114/1467095.md" target="_blank">广西药监局女局长跳楼死 江西彭泽县医院院长张银平坠楼身亡 大清算进行时 医院院长跳楼频发 中南海不可告人的秘密_300</a></li>
-<li><a href="/comments/20210114/1467094.md" target="_blank">大寒已近</a></li>
-<li><a href="/comments/20210114/1467087.md" target="_blank">反击言论审查 佛州众议员吁抵制科技巨头</a></li>
-<li><a href="/comments/20210114/1467083.md" target="_blank">川普支持者相信川普总统一定会赢的几大要点  还有更多Top Points of Trump Supporters Believe President Trump Will Win , more&#8230;.</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
