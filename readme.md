@@ -17,15 +17,15 @@
 <li><a href="/comments/20210113/1466954.md">辉瑞疫苗有效率或仅有29%！接种后不断出现死亡案例！牛津疫苗被专家呼吁停止推广</a></li>
 <li><a href="/cbnews/20210113/1466605.md">恐慌！哈尔滨再焊死楼门 黑龙江全面沦陷</a></li>
 <li><a href="/cbnews/20210113/1466640.md">川普会不会辞职？已有议员证实！人财两空？脸书推特遭员工抛弃！蓬佩奥证实伊朗与基地组织关系密切【希望之声TV】</a></li>
-<li><a href="/cnnews/20210113/1466516.md">中国疫苗不妙？国药控股董事长突传辞任</a></li>
-<li><a href="/cnnews/20210113/1466517.md">共和党的终结：米奇·麦康奈尔告诉记者 川普总统罪可弹劾【阿波罗网记者编译】</a></li>
+<li><a href="/comments/20210114/1467127.md">【突发】川普1月13号批准康涅狄格 乔治亚 犹他州 路易斯安那州因严重自然灾害需联邦援助   极大可能是为实施《反叛乱法》  川普同时发声明：全国人民保持和平和镇静</a></li>
 <li><a href="/baitai/20210113/1466713.md">媒体：蓬佩奥在咖啡馆密会以色列情报部门摩萨德负责人</a></li>
+<li><a href="/cbnews/20210114/1467140.md">川普的新社交媒体账号</a></li>
 <li><a href="/cbnews/20210113/1466638.md">内部人士踢爆石家庄每日新增病例过百</a></li>
 <li><a href="/cnnews/20210113/1466652.md">彭斯正式拒绝国会弹劾川普声明全文</a></li>
 <li><a href="/cbnews/20210113/1466844.md">港媒：前38军军长徐勤先突离世有异常 军医蒋彦永情况也令人忧</a></li>
 <li><a href="/cnnews/20210113/1466903.md">福建一副县长神秘坠海 港媒曝内幕</a></li>
-<li><a href="/comments/20210114/1467127.md">【突发】川普1月13号批准康涅狄格 乔治亚 犹他州 路易斯安那州因严重自然灾害需联邦援助   极大可能是为实施《反叛乱法》  川普同时发声明：全国人民保持和平和镇静</a></li>
 <li><a href="/cbnews/20210113/1466795.md">井冈山两个山大王 选择与毛泽东中共合作 最终落惨死下场</a></li>
+<li><a href="/topimagenews/20210114/1467182.md">习近平重提大变局 川普提前30年解密 24小时内4民主党议员确诊，美国会麻烦来了</a></li>
 <li><a href="/comments/20210113/1466745.md">它是唯一含有维生素D的蔬菜，疫情当下，请不要手软</a></li>
 <li><a href="/cbnews/20210113/1466838.md">熊姓警察双脚叉开 对她左右开弓…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210114/1467266.md" target="_blank">中共政治局常委韩正被举报到29国政府</a></li>
+<li><a href="/cbnews/20210114/1467265.md" target="_blank">【芳菲访谈】新一届美国政府如推行社会主义 德州将脱离联邦？如何应对美国高科技垄断？时事评论员Jason点评</a></li>
+<li><a href="/cbnews/20210114/1467264.md" target="_blank">【直播回放 1/13】川普讲话 呼吁美国人和平过渡（同声翻译）</a></li>
 <li><a href="/cbnews/20210114/1467248.md" target="_blank">【芳菲访谈】独立时评人士戈壁东： 这次大选不是美国体制问题 而是人类要如何生活 朝哪里扩展的问题</a></li>
 <li><a href="/cbnews/20210114/1467234.md" target="_blank">文昭：川普「广阔天地」弹劾也封不住；科技巨头的下一步，「太上总统」或其他？推特干政、马云受害</a></li>
 <li><a href="/cbnews/20210114/1467233.md" target="_blank">【#时事纵横】美众院通过第二次弹劾川普议案，辩论激烈；川普解密情报？中共毁灭证据；民主党坚持罢免弹劾，共和党议员态度不一；拜登上台，继续抗衡中共？英、加、美禁止进口新疆奴工产品</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210114/1467107.md" target="_blank">白宫提前解密《印太战略框架》 阻止中共扩张 被认为川普政府希望拜登能延续这一对华政策</a></li>
 <li><a href="/cbnews/20210114/1467106.md" target="_blank">大陆多地进入“战时状态”多省出现跨省传播病例 两会或无限延期</a></li>
 <li><a href="/cbnews/20210114/1467097.md" target="_blank">游族CEO林奇被毒杀后 私生子浮现展开遗产争夺战</a></li>
-<li><a href="/cbnews/20210114/1467096.md" target="_blank">要隔离的人太多 石家庄急建方舱医院 网友忧</a></li>
-<li><a href="/cbnews/20210114/1467091.md" target="_blank">蓬佩奥忧心演讲 该邪恶联盟是中东最大威胁</a></li>
-<li><a href="/cbnews/20210114/1467082.md" target="_blank">【环球直击 1月13日】大陆多地进入“战时状态”/白宫提前解密阻中共扩张/世卫赴中国调查 中共删病毒研究文章</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210114/1467258.md" target="_blank">英媒称川普卸任前将投下震撼弹 解密疫情来源</a></li>
 <li><a href="/comments/20210114/1467254.md" target="_blank">程映虹：为什么华人不在乎“政治正确” 华人的种族观念与族群认同</a></li>
 <li><a href="/comments/20210114/1467253.md" target="_blank">财经： 精准监控 有人去洗手间超时3秒扣工资 上班买饭被扣误工费</a></li>
 <li><a href="/comments/20210114/1467250.md" target="_blank">巴西打脸中国疫苗效率 官媒急找替罪羊</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210114/1467116.md" target="_blank">川普发新声明 吁民众勿参与暴力违法活动</a></li>
 <li><a href="/comments/20210114/1467111.md" target="_blank">蓬佩奥：川普逆转了前政府对中共的绥靖政策</a></li>
 <li><a href="/comments/20210114/1467110.md" target="_blank">经济下行 中国信托业风险加速暴露</a></li>
-<li><a href="/comments/20210114/1467109.md" target="_blank">评论 | 胡平：醉翁之意不在酒——简评中国历史研究院的一篇奇文</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 
 </ul>
 </div>
