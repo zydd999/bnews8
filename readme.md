@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210114/1467182.md">习近平重提大变局 川普提前30年解密 24小时内4民主党议员确诊，美国会麻烦来了</a></li>
 <li><a href="/comments/20210114/1467393.md">【突发】社交媒体疯传佩洛西一段视频  摄像师罕见拍到佩洛西瞳孔瞬间消失 网友纷纷留言</a></li>
 <li><a href="/comments/20210114/1467540.md">亨特已经自首 真拜登已经失踪 深层政府已经失败  总统被安全隔离 历史即将被改变</a></li>
 <li><a href="/comments/20210114/1467249.md">川普政府秘密平稳过渡 不是拜登而是军方 弗林将军将执掌一段时间 川普的军事行动正在展开</a></li>
-<li><a href="/cnnews/20210114/1467167.md">华人从国内转500万欲海外买房 却被政府充公</a></li>
 <li><a href="/cnnews/20210114/1467427.md">牛！川普总统的全部推文被完整转移恢复了【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210114/1467344.md">川普：我已发布行政命令...【阿波罗网编译】</a></li>
 <li><a href="/comments/20210114/1467544.md">下周将是风暴周！巨大的解密风暴造成华盛顿恐惧</a></li>
+<li><a href="/topimagenews/20210114/1467344.md">川普：我已发布行政命令...【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210114/1467345.md">海军陆战队司令斥责佩洛西：“你这个自私自利的家伙”</a></li>
 <li><a href="/bannedvideo/20210114/1467372.md">1月20日后，老川将继续执政！放软话背后的策略和真实进度！【猪妹piggirl】</a></li>
 <li><a href="/cnnews/20210114/1467546.md">习近平在党校开会 高官内部歧视性政策被曝</a></li>
 <li><a href="/comments/20210114/1467469.md">【爆料】川普不参见1月20号典礼是因为没有典礼  拜登永远不会当总统  伊万卡13号发电文：拜登当选了吗？川普预计3-4月份处理选票问题 海军陆战队司令力挺川普</a></li>
 <li><a href="/comments/20210114/1467440.md">蓬佩奥推特发暗号 爱国者行动 第一轮抓捕开始</a></li>
 <li><a href="/cnnews/20210114/1467403.md">FBI悄然公布文件：佩洛西之父和黑帮的关系 肯尼迪要求FBI调查 【阿波罗网编译】</a></li>
+<li><a href="/comments/20210115/1467760.md">共和党反击！拜登将被弹劾  军方发最新声明（黑笔签名）：军人的标准是“非政治” 军人在民主选举过程中不扮演角色 打脸8个将领是政治投机假签名（蓝笔签名）川普发表演讲让民众镇静 拒绝暴力</a></li>
 <li><a href="/bannedvideo/20210114/1467397.md">原来在2016年支持川普参选的是军方的力量，现在军方正在暗处行动来围剿暗黑势力，另破局暗黑势力的是马斯克的星链和太空军</a></li>
 <li><a href="/comments/20210114/1467314.md">这才是美国！德州开第一枪 逮捕大选舞弊女子 最高刑期20年</a></li>
-<li><a href="/topimagenews/20210114/1467616.md">抨击乔拜登滥用权力 共和党新人将在1月21日针发起对乔拜登的弹劾【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210114/1467636.md">若第二次弹劾川普不成，民主党在密谋另一阴招。伊万卡要竞选下一任美国总统？猪党大佬舒默被当街痛骂。川普政府提前30年解密台湾政策文件，用意为何？高科技公司自食其果。</a></li>
+<li><a href="/topimagenews/20210114/1467616.md">抨击乔拜登滥用权力 共和党新人将在1月21日针发起对乔拜登的弹劾【阿波罗网编译】</a></li>
 <li><a href="/comments/20210114/1467409.md">川普必胜：超限战全面开打，信息战、舆论战、科技战、宣传战、生化战</a></li>
 <li><a href="/cbnews/20210114/1467514.md">天津港保税区今天又爆炸了！至少1死7伤</a></li>
-<li><a href="/comments/20210115/1467760.md">共和党反击！拜登将被弹劾  军方发最新声明（黑笔签名）：军人的标准是“非政治” 军人在民主选举过程中不扮演角色 打脸8个将领是政治投机假签名（蓝笔签名）川普发表演讲让民众镇静 拒绝暴力</a></li>
 <li><a href="/topimagenews/20210114/1467573.md">河北廊坊大量乌鸦天空盤旋 画面惊悚</a></li>
 <li><a href="/cnnews/20210114/1467381.md">普利策报告惊人：中共为首65国干涉了美国大选</a></li>
+<li><a href="/topimagenews/20210114/1467441.md">又一个！美国宇航局科学家承认在中国关系问题上认罪【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210114/1467244.md">美军参联会备忘录公开，军方想说什么？罢免弹劾接踵而来，极左派领导一切？两州反击推特脸书，互联网也要分红蓝？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210115/1467864.md" target="_blank">封存四年的证词：官员亲属实名举报中共活摘 揭惨烈内幕</a></li>
 <li><a href="/cbnews/20210115/1467838.md" target="_blank">陈破空：直播预告：华盛顿空气紧张，国会山严防如铁桶。脸书推特损失500亿！拜登尚未上任，就有人誓言弹劾。陈破空与网友互动Q&amp;A 美东时间1月14日周四晚7点半、即中港台时间1月15日周五早8点半</a></li>
 <li><a href="/cbnews/20210115/1467832.md" target="_blank">美媒揭中共深入渗透 影响美中小学教科书</a></li>
 <li><a href="/cbnews/20210115/1467818.md" target="_blank">德州逮捕涉大选舞弊女子 最高判刑20年</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210114/1467466.md" target="_blank">川普升级封杀令 对中共军企“一刀切”</a></li>
 <li><a href="/cbnews/20210114/1467465.md" target="_blank">湖南高院一副庭长被刺身亡细节流出 疑遭同乡报复</a></li>
 <li><a href="/cbnews/20210114/1467430.md" target="_blank">江峰：二次弹劾川普底气何在？是谁在制造仇恨的民意？蓬佩奥即将离任，美国之音演讲意义深远【江峰漫谈20210113第271期）</a></li>
-<li><a href="/cbnews/20210114/1467425.md" target="_blank">上海老兵家族8栋房被强拆 申诉十年无果</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210115/1467872.md" target="_blank">最高法、最高检、公安部、国安部、司法部五部门绝密文件，曝光中共党魁江泽民指示迫害法轮功，犯群体灭绝罪。法轮功学员在海外控告江泽民、曾庆红、周永康，英法庭认定：中共活摘器官属实（笑梅看中国第002期）</a></li>
+<li><a href="/comments/20210115/1467871.md" target="_blank">NASA科学家涉千人计画 承认撒谎</a></li>
+<li><a href="/comments/20210115/1467868.md" target="_blank">中国首富钟睒睒突辞董事长职务 万泰生物股价大跌 钟睒睒从全球即时富豪榜第5跌到第8名</a></li>
 <li><a href="/comments/20210115/1467860.md" target="_blank">评论 | 唯色：译者Kamila Hladíková对我的访谈：关于记忆、流亡及“藏族文学”（三）</a></li>
 <li><a href="/comments/20210115/1467853.md" target="_blank">【突发】媒体巨头封杀川普酿下大祸  德州司法部长启动对推特等五大科技公司的调查</a></li>
 <li><a href="/comments/20210115/1467842.md" target="_blank">孔子弟子家教珍事：为了一句哄孩子的戏言 杀了一头大肥猪</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210115/1467788.md" target="_blank">金里奇: 科技巨头的虚假审查是最大欺诈</a></li>
 <li><a href="/comments/20210115/1467787.md" target="_blank">新西兰男子持斧袭击议会楼 最高可判处7年监禁</a></li>
 <li><a href="/comments/20210115/1467781.md" target="_blank">神佛拯救善良生命去天堂的感人故事：盲人和导盲犬</a></li>
-<li><a href="/comments/20210115/1467780.md" target="_blank">川普遭二次弹劾后 共和党议员誓言将弹劾拜登</a></li>
-<li><a href="/comments/20210115/1467774.md" target="_blank">文革场景美国再现？儿子举报“川粉”母亲“叛乱”</a></li>
-<li><a href="/comments/20210115/1467773.md" target="_blank">中共病毒再度爆发 中国股市创四个月来最大跌幅</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20201111/1429066.md" target="_blank">喻智官：世界若失去川普 将付出沉重代价</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
 
 </ul>
 </div>
