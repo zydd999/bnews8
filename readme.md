@@ -10,8 +10,8 @@
 <li><a href="/cnnews/20210116/1468516.md">快讯！美国宣布制裁中共统战部部长等人</a></li>
 <li><a href="/comments/20210116/1468492.md">实拍： 华盛顿上空的惊人景象   佩洛西电脑里的惊人照片  肯尼迪：大风暴来了！</a></li>
 <li><a href="/comments/20210116/1468510.md">独家内幕: 深层政府将彻底覆灭  川普1月9号遭遇刺杀未遂后开始全面反击</a></li>
-<li><a href="/cbnews/20210116/1468525.md">惊天大骗局：石油不是埋在地下的生物沉积变成的</a></li>
 <li><a href="/comments/20210116/1468688.md">川普动手了！欧洲领导人集体辞职潮！未来英美将发生人工地震！【猪妹piggirl】</a></li>
+<li><a href="/cbnews/20210116/1468525.md">惊天大骗局：石油不是埋在地下的生物沉积变成的</a></li>
 <li><a href="/cbnews/20210116/1468464.md">四川中学副校长人面兽心 竟染指200名女同学</a></li>
 <li><a href="/bannedvideo/20210116/1468762.md">极有可能一月20日的总统就职典礼取消，川普继续留在白宫，另川普即将解密肯尼迪总统遇刺案的内幕</a></li>
 <li><a href="/cbnews/20210116/1468890.md">河北疫情数据诡异 大陆网友炸锅</a></li>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210117/1469071.md" target="_blank">核弹级情报重磅解密！美国务院发布声明：武汉病毒所是中共病毒源头 美国务院发布武汉病毒研究所的事实报告：武汉病毒所从事军事活动 美卫生部长：中共隐瞒导致全球病毒大爆发</a></li>
+<li><a href="/comments/20210117/1469065.md" target="_blank">华盛顿特区市长召开新闻发布会：1月20号就职典礼改为虚景(virtual) 所有人只能在家观看 全城封路 禁枪 鼓励市民和公司举报任何持枪的人 立即拨打911</a></li>
+<li><a href="/comments/20210117/1469064.md" target="_blank">【众议院弹劾听证会】俄州众议员 吉姆·乔丹：这是一种痴迷 现在这种痴迷已经扩大 已不仅仅是弹劾总统了</a></li>
+<li><a href="/comments/20210117/1469063.md" target="_blank">【参众两院联席会议辩论】众议员 Lauren Boebert ：根据美国宪法 我有责任反对计入亚利桑那州的选举人团投票</a></li>
+<li><a href="/comments/20210117/1469059.md" target="_blank">【公务员宣誓】新公务员工会宣布解散 称考虑理事人身安全、保障会员资料 “无奈但必要”</a></li>
+<li><a href="/comments/20210117/1469058.md" target="_blank">疫情延烧人人自危！ 四川罕见祭出高价悬赏抓捕“非法入境者”</a></li>
 <li><a href="/comments/20210117/1469055.md" target="_blank">推特封杀川普 却保留中共造假新疆宣传片</a></li>
 <li><a href="/comments/20210117/1469045.md" target="_blank">宗教自由日 蓬佩奥指中共对美构成真实威胁</a></li>
 <li><a href="/comments/20210117/1469038.md" target="_blank">马斯克都搬家了，你还等啥~</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210116/1468903.md" target="_blank">政府公布 4 高官任命 海事处处长王天予任运房局常秘 差估副署长萧家贤“坐正”</a></li>
 <li><a href="/comments/20210116/1468902.md" target="_blank">美制裁增六人 港府：极度愤怒、荒唐卑劣无耻 国安警：荣誉和责任，无畏无惧</a></li>
 <li><a href="/comments/20210116/1468901.md" target="_blank">港府限时公务员宣誓拥护基本法效忠政府</a></li>
-<li><a href="/comments/20210116/1468899.md" target="_blank">谭惠珠指中方将反制 BNO 居英权计划 料考虑取消选举权 居留权需再研究</a></li>
-<li><a href="/comments/20210116/1468881.md" target="_blank">网红割席网红 引爆网络风波;川普在空军一号基地告别 彭斯祝贺贺锦丽当选;扮川粉与CNN记者闯国会 黑命贵头目被家人告发;美前国会议员客厅 悬挂毛泽东像;前中共官员李传良：中共很快垮台;注射中共疫苗</a></li>
-<li><a href="/comments/20210116/1468858.md" target="_blank">巴西发现新变体 全球染疫死亡人数破200万</a></li>
-<li><a href="/comments/20210116/1468851.md" target="_blank">言论自由权就是具有绝对性的财产权核心</a></li>
-<li><a href="/comments/20210116/1468846.md" target="_blank">美新政府上任前 俄罗斯宣布退出《开放天空条约》</a></li>
-<li><a href="/comments/20210116/1468844.md" target="_blank">8.18 维园集会案 律政司聘英御用大状 David Perry 任主控 前英国外相：应凭良心拒受聘</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20170208/656009.md" target="_blank">诗意入舞境！神韵中加混血美女领舞周歌</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201010/1411228.md" target="_blank">隐瞒共产党员身份的后果和豁免的条件 ——杨建利博士入籍案分析</a></li>
 <li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201218/1450327.md" target="_blank">美国深层政府内幕揭密：魔鬼2020计划书</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
 
 </ul>
 </div>
