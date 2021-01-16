@@ -17,17 +17,17 @@
 <li><a href="/bannedvideo/20210116/1468762.md">极有可能一月20日的总统就职典礼取消，川普继续留在白宫，另川普即将解密肯尼迪总统遇刺案的内幕</a></li>
 <li><a href="/topimagenews/20210116/1468717.md">议员被抓！涉8项选举欺诈罪名 路易斯安娜州举行新闻发布会【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210116/1468801.md">不和你玩了！投奔德州 全国步枪协会在最佳财务状况下宣布“破产”【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210116/1468890.md">河北疫情数据诡异 大陆网友炸锅</a></li>
 <li><a href="/cnnews/20210116/1468470.md">美媒：上海公司高层接种科兴疫苗 丧失正常行动能力</a></li>
 <li><a href="/funmedia/20210116/1468607.md">医生和护士为什么结婚很少？一名男医生说出原因之后，众人沉默</a></li>
-<li><a href="/cnnews/20210116/1468539.md">这些雷锋照片只突出了一个字——“假”</a></li>
-<li><a href="/cbnews/20210116/1468890.md">河北疫情数据诡异 大陆网友炸锅</a></li>
 <li><a href="/comments/20210116/1468743.md">【正能量强大】川普总统1月15日发表公告 ：我 美利坚合众国总统唐纳德川普 根据美国宪法和法律赋予我的权力 特此宣布2021年1月16日为宗教自由日</a></li>
+<li><a href="/cnnews/20210116/1468539.md">这些雷锋照片只突出了一个字——“假”</a></li>
 <li><a href="/cnnews/20210116/1468781.md">重磅声明！蓬佩奥直指武汉病毒研究所：美国政府有理由相信...” 【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210116/1468888.md">宪法专家：将国会事件转为弹劾是烟雾弹 拜登就职典礼彩排改期，对工薪阶层加税</a></li>
 <li><a href="/cnnews/20210116/1468468.md">石家庄疫情传入浙江 官方通报引来满屏质疑</a></li>
 <li><a href="/lifebaike/20210116/1468467.md">红三代制造“淫窟”利用权力侵害女性</a></li>
 <li><a href="/comments/20210116/1468535.md">最新重磅解密：交火飓风行动，军事法庭开启，拜登乌克兰门随后公布，华盛顿天罗地网，登基秀还是鸿门宴？1月14专题2+问答  马先</a></li>
 <li><a href="/headline/20210116/1468735.md">美国大选 戏中戏 局中局 高潮迭起</a></li>
-<li><a href="/comments/20210116/1468445.md">【重磅】拜登团队内阁成员至今未获得联邦参议员认定  川普精准打击 下令军方端掉拜登一处秘密巢穴获得大量罪证</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210117/1469021.md" target="_blank">美国国务卿蓬佩奥演讲：重拾美国的自由之声</a></li>
+<li><a href="/comments/20210117/1469020.md" target="_blank">美国务院：中共病毒源头或牵涉中共军方</a></li>
+<li><a href="/comments/20210117/1469013.md" target="_blank">国安处三警被美国制裁或停银行服务 蔡展鹏江学礼各持物业 均未还清按揭</a></li>
+<li><a href="/comments/20210117/1469012.md" target="_blank">会被遣返吗？郭文贵首度回应..川普要透过法律程序翻盘</a></li>
 <li><a href="/comments/20210116/1468990.md" target="_blank">【1/16直播】北部医院群聚再增1护理师确诊 陈时中亲上火线说明 台湾中央疫情指挥中心记者会</a></li>
 <li><a href="/comments/20210116/1468983.md" target="_blank">加拿大两公民遭羁押767天 总理特鲁多吁联盟抗共</a></li>
 <li><a href="/comments/20210116/1468980.md" target="_blank">河北南宫疫情恶化 宣布更严封城 居民禁出户</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210116/1468837.md" target="_blank">胖人们的福音：日医师可以让你十四天瘦下来</a></li>
 <li><a href="/comments/20210116/1468825.md" target="_blank">川普总统推特被封后 Gab和Twitte发生了什么？</a></li>
 <li><a href="/comments/20210116/1468821.md" target="_blank">【天路给您讲故事】：他是春秋五霸之首，咋就不敌三个奸佞小人？</a></li>
-<li><a href="/comments/20210116/1468820.md" target="_blank">1月15号夜晚华盛顿的情况 大规模的封路 每个街区都设置了路障 还有一些似乎是安全检查站 到处都是 有人发现国会山周围的铁栅栏螺丝是朝外拧着的 看上去是想把人关在里面 而不是阻挡外面的人</a></li>
-<li><a href="/comments/20210116/1468813.md" target="_blank">香辣面筋炒杏鲍菇 没想到这二种搭配这么好吃</a></li>
-<li><a href="/comments/20210116/1468807.md" target="_blank">14岁就高尿酸？了解这4大危险因素，远离痛风</a></li>
-<li><a href="/comments/20210116/1468806.md" target="_blank">豪爽男日日吃火锅 胸痛没心跳险丢命</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
