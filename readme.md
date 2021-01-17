@@ -10,12 +10,12 @@
 <li><a href="/topimagenews/20210116/1468717.md">议员被抓！涉8项选举欺诈罪名 路易斯安娜州举行新闻发布会【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210116/1468801.md">不和你玩了！投奔德州 全国步枪协会在最佳财务状况下宣布“破产”【阿波罗网编译】</a></li>
 <li><a href="/comments/20210116/1468743.md">【正能量强大】川普总统1月15日发表公告 ：我 美利坚合众国总统唐纳德川普 根据美国宪法和法律赋予我的权力 特此宣布2021年1月16日为宗教自由日</a></li>
-<li><a href="/topimagenews/20210116/1468888.md">宪法专家：将国会事件转为弹劾是烟雾弹 拜登就职典礼彩排改期，对工薪阶层加税</a></li>
 <li><a href="/comments/20210117/1469071.md">核弹级情报重磅解密！美国务院发布声明：武汉病毒所是中共病毒源头 美国务院发布武汉病毒研究所的事实报告：武汉病毒所从事军事活动 美卫生部长：中共隐瞒导致全球病毒大爆发</a></li>
+<li><a href="/topimagenews/20210116/1468888.md">宪法专家：将国会事件转为弹劾是烟雾弹 拜登就职典礼彩排改期，对工薪阶层加税</a></li>
 <li><a href="/cnnews/20210117/1469032.md">邪恶脸书恢复了川普总统的账号，仍然是总统的川普成了“政治候选人”【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210116/1468781.md">重磅声明！蓬佩奥直指武汉病毒研究所：美国政府有理由相信...” 【阿波罗网编译】</a></li>
-<li><a href="/headline/20210116/1468763.md">情非得已 周永康死保薄熙来的“难言之隐”</a></li>
 <li><a href="/comments/20210117/1469134.md">敏感时刻！彭斯意外现身美国会大厦 并连发3推</a></li>
+<li><a href="/headline/20210116/1468763.md">情非得已 周永康死保薄熙来的“难言之隐”</a></li>
 <li><a href="/topimagenews/20210116/1468988.md">安提法支持者丹尼尔·贝克因密谋杀害川普而被捕  自称收了所罗斯的钱【阿波罗网编译】</a></li>
 <li><a href="/headline/20210116/1468735.md">美国大选 戏中戏 局中局 高潮迭起</a></li>
 <li><a href="/cbnews/20210116/1468891.md">习近平再发警告：中共将面对更多逆风逆水</a></li>
@@ -23,10 +23,10 @@
 <li><a href="/comments/20210117/1469065.md">华盛顿特区市长召开新闻发布会：1月20号就职典礼改为虚景(virtual) 所有人只能在家观看 全城封路 禁枪 鼓励市民和公司举报任何持枪的人 立即拨打911</a></li>
 <li><a href="/cnnews/20210116/1468836.md">过太爽？孟晚舟加拿大住豪宅、包场购物 奢华监禁生活惹众怒</a></li>
 <li><a href="/headline/20210117/1469014.md">川普将提前离开白宫 空军一号盛大告别</a></li>
+<li><a href="/comments/20210117/1469136.md">小约翰·肯尼迪夫妇现身  Mr. and Mrs. John F. Kennedy Jr. appear</a></li>
 <li><a href="/cbnews/20210116/1469007.md">大陆民众接种科兴疫苗后 出现严重副作用</a></li>
 <li><a href="/cbnews/20210116/1468874.md">广东男为9万元掉包尸体 将智障者灌醉后火化</a></li>
 <li><a href="/cbnews/20210116/1468934.md">陈破空：大瘟疫底细，土共招了！四个女人一台戏。特朗普或解密重磅文件。蓬配奥接连出手</a></li>
-<li><a href="/comments/20210117/1469136.md">小约翰·肯尼迪夫妇现身  Mr. and Mrs. John F. Kennedy Jr. appear</a></li>
 <li><a href="/cnnews/20210116/1468853.md">iPhone12s浮出水面 这价格没得说</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210117/1469326.md" target="_blank">《石涛聚焦》“报应清晰可见！1月6日后 第四名民主党议员染病-接种疫苗之后”加州洛杉矶县-好莱坞地区：ICU爆满零床位 医院拒收急救车 一个急救室6个病人“很快将席卷全美国！”（16/01/21）</a></li>
+<li><a href="/comments/20210117/1469325.md" target="_blank">《石涛聚焦》“铁丝网下的美国首度-华盛顿DC 孙杨式胜利者之卑贱！”25000名持枪军人 2.2米高铁丝网 完全切断的公共交通“盗窃抢夺之胜利者 美国人民是它们的敌人！”（16/01/21）</a></li>
+<li><a href="/comments/20210117/1469324.md" target="_blank">川普总统18号或19号将利用紧急广播系统发表重要演讲声明自己的总统身份 俄克拉荷马市长已经接到通知《叛乱法》已经启动 将在该市开始逮捕 这是更多城市的第一个 为了抓人许多城市会断电 手机断网</a></li>
+<li><a href="/comments/20210117/1469299.md" target="_blank">帕拉（Parler）总裁受死亡威胁 被迫离家隐藏</a></li>
 <li><a href="/comments/20210117/1469295.md" target="_blank">两个孩子的故事：中共如何操弄媒体与网络巨头</a></li>
 <li><a href="/comments/20210117/1469294.md" target="_blank">大公司是精密的机器 员工是身不由己的代码</a></li>
 <li><a href="/comments/20210117/1469293.md" target="_blank">川普政府执行第13次死刑今凌晨他被处死</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210117/1469236.md" target="_blank">颜纯鈎：没有特朗普 台港就不是今日模样</a></li>
 <li><a href="/comments/20210117/1469235.md" target="_blank">陶杰：大重构的新神话</a></li>
 <li><a href="/comments/20210117/1469197.md" target="_blank">看《狮子王》体悟王者归来：人类将回归“王权神授”</a></li>
-<li><a href="/comments/20210117/1469180.md" target="_blank">用艺术形式制止中共活摘器官 国际海报征选落幕</a></li>
-<li><a href="/comments/20210117/1469179.md" target="_blank">MyPillow CEO当“信使” 传话川普更换中情局局长</a></li>
-<li><a href="/comments/20210117/1469175.md" target="_blank">连希特勒都敢坑，这个画家的人生很开挂！公认世界上最美的少女：戴珍珠耳环的少女！荷兰三杰维米尔的凄美爱情！【大话西油 姜光宇】Arts Story (2021.01.16）</a></li>
-<li><a href="/comments/20210117/1469172.md" target="_blank">美国、挪威近80人接种中共病毒疫苗后死亡 挪威修改指南</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 
 </ul>
 </div>
