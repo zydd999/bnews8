@@ -8,26 +8,26 @@
 <li><a href="/comments/20210118/1469711.md">🔔刚刚！伊万卡发出重要电报帖文：“他曾经是并将继续是!! 等着看，不会等太久!!!! 愿上帝之手继续放在有史以来最好的川普总统肩上!!  ” 🔔伊万卡连用了4个惊叹号 大家明白了吧</a></li>
 <li><a href="/cnnews/20210117/1469534.md">CIA女局长有消息了 彭斯成功阻止川普的CIA重要任命【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210117/1469583.md">惊人！佩洛西今为来华府美军加油 在谴责川普总统因黑命贵暴动派兵后【阿波罗网编译】</a></li>
-<li><a href="/ssgc/20210117/1469504.md">中国超导物理学泰斗痛斥"妄议中央"谬论</a></li>
 <li><a href="/finance/20210118/1469799.md">存款超过“这个数”一律被严查，3个试点已经启动</a></li>
 <li><a href="/comments/20210118/1469690.md">川普总统将有重要广播："我的同胞们 风暴正在降临我们"   EBS紧急广播系统将被激活  通过EBS在授权的设备上将连续8天 每天播放8个小时的视频 连续10天</a></li>
 <li><a href="/comments/20210118/1469727.md">【突发】川普总统重大宣布：美国南部边境进入国家紧急状态</a></li>
 <li><a href="/comments/20210118/1469754.md">【重磅】彭佩奥证实中共军方威胁已进入美国境内 白宫正式宣布美国边境进入国家紧急状态 川普已经成为“战时总统”   拜登团队的政府交接遥遥无期</a></li>
 <li><a href="/cbnews/20210118/1469785.md">🔥🔥螳螂捕蝉 黄雀在后❗蓬佩奥新动作是暗号？伊万卡发推了：等著瞧，不会等太久</a></li>
 <li><a href="/cnnews/20210118/1469723.md">白宫整理川普私物竟发现「川普之鎚」 引起众人热议</a></li>
-<li><a href="/lifebaike/20210117/1469567.md">为何美国警察拦停汽车后 先摸下车尾灯？</a></li>
 <li><a href="/comments/20210118/1469922.md">老川把网络打瘫痪了！媒体集体阵亡！士兵爆料，华盛顿马上要抓千名政客！【猪妹piggirl】</a></li>
+<li><a href="/lifebaike/20210117/1469567.md">为何美国警察拦停汽车后 先摸下车尾灯？</a></li>
 <li><a href="/cbnews/20210118/1469912.md">自从上周川普签署平叛法，福林将军在掌管军队</a></li>
 <li><a href="/cnnews/20210118/1469738.md">时局看点：习近平召高官开研讨会生是非</a></li>
 <li><a href="/headline/20210118/1469747.md">石家庄确诊女连日兼职 官媒批“可恨”惹众怒</a></li>
+<li><a href="/comments/20210118/1469891.md">【突发】【等待再次确认中】7个关键州正式公布非法选票证明 川普2020确定连任成功 总得票数美国史上最高 大胜利..... 希望网友收集信息加以确认</a></li>
 <li><a href="/ssgc/20210118/1469731.md">〖兲朝浮世绘〗习近平派中共党卫军助拜登夺权登位？</a></li>
 <li><a href="/cbnews/20210117/1469580.md">陈破空：蓬配奥威武，果然公开土共绝密！制裁澳洲九个月，结果意外！马云有了下落？过年标语雷人登场</a></li>
 <li><a href="/comments/20210117/1469637.md">大事发生.9名大主教一周内去世,死因中共病毒!美国务院发布中共病毒源头直指生物武器!</a></li>
-<li><a href="/comments/20210118/1469891.md">【突发】【等待再次确认中】7个关键州正式公布非法选票证明 川普2020确定连任成功 总得票数美国史上最高 大胜利..... 希望网友收集信息加以确认</a></li>
-<li><a href="/headline/20210117/1469605.md">异动！彭斯突访军营</a></li>
-<li><a href="/comments/20210118/1469774.md">风暴周，1月20号临近，高潮迭起，世界政坛翻天覆地，离奇死亡接二连三，DS灭顶之灾。蓬佩奥连续开炮，战前动员，1月17专题+问答 马先</a></li>
-<li><a href="/baitai/20210117/1469588.md">广汽石墨烯电池可续航1000公里、8分钟充电80%？专家：制造噱头</a></li>
 <li><a href="/cbnews/20210118/1469905.md">天亮时分：红衣主教的惊悚预言；世界新秩序之下，并无真正的秩序（政论天下第331集 20210117）</a></li>
+<li><a href="/comments/20210118/1469774.md">风暴周，1月20号临近，高潮迭起，世界政坛翻天覆地，离奇死亡接二连三，DS灭顶之灾。蓬佩奥连续开炮，战前动员，1月17专题+问答 马先</a></li>
+<li><a href="/headline/20210117/1469605.md">异动！彭斯突访军营</a></li>
+<li><a href="/baitai/20210117/1469588.md">广汽石墨烯电池可续航1000公里、8分钟充电80%？专家：制造噱头</a></li>
+<li><a href="/headline/20210118/1469770.md">大陆医生：中共一年杀掉你们十几万</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
