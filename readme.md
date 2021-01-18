@@ -9,11 +9,11 @@
 <li><a href="/comments/20210117/1469461.md">川普的真实对手 与罗斯柴尔德家族的较量 （网友提供）</a></li>
 <li><a href="/comments/20210118/1469711.md">🔔刚刚！伊万卡发出重要电报帖文：“他曾经是并将继续是!! 等着看，不会等太久!!!! 愿上帝之手继续放在有史以来最好的川普总统肩上!!  ” 🔔伊万卡连用了4个惊叹号 大家明白了吧</a></li>
 <li><a href="/topimagenews/20210117/1469415.md">川普又下通知了 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210117/1469583.md">惊人！佩洛西今为来华府美军加油 在谴责川普总统因黑命贵暴动派兵后【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210117/1469534.md">CIA女局长有消息了 彭斯成功阻止川普的CIA重要任命【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210117/1469583.md">惊人！佩洛西今为来华府美军加油 在谴责川普总统因黑命贵暴动派兵后【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210117/1469475.md">彭斯副总统搬起石头，砸了习近平的脚，海的习近平躲在洞里不敢出来，另川普翻盘的三个路径</a></li>
-<li><a href="/comments/20210118/1469690.md">川普总统将有重要广播："我的同胞们 风暴正在降临我们"   EBS紧急广播系统将被激活  通过EBS在授权的设备上将连续8天 每天播放8个小时的视频 连续10天</a></li>
 <li><a href="/comments/20210118/1469727.md">【突发】川普总统重大宣布：美国南部边境进入国家紧急状态</a></li>
+<li><a href="/comments/20210118/1469690.md">川普总统将有重要广播："我的同胞们 风暴正在降临我们"   EBS紧急广播系统将被激活  通过EBS在授权的设备上将连续8天 每天播放8个小时的视频 连续10天</a></li>
 <li><a href="/ssgc/20210117/1469504.md">中国超导物理学泰斗痛斥"妄议中央"谬论</a></li>
 <li><a href="/cnnews/hknews/20210117/1469484.md">遭到北京践踏为废纸的中英联合声明今天又变得“很严肃”</a></li>
 <li><a href="/comments/20210117/1469413.md">英国通灵预言家2021年的25个预言，美国大选7个算准6个，就等最後一个；另外18个更惊悚</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cbnews/20210117/1469580.md">陈破空：蓬配奥威武，果然公开土共绝密！制裁澳洲九个月，结果意外！马云有了下落？过年标语雷人登场</a></li>
 <li><a href="/comments/20210117/1469637.md">大事发生.9名大主教一周内去世,死因中共病毒!美国务院发布中共病毒源头直指生物武器!</a></li>
 <li><a href="/cbnews/20210117/1469480.md">格雷厄姆抢在川普之前，公布了“通俄门调查”的部分文件，是配合川普解密“奥巴马门”档案、力挺川普连任，还是在狙击川普？</a></li>
+<li><a href="/ssgc/20210118/1469731.md">〖兲朝浮世绘〗习近平派中共党卫军助拜登夺权登位？</a></li>
 <li><a href="/baitai/20210117/1469588.md">广汽石墨烯电池可续航1000公里、8分钟充电80%？专家：制造噱头</a></li>
-<li><a href="/headline/20210117/1469605.md">异动！彭斯突访军营</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210118/1469919.md" target="_blank">美女主持人当着无数观众 火烧格雷厄姆 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210118/1469881.md" target="_blank">露馅了！反川组织自夸在国会大厦武装叛乱【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20210118/1469797.md" target="_blank">涉债券欺诈 奥巴马与与小布什前精神顾问判监六年</a></li>
 <li><a href="/topimagenews/20210117/1469583.md" target="_blank">惊人！佩洛西今为来华府美军加油 在谴责川普总统因黑命贵暴动派兵后【阿波罗网编译】</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20210116/1468717.md" target="_blank">议员被抓！涉8项选举欺诈罪名 路易斯安娜州举行新闻发布会【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210116/1468697.md" target="_blank">格雷厄姆：通俄门调查是FBI和司法部最腐败一页</a></li>
 <li><a href="/topimagenews/20210116/1468421.md" target="_blank">1月20日就职典礼 国民警卫队被授权使用致命武器 倒钩铁丝网蜜蜂也插翅难逃【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210115/1468263.md" target="_blank">华府如临大敌 金里奇:反抗正在壮大将击败左翼言论审查 美国防部增列9家中企黑名单</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210118/1469922.md" target="_blank">老川把网络打瘫痪了！媒体集体阵亡！士兵爆料，华盛顿马上要抓千名政客！【猪妹piggirl】</a></li>
+<li><a href="/comments/20210118/1469921.md" target="_blank">1月17日华盛顿DC中心现场  全城完全是军管状态  如同鬼城    网友提供</a></li>
+<li><a href="/comments/20210118/1469918.md" target="_blank">【视频】美国从未有过！华盛顿像巴格达成为军事区 保证拜登安全</a></li>
+<li><a href="/comments/20210118/1469917.md" target="_blank">预言中共今年灭亡？毛新宇一篇题字火了</a></li>
 <li><a href="/comments/20210118/1469916.md" target="_blank">李燕铭：马云摊上大事了？！马云HHB音乐酒吧员工最新爆料再添疑云 马云失踪近三个月 各派放风暗战激烈 习近平酝酿金融清洗风暴 一旦拿下马云钱袋子 等于要了江泽民曾庆红的命</a></li>
 <li><a href="/comments/20210118/1469915.md" target="_blank">虽进入中国调查 世卫坦言：恐永远找不到“零号病患”</a></li>
 <li><a href="/comments/20210118/1469911.md" target="_blank">【微博精粹】历史总有时刻被魔鬼改写</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210118/1469826.md" target="_blank">我从没想过 大规模洗脑可以发生在一个名义上自由的社会——美国</a></li>
 <li><a href="/comments/20210118/1469816.md" target="_blank">李正宽：古今瘟疫有前鉴 躲过劫难藏祕诀</a></li>
 <li><a href="/comments/20210118/1469806.md" target="_blank">美媒：国家情报总监证实中共寻求干预选举</a></li>
-<li><a href="/comments/20210118/1469803.md" target="_blank">严纯钩：一念天堂 一念地狱 想想陈寅恪 钱钟书</a></li>
-<li><a href="/comments/20210118/1469802.md" target="_blank">陶杰：用孙子兵法的智慧 打击美国白左的结构性愚蠢</a></li>
-<li><a href="/comments/20210118/1469791.md" target="_blank">广东政法委前副书记陈文敏落马 已退休3年半</a></li>
-<li><a href="/comments/20210118/1469790.md" target="_blank">《石涛 News》“国家情报总监拉特克里夫 确认：中共国干扰美国2020年大选”CIA分析员-奥巴马深层政府拒绝此结论！1月7日总监致函国会声明-媒体已爆光“不知川普如何应对？”（17/01/21）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
