@@ -21,11 +21,11 @@
 <li><a href="/cnnews/20210119/1470817.md">惊！黑龙江男子当庭刺死法官</a></li>
 <li><a href="/headline/20210119/1470714.md">川普孤军奋战 遇刺后失踪几日</a></li>
 <li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
+<li><a href="/comments/20210120/1470997.md">将军Hyten用电报发出消息: 总统安全 这只是刚刚开始  最好的在后面  紧急广播系统0天   全世界都将听到  真相将震惊世界  THE BEST IS YET TO COME!</a></li>
 <li><a href="/cnnews/20210119/1470520.md">代理国防部长就国民警卫队在华盛顿特区的支援发布声明【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210119/1470642.md">权力和平过渡到了军方，军方已掌控美国，尤其是华盛顿DC</a></li>
 <li><a href="/ssgc/20210119/1470727.md">习近平的口罩显示什么？</a></li>
 <li><a href="/comments/20210119/1470825.md">川普： 我不会说什么时候出击 但我们会出击！  川普熟读孙子兵法</a></li>
-<li><a href="/comments/20210120/1470997.md">将军Hyten用电报发出消息: 总统安全 这只是刚刚开始  最好的在后面  紧急广播系统0天   全世界都将听到  真相将震惊世界  THE BEST IS YET TO COME!</a></li>
 <li><a href="/cnnews/20210119/1470641.md">很奇怪！佩洛西致信国防部长米勒 要求… 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210119/1470546.md">【重磅】1月18号 美国总统颁发实行民主问责行政令 将在6个月内彻底清洗官场 川普总统运筹帷幄 志在必得</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210120/1471121.md" target="_blank">快讯：川普总统发表告别演说</a></li>
 <li><a href="/cbnews/20210120/1471107.md" target="_blank">川普总统告别演讲【希望之声TV】</a></li>
 <li><a href="/cbnews/20210120/1471103.md" target="_blank">陈破空：直播预告：最后一日！川普在忙什么？拜登行前哽咽，暗示不祥之事？中情局长辞职。华盛顿如同战区。陈破空与网友互动Q&amp;A 美东时间1月19日周二晚7点、即中港台时间1月20日周三早8点</a></li>
 <li><a href="/cbnews/20210120/1471092.md" target="_blank">一线采访：北京疫情加剧 大兴爆群聚感染</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210119/1470568.md" target="_blank">疫情爆发 黑龙江绥化两屯村民异地隔离 牲畜杀了深埋</a></li>
 <li><a href="/cbnews/20210119/1470542.md" target="_blank">腾讯QQ会读取所有浏览器历史记录</a></li>
 <li><a href="/cbnews/20210119/1470551.md" target="_blank">多地挖沟、堆土硬性封路 河北急下禁令</a></li>
-<li><a href="/cbnews/20210119/1470545.md" target="_blank">文昭：情报总监和彭佩奥的最後出击，有多痛？北京和华盛顿竟有300年的宿命轮回？美国南部边界吃紧</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471123.md" target="_blank">白宫大典前夕 军事封锁下的华盛顿DC</a></li>
+<li><a href="/comments/20210120/1471122.md" target="_blank">【全球新闻 1月19日】</a></li>
+<li><a href="/comments/20210120/1471119.md" target="_blank">英国单日1610 人染疫亡刷新纪录 俄罗斯推出有效率100%疫苗</a></li>
+<li><a href="/comments/20210120/1471118.md" target="_blank">点赞“泡菜是韩国的”遭中企解约！南韩正妹网红人气不减反增</a></li>
+<li><a href="/comments/20210120/1471117.md" target="_blank">铁窗前“倒下的自由”！香港街头艺术引广大回响</a></li>
+<li><a href="/comments/20210120/1471116.md" target="_blank">臭名远播！中共副总理韩正被举报给29个国家 要求制裁其与家属</a></li>
 <li><a href="/comments/20210120/1471112.md" target="_blank">【视频直播】川普总统发表告别演讲</a></li>
 <li><a href="/comments/20210120/1471106.md" target="_blank">【突发】1.19川普总统发表离任演说</a></li>
 <li><a href="/comments/20210120/1471102.md" target="_blank">云南省委书记秦光荣两会前获刑 五中全会前受审 四中全会前落马 罪名特别 习近平敲山震虎 秦光荣落马内幕深度揭秘 背靠江派四大佬 屡次叫板习近平</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210120/1471072.md" target="_blank">【中文字幕】母仪天下的风范！美国第一夫人梅兰妮亚告别白宫演讲</a></li>
 <li><a href="/comments/20210120/1471071.md" target="_blank">疑似便衣警阻记者法院外拍照 警证实属西九龙冲锋队 称“与传媒发生误会”</a></li>
 <li><a href="/comments/20210120/1471070.md" target="_blank">反共到底！川普卸任前夕再出手 中国无人机制造商大疆头大了</a></li>
-<li><a href="/comments/20210120/1471069.md" target="_blank">夫妻同心！梅拉尼娅告别演说未提拜登 未邀拜登夫人参观白宫</a></li>
-<li><a href="/comments/20210120/1471067.md" target="_blank">移民活动人士：拜登一上任就要大改移民法</a></li>
-<li><a href="/comments/20210120/1471066.md" target="_blank">没有什么可以阻止即将发生的事情 Nothing can stop what’s coming 川普：我对人忠诚到了极点 以至于有人对我稍微的不忠 我都会认为是恐怖</a></li>
-<li><a href="/comments/20210120/1471065.md" target="_blank">【环球直击】川普宣布26日解除大部分国际旅行禁令，拜登反对；川普签行政令，评估中国制无人机风险；英国9.6万人丧生，德国出现全新病毒变种；中共扬言制裁美国官员，再次沦为笑谈</a></li>
-<li><a href="/comments/20210120/1471064.md" target="_blank">【专家解析】林晓旭谈中共病毒突变：灾难性免疫逃避E484K</a></li>
-<li><a href="/comments/20210120/1471062.md" target="_blank">李克强国务院国防政策制定权被剥夺 中共军队将只听命于习近平本人 习近平比毛泽东邓小平更没有安全感 习永远无法确定政敌会在何时何地以何种方式密谋反对他 中南海不可告人的秘密_305</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210105/1461133.md" target="_blank">林伍德大律师舍命爆出惊天秘密</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
