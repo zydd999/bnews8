@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210118/1470069.md">上海官员与黑社会老大的“小红楼”曝光</a></li>
 <li><a href="/cbnews/20210118/1469955.md">耐人寻味：近日发生的三件大事 与川普平叛有关吗？</a></li>
-<li><a href="/comments/20210118/1469950.md">1月17号 美国各大电视网的信号都断了  上网可以公开查  一定是被FCC吊销了执照 拜登的就职典礼直播看来是要泡汤了</a></li>
 <li><a href="/comments/20210119/1470302.md">【突发】拜登团队急不可待！突然把就职典礼改在1月19号中午12pm举行  大事件即将发生</a></li>
-<li><a href="/comments/20210118/1469967.md">1月17号 网络开始热传美国三军统帅川普换上军装的视频 有网友说是以前的视频 但是今天特愿意看</a></li>
 <li><a href="/comments/20210119/1470432.md">1月18号  美国各地区开始停电 军方正在抓人</a></li>
-<li><a href="/bannedvideo/20210118/1469953.md">华盛顿DC大战即将到来！郭文贵再次强调川普一定会赢！</a></li>
+<li><a href="/comments/20210118/1469967.md">1月17号 网络开始热传美国三军统帅川普换上军装的视频 有网友说是以前的视频 但是今天特愿意看</a></li>
 <li><a href="/comments/20210118/1470266.md">陆媒揭上海红楼淫乱 传习亲信李强审看偷拍视频惊呆</a></li>
-<li><a href="/comments/20210119/1470336.md">【突发】美国各大网络都瘫痪了!The major networks are down!</a></li>
 <li><a href="/comments/20210119/1470466.md">突发：美各大媒体、电视台同一天网络中断。班农：20号开始随时可能发生“72小时”大行动，拜哈登基无吉日，DC变冥都鬼城。1月18专题2+问答  马先</a></li>
+<li><a href="/comments/20210119/1470336.md">【突发】美国各大网络都瘫痪了!The major networks are down!</a></li>
 <li><a href="/comments/20210118/1470009.md">【重磅】美军方公开表态  1月17号 弗林将军投下震撼弹  自上周签署叛乱法案后 弗林将军目前负责军事 General Flynn is currently in charge of Military</a></li>
 <li><a href="/topimagenews/20210118/1470007.md">朱利安尼周六回到白宫！纽约时报假新闻再被揭穿！ 【阿波罗网编译】图</a></li>
 <li><a href="/headline/20210118/1470032.md">50州军队齐聚华盛顿 大选惊奇正在上演</a></li>
 <li><a href="/headline/20210119/1470393.md">印度研究：两种血型人染武汉肺炎机率低</a></li>
-<li><a href="/comments/20210119/1470344.md">【重磅】1月18号国家情报局局长约翰-拉特克利夫(John Ratcliffe)公布：中国干预了2020年大选 此信息被中情局管理层压制   这意味着拜登的总统梦破灭了</a></li>
+<li><a href="/funmedia/20210119/1470485.md">因结婚照太美，四名小偷去而复返，侵犯女主人8小时候后将其杀害</a></li>
 <li><a href="/lifebaike/20210118/1470106.md">23岁姑娘全麻做整形 术后恶心反胃：怀孕了</a></li>
+<li><a href="/comments/20210119/1470344.md">【重磅】1月18号国家情报局局长约翰-拉特克利夫(John Ratcliffe)公布：中国干预了2020年大选 此信息被中情局管理层压制   这意味着拜登的总统梦破灭了</a></li>
 <li><a href="/cnnews/20210118/1470092.md">河南市委书记当众掌掴秘书长 致其心脏病发</a></li>
 <li><a href="/comments/20210118/1470262.md">【重磅】联邦刚出台的报告：乔拜登从美联储财政部拿了1.4亿美元寄给了ROSEMONT SENECA用于银行救助" 然后再转到他在开曼群岛的个人账户</a></li>
 <li><a href="/comments/20210119/1470283.md">弗林将军发出短信：掩盖的一切都要显露出来，一切秘密都要让人知道的时候就要到了。</a></li>
 <li><a href="/cnnews/20210119/1470300.md">南京男子房贷117万 还了7年还欠117万！银行却说…</a></li>
-<li><a href="/funmedia/20210119/1470485.md">因结婚照太美，四名小偷去而复返，侵犯女主人8小时候后将其杀害</a></li>
-<li><a href="/comments/20210119/1470309.md">【突发】国会大厦内正在播放紧急公告！ 所有彩排人员正在撤离！Emergency announcement playing at Capitol grounds.</a></li>
 <li><a href="/cbnews/20210118/1470015.md">风暴袭来：李劼: 50州军队齐聚DC 蓬卿再「摔杯」CBS主流媒体宕机; 梵蒂冈巨款被缴 金融大鳄和九主教神秘死亡 大选惊奇 正在上演</a></li>
+<li><a href="/comments/20210119/1470309.md">【突发】国会大厦内正在播放紧急公告！ 所有彩排人员正在撤离！Emergency announcement playing at Capitol grounds.</a></li>
+<li><a href="/cbnews/20210118/1470171.md">陈破空：蓬配奥把习近平整疯了？台海战争风险升到最高！香港惊现雷人标语。非洲直指北京是大瘟疫祸源</a></li>
+<li><a href="/cnnews/20210118/1470091.md">惊爆：变种病毒可对抗新冠抗体 曾用于治疗川普</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210119/1470647.md" target="_blank">帛琉总统当选人誓言结盟台美 对抗中共霸凌</a></li>
+<li><a href="/cbnews/20210119/1470644.md" target="_blank">他们密谋的新世界秩序是什么？议程细节曝光！大重置计划开启？数字疫苗接种护照将问世！联邦雇员密谋破坏川普执政？视频被曝光！【希望之声TV】</a></li>
 <li><a href="/cbnews/20210119/1470597.md" target="_blank">华为二公主姚安娜出道 网友：拿钱砸开所有门</a></li>
 <li><a href="/cbnews/20210119/1470590.md" target="_blank">拜登计划迅速签署命令  将撤销川普多项政策；彭斯呼吁拜登政府 “永远警惕”中共；前美DNI首长：拜登易受支配 或成&#8221;影子总统”；福克斯主持人公开质疑参议员格雷厄姆【希望之声TV】</a></li>
 <li><a href="/cbnews/20210119/1470579.md" target="_blank">🔥🔥大戏来了❗ 1月20日终极对决❗中共 外星人齐上阵❓❗</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210119/1470373.md" target="_blank">石家庄防疫新招：将出门者捆在树上</a></li>
 <li><a href="/cbnews/20210119/1470372.md" target="_blank">黑龙江85岁老大爷无健康码乘车被拒 怒砸公交车</a></li>
 <li><a href="/cbnews/20210119/1470371.md" target="_blank">广东政法委前副书记陈文敏 其厄运与所涉冤案</a></li>
-<li><a href="/cbnews/20210119/1470368.md" target="_blank">陈破空：直播预告：国会山虚惊。拜登一言惹祸！大量非法移民涌向美国。彭斯告别演说，疾呼抗共。陈破空与网友互动 Q&amp;A 美东时间1月18日周一晚上7点，即中港台时间1月19日周二早上8点</a></li>
-<li><a href="/cbnews/20210119/1470306.md" target="_blank">川普总统或再进行特赦？恐内部对抗？FBI对华盛顿2万5军人做审查;美国家安全局任命川普盟友为总法律顾问;学者： 奥巴马是“历史上最反宗教的总统”;CNN推动关闭Newsmax 电视【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210119/1470648.md" target="_blank">【重磅】川普团队一遍又一遍的努力彩排 这才是美国第一夫人的真实样子 “ 最精彩的还在后面！..大声说” The best is yet to come&#8230;say it aloud!</a></li>
 <li><a href="/comments/20210119/1470636.md" target="_blank">能摧毁一切的代言人！成龙再出山 这次“他”要惨了</a></li>
 <li><a href="/comments/20210119/1470621.md" target="_blank">河北疫情大爆发震动全国 逾20省排查</a></li>
 <li><a href="/comments/20210119/1470620.md" target="_blank">来自不同国度的男人，都给女人带来了什么</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210119/1470555.md" target="_blank">外媒独家首播 武汉封城前3天关键画面</a></li>
 <li><a href="/comments/20210119/1470554.md" target="_blank">经济溃败推原因 他们成金正恩的代罪羔羊？</a></li>
 <li><a href="/comments/20210119/1470546.md" target="_blank">【重磅】1月18号 美国总统颁发实行民主问责行政令 将在6个月内彻底清洗官场 川普总统运筹帷幄 志在必得</a></li>
-<li><a href="/comments/20210119/1470535.md" target="_blank">政治气候转变 美国年度拥枪集会参与者寥寥</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201218/1450327.md" target="_blank">美国深层政府内幕揭密：魔鬼2020计划书</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/comments/20210105/1461133.md" target="_blank">林伍德大律师舍命爆出惊天秘密</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 
 </ul>
 </div>
