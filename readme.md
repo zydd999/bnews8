@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20210119/1470656.md">中国要崩溃了吗？他揭秘4细节：其实已经崩了</a></li>
 <li><a href="/headline/20210119/1470393.md">印度研究：两种血型人染武汉肺炎机率低</a></li>
 <li><a href="/headline/20210119/1470713.md">川普险遇刺 美军再次突袭CIA</a></li>
-<li><a href="/comments/20210119/1470344.md">【重磅】1月18号国家情报局局长约翰-拉特克利夫(John Ratcliffe)公布：中国干预了2020年大选 此信息被中情局管理层压制   这意味着拜登的总统梦破灭了</a></li>
 <li><a href="/topimagenews/20210119/1470550.md">惊人真相！独家秘密纪录片：绊住全世界的3天</a></li>
 <li><a href="/cbnews/20210119/1470579.md">🔥🔥大戏来了❗ 1月20日终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210119/1470830.md">最新行政令, 川普压根没打算离开白宫! 8千非法移民找拜登兑现承诺, 史上最不寻常的就职典礼将发生什么? 真观点</a></li>
 <li><a href="/cnnews/20210119/1470754.md">与希拉里交往的美籍华裔名媛律师 在香港跳楼身亡 【阿波罗网编译】</a></li>
+<li><a href="/comments/20210119/1470830.md">最新行政令, 川普压根没打算离开白宫! 8千非法移民找拜登兑现承诺, 史上最不寻常的就职典礼将发生什么? 真观点</a></li>
 <li><a href="/comments/20210119/1470648.md">【重磅】川普团队一遍又一遍的努力彩排“ 最精彩的还在后面！..大声说” The best is yet to come...say it aloud!</a></li>
 <li><a href="/ssgc/20210119/1465313.md">为川普总统鼓与呼</a></li>
 <li><a href="/comments/20210119/1470613.md">超过4万的兵力部署在DC  军方的口袋阵已经布好了  川普一家都已经安全隔离</a></li>
 <li><a href="/cnnews/20210119/1470817.md">惊！黑龙江男子当庭刺死法官</a></li>
 <li><a href="/headline/20210119/1470714.md">川普孤军奋战 遇刺后失踪几日</a></li>
 <li><a href="/cnnews/20210119/1470520.md">代理国防部长就国民警卫队在华盛顿特区的支援发布声明【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210119/1470642.md">权力和平过渡到了军方，军方已掌控美国，尤其是华盛顿DC</a></li>
 <li><a href="/ssgc/20210119/1470727.md">习近平的口罩显示什么？</a></li>
-<li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
 <li><a href="/comments/20210119/1470825.md">川普： 我不会说什么时候出击 但我们会出击！  川普熟读孙子兵法</a></li>
 <li><a href="/cnnews/20210119/1470641.md">很奇怪！佩洛西致信国防部长米勒 要求… 【阿波罗网编译】</a></li>
+<li><a href="/comments/20210119/1470546.md">【重磅】1月18号 美国总统颁发实行民主问责行政令 将在6个月内彻底清洗官场 川普总统运筹帷幄 志在必得</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210120/1471052.md" target="_blank">陈破空说段子：王毅向澳大利亚外长解释战狼外交</a></li>
 <li><a href="/cbnews/20210120/1471036.md" target="_blank">德国出现武肺新变种毒株！州长吁全境延长封锁</a></li>
 <li><a href="/cbnews/20210120/1471031.md" target="_blank">美智库吁川普卸任前定中共为犯罪组织；彭佩奥连续发文引发左媒猜测；德州准备对拜登施政提起诉讼；川普禁止联邦政府部门使用敌对国无人机；专家：情报局UFO文件是X档案现实版【希望之声TV】</a></li>
 <li><a href="/cbnews/20210119/1470931.md" target="_blank">川普宣布26日解除大部分旅行禁令 拜登反对；拜登内阁5提名人将听证 如何应对中共成焦点；高院50年前罗诉韦德案裁决 川普：有宪法缺陷；因人而异？谷歌“奇葩”翻译惹议【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210119/1470486.md" target="_blank">拜登就职前重兵压阵，到底要防谁？所有士兵都要“政审”？拜登要取消川普行政令，后果是什么？</a></li>
 <li><a href="/cbnews/20210119/1470484.md" target="_blank">【中文字幕】母仪天下的风范！1月18日，美国第一夫人梅兰妮亚告别白宫演讲。</a></li>
 <li><a href="/cbnews/20210119/1470477.md" target="_blank">党就是爹&#8212;-市委书记痛打政府秘书长</a></li>
-<li><a href="/cbnews/20210119/1470449.md" target="_blank">拜登宣誓就职彩排被火灾打乱；危地马拉安全部队与边境移民发生冲突；川普撤销华为千亿美元销售许可证；俄勒冈州考虑紧急没收私有财产的法案；谷歌脸书达成秘密交易；川普签行政令【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471062.md" target="_blank">李克强国务院国防政策制定权被剥夺 中共军队将只听命于习近平本人 习近平比毛泽东邓小平更没有安全感 习永远无法确定政敌会在何时何地以何种方式密谋反对他 中南海不可告人的秘密_305</a></li>
+<li><a href="/comments/20210120/1471061.md" target="_blank">拜登许诺给非法移民身份 引数千难民抵边境</a></li>
+<li><a href="/comments/20210120/1471060.md" target="_blank">彭博：中国收入差距巨大 抑制消费支出</a></li>
+<li><a href="/comments/20210120/1471059.md" target="_blank">美国历史上4个不寻常的总统就职大典，再加一个~</a></li>
+<li><a href="/comments/20210120/1471051.md" target="_blank">【中文字幕】母仪天下的风范！1月18日：美国第一夫人梅兰妮亚告别白宫演讲</a></li>
 <li><a href="/comments/20210120/1471050.md" target="_blank">2020年各界精英因信仰遭受中共迫害</a></li>
 <li><a href="/comments/20210120/1471044.md" target="_blank">【直播】1.18白宫附近情况</a></li>
 <li><a href="/comments/20210120/1471041.md" target="_blank">（中英文字幕）美国第一夫人梅拉尼娅白宫演讲：暴力永远不是答案和道义 我们继续美国的传统 通过勇气、善良和信念</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210119/1470986.md" target="_blank">美智库主席：川普应定中共为跨国犯罪组织</a></li>
 <li><a href="/comments/20210119/1470985.md" target="_blank">德州州长：FBI考核国民卫队忠诚是“冒犯”</a></li>
 <li><a href="/comments/20210119/1470958.md" target="_blank">病毒能否经过食物传染？台湾专家来解答</a></li>
-<li><a href="/comments/20210119/1470957.md" target="_blank">明日腊八，腊八节的三个禁忌，你知道吗？</a></li>
-<li><a href="/comments/20210119/1470956.md" target="_blank">河北疫情严峻 封门落锁 一违规者被捆树上</a></li>
-<li><a href="/comments/20210119/1470948.md" target="_blank">汪洋对台讲话 重提“反独促统” 陆委会反击了</a></li>
-<li><a href="/comments/20210119/1470945.md" target="_blank">天然抗体对南非变异病毒株的效力较弱 欧洲疫情难缓和</a></li>
-<li><a href="/comments/20210119/1470944.md" target="_blank">【新闻大家谈 1/19】拜登担心身边人，FBI行动；独家密件揭中共抗美计划，川普新行动回应；拜登团队5人国会闯关；白宫公布川普总统四年执政成绩单</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
