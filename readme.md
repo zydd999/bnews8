@@ -14,15 +14,15 @@
 <li><a href="/headline/20210119/1470713.md">川普险遇刺 美军再次突袭CIA</a></li>
 <li><a href="/topimagenews/20210119/1470550.md">惊人真相！独家秘密纪录片：绊住全世界的3天</a></li>
 <li><a href="/cbnews/20210119/1470579.md">🔥🔥大戏来了❗ 1月20日终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cnnews/20210119/1470754.md">与希拉里交往的美籍华裔名媛律师 在香港跳楼身亡 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210119/1470830.md">最新行政令, 川普压根没打算离开白宫! 8千非法移民找拜登兑现承诺, 史上最不寻常的就职典礼将发生什么? 真观点</a></li>
+<li><a href="/cnnews/20210119/1470754.md">与希拉里交往的美籍华裔名媛律师 在香港跳楼身亡 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210119/1470648.md">【重磅】川普团队一遍又一遍的努力彩排“ 最精彩的还在后面！..大声说” The best is yet to come...say it aloud!</a></li>
 <li><a href="/ssgc/20210119/1465313.md">为川普总统鼓与呼</a></li>
 <li><a href="/comments/20210119/1470613.md">超过4万的兵力部署在DC  军方的口袋阵已经布好了  川普一家都已经安全隔离</a></li>
 <li><a href="/cnnews/20210119/1470817.md">惊！黑龙江男子当庭刺死法官</a></li>
 <li><a href="/headline/20210119/1470714.md">川普孤军奋战 遇刺后失踪几日</a></li>
-<li><a href="/cnnews/20210119/1470520.md">代理国防部长就国民警卫队在华盛顿特区的支援发布声明【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210119/1470520.md">代理国防部长就国民警卫队在华盛顿特区的支援发布声明【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210119/1470642.md">权力和平过渡到了军方，军方已掌控美国，尤其是华盛顿DC</a></li>
 <li><a href="/ssgc/20210119/1470727.md">习近平的口罩显示什么？</a></li>
 <li><a href="/comments/20210119/1470825.md">川普： 我不会说什么时候出击 但我们会出击！  川普熟读孙子兵法</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210120/1471083.md" target="_blank">政治审查：两名国民警卫队成员被排除参与拜登就职典礼</a></li>
 <li><a href="/cbnews/20210120/1471052.md" target="_blank">陈破空说段子：王毅向澳大利亚外长解释战狼外交</a></li>
 <li><a href="/cbnews/20210120/1471036.md" target="_blank">德国出现武肺新变种毒株！州长吁全境延长封锁</a></li>
 <li><a href="/cbnews/20210120/1471031.md" target="_blank">美智库吁川普卸任前定中共为犯罪组织；彭佩奥连续发文引发左媒猜测；德州准备对拜登施政提起诉讼；川普禁止联邦政府部门使用敌对国无人机；专家：情报局UFO文件是X档案现实版【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210119/1470508.md" target="_blank">多州立法允许起诉社媒大公司  边境紧张非法移民能否涌入？  嘉宾： 方伟 蓝述  主持：高洁【希望之声TV】(2021/01/18)</a></li>
 <li><a href="/cbnews/20210119/1470486.md" target="_blank">拜登就职前重兵压阵，到底要防谁？所有士兵都要“政审”？拜登要取消川普行政令，后果是什么？</a></li>
 <li><a href="/cbnews/20210119/1470484.md" target="_blank">【中文字幕】母仪天下的风范！1月18日，美国第一夫人梅兰妮亚告别白宫演讲。</a></li>
-<li><a href="/cbnews/20210119/1470477.md" target="_blank">党就是爹&#8212;-市委书记痛打政府秘书长</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,18 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471084.md" target="_blank">习近平冒风险考察北京和河北冬奥会筹备工作 全程戴口罩 动机引猜测 北京冬奥会变数极大</a></li>
+<li><a href="/comments/20210120/1471081.md" target="_blank">白宫预算办：川普政府2020对华援助减半</a></li>
+<li><a href="/comments/20210120/1471080.md" target="_blank">蓬佩奥：中共在新疆犯下“种族灭绝”与“反人类罪”</a></li>
+<li><a href="/comments/20210120/1471079.md" target="_blank">美国资管巨头减持 茅台市值蒸发674亿</a></li>
+<li><a href="/comments/20210120/1471078.md" target="_blank">汽车芯片短缺 福特关闭德国工厂一个月</a></li>
+<li><a href="/comments/20210120/1471077.md" target="_blank">运送犯人的监狱大巴进入华盛顿DC 国会大厦一侧等待</a></li>
+<li><a href="/comments/20210120/1471076.md" target="_blank">川普1776委员会发布报告 吁以建国价值观实现团结</a></li>
+<li><a href="/comments/20210120/1471075.md" target="_blank">英国9.6万人丧生 德国出现全新病毒变种</a></li>
+<li><a href="/comments/20210120/1471072.md" target="_blank">【中文字幕】母仪天下的风范！美国第一夫人梅兰妮亚告别白宫演讲</a></li>
+<li><a href="/comments/20210120/1471071.md" target="_blank">疑似便衣警阻记者法院外拍照 警证实属西九龙冲锋队 称“与传媒发生误会”</a></li>
+<li><a href="/comments/20210120/1471070.md" target="_blank">反共到底！川普卸任前夕再出手 中国无人机制造商大疆头大了</a></li>
+<li><a href="/comments/20210120/1471069.md" target="_blank">夫妻同心！梅拉尼娅告别演说未提拜登 未邀拜登夫人参观白宫</a></li>
 <li><a href="/comments/20210120/1471067.md" target="_blank">移民活动人士：拜登一上任就要大改移民法</a></li>
 <li><a href="/comments/20210120/1471066.md" target="_blank">没有什么可以阻止即将发生的事情 Nothing can stop what’s coming 川普：我对人忠诚到了极点 以至于有人对我稍微的不忠 我都会认为是恐怖</a></li>
 <li><a href="/comments/20210120/1471065.md" target="_blank">【环球直击】川普宣布26日解除大部分国际旅行禁令，拜登反对；川普签行政令，评估中国制无人机风险；英国9.6万人丧生，德国出现全新病毒变种；中共扬言制裁美国官员，再次沦为笑谈</a></li>
@@ -111,18 +123,6 @@
 <li><a href="/comments/20210120/1471044.md" target="_blank">【直播】1.18白宫附近情况</a></li>
 <li><a href="/comments/20210120/1471041.md" target="_blank">（中英文字幕）美国第一夫人梅拉尼娅白宫演讲：暴力永远不是答案和道义 我们继续美国的传统 通过勇气、善良和信念</a></li>
 <li><a href="/comments/20210120/1471040.md" target="_blank">川普宣布26日解除大部分国际旅行禁令 拜登反对</a></li>
-<li><a href="/comments/20210120/1471030.md" target="_blank">建制派追击中大 斥洒粉末为“黑暴”延续 中大：将加强保安 违规学生面临纪律处分</a></li>
-<li><a href="/comments/20210120/1471020.md" target="_blank">《石涛聚焦》“1月6日国会悲剧盗窃者栽赃之邪恶：冲突中死亡警官-疾病所致 枪击报导-假的！”3位急症死亡-不存在“唯一真实：加州女退伍空军阿仕莉-巴比特 被警察无故一枪毙命”（19/01/21）</a></li>
-<li><a href="/comments/20210120/1471014.md" target="_blank">《石涛聚焦》“美国防部代理部长米勒 对抗FBI栽赃式定罪：不存在内部威胁！”FBI 喧嚣式警告1月20日存在“武力威胁” 只为盗窃者掩盖 并以国家执法机构烘托其结果的合法性！（19/01/21）</a></li>
-<li><a href="/comments/20210120/1471013.md" target="_blank">【直播 1月19日】国务卿提名人布林肯参院听证：美国可胜过中国</a></li>
-<li><a href="/comments/20210120/1471008.md" target="_blank">APP通知曾接触确诊者 英国卫生大臣自我隔离</a></li>
-<li><a href="/comments/20210120/1471005.md" target="_blank">《石涛聚焦》“川普18日颁布行政命令 将在典礼日后1月22日执行！”赞扬生命之神性！每个人按上帝圣洁形象而创造 万能的造物主赋予每个人独特品质“对抗无神论精英之女人身体 女人作主”（19/01/21）</a></li>
-<li><a href="/comments/20210120/1471004.md" target="_blank">1月19号直播解封大案档案： 弗吉尼亚.玖福瑞 v. 基斯林.马克思维尔 Virginia Giuffre v. Ghislaine Maxwell  马克思维尔是爱波斯坦的大管家  直播链接在留言里</a></li>
-<li><a href="/comments/20210120/1471003.md" target="_blank">腊八喝粥有讲究，灵隐寺腊八粥传统配方公开</a></li>
-<li><a href="/comments/20210120/1470998.md" target="_blank">拜登提名左派议员沃伦的盟友任金融监管要职</a></li>
-<li><a href="/comments/20210120/1470997.md" target="_blank">将军Hyten用电报发出消息: 总统安全 这只是刚刚开始  最好的在后面  紧急广播系统0天   全世界都将听到  真相将震惊世界  THE BEST IS YET TO COME!</a></li>
-<li><a href="/comments/20210120/1470991.md" target="_blank">司法覆核警阻采访原审败诉 记协放弃上诉</a></li>
-<li><a href="/comments/20210120/1470990.md" target="_blank">外媒：香港主教任命因政局动荡拖延 教廷正考虑夏志诚、蔡惠民以外第三人选</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20201218/1450327.md" target="_blank">美国深层政府内幕揭密：魔鬼2020计划书</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
