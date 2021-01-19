@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210118/1470069.md">上海官员与黑社会老大的“小红楼”曝光</a></li>
 <li><a href="/comments/20210119/1470302.md">【突发】拜登团队急不可待！突然把就职典礼改在1月19号中午12pm举行  大事件即将发生</a></li>
-<li><a href="/comments/20210119/1470432.md">1月18号  美国各地区开始停电 军方正在抓人</a></li>
 <li><a href="/comments/20210118/1470266.md">陆媒揭上海红楼淫乱 传习亲信李强审看偷拍视频惊呆</a></li>
+<li><a href="/comments/20210119/1470432.md">1月18号  美国各地区开始停电 军方正在抓人</a></li>
 <li><a href="/comments/20210119/1470466.md">突发：美各大媒体、电视台同一天网络中断。班农：20号开始随时可能发生“72小时”大行动，拜哈登基无吉日，DC变冥都鬼城。1月18专题2+问答  马先</a></li>
 <li><a href="/funmedia/20210119/1470485.md">因结婚照太美，四名小偷去而复返，侵犯女主人8小时候后将其杀害</a></li>
 <li><a href="/comments/20210119/1470336.md">【突发】美国各大网络都瘫痪了!The major networks are down!</a></li>
-<li><a href="/headline/20210118/1470032.md">50州军队齐聚华盛顿 大选惊奇正在上演</a></li>
 <li><a href="/lifebaike/20210118/1470106.md">23岁姑娘全麻做整形 术后恶心反胃：怀孕了</a></li>
-<li><a href="/headline/20210119/1470393.md">印度研究：两种血型人染武汉肺炎机率低</a></li>
 <li><a href="/cnnews/20210118/1470092.md">河南市委书记当众掌掴秘书长 致其心脏病发</a></li>
+<li><a href="/headline/20210119/1470393.md">印度研究：两种血型人染武汉肺炎机率低</a></li>
+<li><a href="/comments/20210119/1470600.md">老川大动作！炸了！华盛顿禁入了！CIA总部原来是贩X基地？！瓜太大了！【猪妹piggirl】</a></li>
 <li><a href="/comments/20210119/1470344.md">【重磅】1月18号国家情报局局长约翰-拉特克利夫(John Ratcliffe)公布：中国干预了2020年大选 此信息被中情局管理层压制   这意味着拜登的总统梦破灭了</a></li>
 <li><a href="/comments/20210119/1470283.md">弗林将军发出短信：掩盖的一切都要显露出来，一切秘密都要让人知道的时候就要到了。</a></li>
 <li><a href="/topimagenews/20210119/1470550.md">惊人真相！独家秘密纪录片：绊住全世界的3天</a></li>
 <li><a href="/cnnews/20210119/1470300.md">南京男子房贷117万 还了7年还欠117万！银行却说…</a></li>
 <li><a href="/comments/20210118/1470262.md">【重磅】联邦刚出台的报告：乔拜登从美联储财政部拿了1.4亿美元寄给了ROSEMONT SENECA用于银行救助" 然后再转到他在开曼群岛的个人账户</a></li>
-<li><a href="/comments/20210119/1470600.md">老川大动作！炸了！华盛顿禁入了！CIA总部原来是贩X基地？！瓜太大了！【猪妹piggirl】</a></li>
 <li><a href="/comments/20210119/1470309.md">【突发】国会大厦内正在播放紧急公告！ 所有彩排人员正在撤离！Emergency announcement playing at Capitol grounds.</a></li>
 <li><a href="/cbnews/20210118/1470171.md">陈破空：蓬配奥把习近平整疯了？台海战争风险升到最高！香港惊现雷人标语。非洲直指北京是大瘟疫祸源</a></li>
 <li><a href="/cnnews/20210119/1470520.md">代理国防部长就国民警卫队在华盛顿特区的支援发布声明【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210118/1470091.md">惊爆：变种病毒可对抗新冠抗体 曾用于治疗川普</a></li>
 <li><a href="/cbnews/20210119/1470579.md">🔥🔥大戏来了❗ 1月20日终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/cnnews/20210118/1470091.md">惊爆：变种病毒可对抗新冠抗体 曾用于治疗川普</a></li>
 <li><a href="/worldnews/20210118/1470103.md">大批赴美难民涌入与军队爆流血冲突 场面混乱</a></li>
+<li><a href="/cnnews/20210118/1470246.md">恐怖的新高度：极左暴力主义演员鲍德温声称 梦见川普总统被吊死【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210119/1470733.md" target="_blank">1月18日 康涅狄格州进行军事集结</a></li>
+<li><a href="/comments/20210119/1470732.md" target="_blank">1月18号  肯塔基州的军事集结</a></li>
+<li><a href="/comments/20210119/1470731.md" target="_blank">1月18号 自由发源地宾夕法尼亚州军队集结</a></li>
+<li><a href="/comments/20210119/1470728.md" target="_blank">冬日的菌菇最养人！这 7 种菇你一定要吃 提升免疫力抗病毒</a></li>
 <li><a href="/comments/20210119/1470711.md" target="_blank">1月18号 密歇根州的军事集结   美国各大城市都在进行军事集结</a></li>
 <li><a href="/comments/20210119/1470710.md" target="_blank">1月18号  威斯康星州的军事集结</a></li>
 <li><a href="/comments/20210119/1470701.md" target="_blank">【独家】五律 ：《赞蓬佩奥》</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210119/1470616.md" target="_blank">【微博精粹】也许是黎明前的最黑暗 但太阳要升起没人摁得住</a></li>
 <li><a href="/comments/20210119/1470614.md" target="_blank">《石涛聚焦》“川普太太-第一夫人梅拉尼娅告别演讲：择爱去恨 和平非暴力 为他忍己”她的美丽与气质 川普的绅士与坦然“惹怒整个西方男女精英 背离神性后的”撒旦与陔隐之邪恶 妒嫉 愤恨（18/01/21）</a></li>
 <li><a href="/comments/20210119/1470613.md" target="_blank">超过4万的兵力部署在DC  军方的口袋阵已经布好了  川普一家都已经安全隔离</a></li>
-<li><a href="/comments/20210119/1470607.md" target="_blank">川普取消对欧州与巴西旅行限制 维持对中、伊封锁</a></li>
-<li><a href="/comments/20210119/1470600.md" target="_blank">老川大动作！炸了！华盛顿禁入了！CIA总部原来是贩X基地？！瓜太大了！【猪妹piggirl】</a></li>
-<li><a href="/comments/20210119/1470595.md" target="_blank">【方菲访谈】原香港实业家袁弓夷：他们把整个法律都改变 将来6月之后的美国就不是今天的美国了</a></li>
-<li><a href="/comments/20210119/1470594.md" target="_blank">【方菲访谈】中共是否对台湾动手？林晓旭：中共知道目前国际性局势对它有利 不过人算不如天算</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 
 </ul>
 </div>
