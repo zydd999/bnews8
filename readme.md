@@ -13,21 +13,21 @@
 <li><a href="/comments/20210118/1469950.md">1月17号 美国各大电视网的信号都断了  上网可以公开查  一定是被FCC吊销了执照 拜登的就职典礼直播看来是要泡汤了</a></li>
 <li><a href="/cbnews/20210118/1469912.md">自从上周川普签署平叛法，福林将军在掌管军队</a></li>
 <li><a href="/comments/20210118/1469891.md">【突发】【等待再次确认中】7个关键州正式公布非法选票证明 川普2020确定连任成功 总得票数美国史上最高 大胜利..... 希望网友收集信息加以确认</a></li>
+<li><a href="/comments/20210119/1470302.md">【突发】拜登团队急不可待！突然把就职典礼改在1月19号中午12pm举行  大事件即将发生</a></li>
 <li><a href="/comments/20210118/1469967.md">1月17号 网络开始热传美国三军统帅川普换上军装的视频 有网友说是以前的视频 但是今天特愿意看</a></li>
 <li><a href="/bannedvideo/20210118/1469953.md">华盛顿DC大战即将到来！郭文贵再次强调川普一定会赢！</a></li>
-<li><a href="/comments/20210119/1470302.md">【突发】拜登团队急不可待！突然把就职典礼改在1月19号中午12pm举行  大事件即将发生</a></li>
 <li><a href="/cbnews/20210118/1469905.md">天亮时分：红衣主教的惊悚预言；世界新秩序之下，并无真正的秩序（政论天下第331集 20210117）</a></li>
-<li><a href="/topimagenews/20210118/1470007.md">朱利安尼周六回到白宫！纽约时报假新闻再被揭穿！ 【阿波罗网编译】图</a></li>
 <li><a href="/comments/20210118/1470266.md">陆媒揭上海红楼淫乱 传习亲信李强审看偷拍视频惊呆</a></li>
+<li><a href="/topimagenews/20210118/1470007.md">朱利安尼周六回到白宫！纽约时报假新闻再被揭穿！ 【阿波罗网编译】图</a></li>
 <li><a href="/lifebaike/20210118/1469899.md">19岁女孩产房生子，领6男子做亲子鉴定，检查结果让全家无法接受</a></li>
-<li><a href="/headline/20210118/1470032.md">50州军队齐聚华盛顿 大选惊奇正在上演</a></li>
 <li><a href="/comments/20210118/1470009.md">【重磅】美军方公开表态  1月17号 弗林将军投下震撼弹  自上周签署叛乱法案后 弗林将军目前负责军事 General Flynn is currently in charge of Military</a></li>
+<li><a href="/headline/20210118/1470032.md">50州军队齐聚华盛顿 大选惊奇正在上演</a></li>
 <li><a href="/cnnews/20210118/1470092.md">河南市委书记当众掌掴秘书长 致其心脏病发</a></li>
 <li><a href="/lifebaike/20210118/1470106.md">23岁姑娘全麻做整形 术后恶心反胃：怀孕了</a></li>
-<li><a href="/comments/20210118/1469774.md">风暴周，1月20号临近，高潮迭起，世界政坛翻天覆地，离奇死亡接二连三，DS灭顶之灾。蓬佩奥连续开炮，战前动员，1月17专题+问答 马先</a></li>
 <li><a href="/topimagenews/20210118/1469919.md">美女主持人当着无数观众 火烧格雷厄姆 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210118/1470015.md">风暴袭来：李劼: 50州军队齐聚DC 蓬卿再「摔杯」CBS主流媒体宕机; 梵蒂冈巨款被缴 金融大鳄和九主教神秘死亡 大选惊奇 正在上演</a></li>
 <li><a href="/cbnews/20210118/1470171.md">陈破空：蓬配奥把习近平整疯了？台海战争风险升到最高！香港惊现雷人标语。非洲直指北京是大瘟疫祸源</a></li>
+<li><a href="/cnnews/20210119/1470300.md">南京男子房贷117万 还了7年还欠117万！银行却说…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210119/1470486.md" target="_blank">拜登就职前重兵压阵，到底要防谁？所有士兵都要“政审”？拜登要取消川普行政令，后果是什么？</a></li>
+<li><a href="/cbnews/20210119/1470484.md" target="_blank">【中文字幕】母仪天下的风范！1月18日，美国第一夫人梅兰妮亚告别白宫演讲。</a></li>
+<li><a href="/cbnews/20210119/1470477.md" target="_blank">党就是爹&#8212;-市委书记痛打政府秘书长</a></li>
 <li><a href="/cbnews/20210119/1470449.md" target="_blank">拜登宣誓就职彩排被火灾打乱；危地马拉安全部队与边境移民发生冲突；川普撤销华为千亿美元销售许可证；俄勒冈州考虑紧急没收私有财产的法案；谷歌脸书达成秘密交易；川普签行政令【希望之声TV】</a></li>
 <li><a href="/cbnews/20210119/1470436.md" target="_blank">一线采访：齐齐哈尔瞒疫情 凌晨焊死楼门</a></li>
 <li><a href="/cbnews/20210119/1470422.md" target="_blank">中共间谍方芳的男友议员重回众议院国土安全小组</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210118/1470133.md" target="_blank">虎为患 CIA压制隐瞒了什么？放过真正敌人</a></li>
 <li><a href="/cbnews/20210118/1470132.md" target="_blank">澳专家：对抗中共干预和胁迫 澳洲走在前列</a></li>
 <li><a href="/cbnews/20210118/1470131.md" target="_blank">中国再坠火流星 网民惊呼：不祥之兆</a></li>
-<li><a href="/cbnews/20210118/1470100.md" target="_blank">蓬佩奥披露中共核心威胁：发展核武不受约束</a></li>
-<li><a href="/cbnews/20210118/1470099.md" target="_blank">撰《武汉日记》 大陆作家方方称受死亡威胁</a></li>
-<li><a href="/cbnews/20210118/1470084.md" target="_blank">四川师范大学教授坠楼身亡 生前疑遭暴力拆迁</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210119/1470483.md" target="_blank">【秦鹏点评】1月18日：独家分享川普拟特赦名单；谁靠特赦赚钱？弹劾川普受挫!佩洛西推迟递交参议院文书；哈佛教授：弹劾不合法！（秦鹏、Sydney）</a></li>
+<li><a href="/comments/20210119/1470482.md" target="_blank">【横河深度点评】就职典礼严防 气候政策谁受益</a></li>
+<li><a href="/comments/20210119/1470480.md" target="_blank">爆秘婚又生子!郑爽“要求弃养”录音档曝光</a></li>
+<li><a href="/comments/20210119/1470468.md" target="_blank">最新发现：一颗拥有三颗恒星的系外行星 运行轨道非常奇特</a></li>
 <li><a href="/comments/20210119/1470466.md" target="_blank">突发：美各大媒体、电视台同一天网络中断。班农：20号开始随时可能发生“72小时”大行动，拜哈登基无吉日，DC变冥都鬼城。1月18专题2+问答  马先</a></li>
 <li><a href="/comments/20210119/1470462.md" target="_blank">1月18日 BLM的人按照既定计划开始制造大规模城市交通混乱  这是西雅图  警察准备抓人</a></li>
 <li><a href="/comments/20210119/1470457.md" target="_blank">俄反对派领袖被拘留30天 美欧联合国吁莫斯科放人</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210119/1470379.md" target="_blank">河北新增两高风险区 黑龙江无症状猛增</a></li>
 <li><a href="/comments/20210119/1470378.md" target="_blank">【直播 1月18日】美国第一夫人梅拉尼娅发表告别演说</a></li>
 <li><a href="/comments/20210119/1470377.md" target="_blank">纪录片揭掩盖疫情 津巴布韦防长：中共是祸首</a></li>
-<li><a href="/comments/20210119/1470375.md" target="_blank">入侵美国国会？危险早就在这一天到来</a></li>
-<li><a href="/comments/20210119/1470370.md" target="_blank">蓬佩奥再连发数十推文 ：中共是我们这个时代的核心威胁</a></li>
-<li><a href="/comments/20210119/1470367.md" target="_blank">川普将21响礼炮庆卸任 外交成就令对手叹服</a></li>
-<li><a href="/comments/20210119/1470361.md" target="_blank">【直播 01.18.2021】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 
 </ul>
 </div>
