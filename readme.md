@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210119/1470600.md">老川大动作！炸了！华盛顿禁入了！CIA总部原来是贩X基地？！瓜太大了！【猪妹piggirl】</a></li>
 <li><a href="/cnnews/20210119/1470656.md">中国要崩溃了吗？他揭秘4细节：其实已经崩了</a></li>
 <li><a href="/headline/20210119/1470713.md">川普险遇刺 美军再次突袭CIA</a></li>
 <li><a href="/cnnews/20210119/1470754.md">与希拉里交往的美籍华裔名媛律师 在香港跳楼身亡 【阿波罗网编译】</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/ssgc/20210119/1465313.md">为川普总统鼓与呼</a></li>
 <li><a href="/headline/20210119/1470714.md">川普孤军奋战 遇刺后失踪几日</a></li>
 <li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
+<li><a href="/comments/20210120/1471137.md">风暴周，川普总统最新讲话：权力移交给下届政府，好的事情正在发生。川普总统，谢谢你！未来美国会再次回到人民手中，我们会继续战斗！1月19专题2 马先</a></li>
 <li><a href="/bannedvideo/20210119/1470642.md">权力和平过渡到了军方，军方已掌控美国，尤其是华盛顿DC</a></li>
 <li><a href="/ssgc/20210119/1470727.md">习近平的口罩显示什么？</a></li>
-<li><a href="/comments/20210120/1471137.md">风暴周，川普总统最新讲话：权力移交给下届政府，好的事情正在发生。川普总统，谢谢你！未来美国会再次回到人民手中，我们会继续战斗！1月19专题2 马先</a></li>
 <li><a href="/comments/20210119/1470825.md">川普： 我不会说什么时候出击 但我们会出击！  川普熟读孙子兵法</a></li>
 <li><a href="/worldnews/20210120/1471045.md">搭飞机千万别喝这3物！空姐曝「暗黑内幕」</a></li>
 <li><a href="/cnnews/20210119/1470641.md">很奇怪！佩洛西致信国防部长米勒 要求… 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210119/1470691.md">2000国民卫队成员宣誓成为美国法警局代理【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210120/1471090.md">美国右派电视台声称：川普总统美东4点在这里告别演讲直播</a></li>
+<li><a href="/topimagenews/20210119/1470691.md">2000国民卫队成员宣誓成为美国法警局代理【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210119/1470655.md">🔥🔥步步惊心❗大事发生的征兆❗泰勒预言：我们现在正在进行一场人类历史上的大争战❗❗</a></li>
 <li><a href="/headline/20210119/1470618.md">“战狼”：中国护照能把你从任何地方接回家， 大使馆：请你不要回家</a></li>
+<li><a href="/cbnews/20210119/1470867.md">陈破空：习近平现身特殊地点，有意辟谣？毛新宇惊人预告：土共今年终结！党媒泄露新冠源头</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210120/1471317.md" target="_blank">蓬佩奥以其超然的定力、非凡的勇气，以及与众不同的政治智慧，向外传递着他内心的世界 —— 支持川普，美国优先。</a></li>
+<li><a href="/cbnews/20210120/1471311.md" target="_blank">习近平倒查20年 一举三得 官场出现2种新变化</a></li>
+<li><a href="/cbnews/20210120/1471310.md" target="_blank">江峰：川普发表告别演说，从此美国进入一个时代——白宫无川普，天下尽川普；重发《川建国》，更觉字里珠玑，更多悲壮与展望【江峰漫谈特别节目20210119第273期】</a></li>
 <li><a href="/cbnews/20210120/1471304.md" target="_blank">反间谍高官：中共对美实施复杂恶意行动</a></li>
 <li><a href="/comments/20210120/1471289.md" target="_blank">川普权力暂时过度给军方  风暴即将来临</a></li>
 <li><a href="/cbnews/20210120/1471270.md" target="_blank">天亮时分：川普的告别演说；蓬佩奥连出重拳；双标与精神的分裂；1月20日以后的世界（政论天下第332集 20210119）</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210119/1470920.md" target="_blank">孙乐之：从第一批留苏生到法轮功修炼者</a></li>
 <li><a href="/cbnews/20210119/1470867.md" target="_blank">陈破空：习近平现身特殊地点，有意辟谣？毛新宇惊人预告：土共今年终结！党媒泄露新冠源头</a></li>
 <li><a href="/cbnews/20210119/1470845.md" target="_blank">法国新战机图片曝光 网友却只注意到了这个界面</a></li>
-<li><a href="/cbnews/20210119/1470753.md" target="_blank">南京两会信访窗口如虚设？ 访民上访遭抬离</a></li>
-<li><a href="/cbnews/20210119/1470699.md" target="_blank">遥遥无期！河北藁城女子讲述被隔离经历</a></li>
-<li><a href="/cbnews/20210119/1470673.md" target="_blank">江峰：总统就职森严如两会，政权惧怕人民！疫情的中式轻描与美式重彩：打造极权力量；招共谍回山与放恐怖份子进门【江峰漫谈20210118第272期】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471320.md" target="_blank">多国死亡人数创新高 专家：变种病毒令人担忧</a></li>
+<li><a href="/comments/20210120/1471319.md" target="_blank">解压密码：静心欣赏世界绝美的十大海滩</a></li>
+<li><a href="/comments/20210120/1471316.md" target="_blank">从川普的推特战败，看美式言论自由的过时</a></li>
+<li><a href="/comments/20210120/1471315.md" target="_blank">【全球新闻】1月19日完整版</a></li>
 <li><a href="/comments/20210120/1471296.md" target="_blank">【微博精粹】1月20日上演的剧目将载入史册</a></li>
 <li><a href="/comments/20210120/1471269.md" target="_blank">印度男孩预言2021年2月六星连珠，又是大灾征兆，这回轮到金融海啸？佛道儒三家都留下大灾中如何自救的警示</a></li>
 <li><a href="/comments/20210120/1471295.md" target="_blank">《石涛聚焦》“川普-王者必将归来！告别感言：我是一个真正的局外人！选择了最艰难的路！”这是你-美国人民选择我的原因！“明日中午12点 新政府上台”拒称拜登“礼仪缺失 盗窃者无名份”（19/01/21）</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210120/1471235.md" target="_blank">拜登五内阁人选听证 布林肯：誓言战胜中共</a></li>
 <li><a href="/comments/20210120/1471234.md" target="_blank">美国学生“汉学热”减退 分析：中美关系冷淡造成</a></li>
 <li><a href="/comments/20210120/1471232.md" target="_blank">感谢美国人民 川普总统发表白宫告别演说</a></li>
-<li><a href="/comments/20210120/1471231.md" target="_blank">【直播 1月20日】1月20日美国总统就职典礼（时间待定）</a></li>
-<li><a href="/comments/20210120/1471217.md" target="_blank">川普和彭斯的真实关系</a></li>
-<li><a href="/comments/20210120/1471216.md" target="_blank">加州超3百万染疫 日本现本地新变种病毒</a></li>
-<li><a href="/comments/20210120/1471215.md" target="_blank">送卫星入太空 维珍创“飞机加火箭”发射</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 
 </ul>
 </div>
