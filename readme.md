@@ -19,13 +19,13 @@
 <li><a href="/ssgc/20210119/1465313.md">为川普总统鼓与呼</a></li>
 <li><a href="/headline/20210119/1470714.md">川普孤军奋战 遇刺后失踪几日</a></li>
 <li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210119/1470520.md">代理国防部长就国民警卫队在华盛顿特区的支援发布声明【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210119/1470642.md">权力和平过渡到了军方，军方已掌控美国，尤其是华盛顿DC</a></li>
 <li><a href="/ssgc/20210119/1470727.md">习近平的口罩显示什么？</a></li>
 <li><a href="/comments/20210119/1470825.md">川普： 我不会说什么时候出击 但我们会出击！  川普熟读孙子兵法</a></li>
 <li><a href="/cnnews/20210119/1470641.md">很奇怪！佩洛西致信国防部长米勒 要求… 【阿波罗网编译】</a></li>
-<li><a href="/comments/20210119/1470546.md">【重磅】1月18号 美国总统颁发实行民主问责行政令 将在6个月内彻底清洗官场 川普总统运筹帷幄 志在必得</a></li>
+<li><a href="/comments/20210120/1471088.md">乔·拜登在特拉华州的告别演说哭泣不止  他对美国犯下的罪恶 眼睛哭瞎了也洗不净</a></li>
 <li><a href="/topimagenews/20210119/1470691.md">2000国民卫队成员宣誓成为美国法警局代理【阿波罗网编译】</a></li>
+<li><a href="/comments/20210119/1470546.md">【重磅】1月18号 美国总统颁发实行民主问责行政令 将在6个月内彻底清洗官场 川普总统运筹帷幄 志在必得</a></li>
 <li><a href="/headline/20210119/1470618.md">“战狼”：中国护照能把你从任何地方接回家， 大使馆：请你不要回家</a></li>
 <li><a href="/cbnews/20210119/1470655.md">🔥🔥步步惊心❗大事发生的征兆❗泰勒预言：我们现在正在进行一场人类历史上的大争战❗❗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210120/1471210.md" target="_blank">如何解读川普的告别演讲？美国未来4年一党独大？ 嘉宾： 谢田 蓝述 主持：高洁【希望之声TV】(2021/01/19)</a></li>
 <li><a href="/cbnews/20210120/1471191.md" target="_blank">文昭：两道测试题，您中「左招」了吗？「美左加速主义」来袭，三件独门兵器秀给你看</a></li>
 <li><a href="/cbnews/20210120/1471190.md" target="_blank">🔥🔥大抓捕前兆❓民兵变法警❗❗</a></li>
 <li><a href="/cbnews/20210120/1471153.md" target="_blank">川普离开白宫 前往马里兰安德鲁斯空军基地参加卸任仪式并发表演讲</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210119/1470652.md" target="_blank">中国极寒当局重点保北京等 民众担忧冻死</a></li>
 <li><a href="/cbnews/20210119/1470647.md" target="_blank">帛琉总统当选人誓言结盟台美 对抗中共霸凌</a></li>
 <li><a href="/cbnews/20210119/1470644.md" target="_blank">他们密谋的新世界秩序是什么？议程细节曝光！大重置计划开启？数字疫苗接种护照将问世！联邦雇员密谋破坏川普执政？视频被曝光！【希望之声TV】</a></li>
-<li><a href="/cbnews/20210119/1470597.md" target="_blank">华为二公主姚安娜出道 网友：拿钱砸开所有门</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471217.md" target="_blank">川普和彭斯的真实关系</a></li>
+<li><a href="/comments/20210120/1471216.md" target="_blank">加州超3百万染疫 日本现本地新变种病毒</a></li>
+<li><a href="/comments/20210120/1471215.md" target="_blank">送卫星入太空 维珍创“飞机加火箭”发射</a></li>
+<li><a href="/comments/20210120/1471214.md" target="_blank">拜登哈里斯就职在即 面临挑战史无前例</a></li>
 <li><a href="/comments/20210120/1471203.md" target="_blank">【#时事纵横】拜登内阁成员，今赴国会确认听证会；提名情报总监称对抗中共，国务卿要应战俄中伊；拜登对华政策未定，多方促强硬；英议员施压，推法院裁定中共种族灭绝罪行（扶摇）</a></li>
 <li><a href="/comments/20210120/1471197.md" target="_blank">拜登提名首个变性者官员任助理卫生部长</a></li>
 <li><a href="/comments/20210120/1471194.md" target="_blank">【直播 01.19.2021】蓬佩奥对中共重击，确认中共在新疆犯下群体灭绝罪；川普发表告别演讲，释放什么重要信息？布林肯参议院过堂，承诺战胜中国</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210120/1471118.md" target="_blank">点赞“泡菜是韩国的”遭中企解约！南韩正妹网红人气不减反增</a></li>
 <li><a href="/comments/20210120/1471117.md" target="_blank">铁窗前“倒下的自由”！香港街头艺术引广大回响</a></li>
 <li><a href="/comments/20210120/1471116.md" target="_blank">臭名远播！中共副总理韩正被举报给29个国家 要求制裁其与家属</a></li>
-<li><a href="/comments/20210120/1471112.md" target="_blank">【视频直播】川普总统发表告别演讲</a></li>
-<li><a href="/comments/20210120/1471106.md" target="_blank">【突发】1.19川普总统发表离任演说</a></li>
-<li><a href="/comments/20210120/1471102.md" target="_blank">云南省委书记秦光荣两会前获刑 五中全会前受审 四中全会前落马 罪名特别 习近平敲山震虎 秦光荣落马内幕深度揭秘 背靠江派四大佬 屡次叫板习近平</a></li>
-<li><a href="/comments/20210120/1471099.md" target="_blank">1/19日 川普讲话</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20201112/1430018.md" target="_blank">北游：若川普败选 我们会损失什么？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
