@@ -8,7 +8,6 @@
 <li><a href="/comments/20210120/1470997.md">将军Hyten用电报发出消息: 总统安全 这只是刚刚开始  最好的在后面  紧急广播系统0天   全世界都将听到  真相将震惊世界  THE BEST IS YET TO COME!</a></li>
 <li><a href="/comments/20210120/1471289.md">川普权力暂时过度给军方  风暴即将来临</a></li>
 <li><a href="/comments/20210119/1470830.md">最新行政令, 川普压根没打算离开白宫! 8千非法移民找拜登兑现承诺, 史上最不寻常的就职典礼将发生什么? 真观点</a></li>
-<li><a href="/cnnews/20210119/1470817.md">惊！黑龙江男子当庭刺死法官</a></li>
 <li><a href="/comments/20210120/1471137.md">风暴周，川普总统最新讲话：权力移交给下届政府，好的事情正在发生。川普总统，谢谢你！未来美国会再次回到人民手中，我们会继续战斗！1月19专题2 马先</a></li>
 <li><a href="/comments/20210120/1471088.md">乔·拜登在特拉华州的告别演说哭泣不止  他对美国犯下的罪恶 眼睛哭瞎了也洗不净</a></li>
 <li><a href="/comments/20210120/1471217.md">川普和彭斯的真实关系：彭斯已被控制起来</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cbnews/20210120/1471121.md">快讯：川普总统发表告别演说</a></li>
 <li><a href="/cbnews/20210119/1470867.md">陈破空：习近平现身特殊地点，有意辟谣？毛新宇惊人预告：土共今年终结！党媒泄露新冠源头</a></li>
 <li><a href="/topimagenews/20210120/1471252.md">蓬佩奥宣扬川普抗共 王毅认了；清零令下近90位精英遇害；传马云低调现身海南</a></li>
+<li><a href="/topimagenews/20210120/1471409.md">快讯！川普特赦73人减刑70人 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210120/1471066.md">没有什么可以阻止即将发生的事情 Nothing can stop what’s coming 川普：我对人忠诚到了极点 以至于有人对我稍微的不忠 我都会认为是恐怖</a></li>
 <li><a href="/headline/20210120/1471073.md">快讯：CIA局长哈斯佩尔退休了</a></li>
-<li><a href="/comments/20210119/1470927.md">气氛诡谲!两天九个行政令,代理国防部长米勒说话了,没提谁的就职典礼,空军上将发布消息——要有信心!!!</a></li>
 <li><a href="/comments/20210120/1471286.md">风暴周，警方发话，军方接管权力。海军司令：万事俱备，只等一声号令。CIA吉娜“辞职”。川普总统：好事正在发生。1月19专题+问答 马先</a></li>
+<li><a href="/comments/20210119/1470927.md">气氛诡谲!两天九个行政令,代理国防部长米勒说话了,没提谁的就职典礼,空军上将发布消息——要有信心!!!</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210120/1471467.md" target="_blank">忠义道侠传|第二回 饥馑遍地皆红袄 大疫杀人万万千（3）</a></li>
+<li><a href="/cbnews/20210120/1471388.md" target="_blank">他们为什么说川普独裁挺川是个人崇拜</a></li>
+<li><a href="/cbnews/20210120/1471508.md" target="_blank">【中文字幕】1月19日，川普总统白宫演讲：第一任期总结，并说我们开始的运动才刚刚起步。带着忠诚和信心，最好的即将到来。</a></li>
 <li><a href="/cbnews/20210120/1471442.md" target="_blank">传大陆独立作家记者杜斌取保候审被拒</a></li>
 <li><a href="/cbnews/20210120/1471431.md" target="_blank">疫情持续延烧 入北京至少隔离21天</a></li>
 <li><a href="/cbnews/20210120/1471389.md" target="_blank">他们在做“肝移植” 的时候 就顺便帮你拿“肾” 了…</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210120/1471153.md" target="_blank">川普离开白宫 前往马里兰安德鲁斯空军基地参加卸任仪式并发表演讲</a></li>
 <li><a href="/cbnews/20210120/1471149.md" target="_blank">盗窃佩洛西电脑 宾州女子被FBI逮捕；担心纽约州被攻击 州长不参加拜登就职典礼；拜登研究所捐赠者名单保持秘密；一场虚拟的就职典礼； NRA负责人：得克萨斯州更好【希望之声TV】</a></li>
 <li><a href="/cbnews/20210120/1471135.md" target="_blank">《天竺鼠车车》整列停天安门？幕后原因曝光</a></li>
-<li><a href="/cbnews/20210120/1471121.md" target="_blank">快讯：川普总统发表告别演说</a></li>
-<li><a href="/cbnews/20210120/1471107.md" target="_blank">川普总统告别演讲【希望之声TV】</a></li>
-<li><a href="/cbnews/20210120/1471103.md" target="_blank">陈破空：直播预告：最后一日！川普在忙什么？拜登行前哽咽，暗示不祥之事？中情局长辞职。华盛顿如同战区。陈破空与网友互动Q&amp;A 美东时间1月19日周二晚7点、即中港台时间1月20日周三早8点</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471509.md" target="_blank">赴美产子群的“爱国妈妈”举报“涉港反动言论”</a></li>
+<li><a href="/comments/20210120/1471498.md" target="_blank">频繁感觉有这6个“不舒服”，别迟疑，糖尿病已开始恶化</a></li>
 <li><a href="/comments/20210120/1471479.md" target="_blank">网络世界谁主真相？</a></li>
 <li><a href="/comments/20210120/1471478.md" target="_blank">前《纽约时报》摄影记者杜斌取保候审遭拒</a></li>
 <li><a href="/comments/20210120/1471465.md" target="_blank">任全牛听证会延期至月末 指控当局捏造事实</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210120/1471340.md" target="_blank">美媒独家首发 2017年川普就职典礼的暴乱视频 镜头令人震惊</a></li>
 <li><a href="/comments/20210120/1471322.md" target="_blank">美国主流媒体接受中共招待晚宴和旅行，也在配合进行大外宣，它们的股东跟中共也有利益往来，北京在左右美国媒体报导方面“相当成功”</a></li>
 <li><a href="/comments/20210120/1471321.md" target="_blank">美国国务院发言人谴责港警拘黄国桐等 11 人 “必须立即撤控”</a></li>
-<li><a href="/comments/20210120/1471320.md" target="_blank">多国死亡人数创新高 专家：变种病毒令人担忧</a></li>
-<li><a href="/comments/20210120/1471319.md" target="_blank">解压密码：静心欣赏世界绝美的十大海滩</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20201010/1411225.md" target="_blank">克莱因登斯特诉曼德尔案 ——共产党身份被拒绝签证的著名案例</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
