@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210120/1470997.md">将军Hyten用电报发出消息: 总统安全 这只是刚刚开始  最好的在后面  紧急广播系统0天   全世界都将听到  真相将震惊世界  THE BEST IS YET TO COME!</a></li>
-<li><a href="/comments/20210119/1470830.md">最新行政令, 川普压根没打算离开白宫! 8千非法移民找拜登兑现承诺, 史上最不寻常的就职典礼将发生什么? 真观点</a></li>
 <li><a href="/comments/20210120/1471289.md">川普权力暂时过度给军方  风暴即将来临</a></li>
+<li><a href="/comments/20210119/1470830.md">最新行政令, 川普压根没打算离开白宫! 8千非法移民找拜登兑现承诺, 史上最不寻常的就职典礼将发生什么? 真观点</a></li>
 <li><a href="/cnnews/20210119/1470817.md">惊！黑龙江男子当庭刺死法官</a></li>
 <li><a href="/comments/20210120/1471137.md">风暴周，川普总统最新讲话：权力移交给下届政府，好的事情正在发生。川普总统，谢谢你！未来美国会再次回到人民手中，我们会继续战斗！1月19专题2 马先</a></li>
 <li><a href="/comments/20210120/1471088.md">乔·拜登在特拉华州的告别演说哭泣不止  他对美国犯下的罪恶 眼睛哭瞎了也洗不净</a></li>
@@ -15,10 +15,10 @@
 <li><a href="/comments/20210120/1471237.md">【独家】1月20号军队正式宣布军管 川普把政府过渡给军方托管3个月 弗林将军负责军方 国会大厦变成军事法庭 拜登一伙将被审判  川普回海湖山庄建新媒体等待审判结束后王者归来</a></li>
 <li><a href="/topimagenews/20210119/1470872.md">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
 <li><a href="/worldnews/20210120/1471045.md">搭飞机千万别喝这3物！空姐曝「暗黑内幕」</a></li>
-<li><a href="/comments/20210120/1471266.md">老川稳了！权力过渡给军队，告别演说是开干讯号！暴风雨前的寂静！【猪妹piggirl】</a></li>
 <li><a href="/comments/20210119/1470825.md">川普： 我不会说什么时候出击 但我们会出击！  川普熟读孙子兵法</a></li>
-<li><a href="/headline/20210120/1471181.md">川普政府最后一天核弹行动揭晓</a></li>
+<li><a href="/comments/20210120/1471266.md">老川稳了！权力过渡给军队，告别演说是开干讯号！暴风雨前的寂静！【猪妹piggirl】</a></li>
 <li><a href="/topimagenews/20210120/1471271.md">川普：我已发布行政命令 宣布… 【阿波罗网编译】</a></li>
+<li><a href="/headline/20210120/1471181.md">川普政府最后一天核弹行动揭晓</a></li>
 <li><a href="/topimagenews/20210120/1471090.md">美国右派电视台声称：川普总统美东4点在这里告别演讲直播</a></li>
 <li><a href="/comments/20210120/1471192.md">【突发】林伍德电报爆猛料：彭斯讨论谋害法官的视频被FBI截获   可以去林伍德电报账号看视频</a></li>
 <li><a href="/cbnews/20210120/1471121.md">快讯：川普总统发表告别演说</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/comments/20210120/1471066.md">没有什么可以阻止即将发生的事情 Nothing can stop what’s coming 川普：我对人忠诚到了极点 以至于有人对我稍微的不忠 我都会认为是恐怖</a></li>
 <li><a href="/headline/20210120/1471073.md">快讯：CIA局长哈斯佩尔退休了</a></li>
 <li><a href="/comments/20210119/1470927.md">气氛诡谲!两天九个行政令,代理国防部长米勒说话了,没提谁的就职典礼,空军上将发布消息——要有信心!!!</a></li>
-<li><a href="/cbnews/20210120/1471190.md">🔥🔥大抓捕前兆❓民兵变法警❗❗</a></li>
+<li><a href="/comments/20210120/1471286.md">风暴周，警方发话，军方接管权力。海军司令：万事俱备，只等一声号令。CIA吉娜“辞职”。川普总统：好事正在发生。1月19专题+问答 马先</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210120/1471479.md" target="_blank">网络世界谁主真相？</a></li>
 <li><a href="/comments/20210120/1471478.md" target="_blank">前《纽约时报》摄影记者杜斌取保候审遭拒</a></li>
 <li><a href="/comments/20210120/1471465.md" target="_blank">任全牛听证会延期至月末 指控当局捏造事实</a></li>
 <li><a href="/comments/20210120/1471464.md" target="_blank">“云端伴唱机”输入台湾 中共红歌洗脑试图文化统战</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210120/1471321.md" target="_blank">美国国务院发言人谴责港警拘黄国桐等 11 人 “必须立即撤控”</a></li>
 <li><a href="/comments/20210120/1471320.md" target="_blank">多国死亡人数创新高 专家：变种病毒令人担忧</a></li>
 <li><a href="/comments/20210120/1471319.md" target="_blank">解压密码：静心欣赏世界绝美的十大海滩</a></li>
-<li><a href="/comments/20210120/1471316.md" target="_blank">从川普的推特战败，看美式言论自由的过时</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20201218/1450327.md" target="_blank">美国深层政府内幕揭密：魔鬼2020计划书</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 <li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
 <li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
