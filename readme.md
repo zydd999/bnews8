@@ -8,14 +8,13 @@
 <li><a href="/bannedvideo/20210121/1471913.md">川普总统给拜登留下一封信 内容只有惊人的5个字 ！川普不久就会王者归来    拜登戴人皮面具，到底是谁？</a></li>
 <li><a href="/comments/20210121/1471975.md">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
 <li><a href="/headline/20210121/1472073.md">分析：川普卸任后将继续为美国而战 余茂春：下一步再做</a></li>
-<li><a href="/bannedvideo/20210121/1471842.md">川普带走核密码，他会赢！胜利已经在未来时间线发生！只等觉醒的同步性！【猪妹piggirl】</a></li>
 <li><a href="/cnnews/20210121/1471996.md">拜登第一个举动竟然是解雇他 【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210121/1472123.md">川普深夜发「神秘连结」证实当初诺言</a></li>
 <li><a href="/bannedvideo/20210121/1472106.md">郭文贵说川普失败的原因是由于川普的家人</a></li>
 <li><a href="/comments/20210121/1472076.md">病毒杀进北京上海 东北沦陷 中南海极度恐慌！北京首现高风险区 逾2万人被禁出户 上海两所三级甲等医院关门诊 黑龙江疫情严重 抛出16官员</a></li>
 <li><a href="/comments/20210121/1471808.md">大瓜！奥巴马是IS恐怖组织的幕后老板？共和党人被逼直接用政府官网发文…</a></li>
-<li><a href="/cbnews/20210121/1472143.md">广东省女子监狱 肮脏变态的虐人暴行</a></li>
 <li><a href="/topimagenews/20210121/1472293.md">拜登上任第一天表面立场 摘掉这位前总统画像 摆上此人的雕像【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210121/1472143.md">广东省女子监狱 肮脏变态的虐人暴行</a></li>
 <li><a href="/ssgc/20210121/1471852.md">〖兲朝浮世绘〗拜书记家乡的人民太不给面子了</a></li>
 <li><a href="/bannedvideo/20210121/1472121.md">华盛顿DC的军队散了吗？他们接下来将干什么，你绝对想不到</a></li>
 <li><a href="/bannedvideo/20210121/1472166.md">拜登宣誓就职一小时后亚利桑那州参议院议长公布了选民舞弊的证据</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/lifebaike/20210121/1472132.md">以下几件事，烂在肚子里也不能与别人交流，避免惹是生非</a></li>
 <li><a href="/comments/20210121/1472239.md">辉瑞疫苗｜以色列逾1.2万人接种首剂疫苗后确诊</a></li>
 <li><a href="/headline/20210121/1471893.md">中共“道德楷模”周恩来的荒淫往事</a></li>
+<li><a href="/bannedvideo/20210121/1472075.md">林伍德：今天没有改变我的信心 只有让我的信心更强大 Keep speaking truth Keep fighting for freedomNever give up继续说真话继续为自由而战永不放弃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210122/1472459.md" target="_blank">〖图集〗川普离任：我们会以某种形式再回来</a></li>
 <li><a href="/cbnews/20210122/1472452.md" target="_blank">拜登上任 国务院撤下中共威胁、5G等政策议程</a></li>
 <li><a href="/cbnews/20210122/1472451.md" target="_blank">拜登叫停美国退出世卫 共和党议员回应</a></li>
 <li><a href="/cbnews/20210122/1472443.md" target="_blank">推特继续封杀言论 女星袁立挺川普遭封号</a></li>
@@ -60,13 +61,14 @@
 <li><a href="/cbnews/20210121/1472171.md" target="_blank">一线采访:黑龙江疫情四起 民众不敢打疫苗</a></li>
 <li><a href="/cbnews/20210121/1472165.md" target="_blank">重庆刘富祥强拆案视讯开庭 拒公民旁听惹议</a></li>
 <li><a href="/cbnews/20210121/1472151.md" target="_blank">草原悲歌 内蒙古一家人的凄惨遭遇</a></li>
-<li><a href="/cbnews/20210121/1472150.md" target="_blank">北京连爆病例 上海两大医院关门诊 学者指中南海超紧张</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210122/1472465.md" target="_blank">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
+<li><a href="/topimagenews/20210122/1472463.md" target="_blank">骄傲男孩机构的组织者之一在佛州被捕 更多追捕正在佛州展开【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210121/1472319.md" target="_blank">参议员兰德·保罗：拜登必须保证不会把美国改造成社会主义反乌托邦【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210121/1472293.md" target="_blank">拜登上任第一天表面立场 摘掉这位前总统画像 摆上此人的雕像【阿波罗网编译】</a></li>
 <li><a href="/comments/20210121/1472239.md" target="_blank">辉瑞疫苗｜以色列逾1.2万人接种首剂疫苗后确诊</a></li>
@@ -90,14 +92,13 @@
 <li><a href="/topimagenews/20210120/1471253.md" target="_blank">川普告别演说 联合全球对抗中共列政绩</a></li>
 <li><a href="/topimagenews/20210120/1471252.md" target="_blank">蓬佩奥宣扬川普抗共 王毅认了；清零令下近90位精英遇害；传马云低调现身海南</a></li>
 <li><a href="/topimagenews/20210120/1471090.md" target="_blank">美国右派电视台声称：川普总统美东4点在这里告别演讲直播</a></li>
-<li><a href="/topimagenews/20210119/1470872.md" target="_blank">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210119/1470871.md" target="_blank">白左红左不愧师出同门，总统就职典礼华府地区安保计划曝光，特勤局牵头还是出意外</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210122/1472458.md" target="_blank">拜登为环保切断美加能源贸易 1万人或失业</a></li>
 <li><a href="/comments/20210122/1472447.md" target="_blank">拜登甫上任就痛下“杀手”？一道指令扼杀一万个就业</a></li>
 <li><a href="/comments/20210122/1472446.md" target="_blank">继续弹劾川普？纳瓦罗：若继续推进 拜登妄谈团结</a></li>
 <li><a href="/comments/20210122/1472445.md" target="_blank">彭斯回到印第安纳：做副总统是一生最大荣幸</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210122/1472359.md" target="_blank">中共制裁美官员 拜登政府吁两党同谴责</a></li>
 <li><a href="/comments/20210122/1472358.md" target="_blank">睡不好最大原因居然是它！先判别再就医</a></li>
 <li><a href="/comments/20210122/1472355.md" target="_blank">全球逾208万染疫亡 英国单日病故再创新高 美国死亡人数超过二战</a></li>
-<li><a href="/comments/20210122/1472347.md" target="_blank">补铁首推红肉，不吃肉的怎么补铁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
 
 </ul>
 </div>
