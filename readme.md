@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210121/1471913.md">川普总统给拜登留下一封信 内容只有惊人的5个字 ！川普不久就会王者归来    拜登戴人皮面具，到底是谁？</a></li>
-<li><a href="/bannedvideo/20210120/1471672.md">刚发生爆炸  地点待确认</a></li>
 <li><a href="/bannedvideo/20210121/1471820.md">伊万卡发信息：五角大楼阻止败登成员进入获取军方敏感信息包括军队部署</a></li>
 <li><a href="/comments/20210121/1471975.md">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
 <li><a href="/bannedvideo/20210121/1471717.md">军事助手携带“核手提箱”陪同川普一起抵达佛罗里达 截至目前白宫拒绝置评 称这涉及安全问题  川普总统在安德鲁斯联合基地/抵达佛罗里达州的欢送仪式上发表讲话</a></li>
 <li><a href="/cnnews/20210120/1471697.md">鲍威尔律师要求最高法院撤掉她提出的乔治亚州案件 表示远未完成努力【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20210121/1471842.md">川普带走核密码，他会赢！胜利已经在未来时间线发生！只等觉醒的同步性！【猪妹piggirl】</a></li>
 <li><a href="/headline/20210121/1472073.md">分析：川普卸任后将继续为美国而战 余茂春：下一步再做</a></li>
+<li><a href="/bannedvideo/20210121/1471842.md">川普带走核密码，他会赢！胜利已经在未来时间线发生！只等觉醒的同步性！【猪妹piggirl】</a></li>
 <li><a href="/cnnews/20210121/1472123.md">川普深夜发「神秘连结」证实当初诺言</a></li>
 <li><a href="/cnnews/20210121/1471996.md">拜登第一个举动竟然是解雇他 【阿波罗网编译】</a></li>
-<li><a href="/comments/20210121/1471808.md">大瓜！奥巴马是IS恐怖组织的幕后老板？共和党人被逼直接用政府官网发文…</a></li>
 <li><a href="/bannedvideo/20210121/1472106.md">郭文贵说川普失败的原因是由于川普的家人</a></li>
+<li><a href="/comments/20210121/1471808.md">大瓜！奥巴马是IS恐怖组织的幕后老板？共和党人被逼直接用政府官网发文…</a></li>
 <li><a href="/comments/20210121/1472076.md">病毒杀进北京上海 东北沦陷 中南海极度恐慌！北京首现高风险区 逾2万人被禁出户 上海两所三级甲等医院关门诊 黑龙江疫情严重 抛出16官员</a></li>
 <li><a href="/cnnews/20210121/1471814.md">白宫交棒！川普「承袭传统」圆桌上留了这封信给拜登</a></li>
 <li><a href="/ssgc/20210121/1471852.md">〖兲朝浮世绘〗拜书记家乡的人民太不给面子了</a></li>
-<li><a href="/cbnews/20210121/1471813.md">拜登上任！中共同步宣布制裁蓬佩奥等28名友台川普官员</a></li>
-<li><a href="/topimagenews/20210120/1471668.md">“我将永远为您而战–我们将以某种形式回来” 川普总统在美军基地最新告别演讲</a></li>
 <li><a href="/cbnews/20210121/1472143.md">广东省女子监狱 肮脏变态的虐人暴行</a></li>
+<li><a href="/cbnews/20210121/1471813.md">拜登上任！中共同步宣布制裁蓬佩奥等28名友台川普官员</a></li>
 <li><a href="/comments/20210121/1471907.md">拜登：川普给我留下一封非常慷慨的信</a></li>
-<li><a href="/bannedvideo/20210121/1471899.md">拜登团队难获得五角大楼敏感军事和疫苗信息  知情人：忠于川普的五角大楼官员受命阻挡</a></li>
 <li><a href="/bannedvideo/20210121/1472121.md">华盛顿DC的军队散了吗？他们接下来将干什么，你绝对想不到</a></li>
-<li><a href="/cbnews/20210121/1471875.md">拜登立即打击化石燃料 吊销Keystone XL许可证;川普刚离任 中共制裁蓬佩奥及班农等28人;纽约州长：不给150亿补助  将提高富人税收;川普给拜登留封信;CIA局长辞职 【希望之声TV】</a></li>
+<li><a href="/bannedvideo/20210121/1471899.md">拜登团队难获得五角大楼敏感军事和疫苗信息  知情人：忠于川普的五角大楼官员受命阻挡</a></li>
 <li><a href="/topimagenews/20210121/1472064.md">拜登搞出史上最奇葩的"登基大典"</a></li>
+<li><a href="/cbnews/20210121/1471875.md">拜登立即打击化石燃料 吊销Keystone XL许可证;川普刚离任 中共制裁蓬佩奥及班农等28人;纽约州长：不给150亿补助  将提高富人税收;川普给拜登留封信;CIA局长辞职 【希望之声TV】</a></li>
+<li><a href="/bannedvideo/20210121/1471928.md">川普留话儿：乔，你知道我赢了！庚子年，窃得高位者，岁有奇祸，有始无终。拜总登基一刻，有小孩儿受惊大哭不止。1月20专题+问答  马先</a></li>
+<li><a href="/cbnews/20210121/1471847.md">郑爽代孕起风波 原国家统计局长也代孕生子</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210121/1472325.md" target="_blank">澳总理：我们需要知道中国疫情真相</a></li>
 <li><a href="/cbnews/20210121/1472280.md" target="_blank">总统就职日多地爆发极左骚乱！拜登就职后 华府仍未解除军事状态；川普抵达佛州 受到支持者欢迎；舒默成为美国参议院多数党领袖；拜登撤下白宫1776委员会网页【希望之声TV】</a></li>
 <li><a href="/cbnews/20210121/1472266.md" target="_blank">维权律师丁家喜，法学家许志永 罪名变更为“颠覆国家政权”</a></li>
 <li><a href="/cbnews/20210121/1472247.md" target="_blank">美国进入大寒。一个200多年前，神对国父华盛顿的启示，正在美国的当下发生。川普还能以王者身份回到白宫吗？</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210121/1472042.md" target="_blank">苦练嘴上功夫？共军大喊英文版「你们被包围了！」</a></li>
 <li><a href="/cbnews/20210121/1472037.md" target="_blank">川普离开白宫：我们会以其它方式回来；网传煽动视频 ：呼吁“公民网络侦探”监视密报川普支持者；新情报总监提名人海恩斯：目标应该是“击败中共”；禁枪派佩洛西要求配备自动武器【希望之声TV】</a></li>
 <li><a href="/cbnews/20210121/1472022.md" target="_blank">北京大兴现变异毒株 聚集性爆发涉七家庭</a></li>
-<li><a href="/cbnews/20210121/1471984.md" target="_blank">为掉包尸体拐弱智男进棺材 钉死送进火炉活活烧死</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210121/1472319.md" target="_blank">参议员兰德·保罗：拜登必须保证不会把美国改造成社会主义反乌托邦【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210121/1472293.md" target="_blank">拜登上任第一天表面立场 摘掉这位前总统画像 摆上此人的雕像【阿波罗网编译】</a></li>
 <li><a href="/comments/20210121/1472239.md" target="_blank">辉瑞疫苗｜以色列逾1.2万人接种首剂疫苗后确诊</a></li>
 <li><a href="/topimagenews/20210121/1472224.md" target="_blank">拜登就职 全美现此热潮 最高法院有炸弹威胁？但最后&#8230; 华府仍未解除军事状态</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210120/1471090.md" target="_blank">美国右派电视台声称：川普总统美东4点在这里告别演讲直播</a></li>
 <li><a href="/topimagenews/20210119/1470872.md" target="_blank">快报：德州准备针对即将上任的乔拜登政府提起诉讼【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210119/1470871.md" target="_blank">白左红左不愧师出同门，总统就职典礼华府地区安保计划曝光，特勤局牵头还是出意外</a></li>
-<li><a href="/topimagenews/20210119/1470691.md" target="_blank">2000国民卫队成员宣誓成为美国法警局代理【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
