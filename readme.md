@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210121/1471913.md">川普总统给拜登留下一封信 内容只有惊人的5个字 ！川普不久就会王者归来    拜登戴人皮面具，到底是谁？</a></li>
-<li><a href="/bannedvideo/20210121/1471820.md">伊万卡发信息：五角大楼阻止败登成员进入获取军方敏感信息包括军队部署</a></li>
 <li><a href="/comments/20210121/1471975.md">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
 <li><a href="/headline/20210121/1472073.md">分析：川普卸任后将继续为美国而战 余茂春：下一步再做</a></li>
 <li><a href="/bannedvideo/20210121/1471842.md">川普带走核密码，他会赢！胜利已经在未来时间线发生！只等觉醒的同步性！【猪妹piggirl】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20210121/1471928.md">川普留话儿：乔，你知道我赢了！庚子年，窃得高位者，岁有奇祸，有始无终。拜总登基一刻，有小孩儿受惊大哭不止。1月20专题+问答  马先</a></li>
 <li><a href="/lifebaike/20210121/1472132.md">以下几件事，烂在肚子里也不能与别人交流，避免惹是生非</a></li>
 <li><a href="/headline/20210121/1471893.md">中共“道德楷模”周恩来的荒淫往事</a></li>
+<li><a href="/comments/20210121/1472239.md">辉瑞疫苗｜以色列逾1.2万人接种首剂疫苗后确诊</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210122/1472443.md" target="_blank">推特继续封杀言论 女星袁立挺川普遭封号</a></li>
+<li><a href="/cbnews/20210122/1472442.md" target="_blank">上海突然空巷 所有医院排查 张文宏称几周内可控</a></li>
+<li><a href="/cbnews/20210122/1472441.md" target="_blank">采访：上海报3例确诊 增一中风险区 居民被拉走隔离</a></li>
 <li><a href="/cbnews/20210122/1472390.md" target="_blank">陈破空：川普告别演讲，誓言并将归来</a></li>
 <li><a href="/cbnews/20210122/1472379.md" target="_blank">拜登就职典礼华盛顿很平静 波特兰黑衣人上街打砸</a></li>
 <li><a href="/cbnews/20210122/1472373.md" target="_blank">拜登中情局长与中共阵营有7年关系；日本、土耳其对IT巨头祭出新法规；罕见 拜登就职内阁尚未到位；离任当天 川普仍有51%支持率；川普离开华府  众子女送贴心祝愿【希望之声TV】</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210121/1472150.md" target="_blank">北京连爆病例 上海两大医院关门诊 学者指中南海超紧张</a></li>
 <li><a href="/cbnews/20210121/1472143.md" target="_blank">广东省女子监狱 肮脏变态的虐人暴行</a></li>
 <li><a href="/cbnews/20210121/1472120.md" target="_blank">分析：中共不敢在川普离任前制裁蓬佩奥等</a></li>
-<li><a href="/cbnews/20210121/1472087.md" target="_blank">大法官罗伯茨退缩了？不想参与对川普二次弹劾！福克斯内部清洗开始了？ 20人被解雇 曾提前报拜登赢亚利桑那！好莱坞名人太疯狂？侮辱川普和选民【希望之声TV】</a></li>
-<li><a href="/cbnews/20210121/1472074.md" target="_blank">真灵！不用坐轮椅了 医生：你们到底用的什么方法治的？</a></li>
-<li><a href="/cbnews/20210121/1472065.md" target="_blank">河北老人外出被绑树上：“再出来，我砸死你”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210122/1472440.md" target="_blank">彭斯：担任美国副总统是一生最大荣誉</a></li>
+<li><a href="/comments/20210122/1472439.md" target="_blank">纳瓦罗：若拜登不阻止弹劾川普 两党将无共识可言</a></li>
+<li><a href="/comments/20210122/1472438.md" target="_blank">传被苹果剔除供应商名单 中国电子巨头欧菲光股价闪崩</a></li>
+<li><a href="/comments/20210122/1472437.md" target="_blank">拜登就职当日 ，中共变相承认台湾独立？</a></li>
 <li><a href="/comments/20210122/1472431.md" target="_blank">民调：多数拜登选民也支持川普的六大政策</a></li>
 <li><a href="/comments/20210122/1472424.md" target="_blank">得罪习近平？ 许志永和丁家喜罪名升级 监视期间遭酷刑折磨</a></li>
 <li><a href="/comments/20210122/1472423.md" target="_blank">召开“反共大会”敲碎小粉红玻璃心！王丹一席话酸爆</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210122/1472345.md" target="_blank">加拿大总理再发出警告：加国人应取消所有旅行计划</a></li>
 <li><a href="/comments/20210122/1472338.md" target="_blank">当选大律师公会主席 人权大状夏博义：我会保护香港自由</a></li>
 <li><a href="/comments/20210122/1472337.md" target="_blank">23岁华为二公主出道 拿钱砸开所有门 国籍之谜引热议</a></li>
-<li><a href="/comments/20210121/1472334.md" target="_blank">拜登一上任 白宫爱国主义教育网页即被撤</a></li>
-<li><a href="/comments/20210121/1472333.md" target="_blank">总统就职日 波特兰、西雅图爆发极左骚乱</a></li>
-<li><a href="/comments/20210121/1472298.md" target="_blank">拜登一上任就推出系列措施 应对中共病毒</a></li>
-<li><a href="/comments/20210121/1472297.md" target="_blank">对付便秘狠角色，该吃红枣还是黑枣？补气血，加这1味效果翻倍</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bannedvideo/20201206/1443210.md" target="_blank">川普之歌:约在春天相见✅正义不灭，川普加油！</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
 
 </ul>
 </div>
