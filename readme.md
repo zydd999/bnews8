@@ -7,11 +7,10 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210120/1471548.md">共和党异动 彭斯等大佬不参加川普告别典礼 川普：高院错判许堕胎致5千万无辜生命丧失</a></li>
 <li><a href="/cnnews/20210120/1471510.md">无刘海版iPhone首曝光！苹果又要引领行业了</a></li>
-<li><a href="/headline/20210120/1471513.md">济源市委书记掌掴秘书长丑闻升温 各方势力卷入上演官场斗争</a></li>
 <li><a href="/bannedvideo/20210121/1471913.md">川普总统给拜登留下一封信 内容只有惊人的5个字 ！川普不久就会王者归来    拜登戴人皮面具，到底是谁？</a></li>
+<li><a href="/headline/20210120/1471513.md">济源市委书记掌掴秘书长丑闻升温 各方势力卷入上演官场斗争</a></li>
 <li><a href="/cnnews/20210120/1471497.md">2021年即将飞出的黑天鹅…</a></li>
 <li><a href="/bannedvideo/20210121/1471820.md">伊万卡发信息：五角大楼阻止败登成员进入获取军方敏感信息包括军队部署</a></li>
-<li><a href="/topimagenews/20210120/1471409.md">快讯！川普特赦73人减刑70人 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210120/1471672.md">刚发生爆炸  地点待确认</a></li>
 <li><a href="/topimagenews/20210120/1471452.md">麦康奈尔:川普你敢特赦阿桑奇 参议院就更可能给你定罪【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210120/1471525.md">将北京公安干部骗到云南“秘密枪决” 胡耀邦临终痛批邓小平</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cnnews/20210120/1471697.md">鲍威尔律师要求最高法院撤掉她提出的乔治亚州案件 表示远未完成努力【阿波罗网编译】</a></li>
 <li><a href="/comments/20210120/1471580.md">斗胆将疫情甩锅给习近平 武汉市长周先旺遭贬任闲职</a></li>
 <li><a href="/cnnews/20210120/1471576.md">首席大法官约翰·罗伯茨 不想主持参议院对川普总统的第二次弹劾【阿波罗网编译】</a></li>
-<li><a href="/bannedvideo/20210121/1471842.md">川普带走核密码，他会赢！胜利已经在未来时间线发生！只等觉醒的同步性！【猪妹piggirl】</a></li>
 <li><a href="/bannedvideo/20210120/1471646.md">惊人消息!!半岛电视台公开了2020年1月19至22日，2名记者在武汉拍摄的影片，揭露中共政府如何阻挠记者报导疫情，隐瞒中共肺炎疫情的真相</a></li>
+<li><a href="/comments/20210121/1471975.md">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
+<li><a href="/bannedvideo/20210121/1471842.md">川普带走核密码，他会赢！胜利已经在未来时间线发生！只等觉醒的同步性！【猪妹piggirl】</a></li>
 <li><a href="/comments/20210121/1471808.md">大瓜！奥巴马是IS恐怖组织的幕后老板？共和党人被逼直接用政府官网发文…</a></li>
-<li><a href="/cbnews/20210121/1471813.md">拜登上任！中共同步宣布制裁蓬佩奥等28名友台川普官员</a></li>
 <li><a href="/cnnews/20210121/1471814.md">白宫交棒！川普「承袭传统」圆桌上留了这封信给拜登</a></li>
+<li><a href="/cbnews/20210121/1471813.md">拜登上任！中共同步宣布制裁蓬佩奥等28名友台川普官员</a></li>
 <li><a href="/topimagenews/20210120/1471668.md">“我将永远为您而战–我们将以某种形式回来” 川普总统在美军基地最新告别演讲</a></li>
 <li><a href="/ssgc/20210121/1471852.md">〖兲朝浮世绘〗拜书记家乡的人民太不给面子了</a></li>
-<li><a href="/comments/20210121/1471975.md">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
-<li><a href="/cbnews/20210121/1471875.md">拜登立即打击化石燃料 吊销Keystone XL许可证;川普刚离任 中共制裁蓬佩奥及班农等28人;纽约州长：不给150亿补助  将提高富人税收;川普给拜登留封信;CIA局长辞职 【希望之声TV】</a></li>
+<li><a href="/cnnews/20210121/1471996.md">拜登第一个举动竟然是解雇他 【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210121/1471899.md">拜登团队难获得五角大楼敏感军事和疫苗信息  知情人：忠于川普的五角大楼官员受命阻挡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210121/1472116.md" target="_blank">欧洲议会通过2项决议案 吁维系台湾民主不受威胁</a></li>
+<li><a href="/comments/20210121/1472113.md" target="_blank">李燕铭：重庆市委副书记任学锋离奇死亡一年多之后 吴存荣接任重庆副书记 双重背景引猜测 传获陈敏尔信任推荐 未来或任重庆市长 习近平人事布局暗藏玄机 防三峡大坝出事危及重庆？力保陈敏尔二十大上位？</a></li>
 <li><a href="/comments/20210121/1472104.md" target="_blank">川普刚离开白宫，中共就立马出来晒脸了~</a></li>
 <li><a href="/comments/20210121/1472086.md" target="_blank">传接任徐英伟政助 研究主任张进乐加入民政局逾一个月 始辞顾问公司董事 拒回应有否申报</a></li>
 <li><a href="/comments/20210121/1472084.md" target="_blank">区议员刘卓裕：小粉红与恐怖情人</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210121/1471975.md" target="_blank">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
 <li><a href="/comments/20210121/1471973.md" target="_blank">张3丰：有些抗疫口号 总让人觉得“不对劲”</a></li>
 <li><a href="/comments/20210121/1471972.md" target="_blank">耿学清：“相比病毒 我更怕泄露个人隐私 丢掉工作”</a></li>
-<li><a href="/comments/20210121/1471971.md" target="_blank">章天亮: “大重构”世界新秩序下并无真正的秩序</a></li>
-<li><a href="/comments/20210121/1471970.md" target="_blank">陶短房：大篷车队又上路了 都是“拜登招来的” 接下来呢？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200731/1372471.md" target="_blank">美国打败中共“超限战”的致胜之道</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200816/1381118.md" target="_blank">川普将再赢总统大选 共和党掌参众两院</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 
 </ul>
 </div>
