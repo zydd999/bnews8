@@ -7,14 +7,13 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210121/1472293.md">拜登上任第一天表面立场 摘掉这位前总统画像 摆上此人的雕像【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210121/1472166.md">拜登宣誓就职一小时后亚利桑那州参议院议长公布了选民舞弊的证据</a></li>
-<li><a href="/bannedvideo/20210122/1472460.md">美军方监视拜登的一举一动 拜登保镖是X国特工 拜登在伪装的假白宫办公室办公被揭穿 军方拒绝为拜登提供军机护航  拜登就职典礼播放的是预先录制的视频  最新消息：川普预计在3月4日就职总统</a></li>
 <li><a href="/bannedvideo/20210122/1472364.md">川普总统将建立一个伟大的新政府  美国将再次伟大</a></li>
+<li><a href="/bannedvideo/20210122/1472460.md">美军方监视拜登的一举一动 拜登保镖是X国特工 拜登在伪装的假白宫办公室办公被揭穿 军方拒绝为拜登提供军机护航  拜登就职典礼播放的是预先录制的视频  最新消息：川普预计在3月4日就职总统</a></li>
 <li><a href="/bannedvideo/20210122/1472513.md">1月21号  川普儿子向所有人传达重要信息：我们需要继续为之奋斗 我们将不得不这样做  这非常值得去争取 谢谢所有人的支持！</a></li>
 <li><a href="/comments/20210121/1472239.md">辉瑞疫苗｜以色列逾1.2万人接种首剂疫苗后确诊</a></li>
 <li><a href="/topimagenews/20210122/1472465.md">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
 <li><a href="/comments/20210122/1472422.md">卸任国务卿第一推！蓬佩奥发神秘数字“1384天”</a></li>
 <li><a href="/cnnews/20210122/1472575.md">麦康奈尔:拜登首日就在错误方向迈出几大步</a></li>
-<li><a href="/cbnews/20210121/1472150.md">北京连爆病例 上海两大医院关门诊 学者指中南海超紧张</a></li>
 <li><a href="/bannedvideo/20210122/1472625.md">白宫直播拜登演说，突然出现画外音，关于什么认罪协议</a></li>
 <li><a href="/funmedia/20210122/1472425.md">亚裔儿被美夫妻领养苦学中文 17年后看出生证明傻了</a></li>
 <li><a href="/yule/20210121/1472234.md">章子怡穿帮镜头曝光 网上疯传尴尬登热搜</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cbnews/20210122/1472451.md">拜登叫停美国退出世卫 共和党议员回应</a></li>
 <li><a href="/bannedvideo/20210122/1472380.md">《石涛聚焦》“美国人民不答应！拜登首日告急 YOUTUBE 全力保点赞 删狂踩”白宫首日记者会8万人观看1万狂踩0.18万点赞6千多留言（愤怒者太多）“策略：关闭留言 更改纪录”（21/01/21）</a></li>
 <li><a href="/cnnews/20210122/1472428.md">股灾预言家警告：散户沉醉泡沫之中 结局恐暴跌最少50%</a></li>
+<li><a href="/bannedvideo/20210122/1472636.md">1月21日  大量国民警卫队部队陆续抵达华盛顿 凸显将有大事件发生</a></li>
 <li><a href="/lifebaike/20210122/1472570.md">离职售楼小姐坦言：有4个楼层“很难卖”！居住不舒适不建议购买</a></li>
+<li><a href="/bannedvideo/20210122/1472624.md">史上最强预言《推背图》告诉你2021年是这样的，度过劫难的方法是什么？【文昭思绪飞扬第19期】</a></li>
 <li><a href="/cbnews/20210122/1472525.md">🔥🔥得瑟太早❓《摩西五经》预言：如果这人上台，世界将会被带走2 3的人❗❗</a></li>
 <li><a href="/ssgc/20210121/1472205.md">济源市委书记张战伟被免职 涉嫌跟掌掴下属有关</a></li>
-<li><a href="/bannedvideo/20210122/1472624.md">史上最强预言《推背图》告诉你2021年是这样的，度过劫难的方法是什么？【文昭思绪飞扬第19期】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210122/1472788.md" target="_blank">藁城区全员隔离 志愿者：见人抓人，见车抓车</a></li>
 <li><a href="/cbnews/20210122/1472760.md" target="_blank">中共病毒疫情正在肆虐 广东平远又爆非洲猪瘟</a></li>
 <li><a href="/cbnews/20210122/1472759.md" target="_blank">鲁甸县突发山泥倾泻 1人被埋死亡</a></li>
 <li><a href="/cbnews/20210122/1472740.md" target="_blank">江峰：上台首日17项行政令看拜登政府急於打造极权政治；南美大篷车难民背後的深层布局【江峰漫谈特别节目20210119第274期】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210122/1472452.md" target="_blank">拜登上任 国务院撤下中共威胁、5G等政策议程</a></li>
 <li><a href="/cbnews/20210122/1472451.md" target="_blank">拜登叫停美国退出世卫 共和党议员回应</a></li>
 <li><a href="/cbnews/20210122/1472443.md" target="_blank">推特继续封杀言论 女星袁立挺川普遭封号</a></li>
-<li><a href="/cbnews/20210122/1472442.md" target="_blank">上海突然空巷 所有医院排查 张文宏称几周内可控</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/cbnews/20201205/1442271.md" target="_blank">蓬佩奥正式会见多位受中共迫害团体代表 很快或有震惊消息</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
