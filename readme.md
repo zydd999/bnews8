@@ -17,17 +17,17 @@
 <li><a href="/funmedia/20210122/1472425.md">亚裔儿被美夫妻领养苦学中文 17年后看出生证明傻了</a></li>
 <li><a href="/comments/20210122/1465196.md">预言通解：2021终极瘟疫劫！何处可逃？</a></li>
 <li><a href="/bannedvideo/20210122/1472625.md">白宫直播拜登演说，突然出现画外音，关于什么认罪协议</a></li>
+<li><a href="/cnnews/20210122/1472778.md">对金正恩的信任一落千丈 卖房吃最后晚餐的一个家庭集体自杀</a></li>
 <li><a href="/bannedvideo/20210122/1472729.md">美国军方极可能已暗中控制一切，谁都没有入驻白宫，最终的结局是攻打中共</a></li>
 <li><a href="/cnnews/20210122/1472741.md">麦康奈尔露出了真面目！提议舒默对川普…【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210122/1472778.md">对金正恩的信任一落千丈 卖房吃最后晚餐的一个家庭集体自杀</a></li>
 <li><a href="/bannedvideo/20210122/1472636.md">1月21日  大量国民警卫队部队陆续抵达华盛顿 凸显将有大事件发生</a></li>
+<li><a href="/cbnews/20210122/1472799.md">习近平穿的大衣被带“火了” 天猫上卖9000元</a></li>
 <li><a href="/bannedvideo/20210122/1472624.md">史上最强预言《推背图》告诉你2021年是这样的，度过劫难的方法是什么？【文昭思绪飞扬第19期】</a></li>
 <li><a href="/cbnews/20210122/1472451.md">拜登叫停美国退出世卫 共和党议员回应</a></li>
 <li><a href="/cbnews/20210122/1472591.md">助理透露川普接下来两年的大计划</a></li>
 <li><a href="/lifebaike/20210122/1472570.md">离职售楼小姐坦言：有4个楼层“很难卖”！居住不舒适不建议购买</a></li>
 <li><a href="/cnnews/20210122/1472428.md">股灾预言家警告：散户沉醉泡沫之中 结局恐暴跌最少50%</a></li>
 <li><a href="/comments/20210122/1472418.md">马云拿钱换命 传将阿里巴巴10%股权无偿转让给官方 中南海谣言预言_429</a></li>
-<li><a href="/cbnews/20210122/1472525.md">🔥🔥得瑟太早❓《摩西五经》预言：如果这人上台，世界将会被带走2 3的人❗❗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210122/1472945.md" target="_blank">美媒：川普树国家建设典范 政治遗产影响全球</a></li>
+<li><a href="/comments/20210122/1472941.md" target="_blank">[视频]别得瑟太早?《摩西五经》预言：如果这人上台世界将会被带走2/3的人!泰勒最新预言:伟大史诗级历史时刻即将诞生</a></li>
 <li><a href="/comments/20210122/1472901.md" target="_blank">【公务员宣誓】港台公务员收宣誓声明 要求“尽快”签署 2 月 18 日前递交</a></li>
 <li><a href="/comments/20210122/1472900.md" target="_blank">《立场》揭政助人选张进乐兼任私企董事 徐英伟无视记者追访 5 大疑问未解答</a></li>
 <li><a href="/comments/20210122/1472896.md" target="_blank">郑中原：陈敏尔自命习接班人 邓恢林妄议出大事</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210122/1472720.md" target="_blank">新当选女众议员以”滥权“弹劾拜登</a></li>
 <li><a href="/comments/20210122/1472708.md" target="_blank">美国务院网站移除中共威胁、5G安全等6议题</a></li>
 <li><a href="/comments/20210122/1472702.md" target="_blank">拜登上任首日干了啥？令美国损失31亿 对国民卫队下了手 还创下一历史记录</a></li>
-<li><a href="/comments/20210122/1472693.md" target="_blank">高级顾问谈论川普接下来几年的计划</a></li>
-<li><a href="/comments/20210122/1472692.md" target="_blank">菅义伟敦促拜登：继续维护印太开放自由 抑制中共威胁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201213/1446945.md" target="_blank">&#8220;我们人民大会&#8221;刊登全页广告：戒严总比内战好！（中英全文）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20201202/1440704.md" target="_blank">中共专家自爆：拜登是中共自己人</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
