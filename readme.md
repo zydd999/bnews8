@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210121/1471975.md">虽迟但到？！拜登上台1小时后 亚利桑那州参院发重磅声明</a></li>
 <li><a href="/headline/20210121/1472073.md">分析：川普卸任后将继续为美国而战 余茂春：下一步再做</a></li>
-<li><a href="/cnnews/20210121/1471996.md">拜登第一个举动竟然是解雇他 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210121/1472106.md">郭文贵说川普失败的原因是由于川普的家人</a></li>
 <li><a href="/comments/20210121/1472076.md">病毒杀进北京上海 东北沦陷 中南海极度恐慌！北京首现高风险区 逾2万人被禁出户 上海两所三级甲等医院关门诊 黑龙江疫情严重 抛出16官员</a></li>
 <li><a href="/cnnews/20210121/1472123.md">川普深夜发「神秘连结」证实当初诺言</a></li>
@@ -22,11 +20,13 @@
 <li><a href="/comments/20210122/1472422.md">卸任国务卿第一推！蓬佩奥发神秘数字“1384天”</a></li>
 <li><a href="/bannedvideo/20210121/1472075.md">林伍德：今天没有改变我的信心 只有让我的信心更强大 Keep speaking truth Keep fighting for freedomNever give up继续说真话继续为自由而战永不放弃</a></li>
 <li><a href="/cbnews/20210121/1472150.md">北京连爆病例 上海两大医院关门诊 学者指中南海超紧张</a></li>
-<li><a href="/cnnews/20210121/1472135.md">中国网民骂：春节才放7天假 隔离14天？</a></li>
+<li><a href="/topimagenews/20210122/1472465.md">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
 <li><a href="/cbnews/20210121/1472245.md">陈破空：拜登就职当日，有一事让习近平丧气！马云还活着，突然被现身！中国人又遭北朝鲜干掉，土共不敢吱声</a></li>
+<li><a href="/cnnews/20210121/1472135.md">中国网民骂：春节才放7天假 隔离14天？</a></li>
 <li><a href="/yule/20210121/1472234.md">章子怡穿帮镜头曝光 网上疯传尴尬登热搜</a></li>
 <li><a href="/topimagenews/20210121/1472222.md">前中情局长说露了 拜登团队将“激光扫荡”识别和根除政治敌人视频【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210122/1472465.md">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
+<li><a href="/funmedia/20210122/1472425.md">亚裔儿被美夫妻领养苦学中文 17年后看出生证明傻了</a></li>
+<li><a href="/bannedvideo/20210122/1472460.md">美军方监视拜登的一举一动 拜登保镖是X国特工 拜登在伪装的假白宫办公室办公被揭穿 军方拒绝为拜登提供军机护航  拜登就职典礼播放的是预先录制的视频  最新消息：川普预计在3月4日就职总统</a></li>
 <li><a href="/yule/20210121/1472010.md">娱圈要塌：郑爽事件曝出明星代孕名单 大咖都在</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210122/1472604.md" target="_blank">专访牧师吉布森：我们的自由正受到威胁！不要惧怕发声</a></li>
 <li><a href="/cbnews/20210122/1472552.md" target="_blank">拜登政策将带来哪些变化？中共频频出手为哪般？ 嘉宾：方伟 谢田  主持：高洁【希望之声TV】(2021/01/21)</a></li>
 <li><a href="/comments/20210122/1472275.md" target="_blank">拜登上台后的美国，是这样的</a></li>
 <li><a href="/comments/20210122/1472369.md" target="_blank">秋后算账？FBI的大搜捕开始了，“骄傲男孩”负责人在弗罗里达被捕……难民大潮再次逼近美国南部边境</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210121/1472228.md" target="_blank">中共制裁川普官员 拜登发言人吁两党齐谴责</a></li>
 <li><a href="/cbnews/20210121/1472227.md" target="_blank">中共自曝藁城医护感染 网友求防护服被禁言</a></li>
 <li><a href="/cbnews/20210121/1472226.md" target="_blank">宁波教师性侵13岁女生 校方发声明引批评</a></li>
-<li><a href="/cbnews/20210121/1472225.md" target="_blank">英媒前进武汉 医师透露隐瞒早知人传人</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210122/1472599.md" target="_blank">何清涟：国会山事件有感</a></li>
 <li><a href="/comments/20210122/1472585.md" target="_blank">仲崇斌死有蹊跷 家属怀疑被毒杀</a></li>
 <li><a href="/comments/20210122/1472584.md" target="_blank">宁波老师涉性侵13岁女生 学校竟称发生感情关系拒担责</a></li>
 <li><a href="/comments/20210122/1472583.md" target="_blank">访台抗中遭制裁 美前次卿柯拉克：是荣誉的勋章</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210122/1472431.md" target="_blank">民调：多数拜登选民也支持川普的六大政策</a></li>
 <li><a href="/comments/20210122/1472424.md" target="_blank">得罪习近平？ 许志永和丁家喜罪名升级 监视期间遭酷刑折磨</a></li>
 <li><a href="/comments/20210122/1472423.md" target="_blank">召开“反共大会”敲碎小粉红玻璃心！王丹一席话酸爆</a></li>
-<li><a href="/comments/20210122/1472422.md" target="_blank">卸任国务卿第一推！蓬佩奥发神秘数字“1384天”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210105/1461209.md" target="_blank">林伍德有骇世录像带:十大情报机构涉强奸谋杀儿童勒索名人</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20201010/1411232.md" target="_blank">杨建利博士入籍遭拒案被严重误读</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20201226/1455351.md" target="_blank">全球大重构计划-新世界秩序：深层政府内幕</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
