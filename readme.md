@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210122/1472460.md">美军方监视拜登的一举一动 拜登保镖是X国特工 拜登在伪装的假白宫办公室办公被揭穿 军方拒绝为拜登提供军机护航  拜登就职典礼播放的是预先录制的视频  最新消息：川普预计在3月4日就职总统</a></li>
 <li><a href="/bannedvideo/20210122/1472513.md">1月21号  川普儿子向所有人传达重要信息：我们需要继续为之奋斗 我们将不得不这样做  这非常值得去争取 谢谢所有人的支持！</a></li>
-<li><a href="/comments/20210122/1472422.md">卸任国务卿第一推！蓬佩奥发神秘数字“1384天”</a></li>
 <li><a href="/cbnews/20210122/1472698.md">为什么赖小民必须死？因他揭发高官</a></li>
+<li><a href="/comments/20210122/1472422.md">卸任国务卿第一推！蓬佩奥发神秘数字“1384天”</a></li>
 <li><a href="/topimagenews/20210122/1472465.md">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
 <li><a href="/cnnews/20210122/1472575.md">麦康奈尔:拜登首日就在错误方向迈出几大步</a></li>
 <li><a href="/comments/20210122/1472678.md">李燕铭：习近平铁心开杀戒与江泽民曾庆红决战 加急二审宣判曾庆红马仔赖小民死刑 官方通报一句话 泄露习近平必杀赖小民原因 习近平定赖小民死刑暗藏重大伏笔 江曾权贵家族脖子上全被架上屠刀 随时可能落下…… 习与江曾生死搏杀大戏重磅开场 2021年中南海注定惊涛骇浪</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/bannedvideo/20210122/1472636.md">1月21日  大量国民警卫队部队陆续抵达华盛顿 凸显将有大事件发生</a></li>
 <li><a href="/baitai/20210122/1472770.md">四川一工商联年轻貌美女副主席被当街抹脖刺死</a></li>
 <li><a href="/bannedvideo/20210122/1472624.md">史上最强预言《推背图》告诉你2021年是这样的，度过劫难的方法是什么？【文昭思绪飞扬第19期】</a></li>
-<li><a href="/cnnews/20210122/1472831.md">大实话？ 白宫新发言人：“总统奥巴..拜登…”</a></li>
+<li><a href="/bannedvideo/20210122/1472912.md">郭文贵正式加入了拜登阵营  并否定了拜登硬盘门的存在   一旦拜登父子被抓之后怎么办？</a></li>
 <li><a href="/lifebaike/20210122/1472570.md">离职售楼小姐坦言：有4个楼层“很难卖”！居住不舒适不建议购买</a></li>
+<li><a href="/cnnews/20210122/1472831.md">大实话？ 白宫新发言人：“总统奥巴..拜登…”</a></li>
 <li><a href="/cnnews/20210122/1472428.md">股灾预言家警告：散户沉醉泡沫之中 结局恐暴跌最少50%</a></li>
-<li><a href="/comments/20210122/1472418.md">马云拿钱换命 传将阿里巴巴10%股权无偿转让给官方 中南海谣言预言_429</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210123/1473030.md" target="_blank">传三星拟投资100亿美元在美国建芯片制造厂</a></li>
 <li><a href="/comments/20210123/1473020.md" target="_blank">MSCI明晟等指数公司宣布剔除中海油</a></li>
 <li><a href="/comments/20210123/1473016.md" target="_blank">竞选期间 拜登称曾经“老友”习近平为“流氓”</a></li>
 <li><a href="/comments/20210123/1473015.md" target="_blank">麦康奈尔：拜登已开始向错误方向前行</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210122/1472845.md" target="_blank">沦为低级红的前朝菁英与白狗当灾的建制班长</a></li>
 <li><a href="/comments/20210122/1472844.md" target="_blank">港台称内部调查未完 仅向利君雅提供 120 天临时约 工会主席斥机制不公、侮辱</a></li>
 <li><a href="/comments/20210122/1472823.md" target="_blank">印度将增兵万人驻守边界东段 应对中共威胁</a></li>
-<li><a href="/comments/20210122/1472785.md" target="_blank">关于“谎言文化”的札记之九：中共用谎言为暴力鸣锣开道和包装掩饰</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210105/1461133.md" target="_blank">林伍德大律师舍命爆出惊天秘密</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
