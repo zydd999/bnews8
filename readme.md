@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210123/1473389.md">🈲“习一尊”驾崩大征兆❓❗</a></li>
 <li><a href="/lifebaike/20210123/1473403.md">请告诉儿女：结婚千万别找这5种家庭,尤其是第1种，后患无穷</a></li>
 <li><a href="/bannedvideo/20210124/1473658.md">川普：重大新闻！我回来了！我仍然可以签署行政命令！我将利用这一广泛的权力来挽回新政府所做的任何破坏！！！如果没有差错：川普目前是战时总统</a></li>
 <li><a href="/bannedvideo/20210124/1473623.md">【中国观察】1月22号 中国大陆网络上开始流传一首诗：庆丰乘风去 缪缪坠地府 生死有天意 咎由归自取</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cbnews/20210123/1473399.md">云南恶霸孙小果离奇“复活” 细节曝光</a></li>
 <li><a href="/cnnews/20210123/1473420.md">1973年精神病实验：8个正常人装病混入其中，结果7个人成了精神病</a></li>
 <li><a href="/lifebaike/20210123/1473417.md">5年前在澳洲买房的中国人亏惨了</a></li>
-<li><a href="/bannedvideo/20210124/1473692.md">川普总统1月22号致电One America新闻网：自己精神高度饱满正在休息 他将遵守他的承诺 把美国放在第一位 他将继续进行反击 捍卫美国的自由</a></li>
 <li><a href="/yule/20210124/1473610.md">爽爸亲友爆料，没成名的郑爽一家是这样的</a></li>
+<li><a href="/bannedvideo/20210124/1473692.md">川普总统1月22号致电One America新闻网：自己精神高度饱满正在休息 他将遵守他的承诺 把美国放在第一位 他将继续进行反击 捍卫美国的自由</a></li>
 <li><a href="/funmedia/20210124/1473675.md">在柬埔寨旅游无意间拍到，这一幕把我看愣了，这美女真是个人才</a></li>
 <li><a href="/cbnews/20210123/1473398.md">拜登在疑似白宫内视频讲话，惊险诡异男声，说了10秒怪话。彭斯回乡，哽咽谢川普，真心还是鳄鱼泪？女议员勇敢挑战拜登。90后议员给士兵送披萨。川普被佛州银行终止业务。</a></li>
 <li><a href="/cbnews/20210124/1473660.md">拜登撤销川普禁中共介入美国电网命令；受华府冷落 议员送披萨 川普酒店留官兵；脸书向FBI提供国会山抗议者私人信息 ；欧议会促27国制裁林郑等9名中港官员；佛州两家银行宣布关闭川普帐户【希望之声TV】</a></li>
 <li><a href="/comments/20210124/1473619.md">罕见 美高院三位大法官未出席拜登就职礼</a></li>
 <li><a href="/headline/20210124/1473629.md">黑龙江防控人员：疫情已经防不胜防</a></li>
 <li><a href="/headline/20210123/1473425.md">惊动习近平？中国政法大学原副校长于志刚落马</a></li>
-<li><a href="/funmedia/20210124/1473706.md">网红主播吃80斤“螺蛳粉”，喝完一口汤后就穿帮了，直接掉粉一百万</a></li>
-<li><a href="/comments/20210123/1473430.md">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20210124/1473783.md">加拿大科学家发现新冠救命药 历史悠久物美价廉</a></li>
+<li><a href="/comments/20210123/1473430.md">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/funmedia/20210124/1473706.md">网红主播吃80斤“螺蛳粉”，喝完一口汤后就穿帮了，直接掉粉一百万</a></li>
 <li><a href="/cbnews/20210124/1473723.md">云南男子劫持初中生 知情人爆料3人死亡</a></li>
+<li><a href="/finance/20210124/1473642.md">1平米56万 上海房价上演“末日疯狂”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210124/1473965.md" target="_blank">【编辑室手记】如何面对一个封闭的香港</a></li>
+<li><a href="/comments/20210124/1473964.md" target="_blank">【封区强检】检测近七千人 张建宗：有信心周一解封 行动显政府果断 不排除围封其他区</a></li>
 <li><a href="/comments/20210124/1473940.md" target="_blank">美国往哪里走？我们要怎么做？与光锐聊天的文字版（上）</a></li>
 <li><a href="/comments/20210124/1473947.md" target="_blank">武汉市长为何一年后才下台？专家解析背后原因</a></li>
 <li><a href="/comments/20210124/1473889.md" target="_blank">赤旗的世界？攻占州府烧美国国旗的队伍扛出了巨幅红旗，镰刀铁锤分外扎眼！安提法到底是个什么样的组织？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210124/1473818.md" target="_blank">网友脑洞大开 仿川普写给拜登的信</a></li>
 <li><a href="/comments/20210124/1473817.md" target="_blank">致死率更高！更可怕的毒株已在南非巴西出现…</a></li>
 <li><a href="/comments/20210124/1473810.md" target="_blank">习近平将给军队加薪4成 军内却不满 拜登刚上任 中共通过海警法允许开火 派12军机大规模扰台 学者：习近平为求连任 不敢武力攻台 印度拟邀28国防长开会 应对中共印度洋扩张</a></li>
-<li><a href="/comments/20210124/1473809.md" target="_blank">纽时前记者杜斌遭羁押37天后获释</a></li>
-<li><a href="/comments/20210124/1473808.md" target="_blank">吉林通化疫情恶化 14名官员先行“替罪”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
