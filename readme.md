@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210124/1473728.md">李燕铭：重大信号！新华社高调半公开江泽民曾庆红政变企图 中南海大战一触即发 习近平高层讲话暗示重点防范江曾两类政变</a></li>
 <li><a href="/bannedvideo/20210124/1473902.md">江泽民，胡锦涛、王岐山三派联合起来反习派了，为解决内部矛盾，中共极可能攻打台湾</a></li>
-<li><a href="/funmedia/20210124/1473675.md">在柬埔寨旅游无意间拍到，这一幕把我看愣了，这美女真是个人才</a></li>
 <li><a href="/bannedvideo/20210124/1473853.md">网友：22日，北京长安街封路，上百辆奥迪红旗疾驰飞奔</a></li>
 <li><a href="/bannedvideo/20210124/1473692.md">川普总统1月22号致电One America新闻网：自己精神高度饱满正在休息 他将遵守他的承诺 把美国放在第一位 他将继续进行反击 捍卫美国的自由</a></li>
 <li><a href="/bannedvideo/20210124/1473849.md">实情，老川仍在任！美股即将崩盘，罪过将全是白等的！这戏，绝了！【猪妹piggirl】</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/topimagenews/20210124/1474045.md">RINO共和党参议员丽莎·默科夫斯基 没有投票给川普【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210124/1473834.md">仅仅几个小时！“拜登大笔一挥 就让这个国家没有安全感了”【阿波罗网编译】</a></li>
 <li><a href="/comments/20210124/1473783.md">加拿大科学家发现新冠救命药 历史悠久物美价廉</a></li>
-<li><a href="/bannedvideo/20210124/1473842.md">拜登在假的白宫办公室里在白纸上签署行政令 白宫行政令注册表上显示拜登截止到22号没有签署任何行政令  左媒配合拜登一起造假演戏</a></li>
 <li><a href="/cnnews/20210124/1474055.md">真让人惊喜！拜登宣誓就职不出三天密歇根州长就允许餐厅重新营业【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210124/1473842.md">拜登在假的白宫办公室里在白纸上签署行政令 白宫行政令注册表上显示拜登截止到22号没有签署任何行政令  左媒配合拜登一起造假演戏</a></li>
 <li><a href="/cbnews/20210124/1473723.md">云南男子劫持初中生 知情人爆料3人死亡</a></li>
 <li><a href="/bannedvideo/20210124/1473894.md">上海疫情已蔓延4区。上海徐汇商务大厦发现一名超级传染者，一职业钢琴演奏者。网传他教了100多个学生，官方辟谣。官方称，已追踪到与该病例有接触的人员434人，其中密切接触者82人</a></li>
 <li><a href="/lifebaike/20210124/1473804.md">拍到了！洛杉矶又惊见“有人在飞” 43秒画面曝光</a></li>
 <li><a href="/funmedia/20210124/1473706.md">网红主播吃80斤“螺蛳粉”，喝完一口汤后就穿帮了，直接掉粉一百万</a></li>
 <li><a href="/bannedvideo/20210124/1473845.md">川普把支持者耍了？拜登和习近平是在演双簧吗？你不了解的超限战，就发生在今天！【老北京茶馆/第445集/2021/01/23】</a></li>
-<li><a href="/comments/20210124/1473889.md">赤旗的世界？攻占州府烧美国国旗的队伍扛出了巨幅红旗，镰刀铁锤分外扎眼！安提法到底是个什么样的组织？</a></li>
 <li><a href="/cnnews/20210124/1474008.md">侮辱——曾支持拜登竞选 众工会悔不该当初 正大肆抨击……【阿波罗网编译】</a></li>
+<li><a href="/comments/20210124/1473889.md">赤旗的世界？攻占州府烧美国国旗的队伍扛出了巨幅红旗，镰刀铁锤分外扎眼！安提法到底是个什么样的组织？</a></li>
+<li><a href="/headline/20210124/1474007.md">传已投案？山西前书记王儒林缺席多场活动</a></li>
 <li><a href="/headline/20210124/1473680.md">鲍威尔发起超级行动 争取公正选举权利</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210125/1474206.md" target="_blank">湖南养老机构爆雷！逾2千长者受骗 有人为此跳河身亡</a></li>
 <li><a href="/topimagenews/20210125/1474157.md" target="_blank">IBM中国研究院传已关闭 引科技圈轰动</a></li>
 <li><a href="/topimagenews/20210125/1474141.md" target="_blank">饶毅死磕裴钢学术造假 江绵恒堡垒或被清洗？</a></li>
 <li><a href="/topimagenews/20210125/1474140.md" target="_blank">英国学者：中共正在发动政治战 手段包含资助暴民在印度攻击台厂</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210122/1472611.md" target="_blank">拜登自己违规被抓包 新闻秘书这样回复质疑【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20210122/1472465.md" target="_blank">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
 <li><a href="/topimagenews/20210122/1472463.md" target="_blank">骄傲男孩机构的组织者之一在佛州被捕 更多追捕正在佛州展开【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210121/1472319.md" target="_blank">参议员兰德·保罗：拜登必须保证不会把美国改造成社会主义反乌托邦【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 
 </ul>
 </div>
