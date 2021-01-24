@@ -6,27 +6,27 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210124/1473658.md">川普：重大新闻！我回来了！我仍然可以签署行政命令！我将利用这一广泛的权力来挽回新政府所做的任何破坏！！！如果没有差错：川普目前是战时总统</a></li>
-<li><a href="/bannedvideo/20210124/1473623.md">【中国观察】1月22号 中国大陆网络上开始流传一首诗：庆丰乘风去 缪缪坠地府 生死有天意 咎由归自取</a></li>
 <li><a href="/comments/20210124/1473728.md">李燕铭：重大信号！新华社高调半公开江泽民曾庆红政变企图 中南海大战一触即发 习近平高层讲话暗示重点防范江曾两类政变</a></li>
 <li><a href="/bannedvideo/20210124/1473654.md">川普总统给拜登留下了一个很大的字条：如果你找到了我的儿子巴伦 请联系我和梅拉尼娅   网友：巴伦还在白宫  而拜登没有踏入真正的白宫</a></li>
-<li><a href="/bannedvideo/20210124/1473902.md">江泽民，胡锦涛、王岐山三派联合起来反习派了，为解决内部矛盾，中共极可能攻打台湾</a></li>
 <li><a href="/funmedia/20210124/1473675.md">在柬埔寨旅游无意间拍到，这一幕把我看愣了，这美女真是个人才</a></li>
+<li><a href="/bannedvideo/20210124/1473902.md">江泽民，胡锦涛、王岐山三派联合起来反习派了，为解决内部矛盾，中共极可能攻打台湾</a></li>
 <li><a href="/bannedvideo/20210124/1473692.md">川普总统1月22号致电One America新闻网：自己精神高度饱满正在休息 他将遵守他的承诺 把美国放在第一位 他将继续进行反击 捍卫美国的自由</a></li>
 <li><a href="/bannedvideo/20210124/1473853.md">网友：22日，北京长安街封路，上百辆奥迪红旗疾驰飞奔</a></li>
 <li><a href="/bannedvideo/20210124/1473849.md">实情，老川仍在任！美股即将崩盘，罪过将全是白等的！这戏，绝了！【猪妹piggirl】</a></li>
 <li><a href="/headline/20210124/1473629.md">黑龙江防控人员：疫情已经防不胜防</a></li>
 <li><a href="/comments/20210124/1473878.md">川普总统的大作就要揭幕了：一个人类文明的新时代？</a></li>
-<li><a href="/cbnews/20210124/1473660.md">拜登撤销川普禁中共介入美国电网命令；受华府冷落 议员送披萨 川普酒店留官兵；脸书向FBI提供国会山抗议者私人信息 ；欧议会促27国制裁林郑等9名中港官员；佛州两家银行宣布关闭川普帐户【希望之声TV】</a></li>
 <li><a href="/cnnews/20210124/1473982.md">上海土著家庭穷的到底有多穷？</a></li>
+<li><a href="/cbnews/20210124/1473660.md">拜登撤销川普禁中共介入美国电网命令；受华府冷落 议员送披萨 川普酒店留官兵；脸书向FBI提供国会山抗议者私人信息 ；欧议会促27国制裁林郑等9名中港官员；佛州两家银行宣布关闭川普帐户【希望之声TV】</a></li>
 <li><a href="/comments/20210124/1473947.md">武汉市长为何一年后才下台？专家解析背后原因</a></li>
 <li><a href="/cnnews/20210124/1473834.md">仅仅几个小时！“拜登大笔一挥 就让这个国家没有安全感了”【阿波罗网编译】</a></li>
-<li><a href="/comments/20210124/1473783.md">加拿大科学家发现新冠救命药 历史悠久物美价廉</a></li>
 <li><a href="/cbnews/20210124/1474034.md">陈破空：党内不服，习近平决意大清洗！此会推迟三个月。干掉赖小民，自有后来人</a></li>
+<li><a href="/comments/20210124/1473783.md">加拿大科学家发现新冠救命药 历史悠久物美价廉</a></li>
 <li><a href="/bannedvideo/20210124/1473842.md">拜登在假的白宫办公室里在白纸上签署行政令 白宫行政令注册表上显示拜登截止到22号没有签署任何行政令  左媒配合拜登一起造假演戏</a></li>
 <li><a href="/cbnews/20210124/1473723.md">云南男子劫持初中生 知情人爆料3人死亡</a></li>
 <li><a href="/topimagenews/20210124/1474045.md">RINO共和党参议员丽莎·默科夫斯基 没有投票给川普【阿波罗网编译】</a></li>
 <li><a href="/finance/20210124/1473642.md">1平米56万 上海房价上演“末日疯狂”</a></li>
 <li><a href="/bannedvideo/20210124/1473894.md">上海疫情已蔓延4区。上海徐汇商务大厦发现一名超级传染者，一职业钢琴演奏者。网传他教了100多个学生，官方辟谣。官方称，已追踪到与该病例有接触的人员434人，其中密切接触者82人</a></li>
+<li><a href="/lifebaike/20210124/1473804.md">拍到了！洛杉矶又惊见“有人在飞” 43秒画面曝光</a></li>
 <li><a href="/funmedia/20210124/1473706.md">网红主播吃80斤“螺蛳粉”，喝完一口汤后就穿帮了，直接掉粉一百万</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210125/1474158.md" target="_blank">北京政经中枢的西城区 出现一确诊治癒后复阳病例</a></li>
 <li><a href="/cbnews/20210125/1474143.md" target="_blank">中共自我粉饰 分析：没人相信北京官方数据</a></li>
 <li><a href="/cbnews/20210125/1474142.md" target="_blank">北京大兴再增11封闭社区 融汇区集中隔离</a></li>
 <li><a href="/cbnews/20210124/1474059.md" target="_blank">中共13架军机大规模扰台 美国务院回应；霍利吁调查中共如何处理疫情 向中共索赔；众议员提法案 阻纳税人钱资助世卫；五名年轻助手跟随川普 在海湖庄园建办公室【希望之声TV】【希望之声TV】</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210124/1473702.md" target="_blank">陈破空：毛泽东创造了多少名词？穿越红墙，拆解洗脑术！让你觉醒的一本书</a></li>
 <li><a href="/cbnews/20210124/1473660.md" target="_blank">拜登撤销川普禁中共介入美国电网命令；受华府冷落 议员送披萨 川普酒店留官兵；脸书向FBI提供国会山抗议者私人信息 ；欧议会促27国制裁林郑等9名中港官员；佛州两家银行宣布关闭川普帐户【希望之声TV】</a></li>
 <li><a href="/cbnews/20210124/1473641.md" target="_blank">鞭炮丢进下水道 四川达州5个井盖同时被炸飞</a></li>
-<li><a href="/cbnews/20210124/1473637.md" target="_blank">惊悚！山西婴掉落滚水锅 被「煮」10分钟</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210125/1474157.md" target="_blank">IBM中国研究院传已关闭 引科技圈轰动</a></li>
 <li><a href="/topimagenews/20210125/1474141.md" target="_blank">饶毅死磕裴钢学术造假 江绵恒堡垒或被清洗？</a></li>
 <li><a href="/topimagenews/20210125/1474140.md" target="_blank">英国学者：中共正在发动政治战 手段包含资助暴民在印度攻击台厂</a></li>
 <li><a href="/topimagenews/20210125/1474105.md" target="_blank">福西博士称 在拜登治下他感到解放了 【阿波罗网编译】</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210122/1472465.md" target="_blank">大陆蛋价大涨80％ 物价涨引全民焦虑</a></li>
 <li><a href="/topimagenews/20210122/1472463.md" target="_blank">骄傲男孩机构的组织者之一在佛州被捕 更多追捕正在佛州展开【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210121/1472319.md" target="_blank">参议员兰德·保罗：拜登必须保证不会把美国改造成社会主义反乌托邦【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210121/1472293.md" target="_blank">拜登上任第一天表面立场 摘掉这位前总统画像 摆上此人的雕像【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210125/1474150.md" target="_blank">【独家】诗二首：《静水流深》《人生感悟》</a></li>
+<li><a href="/comments/20210125/1474149.md" target="_blank">日籍宇航员空拍云海绕台湾夕照 各国网友惊艳</a></li>
 <li><a href="/comments/20210125/1474134.md" target="_blank">川普长子开设电报平台账号 对外发布政治评论</a></li>
 <li><a href="/comments/20210125/1474131.md" target="_blank">美民众接种疫苗 数小时后死亡 德国认可“川普疗法”斥资4亿欧元购买</a></li>
 <li><a href="/comments/20210125/1474130.md" target="_blank">俄国逾百城镇示威 逮捕3000多人 美欧谴责吁放人</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210124/1473976.md" target="_blank">郑中原：习近平借上海红楼撑亲信收拾大老虎</a></li>
 <li><a href="/comments/20210124/1473953.md" target="_blank">忠义道侠传|第二回 饥馑遍地皆红袄 大疫杀人万万千（4）</a></li>
 <li><a href="/comments/20210124/1473956.md" target="_blank">元神不灭：1931年大吉轮沉没后的亡者托梦事件</a></li>
-<li><a href="/comments/20210124/1473972.md" target="_blank">中共军机大阵仗骚扰台湾 拜登政府：对台承诺“坚如磐石”</a></li>
-<li><a href="/comments/20210124/1473971.md" target="_blank">焦虑指数飙升！ 疫情之下如何调适情绪？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 
 </ul>
 </div>
