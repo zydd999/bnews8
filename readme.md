@@ -6,16 +6,15 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210123/1473389.md">🈲“习一尊”驾崩大征兆❓❗</a></li>
-<li><a href="/topimagenews/20210123/1473296.md">快讯！白宫网站出现惊人一幕 拜登名列往届总统</a></li>
+<li><a href="/bannedvideo/20210124/1473658.md">川普：重大新闻！我回来了！我仍然可以签署行政命令！我将利用这一广泛的权力来挽回新政府所做的任何破坏！！！如果没有差错：川普目前是战时总统</a></li>
 <li><a href="/bannedvideo/20210123/1473352.md">拜登就职典礼现场直播是假的！拜登身后白衣女子瞬间消失  左侧黑衣女子瞬间换人并戴着口罩</a></li>
 <li><a href="/lifebaike/20210123/1473403.md">请告诉儿女：结婚千万别找这5种家庭,尤其是第1种，后患无穷</a></li>
-<li><a href="/bannedvideo/20210124/1473658.md">川普：重大新闻！我回来了！我仍然可以签署行政命令！我将利用这一广泛的权力来挽回新政府所做的任何破坏！！！如果没有差错：川普目前是战时总统</a></li>
 <li><a href="/bannedvideo/20210124/1473623.md">【中国观察】1月22号 中国大陆网络上开始流传一首诗：庆丰乘风去 缪缪坠地府 生死有天意 咎由归自取</a></li>
 <li><a href="/comments/20210123/1473321.md">白宫视频出现诡异声音！亨特拜登认罪？拜登登基仪式是提前拍的！机密录音流出，川普掌控局势</a></li>
 <li><a href="/bannedvideo/20210124/1473654.md">川普总统给拜登留下了一个很大的字条：如果你找到了我的儿子巴伦 请联系我和梅拉尼娅   网友：巴伦还在白宫  而拜登没有踏入真正的白宫</a></li>
 <li><a href="/cnnews/20210123/1473423.md">"立即驱逐崔天凯" 的声音在美国会出现</a></li>
-<li><a href="/funmedia/20210123/1473397.md">为什么日本游客不愿意来中国旅游？看完今天又涨知识了</a></li>
 <li><a href="/cbnews/20210123/1473399.md">云南恶霸孙小果离奇“复活” 细节曝光</a></li>
+<li><a href="/funmedia/20210123/1473397.md">为什么日本游客不愿意来中国旅游？看完今天又涨知识了</a></li>
 <li><a href="/cnnews/20210123/1473420.md">1973年精神病实验：8个正常人装病混入其中，结果7个人成了精神病</a></li>
 <li><a href="/cbnews/20210123/1473349.md">浙大医院突发爆炸 多人受伤 一护士被砍</a></li>
 <li><a href="/lifebaike/20210123/1473417.md">5年前在澳洲买房的中国人亏惨了</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cbnews/20210123/1473398.md">拜登在疑似白宫内视频讲话，惊险诡异男声，说了10秒怪话。彭斯回乡，哽咽谢川普，真心还是鳄鱼泪？女议员勇敢挑战拜登。90后议员给士兵送披萨。川普被佛州银行终止业务。</a></li>
 <li><a href="/bannedvideo/20210123/1473305.md">1月22号 小川普发出重要信息：Donald Trump Jr. has just officially joined Telegram.小唐纳德-川普刚刚正式加入Telegram</a></li>
 <li><a href="/comments/20210124/1473619.md">罕见 美高院三位大法官未出席拜登就职礼</a></li>
-<li><a href="/headline/20210124/1473629.md">黑龙江防控人员：疫情已经防不胜防</a></li>
 <li><a href="/comments/20210123/1473430.md">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/headline/20210123/1473425.md">惊动习近平？中国政法大学原副校长于志刚落马</a></li>
-<li><a href="/cnnews/20210123/1473478.md">损害控制：拜登让国民警卫队在车库过了一夜之后 派夫人送饼干作秀【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210124/1473692.md">川普总统1月22号致电One America新闻网：自己精神高度饱满正在休息 他将遵守他的承诺 把美国放在第一位 他将继续进行反击 捍卫美国的自由</a></li>
+<li><a href="/headline/20210124/1473629.md">黑龙江防控人员：疫情已经防不胜防</a></li>
+<li><a href="/headline/20210123/1473425.md">惊动习近平？中国政法大学原副校长于志刚落马</a></li>
+<li><a href="/funmedia/20210124/1473675.md">在柬埔寨旅游无意间拍到，这一幕把我看愣了，这美女真是个人才</a></li>
+<li><a href="/cbnews/20210124/1473660.md">拜登撤销川普禁中共介入美国电网命令；受华府冷落 议员送披萨 川普酒店留官兵；脸书向FBI提供国会山抗议者私人信息 ；欧议会促27国制裁林郑等9名中港官员；佛州两家银行宣布关闭川普帐户【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210124/1473848.md" target="_blank">精准剖析：川普为什么遭遇仇恨与无情撕咬</a></li>
 <li><a href="/comments/20210124/1473836.md" target="_blank">以色列及波兰等多国举行抗议集会 声援俄反对派领袖</a></li>
 <li><a href="/comments/20210124/1473833.md" target="_blank">【微博精粹】共产党71年暴政最牛X的 就是P民快死了还在央求它开恩</a></li>
 <li><a href="/comments/20210124/1473828.md" target="_blank">疑出事 山西前书记王儒林连续缺席重要场合</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210124/1473767.md" target="_blank">魔都囡:全面脱贫！ B站最惨up主活活饿死</a></li>
 <li><a href="/comments/20210124/1473766.md" target="_blank">借着郑爽这个瓜 给大家普及一个赴美产子的大隐患</a></li>
 <li><a href="/comments/20210124/1473765.md" target="_blank">当科学没有信仰 是郑爽这样子</a></li>
-<li><a href="/comments/20210124/1473750.md" target="_blank">【独家】七绝 ：《评拜登施政》</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
