@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210124/1473902.md">江泽民，胡锦涛、王岐山三派联合起来反习派了，为解决内部矛盾，中共极可能攻打台湾</a></li>
 <li><a href="/bannedvideo/20210124/1473853.md">网友：22日，北京长安街封路，上百辆奥迪红旗疾驰飞奔</a></li>
-<li><a href="/bannedvideo/20210124/1473849.md">实情，老川仍在任！美股即将崩盘，罪过将全是白等的！这戏，绝了！【猪妹piggirl】</a></li>
 <li><a href="/comments/20210124/1473878.md">川普总统的大作就要揭幕了：一个人类文明的新时代？</a></li>
 <li><a href="/comments/20210124/1473947.md">武汉市长为何一年后才下台？专家解析背后原因</a></li>
 <li><a href="/cnnews/20210124/1473982.md">上海土著家庭穷的到底有多穷？</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cnnews/20210124/1474055.md">真让人惊喜！拜登宣誓就职不出三天密歇根州长就允许餐厅重新营业【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210124/1473894.md">上海疫情已蔓延4区。上海徐汇商务大厦发现一名超级传染者，一职业钢琴演奏者。网传他教了100多个学生，官方辟谣。官方称，已追踪到与该病例有接触的人员434人，其中密切接触者82人</a></li>
 <li><a href="/comments/20210125/1474164.md">伊朗宣布全球追杀川普！佩洛西快速推进弹劾议程…身价大跌的川建国背负十亿债务该何去何从？</a></li>
-<li><a href="/bannedvideo/20210124/1473845.md">川普把支持者耍了？拜登和习近平是在演双簧吗？你不了解的超限战，就发生在今天！【老北京茶馆/第445集/2021/01/23】</a></li>
 <li><a href="/headline/20210124/1474007.md">传已投案？山西前书记王儒林缺席多场活动</a></li>
-<li><a href="/cnnews/20210124/1474008.md">侮辱——曾支持拜登竞选 众工会悔不该当初 正大肆抨击……【阿波罗网编译】</a></li>
 <li><a href="/comments/20210124/1473889.md">赤旗的世界？攻占州府烧美国国旗的队伍扛出了巨幅红旗，镰刀铁锤分外扎眼！安提法到底是个什么样的组织？</a></li>
+<li><a href="/cnnews/20210124/1474008.md">侮辱——曾支持拜登竞选 众工会悔不该当初 正大肆抨击……【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210124/1474047.md">非凡旅程将从海湖庄园启动。川普回佛州首次发声，尽说了三句话。五名白宫“火枪手”，随川普到棕榈滩，最低年龄25岁。疑似伊朗最高领袖发推恐吓川普。弹劾案或成川普舞台。</a></li>
-<li><a href="/bannedvideo/20210124/1473938.md">北京疫情此起彼伏，顺义、大兴、朝阳、海淀、渐逼近中南海。1月22日至23日，当局启动了北京的西城、东城区全员核酸检测。北京昔日最繁华热闹的王府井大街排起了长龙，恐有数公里长。</a></li>
 <li><a href="/cbnews/20210125/1474180.md">上海疫情蔓延？网曝普陀中心医院发现确诊病例</a></li>
-<li><a href="/worldnews/20210125/1474122.md">绝望惨叫响彻公园7分钟！英国女大生离奇失踪…竟沦浮尸</a></li>
+<li><a href="/cbnews/20210125/1474271.md">林伍德：军方控制华盛顿 非法政府叛国证据近闭合</a></li>
+<li><a href="/bannedvideo/20210124/1473938.md">北京疫情此起彼伏，顺义、大兴、朝阳、海淀、渐逼近中南海。1月22日至23日，当局启动了北京的西城、东城区全员核酸检测。北京昔日最繁华热闹的王府井大街排起了长龙，恐有数公里长。</a></li>
 <li><a href="/comments/20210124/1473864.md">通化围城！家家户户被贴封条 30万人断粮求救！ 上海地铁站频现随地倒 疫情真相或远超想象</a></li>
+<li><a href="/worldnews/20210125/1474122.md">绝望惨叫响彻公园7分钟！英国女大生离奇失踪…竟沦浮尸</a></li>
 <li><a href="/cnnews/20210124/1474021.md">“共和党人高姿态”–众议院共和党领袖麦卡锡不同意格林议员弹劾拜登【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210125/1474235.md">组图：可疑诡异的拜大统领</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210125/1474404.md" target="_blank">李燕铭：习与胡温再度联手决战江曾？栗战书女旧部喻红秋与马馼大秘傅奎新晋中纪委副书记 广州市委书记张硕辅升官传闻落空 习近平布局二十大 习家军卡位中纪委架空赵乐际 胡温力挺马馼任中纪委副书记 马馼查办薄熙来立功 大秘傅奎获习王重用</a></li>
 <li><a href="/comments/20210125/1474393.md" target="_blank">烟草局副局长酒瘾太大 被抓时因喝了茅台鼾声如雷</a></li>
 <li><a href="/comments/20210125/1474379.md" target="_blank">惊！不止变种令疫苗失效！全球最权威期刊揭新冠病毒难防之处</a></li>
 <li><a href="/comments/20210125/1474377.md" target="_blank">江苏镇江爆疫情！民间偷传视频 打脸官方通报</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210125/1474236.md" target="_blank">李燕铭：前山西省委书记王儒林传已投案 连续缺席重要场合 兄弟被抓 王儒林遭王岐山公然羞辱后老羞成怒暴跳如雷 习近平中纪委全会释放重磅信号 要动张德江吉林帮？两会前或抛出大老虎</a></li>
 <li><a href="/comments/20210125/1474164.md" target="_blank">伊朗宣布全球追杀川普！佩洛西快速推进弹劾议程…身价大跌的川建国背负十亿债务该何去何从？</a></li>
 <li><a href="/comments/20210125/1474225.md" target="_blank">中共测底线 美航空母舰打击群进入南中国海</a></li>
-<li><a href="/comments/20210125/1474218.md" target="_blank">拜登上任首周 多名美国之音原高层被解雇</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 
 </ul>
 </div>
