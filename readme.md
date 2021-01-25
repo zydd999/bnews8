@@ -12,8 +12,8 @@
 <li><a href="/headline/20210125/1474212.md">丹麦研究得出惊人结论 下波疫情如海啸</a></li>
 <li><a href="/cbnews/20210125/1474271.md">林伍德：军方控制华盛顿 非法政府叛国证据近闭合</a></li>
 <li><a href="/cbnews/20210125/1474531.md">中印边境再爆冲突！共军至少廿人受伤 边境「长」出「中国村」</a></li>
-<li><a href="/topimagenews/20210125/1474417.md">麦克风失声：拜登喃喃自语一句话 引发哗然 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210125/1474263.md">满眼都是敌人 习近平释不寻常信号</a></li>
+<li><a href="/topimagenews/20210125/1474417.md">麦克风失声：拜登喃喃自语一句话 引发哗然 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210125/1474180.md">上海疫情蔓延？网曝普陀中心医院发现确诊病例</a></li>
 <li><a href="/bannedvideo/20210125/1474450.md">网友爆料：拜老爷的就职文件无效！川老爷子老厉害了！把观众逗的不要不要的！</a></li>
 <li><a href="/topimagenews/20210125/1474385.md">品尝苦果！新墨西哥州投票给拜登 现在傻眼了 【阿波罗网编译】</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20210125/1474372.md">胡锦涛探视军医 泄露 “天安门自焚”真相</a></li>
 <li><a href="/comments/20210125/1474449.md">白宫灯光熄灭？停电是爱国者控制局面的信号</a></li>
 <li><a href="/bannedvideo/20210125/1474187.md">不要悲伤 川普总统已经开启了奇妙的旅程 运动已经开始  正义必胜</a></li>
-<li><a href="/worldnews/20210125/1474145.md">吉林通化封城断粮惨况曝光！中国网友叹：真正的重灾区</a></li>
+<li><a href="/bannedvideo/20210125/1474384.md">💥拜登遭“倒戈”！曾经支持者被试刀，不忍了；7千美军留守DC到3月；中共党媒喊有人造反！武汉市长周先旺“辞职”，吉林通化封城快断粮；拜登洗牌“美国之音”，并令释放有罪非法移民 ｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210126/1474762.md" target="_blank">麦卡锡：拜登政策“中国第一 美国最后”；什么征兆？华盛顿纪念碑灯熄灭 ；中印边境再冲突  ；川普仍受追随 高级顾问:无计划建第三党；胡锡进赞中共防疫政策  遭围攻；【希望之声TV】</a></li>
 <li><a href="/cbnews/20210126/1474758.md" target="_blank">陈破空特约评论：拜登刚刚上任，习近平就在商界找关系，急於搞定美国</a></li>
 <li><a href="/cbnews/20210125/1474649.md" target="_blank">美国海关和边境保护局：南部边境非法移民剧增；俄60多城市示威抗议 3千多人被捕；推特未阻止极左翼召集骚乱；墨西哥总统染疫；章家敦：美应切断与中共的联系【希望之声TV】</a></li>
 <li><a href="/cbnews/20210125/1474599.md" target="_blank">陈破空：动手了！习近平硬把武汉市长赶下台！打倒山西省委书记。丝袜大使成网红！俄罗斯全国抗议</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210125/1474271.md" target="_blank">林伍德：军方控制华盛顿 非法政府叛国证据近闭合</a></li>
 <li><a href="/cbnews/20210125/1474270.md" target="_blank">天亮时分：川普组党，胜算几何？多少人后悔投票给拜登？华盛顿DC将驻军到三月中旬；2021年民主党第一法案将彻底葬送美国（政论天下第337集 20210124）</a></li>
 <li><a href="/cbnews/20210125/1474250.md" target="_blank">麦卡锡谴责拜登政策“把中国放第一，美国最后”</a></li>
-<li><a href="/cbnews/20210125/1474235.md" target="_blank">组图：可疑诡异的拜大统领</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210126/1474765.md" target="_blank">前DHS代理部长：拜登阻遣非法移民危害公卫</a></li>
+<li><a href="/comments/20210126/1474764.md" target="_blank">防“灰犀牛”袭击？ 中国多家银行暂停个人房贷</a></li>
 <li><a href="/comments/20210126/1474752.md" target="_blank">危难时刻 生的希望在哪里？</a></li>
 <li><a href="/comments/20210126/1474750.md" target="_blank">一朝回到殖民地</a></li>
 <li><a href="/comments/20210126/1474749.md" target="_blank">警搜中大三学生宿舍查 1.11 铁马被推翻案 警消息指三人被捕 包括学生会前会长区倬僖</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210125/1474680.md" target="_blank">美边境保护局：近期南部边境非法移民剧增</a></li>
 <li><a href="/comments/20210125/1474674.md" target="_blank">川普无意借组建新政党 迫使共和党参议员反对弹劾案</a></li>
 <li><a href="/comments/20210125/1474673.md" target="_blank">拦查孕妇骂“死肥婆”拖行致早产 粗暴港警害男婴插管命危</a></li>
-<li><a href="/comments/20210125/1474648.md" target="_blank">【12 港人】郭子麟李子贤家属今完成隔离 已到看守所探望子女 称他们精神不俗</a></li>
-<li><a href="/comments/20210125/1474647.md" target="_blank">内蒙古司法局长讲话录音曝光：老弱病残孕往死里打，打死了我负责</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
