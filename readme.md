@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210124/1474034.md">陈破空：党内不服，习近平决意大清洗！此会推迟三个月。干掉赖小民，自有后来人</a></li>
 <li><a href="/comments/20210125/1474166.md">马云第二？任正非公开与习近平唱反调：华为仅是小学生</a></li>
 <li><a href="/topimagenews/20210125/1474157.md">IBM中国研究院传已关闭 引科技圈轰动</a></li>
 <li><a href="/comments/20210125/1474164.md">伊朗宣布全球追杀川普！佩洛西快速推进弹劾议程…身价大跌的川建国背负十亿债务该何去何从？</a></li>
 <li><a href="/cnnews/20210124/1474055.md">真让人惊喜！拜登宣誓就职不出三天密歇根州长就允许餐厅重新营业【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210125/1474271.md">林伍德：军方控制华盛顿 非法政府叛国证据近闭合</a></li>
+<li><a href="/topimagenews/20210125/1474417.md">麦克风失声：拜登喃喃自语一句话 引发哗然 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210124/1474045.md">RINO共和党参议员丽莎·默科夫斯基 没有投票给川普【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210125/1474339.md">谁是河北“零号病人” 中共文件泄底</a></li>
-<li><a href="/topimagenews/20210125/1474417.md">麦克风失声：拜登喃喃自语一句话 引发哗然 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210125/1474385.md">品尝苦果！新墨西哥州投票给拜登 现在傻眼了 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210125/1474180.md">上海疫情蔓延？网曝普陀中心医院发现确诊病例</a></li>
-<li><a href="/cbnews/20210125/1474235.md">组图：可疑诡异的拜大统领</a></li>
 <li><a href="/headline/20210125/1474212.md">丹麦研究得出惊人结论 下波疫情如海啸</a></li>
+<li><a href="/cbnews/20210125/1474235.md">组图：可疑诡异的拜大统领</a></li>
 <li><a href="/comments/20210125/1474263.md">满眼都是敌人 习近平释不寻常信号</a></li>
-<li><a href="/cbnews/20210124/1474047.md">非凡旅程将从海湖庄园启动。川普回佛州首次发声，尽说了三句话。五名白宫“火枪手”，随川普到棕榈滩，最低年龄25岁。疑似伊朗最高领袖发推恐吓川普。弹劾案或成川普舞台。</a></li>
 <li><a href="/comments/20210125/1474412.md">葬礼礼炮？拜登不被军方承认实锤证据浮出水面？</a></li>
 <li><a href="/bannedvideo/20210125/1474450.md">网友爆料：拜老爷的就职文件无效！川老爷子老厉害了！把观众逗的不要不要的！</a></li>
+<li><a href="/cbnews/20210124/1474047.md">非凡旅程将从海湖庄园启动。川普回佛州首次发声，尽说了三句话。五名白宫“火枪手”，随川普到棕榈滩，最低年龄25岁。疑似伊朗最高领袖发推恐吓川普。弹劾案或成川普舞台。</a></li>
 <li><a href="/health/20210125/1474346.md">母女每天喝粥养生，却相继确诊癌症，专家：粥里怎能放这3种食材</a></li>
 <li><a href="/worldnews/20210125/1474122.md">绝望惨叫响彻公园7分钟！英国女大生离奇失踪…竟沦浮尸</a></li>
 <li><a href="/bannedvideo/20210125/1474187.md">不要悲伤 川普总统已经开启了奇妙的旅程 运动已经开始  正义必胜</a></li>
-<li><a href="/cbnews/20210125/1474372.md">胡锦涛探视军医 泄露 “天安门自焚”真相</a></li>
 <li><a href="/cbnews/20210125/1474531.md">中印边境再爆冲突！共军至少廿人受伤 边境「长」出「中国村」</a></li>
+<li><a href="/cbnews/20210125/1474372.md">胡锦涛探视军医 泄露 “天安门自焚”真相</a></li>
 <li><a href="/bannedvideo/20210125/1474384.md">💥拜登遭“倒戈”！曾经支持者被试刀，不忍了；7千美军留守DC到3月；中共党媒喊有人造反！武汉市长周先旺“辞职”，吉林通化封城快断粮；拜登洗牌“美国之音”，并令释放有罪非法移民 ｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20210125/1474206.md">湖南养老机构爆雷！逾2千长者受骗 有人为此跳河身亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210125/1474606.md" target="_blank">韩国统一部：金与正表面降职实际仍掌控朝韩外交事务</a></li>
 <li><a href="/comments/20210125/1474593.md" target="_blank">卢永雄“三问英国”的偏颇</a></li>
 <li><a href="/comments/20210125/1474592.md" target="_blank">【12 港人案】被指危害国安遭 DQ 执业资格 卢思位再被取消律师协会会员资格</a></li>
 <li><a href="/comments/20210125/1474591.md" target="_blank">BioNTech 与上海复星合作武肺疫苗 获准港紧急使用 首批 100 万剂料下月底到港</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210125/1474412.md" target="_blank">葬礼礼炮？拜登不被军方承认实锤证据浮出水面？</a></li>
 <li><a href="/comments/20210125/1474404.md" target="_blank">李燕铭：习与胡温再度联手决战江曾？栗战书女旧部喻红秋与马馼大秘傅奎新晋中纪委副书记 广州市委书记张硕辅升官传闻落空 习近平布局二十大 习家军卡位中纪委架空赵乐际 胡温力挺马馼任中纪委副书记 马馼查办薄熙来立功 大秘傅奎获习王重用</a></li>
 <li><a href="/comments/20210125/1474393.md" target="_blank">烟草局副局长酒瘾太大 被抓时因喝了茅台鼾声如雷</a></li>
-<li><a href="/comments/20210125/1474379.md" target="_blank">惊！不止变种令疫苗失效！全球最权威期刊揭新冠病毒难防之处</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
