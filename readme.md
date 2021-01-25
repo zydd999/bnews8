@@ -21,12 +21,12 @@
 <li><a href="/comments/20210125/1474412.md">葬礼礼炮？拜登不被军方承认实锤证据浮出水面？</a></li>
 <li><a href="/bannedvideo/20210125/1474452.md">拜登不被军方承认证据确凿  拜登1月20号就职典礼未获得军方21响4门礼炮3秒发礼炮待遇  而得到的是10响2门炮10秒发的葬礼规格  标志着拜登代表的美国公司寿终正寝  拜登是不被军方承认的假总统！</a></li>
 <li><a href="/health/20210125/1474346.md">母女每天喝粥养生，却相继确诊癌症，专家：粥里怎能放这3种食材</a></li>
-<li><a href="/cbnews/20210125/1474372.md">胡锦涛探视军医 泄露 “天安门自焚”真相</a></li>
 <li><a href="/comments/20210125/1474449.md">白宫灯光熄灭？停电是爱国者控制局面的信号</a></li>
-<li><a href="/bannedvideo/20210125/1474187.md">不要悲伤 川普总统已经开启了奇妙的旅程 运动已经开始  正义必胜</a></li>
+<li><a href="/cbnews/20210125/1474372.md">胡锦涛探视军医 泄露 “天安门自焚”真相</a></li>
+<li><a href="/ssgc/20210125/1474701.md">中共内斗升级的强烈信号</a></li>
 <li><a href="/topimagenews/20210125/1474206.md">湖南养老机构爆雷！逾2千长者受骗 有人为此跳河身亡</a></li>
-<li><a href="/bannedvideo/20210125/1474384.md">💥拜登遭“倒戈”！曾经支持者被试刀，不忍了；7千美军留守DC到3月；中共党媒喊有人造反！武汉市长周先旺“辞职”，吉林通化封城快断粮；拜登洗牌“美国之音”，并令释放有罪非法移民 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20210125/1474440.md">恐慌 江苏镇江突爆疫情 6辆大巴到小区拉人</a></li>
+<li><a href="/bannedvideo/20210125/1474384.md">💥拜登遭“倒戈”！曾经支持者被试刀，不忍了；7千美军留守DC到3月；中共党媒喊有人造反！武汉市长周先旺“辞职”，吉林通化封城快断粮；拜登洗牌“美国之音”，并令释放有罪非法移民 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20210125/1474498.md">天津女监包夹：杜大队当班可以随便打</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210126/1474813.md" target="_blank">参议员莱希主持弹劾川普会议 高院大法官不出席</a></li>
+<li><a href="/comments/20210126/1474812.md" target="_blank">川普降低药价行政令刚实施 就遭拜登冻结</a></li>
+<li><a href="/comments/20210126/1474811.md" target="_blank">拜登拟签《美国制造法》支持本土企业</a></li>
+<li><a href="/comments/20210126/1474801.md" target="_blank">【欧洲生活】：农场主人杰伊不忍宰杀乳牛 转型生产燕麦奶</a></li>
 <li><a href="/comments/20210126/1474799.md" target="_blank">白宫发言人：拜登政府促国会通过纾困案</a></li>
 <li><a href="/comments/20210126/1474798.md" target="_blank">李军: “天安门自焚”骗局把中国推向了灾难</a></li>
 <li><a href="/comments/20210126/1474793.md" target="_blank">传三星电子拟投资170亿美元在美国建芯片厂</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210126/1474732.md" target="_blank">美最高法院驳回两起对川普薪酬诉讼</a></li>
 <li><a href="/comments/20210126/1474731.md" target="_blank">最新新冠病毒个人防护要点</a></li>
 <li><a href="/comments/20210126/1474730.md" target="_blank">给脾虚的人，一个简单实用的“健脾胃法”</a></li>
-<li><a href="/comments/20210126/1474729.md" target="_blank">戴帽子，是冬季保暖的“头等大事”</a></li>
-<li><a href="/comments/20210126/1474712.md" target="_blank">美原住民部落：拜登石油政策攻击其经济和主权</a></li>
-<li><a href="/comments/20210126/1474711.md" target="_blank">报道封锁区宾馆缺罐头刀 遭建制围攻斥误导 港台：乃事实陈述、谴责抹黑指控</a></li>
-<li><a href="/comments/20210126/1474710.md" target="_blank">波罗的海国家首见女总理！爱沙尼亚女总统将任命女总理</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
