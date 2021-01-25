@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210124/1473947.md">武汉市长为何一年后才下台？专家解析背后原因</a></li>
 <li><a href="/cnnews/20210124/1473982.md">上海土著家庭穷的到底有多穷？</a></li>
 <li><a href="/cbnews/20210124/1474034.md">陈破空：党内不服，习近平决意大清洗！此会推迟三个月。干掉赖小民，自有后来人</a></li>
 <li><a href="/topimagenews/20210125/1474157.md">IBM中国研究院传已关闭 引科技圈轰动</a></li>
-<li><a href="/comments/20210125/1474164.md">伊朗宣布全球追杀川普！佩洛西快速推进弹劾议程…身价大跌的川建国背负十亿债务该何去何从？</a></li>
 <li><a href="/comments/20210125/1474166.md">马云第二？任正非公开与习近平唱反调：华为仅是小学生</a></li>
+<li><a href="/comments/20210125/1474164.md">伊朗宣布全球追杀川普！佩洛西快速推进弹劾议程…身价大跌的川建国背负十亿债务该何去何从？</a></li>
 <li><a href="/cnnews/20210124/1474055.md">真让人惊喜！拜登宣誓就职不出三天密歇根州长就允许餐厅重新营业【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210124/1474045.md">RINO共和党参议员丽莎·默科夫斯基 没有投票给川普【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210125/1474271.md">林伍德：军方控制华盛顿 非法政府叛国证据近闭合</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/comments/20210125/1474263.md">满眼都是敌人 习近平释不寻常信号</a></li>
 <li><a href="/cnnews/20210124/1474008.md">侮辱——曾支持拜登竞选 众工会悔不该当初 正大肆抨击……【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210125/1474180.md">上海疫情蔓延？网曝普陀中心医院发现确诊病例</a></li>
-<li><a href="/cbnews/20210124/1474047.md">非凡旅程将从海湖庄园启动。川普回佛州首次发声，尽说了三句话。五名白宫“火枪手”，随川普到棕榈滩，最低年龄25岁。疑似伊朗最高领袖发推恐吓川普。弹劾案或成川普舞台。</a></li>
 <li><a href="/topimagenews/20210125/1474385.md">品尝苦果！新墨西哥州投票给拜登 现在傻眼了 【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210124/1474047.md">非凡旅程将从海湖庄园启动。川普回佛州首次发声，尽说了三句话。五名白宫“火枪手”，随川普到棕榈滩，最低年龄25岁。疑似伊朗最高领袖发推恐吓川普。弹劾案或成川普舞台。</a></li>
 <li><a href="/worldnews/20210125/1474122.md">绝望惨叫响彻公园7分钟！英国女大生离奇失踪…竟沦浮尸</a></li>
 <li><a href="/bannedvideo/20210125/1474187.md">不要悲伤 川普总统已经开启了奇妙的旅程 运动已经开始  正义必胜</a></li>
-<li><a href="/cnnews/20210124/1474021.md">“共和党人高姿态”–众议院共和党领袖麦卡锡不同意格林议员弹劾拜登【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210125/1474417.md">麦克风失声：拜登喃喃自语一句话 引发哗然 【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210124/1474021.md">“共和党人高姿态”–众议院共和党领袖麦卡锡不同意格林议员弹劾拜登【阿波罗网编译】</a></li>
 <li><a href="/comments/20210124/1473976.md">郑中原：习近平借上海红楼撑亲信收拾大老虎</a></li>
+<li><a href="/health/20210125/1474346.md">母女每天喝粥养生，却相继确诊癌症，专家：粥里怎能放这3种食材</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210125/1474514.md" target="_blank">胡锡进吁「就地过年」引爆民怨 网民怒批：思想有多远你就给我滚多远</a></li>
+<li><a href="/cbnews/20210125/1474513.md" target="_blank">学术圈地震 江苏河海大学125博士生被退学</a></li>
 <li><a href="/cbnews/20210125/1474498.md" target="_blank">天津女监包夹：杜大队当班可以随便打</a></li>
 <li><a href="/cbnews/20210125/1474497.md" target="_blank">B站最惨UP主饿死家中 网友泪奔</a></li>
 <li><a href="/cbnews/20210125/1474483.md" target="_blank">电梯强吻感染新冠病毒？事实是这样的</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210125/1474180.md" target="_blank">上海疫情蔓延？网曝普陀中心医院发现确诊病例</a></li>
 <li><a href="/cbnews/20210125/1474174.md" target="_blank">陈破空：直播预告：共军最大规模袭扰台湾，习近平给谁的下马威？美国新任防长认清谁是最大威胁。陈破空与网友互动Q&amp;A 美东时间1月24日周日晚7点、即中港台时间1月25日周一早8点</a></li>
 <li><a href="/cbnews/20210125/1474158.md" target="_blank">北京政经中枢的西城区 出现一确诊治癒后复阳病例</a></li>
-<li><a href="/cbnews/20210125/1474143.md" target="_blank">中共自我粉饰 分析：没人相信北京官方数据</a></li>
-<li><a href="/cbnews/20210125/1474142.md" target="_blank">北京大兴再增11封闭社区 融汇区集中隔离</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/fanqiang/20200616/1345793.md" target="_blank">翻墙看新闻会被抓吗？</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
