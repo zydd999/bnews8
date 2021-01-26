@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210125/1474531.md">中印边境再爆冲突！共军至少廿人受伤 边境「长」出「中国村」</a></li>
 <li><a href="/topimagenews/20210125/1474417.md">麦克风失声：拜登喃喃自语一句话 引发哗然 【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210125/1474531.md">中印边境再爆冲突！共军至少廿人受伤 边境「长」出「中国村」</a></li>
 <li><a href="/bannedvideo/20210125/1474450.md">网友爆料：拜老爷的就职文件无效！川老爷子老厉害了！把观众逗的不要不要的！</a></li>
 <li><a href="/cnnews/20210125/1474554.md">发生了什么？中美航线上又有750个集装箱坠海</a></li>
 <li><a href="/topimagenews/20210125/1474385.md">品尝苦果！新墨西哥州投票给拜登 现在傻眼了 【阿波罗网编译】</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/bannedvideo/20210126/1474766.md">美国司法部监察长办公室宣布启动2020大选调查</a></li>
 <li><a href="/bannedvideo/20210125/1474452.md">拜登不被军方承认证据确凿  拜登1月20号就职典礼未获得军方21响4门礼炮3秒发礼炮待遇  而得到的是10响2门炮10秒发的葬礼规格  标志着拜登代表的美国公司寿终正寝  拜登是不被军方承认的假总统！</a></li>
 <li><a href="/comments/20210125/1474449.md">白宫灯光熄灭？停电是爱国者控制局面的信号</a></li>
-<li><a href="/cbnews/20210125/1474372.md">胡锦涛探视军医 泄露 “天安门自焚”真相</a></li>
 <li><a href="/headline/20210126/1474761.md">昆明持刀男挟持人质遭轰毙 最后呼喊听后好心酸</a></li>
 <li><a href="/topimagenews/20210126/1474777.md">支持弹劾川普后 共和党众议员钱尼遭同僚清算</a></li>
 <li><a href="/comments/20210126/1474709.md">泪奔！ 23岁中国直播主饿死出租屋 舆论沸腾</a></li>
 <li><a href="/topimagenews/20210125/1474604.md">空气凝结！入主白宫，拜登尴尬等，没人开门；专家：美国正在去民主化，变成一派专政</a></li>
 <li><a href="/cbnews/20210125/1474498.md">天津女监包夹：杜大队当班可以随便打</a></li>
 <li><a href="/cnnews/20210125/1474440.md">恐慌 江苏镇江突爆疫情 6辆大巴到小区拉人</a></li>
+<li><a href="/cbnews/20210126/1474814.md">网曝通化摆拍：2人送米 8人照相</a></li>
 <li><a href="/bannedvideo/20210125/1474384.md">💥拜登遭“倒戈”！曾经支持者被试刀，不忍了；7千美军留守DC到3月；中共党媒喊有人造反！武汉市长周先旺“辞职”，吉林通化封城快断粮；拜登洗牌“美国之音”，并令释放有罪非法移民 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20210125/1474514.md">胡锡进吁「就地过年」引爆民怨 网民怒批：思想有多远你就给我滚多远</a></li>
-<li><a href="/cbnews/20210126/1474814.md">网曝通化摆拍：2人送米 8人照相</a></li>
 <li><a href="/cbnews/20210125/1474483.md">电梯强吻感染新冠病毒？事实是这样的</a></li>
+<li><a href="/funmedia/20210126/1474845.md">中国夫妻生出“混血娃”，宝爸偷偷鉴定无果，岳母含泪说出实情</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210126/1475031.md" target="_blank">拜登执政策略！只强调“一致性”；受生命威胁 报导“安提法”记者逃离美国；新提名交通部长：有可能上调汽油税；拜登欲在中美洲大撒比40亿；朝鲜驻科威特代理大使 投诚韩国【希望之声TV】</a></li>
 <li><a href="/cbnews/20210126/1475022.md" target="_blank">江苏陷疫情恐慌 官方宣传&#8221;境外输入&#8221;惹众怒</a></li>
 <li><a href="/cbnews/20210126/1475007.md" target="_blank">涉周永康案 辽宁省政协副主席李文喜被查</a></li>
 <li><a href="/cbnews/20210126/1474944.md" target="_blank">拜登行政令引多方反弹；习近平达沃斯“训话”拜登？ 中共在台海出手试探，台湾该紧张吗？</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210125/1474575.md" target="_blank">大连金渤海憬小区突发爆炸火情，8伤3失联</a></li>
 <li><a href="/cbnews/20210125/1474558.md" target="_blank">中共司法官员公开叫嚣 上访者无论老幼病孕 往死里打</a></li>
 <li><a href="/cbnews/20210125/1474557.md" target="_blank">大陆四川施火柴打火机实名制 称预防火灾</a></li>
-<li><a href="/cbnews/20210125/1474531.md" target="_blank">中印边境再爆冲突！共军至少廿人受伤 边境「长」出「中国村」</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210126/1475041.md" target="_blank">拜登的说与做大不同 令他的一项民调很难看【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20210126/1474962.md" target="_blank">一夜空袭18轮，以色列彻底打爆伊朗海外最大基地群</a></li>
 <li><a href="/topimagenews/20210126/1474941.md" target="_blank">成事不足败事有余！川普这项大利民政策 拜登几天就给停了</a></li>
 <li><a href="/topimagenews/20210126/1474826.md" target="_blank">都完全执政了还卡关? 拜登经济纾困计划频受阻</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/comments/20210123/1473321.md" target="_blank">白宫视频出现诡异声音！亨特拜登认罪？拜登登基仪式是提前拍的！机密录音流出，川普掌控局势</a></li>
 <li><a href="/topimagenews/20210123/1473296.md" target="_blank">快讯！白宫网站出现惊人一幕 拜登名列往届总统</a></li>
 <li><a href="/topimagenews/20210123/1473271.md" target="_blank">拜登上台了 华府市长急于建州：简直没有人替我们说话【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210123/1473228.md" target="_blank">拜登就职典礼后遗症 超150名国民兵确诊染疫</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210126/1475033.md" target="_blank">前美国大使：川普有打算再次竞选总统</a></li>
+<li><a href="/comments/20210126/1475032.md" target="_blank">“五雷轰顶”是天谴吗 雷神有眼击恶人</a></li>
 <li><a href="/comments/20210126/1475026.md" target="_blank">吴祚来：当平台霸凌美国总统</a></li>
 <li><a href="/comments/20210126/1475019.md" target="_blank">印度宣布永久禁止TikTok、微信等59款中国APP</a></li>
 <li><a href="/comments/20210126/1475000.md" target="_blank">美众议院正式提交弹劾川普提案至参院</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210126/1474823.md" target="_blank">拜登签署行政令 允许变性人参军</a></li>
 <li><a href="/comments/20210126/1474822.md" target="_blank">老蛮：中国四千亿美元外汇去向不明</a></li>
 <li><a href="/comments/20210126/1474821.md" target="_blank">武汉封城周年 大陆男星发文钓出噤声内幕</a></li>
-<li><a href="/comments/20210126/1474813.md" target="_blank">参议员莱希主持弹劾川普会议 高院大法官不出席</a></li>
-<li><a href="/comments/20210126/1474812.md" target="_blank">川普降低药价行政令刚实施 就遭拜登冻结</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/lifebaike/20190522/1131765.md" target="_blank">黄继光不是人 他是党莱坞版钢铁侠</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
