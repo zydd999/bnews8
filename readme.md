@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/funmedia/20210126/1474845.md">中国夫妻生出“混血娃”，宝爸偷偷鉴定无果，岳母含泪说出实情</a></li>
 <li><a href="/cbnews/20210126/1474911.md">独家爆料：2021年首虎李文喜做过李克强的暴力打手</a></li>
-<li><a href="/funmedia/20210126/1474847.md">同事向我借九千一年没还，他结婚我随礼800，收到短信以为看错了</a></li>
 <li><a href="/topimagenews/20210126/1474962.md">一夜空袭18轮，以色列彻底打爆伊朗海外最大基地群</a></li>
 <li><a href="/health/20210126/1474989.md">脑梗“源头”被发现，肥肉排倒数，第一名几乎天天吃</a></li>
 <li><a href="/ccpdope/20210126/1474958.md">神出没出手？！一个应该震惊世界的消息</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/bannedvideo/20210126/1475063.md">班农：闫丽梦博士所说的一切都已经被证明是正确的。闫博士第一个说这是生物武器，现在美国情报部门已经证实（1/25）</a></li>
 <li><a href="/cbnews/20210126/1475334.md">陈破空：最新战况：共军大败！习近平刚宣布加薪。接班人偷看红楼艳事。美英组成联合舰队</a></li>
 <li><a href="/ssgc/20210126/1475067.md">川普真启动了军管吗？来分析一下</a></li>
-<li><a href="/topimagenews/20210126/1475217.md">白宫椭圆办公室 惊现英国诺福克前皇家空军基地 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210126/1475306.md">川普出马成立官方平台 多次表示再选总统 即使电报强制关注白宫账号 用户群起吐槽</a></li>
+<li><a href="/topimagenews/20210126/1475217.md">白宫椭圆办公室 惊现英国诺福克前皇家空军基地 【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210126/1475022.md">江苏陷疫情恐慌 官方宣传"境外输入"惹众怒</a></li>
-<li><a href="/lifebaike/20210126/1474854.md">茄子的“死对头”，两者不能同食，吃了就是没病找病</a></li>
 <li><a href="/headline/20210126/1475216.md">触动习敏感神经？神秘泰山会遭解散 </a></li>
-<li><a href="/cbnews/20210126/1474862.md">文昭：习近平两线发力，台湾的时间只剩一年多？某大咖早料到拜登的未来；台湾生路在何方?</a></li>
-<li><a href="/funmedia/20210126/1474844.md">吃烤肉时，服务员问要不要换纸，其实是一种暗示，不懂就尴尬了</a></li>
 <li><a href="/bannedvideo/20210126/1475111.md">台湾或者跪下投降，或者被中共打烂，中共是铁了心要拿下台湾，这届美国政府因被中共收买而不会帮台湾</a></li>
+<li><a href="/comments/20210127/1475485.md">赵本山年轻貌美的学徒曹嘉瑞刚成年就被赵本山盯上 后因拒陪喝酒遭雪藏 现在乡下谋生活！陆媒罕见曝光赵本山丑闻……中南海不可告人的秘密_308</a></li>
+<li><a href="/cbnews/20210126/1475146.md">重庆一女子5天吃3公斤樱桃 血便昏迷</a></li>
+<li><a href="/cbnews/20210126/1475080.md">疫情再升级 上海2小区居民被清空隔离</a></li>
+<li><a href="/bannedvideo/20210126/1475039.md">华盛顿特区被老川扣押了！白宫熄灯，方尖碑都不亮了！老拜还能续命几天？美国破产最详尽解读！</a></li>
+<li><a href="/cbnews/20210126/1474907.md">🔥🔥来自天上的预言比阿南德还神准❓ “冻雨”预言准确应验❗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210127/1475591.md" target="_blank">德媒首席评论员：华为赞助基民盟党代会释放致命信号</a></li>
+<li><a href="/comments/20210127/1475571.md" target="_blank">拼东山再起 川普成立“前总统办公室”</a></li>
+<li><a href="/comments/20210127/1475569.md" target="_blank">布林肯被确认为美国务卿 背景不一般！对华政策受关注</a></li>
 <li><a href="/comments/20210127/1475568.md" target="_blank">霍利：“取消文化”源自中共 左派用它监控美国人</a></li>
 <li><a href="/comments/20210127/1475552.md" target="_blank">美前情报总监：对中共绥靖是死路不通</a></li>
 <li><a href="/comments/20210127/1475548.md" target="_blank">全球确诊人数破亿 英病故人数破10万 首相：我负全责</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210127/1475496.md" target="_blank">中国股市蒸发1.4万亿 军工板块暴跌7%</a></li>
 <li><a href="/comments/20210127/1475485.md" target="_blank">赵本山年轻貌美的学徒曹嘉瑞刚成年就被赵本山盯上 后因拒陪喝酒遭雪藏 现在乡下谋生活！陆媒罕见曝光赵本山丑闻……中南海不可告人的秘密_308</a></li>
 <li><a href="/comments/20210127/1475484.md" target="_blank">拜登：参院一定会弹劾川普 但可能会失败</a></li>
-<li><a href="/comments/20210127/1475474.md" target="_blank">孙政才提拔的“警虎”马明在内蒙古公安系统内公然挑起“东西部对立” 内蒙古前公安厅长赵黎平亲手杀人用的手枪是副厅长孟建伟赠送的……中南海不可告人的秘密_307</a></li>
-<li><a href="/comments/20210127/1475473.md" target="_blank">大瘟疫是改朝换代的前奏：抛弃中共！人类才会远离瘟疫</a></li>
-<li><a href="/comments/20210127/1475472.md" target="_blank">德州成立爱国党 川普团队否认与之有关</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
