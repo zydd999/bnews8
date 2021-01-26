@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/ssgc/20210125/1474701.md">中共内斗升级的强烈信号</a></li>
 <li><a href="/headline/20210126/1474761.md">昆明持刀男挟持人质遭轰毙 最后呼喊听后好心酸</a></li>
-<li><a href="/bannedvideo/20210126/1474766.md">美国司法部监察长办公室宣布启动2020大选调查</a></li>
 <li><a href="/funmedia/20210126/1474845.md">中国夫妻生出“混血娃”，宝爸偷偷鉴定无果，岳母含泪说出实情</a></li>
+<li><a href="/bannedvideo/20210126/1474766.md">美国司法部监察长办公室宣布启动2020大选调查</a></li>
 <li><a href="/funmedia/20210126/1474847.md">同事向我借九千一年没还，他结婚我随礼800，收到短信以为看错了</a></li>
 <li><a href="/topimagenews/20210126/1474962.md">一夜空袭18轮，以色列彻底打爆伊朗海外最大基地群</a></li>
 <li><a href="/cbnews/20210126/1474911.md">独家爆料：2021年首虎李文喜做过李克强的暴力打手</a></li>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210126/1475310.md" target="_blank">“昆明恶霸”孙小果逃脱死刑 涉秦光荣秘书</a></li>
+<li><a href="/cbnews/20210126/1475309.md" target="_blank">中共军机再次进犯台湾防空识别区</a></li>
+<li><a href="/cbnews/20210126/1475308.md" target="_blank">中国到处是病毒！从车厘子到啤酒 北京垃圾车也曝“可疑”</a></li>
+<li><a href="/cbnews/20210126/1475307.md" target="_blank">疑采访栖霞矿难遇阻 女记者受伤</a></li>
 <li><a href="/cbnews/20210126/1475268.md" target="_blank">川普一个落款，透露不承认拜登政府。川普对士兵一句话，催人泪下。弹劾审讯主持人确定。川普前总统办公室成立。官网显示爱国者党已经注册，意在阻止第二次弹劾案。</a></li>
 <li><a href="/cbnews/20210126/1475266.md" target="_blank">🈲毛三胖预言习末日❗❗</a></li>
 <li><a href="/cbnews/20210126/1475222.md" target="_blank">一个月内第三起 大陆19岁网红主播病逝</a></li>
@@ -57,16 +61,14 @@
 <li><a href="/cbnews/20210126/1474907.md" target="_blank">🔥🔥来自天上的预言比阿南德还神准❓ “冻雨”预言准确应验❗</a></li>
 <li><a href="/cbnews/20210126/1474895.md" target="_blank">台海局势紧张，习近平敢动武吗？ 嘉宾：袁弓夷 吴建民 林晓旭 主持：高洁【希望之声TV】(2021/01/25)</a></li>
 <li><a href="/cbnews/20210126/1474867.md" target="_blank">女议员：危险提案将近一半国家作为目标；议员警告拜登：勿用疫情推大政府接管经济；前川普发言人将竞选阿肯色州长；外交突破：以色列在阿联酋开设大使馆；核酸检测新规 1200亿元开启【希望之声TV】</a></li>
-<li><a href="/cbnews/20210126/1474862.md" target="_blank">文昭：习近平两线发力，台湾的时间只剩一年多？某大咖早料到拜登的未来；台湾生路在何方?</a></li>
-<li><a href="/cbnews/20210126/1474842.md" target="_blank">一线采访：北京男子怒述集中隔离过程</a></li>
-<li><a href="/cbnews/20210126/1474831.md" target="_blank">陈破空：直播预告：共和党争议弹劾。特朗普不组党，有意再次参选。拜登政府与盟国通话，探讨如何对付中共。陈破空与网友互动Q&amp;A 美东时间1月25日周一晚7点、即中港台时间1月26日周二早8点</a></li>
-<li><a href="/cbnews/20210126/1474827.md" target="_blank">阻止人民进出 北京在中越、中缅边界筑牆架铁丝网</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210126/1475306.md" target="_blank">川普出马成立官方平台 多次表示再选总统 即使电报强制关注白宫账号 用户群起吐槽</a></li>
+<li><a href="/topimagenews/20210126/1475304.md" target="_blank">民主党温和派反对取消冗长辩论 参议院民主党未能拿到投票“核选项”【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210126/1475217.md" target="_blank">白宫椭圆办公室 惊现英国诺福克前皇家空军基地 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210126/1475126.md" target="_blank">太阳风雇用贺锦丽老公的前律师事务所来作为说客【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20210126/1475041.md" target="_blank">拜登的说与做大不同 令他的一项民调很难看【阿波罗网编译 】</a></li>
@@ -90,8 +92,6 @@
 <li><a href="/topimagenews/20210124/1473841.md" target="_blank">移民局官员收到命令释放所有在押非法移民【阿波罗网编译】</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/topimagenews/20210123/1473442.md" target="_blank">白宫拜登演讲视频突现诡异男声提及“认罪协议” 德州第一炮起诉拜登政府</a></li>
-<li><a href="/topimagenews/20210123/1473439.md" target="_blank">轮椅上的共和党众议员送披萨到停车库慰问士兵 主流媒体集体无视【阿波罗网编译】</a></li>
-<li><a href="/comments/20210123/1473321.md" target="_blank">白宫视频出现诡异声音！亨特拜登认罪？拜登登基仪式是提前拍的！机密录音流出，川普掌控局势</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
