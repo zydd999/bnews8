@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210125/1474450.md">网友爆料：拜老爷的就职文件无效！川老爷子老厉害了！把观众逗的不要不要的！</a></li>
 <li><a href="/cbnews/20210125/1474531.md">中印边境再爆冲突！共军至少廿人受伤 边境「长」出「中国村」</a></li>
 <li><a href="/cnnews/20210125/1474554.md">发生了什么？中美航线上又有750个集装箱坠海</a></li>
 <li><a href="/headline/20210125/1474573.md">川普为避开两件大事 拱手让拜登登基？</a></li>
 <li><a href="/ssgc/20210125/1474701.md">中共内斗升级的强烈信号</a></li>
 <li><a href="/cbnews/20210125/1474599.md">陈破空：动手了！习近平硬把武汉市长赶下台！打倒山西省委书记。丝袜大使成网红！俄罗斯全国抗议</a></li>
-<li><a href="/bannedvideo/20210125/1474452.md">拜登不被军方承认证据确凿  拜登1月20号就职典礼未获得军方21响4门礼炮3秒发礼炮待遇  而得到的是10响2门炮10秒发的葬礼规格  标志着拜登代表的美国公司寿终正寝  拜登是不被军方承认的假总统！</a></li>
 <li><a href="/funmedia/20210126/1474845.md">中国夫妻生出“混血娃”，宝爸偷偷鉴定无果，岳母含泪说出实情</a></li>
 <li><a href="/bannedvideo/20210126/1474766.md">美国司法部监察长办公室宣布启动2020大选调查</a></li>
 <li><a href="/funmedia/20210126/1474847.md">同事向我借九千一年没还，他结婚我随礼800，收到短信以为看错了</a></li>
 <li><a href="/headline/20210126/1474761.md">昆明持刀男挟持人质遭轰毙 最后呼喊听后好心酸</a></li>
-<li><a href="/comments/20210125/1474449.md">白宫灯光熄灭？停电是爱国者控制局面的信号</a></li>
 <li><a href="/cbnews/20210126/1474911.md">独家爆料：2021年首虎李文喜做过李克强的暴力打手</a></li>
 <li><a href="/cbnews/20210126/1474814.md">网曝通化摆拍：2人送米 8人照相</a></li>
 <li><a href="/bannedvideo/20210126/1474830.md">选拜登的人后悔了！拜登用不到一周时间证明，川普是一个伟大的总统；习近平得意忘形，只恐最后只恐竹篮打水一场空！</a></li>
 <li><a href="/topimagenews/20210126/1474777.md">支持弹劾川普后 共和党众议员钱尼遭同僚清算</a></li>
-<li><a href="/comments/20210126/1474709.md">泪奔！ 23岁中国直播主饿死出租屋 舆论沸腾</a></li>
 <li><a href="/topimagenews/20210126/1474962.md">一夜空袭18轮，以色列彻底打爆伊朗海外最大基地群</a></li>
+<li><a href="/comments/20210126/1474709.md">泪奔！ 23岁中国直播主饿死出租屋 舆论沸腾</a></li>
 <li><a href="/topimagenews/20210125/1474604.md">空气凝结！入主白宫，拜登尴尬等，没人开门；专家：美国正在去民主化，变成一派专政</a></li>
 <li><a href="/cbnews/20210125/1474498.md">天津女监包夹：杜大队当班可以随便打</a></li>
 <li><a href="/cbnews/20210125/1474514.md">胡锡进吁「就地过年」引爆民怨 网民怒批：思想有多远你就给我滚多远</a></li>
 <li><a href="/comments/20210126/1474771.md">新航班机在瑞士降落 乘客拍到UFO 差点与飞机相撞</a></li>
 <li><a href="/cbnews/20210125/1474483.md">电梯强吻感染新冠病毒？事实是这样的</a></li>
+<li><a href="/topimagenews/20210126/1474794.md">为了子女前途！驻科威特代理大使投奔南韩</a></li>
+<li><a href="/cnnews/20210126/1474808.md">通化封户缺粮断菜 居民无法忍受跳楼自杀</a></li>
+<li><a href="/headline/20210125/1474528.md">弹劾川普 一招KO</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210126/1475126.md" target="_blank">太阳风雇用贺锦丽老公的前律师事务所来作为说客【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20210126/1475041.md" target="_blank">拜登的说与做大不同 令他的一项民调很难看【阿波罗网编译 】</a></li>
 <li><a href="/topimagenews/20210126/1474962.md" target="_blank">一夜空袭18轮，以色列彻底打爆伊朗海外最大基地群</a></li>
 <li><a href="/topimagenews/20210126/1474941.md" target="_blank">成事不足败事有余！川普这项大利民政策 拜登几天就给停了</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210123/1473439.md" target="_blank">轮椅上的共和党众议员送披萨到停车库慰问士兵 主流媒体集体无视【阿波罗网编译】</a></li>
 <li><a href="/comments/20210123/1473321.md" target="_blank">白宫视频出现诡异声音！亨特拜登认罪？拜登登基仪式是提前拍的！机密录音流出，川普掌控局势</a></li>
 <li><a href="/topimagenews/20210123/1473296.md" target="_blank">快讯！白宫网站出现惊人一幕 拜登名列往届总统</a></li>
-<li><a href="/topimagenews/20210123/1473271.md" target="_blank">拜登上台了 华府市长急于建州：简直没有人替我们说话【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/lifebaike/20200527/1334909.md" target="_blank">成人不宜的“黄继光堵枪眼”(一)</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 
 </ul>
 </div>
