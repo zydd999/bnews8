@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210127/1475539.md">习近平女儿及姐夫个人信息外泄 习明泽的照片被人传到海外网站 公安部和国安部成立专案 24网民集体获刑20岁青年重判14年 中南海不可告人的秘密_309</a></li>
-<li><a href="/comments/20210127/1475485.md">赵本山年轻貌美的学徒曹嘉瑞刚成年就被赵本山盯上 后因拒陪喝酒遭雪藏 现在乡下谋生活！陆媒罕见曝光赵本山丑闻……中南海不可告人的秘密_308</a></li>
 <li><a href="/cbnews/20210127/1475915.md">王岐山缺席重要会议 习近平讲话信号异常</a></li>
 <li><a href="/cnnews/20210127/1475589.md">终于明白周恩来为何不肯留下骨灰</a></li>
 <li><a href="/cnnews/20210127/1475516.md">大好消息 民主党没拿到“核选项” 霍利参议员发起反击 川普支持她竞选</a></li>
 <li><a href="/cbnews/20210127/1475703.md">重庆百架无人机表演时失控 集体撞楼</a></li>
-<li><a href="/cbnews/20210127/1475529.md">上班象逃难 每天清晨步行进京者浩浩荡荡</a></li>
 <li><a href="/bannedvideo/20210127/1475602.md">惊爆：美国国家已经破产！佛州破产法院文件爆出惊人内幕！1933年罗斯福把美国抵押给了欧洲银行家！美国将如何破产重组？【新闻最嘲点 姜光宇】Mr.FunnyNews (2021.01.26）‬</a></li>
-<li><a href="/topimagenews/20210127/1475753.md">说独立真独立！投票决定脱离美国 德州议员提出议案【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210127/1475529.md">上班象逃难 每天清晨步行进京者浩浩荡荡</a></li>
 <li><a href="/comments/20210127/1475767.md">中共上将孙女 内蒙主席布小林讲话中突倒地不起！直播画面迅速切换</a></li>
-<li><a href="/cbnews/20210127/1475913.md">知名主持人李静近况曝光 哭诉挣钱难哽咽不止</a></li>
+<li><a href="/topimagenews/20210127/1475753.md">说独立真独立！投票决定脱离美国 德州议员提出议案【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210127/1475903.md">警长：刘海波全身被扒得一丝不挂 有两个刑警拿着高压电棍使劲往肛门里电</a></li>
-<li><a href="/cbnews/20210127/1475810.md">川普总统启用了一个神秘的封印</a></li>
+<li><a href="/cbnews/20210127/1475913.md">知名主持人李静近况曝光 哭诉挣钱难哽咽不止</a></li>
 <li><a href="/cbnews/20210127/1476036.md">陈破空：习近平效法江泽民，包围架空某常委！姿色女官上位。土共抱怨印媒泄露军机</a></li>
+<li><a href="/cbnews/20210127/1475810.md">川普总统启用了一个神秘的封印</a></li>
 <li><a href="/topimagenews/20210127/1475505.md">又有异象！美银警告上一次发生类似情况 互联网泡沫开始爆破</a></li>
 <li><a href="/cbnews/20210127/1475765.md">杭州姑娘发征婚帖，私信炸了！网友：在选套餐？</a></li>
 <li><a href="/topimagenews/20210127/1476048.md">拜登女儿日记完整版：童年性创伤、毒品滥用以及对乔拜登的不满【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210127/1475824.md">37万股民惊呆！300亿巨头被"剔除"苹果供应链？</a></li>
 <li><a href="/bannedvideo/20210127/1476001.md">印度神童1月23日最新预言,辛丑中国新年正撞六星连珠,人间将会对应哪些灾难,病毒的终点,复苏时间点和未来解决办法｜预言警示｜探索与洞见</a></li>
+<li><a href="/cnnews/20210127/1475824.md">37万股民惊呆！300亿巨头被"剔除"苹果供应链？</a></li>
 <li><a href="/topimagenews/20210127/1475648.md">当头一棒！美联邦法官叫停拜登「100天不遣返」行政令 德州检察长：叫停左翼叛乱</a></li>
-<li><a href="/cbnews/20210127/1475704.md">“中共官员也随地倒”？ 内蒙两会 政府主席做报告时突然晕倒</a></li>
 <li><a href="/health/20210127/1475737.md">男性衰老“加速器”已找到，烟酒不在其中，看到榜首，趁早改正</a></li>
+<li><a href="/cbnews/20210127/1475704.md">“中共官员也随地倒”？ 内蒙两会 政府主席做报告时突然晕倒</a></li>
 <li><a href="/comments/20210127/1475891.md">默克尔在达沃斯议程视讯会：疫情爆发始于中国</a></li>
+<li><a href="/topimagenews/20210127/1475681.md">前美国海豹突击队员参加国会示威 深信川普胜选结果遭偷窃 警告美国濒临爆发内战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210128/1476229.md" target="_blank">前美驻UN大使吁拜登：勿重回人权理事会</a></li>
+<li><a href="/comments/20210128/1476228.md" target="_blank">苹果正加快将产能移出中国</a></li>
 <li><a href="/comments/20210128/1476221.md" target="_blank">拜登禁止政府使用“中国病毒”与“武汉病毒”字眼</a></li>
 <li><a href="/comments/20210128/1476220.md" target="_blank">受死亡威胁 揭露安提法的美记者避难英国</a></li>
 <li><a href="/comments/20210128/1476204.md" target="_blank">永久取消GDP目标？分析：中共地方政府或成“无头苍蝇”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210127/1476087.md" target="_blank">克鲁兹：弹劾川普源自“恨” 是在制造分裂</a></li>
 <li><a href="/comments/20210127/1476071.md" target="_blank">二十大倒计时 省级官员加速换血 这两人“格外重要”有望晋升政治局</a></li>
 <li><a href="/comments/20210127/1476068.md" target="_blank">再有高层跳船？ 传副法律政策专员李秀江请辞 律政司：不评论</a></li>
-<li><a href="/comments/20210127/1476067.md" target="_blank">我们喜欢新清史，也要理解民族性</a></li>
-<li><a href="/comments/20210127/1476056.md" target="_blank">全球车用晶片奇缺 台积电等大厂联手助力汽车业</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 
 </ul>
 </div>
