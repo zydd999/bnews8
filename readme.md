@@ -6,17 +6,17 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210127/1475915.md">王岐山缺席重要会议 习近平讲话信号异常</a></li>
-<li><a href="/cbnews/20210127/1475703.md">重庆百架无人机表演时失控 集体撞楼</a></li>
 <li><a href="/comments/20210127/1475767.md">中共上将孙女 内蒙主席布小林讲话中突倒地不起！直播画面迅速切换</a></li>
+<li><a href="/cbnews/20210127/1475703.md">重庆百架无人机表演时失控 集体撞楼</a></li>
 <li><a href="/cbnews/20210127/1475903.md">警长：刘海波全身被扒得一丝不挂 有两个刑警拿着高压电棍使劲往肛门里电</a></li>
 <li><a href="/cbnews/20210127/1475913.md">知名主持人李静近况曝光 哭诉挣钱难哽咽不止</a></li>
 <li><a href="/topimagenews/20210127/1475753.md">说独立真独立！投票决定脱离美国 德州议员提出议案【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210127/1475810.md">川普总统启用了一个神秘的封印</a></li>
 <li><a href="/cbnews/20210127/1476036.md">陈破空：习近平效法江泽民，包围架空某常委！姿色女官上位。土共抱怨印媒泄露军机</a></li>
-<li><a href="/topimagenews/20210127/1476048.md">拜登女儿日记完整版：童年性创伤、毒品滥用以及对乔拜登的不满【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210127/1475765.md">杭州姑娘发征婚帖，私信炸了！网友：在选套餐？</a></li>
-<li><a href="/bannedvideo/20210127/1476001.md">印度神童1月23日最新预言,辛丑中国新年正撞六星连珠,人间将会对应哪些灾难,病毒的终点,复苏时间点和未来解决办法｜预言警示｜探索与洞见</a></li>
 <li><a href="/bannedvideo/20210128/1476227.md">【罕见】难以置信！李克强掌控中南海  习近平一定出大事了！难道现在的包子真的是替身？</a></li>
+<li><a href="/cbnews/20210127/1475765.md">杭州姑娘发征婚帖，私信炸了！网友：在选套餐？</a></li>
+<li><a href="/topimagenews/20210127/1476048.md">拜登女儿日记完整版：童年性创伤、毒品滥用以及对乔拜登的不满【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210127/1476001.md">印度神童1月23日最新预言,辛丑中国新年正撞六星连珠,人间将会对应哪些灾难,病毒的终点,复苏时间点和未来解决办法｜预言警示｜探索与洞见</a></li>
 <li><a href="/cnnews/20210127/1475824.md">37万股民惊呆！300亿巨头被"剔除"苹果供应链？</a></li>
 <li><a href="/health/20210127/1475737.md">男性衰老“加速器”已找到，烟酒不在其中，看到榜首，趁早改正</a></li>
 <li><a href="/topimagenews/20210127/1475648.md">当头一棒！美联邦法官叫停拜登「100天不遣返」行政令 德州检察长：叫停左翼叛乱</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/comments/20210127/1475846.md">李燕铭：习近平要动前常委吴官正？习清洗光大集团政商圈 太子党吴少华与副手同期调职 吴官正大秘刘伟平贬任闲职 甘肃省委书记卸职三个月后落马 内幕不一般</a></li>
 <li><a href="/topimagenews/20210127/1475702.md">川普继续拥有强大势力！多数共和党参议员反对弹劾川普 仅5人跑票</a></li>
 <li><a href="/bannedvideo/20210127/1475979.md">【热点】习近平女儿个人信息外泄，24人获刑20岁青年判14年;惨无人道!北京男述亲历,中共采用“一棒子打死”政策;中共官员视频热传毫不隐讳:“我告诉你,必须打!死了我负责”WL</a></li>
-<li><a href="/bannedvideo/20210127/1475698.md">【重磅】川普重拳反击 ！ 美国3大州吊销左媒CNN执照！断网 吊销媒体执照正在发生！ 爱国者可以含着激动的泪水吃爆米花了！三大州： 密西西比州、阿拉巴马州和路易斯安那州 奇妙的旅程刚刚开始！</a></li>
+<li><a href="/cnnews/20210127/1475840.md">美前国务卿蓬佩奥加入华盛顿智库</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210128/1476372.md" target="_blank">新任白宫发言人：华为设备威胁国安 美电讯网络不使用</a></li>
+<li><a href="/cbnews/20210128/1476367.md" target="_blank">文昭：中国版共济会「泰山会」解散，这些神秘顶尖团体做了什麽？为何它在中国能存在、却不过30年？</a></li>
 <li><a href="/cbnews/20210128/1476366.md" target="_blank">陈破空：突发：女主席当场晕倒！都是王沪宁害的？三代世袭的蒙古王，受不了极左路线</a></li>
 <li><a href="/cbnews/20210128/1476360.md" target="_blank">🔥🔥彭斯悲催了❗《诸世纪》最新预言彭斯将和其他人脸对着脸被关在笼子里❗</a></li>
 <li><a href="/cbnews/20210128/1476324.md" target="_blank">拜登移民遣返冻结令遭法官叫停 德州公投欲独立；民主党人寻求从军队中铲除“白人至上主义者”；拜登签放男性进女厕 再破道德界线；澳洲头号贩毒嫌疑人同伙疑为中共政协委员【希望之声TV】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210127/1476062.md" target="_blank">45共和党人反对 保罗：川普弹劾案告吹；国会警察局新局长致歉 未为1月6日做好准备；美众议员：承包商周二停止美墨边境墙施工；拜登和普京通话 美俄延长军备管控条约【希望之声TV】</a></li>
 <li><a href="/cbnews/20210127/1476036.md" target="_blank">陈破空：习近平效法江泽民，包围架空某常委！姿色女官上位。土共抱怨印媒泄露军机</a></li>
 <li><a href="/cbnews/20210127/1475941.md" target="_blank">火锅吃一半&#8221;鼠从天降&#8221; 店员淡定徒手抓引热议</a></li>
-<li><a href="/cbnews/20210127/1475916.md" target="_blank">蓬佩奥：为达野心 中共在找拜登政府软肋</a></li>
-<li><a href="/cbnews/20210127/1475915.md" target="_blank">王岐山缺席重要会议 习近平讲话信号异常</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 
 </ul>
 </div>
