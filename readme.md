@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210128/1476557.md">现在回看，川普极可能是故意没有出全力在连任上，目的是让美国人在遭受经济危机的打击后而醒来，集结到蓬佩奥旗下来复兴美国</a></li>
-<li><a href="/cbnews/20210128/1476360.md">🔥🔥彭斯悲催了❗《诸世纪》最新预言彭斯将和其他人脸对着脸被关在笼子里❗</a></li>
 <li><a href="/comments/20210128/1476500.md">四川名交警拦下闯红灯司机 肇事人一露面大家全笑了！推友”神“配词</a></li>
 <li><a href="/cbnews/20210128/1476638.md">中南海急了？习近平隔空喊话拜登引热议</a></li>
 <li><a href="/cnnews/20210128/1476653.md">别吃10种从中国出口的食品</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cbnews/20210128/1476643.md">蓬佩奥评价新政府：对拜登感到失望</a></li>
 <li><a href="/bannedvideo/20210128/1476513.md">9人变25人？拜登将增最高法院大法官人数； 不满左派执政，德州人酝酿公投要独立；梅拉尼娅设办公室，川普计划组两智库；蓬佩奥到哈德逊搞研究，麦肯纳尼进福克斯，川普旧部去处不同｜0127 西岸观察</a></li>
 <li><a href="/ssgc/20210128/1476400.md">〖微博谈〗这是今日中共国的真相</a></li>
-<li><a href="/topimagenews/20210128/1476745.md">共和党多数选民认为川普应该发起新政党 可是川普……【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210128/1476685.md">杭州高层凌晨起火 女子一个操作救一家五口</a></li>
+<li><a href="/topimagenews/20210128/1476745.md">共和党多数选民认为川普应该发起新政党 可是川普……【阿波罗网编译】</a></li>
 <li><a href="/weiquan/20210128/1476797.md">郭飞雄&#65306;中国海关以涉嫌危害国家安全等名义已经正式宣布不准我出境&#65292;我从现在开始在浦东机场实行无限期绝食&#65292;请中国民众和世界各国政府和人民紧急帮助我&#12290;</a></li>
 <li><a href="/bannedvideo/20210128/1476594.md">财经冷眼：要么发财，要么穷死！散户抱团搞垮多家华尔街对冲基金震惊全球！股价10天暴涨20倍，翻倍妖股遍地！（20210127第451期）</a></li>
+<li><a href="/cbnews/20210128/1476544.md">规模罕见 港媒：香港中联办大洗牌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210129/1477017.md" target="_blank">Gamestop股价暴涨:散户与华尔街的世代对抗；亿万富翁竞选加州州长；拜登设委员会改革法院 恐为填塞最高院做准备；六州检察长致信拜登:如果违宪将诉讼；拜登废除禁止资助海外堕胎禁令</a></li>
 <li><a href="/cbnews/20210129/1476953.md" target="_blank">加国报告披露中共阻挠中共病毒疫苗样本运往加国原因</a></li>
 <li><a href="/cbnews/20210129/1476945.md" target="_blank">郑爽被曝雇水军 20条50字以上洗白评论568元</a></li>
 <li><a href="/cbnews/20210129/1476937.md" target="_blank">华为首座境外工厂落脚法国 被批&#8221;支票外交&#8221;</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210128/1476479.md" target="_blank">天亮时分：左派议程与白痴皇帝；“性别平等”可以包治百病；左右都说修改230条款，但原因截然相反（政论天下第339集 20210127）</a></li>
 <li><a href="/cbnews/20210128/1476428.md" target="_blank">麦康奈尔吁拜登延续川普策略 对中共强硬</a></li>
 <li><a href="/cbnews/20210128/1476402.md" target="_blank">川普已在酝酿回归？对川普的弹劾已“死”；美国大选改变知名学者认知</a></li>
-<li><a href="/cbnews/20210128/1476384.md" target="_blank">看”社会主义铁拳“  读美国今日之现状   嘉宾：方伟 秦鹏  Harry Wang   主持：高洁【希望之声TV】(2021/01/27)</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210129/1477031.md" target="_blank">消息：共和党全国委员会邀川普赴春季会议</a></li>
+<li><a href="/comments/20210129/1477016.md" target="_blank">李燕铭：习近平召开政治局会议 呼应中纪委全会重申反腐 要求加强监督“一把手” 两会前将有大动作</a></li>
 <li><a href="/comments/20210129/1477012.md" target="_blank">首席大法官拒主持 参院弹劾听证合法性遭质疑</a></li>
 <li><a href="/comments/20210129/1477004.md" target="_blank">全美28州出现英国变种病毒 至少315例</a></li>
 <li><a href="/comments/20210129/1477003.md" target="_blank">美散户与华尔街的“世代对抗”？Gamestop股价暴涨</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210129/1476894.md" target="_blank">川普铁粉“枕头先生”林德尔的传奇人生</a></li>
 <li><a href="/comments/20210129/1476893.md" target="_blank">德州总检察长: 拜登移民政策将带来真正问题</a></li>
 <li><a href="/comments/20210129/1476888.md" target="_blank">民主派总辞后 立法会拨款特快批核</a></li>
-<li><a href="/comments/20210129/1476887.md" target="_blank">私隐专员：不认为传媒查册要停止 吁政府增透明度 列明容许查册目的</a></li>
-<li><a href="/comments/20210129/1476886.md" target="_blank">【医护罢工】医管局员工阵线吁员工勿主动交回薪金 斥局方“分化手段”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 
 </ul>
 </div>
