@@ -6,13 +6,11 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210129/1477068.md">习近平女儿真容终曝光 寄宿国外时楼顶惊现直升机盘旋</a></li>
-<li><a href="/comments/20210129/1476943.md">习近平与李克强的内斗已经走向白热化 李克强为首技术官僚集体对抗 习近平遇最大危机 反习集团正不断扩大中…… 中南海谣言预言_430</a></li>
 <li><a href="/lifebaike/20210129/1477105.md">银行新规定：2021年，存款超过10万一律被严查，3个试点已经启动</a></li>
 <li><a href="/bannedvideo/20210129/1477010.md">【独家首发】露馅了！目前的拜登是个假货！只是一个带着面具的家伙在冒充！如此拙劣的欺骗还能维持多久？Fake Biden with silicone mask 声音可以通过电子设备模拟 这个技术早都有了</a></li>
 <li><a href="/headline/20210129/1477171.md">习家公主被泄底？事实真相曝光</a></li>
 <li><a href="/comments/20210129/1477140.md">习近平女儿习明泽个人信息外泄 化名楚晨 真容曝光 “恶俗维基”创始人披露内幕：“红岸基金会”的人在国内有一些势力 通过拉取公民信息库查到了习近平女儿的私密信息 中南海不可告人的秘密_310</a></li>
 <li><a href="/health/20210129/1476976.md">高血压指南修改：140/90不再是降压目标！正常值你达到没？</a></li>
-<li><a href="/cbnews/20210129/1476936.md">网曝吉林通化隔离条件恶劣 媳妇和公公被关一起</a></li>
 <li><a href="/cbnews/20210129/1477286.md">1月31日起 中共不承认BNO护照 民称：公开耍流氓</a></li>
 <li><a href="/cnnews/20210129/1476949.md">2斤鱿鱼一下锅「整只消失」 她傻眼：8分钟后连渣都不剩</a></li>
 <li><a href="/cnnews/20210129/1477312.md">前所未有 两党两派一致愤怒 马克斯 克鲁兹 小川普联合起来……【阿波罗网编译】</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cbnews/20210129/1477139.md">弹劾川普！共和党高层付惨重政治代价；拜登上任壹周  3万人染疫病故 福奇鼓励戴两个口罩；拜登政府推迟中共军企投资禁令 对华为表态【希望之声TV】</a></li>
 <li><a href="/cnnews/20210129/1477331.md">普京“藏”了30多年的女儿们：美满与出轨</a></li>
 <li><a href="/headline/20210129/1477348.md">习近平反腐开铡“一把手”? 家属子女全盯牢</a></li>
+<li><a href="/worldnews/usa/20210129/1477047.md">拜登女儿日记又曝丑闻：父女一起淋浴</a></li>
+<li><a href="/cbnews/20210129/1477310.md">“郑爽代孕”水有多深？党媒齐轰动机惹疑</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210130/1477599.md" target="_blank">陈破空：直播预告：美国震动，散户大战华尔街！此事要是放到中国？脸书言论审查遭推翻。陈破空与网友互动Q&amp;A 美东时间1月29日周五晚8点、即中港台时间1月30日周六早9点</a></li>
 <li><a href="/cbnews/20210130/1477569.md" target="_blank">陈破空：美国大选后，中国民运全球网络大会：坚定立场！车宏年、石宇哥、赵常青发言</a></li>
 <li><a href="/cbnews/20210130/1477561.md" target="_blank">女财长被爆收受对冲基金80万美元；中共疫情期间 美国亿万富翁财富增长40％；拜登签署行政令创新高   认知能力反遭质疑；李克强首肯？郭飞雄探亲失联 中共出尔反尔【希望之声TV】</a></li>
 <li><a href="/cbnews/20210129/1477492.md" target="_blank">香港政府拟推出电话实名制引发的忧虑</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210129/1477139.md" target="_blank">弹劾川普！共和党高层付惨重政治代价；拜登上任壹周  3万人染疫病故 福奇鼓励戴两个口罩；拜登政府推迟中共军企投资禁令 对华为表态【希望之声TV】</a></li>
 <li><a href="/cbnews/20210129/1477120.md" target="_blank">吉林通化0号病人被立案侦查 网络炸锅</a></li>
 <li><a href="/cbnews/20210129/1477091.md" target="_blank">Se Hoon Kim: 我发现真相之路</a></li>
-<li><a href="/cbnews/20210129/1477083.md" target="_blank">深度解析佩洛西仇恨川普的来龙去脉。佩洛西撕毁川普国情咨文的真实用意，她的两大性格特征，女儿的描述入木三分，佩洛西丈夫的中国利益。川普集会中的幽默对话，笑翻全场。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210130/1477605.md" target="_blank">川普“反弹劾”律师团又增二名前检察官</a></li>
 <li><a href="/comments/20210130/1477597.md" target="_blank">统计：疫情期间美亿万富翁总财富增长近四成</a></li>
 <li><a href="/comments/20210130/1477589.md" target="_blank">李燕铭：习近平半公开江泽民曾庆红政变企图 曾庆红马仔赖小民被紧急执行死刑 一句话泄露习近平必杀赖小民原因 中纪委六千字长文罕见定性赖小民四宗罪 赖小民死刑暗藏重大伏笔 江曾权贵家族脖子上全被架上屠刀 随时可能落下……习与江曾生死搏杀大戏重磅开场 2021年中南海注定惊涛骇浪</a></li>
 <li><a href="/comments/20210130/1477587.md" target="_blank">纽约州严重虚报养老院染疫死亡数 议员：州长应担责</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210130/1477533.md" target="_blank">配合北京港府将不承认BNO护照 港议员坦言：无实质影响</a></li>
 <li><a href="/comments/20210130/1477522.md" target="_blank">中国海航负债7000亿 遭债权人申请破产重整</a></li>
 <li><a href="/comments/20210130/1477514.md" target="_blank">中港不承认 BNO 叶刘：对港人出行影响不大 大律师：法庭仍会要求交出 BNO</a></li>
-<li><a href="/comments/20210130/1477513.md" target="_blank">【入狱前专访】癌症末期迎第十次政治监 古思尧的火红人生：抗争在故我在</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
