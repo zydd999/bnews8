@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/baitai/20210129/1477353.md">赖小民今被执行死刑</a></li>
 <li><a href="/cbnews/20210130/1477629.md">湖南一医药代表强暴女护士车内捆绑 旁人敲窗…</a></li>
 <li><a href="/bannedvideo/20210130/1477556.md">川普党内声望如日中天  投票支持弹劾川普的10名共和党联邦众议员随后被自己选区的选民抛弃  政治生涯即将终结</a></li>
 <li><a href="/bannedvideo/20210130/1477538.md">多辆奥迪红旗飙进中南海  中共内斗大戏开演了吗?泄露习包女信息   20岁牛腾宇遭打残重判14年 维权人士郭飞雄赴美探视癌妻  人在机场被拦后失联</a></li>
 <li><a href="/cbnews/20210129/1477413.md">陈破空：习近平两件事上瘾！半数官员反习？支付宝一夜遭洗劫！王沪宁再次篡改教科书，偷偷塞入惊悚文</a></li>
+<li><a href="/cbnews/20210130/1477905.md">海航破产 王岐山的处境凶险</a></li>
 <li><a href="/topimagenews/20210130/1477739.md">一夜预亏250亿，300万股东难眠，这家公司几乎亏掉总市值</a></li>
 <li><a href="/cbnews/20210130/1477608.md">今被执行死刑 中共贪官赖小民判死到执行仅24天</a></li>
 <li><a href="/funmedia/20210130/1477693.md">发觉妻子对自己冷漠，丈夫卧室装监控，看到的场景却让他无法淡定</a></li>
-<li><a href="/cbnews/20210130/1477905.md">海航破产 王岐山的处境凶险</a></li>
 <li><a href="/cbnews/20210130/1477694.md">惊耸❗东西方5大预言2021终极大灾难”4大征兆“已出现❓刘伯温《推碑图》预言另一波瘟疫将导致“人死无数”❗❗</a></li>
-<li><a href="/topimagenews/20210130/1477665.md">全美第一份 共和党决议发聋振聩 不能放过中共!众院共和党首席2议员反拜登延长核条约</a></li>
-<li><a href="/bannedvideo/20210130/1477619.md">川普语出惊人！“还没结束”什么意思？伊万卡参选？鲁比奥小心回应；华尔街激怒全世界，多空大战骑虎难下</a></li>
-<li><a href="/comments/20210130/1477589.md">李燕铭：习近平半公开江泽民曾庆红政变企图 曾庆红马仔赖小民被紧急执行死刑 一句话泄露习近平必杀赖小民原因 中纪委六千字长文罕见定性赖小民四宗罪 赖小民死刑暗藏重大伏笔 江曾权贵家族脖子上全被架上屠刀 随时可能落下……习与江曾生死搏杀大戏重磅开场 2021年中南海注定惊涛骇浪</a></li>
 <li><a href="/cnnews/20210130/1477886.md">又一个川普出现！50个州6万人力挺 160万小额捐款涌入竞选账户【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210130/1477794.md">赖小民从速被处死 习近平“立威”与“示威”</a></li>
+<li><a href="/bannedvideo/20210130/1477619.md">川普语出惊人！“还没结束”什么意思？伊万卡参选？鲁比奥小心回应；华尔街激怒全世界，多空大战骑虎难下</a></li>
+<li><a href="/topimagenews/20210130/1477665.md">全美第一份 共和党决议发聋振聩 不能放过中共!众院共和党首席2议员反拜登延长核条约</a></li>
+<li><a href="/comments/20210130/1477589.md">李燕铭：习近平半公开江泽民曾庆红政变企图 曾庆红马仔赖小民被紧急执行死刑 一句话泄露习近平必杀赖小民原因 中纪委六千字长文罕见定性赖小民四宗罪 赖小民死刑暗藏重大伏笔 江曾权贵家族脖子上全被架上屠刀 随时可能落下……习与江曾生死搏杀大戏重磅开场 2021年中南海注定惊涛骇浪</a></li>
 <li><a href="/cnnews/20210130/1477634.md">美股“散户抱团”领军人遭起底 原来系一位…</a></li>
+<li><a href="/cbnews/20210130/1477794.md">赖小民从速被处死 习近平“立威”与“示威”</a></li>
 <li><a href="/cbnews/20210130/1477751.md">金融界大佬赖小民被迅速处决</a></li>
 <li><a href="/cnnews/20210129/1477409.md">安提法领袖沙利文接受“信息大战”网站采访 称拜登获胜“很可疑”视频【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210130/1477839.md">共和党选民爆发退党潮！已有3万多名选民退党；威胁美国电网？中俄新武器可冲击美国；克鲁兹：DHS提名人滥权并亲共 参院应拒确认；美版文革！旧金山下令校名删林肯、华盛顿等人物【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210130/1477563.md">川普党内几轮过招，拿下共和党人事权，长期计划逐渐显明；股民造反华尔街，您此时是否应该入市？新证据曝光，福奇和民主党选举事务关系密切。哈佛学者陶瑞，纳姐！</a></li>
 <li><a href="/cbnews/20210130/1477830.md">上海浦东松江建方舱 官媒辟谣遭市民打脸</a></li>
-<li><a href="/comments/20210129/1477434.md">林伍德律师声讨美国总统大选舞弊和继续战斗的声明</a></li>
 <li><a href="/cbnews/20210130/1477871.md">中共军机挑衅美航母 美太平洋司令部回应</a></li>
+<li><a href="/comments/20210129/1477434.md">林伍德律师声讨美国总统大选舞弊和继续战斗的声明</a></li>
+<li><a href="/cbnews/20210130/1477975.md">胡锡进婚外情调查 中纪委宣布结果引热议</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210130/1478038.md" target="_blank">台湾2020经济成长亚洲之冠 中国数据被爆猫腻</a></li>
+<li><a href="/comments/20210130/1478037.md" target="_blank">51区现16米高外星机器人？英特种部队对抗外星人？</a></li>
+<li><a href="/comments/20210130/1478031.md" target="_blank">又近年关 习近平再提 “黑天鹅”</a></li>
 <li><a href="/comments/20210130/1478017.md" target="_blank">占领国会山血拚华尔街，这届美国民众还能干出啥</a></li>
 <li><a href="/comments/20210130/1478006.md" target="_blank">意媒： 人类的里程碑 阻活摘英美议会推出法案</a></li>
 <li><a href="/comments/20210130/1478004.md" target="_blank">【中方反制 BNO】郑若骅引《中英联合声明》指回归后英方对香港无权责、无监督权</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210130/1477834.md" target="_blank">捷克拒中俄参与核电厂 中共大使馆气炸</a></li>
 <li><a href="/comments/20210130/1477821.md" target="_blank">李燕铭：中共二十大高层人事“分赃”内部会议疑已秘密召开 习近平提拔朱镕基栗战书马馼亲信 胡锦涛之子胡海峰又传升官 胡海峰两年四次升官传闻均落空 内幕诡异 谁在逼宫习近平？胡海峰仕途命运折射胡习关系与二十大高层人事动向</a></li>
 <li><a href="/comments/20210130/1477818.md" target="_blank">“龙猫”还雨伞戏份被删？宫崎骏解谜</a></li>
-<li><a href="/comments/20210130/1477804.md" target="_blank">王维洛：极权制度下的恐惧和疫情的早期扩散</a></li>
-<li><a href="/comments/20210130/1477803.md" target="_blank">新特首是谁各派角力 左报先声投石</a></li>
-<li><a href="/comments/20210130/1477802.md" target="_blank">东方：政客变影星 好莱坞看重啥样政客</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 
 </ul>
 </div>
