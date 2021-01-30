@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210129/1477068.md">习近平女儿真容终曝光 寄宿国外时楼顶惊现直升机盘旋</a></li>
 <li><a href="/lifebaike/20210129/1477105.md">银行新规定：2021年，存款超过10万一律被严查，3个试点已经启动</a></li>
-<li><a href="/bannedvideo/20210129/1477010.md">【独家首发】露馅了！目前的拜登是个假货！只是一个带着面具的家伙在冒充！如此拙劣的欺骗还能维持多久？Fake Biden with silicone mask 声音可以通过电子设备模拟 这个技术早都有了</a></li>
 <li><a href="/headline/20210129/1477171.md">习家公主被泄底？事实真相曝光</a></li>
 <li><a href="/comments/20210129/1477140.md">习近平女儿习明泽个人信息外泄 化名楚晨 真容曝光 “恶俗维基”创始人披露内幕：“红岸基金会”的人在国内有一些势力 通过拉取公民信息库查到了习近平女儿的私密信息 中南海不可告人的秘密_310</a></li>
 <li><a href="/cbnews/20210129/1477286.md">1月31日起 中共不承认BNO护照 民称：公开耍流氓</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/baitai/20210129/1477353.md">赖小民今被执行死刑</a></li>
 <li><a href="/cbnews/20210129/1477083.md">深度解析佩洛西仇恨川普的来龙去脉。佩洛西撕毁川普国情咨文的真实用意，她的两大性格特征，女儿的描述入木三分，佩洛西丈夫的中国利益。川普集会中的幽默对话，笑翻全场。</a></li>
 <li><a href="/cbnews/20210129/1477329.md">分析：拜登上台了 习近平为何加紧“备战”？</a></li>
+<li><a href="/comments/20210129/1477230.md">习近平变相接管控马云商业帝国内幕曝光 马云真正的麻烦才刚刚开始 蚂蚁集团拟整合为金融控股公司 出售美国子公司 蚂蚁集团是否还能上市？中共央行行长暧昧回应一句话</a></li>
 <li><a href="/cnnews/20210129/1477129.md">史诗级大战 华尔街"拔网线、删代码、关服务器"</a></li>
 <li><a href="/headline/20210129/1477187.md">习近平女儿露真容 寄宿法国楼顶惊现直升机盘旋</a></li>
-<li><a href="/comments/20210129/1477230.md">习近平变相接管控马云商业帝国内幕曝光 马云真正的麻烦才刚刚开始 蚂蚁集团拟整合为金融控股公司 出售美国子公司 蚂蚁集团是否还能上市？中共央行行长暧昧回应一句话</a></li>
-<li><a href="/cbnews/20210129/1477139.md">弹劾川普！共和党高层付惨重政治代价；拜登上任壹周  3万人染疫病故 福奇鼓励戴两个口罩；拜登政府推迟中共军企投资禁令 对华为表态【希望之声TV】</a></li>
 <li><a href="/cnnews/20210129/1477331.md">普京“藏”了30多年的女儿们：美满与出轨</a></li>
+<li><a href="/cbnews/20210129/1477139.md">弹劾川普！共和党高层付惨重政治代价；拜登上任壹周  3万人染疫病故 福奇鼓励戴两个口罩；拜登政府推迟中共军企投资禁令 对华为表态【希望之声TV】</a></li>
 <li><a href="/headline/20210129/1477348.md">习近平反腐开铡“一把手”? 家属子女全盯牢</a></li>
 <li><a href="/worldnews/usa/20210129/1477047.md">拜登女儿日记又曝丑闻：父女一起淋浴</a></li>
 <li><a href="/cbnews/20210129/1477413.md">陈破空：习近平两件事上瘾！半数官员反习？支付宝一夜遭洗劫！王沪宁再次篡改教科书，偷偷塞入惊悚文</a></li>
 <li><a href="/cbnews/20210129/1477310.md">“郑爽代孕”水有多深？党媒齐轰动机惹疑</a></li>
 <li><a href="/bannedvideo/20210129/1477327.md">傅彪换了谁的肝?</a></li>
 <li><a href="/health/20210129/1477077.md">最准脑部测试：4张图看出你有没有老年痴呆，再年轻也要测一测</a></li>
+<li><a href="/bannedvideo/20210129/1477248.md">【重磅】川普与军方的秘密行动一直没有停歇 川普为何没有公开抓捕拜登 奥巴马 希拉里 克林顿 佩洛西等大鳄？需要等待的几大条件 已经越来越成熟</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210130/1477678.md" target="_blank">华尔街耍赖  Robinhood趁机筹10亿美元 ；克鲁兹：DHS提名人滥权亲共 应拒确认；德州长推翻拜登气候议程；纽约州检察长指库默少报养老院染疫死亡数；支付宝等互联网存款全线关闭 【希望之声TV】</a></li>
 <li><a href="/cbnews/20210130/1477648.md" target="_blank">&#8220;偷拍张家慧打麻将&#8221;敲诈开庭 建议判10年以上</a></li>
 <li><a href="/cbnews/20210130/1477647.md" target="_blank">韭菜坦承被“肛拭子” 了解“爆发的压力”</a></li>
 <li><a href="/cbnews/20210130/1477646.md" target="_blank">官方报告泄底：上海人近八成不愿接种国产疫苗</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210129/1477329.md" target="_blank">分析：拜登上台了 习近平为何加紧“备战”？</a></li>
 <li><a href="/cbnews/20210129/1477328.md" target="_blank">疫情直逼中南海 北京民众寒冬中户外检测大排长龙</a></li>
 <li><a href="/cbnews/20210129/1477310.md" target="_blank">“郑爽代孕”水有多深？党媒齐轰动机惹疑</a></li>
-<li><a href="/cbnews/20210129/1477309.md" target="_blank">武汉瘟疫死亡人数成谜 中共弥天大谎知多少</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 
 </ul>
 </div>
