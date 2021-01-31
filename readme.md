@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210130/1477975.md">胡锡进婚外情调查 中纪委宣布结果引热议</a></li>
 <li><a href="/topimagenews/20210130/1477984.md">二十大是习近平的生死战？习在政治局会议上特别强调了一件事</a></li>
-<li><a href="/topimagenews/20210130/1478049.md">拜登上台5天后 法官裁定弗吉尼亚州计入无邮戳的缺席选票为非法【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210130/1478183.md">紧急插播 | 反叛乱法已经生效，实锤证据</a></li>
+<li><a href="/topimagenews/20210130/1478049.md">拜登上台5天后 法官裁定弗吉尼亚州计入无邮戳的缺席选票为非法【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210131/1478255.md">人彻底憋疯了 网曝黑龙江绥化一妇女在小区裸跑</a></li>
 <li><a href="/cbnews/20210130/1478018.md">预言成真？哈里斯在就职日的穿戴，竟然与动画剧《辛普森一家》中的女总统一样，是巧合还是阴谋？</a></li>
 <li><a href="/cbnews/20210130/1478063.md">陈破空：惊天大案！习公主信息曝光，大批年轻人遭判刑！战狼发言人：重要的话说三遍</a></li>
 <li><a href="/cbnews/20210130/1478013.md">中国毒面霜狂卖70万瓶 汞超标7000倍</a></li>
-<li><a href="/cbnews/20210130/1478000.md">马云“泰山会”解散惹联想 习近平防令计划家族建立“西山会”？</a></li>
 <li><a href="/cbnews/20210131/1478303.md">起底中国「最顶级富豪组织」入会门槛扯爆！马云只是小老弟</a></li>
+<li><a href="/cbnews/20210130/1478000.md">马云“泰山会”解散惹联想 习近平防令计划家族建立“西山会”？</a></li>
+<li><a href="/cbnews/20210131/1478158.md">武汉长江再次见底 专家: 三峡建坝恶果</a></li>
 <li><a href="/topimagenews/20210131/1478212.md">彭斯“无家可归” 逆转？一语双关？德州检察长调查狙击散户事件 美堕落从民主扩大化开始?</a></li>
 <li><a href="/bannedvideo/20210131/1478270.md">【中美】风云突变，王岐山现身，接棒习近平；共军模拟攻击美航母，美军太平洋司令部回应；中共收集美国人DNA；美国强盛的秘密从来不是民主？中共报复澳洲追寻疫情源头失败 WL</a></li>
 <li><a href="/bannedvideo/20210130/1478016.md">毛泽东与史沫特莱的翻译吴莉莉通奸、与丁玲调情，贺子珍愤而出走苏联。后毛与江青结婚，贺怡要求毛与贺子珍复婚，遭毛拒绝（笑梅看中国第027期）</a></li>
 <li><a href="/cbnews/20210131/1478253.md">中国民众"肛拭"检测后走路变样？网友直呼恐怖</a></li>
-<li><a href="/cbnews/20210131/1478158.md">武汉长江再次见底 专家: 三峡建坝恶果</a></li>
-<li><a href="/cbnews/20210130/1477985.md">王岐山出马 北京连续喊话拜登</a></li>
 <li><a href="/cbnews/20210131/1478349.md">🔥🔥惨❗就要被灭口❓《辛普森一家》预言拜登被戴“黑头套”❓❗</a></li>
-<li><a href="/topimagenews/20210130/1478050.md">川普是“家乡总统”,佛州共和党力挺 麦康奈尔暗批拜登「独裁者」,对中俄有利</a></li>
-<li><a href="/topimagenews/20210130/1477973.md">每年为川普留出一天！俄州议案：无数人的情感在川普身上得以体现【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210131/1478243.md">莉兹钱尼挺弹劾 川普集中政治资源要拉她下台</a></li>
+<li><a href="/cbnews/20210130/1477985.md">王岐山出马 北京连续喊话拜登</a></li>
 <li><a href="/funmedia/20210131/1478390.md">国外一女子放生老虎，5年后人虎再次相遇，老虎直接扑上去咬住头</a></li>
-<li><a href="/cbnews/20210131/1478157.md">疫情之下 中国500万手机用户消失之谜</a></li>
+<li><a href="/topimagenews/20210130/1478050.md">川普是“家乡总统”,佛州共和党力挺 麦康奈尔暗批拜登「独裁者」,对中俄有利</a></li>
+<li><a href="/topimagenews/20210131/1478243.md">莉兹钱尼挺弹劾 川普集中政治资源要拉她下台</a></li>
 <li><a href="/funmedia/20210131/1478334.md">真实巴西贫民窟：房很破比基尼妹子满街走，人穷友好但别乱去</a></li>
+<li><a href="/topimagenews/20210130/1477973.md">每年为川普留出一天！俄州议案：无数人的情感在川普身上得以体现【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210131/1478157.md">疫情之下 中国500万手机用户消失之谜</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210131/1478570.md" target="_blank">疫情致山东男难回家过年 父母将300斤活猪塞车尾箱</a></li>
+<li><a href="/comments/20210131/1478569.md" target="_blank">美将参加印度航展 彰显两国密切防务合作关系</a></li>
 <li><a href="/comments/20210131/1478545.md" target="_blank">新当选议员：美国真正的敌人是社会主义者</a></li>
 <li><a href="/comments/20210131/1478526.md" target="_blank">【专访】被指助 12 港人偷渡被捕 霍朗齐：续做应做的事 母：深信儿子没有错</a></li>
 <li><a href="/comments/20210131/1478488.md" target="_blank">耿潇男夫妇被起诉 2月9日开庭</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210131/1478403.md" target="_blank">越南裔中医师染疫 死亡线上奇迹生还</a></li>
 <li><a href="/comments/20210131/1478395.md" target="_blank">中国当局把WHO专家安排得明明白白 家属被封口</a></li>
 <li><a href="/comments/20210131/1478394.md" target="_blank">拜登的一项改革计划很有可能会失败</a></li>
-<li><a href="/comments/20210131/1478393.md" target="_blank">富豪的疯狂：换血、软禁少女…为了长生不老</a></li>
-<li><a href="/comments/20210131/1478380.md" target="_blank">《生化危机》 全球生产制造（就像2025），释放了病毒</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
