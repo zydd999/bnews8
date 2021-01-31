@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/funmedia/20210131/1478390.md">国外一女子放生老虎，5年后人虎再次相遇，老虎直接扑上去咬住头</a></li>
 <li><a href="/cbnews/20210131/1478303.md">起底中国「最顶级富豪组织」入会门槛扯爆！马云只是小老弟</a></li>
-<li><a href="/bannedvideo/20210131/1478270.md">【中美】风云突变，王岐山现身，接棒习近平；共军模拟攻击美航母，美军太平洋司令部回应；中共收集美国人DNA；美国强盛的秘密从来不是民主？中共报复澳洲追寻疫情源头失败 WL</a></li>
 <li><a href="/cbnews/20210131/1478158.md">武汉长江再次见底 专家: 三峡建坝恶果</a></li>
 <li><a href="/baitai/20210131/1478534.md">以色列疫情奇迹般消失 惊讶发现一个规律</a></li>
 <li><a href="/cbnews/20210131/1478349.md">🔥🔥惨❗就要被灭口❓《辛普森一家》预言拜登被戴“黑头套”❓❗</a></li>
 <li><a href="/topimagenews/20210131/1478453.md">能呼吸了！染上中共病毒写了遗嘱的他找到救命的法了</a></li>
 <li><a href="/cbnews/20210131/1478157.md">疫情之下 中国500万手机用户消失之谜</a></li>
 <li><a href="/cnnews/20210131/1478434.md">没想到啊！胡锡进的微博评论区翻车了</a></li>
-<li><a href="/yule/20210131/1478466.md">64岁刘晓庆到底长啥样？看她在泳池内现原形</a></li>
 <li><a href="/headline/20210131/1478634.md">陈杰人披露习近平家族财富惹祸上身</a></li>
+<li><a href="/yule/20210131/1478466.md">64岁刘晓庆到底长啥样？看她在泳池内现原形</a></li>
 <li><a href="/funmedia/20210131/1478334.md">真实巴西贫民窟：房很破比基尼妹子满街走，人穷友好但别乱去</a></li>
+<li><a href="/bannedvideo/20210131/1478551.md">习近平威吓美国政府，中共一定是要攻打台湾的，另奥巴马实际上已成了现任美国政府的太上皇</a></li>
 <li><a href="/headline/20210131/1478517.md">川普TV将成立 民主党怕了</a></li>
 <li><a href="/topimagenews/20210131/1478653.md">美国民众“压倒性的支持”枕头哥 我的枕头宣布送货延迟2周【阿波罗网编译。】</a></li>
-<li><a href="/bannedvideo/20210131/1478551.md">习近平威吓美国政府，中共一定是要攻打台湾的，另奥巴马实际上已成了现任美国政府的太上皇</a></li>
 <li><a href="/topimagenews/20210131/1478591.md">川普罕见行动专门支持她;左媒罕见报导:川普卸任后人气飙升；</a></li>
+<li><a href="/comments/20210131/1478707.md">中国新年临近 上海也成重灾区 市民惊爆：政府利用疫情赚钱</a></li>
 <li><a href="/cbnews/20210131/1478410.md">天亮时分：马斯克遭司法部调查，惨变马云？全球化4.0时代，中共与高科技的对决是否会像GameStop一样充满悬念？（政论天下第341集 20210130）</a></li>
 <li><a href="/cbnews/20210131/1478646.md">陈破空：海航倒塌！王岐山终于解脱？胡锡进桃色不算，网民炸锅！土共玩转世卫专家团</a></li>
-<li><a href="/comments/20210131/1478707.md">中国新年临近 上海也成重灾区 市民惊爆：政府利用疫情赚钱</a></li>
+<li><a href="/worldnews/20210131/1478719.md">专家曝致死率75%立百病毒在中国爆发警告恐引发下一场大流行</a></li>
 <li><a href="/cnnews/20210131/1478638.md">内蒙女主席做报告“随地倒”后多日未露面引猜测</a></li>
 <li><a href="/health/20210131/1478554.md">54岁男子，查出肺癌，提醒：手上出现这种迹象，或已到中晚期</a></li>
-<li><a href="/baitai/20210131/1478525.md">成都一男子疑在医院当保安感染艾滋 家属：他曾多次被废弃针头扎伤</a></li>
 <li><a href="/bannedvideo/20210131/1478274.md">被川普骂成没种，彭斯卖惨无家可归，入戏太深我差点信了。</a></li>
+<li><a href="/baitai/20210131/1478525.md">成都一男子疑在医院当保安感染艾滋 家属：他曾多次被废弃针头扎伤</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210201/1478812.md" target="_blank">参议员霍利为选举争议辩护 吁进行“系统改革”</a></li>
+<li><a href="/comments/20210201/1478811.md" target="_blank">诺贝尔和平奖提名 传川普和俄国反对派领袖在列</a></li>
 <li><a href="/comments/20210201/1478806.md" target="_blank">俄罗斯爆发大规模抗议 四千多人被捕</a></li>
 <li><a href="/comments/20210201/1478804.md" target="_blank">WHO专家参观“抗疫史诗”展 中共全程严控 媒体不得近身</a></li>
 <li><a href="/comments/20210201/1478803.md" target="_blank">拜登弟弟任职公司攀亲带故 破坏新政府道德形象</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210131/1478716.md" target="_blank">冬天为何容易便秘？ 医师分析原因</a></li>
 <li><a href="/comments/20210131/1478715.md" target="_blank">胆固醇狂飙不降？！要看看是不是这个在作怪</a></li>
 <li><a href="/comments/20210131/1478714.md" target="_blank">病毒挡不住？已打第二剂疫苗仍染疫</a></li>
-<li><a href="/comments/20210131/1478707.md" target="_blank">中国新年临近 上海也成重灾区 市民惊爆：政府利用疫情赚钱</a></li>
-<li><a href="/comments/20210131/1478706.md" target="_blank">6宝妈又生了4胞胎！夫吓到离家出走 无力抚养10孩盼外界救助</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
