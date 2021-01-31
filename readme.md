@@ -7,13 +7,13 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210131/1478255.md">人彻底憋疯了 网曝黑龙江绥化一妇女在小区裸跑</a></li>
 <li><a href="/cbnews/20210131/1478303.md">起底中国「最顶级富豪组织」入会门槛扯爆！马云只是小老弟</a></li>
-<li><a href="/bannedvideo/20210131/1478270.md">【中美】风云突变，王岐山现身，接棒习近平；共军模拟攻击美航母，美军太平洋司令部回应；中共收集美国人DNA；美国强盛的秘密从来不是民主？中共报复澳洲追寻疫情源头失败 WL</a></li>
 <li><a href="/funmedia/20210131/1478390.md">国外一女子放生老虎，5年后人虎再次相遇，老虎直接扑上去咬住头</a></li>
+<li><a href="/bannedvideo/20210131/1478270.md">【中美】风云突变，王岐山现身，接棒习近平；共军模拟攻击美航母，美军太平洋司令部回应；中共收集美国人DNA；美国强盛的秘密从来不是民主？中共报复澳洲追寻疫情源头失败 WL</a></li>
 <li><a href="/cbnews/20210131/1478158.md">武汉长江再次见底 专家: 三峡建坝恶果</a></li>
 <li><a href="/cbnews/20210131/1478253.md">中国民众"肛拭"检测后走路变样？网友直呼恐怖</a></li>
 <li><a href="/baitai/20210131/1478534.md">以色列疫情奇迹般消失 惊讶发现一个规律</a></li>
-<li><a href="/topimagenews/20210131/1478212.md">彭斯“无家可归” 逆转？一语双关？德州检察长调查狙击散户事件 美堕落从民主扩大化开始?</a></li>
 <li><a href="/cbnews/20210131/1478349.md">🔥🔥惨❗就要被灭口❓《辛普森一家》预言拜登被戴“黑头套”❓❗</a></li>
+<li><a href="/topimagenews/20210131/1478212.md">彭斯“无家可归” 逆转？一语双关？德州检察长调查狙击散户事件 美堕落从民主扩大化开始?</a></li>
 <li><a href="/topimagenews/20210131/1478453.md">能呼吸了！染上中共病毒写了遗嘱的他找到救命的法了</a></li>
 <li><a href="/cnnews/20210131/1478434.md">没想到啊！胡锡进的微博评论区翻车了</a></li>
 <li><a href="/cbnews/20210131/1478157.md">疫情之下 中国500万手机用户消失之谜</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/bannedvideo/20210131/1478551.md">习近平威吓美国政府，中共一定是要攻打台湾的，另奥巴马实际上已成了现任美国政府的太上皇</a></li>
 <li><a href="/headline/20210131/1478517.md">川普TV将成立 民主党怕了</a></li>
 <li><a href="/topimagenews/20210131/1478243.md">莉兹钱尼挺弹劾 川普集中政治资源要拉她下台</a></li>
+<li><a href="/topimagenews/20210131/1478591.md">川普罕见行动专门支持她;左媒罕见报导:川普卸任后人气飙升；</a></li>
 <li><a href="/cbnews/20210131/1478410.md">天亮时分：马斯克遭司法部调查，惨变马云？全球化4.0时代，中共与高科技的对决是否会像GameStop一样充满悬念？（政论天下第341集 20210130）</a></li>
 <li><a href="/bannedvideo/20210131/1478258.md">2021年1月29日生效的法律：美国总统应通过使用民兵或武装部队或同时使用两者 或以任何其他手段采取他认为必要的措施镇压一国境内的任何叛乱 非法联合或阴谋 拜登政府开始调查马斯克SpaceX</a></li>
 <li><a href="/topimagenews/20210131/1478244.md">防间谍！英国政府将限制中国人在44个敏感领域工作 取消签证</a></li>
-<li><a href="/topimagenews/20210131/1478591.md">川普罕见行动专门支持她;左媒罕见报导:川普卸任后人气飙升；</a></li>
+<li><a href="/headline/20210131/1478634.md">陈杰人披露习近平家族财富惹祸上身</a></li>
 <li><a href="/bannedvideo/20210131/1478274.md">被川普骂成没种，彭斯卖惨无家可归，入戏太深我差点信了。</a></li>
-<li><a href="/bannedvideo/20210131/1478226.md">美国军方在行动 The U.S. military in action</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210201/1478726.md" target="_blank">抓紧着成绩表的爸爸</a></li>
+<li><a href="/comments/20210201/1478725.md" target="_blank">金融时报：国际企业忧香港法治受损 考虑将仲裁地点转往新加坡等</a></li>
+<li><a href="/comments/20210201/1478724.md" target="_blank">认同中共灭绝维族 日本下月将立法禁人权犯入境</a></li>
 <li><a href="/comments/20210131/1478717.md" target="_blank">叶黄素护眼？ 这些常见观念是错误的</a></li>
 <li><a href="/comments/20210131/1478716.md" target="_blank">冬天为何容易便秘？ 医师分析原因</a></li>
 <li><a href="/comments/20210131/1478715.md" target="_blank">胆固醇狂飙不降？！要看看是不是这个在作怪</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210131/1478584.md" target="_blank">食品及包装上都有病毒，会感染吗？</a></li>
 <li><a href="/comments/20210131/1478574.md" target="_blank">政府“咨询”太空卡实名制 交立会文件订明维持现状“不是选项”</a></li>
 <li><a href="/comments/20210131/1478570.md" target="_blank">疫情致山东男难回家过年 父母将300斤活猪塞车尾箱</a></li>
-<li><a href="/comments/20210131/1478569.md" target="_blank">美将参加印度航展 彰显两国密切防务合作关系</a></li>
-<li><a href="/comments/20210131/1478545.md" target="_blank">新当选议员：美国真正的敌人是社会主义者</a></li>
-<li><a href="/comments/20210131/1478526.md" target="_blank">【专访】被指助 12 港人偷渡被捕 霍朗齐：续做应做的事 母：深信儿子没有错</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
 
 </ul>
 </div>
