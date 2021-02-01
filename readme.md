@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/worldnews/20210131/1478719.md">专家曝致死率75%立百病毒在中国爆发警告恐引发下一场大流行</a></li>
-<li><a href="/comments/20210131/1478707.md">中国新年临近 上海也成重灾区 市民惊爆：政府利用疫情赚钱</a></li>
 <li><a href="/topimagenews/20210201/1478873.md">不满选举结果 缅甸政变！翁山苏姬遭军方拘留</a></li>
 <li><a href="/comments/20210201/1478746.md">亚洲惊现立百病毒！ 专家警告：至死率达75％恐成下场疫情</a></li>
 <li><a href="/topimagenews/20210201/1478874.md">拜登对华政策专家一语道破 美轰炸机进驻关岛 上将:中共靠“航母杀手”赢不了</a></li>
 <li><a href="/lifebaike/20210201/1478847.md">不吃鸡精、味精的人都来看看，我也是刚知道，看完别乱买了</a></li>
 <li><a href="/worldnews/usa/20210201/1479056.md">暗杀川普失败 深层政府处于恐慌中</a></li>
 <li><a href="/health/20210201/1478844.md">性观念开放的年轻人：女大学生确诊艾滋，男友曾在外找过“服务”</a></li>
-<li><a href="/comments/20210201/1479029.md">诡异！习近平也镇不住了？军医大学：南海演习太频繁 官兵1/5有精神问题</a></li>
 <li><a href="/yule/20210201/1478924.md">知名女星有多惨？叫了20年的哥哥是生父，母亲其实是奶奶</a></li>
+<li><a href="/comments/20210201/1479029.md">诡异！习近平也镇不住了？军医大学：南海演习太频繁 官兵1/5有精神问题</a></li>
 <li><a href="/cbnews/20210201/1479134.md">妻子怀孕，男子贴条让邻居关wifi 邻居回应亮了</a></li>
 <li><a href="/cbnews/20210201/1479139.md">上海疫情急升温 满街都是“白大褂”</a></li>
-<li><a href="/bannedvideo/20210201/1479061.md">川普恐被赶出海湖庄园；不惜开战！以色列对拜登放狠话；中国 “肛拭子”测病毒吓傻网友；绥化封户 妇女裸跑；胡锡进通奸调查结果出炉</a></li>
 <li><a href="/cnnews/20210201/1478778.md">台积电实力出乎意料 日经：美国也感不安</a></li>
+<li><a href="/bannedvideo/20210201/1479061.md">川普恐被赶出海湖庄园；不惜开战！以色列对拜登放狠话；中国 “肛拭子”测病毒吓傻网友；绥化封户 妇女裸跑；胡锡进通奸调查结果出炉</a></li>
 <li><a href="/cbnews/20210201/1478956.md">陈破空：突然：缅甸发生政变！昂山素季遭军方逮捕。中共或有机可乘。国际社会紧张</a></li>
 <li><a href="/bannedvideo/20210201/1479033.md">最新内部消息：拯救美国，上阵父子兵，川普家族将派多员大将角逐2022； 临阵换将，川普将借弹劾案反攻揭露大选舞弊？哈佛学者陶瑞，纳姐！</a></li>
 <li><a href="/lifebaike/20210201/1478890.md">“婚姻好不好，床前见分晓”</a></li>
+<li><a href="/cnnews/20210201/1479279.md">19岁女大生学车遇害 尸体惨不忍睹 肚子被剖开…</a></li>
+<li><a href="/cbnews/20210201/1479130.md">43名德国飞成都乘客向外求救</a></li>
 <li><a href="/funmedia/20210201/1478908.md">花心的女人会有的特征，一看一个准</a></li>
 <li><a href="/cnnews/20210201/1478967.md">英媒：研究证实中共病毒源自中国</a></li>
-<li><a href="/cbnews/20210201/1478739.md">一名留德女生亲述回中国的路艰难</a></li>
-<li><a href="/cbnews/20210201/1479130.md">43名德国飞成都乘客向外求救</a></li>
 <li><a href="/comments/20210201/1478789.md">网友惊呼：说话凭票的时代来了~</a></li>
-<li><a href="/cnnews/20210201/1479279.md">19岁女大生学车遇害 尸体惨不忍睹 肚子被剖开…</a></li>
+<li><a href="/cbnews/20210201/1479218.md">专家：习近平一心保权 马云恐遭中纪委关押</a></li>
+<li><a href="/cbnews/20210201/1478739.md">一名留德女生亲述回中国的路艰难</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210201/1479368.md" target="_blank">中世纪700岁“王者之剑” 从波斯尼亚河的石头中拔出</a></li>
+<li><a href="/comments/20210201/1479367.md" target="_blank">缅甸军方政变逮捕总统、昂山素季等人 各国反应一次看</a></li>
 <li><a href="/comments/20210201/1479354.md" target="_blank">评论 | 余杰：从《河殇》到《中国》- 从自由到专制的蜕变</a></li>
 <li><a href="/comments/20210201/1479353.md" target="_blank">评论 | 余杰：暴秦是中国最深刻的文化基因</a></li>
 <li><a href="/comments/20210201/1479352.md" target="_blank">评论 | 王丹：北京继续挑衅美国新政府</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210201/1479197.md" target="_blank">千万别得罪他们！这3星座报复心极强</a></li>
 <li><a href="/comments/20210201/1479172.md" target="_blank">叙利亚北部接连3起汽车炸弹攻击 至少20死逾50伤</a></li>
 <li><a href="/comments/20210201/1479171.md" target="_blank">澳拟强制脸书等媒体付费 澳财长：扎克伯格威胁未果</a></li>
-<li><a href="/comments/20210201/1479170.md" target="_blank">台湾新西兰抗疫成绩闪亮 美媒：北京嫉妒恶整</a></li>
-<li><a href="/comments/20210201/1479169.md" target="_blank">海航旗下公司自揭破产内幕 数百亿被股东挪用</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20171115/856086.md" target="_blank">我所知道的地球历史与奥秘篇（六）：水晶头骨</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
 
 </ul>
 </div>
