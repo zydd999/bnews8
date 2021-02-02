@@ -6,11 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210201/1479279.md">19岁女大生学车遇害 尸体惨不忍睹 肚子被剖开…</a></li>
-<li><a href="/cbnews/20210201/1479134.md">妻子怀孕，男子贴条让邻居关wifi 邻居回应亮了</a></li>
-<li><a href="/cbnews/20210201/1479139.md">上海疫情急升温 满街都是“白大褂”</a></li>
 <li><a href="/cbnews/20210201/1479218.md">专家：习近平一心保权 马云恐遭中纪委关押</a></li>
 <li><a href="/cbnews/20210201/1479185.md">中国疫情捂不住 钟南山突然密集放话“新挑战”</a></li>
-<li><a href="/cbnews/20210201/1479130.md">43名德国飞成都乘客向外求救</a></li>
 <li><a href="/headline/20210202/1479435.md">赖小民为何被习近平催命？原来他是曾庆红的“王炸”</a></li>
 <li><a href="/bannedvideo/20210202/1479594.md">财经冷眼：昨夜！5000亿级巨头雷暴 ，工行、平安被拖下水，国务院紧急救助！中共全面封杀自媒体，有限言论空间归零！（20210202第454期）</a></li>
 <li><a href="/bannedvideo/20210202/1479481.md">【重磅】川普总统遭深层政府派出的世界顶级狙击手暗害 幸亏海湖庄园一周前刚换了防弹玻璃 否则总统已遭遇不测  实属万幸  请爱国者们为川普总统祈祷!!!</a></li>
@@ -22,12 +19,15 @@
 <li><a href="/yule/20210202/1479589.md">嫁大20岁富商10年 大陆知名女星曝离婚 震惊网友</a></li>
 <li><a href="/topimagenews/20210201/1479236.md">川普强势回归?德州法官续签限制令延长拜登禁令《华时》剖析拜登对中共“战略忍耐”真意</a></li>
 <li><a href="/topimagenews/20210201/1479250.md">好莱坞大明星戈德堡穿着共济会毛衣上节目 招致公众愤慨 她道歉了【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210201/1479276.md">讽刺新闻，福奇博士忽左忽右 美国人终于可以戴一个口罩了【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210201/1479356.md">昂山素姬等缅甸领导人被军方抓捕 白宫震惊；川普任命2名律师加入弹劾辩护团队；华尔街提防散户投资热潮蔓延；俄罗斯反对派再发起全国抗议 4500多人被捕【希望之声TV】</a></li>
-<li><a href="/cbnews/20210201/1479136.md">旅客行李箱传出哭声 司机一打开秒报警</a></li>
-<li><a href="/cbnews/20210201/1479129.md">封城亲历者：高峰期武汉每天至少有五千人死亡</a></li>
+<li><a href="/topimagenews/20210201/1479276.md">讽刺新闻，福奇博士忽左忽右 美国人终于可以戴一个口罩了【阿波罗网编译】</a></li>
+<li><a href="/headline/20210202/1479797.md">传赖小民死前嚎啕大哭 2000公斤金条下落不明</a></li>
+<li><a href="/topimagenews/20210202/1479667.md">扎克伯格被曝光 脸书内部视频：自认有“太多权力” 愿与拜登合作 还涉及中共？</a></li>
 <li><a href="/cbnews/20210202/1479533.md">日本报导武汉管制疫情资讯 信号被中共掐断</a></li>
-<li><a href="/topimagenews/20210201/1479128.md">蹊跷！确诊人数锐减14634例 美国疾控中心统计数字成谜【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210201/1479314.md">美政客鼓动拜登联合中共搞习近平！习在危机中整肃反对势力，杀赖小民立威！川普对抗中共才是正路！</a></li>
+<li><a href="/baitai/20210201/1479375.md">顶尖科学家：新冠病毒来自实验室</a></li>
+<li><a href="/bannedvideo/20210202/1479742.md">川普再现王者风范，选后捐款破纪录；彭斯新动向；这个共和党参议员居然84%的本州支持者是民主党人</a></li>
+<li><a href="/topimagenews/20210202/1479544.md">美国人如果知道通俄门的内幕 就会揭开深层政府和两层司法制度【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210202/1479890.md" target="_blank">政变次日缅甸军方宣布：今天释放各省邦首长及议员 </a></li>
 <li><a href="/comments/20210202/1479870.md" target="_blank">东西方对决？缅甸军方对“大选舞弊”出手</a></li>
 <li><a href="/comments/20210202/1479845.md" target="_blank">世卫官员吁：让国际专家调查小组在武汉“自由访问”</a></li>
 <li><a href="/comments/20210202/1479844.md" target="_blank">德政府：确保9月底所有德国公民接种疫苗</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210202/1479721.md" target="_blank">陶杰：二等公民</a></li>
 <li><a href="/comments/20210202/1479720.md" target="_blank">严纯钩：要走则义无反顾 不走则忍气吞声</a></li>
 <li><a href="/comments/20210202/1479719.md" target="_blank">文化左派如何摧毁了西方文明的根基 超越马克思主义的新邪恶</a></li>
-<li><a href="/comments/20210202/1479702.md" target="_blank">加驻华使馆定制“武汉蝙蝠衣”遭举报 中共病毒源头再成焦点</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 <li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
