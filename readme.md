@@ -6,10 +6,9 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210203/1480355.md">官宣！个人住房征收房产税！1月28日起执行</a></li>
-<li><a href="/bannedvideo/20210202/1479966.md">待证实的消息：弗林将军联合军方呼吁拜登下台   纽约州 新泽西州宣布进入紧急状态</a></li>
 <li><a href="/cbnews/20210202/1480043.md">中共若对台湾动武 国务卿回答美国将这么做</a></li>
-<li><a href="/cnnews/20210202/1480045.md">参议员克鲁兹  川普“鲁莽又不负责任”没有提供投票不真实的证据【阿波罗网编译】</a></li>
 <li><a href="/comments/20210203/1480270.md">中共最高层领导人最新民望排名 习近平仅排第六 前三甲竟是他们三 不同寻常的政治信号 中南海不可告人的秘密_311</a></li>
+<li><a href="/cnnews/20210202/1480045.md">参议员克鲁兹  川普“鲁莽又不负责任”没有提供投票不真实的证据【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210203/1480312.md">🔥🔥2021最可怕事就要发生❓ 2021阿南德最新预言：2月10日起世界状况会更差❗阿南德运用“土木6个合相等级”预言恶人马上遭难❗刘伯温《推碑图》：十道恶人无一存❗❗</a></li>
 <li><a href="/cbnews/20210202/1480040.md">陈破空：美国新战略：换掉习近平！超长电报的秘密。世卫专家见到关键人物？乌克兰制裁中国</a></li>
 <li><a href="/comments/20210202/1480110.md">明天立春，关于立春的风俗和禁忌，你都知道吗？</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/bannedvideo/20210203/1480261.md">习近平要动刀，马化腾被摆上案；抖音告腾讯垄断，张一鸣欲趁机做大；内部人士泄内幕，当局隐瞒这么多！哈尔滨小区三封，大巴多小区拉人；英变种病毒再突变，专家用蟑螂理论推断疫情【李沐阳 新闻看点02.03】</a></li>
 <li><a href="/ssgc/20210203/1480268.md">专家惊呼：中国人口塌陷已经到来</a></li>
 <li><a href="/funmedia/20210203/1480349.md">泰国一只老虎被母猪哺育大，老虎长大后，对猪妈妈的态度引人深思</a></li>
+<li><a href="/cbnews/20210203/1480546.md">换届怕出事？中南海祭出“十个严禁”</a></li>
 <li><a href="/worldnews/20210203/1480282.md">缅甸女教练忘我跳操 意外录到政变惊天动地过程</a></li>
 <li><a href="/headline/20210203/1480152.md">中国作家之女发表“屎尿屁”诗作引热议</a></li>
-<li><a href="/cbnews/20210203/1480546.md">换届怕出事？中南海祭出“十个严禁”</a></li>
 <li><a href="/comments/20210203/1480117.md">菜鸟级失误！ 《CNN》：拜登犯了当总统第一个大错</a></li>
 <li><a href="/cnnews/20210203/1480265.md">科学家首次拍到：睡着时清洗大脑过程 熬夜变傻</a></li>
 <li><a href="/lifebaike/20210203/1480333.md">北大毕业生吴谢宇弑母案更多细节首次披露：杀母后频繁嫖娼，一夜消费过万</a></li>
-<li><a href="/cbnews/20210202/1479989.md">内幕：吉林省疫情消息（2021/2/1）</a></li>
 <li><a href="/lifebaike/20210203/1480453.md">大年30年夜饭千万不能上桌的菜，不是迷信，很不吉利</a></li>
+<li><a href="/cbnews/20210202/1479989.md">内幕：吉林省疫情消息（2021/2/1）</a></li>
 <li><a href="/lifebaike/20210203/1480334.md">江苏父亲攒下21万存款，临终却绑在身上带进火葬场，只因儿子...</a></li>
 <li><a href="/cbnews/20210203/1480247.md">美评论家：杨洁篪对美讲话暴露更多中共谎言</a></li>
+<li><a href="/bannedvideo/20210203/1480548.md">【重磅】川普：总统和副总统窃选是否该被抓起来？拜登嘲笑美国太空军的行为实在可耻！拜登, 滚出我的办公室！GET OUT MY OFFICE BIDEN!  我不是为我而战, 我是为你们而战!</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210203/1480696.md" target="_blank">有钱就是任性 曝华为替小公主申请数十个商标</a></li>
 <li><a href="/cbnews/20210203/1480680.md" target="_blank">杨洁篪对美喊话31次提合作 美国务院：现在不急</a></li>
 <li><a href="/cbnews/20210203/1480669.md" target="_blank">疑似中共黑客利用SolarWinds漏洞 入侵美政府</a></li>
 <li><a href="/cbnews/20210203/1480668.md" target="_blank">安理会紧急讨论缅甸政变 谴责声明遭中共阻挡</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210203/1480413.md" target="_blank">天亮时分：20210202 中共极限施压，拜登如何应对？GameStop股票暴跌，陈胜吴广的启示；自媒体的寒冬（政论天下第343集 20210202）</a></li>
 <li><a href="/cbnews/20210203/1480403.md" target="_blank">程晓农专访：拜登上台，美中关系大转变？美中新冷战还会持续吗？</a></li>
 <li><a href="/cbnews/20210203/1480347.md" target="_blank">路透：中共骇客利用SolarWinds入侵美政府电脑</a></li>
-<li><a href="/cbnews/20210203/1480324.md" target="_blank">中共审查升级莫谈国事？看美国双标到底谁病了？  嘉宾：蓝述 林晓旭 主持：高洁【希望之声TV】(2021/02/02)</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
