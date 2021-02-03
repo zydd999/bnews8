@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210202/1479708.md">江系曝共军机密 刀锋直指习近平；共军新年备战处处穿帮，挑战习近平智商？</a></li>
 <li><a href="/headline/20210202/1479797.md">传赖小民死前嚎啕大哭 2000公斤金条下落不明</a></li>
 <li><a href="/headline/20210202/1479953.md">左小青高调宣布离婚有内幕？夫家族背景太深</a></li>
 <li><a href="/topimagenews/20210202/1479880.md">刚刚！这家A股公司董事长被“留置”！股票瞬间跌停 可转债跌超20% 已破发</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/comments/20210202/1479954.md">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
 <li><a href="/headline/20210202/1479769.md">缅甸政变昂山被扣某人腿发抖 川普海湖庄园上空飘巨型横幅</a></li>
 <li><a href="/cbnews/20210202/1480040.md">陈破空：美国新战略：换掉习近平！超长电报的秘密。世卫专家见到关键人物？乌克兰制裁中国</a></li>
-<li><a href="/cbnews/20210202/1479709.md">北京发生H5N8禽流感疫情 大陆首次通报 网民讽刺：中共暴政之下已五毒俱全</a></li>
 <li><a href="/comments/20210202/1480110.md">明天立春，关于立春的风俗和禁忌，你都知道吗？</a></li>
 <li><a href="/cbnews/20210202/1479957.md">昂山素姬是如何被奥巴马利用，成为黑暗势力推行全球主义的一部分？昂山素姬上台后的蜕变，以及与缅甸军方矛盾的关键点。她被抓的最深层原因是什么？</a></li>
 <li><a href="/bannedvideo/20210202/1479742.md">川普再现王者风范，选后捐款破纪录；彭斯新动向；这个共和党参议员居然84%的本州支持者是民主党人</a></li>
 <li><a href="/cnnews/hknews/20210203/1480177.md">卸任中国领导人民望远高习近平 香港学者呼吁反思</a></li>
 <li><a href="/comments/20210202/1479835.md">赖小民死前嚎啕大哭 向各类执法人员交代了不少藏匿财富的秘密地点 2000公斤金条下落不明 有几个人现在已经消失了……中南海谣言预言_431</a></li>
-<li><a href="/bannedvideo/20210202/1479946.md">海航破产表明习近平与王岐山决裂？海航集团董事长陈峰巧妙的送礼给靠山--天钧政经</a></li>
 <li><a href="/cnnews/20210202/1479815.md">福祸相依？中国出版社推五福春联 竟暗藏「祸」字</a></li>
+<li><a href="/bannedvideo/20210202/1479946.md">海航破产表明习近平与王岐山决裂？海航集团董事长陈峰巧妙的送礼给靠山--天钧政经</a></li>
 <li><a href="/headline/20210203/1480152.md">中国作家之女发表“屎尿屁”诗作引热议</a></li>
 <li><a href="/comments/20210203/1480117.md">菜鸟级失误！ 《CNN》：拜登犯了当总统第一个大错</a></li>
+<li><a href="/cnnews/20210202/1479842.md">“让川普的反击开始吧 我们7400万人已经等不及了”【阿波罗网编译】图</a></li>
+<li><a href="/lifebaike/20210202/1479750.md">没钱的银行卡是"销户"还是"留着"？幸亏及时提醒</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210203/1480413.md" target="_blank">天亮时分：20210202 中共极限施压，拜登如何应对？GameStop股票暴跌，陈胜吴广的启示；自媒体的寒冬（政论天下第343集 20210202）</a></li>
+<li><a href="/cbnews/20210203/1480403.md" target="_blank">程晓农专访：拜登上台，美中关系大转变？美中新冷战还会持续吗？</a></li>
 <li><a href="/cbnews/20210203/1480347.md" target="_blank">路透：中共骇客利用SolarWinds入侵美政府电脑</a></li>
 <li><a href="/cbnews/20210203/1480324.md" target="_blank">中共审查升级莫谈国事？看美国双标到底谁病了？  嘉宾：蓝述 林晓旭 主持：高洁【希望之声TV】(2021/02/02)</a></li>
 <li><a href="/cbnews/20210203/1480312.md" target="_blank">🔥🔥2021最可怕事就要发生❓ 2021阿南德最新预言：2月10日起世界状况会更差❗阿南德运用“土木6个合相等级”预言恶人马上遭难❗刘伯温《推碑图》：十道恶人无一存❗❗</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
 <li><a href="/cbnews/20210202/1479934.md" target="_blank">四川开两会 动用上百警察抓捕访民</a></li>
 <li><a href="/cbnews/20210202/1479922.md" target="_blank">中国大陆惊爆假疫苗 王定宇酸爆？</a></li>
-<li><a href="/cbnews/20210202/1479838.md" target="_blank">杨洁篪对美讲话多次断线 被讽该换翻墙软件</a></li>
-<li><a href="/cbnews/20210202/1479827.md" target="_blank">“自焚”就是一场骗人的戏 推手下场…</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210203/1480426.md" target="_blank">二大爷：昂山素季的两面人生 自己背叛了自己</a></li>
+<li><a href="/comments/20210203/1480425.md" target="_blank">李平：华尔街Robinhood 林郑政府是一路货色</a></li>
+<li><a href="/comments/20210203/1480424.md" target="_blank">陶杰：我控诉 陷入鸡奸边缘的种族欺凌秘密</a></li>
+<li><a href="/comments/20210203/1480423.md" target="_blank">程晓农：中美新交锋开始了 习近平进攻 拜登首尾难顾</a></li>
+<li><a href="/comments/20210203/1480406.md" target="_blank">沙中线近 700 钢筋被剪短 1900处螺丝帽未妥善接驳 专家顾问团轰港铁未交政府接纳处理方案</a></li>
+<li><a href="/comments/20210203/1480405.md" target="_blank">习近平系列强势动作后 杨洁篪再对美喊话 有何效果</a></li>
+<li><a href="/comments/20210203/1480404.md" target="_blank">这两案子太敏感！中国人权律师任全牛吊照真实原因曝光</a></li>
+<li><a href="/comments/20210203/1480401.md" target="_blank">【川普弹劾案】 格雷厄姆警告民主党勿传唤证人 快点结束这场拙劣闹剧</a></li>
 <li><a href="/comments/20210203/1480399.md" target="_blank">杜鲁多哈里斯通话 美承诺协助救中共关押人质</a></li>
 <li><a href="/comments/20210203/1480398.md" target="_blank">科学家研究显示：人们睡不好与月亮有关</a></li>
 <li><a href="/comments/20210203/1480394.md" target="_blank">假装是天堂 ​​​​：一年了，那些新冠治愈者怎么样了？</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210203/1480290.md" target="_blank">这旋律太给力了！陈东新音乐作品 ：《大疫救命有良方》大树 ：《 好想你退党 》</a></li>
 <li><a href="/comments/20210203/1480289.md" target="_blank">电商巨头亚马逊创始人兼CEO将卸任</a></li>
 <li><a href="/comments/20210203/1480270.md" target="_blank">中共最高层领导人最新民望排名 习近平仅排第六 前三甲竟是他们三 不同寻常的政治信号 中南海不可告人的秘密_311</a></li>
-<li><a href="/comments/20210203/1480250.md" target="_blank">万达电影2020年预亏超60亿</a></li>
-<li><a href="/comments/20210203/1480243.md" target="_blank">中国文坛突起大风暴！贾平凹女儿诗歌被批“肮脏恶心的垃圾文字” 继梨花体废话体之后 粗话体裤裆体屎尿体横空出世 教主为文二代贾浅浅：“我爸是贾平凹”</a></li>
-<li><a href="/comments/20210203/1480242.md" target="_blank">（独家）【传统故事】：这两位高人的相貌、表现，让我们看到了什么？</a></li>
-<li><a href="/comments/20210203/1480241.md" target="_blank">拥有4500万粉丝的SpaceX创始人马斯克宣布离开推特</a></li>
-<li><a href="/comments/20210203/1480240.md" target="_blank">美媒：武装台湾对抗中共 胜于派美军参战</a></li>
-<li><a href="/comments/20210203/1480239.md" target="_blank">中国一线房企华夏幸福52亿债务违约</a></li>
-<li><a href="/comments/20210203/1480238.md" target="_blank">曾募款3300万受册封 英百岁老兵染中共病毒辞世</a></li>
-<li><a href="/comments/20210203/1480224.md" target="_blank">为何中共从香山到天安门挖空心思搞“自焚”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20180404/923380.md" target="_blank">专访神韵艺术团混血美女领舞演员陈美容</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
