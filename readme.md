@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210203/1480699.md">iPhone消失四年的功能 今年杀回来了</a></li>
 <li><a href="/cbnews/20210204/1480978.md">习近平考察贵州致新春祝福 憋了半天说出3句</a></li>
 <li><a href="/topimagenews/20210203/1480723.md">罗姆尼侄女、共和党全委会主席成叛徒：后悔支持川普挑战投票造假……【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210204/1481002.md">2021年第二虎现身 中共后台也保不住</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210204/1480928.md">调查儿童案  FBI特工遭报复；急了？拜登任命防长对五角大楼川普盟友大清洗 ；美上将:须为中共或俄罗斯的核战争做准备；女运动员提诉拜登性别认同法案；拜登签大量命令 签名真假受质疑【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210204/1480929.md">突发：拜登司法部撤销川普政府对耶鲁大学歧视亚裔和白人学生的起诉。为华裔学子争取教育平权的努力再遭重创？纳姐邀请亚裔教育联盟主席，教育平等维权第一人赵宇空先生就该话题进行深度解读</a></li>
 <li><a href="/cbnews/20210204/1481013.md">中国民营火箭写满鬼画符 发射失败漫天乱舞</a></li>
+<li><a href="/cnnews/20210204/1481310.md">川普走了 选民也走了 乔治亚共和党麻烦了【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210204/1481435.md" target="_blank">窃取党和国家权力 习近平的政敌是他？</a></li>
+<li><a href="/cbnews/20210204/1481434.md" target="_blank">用户超800万人人影视字幕组被抄 网友怒轰当局</a></li>
 <li><a href="/cbnews/20210204/1481391.md" target="_blank">北京警察以核酸检测当诱耳 访民杨浩被刑拘</a></li>
 <li><a href="/comments/20210204/1481223.md" target="_blank">电影异常精准的预演了2019年以来世界上发生的一切，川普的王者归来和将要完成的历史使命。此刻北美的猩族人正在集结，已经重创了华尔街，重点是病毒绝不伤害猩族人。</a></li>
 <li><a href="/cbnews/20210204/1481329.md" target="_blank">美国军舰又来了！航经台海：中美两军曾在此较劲</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210204/1481036.md" target="_blank">反对拜登政策 霍利和克鲁兹齐发声；共和党议员吁把华为问题说清楚 否则暂缓任命商务部长；独立记者起诉纽约时报向读者撒谎 ；中使馆不撤侨 10万缅甸华人处境堪忧【希望之声TV】</a></li>
 <li><a href="/cbnews/20210204/1481013.md" target="_blank">中国民营火箭写满鬼画符 发射失败漫天乱舞</a></li>
 <li><a href="/cbnews/20210204/1481012.md" target="_blank">北京惊现毒王！确诊男子开食堂 密接926人</a></li>
-<li><a href="/cbnews/20210204/1480979.md" target="_blank">宁波望春工业园大火狂烧5小时 浓烟遮天蔽日</a></li>
-<li><a href="/cbnews/20210204/1480978.md" target="_blank">习近平考察贵州致新春祝福 憋了半天说出3句</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210204/1481427.md" target="_blank">今天过小年，那些嘴边寓意吉庆的年味儿&#8230;</a></li>
+<li><a href="/comments/20210204/1481426.md" target="_blank">白发、掉发&#8230;改善头发5大问题的注意事项</a></li>
+<li><a href="/comments/20210204/1481425.md" target="_blank">过年是肠胃炎好发期 这样就能有效防</a></li>
 <li><a href="/comments/20210204/1481399.md" target="_blank">【学运低潮】国安法下首次换届 六大学生会势“断庄” 仅中大理大完整内阁出选</a></li>
 <li><a href="/comments/20210204/1481398.md" target="_blank">连封 12 区强检近 7400 人 仅 1 人初步确诊 林郑：如有需要 会封到年廿九</a></li>
 <li><a href="/comments/20210204/1481397.md" target="_blank">【图片+视频】通往地心世界？冒犯它后果太严重！西藏第一神山： 冈仁波齐</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210204/1481247.md" target="_blank">大陆女星整形失败 “鼻头发黑坏死”惨不忍睹</a></li>
 <li><a href="/comments/20210204/1481242.md" target="_blank">德媒：中俄拖延安理会行动美国制裁缅甸军方</a></li>
 <li><a href="/comments/20210204/1481241.md" target="_blank">罕见奇观！哈萨克斯坦草原现冰火山</a></li>
-<li><a href="/comments/20210204/1481218.md" target="_blank">李源潮可能有麻烦了 左小青高调宣布离婚 李源潮的妻弟高全建传被调查 高全建澳门赌博输掉2000万人民币被赌场扣住 广州军区动用军款把人赎回来 李源潮多次传出被查甚至自杀消息 中南海谣言预言_432</a></li>
-<li><a href="/comments/20210204/1481204.md" target="_blank">英媒：美国CIA间谍正遭俄“秘密武器”攻击？</a></li>
-<li><a href="/comments/20210204/1481190.md" target="_blank">李燕铭：习近平备战二十大 与江曾展开生死对决 中南海祭出“十个严禁” 5836个“一把手”落马 1.6万人主动投案 8.6万人被问责</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
