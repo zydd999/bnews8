@@ -7,24 +7,24 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210204/1481435.md">窃取党和国家权力 习近平的政敌是他？</a></li>
 <li><a href="/comments/20210204/1481326.md">FBI特工凌晨突袭弗州IT宅男，竟被一枪一个射杀…</a></li>
-<li><a href="/cbnews/20210204/1481499.md">陈破空：中纪委颁十大禁令，条条针对习近平！二十大防海外民运？党媒暗示马云真实处境</a></li>
 <li><a href="/bannedvideo/20210204/1481338.md">国内地产银行崩盘进行中，习近平下一步要铲除新加坡的李显龙家族</a></li>
-<li><a href="/cnnews/20210204/1481310.md">川普走了 选民也走了 乔治亚共和党麻烦了【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210204/1481499.md">陈破空：中纪委颁十大禁令，条条针对习近平！二十大防海外民运？党媒暗示马云真实处境</a></li>
 <li><a href="/comments/20210204/1481223.md">电影异常精准的预演了2019年以来世界上发生的一切，川普的王者归来和将要完成的历史使命。此刻北美的猩族人正在集结，已经重创了华尔街，重点是病毒绝不伤害猩族人。</a></li>
+<li><a href="/cnnews/20210204/1481310.md">川普走了 选民也走了 乔治亚共和党麻烦了【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210204/1481297.md">彭佩奥：中共就是缅甸军事政变后面的壹个黑手！今天又阻止联合国谴责缅甸政变【0203直播精彩回顾】</a></li>
 <li><a href="/cbnews/20210205/1481696.md">习近平到贵阳考察 网友：像病毒来了 封门封小区</a></li>
 <li><a href="/worldnews/20210204/1481300.md">贴身护卫接受「性贿赂」 金正恩处决提供性招待女少校</a></li>
-<li><a href="/worldnews/20210205/1481613.md">WHO调查组发现“前所未见资料” 不排除病毒来自武汉实验室</a></li>
 <li><a href="/topimagenews/20210205/1481637.md">弹劾川普遇杀手锏？这件大事FBI可作证 撤川普人选，新防长换几百顾问</a></li>
+<li><a href="/worldnews/20210205/1481613.md">WHO调查组发现“前所未见资料” 不排除病毒来自武汉实验室</a></li>
 <li><a href="/bannedvideo/20210204/1481500.md">奶茶店打人事件后续：被打女员工后台很硬，反手把奶茶店吊起来打（坐澳观天第280期 20210204）</a></li>
 <li><a href="/topimagenews/20210204/1481482.md">盖兹众议员这番话感天动地 舒默和麦康奈尔达协议民主党可控制委员会</a></li>
 <li><a href="/cbnews/20210205/1481695.md">上海疫情再上热搜 浦东危险？</a></li>
 <li><a href="/headline/20210205/1481606.md">官员访贫户被后方柜子出卖 舆论沸腾 急删报导</a></li>
+<li><a href="/cbnews/20210205/1481786.md">印度男孩最新预言：病毒人造，疫苗出问题，2021年更加糟糕</a></li>
+<li><a href="/cbnews/20210205/1481719.md">大陆人人影视字幕组被查14人被抓 网络沸腾</a></li>
 <li><a href="/yule/20210205/1481665.md">清纯可人的玉兰油女孩，如今嫁做人妇生活美满</a></li>
 <li><a href="/cbnews/20210204/1481434.md">用户超800万人人影视字幕组被抄 网友怒轰当局</a></li>
-<li><a href="/cbnews/20210205/1481719.md">大陆人人影视字幕组被查14人被抓 网络沸腾</a></li>
 <li><a href="/comments/20210205/1481598.md">惊！咖啡这样喝 竟喝下恐怖致癌物</a></li>
-<li><a href="/cbnews/20210205/1481786.md">印度男孩最新预言：病毒人造，疫苗出问题，2021年更加糟糕</a></li>
 <li><a href="/cbnews/20210204/1481444.md">中共官方出版社新年礼盒 五福藏“祸”字</a></li>
 <li><a href="/baitai/20210204/1481284.md">一个被毛泽东毁掉的女人 她本可以有花样年华</a></li>
 <li><a href="/cbnews/20210204/1481289.md">年终讨薪太难了？湖南长沙13人要跳楼</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210205/1481940.md" target="_blank">习近平考察贵州 中共运动式“脱贫”再引关注</a></li>
+<li><a href="/comments/20210205/1481938.md" target="_blank">【微博精粹】瘟疫核酸疫苗封城 大年三十可千万别唱那首歌了</a></li>
+<li><a href="/comments/20210205/1481936.md" target="_blank">感恩是一种美德 学会感恩是一种境界</a></li>
 <li><a href="/comments/20210205/1481929.md" target="_blank">马云缺席官媒名单 蚂蚁集团整改内幕曝光 马云危机未解</a></li>
 <li><a href="/comments/20210205/1481927.md" target="_blank">山东诸城硫化氢中毒已四人死 或数万吨剧毒物质流走</a></li>
 <li><a href="/comments/20210205/1481923.md" target="_blank">万万没想到，竟有人编造自己差点被“性侵”？</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210205/1481771.md" target="_blank">川普拒绝出席弹劾听证会作证</a></li>
 <li><a href="/comments/20210205/1481770.md" target="_blank">北约秘书长：需寻求全球新盟友应对中共威胁</a></li>
 <li><a href="/comments/20210205/1481760.md" target="_blank">美众议员提法案 拟推行川普的“抽干沼泽”</a></li>
-<li><a href="/comments/20210205/1481749.md" target="_blank">习近平要缺席审判郭文贵与蔡霞？中南海祭出新规 中南海谣言预言_433</a></li>
-<li><a href="/comments/20210205/1481746.md" target="_blank">【中文同声翻译】拜登首次发表外交政策讲话</a></li>
-<li><a href="/comments/20210205/1481744.md" target="_blank">袁弓夷：应将中共定性为“跨国犯罪集团”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">百家姓：“阴谋论”是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
