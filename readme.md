@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210204/1481435.md">窃取党和国家权力 习近平的政敌是他？</a></li>
-<li><a href="/comments/20210204/1481326.md">FBI特工凌晨突袭弗州IT宅男，竟被一枪一个射杀…</a></li>
 <li><a href="/cbnews/20210204/1481499.md">陈破空：中纪委颁十大禁令，条条针对习近平！二十大防海外民运？党媒暗示马云真实处境</a></li>
 <li><a href="/cbnews/20210205/1481786.md">印度男孩最新预言：病毒人造，疫苗出问题，2021年更加糟糕</a></li>
 <li><a href="/bannedvideo/20210204/1481500.md">奶茶店打人事件后续：被打女员工后台很硬，反手把奶茶店吊起来打（坐澳观天第280期 20210204）</a></li>
 <li><a href="/worldnews/20210205/1481613.md">WHO调查组发现“前所未见资料” 不排除病毒来自武汉实验室</a></li>
-<li><a href="/cbnews/20210205/1481696.md">习近平到贵阳考察 网友：像病毒来了 封门封小区</a></li>
 <li><a href="/topimagenews/20210205/1481637.md">弹劾川普遇杀手锏？这件大事FBI可作证 撤川普人选，新防长换几百顾问</a></li>
+<li><a href="/cbnews/20210205/1481696.md">习近平到贵阳考察 网友：像病毒来了 封门封小区</a></li>
+<li><a href="/bannedvideo/20210205/1481767.md">川普2月3号晚发布视频：  跟着我!  伟大的爱国者   你不会失望的  Follow me great patriots and you won't be disappointed.</a></li>
 <li><a href="/topimagenews/20210204/1481482.md">盖兹众议员这番话感天动地 舒默和麦康奈尔达协议民主党可控制委员会</a></li>
 <li><a href="/cbnews/20210205/1481695.md">上海疫情再上热搜 浦东危险？</a></li>
-<li><a href="/bannedvideo/20210205/1481767.md">川普2月3号晚发布视频：  跟着我!  伟大的爱国者   你不会失望的  Follow me great patriots and you won't be disappointed.</a></li>
 <li><a href="/headline/20210205/1481606.md">官员访贫户被后方柜子出卖 舆论沸腾 急删报导</a></li>
 <li><a href="/ssgc/20210205/1481782.md">〖微博谈〗不要低估习近平的疯狂</a></li>
-<li><a href="/cbnews/20210205/1481719.md">大陆人人影视字幕组被查14人被抓 网络沸腾</a></li>
-<li><a href="/yule/20210205/1481665.md">清纯可人的玉兰油女孩，如今嫁做人妇生活美满</a></li>
 <li><a href="/funmedia/20210205/1481813.md">女人的3种性格 越小越招人喜欢，很准</a></li>
+<li><a href="/yule/20210205/1481665.md">清纯可人的玉兰油女孩，如今嫁做人妇生活美满</a></li>
+<li><a href="/cbnews/20210205/1481719.md">大陆人人影视字幕组被查14人被抓 网络沸腾</a></li>
 <li><a href="/comments/20210205/1481749.md">习近平要缺席审判郭文贵与蔡霞？中南海祭出新规 中南海谣言预言_433</a></li>
 <li><a href="/comments/20210205/1481598.md">惊！咖啡这样喝 竟喝下恐怖致癌物</a></li>
+<li><a href="/cbnews/20210205/1481957.md">外交溃不成军 王岐山讲话将有大事发生</a></li>
 <li><a href="/cbnews/20210204/1481434.md">用户超800万人人影视字幕组被抄 网友怒轰当局</a></li>
 <li><a href="/cbnews/20210204/1481444.md">中共官方出版社新年礼盒 五福藏“祸”字</a></li>
 <li><a href="/headline/20210204/1481511.md">外媒披露：新疆集中营女性每晚遭性侵及酷刑</a></li>
 <li><a href="/cbnews/20210204/1481506.md">拜登与习近平，双方刻意保持距离，葫芦里卖的是什么药？美国智库提议拜登政府搞掉习近平，改变川普政策，拜登会做吗？中共内斗加剧，习近平向拜登求和？</a></li>
-<li><a href="/cbnews/20210205/1481957.md">外交溃不成军 王岐山讲话将有大事发生</a></li>
+<li><a href="/cbnews/20210205/1481882.md">天亮时分：川普再度霸气外露；弹劾案最新进展；拜登终于宣示对华政策；（政论天下第345集 20210204）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210205/1482036.md" target="_blank">日本执政党将启动“台湾”专案小组 因应中共对台施压</a></li>
+<li><a href="/comments/20210205/1482027.md" target="_blank">【国安教育】杨润雄：校内不能叫“时代革命” 学校若无制止违国安行为 或视为未尽责任</a></li>
+<li><a href="/comments/20210205/1482025.md" target="_blank">女儿女婿海外执业 张宇人撑政府引入非本地培训医生 斥本地医生误导公众</a></li>
 <li><a href="/comments/20210205/1482002.md" target="_blank">美民主基金会报告：中共渗透全球媒体 无一国幸免</a></li>
 <li><a href="/comments/20210205/1481990.md" target="_blank">北京施压 斯里兰卡退出与印日“东货柜码头”开发计划</a></li>
 <li><a href="/comments/20210205/1481989.md" target="_blank">十余种从超市买回的蔬菜直接栽种，省钱吃着也放心</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210205/1481870.md" target="_blank">川普将利用民主党的筹码玩参议院的游戏</a></li>
 <li><a href="/comments/20210205/1481858.md" target="_blank">李燕铭：习近平再度清洗江泽民周永康老家 三支人马同期进驻江苏 无锡前公安局长副局长四天内相继落马 无锡两名副书记“自杀身亡” 原无锡市委书记杨卫泽与情妇同日被带走调查 杨卫泽曾向周永康输送美女主播</a></li>
 <li><a href="/comments/20210205/1481853.md" target="_blank">全球染疫人数持续攀升 已发现约4千种中共病毒变种</a></li>
-<li><a href="/comments/20210205/1481852.md" target="_blank">银河系新发现一个拥有近500成员的大家族</a></li>
-<li><a href="/comments/20210205/1481851.md" target="_blank">台海剑拔弩张 前共军中校：中共将有更大危机 台需善用一独特优势</a></li>
-<li><a href="/comments/20210205/1481840.md" target="_blank">惊！ 1/8染疫患者出院后5个月内死亡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
