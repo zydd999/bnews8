@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210206/1482419.md">科学家发现武肺救命药 古老又便宜</a></li>
 <li><a href="/cnnews/20210206/1482810.md">习近平女儿信息被公安卖了 替罪羊中原有胡锦涛亲戚</a></li>
 <li><a href="/lifebaike/20210206/1482528.md">69岁男人拒绝45岁保姆示爱：请自重，我只雇保姆，不找老伴</a></li>
 <li><a href="/cbnews/20210206/1482627.md">价格便宜“人”都不去买 习近平小年逛贵阳超市“指点白菜”</a></li>
-<li><a href="/topimagenews/20210206/1482626.md">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
 <li><a href="/cbnews/20210206/1482802.md">弗林将军、鲍威尔和Byrne等四人，巧妙进入白宫见到了川普总统，并说出了总统从未听过的计划。而当得知身边人想让自己输时，川普愤怒的问：谁？谁想让我认输？</a></li>
+<li><a href="/topimagenews/20210206/1482626.md">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
 <li><a href="/cbnews/20210206/1482706.md">邓婕前夫离婚后身价上亿 再谈她直言：自作自受</a></li>
 <li><a href="/cbnews/20210206/1482682.md">武汉病毒溯源 世卫专家与石正丽讨论 疑点越问越多</a></li>
 <li><a href="/health/20210206/1482617.md">日本新公布6大长寿行为，运动排最后，第一是什么？</a></li>
@@ -23,10 +22,11 @@
 <li><a href="/cbnews/20210206/1482747.md">中共袒护缅甸军方点燃仇华情绪 华人为自保谴责北京</a></li>
 <li><a href="/topimagenews/20210206/1482681.md">感人！川普罕见发声 力挺被封杀的名主持：这群粉丝中也包括我</a></li>
 <li><a href="/cnnews/20210206/1482792.md">感人！川普罕见发声；彭斯复出要积极参与这件事；美国银行将客户数据秘交FBI</a></li>
-<li><a href="/cbnews/20210206/1482580.md">注销户口 多少中国百姓成“黑市人口”？</a></li>
 <li><a href="/cbnews/20210206/1482808.md">陈破空：突然！中英激烈冲突。英国雄起！胡锡进赤膊上阵。土共纠缠美国，德特里克堡之谜</a></li>
+<li><a href="/cbnews/20210206/1482580.md">注销户口 多少中国百姓成“黑市人口”？</a></li>
+<li><a href="/comments/20210207/1482907.md">习近平女儿、姐夫个资被卖后续 知情人惊爆内幕：是警察干的</a></li>
 <li><a href="/bannedvideo/20210206/1482638.md">川普才是真正的总统 拜登任命的国防部长只是一个闲职 坦言自己最重要任务就是发口罩</a></li>
-<li><a href="/cbnews/20210206/1482422.md">专栏 | 夜话中南海：赖小民案的行贿方为何要被严格保密？</a></li>
+<li><a href="/worldnews/20210206/1482684.md">华人回国梦 被中领馆红头文件击得粉碎</a></li>
 <li><a href="/ssgc/20210206/1482606.md">〖兲朝浮世绘〗被甩了几个耳光后，BBC醒了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210207/1483008.md" target="_blank">缅甸华人谴责中共纵容缅军 直接打脸北京当局</a></li>
+<li><a href="/comments/20210207/1483007.md" target="_blank">研究：中共病毒的突变可能会影响疫苗效力</a></li>
+<li><a href="/comments/20210207/1483006.md" target="_blank">曾助纳粹杀害逾万人 德95岁老妪遭诉</a></li>
+<li><a href="/comments/20210207/1483005.md" target="_blank">黎智英保释终院下周二颁判词 人民日报：叛国乱港，命运早已写定</a></li>
 <li><a href="/comments/20210207/1482996.md" target="_blank">“三退”电话如越洋飞鸿 大陆民众感谢法轮功</a></li>
 <li><a href="/comments/20210207/1482991.md" target="_blank">【传统文化 】讲小朋友爱听的故事：世外桃源</a></li>
 <li><a href="/comments/20210207/1482990.md" target="_blank">任正非替女儿出道造势 红三代揭姚安娜被嘲三大原因</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210207/1482922.md" target="_blank">病的原因，“病”字早已说清楚了</a></li>
 <li><a href="/comments/20210207/1482921.md" target="_blank">4种肥胖类型1次了解！ 对症下药杜绝肥胖上身</a></li>
 <li><a href="/comments/20210207/1482909.md" target="_blank">【武汉肺炎】本港新增 19 确诊 任何住宅增一确诊将考虑强检</a></li>
-<li><a href="/comments/20210207/1482908.md" target="_blank">没有人生而有“原罪”</a></li>
-<li><a href="/comments/20210207/1482907.md" target="_blank">习近平女儿、姐夫个资被卖后续 知情人惊爆内幕：是警察干的</a></li>
-<li><a href="/comments/20210206/1482903.md" target="_blank">时事大家谈：强生、阿斯利康疫苗传喜讯 你要选择哪一种？</a></li>
-<li><a href="/comments/20210206/1482894.md" target="_blank">时事大家谈：美国纾困方案为民众带来哪些帮助？强生、阿斯利康疫苗传喜讯 你要选择哪一种？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20170907/819423.md" target="_blank">慧眼通揭秘百慕大三角之谜：时空之门 外星人基地—— 我所知道的地球历史与奥秘篇（五）：</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/xiulian/20170729/799172.md" target="_blank">我所知道的地球历史与奥秘（四）：美人鱼传奇</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
