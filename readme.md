@@ -11,23 +11,23 @@
 <li><a href="/headline/20210206/1482330.md">狼人女孩为结婚剃毛 网友见“惊人对比”</a></li>
 <li><a href="/bannedvideo/20210206/1482341.md">林伍德：2月非常有趣！很多事会发生！ 川普赢得了大选  不信就打赌去问军方</a></li>
 <li><a href="/lifebaike/20210206/1482528.md">69岁男人拒绝45岁保姆示爱：请自重，我只雇保姆，不找老伴</a></li>
+<li><a href="/cnnews/20210206/1482810.md">习近平女儿信息被公安卖了 替罪羊中原有胡锦涛亲戚</a></li>
 <li><a href="/cbnews/20210206/1482627.md">价格便宜“人”都不去买 习近平小年逛贵阳超市“指点白菜”</a></li>
 <li><a href="/topimagenews/20210206/1482318.md">拜登被蓬佩奥一句话戳透 还被川普任命官员起诉 拜登要求,最高法院取消辩</a></li>
-<li><a href="/cnnews/20210206/1482810.md">习近平女儿信息被公安卖了 替罪羊中原有胡锦涛亲戚</a></li>
 <li><a href="/topimagenews/20210206/1482626.md">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
 <li><a href="/cbnews/20210206/1482682.md">武汉病毒溯源 世卫专家与石正丽讨论 疑点越问越多</a></li>
 <li><a href="/cbnews/20210206/1482706.md">邓婕前夫离婚后身价上亿 再谈她直言：自作自受</a></li>
-<li><a href="/health/20210206/1482617.md">日本新公布6大长寿行为，运动排最后，第一是什么？</a></li>
 <li><a href="/cbnews/20210206/1482802.md">弗林将军、鲍威尔和Byrne等四人，巧妙进入白宫见到了川普总统，并说出了总统从未听过的计划。而当得知身边人想让自己输时，川普愤怒的问：谁？谁想让我认输？</a></li>
+<li><a href="/health/20210206/1482617.md">日本新公布6大长寿行为，运动排最后，第一是什么？</a></li>
 <li><a href="/cbnews/20210206/1482523.md">文昭：「人人影视」被抓，原来是盘大棋！习近平和拜登过招：遇事不决、量子力学！美剧难民有去处</a></li>
-<li><a href="/cbnews/20210206/1482640.md">茅台贫困户事件发酵 青岛市四次通报遭打脸</a></li>
 <li><a href="/lifebaike/20210206/1482564.md">为什么活鸭一只50元，烤鸭一只才18元？看后才知道其中的“猫腻”</a></li>
+<li><a href="/cbnews/20210206/1482640.md">茅台贫困户事件发酵 青岛市四次通报遭打脸</a></li>
 <li><a href="/cbnews/20210206/1482472.md">🔥🔥拜登家族劲爆丑闻刚刚曝光❗亨特拜登：我是一个51岁的流氓我怕谁！娄子捅大了❗又不小心丢了笔记本❗❗</a></li>
 <li><a href="/baitai/20210206/1482717.md">男子一顿饭花32万定睛一看账单后傻眼：喝了6瓶50年茅台</a></li>
 <li><a href="/yule/20210206/1482357.md">57岁“最美妲己”罕露面，精致妆容却毫无当年妖媚感，曾比温碧霞更惊艳</a></li>
 <li><a href="/cbnews/20210206/1482747.md">中共袒护缅甸军方点燃仇华情绪 华人为自保谴责北京</a></li>
-<li><a href="/bannedvideo/20210206/1482352.md">拜登投靠中共放生华为还要与北京更大范围合作  美国军方不买账 3航母向中共施压  新上任黑国防部长奥斯汀军中无实权  所谓“军中大清洗”只是配合左媒演戏 美军方掌握拜登选举舞弊全部证据 誓言捍卫宪法</a></li>
 <li><a href="/topimagenews/20210206/1482681.md">感人！川普罕见发声 力挺被封杀的名主持：这群粉丝中也包括我</a></li>
+<li><a href="/bannedvideo/20210206/1482352.md">拜登投靠中共放生华为还要与北京更大范围合作  美国军方不买账 3航母向中共施压  新上任黑国防部长奥斯汀军中无实权  所谓“军中大清洗”只是配合左媒演戏 美军方掌握拜登选举舞弊全部证据 誓言捍卫宪法</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210207/1482933.md" target="_blank">美媒：保守派是时候出手反抗高科技暴君了</a></li>
+<li><a href="/comments/20210207/1482932.md" target="_blank">美国疫情恶化 单日染疫确诊死亡数均创新高</a></li>
+<li><a href="/comments/20210207/1482925.md" target="_blank">太冷了！黑龙江民众怒攻县政府 当局深夜“封路”报复</a></li>
+<li><a href="/comments/20210207/1482924.md" target="_blank">布林肯与杨洁篪首次通话：将追究中共责任</a></li>
 <li><a href="/comments/20210207/1482923.md" target="_blank">颠覆认知的研究：吃的越咸越长寿？</a></li>
 <li><a href="/comments/20210207/1482922.md" target="_blank">病的原因，“病”字早已说清楚了</a></li>
 <li><a href="/comments/20210207/1482921.md" target="_blank">4种肥胖类型1次了解！ 对症下药杜绝肥胖上身</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210206/1482794.md" target="_blank">邓炳强：形容青年示威表现如“吸毒”属事实陈述 国安法检控人数言之尚早</a></li>
 <li><a href="/comments/20210206/1482789.md" target="_blank">立春，开心最重要</a></li>
 <li><a href="/comments/20210206/1482788.md" target="_blank">“妈妈手”非妈妈专属 数码族也会上身</a></li>
-<li><a href="/comments/20210206/1482787.md" target="_blank">走出抑郁，只要坚持，就有收获</a></li>
-<li><a href="/comments/20210206/1482783.md" target="_blank">黑命贵，谁命贱？</a></li>
-<li><a href="/comments/20210206/1482757.md" target="_blank">偏见潜伏 研究指中共网络审查影响人工智能准确度</a></li>
-<li><a href="/comments/20210206/1482756.md" target="_blank">美英德法外长视讯会谈 首度聚焦中共伊朗议题</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
