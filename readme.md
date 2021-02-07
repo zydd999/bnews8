@@ -16,11 +16,10 @@
 <li><a href="/topimagenews/20210207/1482958.md">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
 <li><a href="/cbnews/20210207/1482985.md">张展庭审照片首曝光 骨瘦如柴 被绑在轮椅上</a></li>
 <li><a href="/cbnews/20210206/1482747.md">中共袒护缅甸军方点燃仇华情绪 华人为自保谴责北京</a></li>
-<li><a href="/cbnews/20210206/1482640.md">茅台贫困户事件发酵 青岛市四次通报遭打脸</a></li>
 <li><a href="/topimagenews/20210206/1482681.md">感人！川普罕见发声 力挺被封杀的名主持：这群粉丝中也包括我</a></li>
-<li><a href="/cnnews/20210206/1482792.md">感人！川普罕见发声；彭斯复出要积极参与这件事；美国银行将客户数据秘交FBI</a></li>
 <li><a href="/cnnews/20210207/1483019.md">佩洛西明知故犯被抓现形 美此法庭判川普赢 大逆转！国会警察尸检证左媒宣传假新闻</a></li>
 <li><a href="/cbnews/20210206/1482808.md">陈破空：突然！中英激烈冲突。英国雄起！胡锡进赤膊上阵。土共纠缠美国，德特里克堡之谜</a></li>
+<li><a href="/cnnews/20210206/1482792.md">感人！川普罕见发声；彭斯复出要积极参与这件事；美国银行将客户数据秘交FBI</a></li>
 <li><a href="/worldnews/20210206/1482684.md">华人回国梦 被中领馆红头文件击得粉碎</a></li>
 <li><a href="/ssgc/20210206/1482825.md">2021中共内斗将全面激化</a></li>
 <li><a href="/bannedvideo/20210206/1482805.md">独家: 疫苗成毒针? 背后隐藏惊天世界级阴谋! 揭秘盖茨与新冠疫苗的“阴谋论”到底怎么回事? 真观点｜真飞【20210206】【第81期】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/headline/20210206/1482752.md">【重要消息】美历史罕见 拜登逼军方60天停一切活动</a></li>
 <li><a href="/bannedvideo/20210206/1482744.md">【谢田时间】中共权贵迅速捐款外逃，为填补“窟窿”，李克强发求救信号，求西方救中共一把，继续给中共输血！西方资本进入中国，与狼（中共）共舞，被中共愚弄</a></li>
 <li><a href="/cbnews/20210206/1482766.md">陆官方发布违规艺人复出流程 范冰冰高调现身</a></li>
+<li><a href="/comments/20210207/1482940.md">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210207/1483209.md" target="_blank">四方安全对话拟办“高峰会” 抵制中共海洋霸权</a></li>
 <li><a href="/comments/20210207/1483204.md" target="_blank">李燕铭：习近平要动吴官正？太子党吴少华被调虎离山 习第二大权力财政官员通报光大银行“六宗罪”</a></li>
 <li><a href="/comments/20210207/1483200.md" target="_blank">【微博精粹】在咱大国 只剩下一样东西还没检测出阳性</a></li>
 <li><a href="/comments/20210207/1483198.md" target="_blank">佩洛西倒霉了！ 男子喊 ”你收监时间快到了 做好准备”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210207/1483095.md" target="_blank">还击 霍利太太对安提法提出刑事申诉</a></li>
 <li><a href="/comments/20210207/1483080.md" target="_blank">面对新疆危机 一个2020年的普通人可以做些什么？</a></li>
 <li><a href="/comments/20210207/1483078.md" target="_blank">加国学者：谁统治台湾？不是习近平</a></li>
-<li><a href="/comments/20210207/1483077.md" target="_blank">陈娉婷: 四问香港电话卡实名制</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/xiulian/20170614/774347.md" target="_blank">我所知道的地球历史与奥秘篇（二）：兰特斯帝国</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
