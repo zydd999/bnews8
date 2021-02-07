@@ -6,13 +6,13 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210206/1482810.md">习近平女儿信息被公安卖了 替罪羊中原有胡锦涛亲戚</a></li>
-<li><a href="/cbnews/20210206/1482802.md">弗林将军、鲍威尔和Byrne等四人，巧妙进入白宫见到了川普总统，并说出了总统从未听过的计划。而当得知身边人想让自己输时，川普愤怒的问：谁？谁想让我认输？</a></li>
 <li><a href="/cbnews/20210206/1482682.md">武汉病毒溯源 世卫专家与石正丽讨论 疑点越问越多</a></li>
+<li><a href="/cbnews/20210206/1482802.md">弗林将军、鲍威尔和Byrne等四人，巧妙进入白宫见到了川普总统，并说出了总统从未听过的计划。而当得知身边人想让自己输时，川普愤怒的问：谁？谁想让我认输？</a></li>
 <li><a href="/cbnews/20210206/1482706.md">邓婕前夫离婚后身价上亿 再谈她直言：自作自受</a></li>
 <li><a href="/topimagenews/20210207/1482968.md">习近平心知肚？今年内斗全面激化3大动力 官逼民反 兵不血刃解体中共</a></li>
 <li><a href="/bannedvideo/20210206/1482780.md">拜登乘坐普通客机冒充空军一号    再次验证美国军方不承认拜登是总统</a></li>
-<li><a href="/baitai/20210206/1482717.md">男子一顿饭花32万定睛一看账单后傻眼：喝了6瓶50年茅台</a></li>
 <li><a href="/comments/20210207/1482907.md">习近平女儿、姐夫个资被卖后续 知情人惊爆内幕：是警察干的</a></li>
+<li><a href="/baitai/20210206/1482717.md">男子一顿饭花32万定睛一看账单后傻眼：喝了6瓶50年茅台</a></li>
 <li><a href="/topimagenews/20210207/1482958.md">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
 <li><a href="/cbnews/20210207/1482985.md">张展庭审照片首曝光 骨瘦如柴 被绑在轮椅上</a></li>
 <li><a href="/cbnews/20210206/1482747.md">中共袒护缅甸军方点燃仇华情绪 华人为自保谴责北京</a></li>
@@ -21,12 +21,12 @@
 <li><a href="/cbnews/20210206/1482808.md">陈破空：突然！中英激烈冲突。英国雄起！胡锡进赤膊上阵。土共纠缠美国，德特里克堡之谜</a></li>
 <li><a href="/cnnews/20210206/1482792.md">感人！川普罕见发声；彭斯复出要积极参与这件事；美国银行将客户数据秘交FBI</a></li>
 <li><a href="/worldnews/20210206/1482684.md">华人回国梦 被中领馆红头文件击得粉碎</a></li>
+<li><a href="/topimagenews/20210207/1483099.md">大变！习近平被中欧多国冷落 拜登上台，马克龙变脸 习近平拜登特使很快会面</a></li>
 <li><a href="/ssgc/20210206/1482825.md">2021中共内斗将全面激化</a></li>
 <li><a href="/bannedvideo/20210206/1482805.md">独家: 疫苗成毒针? 背后隐藏惊天世界级阴谋! 揭秘盖茨与新冠疫苗的“阴谋论”到底怎么回事? 真观点｜真飞【20210206】【第81期】</a></li>
 <li><a href="/cbnews/20210206/1482902.md">组图：世卫专家访武汉病毒所 中共如临大敌</a></li>
-<li><a href="/topimagenews/20210207/1483099.md">大变！习近平被中欧多国冷落 拜登上台，马克龙变脸 习近平拜登特使很快会面</a></li>
+<li><a href="/comments/20210207/1483169.md">李燕铭：习近平及女儿习明泽信息被泄 江泽民上海帮政法帮连环另类政变反习 深度内幕揭秘 替罪羊中原有胡锦涛亲戚？</a></li>
 <li><a href="/headline/20210206/1482752.md">【重要消息】美历史罕见 拜登逼军方60天停一切活动</a></li>
-<li><a href="/bannedvideo/20210206/1482744.md">【谢田时间】中共权贵迅速捐款外逃，为填补“窟窿”，李克强发求救信号，求西方救中共一把，继续给中共输血！西方资本进入中国，与狼（中共）共舞，被中共愚弄</a></li>
 <li><a href="/comments/20210207/1482940.md">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/xiulian/20170611/772817.md" target="_blank">我所知道的地球历史与奥秘（一）: 伟大辉煌的亚特兰蒂斯文明</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180225/905380.md" target="_blank">我所知道的地球历史与奥秘（八）：神传文化 龙族传说</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
