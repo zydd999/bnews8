@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210206/1482810.md">习近平女儿信息被公安卖了 替罪羊中原有胡锦涛亲戚</a></li>
-<li><a href="/lifebaike/20210206/1482528.md">69岁男人拒绝45岁保姆示爱：请自重，我只雇保姆，不找老伴</a></li>
 <li><a href="/cbnews/20210206/1482627.md">价格便宜“人”都不去买 习近平小年逛贵阳超市“指点白菜”</a></li>
 <li><a href="/health/20210206/1482617.md">日本新公布6大长寿行为，运动排最后，第一是什么？</a></li>
 <li><a href="/topimagenews/20210206/1482626.md">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cbnews/20210206/1482706.md">邓婕前夫离婚后身价上亿 再谈她直言：自作自受</a></li>
 <li><a href="/lifebaike/20210206/1482564.md">为什么活鸭一只50元，烤鸭一只才18元？看后才知道其中的“猫腻”</a></li>
 <li><a href="/bannedvideo/20210206/1482780.md">拜登乘坐普通客机冒充空军一号    再次验证美国军方不承认拜登是总统</a></li>
-<li><a href="/cbnews/20210206/1482523.md">文昭：「人人影视」被抓，原来是盘大棋！习近平和拜登过招：遇事不决、量子力学！美剧难民有去处</a></li>
+<li><a href="/topimagenews/20210207/1482968.md">习近平心知肚？今年内斗全面激化3大动力 官逼民反 兵不血刃解体中共</a></li>
 <li><a href="/comments/20210207/1482907.md">习近平女儿、姐夫个资被卖后续 知情人惊爆内幕：是警察干的</a></li>
 <li><a href="/baitai/20210206/1482717.md">男子一顿饭花32万定睛一看账单后傻眼：喝了6瓶50年茅台</a></li>
-<li><a href="/topimagenews/20210207/1482968.md">习近平心知肚？今年内斗全面激化3大动力 官逼民反 兵不血刃解体中共</a></li>
+<li><a href="/topimagenews/20210207/1482958.md">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
 <li><a href="/cbnews/20210206/1482747.md">中共袒护缅甸军方点燃仇华情绪 华人为自保谴责北京</a></li>
 <li><a href="/cbnews/20210206/1482640.md">茅台贫困户事件发酵 青岛市四次通报遭打脸</a></li>
-<li><a href="/topimagenews/20210207/1482958.md">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
 <li><a href="/topimagenews/20210206/1482681.md">感人！川普罕见发声 力挺被封杀的名主持：这群粉丝中也包括我</a></li>
+<li><a href="/cbnews/20210207/1482985.md">张展庭审照片首曝光 骨瘦如柴 被绑在轮椅上</a></li>
 <li><a href="/cbnews/20210206/1482808.md">陈破空：突然！中英激烈冲突。英国雄起！胡锡进赤膊上阵。土共纠缠美国，德特里克堡之谜</a></li>
 <li><a href="/cnnews/20210206/1482792.md">感人！川普罕见发声；彭斯复出要积极参与这件事；美国银行将客户数据秘交FBI</a></li>
-<li><a href="/cbnews/20210207/1482985.md">张展庭审照片首曝光 骨瘦如柴 被绑在轮椅上</a></li>
 <li><a href="/cbnews/20210206/1482580.md">注销户口 多少中国百姓成“黑市人口”？</a></li>
 <li><a href="/bannedvideo/20210206/1482638.md">川普才是真正的总统 拜登任命的国防部长只是一个闲职 坦言自己最重要任务就是发口罩</a></li>
+<li><a href="/ssgc/20210206/1482606.md">〖兲朝浮世绘〗被甩了几个耳光后，BBC醒了？</a></li>
+<li><a href="/worldnews/20210206/1482684.md">华人回国梦 被中领馆红头文件击得粉碎</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210207/1483100.md" target="_blank">沈阳月子会所瞒肺炎病情 14婴儿救治遭拖延</a></li>
+<li><a href="/cbnews/20210207/1483098.md" target="_blank">🔥🔥CNN泪奔了 川普的预言应验了❗大觉醒 向黑暗宣战 大反击开始了❗</a></li>
 <li><a href="/cbnews/20210207/1483061.md" target="_blank">布林肯杨洁篪通话互呛 德媒：又一轮外交喊话而已</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
 <li><a href="/cbnews/20210207/1483013.md" target="_blank">美律师：弹劾意味着承认川普仍为美国总统；福克斯叫停知名节目  川普也发声；监守自盗？佩洛西被责成付大额罚金；警方: 拜登治下 墨西哥边境处于高危之中；加州已近140万人签名罢免纽森【希望之声TV】</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20210206/1482743.md" target="_blank">强制隔离 黑龙江望奎小学生精神崩溃险坠楼</a></li>
 <li><a href="/cbnews/20210206/1482738.md" target="_blank">官员慰问“贫困户”发酵 青岛市四次通报遭打脸</a></li>
 <li><a href="/cbnews/20210206/1482737.md" target="_blank">美媒：中国人质疑国产疫苗 接种速度不如预期</a></li>
-<li><a href="/cbnews/20210206/1482736.md" target="_blank">中共连孩子也不放过 香港公务员废除效忠中共毒誓：愿所有人三退</a></li>
-<li><a href="/cbnews/20210206/1482706.md" target="_blank">邓婕前夫离婚后身价上亿 再谈她直言：自作自受</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210207/1483099.md" target="_blank">大变！习近平被中欧多国冷落 拜登上台，马克龙变脸 习近平拜登特使很快会面</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
 <li><a href="/topimagenews/20210207/1482968.md" target="_blank">习近平心知肚？今年内斗全面激化3大动力 官逼民反 兵不血刃解体中共</a></li>
 <li><a href="/topimagenews/20210207/1482958.md" target="_blank">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210204/1481386.md" target="_blank">‘气候沙皇’克里乘私人飞机领环境奖称“这是像我这样的人唯一的选择”【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210204/1481340.md" target="_blank">惊爆！极左议员嫁给自家兄弟还作伪证 共和党议员呼吁除名【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210204/1481230.md" target="_blank">废除拜登的违宪行政令！北达科他州议员们采取行动【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210204/1481197.md" target="_blank">佛州众议员盖茨：我愿放弃议席、家庭为川普辩护</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210207/1483115.md" target="_blank">当我的丈夫常玮平被控煽动颠覆国家政权以后</a></li>
+<li><a href="/comments/20210207/1483114.md" target="_blank">方圆：三大难题无解 统一台湾无期</a></li>
 <li><a href="/comments/20210207/1483095.md" target="_blank">还击 霍利太太对安提法提出刑事申诉</a></li>
 <li><a href="/comments/20210207/1483080.md" target="_blank">面对新疆危机 一个2020年的普通人可以做些什么？</a></li>
 <li><a href="/comments/20210207/1483078.md" target="_blank">加国学者：谁统治台湾？不是习近平</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210207/1482991.md" target="_blank">【传统文化 】讲小朋友爱听的故事：世外桃源</a></li>
 <li><a href="/comments/20210207/1482990.md" target="_blank">任正非替女儿出道造势 红三代揭姚安娜被嘲三大原因</a></li>
 <li><a href="/comments/20210207/1482979.md" target="_blank">军事政变后续：缅甸军方下令 电信商封锁脸书、推特和IG</a></li>
-<li><a href="/comments/20210207/1482974.md" target="_blank">中共“17+1”视讯会议邀请 遭至少三国冷处理</a></li>
-<li><a href="/comments/20210207/1482964.md" target="_blank">美国务卿首次与中共官员通话 多次提人权</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180325/919134.md" target="_blank">我所知道的地球历史与奥秘（九）： 揭秘苏联钻通地狱入口事件</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20171210/868397.md" target="_blank">我所知道的地球历史与奥秘篇（七）：揭秘柳枝接骨、千年人参</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
 
 </ul>
 </div>
