@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20210208/1483824.md">李克强让习近平尴尬了 拜登受访谈习近平聪明 中国家庭债高企经济恐逆转</a></li>
 <li><a href="/renquan/minyun/20210208/1483775.md">怎么搞掉习近平</a></li>
 <li><a href="/topimagenews/20210208/1483724.md">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210208/1483433.md">哈佛权威天文学家：外星文明已来过太阳系</a></li>
 <li><a href="/comments/20210208/1483666.md">亿万富豪、大S婆婆张兰沦落了 ！街头敲鼓揽生意 瞪眼咧嘴遭围观</a></li>
 <li><a href="/topimagenews/20210208/1483459.md">中国家庭债务高企 经济领先优势恐逆转</a></li>
 <li><a href="/lifebaike/20210208/1483630.md">全国已有四家银行破产，储户注意：三类银行没有参加存款保险</a></li>
 <li><a href="/cbnews/20210208/1483781.md">中国东北大雪封山 老虎饿极进村偷狗…</a></li>
 <li><a href="/lifebaike/20210208/1483575.md">毛泽东挪用的巨款到哪里去了？</a></li>
-<li><a href="/cnnews/20210208/1483736.md">喜大普奔：测量血糖再也不用扎手指了</a></li>
 <li><a href="/topimagenews/20210208/1483721.md">中共拉拢野心受挫！多国领导人拒出席中国中东欧峰会</a></li>
+<li><a href="/cnnews/20210208/1483736.md">喜大普奔：测量血糖再也不用扎手指了</a></li>
 <li><a href="/cnnews/20210208/1483557.md">两大征兆…美通膨快来了</a></li>
 <li><a href="/cbnews/20210208/1483713.md">中国去年新生儿最夯名字 「一诺」已是第二年蝉联第一</a></li>
+<li><a href="/cnnews/20210208/1483674.md">纳瓦罗大爆巴尔真相：这是一场深层政府政变【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210209/1483953.md" target="_blank">拜登情绪激动发惊人之语；还宣布惊人外交战略重点；重返伊朗谈判桌？被批愚蠢</a></li>
 <li><a href="/topimagenews/20210208/1483849.md" target="_blank">佛州州长立法挑战极左技术垄断 称把保守派撵出平台是消费者欺诈【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210208/1483824.md" target="_blank">李克强让习近平尴尬了 拜登受访谈习近平聪明 中国家庭债高企经济恐逆转</a></li>
 <li><a href="/topimagenews/20210208/1483724.md" target="_blank">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
@@ -91,13 +92,16 @@
 <li><a href="/topimagenews/20210206/1482679.md" target="_blank">看看选的这些人！克鲁兹敲打拜登：急于 &#8220;拥抱 &#8220;中共政府【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210206/1482626.md" target="_blank">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
 <li><a href="/topimagenews/20210206/1482318.md" target="_blank">拜登被蓬佩奥一句话戳透 还被川普任命官员起诉 拜登要求,最高法院取消辩</a></li>
-<li><a href="/topimagenews/20210206/1482281.md" target="_blank">马特·盖茨要求会议开始都背诵效忠宣誓 被民主党人拒绝【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210209/1483968.md" target="_blank">防泡沫崩溃？中共央行抽水3200亿元</a></li>
+<li><a href="/comments/20210209/1483949.md" target="_blank">【反制 BNO】英领馆称获悉香港不承认双重国籍 港人持英国护照入境或未能获领事协助</a></li>
+<li><a href="/comments/20210209/1483948.md" target="_blank">法律界消息：唐英杰案将不设陪审团 律政司引用国安法 要求三名指定法官主审</a></li>
+<li><a href="/comments/20210209/1483947.md" target="_blank">Clubhouse 遭中国封锁 官媒斥平台政治讨论片面、沦港独反华“武器”</a></li>
 <li><a href="/comments/20210209/1483941.md" target="_blank">大雄超好听的一首歌： 《最后》</a></li>
 <li><a href="/comments/20210209/1483940.md" target="_blank">缅甸大规模抗议升级！警出动水炮驱离 第二大城7城镇戒严</a></li>
 <li><a href="/comments/20210209/1483939.md" target="_blank">专家：拜登不驱逐非法移民 让其抢美国人的工作</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210208/1483836.md" target="_blank">纳瓦罗痛骂巴尔，毁掉30多个川普行政令。库什纳阻止川普使用社交平台Gab。Parler前总裁自爆不喜欢川普，被炒鱿鱼。弹劾案，共和党建制派想草草收场。</a></li>
 <li><a href="/comments/20210208/1483833.md" target="_blank">拜登：今年夏天结束，美国难以达到群体免疫</a></li>
 <li><a href="/comments/20210208/1483831.md" target="_blank">【7.1 游行】朱凯廸陈皓桓等 8 人被控 转区院审理 胡志伟无申保释续还押</a></li>
-<li><a href="/comments/20210208/1483826.md" target="_blank">挖出由福齐等魔头控制美国医疗系统的黑幕</a></li>
-<li><a href="/comments/20210208/1483816.md" target="_blank">川建国是非常强势的人，在上诉无望后就变成弱鸡了？</a></li>
-<li><a href="/comments/20210208/1483813.md" target="_blank">浙江确诊病例 官方甩锅创新词“省外输入” 网友怒了</a></li>
-<li><a href="/comments/20210208/1483802.md" target="_blank">对中共来说 他们更喜欢和缅甸军政府打交道</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 
 </ul>
 </div>
