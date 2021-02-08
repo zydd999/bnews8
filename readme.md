@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210208/1483523.md">婚纱照都拍好，宁波80万绿帽事件，女主同时出轨十几个男人</a></li>
 <li><a href="/bannedvideo/20210208/1483471.md">【突发】美国军方罕见发言! 对川普悲观的自媒体人需要反省  补充消息：“超级碗”比赛中场军方可能会插播资讯 具体内容不详 可能是真相  “超级碗”是美国收视率最高的电视节目之一 去年吸引逾一亿观众</a></li>
-<li><a href="/cbnews/20210207/1483355.md">中共频繁检出进口食品病毒阳性的背后</a></li>
 <li><a href="/comments/20210208/1483394.md">官场淫乱又一起！80后美女以色谋权栽了 谁提拔了她？</a></li>
 <li><a href="/cbnews/20210208/1483551.md">李克强逛山西年货街不戴口罩 网友：打谁的脸？</a></li>
 <li><a href="/cbnews/20210208/1483477.md">拜登谈对华政策 首提习近平</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cnnews/20210208/1483433.md">哈佛权威天文学家：外星文明已来过太阳系</a></li>
 <li><a href="/comments/20210208/1483666.md">亿万富豪、大S婆婆张兰沦落了 ！街头敲鼓揽生意 瞪眼咧嘴遭围观</a></li>
 <li><a href="/topimagenews/20210208/1483459.md">中国家庭债务高企 经济领先优势恐逆转</a></li>
-<li><a href="/topimagenews/20210207/1483351.md">各州拒收难民的权利眼看被拜登废掉 美国社区未来一片黑暗【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210208/1483724.md">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210208/1483759.md">广东公安内部火拼派出所长枪击副局长后自杀</a></li>
 <li><a href="/lifebaike/20210208/1483630.md">全国已有四家银行破产，储户注意：三类银行没有参加存款保险</a></li>
 <li><a href="/cnnews/20210208/1483557.md">两大征兆…美通膨快来了</a></li>
 <li><a href="/headline/20210207/1483379.md">中美在南海再次发生军舰对峙</a></li>
-<li><a href="/cbnews/20210208/1483759.md">广东公安内部火拼派出所长枪击副局长后自杀</a></li>
-<li><a href="/cnnews/20210208/1483674.md">纳瓦罗大爆巴尔真相：这是一场深层政府政变【阿波罗网编译】</a></li>
 <li><a href="/headline/20210208/1483680.md">探讨近期美国的种种诡异现象，川普是否仍然大权在握？</a></li>
+<li><a href="/cnnews/20210208/1483674.md">纳瓦罗大爆巴尔真相：这是一场深层政府政变【阿波罗网编译】</a></li>
 <li><a href="/headline/20210208/1483601.md">拜登：习近平很聪明 没和他通话是因为…</a></li>
+<li><a href="/funmedia/20210208/1483553.md">酒店的试睡员月薪十万，就只“睡觉”吗？离职女揭露背后真相</a></li>
+<li><a href="/lifebaike/20210208/1483575.md">毛泽东挪用的巨款到哪里去了？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210208/1483843.md" target="_blank">《转法轮》中提及的若干案例详考（1）</a></li>
+<li><a href="/comments/20210208/1483858.md" target="_blank">纳瓦罗揭前司法部长巴尔真相；参议员：川普被定罪可能性为零；美南边境堪忧 德州总检察长：拜登无视联邦法；离开白宫后 伊万卡下壹步将做什么；中国新年前后 大寒潮将席卷美国 波及2.35亿人【希望之声TV】</a></li>
 <li><a href="/cbnews/20210208/1483855.md" target="_blank">美国思想领袖：反共活动家 特雷弗·劳登：美国人将面对中共模式 ！华人进步会与亲共团体有何关系？美国真有一些团体效忠於中共吗？对拜登任期内世界格局的预测！拜登将对中共持何种立场？｜ # 大纪元</a></li>
 <li><a href="/cbnews/20210208/1483851.md" target="_blank">解密时分24亿美元 史上十大最贵战机</a></li>
 <li><a href="/cbnews/20210208/1483846.md" target="_blank">陈破空：习近平盘算，下一个整他？中国人不打中国疫苗。党媒炒作姿色女官</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210208/1483583.md" target="_blank">带剪刀乘火车违法？ 外地进京旅客被拘5天</a></li>
 <li><a href="/comments/20210208/1483564.md" target="_blank">从应君子到亿万富翁，再到慈善家，枕头哥在美国家喻户晓。而他人生目标的下半场，只是刚刚开始……。枕头哥林德尔的人生经历，充满传奇。</a></li>
 <li><a href="/cbnews/20210208/1483551.md" target="_blank">李克强逛山西年货街不戴口罩 网友：打谁的脸？</a></li>
-<li><a href="/comments/20210208/1483525.md" target="_blank">缅甸发生规模最大抗议示威 ；非营利组织：川普打击人口贩运 影响难以置信；法学专家：弹劾川普 国会把自己置于法律之上；白宫证实亨特仍持有中共公司股份？ 卢比奥促拜登制裁中共官员【希望之声TV】</a></li>
-<li><a href="/cbnews/20210208/1483495.md" target="_blank">陈破空：直播预告：拜登首提习近平，说了什么？如果川普组党，答案令人吃惊。正考虑推出他自己的社交媒体。陈破空与网友互动Q&amp;A 美东时间2月7日周日晚7点半、即中港台时间2月8日周一早8点半</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210208/1483864.md" target="_blank">分析：川普赢得三分之二获审选举诉讼</a></li>
+<li><a href="/comments/20210208/1483843.md" target="_blank">《转法轮》中提及的若干案例详考（1）</a></li>
+<li><a href="/comments/20210208/1483858.md" target="_blank">纳瓦罗揭前司法部长巴尔真相；参议员：川普被定罪可能性为零；美南边境堪忧 德州总检察长：拜登无视联邦法；离开白宫后 伊万卡下壹步将做什么；中国新年前后 大寒潮将席卷美国 波及2.35亿人【希望之声TV】</a></li>
 <li><a href="/comments/20210208/1483854.md" target="_blank">韩国宣布研发防空识别区监视雷达 因应中俄军机入侵</a></li>
 <li><a href="/comments/20210208/1483836.md" target="_blank">纳瓦罗痛骂巴尔，毁掉30多个川普行政令。库什纳阻止川普使用社交平台Gab。Parler前总裁自爆不喜欢川普，被炒鱿鱼。弹劾案，共和党建制派想草草收场。</a></li>
 <li><a href="/comments/20210208/1483833.md" target="_blank">拜登：今年夏天结束，美国难以达到群体免疫</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210208/1483745.md" target="_blank">【最后挥春？◆ 4】郑丽琼 时代教我谨慎做人</a></li>
 <li><a href="/comments/20210208/1483744.md" target="_blank">【10.31 旺角】情侣被指袭警、阻差办公 男文员自辩：女友被防暴警殴打、揭衣摸胸</a></li>
 <li><a href="/comments/20210208/1483706.md" target="_blank">美伊重返谈判桌？ 美议员：重蹈奥巴马错误政策</a></li>
-<li><a href="/comments/20210208/1483701.md" target="_blank">左报续狙击夏博义 指控曾发文“支持藏独” 所属英国政党撑“黑暴”</a></li>
-<li><a href="/comments/20210208/1483700.md" target="_blank">性别平权还有很长一段路要走</a></li>
-<li><a href="/comments/20210208/1483699.md" target="_blank">【阉割通识】杨润雄：暂无意重推“国民教育”独立成科 不排除视学监察新通识课程</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 <li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 
 </ul>
 </div>
