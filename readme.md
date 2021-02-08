@@ -5,13 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210207/1483355.md">中共频繁检出进口食品病毒阳性的背后</a></li>
 <li><a href="/lifebaike/20210208/1483523.md">婚纱照都拍好，宁波80万绿帽事件，女主同时出轨十几个男人</a></li>
 <li><a href="/bannedvideo/20210208/1483471.md">【突发】美国军方罕见发言! 对川普悲观的自媒体人需要反省  补充消息：“超级碗”比赛中场军方可能会插播资讯 具体内容不详 可能是真相  “超级碗”是美国收视率最高的电视节目之一 去年吸引逾一亿观众</a></li>
+<li><a href="/cbnews/20210207/1483355.md">中共频繁检出进口食品病毒阳性的背后</a></li>
 <li><a href="/comments/20210208/1483394.md">官场淫乱又一起！80后美女以色谋权栽了 谁提拔了她？</a></li>
 <li><a href="/cbnews/20210208/1483551.md">李克强逛山西年货街不戴口罩 网友：打谁的脸？</a></li>
-<li><a href="/cnnews/20210208/1483588.md">公安局内枪声响起！派出所长向副局长开枪</a></li>
 <li><a href="/cbnews/20210208/1483477.md">拜登谈对华政策 首提习近平</a></li>
+<li><a href="/cnnews/20210208/1483588.md">公安局内枪声响起！派出所长向副局长开枪</a></li>
 <li><a href="/comments/20210208/1483412.md">2021🔥🔥新的罪恶之城 即将面临大毁灭❓❗</a></li>
 <li><a href="/topimagenews/20210208/1483582.md">法官判缺席选票非法，翻转结果共和党赢 名嘴揭秘谁杀了肯尼迪 左媒骗了美国几代人</a></li>
 <li><a href="/cbnews/20210208/1483483.md">中共频繁检出进口食品病毒阳性的背后 分析：外汇紧张降低进口</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20210208/1483459.md">中国家庭债务高企 经济领先优势恐逆转</a></li>
 <li><a href="/comments/20210208/1483666.md">亿万富豪、大S婆婆张兰沦落了 ！街头敲鼓揽生意 瞪眼咧嘴遭围观</a></li>
 <li><a href="/topimagenews/20210207/1483351.md">各州拒收难民的权利眼看被拜登废掉 美国社区未来一片黑暗【阿波罗网编译】</a></li>
-<li><a href="/comments/20210207/1483331.md">【时局看点】中共二十大前有人想搞掉习近平</a></li>
-<li><a href="/cnnews/20210208/1483557.md">两大征兆…美通膨快来了</a></li>
 <li><a href="/lifebaike/20210208/1483630.md">全国已有四家银行破产，储户注意：三类银行没有参加存款保险</a></li>
+<li><a href="/topimagenews/20210208/1483724.md">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210208/1483557.md">两大征兆…美通膨快来了</a></li>
 <li><a href="/headline/20210207/1483379.md">中美在南海再次发生军舰对峙</a></li>
 <li><a href="/cnnews/20210208/1483674.md">纳瓦罗大爆巴尔真相：这是一场深层政府政变【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210208/1483724.md">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210208/1483759.md">广东公安内部火拼派出所长枪击副局长后自杀</a></li>
+<li><a href="/headline/20210208/1483601.md">拜登：习近平很聪明 没和他通话是因为…</a></li>
 <li><a href="/cnnews/20210207/1483353.md">拜登乘空军一号起飞 左翼歌星“雪儿“煽情落泪【阿波罗网编译】</a></li>
-<li><a href="/funmedia/20210208/1483553.md">酒店的试睡员月薪十万，就只“睡觉”吗？离职女揭露背后真相</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210208/1483851.md" target="_blank">解密时分24亿美元 史上十大最贵战机</a></li>
+<li><a href="/cbnews/20210208/1483846.md" target="_blank">陈破空：习近平盘算，下一个整他？中国人不打中国疫苗。党媒炒作姿色女官</a></li>
 <li><a href="/comments/20210208/1483836.md" target="_blank">纳瓦罗痛骂巴尔，毁掉30多个川普行政令。库什纳阻止川普使用社交平台Gab。Parler前总裁自爆不喜欢川普，被炒鱿鱼。弹劾案，共和党建制派想草草收场。</a></li>
 <li><a href="/comments/20210208/1483826.md" target="_blank">挖出由福齐等魔头控制美国医疗系统的黑幕</a></li>
 <li><a href="/cbnews/20210208/1483825.md" target="_blank">福建3男童往下水道井盖扔鞭炮 这下惨了…</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/comments/20210208/1483525.md" target="_blank">缅甸发生规模最大抗议示威 ；非营利组织：川普打击人口贩运 影响难以置信；法学专家：弹劾川普 国会把自己置于法律之上；白宫证实亨特仍持有中共公司股份？ 卢比奥促拜登制裁中共官员【希望之声TV】</a></li>
 <li><a href="/cbnews/20210208/1483495.md" target="_blank">陈破空：直播预告：拜登首提习近平，说了什么？如果川普组党，答案令人吃惊。正考虑推出他自己的社交媒体。陈破空与网友互动Q&amp;A 美东时间2月7日周日晚7点半、即中港台时间2月8日周一早8点半</a></li>
 <li><a href="/cbnews/20210208/1483483.md" target="_blank">中共频繁检出进口食品病毒阳性的背后 分析：外汇紧张降低进口</a></li>
-<li><a href="/cbnews/20210208/1483477.md" target="_blank">拜登谈对华政策 首提习近平</a></li>
-<li><a href="/cbnews/20210208/1483472.md" target="_blank">黑龙奔腾 中国火车浓烟将后面道路遮掩</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210208/1483849.md" target="_blank">佛州州长立法挑战极左技术垄断 称把保守派撵出平台是消费者欺诈【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210208/1483824.md" target="_blank">李克强让习近平尴尬了 拜登受访谈习近平聪明 中国家庭债高企经济恐逆转</a></li>
 <li><a href="/topimagenews/20210208/1483724.md" target="_blank">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210208/1483721.md" target="_blank">中共拉拢野心受挫！多国领导人拒出席中国中东欧峰会</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210206/1482626.md" target="_blank">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
 <li><a href="/topimagenews/20210206/1482318.md" target="_blank">拜登被蓬佩奥一句话戳透 还被川普任命官员起诉 拜登要求,最高法院取消辩</a></li>
 <li><a href="/topimagenews/20210206/1482281.md" target="_blank">马特·盖茨要求会议开始都背诵效忠宣誓 被民主党人拒绝【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210205/1482180.md" target="_blank">威斯康星州参院否决州长的口罩令   一小时后州长政令再出【阿波罗网编译】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
