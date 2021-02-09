@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210208/1483759.md">广东公安内部火拼派出所长枪击副局长后自杀</a></li>
 <li><a href="/topimagenews/20210208/1483824.md">李克强让习近平尴尬了 拜登受访谈习近平聪明 中国家庭债高企经济恐逆转</a></li>
 <li><a href="/renquan/minyun/20210208/1483775.md">怎么搞掉习近平</a></li>
 <li><a href="/headline/20210208/1483680.md">探讨近期美国的种种诡异现象，川普是否仍然大权在握？</a></li>
 <li><a href="/topimagenews/20210209/1484185.md">前白宫高级政策分析师公开川普未能翻盘内幕</a></li>
-<li><a href="/topimagenews/20210209/1483953.md">拜登情绪激动发惊人之语；还宣布惊人外交战略重点；重返伊朗谈判桌？被批愚蠢</a></li>
 <li><a href="/comments/20210209/1484003.md">李克强又说了大实话 自曝中国经济实情</a></li>
+<li><a href="/topimagenews/20210209/1483953.md">拜登情绪激动发惊人之语；还宣布惊人外交战略重点；重返伊朗谈判桌？被批愚蠢</a></li>
 <li><a href="/comments/20210209/1483983.md">李燕铭：高干子弟官司轰动中南海 指名要求胡锦涛温家宝亲自处理 给习近平公开信曝酷刑逼供秘闻 政法高官求刊登求饶信跪求原谅 贾庆林调查此事脸色铁青 胡锦涛亲赴盐城 江苏盐城高干子弟祝群群时隔十年再遭绑架刑讯逼供 内幕非同寻常</a></li>
 <li><a href="/lifebaike/20210208/1483852.md">女留学生讨薪被华人老板暴打 后续来了</a></li>
 <li><a href="/topimagenews/20210209/1484062.md">李克强泄露中国惨况 中共逮捕澳籍央视记者 中共发4评称中美关系4不得被怼</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cbnews/20210208/1483781.md">中国东北大雪封山 老虎饿极进村偷狗…</a></li>
 <li><a href="/comments/20210208/1483816.md">川建国是非常强势的人，在上诉无望后就变成弱鸡了？</a></li>
 <li><a href="/cbnews/20210209/1484006.md">二十大前习近平以“十禁”立威未成反被打脸？</a></li>
-<li><a href="/bannedvideo/20210209/1484101.md">美国军人：美国正经历黑暗时期 1月20号行政部门权力移交军方 美军誓言捍卫宪法</a></li>
 <li><a href="/cbnews/20210209/1484041.md">中共批捕前央视女主持成蕾 家人首次发声</a></li>
+<li><a href="/bannedvideo/20210209/1484101.md">美国军人：美国正经历黑暗时期 1月20号行政部门权力移交军方 美军誓言捍卫宪法</a></li>
 <li><a href="/cbnews/20210209/1484063.md">你不顾一切奔向的圣地，也许就是万丈深渊</a></li>
 <li><a href="/funmedia/20210209/1484105.md">大批越南美女定居广西南宁，她们都从事什么行业？</a></li>
 <li><a href="/headline/20210208/1483917.md">中共党是乱伦党？贺卫方这段视频火爆网络</a></li>
+<li><a href="/cbnews/20210209/1484297.md">中央巡视组点名批评公安部 疑指向更大老虎</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210209/1484231.md" target="_blank">信念崩塌的自媒体需要反省，幻想2024是自欺欺人</a></li>
 <li><a href="/cbnews/20210209/1484404.md" target="_blank">泼墨女孩董瑶琼传被三度送入精神病院 曾泪控中共高压监控</a></li>
 <li><a href="/cbnews/20210209/1484372.md" target="_blank">川普现身小唐纳德新视频：我们还没有结束</a></li>
 <li><a href="/cbnews/20210209/1484352.md" target="_blank">加拿大北京签证中心被爆老板是公安局</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210209/1484063.md" target="_blank">你不顾一切奔向的圣地，也许就是万丈深渊</a></li>
 <li><a href="/cbnews/20210209/1484061.md" target="_blank">陈破空：直播预告：弹劾案！大战前夕，控辩方博弈。要点一览。参议院即将上演激烈党争。陈破空与网友互动Q&amp;A 美东时间2月8日周一晚7点半、即中港台时间2月9日周二早8点半</a></li>
 <li><a href="/cbnews/20210209/1484056.md" target="_blank">专栏 | 夜话中南海：与赖小民相比，当年的陈同海为何可以被刀下留人？</a></li>
-<li><a href="/cbnews/20210209/1484041.md" target="_blank">中共批捕前央视女主持成蕾 家人首次发声</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210209/1484411.md" target="_blank">“走回去 向川普道歉 向美国人民道歉 &#8230;&#8221; 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210209/1484185.md" target="_blank">前白宫高级政策分析师公开川普未能翻盘内幕</a></li>
 <li><a href="/topimagenews/20210209/1484062.md" target="_blank">李克强泄露中国惨况 中共逮捕澳籍央视记者 中共发4评称中美关系4不得被怼</a></li>
 <li><a href="/topimagenews/20210209/1483953.md" target="_blank">拜登情绪激动发惊人之语；还宣布惊人外交战略重点；重返伊朗谈判桌？被批愚蠢</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210207/1482968.md" target="_blank">习近平心知肚？今年内斗全面激化3大动力 官逼民反 兵不血刃解体中共</a></li>
 <li><a href="/topimagenews/20210207/1482958.md" target="_blank">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
 <li><a href="/topimagenews/20210206/1482681.md" target="_blank">感人！川普罕见发声 力挺被封杀的名主持：这群粉丝中也包括我</a></li>
-<li><a href="/topimagenews/20210206/1482679.md" target="_blank">看看选的这些人！克鲁兹敲打拜登：急于 &#8220;拥抱 &#8220;中共政府【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210209/1484415.md" target="_blank">蔡英文国安会议：两岸和平关键钥匙在中共手上</a></li>
+<li><a href="/comments/20210209/1484414.md" target="_blank">素狮子头 年夜饭这道菜少不了 平安吉祥 团团圆圆</a></li>
+<li><a href="/comments/20210209/1484231.md" target="_blank">信念崩塌的自媒体需要反省，幻想2024是自欺欺人</a></li>
 <li><a href="/comments/20210209/1484407.md" target="_blank">朝鲜持续发展核武且恢复与伊朗合作 或遭美国新制裁</a></li>
 <li><a href="/comments/20210209/1484393.md" target="_blank">林郑：英国违联合声明 港人在中港境内不获他国领事保护</a></li>
 <li><a href="/comments/20210209/1484392.md" target="_blank">警拘两男子 称搜炸弹原料、武器、“光时”单张 指有人图新年前血腥袭击“东山再起”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210209/1484272.md" target="_blank">2021美国超级碗比赛 现场坐满纸片人；拜登认怂？今夏能实现群体免疫？英变种病毒蔓延美国 病例10天翻一番；羟氯喹可治中共病毒？李文亮去世壹周年 微博再度成“哭墙”【希望之声TV】</a></li>
 <li><a href="/comments/20210209/1484263.md" target="_blank">美军最新导弹驱逐舰部署日本 俄专家：针对中俄</a></li>
 <li><a href="/comments/20210209/1484260.md" target="_blank">安全专家Brigitte Gabriel：川普总统正在做大事  喜讯很快传来！大家这周愉快！</a></li>
-<li><a href="/comments/20210209/1484257.md" target="_blank">【微博精粹】谁害死了40万美国新冠病人 源头找到了</a></li>
-<li><a href="/comments/20210209/1484239.md" target="_blank">共军解放军报：基因武器如何影响未来战争</a></li>
-<li><a href="/comments/20210209/1484240.md" target="_blank">习近平布局二十大 中央巡视组批公安部肃清余毒不够 矛头指向“他”？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
