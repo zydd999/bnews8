@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210208/1483624.md">快手上市飙升涉江泽民 拼续命中共强制少年儿童跟党走 习近平户籍遭警察贱卖</a></li>
 <li><a href="/cbnews/20210208/1483759.md">广东公安内部火拼派出所长枪击副局长后自杀</a></li>
-<li><a href="/comments/20210208/1483666.md">亿万富豪、大S婆婆张兰沦落了 ！街头敲鼓揽生意 瞪眼咧嘴遭围观</a></li>
 <li><a href="/topimagenews/20210208/1483824.md">李克强让习近平尴尬了 拜登受访谈习近平聪明 中国家庭债高企经济恐逆转</a></li>
+<li><a href="/comments/20210208/1483666.md">亿万富豪、大S婆婆张兰沦落了 ！街头敲鼓揽生意 瞪眼咧嘴遭围观</a></li>
 <li><a href="/headline/20210208/1483680.md">探讨近期美国的种种诡异现象，川普是否仍然大权在握？</a></li>
 <li><a href="/renquan/minyun/20210208/1483775.md">怎么搞掉习近平</a></li>
 <li><a href="/topimagenews/20210209/1483953.md">拜登情绪激动发惊人之语；还宣布惊人外交战略重点；重返伊朗谈判桌？被批愚蠢</a></li>
 <li><a href="/comments/20210209/1483983.md">李燕铭：高干子弟官司轰动中南海 指名要求胡锦涛温家宝亲自处理 给习近平公开信曝酷刑逼供秘闻 政法高官求刊登求饶信跪求原谅 贾庆林调查此事脸色铁青 胡锦涛亲赴盐城 江苏盐城高干子弟祝群群时隔十年再遭绑架刑讯逼供 内幕非同寻常</a></li>
-<li><a href="/topimagenews/20210208/1483724.md">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
 <li><a href="/comments/20210209/1484003.md">李克强又说了大实话 自曝中国经济实情</a></li>
-<li><a href="/lifebaike/20210208/1483852.md">女留学生讨薪被华人老板暴打 后续来了</a></li>
+<li><a href="/topimagenews/20210208/1483724.md">安提法游行 美媒：这是暴乱！这就是拜登的美国【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210208/1483630.md">全国已有四家银行破产，储户注意：三类银行没有参加存款保险</a></li>
+<li><a href="/lifebaike/20210208/1483852.md">女留学生讨薪被华人老板暴打 后续来了</a></li>
 <li><a href="/cbnews/20210208/1483846.md">陈破空：习近平盘算，下一个整他？中国人不打中国疫苗。党媒炒作姿色女官</a></li>
 <li><a href="/comments/20210208/1483836.md">纳瓦罗痛骂巴尔，毁掉30多个川普行政令。库什纳阻止川普使用社交平台Gab。Parler前总裁自爆不喜欢川普，被炒鱿鱼。弹劾案，共和党建制派想草草收场。</a></li>
 <li><a href="/cbnews/20210208/1483713.md">中国去年新生儿最夯名字 「一诺」已是第二年蝉联第一</a></li>
 <li><a href="/cbnews/20210208/1483781.md">中国东北大雪封山 老虎饿极进村偷狗…</a></li>
-<li><a href="/comments/20210208/1483816.md">川建国是非常强势的人，在上诉无望后就变成弱鸡了？</a></li>
 <li><a href="/topimagenews/20210208/1483721.md">中共拉拢野心受挫！多国领导人拒出席中国中东欧峰会</a></li>
+<li><a href="/comments/20210208/1483816.md">川建国是非常强势的人，在上诉无望后就变成弱鸡了？</a></li>
 <li><a href="/cnnews/20210208/1483736.md">喜大普奔：测量血糖再也不用扎手指了</a></li>
 <li><a href="/headline/20210209/1483972.md">北京批捕前央视女主持成蕾 家人首次发声</a></li>
+<li><a href="/topimagenews/20210209/1484062.md">李克强泄露中国惨况 中共逮捕澳籍央视记者 中共发4评称中美关系4不得被怼</a></li>
 <li><a href="/cnnews/20210208/1483674.md">纳瓦罗大爆巴尔真相：这是一场深层政府政变【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210208/1483693.md">2月7日晚 川普总统在棕榈滩川普酒店观看了超级碗 川普非常开心！好戏还在后面</a></li>
-<li><a href="/cbnews/20210208/1483681.md">中共甩锅上行下效？ 浙江确诊 网友热议</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210209/1484214.md" target="_blank">天亮时分：“巴尔参与了政变”，纳瓦罗的指控是否可信？川普弹劾案明天开审，民主党是否将后悔？（政论天下第349集 20210208）</a></li>
 <li><a href="/comments/20210209/1484181.md" target="_blank">拜登为何不敢批评习近平？世卫小组武汉行又替中共唱赞歌；美国不断重回川普退出的国际群组，图啥？</a></li>
 <li><a href="/cbnews/20210209/1484180.md" target="_blank">文昭：川普回归，在哪个平台落户？养成羽翼、横绝四海；缅甸「六四」前夕，习近平得新牌</a></li>
 <li><a href="/comments/20210209/1484131.md" target="_blank">大科技涉嫌干预内政 遭缅甸禁止；盖洛普民调：反恐 川普比奥巴马做的好；欲重返人权理事会 美国务卿遭众多议员反对；特斯拉投资比特币 飙升历史新高；与台湾 芯片换疫苗？德国避谈中国因素【希望之声TV】</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210208/1483851.md" target="_blank">解密时分24亿美元 史上十大最贵战机</a></li>
 <li><a href="/cbnews/20210208/1483846.md" target="_blank">陈破空：习近平盘算，下一个整他？中国人不打中国疫苗。党媒炒作姿色女官</a></li>
 <li><a href="/comments/20210208/1483836.md" target="_blank">纳瓦罗痛骂巴尔，毁掉30多个川普行政令。库什纳阻止川普使用社交平台Gab。Parler前总裁自爆不喜欢川普，被炒鱿鱼。弹劾案，共和党建制派想草草收场。</a></li>
-<li><a href="/comments/20210208/1483826.md" target="_blank">挖出由福齐等魔头控制美国医疗系统的黑幕</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210209/1484185.md" target="_blank">前白宫高级政策分析师公开川普未能翻盘内幕</a></li>
 <li><a href="/topimagenews/20210209/1484062.md" target="_blank">李克强泄露中国惨况 中共逮捕澳籍央视记者 中共发4评称中美关系4不得被怼</a></li>
 <li><a href="/topimagenews/20210209/1483953.md" target="_blank">拜登情绪激动发惊人之语；还宣布惊人外交战略重点；重返伊朗谈判桌？被批愚蠢</a></li>
 <li><a href="/topimagenews/20210208/1483849.md" target="_blank">佛州州长立法挑战极左技术垄断 称把保守派撵出平台是消费者欺诈【阿波罗网编译】</a></li>
@@ -91,13 +92,17 @@
 <li><a href="/topimagenews/20210207/1482958.md" target="_blank">17+1领导人视讯峰会 数国冷落中共习近平的邀请</a></li>
 <li><a href="/topimagenews/20210206/1482681.md" target="_blank">感人！川普罕见发声 力挺被封杀的名主持：这群粉丝中也包括我</a></li>
 <li><a href="/topimagenews/20210206/1482679.md" target="_blank">看看选的这些人！克鲁兹敲打拜登：急于 &#8220;拥抱 &#8220;中共政府【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210206/1482626.md" target="_blank">马云知道的比习近平还多？中共央行：应将互联网平台数据垄断变为共享</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210209/1484211.md" target="_blank">川普总统第一任期内美国经济巨幅增长  他简直就是美国人民的财神爷！川普不仅不领薪水 而且自己的财富四年损失20亿 期待川普不久即将回归！ 人有善愿 天必佑之</a></li>
+<li><a href="/comments/20210209/1484200.md" target="_blank">颜纯钩：武大郎开店 满朝庸官 香港岂有未来？</a></li>
+<li><a href="/comments/20210209/1484199.md" target="_blank">洪博学：红媒唱衰“护国神山” 只能骗不懂的人</a></li>
+<li><a href="/comments/20210209/1484198.md" target="_blank">李怡：疫苗传奇</a></li>
+<li><a href="/comments/20210209/1484184.md" target="_blank">中央巡视组批公安部肃清余毒不够 矛头指向“他”？</a></li>
 <li><a href="/comments/20210209/1484181.md" target="_blank">拜登为何不敢批评习近平？世卫小组武汉行又替中共唱赞歌；美国不断重回川普退出的国际群组，图啥？</a></li>
 <li><a href="/comments/20210209/1484175.md" target="_blank">陶杰：严打娘炮 拒绝美帝</a></li>
 <li><a href="/comments/20210209/1484174.md" target="_blank">长平：盗版人民共和国</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210209/1484021.md" target="_blank">没提昂山素季！缅甸政变军头首发电视演说：将重办大选</a></li>
 <li><a href="/comments/20210209/1484018.md" target="_blank">民主党推法案 要给6岁以下孩子每人3600美元</a></li>
 <li><a href="/comments/20210209/1484010.md" target="_blank">拜登承认：今年夏末美国无法实现群体免疫</a></li>
-<li><a href="/comments/20210209/1484009.md" target="_blank">跟进佛州 德州也将制裁科技巨头</a></li>
-<li><a href="/comments/20210209/1484004.md" target="_blank">这不是传说！中国东北大雪封山 饿虎扑狗惊险画面曝光</a></li>
-<li><a href="/comments/20210209/1484003.md" target="_blank">李克强又说了大实话 自曝中国经济实情</a></li>
-<li><a href="/comments/20210209/1484002.md" target="_blank">江泽民老家前父母官苏泽群落马 曾与曾庆红侄女王晓玲共事 曾与万庆良一起拜海瑞</a></li>
-<li><a href="/comments/20210209/1484001.md" target="_blank">央企中国金茂预计净利下滑50%</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 
 </ul>
 </div>
