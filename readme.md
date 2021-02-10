@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210210/1484693.md">习近平与女儿个资怎曝光？知情者：中国警察卖掉的</a></li>
 <li><a href="/cbnews/20210210/1485146.md">习近平再破“规矩” 撤李克强一要职</a></li>
-<li><a href="/topimagenews/20210210/1484803.md">川普为何更开心了?还就弹劾程序发声明 拜登让川普任命法官走人 不抵制北京冬奥</a></li>
 <li><a href="/comments/20210210/1484750.md">凤凰卫视人事大地震深度内幕 刘长乐及家族全出局 董事长总经理换人 凤凰卫视是江泽民父子的御用工具 凤凰卫视是传媒界的“天上人间” 性丑闻及灾祸不断 美女主持纷纷出事 凤凰网编辑拍马江泽民遭开除 陆媒7500字长文披露凤凰卫视旗下凤凰金融暴雷事件及违法事实的材料 中南海不可告人的秘密_315</a></li>
+<li><a href="/topimagenews/20210210/1484803.md">川普为何更开心了?还就弹劾程序发声明 拜登让川普任命法官走人 不抵制北京冬奥</a></li>
 <li><a href="/comments/20210210/1484737.md">美国空军中将 前国家情报总监James Clapper录音：彭斯的罪恶 政府的腐败触目惊心 指名道姓的揭露 毫不隐讳  美国人民惊呆了</a></li>
 <li><a href="/cbnews/20210210/1484785.md">张文宏暗批中共防疫政策将致人精神崩溃</a></li>
 <li><a href="/lifebaike/20210210/1485015.md">高岗私生活有多淫乱？被高层批道德败坏已达极点</a></li>
 <li><a href="/cnnews/hknews/20210210/1484756.md">全球芯片格局再生变 中共囤积设备害人害己</a></li>
-<li><a href="/cbnews/20210210/1485036.md">萧铭：参议院弹劾第一天，川普律师表现令人惊讶，会影响最终结果吗？</a></li>
-<li><a href="/bannedvideo/20210210/1484668.md">【编译】重磅！川普幕僚长披露内幕；惊人新发现! 人脸识别确认，乌克兰新纳粹参与国会山骚乱；白宫：犯酒驾、强奸等非法移民不会被驱逐；帕拉被解雇执行长，竟不愿和川普共事?  LZ</a></li>
 <li><a href="/comments/20210210/1484998.md">2021🔥🔥特大灾难信号❓❗</a></li>
+<li><a href="/bannedvideo/20210210/1484668.md">【编译】重磅！川普幕僚长披露内幕；惊人新发现! 人脸识别确认，乌克兰新纳粹参与国会山骚乱；白宫：犯酒驾、强奸等非法移民不会被驱逐；帕拉被解雇执行长，竟不愿和川普共事?  LZ</a></li>
+<li><a href="/cbnews/20210210/1485036.md">萧铭：参议院弹劾第一天，川普律师表现令人惊讶，会影响最终结果吗？</a></li>
 <li><a href="/topimagenews/20210210/1484781.md">大陆农历年家电「涨声」一片 年后涨势恐更猛</a></li>
 <li><a href="/comments/20210210/1484906.md">🔥🔥诡异不断❗川普会大翻盘吗❓</a></li>
+<li><a href="/cbnews/20210210/1485109.md">深圳第二人民医院庆祝手术量破千引出惊天黑幕</a></li>
 <li><a href="/comments/20210210/1484600.md">更多死亡！纽约男子注射疫苗25分钟后离世，而官方却反复声称“没有任何副作用”！英语评论区炸裂</a></li>
 <li><a href="/health/20210210/1484980.md">菠菜尽量少吃，最好不吃，医生：两类人一口别吃，早知早受益</a></li>
 <li><a href="/finance/20210210/1484692.md">是时候担心恶性通胀了</a></li>
-<li><a href="/cbnews/20210210/1485109.md">深圳第二人民医院庆祝手术量破千引出惊天黑幕</a></li>
 <li><a href="/cbnews/20210210/1485038.md">他的身份证有特殊记号 只要去买票 公安马上就知道…</a></li>
-<li><a href="/cnnews/20210210/1484644.md">主媒终于承认羟氯喹有效  曾遭讥讽的黑人女医生要求拜登道歉【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210210/1484739.md">结与国之欢心，习近平又大撒币</a></li>
 <li><a href="/topimagenews/20210210/1485076.md">参议院给川普定罪的可能性有多大？民调显示...【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210210/1484739.md">结与国之欢心，习近平又大撒币</a></li>
 <li><a href="/cnnews/20210210/1484809.md">1982年鲁迅之孙“叛逃”事件真相</a></li>
 <li><a href="/bannedvideo/20210210/1484916.md">突然！中英激烈冲突。英国雄起！德特里克堡之谜。胡锡进挣表现</a></li>
+<li><a href="/cnnews/20210210/1485052.md">一段视频热传 拜登现身超级碗 民众高喊：“他是伪总统！”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210211/1485293.md" target="_blank">川普弹劾案参院开审 6共和党人投票支持；司法部要求大多数川普任命的检察官辞职；议员提法案暂缓对世卫金援；蓬佩奥批世卫：正向习近平下跪；黑客入侵佛州供水系统 欲将饮用水变毒水【希望之声TV】</a></li>
 <li><a href="/comments/20210210/1485223.md" target="_blank">中国人如何保护自己的财产和生命安全（3）</a></li>
 <li><a href="/comments/20210210/1485216.md" target="_blank">中国人如何保护自己的财产和生命安全（2）</a></li>
 <li><a href="/cbnews/20210210/1485221.md" target="_blank">广东醉酒女工被带开房后中毒亡 已婚上司被刑拘</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210210/1484994.md" target="_blank">分析：中共封杀Clubhouse防黑天鹅和灰犀牛</a></li>
 <li><a href="/cbnews/20210210/1484974.md" target="_blank">对付谁？中共武警持狼牙棒及尖锤连枷受训</a></li>
 <li><a href="/comments/20210210/1484972.md" target="_blank">疫情封锁令！ 高院应干预么？蓬佩奥相信世卫组织的病毒溯源结论？中国超过三千万人接种疫苗 有谁知道有效率和副作用？【希望之声TV】</a></li>
-<li><a href="/comments/20210210/1484893.md" target="_blank">专访李南央（李锐女儿）：从我的人生经历看美国大选及社会走向</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210211/1485299.md" target="_blank">密歇根共和党领袖：国会山骚乱是预设骗局</a></li>
+<li><a href="/comments/20210211/1485293.md" target="_blank">川普弹劾案参院开审 6共和党人投票支持；司法部要求大多数川普任命的检察官辞职；议员提法案暂缓对世卫金援；蓬佩奥批世卫：正向习近平下跪；黑客入侵佛州供水系统 欲将饮用水变毒水【希望之声TV】</a></li>
+<li><a href="/comments/20210211/1485292.md" target="_blank">【通识变国教】教局办简介会 老师忧新科避谈负面事例 讲者反问“点解𠮶啲问题特别重要？”</a></li>
+<li><a href="/comments/20210211/1485291.md" target="_blank">蓬佩奥促拜登：警惕中共挑战 无需介意习近平</a></li>
+<li><a href="/comments/20210211/1485290.md" target="_blank">小心了！入境英国隐瞒旅游史 恐面临10年牢狱之灾</a></li>
 <li><a href="/comments/20210210/1485284.md" target="_blank">黑客黑心？佛州供水系统被黑 饮水差点变毒水</a></li>
 <li><a href="/comments/20210210/1485273.md" target="_blank">过年大鱼大肉防痛风来敲门 营养师传授5原则</a></li>
 <li><a href="/comments/20210210/1485272.md" target="_blank">中药古今研究：山茱萸</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210210/1485196.md" target="_blank">弹劾案首日辩论，川普对领队律师非常不满。纽约证券交易所要出逃？</a></li>
 <li><a href="/comments/20210210/1485186.md" target="_blank">【政治审查？】烘焙黄店：诚品职员扣留“淋病月娥”甜批半小时 无交代原因</a></li>
 <li><a href="/comments/20210210/1485185.md" target="_blank">遭美国制裁 邓炳强卢伟聪等 7 警获服务奖状 表扬维护国安“重大贡献”</a></li>
-<li><a href="/comments/20210210/1485184.md" target="_blank">【独家】著名中医师：针灸一次治愈患癔病的男孩</a></li>
-<li><a href="/comments/20210210/1485183.md" target="_blank">【探索宇宙奥秘 脑洞新视角】神秘《美人鱼》不是传说！当前世界海洋还有八千多美人鱼，你信吗</a></li>
-<li><a href="/comments/20210210/1485152.md" target="_blank">美民主党提出新法案促政府安全部门停止雇佣“散播阴谋论”者</a></li>
-<li><a href="/comments/20210210/1485143.md" target="_blank">日本下周开始疫苗接种 药厂：等同流感每年施打</a></li>
-<li><a href="/comments/20210210/1485139.md" target="_blank">唐英杰案不设陪审团 张达明：理据薄弱、不合常理 汤家骅：迫不得已</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 
 </ul>
 </div>
