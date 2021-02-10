@@ -23,11 +23,11 @@
 <li><a href="/bannedvideo/20210210/1484668.md">【编译】重磅！川普幕僚长披露内幕；惊人新发现! 人脸识别确认，乌克兰新纳粹参与国会山骚乱；白宫：犯酒驾、强奸等非法移民不会被驱逐；帕拉被解雇执行长，竟不愿和川普共事?  LZ</a></li>
 <li><a href="/cbnews/20210210/1484785.md">张文宏暗批中共防疫政策将致人精神崩溃</a></li>
 <li><a href="/cnnews/hknews/20210210/1484756.md">全球芯片格局再生变 中共囤积设备害人害己</a></li>
-<li><a href="/lifebaike/20210209/1484380.md">为什么餐厅在客人点完餐后,要急着把菜单收走?</a></li>
 <li><a href="/topimagenews/20210210/1484781.md">大陆农历年家电「涨声」一片 年后涨势恐更猛</a></li>
 <li><a href="/finance/20210210/1484692.md">是时候担心恶性通胀了</a></li>
 <li><a href="/cnnews/20210210/1484644.md">主媒终于承认羟氯喹有效  曾遭讥讽的黑人女医生要求拜登道歉【阿波罗网编译】</a></li>
 <li><a href="/comments/20210209/1484502.md">美军的秘密抓捕行动从未停歇 很多人已经被捕  拜登在电影棚里工作 很多人是替身演员</a></li>
+<li><a href="/cnnews/20210210/1484739.md">结与国之欢心，习近平又大撒币</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210210/1485070.md" target="_blank">习近平家人个资外泄 知情人称是中共警察卖掉的</a></li>
+<li><a href="/comments/20210210/1485069.md" target="_blank">官二代警示：台湾应审慎引进中国疫苗 谨防灭顶之灾</a></li>
+<li><a href="/comments/20210210/1485068.md" target="_blank">日本女医师多年只用热水洗头，远离洗发精 让头发也“素颜”</a></li>
 <li><a href="/comments/20210210/1485037.md" target="_blank">海外法轮功学员恭祝李洪志大师过年好</a></li>
 <li><a href="/comments/20210210/1485034.md" target="_blank">日美实验证明 新冠状病毒伤害味觉感知组织</a></li>
 <li><a href="/comments/20210210/1485029.md" target="_blank">加拿大签证中心谁说了算？背后老板曝光！英国大学为中共工作？军情六处介入调查；美媒揭美国名校为中共提供经济决策；【希望之声TV】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210210/1484893.md" target="_blank">专访李南央（李锐女儿）：从我的人生经历看美国大选及社会走向</a></li>
 <li><a href="/comments/20210210/1484886.md" target="_blank">疫情封锁加剧 河中现大量现金 引人打捞</a></li>
 <li><a href="/comments/20210210/1484882.md" target="_blank">颜纯钩：历史不在习近平一边 在黎智英一边</a></li>
-<li><a href="/comments/20210210/1484600.md" target="_blank">更多死亡！纽约男子注射疫苗25分钟后离世，而官方却反复声称“没有任何副作用”！英语评论区炸裂</a></li>
-<li><a href="/comments/20210210/1484861.md" target="_blank">谁是守护者？谁是破坏者？   嘉宾：林晓旭 蓝述 主持：高洁【希望之声TV】(2021/02/09)</a></li>
-<li><a href="/comments/20210210/1484859.md" target="_blank">曾帮太子党“选妃” 凤凰卫视大地震 刘长乐被逐 由这两人全面接管</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 
 </ul>
 </div>
