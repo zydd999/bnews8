@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210210/1485146.md">习近平再破“规矩” 撤李克强一要职</a></li>
 <li><a href="/funmedia/20210210/1485222.md">他半辈子骂美国 最后全家移民美国</a></li>
-<li><a href="/cbnews/20210210/1485109.md">深圳第二人民医院庆祝手术量破千引出惊天黑幕</a></li>
 <li><a href="/comments/20210211/1485626.md">弗林将军弟弟晋升太平洋战区司令内幕惊人 拜登佩罗西睡不着</a></li>
 <li><a href="/cnnews/20210211/1485434.md">“抗疫”院士李兰娟黑历史被扒 儿媳“色迷”浙江环保局长</a></li>
 <li><a href="/lifebaike/20210210/1485168.md">美国教授: 睡觉才是延长生命革命性新秘方</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cbnews/20210210/1485202.md">网曝武汉人喊楼为李文亮送行</a></li>
 <li><a href="/topimagenews/20210211/1485441.md">中南海惊人战略弱智？ 南海角力 美军出双航母战斗群 法核潜艇加入</a></li>
 <li><a href="/cnnews/20210211/1485489.md">格雷厄姆告诉川普：弹劾案“结束了”</a></li>
-<li><a href="/lifebaike/20210211/1485431.md">延安夜生活什么样？贺龙大骂丁玲臭婊子</a></li>
-<li><a href="/comments/20210211/1485381.md">传马云最近在海南打高尔夫 习近平打压马云令富二代变得听话了 蚂蚁集团坑了一批国际金融大鳄 中南海谣言预言_435</a></li>
-<li><a href="/bannedvideo/20210210/1485187.md">任正非希望拜登满足这个“小愿望”；习近平要清洗邓朴方“独立王国”？大师签妙解香港牛年运程；黄秋生回忆97年主权移交“不吉天象”；广东副公安局长遭下属枪击内幕流出</a></li>
-<li><a href="/cbnews/20210211/1485503.md">美国学者析中国政局：习近平是最大变数</a></li>
 <li><a href="/yule/20210211/1485565.md">19岁以色列女兵获世界最美面孔，五官精致力压迪丽热巴</a></li>
-<li><a href="/cnnews/20210211/1485371.md">误以为炒股暴亏73万美元 大学生自杀 家属状告「罗宾汉」</a></li>
+<li><a href="/lifebaike/20210211/1485431.md">延安夜生活什么样？贺龙大骂丁玲臭婊子</a></li>
+<li><a href="/bannedvideo/20210210/1485187.md">任正非希望拜登满足这个“小愿望”；习近平要清洗邓朴方“独立王国”？大师签妙解香港牛年运程；黄秋生回忆97年主权移交“不吉天象”；广东副公安局长遭下属枪击内幕流出</a></li>
+<li><a href="/comments/20210211/1485381.md">传马云最近在海南打高尔夫 习近平打压马云令富二代变得听话了 蚂蚁集团坑了一批国际金融大鳄 中南海谣言预言_435</a></li>
+<li><a href="/cbnews/20210211/1485503.md">美国学者析中国政局：习近平是最大变数</a></li>
 <li><a href="/comments/20210211/1485293.md">川普弹劾案参院开审 6共和党人投票支持；司法部要求大多数川普任命的检察官辞职；议员提法案暂缓对世卫金援；蓬佩奥批世卫：正向习近平下跪；黑客入侵佛州供水系统 欲将饮用水变毒水【希望之声TV】</a></li>
+<li><a href="/cnnews/20210211/1485371.md">误以为炒股暴亏73万美元 大学生自杀 家属状告「罗宾汉」</a></li>
 <li><a href="/cnnews/20210210/1485171.md">大突破！科学家首次用纠缠光子成功创建全息图像</a></li>
-<li><a href="/yule/20210211/1485512.md">美女大崩坏？49岁朱茵爆肥脸超肿曝近况「胖了2百斤」</a></li>
+<li><a href="/cnnews/20210211/1485370.md">耶鲁华裔硕士生遭枪杀 MIT中国博士生疑涉嫌</a></li>
+<li><a href="/cnnews/20210211/1485387.md">北京建委官员验房被卡在电梯里 业主在外边叫好</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210211/1485728.md" target="_blank">【图片+视频】黄河与长江的传说</a></li>
+<li><a href="/comments/20210211/1485727.md" target="_blank">10道最受欢迎的杏鲍菇吃法</a></li>
 <li><a href="/comments/20210211/1485722.md" target="_blank">李燕铭：赵乐际弟赵乐秦中国新年前夕被免职 赵乐秦提拔的“最美女书记”落马 习近平高层会议点名赵乐际两搭档“七恶不赦” 其中一人与赵乐秦情同手足 赵乐秦任职安排极为少见 赵乐际噩耗频传年关难过</a></li>
 <li><a href="/comments/20210211/1485721.md" target="_blank">前浙江书记车俊胞弟被“双开” 曾任敏感职位</a></li>
 <li><a href="/comments/20210211/1485718.md" target="_blank">名家专栏：详解针对川普的“影子运动”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210211/1485655.md" target="_blank">【要闻精粹】买了个瘟疫大坟场建最大中使馆 生死异象</a></li>
 <li><a href="/comments/20210211/1485651.md" target="_blank">大年三十拜登给习近平拜年！暗语做一重大承诺 央视没提一件事</a></li>
 <li><a href="/comments/20210211/1485644.md" target="_blank">美国预算赤字在2021财年初增长89％</a></li>
-<li><a href="/comments/20210211/1485643.md" target="_blank">2021年丰田在美国市场，将推出三款新型电动车</a></li>
-<li><a href="/comments/20210211/1485639.md" target="_blank">章天亮: 为啥纳瓦罗说司法部巴尔参与了“政变”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
