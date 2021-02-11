@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/funmedia/20210210/1485222.md">他半辈子骂美国 最后全家移民美国</a></li>
 <li><a href="/comments/20210211/1485626.md">弗林将军弟弟晋升太平洋战区司令内幕惊人 拜登佩罗西睡不着</a></li>
-<li><a href="/lifebaike/20210210/1485168.md">美国教授: 睡觉才是延长生命革命性新秘方</a></li>
 <li><a href="/cnnews/20210211/1485434.md">“抗疫”院士李兰娟黑历史被扒 儿媳“色迷”浙江环保局长</a></li>
 <li><a href="/cbnews/20210210/1485221.md">广东醉酒女工被带开房后中毒亡 已婚上司被刑拘</a></li>
 <li><a href="/comments/20210211/1485355.md">林伍德：民主党和共和党中的叛徒和罪犯都吓得要死 因为他们不知道川普要做什么 什么时候做 他们晚上睡不好  参院共和党：不会给川普定罪 弹劾川普是一场闹剧</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cnnews/20210211/1485489.md">格雷厄姆告诉川普：弹劾案“结束了”</a></li>
 <li><a href="/comments/20210211/1485381.md">传马云最近在海南打高尔夫 习近平打压马云令富二代变得听话了 蚂蚁集团坑了一批国际金融大鳄 中南海谣言预言_435</a></li>
 <li><a href="/lifebaike/20210211/1485431.md">延安夜生活什么样？贺龙大骂丁玲臭婊子</a></li>
+<li><a href="/cbnews/20210211/1485686.md">儿子被抓逾月 中共上将李继耐亮相</a></li>
 <li><a href="/cbnews/20210211/1485503.md">美国学者析中国政局：习近平是最大变数</a></li>
 <li><a href="/cbnews/20210211/1485624.md">中国除夕 拜登和习近平首次通话</a></li>
-<li><a href="/cbnews/20210211/1485686.md">儿子被抓逾月 中共上将李继耐亮相</a></li>
 <li><a href="/comments/20210211/1485293.md">川普弹劾案参院开审 6共和党人投票支持；司法部要求大多数川普任命的检察官辞职；议员提法案暂缓对世卫金援；蓬佩奥批世卫：正向习近平下跪；黑客入侵佛州供水系统 欲将饮用水变毒水【希望之声TV】</a></li>
 <li><a href="/cnnews/20210211/1485371.md">误以为炒股暴亏73万美元 大学生自杀 家属状告「罗宾汉」</a></li>
+<li><a href="/comments/20210211/1485651.md">大年三十拜登给习近平拜年！暗语做一重大承诺 央视没提一件事</a></li>
+<li><a href="/topimagenews/20210211/1485664.md">“伪君子！”美媒大骂带头弹劾川普的民主党议员【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20210211/1485600.md">她怀孕生子轰动了世界！只因她老公是全球最帅的男人..</a></li>
-<li><a href="/cnnews/20210210/1485171.md">大突破！科学家首次用纠缠光子成功创建全息图像</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210211/1485782.md" target="_blank">中共病毒肆虐全球每个角落，餐饮业受到重创。希望之声驻华府记者的采访报导【希望之声TV】</a></li>
 <li><a href="/cbnews/20210211/1485777.md" target="_blank">中国各民族法轮功学员向李洪志师父拜年</a></li>
 <li><a href="/cbnews/20210211/1485764.md" target="_blank">精神病女患者被男护工侵犯？院方：她没有求救</a></li>
 <li><a href="/cbnews/20210211/1485749.md" target="_blank">拜登上任后 美国务院官员首次会晤台驻美代表</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210211/1485280.md" target="_blank">接种疫苗后 美36人现罕见血液病1人死亡</a></li>
 <li><a href="/comments/20210211/1485505.md" target="_blank">【预告】新唐人中国新年播神韵晚会和音乐会</a></li>
 <li><a href="/cbnews/20210211/1485503.md" target="_blank">美国学者析中国政局：习近平是最大变数</a></li>
-<li><a href="/cbnews/20210211/1485501.md" target="_blank">文昭：拜登绿版「大炼钢铁」中美全中招，习近平苦笑，谁哭？一个「人人都得到就是人人都失去」的故事</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210211/1485782.md" target="_blank">中共病毒肆虐全球每个角落，餐饮业受到重创。希望之声驻华府记者的采访报导【希望之声TV】</a></li>
 <li><a href="/comments/20210211/1485775.md" target="_blank">调涨美国最低工资 好事还是坏事？</a></li>
 <li><a href="/comments/20210211/1485760.md" target="_blank">血压偏高的朋友可以选择哪些坚果？</a></li>
 <li><a href="/comments/20210211/1485759.md" target="_blank">过年假期聚餐 这几类人群需注意保健养生</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210211/1485682.md" target="_blank">马化腾心惊？腾讯一高管涉孙力军案被拘捕</a></li>
 <li><a href="/comments/20210211/1485681.md" target="_blank">骇客部队盗虚拟资产逾3亿美元 金正恩重启核武</a></li>
 <li><a href="/comments/20210211/1485677.md" target="_blank">“疫苗外交”无效 国际民调：63%东南亚人不信任中共</a></li>
-<li><a href="/comments/20210211/1485676.md" target="_blank">研究发现，羟氯奎对中共病毒患者有疗效</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 
 </ul>
 </div>
