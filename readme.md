@@ -12,22 +12,22 @@
 <li><a href="/ssgc/20210211/1485821.md">习近平赌对了</a></li>
 <li><a href="/cbnews/20210211/1485686.md">儿子被抓逾月 中共上将李继耐亮相</a></li>
 <li><a href="/headline/20210211/1485741.md">川普案第2天 弹劾方抛惊人监控 然而…</a></li>
-<li><a href="/cbnews/20210211/1485853.md">美媒：腾讯高层被捕！被控分享微信个资给公安</a></li>
 <li><a href="/comments/20210211/1485651.md">大年三十拜登给习近平拜年！暗语做一重大承诺 央视没提一件事</a></li>
+<li><a href="/cbnews/20210211/1485853.md">美媒：腾讯高层被捕！被控分享微信个资给公安</a></li>
+<li><a href="/comments/20210212/1485921.md">李燕铭：习近平家族释放敏感政治信号 胡耀邦重用的自由派钟沛璋去世 习近平母亲齐心和胞弟习远平与前常委胡启立及赵紫阳秘书鲍彤罕见同场送花圈 钟沛璋曾到中南海建言民主宪政 呼吁政治改革 2021年“牛转乾坤” 中国巨变在即一切皆有可能</a></li>
 <li><a href="/cbnews/20210211/1485705.md">女子打球认识亿万富翁 变身月薪8万高管却被坑惨</a></li>
 <li><a href="/topimagenews/20210211/1485664.md">“伪君子！”美媒大骂带头弹劾川普的民主党议员【阿波罗网编译】</a></li>
-<li><a href="/comments/20210212/1485921.md">李燕铭：习近平家族释放敏感政治信号 胡耀邦重用的自由派钟沛璋去世 习近平母亲齐心和胞弟习远平与前常委胡启立及赵紫阳秘书鲍彤罕见同场送花圈 钟沛璋曾到中南海建言民主宪政 呼吁政治改革 2021年“牛转乾坤” 中国巨变在即一切皆有可能</a></li>
 <li><a href="/cbnews/20210211/1485724.md">派出所长吕兵示意护士不要告诉家属实情…</a></li>
 <li><a href="/funmedia/20210211/1485600.md">她怀孕生子轰动了世界！只因她老公是全球最帅的男人..</a></li>
 <li><a href="/cbnews/20210211/1485624.md">中国除夕 拜登和习近平首次通话</a></li>
 <li><a href="/cbnews/20210211/1485798.md">新华社反腐女记者受迫害惨死</a></li>
 <li><a href="/cnnews/20210211/1485772.md">川普案第2天 弹劾方抛惊人监控…</a></li>
-<li><a href="/yule/20210211/1485773.md">安徽土豪网红求婚郑爽 "内八字”腿引网友吐槽</a></li>
 <li><a href="/yule/20210211/1485815.md">真相轰动全美：小甜甜到底遭遇了什么非人折磨？</a></li>
+<li><a href="/yule/20210211/1485773.md">安徽土豪网红求婚郑爽 "内八字”腿引网友吐槽</a></li>
+<li><a href="/cnnews/20210212/1485958.md">加拿大极寒警告：零下55°C！短短几分钟女子被…</a></li>
+<li><a href="/cnnews/20210212/1485935.md">共和党领袖 一鸣惊人 14州检察长警告拜登 共和党宣布2022计划</a></li>
 <li><a href="/lifebaike/20210211/1485656.md">5年后，房子是“随便挑”还是“买不起”？李嘉诚一席话说透了</a></li>
 <li><a href="/lifebaike/20210211/1485625.md">中国式精装修为什么不讨喜？看完日本的，我找到了答案</a></li>
-<li><a href="/cnnews/20210212/1485958.md">加拿大极寒警告：零下55°C！短短几分钟女子被…</a></li>
-<li><a href="/topimagenews/20210211/1485805.md">世卫组织调查员 收取中共研究经费和武汉病毒所合作15年【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210212/1486087.md" target="_blank">希望之声主持人给您拜年了【希望之声TV】</a></li>
 <li><a href="/comments/20210212/1486038.md" target="_blank">希望之声TV过年特别节目【希望之声TV】（2021/02/11)</a></li>
 <li><a href="/cbnews/20210212/1486028.md" target="_blank">另类发财水？中国自来水「墨汁狂喷」居民崩溃：该怎么用？</a></li>
 <li><a href="/cbnews/20210212/1486021.md" target="_blank">多少中共高官泄露中共活摘器官秘密（2）</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210211/1485782.md" target="_blank">中共病毒肆虐全球每个角落，餐饮业受到重创。希望之声驻华府记者的采访报导【希望之声TV】</a></li>
 <li><a href="/cbnews/20210211/1485777.md" target="_blank">中国各民族法轮功学员向李洪志师父拜年</a></li>
 <li><a href="/cbnews/20210211/1485764.md" target="_blank">精神病女患者被男护工侵犯？院方：她没有求救</a></li>
-<li><a href="/cbnews/20210211/1485749.md" target="_blank">拜登上任后 美国务院官员首次会晤台驻美代表</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210212/1486100.md" target="_blank">林保华：扑灭民主选举 港共花招尽出</a></li>
+<li><a href="/comments/20210212/1486099.md" target="_blank">洪博学：军方绑架缅甸民主 背后有毒手</a></li>
+<li><a href="/comments/20210212/1486098.md" target="_blank">一剑飘尘：习近平赌对了 都别忘了背后那个支招的</a></li>
+<li><a href="/comments/20210212/1486097.md" target="_blank">维舟：不完美的受害者</a></li>
+<li><a href="/comments/20210212/1486089.md" target="_blank">李燕铭：江泽民病重住院？习阵营暗示江泽民要挂了？上海官媒惊泄“老同志正在住院治疗” 江泽民侄吴志明与江绵恒马仔杨雄缺席上海老干部团拜会</a></li>
+<li><a href="/comments/20210212/1486087.md" target="_blank">希望之声主持人给您拜年了【希望之声TV】</a></li>
 <li><a href="/comments/20210212/1486071.md" target="_blank">萧美琴：进美国务院会亚太助卿 愉快会面并祝新年快乐</a></li>
 <li><a href="/comments/20210212/1486038.md" target="_blank">希望之声TV过年特别节目【希望之声TV】（2021/02/11)</a></li>
 <li><a href="/comments/20210212/1486020.md" target="_blank">弹劾辩论太无聊？两党参议员会上都“开小差”</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210212/1485965.md" target="_blank">禁止澳煤进口 中国煤炭短缺问题加剧</a></li>
 <li><a href="/comments/20210212/1485964.md" target="_blank">突发！美FDA调查疫苗接种者血小板锐减事件</a></li>
 <li><a href="/comments/20210212/1485952.md" target="_blank">2月11日除夕</a></li>
-<li><a href="/comments/20210212/1485939.md" target="_blank">众议员乔丹：弹劾川普违背四大原则、四个事实</a></li>
-<li><a href="/comments/20210212/1485933.md" target="_blank">中国新年到！美国务卿布林肯：祝世界各地朋友牛年和平幸福</a></li>
-<li><a href="/comments/20210212/1485932.md" target="_blank">【解密时分】诺查丹玛斯预言：君主制回归</a></li>
-<li><a href="/comments/20210212/1485931.md" target="_blank">除夕前14天 中国客流量锐减超七成</a></li>
-<li><a href="/comments/20210212/1485930.md" target="_blank">强生总裁：新冠病毒不断突变 未来可能每年需要打疫苗</a></li>
-<li><a href="/comments/20210212/1485921.md" target="_blank">李燕铭：习近平家族释放敏感政治信号 胡耀邦重用的自由派钟沛璋去世 习近平母亲齐心和胞弟习远平与前常委胡启立及赵紫阳秘书鲍彤罕见同场送花圈 钟沛璋曾到中南海建言民主宪政 呼吁政治改革 2021年“牛转乾坤” 中国巨变在即一切皆有可能</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
