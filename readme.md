@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/headline/20210212/1486260.md">穿帮了？李克强逛年货街 网曝女导演指挥现场</a></li>
 <li><a href="/cbnews/20210213/1486483.md">中共常委赵乐际保不了弟弟 中南海酿巨变</a></li>
-<li><a href="/cbnews/20210212/1486256.md">“韭菜”不够割？央视春晚催婚小品引来炮轰</a></li>
 <li><a href="/cbnews/20210213/1486506.md">习近平向团派宣战</a></li>
 <li><a href="/worldnews/20210212/1486286.md">朝鲜锁国如临大灾难 外国使馆证实惨状</a></li>
-<li><a href="/cbnews/20210212/1486293.md">“给人添堵” 央视春晚催婚小品引来炮轰</a></li>
 <li><a href="/comments/20210212/1486315.md">胡锡进的下场</a></li>
+<li><a href="/cbnews/20210212/1486293.md">“给人添堵” 央视春晚催婚小品引来炮轰</a></li>
 <li><a href="/comments/20210213/1486580.md">🔥🔥2021大灾来了❓占星师被自己预言吓到了❗躲了起来❗❗</a></li>
 <li><a href="/lifebaike/20210213/1486628.md">银行新规定：3月1日起，这两地方的钱存银行取不出，储户请注意</a></li>
 <li><a href="/yule/20210213/1486498.md">为3岁女儿抛下江宏杰！福原爱回日本曝光新身分：延续缘分</a></li>
 <li><a href="/comments/20210212/1486306.md">面对弹劾，川普轻松打高尔夫；希拉里称参议院有川普同谋，有何用意？看不下去了，CIA前官员脱离民主党。肖恩指，民主党弹劾经理人，用好莱坞式的煽情片攻击川普。</a></li>
 <li><a href="/cnnews/20210213/1486568.md">其实 鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20210213/1486466.md">失去英国 失去欧洲：中国环球电视网在德国也遭停播</a></li>
 <li><a href="/cbnews/20210213/1486563.md">弟赵乐秦被免职 赵乐际处境高危</a></li>
+<li><a href="/topimagenews/20210213/1486466.md">失去英国 失去欧洲：中国环球电视网在德国也遭停播</a></li>
 <li><a href="/cbnews/20210212/1486268.md">当代绝命“血滴子”！美军“斩首”利器外形首曝光</a></li>
 <li><a href="/cnnews/20210213/1486478.md">发表毁天灭地论的赵盛烨出车祸了 网友：报应</a></li>
+<li><a href="/comments/20210213/1486658.md">拜登从飞机上下来对着空无一人的场地挥手致意 装出被很多人迎接的样子</a></li>
 <li><a href="/cnnews/20210212/1486302.md">为中共立功者最终什么下场？这些结局令人警醒</a></li>
-<li><a href="/headline/20210213/1486430.md">“春晚”再现涂黑脸 民间连珠炮斥 外交部急回应</a></li>
 <li><a href="/worldnews/20210212/1486278.md">德外交部：不建议前往中国</a></li>
+<li><a href="/headline/20210213/1486430.md">“春晚”再现涂黑脸 民间连珠炮斥 外交部急回应</a></li>
 <li><a href="/cbnews/20210213/1486581.md">文昭：牛年第一雷！腾讯高管被抓、马云成欠账「老赖」？一个细思极恐的结局</a></li>
 <li><a href="/yule/20210213/1486488.md">孙俪罕挥毫写春联 字迹曝光太惊人</a></li>
-<li><a href="/comments/20210213/1486658.md">拜登从飞机上下来对着空无一人的场地挥手致意 装出被很多人迎接的样子</a></li>
 <li><a href="/headline/20210212/1486310.md">“春晚”：我把党来比母亲 民间：我妈死了</a></li>
+<li><a href="/headline/20210213/1486404.md">急转弯：世卫称仍将调查实验室泄漏理论</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210213/1486754.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
 <li><a href="/comments/20210213/1486738.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
 <li><a href="/comments/20210213/1486735.md" target="_blank">清醒的中国人现在都在支持川普和反对共产党  但很多中国人被共产党骗了一次又一次  一代又一代 仍然不清醒 甚至有些还被骗出了感情   善恶已分</a></li>
 <li><a href="/comments/20210213/1486724.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210213/1486626.md" target="_blank">安徽&#8221;博士村&#8221;未来再难出博士？</a></li>
 <li><a href="/comments/20210213/1486625.md" target="_blank">大面积断供？六大国有银行如此“割韭菜”</a></li>
 <li><a href="/comments/20210213/1486624.md" target="_blank">法媒：中国禁BBC 伦敦和北京之间又多了一条战线</a></li>
-<li><a href="/comments/20210213/1486623.md" target="_blank">【要闻精粹】拜登这样媚习暗送礼  是为了演双簧嘴炮戏</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210212/1485911.md" target="_blank">墙发疯 大量翻墙工具失效 推荐高速有效翻墙工具</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 
 </ul>
 </div>
