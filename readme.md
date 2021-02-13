@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210213/1486483.md">中共常委赵乐际保不了弟弟 中南海酿巨变</a></li>
 <li><a href="/cbnews/20210213/1486506.md">习近平向团派宣战</a></li>
-<li><a href="/comments/20210212/1486315.md">胡锡进的下场</a></li>
 <li><a href="/comments/20210213/1486580.md">🔥🔥2021大灾来了❓占星师被自己预言吓到了❗躲了起来❗❗</a></li>
 <li><a href="/yule/20210213/1486498.md">为3岁女儿抛下江宏杰！福原爱回日本曝光新身分：延续缘分</a></li>
 <li><a href="/lifebaike/20210213/1486628.md">银行新规定：3月1日起，这两地方的钱存银行取不出，储户请注意</a></li>
 <li><a href="/cnnews/20210213/1486568.md">其实 鲁迅是中国第一大汉奸</a></li>
 <li><a href="/cbnews/20210213/1486563.md">弟赵乐秦被免职 赵乐际处境高危</a></li>
+<li><a href="/cbnews/20210213/1486716.md">去年武汉到底死多少人？年初一祭奠用花卖断货</a></li>
 <li><a href="/topimagenews/20210213/1486466.md">失去英国 失去欧洲：中国环球电视网在德国也遭停播</a></li>
 <li><a href="/comments/20210213/1486658.md">拜登从飞机上下来对着空无一人的场地挥手致意 装出被很多人迎接的样子</a></li>
 <li><a href="/cnnews/20210213/1486478.md">发表毁天灭地论的赵盛烨出车祸了 网友：报应</a></li>
-<li><a href="/cbnews/20210213/1486716.md">去年武汉到底死多少人？年初一祭奠用花卖断货</a></li>
-<li><a href="/headline/20210213/1486675.md">互换情妇居然已经是中共官场时尚</a></li>
 <li><a href="/lifebaike/20210213/1486629.md">2021年将实行“户口合并”，要赶紧办“三件事”，以后不好申请了</a></li>
+<li><a href="/headline/20210213/1486675.md">互换情妇居然已经是中共官场时尚</a></li>
 <li><a href="/cbnews/20210213/1486581.md">文昭：牛年第一雷！腾讯高管被抓、马云成欠账「老赖」？一个细思极恐的结局</a></li>
 <li><a href="/headline/20210213/1486430.md">“春晚”再现涂黑脸 民间连珠炮斥 外交部急回应</a></li>
-<li><a href="/yule/20210213/1486488.md">孙俪罕挥毫写春联 字迹曝光太惊人</a></li>
 <li><a href="/comments/20210213/1486576.md">中印同意班公湖撤军 俄媒披露中方死亡数字</a></li>
 <li><a href="/comments/20210213/1486590.md">中共官场最具传奇色彩的公共情妇 色诱中共高官无数 有案可查的正省部级有四人 副省部级有五人 九人中四人被判死缓三人被判无期 两人被内部处分并兔去正部长职务 朱镕基手下得力干将卷入 江泽民曾庆红国安马仔被迫提前退休…… 中南海不可告人的秘密_316</a></li>
-<li><a href="/headline/20210212/1486310.md">“春晚”：我把党来比母亲 民间：我妈死了</a></li>
 <li><a href="/comments/20210213/1486699.md">习近平心慌？新年特别场合 惊被黑衣男子“包围”</a></li>
+<li><a href="/yule/20210213/1486488.md">孙俪罕挥毫写春联 字迹曝光太惊人</a></li>
 <li><a href="/topimagenews/20210213/1486703.md">“剥夺库默紧急权力！”众民主党议员发声 共和党：必须立刻起诉 【阿波罗网编译】</a></li>
 <li><a href="/headline/20210213/1486404.md">急转弯：世卫称仍将调查实验室泄漏理论</a></li>
+<li><a href="/lifebaike/20210213/1486596.md">“相亲对象是留学生？我劝你快逃”</a></li>
+<li><a href="/cnnews/20210212/1486346.md">耶鲁华裔硕士遭枪杀 在逃嫌犯系钢琴奥数高手</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210213/1486849.md" target="_blank">美国思想领袖：作家 詹姆斯·林赛：列宁主义4.0美国上演！攻击国会山的人是谁？媒体不断让事态升温，从中编故事，1月6日事件被利用了？谁正在「假现实」中用「批判性种族理论」看世界？｜ # 大纪元</a></li>
 <li><a href="/comments/20210213/1486837.md" target="_blank">太精彩了！肖恩完美辩护，将弹劾经理人的虚伪指控驳得体无完肤。川普律师仅用三小时就结束战斗！弹劾经理人说，川普将被定罪并无罪释放？川普最新动态：将继续留在竞技场。</a></li>
 <li><a href="/cbnews/20210213/1486822.md" target="_blank">中共女贪官一栋房子专藏贪污受贿物品 金条奢侈品满屋</a></li>
 <li><a href="/cbnews/20210213/1486787.md" target="_blank">探秘世界各国真实军力：专注防御的台湾</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210213/1486321.md" target="_blank">澳洲越南社区领袖：法轮功对社会做出了卓越贡献</a></li>
 <li><a href="/cbnews/20210213/1486483.md" target="_blank">中共常委赵乐际保不了弟弟 中南海酿巨变</a></li>
 <li><a href="/cbnews/20210213/1486475.md" target="_blank">受不了言论审查 荷兰驻华使馆宣布关闭微信公众号</a></li>
-<li><a href="/comments/20210213/1486454.md" target="_blank">感恩观众：希望之声感谢所有在这个频道上与我们一起相识、相知、相伴走过最艰难时刻的人【希望之声过大年特别节目集锦片段5】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210213/1486839.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
+<li><a href="/comments/20210213/1486838.md" target="_blank">【图片+视频】一本经典奇书《动物农庄》：精准预言当代世界九个秘密</a></li>
 <li><a href="/comments/20210213/1486837.md" target="_blank">太精彩了！肖恩完美辩护，将弹劾经理人的虚伪指控驳得体无完肤。川普律师仅用三小时就结束战斗！弹劾经理人说，川普将被定罪并无罪释放？川普最新动态：将继续留在竞技场。</a></li>
 <li><a href="/comments/20210213/1486828.md" target="_blank">解局：赵乐际涉三宗大案 习近平先动其弟</a></li>
 <li><a href="/comments/20210213/1486825.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210213/1486701.md" target="_blank">白宫现场直播 白宫每天晚上都是漆黑一片 根本无人居住</a></li>
 <li><a href="/comments/20210213/1486699.md" target="_blank">习近平心慌？新年特别场合 惊被黑衣男子“包围”</a></li>
 <li><a href="/comments/20210213/1486696.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
-<li><a href="/comments/20210213/1486683.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
-<li><a href="/comments/20210213/1486679.md" target="_blank">录音曝出大丑闻！库默造假 司法部敷衍；非法移民为啥不做病毒检测 ？白宫避而不答；佛州被限制旅行？州长反对称拜登违宪；前美情报总监： 世卫才是病毒的源头【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200816/1381123.md" target="_blank">天目所见：武汉肺炎的两种来源</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
