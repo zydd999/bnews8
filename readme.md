@@ -7,25 +7,25 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210213/1486483.md">中共常委赵乐际保不了弟弟 中南海酿巨变</a></li>
 <li><a href="/cbnews/20210213/1486506.md">习近平向团派宣战</a></li>
-<li><a href="/comments/20210213/1486580.md">🔥🔥2021大灾来了❓占星师被自己预言吓到了❗躲了起来❗❗</a></li>
 <li><a href="/lifebaike/20210213/1486628.md">银行新规定：3月1日起，这两地方的钱存银行取不出，储户请注意</a></li>
-<li><a href="/yule/20210213/1486498.md">为3岁女儿抛下江宏杰！福原爱回日本曝光新身分：延续缘分</a></li>
+<li><a href="/comments/20210213/1486580.md">🔥🔥2021大灾来了❓占星师被自己预言吓到了❗躲了起来❗❗</a></li>
 <li><a href="/cnnews/20210213/1486568.md">其实 鲁迅是中国第一大汉奸</a></li>
+<li><a href="/yule/20210213/1486498.md">为3岁女儿抛下江宏杰！福原爱回日本曝光新身分：延续缘分</a></li>
 <li><a href="/cbnews/20210213/1486563.md">弟赵乐秦被免职 赵乐际处境高危</a></li>
 <li><a href="/cbnews/20210213/1486716.md">去年武汉到底死多少人？年初一祭奠用花卖断货</a></li>
 <li><a href="/topimagenews/20210213/1486466.md">失去英国 失去欧洲：中国环球电视网在德国也遭停播</a></li>
 <li><a href="/cnnews/20210213/1486478.md">发表毁天灭地论的赵盛烨出车祸了 网友：报应</a></li>
 <li><a href="/comments/20210213/1486658.md">拜登从飞机上下来对着空无一人的场地挥手致意 装出被很多人迎接的样子</a></li>
-<li><a href="/lifebaike/20210213/1486629.md">2021年将实行“户口合并”，要赶紧办“三件事”，以后不好申请了</a></li>
 <li><a href="/headline/20210213/1486675.md">互换情妇居然已经是中共官场时尚</a></li>
+<li><a href="/lifebaike/20210213/1486629.md">2021年将实行“户口合并”，要赶紧办“三件事”，以后不好申请了</a></li>
 <li><a href="/cbnews/20210213/1486581.md">文昭：牛年第一雷！腾讯高管被抓、马云成欠账「老赖」？一个细思极恐的结局</a></li>
 <li><a href="/comments/20210213/1486576.md">中印同意班公湖撤军 俄媒披露中方死亡数字</a></li>
 <li><a href="/comments/20210213/1486590.md">中共官场最具传奇色彩的公共情妇 色诱中共高官无数 有案可查的正省部级有四人 副省部级有五人 九人中四人被判死缓三人被判无期 两人被内部处分并兔去正部长职务 朱镕基手下得力干将卷入 江泽民曾庆红国安马仔被迫提前退休…… 中南海不可告人的秘密_316</a></li>
 <li><a href="/comments/20210213/1486699.md">习近平心慌？新年特别场合 惊被黑衣男子“包围”</a></li>
-<li><a href="/headline/20210213/1486430.md">“春晚”再现涂黑脸 民间连珠炮斥 外交部急回应</a></li>
 <li><a href="/topimagenews/20210213/1486703.md">“剥夺库默紧急权力！”众民主党议员发声 共和党：必须立刻起诉 【阿波罗网编译】</a></li>
-<li><a href="/yule/20210213/1486488.md">孙俪罕挥毫写春联 字迹曝光太惊人</a></li>
+<li><a href="/headline/20210213/1486430.md">“春晚”再现涂黑脸 民间连珠炮斥 外交部急回应</a></li>
 <li><a href="/comments/20210213/1486837.md">太精彩了！肖恩完美辩护，将弹劾经理人的虚伪指控驳得体无完肤。川普律师仅用三小时就结束战斗！弹劾经理人说，川普将被定罪并无罪释放？川普最新动态：将继续留在竞技场。</a></li>
+<li><a href="/yule/20210213/1486488.md">孙俪罕挥毫写春联 字迹曝光太惊人</a></li>
 <li><a href="/headline/20210213/1486404.md">急转弯：世卫称仍将调查实验室泄漏理论</a></li>
 <li><a href="/lifebaike/20210213/1486596.md">“相亲对象是留学生？我劝你快逃”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210213/1486895.md" target="_blank">大年初一浙江惊现杀妻案</a></li>
+<li><a href="/comments/20210213/1486894.md" target="_blank">小心！有身体清道夫之称的黑木耳泡发不当吃后会中毒</a></li>
+<li><a href="/comments/20210213/1486893.md" target="_blank">时事大家谈：中国多地疫情反弹 就地过年还是回家团圆？英国变体再突变 3月可能成为美国主要毒株</a></li>
+<li><a href="/comments/20210213/1486891.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
+<li><a href="/comments/20210213/1486890.md" target="_blank">牛！ 《山海经》暗藏瘟疫中“存活下来”的唯一方法？！真正的灵丹妙药是什么？</a></li>
+<li><a href="/comments/20210213/1486889.md" target="_blank">意大利“贫病交迫”中上台 前欧洲央行行长接任总理救国</a></li>
 <li><a href="/comments/20210213/1486888.md" target="_blank">欧盟俄罗斯关系决裂 俄国外长称已做好准备</a></li>
 <li><a href="/comments/20210213/1486868.md" target="_blank">惊人的“逃避定律”：凡躲过 必加倍偿还</a></li>
 <li><a href="/comments/20210213/1486863.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210213/1486801.md" target="_blank">为什么说“初一早，初二早，初三睡到饱”</a></li>
 <li><a href="/comments/20210213/1486800.md" target="_blank">过年吃太饱 按按穴位舒服很多</a></li>
 <li><a href="/comments/20210213/1486775.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
-<li><a href="/comments/20210213/1486774.md" target="_blank">阻英国BNO新签证政策 港府拟法律修正案禁港人离港</a></li>
-<li><a href="/comments/20210213/1486754.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
-<li><a href="/comments/20210213/1486738.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
-<li><a href="/comments/20210213/1486735.md" target="_blank">清醒的中国人现在都在支持川普和反对共产党  但很多中国人被共产党骗了一次又一次  一代又一代 仍然不清醒 甚至有些还被骗出了感情   善恶已分</a></li>
-<li><a href="/comments/20210213/1486724.md" target="_blank">神秘天意象征：“天子气”是什么样子？</a></li>
-<li><a href="/comments/20210213/1486719.md" target="_blank">春季怎样做才能顺应时节，养肝养生</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
 
 </ul>
 </div>
