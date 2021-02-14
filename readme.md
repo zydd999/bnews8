@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210214/1487036.md">中南海内斗惊人一幕播全国 习李慰问 北京网友很愤怒 港府正修法禁任何人离开香港</a></li>
 <li><a href="/yule/20210214/1487149.md">刘德华表示永远不会再合作,郑佩佩:真丢香港演员的脸</a></li>
-<li><a href="/comments/20210214/1487009.md">“北大淫棍太多” 惊动李克强 北大两任书记两任校长将北大变成淫窝 北大副校长：不想女儿被诱奸就别在国内读博 中南海不可告人的秘密_317</a></li>
 <li><a href="/cbnews/20210214/1487157.md">中美线 中国航班突接连取消</a></li>
 <li><a href="/topimagenews/20210214/1487155.md">川普律师哽咽："我全家人、我的律所、我的家现在都被围攻了"【阿波罗网编译】</a></li>
 <li><a href="/comments/20210214/1487091.md">川普总统发布重磅声明： 猎巫行动已经开启  “让美国再次伟大”运动刚刚开始 在未来的几个月里，我们有很多东西要与你们分享 并期待着继续我们令人难以置信的旅程！</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20210214/1487030.md">川普弹劾案结束 57对43票宣告无罪</a></li>
 <li><a href="/comments/20210214/1487018.md">为中共洗地失败 世卫总干事谭德塞迫于压力改口风</a></li>
 <li><a href="/comments/20210214/1487038.md">二次弹劾被判无罪 川普发长声明回应（全文）</a></li>
+<li><a href="/comments/20210214/1487420.md">弹劾川普失败 佩洛西愤怒拍桌子；卡西迪投票后 立刻被州共和党谴责；川普律师：收到近100个死亡威胁；被判无罪 川普发长篇声明回应；格雷厄姆：将与川普会面 讨论共和党未来【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210214/1487325.md">外星人?演戏?大抓捕?……“Q”最理性的分析.川普让佩洛西最恐惧的是什么?</a></li>
 <li><a href="/cnnews/20210214/1487285.md">大年鞭炮扔下水道酿惨祸 重庆街道都被炸烂</a></li>
 <li><a href="/comments/20210214/1487360.md">传与刘亦菲“已领证结婚” 胡歌终于回应</a></li>
-<li><a href="/comments/20210214/1487420.md">弹劾川普失败 佩洛西愤怒拍桌子；卡西迪投票后 立刻被州共和党谴责；川普律师：收到近100个死亡威胁；被判无罪 川普发长篇声明回应；格雷厄姆：将与川普会面 讨论共和党未来【希望之声TV】</a></li>
 <li><a href="/funmedia/20210214/1487048.md">司马懿五句话，记住两句够用一生</a></li>
 <li><a href="/yule/20210214/1487150.md">张艺谋原配肖华：我是怎么发现他和巩俐那事儿的</a></li>
 <li><a href="/comments/20210214/1487341.md">众人目睹的奇蹟！西藏最神秘现象：人体虹化</a></li>
 <li><a href="/cbnews/20210214/1487392.md">李克强逛年货街 女导演曝光 网友：都是戏精</a></li>
 <li><a href="/topimagenews/20210214/1487058.md">格雷厄姆：将与川普会面 讨论共和党的未来</a></li>
+<li><a href="/cbnews/20210214/1487394.md">曾把薄熙来“卖给”习近平 拜习罕见通话2小时</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
