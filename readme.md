@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210214/1487295.md">意大利华女找工作被同胞骗惨 成现代性奴</a></li>
 <li><a href="/cbnews/20210215/1487508.md">暗示习近平一手遮天 QQ画图红包火速下架</a></li>
 <li><a href="/cbnews/20210214/1487395.md">新年团拜会 年轻男子环坐习近平四周引猜疑</a></li>
 <li><a href="/topimagenews/20210215/1487482.md">麦康奈尔公然要求刑诉 不死心,佩洛西拍桌子 川普 川普律师:弹劾视频是大电影公司制作</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/health/20210215/1487566.md">37岁女子，每天坚持吃一粒维生素E胶囊，最后她怎么样了？</a></li>
 <li><a href="/ccpdope/20210215/1487532.md">一个预言揭示 彭斯在奉命毁灭美国</a></li>
 <li><a href="/topimagenews/20210214/1487385.md">川普获无罪后发表声明 麦康诺：不等于宽恕暴乱</a></li>
+<li><a href="/comments/20210215/1487628.md">川普弹劾无罪后 佩洛西崩溃成这样了？怒摔讲台</a></li>
 <li><a href="/comments/20210215/1487546.md">🔥🔥除夕夜占卜2021人类命运❗解出大凶之兆❓人类应如何自救❓</a></li>
 <li><a href="/cbnews/20210214/1487387.md">“小马云”惨状曝光：智力下降、腿上全是针眼</a></li>
 <li><a href="/cbnews/20210215/1487463.md">央视春晚魔术多次穿帮 网民吐槽被删</a></li>
-<li><a href="/comments/20210215/1487628.md">川普弹劾无罪后 佩洛西崩溃成这样了？怒摔讲台</a></li>
-<li><a href="/cnnews/20210214/1487300.md">华裔天才设加密货币骗局 数千万美金挥霍一空</a></li>
 <li><a href="/cbnews/20210214/1487398.md">时事军事：习视察的新电战机 生存机会近乎零</a></li>
+<li><a href="/cnnews/20210214/1487300.md">华裔天才设加密货币骗局 数千万美金挥霍一空</a></li>
+<li><a href="/ssgc/20210215/1487449.md">继再度弹劾后，民主党人又想出了一个坏点子，真的有宪法依据吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210215/1487738.md" target="_blank">谎称大老板 与12女谈恋爱骗2,500万 河南男被判无期</a></li>
+<li><a href="/comments/20210215/1487737.md" target="_blank">澳洲维省“一带一路”协议有弊无利 面临联邦废除</a></li>
 <li><a href="/comments/20210215/1487720.md" target="_blank">一锅鲜 金银满屋的好彩头</a></li>
 <li><a href="/comments/20210215/1487710.md" target="_blank">二人限聚令下 民建联四人摆“变革香港”街站 街坊嫌派口罩朱古力太少 “得咁多咋？”</a></li>
 <li><a href="/comments/20210215/1487709.md" target="_blank">世贸特别会议 预料将任命伊卫拉为首位女秘书长</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210215/1487598.md" target="_blank">【中南火海】宋庆龄 每逢大事必糊涂</a></li>
 <li><a href="/comments/20210215/1487597.md" target="_blank">夏闻：和要杀你的人谈竞争？</a></li>
 <li><a href="/comments/20210215/1487596.md" target="_blank">严纯钩：蔡英文战胜习近平</a></li>
-<li><a href="/comments/20210215/1487595.md" target="_blank">严纯钩：林郑疯了！要禁止任何人离开香港</a></li>
-<li><a href="/comments/20210215/1487581.md" target="_blank">局势升级！缅甸第三度全国断网 传军警实弹开枪！美使馆警国民“就地躲避”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200712/1359460.md" target="_blank">特斯拉是金星人，是他将金星高科技传给地球人？（探索与洞见第16集 2020年6月30日）</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 
 </ul>
 </div>
