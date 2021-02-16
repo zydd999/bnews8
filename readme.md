@@ -11,8 +11,8 @@
 <li><a href="/bannedvideo/20210216/1488042.md">北大风闻吓坏李克强！副校长语惊四座，最高学府的美女学生原来是</a></li>
 <li><a href="/lifebaike/20210216/1488193.md">定了！延迟退休政策正式实施！70、80、90后退休年龄划清楚了</a></li>
 <li><a href="/cbnews/20210216/1488002.md">世卫专家踢爆中国惊人内幕 英雄蒋彦永罕见向网民拜年 进常委?习近平心腹罕见获表扬</a></li>
-<li><a href="/cnnews/20210216/1488149.md">川普再次完胜拜登！88.7万对4.7万【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210216/1488348.md">湖北民政厅资料被有意曝光？武汉真实亡者或令人心惊</a></li>
+<li><a href="/cnnews/20210216/1488149.md">川普再次完胜拜登！88.7万对4.7万【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210216/1487982.md">石家庄再爆确诊病例 封街、封单元、封门 居民怒了</a></li>
 <li><a href="/comments/20210216/1488305.md">郑中原：抓公安虎 习近平摧毁一次准政变</a></li>
 <li><a href="/headline/20210216/1488351.md">习近平添心病 高层透露：东北对习不满声浪加剧</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cnnews/20210216/1488085.md">疑暗讽习近平独裁专制 腾迅通讯软件被紧急下架</a></li>
 <li><a href="/topimagenews/20210216/1488336.md">弹劾川普案最大赢家都猜不到？美媒：拜登对中共软弱可让共和党赢回2024</a></li>
 <li><a href="/cbnews/20210216/1487929.md">世卫调查团踢爆：武汉2019年12月就有上千人感染</a></li>
-<li><a href="/cnnews/20210216/1487925.md">打起来了？佩洛西驳斥同党库默州长 麦康奈尔暗示究责川普引分裂，民主党也批他两头蛇</a></li>
+<li><a href="/bannedvideo/20210216/1488345.md">习近平恐遭逼宫？发旧文有玄机。密谋亲信入常，换掉王沪宁！高层斗胜负难决</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210217/1488470.md" target="_blank">余茂春：美国有能力带领自由国家对抗中共</a></li>
+<li><a href="/comments/20210217/1488469.md" target="_blank">消息指一男子被警国安处拘捕 指控勾结外国势力 及助 12 港人离港</a></li>
 <li><a href="/comments/20210217/1488468.md" target="_blank">港人举灯声援缅甸抗争 参加者：香港因反送中获国际关注 现应同样支持缅甸</a></li>
 <li><a href="/comments/20210217/1488462.md" target="_blank">议员：弹劾是想将7500万支持者定罪；美国教授：弹劾川普 中共在窃笑；众叛亲离  反川普众议员被家人拒绝；澳总理将废除一带一路协议；川普总统夫人斥责病态媒体制造她的假新闻【希望之声TV】</a></li>
 <li><a href="/comments/20210217/1488461.md" target="_blank">民盟副主席罗隆基成右派 遭女友揭发 郁郁而终</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210216/1488382.md" target="_blank">【独家】词二首：《舞中诗》《观神韵舞蹈》</a></li>
 <li><a href="/comments/20210216/1488365.md" target="_blank">【林忌评论】过年排队验身的特区闹剧</a></li>
 <li><a href="/comments/20210216/1488362.md" target="_blank">总统日 川普首次公开现身！国民警卫队驻守华府到秋季？ 众议员质问佩洛西；德州大停电，绿色能源政策受质疑；谷歌与澳洲主流传媒达成付费协议【希望之声TV】</a></li>
-<li><a href="/comments/20210216/1488361.md" target="_blank">香港民研：林郑民望又下跌 42% 港人评零分</a></li>
-<li><a href="/comments/20210216/1488360.md" target="_blank">《转法轮》中提及的若干案例详述（1）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
