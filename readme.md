@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210215/1487660.md">【老照片】习近平这次把陈云时定下的潜规则给破了</a></li>
-<li><a href="/cnnews/20210215/1487718.md">慈禧死前留密令 百年才知她心超级狠</a></li>
 <li><a href="/headline/20210215/1487780.md">习近平为他费劲苦心 二十大要他顶替王沪宁？</a></li>
+<li><a href="/cnnews/20210215/1487718.md">慈禧死前留密令 百年才知她心超级狠</a></li>
 <li><a href="/cnnews/20210215/1487669.md">拍摄给病重的毛观看的“内片” 原来是从前不让看的禁片</a></li>
 <li><a href="/lifebaike/20210215/1487716.md">“人无癖，不可交”：有这6种癖好的人，不是俗人，要紧紧抓住他们</a></li>
 <li><a href="/cbnews/20210215/1487723.md">世卫专家：2019年12月武汉已有13种病毒株</a></li>
 <li><a href="/topimagenews/20210215/1487783.md">格雷厄姆川普通话谈共和党下一步行动；7叛徒投票定罪川普面临反击;弹劾川普花多少钱？</a></li>
-<li><a href="/topimagenews/20210215/1487769.md">民主党参议员莱希主持弹劾听证  私语不巧被播出  整个都乱套了【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210216/1487986.md">疫情“发哨人”艾芬：我被强行做了绝对不能做的手术</a></li>
+<li><a href="/topimagenews/20210215/1487769.md">民主党参议员莱希主持弹劾听证  私语不巧被播出  整个都乱套了【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210215/1487760.md">中共军机若硬闯台湾怎处理？内行人曝真相</a></li>
 <li><a href="/cbnews/20210215/1487722.md">大陆豆腐渣房吓人 地板瞬间破了 整条腿卡洞里</a></li>
 <li><a href="/worldnews/20210216/1487902.md">石家庄再爆本土 中国网友吓坏“都42天了，又得陪跑了”</a></li>
 <li><a href="/cbnews/20210216/1487982.md">石家庄再爆确诊病例 封街、封单元、封门 居民怒了</a></li>
+<li><a href="/yule/20210216/1488005.md">范冰冰暴瘦逛商场无人识 39岁近照曝光变这样</a></li>
 <li><a href="/cnnews/20210215/1487774.md">被视为台湾半导体叛将 2人赴陆近况曝光</a></li>
 <li><a href="/cnnews/20210215/1487727.md">纳瓦罗做客班农作战室：彭斯对川普所作的背叛将载入史册【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210215/1487750.md">习近平的命理，玄学解读灭共信息，中共亡于2021年？--天钧政经</a></li>
 <li><a href="/topimagenews/20210215/1487782.md">格雷厄姆：要调查佩洛西和参议院是否1月6日前知晓暴乱计划【阿波罗网编译】</a></li>
-<li><a href="/yule/20210216/1488005.md">范冰冰暴瘦逛商场无人识 39岁近照曝光变这样</a></li>
+<li><a href="/cbnews/20210216/1488002.md">世卫专家踢爆中国惊人内幕 英雄蒋彦永罕见向网民拜年 进常委?习近平心腹罕见获表扬</a></li>
 <li><a href="/cbnews/20210216/1487922.md">美联社调查：中国散布替换有关新冠疫情的虚假讯息</a></li>
 <li><a href="/headline/20210215/1487815.md">中国生育率再创新低 官媒分析原因民怒呛</a></li>
-<li><a href="/cbnews/20210216/1488002.md">世卫专家踢爆中国惊人内幕 英雄蒋彦永罕见向网民拜年 进常委?习近平心腹罕见获表扬</a></li>
 <li><a href="/worldnews/20210216/1487881.md">川普弹劾案未通过 共和党参议员：川普儿媳成最大赢家</a></li>
-<li><a href="/ssgc/20210215/1487651.md">〖兲朝浮世绘〗中共又在给拜登脸色看了</a></li>
+<li><a href="/comments/20210216/1487984.md">假总统拜登在总统日发言冷冷清清门可罗雀还遭众人踩    川普总统现身视频获得大量点赞人气飙升气场强大  假总统时日无多 真可怜！</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210216/1488179.md" target="_blank">世贸新秘书长：上任第一要务“抗疫”</a></li>
+<li><a href="/comments/20210216/1488170.md" target="_blank">【微博精粹】卸磨杀洋驴</a></li>
 <li><a href="/comments/20210216/1488157.md" target="_blank">川普在总统日给支持者带来惊喜</a></li>
 <li><a href="/comments/20210216/1488156.md" target="_blank">超萌大眼比妈妈漂亮!安以轩女儿无码正面照曝光</a></li>
 <li><a href="/comments/20210216/1488155.md" target="_blank">2021年，最保值的29个车型中，有你的车吗？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210216/1488036.md" target="_blank">水是营养之首，是百药之王，喝水养生有讲究</a></li>
 <li><a href="/comments/20210216/1488022.md" target="_blank">对抗中共人质外交？美英外长回应58国宣言</a></li>
 <li><a href="/comments/20210216/1488020.md" target="_blank">汉森教授：美国睡大觉弹劾川普 中共在窃笑</a></li>
-<li><a href="/comments/20210216/1488019.md" target="_blank">比尔盖茨再谈应对全球气候挑战 遭网友讽刺</a></li>
-<li><a href="/comments/20210216/1488018.md" target="_blank">伊朗称将阻止联合国监察机构视察 分析指逼拜登让步</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200703/1355059.md" target="_blank">两段恶搞视频热传 网友：气炸中共外交部 国内狂删</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
