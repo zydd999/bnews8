@@ -20,12 +20,12 @@
 <li><a href="/cbnews/20210217/1488866.md">中共5架飞机悄悄飞抵缅甸 官称“运海鲜”引嘲讽</a></li>
 <li><a href="/topimagenews/20210217/1488641.md">反对麦康奈尔攻击川普 资深共和党参议员约翰逊：不代表多数人</a></li>
 <li><a href="/cbnews/20210217/1488712.md">党媒建议农村剩男配给城市剩女 网民炮轰</a></li>
-<li><a href="/baitai/20210217/1488790.md">二大爷：那个说“两千人民币比三千美元过得幸福”的教授，在美国买房定居了</a></li>
 <li><a href="/cbnews/20210217/1489014.md">抓公安虎 习近平摧毁一次准政变</a></li>
+<li><a href="/baitai/20210217/1488790.md">二大爷：那个说“两千人民币比三千美元过得幸福”的教授，在美国买房定居了</a></li>
 <li><a href="/bannedvideo/20210217/1488780.md">扎克伯格员工会议讲话泄漏：疫苗改变DNA；疫苗的背后有多少秘密？｜薇羽看世间 第253期 20210216</a></li>
 <li><a href="/comments/20210217/1488901.md">🔥🔥他的出现代表人类末日❓世界大灾将临❓ 900年前的预言即将应验❓❗</a></li>
-<li><a href="/comments/20210217/1488618.md">川普声明炮轰麦康奈尔  竞选众议院议长弹劾拜登？   嘉宾： 林晓旭  蓝述 主持：高洁【希望之声TV】(2021/02/16)</a></li>
 <li><a href="/lifebaike/20210217/1488745.md">2021年起，小产权房将彻底消失？国家表态了，未来房子这样办</a></li>
+<li><a href="/comments/20210217/1488618.md">川普声明炮轰麦康奈尔  竞选众议院议长弹劾拜登？   嘉宾： 林晓旭  蓝述 主持：高洁【希望之声TV】(2021/02/16)</a></li>
 <li><a href="/headline/20210217/1488833.md">习痛斥党内腐败：不死在酒桌 就死在床上</a></li>
 <li><a href="/cnnews/20210217/1488969.md">黑龙江一男子杀害7人潜逃 网爆行凶起因 自家14头牛被毒死</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210218/1489148.md" target="_blank">白日飞升真的有吗？真的有</a></li>
 <li><a href="/comments/20210218/1489146.md" target="_blank">美媒：美国电信要商务部解禁中国电信 属经济叛国</a></li>
 <li><a href="/comments/20210218/1489142.md" target="_blank">美专家：拜登移民政策将很快导致边境危机</a></li>
 <li><a href="/comments/20210218/1489141.md" target="_blank">纳瓦罗：共和党须推进川普议程 不要回旧时代</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210218/1489091.md" target="_blank">不忍了！老被库克压着打 札克柏格呛：脸书要让苹果痛苦</a></li>
 <li><a href="/comments/20210218/1489088.md" target="_blank">着名出版商为川普支招：清静无为可击败对手</a></li>
 <li><a href="/comments/20210218/1489087.md" target="_blank">机构研报：中国消费42年来首次负增长</a></li>
-<li><a href="/comments/20210218/1489083.md" target="_blank">提诉国会警察 《司法监督》要求出示骚乱电邮视频；佛州公布抗击科技巨头新法；以色列套路突变 直接空袭伊朗武装人员；多数拜登选民自称基督徒 却无实践；俄州教育局推“数学是种族歧视”【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 
 </ul>
 </div>
