@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20210217/1488649.md">天亮时分：拜登第一任期将很快结束？川普劲爆声明；德州大停电与绿色新政；（政论天下第354集 20210216）</a></li>
 <li><a href="/topimagenews/20210217/1488641.md">反对麦康奈尔攻击川普 资深共和党参议员约翰逊：不代表多数人</a></li>
 <li><a href="/bannedvideo/20210217/1488447.md">中南海新内斗开始，习近平控血脉维稳老领导--天钧政经</a></li>
-<li><a href="/comments/20210217/1488618.md">川普声明炮轰麦康奈尔  竞选众议院议长弹劾拜登？   嘉宾： 林晓旭  蓝述 主持：高洁【希望之声TV】(2021/02/16)</a></li>
 <li><a href="/cbnews/20210217/1488712.md">党媒建议农村剩男配给城市剩女 网民炮轰</a></li>
+<li><a href="/comments/20210217/1488618.md">川普声明炮轰麦康奈尔  竞选众议院议长弹劾拜登？   嘉宾： 林晓旭  蓝述 主持：高洁【希望之声TV】(2021/02/16)</a></li>
 <li><a href="/yule/20210217/1488486.md">65岁刘晓庆发福似阔太，肚腩明显不见腰</a></li>
 <li><a href="/comments/20210217/1488630.md">中共5架飞机悄抵缅甸 官方越解释越糟糕</a></li>
 <li><a href="/cnnews/20210217/1488527.md">澳废一带一路 英打脸世卫 习近平急了 嫌拜登妥协慢 加等58国声明反对人质外交</a></li>
 <li><a href="/headline/20210216/1488386.md">川普儿媳闪亮出场斗叛徒</a></li>
 <li><a href="/funmedia/20210217/1488643.md">为何飞机要飞上1万米高空？空姐揭真相</a></li>
-<li><a href="/headline/20210217/1488531.md">前国安部部长许永跃如何消失中共政坛？</a></li>
-<li><a href="/topimagenews/20210217/1488520.md">共和党议员金辛格反川普 11名家人发信谴责</a></li>
+<li><a href="/comments/20210217/1488779.md">马云出事内幕 江泽民孙与贾庆林女婿等太子党与政商巨头秘密投资蚂蚁集团 惊动习近平 中国最危险女人出手 披露马云中外“朋友圈” 提前两个月“预告”马云大事不妙</a></li>
+<li><a href="/comments/20210217/1488819.md">川普凌厉出手，清理内鬼，列麦康奈尔四大罪状。班农再给川总出奇招，拜登与哈里斯都要哭了。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -48,7 +48,7 @@
 <li><a href="/cbnews/20210217/1488807.md" target="_blank">盛雪：你认为应该抵制中共举办2022北京冬奥会吗？</a></li>
 <li><a href="/cbnews/20210217/1488787.md" target="_blank">澳洲多元文化主席：法轮功必将获胜</a></li>
 <li><a href="/cbnews/20210217/1488776.md" target="_blank">翁山苏姬被缅甸军政府加控罪名 美国关切呼吁北京加入谴责</a></li>
-<li><a href="/comments/20210217/1488770.md" target="_blank">普发表声明严厉训斥麦康奈尔；反对麦康奈尔川普言论  ，约翰逊回击： 这不代表多数；驻伊拉克美军基地遇袭 ，国务卿表示将揪出幕后黑手；致命暴风雪袭击美国，至少15人死，超过2亿人受影响【希望之声TV】</a></li>
+<li><a href="/comments/20210217/1488770.md" target="_blank">川普发表声明严厉训斥麦康奈尔；反对麦康奈尔川普言论  ，约翰逊回击： 这不代表多数；驻伊拉克美军基地遇袭 ，国务卿表示将揪出幕后黑手；致命暴风雪袭击美国，至少15人死，超过2亿人受影响【希望之声TV】</a></li>
 <li><a href="/cbnews/20210217/1488769.md" target="_blank">江峰：拜登响应党的号召重开孔子学院；孟晚舟逃出生天？华为再生？西方谴责人质外交倡议背後的交易；邱吉尔进出白宫看弹劾的根本原因；</a></li>
 <li><a href="/cbnews/20210217/1488758.md" target="_blank">美军少将揭中共南海军事部署 谈美双航母演习</a></li>
 <li><a href="/cbnews/20210217/1488739.md" target="_blank">涉“高官公共情妇”案 前国安部部长许永跃消失中共政坛</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210217/1488942.md" target="_blank">“玉仙羹”又名“周公汤”的由来</a></li>
+<li><a href="/comments/20210217/1488929.md" target="_blank">朔夜的两颗星星：如果我地喺正常嘅时代，一定系政敌而撼庄</a></li>
 <li><a href="/comments/20210217/1488928.md" target="_blank">华为无“芯” 养猪自救！转行了？</a></li>
 <li><a href="/comments/20210217/1488926.md" target="_blank">以色列开始直接空袭人员 迫使伊朗撤军</a></li>
 <li><a href="/comments/20210217/1488916.md" target="_blank">填塞法院：为什么它对美国如此危险</a></li>
@@ -114,15 +116,13 @@
 <li><a href="/comments/20210217/1488789.md" target="_blank">李燕铭：许章润骂习近平：没穿裤子的暴君会死得很惨！美国智库匿名报告《更长的电报》：换掉习近平 五种情况下军事反习 习近平及女儿习明泽信息被泄内幕不寻常 五宗反习事件连爆 三重背景揭秘 习江搏杀白热化 QQ画图暗示习近平一手遮天 “辱包拜年祭”恶搞习近平</a></li>
 <li><a href="/comments/20210217/1488779.md" target="_blank">马云出事内幕 江泽民孙与贾庆林女婿等太子党与政商巨头秘密投资蚂蚁集团 惊动习近平 中国最危险女人出手 披露马云中外“朋友圈” 提前两个月“预告”马云大事不妙</a></li>
 <li><a href="/comments/20210217/1488777.md" target="_blank">北约将举行防长视讯会 美驻北约大使如是说</a></li>
-<li><a href="/comments/20210217/1488770.md" target="_blank">普发表声明严厉训斥麦康奈尔；反对麦康奈尔川普言论  ，约翰逊回击： 这不代表多数；驻伊拉克美军基地遇袭 ，国务卿表示将揪出幕后黑手；致命暴风雪袭击美国，至少15人死，超过2亿人受影响【希望之声TV】</a></li>
+<li><a href="/comments/20210217/1488770.md" target="_blank">川普发表声明严厉训斥麦康奈尔；反对麦康奈尔川普言论  ，约翰逊回击： 这不代表多数；驻伊拉克美军基地遇袭 ，国务卿表示将揪出幕后黑手；致命暴风雪袭击美国，至少15人死，超过2亿人受影响【希望之声TV】</a></li>
 <li><a href="/comments/20210217/1488768.md" target="_blank">保安局长大，还是《基本法》大？</a></li>
 <li><a href="/comments/20210217/1488764.md" target="_blank">台湾购德国500万疫苗签约前遭腰斩 谁在从中作梗？</a></li>
 <li><a href="/comments/20210217/1488755.md" target="_blank">“六四天网”创办人黄琦年前与家人通话 健康状况堪忧</a></li>
 <li><a href="/comments/20210217/1488744.md" target="_blank">【微博精粹】手握钢刀的缅甸女坦克人帅呆了</a></li>
 <li><a href="/comments/20210217/1488734.md" target="_blank">佩洛西诡异举动被揪出； 内讧？佩洛西和白思豪向库默开火？《星球大战》女星挺川遭解雇后 闪亮复出；澳媒揭世卫3专家与中共有染 英首相拟建全球条约【希望之声TV】</a></li>
 <li><a href="/comments/20210217/1488729.md" target="_blank">中共专家建议农村剩男配城市剩女 遭轰“鸡鸭配种”</a></li>
-<li><a href="/comments/20210217/1488728.md" target="_blank">蓬佩奥：勿用2022年冬奥举办权奖励中共恶行</a></li>
-<li><a href="/comments/20210217/1488727.md" target="_blank">缅甸军方夜间开枪清场 华人：如北京“六四”再现</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
