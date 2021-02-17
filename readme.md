@@ -23,9 +23,9 @@
 <li><a href="/baitai/20210217/1488790.md">二大爷：那个说“两千人民币比三千美元过得幸福”的教授，在美国买房定居了</a></li>
 <li><a href="/bannedvideo/20210217/1488780.md">扎克伯格员工会议讲话泄漏：疫苗改变DNA；疫苗的背后有多少秘密？｜薇羽看世间 第253期 20210216</a></li>
 <li><a href="/comments/20210217/1488901.md">🔥🔥他的出现代表人类末日❓世界大灾将临❓ 900年前的预言即将应验❓❗</a></li>
+<li><a href="/cbnews/20210217/1489014.md">抓公安虎 习近平摧毁一次准政变</a></li>
 <li><a href="/comments/20210217/1488618.md">川普声明炮轰麦康奈尔  竞选众议院议长弹劾拜登？   嘉宾： 林晓旭  蓝述 主持：高洁【希望之声TV】(2021/02/16)</a></li>
 <li><a href="/lifebaike/20210217/1488745.md">2021年起，小产权房将彻底消失？国家表态了，未来房子这样办</a></li>
-<li><a href="/cbnews/20210217/1489014.md">抓公安虎 习近平摧毁一次准政变</a></li>
 <li><a href="/headline/20210217/1488833.md">习痛斥党内腐败：不死在酒桌 就死在床上</a></li>
 <li><a href="/cbnews/20210217/1488859.md">拜登：习近平知道 中共将为侵犯人权付出代价</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210218/1489135.md" target="_blank">曝拜登内幕，小川普出征夺畅销书排行榜冠军 遏制中共拜登,众院共和党发动立法闪电战</a></li>
 <li><a href="/topimagenews/20210217/1488987.md" target="_blank">被习近平洗脑？拜登在CNN的讲话像大外宣</a></li>
 <li><a href="/topimagenews/20210217/1488641.md" target="_blank">反对麦康奈尔攻击川普 资深共和党参议员约翰逊：不代表多数人</a></li>
 <li><a href="/topimagenews/20210217/1488545.md" target="_blank">内斗! 习近平&#8221;一手遮天&#8221;没门 曾庆红旧部去向成谜 疫情瞒报露馅！湖北少15万人</a></li>
@@ -91,13 +92,19 @@
 <li><a href="/topimagenews/20210214/1487385.md" target="_blank">川普获无罪后发表声明 麦康诺：不等于宽恕暴乱</a></li>
 <li><a href="/topimagenews/20210214/1487384.md" target="_blank">王友群：中共美女间谍陈修良被中共整肃22年</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20210214/1487155.md" target="_blank">川普律师哽咽：&#8221;我全家人、我的律所、我的家现在都被围攻了&#8221;【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210218/1489142.md" target="_blank">美专家：拜登移民政策将很快导致边境危机</a></li>
+<li><a href="/comments/20210218/1489141.md" target="_blank">纳瓦罗：共和党须推进川普议程 不要回旧时代</a></li>
+<li><a href="/comments/20210218/1489140.md" target="_blank">挑战美元？美专家：数字人民币要先击败支付宝和微信</a></li>
+<li><a href="/comments/20210218/1489139.md" target="_blank">英外相促北京提供疫情早期所有数据 以查病毒源头</a></li>
+<li><a href="/comments/20210218/1489136.md" target="_blank">评论 | 刘青：大陆一涉党酋无小事</a></li>
+<li><a href="/comments/20210218/1489134.md" target="_blank">昆德拉，还是哈维尔？（安心，还是拒安心？）</a></li>
+<li><a href="/comments/20210218/1489133.md" target="_blank">英国女王夫菲利普亲王紧急住院</a></li>
 <li><a href="/comments/20210218/1489130.md" target="_blank">评论 | 陈光诚：特别关注李翘楚：临沂市看守所异常邪恶</a></li>
 <li><a href="/comments/20210218/1489124.md" target="_blank">今年中国公司债或出现新一波违约潮</a></li>
 <li><a href="/comments/20210218/1489123.md" target="_blank">美双航母打击群南海军演 指挥官揭内情</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210218/1489087.md" target="_blank">机构研报：中国消费42年来首次负增长</a></li>
 <li><a href="/comments/20210218/1489083.md" target="_blank">提诉国会警察 《司法监督》要求出示骚乱电邮视频；佛州公布抗击科技巨头新法；以色列套路突变 直接空袭伊朗武装人员；多数拜登选民自称基督徒 却无实践；俄州教育局推“数学是种族歧视”【希望之声TV】</a></li>
 <li><a href="/comments/20210218/1489080.md" target="_blank">筷子天天洗 可能洗错了方法</a></li>
-<li><a href="/comments/20210218/1489079.md" target="_blank">今日“雨水”，有哪些讲究</a></li>
-<li><a href="/comments/20210218/1489078.md" target="_blank">买不买中国大陆疫苗？ 台湾疫苗采购4原则</a></li>
-<li><a href="/comments/20210218/1489077.md" target="_blank">这可能不是谣传！女性在碰撞事故中，比男性更易受伤</a></li>
-<li><a href="/comments/20210218/1489072.md" target="_blank">神隐超一年 金正恩夫人李雪主终于露面</a></li>
-<li><a href="/comments/20210218/1489071.md" target="_blank">忍无可忍！女下属怒告淫官性侵 失业男杀妻 13岁女儿大喊救命</a></li>
-<li><a href="/comments/20210218/1489068.md" target="_blank">蓬佩奥：中共威胁和回归传统是美两大挑战</a></li>
-<li><a href="/comments/20210218/1489051.md" target="_blank">国安法被控第 5 人陈梓华持英国护照 具双重国籍 保守党裴伦德关注英政府如何应对</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
 <li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 
 </ul>
 </div>
