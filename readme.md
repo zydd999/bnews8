@@ -11,8 +11,8 @@
 <li><a href="/cbnews/20210217/1488900.md">泄习近平和女儿信息 警察称牛腾宇将“关到死”</a></li>
 <li><a href="/yule/20210217/1488698.md">冻龄都假的？40岁张柏芝未P模样曝光惊呆网</a></li>
 <li><a href="/bannedvideo/20210217/1488546.md">突发：川普被刑事指控；川普现身总统日佛州集会；拜登视频疯传网络；诡异：卡马拉·哈里斯给多国头号领导人打电话</a></li>
-<li><a href="/cnnews/20210217/1488547.md">苹果引入息屏显示 即将推出的iPhone13功能曝光</a></li>
 <li><a href="/headline/20210217/1488899.md">许章润批习近平：没穿裤子的暴君会死得很惨</a></li>
+<li><a href="/cnnews/20210217/1488547.md">苹果引入息屏显示 即将推出的iPhone13功能曝光</a></li>
 <li><a href="/comments/20210217/1488779.md">马云出事内幕 江泽民孙与贾庆林女婿等太子党与政商巨头秘密投资蚂蚁集团 惊动习近平 中国最危险女人出手 披露马云中外“朋友圈” 提前两个月“预告”马云大事不妙</a></li>
 <li><a href="/bannedvideo/20210217/1488949.md">习近平突然跟某常委摊牌！断然撤职他的胞弟。谁动了习家龙脉，他就跟谁没完</a></li>
 <li><a href="/cbnews/20210217/1488649.md">天亮时分：拜登第一任期将很快结束？川普劲爆声明；德州大停电与绿色新政；（政论天下第354集 20210216）</a></li>
@@ -21,11 +21,11 @@
 <li><a href="/topimagenews/20210217/1488641.md">反对麦康奈尔攻击川普 资深共和党参议员约翰逊：不代表多数人</a></li>
 <li><a href="/cbnews/20210217/1488712.md">党媒建议农村剩男配给城市剩女 网民炮轰</a></li>
 <li><a href="/bannedvideo/20210217/1488780.md">扎克伯格员工会议讲话泄漏：疫苗改变DNA；疫苗的背后有多少秘密？｜薇羽看世间 第253期 20210216</a></li>
-<li><a href="/yule/20210217/1488486.md">65岁刘晓庆发福似阔太，肚腩明显不见腰</a></li>
 <li><a href="/baitai/20210217/1488790.md">二大爷：那个说“两千人民币比三千美元过得幸福”的教授，在美国买房定居了</a></li>
+<li><a href="/yule/20210217/1488486.md">65岁刘晓庆发福似阔太，肚腩明显不见腰</a></li>
+<li><a href="/comments/20210217/1488901.md">🔥🔥他的出现代表人类末日❓世界大灾将临❓ 900年前的预言即将应验❓❗</a></li>
 <li><a href="/comments/20210217/1488618.md">川普声明炮轰麦康奈尔  竞选众议院议长弹劾拜登？   嘉宾： 林晓旭  蓝述 主持：高洁【希望之声TV】(2021/02/16)</a></li>
 <li><a href="/lifebaike/20210217/1488745.md">2021年起，小产权房将彻底消失？国家表态了，未来房子这样办</a></li>
-<li><a href="/cbnews/20210217/1488859.md">拜登：习近平知道 中共将为侵犯人权付出代价</a></li>
 <li><a href="/headline/20210217/1488833.md">习痛斥党内腐败：不死在酒桌 就死在床上</a></li>
 <li><a href="/comments/20210217/1488630.md">中共5架飞机悄抵缅甸 官方越解释越糟糕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210218/1489097.md" target="_blank">川普顾问：朱利安尼仍是前总统盟友</a></li>
+<li><a href="/comments/20210218/1489094.md" target="_blank">卡缪的新年献词</a></li>
+<li><a href="/comments/20210218/1489093.md" target="_blank">政府申请 10 亿设疫苗保障基金 严重副作用最高赔 300 万 死亡最多 250 万</a></li>
+<li><a href="/comments/20210218/1489092.md" target="_blank">非法集结案认罪 区诺轩：情况如患癌 不会放弃治疗 努力探索“活路”</a></li>
+<li><a href="/comments/20210218/1489091.md" target="_blank">不忍了！老被库克压着打 札克柏格呛：脸书要让苹果痛苦</a></li>
 <li><a href="/comments/20210218/1489088.md" target="_blank">着名出版商为川普支招：清静无为可击败对手</a></li>
 <li><a href="/comments/20210218/1489087.md" target="_blank">机构研报：中国消费42年来首次负增长</a></li>
 <li><a href="/comments/20210218/1489083.md" target="_blank">提诉国会警察 《司法监督》要求出示骚乱电邮视频；佛州公布抗击科技巨头新法；以色列套路突变 直接空袭伊朗武装人员；多数拜登选民自称基督徒 却无实践；俄州教育局推“数学是种族歧视”【希望之声TV】</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210217/1488983.md" target="_blank">贺锦丽行总统之职 罕见致电多国元首；普萨基：拜登几个月内 不太可能会见外国领导人；亿万富翁对比抗疫政策：佛州繁荣 纽约空城；中共党媒建议农村剩男配给城市剩女 惹众怒【希望之声TV】</a></li>
 <li><a href="/comments/20210217/1488980.md" target="_blank">贺锦丽“代”拜登与多国领导通话 美媒：很怪异</a></li>
 <li><a href="/comments/20210217/1488979.md" target="_blank">有黄店宁拒恢复晚市免客人“安心出行” 亦吁尊重其他餐厅重开：兄弟爬山</a></li>
-<li><a href="/comments/20210217/1488978.md" target="_blank">28 公务员因反送中示威受查或受审 正被停职 聂德权：公务员或需完成指定课程才获晋升</a></li>
-<li><a href="/comments/20210217/1488977.md" target="_blank">英媒：中共通过LinkedIn窃取国家机密</a></li>
-<li><a href="/comments/20210217/1488975.md" target="_blank">时事大家谈：习近平重手整肃政法系，打响20大权力保卫战？</a></li>
-<li><a href="/comments/20210217/1488970.md" target="_blank">【梁京评论】国民党的最后机会不在台湾（下）</a></li>
-<li><a href="/comments/20210217/1488967.md" target="_blank">左派目前不仅想除掉川普总统  还想取缔美国人的拥枪权   左派民主党已经完全是共产社会主义党</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
