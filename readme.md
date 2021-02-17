@@ -11,8 +11,8 @@
 <li><a href="/cbnews/20210217/1488900.md">泄习近平和女儿信息 警察称牛腾宇将“关到死”</a></li>
 <li><a href="/yule/20210217/1488698.md">冻龄都假的？40岁张柏芝未P模样曝光惊呆网</a></li>
 <li><a href="/bannedvideo/20210217/1488546.md">突发：川普被刑事指控；川普现身总统日佛州集会；拜登视频疯传网络；诡异：卡马拉·哈里斯给多国头号领导人打电话</a></li>
-<li><a href="/headline/20210217/1488899.md">许章润批习近平：没穿裤子的暴君会死得很惨</a></li>
 <li><a href="/cnnews/20210217/1488547.md">苹果引入息屏显示 即将推出的iPhone13功能曝光</a></li>
+<li><a href="/headline/20210217/1488899.md">许章润批习近平：没穿裤子的暴君会死得很惨</a></li>
 <li><a href="/bannedvideo/20210217/1488949.md">习近平突然跟某常委摊牌！断然撤职他的胞弟。谁动了习家龙脉，他就跟谁没完</a></li>
 <li><a href="/comments/20210217/1488779.md">马云出事内幕 江泽民孙与贾庆林女婿等太子党与政商巨头秘密投资蚂蚁集团 惊动习近平 中国最危险女人出手 披露马云中外“朋友圈” 提前两个月“预告”马云大事不妙</a></li>
 <li><a href="/cbnews/20210217/1488649.md">天亮时分：拜登第一任期将很快结束？川普劲爆声明；德州大停电与绿色新政；（政论天下第354集 20210216）</a></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210218/1489157.md" target="_blank">提诉国会警察 《司法监督》要求出示国会事件电邮视频；佛州公布抗击科技巨头新法；以色列套路突变 直接空袭伊朗武装人员；多数拜登选民自称基督徒 却无实践；俄州教育局推“数学是种族歧视”【希望之声TV】</a></li>
+<li><a href="/cbnews/20210218/1489156.md" target="_blank">复旦陈平安家美国 名言“2千人民币好过3千美元”</a></li>
+<li><a href="/cbnews/20210218/1489155.md" target="_blank">伊核问题找中共？ 美特使悄悄联系中共官员</a></li>
 <li><a href="/cbnews/20210218/1489105.md" target="_blank">为何金正恩更改英文头衔</a></li>
 <li><a href="/comments/20210218/1489083.md" target="_blank">提诉国会警察 《司法监督》要求出示骚乱电邮视频；佛州公布抗击科技巨头新法；以色列套路突变 直接空袭伊朗武装人员；多数拜登选民自称基督徒 却无实践；俄州教育局推“数学是种族歧视”【希望之声TV】</a></li>
 <li><a href="/cbnews/20210217/1489048.md" target="_blank">江峰：川普弹劾终结後发表最全面声明，火力全开抨击麦康奈尔，整肃共和党还是建立新党？新的政治局面开始形成，去除干扰的川普行动正式开始【风味周三】</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/cbnews/20210217/1488807.md" target="_blank">盛雪：你认为应该抵制中共举办2022北京冬奥会吗？</a></li>
 <li><a href="/cbnews/20210217/1488787.md" target="_blank">澳洲多元文化主席：法轮功必将获胜</a></li>
 <li><a href="/cbnews/20210217/1488776.md" target="_blank">翁山苏姬被缅甸军政府加控罪名 美国关切呼吁北京加入谴责</a></li>
-<li><a href="/comments/20210217/1488770.md" target="_blank">川普发表声明严厉训斥麦康奈尔；反对麦康奈尔川普言论  ，约翰逊回击： 这不代表多数；驻伊拉克美军基地遇袭 ，国务卿表示将揪出幕后黑手；致命暴风雪袭击美国，至少15人死，超过2亿人受影响【希望之声TV】</a></li>
-<li><a href="/cbnews/20210217/1488769.md" target="_blank">江峰：拜登响应党的号召重开孔子学院；孟晚舟逃出生天？华为再生？西方谴责人质外交倡议背後的交易；邱吉尔进出白宫看弹劾的根本原因；</a></li>
-<li><a href="/cbnews/20210217/1488758.md" target="_blank">美军少将揭中共南海军事部署 谈美双航母演习</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210218/1489168.md" target="_blank">金正恩头衔罕见变为“国家总统” 朝鲜用党徽来替代金日成金正日肖像 韩国情报机构披露李雪主消失一年以及金与正降职原因</a></li>
+<li><a href="/comments/20210218/1489164.md" target="_blank">清华大学“万字号人物”不能圆的梦想</a></li>
+<li><a href="/comments/20210218/1489163.md" target="_blank">拜登移民改革将出台 或特赦1100万无证移民</a></li>
+<li><a href="/comments/20210218/1489157.md" target="_blank">提诉国会警察 《司法监督》要求出示国会事件电邮视频；佛州公布抗击科技巨头新法；以色列套路突变 直接空袭伊朗武装人员；多数拜登选民自称基督徒 却无实践；俄州教育局推“数学是种族歧视”【希望之声TV】</a></li>
 <li><a href="/comments/20210218/1489148.md" target="_blank">白日飞升真的有吗？真的有</a></li>
 <li><a href="/comments/20210218/1489146.md" target="_blank">美媒：美国电信要商务部解禁中国电信 属经济叛国</a></li>
 <li><a href="/comments/20210218/1489142.md" target="_blank">美专家：拜登移民政策将很快导致边境危机</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210218/1489097.md" target="_blank">川普顾问：朱利安尼仍是前总统盟友</a></li>
 <li><a href="/comments/20210218/1489094.md" target="_blank">卡缪的新年献词</a></li>
 <li><a href="/comments/20210218/1489093.md" target="_blank">政府申请 10 亿设疫苗保障基金 严重副作用最高赔 300 万 死亡最多 250 万</a></li>
-<li><a href="/comments/20210218/1489092.md" target="_blank">非法集结案认罪 区诺轩：情况如患癌 不会放弃治疗 努力探索“活路”</a></li>
-<li><a href="/comments/20210218/1489091.md" target="_blank">不忍了！老被库克压着打 札克柏格呛：脸书要让苹果痛苦</a></li>
-<li><a href="/comments/20210218/1489088.md" target="_blank">着名出版商为川普支招：清静无为可击败对手</a></li>
-<li><a href="/comments/20210218/1489087.md" target="_blank">机构研报：中国消费42年来首次负增长</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
