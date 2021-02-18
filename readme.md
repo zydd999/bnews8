@@ -12,7 +12,6 @@
 <li><a href="/comments/20210217/1488819.md">川普凌厉出手，清理内鬼，列麦康奈尔四大罪状。班农再给川总出奇招，拜登与哈里斯都要哭了。</a></li>
 <li><a href="/cbnews/20210217/1488866.md">中共5架飞机悄悄飞抵缅甸 官称“运海鲜”引嘲讽</a></li>
 <li><a href="/cbnews/20210217/1489014.md">抓公安虎 习近平摧毁一次准政变</a></li>
-<li><a href="/cbnews/20210217/1488712.md">党媒建议农村剩男配给城市剩女 网民炮轰</a></li>
 <li><a href="/baitai/20210217/1488790.md">二大爷：那个说“两千人民币比三千美元过得幸福”的教授，在美国买房定居了</a></li>
 <li><a href="/bannedvideo/20210217/1488780.md">扎克伯格员工会议讲话泄漏：疫苗改变DNA；疫苗的背后有多少秘密？｜薇羽看世间 第253期 20210216</a></li>
 <li><a href="/cnnews/20210217/1488969.md">黑龙江一男子杀害7人潜逃 网爆行凶起因 自家14头牛被毒死</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/headline/20210217/1488833.md">习痛斥党内腐败：不死在酒桌 就死在床上</a></li>
 <li><a href="/yule/20210218/1489115.md">张雨生走了24年，那位曾在葬礼上哭到昏厥的女孩，现成了大明星</a></li>
 <li><a href="/cbnews/20210217/1488859.md">拜登：习近平知道 中共将为侵犯人权付出代价</a></li>
-<li><a href="/ssgc/20210217/1488730.md">〖兲朝浮世绘〗这是复辟帝制的节奏啊</a></li>
 <li><a href="/worldnews/20210217/1489017.md">现状惊人 金正恩气炸怒拍桌</a></li>
 <li><a href="/topimagenews/20210217/1488987.md">被习近平洗脑？拜登在CNN的讲话像大外宣</a></li>
 <li><a href="/cbnews/20210217/1488739.md">涉“高官公共情妇”案 前国安部部长许永跃消失中共政坛</a></li>
 <li><a href="/yule/20210218/1489129.md">“国民媳妇”海清大秀一字马！紧身裤勒出筷子腿</a></li>
+<li><a href="/topimagenews/20210218/1489181.md">华日揭马云惊动习近平内幕 涉江泽民孙子、贾庆林女婿秘密投资 习近平还说一句话</a></li>
 <li><a href="/funmedia/20210217/1488793.md">到底是夫妻亲，还是兄弟姐妹亲？研究了上百个案例，发现了答案</a></li>
 <li><a href="/lifebaike/20210217/1488746.md">买房时应该选“中户”还是“边户”？建筑学家给出答案，庆幸选对</a></li>
+<li><a href="/topimagenews/20210218/1489135.md">曝拜登内幕，小川普出征夺畅销书排行榜冠军 遏制中共拜登,众院共和党发动立法闪电战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210218/1489379.md" target="_blank">美国务院拒证实伊朗特使和中方谈话 议员质疑</a></li>
 <li><a href="/comments/20210218/1489318.md" target="_blank">拜登讲话透露对中共真实心态；川普公开决裂麦康奈尔，重整共和党能否成功?</a></li>
 <li><a href="/cbnews/20210218/1489284.md" target="_blank">天亮时分：反川普组织“林肯项目”解散；川普强势归来的征兆已现；拜登对华政策的左右互搏（政论天下第355集 20210217）</a></li>
 <li><a href="/cbnews/20210218/1489256.md" target="_blank">文昭：都提速了！拜登可能提前下台；马云正在被查！牛年有多少意外在等着？</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210217/1488982.md" target="_blank">美少将揭中共南海军事部署 谈美双航母演习</a></li>
 <li><a href="/cbnews/20210217/1488966.md" target="_blank">为证明麻醉药能“一捂就晕”，网红医生做实验将自己捂晕</a></li>
 <li><a href="/cbnews/20210217/1488913.md" target="_blank">北京小汤山强拆 知名古迹在推土机下成为废墟</a></li>
-<li><a href="/cbnews/20210217/1488902.md" target="_blank">美十年调查 揭中共利用科技供应链搞间谍战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210218/1489376.md" target="_blank">俄罗斯猛烈抨击拜登政府：迫害川普支持者！【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210218/1489208.md" target="_blank">拜登的国土安全部禁止使用&#8221;非法外国人&#8221;和&#8221;同化&#8221;等词汇【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210218/1489206.md" target="_blank">拜登上电视称退伍军人和警察助长了&#8221;白人至上主义&#8221;组织的发展【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210218/1489181.md" target="_blank">华日揭马云惊动习近平内幕 涉江泽民孙子、贾庆林女婿秘密投资 习近平还说一句话</a></li>
@@ -91,13 +92,18 @@
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/topimagenews/20210215/1487612.md" target="_blank">为何如此恐惧？拜登要求全国严格控枪!【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210215/1487507.md" target="_blank">中国人愤怒有家不能回 走了多少人?武汉菊花卖光 内部消息：长春传染病院被封院</a></li>
-<li><a href="/topimagenews/20210215/1487482.md" target="_blank">麦康奈尔公然要求刑诉 不死心,佩洛西拍桌子 川普 川普律师:弹劾视频是大电影公司制作</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210218/1489402.md" target="_blank">报告：中共国企向缅甸军方政变提供军火和本钱</a></li>
+<li><a href="/comments/20210218/1489401.md" target="_blank">想种果蔬 你知道怎么找到自己所在的耐寒区号吗？</a></li>
+<li><a href="/comments/20210218/1489393.md" target="_blank">【震撼】华盛顿DC 国会大抓捕现场直击</a></li>
+<li><a href="/comments/20210218/1489389.md" target="_blank">比特币冲上50000美元 苹果也入局了</a></li>
+<li><a href="/comments/20210218/1489388.md" target="_blank">【要闻精粹】东西二统各怀心思 中国农奴时代到来</a></li>
+<li><a href="/comments/20210218/1489374.md" target="_blank">拒绝交费！脸书禁止澳洲用户观看 分享新闻 并封杀政府官方账号</a></li>
 <li><a href="/comments/20210218/1489336.md" target="_blank">农村男青年娶不到老婆越来越多 高价彩礼不是主要原因</a></li>
 <li><a href="/comments/20210218/1489335.md" target="_blank">真实的农村是一片人性的荒漠 别被田园牧歌骗了</a></li>
 <li><a href="/comments/20210218/1489334.md" target="_blank">苏朋: 说说“控制疫情”</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210218/1489275.md" target="_blank">【习明泽信息被泄案】牛母泣诉：警方威胁灭口 要把牛腾宇”关到死“</a></li>
 <li><a href="/comments/20210218/1489272.md" target="_blank">公民于平 ：万万没想到 茅台要出院士了</a></li>
 <li><a href="/comments/20210218/1489271.md" target="_blank">德媒：蚂蚁IPO遭停内幕：对习近平造成潜在挑战的政商权贵们</a></li>
-<li><a href="/comments/20210218/1489269.md" target="_blank">【红朝档案】骆惠宁与习近平的真实关系</a></li>
-<li><a href="/comments/20210218/1489268.md" target="_blank">广东石化工厂连环爆炸 火光冲天员工急逃</a></li>
-<li><a href="/comments/20210218/1489266.md" target="_blank">【中国观察】2月17号  川普酒店突然爆炸</a></li>
-<li><a href="/comments/20210218/1489252.md" target="_blank">广播名人病逝看保守派之挑战   拜登为习近平辩护放中企业逃生？   嘉宾： 秦鹏 蓝述 主持：高洁【希望之声TV】(2021/02/17)</a></li>
-<li><a href="/comments/20210218/1489250.md" target="_blank">60年前震惊世界的借尸还魂案，当事人2018年离世</a></li>
-<li><a href="/comments/20210218/1489244.md" target="_blank">西奈山峰: 政变集团为什么要对川普总统赶尽杀绝</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
 <li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
