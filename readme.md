@@ -14,20 +14,20 @@
 <li><a href="/headline/20210218/1489513.md">中共清洗金融机构? 习近平连任 太子党造反？</a></li>
 <li><a href="/cbnews/20210218/1489169.md">拜托！给赛先生留条底裤 茅台女老总别当院士了</a></li>
 <li><a href="/cbnews/20210218/1489183.md">缅甸深夜清场 枪声如爆豆 环时谎报军情遭自己人打脸 美国会忘记二大严重危机</a></li>
-<li><a href="/comments/20210218/1489269.md">【红朝档案】骆惠宁与习近平的真实关系</a></li>
 <li><a href="/cbnews/20210218/1489543.md">天津市委书记李鸿忠再度向习近平表“忠心” 下令全体党员看抗美剧</a></li>
-<li><a href="/comments/20210218/1489465.md">习近平想武统台湾从而在党内获得毛泽东级别的地位！澳洲前总理揭内幕 智库：习近平铁心任内逼统 台湾成为世界上最危险的引爆点 慕尼黑国安会议主席警示台湾最可能发生军事冲突 美前大使警告：台湾问题或引爆中美核战争 易理师预言2021年：台海可能冲突</a></li>
+<li><a href="/comments/20210218/1489269.md">【红朝档案】骆惠宁与习近平的真实关系</a></li>
 <li><a href="/yule/20210218/1489129.md">“国民媳妇”海清大秀一字马！紧身裤勒出筷子腿</a></li>
+<li><a href="/comments/20210218/1489465.md">习近平想武统台湾从而在党内获得毛泽东级别的地位！澳洲前总理揭内幕 智库：习近平铁心任内逼统 台湾成为世界上最危险的引爆点 慕尼黑国安会议主席警示台湾最可能发生军事冲突 美前大使警告：台湾问题或引爆中美核战争 易理师预言2021年：台海可能冲突</a></li>
 <li><a href="/lifebaike/20210218/1489185.md">这些生肖是一等命 福禄寿齐全</a></li>
-<li><a href="/topimagenews/20210218/1489442.md">如风中残烛！麦康奈尔民调仅剩18%【阿波罗网编译】</a></li>
 <li><a href="/lifebaike/20210218/1489477.md">夫妻到了中年，爱与不爱是其次，最重要的是这四点</a></li>
+<li><a href="/topimagenews/20210218/1489442.md">如风中残烛！麦康奈尔民调仅剩18%【阿波罗网编译】</a></li>
 <li><a href="/finance/20210218/1489172.md">1978年来首次下降 中国人不想花钱急坏中共</a></li>
 <li><a href="/cnnews/20210218/1489150.md">非洲大独裁者阿明：吃人肉，调戏英女王…</a></li>
 <li><a href="/bannedvideo/20210218/1489257.md">暗流汹涌！东三省反习！事关薄熙来？今年两会紧张，习家军提前控场：看住李克强</a></li>
 <li><a href="/ssgc/20210218/1489403.md">〖兲朝浮世绘〗教育人民安贫乐道的人居然在美国享福</a></li>
 <li><a href="/ssgc/20210218/1488976.md">不作不死：她弹劾前向川普背后捅刀，惨遭大金主抛弃</a></li>
+<li><a href="/ssgc/20210218/1489591.md">挺川者说：幸亏川普下台了</a></li>
 <li><a href="/cbnews/20210218/1489410.md">震惊！越战周年再曝《十杀令》 网友：中共炮灰的归宿</a></li>
-<li><a href="/topimagenews/20210218/1489135.md">曝拜登内幕，小川普出征夺畅销书排行榜冠军 遏制中共拜登,众院共和党发动立法闪电战</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210219/1489698.md" target="_blank">宣布给世卫2亿美元 美国务卿受议员谴责</a></li>
+<li><a href="/comments/20210219/1489697.md" target="_blank">女人为子复仇转生八次 是什么让她最终放手？</a></li>
+<li><a href="/comments/20210219/1489690.md" target="_blank">最高人民检察院官员王松苗 空降中联办任秘书长</a></li>
+<li><a href="/comments/20210219/1489689.md" target="_blank">驻沪办内地职员离世 众新闻：死者为蔡亮秘书 被解雇后于蔡亮办公室上吊</a></li>
+<li><a href="/comments/20210219/1489688.md" target="_blank">习近平“追杀”马云 触动权贵阶层 评：习要真正掌权 须拆毁利益集团！（音频）</a></li>
 <li><a href="/comments/20210218/1489659.md" target="_blank">冬季风暴横扫美37州 德州因绿色能源罕见大停电</a></li>
 <li><a href="/comments/20210218/1489649.md" target="_blank">【图片+视频】菜窖里发现古墓有一桌酒席， 墓墙上题字令人感慨，墓主竟是一个艺术少年</a></li>
 <li><a href="/comments/20210218/1489636.md" target="_blank">【华府看天下】从「留岛不留人」到拟禁港人出逃 北京对港的外强中乾</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210218/1489568.md" target="_blank">原公安部知情人士披露孟建柱心腹被查内幕</a></li>
 <li><a href="/comments/20210218/1489553.md" target="_blank">【中大游行】消息：警拘一中大哲学系学生 指控违国安法 游行期间举“光时”旗</a></li>
 <li><a href="/comments/20210218/1489552.md" target="_blank">浙江一影院数人观影时突现不明头晕 63人被送医</a></li>
-<li><a href="/comments/20210218/1489551.md" target="_blank">做一个有道德的时光旅行者</a></li>
-<li><a href="/comments/20210218/1489522.md" target="_blank">谈与习近平通话 拜登又火了！鲍彤蓬佩奥一针见血点评</a></li>
-<li><a href="/comments/20210218/1489495.md" target="_blank">“勿要政治化”最是政治化</a></li>
-<li><a href="/comments/20210218/1489494.md" target="_blank">从“留岛不留人”到拟禁港人出逃 北京对港的外强中干</a></li>
-<li><a href="/comments/20210218/1489492.md" target="_blank">缅甸仰光爆发政变后最大型示威 上万民众上街交通全瘫</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 
 </ul>
 </div>
