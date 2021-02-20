@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210219/1490062.md">延迟8个月 中共“自曝”中印边境冲突4死</a></li>
 <li><a href="/cbnews/20210219/1490154.md">胡锡进掩盖中共瞒军人伤亡 印度网民群轰</a></li>
 <li><a href="/lifebaike/20210219/1490239.md">清朝灭亡后皇室贵族去哪了 几乎都干这一行</a></li>
 <li><a href="/comments/20210219/1490177.md">黑莉自食其果，求见川普被拒。川普怀念白宫，谈未来计划。海湖山庄成白宫，共和党大佬纷纷朝拜。佩洛西又搞新花样。肖恩律师遭报复。普京猛烈抨击拜登。</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/headline/20210219/1490249.md">戳破习近平「小康社会」真相？ 江西省政府率先呼吁「过紧日子」</a></li>
 <li><a href="/comments/20210219/1490286.md">为什么很多人脚后跟出现干裂？医生：跟这3种病症有关，要当心</a></li>
 <li><a href="/headline/20210220/1490443.md">女王怒了！哈里和梅根彻底被剥离王室</a></li>
+<li><a href="/comments/20210219/1490165.md">习近平女儿信息外泄案惊爆”阴阳案“ 涉原上海公安局长龚道安？</a></li>
 <li><a href="/cbnews/20210220/1490406.md">德学者列6证据 指向武肺病毒来自中国实验室</a></li>
 <li><a href="/ssgc/20210220/1490361.md">地主家也没余粮 房产税磨刀霍霍</a></li>
 <li><a href="/comments/20210219/1490262.md">川普拒绝海利在海湖庄园会面的请求；“别像个独裁政权” 议员提案拆国会大厦围栏；澳洲施压脸书：政府不会让步 ！克鲁兹回应墨西哥度假风波 “想做个好爸爸”【希望之声TV】</a></li>
-<li><a href="/comments/20210219/1490165.md">习近平女儿信息外泄案惊爆”阴阳案“ 涉原上海公安局长龚道安？</a></li>
+<li><a href="/comments/20210220/1490451.md">胡锦涛派卧底掌握重庆内情 薄熙来王立军早已被盯上 王立军监听重庆政法委书记刘光磊与胡办通话 被中办反侦查 中纪委副书记马馼与胡锦涛通话被王立军技侦团队监听 胡锦涛立即下令解除王立军一兼职以作警告 中南海不可告人的秘密_319</a></li>
 <li><a href="/comments/20210219/1490066.md">官方承认美国大选舞弊？！密歇根州发现17.7万不合格选民</a></li>
 <li><a href="/comments/20210219/1490193.md">马云不妙 黄光裕出狱大谈爱党 或成被“改造”样板</a></li>
-<li><a href="/comments/20210220/1490451.md">胡锦涛派卧底掌握重庆内情 薄熙来王立军早已被盯上 王立军监听重庆政法委书记刘光磊与胡办通话 被中办反侦查 中纪委副书记马馼与胡锦涛通话被王立军技侦团队监听 胡锦涛立即下令解除王立军一兼职以作警告 中南海不可告人的秘密_319</a></li>
 <li><a href="/yule/20210220/1490375.md">被200家赌场列黑名单‘赌神’戴子郎 除夕猝逝家中</a></li>
-<li><a href="/cbnews/20210219/1490153.md">上海法学家张雪忠发起网络公投 再吁宪政</a></li>
-<li><a href="/cbnews/20210219/1490236.md">美国小伙弃当中国网红感言：无法出卖灵魂</a></li>
-<li><a href="/cbnews/20210220/1490444.md">东北人口流失 拟全面开放生育 网友批“先把经济搞好”</a></li>
-<li><a href="/yule/20210219/1490064.md">时事小品：习二傻的婚姻危机</a></li>
-<li><a href="/cbnews/20210220/1490379.md">外国人赴华 中共驻旧金山总领事馆公告新限制</a></li>
 <li><a href="/cbnews/20210220/1490472.md">又一希望破碎？英国法官作出不利孟晚舟的判决</a></li>
+<li><a href="/cbnews/20210219/1490153.md">上海法学家张雪忠发起网络公投 再吁宪政</a></li>
+<li><a href="/cnnews/20210220/1490510.md">习近平突然给拜登开绿灯 中国人收入锐减储蓄猛增 媒体人总辞百姓也憋疯了</a></li>
+<li><a href="/cbnews/20210220/1490444.md">东北人口流失 拟全面开放生育 网友批“先把经济搞好”</a></li>
+<li><a href="/cbnews/20210219/1490236.md">美国小伙弃当中国网红感言：无法出卖灵魂</a></li>
+<li><a href="/cbnews/20210220/1490379.md">外国人赴华 中共驻旧金山总领事馆公告新限制</a></li>
 <li><a href="/headline/20210219/1490197.md">世卫顾问、德研究人员：病毒来自中国实验室</a></li>
+<li><a href="/comments/20210220/1490396.md">悲！女秘书在驻沪办主任办公室上吊自杀</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210220/1490692.md" target="_blank">在弹劾案中，彭斯对川普再次落井下石，之后却要借川普抬高自己，彭斯葫芦里面装着什么？《诺查丹玛斯》预言，彭斯对川普的背叛以及结局。</a></li>
 <li><a href="/cbnews/20210220/1490686.md" target="_blank">曾怒起冲突 石家庄藁城区肺炎患者被秘密转移</a></li>
 <li><a href="/cbnews/20210220/1490656.md" target="_blank">世卫专家组被曝三人与中共机构有关系</a></li>
 <li><a href="/comments/20210220/1490649.md" target="_blank">黑命贵要从娃娃抓起！BLM进校推课程；观点太邪乎！拜登“内阁最差提名人；习近平之女习明泽信息外泄案 主犯逃海外；美助【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210220/1490379.md" target="_blank">外国人赴华 中共驻旧金山总领事馆公告新限制</a></li>
 <li><a href="/comments/20210220/1490371.md" target="_blank">波兰或对科技巨头言论审查处1,350万美元罚款；美国表态 中共肛拭子是“侵入性检查” ；最具影响力保守派聚会邀川普演讲；民主党针对川普再出法案被批滥权；芝加哥取消文化审查雕像遭群嘲【希望之声TV】</a></li>
 <li><a href="/comments/20210219/1490014.md" target="_blank">《更长电报》是对《长电报》的倒行逆施</a></li>
-<li><a href="/comments/20210219/1490262.md" target="_blank">川普拒绝海利在海湖庄园会面的请求；“别像个独裁政权” 议员提案拆国会大厦围栏；澳洲施压脸书：政府不会让步 ！克鲁兹回应墨西哥度假风波 “想做个好爸爸”【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210220/1490692.md" target="_blank">在弹劾案中，彭斯对川普再次落井下石，之后却要借川普抬高自己，彭斯葫芦里面装着什么？《诺查丹玛斯》预言，彭斯对川普的背叛以及结局。</a></li>
+<li><a href="/comments/20210220/1490690.md" target="_blank">两个生活教育优越的国家抚养孩子的投入差异</a></li>
 <li><a href="/comments/20210220/1490680.md" target="_blank">不适宜栽种在自家小院的几种树</a></li>
 <li><a href="/comments/20210220/1490679.md" target="_blank">老陈又回美国潜伏 别把女儿贡献给美帝</a></li>
 <li><a href="/comments/20210220/1490675.md" target="_blank">【清算港台】曾志豪：侮辱员工多年努力 吕秉权：令港台往后不敢唱反调</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210220/1490580.md" target="_blank">自由、权利与良知：三个值得深思的故事</a></li>
 <li><a href="/comments/20210220/1490579.md" target="_blank">张杰：中共真要复兴传统文化吗？</a></li>
 <li><a href="/comments/20210220/1490577.md" target="_blank">🈲被CIA封杀的预言❗地球将面临毁灭性的大灾难❓ 《2012 世界末日》电影只是2021的预演❓</a></li>
-<li><a href="/comments/20210220/1490572.md" target="_blank">对话陈力简：美国独立史比三国演义更精彩！当初的民兵放下饭碗就去打仗；宪法是理想与现实结合的产物？</a></li>
-<li><a href="/comments/20210220/1490567.md" target="_blank">晓风：传统与信仰是现代文明的基础</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 
 </ul>
 </div>
