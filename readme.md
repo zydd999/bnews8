@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/funmedia/20210219/1489934.md">贪欲过度，到底有多可怕</a></li>
 <li><a href="/cbnews/20210219/1490062.md">延迟8个月 中共“自曝”中印边境冲突4死</a></li>
 <li><a href="/cbnews/20210219/1490154.md">胡锡进掩盖中共瞒军人伤亡 印度网民群轰</a></li>
 <li><a href="/cbnews/20210219/1489993.md">党媒大肆宣扬习近平 学者：中共内斗激烈</a></li>
@@ -17,15 +16,16 @@
 <li><a href="/cbnews/20210219/1490037.md">“恶俗维基”创办人指控 习明泽信息外泄案爆“阴阳报告”主犯背景深</a></li>
 <li><a href="/headline/20210219/1490249.md">戳破习近平「小康社会」真相？ 江西省政府率先呼吁「过紧日子」</a></li>
 <li><a href="/comments/20210219/1490286.md">为什么很多人脚后跟出现干裂？医生：跟这3种病症有关，要当心</a></li>
-<li><a href="/comments/20210219/1490066.md">官方承认美国大选舞弊？！密歇根州发现17.7万不合格选民</a></li>
 <li><a href="/comments/20210219/1490193.md">马云不妙 黄光裕出狱大谈爱党 或成被“改造”样板</a></li>
-<li><a href="/comments/20210219/1490165.md">习近平女儿信息外泄案惊爆”阴阳案“ 涉原上海公安局长龚道安？</a></li>
-<li><a href="/comments/20210219/1490060.md">男子的枪丢了 裤子也掉了  女服务员还说：先生！ 拿走你的枪</a></li>
+<li><a href="/comments/20210219/1490066.md">官方承认美国大选舞弊？！密歇根州发现17.7万不合格选民</a></li>
 <li><a href="/comments/20210219/1490262.md">川普拒绝海利在海湖庄园会面的请求；“别像个独裁政权” 议员提案拆国会大厦围栏；澳洲施压脸书：政府不会让步 ！克鲁兹回应墨西哥度假风波 “想做个好爸爸”【希望之声TV】</a></li>
-<li><a href="/topimagenews/20210219/1489989.md">来自一个小国的情报报告令中共大动肝火</a></li>
-<li><a href="/comments/20210219/1490051.md">“令人震惊”中国行再证病毒自实验室泄露！ 科学家提六论据 指向武汉病毒所</a></li>
-<li><a href="/ssgc/20210220/1490361.md">地主家也没余粮 房产税磨刀霍霍</a></li>
+<li><a href="/comments/20210219/1490165.md">习近平女儿信息外泄案惊爆”阴阳案“ 涉原上海公安局长龚道安？</a></li>
 <li><a href="/cbnews/20210220/1490406.md">德学者列6证据 指向武肺病毒来自中国实验室</a></li>
+<li><a href="/comments/20210219/1490060.md">男子的枪丢了 裤子也掉了  女服务员还说：先生！ 拿走你的枪</a></li>
+<li><a href="/topimagenews/20210219/1489989.md">来自一个小国的情报报告令中共大动肝火</a></li>
+<li><a href="/ssgc/20210220/1490361.md">地主家也没余粮 房产税磨刀霍霍</a></li>
+<li><a href="/yule/20210220/1490375.md">被200家赌场列黑名单‘赌神’戴子郎 除夕猝逝家中</a></li>
+<li><a href="/comments/20210219/1490051.md">“令人震惊”中国行再证病毒自实验室泄露！ 科学家提六论据 指向武汉病毒所</a></li>
 <li><a href="/cbnews/20210219/1490236.md">美国小伙弃当中国网红感言：无法出卖灵魂</a></li>
 <li><a href="/cbnews/20210219/1490153.md">上海法学家张雪忠发起网络公投 再吁宪政</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210220/1490567.md" target="_blank">晓风：传统与信仰是现代文明的基础</a></li>
+<li><a href="/comments/20210220/1490566.md" target="_blank">酱香型院士诞生 韦小宝能不能进翰林院？</a></li>
+<li><a href="/comments/20210220/1490565.md" target="_blank">林保华：急着让台湾接种中国大陆疫苗 这是什么把戏？</a></li>
 <li><a href="/comments/20210220/1490537.md" target="_blank">三州大选诉案高院将如何判决？ 缅甸攻击华人企业看中共意欲何为？嘉宾：谢田  蓝述 主持：高洁【希望之声TV】(2021/02/19)</a></li>
 <li><a href="/comments/20210220/1490533.md" target="_blank">华春莹发言人一句话惹得爆笑如雷 这是高级黑还是政治事故？中南海不可告人的秘密_320</a></li>
 <li><a href="/comments/20210220/1490524.md" target="_blank">【中国观察】美国国家安全局发出警告：未来40天里很多美国人将参与信仰反思  美国将迎来挑战的日子 国家安全局仍然承担保卫国家的使命 川普1月17号已安排盟友掌控国安局 EAS紧急广播系统已经完成测试</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210220/1490451.md" target="_blank">胡锦涛派卧底掌握重庆内情 薄熙来王立军早已被盯上 王立军监听重庆政法委书记刘光磊与胡办通话 被中办反侦查 中纪委副书记马馼与胡锦涛通话被王立军技侦团队监听 胡锦涛立即下令解除王立军一兼职以作警告 中南海不可告人的秘密_319</a></li>
 <li><a href="/comments/20210220/1490450.md" target="_blank">为奥巴马筹款的民主党捐助者被判刑12年</a></li>
 <li><a href="/comments/20210220/1490449.md" target="_blank">黑命贵理念进美国公校 作为课程灌输给孩子</a></li>
-<li><a href="/comments/20210220/1490448.md" target="_blank">轻便的巡天神器 你我都有</a></li>
-<li><a href="/comments/20210220/1490439.md" target="_blank">美名作家：拜登为中共暴行辩解 世界将陷危机</a></li>
-<li><a href="/comments/20210220/1490438.md" target="_blank">传中共拟对有国安威胁的国家禁止出口稀土加工技术</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
