@@ -13,21 +13,21 @@
 <li><a href="/health/20210220/1490832.md">肝癌发出的第一个信号 很多人却忽视了</a></li>
 <li><a href="/headline/20210221/1490947.md">北京突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/comments/20210221/1490974.md">习近平当局突然高调纪念华国锋 五国级高官两常委出席座谈会 毛新宇刘源等太子党罕见公开露面</a></li>
-<li><a href="/comments/20210221/1490995.md">华国锋六大秘闻 传华国锋是毛泽东私生长子 毛临终前安排父传子承 胡耀邦被逼下台后山西书记提华国锋接班遭邓批评 华国锋要求退党胡锦涛主持召开特别会议 华国锋隐退27年 对一件事绝口不提 华国锋：不抓‘四人帮’一定打内战 邓小平绕过华国锋访美内幕解密 中南海不可告人的秘密_322</a></li>
 <li><a href="/comments/20210220/1490846.md">程翔：习近平为二十大连任动了“双马”</a></li>
+<li><a href="/comments/20210221/1490995.md">华国锋六大秘闻 传华国锋是毛泽东私生长子 毛临终前安排父传子承 胡耀邦被逼下台后山西书记提华国锋接班遭邓批评 华国锋要求退党胡锦涛主持召开特别会议 华国锋隐退27年 对一件事绝口不提 华国锋：不抓‘四人帮’一定打内战 邓小平绕过华国锋访美内幕解密 中南海不可告人的秘密_322</a></li>
 <li><a href="/bannedvideo/20210221/1491059.md">不承认小康，地方诸侯顶回习近平！李克强又对了一次。牛年谁牛气</a></li>
 <li><a href="/cnnews/20210221/1491003.md">习近平疑被动公开中印冲突死亡官兵信息 更多秘密曝光</a></li>
 <li><a href="/cbnews/20210221/1491095.md">中共突然高调纪念华国锋 毛新宇公开露面</a></li>
-<li><a href="/headline/20210220/1490801.md">刘奇葆昔日副手李金早被逮捕</a></li>
-<li><a href="/funmedia/20210220/1490758.md">2021年新句子都出来了，太有才了</a></li>
 <li><a href="/cnnews/20210221/1491182.md">宇航员意外拍到一张照片，人类真的该反思了</a></li>
+<li><a href="/headline/20210220/1490801.md">刘奇葆昔日副手李金早被逮捕</a></li>
 <li><a href="/topimagenews/20210221/1490956.md">川普会见众院共和党党鞭 美军基地被炸3天1死多伤，拜登急转弯投降了？</a></li>
 <li><a href="/topimagenews/20210221/1490999.md">疫情降温全球股市恐“猪羊变色” 出现巨大回档</a></li>
 <li><a href="/funmedia/20210221/1491029.md">“家有不吉，必有征兆”：一个家庭发生这3件怪事，要小心</a></li>
 <li><a href="/bannedvideo/20210220/1490852.md">遭印度打败，习近平认了吧！害怕军权不稳？炮制弥天大谎，伤亡数字压缩十倍！党内窃笑</a></li>
 <li><a href="/comments/20210220/1490844.md">小儿子生父栏遭公开 张柏芝怒提告</a></li>
-<li><a href="/comments/20210221/1490957.md">川普父子强势反击  川普回归已经正式拉开大幕 好戏才刚刚开始</a></li>
 <li><a href="/comments/20210221/1491131.md">二十大前政治大动作！北京高调纪念华国锋藏重要目的 毛新宇罕见露面</a></li>
+<li><a href="/comments/20210221/1490957.md">川普父子强势反击  川普回归已经正式拉开大幕 好戏才刚刚开始</a></li>
+<li><a href="/bannedvideo/20210220/1490815.md">Qiu是川普身边人? 量子电脑? 还是深层政府的阴谋? 失联两个月, Qiu发生了什么? 还会再出现吗? 所有你关于Qiu的猜想和疑问全在这里! 真观点</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210221/1491294.md" target="_blank">“开花弹”再现？缅甸瓦城镇压惨烈如六四</a></li>
+<li><a href="/comments/20210221/1491293.md" target="_blank">香菇烧山药 益气养血补肾 养生佳珍</a></li>
 <li><a href="/comments/20210221/1491271.md" target="_blank">习近平女儿信息被泄案 二审前律师遭约谈警告 牛母绝望：儿子说来世还要做母子</a></li>
 <li><a href="/comments/20210221/1491265.md" target="_blank">李燕铭：习近平高调纪念华国锋 一箭三雕 中南海酝酿重磅政治风暴（上）习挺华贬邓 太子党版图重洗牌 中南海最具权势两大家族对决 太子党分裂与内斗公开化</a></li>
 <li><a href="/comments/20210221/1491259.md" target="_blank">“安心出行”绝无私隐风险？ 谁人不断发布“虚假和失实资讯”？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210221/1491205.md" target="_blank">通告：所有剽窃《燕铭时评》独家内容与独家观点的行为立即停止</a></li>
 <li><a href="/comments/20210221/1491196.md" target="_blank">美国观察：川普总统的回归之路渐趋明朗</a></li>
 <li><a href="/comments/20210221/1491195.md" target="_blank">内幕人士解释为何德州人失去了他们的电力</a></li>
-<li><a href="/comments/20210221/1491186.md" target="_blank">美国人的清醒！讽刺拜登 “老天在收拾他”</a></li>
-<li><a href="/comments/20210221/1491179.md" target="_blank">与孙大午交谈：物质 “极大丰富”？永无可能</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 <li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 
 </ul>
 </div>
