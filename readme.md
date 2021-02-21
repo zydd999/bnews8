@@ -5,12 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210221/1490995.md">华国锋六大秘闻 传华国锋是毛泽东私生长子 毛临终前安排父传子承 胡耀邦被逼下台后山西书记提华国锋接班遭邓批评 华国锋要求退党胡锦涛主持召开特别会议 华国锋隐退27年 对一件事绝口不提 华国锋：不抓‘四人帮’一定打内战 邓小平绕过华国锋访美内幕解密 中南海不可告人的秘密_322</a></li>
 <li><a href="/bannedvideo/20210221/1491059.md">不承认小康，地方诸侯顶回习近平！李克强又对了一次。牛年谁牛气</a></li>
-<li><a href="/cnnews/20210221/1491003.md">习近平疑被动公开中印冲突死亡官兵信息 更多秘密曝光</a></li>
 <li><a href="/cnnews/20210221/1491182.md">宇航员意外拍到一张照片，人类真的该反思了</a></li>
+<li><a href="/cnnews/20210221/1491003.md">习近平疑被动公开中印冲突死亡官兵信息 更多秘密曝光</a></li>
 <li><a href="/funmedia/20210221/1491029.md">“家有不吉，必有征兆”：一个家庭发生这3件怪事，要小心</a></li>
-<li><a href="/topimagenews/20210221/1490999.md">疫情降温全球股市恐“猪羊变色” 出现巨大回档</a></li>
 <li><a href="/cbnews/20210221/1491095.md">中共突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/bannedvideo/20210221/1491361.md">习近平吼住团派：这个数字不准说！华春莹拍案而起：中国人为何不能用推特？</a></li>
 <li><a href="/lifebaike/20210221/1491197.md">子女“不再继承”父母房产？2021年起新规下，子女再闹也没用</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/cbnews/20210221/1491316.md">中共突高调纪念华国锋诞辰 毛新宇公开露面</a></li>
 <li><a href="/bannedvideo/20210221/1491249.md">华春莹又闯祸史诗级突袭？新一轮吹捧习近平风开刮，李鸿忠再考第一！茅台院士来了！老北京茶馆/第458集/2021/02/20）</a></li>
 <li><a href="/comments/20210221/1491265.md">李燕铭：习近平高调纪念华国锋 一箭三雕 中南海酝酿重磅政治风暴（上）习挺华贬邓 太子党版图重洗牌 中南海最具权势两大家族对决 太子党分裂与内斗公开化</a></li>
-<li><a href="/comments/20210221/1491322.md">川普王者之气爆棚，数十名参加中期选举竞选人，向川普做自我介绍并请求支持。川总选人只看一个标准。川普向共和党建制派公开宣战。下周有重要演讲。最高法院案子新进展。</a></li>
 <li><a href="/comments/20210221/1491257.md">邓小平陈云叶剑英胡耀邦联手围攻逼退华国锋内幕 华国锋下台前拒绝出席中共中央新年茶话会 中共十一届六中全会上两个“从未有过” 邓小平六四屠城前夕一句话定性华国锋 中南海不可告人的秘密_324</a></li>
+<li><a href="/comments/20210221/1491322.md">川普王者之气爆棚，数十名参加中期选举竞选人，向川普做自我介绍并请求支持。川总选人只看一个标准。川普向共和党建制派公开宣战。下周有重要演讲。最高法院案子新进展。</a></li>
 <li><a href="/topimagenews/20210221/1491169.md">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
-<li><a href="/lifebaike/20210221/1491049.md">养废一个孩子最快的方式，90%的妈妈都中招！再不改就晚了</a></li>
 <li><a href="/cbnews/20210221/1491360.md">网友：中共撒币平息中印冲突 树英雄堵小粉红嘴</a></li>
+<li><a href="/lifebaike/20210221/1491049.md">养废一个孩子最快的方式，90%的妈妈都中招！再不改就晚了</a></li>
 <li><a href="/ssgc/20210221/1491010.md">华春莹反问为啥中国人不能用推特脸书？网民爆笑如雷</a></li>
 <li><a href="/cbnews/20210221/1491342.md">可飞行百年 B-52为何对敌手造成强大心理压力</a></li>
+<li><a href="/health/20210221/1491298.md">长寿也能从睡觉看出？健康的男人，通常睡觉不会出现这4个现象</a></li>
+<li><a href="/comments/20210221/1491026.md">又一保守派领袖在海湖山庄与川普会面；专家警告 北京欲利用气候变化影响美国政策；更多共和党内领袖督促麦康奈尔下台；众议员促立法 使佛州成“第二修正案保护区”【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210222/1491469.md" target="_blank">英国17所私立学校被中共收购 媒体政要震惊</a></li>
 <li><a href="/comments/20210222/1491463.md" target="_blank">披星戴月70天！英国21岁女老师“划”越大西洋破纪录</a></li>
 <li><a href="/comments/20210222/1491462.md" target="_blank">美参议员：反击中共三大策略 脱钩势在必行</a></li>
 <li><a href="/comments/20210222/1491461.md" target="_blank">解密文件：美CIA或观察到火星上的古代人类</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210221/1491377.md" target="_blank">【武汉肺炎】市建局研发员工版“健康码” 设红黄绿风险提示 研究加蓝芽定位技术</a></li>
 <li><a href="/comments/20210221/1491376.md" target="_blank">识者能知火未燃</a></li>
 <li><a href="/comments/20210221/1491375.md" target="_blank">曾高喊“厉害了 我的中国“！美籍网红决定离开中国：不想再出卖灵魂</a></li>
-<li><a href="/comments/20210221/1491372.md" target="_blank">油管删除川普最新采访视频；鲍威尔律师：永远不要把我的安静当成不作为；库默陷养老院丑闻 共和党拟推长岛议员选州长；质疑中印冲突死亡人数 微博大V遭封号刑拘【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
