@@ -5,17 +5,16 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210220/1490623.md">记者质疑中印冲突士兵伤亡时隔8个月才公布 华春莹：高度克制 大国的气度和担当</a></li>
 <li><a href="/yule/20210220/1490666.md">郑爽的关系有多硬？赵宝刚暗示她是大佬的人，冯小刚还得让她三分</a></li>
 <li><a href="/comments/20210220/1490824.md">习近平被动公开中印冲突死亡官兵信息 更多秘密曝光</a></li>
 <li><a href="/comments/20210220/1490692.md">在弹劾案中，彭斯对川普再次落井下石，之后却要借川普抬高自己，彭斯葫芦里面装着什么？《诺查丹玛斯》预言，彭斯对川普的背叛以及结局。</a></li>
 <li><a href="/cbnews/20210220/1490888.md">透露中印冲突中方伤亡内情 微博大V被刑拘</a></li>
 <li><a href="/worldnews/20210220/1490785.md">中共激励掩盖中印边境冲突死亡真相 首证实团长重伤、营长死亡</a></li>
-<li><a href="/topimagenews/20210220/1490826.md">美国人醒了： 拜登不是好人 多数人认为是左派傀儡 为奥巴马筹款捐助者被判刑12年</a></li>
 <li><a href="/cnnews/20210220/1490850.md">身价数百亿 朝鲜第一夫人奢华生活揭密</a></li>
+<li><a href="/topimagenews/20210220/1490826.md">美国人醒了： 拜登不是好人 多数人认为是左派傀儡 为奥巴马筹款捐助者被判刑12年</a></li>
 <li><a href="/headline/20210221/1490947.md">北京突然高调纪念华国锋 毛新宇公开露面</a></li>
-<li><a href="/bannedvideo/20210220/1490722.md">情非得已 周永康死保薄熙来的难言之隐</a></li>
 <li><a href="/comments/20210221/1490974.md">习近平当局突然高调纪念华国锋 五国级高官两常委出席座谈会 毛新宇刘源等太子党罕见公开露面</a></li>
+<li><a href="/bannedvideo/20210220/1490722.md">情非得已 周永康死保薄熙来的难言之隐</a></li>
 <li><a href="/health/20210220/1490832.md">肝癌发出的第一个信号 很多人却忽视了</a></li>
 <li><a href="/health/20210220/1490749.md">饭店里一道菜，医生从不吃，细菌多甚至还有寄生虫，早点告诉家人</a></li>
 <li><a href="/comments/20210220/1490756.md">外媒：朝鲜第一夫人生活奢华 身价破千亿</a></li>
@@ -24,8 +23,9 @@
 <li><a href="/funmedia/20210220/1490758.md">2021年新句子都出来了，太有才了</a></li>
 <li><a href="/topimagenews/20210220/1490700.md">蹊跷！中国加倍向美国走私这些污染肉类干啥？【阿波罗网编译】</a></li>
 <li><a href="/comments/20210220/1490711.md">俄罗斯漂亮女兵退役后 为何多数都嫁不出去？</a></li>
-<li><a href="/comments/20210220/1490702.md">生化危机？解放军被转基因！中共要开放生育？东北人不满！拜登又惹祸？蓬佩奥发出警告！美国小伙弃当中国网红 ！感言：无法出卖自己【希望之声TV】</a></li>
 <li><a href="/topimagenews/20210221/1490956.md">川普会见众院共和党党鞭 美军基地被炸3天1死多伤，拜登急转弯投降了？</a></li>
+<li><a href="/comments/20210220/1490702.md">生化危机？解放军被转基因！中共要开放生育？东北人不满！拜登又惹祸？蓬佩奥发出警告！美国小伙弃当中国网红 ！感言：无法出卖自己【希望之声TV】</a></li>
+<li><a href="/comments/20210221/1490995.md">华国锋六大秘闻 传华国锋是毛泽东私生长子 毛临终前安排父传子承 胡耀邦被逼下台后山西书记提华国锋接班遭邓批评 华国锋要求退党胡锦涛主持召开特别会议 华国锋隐退27年 对一件事绝口不提 华国锋：不抓‘四人帮’一定打内战 邓小平绕过华国锋访美内幕解密 中南海不可告人的秘密_322</a></li>
 <li><a href="/bannedvideo/20210220/1490852.md">遭印度打败，习近平认了吧！害怕军权不稳？炮制弥天大谎，伤亡数字压缩十倍！党内窃笑</a></li>
 <li><a href="/comments/20210220/1490844.md">小儿子生父栏遭公开 张柏芝怒提告</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210221/1491168.md" target="_blank">天亮时分：川普将发表重要讲话，与共和党建制派全面开战；拜登、《诗经》和相对论（政论天下第358集 20210220）</a></li>
+<li><a href="/comments/20210221/1491161.md" target="_blank">美国大选的诡异走向，真假拜登辨析，3个拜登，喜剧演员？</a></li>
 <li><a href="/cbnews/20210221/1491096.md" target="_blank">中国囚犯网军奖分标准曝光 网吁受骗粉红反省智商 华为2021手机订单减6成 并仅限4G</a></li>
 <li><a href="/cbnews/20210221/1491095.md" target="_blank">中共突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/cbnews/20210221/1491094.md" target="_blank">北大女生包丽自杀案 牟某翰被提起公诉</a></li>
@@ -59,14 +61,13 @@
 <li><a href="/cbnews/20210220/1490739.md" target="_blank">“海警法”授权中共海上开火 美国务院警告</a></li>
 <li><a href="/comments/20210220/1490702.md" target="_blank">生化危机？解放军被转基因！中共要开放生育？东北人不满！拜登又惹祸？蓬佩奥发出警告！美国小伙弃当中国网红 ！感言：无法出卖自己【希望之声TV】</a></li>
 <li><a href="/comments/20210220/1490692.md" target="_blank">在弹劾案中，彭斯对川普再次落井下石，之后却要借川普抬高自己，彭斯葫芦里面装着什么？《诺查丹玛斯》预言，彭斯对川普的背叛以及结局。</a></li>
-<li><a href="/cbnews/20210220/1490686.md" target="_blank">曾怒起冲突 石家庄藁城区肺炎患者被秘密转移</a></li>
-<li><a href="/cbnews/20210220/1490656.md" target="_blank">世卫专家组被曝三人与中共机构有关系</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210221/1491169.md" target="_blank">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210221/1490999.md" target="_blank">疫情降温全球股市恐“猪羊变色” 出现巨大回档</a></li>
 <li><a href="/topimagenews/20210221/1490956.md" target="_blank">川普会见众院共和党党鞭 美军基地被炸3天1死多伤，拜登急转弯投降了？</a></li>
 <li><a href="/topimagenews/20210220/1490826.md" target="_blank">美国人醒了： 拜登不是好人 多数人认为是左派傀儡 为奥巴马筹款捐助者被判刑12年</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210218/1489579.md" target="_blank">川普复出；麦康奈尔反川惨了；拜登为中共辩护，蓬佩奥痛批呼应习近平</a></li>
 <li><a href="/topimagenews/20210218/1489578.md" target="_blank">班农《战室》：拜登的电视讲话是给中共颁发“大规模杀人许可”【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210218/1489501.md" target="_blank">美媒：麦康奈尔和共和党建制派在政治自毁【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210218/1489442.md" target="_blank">如风中残烛！麦康奈尔民调仅剩18%【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210221/1491186.md" target="_blank">美国人的清醒！讽刺拜登 “老天在收拾他”</a></li>
+<li><a href="/comments/20210221/1491179.md" target="_blank">与孙大午交谈：物质 “极大丰富”？永无可能</a></li>
+<li><a href="/comments/20210221/1491161.md" target="_blank">美国大选的诡异走向，真假拜登辨析，3个拜登，喜剧演员？</a></li>
 <li><a href="/comments/20210221/1491160.md" target="_blank">解局：“金融政变”六年 马云事件揭盅</a></li>
 <li><a href="/comments/20210221/1491159.md" target="_blank">美学者：德州能源危机凸显绿色能源的荒谬</a></li>
 <li><a href="/comments/20210221/1491143.md" target="_blank">二大爷：人类并不总是&#8221;进化&#8221;</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210221/1491053.md" target="_blank">油管继续禁言大选舞弊 删除川普最新采访视频</a></li>
 <li><a href="/comments/20210221/1491046.md" target="_blank">旧闻重温: 一部伟大的现实魔幻主义作品&#8212;-2.20茉莉花革命</a></li>
 <li><a href="/comments/20210221/1491045.md" target="_blank">公民于平 : 饿了么又开始作妖了</a></li>
-<li><a href="/comments/20210221/1491039.md" target="_blank">川普将在2月28日保守党峰会发表演讲</a></li>
-<li><a href="/comments/20210221/1491036.md" target="_blank">中共破坏香港自由 美两党共提决议再次谴责</a></li>
-<li><a href="/comments/20210221/1491035.md" target="_blank">党媒狙击夏博义在英政治背景 夏：从未隐瞒 坚持不辞职不退党</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 
 </ul>
 </div>
