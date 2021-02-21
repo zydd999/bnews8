@@ -7,16 +7,15 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210220/1490623.md">记者质疑中印冲突士兵伤亡时隔8个月才公布 华春莹：高度克制 大国的气度和担当</a></li>
 <li><a href="/yule/20210220/1490666.md">郑爽的关系有多硬？赵宝刚暗示她是大佬的人，冯小刚还得让她三分</a></li>
-<li><a href="/health/20210220/1490602.md">一对中年夫妇，坚持每天走一万步，10年后，他们得到了什么？</a></li>
 <li><a href="/comments/20210220/1490824.md">习近平被动公开中印冲突死亡官兵信息 更多秘密曝光</a></li>
 <li><a href="/comments/20210220/1490692.md">在弹劾案中，彭斯对川普再次落井下石，之后却要借川普抬高自己，彭斯葫芦里面装着什么？《诺查丹玛斯》预言，彭斯对川普的背叛以及结局。</a></li>
-<li><a href="/yule/20210220/1490615.md">小儿子出生证明被盗生父栏曝光 张柏芝投诉开告港媒</a></li>
 <li><a href="/cbnews/20210220/1490888.md">透露中印冲突中方伤亡内情 微博大V被刑拘</a></li>
 <li><a href="/worldnews/20210220/1490785.md">中共激励掩盖中印边境冲突死亡真相 首证实团长重伤、营长死亡</a></li>
 <li><a href="/topimagenews/20210220/1490826.md">美国人醒了： 拜登不是好人 多数人认为是左派傀儡 为奥巴马筹款捐助者被判刑12年</a></li>
 <li><a href="/cnnews/20210220/1490850.md">身价数百亿 朝鲜第一夫人奢华生活揭密</a></li>
 <li><a href="/headline/20210221/1490947.md">北京突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/bannedvideo/20210220/1490722.md">情非得已 周永康死保薄熙来的难言之隐</a></li>
+<li><a href="/comments/20210221/1490974.md">习近平当局突然高调纪念华国锋 五国级高官两常委出席座谈会 毛新宇刘源等太子党罕见公开露面</a></li>
 <li><a href="/health/20210220/1490832.md">肝癌发出的第一个信号 很多人却忽视了</a></li>
 <li><a href="/health/20210220/1490749.md">饭店里一道菜，医生从不吃，细菌多甚至还有寄生虫，早点告诉家人</a></li>
 <li><a href="/comments/20210220/1490756.md">外媒：朝鲜第一夫人生活奢华 身价破千亿</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/headline/20210220/1490801.md">刘奇葆昔日副手李金早被逮捕</a></li>
 <li><a href="/funmedia/20210220/1490758.md">2021年新句子都出来了，太有才了</a></li>
 <li><a href="/topimagenews/20210220/1490700.md">蹊跷！中国加倍向美国走私这些污染肉类干啥？【阿波罗网编译】</a></li>
-<li><a href="/comments/20210221/1490974.md">习近平当局突然高调纪念华国锋 五国级高官两常委出席座谈会 毛新宇刘源等太子党罕见公开露面</a></li>
 <li><a href="/comments/20210220/1490711.md">俄罗斯漂亮女兵退役后 为何多数都嫁不出去？</a></li>
 <li><a href="/comments/20210220/1490702.md">生化危机？解放军被转基因！中共要开放生育？东北人不满！拜登又惹祸？蓬佩奥发出警告！美国小伙弃当中国网红 ！感言：无法出卖自己【希望之声TV】</a></li>
 <li><a href="/topimagenews/20210221/1490956.md">川普会见众院共和党党鞭 美军基地被炸3天1死多伤，拜登急转弯投降了？</a></li>
+<li><a href="/bannedvideo/20210220/1490852.md">遭印度打败，习近平认了吧！害怕军权不稳？炮制弥天大谎，伤亡数字压缩十倍！党内窃笑</a></li>
+<li><a href="/comments/20210220/1490844.md">小儿子生父栏遭公开 张柏芝怒提告</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210221/1491160.md" target="_blank">解局：“金融政变”六年 马云事件揭盅</a></li>
+<li><a href="/comments/20210221/1491159.md" target="_blank">美学者：德州能源危机凸显绿色能源的荒谬</a></li>
+<li><a href="/comments/20210221/1491143.md" target="_blank">二大爷：人类并不总是&#8221;进化&#8221;</a></li>
+<li><a href="/comments/20210221/1491131.md" target="_blank">二十大前政治大动作！北京高调纪念华国锋藏重要目的 毛新宇罕见露面</a></li>
 <li><a href="/comments/20210221/1491128.md" target="_blank">骂习近平“暴君用刀剑和棍棒审判我们” 原北大保安员张盼成再发视频批习被捕 年轻人“不知敬畏”案件频发 中南海不可告人的秘密_323</a></li>
 <li><a href="/comments/20210221/1491125.md" target="_blank">数百万中国人过大年的喜庆被阴霾笼罩</a></li>
 <li><a href="/comments/20210221/1491124.md" target="_blank">拜登：美国要到2021圣诞节才有望恢复正常</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210221/1491039.md" target="_blank">川普将在2月28日保守党峰会发表演讲</a></li>
 <li><a href="/comments/20210221/1491036.md" target="_blank">中共破坏香港自由 美两党共提决议再次谴责</a></li>
 <li><a href="/comments/20210221/1491035.md" target="_blank">党媒狙击夏博义在英政治背景 夏：从未隐瞒 坚持不辞职不退党</a></li>
-<li><a href="/comments/20210221/1491032.md" target="_blank">苦胆：无法无天 实乃无天则无法</a></li>
-<li><a href="/comments/20210221/1491031.md" target="_blank">颜纯钩: 风雨同行 守护我们自己的香港电台</a></li>
-<li><a href="/comments/20210221/1491026.md" target="_blank">又一保守派领袖在海湖山庄与川普会面；专家警告 北京欲利用气候变化影响美国政策；更多共和党内领袖督促麦康奈尔下台；众议员促立法 使佛州成“第二修正案保护区”【希望之声TV】</a></li>
-<li><a href="/comments/20210221/1491021.md" target="_blank">习近平力推心腹陈敏尔动手？重庆政法委副书记谭晓荣落马</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 
 </ul>
 </div>
