@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/headline/20210221/1490947.md">北京突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/comments/20210221/1490995.md">华国锋六大秘闻 传华国锋是毛泽东私生长子 毛临终前安排父传子承 胡耀邦被逼下台后山西书记提华国锋接班遭邓批评 华国锋要求退党胡锦涛主持召开特别会议 华国锋隐退27年 对一件事绝口不提 华国锋：不抓‘四人帮’一定打内战 邓小平绕过华国锋访美内幕解密 中南海不可告人的秘密_322</a></li>
 <li><a href="/bannedvideo/20210221/1491059.md">不承认小康，地方诸侯顶回习近平！李克强又对了一次。牛年谁牛气</a></li>
 <li><a href="/cnnews/20210221/1491003.md">习近平疑被动公开中印冲突死亡官兵信息 更多秘密曝光</a></li>
-<li><a href="/comments/20210221/1490974.md">习近平当局突然高调纪念华国锋 五国级高官两常委出席座谈会 毛新宇刘源等太子党罕见公开露面</a></li>
 <li><a href="/cnnews/20210221/1491182.md">宇航员意外拍到一张照片，人类真的该反思了</a></li>
+<li><a href="/comments/20210221/1490974.md">习近平当局突然高调纪念华国锋 五国级高官两常委出席座谈会 毛新宇刘源等太子党罕见公开露面</a></li>
 <li><a href="/funmedia/20210221/1491029.md">“家有不吉，必有征兆”：一个家庭发生这3件怪事，要小心</a></li>
 <li><a href="/topimagenews/20210221/1490999.md">疫情降温全球股市恐“猪羊变色” 出现巨大回档</a></li>
 <li><a href="/cbnews/20210221/1491095.md">中共突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/lifebaike/20210221/1491197.md">子女“不再继承”父母房产？2021年起新规下，子女再闹也没用</a></li>
+<li><a href="/bannedvideo/20210221/1491361.md">习近平吼住团派：这个数字不准说！华春莹拍案而起：中国人为何不能用推特？</a></li>
 <li><a href="/cnnews/20210221/1491200.md">文革时习近平仅读完初一 认字不到三千二 在少管所读毛语录</a></li>
 <li><a href="/bannedvideo/20210221/1491281.md">2月20日上午11时左右，广西柳州等多个城区，众多市民听到两声巨响并感受到冲击和强烈震动感，当地网络炸锅。有网友猜测是地震了；有网友说朱家坟这边有军工厂，不足为怪。当局称在调查中。</a></li>
-<li><a href="/bannedvideo/20210221/1491361.md">习近平吼住团派：这个数字不准说！华春莹拍案而起：中国人为何不能用推特？</a></li>
 <li><a href="/topimagenews/20210221/1490956.md">川普会见众院共和党党鞭 美军基地被炸3天1死多伤，拜登急转弯投降了？</a></li>
 <li><a href="/comments/20210221/1491131.md">二十大前政治大动作！北京高调纪念华国锋藏重要目的 毛新宇罕见露面</a></li>
 <li><a href="/cbnews/20210221/1491316.md">中共突高调纪念华国锋诞辰 毛新宇公开露面</a></li>
 <li><a href="/bannedvideo/20210221/1491249.md">华春莹又闯祸史诗级突袭？新一轮吹捧习近平风开刮，李鸿忠再考第一！茅台院士来了！老北京茶馆/第458集/2021/02/20）</a></li>
 <li><a href="/cbnews/20210221/1491367.md">发表中印冲突，阵亡官兵言论，大陆又有一网民遭刑拘</a></li>
 <li><a href="/comments/20210221/1491265.md">李燕铭：习近平高调纪念华国锋 一箭三雕 中南海酝酿重磅政治风暴（上）习挺华贬邓 太子党版图重洗牌 中南海最具权势两大家族对决 太子党分裂与内斗公开化</a></li>
-<li><a href="/comments/20210221/1491257.md">邓小平陈云叶剑英胡耀邦联手围攻逼退华国锋内幕 华国锋下台前拒绝出席中共中央新年茶话会 中共十一届六中全会上两个“从未有过” 邓小平六四屠城前夕一句话定性华国锋 中南海不可告人的秘密_324</a></li>
 <li><a href="/comments/20210221/1490957.md">川普父子强势反击  川普回归已经正式拉开大幕 好戏才刚刚开始</a></li>
-<li><a href="/topimagenews/20210221/1491169.md">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
+<li><a href="/comments/20210221/1491257.md">邓小平陈云叶剑英胡耀邦联手围攻逼退华国锋内幕 华国锋下台前拒绝出席中共中央新年茶话会 中共十一届六中全会上两个“从未有过” 邓小平六四屠城前夕一句话定性华国锋 中南海不可告人的秘密_324</a></li>
 <li><a href="/comments/20210221/1491322.md">川普王者之气爆棚，数十名参加中期选举竞选人，向川普做自我介绍并请求支持。川总选人只看一个标准。川普向共和党建制派公开宣战。下周有重要演讲。最高法院案子新进展。</a></li>
+<li><a href="/topimagenews/20210221/1491169.md">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
+<li><a href="/lifebaike/20210221/1491049.md">养废一个孩子最快的方式，90%的妈妈都中招！再不改就晚了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210222/1491433.md" target="_blank">陈肇始施政“心存侥幸” 可“安心离去”</a></li>
+<li><a href="/comments/20210222/1491432.md" target="_blank">“非人权迫害者避风港” 美遣返一95岁纳粹集中营警卫</a></li>
 <li><a href="/comments/20210222/1491423.md" target="_blank">肆虐全球的冠状病毒在半世纪前就已经埋下伏笔</a></li>
 <li><a href="/comments/20210222/1491422.md" target="_blank">美国发现首例新冠肺炎“移植感染”</a></li>
 <li><a href="/comments/20210222/1491421.md" target="_blank">漫谈‘元宵节’ 自己做少油少糖的流沙汤圆啦~</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210221/1491318.md" target="_blank">【武汉肺炎】张建宗：国产疫苗为香港注入强心针 “安心出行”下载量逾 230 万</a></li>
 <li><a href="/comments/20210221/1491308.md" target="_blank">【中国观察】2月28日 川普总统离开白宫后将首次公开露面在CPAC上演讲 痛斥拜登的倒行逆施</a></li>
 <li><a href="/comments/20210221/1491307.md" target="_blank">弹劾失败后民主党对大众的心理操控</a></li>
-<li><a href="/comments/20210221/1491294.md" target="_blank">“开花弹”再现？缅甸瓦城镇压惨烈如六四</a></li>
-<li><a href="/comments/20210221/1491293.md" target="_blank">香菇烧山药 益气养血补肾 养生佳珍</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20191226/1241739.md" target="_blank">SpeedUp VPN：基于SSR的安卓版免费VPN</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
