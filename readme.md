@@ -7,26 +7,26 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210221/1491182.md">宇航员意外拍到一张照片，人类真的该反思了</a></li>
 <li><a href="/lifebaike/20210221/1491197.md">子女“不再继承”父母房产？2021年起新规下，子女再闹也没用</a></li>
-<li><a href="/cbnews/20210221/1491095.md">中共突然高调纪念华国锋 毛新宇公开露面</a></li>
 <li><a href="/bannedvideo/20210221/1491361.md">习近平吼住团派：这个数字不准说！华春莹拍案而起：中国人为何不能用推特？</a></li>
 <li><a href="/cnnews/20210221/1491200.md">文革时习近平仅读完初一 认字不到三千二 在少管所读毛语录</a></li>
 <li><a href="/bannedvideo/20210221/1491281.md">2月20日上午11时左右，广西柳州等多个城区，众多市民听到两声巨响并感受到冲击和强烈震动感，当地网络炸锅。有网友猜测是地震了；有网友说朱家坟这边有军工厂，不足为怪。当局称在调查中。</a></li>
 <li><a href="/comments/20210221/1491131.md">二十大前政治大动作！北京高调纪念华国锋藏重要目的 毛新宇罕见露面</a></li>
-<li><a href="/cbnews/20210221/1491367.md">发表中印冲突，阵亡官兵言论，大陆又有一网民遭刑拘</a></li>
 <li><a href="/bannedvideo/20210221/1491249.md">华春莹又闯祸史诗级突袭？新一轮吹捧习近平风开刮，李鸿忠再考第一！茅台院士来了！老北京茶馆/第458集/2021/02/20）</a></li>
+<li><a href="/cbnews/20210221/1491367.md">发表中印冲突，阵亡官兵言论，大陆又有一网民遭刑拘</a></li>
 <li><a href="/cbnews/20210221/1491316.md">中共突高调纪念华国锋诞辰 毛新宇公开露面</a></li>
 <li><a href="/comments/20210221/1491265.md">李燕铭：习近平高调纪念华国锋 一箭三雕 中南海酝酿重磅政治风暴（上）习挺华贬邓 太子党版图重洗牌 中南海最具权势两大家族对决 太子党分裂与内斗公开化</a></li>
-<li><a href="/comments/20210221/1491257.md">邓小平陈云叶剑英胡耀邦联手围攻逼退华国锋内幕 华国锋下台前拒绝出席中共中央新年茶话会 中共十一届六中全会上两个“从未有过” 邓小平六四屠城前夕一句话定性华国锋 中南海不可告人的秘密_324</a></li>
-<li><a href="/cbnews/20210221/1491360.md">网友：中共撒币平息中印冲突 树英雄堵小粉红嘴</a></li>
 <li><a href="/headline/20210222/1491429.md">中共中央拟东北三省“全面生育”民间怒了</a></li>
+<li><a href="/comments/20210221/1491257.md">邓小平陈云叶剑英胡耀邦联手围攻逼退华国锋内幕 华国锋下台前拒绝出席中共中央新年茶话会 中共十一届六中全会上两个“从未有过” 邓小平六四屠城前夕一句话定性华国锋 中南海不可告人的秘密_324</a></li>
 <li><a href="/comments/20210221/1491322.md">川普王者之气爆棚，数十名参加中期选举竞选人，向川普做自我介绍并请求支持。川总选人只看一个标准。川普向共和党建制派公开宣战。下周有重要演讲。最高法院案子新进展。</a></li>
-<li><a href="/cbnews/20210221/1491342.md">可飞行百年 B-52为何对敌手造成强大心理压力</a></li>
-<li><a href="/topimagenews/20210221/1491169.md">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210221/1491360.md">网友：中共撒币平息中印冲突 树英雄堵小粉红嘴</a></li>
 <li><a href="/cbnews/20210222/1491457.md">广东男遭围殴 友救人不成反辗毙 死者被拖行数十米</a></li>
+<li><a href="/cbnews/20210221/1491342.md">可飞行百年 B-52为何对敌手造成强大心理压力</a></li>
+<li><a href="/yule/20210222/1491474.md">Baby被曝与邓姓男星在三亚度假 网友猜测是他</a></li>
+<li><a href="/topimagenews/20210221/1491169.md">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210221/1491320.md">川普正在规划“复仇之旅”，支持“美国优先”候选人对阵共和党建制派【阿波罗网编译】</a></li>
 <li><a href="/health/20210221/1491298.md">长寿也能从睡觉看出？健康的男人，通常睡觉不会出现这4个现象</a></li>
 <li><a href="/headline/20210221/1491296.md">强力的回春荷尔蒙！增加“DHEA”的方法</a></li>
-<li><a href="/yule/20210222/1491474.md">Baby被曝与邓姓男星在三亚度假 网友猜测是他</a></li>
+<li><a href="/topimagenews/20210221/1491306.md">川普王者归来将首次公开露面 拜登G7遭法德嫌弃 也难救中美关系</a></li>
 <li><a href="/cnnews/20210221/1491181.md">美国超级寒潮的原因，找到了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210222/1491561.md" target="_blank">消息人士：川普新媒体计划已获投资者支持</a></li>
 <li><a href="/comments/20210222/1491559.md" target="_blank">陶杰：精神原子弹 中国不止一颗</a></li>
 <li><a href="/comments/20210222/1491552.md" target="_blank">【独家重磅】江泽民曾庆红集团与美国深层政府勾结 习近平成为川普之后第二个政变目标 海内外两篇长文公布政变反习路线图 习近平向习家军核心团队下达密令 准备多套紧急应变方案 习江生死对决正在加速上演</a></li>
 <li><a href="/comments/20210222/1491550.md" target="_blank">强权下中国富豪俱乐部突解散 刘锐绍：中共自掘坟墓</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210222/1491458.md" target="_blank">【快手小炒】用Costco球芽甘蓝、迷你甜椒和自制腊肠做营养减肥餐</a></li>
 <li><a href="/comments/20210222/1491455.md" target="_blank">美司法部长候任人：将起诉国会大厦袭击者</a></li>
 <li><a href="/comments/20210222/1491452.md" target="_blank">2021贺岁大片首映 ：《百里挑一》</a></li>
-<li><a href="/comments/20210222/1491451.md" target="_blank">红及一时“小马云”解约被抛弃 关注热度持续延烧</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 
 </ul>
 </div>
