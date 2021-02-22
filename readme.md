@@ -7,24 +7,24 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210221/1491361.md">习近平吼住团派：这个数字不准说！华春莹拍案而起：中国人为何不能用推特？</a></li>
 <li><a href="/bannedvideo/20210221/1491281.md">2月20日上午11时左右，广西柳州等多个城区，众多市民听到两声巨响并感受到冲击和强烈震动感，当地网络炸锅。有网友猜测是地震了；有网友说朱家坟这边有军工厂，不足为怪。当局称在调查中。</a></li>
-<li><a href="/bannedvideo/20210221/1491249.md">华春莹又闯祸史诗级突袭？新一轮吹捧习近平风开刮，李鸿忠再考第一！茅台院士来了！老北京茶馆/第458集/2021/02/20）</a></li>
 <li><a href="/cbnews/20210221/1491367.md">发表中印冲突，阵亡官兵言论，大陆又有一网民遭刑拘</a></li>
 <li><a href="/cbnews/20210221/1491316.md">中共突高调纪念华国锋诞辰 毛新宇公开露面</a></li>
 <li><a href="/yule/20210222/1491474.md">Baby被曝与邓姓男星在三亚度假 网友猜测是他</a></li>
 <li><a href="/comments/20210221/1491265.md">李燕铭：习近平高调纪念华国锋 一箭三雕 中南海酝酿重磅政治风暴（上）习挺华贬邓 太子党版图重洗牌 中南海最具权势两大家族对决 太子党分裂与内斗公开化</a></li>
 <li><a href="/comments/20210221/1491257.md">邓小平陈云叶剑英胡耀邦联手围攻逼退华国锋内幕 华国锋下台前拒绝出席中共中央新年茶话会 中共十一届六中全会上两个“从未有过” 邓小平六四屠城前夕一句话定性华国锋 中南海不可告人的秘密_324</a></li>
-<li><a href="/cbnews/20210222/1491457.md">广东男遭围殴 友救人不成反辗毙 死者被拖行数十米</a></li>
 <li><a href="/headline/20210222/1491429.md">中共中央拟东北三省“全面生育”民间怒了</a></li>
-<li><a href="/cbnews/20210221/1491360.md">网友：中共撒币平息中印冲突 树英雄堵小粉红嘴</a></li>
 <li><a href="/comments/20210221/1491322.md">川普王者之气爆棚，数十名参加中期选举竞选人，向川普做自我介绍并请求支持。川总选人只看一个标准。川普向共和党建制派公开宣战。下周有重要演讲。最高法院案子新进展。</a></li>
-<li><a href="/cbnews/20210221/1491342.md">可飞行百年 B-52为何对敌手造成强大心理压力</a></li>
-<li><a href="/health/20210221/1491298.md">长寿也能从睡觉看出？健康的男人，通常睡觉不会出现这4个现象</a></li>
-<li><a href="/topimagenews/20210221/1491320.md">川普正在规划“复仇之旅”，支持“美国优先”候选人对阵共和党建制派【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210221/1491360.md">网友：中共撒币平息中印冲突 树英雄堵小粉红嘴</a></li>
+<li><a href="/cbnews/20210222/1491457.md">广东男遭围殴 友救人不成反辗毙 死者被拖行数十米</a></li>
 <li><a href="/bannedvideo/20210222/1491526.md">看来习近平和赵乐际是彻底“掰了”，为什么呢？赵乐际到底是江派的人还是习近平的人？作为最年轻的常委，赵对习是否有威胁？请看李军访谈第17集 2021年2月21日</a></li>
-<li><a href="/headline/20210221/1491296.md">强力的回春荷尔蒙！增加“DHEA”的方法</a></li>
+<li><a href="/cbnews/20210221/1491342.md">可飞行百年 B-52为何对敌手造成强大心理压力</a></li>
 <li><a href="/topimagenews/20210222/1491522.md">纳瓦罗曝大量惊人内幕:彭斯幕后有500亿身价反川大金主？脸书封锁帮大忙!澳媒趁机抢用户</a></li>
-<li><a href="/bannedvideo/20210222/1491456.md">【编译】纳瓦罗曝大量彭斯惊人内幕,还有幕后500亿身价的反川普大亨金主;食品和包装传播新冠?美国FDA打脸中共;脸书封锁帮大忙!澳洲媒体趁机抢用户;报复?纽约检察官调查川普公司 CA</a></li>
+<li><a href="/health/20210221/1491298.md">长寿也能从睡觉看出？健康的男人，通常睡觉不会出现这4个现象</a></li>
 <li><a href="/yule/20210222/1491497.md">福原爱疑感情生变？带孩子回日本定居后暴瘦，与老公已很久不互动</a></li>
+<li><a href="/topimagenews/20210221/1491320.md">川普正在规划“复仇之旅”，支持“美国优先”候选人对阵共和党建制派【阿波罗网编译】</a></li>
+<li><a href="/comments/20210222/1491510.md">川普与金正恩会晤鲜为人知内幕曝光 韩国特使听到川普决定后几乎从椅子上摔下来 越南河内会晤后 川普曾提议让金正恩搭空军一号回国 惊呆了在场的美方官员</a></li>
+<li><a href="/bannedvideo/20210222/1491456.md">【编译】纳瓦罗曝大量彭斯惊人内幕,还有幕后500亿身价的反川普大亨金主;食品和包装传播新冠?美国FDA打脸中共;脸书封锁帮大忙!澳洲媒体趁机抢用户;报复?纽约检察官调查川普公司 CA</a></li>
+<li><a href="/headline/20210221/1491296.md">强力的回春荷尔蒙！增加“DHEA”的方法</a></li>
 <li><a href="/topimagenews/20210221/1491306.md">川普王者归来将首次公开露面 拜登G7遭法德嫌弃 也难救中美关系</a></li>
 <li><a href="/comments/20210221/1491323.md">李燕铭：习近平出马拿下中国新年后正部级首虎 贵州省前政协主席王富玉被查 王富玉落马五重背景揭秘 与习阵营国级高官栗战书赵克志陈敏尔先后共事的王富玉落马大有玄机 习近平再向中共官场释放政治站队信号：顺我者昌逆我者亡</a></li>
 <li><a href="/comments/20210221/1491375.md">曾高喊“厉害了 我的中国“！美籍网红决定离开中国：不想再出卖灵魂</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210222/1491658.md" target="_blank">英国超市发现伪冒澳洲红酒  专家：多半来自中国</a></li>
+<li><a href="/comments/20210222/1491650.md" target="_blank">无惧镇压 缅甸百姓发起最大规模罢工！军政府硬怼国际社会 威胁动用致命武器</a></li>
 <li><a href="/comments/20210222/1491637.md" target="_blank">中共高规格会议 王岐山亮相 官媒罕见提示：习近平首创新词有深意</a></li>
 <li><a href="/comments/20210222/1491636.md" target="_blank">不惧枪弹！缅甸示威民众号召大罢工 对抗军方政变</a></li>
 <li><a href="/comments/20210222/1491630.md" target="_blank">李燕铭：习近平整肃江泽民“东山再起”之地 拿下牛年正部级首虎 江派众元老年关难过 同期南下海南的三名省部级官员先后落马 其中一人曾是海南“造市高手”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210222/1491552.md" target="_blank">【独家重磅】江泽民曾庆红集团与美国深层政府勾结 习近平成为川普之后第二个政变目标 海内外两篇长文公布政变反习路线图 习近平向习家军核心团队下达密令 准备多套紧急应变方案 习江生死对决正在加速上演</a></li>
 <li><a href="/comments/20210222/1491550.md" target="_blank">强权下中国富豪俱乐部突解散 刘锐绍：中共自掘坟墓</a></li>
 <li><a href="/comments/20210222/1491535.md" target="_blank">【时局看点】与习近平之女有关的冤案震动海内外</a></li>
-<li><a href="/comments/20210222/1491530.md" target="_blank">李燕铭：中共文旅部副部长李金早被批捕 与两名副国级高官隐秘关系曝光 王沪宁文宣系统连出大事</a></li>
-<li><a href="/comments/20210222/1491529.md" target="_blank">🔥🔥“胜选”方四面楚歌 拜登的冬天来了❗川爷归来❓</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200908/1392488.md" target="_blank">川普与美国的终局之战 攸关世界的未来</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
