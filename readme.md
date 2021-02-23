@@ -6,25 +6,25 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210223/1492075.md">疑避讳习近平 官方标语“陋习”改“陋刃”</a></li>
-<li><a href="/cnnews/20210222/1491918.md">河南出现大蛇坟头晒太阳…被当神拜</a></li>
 <li><a href="/lifebaike/20210223/1492093.md">如此闺蜜，大陆伴娘婚礼上告白新郎全场楞住</a></li>
 <li><a href="/cbnews/20210223/1492155.md">文昭：习近平反常动作暗示接班启动？最高法院判交税表，逼川普加速一件大事</a></li>
 <li><a href="/lifebaike/20210223/1492266.md">2021年3月起在银行有以下存款的储户将被永久冻结取不出来</a></li>
 <li><a href="/topimagenews/20210223/1492059.md">大陆国产疫苗不安全 官方内部预警流出</a></li>
-<li><a href="/cbnews/20210223/1492017.md">婚外情惹杀机 湖南1家4口被杀 2孩幸存</a></li>
 <li><a href="/comments/20210223/1492033.md">李燕铭：孙政才二十大前发飙 大力清洗薄熙来张德江孙政才马仔 四大事件连环发生 重庆两高官落马 王岐山得力女干将清洗薄王孙遗毒 习近平备战两会 中国新年后五天十官员落马</a></li>
+<li><a href="/cbnews/20210223/1492017.md">婚外情惹杀机 湖南1家4口被杀 2孩幸存</a></li>
 <li><a href="/topimagenews/20210223/1492174.md">中国医生向博明曝真相：这次疫情将会象1918年大流感一样...</a></li>
-<li><a href="/lifebaike/20210223/1492283.md">失踪女孩被逼接客，一天被四个男士人长达5小时侵犯 没有人性 这样的社会…</a></li>
 <li><a href="/yule/20210223/1492183.md">福原爱摘除婚戒爆与江宏杰离婚 亲自发文揭真相</a></li>
+<li><a href="/lifebaike/20210223/1492283.md">失踪女孩被逼接客，一天被四个男士人长达5小时侵犯 没有人性 这样的社会…</a></li>
 <li><a href="/cnnews/20210223/1492078.md">美最高法院驳回2020年总统大选诉讼指控</a></li>
 <li><a href="/worldnews/20210222/1491936.md">越来越多中国富人购买瑞士居留证</a></li>
 <li><a href="/cnnews/20210223/1492096.md">有图有真相 陈平教授在美国的大房子被扒出来了</a></li>
 <li><a href="/comments/20210223/1492278.md">盛雪：中共为什么对黑人那么好？</a></li>
 <li><a href="/cbnews/20210223/1492087.md">王毅跟拜登要三个条件 余茂春：贼喊捉贼</a></li>
 <li><a href="/topimagenews/20210223/1492091.md">通胀抬头利率攀升 特斯拉崩近9% 大型科技股、芯片股惨遭抛售潮</a></li>
-<li><a href="/cbnews/20210223/1492007.md">曾3度偏航 长沙23岁正妹坐搬家货车 离奇跳窗身亡</a></li>
 <li><a href="/lifebaike/20210223/1492284.md">2021高考“大变化”，英语分数不计入总成绩？还有一个“坏消息”</a></li>
+<li><a href="/cbnews/20210223/1492007.md">曾3度偏航 长沙23岁正妹坐搬家货车 离奇跳窗身亡</a></li>
 <li><a href="/comments/20210223/1492257.md">习近平江泽民恶斗 美媒：江家惧败北悄将资产撤离香港</a></li>
+<li><a href="/cbnews/20210223/1492401.md">距新华门650米 北京四合院突发爆炸 抬出两名伤者</a></li>
 <li><a href="/cnnews/20210223/1492342.md">他是川普榜样？追求连任失败 四年后强势回归重主白宫</a></li>
 <li><a href="/bannedvideo/20210223/1492016.md">【独家】中纪委插手国务院 习李裂痕明显</a></li>
 <li><a href="/bannedvideo/20210223/1492074.md">习近平重评华国锋，借尸还魂要倒邓小平？中印边境与台海隐现杠杆效应；中共对拜登“通牒式”密集喊话，羞辱背后隐藏一个战略？</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210223/1492545.md" target="_blank">前中共军官揭共军伤亡数字造假 中印冲突不可能结束</a></li>
+<li><a href="/comments/20210223/1492544.md" target="_blank">专家：为推1.9万亿刺激计划 拜登政府掩盖疫情好消息</a></li>
 <li><a href="/comments/20210223/1492514.md" target="_blank">【林忌评论】中国人为何不能用Facebook？华春莹问了好问题</a></li>
 <li><a href="/comments/20210223/1492505.md" target="_blank">【DQ 时代】政府修例 主张变相公投、反对中央者可 DQ 5 年内不得参选</a></li>
 <li><a href="/comments/20210223/1492504.md" target="_blank">【DQ 时代】曾国卫：梁晃维袁嘉蔚郑达鸿岑敖晖曾被 DQ 将失区议员资格</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210223/1492427.md" target="_blank">缅甸百万人上街反政变 爆发迄今最大规模抗议行动</a></li>
 <li><a href="/comments/20210223/1492414.md" target="_blank">请政权不要侮辱“无大台”</a></li>
 <li><a href="/comments/20210223/1492390.md" target="_blank">广西女教师救学生越级报警丢饭碗 靠卖螺狮粉为生</a></li>
-<li><a href="/comments/20210223/1492389.md" target="_blank">黎智英李柱铭等9人被审 佩洛西警告：将追责中共</a></li>
-<li><a href="/comments/20210223/1492388.md" target="_blank">脸书妥协！数日后将恢复澳洲新闻页面</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
