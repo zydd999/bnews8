@@ -6,9 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210223/1492266.md">2021年3月起在银行有以下存款的储户将被永久冻结取不出来</a></li>
-<li><a href="/topimagenews/20210223/1492059.md">大陆国产疫苗不安全 官方内部预警流出</a></li>
-<li><a href="/topimagenews/20210223/1492174.md">中国医生向博明曝真相：这次疫情将会象1918年大流感一样...</a></li>
-<li><a href="/yule/20210223/1492183.md">福原爱摘除婚戒爆与江宏杰离婚 亲自发文揭真相</a></li>
 <li><a href="/lifebaike/20210223/1492283.md">失踪女孩被逼接客，一天被四个男士人长达5小时侵犯 没有人性 这样的社会…</a></li>
 <li><a href="/cbnews/20210223/1492401.md">距新华门650米 北京四合院突发爆炸 抬出两名伤者</a></li>
 <li><a href="/cbnews/20210223/1492416.md">习近平喊“输不起”分析：有人给习挖四个大坑</a></li>
@@ -27,7 +24,10 @@
 <li><a href="/cnnews/20210223/1492456.md">混乱、失控…整理师发现的中国家庭</a></li>
 <li><a href="/lifebaike/20210223/1492383.md">夫妻能过一辈子的窍门，说白了就一个字</a></li>
 <li><a href="/comments/20210223/1492497.md">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/topimagenews/20210224/1492627.md">耗资53亿美元 拜登新空军一号曝光 11岁儿遭冻死 母告德电索赔1亿美元</a></li>
 <li><a href="/comments/20210223/1492293.md">到底在骂谁！新华社称祁发宝神似兵马俑 网友担心：会被查封吧？</a></li>
+<li><a href="/lifebaike/20210223/1492366.md">心理学：擅长“独处”的人，他们都不是一般人，要好好把握</a></li>
+<li><a href="/topimagenews/20210223/1492195.md">拜登和内阁已显不详征兆 反共抗脸书 他碾压反对党 英国名校为钱亲共卖掉一大批</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210224/1492814.md" target="_blank">川普现强大民意  周末将有强势发言   中共流氓外交 嘲笑美式人权破产   嘉宾：袁弓夷  林晓旭 主持：高洁【希望之声TV】(2021/02/23)</a></li>
 <li><a href="/cbnews/20210224/1492774.md" target="_blank">美众议院保守派揭拜登纾困案藏了什么</a></li>
 <li><a href="/comments/20210224/1492747.md" target="_blank">脸书服软 同意恢复澳大利亚新闻页面；川普回应高院税表传票判决 ；民主党施压取消三大保守媒体；救新疆！日本12知名企业封杀中企；美股道琼开盘跌300点！5大科技芯片股惨遭抛售潮【希望之声TV】</a></li>
 <li><a href="/cbnews/20210224/1492730.md" target="_blank">质疑有罪？中共出台新法例 中国人将动辄得咎</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210223/1492398.md" target="_blank">派出所警察威胁：今天的事情不要告诉任何人 说出去会对我不利</a></li>
 <li><a href="/cbnews/20210223/1492372.md" target="_blank">奇葩男爬10米电杆做仰卧起坐 上万户停电2小时</a></li>
 <li><a href="/cbnews/20210223/1492356.md" target="_blank">习近平会见探月工程人员 千亿航天股罕见大跌</a></li>
-<li><a href="/comments/20210223/1492353.md" target="_blank">安贫乐富美利坚 内战后善待败军 vs 造反有理中共国 大跃进暴尸李鸿章【南北战争第24集】（20201014）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210224/1492835.md" target="_blank">医生在看了30个小时的拜登视频后 做出了诊断【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210224/1492754.md" target="_blank">华日:江泽民怕了 川普1招中共巨额出口时装链断裂 冠军黄晓敏7天绝处逢生</a></li>
 <li><a href="/topimagenews/20210224/1492703.md" target="_blank">川普卸任后首场演说周末登场 或提及再战2024美国总统</a></li>
 <li><a href="/topimagenews/20210224/1492627.md" target="_blank">耗资53亿美元 拜登新空军一号曝光 11岁儿遭冻死 母告德电索赔1亿美元</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210221/1491320.md" target="_blank">川普正在规划“复仇之旅”，支持“美国优先”候选人对阵共和党建制派【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210221/1491306.md" target="_blank">川普王者归来将首次公开露面 拜登G7遭法德嫌弃 也难救中美关系</a></li>
 <li><a href="/topimagenews/20210221/1491276.md" target="_blank">川普之前的几十年 从老布什直到奥巴马 都辜负了美国人民 【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210221/1491169.md" target="_blank">鲍威尔律师：永远不要把我的安静当成不作为【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210224/1492825.md" target="_blank">李燕铭：江泽民曾庆红政变进行时 中南海近距离突发爆炸 习近平遭遇死亡恐吓：革除陋习 以“刃”换“习”</a></li>
+<li><a href="/comments/20210224/1492823.md" target="_blank">川普版速度与激情  美国赛车动作主题</a></li>
+<li><a href="/comments/20210224/1492814.md" target="_blank">川普现强大民意  周末将有强势发言   中共流氓外交 嘲笑美式人权破产   嘉宾：袁弓夷  林晓旭 主持：高洁【希望之声TV】(2021/02/23)</a></li>
 <li><a href="/comments/20210224/1492800.md" target="_blank">民调：60% 民众反对英政府推出“疫苗护照”</a></li>
 <li><a href="/comments/20210224/1492799.md" target="_blank">在美国隐瞒身份销毁证据能有什么后果？</a></li>
 <li><a href="/comments/20210224/1492780.md" target="_blank">李燕铭：牛年第二虎现形 吴官正张高丽旧部张新起落马 曾主政江派政变基地</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210224/1492698.md" target="_blank">权力拜物教主谢几何：权力拜物教主正名宣言</a></li>
 <li><a href="/comments/20210224/1492689.md" target="_blank">世卫替中共洗地未果 武汉病毒所越漂越黑</a></li>
 <li><a href="/comments/20210224/1492688.md" target="_blank">中共中央一号文件担心粮食安全问题</a></li>
-<li><a href="/comments/20210224/1492686.md" target="_blank">彭博：中国巨量净结汇资金去向成谜</a></li>
-<li><a href="/comments/20210224/1492685.md" target="_blank">中共在德代理威胁旅德港人 德人权领袖吁政府正视</a></li>
-<li><a href="/comments/20210224/1492684.md" target="_blank">曾节明：中共的灭亡，很可能是“计生”谢幕式的渐进过程</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210216/1488182.md" target="_blank">曾节明: 中共国是效率超过西方资本主义的新极权</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20210216/1488182.md" target="_blank">曾节明: 中共国是效率超过西方资本主义的新极权</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 
 </ul>
 </div>
