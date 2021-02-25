@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210225/1493338.md">中印冲突 扑向解放军团长印军华人脸孔被认出 竟来自反共藏独部队</a></li>
 <li><a href="/cbnews/20210225/1493361.md">习近平个人信息叫价6000 内鬼被秘密处理</a></li>
 <li><a href="/health/20210225/1493532.md">注意：—滴也别喝！世界权威研究已证实：没有任何健康好处～</a></li>
 <li><a href="/baitai/20210225/1493636.md">习近平启动中国30多年来最重大政改</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/lifebaike/20210225/1493731.md">别再用传统的马桶了，现在流行用这种马桶，能坐能蹲</a></li>
 <li><a href="/cnnews/20210225/1493602.md">不得不服！铁杆反川大将断言 放风：彭斯私下称赞川普 拜登核武大权，众院民主党促放弃</a></li>
 <li><a href="/comments/20210225/1493873.md">彭斯再次盛赞川普，川普为何沉默应对？爱国女将格林毫不示弱，与民主党展开走廊战。特斯拉感应器撞鬼？老虎伍兹命大，靠的两个关键因素。</a></li>
-<li><a href="/cnnews/20210225/1493799.md">河南郑州出现“雷打雪”罕见天象 民间：不详之兆</a></li>
 <li><a href="/cnnews/20210225/1493803.md">好消息! 美丽的劳夫将竞选伊州国会议员，对阵永不川普的金辛格【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210225/1493799.md">河南郑州出现“雷打雪”罕见天象 民间：不详之兆</a></li>
 <li><a href="/lifebaike/20210225/1493601.md">各银行发出账户清理通知，账户有钱也会注销，这是怎么回事？</a></li>
 <li><a href="/yule/20210225/1493478.md">真冻龄！74岁环球小姐近照曝光，绝美颜值惊艳众网友</a></li>
+<li><a href="/baitai/20210225/1493657.md">赵紫阳在胡耀邦的遗体前到底说了什么？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210226/1494065.md" target="_blank">习近平扶贫讲话 盯稿3秒读出“撒胡椒面”</a></li>
 <li><a href="/cbnews/20210226/1494057.md" target="_blank">只管赚钱不顾他人死活 网友：自作孽不可活</a></li>
 <li><a href="/cbnews/20210226/1494046.md" target="_blank">科顿等议员提法案 拟制裁中共统战部</a></li>
 <li><a href="/comments/20210226/1493999.md" target="_blank">UFO飞越美客机 飞行员对话曝光；澳加联手牵制科技巨头；特斯拉感应器超常 无人区现行人；俄州五个县投票逃离左翼；俄科学家：全球变冷而非变暖；麦卡锡：左派打压保守媒体与中共诡异相似【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210225/1493446.md" target="_blank">强大民意前共和党高层转向？ 彭培奥余茂春再开火 ：病毒来自实验室疏漏？  嘉宾：秦鹏，杨承志  主持：高洁【希望之声TV】(2021/02/24)</a></li>
 <li><a href="/cbnews/20210225/1493428.md" target="_blank">文昭：中国惊现一五千年未有的奇观！江家人被查，避祸离开香港；中南海附近爆炸蹊跷多</a></li>
 <li><a href="/comments/20210225/1493401.md" target="_blank">突发！美联储支付系统完全瘫痪；病毒博士抨击福西：终点不是永久防疫；北达科他州立法：禁止面罩授权；议员提案：禁止给中共合作的大学提供资金；前助手指控库默对女职员存在普遍性骚扰【希望之声TV】</a></li>
-<li><a href="/cbnews/20210225/1493361.md" target="_blank">习近平个人信息叫价6000 内鬼被秘密处理</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210226/1494062.md" target="_blank">格雷厄姆：在川普领导下 共和党会赢回两院</a></li>
 <li><a href="/comments/20210226/1494055.md" target="_blank">《转法轮》中提及的若干史前文明案例（3）：海底建筑</a></li>
 <li><a href="/comments/20210226/1494049.md" target="_blank">【中印边境冲突】潘石屹儿子曾惊爆中方一个营被活埋 遭网友举报</a></li>
 <li><a href="/comments/20210226/1494048.md" target="_blank">西藏导游与外媒联系遭虐死狱中 无国界记者组织：中共应负起全责</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210226/1493991.md" target="_blank">美议员吁彻查国家卫生院资助武汉病毒所一事</a></li>
 <li><a href="/comments/20210226/1493990.md" target="_blank">中大 DQ 学生会“朔夜” 停代收会费 暂停其校内委员会职务 要求独立注册自行承担法律责任</a></li>
 <li><a href="/comments/20210226/1493989.md" target="_blank">中文大学 挨得过枪炮 却死喺无耻嘅高层手上</a></li>
-<li><a href="/comments/20210226/1493983.md" target="_blank">美媒：川普扩大了共和党选民根基</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
