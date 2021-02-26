@@ -7,25 +7,25 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/health/20210225/1493532.md">注意：—滴也别喝！世界权威研究已证实：没有任何健康好处～</a></li>
 <li><a href="/baitai/20210225/1493636.md">习近平启动中国30多年来最重大政改</a></li>
-<li><a href="/cbnews/20210225/1493428.md">文昭：中国惊现一五千年未有的奇观！江家人被查，避祸离开香港；中南海附近爆炸蹊跷多</a></li>
 <li><a href="/cbnews/20210225/1493829.md">23岁女孩遭上司强暴致死，揭地产圈恶劣潜规则</a></li>
 <li><a href="/cbnews/20210225/1493828.md">习近平眼皮底下的“茅台会” 背后势力惊人</a></li>
 <li><a href="/cbnews/20210225/1493690.md">贾庆林家族腐败内幕再被摆上台面</a></li>
 <li><a href="/lifebaike/20210225/1493730.md">越来越多的家庭都不装窗帘了，直接贴上它，效果特别好</a></li>
 <li><a href="/cbnews/20210225/1493796.md">习近平脱贫大会称“取得全面胜利” 网友质疑</a></li>
 <li><a href="/cnnews/20210225/1493755.md">"代我向你的主子问候" 马斯克对《华邮》记者说【阿波罗网编译】</a></li>
-<li><a href="/yule/20210225/1493834.md">看到吴绮莉18岁旧照 难怪能迷倒成龙</a></li>
 <li><a href="/cnnews/20210226/1494001.md">习近平要抓四人帮？信号? 中国癌症夺冠 富人移民瑞士 李敖儿子开干中共党媒</a></li>
+<li><a href="/yule/20210225/1493834.md">看到吴绮莉18岁旧照 难怪能迷倒成龙</a></li>
+<li><a href="/cbnews/20210226/1494065.md">习近平扶贫讲话 盯稿3秒读出“撒胡椒面”</a></li>
 <li><a href="/lifebaike/20210225/1493572.md">5年之后，为什么马云不再资助范小勤了？聪明人一眼看穿本质</a></li>
 <li><a href="/worldnews/usa/20210225/1493470.md">川普总统返回白宫不是很遥远的事，目前美国很多“不正常”的事儿是怎么回事</a></li>
 <li><a href="/lifebaike/20210225/1493731.md">别再用传统的马桶了，现在流行用这种马桶，能坐能蹲</a></li>
-<li><a href="/cnnews/20210225/1493799.md">河南郑州出现“雷打雪”罕见天象 民间：不详之兆</a></li>
 <li><a href="/cnnews/20210225/1493602.md">不得不服！铁杆反川大将断言 放风：彭斯私下称赞川普 拜登核武大权，众院民主党促放弃</a></li>
+<li><a href="/cnnews/20210225/1493799.md">河南郑州出现“雷打雪”罕见天象 民间：不详之兆</a></li>
 <li><a href="/comments/20210225/1493873.md">彭斯再次盛赞川普，川普为何沉默应对？爱国女将格林毫不示弱，与民主党展开走廊战。特斯拉感应器撞鬼？老虎伍兹命大，靠的两个关键因素。</a></li>
 <li><a href="/cnnews/20210225/1493803.md">好消息! 美丽的劳夫将竞选伊州国会议员，对阵永不川普的金辛格【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210226/1494065.md">习近平扶贫讲话 盯稿3秒读出“撒胡椒面”</a></li>
 <li><a href="/lifebaike/20210225/1493601.md">各银行发出账户清理通知，账户有钱也会注销，这是怎么回事？</a></li>
 <li><a href="/cbnews/20210225/1493858.md">习近平要搞“正确党史观” 外媒呛困难大 学者：忧穿帮</a></li>
+<li><a href="/cnnews/20210226/1494019.md">捡到宝！美民众花千元在市场买到明朝瓷碗 经鉴价竟高达50万美元</a></li>
 <li><a href="/yule/20210225/1493478.md">真冻龄！74岁环球小姐近照曝光，绝美颜值惊艳众网友</a></li>
 <li><a href="/baitai/20210225/1493657.md">赵紫阳在胡耀邦的遗体前到底说了什么？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210226/1494136.md" target="_blank">HHS听证会引发的思考   嘉宾：Jeff Wang   谢田  陈彦玲 主持：高洁【希望之声TV】(2021/02/25)</a></li>
 <li><a href="/comments/20210226/1494104.md" target="_blank">美加在前 欧洲荷兰也宣布：中共是纳粹；库默在丑闻中招聘信息管理人员；117机构联合会议追责中共活摘器官；科顿等议员提案 拟制裁中共统战部；AT&#038;T被曝光 游说美政府解除对中电信制裁【希望之声TV】</a></li>
 <li><a href="/cbnews/20210226/1494077.md" target="_blank">废十年美签 5名资深共和党参议员提签证安全法</a></li>
 <li><a href="/cbnews/20210226/1494065.md" target="_blank">习近平扶贫讲话 盯稿3秒读出“撒胡椒面”</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/comments/20210225/1493563.md" target="_blank">拜登核武权被夺？；四证人揭底国会山骚乱真相！事先早已策划好；美国人和美国公司被中共审查 美两党参议员拟提案反制【希望之声TV】</a></li>
 <li><a href="/cbnews/20210225/1493523.md" target="_blank">天亮时分：红色警报：一号法案终结公平选举；剥夺言论自由的路径；法国、加拿大先后叫板美国（政论天下第362集 20210224）</a></li>
 <li><a href="/comments/20210225/1493479.md" target="_blank">签署行政令，拜登政府欲打造“去中”供应链？蓬佩奥余茂春联手发文直指武汉病毒所</a></li>
-<li><a href="/comments/20210225/1493446.md" target="_blank">强大民意前共和党高层转向？ 彭培奥余茂春再开火 ：病毒来自实验室疏漏？  嘉宾：秦鹏，杨承志  主持：高洁【希望之声TV】(2021/02/24)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210226/1494154.md" target="_blank">中共偷偷在南海打造“海上前哨” 兴建“全面的军事基地”</a></li>
 <li><a href="/topimagenews/20210226/1494070.md" target="_blank">毫无预兆 美联储系统瘫痪 UFO飞越美客机被证实 美资助武毒所 28位共和党议员呼彻查</a></li>
 <li><a href="/topimagenews/20210226/1494015.md" target="_blank">拜登军力部署“我们一起”啥意思？民主党新选举法过了 就一党独裁？</a></li>
 <li><a href="/topimagenews/20210225/1493879.md" target="_blank">川普归来 定下参加共和党会议日程【阿波罗网编译】</a></li>
@@ -91,13 +92,15 @@
 <li><a href="/topimagenews/20210223/1492194.md" target="_blank">摧毁18个目标炸死57人！以色列F-35再炸伊朗基地</a></li>
 <li><a href="/topimagenews/20210223/1492059.md" target="_blank">大陆国产疫苗不安全 官方内部预警流出</a></li>
 <li><a href="/topimagenews/20210223/1492174.md" target="_blank">中国医生向博明曝真相：这次疫情将会象1918年大流感一样&#8230;</a></li>
-<li><a href="/topimagenews/20210223/1492091.md" target="_blank">通胀抬头利率攀升 特斯拉崩近9% 大型科技股、芯片股惨遭抛售潮</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210226/1494148.md" target="_blank">共和党一致反对拜登纾困法案：列宁左派愿望清单</a></li>
+<li><a href="/comments/20210226/1494147.md" target="_blank">美媒：CPAC麦康奈尔未获邀 各州领袖关注川普</a></li>
+<li><a href="/comments/20210226/1494136.md" target="_blank">HHS听证会引发的思考   嘉宾：Jeff Wang   谢田  陈彦玲 主持：高洁【希望之声TV】(2021/02/25)</a></li>
 <li><a href="/comments/20210226/1494122.md" target="_blank">健康状况得到明显改善，人也变年轻了，他做了什么？</a></li>
 <li><a href="/comments/20210226/1494121.md" target="_blank">气象专家答疑 看看你知不知道降雨概率是啥意思？</a></li>
 <li><a href="/comments/20210226/1494120.md" target="_blank">小姐妹同死共生，转生双胞胎与前世父母再续亲缘</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210226/1494035.md" target="_blank">传苏宁易购或被国资收购</a></li>
 <li><a href="/comments/20210226/1494034.md" target="_blank">补充蛋白质多蔬果品种 助学生开学增强免疫力</a></li>
 <li><a href="/comments/20210226/1494033.md" target="_blank">当心水瓶成为致病陷阱！“生物膜”会暗藏病菌</a></li>
-<li><a href="/comments/20210226/1494032.md" target="_blank">脂肪肝变肝癌只要3步骤！节食反而让恶化更快？</a></li>
-<li><a href="/comments/20210226/1494028.md" target="_blank">去年 76 港人赴英寻政治庇护 12 人未满 18 岁 2 童无父母陪伴</a></li>
-<li><a href="/comments/20210226/1494027.md" target="_blank">中国变癌症最大国！去年死亡300万例 每天逾1万人确诊</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
