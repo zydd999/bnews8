@@ -8,26 +8,26 @@
 <li><a href="/comments/20210227/1494582.md">秦鹏：习近平一句话让富人不寒而栗</a></li>
 <li><a href="/cnnews/20210227/1494773.md">习近平一句号震惊中外 要共产?与红二代正恶斗 出事!导弹专家被撤职4可能</a></li>
 <li><a href="/yule/20210227/1494893.md">王刚60岁老来得子，本以为是喜事，孩子出生后却傻了眼</a></li>
-<li><a href="/funmedia/20210226/1494509.md">一家味精工厂，卡住了全世界芯片企业的喉咙</a></li>
-<li><a href="/cbnews/20210227/1494793.md">文昭：习近平一句「撒胡椒面」呛翻了谁？两件事泄露疫後中国人的钱包真相；马云扶贫被表彰是要「烹」的节奏</a></li>
 <li><a href="/cbnews/20210227/1495020.md">美军空袭伊朗后 以色列随后出事了</a></li>
+<li><a href="/cbnews/20210227/1494793.md">文昭：习近平一句「撒胡椒面」呛翻了谁？两件事泄露疫後中国人的钱包真相；马云扶贫被表彰是要「烹」的节奏</a></li>
 <li><a href="/funmedia/20210227/1494883.md">常“晒”这些东西的女人，暴露了“低贱”属性，希望你不占</a></li>
+<li><a href="/comments/20210227/1495087.md">🈲史上“第一奇书”预言：中共灭亡后 中国将由他登位掌权 开启太平昌盛的新朝代❗❗</a></li>
 <li><a href="/cbnews/20210227/1494963.md">习公主个人信息外泄案是高级黑</a></li>
 <li><a href="/topimagenews/20210227/1494827.md">中国窘迫海归硕士卖废品 党媒吹月入5万造假大翻车 原材价暴涨,广东制造业临巨压</a></li>
 <li><a href="/cnnews/20210226/1494565.md">任正非最新讲话 遭员工质疑老板“被忽悠瘸了”</a></li>
 <li><a href="/headline/20210227/1494781.md">拜登首次军事行动 蓬佩奥发声</a></li>
-<li><a href="/comments/20210227/1495087.md">🈲史上“第一奇书”预言：中共灭亡后 中国将由他登位掌权 开启太平昌盛的新朝代❗❗</a></li>
 <li><a href="/comments/20210227/1494723.md">父亲死在监狱 95后红三代披露中共太子党官二代富二代惊人黑幕 欲外部击碎中共 中南海不可告人的秘密_329</a></li>
 <li><a href="/topimagenews/20210227/1494739.md">麦康奈尔吃闭门羹 反川软化? 川普保守派领袖地位无人撼动 格雷厄姆说喜欢拜登</a></li>
 <li><a href="/topimagenews/20210227/1494687.md">美债息急飙引发全球股灾！日股跌近4% 港股泻逾千点科网板块重创</a></li>
 <li><a href="/headline/20210227/1494876.md">“限你三天内回国自首”：00后因言获罪，父母被警察监视居住</a></li>
 <li><a href="/comments/20210227/1494864.md">台海2年内会爆发战事？中共对台动武的把握，弱点和代价是什么？台湾如何反制武统？</a></li>
 <li><a href="/funmedia/20210227/1494964.md">身上有这三个特征的人，往往面善心狠，遇见敬而远之</a></li>
+<li><a href="/cbnews/20210227/1495030.md">习近平想武攻台湾？美前防长：台海局势非常危险</a></li>
 <li><a href="/lifebaike/20210227/1494946.md">2021年社保：新规下，社保未缴满15年，可以用以下几种方法补缴</a></li>
 <li><a href="/cnnews/20210227/1494727.md">IS新娘失公民身份 英最高法院判不能回国上诉</a></li>
-<li><a href="/cbnews/20210227/1495030.md">习近平想武攻台湾？美前防长：台海局势非常危险</a></li>
 <li><a href="/comments/20210227/1494915.md">曾经十年沉默不语，开口只说一句话，即语惊四座❗️曾经不受同胞喜欢的美国大法官托马斯，听完他的故事，你就知道他为什么敢于在几个诉讼案中，为美国发声了。</a></li>
 <li><a href="/topimagenews/20210227/1495000.md">幕僚长：“川普正在规划下一届政府”【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210227/1494869.md">中国癌症发病率死亡率全球第一 污染是祸首</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210227/1495123.md" target="_blank">传拜登将推进川普打击中共技术威胁新规；中海油遭停牌；习近平宣称“全面脱贫” 引嘲讽；印度神童又说中？美股暴跌网民恐慌【希望 之声TV】</a></li>
+<li><a href="/comments/20210227/1495122.md" target="_blank">【CPAC精选｜中文字幕】参议员霍利：极左媒体 高科技公司要控制我们国家 但我们绝不退缩！</a></li>
 <li><a href="/comments/20210227/1495111.md" target="_blank">【中文字幕】幽默！辛辣！参议员克鲁兹在CPAC上演讲，多次恶搞民主党，笑翻全场。他说，川总哪也不去，我们哪也不去。</a></li>
 <li><a href="/cbnews/20210227/1495106.md" target="_blank">习近平新年五大动作谋二十大连任</a></li>
 <li><a href="/comments/20210227/1495087.md" target="_blank">🈲史上“第一奇书”预言：中共灭亡后 中国将由他登位掌权 开启太平昌盛的新朝代❗❗</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210227/1494864.md" target="_blank">台海2年内会爆发战事？中共对台动武的把握，弱点和代价是什么？台湾如何反制武统？</a></li>
 <li><a href="/cbnews/20210227/1494828.md" target="_blank">大陆拟延期劳工退休年龄 列入“十四五”规划</a></li>
 <li><a href="/comments/20210227/1494825.md" target="_blank">CPAC首日建制派遭抛弃   共和党浴火重生？  嘉宾：方伟  蓝述  David Zhang  主持：高洁【希望之声TV】(2021/02/26)</a></li>
-<li><a href="/cbnews/20210227/1494793.md" target="_blank">文昭：习近平一句「撒胡椒面」呛翻了谁？两件事泄露疫後中国人的钱包真相；马云扶贫被表彰是要「烹」的节奏</a></li>
-<li><a href="/comments/20210227/1494776.md" target="_blank">法官裁定210万选票交亚利桑那参议院；佛州长：不应走建制老路;保守联盟主席：CPAC或永久移师佛州；TikTok和美国用户和解；美将查美中157姊妹城关系；习近平讲话读出“撒胡椒面” 【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210227/1495125.md" target="_blank">几次暗算胡锦涛 江一直想将他推上总书记</a></li>
+<li><a href="/comments/20210227/1495124.md" target="_blank">习近平的危机在失去年轻一代人心</a></li>
+<li><a href="/comments/20210227/1495123.md" target="_blank">传拜登将推进川普打击中共技术威胁新规；中海油遭停牌；习近平宣称“全面脱贫” 引嘲讽；印度神童又说中？美股暴跌网民恐慌【希望 之声TV】</a></li>
+<li><a href="/comments/20210227/1495122.md" target="_blank">【CPAC精选｜中文字幕】参议员霍利：极左媒体 高科技公司要控制我们国家 但我们绝不退缩！</a></li>
+<li><a href="/comments/20210227/1495121.md" target="_blank">上月被指偷外卖袋 外卖员再被截查搜出“光时”卡片 警称“睇唔明”要求读出字句</a></li>
+<li><a href="/comments/20210227/1495120.md" target="_blank">Chickeeduck 沙田新城市店不获续约 周小龙冀转战街舖：无理由全港业主都奶共</a></li>
+<li><a href="/comments/20210227/1495119.md" target="_blank">延续川普政策？拜登政府将推进打击中共技术威胁规则</a></li>
 <li><a href="/comments/20210227/1495111.md" target="_blank">【中文字幕】幽默！辛辣！参议员克鲁兹在CPAC上演讲，多次恶搞民主党，笑翻全场。他说，川总哪也不去，我们哪也不去。</a></li>
 <li><a href="/comments/20210227/1495101.md" target="_blank">日喝2杯咖啡 可降35%肝癌发生率</a></li>
 <li><a href="/comments/20210227/1495100.md" target="_blank">吴孟达笑匠人生落幕 享寿70岁</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210227/1495015.md" target="_blank">《信守莫疑》</a></li>
 <li><a href="/comments/20210227/1495005.md" target="_blank">美军空袭亲伊朗民兵设施后 以色列货船爆炸引联想</a></li>
 <li><a href="/comments/20210227/1494986.md" target="_blank">中大指两学生不守出入管理讲粗口记过 包括学生会“朔夜”外务副会长罗子维</a></li>
-<li><a href="/comments/20210227/1494985.md" target="_blank">原定到舍堂派糖不甩 遇学生静坐抗议 港大校长张翔“甩底”</a></li>
-<li><a href="/comments/20210227/1494984.md" target="_blank">哀莫大于心死 — 中大与香港</a></li>
-<li><a href="/comments/20210227/1494976.md" target="_blank">检察官拿到川普报税文件！将面临“不可测定”局面 ？麦康奈尔突然改口：全力支持川普竞选2024总统！分裂加剧 俄勒冈5县欲脱离蓝州加入红州；联合国将异见者名单私下给中共【希望之声TV】</a></li>
-<li><a href="/comments/20210227/1494975.md" target="_blank">预告【2/27  同声翻译】2021保守派大会（第二天）【希望之声TV】(2021/02/27)</a></li>
-<li><a href="/comments/20210227/1494951.md" target="_blank">印中外长通话 或继续缩减边界军队规模</a></li>
-<li><a href="/comments/20210227/1494950.md" target="_blank">入狱服刑三十年的人因何打破人们的误解</a></li>
-<li><a href="/comments/20210227/1494945.md" target="_blank">卡瓦诺和巴雷特是约翰·罗伯茨的翻版吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 <li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210216/1488182.md" target="_blank">曾节明: 中共国是效率超过西方资本主义的新极权</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
