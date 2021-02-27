@@ -6,13 +6,11 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/bannedvideo/20210226/1494311.md">习近平公开恶心李克强！全国脱贫胜利表彰大会中堂认怂？一尊点赞打土豪分田地？</a></li>
-<li><a href="/cnnews/20210226/1494270.md">华国锋身世之谜 生前两个重大秘密被刻意掩盖</a></li>
 <li><a href="/finance/20210226/1494433.md">2021年中国楼市最大黑天鹅正式起飞…</a></li>
+<li><a href="/cnnews/20210226/1494270.md">华国锋身世之谜 生前两个重大秘密被刻意掩盖</a></li>
 <li><a href="/cbnews/20210226/1494426.md">疑暗讽习近平 “翠”字被微博封杀了</a></li>
 <li><a href="/cbnews/20210226/1494387.md">潘石屹之子谈论戍边官兵的言论被挖出</a></li>
-<li><a href="/yule/20210226/1494193.md">波多野结衣痛哭宣布全面停工！罹患全脸神经麻痹，嘴角歪斜闭不上眼</a></li>
 <li><a href="/lifebaike/20210226/1494436.md">惊掉下巴！上海的“天价”生活：最贵的23样东西</a></li>
-<li><a href="/yule/20210226/1494192.md">横店校花“泛滥成灾”，扎堆蹲在地上吃盒饭</a></li>
 <li><a href="/comments/20210226/1494340.md">实锤证据：美国军方不承认拜登团伙 美军袭击叙利亚境内亲伊朗武装组织 哈里斯竟然不知情   消息：弗林将军将进行有史以来最大规模的军事行动 川普发推照片：想我了吗？行动 我在做我在做 I do I do</a></li>
 <li><a href="/yule/20210226/1494456.md">日本15岁混血名模美艳惊人 被誉为“日本奥黛丽·赫本”</a></li>
 <li><a href="/comments/20210227/1494582.md">秦鹏：习近平一句话让富人不寒而栗</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/topimagenews/20210226/1494229.md">被踩了3800次！拜登发布会惨不忍睹 【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210226/1494394.md">七十年前神秘老道预言全应验 就差最后这一句了 太吓人!（启明笑谈20200720）</a></li>
 <li><a href="/headline/20210226/1494293.md">脱贫大会习总又出包 卡壳3秒冒出“撒胡椒面”</a></li>
-<li><a href="/health/20210226/1494362.md">真正“垃圾食品”已经被评出来了，方便面没有上榜，榜首很多人还是在吃</a></li>
 <li><a href="/cbnews/20210226/1494432.md">人民教师如此训话一段视频令人目瞪口呆</a></li>
-<li><a href="/bannedvideo/20210226/1494434.md">被称为是中国“最富裕村庄”的华西村，又被称为土豪村，网传总负债超389亿。今天也成为了负债累累的地方政府的缩影。2月25日，村民冒雨排队急取集资款，担心连本金都拿不到</a></li>
+<li><a href="/health/20210226/1494362.md">真正“垃圾食品”已经被评出来了，方便面没有上榜，榜首很多人还是在吃</a></li>
 <li><a href="/topimagenews/20210226/1494383.md">华盛顿沼泽大曝光！川普解密被情报界高层百般阻挠【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210226/1494434.md">被称为是中国“最富裕村庄”的华西村，又被称为土豪村，网传总负债超389亿。今天也成为了负债累累的地方政府的缩影。2月25日，村民冒雨排队急取集资款，担心连本金都拿不到</a></li>
+<li><a href="/funmedia/20210226/1494509.md">一家味精工厂，卡住了全世界芯片企业的喉咙</a></li>
+<li><a href="/cnnews/20210227/1494773.md">习近平一句号震惊中外 要共产?与红二代正恶斗 出事!导弹专家被撤职4可能</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210227/1494857.md" target="_blank">【独家】投书：习公主个人信息外泄案是高级黑</a></li>
+<li><a href="/comments/20210227/1494856.md" target="_blank">2021年出行，您也许需要一个新的旅行证件</a></li>
+<li><a href="/comments/20210227/1494852.md" target="_blank">别悲观 这个十九岁青年告诉我们希望就在这里</a></li>
 <li><a href="/comments/20210227/1494838.md" target="_blank">小川普CPAC接受采访：共和党人必须发声</a></li>
 <li><a href="/comments/20210227/1494825.md" target="_blank">CPAC首日建制派遭抛弃   共和党浴火重生？  嘉宾：方伟  蓝述  David Zhang  主持：高洁【希望之声TV】(2021/02/26)</a></li>
 <li><a href="/comments/20210227/1494823.md" target="_blank">中国观察：习近平新年五个动作为二十大连任造势</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210227/1494683.md" target="_blank">【预告】新唐人元宵节再播神韵晚会和音乐会</a></li>
 <li><a href="/comments/20210227/1494746.md" target="_blank">美亚利桑那州法官授权议会查看210万张选票</a></li>
 <li><a href="/comments/20210227/1494741.md" target="_blank">中国宣布暂停进口台湾菠萝 蔡英文谴责 吁挺台湾农民“一起吃凤梨”</a></li>
-<li><a href="/comments/20210227/1494737.md" target="_blank">反习势力蠢蠢欲动 “原薄姓领导妹妹”骗财被抓 受害人不敢现身 中南海不可告人的秘密_330</a></li>
-<li><a href="/comments/20210227/1494736.md" target="_blank">规律运动 预防高龄衰弱症</a></li>
-<li><a href="/comments/20210227/1494735.md" target="_blank">避免年纪大肌肉流失 营养师：多吃它</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
