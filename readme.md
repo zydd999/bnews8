@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210227/1494773.md">习近平一句号震惊中外 要共产?与红二代正恶斗 出事!导弹专家被撤职4可能</a></li>
 <li><a href="/comments/20210227/1495087.md">🈲史上“第一奇书”预言：中共灭亡后 中国将由他登位掌权 开启太平昌盛的新朝代❗❗</a></li>
 <li><a href="/yule/20210227/1494893.md">王刚60岁老来得子，本以为是喜事，孩子出生后却傻了眼</a></li>
 <li><a href="/funmedia/20210227/1494883.md">常“晒”这些东西的女人，暴露了“低贱”属性，希望你不占</a></li>
@@ -15,8 +14,8 @@
 <li><a href="/cbnews/20210227/1494963.md">习公主个人信息外泄案是高级黑</a></li>
 <li><a href="/headline/20210227/1494781.md">拜登首次军事行动 蓬佩奥发声</a></li>
 <li><a href="/finance/20210227/1495107.md">负债400亿暴雷！“天下第一村”华西村破产</a></li>
-<li><a href="/headline/20210227/1495088.md">罕见陪习夫妇访希腊 70后张为任上海副市长</a></li>
 <li><a href="/cbnews/20210227/1495030.md">习近平想武攻台湾？美前防长：台海局势非常危险</a></li>
+<li><a href="/headline/20210227/1495088.md">罕见陪习夫妇访希腊 70后张为任上海副市长</a></li>
 <li><a href="/cbnews/20210227/1495106.md">习近平新年五大动作谋二十大连任</a></li>
 <li><a href="/bannedvideo/20210227/1495046.md">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
 <li><a href="/headline/20210227/1494876.md">“限你三天内回国自首”：00后因言获罪，父母被警察监视居住</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/topimagenews/20210227/1495089.md">川普出击另辟蹊径建超级PAC 专家:拜登批准资助中共军事 迟来胜利:亚利桑那法官判决</a></li>
 <li><a href="/cbnews/20210227/1495029.md">谁提名的？ “茅台院士”背后的中共权贵</a></li>
 <li><a href="/comments/20210227/1495038.md">调查指习近平“全面脱贫”牛皮吹破 民间热议</a></li>
-<li><a href="/comments/20210227/1494864.md">台海2年内会爆发战事？中共对台动武的把握，弱点和代价是什么？台湾如何反制武统？</a></li>
 <li><a href="/cnnews/20210227/1495013.md">前特工曝料：拜登，他真的有很大的麻烦 【阿波罗网编译】</a></li>
+<li><a href="/comments/20210227/1494864.md">台海2年内会爆发战事？中共对台动武的把握，弱点和代价是什么？台湾如何反制武统？</a></li>
+<li><a href="/comments/20210227/1494915.md">曾经十年沉默不语，开口只说一句话，即语惊四座❗️曾经不受同胞喜欢的美国大法官托马斯，听完他的故事，你就知道他为什么敢于在几个诉讼案中，为美国发声了。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210228/1495331.md" target="_blank">川普正在组建新政治行动委员会；美军空袭伊朗组织   蓬佩奥质疑效果；一夜之间 尼日利亚300多名女学生遭绑架；美议员：大科企与中共交好 遂其全球野心；中共取消购汇限制？专家分析原因【希望之声TV】</a></li>
 <li><a href="/comments/20210228/1495303.md" target="_blank">蓬佩奥：美国外交的巨大胜利 在于勇气和原则    点评嘉宾:方伟【希望之声TV】</a></li>
 <li><a href="/cbnews/20210228/1495302.md" target="_blank">女子冒充薄熙来妹妹诈骗 部分受害人却不敢报警</a></li>
 <li><a href="/cbnews/20210228/1495301.md" target="_blank">移植专家臧运金暴毙完成移植手术2600例涉嫌活摘器官被追查</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210227/1495020.md" target="_blank">美军空袭伊朗后 以色列随后出事了</a></li>
 <li><a href="/cbnews/20210227/1494977.md" target="_blank">核酸检测划分等级 廊坊有钱人不用排队</a></li>
 <li><a href="/comments/20210227/1494976.md" target="_blank">检察官拿到川普报税文件！将面临“不可测定”局面 ？麦康奈尔突然改口：全力支持川普竞选2024总统！分裂加剧 俄勒冈5县欲脱离蓝州加入红州；联合国将异见者名单私下给中共【希望之声TV】</a></li>
-<li><a href="/comments/20210227/1494975.md" target="_blank">预告【2/27  同声翻译】2021保守派大会（第二天）【希望之声TV】(2021/02/27)</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210228/1495332.md" target="_blank">共和党研委会主席：在国会充实川普反共议程；佛州成自由绿洲美国希望财政盈余没加税</a></li>
 <li><a href="/topimagenews/20210228/1495317.md" target="_blank">川普支持前助手参选挑战叛徒 CPAC明星云集 有几个条件 美国复兴才有望</a></li>
 <li><a href="/topimagenews/20210227/1495089.md" target="_blank">川普出击另辟蹊径建超级PAC 专家:拜登批准资助中共军事 迟来胜利:亚利桑那法官判决</a></li>
 <li><a href="/topimagenews/20210227/1495000.md" target="_blank">幕僚长：“川普正在规划下一届政府”【阿波罗网编译】</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20210225/1493564.md" target="_blank">川普运用影响力武器 支持其高级顾问竞选俄亥俄共和党主席【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210225/1493255.md" target="_blank">格雷厄姆周末去佛州 恳求川普停止和麦康奈尔对峙【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210224/1493114.md" target="_blank">离了川普真不行,共和党参议院高层拜会川普 前克林顿顾问:封锁令下美将成极权国家</a></li>
-<li><a href="/topimagenews/20210224/1493112.md" target="_blank">被主媒抹黑，Gab三周内被三家银行禁止使用【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210228/1495331.md" target="_blank">川普正在组建新政治行动委员会；美军空袭伊朗组织   蓬佩奥质疑效果；一夜之间 尼日利亚300多名女学生遭绑架；美议员：大科企与中共交好 遂其全球野心；中共取消购汇限制？专家分析原因【希望之声TV】</a></li>
 <li><a href="/comments/20210228/1495322.md" target="_blank">英军情前主管：中共对内更暴虐 对外独断 英国须更强硬</a></li>
 <li><a href="/comments/20210228/1495320.md" target="_blank">【CPAC】莱特希泽：川普让人明白中共是真正威胁</a></li>
 <li><a href="/comments/20210228/1495319.md" target="_blank">【预算案】每月派 1000 蚊电子消费券被指离地 陈茂波：执行细节有微调空间</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210228/1495247.md" target="_blank">香港影星吴孟达病逝 周星驰：非常难过 还无法接受</a></li>
 <li><a href="/comments/20210228/1495237.md" target="_blank">福克斯：川普仍是领袖 但2024共和党或多家“争鸣”</a></li>
 <li><a href="/comments/20210228/1495226.md" target="_blank">格兰厄姆：川普背书将助共和党人连任</a></li>
-<li><a href="/comments/20210228/1495225.md" target="_blank">消息：拜登或延续川普打击中共技术威胁新规</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210216/1488182.md" target="_blank">曾节明: 中共国是效率超过西方资本主义的新极权</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 
 </ul>
 </div>
