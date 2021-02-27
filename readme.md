@@ -20,13 +20,13 @@
 <li><a href="/bannedvideo/20210226/1494394.md">七十年前神秘老道预言全应验 就差最后这一句了 太吓人!（启明笑谈20200720）</a></li>
 <li><a href="/funmedia/20210226/1494509.md">一家味精工厂，卡住了全世界芯片企业的喉咙</a></li>
 <li><a href="/topimagenews/20210227/1494827.md">中国窘迫海归硕士卖废品 党媒吹月入5万造假大翻车 原材价暴涨,广东制造业临巨压</a></li>
+<li><a href="/funmedia/20210227/1494883.md">常“晒”这些东西的女人，暴露了“低贱”属性，希望你不占</a></li>
 <li><a href="/topimagenews/20210226/1494383.md">华盛顿沼泽大曝光！川普解密被情报界高层百般阻挠【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210226/1494434.md">被称为是中国“最富裕村庄”的华西村，又被称为土豪村，网传总负债超389亿。今天也成为了负债累累的地方政府的缩影。2月25日，村民冒雨排队急取集资款，担心连本金都拿不到</a></li>
-<li><a href="/funmedia/20210227/1494883.md">常“晒”这些东西的女人，暴露了“低贱”属性，希望你不占</a></li>
 <li><a href="/headline/20210227/1494781.md">拜登首次军事行动 蓬佩奥发声</a></li>
 <li><a href="/cnnews/20210226/1494565.md">任正非最新讲话 遭员工质疑老板“被忽悠瘸了”</a></li>
-<li><a href="/topimagenews/20210226/1494385.md">必看!拜登变性提名人让3岁孩子变性 遭参议员保罗摧毁性驳斥【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210227/1494739.md">麦康奈尔吃闭门羹 反川软化? 川普保守派领袖地位无人撼动 格雷厄姆说喜欢拜登</a></li>
+<li><a href="/topimagenews/20210226/1494385.md">必看!拜登变性提名人让3岁孩子变性 遭参议员保罗摧毁性驳斥【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210227/1494687.md">美债息急飙引发全球股灾！日股跌近4% 港股泻逾千点科网板块重创</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210227/1495025.md" target="_blank">【中文字幕】共和党议员霍利激情演讲。他说，现在是一个危险的时刻。美国不应该有由大科技公司和自由派精英来统治，而是由我们人民，我们才是未来。</a></li>
+<li><a href="/cbnews/20210227/1495020.md" target="_blank">美军空袭伊朗后 以色列随后出事了</a></li>
 <li><a href="/cbnews/20210227/1494977.md" target="_blank">核酸检测划分等级 廊坊有钱人不用排队</a></li>
 <li><a href="/comments/20210227/1494976.md" target="_blank">检察官拿到川普报税文件！将面临“不可测定”局面 ？麦康奈尔突然改口：全力支持川普竞选2024总统！分裂加剧 俄勒冈5县欲脱离蓝州加入红州；联合国将异见者名单私下给中共【希望之声TV】</a></li>
 <li><a href="/comments/20210227/1494975.md" target="_blank">预告【2/27  同声翻译】2021保守派大会（第二天）【希望之声TV】(2021/02/27)</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210227/1494709.md" target="_blank">🔥🔥突发❗正月下雪打雷 坟谷成堆❓民间预言成真❓❗</a></li>
 <li><a href="/comments/20210227/1494702.md" target="_blank">(同声翻译)2021保守派大会现场直播（继续）【希望之声TV】(2021/02/26)</a></li>
 <li><a href="/comments/20210227/1494688.md" target="_blank">今年的CPAC到底有多大的份量？这次是在川普落难的时候召开的，它的特别意义又是什么呢？方伟带给您五大看点【希望之声TV】</a></li>
-<li><a href="/comments/20210227/1494646.md" target="_blank">美CPAC大会首日 保守派精英云集 小川普将发言；谁在指挥？美空袭叙利亚  贺锦丽不知；为美国立国之本 两女议员爆“走廊之战”；拜登提名人让3岁孩子变性 参议员愤怒斥责【希望之声TV】</a></li>
-<li><a href="/cbnews/20210226/1494564.md" target="_blank">117个机构联合会议 吁对中共活摘器官追责</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210227/1495025.md" target="_blank">【中文字幕】共和党议员霍利激情演讲。他说，现在是一个危险的时刻。美国不应该有由大科技公司和自由派精英来统治，而是由我们人民，我们才是未来。</a></li>
+<li><a href="/comments/20210227/1495015.md" target="_blank">《信守莫疑》</a></li>
 <li><a href="/comments/20210227/1495005.md" target="_blank">美军空袭亲伊朗民兵设施后 以色列货船爆炸引联想</a></li>
 <li><a href="/comments/20210227/1494986.md" target="_blank">中大指两学生不守出入管理讲粗口记过 包括学生会“朔夜”外务副会长罗子维</a></li>
 <li><a href="/comments/20210227/1494985.md" target="_blank">原定到舍堂派糖不甩 遇学生静坐抗议 港大校长张翔“甩底”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210227/1494900.md" target="_blank">中共对公民工龄清零 或有千万人退休金被吞</a></li>
 <li><a href="/comments/20210227/1494899.md" target="_blank">李燕铭：习近平给阿里巴巴颁奖 大有玄机 马云供出江泽民家族死里逃生？江泽民孙江志成被习扣留上海？习江两派各自放风 江泽民家族垂死反扑</a></li>
 <li><a href="/comments/20210227/1494898.md" target="_blank">中共央视高层与党委接管凤凰卫视 刘长乐出局</a></li>
-<li><a href="/comments/20210227/1494896.md" target="_blank">昂山素季“被消失” 缅甸驻联大使宣布与军政权决裂</a></li>
-<li><a href="/comments/20210227/1494890.md" target="_blank">颜纯钩：连黎智英也容不下，还谈什么民主？</a></li>
 
 </ul>
 </div>
@@ -130,30 +130,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
 
 </ul>
