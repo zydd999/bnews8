@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210228/1495690.md">【中文字幕】绝对精彩！蓬佩奥豁出去了：现在我已不是外交官，我才不管呢！无官一身轻，蓬佩奥演讲大胆而尖锐，实在又幽默，国务卿风范再现！3个小故事，个个触动人心！</a></li>
 <li><a href="/cnnews/20210301/1495814.md">大陆“最美岳母”同框女婿被误认夫妻！女儿超崩溃：压力大</a></li>
-<li><a href="/cnnews/20210228/1495553.md">美媒：佩洛西必须辞职！因为她撒谎并嫁祸川普总统【阿波罗网编译】</a></li>
 <li><a href="/comments/20210228/1495687.md">打脸习近平！中共对公民实施工龄清零 或有千万人退休金被吞</a></li>
 <li><a href="/comments/20210228/1495709.md">重磅！弗林将军公开声明：组织起来！夺回美国的时刻到了！彭佩奥:局势已经翻转! 林伍德：要求美国军方宣布选举无效 让美国军方和联邦紧急事务管理局对各州合法选票进行合法审计 议员:拜登是非法总统不被承认</a></li>
 <li><a href="/headline/20210228/1495565.md">分析：习近平新年九大动作 布局二十大连任</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/headline/20210301/1495886.md">政府高官机场恭迎疫苗丑态尽现</a></li>
 <li><a href="/cbnews/20210301/1495824.md">宁夏盐池巨大风力发电机组竟被风拦腰吹断</a></li>
 <li><a href="/topimagenews/20210301/1495888.md">川普CPAC演讲 否认建新党 暗示再选「将3度击败他们」</a></li>
+<li><a href="/funmedia/20210301/1495897.md">到底夫妻谁的基因，决定孩子的智商和相貌？这个回答太准了</a></li>
 <li><a href="/headline/20210301/1495793.md">余茂春：中共大跃进式病毒研究让全球付出代价</a></li>
 <li><a href="/cbnews/20210301/1495825.md">北京疫情不明 港媒：中共两会会期压缩</a></li>
-<li><a href="/funmedia/20210301/1495897.md">到底夫妻谁的基因，决定孩子的智商和相貌？这个回答太准了</a></li>
 <li><a href="/health/20210228/1495567.md">45岁以后，满足1硬2软3快的人，身体很健康，易长寿</a></li>
 <li><a href="/cnnews/20210228/1495576.md">川普支持者挥舞川普旗  庞大人群迎候拜登...... 视频【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210301/1495772.md">南阳书记受习近平表彰 遭揭涉庞氏骗局 爆料者被抓</a></li>
 <li><a href="/worldnews/20210301/1495775.md">好友隐瞒染疫照约喝茶 华男亡一家6口阳性</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210301/1496141.md" target="_blank">最“金贵” 上海香椿头一斤90元 登上微博热搜榜</a></li>
+<li><a href="/comments/20210301/1496139.md" target="_blank">【CPAC精选｜中文字幕】川普演讲精彩片段之三：什么是川普主义【希望之声TV】</a></li>
+<li><a href="/cbnews/20210301/1496074.md" target="_blank">第六届新唐人国际钢琴大赛 即日起接受报名</a></li>
 <li><a href="/comments/20210301/1496128.md" target="_blank">【中文字幕】川普总统CPAC压轴演讲，激动人心！川总宣布，不可思议的旅程开始。川总决定，第三次打败拜登。</a></li>
 <li><a href="/cbnews/20210301/1496099.md" target="_blank">习近平批中国维权律师 强硬讲话首度曝光</a></li>
 <li><a href="/comments/20210301/1496094.md" target="_blank">【CPAC精选｜中文字幕】川普演讲精彩片段之二：川普说：或第三次参选 ，拜登移民政策糟糕【希望之声TV】</a></li>
@@ -58,9 +61,6 @@
 <li><a href="/comments/20210301/1495844.md" target="_blank">🔥🔥鱼开口说话❗发生在台湾的真实事件   它说了什么❓❗</a></li>
 <li><a href="/cbnews/20210301/1495825.md" target="_blank">北京疫情不明 港媒：中共两会会期压缩</a></li>
 <li><a href="/cbnews/20210301/1495824.md" target="_blank">宁夏盐池巨大风力发电机组竟被风拦腰吹断</a></li>
-<li><a href="/cbnews/20210301/1495823.md" target="_blank">有钱父母让6岁儿子“打工换钱” 却害他越来越小气</a></li>
-<li><a href="/cbnews/20210301/1495788.md" target="_blank">仅裹床单…湖南高中女生遇害 同学潜逃浙江自首</a></li>
-<li><a href="/cbnews/20210301/1495773.md" target="_blank">吉林化纤公司毒气事故 5死8伤 大陆网友：这是人祸</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210301/1496139.md" target="_blank">【CPAC精选｜中文字幕】川普演讲精彩片段之三：什么是川普主义【希望之声TV】</a></li>
 <li><a href="/comments/20210301/1496128.md" target="_blank">【中文字幕】川普总统CPAC压轴演讲，激动人心！川总宣布，不可思议的旅程开始。川总决定，第三次打败拜登。</a></li>
 <li><a href="/comments/20210301/1496127.md" target="_blank">吃对蔬菜有讲究 这几种蔬菜一定要煮熟吃</a></li>
 <li><a href="/comments/20210301/1496120.md" target="_blank">未获日政府信任 习近平原定今年访日将再打水漂</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210301/1495944.md" target="_blank">习近平批中国维权律师狠话首曝光</a></li>
 <li><a href="/comments/20210301/1495942.md" target="_blank">众议员乔丹：川普是“保守派领袖” 望他再参选</a></li>
 <li><a href="/comments/20210301/1495941.md" target="_blank">川普将再出山？   众口一词：中共是跨国犯罪集团   嘉宾：袁弓夷  方伟 梓枫 主持：高洁【希望之声TV】(2021/02/28)</a></li>
-<li><a href="/comments/20210301/1495939.md" target="_blank">程晓农专访 (3) : 中美战略争夺已转为水下！军事博弈注定冷战升级；拜登政治正确论来源于新马克思主义</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 
 </ul>
 </div>
