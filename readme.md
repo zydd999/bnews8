@@ -12,7 +12,6 @@
 <li><a href="/cbnews/20210302/1496725.md">江峰：回归毛泽东党主席的强人独裁统治，推翻邓小平设计的总书记核心集体领导制---习近平纪念华国锋并从新评估党史的真实用意）</a></li>
 <li><a href="/comments/20210302/1496795.md">震惊！时间也是神？地球时间在加速！现在1天16小时不到了！ ？ 天上方一日地上已千年不是神话</a></li>
 <li><a href="/topimagenews/20210302/1496778.md">川普政府美军保命秘密被拜登泄露，"60分钟"节目惊爆美军司令部【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210302/1496622.md">如科幻电影！功率是以前的100万倍！美军正研制迄今最强大激光武器</a></li>
 <li><a href="/bannedvideo/20210302/1496749.md">中共奇葩标语，60岁以下懒汉不准蹲街边晒太阳</a></li>
 <li><a href="/topimagenews/20210302/1496730.md">政治小丑！海莉改口盛赞川普演讲 美媒痛批：右派里的希拉里！ 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210302/1496674.md">支持川普成道德标竿 彭斯民调只得1%；CIA在出招！AI技术用于情报界；TikTok在美国游说费一年增十倍 ；缅甸镇压升级至少18亡 昂山素季又添新罪名【希望之声TV】</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/bannedvideo/20210302/1496688.md">💥你打我，就让你停电！中共新战术；北京撂狠话：严惩黄之锋黎智英，“爱党者治港”含教育、传媒；缅甸武装打军方：38死！凤梨香蕉引发的水果战；习近平扩大党内专制，离称“朕”不远了 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20210302/1496631.md">川普：共和党很团结，只有唯一的一个分歧 共和党揭示重大纲领,川普主义和抗击中共</a></li>
 <li><a href="/topimagenews/20210303/1496993.md">疫情下中国100万家小店倒闭 主要集中在东部沿海</a></li>
-<li><a href="/comments/20210302/1496703.md">川普抨击拜登 出卖了学生；习近平访日泡汤？日本近8成民众讨厌中共；中印冲突有暗战？孟买神秘大停电原因曝光；调查报告：中共利用隔离和签证恐吓外国记者【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210302/1496846.md">陈破空：习近平疑心接班人，逼令反省。陈敏尔一语泄天机！亲信连遭批捕。某将领涉政变，人间蒸发</a></li>
+<li><a href="/comments/20210302/1496703.md">川普抨击拜登 出卖了学生；习近平访日泡汤？日本近8成民众讨厌中共；中印冲突有暗战？孟买神秘大停电原因曝光；调查报告：中共利用隔离和签证恐吓外国记者【希望之声TV】</a></li>
 <li><a href="/headline/20210302/1496685.md">北京一国企董事长主动投案 上任不足3个月</a></li>
 <li><a href="/topimagenews/20210302/1496760.md">周恩来从来没有“坚决抵制”毛 他是文革罪恶的主要实施者</a></li>
 <li><a href="/comments/20210302/1496694.md">毛泽东女婿王景清两会前夕离世 毛泽东女儿李讷两次婚姻秘闻 张春桥报告令江青放弃物色的女婿人选 中南海不可告人的秘密_332</a></li>
+<li><a href="/comments/20210303/1496996.md">实锤打击选举欺诈第一案 美地方法官锒铛入狱</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
 
 </ul>
 </div>
