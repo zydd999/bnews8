@@ -5,22 +5,20 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210302/1496578.md">美国分析卫星相片 惊见中共正在偷偷建这些</a></li>
-<li><a href="/topimagenews/20210302/1496579.md">一晚收费上万的野奢酒店 背后到底有多乱?</a></li>
 <li><a href="/headline/20210302/1496686.md">台湾狂扫凤梨 北京大丢脸 官媒气到恐吓</a></li>
 <li><a href="/cbnews/20210302/1496606.md">文昭：重大利好、人民币换汇要放开了？川普正式回归，一种最有创意的复仇方式</a></li>
 <li><a href="/bannedvideo/20210302/1496755.md">2021年2月28日，北京的大兴国际机场，晚上7点空无一人。视频者感叹，可能人都不信，这是北京,这是首都！</a></li>
 <li><a href="/topimagenews/20210302/1496883.md">美媒惊爆：美政府和美科学机构参与掩盖中共病毒的实验室起源【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210302/1496732.md">中共权贵喜欢的茅台白酒，采用人工踩曲，都是由女性用双脚踩曲胚完成。</a></li>
 <li><a href="/cbnews/20210302/1496725.md">江峰：回归毛泽东党主席的强人独裁统治，推翻邓小平设计的总书记核心集体领导制---习近平纪念华国锋并从新评估党史的真实用意）</a></li>
-<li><a href="/topimagenews/20210302/1496778.md">川普政府美军保命秘密被拜登泄露，"60分钟"节目惊爆美军司令部【阿波罗网编译】</a></li>
 <li><a href="/comments/20210302/1496795.md">震惊！时间也是神？地球时间在加速！现在1天16小时不到了！ ？ 天上方一日地上已千年不是神话</a></li>
+<li><a href="/topimagenews/20210302/1496778.md">川普政府美军保命秘密被拜登泄露，"60分钟"节目惊爆美军司令部【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210302/1496622.md">如科幻电影！功率是以前的100万倍！美军正研制迄今最强大激光武器</a></li>
 <li><a href="/bannedvideo/20210302/1496749.md">中共奇葩标语，60岁以下懒汉不准蹲街边晒太阳</a></li>
 <li><a href="/topimagenews/20210302/1496730.md">政治小丑！海莉改口盛赞川普演讲 美媒痛批：右派里的希拉里！ 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210302/1496674.md">支持川普成道德标竿 彭斯民调只得1%；CIA在出招！AI技术用于情报界；TikTok在美国游说费一年增十倍 ；缅甸镇压升级至少18亡 昂山素季又添新罪名【希望之声TV】</a></li>
-<li><a href="/comments/20210302/1496743.md">李燕铭：习近平或再开杀戒 二十大前习江生死搏杀 习步步追杀江派三常委 “内蒙古第一大案”被引爆 涉案30亿元 习下令倒查20年 内蒙古窝案持续发酵 四天逾十高官被查处</a></li>
 <li><a href="/headline/20210302/1496767.md">县委书记夫妇、下属及司机5人被“一窝端”</a></li>
+<li><a href="/comments/20210302/1496743.md">李燕铭：习近平或再开杀戒 二十大前习江生死搏杀 习步步追杀江派三常委 “内蒙古第一大案”被引爆 涉案30亿元 习下令倒查20年 内蒙古窝案持续发酵 四天逾十高官被查处</a></li>
 <li><a href="/topimagenews/20210302/1496673.md">抽干美国的血液！拜登高级顾问：黑人赔偿 我们要开始行动了【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210302/1496688.md">💥你打我，就让你停电！中共新战术；北京撂狠话：严惩黄之锋黎智英，“爱党者治港”含教育、传媒；缅甸武装打军方：38死！凤梨香蕉引发的水果战；习近平扩大党内专制，离称“朕”不远了 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20210302/1496631.md">川普：共和党很团结，只有唯一的一个分歧 共和党揭示重大纲领,川普主义和抗击中共</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20210302/1496703.md">川普抨击拜登 出卖了学生；习近平访日泡汤？日本近8成民众讨厌中共；中印冲突有暗战？孟买神秘大停电原因曝光；调查报告：中共利用隔离和签证恐吓外国记者【希望之声TV】</a></li>
 <li><a href="/bannedvideo/20210302/1496846.md">陈破空：习近平疑心接班人，逼令反省。陈敏尔一语泄天机！亲信连遭批捕。某将领涉政变，人间蒸发</a></li>
 <li><a href="/headline/20210302/1496685.md">北京一国企董事长主动投案 上任不足3个月</a></li>
+<li><a href="/topimagenews/20210302/1496760.md">周恩来从来没有“坚决抵制”毛 他是文革罪恶的主要实施者</a></li>
+<li><a href="/bannedvideo/20210302/1496766.md">那些对不起川爷的人遭到报应了  都在求川爷 会有传说中的2024吗？（启明笑谈20210302）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210303/1497085.md" target="_blank">德州解除口罩令 州长称：是时候100%开放 室内人数解禁</a></li>
 <li><a href="/topimagenews/20210303/1497063.md" target="_blank">重磅 涉150项选举欺诈美法官等被捕 川普自曝国会山惊人内幕 多州重大立法重塑选举诚信</a></li>
 <li><a href="/topimagenews/20210303/1497058.md" target="_blank">小札认栽1次赔天价5.6亿美元 美媒:孟买神秘大停电中共出招 美民调对中共好感度大跌</a></li>
 <li><a href="/topimagenews/20210303/1497034.md" target="_blank">英国33著名学府被揭 与中共核武科研机构合作</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20210302/1496464.md" target="_blank">共和党国会议员 批白宫幕僚长柯连恩“垂帘听政”</a></li>
 <li><a href="/topimagenews/20210301/1496075.md" target="_blank">小川普：&#8221;拜登在讨好中国&#8221; 加法叶：“收钱办事”【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210301/1495968.md" target="_blank">川普抨击拜登：难民接纳人数暴增近10倍 很快就会达数百倍【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210301/1495888.md" target="_blank">川普CPAC演讲 否认建新党 暗示再选「将3度击败他们」</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210303/1497077.md" target="_blank">“两年内会在火星发现外星生命”， NASA首席科学家预言成真？</a></li>
 <li><a href="/comments/20210303/1497066.md" target="_blank">美参议员罗姆尼不慎跌倒摔伤 缝多针</a></li>
 <li><a href="/comments/20210303/1497065.md" target="_blank">关注驻华外国记者遭骚扰 欧盟吁北京尊重新闻自由</a></li>
 <li><a href="/comments/20210303/1497043.md" target="_blank">华府国民警卫队被提供未煮熟食物 有人吃后病倒</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210303/1496999.md" target="_blank">大肠癌如何防？《JAMA》：多吃3类食物</a></li>
 <li><a href="/comments/20210303/1496998.md" target="_blank">佛州推动立法 抵制中共等外国渗透;CBS采访 美军中东司令部备泄密？;金球奖收视跌六成 千万人观看川普演讲;GAB被黑！议员账号密码泄露 ;澳媒记者：西方国家变得越来越像共产中国【希望之声TV】</a></li>
 <li><a href="/comments/20210303/1496996.md" target="_blank">实锤打击选举欺诈第一案 美地方法官锒铛入狱</a></li>
-<li><a href="/comments/20210303/1496980.md" target="_blank">CDC主任：美疫情好转但解封为时过早</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
 <li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 
 </ul>
 </div>
