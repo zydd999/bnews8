@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210304/1485911.md">两会临近大量翻墙工具或失效 推荐高速有效翻墙工具</a></li>
 <li><a href="/cbnews/20210304/1498342.md">习表弟与江孙子被推到高层内斗最前线</a></li>
-<li><a href="/cnnews/20210304/1498096.md">市委书记被双开曾与女副书记淫乱被捉奸</a></li>
 <li><a href="/health/20210304/1498331.md">教育部传来三个坏消息，学生欲哭无泪，家长炸锅了：没法上学了</a></li>
+<li><a href="/cnnews/20210304/1498096.md">市委书记被双开曾与女副书记淫乱被捉奸</a></li>
 <li><a href="/comments/20210304/1484906.md">马上见分晓❗3月4日川普总统会大翻盘吗❓</a></li>
 <li><a href="/yule/20210304/1498256.md">福原爱外遇55张照片曝光 被江宏杰骂 心碎提离婚</a></li>
 <li><a href="/cnnews/hknews/20210304/1498151.md">香港财政枯竭 中美金融战悄然开启</a></li>
@@ -17,8 +17,8 @@
 <li><a href="/cnnews/20210304/1498173.md">赵紫阳：那些元老为何仇恨我把我家抹黑成官倒</a></li>
 <li><a href="/cnnews/20210304/1498505.md">两会在即 无锡当局镇压访民遭批逼死百姓</a></li>
 <li><a href="/health/20210304/1498308.md">它是吃出来的癌！全球超一半都在中国，四川更是高发！我们到底吃错了什么？</a></li>
-<li><a href="/bannedvideo/20210304/1498584.md">陈破空：习近平忽提接班人，暗示明年下台？关键词重复12次！泄露集权秘诀。自吹千年成就</a></li>
 <li><a href="/cnnews/20210304/1498366.md">法官：78%的邮寄选票有诈！逮捕公证员！要求从新选举【阿波罗网编译】</a></li>
+<li><a href="/bannedvideo/20210304/1498584.md">陈破空：习近平忽提接班人，暗示明年下台？关键词重复12次！泄露集权秘诀。自吹千年成就</a></li>
 <li><a href="/comments/20210304/1498612.md">🔥🔥预言太神❗中共不得不封杀❗❗</a></li>
 <li><a href="/bannedvideo/20210304/1498477.md">2021中共将面临世纪变局，两会开幕，内斗加剧，习如何为“终身主席”布局，有多少胜算？真观点｜真飞【20210304】【第94期】</a></li>
 <li><a href="/cnnews/20210304/1498417.md">20名FBI真刀实枪破门而入！只因她在国会大厦发表医学演说【阿波罗网编译】</a></li>
@@ -42,6 +42,7 @@
 <li><a href="/cbnews/20210304/1498603.md" target="_blank">美情报员曝中共下一步棋：政治谋杀、网络袭击…</a></li>
 <li><a href="/comments/20210304/1498600.md" target="_blank">300万学生”网课上失踪” 克鲁兹向民主党人施压；继德州密西西比后，又一州将取消口罩强制令；密西西比民主党初选78％选票做手脚  法官令重选；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210304/1498593.md" target="_blank">美国思想领袖：在家教育专家 鲍丁丝：如何应对美教育衰落？「平等主义教育」已把教学水平降到最低；古典教育为何对孩子影响极大，如何走回传统？孩子需陪伴，经济或时间上匮乏的父母该怎麽办？｜ # 大纪元</a></li>
+<li><a href="/comments/20210304/1484906.md" target="_blank">马上见分晓❗3月4日川普总统会大翻盘吗❓</a></li>
 <li><a href="/cbnews/20210304/1498583.md" target="_blank">为何60万新疆维族人迫赴外地工作</a></li>
 <li><a href="/cbnews/20210304/1498533.md" target="_blank">报告美中核大战 拜登联合盟友受挫 抗中共 美日印澳将向亚洲供疫苗</a></li>
 <li><a href="/cbnews/20210304/1498512.md" target="_blank">上海小红楼：女人血泪铸成的“通天塔”</a></li>
@@ -57,7 +58,6 @@
 <li><a href="/cbnews/20210304/1498341.md" target="_blank">萧铭：佐治亚通过决议 2021年3月3日。今天我们讲两个话题。一个是佐治亚州州众议会刚刚通过选民诚信法案。堵上了很多选举舞弊的漏洞。这是一件好事。还有，我们顺着这个话题说开去，看看川普到底有没有能力让20</a></li>
 <li><a href="/comments/20210304/1498322.md" target="_blank">权力岂容分享？麦康奈尔在拜登那碰壹鼻子灰;隐瞒数字不只库默壹人 还有民主党4州长和他壹样；继德州、佛州后，又壹个州反对击拜登；微软成为中共支持的黑客组织的目标【希望之声TV】pm10</a></li>
 <li><a href="/comments/20210304/1498281.md" target="_blank">中共隐秘的全球5G与电网战略。印度拥抱中共，一觉醒来，发现为时已晚。中印边境冲突，引发孟买神秘大停电？拜登废除川普总统行政令，印度遭遇，会在美国上演吗？</a></li>
-<li><a href="/comments/20210304/1484906.md" target="_blank">马上见分晓❗3月4日川普总统会大翻盘吗❓</a></li>
 <li><a href="/cbnews/20210304/1498267.md" target="_blank">“我只想逃离那里” 旅法10年被电话骗回新疆囚3年 维族女出书揭恶行</a></li>
 <li><a href="/cbnews/20210304/1498266.md" target="_blank">胡锡进反对肛拭子普筛 网友狠酸:怎能和官方唱反调呢</a></li>
 <li><a href="/comments/20210304/1485911.md" target="_blank">两会临近大量翻墙工具或失效 推荐高速有效翻墙工具</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210305/1498768.md" target="_blank">膨胀的宇宙是不是另一层宇宙的开始 生命的轮回？</a></li>
+<li><a href="/comments/20210305/1498765.md" target="_blank">评论 | 陈破空：习近平自夸全面脱贫，千年级别的大成就？</a></li>
 <li><a href="/comments/20210305/1498760.md" target="_blank">禁书解读 | 余杰：评电视剧《长安十二时辰》：直把长安当北京</a></li>
 <li><a href="/comments/20210305/1498755.md" target="_blank">中国房地产巨头华夏幸福连续违约</a></li>
 <li><a href="/comments/20210305/1498754.md" target="_blank">戴眼镜的人新冠感染风险低两至三倍</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210305/1498710.md" target="_blank">众议员：美两党应共同努力 重新赢回选民信任</a></li>
 <li><a href="/comments/20210305/1498709.md" target="_blank">美交通部促当局对赵小兰任内滥权进行调查</a></li>
 <li><a href="/comments/20210305/1498694.md" target="_blank">缅甸警察拒绝镇压令 3人逃往印度避难</a></li>
-<li><a href="/comments/20210305/1498690.md" target="_blank">香港不妙！政协主席汪洋宣读报告 几个关键词都不见了</a></li>
-<li><a href="/comments/20210305/1498688.md" target="_blank">消息：继德州和密州 阿拉巴马也将取消口罩令</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
