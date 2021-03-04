@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210304/1485911.md">两会临近大量翻墙工具或失效 推荐高速有效翻墙工具</a></li>
-<li><a href="/topimagenews/20210303/1497163.md">拜登上台 中国的制造业老板们全都焦头烂额，连觉都睡不了了</a></li>
 <li><a href="/baitai/20210303/1497240.md">冠状病毒为什么在武汉爆发？余茂春：石正丽忽略了一个重要关键</a></li>
 <li><a href="/bannedvideo/20210303/1497517.md">习近平泄露国家机密，实力不行就是不行</a></li>
 <li><a href="/comments/20210303/1497179.md">李燕铭：胡春华接班梦碎 二十大入常悬了？“内蒙古第一大案”被引爆牵连逾十高官 习近平要再开杀戒一箭三雕 习近平力捧陈敏尔棒打胡春华</a></li>
 <li><a href="/comments/20210303/1497606.md">七大警告，拜登“失踪”。究竟谁在掌控拜登政府？谁提供了那些行政令？拜登为何要通过“行政令治国”？答案都在这里。</a></li>
 <li><a href="/ssgc/20210303/1497621.md">多国力挺台湾凤梨 五天认购量逼近中国一年订单</a></li>
 <li><a href="/cnnews/20210304/1498096.md">市委书记被双开曾与女副书记淫乱被捉奸</a></li>
-<li><a href="/cbnews/20210303/1497161.md">肝移植大戶臧运金暴卒 死因不可告人</a></li>
 <li><a href="/bannedvideo/20210303/1497436.md">重磅！服务器在德国被缴获 - 川普律师Sidney Powell（中文字幕 - CallVoter）</a></li>
-<li><a href="/comments/20210303/1497153.md">前西昌市委书记李俊被双开 曾与女副书记淫乱被捉奸</a></li>
+<li><a href="/cbnews/20210303/1497161.md">肝移植大戶臧运金暴卒 死因不可告人</a></li>
 <li><a href="/ccpdope/20210303/1497202.md">老江真不行了！孙子向境外转移资产</a></li>
 <li><a href="/bannedvideo/20210303/1497547.md">超恐预言将现 特大瘟疫来了吗？</a></li>
 <li><a href="/topimagenews/20210303/1497218.md">美媒：拜登回避记者问题 在保姆哈里斯的陪同下拖着步子离开【阿波罗网编译】</a></li>
 <li><a href="/headline/20210303/1497592.md">【耳边风】为何习大大「脱稿讲话」都跟面食有关？</a></li>
-<li><a href="/topimagenews/20210303/1497188.md">接种科兴疫苗后第二天死亡！香港已现首例</a></li>
-<li><a href="/cnnews/20210304/1497832.md">“楼市茅台”神话破灭，深圳二手房成交降至冰点</a></li>
-<li><a href="/ssgc/20210303/1497661.md">在微信群指点江山，我被请喝茶了</a></li>
 <li><a href="/cbnews/20210304/1497914.md">胡锡进大放厥词引火烧身 成众矢之的</a></li>
+<li><a href="/topimagenews/20210303/1497188.md">接种科兴疫苗后第二天死亡！香港已现首例</a></li>
+<li><a href="/ssgc/20210303/1497661.md">在微信群指点江山，我被请喝茶了</a></li>
+<li><a href="/cnnews/20210304/1497832.md">“楼市茅台”神话破灭，深圳二手房成交降至冰点</a></li>
 <li><a href="/cbnews/20210304/1497915.md">大陆出现多款定位程式 逾20万手机被监控</a></li>
 <li><a href="/cbnews/20210304/1497924.md">老翁倒地抽搐没人救！大陆年轻妹凑近“1举动”…网友怒批</a></li>
-<li><a href="/topimagenews/20210303/1497631.md">川普政敌意外之灾不慎... 反击拜登,第3个红州扛起大旗 密歇根州长遭调查?</a></li>
 <li><a href="/comments/20210303/1497167.md">被限令三天内自首 王靖渝越洋致电重庆警方 结果笑倒一片</a></li>
+<li><a href="/topimagenews/20210303/1497631.md">川普政敌意外之灾不慎... 反击拜登,第3个红州扛起大旗 密歇根州长遭调查?</a></li>
+<li><a href="/cnnews/hknews/20210304/1498151.md">香港财政枯竭 中美金融战悄然开启</a></li>
+<li><a href="/yule/20210304/1497878.md">与李泽楷分手10年后，梁洛施分手内幕曝光，郭嘉文或成赢家</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210304/1498335.md" target="_blank">SEMI：全球半导体设备市场 台湾今年将再次称霸</a></li>
 <li><a href="/comments/20210304/1498322.md" target="_blank">权力岂容分享？麦康奈尔在拜登那碰壹鼻子灰;隐瞒数字不只库默壹人 还有民主党4州长和他壹样；继德州、佛州后，又壹个州反对击拜登；微软成为中共支持的黑客组织的目标【希望之声TV】pm10</a></li>
 <li><a href="/comments/20210304/1498310.md" target="_blank">法媒：南非变种病毒抗体 或可预防其他病毒株</a></li>
 <li><a href="/comments/20210304/1498309.md" target="_blank">毕淑敏：人最脆弱的地方是舍不得</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210304/1498240.md" target="_blank">郑美姿：旁听反送中故事：今天的人更少 但今天这些人大概更坚定</a></li>
 <li><a href="/comments/20210304/1498239.md" target="_blank">李开元：焚书坑儒——半桩伪造的历史</a></li>
 <li><a href="/comments/20210304/1498237.md" target="_blank">北游：真实世界的3大规则 一个人从小就应该知道</a></li>
-<li><a href="/comments/20210304/1498234.md" target="_blank">英媒曝国家级丑闻 33所院校参与中共核开发</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
