@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210303/1497068.md">大重制计划的阴谋已经破产，美国的事态在静悄悄变化</a></li>
 <li><a href="/topimagenews/20210303/1497163.md">拜登上台 中国的制造业老板们全都焦头烂额，连觉都睡不了了</a></li>
 <li><a href="/comments/20210303/1497129.md">【独家重磅】习近平遭遇江泽民曾庆红电力政变 习向核心亲信团队喊话：生死存亡之战同生共死 中国大范围停电深度内幕 美日印太网络演习露端倪 印度孟买大停电 中共黑客被曝是幕后黑手 李克强急开国务院常务会 原国电集团副总经理谢长军被查</a></li>
 <li><a href="/baitai/20210303/1497240.md">冠状病毒为什么在武汉爆发？余茂春：石正丽忽略了一个重要关键</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20210303/1497167.md">被限令三天内自首 王靖渝越洋致电重庆警方 结果笑倒一片</a></li>
 <li><a href="/topimagenews/20210303/1497102.md">反川罗姆尼跌倒摔昏迷 缝了多针 眼圈淤青</a></li>
 <li><a href="/topimagenews/20210303/1497162.md">反击拜登，继德州、佛州后，又一个红州扛起大旗</a></li>
+<li><a href="/topimagenews/20210303/1497631.md">川普政敌意外之灾不慎... 反击拜登,第3个红州扛起大旗 密歇根州长遭调查?</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210304/1498204.md" target="_blank">库莫说不会辞职  左翼媒体记者齐转向与他切割；名主持：别惹这三洲！更多红色州反击大联邦政府；边境将滞留11万多儿童  108名非法移民检测呈阳性；希腊强震百栋建筑受损 民众仓皇逃跑【希望之声TV】</a></li>
 <li><a href="/cbnews/20210304/1498155.md" target="_blank">前白宫发言人麦肯纳尼加入福克斯新闻</a></li>
 <li><a href="/cbnews/20210304/1498146.md" target="_blank">前白宫美女发言人麦肯纳尼加入福克斯新闻</a></li>
 <li><a href="/cbnews/20210304/1497933.md" target="_blank">美前国安顾问：北京视台湾为下一个大目标</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210304/1497914.md" target="_blank">胡锡进大放厥词引火烧身 成众矢之的</a></li>
 <li><a href="/cbnews/20210304/1497913.md" target="_blank">“开了封的榨菜放进疫苗冷藏柜”帖文网络广传 青岛官方急推责</a></li>
 <li><a href="/cbnews/20210304/1497912.md" target="_blank">有人说：“大队长李建国叫你” 结果他一去就再也没有回来</a></li>
-<li><a href="/cbnews/20210304/1497911.md" target="_blank">哈尔滨双城两村官被村民持刀杀死</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210304/1498204.md" target="_blank">库莫说不会辞职  左翼媒体记者齐转向与他切割；名主持：别惹这三洲！更多红色州反击大联邦政府；边境将滞留11万多儿童  108名非法移民检测呈阳性；希腊强震百栋建筑受损 民众仓皇逃跑【希望之声TV】</a></li>
+<li><a href="/comments/20210304/1498201.md" target="_blank">颜纯钩：不要说做什么都没用 有做就有用</a></li>
+<li><a href="/comments/20210304/1498200.md" target="_blank">李济: 封锁、口罩和死亡率的分析</a></li>
+<li><a href="/comments/20210304/1498194.md" target="_blank">库默丑闻：主流媒体纷纷切割 共和党人要选州长</a></li>
 <li><a href="/comments/20210304/1497896.md" target="_blank">跨性别人士拿走17个“女子组”田径冠军；起诉川普的选美比赛</a></li>
 <li><a href="/comments/20210304/1498160.md" target="_blank">怀俄明州众议院选民身份证法首读过关</a></li>
 <li><a href="/comments/20210304/1498154.md" target="_blank">企业家赞川普是“合法真总统” 揭邮寄选票黑幕</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210304/1498058.md" target="_blank">习近平自曝中共恶法要管全世界 学者：他进一步反法治</a></li>
 <li><a href="/comments/20210304/1498057.md" target="_blank">吕月评论：毛泽东2.0时代为何能到来</a></li>
 <li><a href="/comments/20210304/1498056.md" target="_blank">为何习近平仍对香港穷追不舍？</a></li>
-<li><a href="/comments/20210304/1498055.md" target="_blank">中共两会即将召开 政治大戏7看点</a></li>
-<li><a href="/comments/20210304/1498054.md" target="_blank">【微博精粹】靠虎吃虎鞭 正月雷打雪</a></li>
-<li><a href="/comments/20210304/1498053.md" target="_blank">袁斌：教师拜金言论 折射大陆教育现状</a></li>
-<li><a href="/comments/20210304/1498052.md" target="_blank">香港举报潮下的老师：从自我审查开始</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210216/1488182.md" target="_blank">曾节明: 中共国是效率超过西方资本主义的新极权</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
