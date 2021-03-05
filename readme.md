@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210304/1485911.md">两会临近大量翻墙工具或失效 推荐高速有效翻墙工具</a></li>
 <li><a href="/health/20210304/1498331.md">教育部传来三个坏消息，学生欲哭无泪，家长炸锅了：没法上学了</a></li>
 <li><a href="/cbnews/20210304/1498342.md">习表弟与江孙子被推到高层内斗最前线</a></li>
 <li><a href="/comments/20210304/1484906.md">马上见分晓❗3月4日川普总统会大翻盘吗❓</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/bannedvideo/20210304/1498477.md">2021中共将面临世纪变局，两会开幕，内斗加剧，习如何为“终身主席”布局，有多少胜算？真观点｜真飞【20210304】【第94期】</a></li>
 <li><a href="/bannedvideo/20210304/1498584.md">陈破空：习近平忽提接班人，暗示明年下台？关键词重复12次！泄露集权秘诀。自吹千年成就</a></li>
 <li><a href="/cnnews/20210304/1498417.md">20名FBI真刀实枪破门而入！只因她在国会大厦发表医学演说【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210304/1498489.md">川普2024年总统竞选搭档不是彭斯，马上就要为新搭档筹款了【阿波罗网编译】</a></li>
 <li><a href="/comments/20210304/1498646.md">心理学：不管你们关系有多好，永远不要向对方透露这4个秘密</a></li>
+<li><a href="/cnnews/20210304/1498489.md">川普2024年总统竞选搭档不是彭斯，马上就要为新搭档筹款了【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210304/1498362.md">陈敏尔寄投名状？一周两批邓恢林获北京认可</a></li>
 <li><a href="/comments/20210304/1498501.md">务必看到最后！看完短视频，让你神清气爽！蓬佩奥真敢讲，深层政府是真实的，奥巴马安插8,000人，并提破解之法。川普选人标准。川普提选举改革，佩洛西针锋相对。</a></li>
 <li><a href="/cbnews/20210304/1498486.md">中共两会首日北京重度阴霾 网民：令人窒息</a></li>
-<li><a href="/cnnews/20210304/1498596.md">陈敏尔一周两批邓恢林 或是习近平“备胎”？</a></li>
-<li><a href="/cnnews/20210304/1498371.md">拜登刚说完一句话 白宫切断了直播【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20210304/1498604.md">中共商人发帖文 被当地华人肉搜出痛殴</a></li>
 <li><a href="/cnnews/20210305/1498758.md">彭斯打破沉默 投书批去年大选“严重投票违规”</a></li>
+<li><a href="/cnnews/20210304/1498596.md">陈敏尔一周两批邓恢林 或是习近平“备胎”？</a></li>
+<li><a href="/cbnews/20210304/1498604.md">中共商人发帖文 被当地华人肉搜出痛殴</a></li>
+<li><a href="/cnnews/20210304/1498371.md">拜登刚说完一句话 白宫切断了直播【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210305/1498722.md">【热点】拜登刚说完一句话白宫切断了直播；20名FBI破门而入因她在国会大厦发表医学演说；麦康奈尔表态支持反川共和党议员竞选；FBI雷局长参议院听证会说谎；美国会警察使用“可疑“情报【阿波罗网 Y L】</a></li>
+<li><a href="/lifebaike/20210304/1498586.md">江泽民迟浩田交手 江绵康进不去总参的内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210305/1498927.md" target="_blank">李怡：2.28的殷鉴 拿来认清中共武统</a></li>
+<li><a href="/comments/20210305/1498925.md" target="_blank">陶杰：美国黑命贵愿意听谭德塞的话 让非洲兄弟先打疫苗吗</a></li>
+<li><a href="/comments/20210305/1498924.md" target="_blank">严纯钩：禁凤梨台湾笑一笑 禁芯片大陆没活路</a></li>
+<li><a href="/comments/20210305/1498921.md" target="_blank">【推倒选举】据报人大将取消区议会选委 立法会“选委会”议席复活 设委员会审查参选</a></li>
 <li><a href="/comments/20210305/1498904.md" target="_blank">阳台种植红苋菜，掌握技巧可吃一夏天</a></li>
 <li><a href="/comments/20210305/1498888.md" target="_blank">忠于中共的历史学家 最后家破人亡死在党牢</a></li>
 <li><a href="/comments/20210305/1498880.md" target="_blank">重要短信；邮件显示福西WHO和美国NIH协助中共指定保密政策；两新泽西市议员涉嫌违规邮寄投票被起诉；20州总检察长批评 美众议院仍通过HR1法案；FBI确认1月6日国会事件中未发现枪支【希望之声TV】</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210305/1498773.md" target="_blank">泛民派 47人全部还押 家属崩溃！ 王丹：中共要彻底摧毁香港</a></li>
 <li><a href="/comments/20210305/1498772.md" target="_blank">301页邮件曝光！中共联手世卫隐瞒疫情 佛奇被爆牵涉其中</a></li>
 <li><a href="/comments/20210305/1498771.md" target="_blank">自曝没在美国买房 前海军中校：不用几年中共就倒台了</a></li>
-<li><a href="/comments/20210305/1498770.md" target="_blank">缅甸血腥镇压单日38死 联合国安理会周五紧急开会磋商</a></li>
-<li><a href="/comments/20210305/1498769.md" target="_blank">拜登说完愿接受提问 白宫视频突然中断</a></li>
-<li><a href="/comments/20210305/1498768.md" target="_blank">膨胀的宇宙是不是另一层宇宙的开始 生命的轮回？</a></li>
-<li><a href="/comments/20210305/1498765.md" target="_blank">评论 | 陈破空：习近平自夸全面脱贫，千年级别的大成就？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 
 </ul>
 </div>
