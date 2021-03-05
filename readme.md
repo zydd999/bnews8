@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210305/1485911.md">敏感时期大量翻墙工具失效 推荐高速有效翻墙工具</a></li>
-<li><a href="/lifebaike/20210305/1498819.md">开车10年才知道，车窗起雾原来不用打开暖风，只需一招车窗超清晰</a></li>
 <li><a href="/comments/20210305/1498989.md">李克强“两会”工作报告与习不同调？内幕消息指北京政治气氛诡异</a></li>
+<li><a href="/lifebaike/20210305/1498819.md">开车10年才知道，车窗起雾原来不用打开暖风，只需一招车窗超清晰</a></li>
 <li><a href="/health/20210305/1498895.md">男性寿命长短，与刮胡子频率有关系？经常要刮胡子，说明了什么？</a></li>
 <li><a href="/funmedia/20210305/1498876.md">女儿经常被“鬼压床”，妈妈连夜蹲守后…发现惊人内幕</a></li>
 <li><a href="/ssgc/20210305/1498787.md">〖兲朝浮世绘〗习近平的铁拳不知道能不能砸醒这位大使？</a></li>
@@ -24,8 +24,8 @@
 <li><a href="/topimagenews/20210305/1499168.md">蓬佩奥要大选:全世界在掂量拜登 华日社论吁共和党人弃川普,川普强烈反驳</a></li>
 <li><a href="/lifebaike/20210305/1498879.md">古代唯一传世状元答卷曝光，字迹让现代人汗颜，远胜许多书法名家</a></li>
 <li><a href="/cbnews/20210305/1498992.md">汪洋政协报告透玄机 邓小平12字治港方针作废</a></li>
-<li><a href="/finance/20210305/1498756.md">美国股债双杀 鲍威尔讲话令市场失望</a></li>
 <li><a href="/cnnews/20210305/1499199.md">某电视台公开招聘主持人，结果翻车了…</a></li>
+<li><a href="/finance/20210305/1498756.md">美国股债双杀 鲍威尔讲话令市场失望</a></li>
 <li><a href="/health/20210305/1498817.md">新血压标准公布，不是120/80，你血压或许并不高，来了解下</a></li>
 <li><a href="/bannedvideo/20210305/1498782.md">赵小兰被查报告曝光，麦康奈尔陪夫人折兵；两会报告不提一国两制，香港彻底沦陷；HR1法案出台，美国“关键时刻”来临。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210306/1499392.md" target="_blank">割断中共喉舌 澳媒SBS终止央媒节目；攻国会子虚乌有 议员抨击滥用军队；美参议院通过法案 帮助大学对抗孔子学院；董建华人大开幕跌倒 赴京前曾打国产疫苗 ；中共使用“情感识别”监视民众【希望之声TV】</a></li>
 <li><a href="/cbnews/20210305/1499288.md" target="_blank">澳洲公布现代制造倡议 挑战中共供应链</a></li>
 <li><a href="/comments/20210305/1499273.md" target="_blank">🔥🔥三大末日征兆已到齐❗❗</a></li>
 <li><a href="/cbnews/20210305/1499230.md" target="_blank">人权组织投诉 澳洲SBS暂停中共大外宣节目</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210305/1498880.md" target="_blank">重要短信；邮件显示福西WHO和美国NIH协助中共指定保密政策；两新泽西市议员涉嫌违规邮寄投票被起诉；20州总检察长批评 美众议院仍通过HR1法案；FBI确认1月6日国会事件中未发现枪支【希望之声TV】</a></li>
 <li><a href="/cbnews/20210305/1498875.md" target="_blank">天亮时分：一号法案，最后两道防线；该法案将永久改变美国政治版图；参议院能否启动核选项？（政论天下第368集 20210304）</a></li>
 <li><a href="/comments/20210305/1498865.md" target="_blank">20州检察长能否阻挡HR1？  删除川普CPAC演讲多家媒体封口2周  嘉宾：谢田 方伟 主持：高洁【希望之声TV】(2021/03/04)</a></li>
-<li><a href="/cbnews/20210305/1498774.md" target="_blank">白宫发布战略纲要 称确保由美而非中共制定国际议程</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210306/1499392.md" target="_blank">割断中共喉舌 澳媒SBS终止央媒节目；攻国会子虚乌有 议员抨击滥用军队；美参议院通过法案 帮助大学对抗孔子学院；董建华人大开幕跌倒 赴京前曾打国产疫苗 ；中共使用“情感识别”监视民众【希望之声TV】</a></li>
+<li><a href="/comments/20210306/1499391.md" target="_blank">国会山攻击为谣传 美议员抨击国会滥用军队</a></li>
+<li><a href="/comments/20210306/1499390.md" target="_blank">养猪很时髦？万科、阿里、京东和华为纷纷入局</a></li>
 <li><a href="/comments/20210306/1499382.md" target="_blank">众议员：民主党的HR1法案将招致广泛选民欺诈</a></li>
 <li><a href="/comments/20210306/1499381.md" target="_blank">美议员质疑NBA亲共 提三问题要其限时答复</a></li>
 <li><a href="/comments/20210306/1499380.md" target="_blank">研究：中午小睡片刻让思绪更清晰</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210306/1499322.md" target="_blank">《01》引消息：立会 90 席选委会占 40 直选大减至 20 席 社福界转团体票</a></li>
 <li><a href="/comments/20210306/1499321.md" target="_blank">习近平表弟与江泽民孙被推到高层内斗最前线</a></li>
 <li><a href="/comments/20210306/1499320.md" target="_blank">最新民调：美国人空前厌恶中共 不相信习近平</a></li>
-<li><a href="/comments/20210305/1499310.md" target="_blank">2.5万人连署要求停建国会围栏 让警卫队回家</a></li>
-<li><a href="/comments/20210305/1499309.md" target="_blank">已收集190万个签名 加州人罢免纽森有望</a></li>
-<li><a href="/comments/20210305/1499293.md" target="_blank">同是打工人：一念天堂一念地狱的货拉拉悲剧</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
