@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210305/1485911.md">敏感时期大量翻墙工具失效 推荐高速有效翻墙工具</a></li>
 <li><a href="/comments/20210304/1498612.md">🔥🔥预言太神❗中共不得不封杀❗❗</a></li>
-<li><a href="/comments/20210305/1498989.md">李克强“两会”工作报告与习不同调？内幕消息指北京政治气氛诡异</a></li>
 <li><a href="/comments/20210304/1498646.md">心理学：不管你们关系有多好，永远不要向对方透露这4个秘密</a></li>
+<li><a href="/comments/20210305/1498989.md">李克强“两会”工作报告与习不同调？内幕消息指北京政治气氛诡异</a></li>
 <li><a href="/lifebaike/20210305/1498819.md">开车10年才知道，车窗起雾原来不用打开暖风，只需一招车窗超清晰</a></li>
-<li><a href="/cnnews/20210305/1498758.md">彭斯打破沉默 投书批去年大选“严重投票违规”</a></li>
 <li><a href="/ssgc/20210305/1498787.md">〖兲朝浮世绘〗习近平的铁拳不知道能不能砸醒这位大使？</a></li>
+<li><a href="/cnnews/20210305/1498758.md">彭斯打破沉默 投书批去年大选“严重投票违规”</a></li>
 <li><a href="/funmedia/20210305/1498876.md">女儿经常被“鬼压床”，妈妈连夜蹲守后…发现惊人内幕</a></li>
 <li><a href="/health/20210305/1498895.md">男性寿命长短，与刮胡子频率有关系？经常要刮胡子，说明了什么？</a></li>
 <li><a href="/bannedvideo/20210305/1498828.md">为啥股市暴跌，特斯拉抛？危机已经到来，天大的机会来了。除了股票，还有什么方法应对危机。保财保命方法。上个月预测经济下行，的确发生了。还好我做了准备，你做好准备应对灰犀牛了么？13：50开始特斯拉</a></li>
 <li><a href="/topimagenews/20210305/1498891.md">301页邮件曝光！中共联手世卫隐瞒疫情 佛奇被爆也知情</a></li>
 <li><a href="/cbnews/20210304/1498604.md">中共商人发帖文 被当地华人肉搜出痛殴</a></li>
 <li><a href="/topimagenews/20210305/1498844.md">麦康奈尔还要进一步就范？拜登政府要调查赵小兰 美20州检察长拒接受民主党选举法</a></li>
-<li><a href="/cnnews/20210304/1498596.md">陈敏尔一周两批邓恢林 或是习近平“备胎”？</a></li>
 <li><a href="/cbnews/20210305/1499021.md">前香港特首董建华 中共人大会议中跌倒</a></li>
-<li><a href="/bannedvideo/20210305/1498722.md">【热点】拜登刚说完一句话白宫切断了直播；20名FBI破门而入因她在国会大厦发表医学演说；麦康奈尔表态支持反川共和党议员竞选；FBI雷局长参议院听证会说谎；美国会警察使用“可疑“情报【阿波罗网 Y L】</a></li>
 <li><a href="/funmedia/20210305/1498833.md">判断一个男人是穷一阵子，还是穷一辈子，看他这三点就知道了</a></li>
+<li><a href="/bannedvideo/20210305/1498722.md">【热点】拜登刚说完一句话白宫切断了直播；20名FBI破门而入因她在国会大厦发表医学演说；麦康奈尔表态支持反川共和党议员竞选；FBI雷局长参议院听证会说谎；美国会警察使用“可疑“情报【阿波罗网 Y L】</a></li>
 <li><a href="/finance/20210305/1498756.md">美国股债双杀 鲍威尔讲话令市场失望</a></li>
 <li><a href="/lifebaike/20210305/1498879.md">古代唯一传世状元答卷曝光，字迹让现代人汗颜，远胜许多书法名家</a></li>
 <li><a href="/cnnews/20210305/1498738.md">长沙最牛车牌…“湘A88888”被悬赏 网搜车主身份</a></li>
 <li><a href="/bannedvideo/20210305/1498782.md">赵小兰被查报告曝光，麦康奈尔陪夫人折兵；两会报告不提一国两制，香港彻底沦陷；HR1法案出台，美国“关键时刻”来临。</a></li>
 <li><a href="/health/20210305/1498817.md">新血压标准公布，不是120/80，你血压或许并不高，来了解下</a></li>
 <li><a href="/cbnews/20210305/1498992.md">汪洋政协报告透玄机 邓小平12字治港方针作废</a></li>
+<li><a href="/headline/20210305/1498677.md">汪洋讲话露玄机，邓小平12字治港方针已荡然无存</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210305/1499206.md" target="_blank">共识破裂？ 一民主党州也解除疫情封锁；库默第二？议员阻新泽西州长墨菲的紧急权力； 微软组建联盟监控“虚假信息” 批评者担心破坏隐私；世卫拟放弃发布赴华调查病毒起源中期报告；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210305/1499181.md" target="_blank">美国大选另外空间的战场游记</a></li>
 <li><a href="/cbnews/20210305/1499170.md" target="_blank">广州14岁少年乘公交突发心梗 司机竟拒送医…</a></li>
 <li><a href="/cbnews/20210305/1499169.md" target="_blank">两会期间北京多个地铁出现故障 临时停车</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210305/1498713.md" target="_blank">国会警方称  民兵组织密谋4日攻国会大厦；拜登否认边境危机   难民上门演荒唐一幕 ；赵小兰遭曝滥用职权？美交通部出报告；誓摆脱中国供应链 澳重金投放矿石加工；美日印澳向亚洲供疫苗【希望之声TV】</a></li>
 <li><a href="/comments/20210304/1498612.md" target="_blank">🔥🔥预言太神❗中共不得不封杀❗❗</a></li>
 <li><a href="/cbnews/20210304/1498604.md" target="_blank">中共商人发帖文 被当地华人肉搜出痛殴</a></li>
-<li><a href="/cbnews/20210304/1498603.md" target="_blank">美情报员曝中共下一步棋：政治谋杀、网络袭击…</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210305/1499206.md" target="_blank">共识破裂？ 一民主党州也解除疫情封锁；库默第二？议员阻新泽西州长墨菲的紧急权力； 微软组建联盟监控“虚假信息” 批评者担心破坏隐私；世卫拟放弃发布赴华调查病毒起源中期报告；8am【希望之声TV】</a></li>
+<li><a href="/comments/20210305/1499196.md" target="_blank">政府给您的建议，是害人还是真关心您的孩子</a></li>
+<li><a href="/comments/20210305/1499195.md" target="_blank">“中国是最大地缘政治挑战” 拜登政府罕见公布国安指南撑台 北京态度变了</a></li>
 <li><a href="/comments/20210305/1499194.md" target="_blank">李克强做工作报告频频喝水 提64次“稳”</a></li>
 <li><a href="/comments/20210305/1499182.md" target="_blank">中共官媒遭人权团体投诉 澳洲SBS停播</a></li>
 <li><a href="/comments/20210305/1499176.md" target="_blank">苏宁大危机 不可一世的张近东难逃被“公有制”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210305/1499020.md" target="_blank">3月4号下午3时 华盛顿特区出现大量警车和特勤局的车  肯定有大事发生   难道是川普真的回白宫了？扑朔迷离 难以知晓</a></li>
 <li><a href="/comments/20210305/1499016.md" target="_blank">共识破裂？ 一民主党州也解除疫情封锁</a></li>
 <li><a href="/comments/20210305/1499015.md" target="_blank">美祭新制裁：加强对缅甸贸易管制 冻结军政府280亿资金</a></li>
-<li><a href="/comments/20210305/1499014.md" target="_blank">《联合早报》引消息：民阵正被调查是否违国安法 短时间内或遭取缔</a></li>
-<li><a href="/comments/20210305/1499012.md" target="_blank">不祥之兆？曾为国安法抗旗 香港首任特首董建华人大开幕式跌倒</a></li>
-<li><a href="/comments/20210305/1499008.md" target="_blank">福西邮件曝光中共联手世卫隐瞒疫情</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
