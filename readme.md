@@ -7,12 +7,9 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210305/1485911.md">敏感时期大量翻墙工具失效 推荐高速有效翻墙工具</a></li>
 <li><a href="/comments/20210305/1498989.md">李克强“两会”工作报告与习不同调？内幕消息指北京政治气氛诡异</a></li>
-<li><a href="/lifebaike/20210305/1498819.md">开车10年才知道，车窗起雾原来不用打开暖风，只需一招车窗超清晰</a></li>
 <li><a href="/health/20210305/1498895.md">男性寿命长短，与刮胡子频率有关系？经常要刮胡子，说明了什么？</a></li>
 <li><a href="/funmedia/20210305/1498876.md">女儿经常被“鬼压床”，妈妈连夜蹲守后…发现惊人内幕</a></li>
-<li><a href="/bannedvideo/20210305/1498828.md">为啥股市暴跌，特斯拉抛？危机已经到来，天大的机会来了。除了股票，还有什么方法应对危机。保财保命方法。上个月预测经济下行，的确发生了。还好我做了准备，你做好准备应对灰犀牛了么？13：50开始特斯拉</a></li>
 <li><a href="/cnnews/20210305/1499213.md">奥运主持人沈冰自述：我和周永康的故事</a></li>
-<li><a href="/funmedia/20210305/1498833.md">判断一个男人是穷一阵子，还是穷一辈子，看他这三点就知道了</a></li>
 <li><a href="/topimagenews/20210305/1498891.md">301页邮件曝光！中共联手世卫隐瞒疫情 佛奇被爆也知情</a></li>
 <li><a href="/cbnews/20210305/1499021.md">前香港特首董建华 中共人大会议中跌倒</a></li>
 <li><a href="/cnnews/20210305/1499086.md">福原爱亲笔信2度道歉 江宏杰回应了</a></li>
@@ -23,11 +20,14 @@
 <li><a href="/cnnews/20210305/1499199.md">某电视台公开招聘主持人，结果翻车了…</a></li>
 <li><a href="/lifebaike/20210305/1498879.md">古代唯一传世状元答卷曝光，字迹让现代人汗颜，远胜许多书法名家</a></li>
 <li><a href="/cbnews/20210305/1498992.md">汪洋政协报告透玄机 邓小平12字治港方针作废</a></li>
-<li><a href="/health/20210305/1498817.md">新血压标准公布，不是120/80，你血压或许并不高，来了解下</a></li>
 <li><a href="/comments/20210305/1499273.md">🔥🔥三大末日征兆已到齐❗❗</a></li>
 <li><a href="/cnnews/20210305/1499186.md">双层口罩防疫？超级电脑模拟结果令人惊讶</a></li>
 <li><a href="/yule/20210305/1498974.md">51岁王菲瘦变样！穿丝绸短裙排骨胸抢镜，男友谢霆锋滑雪好惬意</a></li>
 <li><a href="/bannedvideo/20210305/1499171.md">陈破空：涉港，汪洋不提关键词！大讲习近平，暗示责任全在他。他们都打了国产疫苗？谁信</a></li>
+<li><a href="/topimagenews/20210305/1499286.md">拜登：印度移民"正在接管美国” 我现在应该说话吗？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210306/1499395.md">韭菜不够，爱国生意开始“内卷”了</a></li>
+<li><a href="/ssgc/20210305/1498860.md">〖微博谈〗祸害帮你们太可恶了</a></li>
+<li><a href="/comments/20210305/1499006.md">剥夺拜登军权？两党提法案！川普再发声明！麦康奈尔被批；罗姆尼摔倒昏迷 称是保守党大会惹得祸？刺激法案90%与疫情援助无关？议员曝光内幕；【希望之声TV】（12AM）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210306/1499478.md" target="_blank">川普行政令继续有效；拜登任命索罗斯为白宫刑事司法顾问 ；德州州长宣布立法 防止科技巨头言论审查；麦肯纳尼评论与普萨基的不同；库默团队重写了疗养院报告以掩盖死亡人数  【希望之声TV】</a></li>
 <li><a href="/cbnews/20210306/1499450.md" target="_blank">美国防部为何将小米列入黑名单</a></li>
 <li><a href="/cbnews/20210306/1499420.md" target="_blank">李克强政府报告现64个“稳”字 凸显政经不稳</a></li>
 <li><a href="/cbnews/20210306/1499419.md" target="_blank">谁恐惧？宜家超市通告：两会期间禁售刀具</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210305/1499006.md" target="_blank">剥夺拜登军权？两党提法案！川普再发声明！麦康奈尔被批；罗姆尼摔倒昏迷 称是保守党大会惹得祸？刺激法案90%与疫情援助无关？议员曝光内幕；【希望之声TV】（12AM）</a></li>
 <li><a href="/cbnews/20210305/1499002.md" target="_blank">马路监控盗用私家电 沈阳受害商户投诉无门</a></li>
 <li><a href="/comments/20210305/1498994.md" target="_blank">薇羽回归！什么原因让经典的儿童书成为绝版，价格高过黄金？今日川普发声明，解析共和党乔州失利原因。｜薇羽看世间 第254期 20210304</a></li>
-<li><a href="/cbnews/20210305/1498992.md" target="_blank">汪洋政协报告透玄机 邓小平12字治港方针作废</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210306/1499478.md" target="_blank">川普行政令继续有效；拜登任命索罗斯为白宫刑事司法顾问 ；德州州长宣布立法 防止科技巨头言论审查；麦肯纳尼评论与普萨基的不同；库默团队重写了疗养院报告以掩盖死亡人数  【希望之声TV】</a></li>
+<li><a href="/comments/20210306/1499477.md" target="_blank">颜纯钩：莫退莫散 在恶劣的环境下合法抗争</a></li>
+<li><a href="/comments/20210306/1499475.md" target="_blank">熊与龙的恶棍同盟：各怀鬼胎的中俄暗战</a></li>
+<li><a href="/comments/20210306/1499474.md" target="_blank">王丹等188人：一个法西斯政权 不配举办冬奥会</a></li>
+<li><a href="/comments/20210306/1499473.md" target="_blank">苏晓康：中共来了 印支半岛会流血不止</a></li>
+<li><a href="/comments/20210306/1499468.md" target="_blank">川普发声明 谴责拜登导致边境危机升级</a></li>
+<li><a href="/comments/20210306/1499464.md" target="_blank">贺锦丽投下关键一票 参议院推进拜登1.9万亿纾困案</a></li>
+<li><a href="/comments/20210306/1499463.md" target="_blank">汪洋报告透玄机 邓小平当年承诺被废除</a></li>
 <li><a href="/comments/20210306/1499453.md" target="_blank">美国2月增37.9万岗位 经济复苏令业界担忧升息</a></li>
 <li><a href="/comments/20210306/1499446.md" target="_blank">【专访王靖渝】（一）准备环球抗议 希望中共早日倒下</a></li>
 <li><a href="/comments/20210306/1499437.md" target="_blank">【睇片】两会开幕 董建华仆倒 “我没事，请大家放心”</a></li>
@@ -115,14 +123,6 @@
 <li><a href="/comments/20210306/1499393.md" target="_blank">拜登讽德州“尼安德塔人行径” 引论战 白宫缓颊</a></li>
 <li><a href="/comments/20210306/1499392.md" target="_blank">割断中共喉舌 澳媒SBS终止央媒节目；攻国会子虚乌有 议员抨击滥用军队；美参议院通过法案 帮助大学对抗孔子学院；董建华人大开幕跌倒 赴京前曾打国产疫苗 ；中共使用“情感识别”监视民众【希望之声TV】</a></li>
 <li><a href="/comments/20210306/1499391.md" target="_blank">国会山攻击为谣传 美议员抨击国会滥用军队</a></li>
-<li><a href="/comments/20210306/1499390.md" target="_blank">养猪很时髦？万科、阿里、京东和华为纷纷入局</a></li>
-<li><a href="/comments/20210306/1499382.md" target="_blank">众议员：民主党的HR1法案将招致广泛选民欺诈</a></li>
-<li><a href="/comments/20210306/1499381.md" target="_blank">美议员质疑NBA亲共 提三问题要其限时答复</a></li>
-<li><a href="/comments/20210306/1499380.md" target="_blank">研究：中午小睡片刻让思绪更清晰</a></li>
-<li><a href="/comments/20210306/1499379.md" target="_blank">惊！十大死因“八成”跟肥胖有关</a></li>
-<li><a href="/comments/20210306/1499378.md" target="_blank">到底什么是易致癌食物？我们平时接触的有哪些？</a></li>
-<li><a href="/comments/20210306/1499375.md" target="_blank">外国人如何看中国五毛和小粉红  感觉自己的智商被五毛攻击了</a></li>
-<li><a href="/comments/20210306/1499372.md" target="_blank">外资持续抛售贵州茅台 一周卖出28.8亿元</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
 <li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
