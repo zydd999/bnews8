@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210305/1499213.md">奥运主持人沈冰自述：我和周永康的故事</a></li>
 <li><a href="/lifebaike/20210306/1499452.md">杭州女子洗浴中心洗澡，一丝不挂的吹着头发，迎面来了两名男子</a></li>
 <li><a href="/cbnews/20210306/1499395.md">韭菜不够，爱国生意开始“内卷”了</a></li>
 <li><a href="/comments/20210306/1499370.md">习近平戴口罩现身内蒙古团 晕倒后布小林在哪里</a></li>
 <li><a href="/cbnews/20210306/1499669.md">两会习近平有两个茶杯 专用特殊服务</a></li>
-<li><a href="/comments/20210305/1499273.md">🔥🔥三大末日征兆已到齐❗❗</a></li>
 <li><a href="/bannedvideo/20210306/1499476.md">中共江派与习近平内斗加剧 揭秘江泽民早就已经死了（启明笑谈20210305）</a></li>
+<li><a href="/comments/20210305/1499273.md">🔥🔥三大末日征兆已到齐❗❗</a></li>
 <li><a href="/ssgc/20210306/1499403.md">〖兲朝浮世绘〗习近平的尺寸</a></li>
 <li><a href="/lifebaike/20210306/1499567.md">比油和盐更可怕！有国家已禁食用！千万别给孩子吃</a></li>
 <li><a href="/topimagenews/20210306/1499662.md">官媒发延迟退休消息忘关评论 大量“刁民”留言</a></li>
@@ -19,14 +18,15 @@
 <li><a href="/bannedvideo/20210306/1499431.md">陈破空：快讯：副主席突然跌倒，会场大乱！都是国产疫苗惹的祸？国药董事长谎言穿帮</a></li>
 <li><a href="/cbnews/20210306/1499683.md">牛腾宇遭吊打烧私处 母亲获悉儿子酷刑晕倒 海外联名向习近平女儿求救</a></li>
 <li><a href="/topimagenews/20210306/1499563.md">习近平：美国是中共的“最大威胁” 华裔顶级科学家隐瞒参加千人计划被FBI调查</a></li>
+<li><a href="/cbnews/20210306/1499757.md">习近平摞重话“帐总是要算的” 内蒙团全场寂静</a></li>
 <li><a href="/topimagenews/20210306/1499615.md">唐人街店主向黑劫匪开枪竟被捕！加州奥克兰警方作出以下无耻声明</a></li>
 <li><a href="/ssgc/20210306/1499406.md">〖兲朝浮世绘〗蹂躏完了再踩碎小粉红们的玻璃心 她是哪国人？</a></li>
 <li><a href="/worldnews/20210306/1499438.md">洋女问暖非法移民 下秒遭“拉进帐篷”轮流侵犯</a></li>
 <li><a href="/yule/20210306/1499367.md">说中国充满谎言！金球奖最佳导演赵婷 新片中国版海报被撤</a></li>
 <li><a href="/comments/20210306/1499371.md">奇葩提案！许进：取消英语在中小学主科地位 评：这孙子对得起你爷爷吗</a></li>
 <li><a href="/topimagenews/20210305/1499286.md">拜登：印度移民"正在接管美国” 我现在应该说话吗？【阿波罗网编译】</a></li>
-<li><a href="/headline/20210306/1499425.md">李克强和汪洋有关香港的描述出现差异 引发联想</a></li>
 <li><a href="/lifebaike/20210306/1499638.md">家里最大的“偷电贼”排行榜，把它关掉，电费少一半</a></li>
+<li><a href="/headline/20210306/1499425.md">李克强和汪洋有关香港的描述出现差异 引发联想</a></li>
 <li><a href="/cbnews/20210306/1499678.md">外媒指肛检成入境中国必测项目 自行采样图曝光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
