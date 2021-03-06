@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210305/1485911.md">敏感时期大量翻墙工具失效 推荐高速有效翻墙工具</a></li>
 <li><a href="/cnnews/20210305/1499213.md">奥运主持人沈冰自述：我和周永康的故事</a></li>
 <li><a href="/lifebaike/20210306/1499452.md">杭州女子洗浴中心洗澡，一丝不挂的吹着头发，迎面来了两名男子</a></li>
 <li><a href="/cbnews/20210306/1499395.md">韭菜不够，爱国生意开始“内卷”了</a></li>
-<li><a href="/comments/20210305/1499194.md">李克强做工作报告频频喝水 提64次“稳”</a></li>
 <li><a href="/comments/20210306/1499370.md">习近平戴口罩现身内蒙古团 晕倒后布小林在哪里</a></li>
+<li><a href="/comments/20210305/1499194.md">李克强做工作报告频频喝水 提64次“稳”</a></li>
 <li><a href="/cnnews/20210305/1499199.md">某电视台公开招聘主持人，结果翻车了…</a></li>
-<li><a href="/bannedvideo/20210306/1499476.md">中共江派与习近平内斗加剧 揭秘江泽民早就已经死了（启明笑谈20210305）</a></li>
 <li><a href="/comments/20210305/1499273.md">🔥🔥三大末日征兆已到齐❗❗</a></li>
+<li><a href="/bannedvideo/20210306/1499476.md">中共江派与习近平内斗加剧 揭秘江泽民早就已经死了（启明笑谈20210305）</a></li>
 <li><a href="/topimagenews/20210305/1499168.md">蓬佩奥要大选:全世界在掂量拜登 华日社论吁共和党人弃川普,川普强烈反驳</a></li>
 <li><a href="/ssgc/20210306/1499403.md">〖兲朝浮世绘〗习近平的尺寸</a></li>
 <li><a href="/lifebaike/20210306/1499567.md">比油和盐更可怕！有国家已禁食用！千万别给孩子吃</a></li>
-<li><a href="/bannedvideo/20210306/1499431.md">陈破空：快讯：副主席突然跌倒，会场大乱！都是国产疫苗惹的祸？国药董事长谎言穿帮</a></li>
 <li><a href="/cbnews/20210306/1499579.md">两会奇葩提案！九三学社中央委员被讽“这孙子对得起你爷爷吗”？</a></li>
-<li><a href="/topimagenews/20210306/1499563.md">习近平：美国是中共的“最大威胁” 华裔顶级科学家隐瞒参加千人计划被FBI调查</a></li>
-<li><a href="/ssgc/20210306/1499406.md">〖兲朝浮世绘〗蹂躏完了再踩碎小粉红们的玻璃心 她是哪国人？</a></li>
-<li><a href="/cnnews/20210305/1499186.md">双层口罩防疫？超级电脑模拟结果令人惊讶</a></li>
-<li><a href="/yule/20210306/1499367.md">说中国充满谎言！金球奖最佳导演赵婷 新片中国版海报被撤</a></li>
+<li><a href="/bannedvideo/20210306/1499431.md">陈破空：快讯：副主席突然跌倒，会场大乱！都是国产疫苗惹的祸？国药董事长谎言穿帮</a></li>
 <li><a href="/cbnews/20210306/1499669.md">两会习近平有两个茶杯 专用特殊服务</a></li>
+<li><a href="/topimagenews/20210306/1499563.md">习近平：美国是中共的“最大威胁” 华裔顶级科学家隐瞒参加千人计划被FBI调查</a></li>
+<li><a href="/cnnews/20210305/1499186.md">双层口罩防疫？超级电脑模拟结果令人惊讶</a></li>
+<li><a href="/ssgc/20210306/1499406.md">〖兲朝浮世绘〗蹂躏完了再踩碎小粉红们的玻璃心 她是哪国人？</a></li>
+<li><a href="/yule/20210306/1499367.md">说中国充满谎言！金球奖最佳导演赵婷 新片中国版海报被撤</a></li>
 <li><a href="/comments/20210306/1499371.md">奇葩提案！许进：取消英语在中小学主科地位 评：这孙子对得起你爷爷吗</a></li>
 <li><a href="/worldnews/20210306/1499438.md">洋女问暖非法移民 下秒遭“拉进帐篷”轮流侵犯</a></li>
-<li><a href="/topimagenews/20210305/1499286.md">拜登：印度移民"正在接管美国” 我现在应该说话吗？【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210306/1499615.md">唐人街店主向黑劫匪开枪竟被捕！加州奥克兰警方作出以下无耻声明</a></li>
+<li><a href="/topimagenews/20210305/1499286.md">拜登：印度移民"正在接管美国” 我现在应该说话吗？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210306/1499662.md">官媒发延迟退休消息忘关评论 大量“刁民”留言</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210306/1499739.md" target="_blank">两会前夕 河北访民遭警察恐吓：哪儿都别去</a></li>
 <li><a href="/cbnews/20210306/1499735.md" target="_blank">政协委员要将张謇写进教课书 港媒嘲讽：是给习近平擦鞋</a></li>
 <li><a href="/cbnews/20210306/1499720.md" target="_blank">九千多“610”恶人名单被递交38国政府</a></li>
 <li><a href="/cbnews/20210306/1499714.md" target="_blank">中共开两会 北京警察利用人脸识别抓捕访民</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210306/1499450.md" target="_blank">美国防部为何将小米列入黑名单</a></li>
 <li><a href="/cbnews/20210306/1499420.md" target="_blank">李克强政府报告现64个“稳”字 凸显政经不稳</a></li>
 <li><a href="/cbnews/20210306/1499419.md" target="_blank">谁恐惧？宜家超市通告：两会期间禁售刀具</a></li>
-<li><a href="/cbnews/20210306/1499410.md" target="_blank">NBA拟返央视 美议员批其自私 提三问题</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
