@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210306/1499757.md">习近平摞重话“帐总是要算的” 内蒙团全场寂静</a></li>
-<li><a href="/cbnews/20210306/1499669.md">两会习近平有两个茶杯 专用特殊服务</a></li>
 <li><a href="/cbnews/20210306/1499758.md">中共两会温家宝最后一问 薄熙来有来无回</a></li>
+<li><a href="/cbnews/20210306/1499669.md">两会习近平有两个茶杯 专用特殊服务</a></li>
 <li><a href="/topimagenews/20210306/1499662.md">官媒发延迟退休消息忘关评论 大量“刁民”留言</a></li>
 <li><a href="/cbnews/20210306/1499864.md">两会 习近平一细节引关注</a></li>
 <li><a href="/cbnews/20210306/1499683.md">牛腾宇遭吊打烧私处 母亲获悉儿子酷刑晕倒 海外联名向习近平女儿求救</a></li>
 <li><a href="/lifebaike/20210306/1499819.md">刘备死后诸葛亮就没再赢过 真相原来如此</a></li>
-<li><a href="/lifebaike/20210306/1499638.md">家里最大的“偷电贼”排行榜，把它关掉，电费少一半</a></li>
 <li><a href="/comments/20210307/1499952.md">李克强两会报告故意读错字？再现与习近平相左言论 中南海谣言预言_440</a></li>
 <li><a href="/lifebaike/20210306/1499744.md">花4300万进斯坦福的中国女孩，被开除的两年后</a></li>
 <li><a href="/cbnews/20210306/1499678.md">外媒指肛检成入境中国必测项目 自行采样图曝光</a></li>
 <li><a href="/cbnews/20210306/1499707.md">胆不小！肯德基食物银行现身上海：一亮相就遭哄抢 网友讽：冰箱还在</a></li>
-<li><a href="/bannedvideo/20210306/1499812.md">陈破空：关键人物缺席两会！习近平密令：不准谈二十大！获奖女导演遭告密。胡锡进突然反党</a></li>
-<li><a href="/comments/20210306/1499853.md">魏晋：习近平在内蒙代表团放狠话 吓坏刘云山</a></li>
-<li><a href="/comments/20210307/1499938.md">“起夜 2 次”要注意了，可能是心血管警讯</a></li>
 <li><a href="/comments/20210307/1499936.md">拜登无法召开记者会的真实原因</a></li>
+<li><a href="/bannedvideo/20210306/1499812.md">陈破空：关键人物缺席两会！习近平密令：不准谈二十大！获奖女导演遭告密。胡锡进突然反党</a></li>
+<li><a href="/comments/20210307/1499938.md">“起夜 2 次”要注意了，可能是心血管警讯</a></li>
+<li><a href="/comments/20210306/1499853.md">魏晋：习近平在内蒙代表团放狠话 吓坏刘云山</a></li>
 <li><a href="/cbnews/20210306/1499735.md">政协委员要将张謇写进教课书 港媒嘲讽：是给习近平擦鞋</a></li>
-<li><a href="/health/20210306/1499634.md">一对50岁中年夫妇，每天喝黄芪泡水，两个人最后得到了什么？</a></li>
-<li><a href="/topimagenews/20210306/1499666.md">中共国吃的，也被卡脖子？</a></li>
 <li><a href="/comments/20210307/1499972.md">🔥🔥美国将爆发大动荡❓英国通灵师预言拜登在任期内将遭遇暗杀❗2021最新预言❗</a></li>
-<li><a href="/yule/20210306/1499639.md">“小婉君”金铭白发断掌泄老态 40岁至今仍单身</a></li>
+<li><a href="/topimagenews/20210306/1499666.md">中共国吃的，也被卡脖子？</a></li>
 <li><a href="/comments/20210306/1499759.md">细思极恐！FBI局长的最新证词，一个盖世太保式抓捕川普支持者的阴谋，正在悄悄酝酿！川普总统在白宫最后24小时，解密的重要通俄门档案文件曝光，做实FBI已经蜕变。</a></li>
 <li><a href="/yule/20210306/1499746.md">22岁女歌手传猝逝！IG最后文字 网民泪崩</a></li>
+<li><a href="/lifebaike/20210306/1499718.md">王维最淡然的一首小诗，仅20字，抚慰世人1200多年</a></li>
+<li><a href="/cbnews/20210306/1499849.md">美国又软了？县官泄露习近平心思</a></li>
+<li><a href="/health/20210306/1499715.md">50岁以后，睡觉时出现3种情况，可能脑梗要发生，不要忽视</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210307/1500135.md" target="_blank">遭制裁的新疆书记拍马屁∶习创两大“奇迹”</a></li>
+<li><a href="/comments/20210307/1500134.md" target="_blank">中国四川和湖北再爆非洲猪瘟 病毒变异传播力强</a></li>
+<li><a href="/comments/20210307/1500132.md" target="_blank">印太部署航母制衡中共 英国将发布“冷战后最重量级报告”</a></li>
+<li><a href="/comments/20210307/1500129.md" target="_blank">【微博精粹】取消英语 二会最爱国提案</a></li>
+<li><a href="/comments/20210307/1500128.md" target="_blank">张杰：评本年人大会议释放的信号</a></li>
+<li><a href="/comments/20210307/1500127.md" target="_blank">深度好文：取消文化的起源和对美国的影响 在东西方的表演</a></li>
+<li><a href="/comments/20210307/1500126.md" target="_blank">习近平刚赞完张謇 政协的“马屁”提案就来了</a></li>
 <li><a href="/comments/20210307/1500110.md" target="_blank">德州议员促政府续建边界墙 并命名为“川普墙”</a></li>
 <li><a href="/comments/20210307/1500105.md" target="_blank">中共如何以“打击恐怖主义”之名“打击维吾尔人”</a></li>
 <li><a href="/comments/20210307/1500104.md" target="_blank">法律团官方新闻稿：呼吁国会公开阿什莉被枪杀事实</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210307/1500048.md" target="_blank">憨憨班长：美国现下妖孽横行 妖气冲天</a></li>
 <li><a href="/comments/20210307/1500042.md" target="_blank">刘云山怎样了？习近平放一句狠话 官媒：现场一片寂静</a></li>
 <li><a href="/comments/20210307/1500040.md" target="_blank">外祖曾任职中央警卫局 旅日“红三代”屡曝中共丑闻：不想下一代被其控制</a></li>
-<li><a href="/comments/20210307/1500038.md" target="_blank">李燕铭：习近平在内蒙古代表团放狠话 “这个帐总是要算的” 全场寂静 中纪委紧急发文呼应 内蒙古倒查20年查处1400余人 习近平要求“还要继续抓下去” 大老虎或很快被抛出 太子党布小林隐身40天缺席人大内蒙古团处境引猜测</a></li>
-<li><a href="/comments/20210307/1500036.md" target="_blank">九千多“610”人员名单被递交给38国政府</a></li>
-<li><a href="/comments/20210307/1500033.md" target="_blank">【中国观察】川普总统下令海豹突击队突袭了纽约州查帕夸庄园 以叛国罪 破坏政府财产罪和协助和教唆敌人罪秘密逮捕了希拉里克林顿 川普很快会把她送到关塔那摩湾 以她对美国和美国人民犯下的罪行面对军事法庭</a></li>
-<li><a href="/comments/20210307/1500021.md" target="_blank">朝鲜经济危机在悬崖边 百姓连这事都敢做</a></li>
-<li><a href="/comments/20210307/1500020.md" target="_blank">三起性骚扰指控 报应来得太快了</a></li>
-<li><a href="/comments/20210307/1500003.md" target="_blank">刘云山怎样了？习近平谈内蒙古放一句狠话 官媒：现场一片寂静</a></li>
-<li><a href="/comments/20210307/1499993.md" target="_blank">廖然: 每一次瘟疫都不是无差别来袭</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
