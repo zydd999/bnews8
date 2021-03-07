@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210306/1499757.md">习近平摞重话“帐总是要算的” 内蒙团全场寂静</a></li>
-<li><a href="/cbnews/20210306/1499758.md">中共两会温家宝最后一问 薄熙来有来无回</a></li>
 <li><a href="/cbnews/20210306/1499864.md">两会 习近平一细节引关注</a></li>
 <li><a href="/lifebaike/20210306/1499819.md">刘备死后诸葛亮就没再赢过 真相原来如此</a></li>
 <li><a href="/comments/20210307/1499952.md">李克强两会报告故意读错字？再现与习近平相左言论 中南海谣言预言_440</a></li>
 <li><a href="/comments/20210307/1499972.md">🔥🔥美国将爆发大动荡❓英国通灵师预言拜登在任期内将遭遇暗杀❗2021最新预言❗</a></li>
 <li><a href="/topimagenews/20210307/1500018.md">习近平一句话两会现惊人一幕 反共出奇迹 澳创60年GDP增长记录 中共报复反火</a></li>
 <li><a href="/bannedvideo/20210306/1499812.md">陈破空：关键人物缺席两会！习近平密令：不准谈二十大！获奖女导演遭告密。胡锡进突然反党</a></li>
-<li><a href="/lifebaike/20210307/1499975.md">32岁博士女心酸道：我不过提一个要求，他就娶了23岁的小姑娘</a></li>
 <li><a href="/comments/20210306/1499853.md">魏晋：习近平在内蒙代表团放狠话 吓坏刘云山</a></li>
+<li><a href="/lifebaike/20210307/1499975.md">32岁博士女心酸道：我不过提一个要求，他就娶了23岁的小姑娘</a></li>
 <li><a href="/lifebaike/20210307/1499960.md">孩子出生时的体重，决定了智商高低？接近这个数，父母偷着乐吧</a></li>
 <li><a href="/comments/20210307/1499936.md">拜登无法召开记者会的真实原因</a></li>
 <li><a href="/comments/20210307/1499938.md">“起夜 2 次”要注意了，可能是心血管警讯</a></li>
 <li><a href="/topimagenews/20210307/1500094.md">背叛川普有后果！川普向共和党全国委员会等发最后通牒【阿波罗网编译】</a></li>
 <li><a href="/comments/20210307/1500033.md">【中国观察】川普总统下令海豹突击队突袭了纽约州查帕夸庄园 以叛国罪 破坏政府财产罪和协助和教唆敌人罪秘密逮捕了希拉里克林顿 川普很快会把她送到关塔那摩湾 以她对美国和美国人民犯下的罪行面对军事法庭</a></li>
-<li><a href="/comments/20210306/1499759.md">细思极恐！FBI局长的最新证词，一个盖世太保式抓捕川普支持者的阴谋，正在悄悄酝酿！川普总统在白宫最后24小时，解密的重要通俄门档案文件曝光，做实FBI已经蜕变。</a></li>
 <li><a href="/cbnews/20210306/1499849.md">美国又软了？县官泄露习近平心思</a></li>
 <li><a href="/comments/20210307/1499889.md">习近平女儿信息外泄后续：牛腾宇遭火烧私处拍裸照 留学生吁习明泽发声</a></li>
 <li><a href="/comments/20210307/1500003.md">刘云山怎样了？习近平谈内蒙古放一句狠话 官媒：现场一片寂静</a></li>
+<li><a href="/topimagenews/20210307/1500155.md">以色列防长展示机密地图，一旦开战，每天将…</a></li>
 <li><a href="/yule/20210306/1499837.md">范冰冰母女搭机，两人颜值超高成靓丽风景线</a></li>
 <li><a href="/lifebaike/20210307/1499995.md">炒鸡蛋时加一宝，肾气满满，头发黑了，睡得香了，身体倍儿棒</a></li>
 <li><a href="/comments/20210307/1499956.md">习近平女习明泽个资泄漏案“主犯”被火烧私处拍裸照 “主犯”母亲曝鲜为人知的细节：当局调上百国安对付牛腾宇 律师透露牛腾宇被重判三原因 中南海不可告人的秘密_333</a></li>
 <li><a href="/yule/20210307/1499964.md">38岁车晓现身签约仪式，身材瘦弱似麻杆，气质优越站人群中好抢眼</a></li>
+<li><a href="/comments/20210307/1499934.md">纽约五大道大型挺川游行 民众吁川普“拯救美国”</a></li>
+<li><a href="/funmedia/20210307/1499958.md">科学家惊人发现宇宙就是我们的大脑,而古人早已言明</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210307/1500245.md" target="_blank">【一周时局看点】（三）胡锡进人够狠，又乱喷</a></li>
+<li><a href="/comments/20210307/1500244.md" target="_blank">【一周时局看点】（二）习近平两年内攻台吗？</a></li>
 <li><a href="/comments/20210307/1500238.md" target="_blank">缅甸仰光“夜未眠” 军警对民宅开枪逮捕示威者</a></li>
 <li><a href="/comments/20210307/1500237.md" target="_blank">不是越红越好，日本专家教你找出真正甜草莓</a></li>
 <li><a href="/comments/20210307/1500236.md" target="_blank">8种你想都想不到能减肥的食物</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210307/1500137.md" target="_blank">【47 人案】英国诺定咸集会声援 中国参加者﹕没希望就不争取会变港猪</a></li>
 <li><a href="/comments/20210307/1500136.md" target="_blank">还要等多久？！联合国缅甸事务特使：我直接听到来自缅甸人绝望的乞求</a></li>
 <li><a href="/comments/20210307/1500135.md" target="_blank">遭制裁的新疆书记拍马屁∶习创两大“奇迹”</a></li>
-<li><a href="/comments/20210307/1500134.md" target="_blank">中国四川和湖北再爆非洲猪瘟 病毒变异传播力强</a></li>
-<li><a href="/comments/20210307/1500132.md" target="_blank">印太部署航母制衡中共 英国将发布“冷战后最重量级报告”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 
 </ul>
 </div>
