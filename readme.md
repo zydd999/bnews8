@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210306/1499864.md">两会 习近平一细节引关注</a></li>
-<li><a href="/lifebaike/20210306/1499819.md">刘备死后诸葛亮就没再赢过 真相原来如此</a></li>
 <li><a href="/comments/20210307/1499952.md">李克强两会报告故意读错字？再现与习近平相左言论 中南海谣言预言_440</a></li>
 <li><a href="/comments/20210307/1499972.md">🔥🔥美国将爆发大动荡❓英国通灵师预言拜登在任期内将遭遇暗杀❗2021最新预言❗</a></li>
 <li><a href="/topimagenews/20210307/1500018.md">习近平一句话两会现惊人一幕 反共出奇迹 澳创60年GDP增长记录 中共报复反火</a></li>
@@ -19,6 +18,7 @@
 <li><a href="/comments/20210307/1500033.md">【中国观察】川普总统下令海豹突击队突袭了纽约州查帕夸庄园 以叛国罪 破坏政府财产罪和协助和教唆敌人罪秘密逮捕了希拉里克林顿 川普很快会把她送到关塔那摩湾 以她对美国和美国人民犯下的罪行面对军事法庭</a></li>
 <li><a href="/topimagenews/20210307/1500094.md">背叛川普有后果！川普向共和党全国委员会等发最后通牒【阿波罗网编译】</a></li>
 <li><a href="/comments/20210307/1499889.md">习近平女儿信息外泄后续：牛腾宇遭火烧私处拍裸照 留学生吁习明泽发声</a></li>
+<li><a href="/cbnews/20210307/1500221.md">县委书记说漏嘴 习近平反美言论曝光</a></li>
 <li><a href="/cbnews/20210306/1499849.md">美国又软了？县官泄露习近平心思</a></li>
 <li><a href="/yule/20210306/1499837.md">范冰冰母女搭机，两人颜值超高成靓丽风景线</a></li>
 <li><a href="/lifebaike/20210307/1499995.md">炒鸡蛋时加一宝，肾气满满，头发黑了，睡得香了，身体倍儿棒</a></li>
@@ -26,7 +26,7 @@
 <li><a href="/yule/20210307/1499964.md">38岁车晓现身签约仪式，身材瘦弱似麻杆，气质优越站人群中好抢眼</a></li>
 <li><a href="/comments/20210307/1499956.md">习近平女习明泽个资泄漏案“主犯”被火烧私处拍裸照 “主犯”母亲曝鲜为人知的细节：当局调上百国安对付牛腾宇 律师透露牛腾宇被重判三原因 中南海不可告人的秘密_333</a></li>
 <li><a href="/funmedia/20210307/1499958.md">科学家惊人发现宇宙就是我们的大脑,而古人早已言明</a></li>
-<li><a href="/cbnews/20210307/1500221.md">县委书记说漏嘴 习近平反美言论曝光</a></li>
+<li><a href="/bannedvideo/20210307/1500093.md">习近平两会加速仪式遭遇诡异双跌！汪洋公开反邓小平？李克强且怂且战，喊出64稳，脱贫露馅</a></li>
 <li><a href="/comments/20210307/1499934.md">纽约五大道大型挺川游行 民众吁川普“拯救美国”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210307/1500263.md" target="_blank">川普向共和党组织发警告：停止用我名字和照片筹钱；美商务部长持腾讯股份；参院通过1.9万亿美元纾困法案；两会细节 习近平“独享”两个茶杯？接种科兴疫苗 香港爆第二宗死亡事件；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210307/1500231.md" target="_blank">连遮羞布也不要了 中共法院新规引舆论哗然</a></li>
 <li><a href="/cbnews/20210307/1500227.md" target="_blank">李克强两会上再现与习近平相左言论</a></li>
 <li><a href="/cbnews/20210307/1500221.md" target="_blank">县委书记说漏嘴 习近平反美言论曝光</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210306/1499849.md" target="_blank">美国又软了？县官泄露习近平心思</a></li>
 <li><a href="/comments/20210306/1499828.md" target="_blank">参加中共两会的富豪 身价超香港去年GDP； 8名民主党人与共和党人一起 拒绝15美元最低工资法案；民调：多数美国人认为疫情状况在改善；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210306/1499759.md" target="_blank">细思极恐！FBI局长的最新证词，一个盖世太保式抓捕川普支持者的阴谋，正在悄悄酝酿！川普总统在白宫最后24小时，解密的重要通俄门档案文件曝光，做实FBI已经蜕变。</a></li>
-<li><a href="/cbnews/20210306/1499758.md" target="_blank">中共两会温家宝最后一问 薄熙来有来无回</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210307/1500263.md" target="_blank">川普向共和党组织发警告：停止用我名字和照片筹钱；美商务部长持腾讯股份；参院通过1.9万亿美元纾困法案；两会细节 习近平“独享”两个茶杯？接种科兴疫苗 香港爆第二宗死亡事件；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210307/1500255.md" target="_blank">【一周时局看点】（八）两会：拍马屁和暗斗</a></li>
 <li><a href="/comments/20210307/1500250.md" target="_blank">【一周时局看点】（一）据说习有“备胎”了</a></li>
 <li><a href="/comments/20210307/1500249.md" target="_blank">【一周时局看点】（六）美国睡，习近平窃喜？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210307/1500164.md" target="_blank">【中国观察】军方誓言效忠川普  拜登的愚蠢让参谋长联席会议震惊：拜登开始加害美军！ 曾表示效忠拜登的军方将领倒戈投奔川普   川普大喜：铲除DS 特工正是用兵之时 小川普:主流媒体不相信的全会来到!</a></li>
 <li><a href="/comments/20210307/1500160.md" target="_blank">沼泽地要反攻？建制派大佬为反川议员策划筹款；德州告急！一周万人被捕 ；NBA拟返央视 美议员批其自私 ；美参院一致通过限制孔子学院法案；全球抵制2022北京冬奥 获蓬佩奥支持【希望之声TV】12AM</a></li>
 <li><a href="/comments/20210307/1500158.md" target="_blank">李燕铭：习近平汪洋与李克强不同调 内幕揭秘 李克强二十大去留成高层博弈焦点 汪洋切割团派站队习近平 卡位二十大常委</a></li>
-<li><a href="/comments/20210307/1500154.md" target="_blank">美新任商务部长夫妇被曝持腾讯股份 中共借大外宣向拜登喊话</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
