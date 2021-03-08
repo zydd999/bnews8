@@ -8,12 +8,12 @@
 <li><a href="/cbnews/20210307/1500322.md">人大代表用“厕所”当面拍马屁 习近平表情尴尬</a></li>
 <li><a href="/bannedvideo/20210307/1500296.md">习近平两个杯子涉嫌辱包，宋丹丹继女赵婷变成辱华分子无依之地被禁，肯德基食物银行遭哄抢，董建华摔倒引科兴疫苗副作用忧心（小木谈天第124期20210307）</a></li>
 <li><a href="/comments/20210307/1500314.md">🈲习将被清算❓2021大变局来了❗史上“第一奇书”预言又成真❓❗</a></li>
-<li><a href="/topimagenews/20210308/1500436.md">中美最近三件事情耐人寻味 解放军舰队规模已超越美军 实力呢？研究:戴眼镜感染风险大跌</a></li>
 <li><a href="/comments/20210308/1500581.md">网友爆料：内斗加剧，习家军反水；中央警卫局火拼；中共内部矛盾两会见端倪；习皇迷信两杯子；爱国者治港还是港人治港？｜薇羽看世间 第255期 20210307</a></li>
+<li><a href="/topimagenews/20210308/1500436.md">中美最近三件事情耐人寻味 解放军舰队规模已超越美军 实力呢？研究:戴眼镜感染风险大跌</a></li>
 <li><a href="/bannedvideo/20210308/1500439.md">刘少奇死状惊人。作家谭松、宋永毅、严家其等人披露，刘的共产党土改，学共产国际鲍罗廷，致全国“村村流血”。文革刘被毛泽东搞垮，王光美被捕，子女刘原、刘平平被赶出家门。刘惨死河南开封（笑梅看中国第31期）</a></li>
+<li><a href="/cbnews/20210308/1500357.md">防止被下毒？中国两会新焦点 习近平桌上有两个茶杯</a></li>
 <li><a href="/cbnews/20210308/1500410.md">东海航空再曝丑闻 机长与乘务长飞行中互殴</a></li>
 <li><a href="/funmedia/20210308/1500467.md">中国最”坑人“的6个景区，宰客”成瘾“</a></li>
-<li><a href="/cbnews/20210308/1500357.md">防止被下毒？中国两会新焦点 习近平桌上有两个茶杯</a></li>
 <li><a href="/cbnews/20210308/1500376.md">8参议员倒戈民主党惨败 北京篡改香港选举白宫表态 德州州长:社媒压制保守派很快是非法</a></li>
 <li><a href="/lifebaike/20210308/1500484.md">不论男女，每天2个时间“大便”的人，寿命会相对较长，恭喜</a></li>
 <li><a href="/topimagenews/20210308/1500537.md">李克强习近平两会不同调 习内部反美谈话泄露,耐人寻味 对外交说法有变 中共影响力变弱</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/funmedia/20210308/1500473.md">世界上真的有天堂？哈勃望远镜发现天堂位置</a></li>
 <li><a href="/lifebaike/20210308/1500474.md">红楼梦：秦可卿的欲望有多强？一日换四五遍衣服…</a></li>
 <li><a href="/baitai/20210308/1500375.md">【网络民议】 习近平：中国已经可以平视这个世界了；网友：难道以前是仇视？</a></li>
-<li><a href="/comments/20210308/1500479.md">“两会”忽起颂习风潮 习近平“舵手”称号再现</a></li>
+<li><a href="/topimagenews/20210308/1500679.md">我们很清楚知道谁是习近平的接班人</a></li>
 <li><a href="/funmedia/20210308/1500560.md">当年，我举报了我的母亲，她第二天就被枪毙了，如今我老了，每晚都在做噩梦</a></li>
-<li><a href="/comments/20210308/1500505.md">王岐山“两会”发言大拍马屁 8提习近平</a></li>
+<li><a href="/comments/20210308/1500479.md">“两会”忽起颂习风潮 习近平“舵手”称号再现</a></li>
 <li><a href="/lifebaike/20210308/1500485.md">艾滋病发出的第一个信号，往往在皮肤上！皮肤出现这些症状要警惕</a></li>
-<li><a href="/comments/20210307/1500218.md">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20210307/1500294.md">夏洛山嚣张的轰-6 实战中将沦为笑柄</a></li>
+<li><a href="/comments/20210308/1500505.md">王岐山“两会”发言大拍马屁 8提习近平</a></li>
+<li><a href="/cbnews/20210308/1500572.md">两会“拍马屁”成风 习近平“舵手”称号再现</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210308/1500734.md" target="_blank">【公务员宣誓】聂德权：约 200 人拒签声明 将让他们“离开公务员队伍”</a></li>
+<li><a href="/comments/20210308/1500733.md" target="_blank">【推倒选举】叶刘：立法会改组因泛民搞出大问题 建制泛民均面临“大洗牌”</a></li>
+<li><a href="/comments/20210308/1500732.md" target="_blank">政协常委吴良好：国安法令港人欣慰流泪 是保平安上上签</a></li>
+<li><a href="/comments/20210308/1500731.md" target="_blank">【古代诗人修行故事】：白居易</a></li>
 <li><a href="/comments/20210308/1500723.md" target="_blank">遇到困境别慌张，《易经》里三个“锦囊”，教你化险为夷</a></li>
 <li><a href="/comments/20210308/1500722.md" target="_blank">压力对身体影响大 这些地方都要注意</a></li>
 <li><a href="/comments/20210308/1500721.md" target="_blank">春季“第一补”，3月最嫩，错过等一年哦</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210308/1500588.md" target="_blank">紫荆党李山：成员争取参选立法会、选委会 加入政府执政团队</a></li>
 <li><a href="/comments/20210308/1500586.md" target="_blank">记他们最后的自由</a></li>
 <li><a href="/comments/20210308/1500581.md" target="_blank">网友爆料：内斗加剧，习家军反水；中央警卫局火拼；中共内部矛盾两会见端倪；习皇迷信两杯子；爱国者治港还是港人治港？｜薇羽看世间 第255期 20210307</a></li>
-<li><a href="/comments/20210308/1500580.md" target="_blank">美伊局势紧张之际 两架美国B-52轰炸机飞越中东上空</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210308/1500575.md" target="_blank">第五名女子指控库默性骚扰  库默仍说不辞职；全国人大代表陈静瑜建议将器官捐献率纳入城市考核；边境危机 德州启动孤星行动；宋丹丹继女获金球奖导演 短短几日从“骄傲”变 “辱华”【希望之声TV】</a></li>
-<li><a href="/comments/20210308/1500569.md" target="_blank">北京失算？缅甸军政府雇说客向西方示好 王毅急忙发声</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
