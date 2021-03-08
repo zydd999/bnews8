@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210307/1500018.md">习近平一句话两会现惊人一幕 反共出奇迹 澳创60年GDP增长记录 中共报复反火</a></li>
 <li><a href="/cbnews/20210307/1500221.md">县委书记说漏嘴 习近平反美言论曝光</a></li>
-<li><a href="/cbnews/20210307/1500231.md">连遮羞布也不要了 中共法院新规引舆论哗然</a></li>
 <li><a href="/cbnews/20210307/1500322.md">人大代表用“厕所”当面拍马屁 习近平表情尴尬</a></li>
+<li><a href="/cbnews/20210307/1500231.md">连遮羞布也不要了 中共法院新规引舆论哗然</a></li>
 <li><a href="/cbnews/20210307/1500227.md">李克强两会上再现与习近平相左言论</a></li>
 <li><a href="/comments/20210307/1500033.md">【中国观察】川普总统下令海豹突击队突袭了纽约州查帕夸庄园 以叛国罪 破坏政府财产罪和协助和教唆敌人罪秘密逮捕了希拉里克林顿 川普很快会把她送到关塔那摩湾 以她对美国和美国人民犯下的罪行面对军事法庭</a></li>
 <li><a href="/lifebaike/20210307/1500233.md">为何中国脑梗多，美国逐年减少？饮食中缺这个</a></li>
@@ -18,14 +18,14 @@
 <li><a href="/bannedvideo/20210307/1500093.md">习近平两会加速仪式遭遇诡异双跌！汪洋公开反邓小平？李克强且怂且战，喊出64稳，脱贫露馅</a></li>
 <li><a href="/bannedvideo/20210307/1500296.md">习近平两个杯子涉嫌辱包，宋丹丹继女赵婷变成辱华分子无依之地被禁，肯德基食物银行遭哄抢，董建华摔倒引科兴疫苗副作用忧心（小木谈天第124期20210307）</a></li>
 <li><a href="/ccpdope/20210307/1500226.md">累不累啊？习与江蛤拉锯拉到今天</a></li>
-<li><a href="/comments/20210307/1500003.md">刘云山怎样了？习近平谈内蒙古放一句狠话 官媒：现场一片寂静</a></li>
 <li><a href="/yule/20210307/1500213.md">57岁影帝尼古拉斯凯奇5度结婚 日裔嫩妻身世曝光</a></li>
 <li><a href="/cbnews/20210308/1500376.md">8参议员倒戈民主党惨败 北京篡改香港选举白宫表态 德州州长:社媒压制保守派很快是非法</a></li>
 <li><a href="/topimagenews/20210307/1500210.md">诡异！拜登傀儡白宫做实？对抗中共,美拟构建导弹网络 库默州长紧急行政权被同党剥夺</a></li>
-<li><a href="/comments/20210307/1500158.md">李燕铭：习近平汪洋与李克强不同调 内幕揭秘 李克强二十大去留成高层博弈焦点 汪洋切割团派站队习近平 卡位二十大常委</a></li>
 <li><a href="/comments/20210307/1500208.md">工信部原部长谈“制造强国” 一句话打脸习“国师 ”</a></li>
+<li><a href="/comments/20210307/1500158.md">李燕铭：习近平汪洋与李克强不同调 内幕揭秘 李克强二十大去留成高层博弈焦点 汪洋切割团派站队习近平 卡位二十大常委</a></li>
 <li><a href="/cbnews/20210307/1500068.md">两会对外交评语有变 中共正失去影响力</a></li>
 <li><a href="/cbnews/20210308/1500357.md">防止被下毒？中国两会新焦点 习近平桌上有两个茶杯</a></li>
+<li><a href="/cbnews/20210308/1500410.md">东海航空再曝丑闻 机长与乘务长飞行中互殴</a></li>
 <li><a href="/lifebaike/20210307/1500196.md">真正厉害的人，身上往往有这五个特征，值得一辈子深交</a></li>
 <li><a href="/topimagenews/20210307/1500194.md">巨大的影响力！川普再宣布三项背书！【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210308/1500471.md" target="_blank">李燕铭：习家军廖国勋提前卡位政治局委员 江派接班人李鸿忠很可能重演孙政才落马命运 天津官场政治海啸正在酝酿 天津副市长孙文魁大秘两会敏感期落马 孙文魁曾任黄兴国大管家 涉天津大爆炸案受李鸿忠包庇</a></li>
+<li><a href="/comments/20210308/1500470.md" target="_blank">缅甸工会号召3/8开始全国大罢工</a></li>
+<li><a href="/comments/20210308/1500468.md" target="_blank">县委书记说漏嘴 习近平“反美”言论曝光</a></li>
 <li><a href="/comments/20210308/1500460.md" target="_blank">美商务部长持腾讯股份 是否有利益冲突引关注</a></li>
 <li><a href="/comments/20210308/1500453.md" target="_blank">【特辑】振奋人心的音乐视频！川普列车 + 听听人民的呼声。联合起来，对抗全球主义与建制派，拯救国家，支持川普！</a></li>
 <li><a href="/comments/20210308/1500452.md" target="_blank">【音频】 SOS!! 全国首批造价工程师周向阳狱中器官衰竭 母吁营救</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210308/1500389.md" target="_blank">10 年 1 度英国人口普查 组织倡居英港人填 Hongkonger 说明身分</a></li>
 <li><a href="/comments/20210308/1500388.md" target="_blank">【未解之谜】外星人引发的绝密“泽塔行动”</a></li>
 <li><a href="/comments/20210308/1500387.md" target="_blank">缅甸各地再爆抗议 前执政党干部遭警拘留后死亡</a></li>
-<li><a href="/comments/20210308/1500386.md" target="_blank">缅甸军方强占大学 曼德勒70多人被捕</a></li>
-<li><a href="/comments/20210308/1500385.md" target="_blank">阿隋厨房：鱼香肉丝 就是这个味道 Fish-Flavored Shredded Pork</a></li>
-<li><a href="/comments/20210308/1500384.md" target="_blank">拜登清醒了吗？县委书记说漏嘴 习近平“反美”言论曝光</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200716/1361654.md" target="_blank">不是支持川普 是等他这样一个人等了很久</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
