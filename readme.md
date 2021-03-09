@@ -16,10 +16,10 @@
 <li><a href="/cbnews/20210309/1501204.md">习近平表态 小学生排练“打土豪、分田地”</a></li>
 <li><a href="/comments/20210309/1501036.md">国药疫苗有效率仅11.5%？！ 北京紧急封杀相关报导</a></li>
 <li><a href="/comments/20210309/1501148.md">女科学家发现秘密被谋杀，网友扒出新证人；王毅答记者问，疫苗外交输出极权黑手。｜薇羽看世间 第256期 20210308</a></li>
-<li><a href="/cbnews/20210309/1500944.md">习两会放豪言：中共已可平视世界 网友如是回应</a></li>
 <li><a href="/comments/20210309/1501292.md">拜登幕后的真正操盘手浮出水面，强势而怪异。拜登加速失忆。日本公开向拜登喊话。川普再次警告建制派。川普首次出现在纽约，向观众挥手。</a></li>
-<li><a href="/cbnews/20210309/1500998.md">文昭：两只茶杯泄漏了习近平的安危信号！中国延迟退休上路，人们要面对哪些躲不开的副作用？</a></li>
+<li><a href="/cbnews/20210309/1500944.md">习两会放豪言：中共已可平视世界 网友如是回应</a></li>
 <li><a href="/ssgc/20210309/1501214.md">李克强和汪洋为什么不同调</a></li>
+<li><a href="/cbnews/20210309/1500998.md">文昭：两只茶杯泄漏了习近平的安危信号！中国延迟退休上路，人们要面对哪些躲不开的副作用？</a></li>
 <li><a href="/cbnews/20210309/1501130.md">汪洋放话施压台湾 分析：中共不敢妄动的原因</a></li>
 <li><a href="/cbnews/20210309/1500946.md">白宫回应中共外长王毅两会强硬喊话</a></li>
 <li><a href="/comments/20210309/1501164.md">马云又有麻烦了！阿里员工要造反？内网发帖吐槽996、361、PUA等问题：不能一边抽我，一边问我爱不爱你吧？中南海谣言预言_441</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210310/1501483.md" target="_blank">CDC：78％的中共病毒住院病人超重或肥胖</a></li>
 <li><a href="/comments/20210310/1501475.md" target="_blank">美前中情局官员揭左媒为利益亲共反美行为</a></li>
 <li><a href="/comments/20210310/1501473.md" target="_blank">北京两会敏感时刻！7访民集体失联 夫登寻妻公告</a></li>
 <li><a href="/comments/20210310/1501469.md" target="_blank">又一红州跟进解封 怀俄明州取消口罩令</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210309/1501319.md" target="_blank">狄马：杨白劳的能力</a></li>
 <li><a href="/comments/20210309/1501318.md" target="_blank">雪莲：异乡的寒气</a></li>
 <li><a href="/comments/20210309/1501317.md" target="_blank">古松：奴隶的奴隶</a></li>
-<li><a href="/comments/20210309/1501316.md" target="_blank">楚狂：我们是自由的种族【“中国自由文化运动之歌”候选歌词之八】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
