@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210309/1500992.md">"习近平接班人是谁?很清楚" 王岐山两会发言很不寻常 习近平为何尴尬了?</a></li>
 <li><a href="/lifebaike/20210309/1500965.md">妻子不孕，小姨子献身姐夫，3年后结局逆转</a></li>
-<li><a href="/renquan/20210309/1500878.md">不做 “政治花瓶”：说了实话的政协委员</a></li>
 <li><a href="/cbnews/20210309/1500945.md">北京两会期间严防“赵婷风波”争议扩大</a></li>
+<li><a href="/lifebaike/20210309/1500979.md">俗语：“女大不避父，儿大要避母”，内含大智慧，父母万万要知道</a></li>
 <li><a href="/comments/20210309/1500939.md">劲爆！哈里王子与梅根正式向英国王室宣战</a></li>
 <li><a href="/bannedvideo/20210309/1501165.md">以色列宣布重磅消息！外界忧世界大战将至；香港公务员造反？；周星驰现身告别式 吴孟达亲弟揭不合真相；赵本山女儿一天花64万；习近平喊“中国已平视世界” 盲目自大引热议</a></li>
-<li><a href="/lifebaike/20210309/1500979.md">俗语：“女大不避父，儿大要避母”，内含大智慧，父母万万要知道</a></li>
 <li><a href="/ssgc/20210309/1500974.md">〖兲朝浮世绘〗习近平给娃娃们下毒，令中共的未来堪忧</a></li>
 <li><a href="/ssgc/20210309/1501023.md">〖微博谈〗两会提案已经是比赛谁比谁更无耻了</a></li>
 <li><a href="/cbnews/20210309/1501204.md">习近平表态 小学生排练“打土豪、分田地”</a></li>
 <li><a href="/comments/20210309/1501036.md">国药疫苗有效率仅11.5%？！ 北京紧急封杀相关报导</a></li>
 <li><a href="/comments/20210309/1501148.md">女科学家发现秘密被谋杀，网友扒出新证人；王毅答记者问，疫苗外交输出极权黑手。｜薇羽看世间 第256期 20210308</a></li>
 <li><a href="/cbnews/20210309/1500944.md">习两会放豪言：中共已可平视世界 网友如是回应</a></li>
+<li><a href="/comments/20210309/1501292.md">拜登幕后的真正操盘手浮出水面，强势而怪异。拜登加速失忆。日本公开向拜登喊话。川普再次警告建制派。川普首次出现在纽约，向观众挥手。</a></li>
 <li><a href="/cbnews/20210309/1500998.md">文昭：两只茶杯泄漏了习近平的安危信号！中国延迟退休上路，人们要面对哪些躲不开的副作用？</a></li>
 <li><a href="/ssgc/20210309/1501214.md">李克强和汪洋为什么不同调</a></li>
 <li><a href="/cbnews/20210309/1501130.md">汪洋放话施压台湾 分析：中共不敢妄动的原因</a></li>
 <li><a href="/cbnews/20210309/1500946.md">白宫回应中共外长王毅两会强硬喊话</a></li>
-<li><a href="/cbnews/20210309/1500935.md">专栏 | 夜话中南海：习近平是怎么知道自己“学历不足”的？</a></li>
-<li><a href="/comments/20210309/1501292.md">拜登幕后的真正操盘手浮出水面，强势而怪异。拜登加速失忆。日本公开向拜登喊话。川普再次警告建制派。川普首次出现在纽约，向观众挥手。</a></li>
-<li><a href="/worldnews/20210309/1500961.md">艾滋病女遭侵犯 司机和售票员或感染</a></li>
 <li><a href="/comments/20210309/1501164.md">马云又有麻烦了！阿里员工要造反？内网发帖吐槽996、361、PUA等问题：不能一边抽我，一边问我爱不爱你吧？中南海谣言预言_441</a></li>
-<li><a href="/cbnews/20210309/1500943.md">广州劳教所酷刑 李游遭捆成球状吊挂 腰椎折断</a></li>
 <li><a href="/topimagenews/20210309/1501193.md">好兆头！南希-佩洛西是“全美最不受欢迎的民选官员”【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210309/1500935.md">专栏 | 夜话中南海：习近平是怎么知道自己“学历不足”的？</a></li>
+<li><a href="/worldnews/20210309/1500961.md">艾滋病女遭侵犯 司机和售票员或感染</a></li>
+<li><a href="/cbnews/20210309/1500943.md">广州劳教所酷刑 李游遭捆成球状吊挂 腰椎折断</a></li>
+<li><a href="/topimagenews/20210309/1501174.md">13.3万中小股民被“割韭菜” 大陆股民实名举报证监会主席</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210310/1501475.md" target="_blank">美前中情局官员揭左媒为利益亲共反美行为</a></li>
+<li><a href="/comments/20210310/1501473.md" target="_blank">北京两会敏感时刻！7访民集体失联 夫登寻妻公告</a></li>
 <li><a href="/comments/20210310/1501469.md" target="_blank">又一红州跟进解封 怀俄明州取消口罩令</a></li>
 <li><a href="/comments/20210310/1501468.md" target="_blank">促拜登施压能源项目 克鲁兹暂停中情局长认证</a></li>
 <li><a href="/comments/20210310/1501460.md" target="_blank">称要让新闻“人性化” CNN主播穿内裤上镜</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210309/1501318.md" target="_blank">雪莲：异乡的寒气</a></li>
 <li><a href="/comments/20210309/1501317.md" target="_blank">古松：奴隶的奴隶</a></li>
 <li><a href="/comments/20210309/1501316.md" target="_blank">楚狂：我们是自由的种族【“中国自由文化运动之歌”候选歌词之八】</a></li>
-<li><a href="/comments/20210309/1501315.md" target="_blank">快乐光之子：读狄马：《明朝覆灭启示录（下）》有感</a></li>
-<li><a href="/comments/20210309/1501314.md" target="_blank">紫电：世纪大骗局（二）——剩余价值是资本创造的，并不是工人创造的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
