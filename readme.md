@@ -7,8 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210310/1502022.md">看看北京上海的豪门高端保姆圈 这才叫降维打击</a></li>
 <li><a href="/topimagenews/20210311/1502269.md">习近平磨刀霍霍 胡春华韩正可能下台</a></li>
-<li><a href="/topimagenews/20210310/1501919.md">美媒独家：挺川的科菲咖啡被大通银行取消，销量暴增近8000%【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210310/1501930.md">中国的教育三年内会出大问题…</a></li>
 <li><a href="/worldnews/20210311/1502471.md">突发！中共驻柏林大使馆遇袭</a></li>
 <li><a href="/cbnews/20210311/1502464.md">中共两会藏内斗 汪洋李克强演双簧或互搏？</a></li>
 <li><a href="/cbnews/20210310/1502086.md">不满中共六四开枪滞留海外的罗瑞卿之子罗宇在纽约逝世</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/cnnews/20210311/1502273.md">5亿美元追不回来 花旗的报复来了</a></li>
 <li><a href="/funmedia/20210311/1502487.md">不管是夫妻还是恋人，敢从外面把四样带给你，绝非真爱</a></li>
 <li><a href="/comments/20210311/1502398.md">震惊！中国网红于海龙 替公安拍公益片时辞世</a></li>
+<li><a href="/comments/20210311/1502687.md">马云大事不妙 联想CEO杨元庆与马云切割？杨元庆高调表示反对996 阿里巴巴不利信号频传 员工内网发帖吐槽：马云总是希望员工过得苦 上海上市公司丽人丽妆董事长妻子网上“寻夫”求助马云 阿里巴巴旗下员工贩卖66亿机票行程单 获利千万获刑六年</a></li>
 <li><a href="/lifebaike/20210311/1502515.md">后车对我闪三下大灯是什么意思？老司机：不懂可能要吃大亏</a></li>
 <li><a href="/ssgc/20210311/1502456.md">〖兲朝浮世绘〗大纪元揭露出的真相，让左媒和科技巨头害怕了</a></li>
-<li><a href="/finance/20210310/1501924.md">中国被曝正从美购进大量乙醇</a></li>
 <li><a href="/comments/20210311/1502520.md">高院反转？ 7法官支持言论自由案 罗伯茨落单；德州长：犯罪集团敢踏入德州 会尽全力保护；伊利诺伊五人被指控选举违宪；边境危机 CBP关闭高速检查站 ；1.9万亿 COVID救济法案通过【希望之声TV】</a></li>
 <li><a href="/cbnews/20210311/1502553.md">英驻华大使大陆发文炮轰中共 中方提“严正交涉” 英大使硬气回应</a></li>
 <li><a href="/cbnews/20210311/1502618.md">天亮时分：中美必有一战？习近平2021年更艰难；拜登回避不了的修昔里德陷阱；即将到来的中美会晤，拜登将展现何种立场？（政论天下第373集 20210310）</a></li>
 <li><a href="/headline/20210310/1501942.md">女王终于打破沉默 以“优雅精致”的方式</a></li>
-<li><a href="/comments/20210311/1502687.md">马云大事不妙 联想CEO杨元庆与马云切割？杨元庆高调表示反对996 阿里巴巴不利信号频传 员工内网发帖吐槽：马云总是希望员工过得苦 上海上市公司丽人丽妆董事长妻子网上“寻夫”求助马云 阿里巴巴旗下员工贩卖66亿机票行程单 获利千万获刑六年</a></li>
+<li><a href="/yule/20210311/1502421.md">福原爱约会男身份曝光：名校学霸比她小5岁，收入是江宏杰五倍</a></li>
+<li><a href="/cnnews/20210311/1502338.md">疫情周年全球资产泡沫濒临爆破 真正危机在后头</a></li>
+<li><a href="/cnnews/20210310/1501998.md">习近平讲话 人大代表忙着记笔记 网友：更像朝鲜了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210311/1502844.md" target="_blank">摄影胶囊：替代痛苦的胃镜，居家即可完成癌症检查</a></li>
 <li><a href="/comments/20210311/1502830.md" target="_blank">日本名医的抗癌饮食，帮你提高自然治愈力</a></li>
 <li><a href="/comments/20210311/1502829.md" target="_blank">也不头晕也不头痛，中青年高血压就这么悄然而至</a></li>
 <li><a href="/comments/20210311/1502814.md" target="_blank">黄耀明代何桂蓝向商台 DJ 点歌 望多播 Anson Lo、Jer</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210311/1502695.md" target="_blank">美制裁缅军首领子女 安理会再发声明谴责军方</a></li>
 <li><a href="/comments/20210311/1502687.md" target="_blank">马云大事不妙 联想CEO杨元庆与马云切割？杨元庆高调表示反对996 阿里巴巴不利信号频传 员工内网发帖吐槽：马云总是希望员工过得苦 上海上市公司丽人丽妆董事长妻子网上“寻夫”求助马云 阿里巴巴旗下员工贩卖66亿机票行程单 获利千万获刑六年</a></li>
 <li><a href="/comments/20210311/1502685.md" target="_blank">弗林将军:“深暗势力”追杀我和我的家人时，我学到的5条教训</a></li>
-<li><a href="/comments/20210311/1502678.md" target="_blank">【不断更新】47 人案 高院拒绝律政司覆核 黄碧云保释</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
