@@ -7,10 +7,9 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210310/1501650.md">说漏了？国药董事长曝高层一年前打了疫苗 引哗然</a></li>
 <li><a href="/lifebaike/20210310/1501662.md">此鱼是“一级致癌鱼”，吃一斤等于抽100根烟？不知道的还在吃</a></li>
-<li><a href="/bannedvideo/20210310/1501630.md">习近平一石三鸟，李克强被架空？韩正处在危险中！上山下乡风再起，习近平难言双重压力；农业芯片遭卡脖，中国面临巨大问题；先给领导“肛拭子”，一半选民不信任拜登【李沐阳 新闻看点03.10】</a></li>
 <li><a href="/cbnews/20210310/1501884.md">95后姑娘保高铁供电“太寂寞”？ 网友怒喷遭官媒急删</a></li>
-<li><a href="/cbnews/20210310/1501814.md">习近平誓言“算总账” 王岐山罕见捧习内幕深</a></li>
 <li><a href="/cnnews/20210310/1502022.md">看看北京上海的豪门高端保姆圈 这才叫降维打击</a></li>
+<li><a href="/cbnews/20210310/1501814.md">习近平誓言“算总账” 王岐山罕见捧习内幕深</a></li>
 <li><a href="/topimagenews/20210310/1501919.md">美媒独家：挺川的科菲咖啡被大通银行取消，销量暴增近8000%【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210310/1501885.md">分析：中共政治局常委团组模式是刻意安排</a></li>
 <li><a href="/topimagenews/20210311/1502269.md">习近平磨刀霍霍 胡春华韩正可能下台</a></li>
@@ -25,6 +24,7 @@
 <li><a href="/cbnews/20210310/1501886.md">被一篇文章点到痛处 激怒中共 召见英大使</a></li>
 <li><a href="/cnnews/20210311/1502273.md">5亿美元追不回来 花旗的报复来了</a></li>
 <li><a href="/comments/20210310/1501800.md">赵小兰家族与北京关系再曝光 “赵家小公主”手下大将曾陪王岐山出海</a></li>
+<li><a href="/cbnews/20210311/1502403.md">特斯拉失控暴冲连撞10车 车主险死：送给我我也不敢开了</a></li>
 <li><a href="/bannedvideo/20210310/1501785.md">两会习近平胡春华名字犯忌？习明泽身份证公安出货！14年冤判牛腾宇母子蒙冤；王宇获奖失联</a></li>
 <li><a href="/cbnews/20210310/1501896.md">新版“上山下乡” 大学生“响应号召”后发现受骗</a></li>
 <li><a href="/comments/20210310/1501700.md">【微博精粹】又爆出一个反美 反华 反人类的超级罪犯</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210311/1502553.md" target="_blank">英驻华大使大陆发文炮轰中共 中方提“严正交涉” 英大使硬气回应</a></li>
+<li><a href="/cbnews/20210311/1502552.md" target="_blank">文昭：李克强被削权，藏习近平的接班人打算？军费又涨！2027年中国军力超俄？</a></li>
 <li><a href="/comments/20210311/1502548.md" target="_blank">国药高层一年前已打疫苗：是“中国速度”还是另有黑幕？美南部边境危机；拜登移民政策将给美国带来什么？</a></li>
 <li><a href="/comments/20210311/1502539.md" target="_blank">1.9兆法案到底“刺激”了什么？ 嘉宾：餐饮老板 David Sun  时事评论员  秦鹏 蓝述 主持：高洁【希望之声TV】(2021/03/10)</a></li>
 <li><a href="/comments/20210311/1502520.md" target="_blank">高院反转？ 7法官支持言论自由案 罗伯茨落单；德州长：犯罪集团敢踏入德州 会尽全力保护；伊利诺伊五人被指控选举违宪；边境危机 CBP关闭高速检查站 ；1.9万亿 COVID救济法案通过【希望之声TV】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210310/1501923.md" target="_blank">传奇球星转世？ #棒球 神童鲜活记忆持续数年｜ #未解之谜</a></li>
 <li><a href="/cbnews/20210310/1501902.md" target="_blank">中纪委点名10大“内鬼” 刀刃向内高压震慑</a></li>
 <li><a href="/cbnews/20210310/1501897.md" target="_blank">赵小兰家族与北京关系再曝光 又是王岐山？</a></li>
-<li><a href="/cbnews/20210310/1501896.md" target="_blank">新版“上山下乡” 大学生“响应号召”后发现受骗</a></li>
-<li><a href="/cbnews/20210310/1501886.md" target="_blank">被一篇文章点到痛处 激怒中共 召见英大使</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210311/1502565.md" target="_blank">311震灾10周年 日媒: 台日“患难见真情”“善的循环”</a></li>
+<li><a href="/comments/20210311/1502558.md" target="_blank">大厦将崩塌为何没人能扶起</a></li>
+<li><a href="/comments/20210311/1502557.md" target="_blank">岳飞为何被杀害 因为担心他的的军队不姓赵！</a></li>
 <li><a href="/comments/20210311/1502548.md" target="_blank">国药高层一年前已打疫苗：是“中国速度”还是另有黑幕？美南部边境危机；拜登移民政策将给美国带来什么？</a></li>
 <li><a href="/comments/20210311/1502544.md" target="_blank">新调查显示美28州邮寄、提前投票规格猛增</a></li>
 <li><a href="/comments/20210311/1502542.md" target="_blank">金里奇：“毅力号”和火星计划背后的英雄</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210311/1502430.md" target="_blank">容邦发：去广场【广场（二）】</a></li>
 <li><a href="/comments/20210311/1502429.md" target="_blank">文佳灵：中国自由文化运动之歌【“中国自由文化运动之歌”候选歌词之十一】</a></li>
 <li><a href="/comments/20210311/1502428.md" target="_blank">汪湖：传说</a></li>
-<li><a href="/comments/20210311/1502427.md" target="_blank">曾节明：中共政权的寿数还有多少？</a></li>
-<li><a href="/comments/20210311/1502411.md" target="_blank">名家专栏：奇特的美国“种族主义”</a></li>
-<li><a href="/comments/20210311/1502402.md" target="_blank">格雷厄姆：拜登移民政策或被恐怖份子利用</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20200624/1349641.md" target="_blank">官媒口中“担保”的三峡大坝：从“万年一遇”到“别指望”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 
 </ul>
 </div>
