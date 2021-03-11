@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210311/1502269.md">习近平磨刀霍霍 胡春华韩正可能下台</a></li>
 <li><a href="/worldnews/20210311/1502471.md">突发！中共驻柏林大使馆遇袭</a></li>
 <li><a href="/cbnews/20210311/1502464.md">中共两会藏内斗 汪洋李克强演双簧或互搏？</a></li>
 <li><a href="/cbnews/20210311/1502810.md">曾传赵本山涉薄熙来政变 “本山传媒”再遭清算</a></li>
 <li><a href="/cnnews/20210311/1502476.md">全球房价最贵的5个城市排名：加拿大占2个</a></li>
 <li><a href="/topimagenews/20210311/1502485.md">网络观两会更像朝鲜;习表态,小学生开始打土豪分田地;大罢工流产骑手变招</a></li>
 <li><a href="/cbnews/20210311/1502403.md">特斯拉失控暴冲连撞10车 车主险死：送给我我也不敢开了</a></li>
-<li><a href="/cnnews/20210311/1502273.md">5亿美元追不回来 花旗的报复来了</a></li>
 <li><a href="/bannedvideo/20210311/1502841.md">网友：曝光中国洗脚、 修脚店行业内幕</a></li>
 <li><a href="/funmedia/20210311/1502487.md">不管是夫妻还是恋人，敢从外面把四样带给你，绝非真爱</a></li>
 <li><a href="/bannedvideo/20210311/1502784.md">中共内斗加剧习近平能力太差重新启用王岐山反腐大清洗开始?（启明笑谈20210311）</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/ssgc/20210311/1502456.md">〖兲朝浮世绘〗大纪元揭露出的真相，让左媒和科技巨头害怕了</a></li>
 <li><a href="/cbnews/20210311/1502618.md">天亮时分：中美必有一战？习近平2021年更艰难；拜登回避不了的修昔里德陷阱；即将到来的中美会晤，拜登将展现何种立场？（政论天下第373集 20210310）</a></li>
 <li><a href="/comments/20210311/1502699.md">习近平落团胸牌号码藏信号？学者：中共军头“两会”讲话很奇怪</a></li>
-<li><a href="/comments/20210311/1502520.md">高院反转？ 7法官支持言论自由案 罗伯茨落单；德州长：犯罪集团敢踏入德州 会尽全力保护；伊利诺伊五人被指控选举违宪；边境危机 CBP关闭高速检查站 ；1.9万亿 COVID救济法案通过【希望之声TV】</a></li>
-<li><a href="/cbnews/20210311/1502553.md">英驻华大使大陆发文炮轰中共 中方提“严正交涉” 英大使硬气回应</a></li>
 <li><a href="/yule/20210311/1502705.md">福原爱坚持离婚 日媒讽刺：全世界都觉得她出轨</a></li>
+<li><a href="/comments/20210311/1502520.md">高院反转？ 7法官支持言论自由案 罗伯茨落单；德州长：犯罪集团敢踏入德州 会尽全力保护；伊利诺伊五人被指控选举违宪；边境危机 CBP关闭高速检查站 ；1.9万亿 COVID救济法案通过【希望之声TV】</a></li>
+<li><a href="/cnnews/20210311/1502916.md">不用打针了 新冠新药将上市 口服5天即可</a></li>
+<li><a href="/cbnews/20210311/1502553.md">英驻华大使大陆发文炮轰中共 中方提“严正交涉” 英大使硬气回应</a></li>
 <li><a href="/yule/20210311/1502421.md">福原爱约会男身份曝光：名校学霸比她小5岁，收入是江宏杰五倍</a></li>
+<li><a href="/lifebaike/20210311/1502767.md">你家有废旧的保温杯吗？现在知道为时不晚，尽早叮嘱家人，真实用</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210312/1503025.md" target="_blank">消息：广播处长抽起新一集《议事论事》 港台以《官方机密条例》威吓员工噤声</a></li>
+<li><a href="/comments/20210312/1503024.md" target="_blank">9天3死！ “不会考虑施打中制疫苗” 美媒揭港人心声</a></li>
 <li><a href="/comments/20210311/1503016.md" target="_blank">死了69年！她的细胞仍在繁殖</a></li>
 <li><a href="/comments/20210311/1503015.md" target="_blank">9成人都忽略！这“4情况”可能和肝癌挂钩</a></li>
 <li><a href="/comments/20210311/1503014.md" target="_blank">诺贝尔医学奖得主：走路可防记忆力减退，另外4条也重要</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210311/1502790.md" target="_blank">民主党通过的1.9亿疫情法案，有着不可告人的目的，内藏剧毒。格林提国会休会，痛骂40个软骨头。佛州起诉拜登。枕头哥将推出自己社交媒体平台。</a></li>
 <li><a href="/comments/20210311/1502787.md" target="_blank">美印太司令：中国拥庞大虚假讯息宣传机器 背后藏匿百万之众</a></li>
 <li><a href="/comments/20210311/1502783.md" target="_blank">华为危机 印度修法：电信商只能采购“可信任”设备</a></li>
-<li><a href="/comments/20210311/1502782.md" target="_blank">欧洲议会最大党团公布对华政策战略：欧中走向的三大可能</a></li>
-<li><a href="/comments/20210311/1502771.md" target="_blank">人大表决修改香港选制 0反对票通过 1票弃权是谁？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
