@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210311/1502810.md">曾传赵本山涉薄熙来政变 “本山传媒”再遭清算</a></li>
 <li><a href="/bannedvideo/20210311/1502841.md">网友：曝光中国洗脚、 修脚店行业内幕</a></li>
 <li><a href="/cnnews/20210311/1502916.md">不用打针了 新冠新药将上市 口服5天即可</a></li>
 <li><a href="/cnnews/20210312/1503191.md">高级特工揭中共高层混乱男女关系</a></li>
@@ -20,11 +19,12 @@
 <li><a href="/cbnews/20210311/1502831.md">拜登团队：蓬佩奥病毒报告基于“真实证据”</a></li>
 <li><a href="/yule/20210311/1503008.md">大陆女星范冰冰：再见了，熟悉的陌生人</a></li>
 <li><a href="/cnnews/20210311/1502883.md">科学家惊人理论：宇宙可能是一个巨大神经网络</a></li>
-<li><a href="/bannedvideo/20210311/1502891.md">陈破空：美媒断言：习近平接班人已定！猜猜是谁？汪洋致词有玄机。明年二十大的N种可能</a></li>
 <li><a href="/ssgc/20210312/1503141.md">〖兲朝浮世绘〗都是邓小平的六四屠杀起头惹的祸</a></li>
+<li><a href="/bannedvideo/20210311/1502891.md">陈破空：美媒断言：习近平接班人已定！猜猜是谁？汪洋致词有玄机。明年二十大的N种可能</a></li>
 <li><a href="/topimagenews/20210312/1503179.md">印度是天敌? 中共又惹大事 高僧揭秘中共轰炸拉萨 中国疫苗都怕！习李都不打</a></li>
-<li><a href="/cnnews/20210311/1502870.md">人大通过修改香港选制 0票反对 1票弃权是谁？</a></li>
 <li><a href="/cbnews/20210312/1503304.md">习近平女儿信息外泄 获释未成年人爆遭警虐待</a></li>
+<li><a href="/cnnews/20210311/1502870.md">人大通过修改香港选制 0票反对 1票弃权是谁？</a></li>
+<li><a href="/lifebaike/20210312/1503334.md">家里保姆突然辞职，临走时她趴在耳边叮嘱我一句话，顿时泪如雨下</a></li>
 <li><a href="/topimagenews/20210312/1503097.md">中国资本外流需求大 剖析四大“钻空子”招数…</a></li>
 <li><a href="/ssgc/20210311/1502888.md">李克强向美国释出善意 学者 : 代表中国务实派官僚心声</a></li>
 <li><a href="/comments/20210312/1503172.md">中国淘宝惊现川普佛像，法号“西天懂佛”</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210312/1503586.md" target="_blank">终身掌权？日媒解读习近平的两只茶杯</a></li>
+<li><a href="/cbnews/20210312/1503585.md" target="_blank">中共6年内攻台？赵立坚急转话题 答非所问</a></li>
 <li><a href="/cbnews/20210312/1503575.md" target="_blank">中共强改香港选举 英台日谴责 美：落实制裁</a></li>
 <li><a href="/cbnews/20210312/1503574.md" target="_blank">加驻京签证处86%是公安雇员 议员质疑安全性</a></li>
 <li><a href="/cbnews/20210312/1503549.md" target="_blank">湖北访民被截访 吃警方给的汉堡后上吐下泻</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210312/1503120.md" target="_blank">再被促终止北京签证中心合约 特鲁多无明确回应</a></li>
 <li><a href="/cbnews/20210312/1503119.md" target="_blank">人大组织法修改通过 评论：习近平高度集权</a></li>
 <li><a href="/cbnews/20210312/1503108.md" target="_blank">民调：多数加人视中共政权为最大安全威胁</a></li>
-<li><a href="/cbnews/20210312/1503098.md" target="_blank">李克强：老龄产业是巨大朝阳产业 网友：割韭菜新招</a></li>
-<li><a href="/cbnews/20210312/1503077.md" target="_blank">诡异! 中美2＋2高峰会没乔好? 中媒竟说 : 美国单方面宣布</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210312/1503593.md" target="_blank">日美澳印首脑会谈今晚登场 合力开创“自由开放的印太 ”</a></li>
+<li><a href="/comments/20210312/1503592.md" target="_blank">香港督查：中共强改港选举 流亡港人促欧盟阻中欧投资协定</a></li>
 <li><a href="/comments/20210312/1503568.md" target="_blank">李克强答记者问 不跟风捧习 如实表态不甩锅？</a></li>
 <li><a href="/comments/20210312/1503567.md" target="_blank">报复北京资助政变 愤怒民众放言炸毁中缅油气管</a></li>
 <li><a href="/comments/20210312/1503566.md" target="_blank">无意与中国展开战略对话 拜登政府维持“结果为导向”对华强硬政策</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210312/1503378.md" target="_blank">脸书放弃了？因中共取消计划；疫苗接种两次仍不安全？福奇:不用科学, 靠民调判断；欧洲最大网络公司被烧 全球数百万网站一夜瘫痪；薄熙来遗毒仍在？ 赵本山公司严重违法被清算【希望之声TV-12AM</a></li>
 <li><a href="/comments/20210312/1503367.md" target="_blank">口袋中的救生艇：居英权的前世今生</a></li>
 <li><a href="/comments/20210312/1503361.md" target="_blank">提名获参院外委会批准 美副国务卿主张抗共</a></li>
-<li><a href="/comments/20210312/1503360.md" target="_blank">惩罚中共掩盖疫情 美议员提案扣压万亿美元债务</a></li>
-<li><a href="/comments/20210312/1503359.md" target="_blank">中共强改香港选举 英台日谴责 美声明制裁</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
