@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210311/1502916.md">不用打针了 新冠新药将上市 口服5天即可</a></li>
-<li><a href="/yule/20210311/1502872.md">“非诚勿扰”火了10年全是托？女嘉宾是从哪来的</a></li>
 <li><a href="/cnnews/20210312/1503191.md">高级特工揭中共高层混乱男女关系</a></li>
 <li><a href="/finance/20210312/1503101.md">房子越多越惨？中国楼市面临三大“坏消息”</a></li>
 <li><a href="/cbnews/20210312/1503366.md">李克强记者会 讲话罕见不捧习、不甩锅</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/comments/20210312/1503211.md">习近平要算胡春华的帐 警告红二代 两会强烈释放打虎信号 中南海谣言预言_442</a></li>
 <li><a href="/comments/20210312/1503292.md">力克习近平？李克强人大闭幕记者会再爆亮点 外媒：他还是不一样</a></li>
 <li><a href="/yule/20210311/1503008.md">大陆女星范冰冰：再见了，熟悉的陌生人</a></li>
-<li><a href="/cnnews/20210311/1502883.md">科学家惊人理论：宇宙可能是一个巨大神经网络</a></li>
 <li><a href="/bannedvideo/20210311/1502891.md">陈破空：美媒断言：习近平接班人已定！猜猜是谁？汪洋致词有玄机。明年二十大的N种可能</a></li>
 <li><a href="/ssgc/20210312/1503141.md">〖兲朝浮世绘〗都是邓小平的六四屠杀起头惹的祸</a></li>
-<li><a href="/cbnews/20210312/1503304.md">习近平女儿信息外泄 获释未成年人爆遭警虐待</a></li>
 <li><a href="/lifebaike/20210312/1503334.md">家里保姆突然辞职，临走时她趴在耳边叮嘱我一句话，顿时泪如雨下</a></li>
+<li><a href="/cbnews/20210312/1503304.md">习近平女儿信息外泄 获释未成年人爆遭警虐待</a></li>
 <li><a href="/topimagenews/20210312/1503179.md">印度是天敌? 中共又惹大事 高僧揭秘中共轰炸拉萨 中国疫苗都怕！习李都不打</a></li>
-<li><a href="/ssgc/20210311/1502888.md">李克强向美国释出善意 学者 : 代表中国务实派官僚心声</a></li>
 <li><a href="/comments/20210312/1503172.md">中国淘宝惊现川普佛像，法号“西天懂佛”</a></li>
 <li><a href="/topimagenews/20210312/1503097.md">中国资本外流需求大 剖析四大“钻空子”招数…</a></li>
+<li><a href="/ssgc/20210311/1502888.md">李克强向美国释出善意 学者 : 代表中国务实派官僚心声</a></li>
 <li><a href="/cbnews/20210312/1503119.md">人大组织法修改通过 评论：习近平高度集权</a></li>
 <li><a href="/cnnews/20210312/1503236.md">美媒爆中共“强拆”阿里巴巴 祭天价罚款！逼切割马云</a></li>
 <li><a href="/funmedia/20210311/1502909.md">中国大陆高校最美校花大赏</a></li>
+<li><a href="/comments/20210312/1503050.md">香港变了！ 习近平跨时空打脸邓小平 朱镕基旧话被重提</a></li>
+<li><a href="/cbnews/20210311/1502953.md">谁拿走了这些中国大陆人的退休金？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210312/1503653.md" target="_blank">美国特种部队专家，教你如何避免被网路世界吸走</a></li>
+<li><a href="/comments/20210312/1503642.md" target="_blank">教局修改高中核心课程 中学校长会质疑“长官意志” “有多少吸纳了前线老师意见？”</a></li>
+<li><a href="/comments/20210312/1503641.md" target="_blank">【47 人案】谭文豪 6 岁子画全家福表“感恩” 妻撰家书赞子女乖巧 “老公，我一定照顾好龙凤 B”</a></li>
 <li><a href="/comments/20210312/1503634.md" target="_blank">疫情严重经济萧条，为什么比特币和房地产却大涨？比特币是极权的终结还是数字极权的开始？｜薇羽看世间 第258期 20210312</a></li>
 <li><a href="/comments/20210312/1503621.md" target="_blank">#好莱坞巨星 亲历“ #鬼门关 ”？ 40年研究揭示奥秘。</a></li>
 <li><a href="/comments/20210312/1503619.md" target="_blank">I AM BACK！习近平俨然开始扬眉吐气 卷土重来</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210312/1503489.md" target="_blank">疑旗下企业涉新疆奴工案  挪威基金会调查</a></li>
 <li><a href="/comments/20210312/1503488.md" target="_blank">习近平威胁话音刚落 能源央企大佬传非正常死亡！与刘云山有清晰交集</a></li>
 <li><a href="/comments/20210312/1503485.md" target="_blank">豆浆对人体好处多多，早晚都喝减重效果好</a></li>
-<li><a href="/comments/20210312/1503484.md" target="_blank">历经70年 美国韩战老兵家书回到亲属手中</a></li>
-<li><a href="/comments/20210312/1503483.md" target="_blank">共和党议员提议，扣押中共持有的1万亿美国国债！川普考虑明年换掉乔州叛徒州长肯普。GOP三大机构攻击川普支持的候选人。蓬佩奥指控武汉病毒来源被承认。</a></li>
-<li><a href="/comments/20210312/1503482.md" target="_blank">时事大家谈：习近平要中国“平视世界”，世界却为何俯视中国？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
