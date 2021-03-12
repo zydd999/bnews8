@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210311/1502810.md">曾传赵本山涉薄熙来政变 “本山传媒”再遭清算</a></li>
 <li><a href="/bannedvideo/20210311/1502841.md">网友：曝光中国洗脚、 修脚店行业内幕</a></li>
-<li><a href="/bannedvideo/20210311/1502784.md">中共内斗加剧习近平能力太差重新启用王岐山反腐大清洗开始?（启明笑谈20210311）</a></li>
 <li><a href="/cnnews/20210311/1502916.md">不用打针了 新冠新药将上市 口服5天即可</a></li>
 <li><a href="/cnnews/20210312/1503191.md">高级特工揭中共高层混乱男女关系</a></li>
 <li><a href="/yule/20210311/1502872.md">“非诚勿扰”火了10年全是托？女嘉宾是从哪来的</a></li>
 <li><a href="/finance/20210312/1503101.md">房子越多越惨？中国楼市面临三大“坏消息”</a></li>
 <li><a href="/cbnews/20210312/1503077.md">诡异! 中美2＋2高峰会没乔好? 中媒竟说 : 美国单方面宣布</a></li>
-<li><a href="/worldnews/usa/20210311/1502798.md">天目所见：自由女神像崩塌</a></li>
 <li><a href="/cbnews/20210312/1503366.md">李克强记者会 讲话罕见不捧习、不甩锅</a></li>
+<li><a href="/worldnews/usa/20210311/1502798.md">天目所见：自由女神像崩塌</a></li>
 <li><a href="/comments/20210312/1503211.md">习近平要算胡春华的帐 警告红二代 两会强烈释放打虎信号 中南海谣言预言_442</a></li>
 <li><a href="/comments/20210312/1503066.md">陆媒：赵本山摊上大事了 本山传媒涉嫌严重违法 海南公司清算注销 赵本山对赵家班已失去控制？赵本山女儿与众弟子内讧肮脏内幕曝光</a></li>
 <li><a href="/cbnews/20210311/1502831.md">拜登团队：蓬佩奥病毒报告基于“真实证据”</a></li>
 <li><a href="/yule/20210311/1503008.md">大陆女星范冰冰：再见了，熟悉的陌生人</a></li>
 <li><a href="/cnnews/20210311/1502883.md">科学家惊人理论：宇宙可能是一个巨大神经网络</a></li>
-<li><a href="/bannedvideo/20210311/1502891.md">陈破空：美媒断言：习近平接班人已定！猜猜是谁？汪洋致词有玄机。明年二十大的N种可能</a></li>
-<li><a href="/ssgc/20210312/1503141.md">〖兲朝浮世绘〗都是邓小平的六四屠杀起头惹的祸</a></li>
-<li><a href="/topimagenews/20210312/1503179.md">印度是天敌? 中共又惹大事 高僧揭秘中共轰炸拉萨 中国疫苗都怕！习李都不打</a></li>
 <li><a href="/comments/20210312/1503292.md">力克习近平？李克强人大闭幕记者会再爆亮点 外媒：他还是不一样</a></li>
+<li><a href="/ssgc/20210312/1503141.md">〖兲朝浮世绘〗都是邓小平的六四屠杀起头惹的祸</a></li>
+<li><a href="/bannedvideo/20210311/1502891.md">陈破空：美媒断言：习近平接班人已定！猜猜是谁？汪洋致词有玄机。明年二十大的N种可能</a></li>
+<li><a href="/topimagenews/20210312/1503179.md">印度是天敌? 中共又惹大事 高僧揭秘中共轰炸拉萨 中国疫苗都怕！习李都不打</a></li>
 <li><a href="/cnnews/20210311/1502870.md">人大通过修改香港选制 0票反对 1票弃权是谁？</a></li>
+<li><a href="/cbnews/20210312/1503304.md">习近平女儿信息外泄 获释未成年人爆遭警虐待</a></li>
 <li><a href="/topimagenews/20210312/1503097.md">中国资本外流需求大 剖析四大“钻空子”招数…</a></li>
 <li><a href="/ssgc/20210311/1502888.md">李克强向美国释出善意 学者 : 代表中国务实派官僚心声</a></li>
-<li><a href="/cbnews/20210312/1503304.md">习近平女儿信息外泄 获释未成年人爆遭警虐待</a></li>
+<li><a href="/comments/20210312/1503172.md">中国淘宝惊现川普佛像，法号“西天懂佛”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210312/1503554.md" target="_blank">日相菅义伟将于4月上旬访美 就多项议题与拜登会谈</a></li>
 <li><a href="/comments/20210312/1503539.md" target="_blank">妻撰家书 指尹兆坚还押一周轻 5 磅 “减肥有望，却感唏嘘”</a></li>
 <li><a href="/comments/20210312/1503519.md" target="_blank">李燕铭：习近平签第73号主席令 架空李克强 习亲信栗战书获权提请撤销国务院副总理 胡春华处境岌岌可危 孙春兰或提前为习家军女将谌贻琴让位</a></li>
 <li><a href="/comments/20210312/1503492.md" target="_blank">支持度高 川普CPAC会议后筹得300万美金</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210312/1503358.md" target="_blank">欧盟副主席：支持美国联盟对抗中共数字独裁</a></li>
 <li><a href="/comments/20210312/1503353.md" target="_blank">【微博精粹】我们面对这批完全不打算长远割韭菜的官员</a></li>
 <li><a href="/comments/20210312/1503352.md" target="_blank">神秘买家低价购爱泼斯坦豪宅;阻佩洛西！格林提休会;拜登中美洲撒币40亿；售枪需有背景调查;拜登签署1.9万亿疫情纾困法;新泽西州保护选举诚信立法；缅司令两子女及其实体入黑名单【希望之声TV】10pm</a></li>
-<li><a href="/comments/20210312/1503333.md" target="_blank">军人可免费做费用高达20万美元变性手术 拜登让纳税人买单</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
