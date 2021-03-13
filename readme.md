@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210313/1503966.md">徐才厚女儿的荒淫人生</a></li>
 <li><a href="/topimagenews/20210313/1503935.md">李克强再说实话打脸中共 让习近平三大尴尬 千人计划2.0？中共将推新政加强版</a></li>
-<li><a href="/ssgc/20210313/1504008.md">〖微博谈〗习近平一定遗臭万年</a></li>
 <li><a href="/cbnews/20210313/1503913.md">消息人士：马云效仿毛泽东惹祸 已成公司负累</a></li>
+<li><a href="/ssgc/20210313/1504008.md">〖微博谈〗习近平一定遗臭万年</a></li>
+<li><a href="/yule/20210313/1503938.md">吴奇隆的噩梦又来了，前妻爆料：他是“吸血鬼”</a></li>
 <li><a href="/cbnews/20210313/1503911.md">江苏女辅警与逾9名领导淫乱 判决书曝光警方施压删帖</a></li>
 <li><a href="/ssgc/20210313/1503895.md">〖兲朝浮世绘〗顶级流氓睡女人不想付嫖资，反告其&quot;性敲诈&quot;</a></li>
-<li><a href="/yule/20210313/1503938.md">吴奇隆的噩梦又来了，前妻爆料：他是“吸血鬼”</a></li>
 <li><a href="/lifebaike/20210313/1504050.md">21岁女孩被枪决前，突然把嘴张开，众人不解，行刑士兵却明白了</a></li>
 <li><a href="/yule/20210313/1503968.md">她拍戏为丈夫还债，却和债主生下儿子，如今继承老公百亿家业</a></li>
 <li><a href="/bannedvideo/20210313/1504163.md">佩洛西惨了！；“香港50年不变”原音疯传；洪金宝：帮香港流眼泪；以色列伊朗冲突再起；川普“佛陀造像”在中国走红；江苏女辅警与9官有染入狱；</a></li>
 <li><a href="/comments/20210313/1504150.md">川普防长米勒变脸？指责川普有罪！涉选举违规 又5人被捕遭重罪起诉；英国王室哈里梅根访谈 引发左右之争；拜登与三国领导讨论疫苗问题；美议员雷人提案：取消租金和贷款12AM【希望之声TV】</a></li>
 <li><a href="/health/20210313/1504101.md">天然“溶栓剂”公布，并非木耳！建议：多吃，血栓或能绕路走</a></li>
-<li><a href="/comments/20210312/1503756.md">马云私人飞行记录曝光 疑常飞北京与中共高层接触</a></li>
 <li><a href="/cnnews/20210313/1504123.md">突发！腾讯、百度、苏宁等12企业被处罚</a></li>
+<li><a href="/comments/20210312/1503756.md">马云私人飞行记录曝光 疑常飞北京与中共高层接触</a></li>
 <li><a href="/comments/20210313/1503872.md">李克强再次泄密：中国失业人口高达2亿多</a></li>
 <li><a href="/yule/20210313/1504003.md">谢霆锋叹“出轨不能忍！”香港记者爆：他和王菲已分手半年</a></li>
-<li><a href="/cbnews/20210313/1504033.md">天亮时分：20210312 代理国防部长揭秘川普为何动用不了军队；马云得罪习近平的三个原因，能否软着陆；舒默叱责拜登，透露什么信息？（政论天下第374集 20210312）</a></li>
-<li><a href="/topimagenews/20210313/1504092.md">再拍中共马屁也没用 长城影视被终止上市！股价只有0.46元</a></li>
-<li><a href="/funmedia/20210313/1504115.md">坐过一次飞机到西藏，才会发现那些让你坐火车来的人根本就不懂</a></li>
 <li><a href="/topimagenews/20210313/1504189.md">一甲子轮回 习近平突提大饥荒惨剧 “三千孤儿入内蒙”</a></li>
+<li><a href="/cbnews/20210313/1504033.md">天亮时分：20210312 代理国防部长揭秘川普为何动用不了军队；马云得罪习近平的三个原因，能否软着陆；舒默叱责拜登，透露什么信息？（政论天下第374集 20210312）</a></li>
+<li><a href="/funmedia/20210313/1504115.md">坐过一次飞机到西藏，才会发现那些让你坐火车来的人根本就不懂</a></li>
+<li><a href="/topimagenews/20210313/1504092.md">再拍中共马屁也没用 长城影视被终止上市！股价只有0.46元</a></li>
+<li><a href="/comments/20210313/1504107.md">魏晋：李克强又一句话打脸习近平 扬眉吐气</a></li>
 <li><a href="/comments/20210313/1503983.md">法媒：报新冠病毒是石正丽改造？私通女共谍议员恐被撤职；土耳其海运奇葩事 六千吨铜不翼而飞？州检察长起诉市长无视州长取消口罩令；安提法纵火因发生在夜间被否认恐怖主义【希望之声TV】</a></li>
 <li><a href="/headline/20210312/1503742.md">法媒：新冠病毒是石正丽改造的病毒？</a></li>
-<li><a href="/comments/20210313/1504107.md">魏晋：李克强又一句话打脸习近平 扬眉吐气</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
