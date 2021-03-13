@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210313/1503966.md">徐才厚女儿的荒淫人生</a></li>
-<li><a href="/topimagenews/20210313/1503935.md">李克强再说实话打脸中共 让习近平三大尴尬 千人计划2.0？中共将推新政加强版</a></li>
-<li><a href="/ssgc/20210313/1504008.md">〖微博谈〗习近平一定遗臭万年</a></li>
 <li><a href="/lifebaike/20210313/1504050.md">21岁女孩被枪决前，突然把嘴张开，众人不解，行刑士兵却明白了</a></li>
-<li><a href="/yule/20210313/1503938.md">吴奇隆的噩梦又来了，前妻爆料：他是“吸血鬼”</a></li>
+<li><a href="/ssgc/20210313/1504008.md">〖微博谈〗习近平一定遗臭万年</a></li>
 <li><a href="/cbnews/20210313/1504248.md">民众震惊！江西地震了？消息上微博热搜榜</a></li>
 <li><a href="/cbnews/20210313/1504357.md">李克强接班人到底是谁</a></li>
 <li><a href="/cnnews/20210313/1504241.md">“广州大抓捕” 当局迄今封锁消息</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/cbnews/20210313/1504225.md">他的死告诉人们 中共酷刑有多狠</a></li>
 <li><a href="/yule/20210313/1504003.md">谢霆锋叹“出轨不能忍！”香港记者爆：他和王菲已分手半年</a></li>
 <li><a href="/funmedia/20210313/1504115.md">坐过一次飞机到西藏，才会发现那些让你坐火车来的人根本就不懂</a></li>
+<li><a href="/cnnews/20210313/1504370.md">华女持旅游签入境澳洲 被盘问后当场遣返</a></li>
 <li><a href="/comments/20210313/1504174.md">川普公开撕碎演讲稿，暴露心中最柔软的一面，看完你就明白上帝为什么选择川普。│#熊猫侠</a></li>
 <li><a href="/cbnews/20210313/1504033.md">天亮时分：20210312 代理国防部长揭秘川普为何动用不了军队；马云得罪习近平的三个原因，能否软着陆；舒默叱责拜登，透露什么信息？（政论天下第374集 20210312）</a></li>
+<li><a href="/topimagenews/20210313/1504092.md">再拍中共马屁也没用 长城影视被终止上市！股价只有0.46元</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210314/1504501.md" target="_blank">民调：川普在共和党人中的支持度高达88%</a></li>
 <li><a href="/comments/20210314/1504498.md" target="_blank">章天亮: 川普开始清理门户 左派对“怪兽”信心缺失</a></li>
 <li><a href="/comments/20210314/1504472.md" target="_blank">聂德权：港公务员也是国家公职人员 须符爱国标准 过去培训不足少谈效忠</a></li>
 <li><a href="/comments/20210314/1504471.md" target="_blank">【阉割选举】澳纽政府联合声明 斥人大改选举制度毁香港自治</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210314/1504417.md" target="_blank">缅甸示威今传6死 民众持烛光纪念33年前民主运动</a></li>
 <li><a href="/comments/20210313/1504393.md" target="_blank">余茂春：武汉病毒所生化安全标准低 迟早出事故</a></li>
 <li><a href="/comments/20210313/1504392.md" target="_blank">橄榄油妙用多 如何挑选成关键</a></li>
-<li><a href="/comments/20210313/1504391.md" target="_blank">复习一下，哪些食物对肝脏是有益的？哪些有害？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 
 </ul>
 </div>
