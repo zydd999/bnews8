@@ -7,17 +7,15 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210314/1504528.md">去闺蜜家睡了三晚后，我离婚了，讲讲到底发生了什么</a></li>
 <li><a href="/cnnews/20210314/1504479.md">中国又有新政策 阻义乌出口商卖美元换人币</a></li>
-<li><a href="/cnnews/20210313/1504370.md">华女持旅游签入境澳洲 被盘问后当场遣返</a></li>
 <li><a href="/cnnews/hknews/20210314/1504682.md">中共人大闭幕式上习的一个举动再引关注</a></li>
 <li><a href="/lifebaike/20210314/1504522.md">鱼腥最怕的不是葱姜蒜，而是它！做鱼时放1点，鱼肉鲜嫩无腥味</a></li>
 <li><a href="/topimagenews/20210314/1504484.md">川普出山重大谈判 日奥运大臣:奥运会方案是不打疫苗 六四后首次,欧盟将制裁4中共官员</a></li>
 <li><a href="/cbnews/20210314/1504486.md">浙江嘉兴突发灭门案 一家人5死1伤</a></li>
 <li><a href="/comments/20210314/1504713.md">江苏女辅警掀翻淫乱官场 网曝多张真人照 有人“躺枪”</a></li>
-<li><a href="/finance/20210313/1504367.md">中共当局已锁定下一个马云</a></li>
 <li><a href="/cnnews/20210314/1504648.md">李克强吁百姓吃苦 分析：实话令高层尴尬</a></li>
 <li><a href="/topimagenews/20210314/1504485.md">百物腾贵日子快重临吗？全球再通胀风险升温 7大现象不可不察…</a></li>
-<li><a href="/cbnews/20210314/1504749.md">美女辅警被重判13年 中共及官员双赢</a></li>
 <li><a href="/bannedvideo/20210314/1504815.md">2021年2月28日，网友拍摄上海一知名超市现状，感叹大陆实体店生意惨淡</a></li>
+<li><a href="/cbnews/20210314/1504749.md">美女辅警被重判13年 中共及官员双赢</a></li>
 <li><a href="/ccpdope/20210314/1504804.md">这个文件超出了江泽民能够容忍的范围</a></li>
 <li><a href="/yule/20210314/1504698.md">穿成这样领奖，徐静蕾怎么想的</a></li>
 <li><a href="/cnnews/hknews/20210314/1504683.md">中共为什么敢在香港为所欲为？</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/cbnews/20210313/1504399.md">浙江嘉善疑再发灭门惨案 5死1伤 嫌犯落网</a></li>
 <li><a href="/funmedia/20210314/1504526.md">婚外情中的真爱，只有一种，其余都是各取所需</a></li>
 <li><a href="/funmedia/20210314/1504515.md">去日本旅游住酒店，别给穿和服的姑娘开门</a></li>
-<li><a href="/bannedvideo/20210314/1504467.md">揭秘美女辅警与9贪官淫乱腐败案中共潜规则美女进贡美女辅警与9领导淫乱（启明笑谈20210313）</a></li>
 <li><a href="/health/20210314/1504709.md">日本最新公布长寿秘诀，不熬夜仅排第4，第1被忽略，多数人不知</a></li>
+<li><a href="/bannedvideo/20210314/1504467.md">揭秘美女辅警与9贪官淫乱腐败案中共潜规则美女进贡美女辅警与9领导淫乱（启明笑谈20210313）</a></li>
+<li><a href="/bannedvideo/20210314/1504803.md">几次暗算胡锦涛 江曾想安排他当总书记</a></li>
 <li><a href="/bannedvideo/20210314/1504422.md">《石涛聚焦》“傻了！法国获奖女演员台上全脱了-抗议疫情灾难”“法国奥斯卡”之称凯撒奖 女演员玛谢罗前身“没有文化 没有未来”后背“把艺术还给我们”（13/03）</a></li>
+<li><a href="/cbnews/20210314/1504495.md">四川艺术职业学院军训乱象多 学生愤怒抗议</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 
 </ul>
 </div>
