@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/lifebaike/20210314/1504528.md">去闺蜜家睡了三晚后，我离婚了，讲讲到底发生了什么</a></li>
 <li><a href="/cnnews/hknews/20210314/1504682.md">中共人大闭幕式上习的一个举动再引关注</a></li>
-<li><a href="/lifebaike/20210314/1504522.md">鱼腥最怕的不是葱姜蒜，而是它！做鱼时放1点，鱼肉鲜嫩无腥味</a></li>
-<li><a href="/cnnews/20210314/1504648.md">李克强吁百姓吃苦 分析：实话令高层尴尬</a></li>
 <li><a href="/comments/20210314/1504713.md">江苏女辅警掀翻淫乱官场 网曝多张真人照 有人“躺枪”</a></li>
+<li><a href="/cnnews/20210314/1504648.md">李克强吁百姓吃苦 分析：实话令高层尴尬</a></li>
 <li><a href="/ccpdope/20210314/1504804.md">这个文件超出了江泽民能够容忍的范围</a></li>
 <li><a href="/bannedvideo/20210314/1504815.md">2021年2月28日，网友拍摄上海一知名超市现状，感叹大陆实体店生意惨淡</a></li>
 <li><a href="/cbnews/20210314/1504749.md">美女辅警被重判13年 中共及官员双赢</a></li>
 <li><a href="/bannedvideo/20210314/1504803.md">几次暗算胡锦涛 江曾想安排他当总书记</a></li>
+<li><a href="/cbnews/20210315/1504983.md">浙江富家女澳门赌输1.4亿 父：有26间房可卖 2个亿就拿回来</a></li>
 <li><a href="/bannedvideo/20210314/1504821.md">【热点】习近平磨刀霍霍突变调，为什么？猎杀利器！美军新装备上百黑翼潜射无人机；布林肯杨洁篪首次会晤,专家：希望没有秘密协议;中共政协委员提小县合并，泄露官民史无前例。AL</a></li>
 <li><a href="/yule/20210314/1504698.md">穿成这样领奖，徐静蕾怎么想的</a></li>
-<li><a href="/cbnews/20210315/1504983.md">浙江富家女澳门赌输1.4亿 父：有26间房可卖 2个亿就拿回来</a></li>
 <li><a href="/cnnews/hknews/20210314/1504683.md">中共为什么敢在香港为所欲为？</a></li>
 <li><a href="/cnnews/20210314/1504667.md">蚂蚁腾讯专割“年轻韭菜”惹中南海老人不满</a></li>
 <li><a href="/bannedvideo/20210314/1504817.md">不管你的子女多大一定要告诉他们这12句话</a></li>
-<li><a href="/health/20210314/1504709.md">日本最新公布长寿秘诀，不熬夜仅排第4，第1被忽略，多数人不知</a></li>
 <li><a href="/funmedia/20210314/1504526.md">婚外情中的真爱，只有一种，其余都是各取所需</a></li>
+<li><a href="/health/20210314/1504709.md">日本最新公布长寿秘诀，不熬夜仅排第4，第1被忽略，多数人不知</a></li>
 <li><a href="/cnnews/20210314/1504830.md">世卫组织调查员被中共收买，公然承认拒绝查看武汉病毒所数据【阿波罗网编译】</a></li>
 <li><a href="/worldnews/20210314/1504684.md">内幕曝光！以色列用一吨重的遥控枪 监视8个月 精准击毙伊朗核科学家 【阿波罗网编译】</a></li>
 <li><a href="/comments/20210314/1504826.md">李燕铭：习近平深入虎穴三支人马护驾 江苏公安系统淫乱丑闻曝光 周永康老家无锡官场被深度清洗 习近平接管江泽民政治老巢上海后着手清洗江泽民老家 江苏帮大老虎随时可能被抛出 江泽民老家移植医生两会提敏感议案 深度内幕解析（下）</a></li>
+<li><a href="/cnnews/20210314/1504853.md">政法大学教授：只要正面阐述西方文明学生就反感</a></li>
 <li><a href="/topimagenews/20210314/1504740.md">众议院司法委员会要求贝佐斯交出所有与审查保守派有关的文件【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210314/1504754.md">当阿什利被警察枪杀时，她背包里的东西会让你震惊【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210314/1504853.md">政法大学教授：只要正面阐述西方文明学生就反感</a></li>
+<li><a href="/bannedvideo/20210314/1504823.md">(字幕) 中国大陆的食品问题一直不断。日前，江苏又爆出一宗用鸭肉冒充制作假牛肉干的事件，涉案金额高达800多万元</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210315/1505090.md" target="_blank">法国劳工部长染疫 内阁再添中招新成员</a></li>
 <li><a href="/comments/20210315/1505082.md" target="_blank">最棒！阿拉巴马州向川普颁发“最伟大总统”决议书;国会山案调查人员要求推迟60天立案;乌克兰将马达西奇国有化;诚信崩溃  库莫的书取消二次印刷促销;政协委员泄露中国真实官民比例 网民震惊【希望之声TV】</a></li>
 <li><a href="/comments/20210315/1505071.md" target="_blank">小腹凸不是因为胖？10秒动作 让肚子瘦下来</a></li>
 <li><a href="/comments/20210315/1505070.md" target="_blank">震惊！因疫苗副作用 美国拳击名将哈格勒突然去世</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210314/1504975.md" target="_blank">美跨党派议员推法案 永久使用夏令时</a></li>
 <li><a href="/comments/20210314/1504968.md" target="_blank">“江泽民克星”因病去世 吕加平曾揭江泽民二奸二假</a></li>
 <li><a href="/comments/20210314/1504940.md" target="_blank">【元朗晓门涉套丁】十八乡乡头程振明卖地予男丁 低买高卖丁屋赚逾 800 万 弟当男丁见证人</a></li>
-<li><a href="/comments/20210314/1504938.md" target="_blank">【调查报道】元朗晓门疑似“套丁”操作 农地如何变 11 亿丁屋屋苑？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
