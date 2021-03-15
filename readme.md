@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210315/1504983.md">浙江富家女澳门赌输1.4亿 父：有26间房可卖 2个亿就拿回来</a></li>
 <li><a href="/topimagenews/20210315/1505073.md">习近平讲话泄2大担忧;李克强最新呼吁让习尴尬;揭江泽民二奸二假,吕加平离世</a></li>
-<li><a href="/bannedvideo/20210314/1504821.md">【热点】习近平磨刀霍霍突变调，为什么？猎杀利器！美军新装备上百黑翼潜射无人机；布林肯杨洁篪首次会晤,专家：希望没有秘密协议;中共政协委员提小县合并，泄露官民史无前例。AL</a></li>
-<li><a href="/bannedvideo/20210314/1504817.md">不管你的子女多大一定要告诉他们这12句话</a></li>
 <li><a href="/topimagenews/20210315/1505033.md">习近平磨刀霍霍突变调为何？猎杀!美军配大批潜射无人机 布杨首会,专家:望没秘密协议</a></li>
 <li><a href="/cbnews/20210315/1505035.md">河南毒妻 给夫“戴绿帽” 再联手杀情夫一家四口</a></li>
-<li><a href="/cbnews/20210315/1505064.md">太冲击！中国这样腌泡菜 影片曝光全网看傻：这还能吃？</a></li>
 <li><a href="/funmedia/20210315/1505094.md">女友出差发来一张自拍照，认真看了一下，我可能被绿了</a></li>
+<li><a href="/cbnews/20210315/1505064.md">太冲击！中国这样腌泡菜 影片曝光全网看傻：这还能吃？</a></li>
 <li><a href="/cnnews/20210314/1504830.md">世卫组织调查员被中共收买，公然承认拒绝查看武汉病毒所数据【阿波罗网编译】</a></li>
 <li><a href="/headline/20210315/1505081.md">中国领导人习近平步向第三个任期</a></li>
 <li><a href="/cnnews/20210315/1505115.md">官媒驳李克强的“灵活就业” 网民热议</a></li>
-<li><a href="/comments/20210314/1504826.md">李燕铭：习近平深入虎穴三支人马护驾 江苏公安系统淫乱丑闻曝光 周永康老家无锡官场被深度清洗 习近平接管江泽民政治老巢上海后着手清洗江泽民老家 江苏帮大老虎随时可能被抛出 江泽民老家移植医生两会提敏感议案 深度内幕解析（下）</a></li>
 <li><a href="/cbnews/20210315/1505215.md">两会后首虎彭波落马 惊吓刘云山孟建柱傅政华？</a></li>
+<li><a href="/comments/20210314/1504826.md">李燕铭：习近平深入虎穴三支人马护驾 江苏公安系统淫乱丑闻曝光 周永康老家无锡官场被深度清洗 习近平接管江泽民政治老巢上海后着手清洗江泽民老家 江苏帮大老虎随时可能被抛出 江泽民老家移植医生两会提敏感议案 深度内幕解析（下）</a></li>
 <li><a href="/yule/20210315/1505030.md">工藤静香不爱修图 50岁素颜真面目曝光网看傻</a></li>
 <li><a href="/topimagenews/20210315/1505186.md">惊人！中共病毒复阳率或高达10%？全国各地均有出现【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210314/1504853.md">政法大学教授：只要正面阐述西方文明学生就反感</a></li>
 <li><a href="/comments/20210315/1504967.md">“精忠报国”！川普挂在家中室内的中国画……岳母刺字</a></li>
-<li><a href="/ssgc/20210315/1505041.md">〖兲朝浮世绘〗中共的大杀器：中国疫苗</a></li>
 <li><a href="/ssgc/20210315/1505061.md">成年人的崩溃，都是从还钱开始的</a></li>
-<li><a href="/bannedvideo/20210314/1504823.md">(字幕) 中国大陆的食品问题一直不断。日前，江苏又爆出一宗用鸭肉冒充制作假牛肉干的事件，涉案金额高达800多万元</a></li>
+<li><a href="/ssgc/20210315/1505041.md">〖兲朝浮世绘〗中共的大杀器：中国疫苗</a></li>
 <li><a href="/funmedia/20210315/1505093.md">男人身上3种味道，让女人最上瘾，特别第一种</a></li>
 <li><a href="/comments/20210315/1504981.md">渔夫钓3米大鱼豪请全村 吃完才知260万美元飞了</a></li>
 <li><a href="/comments/20210315/1505071.md">小腹凸不是因为胖？10秒动作 让肚子瘦下来</a></li>
+<li><a href="/cnnews/20210315/1505284.md">谁能想到？中国有一个严重问题 3年之内将会引爆</a></li>
+<li><a href="/topimagenews/20210314/1504887.md">恐怖！父亲试图阻止医生把上中学的女儿变成男孩 被判5年【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20210315/1505269.md">好大一颗雷！业绩突然暴降90%，600亿游戏大牛股一字跌停</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 
 </ul>
 </div>
