@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/funmedia/20210316/1505808.md">中国人的生存法则变了，你再不懂就晚了</a></li>
 <li><a href="/headline/20210316/1505938.md">习近平的“帝王命”为何被搅黄？</a></li>
 <li><a href="/topimagenews/20210316/1506196.md">罕见!美国防部发声明警告习近平勿自取灭亡 美媒：习近平逼马云切割媒体资产</a></li>
-<li><a href="/finance/20210316/1505811.md">沿海大城沦“空城”？每坪3000没人买 房仲1句吐实情</a></li>
 <li><a href="/topimagenews/20210316/1505989.md">爆炸性卧底视频曝光：扎克伯格等同20亿人的国王！AI极危险前景 拜登...【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210316/1506084.md">凌晨 南阳开始大面积非法抓捕 …</a></li>
 <li><a href="/bannedvideo/20210316/1506103.md">习近平中共二十大连任板上钉钉？除非一事儿发生；习近平的优势江泽民曾庆红也无奈--天钧政经</a></li>
@@ -16,8 +14,8 @@
 <li><a href="/cbnews/20210316/1506030.md">江峰：潘石屹之子潘瑞被通缉，“侮辱烈士”，还是戳穿了中共诈术； 赵婷事件竟然是粉红无知坏了中宣部大计，说说赵婷父亲那个时代的事儿</a></li>
 <li><a href="/cnnews/20210316/1506256.md">许广平留下一份菜单，鲁迅的伙食令专家震惊</a></li>
 <li><a href="/cbnews/20210316/1505980.md">大陆爆出“合成羊肉”！网民：公开的秘密</a></li>
-<li><a href="/cnnews/20210316/1506155.md">2021年格莱美奖 堕落并污秽 被美国民众拒绝 收视率下降一半【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210316/1506070.md">大问题！中共对华盛顿的另类斩首行动已经开始？【阿波罗网编译】</a></li>
+<li><a href="/cnnews/20210316/1506155.md">2021年格莱美奖 堕落并污秽 被美国民众拒绝 收视率下降一半【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210316/1506054.md">英国预言家帕克最新预言 白等遇刺贺锦丽不是继任者 各预言显示2021年还会有灾难（启明笑谈20200720）</a></li>
 <li><a href="/cnnews/20210316/1505942.md">卖房也要交佣金了！ 房产中介的开始向卖方收费</a></li>
 <li><a href="/cbnews/20210316/1506130.md">女辅警敲诈9公职人员被重判重罚 舆情沸腾</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20210316/1505882.md">司徒剑：李克强靠唱白脸在中南海站稳脚跟</a></li>
 <li><a href="/health/20210316/1506090.md">每天抬脚15分钟，身体竟然越来越好了</a></li>
 <li><a href="/cnnews/hknews/20210316/1506069.md">接种科兴疫苗后第7人死亡 信心受挫致仅3%人口接种 港府大扩接种群组</a></li>
+<li><a href="/comments/20210316/1505957.md">【微博精粹】天老爷又戏耍人间一尊了</a></li>
+<li><a href="/cnnews/20210316/1506150.md">美中会晤前崔天凯发文喊话 网民神回复驳斥</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210317/1506475.md" target="_blank">教皇激进左转？呼吁拥抱“大重构”？官兵或被五角大楼强制留守？法官令公布购买胎儿器官信息；纽时再抹黑大纪元 其背景遭曝光；无依之地入围奥斯卡 中共欲取消直播；习泽明案 曝3度撤换主谋【希望之声TV】</a></li>
 <li><a href="/cbnews/20210317/1506421.md" target="_blank">美最大工会吁拜登政府禁止进口新疆太阳能产品</a></li>
 <li><a href="/cbnews/20210317/1506420.md" target="_blank">前国安顾问波顿 看美中高层会谈：现已非奥巴马时代</a></li>
 <li><a href="/cbnews/20210317/1506419.md" target="_blank">南宁武鸣沃柑放2个月不烂？果农承认泡药 自己也不吃</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/comments/20210316/1505993.md" target="_blank">川普意外现身 首次参与党内竞争；福齐也碰瓷？喊话川普 要其支持者接种疫苗；大事征兆？北京等多地出现火星同款“蓝太阳”；佩洛西：气候变化导致边境危机 网络炸锅-12AM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210316/1505980.md" target="_blank">大陆爆出“合成羊肉”！网民：公开的秘密</a></li>
 <li><a href="/cbnews/20210316/1505972.md" target="_blank">崔天凯为“爱国者治港”站台 遭美作家嘲讽</a></li>
-<li><a href="/comments/20210316/1505950.md" target="_blank">脸书高层爆料：扎克伯格要统治“20亿人？美军威胁媒体人！克鲁兹要见指挥官；共和党组团去美墨边境 德检察长反击拜登；父亲因阻止为14岁女儿变性 被判；梵蒂冈不支持牧师祝福同性婚姻【希望之声TV】10pm</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210317/1506469.md" target="_blank">震惊内幕 马克思主义党 内华达州夺权上台 多州竞选 全美大发展</a></li>
 <li><a href="/topimagenews/20210316/1506210.md" target="_blank">美媒专访《誓言守护者》创始人 揭秘深层政府和左派的迫害【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210316/1506196.md" target="_blank">罕见!美国防部发声明警告习近平勿自取灭亡 美媒：习近平逼马云切割媒体资产</a></li>
 <li><a href="/topimagenews/20210316/1506194.md" target="_blank">太离谱了!国防部极端主义培训手册为&#8221;黑命贵&#8221;放行【阿波罗网编译】</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210313/1503935.md" target="_blank">李克强再说实话打脸中共 让习近平三大尴尬 千人计划2.0？中共将推新政加强版</a></li>
 <li><a href="/topimagenews/20210312/1503627.md" target="_blank">川普接连发声 中共打脸拜登 佩洛西被告 美众院通过法案将私人枪支销售定为刑事犯罪</a></li>
 <li><a href="/topimagenews/20210312/1503547.md" target="_blank">一石激起千层浪！德州州长为何这样说？【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210312/1503529.md" target="_blank">拜登要会晤外国元首了？这国政府称…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210317/1506475.md" target="_blank">教皇激进左转？呼吁拥抱“大重构”？官兵或被五角大楼强制留守？法官令公布购买胎儿器官信息；纽时再抹黑大纪元 其背景遭曝光；无依之地入围奥斯卡 中共欲取消直播；习泽明案 曝3度撤换主谋【希望之声TV】</a></li>
+<li><a href="/comments/20210317/1506464.md" target="_blank">至少 8 泛民组织“跳船”退出民阵 社民连表明“留守”：同行坚持结社权利</a></li>
 <li><a href="/comments/20210317/1506460.md" target="_blank">左翼分子正在将亚裔美国人赶出民主党</a></li>
 <li><a href="/comments/20210317/1506454.md" target="_blank">仅一位民主党议员反对1.9万亿法案 他是谁？</a></li>
 <li><a href="/comments/20210317/1506442.md" target="_blank">麦卡锡：美军发表政治性言论开了“危险先例”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210317/1506373.md" target="_blank">风险加剧 人行副行长倡议制定“金融稳定法”</a></li>
 <li><a href="/comments/20210317/1506372.md" target="_blank">阿里巴巴旗下UC浏览器被下架</a></li>
 <li><a href="/comments/20210317/1506371.md" target="_blank">地球处处有神蹟 坠入尘世的我们怎样和神沟通？</a></li>
-<li><a href="/comments/20210317/1506367.md" target="_blank">中学校长会：忧通识科变“重新冠名科目”难实现课程理念 推行急难配合吁教局“慎思”</a></li>
-<li><a href="/comments/20210317/1506366.md" target="_blank">《无依之地》横扫各大电影节斩获多奖 入围奥斯卡获最佳导演最佳影片等6项提名 赵婷成为首位获得金球奖最佳导演奖亚裔女导演 首位获奥斯卡最佳导演提名的华人女性 赵婷以《无依之地》书写金球奖历史将再书写奥斯卡奖历史？传中共取消奥斯卡直播颁奖礼 从“中国的骄傲”变成“辱华分子” 赵婷：中国充满谎言</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
 
 </ul>
 </div>
