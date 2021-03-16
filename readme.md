@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/funmedia/20210316/1505808.md">中国人的生存法则变了，你再不懂就晚了</a></li>
-<li><a href="/cbnews/20210316/1505795.md">专栏 | 夜话中南海：李克强修订简历 暗含对习近平学历的不屑？</a></li>
 <li><a href="/headline/20210316/1505938.md">习近平的“帝王命”为何被搅黄？</a></li>
+<li><a href="/cbnews/20210316/1505795.md">专栏 | 夜话中南海：李克强修订简历 暗含对习近平学历的不屑？</a></li>
 <li><a href="/topimagenews/20210316/1506196.md">罕见!美国防部发声明警告习近平勿自取灭亡 美媒：习近平逼马云切割媒体资产</a></li>
 <li><a href="/cnnews/20210316/1505759.md">从富裕到贫穷，南非只用了一个曼德拉</a></li>
 <li><a href="/topimagenews/20210316/1505989.md">爆炸性卧底视频曝光：扎克伯格等同20亿人的国王！AI极危险前景 拜登...【阿波罗网编译】</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/cbnews/20210316/1505751.md">安徽歙县一乡党委书记被村民杀死</a></li>
 <li><a href="/bannedvideo/20210316/1506054.md">英国预言家帕克最新预言 白等遇刺贺锦丽不是继任者 各预言显示2021年还会有灾难（启明笑谈20200720）</a></li>
 <li><a href="/cnnews/20210316/1505942.md">卖房也要交佣金了！ 房产中介的开始向卖方收费</a></li>
-<li><a href="/cbnews/20210316/1506035.md">铺天盖地 “北京下土了”！沙尘爆袭中国17省</a></li>
 <li><a href="/cnnews/20210316/1506155.md">2021年格莱美奖 堕落并污秽 被美国民众拒绝 收视率下降一半【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210316/1506035.md">铺天盖地 “北京下土了”！沙尘爆袭中国17省</a></li>
 <li><a href="/cbnews/20210316/1506130.md">女辅警敲诈9公职人员被重判重罚 舆情沸腾</a></li>
 <li><a href="/funmedia/20210316/1505872.md">深夜给男朋友发了一张我的美腿照，结果他的反应..</a></li>
 <li><a href="/lifebaike/20210316/1505831.md">不管炒什么肉，记住都别直接下锅，大厨教你，肉不柴也不腥</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210317/1506359.md" target="_blank">麦卡锡：美墨边境超过10%非法移民感染疫情</a></li>
+<li><a href="/comments/20210317/1506354.md" target="_blank">美媒：军队非政治正确实验场 应以战斗力为重</a></li>
+<li><a href="/comments/20210317/1506353.md" target="_blank">对抗中共 美海岸警卫队舰艇远赴西太平洋</a></li>
 <li><a href="/comments/20210317/1506339.md" target="_blank">美墨边境难民激增 白宫承认：是个大问题</a></li>
 <li><a href="/comments/20210317/1506336.md" target="_blank">美国防部发公开声明 直接警告中共领导人涝后大旱？长江断流触目惊心巴基斯坦议会惊现6中共摄像头 引发骚动拜登双眼由蓝变黑 引发猜测【希望之声TV】</a></li>
 <li><a href="/comments/20210317/1506331.md" target="_blank">欧洲疫情惨重 染疫死亡人数突破90万</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210316/1506192.md" target="_blank">【武汉肺炎】增 30 确诊 健身群组累计 122 宗 860 人密切接触</a></li>
 <li><a href="/comments/20210316/1506191.md" target="_blank">【阉割选举】会否出任资格审查委员会成员？ 汤家骅：我合适担任</a></li>
 <li><a href="/comments/20210316/1506163.md" target="_blank">美日“2+2”会谈：就日益增长的中共威胁紧密合作</a></li>
-<li><a href="/comments/20210316/1506162.md" target="_blank">司马光砸缸~一个官二代和富二代的故事</a></li>
-<li><a href="/comments/20210316/1506141.md" target="_blank">糖尿病不能沾的六种蔬菜</a></li>
-<li><a href="/comments/20210316/1506140.md" target="_blank">春天里，请收好这份养生指南</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
