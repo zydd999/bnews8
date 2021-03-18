@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20210318/1507482.md">陕西警察实名举报公安厅高官包养女辅警</a></li>
 <li><a href="/cbnews/20210318/1507461.md">分析：习近平架空李克强 实则防范胡春华</a></li>
 <li><a href="/bannedvideo/20210318/1507601.md">习近平将屠刀砍向了曾经权力非常大又神秘的部门，也是江泽民的死穴--天钧政经</a></li>
-<li><a href="/cnnews/20210318/1507452.md">“干涉缅甸的内政了？”赵立坚气结巴 网友嘲讽</a></li>
 <li><a href="/bannedvideo/20210318/1507443.md">💥李克强将下台，习近平会选“最弱总理”接班？已有人选；上海公安抓美军子弟；胡锦涛祖祠被劈；党媒起底潘石屹；华裔戴琪主掌贸易，中共噩梦？传梅根要选总统，川普：来吧；拜登战略矛盾 ｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20210318/1507452.md">“干涉缅甸的内政了？”赵立坚气结巴 网友嘲讽</a></li>
 <li><a href="/yule/20210318/1507427.md">64岁刘晓庆真人到底长啥样？看她在泳池内现原形，是谁家的奶奶</a></li>
 <li><a href="/cbnews/20210318/1507593.md">习近平暴露中共野心 十四五泄露科技硬伤</a></li>
 <li><a href="/yule/20210318/1507634.md">超女冠军成老赖？她可是9家公司女总裁</a></li>
-<li><a href="/bannedvideo/20210318/1507284.md">范志毅上综艺吐槽太给力，惹怒新华社这只菜鸡！国家队打球不行，吐槽十分可以！油管大五毛郑国成酒后发飙大骂党妈！酒醒后吓到小便失禁！被请去喝茶只是时间问题！【新闻最嘲点 姜光宇】(0317）‬</a></li>
 <li><a href="/topimagenews/20210318/1507678.md">川规拜半随央企损失惨重 习大手笔香港接管抢钱 中国严重问题3年内引爆</a></li>
 <li><a href="/cbnews/20210318/1507307.md">文昭：重要信号，阿里巴巴将这样被拆分！被冤枉的「垄断」；中共暴怒反击「美日声明」别有用心</a></li>
 <li><a href="/topimagenews/20210318/1507327.md">川普威武霸屏：此时决定是否再战 多妻多夫在美国2城市合法,当代索多玛?</a></li>
 <li><a href="/baitai/20210318/1507612.md">继其子潘瑞遭中共追捕后 中国地产商潘石屹售卖中国资产再度引发关注</a></li>
+<li><a href="/bannedvideo/20210318/1507535.md">刚刚结束的美澳印日首脑会谈并发表联合声明，对中共不抱任何幻想。3月14日，美国纽约反共斗士白节敏、罗永东、魏立斌等人，来到华盛顿澳、印、日驻美大使馆门前支持会谈声明，向三国大使馆喊话</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210319/1508018.md" target="_blank">重大抗中法案4月出台 两党推“大赦”区别何在    嘉宾：谢田 教授  主持：高洁【希望之声TV】(2021/03/18)</a></li>
 <li><a href="/cbnews/20210319/1508006.md" target="_blank">合理抗议被污阻街 当事人详述当年曲折</a></li>
 <li><a href="/comments/20210319/1507995.md" target="_blank">参议员呛福西 打疫苗后戴俩口罩作秀；儿童法庭法官被逮捕；餐馆老板取消口罩禁令 将在法庭为生存而战；萨基一再搪塞媒体入边境收容所访问请求；亚特兰大枪击案 奥巴马吁加强枪支管制【希望之声TV】</a></li>
 <li><a href="/cbnews/20210319/1507948.md" target="_blank">多方持续抗议下，美国一大学宣布将关闭校内孔子学院</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210318/1507482.md" target="_blank">陕西警察实名举报公安厅高官包养女辅警</a></li>
 <li><a href="/cbnews/20210318/1507461.md" target="_blank">分析：习近平架空李克强 实则防范胡春华</a></li>
 <li><a href="/cbnews/20210318/1507460.md" target="_blank">“应邀”会晤却没有饭局？中南海面子丢尽</a></li>
-<li><a href="/comments/20210318/1507458.md" target="_blank">大选诉讼案关键折点！密州法官判州务卿违法；清理门户？共和党要和川普一起把她拉下马！中共“大五毛”疑醉酒直播  大骂共产党；德州为首 告谷歌垄断 美再有5州及地区加入-12AM【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210319/1508018.md" target="_blank">重大抗中法案4月出台 两党推“大赦”区别何在    嘉宾：谢田 教授  主持：高洁【希望之声TV】(2021/03/18)</a></li>
 <li><a href="/comments/20210319/1508005.md" target="_blank">19年前不懈抗辩终获胜 香港人透过他们看到了希望</a></li>
 <li><a href="/comments/20210319/1507995.md" target="_blank">参议员呛福西 打疫苗后戴俩口罩作秀；儿童法庭法官被逮捕；餐馆老板取消口罩禁令 将在法庭为生存而战；萨基一再搪塞媒体入边境收容所访问请求；亚特兰大枪击案 奥巴马吁加强枪支管制【希望之声TV】</a></li>
 <li><a href="/comments/20210319/1507993.md" target="_blank">反对声浪下 美塔夫茨大学孔子学院将在9月关门</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210319/1507888.md" target="_blank">美韩2+2会谈 聚焦中朝 布林肯：北京一贯违背承诺</a></li>
 <li><a href="/comments/20210319/1507872.md" target="_blank">【睇片】建制派垄断立法会 险酿流会 廖长江赶入会议室 建制派拍手</a></li>
 <li><a href="/comments/20210319/1507871.md" target="_blank">艺术作品中的“正能量”?</a></li>
-<li><a href="/comments/20210319/1507870.md" target="_blank">被裁定当选无效 区议员洪骏轩众筹 申向终院上诉 “不愿成放弃反抗先例”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
 
 </ul>
 </div>
