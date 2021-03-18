@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210317/1506660.md">中国“大五毛”网红疑喝醉吐真言 直播大骂共产党</a></li>
 <li><a href="/bannedvideo/20210317/1506756.md">大陆上海浦东，广东东莞等多地，商铺关店潮</a></li>
-<li><a href="/cbnews/20210317/1506775.md">罕见！中美高层会晤前 上海突抓美国留学生</a></li>
 <li><a href="/comments/20210317/1506697.md">大外宣放风马云身负四宗罪 暗示马云出事：“境遇倒转只在旦夕之间，困难时光远未过去，现在的某些灯光，对马云来说有点过于刺眼了……” 马云重蹈王健林覆辙 由“人民企业家”变为“资本家” 大外宣暗示马云如何做才能死里逃生 中南海谣言预言_444</a></li>
+<li><a href="/cbnews/20210317/1506775.md">罕见！中美高层会晤前 上海突抓美国留学生</a></li>
 <li><a href="/cbnews/20210317/1506924.md">被踢出苹果供应链 中企损失超百亿</a></li>
 <li><a href="/cbnews/20210317/1506716.md">胡锦涛宗祠遭斧劈 安徽男犯案细节曝光</a></li>
 <li><a href="/cbnews/20210317/1506743.md">美国务院最新报告 点名制裁24名中港官员 14名人大副委员长全包括</a></li>
@@ -21,8 +21,8 @@
 <li><a href="/cbnews/20210317/1506992.md">胡锦涛有麻烦？老家宗祠遭斧劈</a></li>
 <li><a href="/headline/20210317/1506694.md">回应北京修改香港选举法 美国宣布扩大制裁14名中国人大副委员长</a></li>
 <li><a href="/cnnews/20210317/1506903.md">汉墓出土一本上古天书 或改写历史</a></li>
-<li><a href="/comments/20210317/1506713.md">胡锦涛有大问题？老家宗祠遭斧劈</a></li>
 <li><a href="/cbnews/20210317/1506991.md">掐住高官脖子？习近平最新讲话透玄机</a></li>
+<li><a href="/comments/20210317/1506713.md">胡锦涛有大问题？老家宗祠遭斧劈</a></li>
 <li><a href="/cnnews/20210317/1506675.md">江西司法局副局长涉猥亵 受害者上司全程袖手</a></li>
 <li><a href="/lifebaike/20210317/1506840.md">电池、信号重点提升！iPhone 13前瞻：可太香了</a></li>
 <li><a href="/comments/20210317/1506688.md">罕见！中美重磅高层会晤前 上海警察便衣突袭一学生聚会 两伤者父母任职美国防部</a></li>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210318/1507406.md" target="_blank">川普要建超级政治行动委员会；麦康奈尔发严重警告：民主党强推立法 必遭报复；纽森被罢免赖上爱国者；亚马逊大战工会 贝佐斯拒绝出席听证会；中美高层会晤前 美制裁中港24名高官【希望之声TV】pm10</a></li>
+<li><a href="/cbnews/20210318/1507141.md" target="_blank">拜登眼睛颜色由蓝变黑，什么状况？</a></li>
+<li><a href="/cbnews/20210318/1507394.md" target="_blank">两个麦克或将庭审 中共人质外交让世界警醒</a></li>
+<li><a href="/cbnews/20210318/1507393.md" target="_blank">华尔街日报：中共借阿拉斯加会晤 要求美方撤回前朝对华限制</a></li>
 <li><a href="/comments/20210318/1507341.md" target="_blank">美日联合声明剑指中共；美中会谈前，美国出手强硬；中共持续追打马云，南华早报被要求出售</a></li>
 <li><a href="/cbnews/20210318/1507324.md" target="_blank">天亮时分：三件事重击左派，两件和选举有关；美国左派吓坏欧洲，英国丹麦制定新国策；川普谈2024计划；拜登两大外交动作（政论天下第377集 20210317）</a></li>
 <li><a href="/cbnews/20210318/1507307.md" target="_blank">文昭：重要信号，阿里巴巴将这样被拆分！被冤枉的「垄断」；中共暴怒反击「美日声明」别有用心</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/comments/20210317/1506814.md" target="_blank">川普接受福克斯专访，究竟谈了啥？乔州电话，谁给左媒喂的料？黑幕撕开一角，引发多米诺骨牌效应？华盛顿邮报改邪归正了？布林肯与杨洁篪会面地点，暴露了拜登对北京态度。</a></li>
 <li><a href="/comments/20210317/1506809.md" target="_blank">缅甸和尚索巴纳用他神奇的转世经历，让我们能够一窥奥妙的生命之谜。</a></li>
 <li><a href="/cbnews/20210317/1506789.md" target="_blank">“发大财”？大陆知名粥店用顾客吃剩排骨煲粥</a></li>
-<li><a href="/cbnews/20210317/1506775.md" target="_blank">罕见！中美高层会晤前 上海突抓美国留学生</a></li>
-<li><a href="/cbnews/20210317/1506743.md" target="_blank">美国务院最新报告 点名制裁24名中港官员 14名人大副委员长全包括</a></li>
-<li><a href="/cbnews/20210317/1506724.md" target="_blank">江峰：香港选举改革细节流出，一党之私毁百年荣光；美国文革启动：宁要政治正确的草，不要传统美国的苗【风味周三】</a></li>
-<li><a href="/cbnews/20210317/1506716.md" target="_blank">胡锦涛宗祠遭斧劈 安徽男犯案细节曝光</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210318/1507406.md" target="_blank">川普要建超级政治行动委员会；麦康奈尔发严重警告：民主党强推立法 必遭报复；纽森被罢免赖上爱国者；亚马逊大战工会 贝佐斯拒绝出席听证会；中美高层会晤前 美制裁中港24名高官【希望之声TV】pm10</a></li>
+<li><a href="/comments/20210318/1507044.md" target="_blank">余茂春:美中战略竞争没有双赢|观点</a></li>
+<li><a href="/comments/20210318/1507390.md" target="_blank">中宣部推“全民学党史”洗脑 李鸿忠又率先表忠</a></li>
 <li><a href="/comments/20210318/1507380.md" target="_blank">前总理哈珀：美中新冷战 加拿大要清醒</a></li>
 <li><a href="/comments/20210318/1507379.md" target="_blank">民意不释放两名麦克 加中关系无法修复</a></li>
 <li><a href="/comments/20210318/1507378.md" target="_blank">拜登批普京干预美大选俄罗斯出狠招</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210318/1507319.md" target="_blank">1400美元纾困金到账 纽约华人惊喜</a></li>
 <li><a href="/comments/20210318/1507305.md" target="_blank">川普建议支持者接种疫苗 但“需尊重个人选择”</a></li>
 <li><a href="/comments/20210318/1507304.md" target="_blank">拜登拟大幅调最高联邦税率至39.6%</a></li>
-<li><a href="/comments/20210318/1507303.md" target="_blank">国际空间站发现四种细菌 三种是不明菌株</a></li>
-<li><a href="/comments/20210318/1507302.md" target="_blank">戴耀廷 —“民主”作为一种日常实践</a></li>
-<li><a href="/comments/20210318/1507294.md" target="_blank">谢远东： 总统梦碎 一夜蹿红的美国州长这就塌了</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 <li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
