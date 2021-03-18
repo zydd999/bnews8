@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/health/20210317/1506572.md">45岁男子血液粘如粥，深夜脑梗去世！原因竟然是长期吃这种食物</a></li>
 <li><a href="/cnnews/20210317/1506660.md">中国“大五毛”网红疑喝醉吐真言 直播大骂共产党</a></li>
 <li><a href="/bannedvideo/20210317/1506756.md">大陆上海浦东，广东东莞等多地，商铺关店潮</a></li>
 <li><a href="/cbnews/20210317/1506775.md">罕见！中美高层会晤前 上海突抓美国留学生</a></li>
@@ -16,10 +15,10 @@
 <li><a href="/cbnews/20210317/1506925.md">上海警方突袭学生聚会 两伤者父母任职美国防部</a></li>
 <li><a href="/cnnews/20210317/1507011.md">大陆女官权色交易细节曝光，非五星级饭店不住</a></li>
 <li><a href="/cbnews/20210317/1506705.md">江峰：习近平左转太快国务院跟不上----汪洋李克强不同步；香港选举议案看表决机器的精确打击； 马云泪别南华早报；脸书扎克伯格国王有20亿臣民；中共抖音暗助缅甸军方</a></li>
+<li><a href="/cnnews/hknews/20210318/1507169.md">网友吃惊 香港小学课本已经变成这样了</a></li>
 <li><a href="/bannedvideo/20210317/1506885.md">陈破空：习近平宠臣栽倒！他搞砸了习的面子工程。乌克兰奋起抗中。欧洲堵截中国疫苗</a></li>
 <li><a href="/topimagenews/20210317/1506882.md">美日外长防长强硬喊话中共 勒令停止报复澳洲;应对中俄,英核弹头上限将增长4成</a></li>
 <li><a href="/health/20210317/1506606.md">医生提醒：50岁后，长寿秘诀并非运动和饮食，而是坚持1件事</a></li>
-<li><a href="/cnnews/hknews/20210318/1507169.md">网友吃惊 香港小学课本已经变成这样了</a></li>
 <li><a href="/cbnews/20210317/1506992.md">胡锦涛有麻烦？老家宗祠遭斧劈</a></li>
 <li><a href="/headline/20210317/1506694.md">回应北京修改香港选举法 美国宣布扩大制裁14名中国人大副委员长</a></li>
 <li><a href="/cnnews/20210317/1506903.md">汉墓出土一本上古天书 或改写历史</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210317/1506991.md">掐住高官脖子？习近平最新讲话透玄机</a></li>
 <li><a href="/lifebaike/20210317/1506840.md">电池、信号重点提升！iPhone 13前瞻：可太香了</a></li>
 <li><a href="/cbnews/20210317/1506789.md">“发大财”？大陆知名粥店用顾客吃剩排骨煲粥</a></li>
+<li><a href="/comments/20210317/1506688.md">罕见！中美重磅高层会晤前 上海警察便衣突袭一学生聚会 两伤者父母任职美国防部</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210318/1507357.md" target="_blank">美国特种部队专家 教你如何避免被网路世界吸走</a></li>
+<li><a href="/comments/20210318/1507356.md" target="_blank">向承美:女辅警引发的《白日一删尽》当代诗词艺术获奖作品</a></li>
+<li><a href="/comments/20210318/1507355.md" target="_blank">刘杰:女辅警父亲发声微博阅读量1.1亿 官方撤稿尴尬了谁？</a></li>
+<li><a href="/comments/20210318/1507351.md" target="_blank">参议员：武汉病毒所接受美国立卫生研究院资助</a></li>
+<li><a href="/comments/20210318/1507345.md" target="_blank">上海女淫官权色交易 更多细节曝光</a></li>
 <li><a href="/comments/20210318/1507341.md" target="_blank">美日联合声明剑指中共；美中会谈前，美国出手强硬；中共持续追打马云，南华早报被要求出售</a></li>
 <li><a href="/comments/20210318/1507339.md" target="_blank">六神磊磊:脱口秀这东西就不适合我国国情</a></li>
 <li><a href="/comments/20210318/1507338.md" target="_blank">中国经济是如何被逼上绝路的？刺破泡沫因回天无力</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210318/1507287.md" target="_blank">美商务部传唤多家中企通讯商进行安全审查</a></li>
 <li><a href="/comments/20210318/1507285.md" target="_blank">中美会谈  寒意森森   嘉宾：袁弓夷  秦鹏  主持：高洁【希望之声TV】(2021/03/17)</a></li>
 <li><a href="/comments/20210318/1507283.md" target="_blank">陶杰：未登天子位 先置杀人刀</a></li>
-<li><a href="/comments/20210318/1507282.md" target="_blank">林保华：美中会晤美须提清晰红线</a></li>
-<li><a href="/comments/20210318/1507270.md" target="_blank">中共战狼阻法议员访台受挫 被法台双方轮番打脸</a></li>
-<li><a href="/comments/20210318/1507266.md" target="_blank">寒意满满？中美高层会晤细节曝光 中方就一安排抗议</a></li>
-<li><a href="/comments/20210318/1507265.md" target="_blank">【希望之声TV】</a></li>
-<li><a href="/comments/20210318/1507242.md" target="_blank">罢免加州州长签名已超200万 可触发再次选举</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 <li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
