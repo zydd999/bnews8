@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210319/1508066.md">打脸来得好快？白宫回应“4月拜习会”说法</a></li>
 <li><a href="/yule/20210319/1508094.md">1989年，李嘉诚带18岁李嘉欣回家过夜，3个小时后，原配离奇死亡</a></li>
-<li><a href="/cbnews/20210319/1508449.md">美中会谈杨洁篪突袭搅场 ，真实目的是什么</a></li>
 <li><a href="/cbnews/20210319/1508232.md">杨洁篪带王毅访美 罕见人事安排透露什么</a></li>
+<li><a href="/cbnews/20210319/1508449.md">美中会谈杨洁篪突袭搅场 ，真实目的是什么</a></li>
 <li><a href="/cbnews/20210319/1508187.md">美中会谈 布林肯杨洁篪公开交锋 互不相让</a></li>
 <li><a href="/comments/20210319/1508318.md">杨洁篪自说自话不给翻译17分钟 不忘表忠习 美方惊讶</a></li>
 <li><a href="/bannedvideo/20210319/1508332.md">文睿：杨洁篪彻底刷屏了，中共到底要干什么？这里面的水很深</a></li>
 <li><a href="/topimagenews/20210319/1508105.md">目瞪口呆！要借到20万亿 中国经济才能持续稳定运行？</a></li>
-<li><a href="/funmedia/20210319/1508009.md">领导说“谢谢”该怎么回?低情商才说不客气，高情商的一般这样回</a></li>
 <li><a href="/cbnews/20210319/1508301.md">江苏军嫂举报丈夫与女军人搞婚外情 引爆网络</a></li>
 <li><a href="/cnnews/20210319/1508526.md">演戏？杨洁篪在中美会面时午饭“吃泡面”</a></li>
+<li><a href="/comments/20210320/1508637.md">网传杨振宁去世 官方未见证实 网民热议：翁帆解套了 98岁杨振宁语告44岁翁帆：一旦他离世她可改嫁 翁帆听了后……陆媒：翁帆真不是一般人 但愿她是真的不后悔 中南海谣言预言_445</a></li>
 <li><a href="/cbnews/20210319/1508221.md">美中会谈登场 杨洁篪违反协议超时发言</a></li>
 <li><a href="/cbnews/20210319/1508106.md">儿子判囚10年现已改名 82岁李双江与梦鸽等人聚餐再露面</a></li>
 <li><a href="/cbnews/20210319/1508411.md">中美对话 美部署大杀器进驻日本 党媒内外唱反调,目的何在? 粮食不够?中共露馅</a></li>
-<li><a href="/comments/20210320/1508637.md">网传杨振宁去世 官方未见证实 网民热议：翁帆解套了 98岁杨振宁语告44岁翁帆：一旦他离世她可改嫁 翁帆听了后……陆媒：翁帆真不是一般人 但愿她是真的不后悔 中南海谣言预言_445</a></li>
+<li><a href="/topimagenews/20210320/1508661.md">突发：拜登在登上空军一号时，不断地从楼梯上摔下来【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210319/1508137.md">四川女干部“豹女狼”惹议 网民：去外交部吧</a></li>
 <li><a href="/comments/20210319/1499587.md">中国城市游击战“枪从哪里来”（至暗时刻  摧毁中共暴政战略之转型  第八讲）【袁红冰纵论天下】 03062021</a></li>
 <li><a href="/bannedvideo/20210319/1508408.md">陈破空：震惊！美中会谈爆激烈争吵。杨洁篪闹场十五分钟！布林肯很君子，沙利文太嫩？王毅提非分要求</a></li>
 <li><a href="/topimagenews/20210319/1508104.md">取消中共最惠国待遇, 美3位共和党参议员参议员提重磅法案</a></li>
 <li><a href="/ssgc/20210319/1508030.md">〖微博谈〗连朋友都不行了就吹华为</a></li>
-<li><a href="/lifebaike/20210319/1508012.md">新婚夜停电，女邻居来敲门借蜡烛…俺连夜回娘家</a></li>
-<li><a href="/topimagenews/20210320/1508661.md">突发：拜登在登上空军一号时，不断地从楼梯上摔下来【阿波罗网编译】</a></li>
 <li><a href="/ssgc/20210319/1508498.md">美中会晤陷冰点 谁给习近平挖坑？</a></li>
+<li><a href="/cnnews/20210319/1508070.md">奥斯汀回呛金与正：你要开战 今晚就奉陪</a></li>
+<li><a href="/ssgc/20210319/1508140.md">美中高阶外交官当面驳火 价值观大辩论</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210320/1508771.md" target="_blank">剑拔弩张    流氓外交的结果？   嘉宾：袁弓夷  谢田教授 主持：高洁【希望之声TV】(2021/03/19)</a></li>
 <li><a href="/comments/20210320/1508752.md" target="_blank">拜登飞机摔倒 引外界担忧；电报欠债7亿快到期 ；什么征兆？脸书三社媒全球停摆；局势升级 拜登同意对话普京？朱利安尼说左媒对Newsmax评分错误；中共军方禁特斯拉 ；朝鲜断交大马6pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210320/1508719.md" target="_blank">广东一公司数千员工抗议变相降薪 遭警镇压</a></li>
 <li><a href="/cbnews/20210320/1508689.md" target="_blank">夫家酸“吃白食” 合肥29岁全职妈妈携2子跳楼</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210319/1508301.md" target="_blank">江苏军嫂举报丈夫与女军人搞婚外情 引爆网络</a></li>
 <li><a href="/comments/20210319/1504146.md" target="_blank">【袁红冰热点】自古英雄出少年！V字旅、中国自由军行使人民在暴政前起义权，引领中国人走出对中共暴政的恐惧！</a></li>
 <li><a href="/comments/20210319/1499587.md" target="_blank">中国城市游击战“枪从哪里来”（至暗时刻  摧毁中共暴政战略之转型  第八讲）【袁红冰纵论天下】 03062021</a></li>
-<li><a href="/cbnews/20210319/1508218.md" target="_blank">“春华”不能注册商标 中共领导人禁忌多</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210320/1508771.md" target="_blank">剑拔弩张    流氓外交的结果？   嘉宾：袁弓夷  谢田教授 主持：高洁【希望之声TV】(2021/03/19)</a></li>
 <li><a href="/comments/20210320/1508759.md" target="_blank">毫无预警 Facebook旗下软件全面宕机1小时</a></li>
 <li><a href="/comments/20210320/1508758.md" target="_blank">科学证明：“天上一日 地上千年”不是神话</a></li>
 <li><a href="/comments/20210320/1508752.md" target="_blank">拜登飞机摔倒 引外界担忧；电报欠债7亿快到期 ；什么征兆？脸书三社媒全球停摆；局势升级 拜登同意对话普京？朱利安尼说左媒对Newsmax评分错误；中共军方禁特斯拉 ；朝鲜断交大马6pm【希望之声TV】</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210320/1508646.md" target="_blank">祸从天降！厦门直升机坠海 3遇难1失踪</a></li>
 <li><a href="/comments/20210320/1508642.md" target="_blank">加拿大商人斯帕弗案丹东开庭 10名外交官旁听被拒</a></li>
 <li><a href="/comments/20210320/1508637.md" target="_blank">网传杨振宁去世 官方未见证实 网民热议：翁帆解套了 98岁杨振宁语告44岁翁帆：一旦他离世她可改嫁 翁帆听了后……陆媒：翁帆真不是一般人 但愿她是真的不后悔 中南海谣言预言_445</a></li>
-<li><a href="/comments/20210320/1508626.md" target="_blank">美众院通过立法使数百万非法移民合法化</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
