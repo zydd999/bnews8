@@ -6,23 +6,23 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/ssgc/20210318/1507736.md">胡锦涛公子胡海锋被甩出未来的政治局</a></li>
-<li><a href="/cbnews/20210318/1507493.md">“西门庆控告潘金莲”惊动高层？党媒放话释信号</a></li>
 <li><a href="/cnnews/20210318/1507552.md">中共惧怕川普？美中高层会谈细节流出</a></li>
 <li><a href="/comments/20210318/1507628.md">财商天下：马云为何让习近平吓出一身冷汗？</a></li>
 <li><a href="/cnnews/20210318/1507632.md">网络疯传：拜登与记者的视频让人吓坏了 头被砍了一块【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210318/1507601.md">习近平将屠刀砍向了曾经权力非常大又神秘的部门，也是江泽民的死穴--天钧政经</a></li>
-<li><a href="/cbnews/20210319/1507932.md">杨洁篪下榻美连锁酒店 崔天凯称对会谈不抱幻想</a></li>
 <li><a href="/topimagenews/20210319/1508066.md">打脸来得好快？白宫回应“4月拜习会”说法</a></li>
+<li><a href="/cbnews/20210319/1507932.md">杨洁篪下榻美连锁酒店 崔天凯称对会谈不抱幻想</a></li>
 <li><a href="/cbnews/20210318/1507593.md">习近平暴露中共野心 十四五泄露科技硬伤</a></li>
 <li><a href="/topimagenews/20210319/1507978.md">中美首次会晤还怕川普？美国防部:习领导开战必败 台准备好6小时内开战 港惨变乌干达</a></li>
-<li><a href="/funmedia/20210319/1508009.md">领导说“谢谢”该怎么回?低情商才说不客气，高情商的一般这样回</a></li>
 <li><a href="/yule/20210318/1507634.md">超女冠军成老赖？她可是9家公司女总裁</a></li>
+<li><a href="/funmedia/20210319/1508009.md">领导说“谢谢”该怎么回?低情商才说不客气，高情商的一般这样回</a></li>
 <li><a href="/cnnews/20210319/1507909.md">同是与领导淫乱 江苏女辅警入狱 陕西女辅警转正提干</a></li>
 <li><a href="/topimagenews/20210318/1507678.md">川规拜半随央企损失惨重 习大手笔香港接管抢钱 中国严重问题3年内引爆</a></li>
 <li><a href="/cbnews/20210319/1507880.md">四川男擦挂奔驰车后留字条…车主：赔12元就好</a></li>
+<li><a href="/topimagenews/20210319/1508105.md">目瞪口呆！要借到20万亿 中国经济才能持续稳定运行？</a></li>
 <li><a href="/ssgc/20210319/1507942.md">〖兲朝浮世绘〗上海首富黄峥裸退 和马云一样被打土豪分田地了？</a></li>
 <li><a href="/baitai/20210318/1507612.md">继其子潘瑞遭中共追捕后 中国地产商潘石屹售卖中国资产再度引发关注</a></li>
-<li><a href="/topimagenews/20210319/1508105.md">目瞪口呆！要借到20万亿 中国经济才能持续稳定运行？</a></li>
+<li><a href="/cbnews/20210319/1508187.md">美中会谈 布林肯杨洁篪公开交锋 互不相让</a></li>
 <li><a href="/bannedvideo/20210318/1507535.md">刚刚结束的美澳印日首脑会谈并发表联合声明，对中共不抱任何幻想。3月14日，美国纽约反共斗士白节敏、罗永东、魏立斌等人，来到华盛顿澳、印、日驻美大使馆门前支持会谈声明，向三国大使馆喊话</a></li>
 <li><a href="/bannedvideo/20210318/1507554.md">文睿：发布一个重要通知，请大家一定要抽时间看一下，谢谢</a></li>
 <li><a href="/bannedvideo/20210319/1507990.md">拜登8招羞辱习近平；崔天凯嘲笑布林肯“走夜路唱歌”；四国领导人之间形成鄙视链：普京和拜登互呛，金与正看不起拜登</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210319/1508237.md" target="_blank">王宇独子包卓轩在美申请政庇 受访直批中共</a></li>
 <li><a href="/cbnews/20210319/1508232.md" target="_blank">杨洁篪带王毅访美 罕见人事安排透露什么</a></li>
 <li><a href="/cbnews/20210319/1508221.md" target="_blank">美中会谈登场 杨洁篪违反协议超时发言</a></li>
 <li><a href="/cbnews/20210319/1508220.md" target="_blank">江峰：参院外交领袖： 两党合力制定重大抗中法案；布林肯“该合作就合作、该对抗就对抗” 看拜登政府反共三心二意带来更大冲突风险</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210318/1507751.md" target="_blank">惊爆：胡锦涛宗祠遭斧劈！豹胆男被判10个月</a></li>
 <li><a href="/cbnews/20210318/1507742.md" target="_blank">涉及维权 网红“五毛”酒后痛斥中共</a></li>
 <li><a href="/cbnews/20210318/1507730.md" target="_blank">美国思想领袖：斯伯丁：独立宣言如何塑造美国？人们该如何理解美国的建国历史及其「人人生而平等」的承诺？教育界应恢复公民教育，爱国需学习真实历史！| 大纪元</a></li>
-<li><a href="/comments/20210318/1507695.md" target="_blank">记者询问缅甸问题 中共战狼气到结巴；缅甸查封索罗斯基金会银行账户；拜登冻结边境墙资金 41名议员要求总审计长评估；拜登将大幅调最高联邦税率至39.6%；8am【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 
 </ul>
 </div>
