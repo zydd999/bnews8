@@ -7,17 +7,17 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/ssgc/20210318/1507736.md">胡锦涛公子胡海锋被甩出未来的政治局</a></li>
 <li><a href="/cbnews/20210319/1508187.md">美中会谈 布林肯杨洁篪公开交锋 互不相让</a></li>
-<li><a href="/topimagenews/20210319/1508066.md">打脸来得好快？白宫回应“4月拜习会”说法</a></li>
 <li><a href="/cbnews/20210319/1507932.md">杨洁篪下榻美连锁酒店 崔天凯称对会谈不抱幻想</a></li>
+<li><a href="/topimagenews/20210319/1508066.md">打脸来得好快？白宫回应“4月拜习会”说法</a></li>
 <li><a href="/cbnews/20210319/1508232.md">杨洁篪带王毅访美 罕见人事安排透露什么</a></li>
 <li><a href="/topimagenews/20210319/1508105.md">目瞪口呆！要借到20万亿 中国经济才能持续稳定运行？</a></li>
 <li><a href="/topimagenews/20210319/1507978.md">中美首次会晤还怕川普？美国防部:习领导开战必败 台准备好6小时内开战 港惨变乌干达</a></li>
 <li><a href="/yule/20210319/1508094.md">1989年，李嘉诚带18岁李嘉欣回家过夜，3个小时后，原配离奇死亡</a></li>
-<li><a href="/cbnews/20210319/1508106.md">儿子判囚10年现已改名 82岁李双江与梦鸽等人聚餐再露面</a></li>
 <li><a href="/funmedia/20210319/1508009.md">领导说“谢谢”该怎么回?低情商才说不客气，高情商的一般这样回</a></li>
-<li><a href="/cnnews/20210319/1507909.md">同是与领导淫乱 江苏女辅警入狱 陕西女辅警转正提干</a></li>
-<li><a href="/ssgc/20210319/1507942.md">〖兲朝浮世绘〗上海首富黄峥裸退 和马云一样被打土豪分田地了？</a></li>
 <li><a href="/cbnews/20210319/1508221.md">美中会谈登场 杨洁篪违反协议超时发言</a></li>
+<li><a href="/cnnews/20210319/1507909.md">同是与领导淫乱 江苏女辅警入狱 陕西女辅警转正提干</a></li>
+<li><a href="/cbnews/20210319/1508106.md">儿子判囚10年现已改名 82岁李双江与梦鸽等人聚餐再露面</a></li>
+<li><a href="/ssgc/20210319/1507942.md">〖兲朝浮世绘〗上海首富黄峥裸退 和马云一样被打土豪分田地了？</a></li>
 <li><a href="/cbnews/20210319/1507880.md">四川男擦挂奔驰车后留字条…车主：赔12元就好</a></li>
 <li><a href="/cnnews/20210319/1508137.md">四川女干部“豹女狼”惹议 网民：去外交部吧</a></li>
 <li><a href="/bannedvideo/20210319/1507990.md">拜登8招羞辱习近平；崔天凯嘲笑布林肯“走夜路唱歌”；四国领导人之间形成鄙视链：普京和拜登互呛，金与正看不起拜登</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210319/1508446.md" target="_blank">又来了：拜登在公开场合说出 “哈里斯总统”；普京加大挑战力度 向拜登提出了现场辩论；悄悄的 拜登政府向墨西哥施压；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210319/1508411.md" target="_blank">中美对话 美部署大杀器进驻日本 党媒内外唱反调,目的何在? 粮食不够?中共露馅</a></li>
 <li><a href="/comments/20210319/1508336.md" target="_blank">民主党突然攻击原司法部长巴尔，真实用意是什么？佩洛西试图将共和党议员、女川普格林逐出国会，他们能得逞吗？失去拥枪权，美国会变成什么？</a></li>
 <li><a href="/comments/20210319/1508335.md" target="_blank">有人经历了 #濒死体验 之后，发生了巨大的变化，一位 #主治医生 甚至因此放弃了 #无神论 思想。</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210319/1508006.md" target="_blank">合理抗议被污阻街 当事人详述当年曲折</a></li>
 <li><a href="/comments/20210319/1507995.md" target="_blank">参议员呛福西 打疫苗后戴俩口罩作秀；儿童法庭法官被逮捕；餐馆老板取消口罩禁令 将在法庭为生存而战；萨基一再搪塞媒体入边境收容所访问请求；亚特兰大枪击案 奥巴马吁加强枪支管制【希望之声TV】</a></li>
 <li><a href="/cbnews/20210319/1507948.md" target="_blank">多方持续抗议下，美国一大学宣布将关闭校内孔子学院</a></li>
-<li><a href="/cbnews/20210319/1507932.md" target="_blank">杨洁篪下榻美连锁酒店 崔天凯称对会谈不抱幻想</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210319/1508437.md" target="_blank">民主党众议员桑切斯：记者参观关押儿童的边境设施不合适 被揭内幕【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210319/1508409.md" target="_blank">没听错吧？佩洛西称非法移民儿童是美国国父的&#8221;真正合法继承人“【阿波罗网编译】</a></li>
 <li><a href="/comments/20210319/1504146.md" target="_blank">【袁红冰热点】自古英雄出少年！V字旅、中国自由军行使人民在暴政前起义权，引领中国人走出对中共暴政的恐惧！</a></li>
 <li><a href="/topimagenews/20210319/1508277.md" target="_blank">小布什大赞拜登 称国会抗议让他&#8221;感到厌恶&#8221;，&#8221;恶心的想吐&#8221;【阿波罗网编译】</a></li>
@@ -91,13 +92,17 @@
 <li><a href="/topimagenews/20210317/1506742.md" target="_blank">&#8220;特大&#8221;规模！几十人在街上等着拜登出现【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210317/1506740.md" target="_blank">今天，是女儿的六岁生日，但妈妈不能见她 甚至不允许和她说话 【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210317/1506469.md" target="_blank">震惊内幕 马克思主义党 内华达州夺权上台 多州竞选 全美大发展</a></li>
-<li><a href="/topimagenews/20210316/1506210.md" target="_blank">美媒专访《誓言守护者》创始人 揭秘深层政府和左派的迫害【阿波罗网编译】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210319/1508446.md" target="_blank">又来了：拜登在公开场合说出 “哈里斯总统”；普京加大挑战力度 向拜登提出了现场辩论；悄悄的 拜登政府向墨西哥施压；8am【希望之声TV】</a></li>
+<li><a href="/comments/20210319/1508407.md" target="_blank">跨物种感染新灭顶之灾？疫苗接种惹祸谁买单？ 印度神童阿南德又说中 | 预言警示 | 探索与洞见</a></li>
+<li><a href="/comments/20210319/1508420.md" target="_blank">中共炮轰美日声明 日本：完全无法接受</a></li>
+<li><a href="/comments/20210319/1508419.md" target="_blank">【全面监控】建制再促课室装闭路电视 镜头对焦教师 蔡若莲：做法消极 恐教学变质</a></li>
+<li><a href="/comments/20210319/1508417.md" target="_blank">谭凯邦 — 看见白海豚的男孩</a></li>
 <li><a href="/comments/20210319/1508374.md" target="_blank">《柳叶刀》刊中国专家研究 意外泄武汉逾百万人染疫</a></li>
 <li><a href="/comments/20210319/1508373.md" target="_blank">憨憨的萝卜 健康多多</a></li>
 <li><a href="/comments/20210319/1508372.md" target="_blank">身上的黑痣是癌症吗？认识恶性黑色素瘤５大征兆</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210319/1508303.md" target="_blank">认知障碍？拜登脱口将总统大位送人 称“贺锦丽总统”</a></li>
 <li><a href="/comments/20210319/1504146.md" target="_blank">【袁红冰热点】自古英雄出少年！V字旅、中国自由军行使人民在暴政前起义权，引领中国人走出对中共暴政的恐惧！</a></li>
 <li><a href="/comments/20210319/1499587.md" target="_blank">中国城市游击战“枪从哪里来”（至暗时刻  摧毁中共暴政战略之转型  第八讲）【袁红冰纵论天下】 03062021</a></li>
-<li><a href="/comments/20210319/1508261.md" target="_blank">举报高官包养女警的吴永强再次举报陕西官场腐败</a></li>
-<li><a href="/comments/20210319/1508229.md" target="_blank">《大公》头版狙击民阵 轰“引发暴乱” 引评论指有权取缔 跳船组织不代表可避刑责</a></li>
-<li><a href="/comments/20210319/1508225.md" target="_blank">拒美国引渡朝鲜公民 平壤或与马来西亚断交</a></li>
-<li><a href="/comments/20210319/1508224.md" target="_blank">研究：全球双胞胎出生率达峰值 每42个里就有1个</a></li>
-<li><a href="/comments/20210319/1508200.md" target="_blank">美制造业协会吁拜登在贸易上对中共强硬</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
 
 </ul>
 </div>
