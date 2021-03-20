@@ -5,15 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210319/1508066.md">打脸来得好快？白宫回应“4月拜习会”说法</a></li>
 <li><a href="/yule/20210319/1508094.md">1989年，李嘉诚带18岁李嘉欣回家过夜，3个小时后，原配离奇死亡</a></li>
 <li><a href="/cbnews/20210319/1508232.md">杨洁篪带王毅访美 罕见人事安排透露什么</a></li>
 <li><a href="/comments/20210319/1508318.md">杨洁篪自说自话不给翻译17分钟 不忘表忠习 美方惊讶</a></li>
 <li><a href="/cbnews/20210319/1508449.md">美中会谈杨洁篪突袭搅场 ，真实目的是什么</a></li>
 <li><a href="/cbnews/20210319/1508187.md">美中会谈 布林肯杨洁篪公开交锋 互不相让</a></li>
 <li><a href="/bannedvideo/20210319/1508332.md">文睿：杨洁篪彻底刷屏了，中共到底要干什么？这里面的水很深</a></li>
-<li><a href="/topimagenews/20210319/1508105.md">目瞪口呆！要借到20万亿 中国经济才能持续稳定运行？</a></li>
 <li><a href="/comments/20210320/1508637.md">网传杨振宁去世 官方未见证实 网民热议：翁帆解套了 98岁杨振宁语告44岁翁帆：一旦他离世她可改嫁 翁帆听了后……陆媒：翁帆真不是一般人 但愿她是真的不后悔 中南海谣言预言_445</a></li>
+<li><a href="/topimagenews/20210319/1508105.md">目瞪口呆！要借到20万亿 中国经济才能持续稳定运行？</a></li>
 <li><a href="/cbnews/20210319/1508301.md">江苏军嫂举报丈夫与女军人搞婚外情 引爆网络</a></li>
 <li><a href="/cnnews/20210319/1508526.md">演戏？杨洁篪在中美会面时午饭“吃泡面”</a></li>
 <li><a href="/topimagenews/20210320/1508661.md">突发：拜登在登上空军一号时，不断地从楼梯上摔下来【阿波罗网编译】</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/cbnews/20210319/1508411.md">中美对话 美部署大杀器进驻日本 党媒内外唱反调,目的何在? 粮食不够?中共露馅</a></li>
 <li><a href="/cnnews/20210319/1508137.md">四川女干部“豹女狼”惹议 网民：去外交部吧</a></li>
 <li><a href="/comments/20210319/1499587.md">中国城市游击战“枪从哪里来”（至暗时刻  摧毁中共暴政战略之转型  第八讲）【袁红冰纵论天下】 03062021</a></li>
-<li><a href="/bannedvideo/20210319/1508408.md">陈破空：震惊！美中会谈爆激烈争吵。杨洁篪闹场十五分钟！布林肯很君子，沙利文太嫩？王毅提非分要求</a></li>
 <li><a href="/bannedvideo/20210320/1508622.md">陈破空：原汁原味：杨洁篪是这么表演的！看习近平把他逼成什么样子。美方是如何回应的？阿拉斯加现场实录</a></li>
+<li><a href="/bannedvideo/20210319/1508408.md">陈破空：震惊！美中会谈爆激烈争吵。杨洁篪闹场十五分钟！布林肯很君子，沙利文太嫩？王毅提非分要求</a></li>
 <li><a href="/topimagenews/20210319/1508104.md">取消中共最惠国待遇, 美3位共和党参议员参议员提重磅法案</a></li>
 <li><a href="/ssgc/20210319/1508498.md">美中会晤陷冰点 谁给习近平挖坑？</a></li>
-<li><a href="/cnnews/20210319/1508070.md">奥斯汀回呛金与正：你要开战 今晚就奉陪</a></li>
+<li><a href="/comments/20210320/1508702.md">突发！美国人懵了 拜登跌落在空军一号 连摔三次</a></li>
+<li><a href="/cbnews/20210320/1508629.md">中美阿拉斯加会谈破局 学者沈荣钦点破：习近平在试探美国</a></li>
 <li><a href="/ssgc/20210319/1508140.md">美中高阶外交官当面驳火 价值观大辩论</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210320/1508825.md" target="_blank">西安市第八医院检验师接种疫苗后感染</a></li>
+<li><a href="/cbnews/20210320/1508819.md" target="_blank">美中交锋激烈 章家敦：中共天生和稳定不相容</a></li>
 <li><a href="/comments/20210320/1508799.md" target="_blank">美中首度会谈，中共为何敢上演“战狼”秀？寻求合作空间，美方是否会陷入中共“谈判陷阱”？</a></li>
 <li><a href="/cbnews/20210320/1508784.md" target="_blank">文昭：杨洁篪阿拉斯加发飙、中美硬夯辛丑加速？韭菜急了也造反，网信办急查一重大风险</a></li>
 <li><a href="/comments/20210320/1508771.md" target="_blank">剑拔弩张    流氓外交的结果？   嘉宾：袁弓夷  谢田教授 主持：高洁【希望之声TV】(2021/03/19)</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210319/1508411.md" target="_blank">中美对话 美部署大杀器进驻日本 党媒内外唱反调,目的何在? 粮食不够?中共露馅</a></li>
 <li><a href="/comments/20210319/1508336.md" target="_blank">民主党突然攻击原司法部长巴尔，真实用意是什么？佩洛西试图将共和党议员、女川普格林逐出国会，他们能得逞吗？失去拥枪权，美国会变成什么？</a></li>
 <li><a href="/comments/20210319/1508335.md" target="_blank">有人经历了 #濒死体验 之后，发生了巨大的变化，一位 #主治医生 甚至因此放弃了 #无神论 思想。</a></li>
-<li><a href="/cbnews/20210319/1508312.md" target="_blank">李子柒旗下螺蛳粉再陷丑闻 被曝吃出烟头</a></li>
-<li><a href="/cbnews/20210319/1508301.md" target="_blank">江苏军嫂举报丈夫与女军人搞婚外情 引爆网络</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210320/1508840.md" target="_blank">西奈山峰: 谁没有白左情怀</a></li>
+<li><a href="/comments/20210320/1508839.md" target="_blank">古原:如何批量制造穷人？如何批量伤害穷人？</a></li>
+<li><a href="/comments/20210320/1508838.md" target="_blank">陶杰：二等公民泪涟涟 此语忽吓你一跳？</a></li>
+<li><a href="/comments/20210320/1508837.md" target="_blank">学者可以无耻到什么地步？康震的“正能量”还真吓着我了</a></li>
 <li><a href="/comments/20210320/1508815.md" target="_blank">我地有笔：香港民主派47人小传</a></li>
 <li><a href="/comments/20210320/1508814.md" target="_blank">宋飞：中国大学更名学</a></li>
 <li><a href="/comments/20210320/1508813.md" target="_blank">月赚7千美元？爱党网红郑国成醉后吐真言 小粉红傻眼</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210320/1508686.md" target="_blank">湖广总督与神奇的道家辟火符</a></li>
 <li><a href="/comments/20210320/1508674.md" target="_blank">立法会财会批 68 亿助海洋公园“重生” 张华峰批感情勒索 照投赞成票</a></li>
 <li><a href="/comments/20210320/1508673.md" target="_blank">中国结婚人数创17年新低 超10亿网民关注 男叹：结不起啊</a></li>
-<li><a href="/comments/20210320/1508658.md" target="_blank">李燕铭：习近平介入？江泽民老家江苏公安淫乱案发酵 女辅警敲诈案或现惊人逆转 女辅警老父喊冤微博逾1.4亿人次关注：女儿被他们耍了 曾企图自杀 检察官：女辅警无罪 陆媒定性重大案件：不能大而化之避重就轻 官媒放话：不能删贴 公开解答</a></li>
-<li><a href="/comments/20210320/1508655.md" target="_blank">美中会谈之际蓬佩奥警告：美应强硬对中共</a></li>
-<li><a href="/comments/20210320/1508654.md" target="_blank">被迫从年鉴删除川普标志 退休教师获赔32.5万</a></li>
-<li><a href="/comments/20210320/1508653.md" target="_blank">《世界快乐报告》出炉 蝉联冠军芬兰快乐之道值得推广</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
