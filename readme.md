@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210320/1508707.md">丰田家族长子即将大婚，“太子妃”以美貌著称</a></li>
 <li><a href="/ssgc/20210320/1508749.md">外交官全面“战狼化” 余茂春: 中共外交大失败</a></li>
 <li><a href="/cbnews/20210320/1508968.md">网友翻出杨洁篪女儿留美 王毅曾揭发他</a></li>
-<li><a href="/comments/20210320/1508702.md">突发！美国人懵了 拜登跌落在空军一号 连摔三次</a></li>
 <li><a href="/cbnews/20210320/1508956.md">余茂春：习近平对世界形势发生严重错判</a></li>
-<li><a href="/bannedvideo/20210320/1509025.md">习近平目前心中理想的中共二十大政治局常委名单--天钧政经</a></li>
 <li><a href="/cbnews/20210320/1508862.md">美国务院：美中会谈 中共演戏没用</a></li>
+<li><a href="/bannedvideo/20210320/1509025.md">习近平目前心中理想的中共二十大政治局常委名单--天钧政经</a></li>
 <li><a href="/cbnews/20210320/1509112.md">中美会谈成果要放宽这领域？余茂春:习近平对世界形势发生严重错判</a></li>
 <li><a href="/funmedia/20210320/1508764.md">酒店浴室为何装透明玻璃？告诉你实情，会玩的人都懂</a></li>
 <li><a href="/topimagenews/20210320/1508861.md">断崖式暴跌！2年内中国出生人口将减半？中国将进入…</a></li>
 <li><a href="/cbnews/20210320/1508784.md">文昭：杨洁篪阿拉斯加发飙、中美硬夯辛丑加速？韭菜急了也造反，网信办急查一重大风险</a></li>
-<li><a href="/lifebaike/20210320/1508922.md">“女不进藏、男不去川、老不入广”究竟是何意思？看完长知识了</a></li>
 <li><a href="/cnnews/20210320/1508907.md">美图：也太准了！精确制导武器在摧毁目标之前的最后一瞬</a></li>
+<li><a href="/lifebaike/20210320/1508922.md">“女不进藏、男不去川、老不入广”究竟是何意思？看完长知识了</a></li>
 <li><a href="/cbnews/20210320/1508902.md">中共会场女服务员倒水整齐划一 被批暴力美学</a></li>
 <li><a href="/baitai/20210320/1509110.md">中国三星堆遗址挖出巨大金面具</a></li>
 <li><a href="/cbnews/20210320/1509011.md">杨洁篪搅局阿拉斯加 分析：习近平对拜登最大试探</a></li>
 <li><a href="/cbnews/20210320/1508943.md">战狼外交现丑 余茂春:中共外交大失败</a></li>
 <li><a href="/comments/20210320/1508951.md">人心大变  习近平危若垒卵（至暗时刻  摧毁中共暴政战略之转型  第十二讲）【袁红冰纵论天下】 03202021</a></li>
 <li><a href="/cnnews/20210320/1509040.md">美中首次会晤有哪些进展 双方公告对比</a></li>
-<li><a href="/worldnews/usa/20210320/1508786.md">杨洁篪是否严重失态</a></li>
 <li><a href="/comments/20210320/1508883.md">网友翻出杨洁篪女儿留美 王毅揭他在办公室看色情片</a></li>
+<li><a href="/worldnews/usa/20210320/1508786.md">杨洁篪是否严重失态</a></li>
 <li><a href="/cbnews/20210320/1508955.md">外媒评杨洁篪“泼妇骂街” 美中关系恐难回头</a></li>
 <li><a href="/lifebaike/20210320/1508904.md">中国唯一一个富过17代的家族，在上海有千套房，全因30字家训</a></li>
+<li><a href="/comments/20210320/1509021.md">日本女性的长寿秘诀，喝水排在第5，第1是什么，不妨你也来猜猜看</a></li>
+<li><a href="/cbnews/20210320/1508927.md">美中会谈结束 美方称达到目的 中方承认分歧严重</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
