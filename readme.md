@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210320/1509025.md">习近平目前心中理想的中共二十大政治局常委名单--天钧政经</a></li>
 <li><a href="/cbnews/20210320/1509112.md">中美会谈成果要放宽这领域？余茂春:习近平对世界形势发生严重错判</a></li>
 <li><a href="/cbnews/20210321/1509287.md">网爆杨洁篪在办公室看色情片 被王毅举报</a></li>
 <li><a href="/funmedia/20210321/1509328.md">男女有了“不正经”关系，这些迹象一眼就可以看穿，藏不了的</a></li>
 <li><a href="/baitai/20210320/1509110.md">中国三星堆遗址挖出巨大金面具</a></li>
 <li><a href="/cnnews/20210320/1509180.md">毛泽东为何急于搞掉高岗</a></li>
 <li><a href="/ssgc/20210321/1509364.md">杨洁箎为何敢对美国发飙？</a></li>
-<li><a href="/cnnews/20210320/1509040.md">美中首次会晤有哪些进展 双方公告对比</a></li>
 <li><a href="/comments/20210320/1509122.md">中共外交大失败！众议院通过立法 数百万无证移民合法化？；美中高层对话余茂春有话说；数十名白宫工作人员因吸过大麻而被解雇或停职  哈里斯引关注；美疾控中心放宽教室社交距离；8am【希望之声TV】</a></li>
-<li><a href="/cbnews/20210321/1509425.md">胡锡进吹中方阿拉斯加“吵得好” 网民打脸</a></li>
+<li><a href="/cnnews/20210320/1509040.md">美中首次会晤有哪些进展 双方公告对比</a></li>
 <li><a href="/comments/20210321/1509247.md">拜登跌落空军一号风靡了全球！ 美国人的反应亮了</a></li>
+<li><a href="/cbnews/20210321/1509425.md">胡锡进吹中方阿拉斯加“吵得好” 网民打脸</a></li>
 <li><a href="/comments/20210321/1509334.md">深度揭秘！梅根·马克尔，一个好莱坞三流女星，是如何炼成萨塞克斯公爵夫人的？进入王室之后，梅根又为何脱离王室，定居美国？实现中的梅根，胜过她出演的好莱坞影片！</a></li>
 <li><a href="/topimagenews/20210321/1509389.md">这项最令人难解的中国外贸数据 暗藏一个大秘密</a></li>
-<li><a href="/comments/20210320/1509021.md">日本女性的长寿秘诀，喝水排在第5，第1是什么，不妨你也来猜猜看</a></li>
-<li><a href="/cbnews/20210321/1509354.md">直言中共病毒 北科大教授被控刑两年半</a></li>
 <li><a href="/cbnews/20210321/1509424.md">为什么恶魔小畜生越来越多了？</a></li>
+<li><a href="/cbnews/20210321/1509354.md">直言中共病毒 北科大教授被控刑两年半</a></li>
 <li><a href="/cbnews/20210321/1509275.md">网传物理学家杨振宁去世 清华大学急否认</a></li>
 <li><a href="/yule/20210321/1509410.md">舒淇去刘嘉玲做客，用了卫生间，结果刘嘉玲把卫生间拆了重新装修</a></li>
+<li><a href="/cnnews/20210321/1509483.md">美军最新的无人机，太厉害了！可让其他军机战力飙升</a></li>
 <li><a href="/comments/20210321/1509228.md">四肢出现3种异常，或暗示血栓已形成，哪怕一个，也要重视</a></li>
 <li><a href="/cnnews/20210321/1509261.md">苹果直营店隐藏版服务？前员工爆“1政策”可免费维修</a></li>
+<li><a href="/comments/20210321/1509464.md">【微博精粹】杨政委 骂完了美帝顺道去耶鲁看看女儿 别怕郑五毛喷你</a></li>
+<li><a href="/comments/20210321/1509493.md">发飙只是做戏？杨洁篪一句话泄底！中美会谈镜头后气氛不同 中方送22亿大礼</a></li>
 <li><a href="/comments/20210320/1509075.md">绝对搞笑！拜登连摔三跤，网友脑洞大开，三次恶搞；哈里斯故意还是无意，竟然给习近平送炮弹；蓬佩奥突发一个数字，让人浮想联翩！美中会谈不欢而散，默认好的表演吗？</a></li>
-<li><a href="/cnnews/20210321/1509483.md">美军最新的无人机，太厉害了！可让其他军机战力飙升</a></li>
 <li><a href="/cnnews/20210321/1509280.md">海洋大战！70杀人鲸围捕16米蓝鲸 缠斗4小时</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210321/1509604.md" target="_blank">美中会谈图穷匕见 官媒曝底线 习近平为此发飙</a></li>
+<li><a href="/comments/20210321/1509602.md" target="_blank">亚利桑那重新手工点票！一个县将改变整个局势！让最高法必须立案的证据到底是什么吗？│#熊猫侠</a></li>
 <li><a href="/comments/20210321/1509588.md" target="_blank">香菇山药煲</a></li>
 <li><a href="/comments/20210321/1509522.md" target="_blank">失信之后</a></li>
 <li><a href="/comments/20210321/1509521.md" target="_blank">容海恩贴“叶刘风”合成照 再提海洋公园建名牌 Outlet 称地皮可增值</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210321/1509438.md" target="_blank">三星堆重大新发现同古代外星人传说有关？</a></li>
 <li><a href="/comments/20210321/1509399.md" target="_blank">稀土战开打日澳联手抗中三菱商事出手</a></li>
 <li><a href="/comments/20210321/1509387.md" target="_blank">星际移民不是末日救赎之路（东方哲人解析当代人类困惑  第七讲）【袁红冰杏坛】 03212021</a></li>
-<li><a href="/comments/20210321/1509373.md" target="_blank">林孤：女辅警的屎盆子 应该十人共享</a></li>
-<li><a href="/comments/20210321/1509372.md" target="_blank">新三国演义：中共是曹魏，但美俄不是蜀汉东吴</a></li>
 
 </ul>
 </div>
@@ -131,30 +131,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 
 </ul>
 </div>
