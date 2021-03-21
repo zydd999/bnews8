@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210320/1508968.md">网友翻出杨洁篪女儿留美 王毅曾揭发他</a></li>
-<li><a href="/cbnews/20210320/1508956.md">余茂春：习近平对世界形势发生严重错判</a></li>
 <li><a href="/bannedvideo/20210320/1509025.md">习近平目前心中理想的中共二十大政治局常委名单--天钧政经</a></li>
 <li><a href="/cbnews/20210321/1509287.md">网爆杨洁篪在办公室看色情片 被王毅举报</a></li>
 <li><a href="/cbnews/20210320/1509112.md">中美会谈成果要放宽这领域？余茂春:习近平对世界形势发生严重错判</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cbnews/20210320/1509011.md">杨洁篪搅局阿拉斯加 分析：习近平对拜登最大试探</a></li>
 <li><a href="/cnnews/20210320/1509180.md">毛泽东为何急于搞掉高岗</a></li>
 <li><a href="/cnnews/20210320/1509040.md">美中首次会晤有哪些进展 双方公告对比</a></li>
-<li><a href="/cbnews/20210320/1508955.md">外媒评杨洁篪“泼妇骂街” 美中关系恐难回头</a></li>
 <li><a href="/comments/20210320/1509122.md">中共外交大失败！众议院通过立法 数百万无证移民合法化？；美中高层对话余茂春有话说；数十名白宫工作人员因吸过大麻而被解雇或停职  哈里斯引关注；美疾控中心放宽教室社交距离；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210321/1509247.md">拜登跌落空军一号风靡了全球！ 美国人的反应亮了</a></li>
-<li><a href="/comments/20210321/1509334.md">深度揭秘！梅根·马克尔，一个好莱坞三流女星，是如何炼成萨塞克斯公爵夫人的？进入王室之后，梅根又为何脱离王室，定居美国？实现中的梅根，胜过她出演的好莱坞影片！</a></li>
-<li><a href="/comments/20210320/1509021.md">日本女性的长寿秘诀，喝水排在第5，第1是什么，不妨你也来猜猜看</a></li>
 <li><a href="/ssgc/20210321/1509364.md">杨洁箎为何敢对美国发飙？</a></li>
+<li><a href="/comments/20210321/1509334.md">深度揭秘！梅根·马克尔，一个好莱坞三流女星，是如何炼成萨塞克斯公爵夫人的？进入王室之后，梅根又为何脱离王室，定居美国？实现中的梅根，胜过她出演的好莱坞影片！</a></li>
+<li><a href="/comments/20210321/1509247.md">拜登跌落空军一号风靡了全球！ 美国人的反应亮了</a></li>
+<li><a href="/comments/20210320/1509021.md">日本女性的长寿秘诀，喝水排在第5，第1是什么，不妨你也来猜猜看</a></li>
 <li><a href="/bannedvideo/20210320/1508989.md">英通灵师最新预言：美国即将大变动；突发！拜登登“空军一号”摔惨；李子柒食品陷丑闻；最新报告：武汉去年4月已逾130万人染疫；中国人滞留缅甸 叹《战狼》骗人</a></li>
 <li><a href="/cbnews/20210321/1509275.md">网传物理学家杨振宁去世 清华大学急否认</a></li>
+<li><a href="/cbnews/20210321/1509354.md">直言中共病毒 北科大教授被控刑两年半</a></li>
 <li><a href="/comments/20210321/1509228.md">四肢出现3种异常，或暗示血栓已形成，哪怕一个，也要重视</a></li>
 <li><a href="/cnnews/20210321/1509261.md">苹果直营店隐藏版服务？前员工爆“1政策”可免费维修</a></li>
+<li><a href="/topimagenews/20210321/1509389.md">这项最令人难解的中国外贸数据 暗藏一个大秘密</a></li>
 <li><a href="/comments/20210320/1509075.md">绝对搞笑！拜登连摔三跤，网友脑洞大开，三次恶搞；哈里斯故意还是无意，竟然给习近平送炮弹；蓬佩奥突发一个数字，让人浮想联翩！美中会谈不欢而散，默认好的表演吗？</a></li>
-<li><a href="/cbnews/20210321/1509354.md">直言中共病毒 北科大教授被控刑两年半</a></li>
 <li><a href="/cnnews/20210321/1509280.md">海洋大战！70杀人鲸围捕16米蓝鲸 缠斗4小时</a></li>
+<li><a href="/topimagenews/20210320/1508995.md">美媒独家：西点军校让董建华来访讲演  与清华北大交换学生【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210321/1509522.md" target="_blank">失信之后</a></li>
+<li><a href="/comments/20210321/1509521.md" target="_blank">容海恩贴“叶刘风”合成照 再提海洋公园建名牌 Outlet 称地皮可增值</a></li>
 <li><a href="/comments/20210321/1509519.md" target="_blank">医生揭秘：健康人打疫苗死亡，是疫苗诱发还是巧合？</a></li>
 <li><a href="/comments/20210321/1509511.md" target="_blank">惊！拒查武汉病毒所 世卫专家达扎克5个月内向拜登捐款71次</a></li>
 <li><a href="/comments/20210321/1509509.md" target="_blank">川普海湖庄园 因员工感染病毒部分关闭；美中会谈之际 蓬佩奥打哑谜？发推文“1327天”倒计时；美军优先事项清单中的第一个目标 引发争议；12 am【希望之声TV】</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210321/1509373.md" target="_blank">林孤：女辅警的屎盆子 应该十人共享</a></li>
 <li><a href="/comments/20210321/1509372.md" target="_blank">新三国演义：中共是曹魏，但美俄不是蜀汉东吴</a></li>
 <li><a href="/comments/20210321/1509371.md" target="_blank">古原：西方国家是丛林社会吗？是的</a></li>
-<li><a href="/comments/20210321/1509370.md" target="_blank">深度解析女辅警睡后敲诈勒索案</a></li>
-<li><a href="/comments/20210321/1509362.md" target="_blank">被指行为不当 主持拜登就职礼的神父遭调查</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
