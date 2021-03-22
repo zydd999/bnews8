@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210321/1509645.md">中国官方和银行在楼市下狠手，买房人没活路？断供潮将出现？--天钧政经</a></li>
 <li><a href="/cbnews/20210322/1509783.md">怪不得这次要战狼！“老虎杨”最想删除的照片</a></li>
 <li><a href="/cbnews/20210322/1509792.md">美中会谈图穷匕见 官媒曝底线 习近平曾为此发飙</a></li>
 <li><a href="/cbnews/20210322/1509996.md">“还要翻吗？” 杨洁篪中美会谈演战狼不容插嘴 尴尬女翻上热搜</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/topimagenews/20210322/1509879.md">习近平恐惧六大隐忧 讨薪民工遭公审热传 1/3国民接种中国疫苗 智利疫情反</a></li>
 <li><a href="/comments/20210322/1509959.md">罕见出言不逊！重大场合这样称呼杨洁篪 王毅瞄准二十大？</a></li>
 <li><a href="/yule/20210322/1509835.md">郑爽被正式取消演员认证，所有荣誉全部回收，韩国出道将不被认可</a></li>
-<li><a href="/funmedia/20210321/1509643.md">农村老人常说：“宁娶富家奴，不找贫家女”，你懂其中的深意吗？</a></li>
 <li><a href="/yule/20210322/1509814.md">28岁女歌手演出当天突然去世，男队员发文透露死讯及丧礼细节</a></li>
 <li><a href="/yule/20210322/1509815.md">李冰冰自曝无戏可拍，中年女演员困境堪比秃顶</a></li>
+<li><a href="/cnnews/20210322/1510008.md">黄浦区政府食堂菜价曝光 牵出体制内惊人奢华特供</a></li>
 <li><a href="/cbnews/20210322/1509790.md">军嫂网上举报丈夫出轨获回应 小三之父为高级军官</a></li>
 <li><a href="/topimagenews/20210322/1509861.md">蓬佩奥首曝2次中美会谈内幕，我会这样做；“实际进展可能比公众看到的更好”</a></li>
 <li><a href="/topimagenews/20210321/1509717.md">英国首相战略总监大声说出了人民的心声：拜登说了不算【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210322/1510008.md">黄浦区政府食堂菜价曝光 牵出体制内惊人奢华特供</a></li>
+<li><a href="/cbnews/20210322/1509986.md">“干啥啥不行 胡闹第一名 ” 中共又开始瞎折腾了</a></li>
 <li><a href="/cnnews/20210322/1509822.md">高于预期的通膨…金融大风险</a></li>
 <li><a href="/comments/20210322/1509905.md">北京：男孩女孩被霸凌、拍裸照视频、下体泼花露水，老师却建议……</a></li>
 <li><a href="/topimagenews/20210321/1509673.md">相信科学：同行评审研究表明  美疾控中心夸大了中共病毒死亡16倍【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210322/1509848.md">强奸两名不到10岁女童 非法移民被阿肯色州通缉 被德州警察击毙【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20210322/1509889.md">为何古代男性都喜欢娶十三四岁小女孩为妻？</a></li>
+<li><a href="/cnnews/20210322/1509848.md">强奸两名不到10岁女童 非法移民被阿肯色州通缉 被德州警察击毙【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210321/1509677.md">进攻性导弹和灵活小部队 美军全面备战中共</a></li>
-<li><a href="/cbnews/20210322/1509986.md">“干啥啥不行 胡闹第一名 ” 中共又开始瞎折腾了</a></li>
+<li><a href="/lifebaike/20210322/1509968.md">出远门，为什么要在冰箱里放上一枚硬币？看完才恍然大悟，赶紧提醒家人</a></li>
+<li><a href="/comments/20210322/1509823.md">习近平女习明泽信息泄密案发酵 获释者爆牛腾宇张钦瑞被构陷内幕 受害家长再次上书习近平： 广东警方继续对习近平高级黑 居然欺骗到了公安部一等功 海外青年公开信喊话习明泽：从良知出发昭雪冤情 中南海不可告人的秘密_342</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210322/1510190.md" target="_blank">疫苗外交习近平罕见亲自出马 专家指中共目的很阴险</a></li>
+<li><a href="/comments/20210322/1510182.md" target="_blank">林景楠 — 从因言失业到东山再起，商人还想继续表态</a></li>
+<li><a href="/comments/20210322/1510181.md" target="_blank">墙内的 AY 意志仍如此强大</a></li>
 <li><a href="/comments/20210322/1510178.md" target="_blank">德国、挪威：找到AZ疫苗或能引发血栓原因</a></li>
 <li><a href="/comments/20210322/1510177.md" target="_blank">都可以健康吃！营养师详解鲑鱼营养与搭配好吃法</a></li>
 <li><a href="/comments/20210322/1510176.md" target="_blank">这些饮食习惯都要小心！ 老生常谈养“肥肝”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210322/1510062.md" target="_blank">【47 人案】狱中信吁勿怀忧丧志 岑敖晖：自己社区自己救 越烂牌越要畀心机打</a></li>
 <li><a href="/comments/20210322/1510061.md" target="_blank">Claudia Mo / 毛孟静 — 连登契妈</a></li>
 <li><a href="/comments/20210322/1510032.md" target="_blank">中共专家意外泄露武汉染疫惊人数字 法国中共病毒重症患者激增 感染新变种者全部死亡 智利打中国科兴疫苗确诊暴增30% 美病毒学专家：中共搞疫苗外交有个很阴险目的</a></li>
-<li><a href="/comments/20210322/1510022.md" target="_blank">国产疫苗噩耗连连 习近平急得亲自出马！对哥伦比亚喊话背后藏图谋</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙：中华文化密码与时空密码</a></li>
-<li><a href="/comments/20210322/1510011.md" target="_blank">乔州州务卿落选 川普支持的议员遗孀当选；美国税局延长个人报税期；蓬佩奥谈“杨洁篪发飙”；内斗？王毅举报杨洁篪在办公室看色情片； “油管五毛“直播成 “翻车现场” 遭封杀、删号12am【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
