@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210324/1511462.md">退伍兵抱村官同归于尽 番禺爆炸细节曝光</a></li>
 <li><a href="/comments/20210324/1511268.md">李燕铭：习近平被迫紧急取消百年党庆大阅兵计划 三大原因 二十大前习江生死搏杀 习近平危机压顶不敢冒军事与政治风险</a></li>
-<li><a href="/yule/20210324/1511306.md">31岁知名女主持去世！请假当晚在家突发意外</a></li>
 <li><a href="/topimagenews/20210324/1511521.md">不是胡春华 习近平已内定李克强接班人</a></li>
+<li><a href="/yule/20210324/1511306.md">31岁知名女主持去世！请假当晚在家突发意外</a></li>
 <li><a href="/cbnews/20210324/1511735.md">杨洁篪“嘴炮”惹祸 中共军方智囊不满</a></li>
 <li><a href="/cnnews/20210324/1511347.md">余茂春：杨洁篪变了，曾经那么地长袖善舞</a></li>
-<li><a href="/topimagenews/20210323/1511203.md">俄不允许中国留学生入境 中国人曝被强制打疫苗 疫苗外交习近平为何罕见亲自出马？</a></li>
 <li><a href="/comments/20210324/1511411.md">习近平已内定李克强接班人？时评人：不是胡春华</a></li>
 <li><a href="/cnnews/20210324/1511375.md">慈禧身边红人李莲英的书法真迹公开：远胜现在许多书法家</a></li>
 <li><a href="/cbnews/20210324/1511479.md">中国卫星不明原因毁损 美军：已裂成21片</a></li>
 <li><a href="/comments/20210324/1511615.md">奥巴马终于要出场了？白宫证实！中共卫星被神秘废掉？美军要公开UFO更多信息；黑命贵活动家侮辱亚裔信奉白人至上，是家庭黑奴！-12am【希望之声TV】</a></li>
 <li><a href="/cnnews/20210324/1511630.md">中共阴狠酷刑：5厘米高、5厘米宽、10厘米长的...</a></li>
 <li><a href="/yule/20210324/1511418.md">看了庭审，郑爽的疯言疯语把我看笑了</a></li>
+<li><a href="/topimagenews/20210324/1511859.md">习近平异常多方猜测 欧盟多国和中共相召对方大使 出大事？美军确认中国卫星在轨解体</a></li>
+<li><a href="/cnnews/20210324/1511788.md">一个中国县级财政官员眼中农村的惊人现状</a></li>
 <li><a href="/cbnews/20210324/1511551.md">胡锡进发文评欧美制裁 泄露中共“命门”</a></li>
 <li><a href="/topimagenews/20210324/1511250.md">给拜登2页忠告写了什么？川普：我发自内心写下那些</a></li>
 <li><a href="/cbnews/20210324/1511637.md">华春莹宣称美欧英加“不代表国际社会” 引嘲讽</a></li>
 <li><a href="/worldnews/20210324/1511409.md">美中谈判破裂后 习拿出这张牌</a></li>
-<li><a href="/cnnews/20210324/1511788.md">一个中国县级财政官员眼中农村的惊人现状</a></li>
-<li><a href="/topimagenews/20210324/1511859.md">习近平异常多方猜测 欧盟多国和中共相召对方大使 出大事？美军确认中国卫星在轨解体</a></li>
 <li><a href="/topimagenews/20210324/1511503.md">富士康抛弃中国去越南，85万中国员工恐失业</a></li>
 <li><a href="/ssgc/20210324/1511353.md">〖兲朝浮世绘〗新時代的宣战 一定要超越慈禧</a></li>
 <li><a href="/lifebaike/20210324/1511417.md">妻子出上联：“夜袭娘子关，美人受惊”，丈夫的下联…</a></li>
-<li><a href="/comments/20210324/1511660.md">华春莹再发奇谈 学者解读：习近平究竟想干什么？北京下战书 拜登不敢触关键红线</a></li>
+<li><a href="/cbnews/20210324/1511765.md">大陆番禺老兵身绑炸药 摧毁村委办公楼 多名党员被炸死</a></li>
+<li><a href="/bannedvideo/20210324/1511736.md">习近平为中共二十大连任清洗官场，谁来清算习近平？--天钧政经</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210324/1511988.md" target="_blank">传中共拟由人行牵头设立大数据合资公司 加强数据管控</a></li>
+<li><a href="/comments/20210324/1511987.md" target="_blank">倒春寒时正好看看自己的身体是否有寒</a></li>
+<li><a href="/comments/20210324/1511986.md" target="_blank">4种海鲜素 让你忌口没压力</a></li>
+<li><a href="/comments/20210324/1511985.md" target="_blank">高油、高糖、高盐杀血管！ “5大清血管食物”曝光</a></li>
 <li><a href="/comments/20210324/1511957.md" target="_blank">拥枪引发大辩论 风口浪尖中法官叫停“禁枪令”</a></li>
 <li><a href="/comments/20210324/1511932.md" target="_blank">中共为何只让这个美国人查病毒源头？美媒揭秘</a></li>
 <li><a href="/comments/20210324/1511921.md" target="_blank">【带着黄蓝去英国・前言】当抗争仍须努力，但生活已不止两种颜色</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210324/1511793.md" target="_blank">你是哪种？5种拖延症的自救指南</a></li>
 <li><a href="/comments/20210324/1511792.md" target="_blank">忧郁伤胃！５大原则避免胃溃疡上身</a></li>
 <li><a href="/comments/20210324/1511791.md" target="_blank">高丽菜吃不完怎办？这样轻松保存一个月</a></li>
-<li><a href="/comments/20210324/1511764.md" target="_blank">【梁京评论】美中阿拉斯加会晤的得失分析</a></li>
-<li><a href="/comments/20210324/1511759.md" target="_blank">CIA邀特异功能者“遥视”月球，被 #外星人 发现！美俄为何停止 #登月计划 ？外星建筑什么样？</a></li>
-<li><a href="/comments/20210324/1511756.md" target="_blank">【停打复必泰】迟公布挨轰 陈肇始︰港府反应“立刻尽快” 避答市民有否打瑕疵批次</a></li>
-<li><a href="/comments/20210324/1511754.md" target="_blank">邹家成 — 墨落无悔 坚定抗争</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
