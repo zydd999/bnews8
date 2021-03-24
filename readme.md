@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210323/1510762.md">习近平为何突然考察福建？ 媒体发现…</a></li>
 <li><a href="/comments/20210323/1510887.md">北京疫情攻入中南海  刘鹤疑染疫  中共高层秘密逃亡通道曝光</a></li>
-<li><a href="/comments/20210323/1511054.md">川普留给拜登的信，内容首次披露，让人感动落泪！白宫发言人首次承认，拜登是奥巴马的傀儡。共和党后起之秀人才济济，为川普重返白宫做准备。有人站出来挑战乔州州务卿了！</a></li>
 <li><a href="/cbnews/20210323/1510959.md">上海政府食堂菜价曝光 传爆料人因泄密被拘</a></li>
+<li><a href="/comments/20210323/1511054.md">川普留给拜登的信，内容首次披露，让人感动落泪！白宫发言人首次承认，拜登是奥巴马的傀儡。共和党后起之秀人才济济，为川普重返白宫做准备。有人站出来挑战乔州州务卿了！</a></li>
 <li><a href="/comments/20210323/1510852.md">绯闻加“家变”传言后 彭丽媛红衣墨镜现身</a></li>
 <li><a href="/lifebaike/20210323/1510769.md">老房不要再“争”了！2021年起，继承父母房产，一律按新规执行</a></li>
 <li><a href="/topimagenews/20210323/1511077.md">习近平蔫了为何忽降调门 中欧关系也要砸？与金正恩互致口信</a></li>
 <li><a href="/cnnews/20210323/1511053.md">习近平携妻游福建 “一小撮民众”被圈起来</a></li>
 <li><a href="/topimagenews/20210323/1510854.md">如此无耻？华春莹给拜登出“高招” 被网友酸爆：全关集中营？</a></li>
+<li><a href="/yule/20210324/1511306.md">31岁知名女主持去世！请假当晚在家突发意外</a></li>
 <li><a href="/yule/20210323/1510773.md">这就是人性！"泰坦尼克号"禁播的内容…</a></li>
 <li><a href="/cbnews/20210323/1510780.md">只吃川普那一套？网爆杨洁篪最想删的照片</a></li>
-<li><a href="/yule/20210324/1511306.md">31岁知名女主持去世！请假当晚在家突发意外</a></li>
 <li><a href="/comments/20210324/1511268.md">李燕铭：习近平被迫紧急取消百年党庆大阅兵计划 三大原因 二十大前习江生死搏杀 习近平危机压顶不敢冒军事与政治风险</a></li>
 <li><a href="/bannedvideo/20210323/1510971.md">朱德效力中共，一家三代不得善终。朱德疑被毛泽东谋杀。朱德独子朱琦在文革中遭迫害病逝。孙子朱国华被邓小平“严打”枪决（笑梅看中国第37期）</a></li>
 <li><a href="/topimagenews/20210323/1511203.md">俄不允许中国留学生入境 中国人曝被强制打疫苗 疫苗外交习近平为何罕见亲自出马？</a></li>
 <li><a href="/comments/20210323/1510850.md">习近平女儿习明泽现状成谜 真容难觅 中央警卫局明令不能流传出半张习明泽的相片 网络流传十余张真假习明泽照片 看看哪一张最可能是习明泽真身 中南海谣言预言_446</a></li>
-<li><a href="/cbnews/20210323/1510840.md">中共报复欧盟制裁 多国联手强力反击</a></li>
-<li><a href="/topimagenews/20210323/1510761.md">活久见！中国顾客订7样菜调包6样 江泽民闷声发大财恶果</a></li>
-<li><a href="/cnnews/20210323/1511004.md">“北雁南飞”，数十万北漂离开北京….</a></li>
 <li><a href="/cnnews/20210324/1511347.md">余茂春：杨洁篪变了，曾经那么地长袖善舞</a></li>
+<li><a href="/cbnews/20210323/1510840.md">中共报复欧盟制裁 多国联手强力反击</a></li>
+<li><a href="/cnnews/20210323/1511004.md">“北雁南飞”，数十万北漂离开北京….</a></li>
 <li><a href="/topimagenews/20210324/1511250.md">给拜登2页忠告写了什么？川普：我发自内心写下那些</a></li>
 <li><a href="/yule/20210323/1511009.md">与李泽楷分手10年后 梁洛施分手内幕曝光</a></li>
 <li><a href="/cnnews/20210323/1510786.md">61岁大美人钟楚红状态爆棚，爬山自拍无惧素颜</a></li>
+<li><a href="/cnnews/20210324/1511462.md">退伍兵抱村官同归于尽 番禺爆炸细节曝光</a></li>
+<li><a href="/cnnews/20210324/1511375.md">慈禧身边红人李莲英的书法真迹公开：远胜现在许多书法家</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210324/1511551.md" target="_blank">胡锡进发文评欧美制裁 泄露中共“命门”</a></li>
 <li><a href="/comments/20210324/1511530.md" target="_blank">金正恩出手！试射短程导弹 ；福克斯女主播闹乌龙；川普抨媒体：哈里斯将很快接任总统 ；白宫医生披露：“拜登身体不对劲；拜登团队“回炉官员”财产大起底；华春莹要拜登学新疆集中营【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210324/1511524.md" target="_blank">对付中共？美军秘密从欧洲撤出三分之一核炸弹</a></li>
 <li><a href="/comments/20210324/1511500.md" target="_blank">告诉你一个鲜为人知的杨洁篪，他如何成为布什家族和中共领导层勾兑的地下密使？做了那些事？他在中共官场步步高升的内幕。杨洁篪帮江泽民圆梦，被王毅告状，差点辞职。</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210323/1511130.md" target="_blank">关押法轮功学员黑窝 黑龙江戒毒所警察贩毒吸毒</a></li>
 <li><a href="/cbnews/20210323/1511101.md" target="_blank">白天开饭店 晚上挖地道 秘密盗取千年古塔舍利子</a></li>
 <li><a href="/cbnews/20210323/1511083.md" target="_blank">华春莹称美国应像中共对待新疆一样应付亚裔 网友傻眼</a></li>
-<li><a href="/comments/20210323/1511081.md" target="_blank">美中会谈后 中共拉拢俄罗斯朝鲜 抱团取暖？美媒：拜登计划推出大规模社会主义计划；非法移民将获得43.8亿美元的疫情纾困支票；科罗拉多州爆超市枪击案 至少6死 一名警官遇难；8am【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210324/1511554.md" target="_blank">吾尔开希：杨洁箎的表演是压垮和中政策的最后临门一脚</a></li>
+<li><a href="/comments/20210324/1511553.md" target="_blank">历史之瞳：抗议种族歧视，敢到黑人区试试？</a></li>
+<li><a href="/comments/20210324/1511546.md" target="_blank">欧盟取消中欧投资协定审议会 评论：北京搬石头砸自己的脚</a></li>
+<li><a href="/comments/20210324/1511535.md" target="_blank">【重磅】解滨：文化马克思主义正在毁掉美国</a></li>
 <li><a href="/comments/20210324/1511530.md" target="_blank">金正恩出手！试射短程导弹 ；福克斯女主播闹乌龙；川普抨媒体：哈里斯将很快接任总统 ；白宫医生披露：“拜登身体不对劲；拜登团队“回炉官员”财产大起底；华春莹要拜登学新疆集中营【希望之声TV】10pm</a></li>
 <li><a href="/comments/20210324/1511517.md" target="_blank">“家变”传言后 彭丽媛第二次与习同场现身</a></li>
 <li><a href="/comments/20210324/1511516.md" target="_blank">见面4次定终身 大S汪小菲甜蜜庆锡婚</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210324/1511410.md" target="_blank">中共跨国追逃王靖渝 以其母安危逼他回国</a></li>
 <li><a href="/comments/20210324/1511405.md" target="_blank">惊人之语：美民主制度，完了！芝加哥某社区要通过重大法案</a></li>
 <li><a href="/comments/20210324/1511399.md" target="_blank">拜登政府删除中共种族灭绝纪事网站；纽约一养老院大火；美前财政部长：拜登政府是最不负责任政府；中国专家打脸习国师？牛腾宇遭酷刑手神经坏死；疫苗数据过期？红衣主教再揭大重构 6:00pm【希望之声TV】</a></li>
-<li><a href="/comments/20210324/1511397.md" target="_blank">德国紧急叫停解封计划 复活节防疫措施更严格</a></li>
-<li><a href="/comments/20210324/1511387.md" target="_blank">捷克向北京救助提供疫苗后 二度感染病例暴增近10倍</a></li>
-<li><a href="/comments/20210324/1511386.md" target="_blank">【图片】盖世真人张三丰系列之三：预言武当山大兴 张三丰创太极拳</a></li>
-<li><a href="/comments/20210324/1511381.md" target="_blank">大陆亲友遭中共恐吓 香港媒体记者: 不会退缩</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
