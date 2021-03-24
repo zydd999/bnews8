@@ -6,15 +6,14 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210324/1511462.md">退伍兵抱村官同归于尽 番禺爆炸细节曝光</a></li>
-<li><a href="/comments/20210324/1511268.md">李燕铭：习近平被迫紧急取消百年党庆大阅兵计划 三大原因 二十大前习江生死搏杀 习近平危机压顶不敢冒军事与政治风险</a></li>
 <li><a href="/topimagenews/20210324/1511521.md">不是胡春华 习近平已内定李克强接班人</a></li>
 <li><a href="/yule/20210324/1511306.md">31岁知名女主持去世！请假当晚在家突发意外</a></li>
 <li><a href="/cbnews/20210324/1511735.md">杨洁篪“嘴炮”惹祸 中共军方智囊不满</a></li>
 <li><a href="/cnnews/20210324/1511347.md">余茂春：杨洁篪变了，曾经那么地长袖善舞</a></li>
 <li><a href="/comments/20210324/1511411.md">习近平已内定李克强接班人？时评人：不是胡春华</a></li>
 <li><a href="/cnnews/20210324/1511375.md">慈禧身边红人李莲英的书法真迹公开：远胜现在许多书法家</a></li>
-<li><a href="/cbnews/20210324/1511479.md">中国卫星不明原因毁损 美军：已裂成21片</a></li>
 <li><a href="/topimagenews/20210324/1511859.md">习近平异常多方猜测 欧盟多国和中共相召对方大使 出大事？美军确认中国卫星在轨解体</a></li>
+<li><a href="/cbnews/20210324/1511479.md">中国卫星不明原因毁损 美军：已裂成21片</a></li>
 <li><a href="/comments/20210324/1511615.md">奥巴马终于要出场了？白宫证实！中共卫星被神秘废掉？美军要公开UFO更多信息；黑命贵活动家侮辱亚裔信奉白人至上，是家庭黑奴！-12am【希望之声TV】</a></li>
 <li><a href="/cnnews/20210324/1511788.md">一个中国县级财政官员眼中农村的惊人现状</a></li>
 <li><a href="/cnnews/20210324/1511630.md">中共阴狠酷刑：5厘米高、5厘米宽、10厘米长的...</a></li>
@@ -25,6 +24,7 @@
 <li><a href="/cbnews/20210324/1511637.md">华春莹宣称美欧英加“不代表国际社会” 引嘲讽</a></li>
 <li><a href="/bannedvideo/20210324/1511736.md">习近平为中共二十大连任清洗官场，谁来清算习近平？--天钧政经</a></li>
 <li><a href="/topimagenews/20210324/1511503.md">富士康抛弃中国去越南，85万中国员工恐失业</a></li>
+<li><a href="/cbnews/20210324/1511924.md">糗大了！华春莹又语出惊人</a></li>
 <li><a href="/baitai/20210324/1511766.md">“新疆棉花不吃这一套” H&M禁用新疆棉花惹怒中国人</a></li>
 <li><a href="/ssgc/20210324/1511353.md">〖兲朝浮世绘〗新時代的宣战 一定要超越慈禧</a></li>
 <li><a href="/lifebaike/20210324/1511417.md">妻子出上联：“夜袭娘子关，美人受惊”，丈夫的下联…</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210325/1512030.md" target="_blank">唯色RFA博客：在冈仁波齐遇到的行脚僧，及圣山南面的藏人与流亡的精神领袖（六）</a></li>
 <li><a href="/comments/20210325/1512019.md" target="_blank">知情者透露：FBI招募间谍监视爱国民兵组织</a></li>
 <li><a href="/comments/20210325/1512018.md" target="_blank">余茂春评美中对话 蓬佩奥不会容中共撒泼</a></li>
 <li><a href="/comments/20210325/1512008.md" target="_blank">骂川普被炒后不服 耶鲁前教授起诉耶鲁大学</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/comments/20210324/1511841.md" target="_blank">台货轮苏伊士运河搁浅百船大堵塞 纽约期货油价应声翻涨</a></li>
 <li><a href="/comments/20210324/1511831.md" target="_blank">【停打复必泰】卫生署：已打约 15 万剂 有发现包装问题针剂 即场弃置无使用</a></li>
-<li><a href="/comments/20210324/1511830.md" target="_blank">新选举制度对香港前景的影响</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
