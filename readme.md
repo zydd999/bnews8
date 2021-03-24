@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210323/1510887.md">北京疫情攻入中南海  刘鹤疑染疫  中共高层秘密逃亡通道曝光</a></li>
 <li><a href="/cbnews/20210323/1510959.md">上海政府食堂菜价曝光 传爆料人因泄密被拘</a></li>
-<li><a href="/comments/20210323/1510852.md">绯闻加“家变”传言后 彭丽媛红衣墨镜现身</a></li>
 <li><a href="/comments/20210323/1511054.md">川普留给拜登的信，内容首次披露，让人感动落泪！白宫发言人首次承认，拜登是奥巴马的傀儡。共和党后起之秀人才济济，为川普重返白宫做准备。有人站出来挑战乔州州务卿了！</a></li>
 <li><a href="/topimagenews/20210323/1511077.md">习近平蔫了为何忽降调门 中欧关系也要砸？与金正恩互致口信</a></li>
 <li><a href="/cnnews/20210323/1511053.md">习近平携妻游福建 “一小撮民众”被圈起来</a></li>
 <li><a href="/cnnews/20210324/1511462.md">退伍兵抱村官同归于尽 番禺爆炸细节曝光</a></li>
-<li><a href="/topimagenews/20210323/1510854.md">如此无耻？华春莹给拜登出“高招” 被网友酸爆：全关集中营？</a></li>
 <li><a href="/yule/20210324/1511306.md">31岁知名女主持去世！请假当晚在家突发意外</a></li>
-<li><a href="/cnnews/20210324/1511347.md">余茂春：杨洁篪变了，曾经那么地长袖善舞</a></li>
 <li><a href="/comments/20210324/1511268.md">李燕铭：习近平被迫紧急取消百年党庆大阅兵计划 三大原因 二十大前习江生死搏杀 习近平危机压顶不敢冒军事与政治风险</a></li>
+<li><a href="/cnnews/20210324/1511347.md">余茂春：杨洁篪变了，曾经那么地长袖善舞</a></li>
 <li><a href="/bannedvideo/20210323/1510971.md">朱德效力中共，一家三代不得善终。朱德疑被毛泽东谋杀。朱德独子朱琦在文革中遭迫害病逝。孙子朱国华被邓小平“严打”枪决（笑梅看中国第37期）</a></li>
-<li><a href="/cnnews/20210324/1511375.md">慈禧身边红人李莲英的书法真迹公开：远胜现在许多书法家</a></li>
 <li><a href="/topimagenews/20210323/1511203.md">俄不允许中国留学生入境 中国人曝被强制打疫苗 疫苗外交习近平为何罕见亲自出马？</a></li>
+<li><a href="/cnnews/20210324/1511375.md">慈禧身边红人李莲英的书法真迹公开：远胜现在许多书法家</a></li>
 <li><a href="/comments/20210324/1511411.md">习近平已内定李克强接班人？时评人：不是胡春华</a></li>
 <li><a href="/cnnews/20210323/1511004.md">“北雁南飞”，数十万北漂离开北京….</a></li>
-<li><a href="/topimagenews/20210324/1511250.md">给拜登2页忠告写了什么？川普：我发自内心写下那些</a></li>
 <li><a href="/topimagenews/20210324/1511521.md">不是胡春华 习近平已内定李克强接班人</a></li>
+<li><a href="/topimagenews/20210324/1511250.md">给拜登2页忠告写了什么？川普：我发自内心写下那些</a></li>
 <li><a href="/yule/20210323/1511009.md">与李泽楷分手10年后 梁洛施分手内幕曝光</a></li>
-<li><a href="/bannedvideo/20210323/1511050.md">陈破空：实锤了！杨洁篪妻女都在美国。王毅派泄密？爱国另有含义。拜登不让吃午餐？</a></li>
-<li><a href="/worldnews/20210324/1511409.md">美中谈判破裂后 习拿出这张牌</a></li>
 <li><a href="/yule/20210324/1511418.md">看了庭审，郑爽的疯言疯语把我看笑了</a></li>
+<li><a href="/worldnews/20210324/1511409.md">美中谈判破裂后 习拿出这张牌</a></li>
+<li><a href="/bannedvideo/20210323/1511050.md">陈破空：实锤了！杨洁篪妻女都在美国。王毅派泄密？爱国另有含义。拜登不让吃午餐？</a></li>
 <li><a href="/cbnews/20210323/1511083.md">华春莹称美国应像中共对待新疆一样应付亚裔 网友傻眼</a></li>
+<li><a href="/cnnews/20210323/1510973.md">习明泽信息泄露案 受害家属：习主席你受骗了</a></li>
+<li><a href="/ssgc/20210324/1511353.md">〖兲朝浮世绘〗新時代的宣战 一定要超越慈禧</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210324/1511647.md" target="_blank">欧洲6国召见中共大使 抗议北京报复性制裁</a></li>
+<li><a href="/comments/20210324/1511643.md" target="_blank">7岁女孩被枪杀！缅甸大罢工 仰光如死城 军政府效仿“六四”或出一毒招</a></li>
 <li><a href="/comments/20210324/1511638.md" target="_blank">中共武力犯台时间提前？美印太司令提名人：迫在眉睫</a></li>
 <li><a href="/comments/20210324/1511634.md" target="_blank">俄媒：拜登加税政策如同苏联社会主义的均贫富</a></li>
 <li><a href="/comments/20210324/1511627.md" target="_blank">醋洋葱——能达到多种食疗效果 还可减肥</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210324/1511500.md" target="_blank">告诉你一个鲜为人知的杨洁篪，他如何成为布什家族和中共领导层勾兑的地下密使？做了那些事？他在中共官场步步高升的内幕。杨洁篪帮江泽民圆梦，被王毅告状，差点辞职。</a></li>
 <li><a href="/comments/20210324/1511495.md" target="_blank">朝鲜发射两枚导弹挑衅 拜登这样回应</a></li>
 <li><a href="/comments/20210324/1511484.md" target="_blank">从旧金山谢老太太被袭 看亚裔倒卖免费食物现象有感</a></li>
-<li><a href="/comments/20210324/1511483.md" target="_blank">宋国诚：美国人肯定给中国人一套一套的吃</a></li>
-<li><a href="/comments/20210324/1511482.md" target="_blank">宋国诚：只有实力能屈服中国 杨洁篪一语惊醒美国人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 
 </ul>
 </div>
