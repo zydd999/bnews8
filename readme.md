@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210325/1512082.md">传女子冲习近平座驾 十五、六个人跑过去拦截</a></li>
 <li><a href="/cbnews/20210325/1512385.md">汪洋、赵克志急赴新疆 北京疑有大动作</a></li>
-<li><a href="/yule/20210325/1512120.md">著名歌唱家蒋大为 最近摊上事了</a></li>
 <li><a href="/cbnews/20210325/1512262.md">习近平报复砸了自己的锅 4名被30国联合制裁的新疆官员,竟然有无数汉族命案</a></li>
+<li><a href="/yule/20210325/1512120.md">著名歌唱家蒋大为 最近摊上事了</a></li>
 <li><a href="/cnnews/20210325/1512093.md">中国面临另一个房地产泡沫</a></li>
 <li><a href="/funmedia/20210325/1512184.md">不要再叫美女了，现在情商高的男人用这4种称呼，女人听完会心动</a></li>
 <li><a href="/comments/20210325/1512257.md">侍卫长被点名！习近平进福州车队中途分道扬镳？网友隔空喊习前度情人</a></li>
@@ -16,17 +16,17 @@
 <li><a href="/cnnews/20210325/1512511.md">郑州高校砍人场面血腥 知情人透内情</a></li>
 <li><a href="/lifebaike/20210325/1512364.md">银行行长坦言：10年后房子和现金，不如2样东西能带来安全感</a></li>
 <li><a href="/cbnews/20210325/1512416.md">体制内前干部爆中共：文革2.0批斗正在进行</a></li>
+<li><a href="/comments/20210325/1512542.md">江泽民形如槁木 胡锦涛满头白发 习或借授勋逼表态</a></li>
 <li><a href="/cnnews/20210325/1512489.md">H&M遭战狼封杀 北京实体店却现排队潮</a></li>
 <li><a href="/comments/20210325/1512166.md">毛泽东舞伴陈爱莲曝中南海舞会内情 大饥荒时享受部级特供 周恩来一入舞厅 女舞蹈演员一拥而上 中南海不可告人的秘密_345</a></li>
-<li><a href="/comments/20210325/1512542.md">江泽民形如槁木 胡锦涛满头白发 习或借授勋逼表态</a></li>
 <li><a href="/cbnews/20210325/1512221.md">文昭：重演向11国宣战？习近平加速玩大了！历史的逻辑，上一次辛丑年的坑填上吗？</a></li>
 <li><a href="/ssgc/20210325/1512116.md">〖兲朝浮世绘〗不肯下跪的公司多起来了 得瑟招来群殴不是梦</a></li>
 <li><a href="/topimagenews/20210325/1512208.md">中共最怕 美两党两院联手戳死穴来了 余茂春：中共极力挑拨两党关系</a></li>
 <li><a href="/topimagenews/20210325/1512077.md">纽时连发文章要中美关系重回奥巴马时代 前3任总统白宫医生曝危险信号</a></li>
+<li><a href="/bannedvideo/20210325/1512581.md">网友：3月24日，广东东莞全城到处布满警察，防暴警察，辅警，交警，地毯式挨家挨户查摩托车，巡逻队直接一条巷子一条巷子的找，找到就推走，不止是在道路上还直接上民众家里抢，搞得民怨沸腾</a></li>
 <li><a href="/cnnews/20210325/1512413.md">H&M拒用新疆棉事件发酵 胡锡进评论挨炮轰</a></li>
 <li><a href="/baitai/20210325/1512492.md">BCI官网急撤禁新疆棉花声明</a></li>
 <li><a href="/ccpdope/20210325/1512049.md">小笑话：宋祖英垄断江泽民的绝招</a></li>
-<li><a href="/bannedvideo/20210325/1512581.md">网友：3月24日，广东东莞全城到处布满警察，防暴警察，辅警，交警，地毯式挨家挨户查摩托车，巡逻队直接一条巷子一条巷子的找，找到就推走，不止是在道路上还直接上民众家里抢，搞得民怨沸腾</a></li>
 <li><a href="/headline/20210325/1512513.md">耐克新疆声明在中国社媒引发风暴</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
