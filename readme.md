@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210325/1512082.md">传女子冲习近平座驾 十五、六个人跑过去拦截</a></li>
-<li><a href="/cbnews/20210324/1511924.md">糗大了！华春莹又语出惊人</a></li>
 <li><a href="/cbnews/20210325/1512385.md">汪洋、赵克志急赴新疆 北京疑有大动作</a></li>
 <li><a href="/yule/20210325/1512120.md">著名歌唱家蒋大为 最近摊上事了</a></li>
 <li><a href="/cbnews/20210325/1512262.md">习近平报复砸了自己的锅 4名被30国联合制裁的新疆官员,竟然有无数汉族命案</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/funmedia/20210325/1512184.md">不要再叫美女了，现在情商高的男人用这4种称呼，女人听完会心动</a></li>
 <li><a href="/cbnews/20210325/1512197.md">习近平为二十大三连任做四大布局 杨洁篪王毅内斗，最愿看到的是他？胡锡进泄露中共命门</a></li>
 <li><a href="/comments/20210325/1512257.md">侍卫长被点名！习近平进福州车队中途分道扬镳？网友隔空喊习前度情人</a></li>
-<li><a href="/lifebaike/20210325/1512364.md">银行行长坦言：10年后房子和现金，不如2样东西能带来安全感</a></li>
 <li><a href="/cbnews/20210325/1512416.md">体制内前干部爆中共：文革2.0批斗正在进行</a></li>
+<li><a href="/lifebaike/20210325/1512364.md">银行行长坦言：10年后房子和现金，不如2样东西能带来安全感</a></li>
 <li><a href="/comments/20210325/1512166.md">毛泽东舞伴陈爱莲曝中南海舞会内情 大饥荒时享受部级特供 周恩来一入舞厅 女舞蹈演员一拥而上 中南海不可告人的秘密_345</a></li>
 <li><a href="/cbnews/20210325/1512221.md">文昭：重演向11国宣战？习近平加速玩大了！历史的逻辑，上一次辛丑年的坑填上吗？</a></li>
 <li><a href="/ssgc/20210325/1512116.md">〖兲朝浮世绘〗不肯下跪的公司多起来了 得瑟招来群殴不是梦</a></li>
+<li><a href="/cnnews/20210325/1512511.md">郑州高校砍人场面血腥 知情人透内情</a></li>
 <li><a href="/topimagenews/20210325/1512077.md">纽时连发文章要中美关系重回奥巴马时代 前3任总统白宫医生曝危险信号</a></li>
 <li><a href="/topimagenews/20210325/1512208.md">中共最怕 美两党两院联手戳死穴来了 余茂春：中共极力挑拨两党关系</a></li>
 <li><a href="/cnnews/20210325/1512489.md">H&M遭战狼封杀 北京实体店却现排队潮</a></li>
 <li><a href="/cnnews/20210325/1512413.md">H&M拒用新疆棉事件发酵 胡锡进评论挨炮轰</a></li>
-<li><a href="/cbnews/20210324/1511925.md">中共驻法大使被召见训诫 想提这事直接被拒</a></li>
-<li><a href="/cnnews/20210325/1512511.md">郑州高校砍人场面血腥 知情人透内情</a></li>
 <li><a href="/ccpdope/20210325/1512049.md">小笑话：宋祖英垄断江泽民的绝招</a></li>
+<li><a href="/comments/20210325/1512542.md">江泽民形如槁木 胡锦涛满头白发 习或借授勋逼表态</a></li>
 <li><a href="/headline/20210325/1512278.md">21世纪9大惊人预言 中国部分最震撼</a></li>
 <li><a href="/cbnews/20210325/1512370.md">北京战狼外交惹毛意大利 中共大使被召见</a></li>
+<li><a href="/headline/20210325/1512075.md">欧洲议会势力强大的党派发声：北京取消制裁是欧中投资协定通过的前提</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210325/1512649.md" target="_blank">泱泱大国假论文泛滥，中共在做什么</a></li>
 <li><a href="/cbnews/20210325/1512630.md" target="_blank">中共收集海外法轮功学员个人信息</a></li>
 <li><a href="/cbnews/20210325/1512622.md" target="_blank">美国思想领袖：劳伦斯·福克斯：自由被身份政治吞噬！一首歌如何引爆「种族炸弹」？规则不断改变，原本自由的社会逐步被独裁者掌握，人们开始不敢说话？为何说坚信传统价值才能变得更美好？| 大纪元</a></li>
 <li><a href="/cbnews/20210325/1512609.md" target="_blank">中国大陆姑娘最爱国货？财报惊人翻车直接&#8221;判死&#8221;</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210325/1512236.md" target="_blank">多国联手制裁，中共与世界开打？中欧协议危矣；亚裔集会惊现“打倒美帝”，谁在推动？</a></li>
 <li><a href="/cbnews/20210325/1512221.md" target="_blank">文昭：重演向11国宣战？习近平加速玩大了！历史的逻辑，上一次辛丑年的坑填上吗？</a></li>
 <li><a href="/cbnews/20210325/1512197.md" target="_blank">习近平为二十大三连任做四大布局 杨洁篪王毅内斗，最愿看到的是他？胡锡进泄露中共命门</a></li>
-<li><a href="/comments/20210325/1512195.md" target="_blank">美国边境危机有多严重？   嘉宾：方伟 蓝述 主持：高洁【希望之声TV】(2021/03/24)</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210325/1512653.md" target="_blank">地磁北极快速移动中！卫星网路、电网或将被破坏</a></li>
 <li><a href="/comments/20210325/1512643.md" target="_blank">肉丝炒芹菜</a></li>
 <li><a href="/comments/20210325/1512627.md" target="_blank">从旅美学生到国务卿核心顾问 余茂春谈人生经历</a></li>
 <li><a href="/comments/20210325/1512626.md" target="_blank">五角大楼6月前解密UFO 前官员谈其起源和特征</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210325/1512504.md" target="_blank">断其财路 美国将重手制裁缅甸军方辖下2家要企</a></li>
 <li><a href="/comments/20210325/1512503.md" target="_blank">We Chinese will not gulp your American shit</a></li>
 <li><a href="/comments/20210325/1512491.md" target="_blank">Google再妥协 与多家意大利媒体达成新闻付费协议</a></li>
-<li><a href="/comments/20210325/1512424.md" target="_blank">北约秘书长：欧洲北美联手足以应对中共的崛起和挑战</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
