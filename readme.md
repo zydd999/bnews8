@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210324/1511462.md">退伍兵抱村官同归于尽 番禺爆炸细节曝光</a></li>
 <li><a href="/topimagenews/20210324/1511521.md">不是胡春华 习近平已内定李克强接班人</a></li>
 <li><a href="/cbnews/20210324/1511735.md">杨洁篪“嘴炮”惹祸 中共军方智囊不满</a></li>
 <li><a href="/topimagenews/20210324/1511859.md">习近平异常多方猜测 欧盟多国和中共相召对方大使 出大事？美军确认中国卫星在轨解体</a></li>
@@ -23,8 +22,9 @@
 <li><a href="/baitai/20210324/1511766.md">“新疆棉花不吃这一套” H&M禁用新疆棉花惹怒中国人</a></li>
 <li><a href="/cbnews/20210324/1511622.md">江峰：俄外长提中俄合作先脱钩美元，中共高层急了，女儿在美国生活费付卢布么？中共反制裁砸了，欧盟反击，习近平心血《欧中投资协议》泡汤；中朝这张废牌为什么又拿出来了？</a></li>
 <li><a href="/bannedvideo/20210324/1511820.md">话音刚落，金三胖出手了! 阿南德最新预言：四国峰会择时不利或出事 与史前印度核战争日期冲撞。 | 预言警示 | 探索与洞见 |</a></li>
-<li><a href="/cbnews/20210324/1511925.md">中共驻法大使被召见训诫 想提这事直接被拒</a></li>
 <li><a href="/comments/20210324/1511660.md">华春莹再发奇谈 学者解读：习近平究竟想干什么？北京下战书 拜登不敢触关键红线</a></li>
+<li><a href="/cbnews/20210324/1511925.md">中共驻法大使被召见训诫 想提这事直接被拒</a></li>
+<li><a href="/cnnews/20210325/1512093.md">中国面临另一个房地产泡沫</a></li>
 <li><a href="/bannedvideo/20210324/1511909.md">2021年3月23日，习近平到福建考察。尽管一路戒备森严，仍出现疑为冤民拦车的情况。在考察期间，习近平与沙县小吃商户交谈，说到吃，他眉飞色舞：“我在福建的时候就是在推广这个。”</a></li>
 <li><a href="/cnnews/20210324/1511698.md">加拿大逮捕孟晚舟 检方敦促法官关注事实</a></li>
 <li><a href="/cbnews/20210324/1511708.md">余茂春：若蓬佩奥在场 绝不允许中共撒泼</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210325/1512244.md" target="_blank">“台湾才是真正的中国” 要成“北约加”成员国？中共疫苗利诱与台断交，小国怒了</a></li>
 <li><a href="/topimagenews/20210325/1512208.md" target="_blank">中共最怕 美两党两院联手戳死穴来了 余茂春：中共极力挑拨两党关系</a></li>
 <li><a href="/topimagenews/20210325/1512077.md" target="_blank">纽时连发文章要中美关系重回奥巴马时代 前3任总统白宫医生曝危险信号</a></li>
 <li><a href="/topimagenews/20210325/1512027.md" target="_blank">纽约华裔警员BLM游行执勤被非裔男辱骂“酱油”“吃猫狗”长达15分钟</a></li>
@@ -91,13 +92,13 @@
 <li><a href="/topimagenews/20210323/1510440.md" target="_blank">中立国也不忍了!瑞士首度发布明确《中国战略》</a></li>
 <li><a href="/topimagenews/20210322/1510065.md" target="_blank">美女遇央企欺诈 曝中石化遭恐吓 大外宣网红李子柒食品再陷丑闻</a></li>
 <li><a href="/topimagenews/20210322/1509879.md" target="_blank">习近平恐惧六大隐忧 讨薪民工遭公审热传 1/3国民接种中国疫苗 智利疫情反</a></li>
-<li><a href="/topimagenews/20210322/1509861.md" target="_blank">蓬佩奥首曝2次中美会谈内幕，我会这样做；“实际进展可能比公众看到的更好”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210325/1512247.md" target="_blank">王维洛：雅鲁藏布江下游水电大开发是违法工程且极其危险</a></li>
 <li><a href="/comments/20210325/1512236.md" target="_blank">多国联手制裁，中共与世界开打？中欧协议危矣；亚裔集会惊现“打倒美帝”，谁在推动？</a></li>
 <li><a href="/comments/20210325/1512233.md" target="_blank">美女翻译“小赵薇”张京难堪“配合”杨洁篪上演战狼发飙戏 官媒曝张京“魔鬼训练”及为胡锦涛翻译细节 中南海不可告人的秘密_346</a></li>
 <li><a href="/comments/20210325/1512228.md" target="_blank">美欧发表联合声明：与中共为竞争和制度对手关系</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210325/1512113.md" target="_blank">约60%儿童安全椅错误安装？丰田App让宝宝更安全</a></li>
 <li><a href="/comments/20210325/1512095.md" target="_blank">粤港澳大湾区警察协会一月注册成立 港警：工作范畴运作模式不变</a></li>
 <li><a href="/comments/20210325/1512094.md" target="_blank">公务员饭堂价钱牌引起公愤 拍摄者以“泄露国家秘密”被捕</a></li>
-<li><a href="/comments/20210325/1512086.md" target="_blank">招行年报凸显中国贫富差距：2%富人掌握80%财富</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
 
 </ul>
 </div>
