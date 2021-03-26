@@ -20,11 +20,11 @@
 <li><a href="/headline/20210325/1512513.md">耐克新疆声明在中国社媒引发风暴</a></li>
 <li><a href="/yule/20210325/1512531.md">真拼！47岁高龄搭档90后女星 拿晚节换片酬</a></li>
 <li><a href="/comments/20210325/1512514.md">亲历：慈禧棺打开瞬间 有兵士惊呼 赶紧把枪压上</a></li>
+<li><a href="/bannedvideo/20210326/1512819.md">跌惨了！拜登这次不残废才怪</a></li>
 <li><a href="/ssgc/20210325/1512644.md">习近平真不在乎外交形势恶化吗？</a></li>
 <li><a href="/cbnews/20210325/1512370.md">北京战狼外交惹毛意大利 中共大使被召见</a></li>
 <li><a href="/cbnews/20210325/1512609.md">中国大陆姑娘最爱国货？财报惊人翻车直接"判死"</a></li>
 <li><a href="/comments/20210325/1512675.md">比毒品利润还高！乱象害惨中国人</a></li>
-<li><a href="/bannedvideo/20210326/1512819.md">跌惨了！拜登这次不残废才怪</a></li>
 <li><a href="/cbnews/20210325/1512486.md">中共外交“全面战狼化” 被评：根本是僵尸外交</a></li>
 <li><a href="/comments/20210326/1512722.md">汪洋赵克志罕见急赴新疆;国会事件调查新证据 ;孟晚舟案再受挫 加法官驳回新证据;400米巨轮“堵死”全球输油生命线事件已经疏通;震惊：数字分析COVID-19代表撒旦？12:00PM【希望之声TV】</a></li>
 <li><a href="/cnnews/20210325/1512602.md">方方兑现承诺，捐出日记全部稿酬</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210326/1513037.md" target="_blank">H&#038;M舆论战升级 胡锡进建议官方隔岸观火</a></li>
+<li><a href="/cbnews/20210326/1513036.md" target="_blank">战狼外交搞砸 日经：习近平建党百年访美计划落空</a></li>
 <li><a href="/cbnews/20210326/1513031.md" target="_blank">习近平逛福州自曝当官史 网络再传被封禁视频</a></li>
 <li><a href="/cbnews/20210326/1513015.md" target="_blank">新疆棉花“不吃这一套” 党媒借杨洁篪言论煽情</a></li>
 <li><a href="/cbnews/20210326/1513014.md" target="_blank">中共大使出席意国会听证会 联盟党集体退席抗议</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210325/1512630.md" target="_blank">中共收集海外法轮功学员个人信息</a></li>
 <li><a href="/cbnews/20210325/1512622.md" target="_blank">美国思想领袖：劳伦斯·福克斯：自由被身份政治吞噬！一首歌如何引爆「种族炸弹」？规则不断改变，原本自由的社会逐步被独裁者掌握，人们开始不敢说话？为何说坚信传统价值才能变得更美好？| 大纪元</a></li>
 <li><a href="/cbnews/20210325/1512609.md" target="_blank">中国大陆姑娘最爱国货？财报惊人翻车直接&#8221;判死&#8221;</a></li>
-<li><a href="/comments/20210325/1512606.md" target="_blank">麦康奈尔说他没有被邀请去白宫；拜登任命哈里斯应对边境移民危机；美更严格审查中企 中概股应声下跌；纽约亚裔“反仇恨”集会 喊“毛主席万岁”；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210325/1512528.md" target="_blank">白宫疯了？其邮件泄密，强迫所有政府机构使用“拜登-哈里斯政府”。格雷厄姆与川普打高尔夫球，又提什么新要求？威斯康辛州曝光重大问题，拜登曲线将找到答案？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
