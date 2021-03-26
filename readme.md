@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210325/1512511.md">郑州高校砍人场面血腥 知情人透内情</a></li>
 <li><a href="/comments/20210325/1512542.md">江泽民形如槁木 胡锦涛满头白发 习或借授勋逼表态</a></li>
-<li><a href="/cnnews/20210325/1512489.md">H&M遭战狼封杀 北京实体店却现排队潮</a></li>
 <li><a href="/topimagenews/20210326/1512893.md">中共高层异动；习近平大动作，不在乎形势恶化？内部消息：文革2.0批斗正进行</a></li>
 <li><a href="/bannedvideo/20210325/1512581.md">网友：3月24日，广东东莞全城到处布满警察，防暴警察，辅警，交警，地毯式挨家挨户查摩托车，巡逻队直接一条巷子一条巷子的找，找到就推走，不止是在道路上还直接上民众家里抢，搞得民怨沸腾</a></li>
 <li><a href="/cbnews/20210326/1512770.md">为何选择强硬对付欧美制裁? 专家 : 习近平背后这样算计…..</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/headline/20210325/1512513.md">耐克新疆声明在中国社媒引发风暴</a></li>
 <li><a href="/comments/20210326/1512777.md">中国人上当了！H&M事件不断延烧 数十名艺人加入抵制国际品牌</a></li>
 <li><a href="/yule/20210325/1512531.md">真拼！47岁高龄搭档90后女星 拿晚节换片酬</a></li>
-<li><a href="/bannedvideo/20210326/1512819.md">跌惨了！拜登这次不残废才怪</a></li>
 <li><a href="/ssgc/20210325/1512644.md">习近平真不在乎外交形势恶化吗？</a></li>
+<li><a href="/bannedvideo/20210326/1512819.md">跌惨了！拜登这次不残废才怪</a></li>
 <li><a href="/comments/20210325/1512514.md">亲历：慈禧棺打开瞬间 有兵士惊呼 赶紧把枪压上</a></li>
 <li><a href="/comments/20210325/1512675.md">比毒品利润还高！乱象害惨中国人</a></li>
 <li><a href="/cbnews/20210325/1512609.md">中国大陆姑娘最爱国货？财报惊人翻车直接"判死"</a></li>
 <li><a href="/topimagenews/20210326/1512918.md">被问及如何与蓬佩奥相识 余茂春这样说…</a></li>
 <li><a href="/comments/20210326/1512722.md">汪洋赵克志罕见急赴新疆;国会事件调查新证据 ;孟晚舟案再受挫 加法官驳回新证据;400米巨轮“堵死”全球输油生命线事件已经疏通;震惊：数字分析COVID-19代表撒旦？12:00PM【希望之声TV】</a></li>
-<li><a href="/comments/20210326/1512731.md">太恐怖！中共官方通知：接种新冠疫苗半年内不能怀孕 中国明年出生率要降到接近零？！中南海谣言预言_447</a></li>
-<li><a href="/cbnews/20210325/1512486.md">中共外交“全面战狼化” 被评：根本是僵尸外交</a></li>
 <li><a href="/cbnews/20210326/1512990.md">大陆强制打疫苗 张文宏称怕打疫苗是“人性问题” 网民抨击</a></li>
+<li><a href="/comments/20210326/1512731.md">太恐怖！中共官方通知：接种新冠疫苗半年内不能怀孕 中国明年出生率要降到接近零？！中南海谣言预言_447</a></li>
+<li><a href="/comments/20210326/1513022.md">醉翁之意不在酒！敏感时刻习近平李克强一起溜了 37岁当市委书记又成笑点</a></li>
 <li><a href="/cnnews/20210325/1512602.md">方方兑现承诺，捐出日记全部稿酬</a></li>
 <li><a href="/cnnews/20210326/1512821.md">才说抵制名牌“运动鞋却卖翻天”真实订单曝光陆网笑翻</a></li>
+<li><a href="/comments/20210326/1512758.md">自阉的陈奕迅 与不死的香港文化</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210326/1513156.md" target="_blank">拜登电话警告习近平：继续侵犯人权 将吁全球揭露</a></li>
 <li><a href="/cbnews/20210326/1513127.md" target="_blank">何良懋：2021将是中共被制裁年</a></li>
 <li><a href="/cbnews/20210326/1513101.md" target="_blank">中共在美进行“议会夺权” 全力支持杨安泽竞选纽约市长</a></li>
 <li><a href="/cbnews/20210326/1513100.md" target="_blank">极具威慑力 美11艘航母镇守海域 两党关注中共印太威胁</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210326/1512872.md" target="_blank">H&#038;M事件升级 涉多个国际品牌 47艺人忙切割；习或借授勋逼江胡表态？世卫与中共合作研究再被揭底；阿尔巴尼亚侨民要求剔除粉饰共产主义的政客；特勤局试图隐藏亨特购买枪的证据6:00pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210326/1512805.md" target="_blank">抵制H＆M还不够！BCI会员200品牌被挖出</a></li>
 <li><a href="/cbnews/20210326/1512804.md" target="_blank">H&#038;M事件延烧 波及耐克、阿迪达斯、巴宝莉等国际品牌</a></li>
-<li><a href="/cbnews/20210326/1512788.md" target="_blank">新疆伊宁市爆发非洲猪瘟疫情 280头猪死亡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
