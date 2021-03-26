@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20210326/1512770.md">为何选择强硬对付欧美制裁? 专家 : 习近平背后这样算计…..</a></li>
 <li><a href="/cbnews/20210326/1513031.md">习近平逛福州自曝当官史 网络再传被封禁视频</a></li>
 <li><a href="/comments/20210326/1512777.md">中国人上当了！H&M事件不断延烧 数十名艺人加入抵制国际品牌</a></li>
-<li><a href="/topimagenews/20210326/1513091.md">重磅！加拿大紧急召回中国大使 专家：渥太华正考虑重新制定对华政策</a></li>
 <li><a href="/cnnews/20210326/1513196.md">价格暴涨100%！浙江老板娘：真别买 除非不差钱</a></li>
+<li><a href="/topimagenews/20210326/1513091.md">重磅！加拿大紧急召回中国大使 专家：渥太华正考虑重新制定对华政策</a></li>
+<li><a href="/topimagenews/20210326/1513273.md">中共一举动吓坏金融圈；70年首次美军全面备战；飞利浦撤离中国家电市场</a></li>
 <li><a href="/bannedvideo/20210326/1512819.md">跌惨了！拜登这次不残废才怪</a></li>
 <li><a href="/cbnews/20210326/1513156.md">拜登电话警告习近平：继续侵犯人权 将吁全球揭露</a></li>
-<li><a href="/topimagenews/20210326/1513273.md">中共一举动吓坏金融圈；70年首次美军全面备战；飞利浦撤离中国家电市场</a></li>
 <li><a href="/comments/20210326/1513022.md">醉翁之意不在酒！敏感时刻习近平李克强一起溜了 37岁当市委书记又成笑点</a></li>
 <li><a href="/topimagenews/20210326/1512918.md">被问及如何与蓬佩奥相识 余茂春这样说…</a></li>
 <li><a href="/cbnews/20210326/1512990.md">大陆强制打疫苗 张文宏称怕打疫苗是“人性问题” 网民抨击</a></li>
 <li><a href="/cbnews/20210326/1513319.md">中共武警部队准备进入台湾镇压城市暴乱</a></li>
-<li><a href="/comments/20210326/1512731.md">太恐怖！中共官方通知：接种新冠疫苗半年内不能怀孕 中国明年出生率要降到接近零？！中南海谣言预言_447</a></li>
 <li><a href="/cbnews/20210326/1513072.md">习近平福建考察口气变软 军方辟谣6年内犯台</a></li>
-<li><a href="/comments/20210326/1512758.md">自阉的陈奕迅 与不死的香港文化</a></li>
 <li><a href="/cnnews/20210326/1513131.md">H&M等被抵制 投资大亨：停止与中共做生意</a></li>
+<li><a href="/comments/20210326/1512758.md">自阉的陈奕迅 与不死的香港文化</a></li>
 <li><a href="/cnnews/20210326/1512821.md">才说抵制名牌“运动鞋却卖翻天”真实订单曝光陆网笑翻</a></li>
-<li><a href="/cbnews/20210326/1512805.md">抵制H＆M还不够！BCI会员200品牌被挖出</a></li>
 <li><a href="/cnnews/20210326/1512979.md">华春莹拿黑奴照洗地新疆 疯狂眨眼模式再现</a></li>
+<li><a href="/cbnews/20210326/1512805.md">抵制H＆M还不够！BCI会员200品牌被挖出</a></li>
 <li><a href="/ssgc/20210326/1512832.md">〖兲朝浮世绘〗中国棉花很软 但中国人嘴很硬</a></li>
 <li><a href="/lifebaike/20210326/1512957.md">手机电话别乱接，特别是这四种电话，接到立马就挂断，都学学吧</a></li>
 <li><a href="/cnnews/20210326/1513116.md">“我爸跟我一讲的时候，马上在国内的感受，就像石头压在心口一样 ”</a></li>
+<li><a href="/funmedia/20210326/1513018.md">中国游客出门爱拉行李箱，外国人却喜欢背包，你知道为什么吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210327/1513461.md" target="_blank">回应政变 拜登政府宣布制裁缅甸企业</a></li>
+<li><a href="/comments/20210327/1513460.md" target="_blank">投资大亨巴斯：美公司必须停止与中共做生意</a></li>
+<li><a href="/comments/20210327/1513455.md" target="_blank">【一分钟料理】一做就成功的蓝莓蛋糕~</a></li>
 <li><a href="/comments/20210327/1513443.md" target="_blank">头天煮的带壳鸡蛋第二天能吃吗？</a></li>
 <li><a href="/comments/20210327/1513442.md" target="_blank">50岁后可能面对的毛病 肩膀举不起来</a></li>
 <li><a href="/comments/20210327/1513441.md" target="_blank">9种食物创意助你好眠</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210326/1513348.md" target="_blank">【7.1 闯立会案】王宗尧刘颕匡邹家成等 14 人被控暴动 延至 2023 年开审</a></li>
 <li><a href="/comments/20210326/1513320.md" target="_blank">暗怼王沪宁？李克强敏感时间为外资企业打气</a></li>
 <li><a href="/comments/20210326/1513302.md" target="_blank">拜登再谈习近平：从骨子里没有民主意识；拜登“期望”在2024年竞选连任；华春莹回应新疆问题 一分钟内狂眨眼70多次；拒用新疆棉遭中共抵制  耐克等品牌销量反增；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210326/1513277.md" target="_blank">台湾艺人撑新疆棉 苏贞昌：不知轻重 为利益做不尊重人权言行</a></li>
-<li><a href="/comments/20210326/1513274.md" target="_blank">【图片+视频】罕见的白天火球流星在英国法国造成巨大音爆！亮度超过金星？</a></li>
-<li><a href="/comments/20210326/1513271.md" target="_blank">拜登首次记者会，也提2024竞选，话中暗藏杀气。川普当晚接受Fox采访，抨击拜登政策太可怕。习近平信了拜登，再次误判形势，战狼外交，欧洲遇重创。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙：中华文化密码与时空密码</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 
 </ul>
 </div>
