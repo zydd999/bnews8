@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210326/1512893.md">中共高层异动；习近平大动作，不在乎形势恶化？内部消息：文革2.0批斗正进行</a></li>
-<li><a href="/cbnews/20210326/1512770.md">为何选择强硬对付欧美制裁? 专家 : 习近平背后这样算计…..</a></li>
 <li><a href="/cbnews/20210326/1513031.md">习近平逛福州自曝当官史 网络再传被封禁视频</a></li>
 <li><a href="/comments/20210326/1512777.md">中国人上当了！H&M事件不断延烧 数十名艺人加入抵制国际品牌</a></li>
 <li><a href="/cnnews/20210326/1513196.md">价格暴涨100%！浙江老板娘：真别买 除非不差钱</a></li>
@@ -16,8 +15,8 @@
 <li><a href="/comments/20210326/1513022.md">醉翁之意不在酒！敏感时刻习近平李克强一起溜了 37岁当市委书记又成笑点</a></li>
 <li><a href="/cbnews/20210326/1513156.md">拜登电话警告习近平：继续侵犯人权 将吁全球揭露</a></li>
 <li><a href="/cbnews/20210326/1513319.md">中共武警部队准备进入台湾镇压城市暴乱</a></li>
-<li><a href="/topimagenews/20210326/1512918.md">被问及如何与蓬佩奥相识 余茂春这样说…</a></li>
 <li><a href="/cbnews/20210326/1512990.md">大陆强制打疫苗 张文宏称怕打疫苗是“人性问题” 网民抨击</a></li>
+<li><a href="/topimagenews/20210326/1512918.md">被问及如何与蓬佩奥相识 余茂春这样说…</a></li>
 <li><a href="/baitai/20210326/1513289.md">安徽15岁女恋上姐夫两女共事一夫三人行10年后分手惨遭男方杀害</a></li>
 <li><a href="/cbnews/20210326/1513072.md">习近平福建考察口气变软 军方辟谣6年内犯台</a></li>
 <li><a href="/cnnews/20210326/1513131.md">H&M等被抵制 投资大亨：停止与中共做生意</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20210326/1512832.md">〖兲朝浮世绘〗中国棉花很软 但中国人嘴很硬</a></li>
 <li><a href="/lifebaike/20210326/1512957.md">手机电话别乱接，特别是这四种电话，接到立马就挂断，都学学吧</a></li>
 <li><a href="/funmedia/20210326/1513018.md">中国游客出门爱拉行李箱，外国人却喜欢背包，你知道为什么吗？</a></li>
+<li><a href="/lifebaike/20210326/1512977.md">家里4种电器用完要拔插头，不然每月电费翻倍交</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210327/1513501.md" target="_blank">南宁全裸少女遭多人凌虐 下体塞矿泉水瓶尿失禁</a></li>
 <li><a href="/cbnews/20210327/1513493.md" target="_blank">中美关系风向标:美中气候特使见而未谈 私下秘会?</a></li>
 <li><a href="/comments/20210327/1513477.md" target="_blank">习近平视察福建口气变软  6年内不犯台？；王毅访土国近千人围攻 “为什么接待他”？乔州通过新选举法案 ；亚利桑那州长：贺锦丽不适合应对边境危机；台湾新民调：近九成人反对“一国两制”【希望之声TV】</a></li>
 <li><a href="/cbnews/20210327/1513452.md" target="_blank">中共当局加码监管网络用户 拟与网络龙头合开公司</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210326/1513054.md" target="_blank">阿里巴巴北京公司设立党委 网友：终于有书记了</a></li>
 <li><a href="/comments/20210326/1513051.md" target="_blank">乔州开仓验票了！取证审查2020大选选票；加拿大紧急召回驻华大使！外交危机升级？马斯克“碰瓷”吗？ 比特币的背后有大算计？脸书亚马逊游说政府花数千万！谁受益了？【希望之声TV】12am</a></li>
 <li><a href="/cbnews/20210326/1513037.md" target="_blank">H&#038;M舆论战升级 胡锡进建议官方隔岸观火</a></li>
-<li><a href="/cbnews/20210326/1513036.md" target="_blank">战狼外交搞砸 日经：习近平建党百年访美计划落空</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210327/1513505.md" target="_blank">美媒：拜登新闻发布会出现多次尴尬时刻</a></li>
 <li><a href="/comments/20210327/1513498.md" target="_blank">在华外商遭遇抵制风潮 中共“经济绑架”引外界关注</a></li>
 <li><a href="/comments/20210327/1513497.md" target="_blank">史上最牛臣子 竟流放了君王 还喜剧收场？</a></li>
 <li><a href="/comments/20210327/1513490.md" target="_blank">东区区议员张国昌退出民主党</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210326/1513378.md" target="_blank">北京对台不知所措？官媒延迟报习近平在福建视察武警</a></li>
 <li><a href="/comments/20210326/1513377.md" target="_blank">拜登要联邦雇员照顾儿童难民 专家：危机会恶化</a></li>
 <li><a href="/comments/20210326/1513376.md" target="_blank">英政府：港府和北京无权下令他国拒绝BNO护照</a></li>
-<li><a href="/comments/20210326/1513355.md" target="_blank">美名主持：“反亚裔主义”是左派最新的反美谎言</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 
 </ul>
 </div>
