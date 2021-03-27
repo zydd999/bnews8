@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210327/1513501.md">南宁全裸少女遭多人凌虐 下体塞矿泉水瓶尿失禁</a></li>
 <li><a href="/comments/20210327/1513543.md">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
 <li><a href="/topimagenews/20210327/1513613.md">新疆棉花风暴： 直击上海H&M顾客的冷笑</a></li>
 <li><a href="/cbnews/20210327/1513654.md">唱反调的李克强再遭噤声</a></li>
@@ -18,8 +17,8 @@
 <li><a href="/cbnews/20210327/1513890.md">首曝：官媒吹捧 习近平当过六年大学校长</a></li>
 <li><a href="/funmedia/20210327/1513616.md">相亲时碰到大龄剩女，饭间去上了趟厕所，回来我拉着她去领证</a></li>
 <li><a href="/cbnews/20210327/1513798.md">中共驻法大使拒绝道歉 法国这次不依不饶</a></li>
-<li><a href="/headline/20210327/1513539.md">中国离婚率爆增 背后原因不简单</a></li>
 <li><a href="/cbnews/20210327/1514017.md">禁用新疆棉谁更惨 一篇热文分析的透彻</a></li>
+<li><a href="/headline/20210327/1513539.md">中国离婚率爆增 背后原因不简单</a></li>
 <li><a href="/cnnews/20210327/1513905.md">“长荣货柜又堵住了”！卡在南京高速公路双向全塞</a></li>
 <li><a href="/cnnews/20210327/1513924.md">冷清的“巧克力城”：非洲淘金者渐离广州</a></li>
 <li><a href="/cbnews/20210327/1513614.md">中共多家官媒曾曝光新疆采棉黑历史</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20210327/1513897.md">27岁女子发帖涉董存瑞遭刑拘 言论曝光</a></li>
 <li><a href="/topimagenews/20210327/1513653.md">欧洲议会7成议员反对 中欧投资协定或破裂</a></li>
 <li><a href="/comments/20210327/1513526.md">李克强又唱反调？抵制声浪中视察耐克供应商 官媒禁声</a></li>
+<li><a href="/comments/20210327/1513913.md">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210328/1514147.md" target="_blank">和远亲聊天发现准儿媳是同一人 揭“结婚诈彩礼”案</a></li>
+<li><a href="/cbnews/20210328/1514146.md" target="_blank">青海美协主席作品爆抄袭 专程飞天津道歉 吃了闭门羹</a></li>
 <li><a href="/cbnews/20210327/1514076.md" target="_blank">中将为钱部队门向北开 军人叹：仗没打就败北</a></li>
 <li><a href="/cbnews/20210327/1514071.md" target="_blank">汪洋赵克志急赴新疆 分析：防内患</a></li>
 <li><a href="/cbnews/20210327/1514048.md" target="_blank">美权威专家：中共病毒源自中共病毒</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210327/1513797.md" target="_blank">美陆军签发白皮书，指出中共军力与美对等时间 多域特遣队 将部署第一岛链</a></li>
 <li><a href="/cbnews/20210327/1513786.md" target="_blank">开战？陨石击中？美中卫星传先后解体引关注</a></li>
 <li><a href="/cbnews/20210327/1513785.md" target="_blank">“爱国生意”火爆 网红持iPhone喊抵制洋货被抓包</a></li>
-<li><a href="/comments/20210327/1513783.md" target="_blank">当代人类的末日劫难究竟来自何方 （中共命运的轨迹和人类前途   第一讲） 【袁红冰纵论天下】 03272021</a></li>
-<li><a href="/cbnews/20210327/1513778.md" target="_blank">华春莹闹国际笑话 所举美“黑奴照”被揭为囚犯照</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
