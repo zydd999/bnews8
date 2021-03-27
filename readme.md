@@ -17,17 +17,17 @@
 <li><a href="/baitai/20210326/1513289.md">安徽15岁女恋上姐夫两女共事一夫三人行10年后分手惨遭男方杀害</a></li>
 <li><a href="/cbnews/20210326/1513072.md">习近平福建考察口气变软 军方辟谣6年内犯台</a></li>
 <li><a href="/cnnews/20210326/1513131.md">H&M等被抵制 投资大亨：停止与中共做生意</a></li>
-<li><a href="/cnnews/20210326/1512979.md">华春莹拿黑奴照洗地新疆 疯狂眨眼模式再现</a></li>
 <li><a href="/funmedia/20210326/1513018.md">中国游客出门爱拉行李箱，外国人却喜欢背包，你知道为什么吗？</a></li>
 <li><a href="/ssgc/20210326/1513311.md">中共发动史诗级制裁战</a></li>
+<li><a href="/comments/20210327/1513543.md">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
 <li><a href="/cnnews/20210326/1513116.md">“我爸跟我一讲的时候，马上在国内的感受，就像石头压在心口一样 ”</a></li>
-<li><a href="/lifebaike/20210326/1512977.md">家里4种电器用完要拔插头，不然每月电费翻倍交</a></li>
 <li><a href="/comments/20210326/1513051.md">乔州开仓验票了！取证审查2020大选选票；加拿大紧急召回驻华大使！外交危机升级？马斯克“碰瓷”吗？ 比特币的背后有大算计？脸书亚马逊游说政府花数千万！谁受益了？【希望之声TV】12am</a></li>
 <li><a href="/cnnews/20210326/1513331.md">小故宫？一个东北亿万富翁的神秘庄园</a></li>
 <li><a href="/lifebaike/20210326/1513191.md">大陆新娘遭证婚人强吻10秒 新郎在旁笑开怀</a></li>
 <li><a href="/ssgc/20210326/1513358.md">H&amp;M等抵制运动风暴背后的真相</a></li>
-<li><a href="/comments/20210327/1513543.md">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
 <li><a href="/comments/20210327/1513489.md">华春莹这回糗大了！拿美国黑奴照对比新疆被啪啪打脸</a></li>
+<li><a href="/cbnews/20210327/1513552.md">专栏 | 夜话中南海：下届政治局常委里至少有两个习近平大秘</a></li>
+<li><a href="/bannedvideo/20210326/1513136.md">文睿：再这样下去，中国人就真的要吃草了，长点儿心吧</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210327/1513720.md" target="_blank">习近平唱红重推样板戏 彭丽媛要变江青？</a></li>
+<li><a href="/comments/20210327/1513710.md" target="_blank">《意外》首映直播 ｜ 意外横出，何去何从&#8230;</a></li>
+<li><a href="/comments/20210327/1513708.md" target="_blank">财经冷眼：中共国学区房的大雷终于引爆了…</a></li>
+<li><a href="/comments/20210327/1513707.md" target="_blank">李军: 世界上歧视现象最严重的是中共国</a></li>
+<li><a href="/comments/20210327/1513706.md" target="_blank">习当局重演慈禧新戊戌之变</a></li>
 <li><a href="/comments/20210327/1513677.md" target="_blank">陶杰：战狼外交不稀奇 昔日比今日更凶狠</a></li>
 <li><a href="/comments/20210327/1513676.md" target="_blank">发动制裁国际品牌的“人民战争” 中共前景不妙</a></li>
 <li><a href="/comments/20210327/1513675.md" target="_blank">徐龙江：996 拦不住年轻人回到大厂</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210327/1513592.md" target="_blank">挺新疆棉 无印良品蒸发两亿美元；报复无效！中共制裁英议员和实体 英政府反击；密西西比惊现UFO！发光物空中跳舞”；“挺&#038;拒”新疆棉 成台港艺人道德标竿  反拜登！又一州立拥枪权法案【希望之声TV】</a></li>
 <li><a href="/comments/20210327/1513590.md" target="_blank">放下手机 是当代年轻人的一场“带发修行”</a></li>
 <li><a href="/comments/20210327/1513589.md" target="_blank">曈小曈: 经济学解读 节约与浪费</a></li>
-<li><a href="/comments/20210327/1513583.md" target="_blank">耐克等企业遭抵制 白宫谴责北京将商业“武器化”</a></li>
-<li><a href="/comments/20210327/1513582.md" target="_blank">英网安中心局长：非常关注和清楚中共的技术野心</a></li>
-<li><a href="/comments/20210327/1513573.md" target="_blank">北京报复反制裁 英外相将召见中共大使表明英方立场</a></li>
-<li><a href="/comments/20210327/1513565.md" target="_blank">毛泽东夫人江青的“皇后”特权生活 衣食住行细节实录 中南海不可告人的秘密_348</a></li>
-<li><a href="/comments/20210327/1513543.md" target="_blank">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 
 </ul>
 </div>
