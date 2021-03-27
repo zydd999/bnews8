@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20210326/1513273.md">中共一举动吓坏金融圈；70年首次美军全面备战；飞利浦撤离中国家电市场</a></li>
 <li><a href="/comments/20210326/1513022.md">醉翁之意不在酒！敏感时刻习近平李克强一起溜了 37岁当市委书记又成笑点</a></li>
 <li><a href="/cbnews/20210326/1513156.md">拜登电话警告习近平：继续侵犯人权 将吁全球揭露</a></li>
-<li><a href="/cbnews/20210326/1513319.md">中共武警部队准备进入台湾镇压城市暴乱</a></li>
 <li><a href="/cbnews/20210327/1513501.md">南宁全裸少女遭多人凌虐 下体塞矿泉水瓶尿失禁</a></li>
+<li><a href="/cbnews/20210326/1513319.md">中共武警部队准备进入台湾镇压城市暴乱</a></li>
 <li><a href="/cbnews/20210326/1512990.md">大陆强制打疫苗 张文宏称怕打疫苗是“人性问题” 网民抨击</a></li>
 <li><a href="/baitai/20210326/1513289.md">安徽15岁女恋上姐夫两女共事一夫三人行10年后分手惨遭男方杀害</a></li>
 <li><a href="/cbnews/20210326/1513072.md">习近平福建考察口气变软 军方辟谣6年内犯台</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/cnnews/20210326/1512979.md">华春莹拿黑奴照洗地新疆 疯狂眨眼模式再现</a></li>
 <li><a href="/funmedia/20210326/1513018.md">中国游客出门爱拉行李箱，外国人却喜欢背包，你知道为什么吗？</a></li>
 <li><a href="/ssgc/20210326/1513311.md">中共发动史诗级制裁战</a></li>
-<li><a href="/lifebaike/20210326/1512957.md">手机电话别乱接，特别是这四种电话，接到立马就挂断，都学学吧</a></li>
 <li><a href="/cnnews/20210326/1513116.md">“我爸跟我一讲的时候，马上在国内的感受，就像石头压在心口一样 ”</a></li>
 <li><a href="/lifebaike/20210326/1512977.md">家里4种电器用完要拔插头，不然每月电费翻倍交</a></li>
 <li><a href="/comments/20210326/1513051.md">乔州开仓验票了！取证审查2020大选选票；加拿大紧急召回驻华大使！外交危机升级？马斯克“碰瓷”吗？ 比特币的背后有大算计？脸书亚马逊游说政府花数千万！谁受益了？【希望之声TV】12am</a></li>
 <li><a href="/cnnews/20210326/1513331.md">小故宫？一个东北亿万富翁的神秘庄园</a></li>
 <li><a href="/lifebaike/20210326/1513191.md">大陆新娘遭证婚人强吻10秒 新郎在旁笑开怀</a></li>
 <li><a href="/ssgc/20210326/1513358.md">H&amp;M等抵制运动风暴背后的真相</a></li>
-<li><a href="/bannedvideo/20210326/1513136.md">文睿：再这样下去，中国人就真的要吃草了，长点儿心吧</a></li>
+<li><a href="/comments/20210327/1513543.md">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
+<li><a href="/comments/20210327/1513489.md">华春莹这回糗大了！拿美国黑奴照对比新疆被啪啪打脸</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210327/1513677.md" target="_blank">陶杰：战狼外交不稀奇 昔日比今日更凶狠</a></li>
+<li><a href="/comments/20210327/1513676.md" target="_blank">发动制裁国际品牌的“人民战争” 中共前景不妙</a></li>
+<li><a href="/comments/20210327/1513675.md" target="_blank">徐龙江：996 拦不住年轻人回到大厂</a></li>
 <li><a href="/comments/20210327/1513662.md" target="_blank">美派顾问团赴苏伊士运河 协助救援搁浅巨轮</a></li>
 <li><a href="/comments/20210327/1513661.md" target="_blank">医师：食物生吃更健康吗？</a></li>
 <li><a href="/comments/20210327/1513659.md" target="_blank">王旭的王 ：盲目抵制到最后都是中国人糟蹋中国人</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210327/1513573.md" target="_blank">北京报复反制裁 英外相将召见中共大使表明英方立场</a></li>
 <li><a href="/comments/20210327/1513565.md" target="_blank">毛泽东夫人江青的“皇后”特权生活 衣食住行细节实录 中南海不可告人的秘密_348</a></li>
 <li><a href="/comments/20210327/1513543.md" target="_blank">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
-<li><a href="/comments/20210327/1513542.md" target="_blank">牺牲警官的父亲称：儿子是拥枪权支持者</a></li>
-<li><a href="/comments/20210327/1513541.md" target="_blank">上海机场去年净亏13亿元</a></li>
-<li><a href="/comments/20210327/1513530.md" target="_blank">林妙茵：有香港特色的议会庄严 心安理得地行礼如仪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
