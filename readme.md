@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210327/1513501.md">南宁全裸少女遭多人凌虐 下体塞矿泉水瓶尿失禁</a></li>
-<li><a href="/cbnews/20210326/1513319.md">中共武警部队准备进入台湾镇压城市暴乱</a></li>
 <li><a href="/topimagenews/20210327/1513613.md">新疆棉花风暴： 直击上海H&M顾客的冷笑</a></li>
 <li><a href="/comments/20210327/1513543.md">“是谁在逼慈禧太后向全世界宣战？” 影射习近平长文大陆网络热传：昏聩无能的上层统治者刀尖起舞玩火自焚 主战派的目的不过是利用义和团的力量来阻止列强继续支持光绪帝 进而将光绪废黜使溥㑺早日登上皇位 当今中国谁是慈禧？谁是光绪？谁是溥㑺？谁是义和团？谁是主张派？中南海谣言预言_448</a></li>
 <li><a href="/cbnews/20210327/1513654.md">唱反调的李克强再遭噤声</a></li>
 <li><a href="/cbnews/20210327/1513552.md">专栏 | 夜话中南海：下届政治局常委里至少有两个习近平大秘</a></li>
 <li><a href="/cbnews/20210327/1513755.md">强制民众打疫苗 中共内部文件曝光</a></li>
 <li><a href="/lifebaike/20210327/1513749.md">河南一公安局长长期霸占漂亮女警察掏手枪要枪毙其老公，太嚣张</a></li>
-<li><a href="/cbnews/20210327/1513568.md">H&M和耐克等品牌遭中共抵制 白宫回应</a></li>
 <li><a href="/funmedia/20210327/1513594.md">法国姑娘在中国，街上看见这场景：这在法国根本不可能</a></li>
+<li><a href="/cbnews/20210327/1513568.md">H&M和耐克等品牌遭中共抵制 白宫回应</a></li>
 <li><a href="/topimagenews/20210327/1513772.md">中国房地产如果倒 中国共产党就难保</a></li>
 <li><a href="/cbnews/20210327/1513798.md">中共驻法大使拒绝道歉 法国这次不依不饶</a></li>
 <li><a href="/funmedia/20210327/1513616.md">相亲时碰到大龄剩女，饭间去上了趟厕所，回来我拉着她去领证</a></li>
 <li><a href="/cbnews/20210327/1513614.md">中共多家官媒曾曝光新疆采棉黑历史</a></li>
 <li><a href="/headline/20210327/1513539.md">中国离婚率爆增 背后原因不简单</a></li>
-<li><a href="/comments/20210327/1513489.md">华春莹这回糗大了！拿美国黑奴照对比新疆被啪啪打脸</a></li>
 <li><a href="/cnnews/20210326/1513331.md">小故宫？一个东北亿万富翁的神秘庄园</a></li>
+<li><a href="/comments/20210327/1513489.md">华春莹这回糗大了！拿美国黑奴照对比新疆被啪啪打脸</a></li>
 <li><a href="/cbnews/20210327/1513611.md">文昭：中国抵制H&amp;M惊现「三大怪」！习近平被逆袭架在火上烤？内宣和外宣心战模式全公开</a></li>
 <li><a href="/cbnews/20210327/1513763.md">外国记者追问 华春莹：改天我请你喝茶 网友调侃</a></li>
 <li><a href="/ssgc/20210326/1513358.md">H&amp;M等抵制运动风暴背后的真相</a></li>
 <li><a href="/comments/20210327/1513526.md">李克强又唱反调？抵制声浪中视察耐克供应商 官媒禁声</a></li>
 <li><a href="/cbnews/20210327/1513727.md">天亮时分：李克强遭噤声，习近平失去方向；抵制国际品牌，中共受伤最深（政论天下第386集 20210326）</a></li>
 <li><a href="/yule/20210327/1513737.md">全跪了！艺人狂挺新疆棉花 他断言终局：中国心碎满地</a></li>
+<li><a href="/ssgc/20210327/1513464.md">〖兲朝浮世绘〗华大妈不仅不专业，而且高级黑</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210327/1514017.md" target="_blank">禁用新疆棉谁更惨 一篇热文分析的透彻</a></li>
+<li><a href="/cbnews/20210327/1514015.md" target="_blank">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！| 大纪元</a></li>
 <li><a href="/comments/20210327/1513998.md" target="_blank">中共抵制声中 耐克鞋被秒抢 H&#038;M店内排队；中共多家官媒曾曝光新疆采棉花黑历史；川普回来了 或很快访问美墨边境；共和党参议员考察南部边境 遭遇人贩子和毒贩；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210327/1513927.md" target="_blank">江西新增本土病例 官方模糊疫情信息引众怒</a></li>
 <li><a href="/comments/20210327/1513913.md" target="_blank">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210327/1513755.md" target="_blank">强制民众打疫苗 中共内部文件曝光</a></li>
 <li><a href="/comments/20210327/1513739.md" target="_blank">佩洛西被党内警告？州选举结果勿碰；弗林家人跟匿名者Q有关系？CNN吃官司；卢沙野拒道歉  法国直怼王毅；谁砸了中国的碗 美投资大亨：别跟中共做生意； 习近平建党百年访美计划落空【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210327/1513727.md" target="_blank">天亮时分：李克强遭噤声，习近平失去方向；抵制国际品牌，中共受伤最深（政论天下第386集 20210326）</a></li>
-<li><a href="/cbnews/20210327/1513654.md" target="_blank">唱反调的李克强再遭噤声</a></li>
-<li><a href="/comments/20210327/1513644.md" target="_blank">抵制国际品牌炒作给谁看？世界是否会“不吃这一套”？中共又制裁英国，新疆问题是否会成为国际联合对抗中共契机？｜#唐靖远 #陈破空｜#热点互动 #方菲 03/26/2021</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210327/1514014.md" target="_blank">【图片+视频】最奇怪小行星：太阳系中的太空岩石</a></li>
 <li><a href="/comments/20210327/1514010.md" target="_blank">首曝：官媒吹捧习近平当过六年大学校长</a></li>
 <li><a href="/comments/20210327/1513998.md" target="_blank">中共抵制声中 耐克鞋被秒抢 H&#038;M店内排队；中共多家官媒曾曝光新疆采棉花黑历史；川普回来了 或很快访问美墨边境；共和党参议员考察南部边境 遭遇人贩子和毒贩；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210327/1513967.md" target="_blank">文明能压碎情怀不衰无论枯干山水</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210327/1513788.md" target="_blank">何清涟：美国人权入歧途 成了同性婚姻、变性权、吸大麻权</a></li>
 <li><a href="/comments/20210327/1513787.md" target="_blank">土改中的按比例杀人与反人类酷刑</a></li>
 <li><a href="/comments/20210327/1513783.md" target="_blank">当代人类的末日劫难究竟来自何方 （中共命运的轨迹和人类前途   第一讲） 【袁红冰纵论天下】 03272021</a></li>
-<li><a href="/comments/20210327/1513777.md" target="_blank">网络部队曾出手保护大选？美军将领证实！中共放毒要灭美国人？中国毒品大量进入南部边境；唱反调暗怼王沪宁？李克强为外资企业打气；中共开展大外宣 油管突现大量宣扬新疆“美好生活”-希望之声TV12AM</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
