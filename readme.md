@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cnnews/20210326/1513196.md">价格暴涨100%！浙江老板娘：真别买 除非不差钱</a></li>
 <li><a href="/topimagenews/20210326/1513273.md">中共一举动吓坏金融圈；70年首次美军全面备战；飞利浦撤离中国家电市场</a></li>
 <li><a href="/cbnews/20210327/1513501.md">南宁全裸少女遭多人凌虐 下体塞矿泉水瓶尿失禁</a></li>
 <li><a href="/cbnews/20210326/1513319.md">中共武警部队准备进入台湾镇压城市暴乱</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20210327/1513755.md">强制民众打疫苗 中共内部文件曝光</a></li>
 <li><a href="/lifebaike/20210327/1513749.md">河南一公安局长长期霸占漂亮女警察掏手枪要枪毙其老公，太嚣张</a></li>
 <li><a href="/cbnews/20210327/1513568.md">H&M和耐克等品牌遭中共抵制 白宫回应</a></li>
+<li><a href="/topimagenews/20210327/1513772.md">中国房地产如果倒 中国共产党就难保</a></li>
 <li><a href="/funmedia/20210327/1513594.md">法国姑娘在中国，街上看见这场景：这在法国根本不可能</a></li>
 <li><a href="/ssgc/20210326/1513311.md">中共发动史诗级制裁战</a></li>
-<li><a href="/topimagenews/20210327/1513772.md">中国房地产如果倒 中国共产党就难保</a></li>
 <li><a href="/cbnews/20210327/1513614.md">中共多家官媒曾曝光新疆采棉黑历史</a></li>
 <li><a href="/funmedia/20210327/1513616.md">相亲时碰到大龄剩女，饭间去上了趟厕所，回来我拉着她去领证</a></li>
 <li><a href="/headline/20210327/1513539.md">中国离婚率爆增 背后原因不简单</a></li>
 <li><a href="/comments/20210327/1513489.md">华春莹这回糗大了！拿美国黑奴照对比新疆被啪啪打脸</a></li>
 <li><a href="/cnnews/20210326/1513331.md">小故宫？一个东北亿万富翁的神秘庄园</a></li>
 <li><a href="/cbnews/20210327/1513611.md">文昭：中国抵制H&amp;M惊现「三大怪」！习近平被逆袭架在火上烤？内宣和外宣心战模式全公开</a></li>
-<li><a href="/lifebaike/20210326/1513191.md">大陆新娘遭证婚人强吻10秒 新郎在旁笑开怀</a></li>
 <li><a href="/ssgc/20210326/1513358.md">H&amp;M等抵制运动风暴背后的真相</a></li>
+<li><a href="/comments/20210327/1513526.md">李克强又唱反调？抵制声浪中视察耐克供应商 官媒禁声</a></li>
+<li><a href="/cbnews/20210327/1513763.md">外国记者追问 华春莹：改天我请你喝茶 网友调侃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210327/1513927.md" target="_blank">江西新增本土病例 官方模糊疫情信息引众怒</a></li>
 <li><a href="/comments/20210327/1513913.md" target="_blank">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
 <li><a href="/cbnews/20210327/1513908.md" target="_blank">中共制裁多名议员和实体 英国政府反击</a></li>
 <li><a href="/cbnews/20210327/1513891.md" target="_blank">俄三艘潜艇首次在北极同时上浮 美媒：咱每年都会破冰上浮</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210327/1513654.md" target="_blank">唱反调的李克强再遭噤声</a></li>
 <li><a href="/comments/20210327/1513644.md" target="_blank">抵制国际品牌炒作给谁看？世界是否会“不吃这一套”？中共又制裁英国，新疆问题是否会成为国际联合对抗中共契机？｜#唐靖远 #陈破空｜#热点互动 #方菲 03/26/2021</a></li>
 <li><a href="/cbnews/20210327/1513458.md" target="_blank">接种国产疫苗半年内勿怀孕 网友:明年出生率趋零</a></li>
-<li><a href="/cbnews/20210327/1513614.md" target="_blank">中共多家官媒曾曝光新疆采棉黑历史</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210327/1513931.md" target="_blank">中共重复晚清外交覆辙：惹祸、打架和装孙子</a></li>
 <li><a href="/comments/20210327/1513915.md" target="_blank">胃食道逆流？医师公布： 最糟糕饮食方式！简介温和饮食</a></li>
 <li><a href="/comments/20210327/1513913.md" target="_blank">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
 <li><a href="/comments/20210327/1513897.md" target="_blank">27岁女子发帖涉董存瑞遭刑拘 言论曝光</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210327/1513770.md" target="_blank">港非常任法官郝廉思 于被华制裁英国律师事务所任仲裁员 法政汇思料受牵连 减来港审案</a></li>
 <li><a href="/comments/20210327/1513765.md" target="_blank">陶杰：洋人眼睛看中国与中共</a></li>
 <li><a href="/comments/20210327/1513764.md" target="_blank">张杰：世界不吃中国这一套 中南海正如火烧乌龟</a></li>
-<li><a href="/comments/20210327/1513758.md" target="_blank">识破亚裔抗议活动组织者们的诡计 华裔千万别上当</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200112/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
