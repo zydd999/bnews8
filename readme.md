@@ -6,10 +6,9 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210327/1514017.md">禁用新疆棉谁更惨 一篇热文分析的透彻</a></li>
-<li><a href="/cnnews/20210327/1513924.md">冷清的“巧克力城”：非洲淘金者渐离广州</a></li>
 <li><a href="/cnnews/20210328/1514164.md">传坦克因车祸底朝天翻倒在路上 网友：不好办了</a></li>
-<li><a href="/comments/20210328/1514228.md">李燕铭：江泽民曾庆红勾结美国深层政府选定李克强取代习近平？习近平与李克强将两败俱伤？李克强敏感时刻访江泽民老家 罕见动作与习近平分庭抗礼争夺民心 遭王沪宁封杀 内幕揭秘</a></li>
 <li><a href="/cbnews/20210328/1514174.md">仅“LV”躲过新疆棉风暴！陆网护航原因曝 网叹：民族性</a></li>
+<li><a href="/comments/20210328/1514228.md">李燕铭：江泽民曾庆红勾结美国深层政府选定李克强取代习近平？习近平与李克强将两败俱伤？李克强敏感时刻访江泽民老家 罕见动作与习近平分庭抗礼争夺民心 遭王沪宁封杀 内幕揭秘</a></li>
 <li><a href="/cbnews/20210327/1514039.md">远见快评：重推样板戏 习近平唱红有何意图？</a></li>
 <li><a href="/cnnews/20210328/1514102.md">江泽民与李先念及其二奶之秘闻</a></li>
 <li><a href="/cbnews/20210328/1514245.md">上周末，我卧底了一场“海归硕博相亲局”</a></li>
@@ -23,10 +22,11 @@
 <li><a href="/cbnews/20210327/1514045.md">中共强制民众打疫苗 内部文件曝光</a></li>
 <li><a href="/cbnews/20210327/1514076.md">中将为钱部队门向北开 军人叹：仗没打就败北</a></li>
 <li><a href="/cbnews/20210328/1514301.md">一个新疆汉族人的告白：那是我永远回不去的故乡</a></li>
+<li><a href="/comments/20210328/1514370.md">【微博精粹】华大姨妈嘴上反美 全身反华装备 就是个戏精</a></li>
 <li><a href="/topimagenews/20210328/1514229.md">腐败体制内互相揭批举报 原中共官员弃共投美</a></li>
 <li><a href="/topimagenews/20210328/1514126.md">Nike赞助半壁江山 中国体坛抵制好难</a></li>
 <li><a href="/cnnews/20210328/1514309.md">苏伊士运河堵了4天，哪些物价要涨？</a></li>
-<li><a href="/comments/20210328/1514370.md">【微博精粹】华大姨妈嘴上反美 全身反华装备 就是个戏精</a></li>
+<li><a href="/worldnews/20210328/1514139.md">被新疆“再教育营”惹毛 哈萨克全国各地爆发反中共示威</a></li>
 <li><a href="/bannedvideo/20210328/1514184.md">【编译】美研究：口罩有致男生殖器萎缩物质，或导致人类生存危机；习近平走上薄熙来老路；中共高层面对困局很无奈？ “接种疫苗半年内不能怀孕”；中共强制打疫苗内部文件曝光 JY</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210328/1514496.md" target="_blank">因建类工会组织被抓 外卖骑士盟主终得见律师</a></li>
 <li><a href="/comments/20210328/1514397.md" target="_blank">收回总统大权 美众院迈出第一步；纽约州推出“健康码”民众参加活动前扫码入场；研究证实：境外势力干扰2020台湾总统大选；中共打击国际品牌 打工人变成牺牲品【希望之声TV】</a></li>
 <li><a href="/cbnews/20210328/1514388.md" target="_blank">抵制耐克？中国体坛明星们保持沉默</a></li>
 <li><a href="/comments/20210328/1514332.md" target="_blank">中共专家雷人感言 一语道破 不服不行：只有中共了解中共！【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210327/1514015.md" target="_blank">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！| 大纪元</a></li>
 <li><a href="/comments/20210327/1513998.md" target="_blank">中共抵制声中 耐克鞋被秒抢 H&#038;M店内排队；中共多家官媒曾曝光新疆采棉花黑历史；川普回来了 或很快访问美墨边境；共和党参议员考察南部边境 遭遇人贩子和毒贩；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210327/1513927.md" target="_blank">江西新增本土病例 官方模糊疫情信息引众怒</a></li>
-<li><a href="/comments/20210327/1513913.md" target="_blank">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210328/1514478.md" target="_blank">赵家贤 — 挡在港人之前</a></li>
 <li><a href="/comments/20210328/1514445.md" target="_blank">自由与流亡 — 萨尔德论《关于流亡的思考》</a></li>
 <li><a href="/comments/20210328/1514438.md" target="_blank">安倍晋三：日本已经成为美中对抗最前线</a></li>
 <li><a href="/comments/20210328/1514437.md" target="_blank">病毒学专家：接种疫苗前要先了解其副作用</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210328/1514283.md" target="_blank">抵制洋货？中国抢光新鞋款 Nike股价大涨 中概股反遭屠杀</a></li>
 <li><a href="/comments/20210328/1514282.md" target="_blank">伊朗与中国签25年合作协议民间不领情</a></li>
 <li><a href="/comments/20210328/1514260.md" target="_blank">陈奎德：扔下白手套 四面楚歌起</a></li>
-<li><a href="/comments/20210328/1514259.md" target="_blank">为什么说“人算不如天算”？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
