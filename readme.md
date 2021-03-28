@@ -5,15 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210327/1513772.md">中国房地产如果倒 中国共产党就难保</a></li>
 <li><a href="/cbnews/20210327/1513890.md">首曝：官媒吹捧 习近平当过六年大学校长</a></li>
 <li><a href="/cbnews/20210327/1514017.md">禁用新疆棉谁更惨 一篇热文分析的透彻</a></li>
 <li><a href="/cnnews/20210327/1513905.md">“长荣货柜又堵住了”！卡在南京高速公路双向全塞</a></li>
 <li><a href="/cbnews/20210327/1513798.md">中共驻法大使拒绝道歉 法国这次不依不饶</a></li>
 <li><a href="/cnnews/20210327/1513924.md">冷清的“巧克力城”：非洲淘金者渐离广州</a></li>
 <li><a href="/cnnews/20210328/1514164.md">传坦克因车祸底朝天翻倒在路上 网友：不好办了</a></li>
-<li><a href="/comments/20210327/1513897.md">27岁女子发帖涉董存瑞遭刑拘 言论曝光</a></li>
 <li><a href="/cbnews/20210328/1514174.md">仅“LV”躲过新疆棉风暴！陆网护航原因曝 网叹：民族性</a></li>
+<li><a href="/comments/20210327/1513897.md">27岁女子发帖涉董存瑞遭刑拘 言论曝光</a></li>
 <li><a href="/cbnews/20210327/1514039.md">远见快评：重推样板戏 习近平唱红有何意图？</a></li>
 <li><a href="/headline/20210327/1513889.md">习近平自曝当官史 被封杀视频海外流传</a></li>
 <li><a href="/comments/20210327/1513913.md">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
@@ -21,6 +20,7 @@
 <li><a href="/cbnews/20210327/1514015.md">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！| 大纪元</a></li>
 <li><a href="/comments/20210327/1513931.md">中共重复晚清外交覆辙：惹祸、打架和装孙子</a></li>
 <li><a href="/cnnews/20210328/1514087.md">习主席唱红重推样板戏 彭丽媛要变江青？</a></li>
+<li><a href="/comments/20210328/1514228.md">李燕铭：江泽民曾庆红勾结美国深层政府选定李克强取代习近平？习近平与李克强将两败俱伤？李克强敏感时刻访江泽民老家 罕见动作与习近平分庭抗礼争夺民心 遭王沪宁封杀 内幕揭秘</a></li>
 <li><a href="/lifebaike/20210327/1513951.md">注意：发现车门把手上有这种标记 千万小心</a></li>
 <li><a href="/cnnews/20210327/1513892.md">意外拍到普京“落马” 摄影师惊恐：我会立刻删除影片</a></li>
 <li><a href="/headline/20210327/1514020.md">习近平核心下 李克强为什么还与习不同调？</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210328/1514397.md" target="_blank">收回总统大权 美众院迈出第一步；纽约州推出“健康码”民众参加活动前扫码入场；研究证实：境外势力干扰2020台湾总统大选；中共打击国际品牌 打工人变成牺牲品【希望之声TV】</a></li>
 <li><a href="/cbnews/20210328/1514388.md" target="_blank">抵制耐克？中国体坛明星们保持沉默</a></li>
 <li><a href="/comments/20210328/1514332.md" target="_blank">中共专家雷人感言 一语道破 不服不行：只有中共了解中共！【希望之声TV】</a></li>
 <li><a href="/cbnews/20210328/1514326.md" target="_blank">反歧视华裔 加反对党领袖：中共不代表中国</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210327/1513998.md" target="_blank">中共抵制声中 耐克鞋被秒抢 H&#038;M店内排队；中共多家官媒曾曝光新疆采棉花黑历史；川普回来了 或很快访问美墨边境；共和党参议员考察南部边境 遭遇人贩子和毒贩；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210327/1513927.md" target="_blank">江西新增本土病例 官方模糊疫情信息引众怒</a></li>
 <li><a href="/comments/20210327/1513913.md" target="_blank">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
-<li><a href="/cbnews/20210327/1513908.md" target="_blank">中共制裁多名议员和实体 英国政府反击</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210328/1514397.md" target="_blank">收回总统大权 美众院迈出第一步；纽约州推出“健康码”民众参加活动前扫码入场；研究证实：境外势力干扰2020台湾总统大选；中共打击国际品牌 打工人变成牺牲品【希望之声TV】</a></li>
+<li><a href="/comments/20210328/1514396.md" target="_blank">倒卖免费食物的亚裔老太被袭 反对种族歧视也别把不耻当英雄</a></li>
+<li><a href="/comments/20210328/1514392.md" target="_blank">【带着黄蓝去英国・3】流亡者的伦敦生活：纵使困难，揾工买嘢仍坚持黄蓝</a></li>
+<li><a href="/comments/20210328/1514391.md" target="_blank">美国人警觉了！拜登原是中共的人？ 竟跟着学习社会主义</a></li>
 <li><a href="/comments/20210328/1514387.md" target="_blank">中国流亡女商人向美政府作证的那一刻</a></li>
 <li><a href="/comments/20210328/1514381.md" target="_blank">要特别提防这类大知识分子 他们不只是色狼人渣</a></li>
 <li><a href="/comments/20210328/1514370.md" target="_blank">【微博精粹】华大姨妈嘴上反美 全身反华装备 就是个戏精</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210328/1514228.md" target="_blank">李燕铭：江泽民曾庆红勾结美国深层政府选定李克强取代习近平？习近平与李克强将两败俱伤？李克强敏感时刻访江泽民老家 罕见动作与习近平分庭抗礼争夺民心 遭王沪宁封杀 内幕揭秘</a></li>
 <li><a href="/comments/20210328/1514221.md" target="_blank">被中共制裁加议员：为遭噤声人发声是自由社会的责任</a></li>
 <li><a href="/comments/20210328/1514219.md" target="_blank">曈小曈：千呼万唤始出来 拜登记者会首秀有​​门道</a></li>
-<li><a href="/comments/20210328/1514218.md" target="_blank">那个被“爱国”同胞砸穿脑袋的中国人</a></li>
-<li><a href="/comments/20210328/1514217.md" target="_blank">华仔: 拜登原来是中共国的间谍？</a></li>
-<li><a href="/comments/20210328/1514216.md" target="_blank">格林希尔 从70亿美元到一文不值</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 
 </ul>
 </div>
