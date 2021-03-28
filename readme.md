@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/lifebaike/20210327/1513749.md">河南一公安局长长期霸占漂亮女警察掏手枪要枪毙其老公，太嚣张</a></li>
 <li><a href="/cbnews/20210327/1513755.md">强制民众打疫苗 中共内部文件曝光</a></li>
 <li><a href="/topimagenews/20210327/1513772.md">中国房地产如果倒 中国共产党就难保</a></li>
 <li><a href="/cbnews/20210327/1513890.md">首曝：官媒吹捧 习近平当过六年大学校长</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cbnews/20210327/1514017.md">禁用新疆棉谁更惨 一篇热文分析的透彻</a></li>
 <li><a href="/cbnews/20210327/1513798.md">中共驻法大使拒绝道歉 法国这次不依不饶</a></li>
 <li><a href="/cnnews/20210327/1513924.md">冷清的“巧克力城”：非洲淘金者渐离广州</a></li>
+<li><a href="/cnnews/20210328/1514164.md">传坦克因车祸底朝天翻倒在路上 网友：不好办了</a></li>
 <li><a href="/cbnews/20210327/1513763.md">外国记者追问 华春莹：改天我请你喝茶 网友调侃</a></li>
 <li><a href="/comments/20210327/1513897.md">27岁女子发帖涉董存瑞遭刑拘 言论曝光</a></li>
-<li><a href="/cnnews/20210328/1514164.md">传坦克因车祸底朝天翻倒在路上 网友：不好办了</a></li>
 <li><a href="/cbnews/20210327/1514039.md">远见快评：重推样板戏 习近平唱红有何意图？</a></li>
 <li><a href="/headline/20210327/1513889.md">习近平自曝当官史 被封杀视频海外流传</a></li>
 <li><a href="/comments/20210327/1513913.md">拜登记者会上说了一句话，让川普大为恼火。川普接受福克斯专访，详细披露自己的近况。川普突然寻找特别检察官达勒姆，他还活着吗？真相工程执行长，海湖庄园拜访川普。</a></li>
 <li><a href="/cnnews/20210328/1514102.md">江泽民与李先念及其二奶之秘闻</a></li>
-<li><a href="/comments/20210327/1513931.md">中共重复晚清外交覆辙：惹祸、打架和装孙子</a></li>
-<li><a href="/cnnews/20210328/1514087.md">习主席唱红重推样板戏 彭丽媛要变江青？</a></li>
-<li><a href="/cbnews/20210327/1514015.md">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！| 大纪元</a></li>
 <li><a href="/cbnews/20210328/1514174.md">仅“LV”躲过新疆棉风暴！陆网护航原因曝 网叹：民族性</a></li>
+<li><a href="/comments/20210327/1513931.md">中共重复晚清外交覆辙：惹祸、打架和装孙子</a></li>
+<li><a href="/cbnews/20210327/1514015.md">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！| 大纪元</a></li>
+<li><a href="/cnnews/20210328/1514087.md">习主席唱红重推样板戏 彭丽媛要变江青？</a></li>
 <li><a href="/cnnews/20210327/1513892.md">意外拍到普京“落马” 摄影师惊恐：我会立刻删除影片</a></li>
 <li><a href="/lifebaike/20210327/1513951.md">注意：发现车门把手上有这种标记 千万小心</a></li>
 <li><a href="/headline/20210327/1514020.md">习近平核心下 李克强为什么还与习不同调？</a></li>
 <li><a href="/cbnews/20210327/1513908.md">中共制裁多名议员和实体 英国政府反击</a></li>
+<li><a href="/cbnews/20210327/1514076.md">中将为钱部队门向北开 军人叹：仗没打就败北</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210328/1514338.md" target="_blank">缅甸屠杀最血腥一日 114死 国际连声谴责</a></li>
 <li><a href="/comments/20210328/1514332.md" target="_blank">中共专家雷人感言 一语道破 不服不行：只有中共了解中共！【希望之声TV】</a></li>
 <li><a href="/comments/20210328/1514331.md" target="_blank">美台签署军事合作条约 中共装聋作哑了</a></li>
 <li><a href="/comments/20210328/1514330.md" target="_blank">陶杰：中共没抢走你拜登们的午餐</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210328/1514188.md" target="_blank">老鱼吹牛皮:“环球时报” 又欺负我们不懂英文？</a></li>
 <li><a href="/comments/20210328/1514187.md" target="_blank">秦晋：中共驻法大使辱骂法学者“小流氓” 还有更猛的</a></li>
 <li><a href="/comments/20210328/1514182.md" target="_blank">川普回归？频现身发声触及多方；美上空出现“流星雨” 疑是火箭碎片；川普政府《问责法案》通过 陆四大网络损失600亿；中共抵制潮 创台湾商机；泄露苏莱曼尼斩首机密 美专家或判无期【希望之声TV】</a></li>
-<li><a href="/comments/20210328/1514180.md" target="_blank">章家敦：中共正通过“黑命贵”等种族运动破坏美国</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙：中华文化密码与时空密码</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
