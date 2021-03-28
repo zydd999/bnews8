@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210327/1514017.md">禁用新疆棉谁更惨 一篇热文分析的透彻</a></li>
-<li><a href="/cnnews/20210327/1513905.md">“长荣货柜又堵住了”！卡在南京高速公路双向全塞</a></li>
 <li><a href="/cnnews/20210327/1513924.md">冷清的“巧克力城”：非洲淘金者渐离广州</a></li>
 <li><a href="/cnnews/20210328/1514164.md">传坦克因车祸底朝天翻倒在路上 网友：不好办了</a></li>
 <li><a href="/comments/20210328/1514228.md">李燕铭：江泽民曾庆红勾结美国深层政府选定李克强取代习近平？习近平与李克强将两败俱伤？李克强敏感时刻访江泽民老家 罕见动作与习近平分庭抗礼争夺民心 遭王沪宁封杀 内幕揭秘</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20210328/1514245.md">上周末，我卧底了一场“海归硕博相亲局”</a></li>
 <li><a href="/topimagenews/20210328/1514231.md">安倍晋三：日本已经是中美对立最前线</a></li>
 <li><a href="/cbnews/20210327/1514015.md">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！| 大纪元</a></li>
+<li><a href="/lifebaike/20210328/1514263.md">女人最渴望的东西，如果男人愿意给，女人对你死心塌地</a></li>
 <li><a href="/cnnews/20210328/1514087.md">习主席唱红重推样板戏 彭丽媛要变江青？</a></li>
 <li><a href="/comments/20210327/1513931.md">中共重复晚清外交覆辙：惹祸、打架和装孙子</a></li>
-<li><a href="/lifebaike/20210328/1514263.md">女人最渴望的东西，如果男人愿意给，女人对你死心塌地</a></li>
 <li><a href="/headline/20210327/1514020.md">习近平核心下 李克强为什么还与习不同调？</a></li>
 <li><a href="/lifebaike/20210327/1513951.md">注意：发现车门把手上有这种标记 千万小心</a></li>
-<li><a href="/cbnews/20210327/1514045.md">中共强制民众打疫苗 内部文件曝光</a></li>
 <li><a href="/cbnews/20210327/1514076.md">中将为钱部队门向北开 军人叹：仗没打就败北</a></li>
-<li><a href="/cbnews/20210327/1513908.md">中共制裁多名议员和实体 英国政府反击</a></li>
+<li><a href="/cbnews/20210327/1514045.md">中共强制民众打疫苗 内部文件曝光</a></li>
 <li><a href="/cbnews/20210328/1514301.md">一个新疆汉族人的告白：那是我永远回不去的故乡</a></li>
-<li><a href="/topimagenews/20210328/1514126.md">Nike赞助半壁江山 中国体坛抵制好难</a></li>
+<li><a href="/cbnews/20210327/1513908.md">中共制裁多名议员和实体 英国政府反击</a></li>
 <li><a href="/topimagenews/20210328/1514229.md">腐败体制内互相揭批举报 原中共官员弃共投美</a></li>
+<li><a href="/topimagenews/20210328/1514126.md">Nike赞助半壁江山 中国体坛抵制好难</a></li>
+<li><a href="/cnnews/20210328/1514309.md">苏伊士运河堵了4天，哪些物价要涨？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙：中华文化密码与时空密码</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 
 </ul>
 </div>
