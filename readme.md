@@ -23,11 +23,11 @@
 <li><a href="/comments/20210328/1514370.md">【微博精粹】华大姨妈嘴上反美 全身反华装备 就是个戏精</a></li>
 <li><a href="/topimagenews/20210328/1514229.md">腐败体制内互相揭批举报 原中共官员弃共投美</a></li>
 <li><a href="/yule/20210328/1514382.md">名副其实的“中国第一美女”，拒绝豪门嫁给爱情，如今怎么样了</a></li>
-<li><a href="/cnnews/20210328/1514309.md">苏伊士运河堵了4天，哪些物价要涨？</a></li>
 <li><a href="/topimagenews/20210328/1514126.md">Nike赞助半壁江山 中国体坛抵制好难</a></li>
+<li><a href="/cnnews/20210328/1514309.md">苏伊士运河堵了4天，哪些物价要涨？</a></li>
+<li><a href="/topimagenews/20210328/1514412.md">美海军陆战队有了新目标：击沉中国舰艇【阿波罗网编译】</a></li>
 <li><a href="/worldnews/20210328/1514139.md">被新疆“再教育营”惹毛 哈萨克全国各地爆发反中共示威</a></li>
 <li><a href="/bannedvideo/20210328/1514184.md">【编译】美研究：口罩有致男生殖器萎缩物质，或导致人类生存危机；习近平走上薄熙来老路；中共高层面对困局很无奈？ “接种疫苗半年内不能怀孕”；中共强制打疫苗内部文件曝光 JY</a></li>
-<li><a href="/cbnews/20210327/1514071.md">汪洋赵克志急赴新疆 分析：防内患</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210328/1514555.md" target="_blank">专家警告：中共每天都在与西方打政治战争</a></li>
+<li><a href="/comments/20210328/1514553.md" target="_blank">维权律师卢廷阁欲到郑州代理强拆案遭传唤</a></li>
+<li><a href="/comments/20210328/1514552.md" target="_blank">帛琉总统抵台︰两国基于互信促成访问</a></li>
+<li><a href="/comments/20210328/1514551.md" target="_blank">【新疆棉风暴】建制团体赴尖沙嘴 H&#038;M 抗议 部分人穿 Adidas、Puma</a></li>
 <li><a href="/comments/20210328/1514524.md" target="_blank">关于睡觉的6个冷知识：（冷，但有用）</a></li>
 <li><a href="/comments/20210328/1514523.md" target="_blank">如何保持脑健康？</a></li>
 <li><a href="/comments/20210328/1514522.md" target="_blank">它是肝癌的“罪魁祸首”？这些日常注意事项一定要记住</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210328/1514387.md" target="_blank">中国流亡女商人向美政府作证的那一刻</a></li>
 <li><a href="/comments/20210328/1514381.md" target="_blank">要特别提防这类大知识分子 他们不只是色狼人渣</a></li>
 <li><a href="/comments/20210328/1514370.md" target="_blank">【微博精粹】华大姨妈嘴上反美 全身反华装备 就是个戏精</a></li>
-<li><a href="/comments/20210328/1514369.md" target="_blank">现在各种抵制的速度是不是过快 嗷的一抽风上套了</a></li>
-<li><a href="/comments/20210328/1514366.md" target="_blank">习近平福建视察武警部队 官方报道藏政治信号</a></li>
-<li><a href="/comments/20210328/1514338.md" target="_blank">缅甸屠杀最血腥一日 114死 国际连声谴责</a></li>
-<li><a href="/comments/20210328/1514332.md" target="_blank">中共专家雷人感言 一语道破 不服不行：只有中共了解中共！【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
 
 </ul>
 </div>
