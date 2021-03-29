@@ -16,18 +16,18 @@
 <li><a href="/comments/20210329/1514938.md">李燕铭：又一名中办主任落马！令计划案另类版本 习近平拿下上海帮副国级高官大管家 为撤换国务院副总理铺路</a></li>
 <li><a href="/topimagenews/20210329/1515118.md">超美大梦一场？看中共国各方面世界排第几！中共党史活字典曝江泽民家丑闻</a></li>
 <li><a href="/funmedia/20210329/1514778.md">女子被麻醉6小时，把身体完全交给路人摆布，只为证明人性残忍</a></li>
+<li><a href="/comments/20210329/1515127.md">克鲁兹手机拍摄视频流出，场面触目惊心。克鲁兹考察遭阻扰。克鲁兹揭盖：边境政策竟与HR1法案有关！拖延战术成风暴中心，民主党议员倒戈，拜登抛出胡萝卜。</a></li>
 <li><a href="/topimagenews/20210329/1514747.md">抵制好难，体育明星无人表态，中共体总沉默；曝球迷粉丝为何要撕碎李宁；雨果博斯惊人逆转</a></li>
 <li><a href="/cbnews/20210329/1514921.md">又一个翟东升！1分钟踢爆中共如何“杀”外企</a></li>
 <li><a href="/cnnews/hknews/20210329/1514779.md">台湾女主播怒斥胡锡进：先管好你的下半身</a></li>
 <li><a href="/ssgc/20210329/1514695.md">〖兲朝浮世绘〗愤怒的中国人用狂购耐克鞋来表达爱国热情</a></li>
-<li><a href="/comments/20210329/1515127.md">克鲁兹手机拍摄视频流出，场面触目惊心。克鲁兹考察遭阻扰。克鲁兹揭盖：边境政策竟与HR1法案有关！拖延战术成风暴中心，民主党议员倒戈，拜登抛出胡萝卜。</a></li>
 <li><a href="/funmedia/20210329/1514770.md">情侣住酒店，提前说好3不要，前台明白你是“内行人”</a></li>
 <li><a href="/baitai/20210329/1514787.md">中共统治下的中国现状</a></li>
 <li><a href="/funmedia/20210329/1514715.md">为何西藏湖里那么多鱼，却从没有人前去捕捞？当地人说出答案</a></li>
 <li><a href="/yule/20210329/1514735.md">陈奕迅为中共站台解约阿迪达斯，抑郁到车内场景实吓人 也被骂惨了</a></li>
-<li><a href="/yule/20210329/1514817.md">福原爱身陷不伦丑闻，不但工作没了，被挖更惨下场家务事内幕曝光</a></li>
+<li><a href="/cbnews/20210329/1515122.md">习近平出席中共“扫黑”表彰会 郭声琨大力拍马屁</a></li>
 <li><a href="/lifebaike/20210329/1514991.md">人有贵气的10个特征，看看你占几个？</a></li>
-<li><a href="/cnnews/hknews/20210329/1514879.md">断交后美大使首访台 美不再忌讳官方接触？</a></li>
+<li><a href="/yule/20210329/1514817.md">福原爱身陷不伦丑闻，不但工作没了，被挖更惨下场家务事内幕曝光</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210330/1515372.md" target="_blank">它竟是控醣帮手！营养师：还能降总胆固醇、保护心脏</a></li>
+<li><a href="/comments/20210330/1515371.md" target="_blank">【文韬政论】北京政府的种族灭绝政策惹来天怒人怨</a></li>
+<li><a href="/comments/20210330/1515362.md" target="_blank">先管好你的下半身！台湾女主持怒斥胡锡进</a></li>
+<li><a href="/comments/20210330/1515361.md" target="_blank">汉森教授：中共寻求全球霸权 美左派助纣为虐</a></li>
+<li><a href="/comments/20210330/1515359.md" target="_blank">中国抵制潮惊现大逆转！ 耐克促销遭疯抢 所有库存瞬间售罄</a></li>
 <li><a href="/comments/20210330/1515358.md" target="_blank">中共打压？澳洲有好牌；中共统战组织瞄准黑人团体；川普将访问边境 拜登害怕？哈里斯居无定处；66岁亚裔司机遇害 两少女被指控；“战狼”用Iphone   小粉红对IKEA不留活口？【希望之声TV】</a></li>
 <li><a href="/comments/20210330/1515346.md" target="_blank">令人惊叹的樱花盛景 2021日本各地樱花航拍</a></li>
 <li><a href="/comments/20210330/1515345.md" target="_blank">港台时事饮食节目《港食力》不拍第二季 主持黄大钧：不意外</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210329/1515258.md" target="_blank">【带着黄蓝去英国・4】“暖气军师”推英版“黄蓝地图”：保留香港民族身分认同</a></li>
 <li><a href="/comments/20210329/1515257.md" target="_blank">【武汉肺炎】维持限聚口罩令 陆续重开泳池泳滩 陈肇始：一定比例打疫苗可放宽防疫 无答指标</a></li>
 <li><a href="/comments/20210329/1515255.md" target="_blank">【图片+视频】远离癌症！营养师推荐：10种最佳防癌食物和最强抗癌蔬菜</a></li>
-<li><a href="/comments/20210329/1515231.md" target="_blank">中共搞“扫黑”表彰 习近平到场 郭声琨肉麻吹捧</a></li>
-<li><a href="/comments/20210329/1515226.md" target="_blank">九款2021最佳家庭用车，关注每位成员，值得推荐</a></li>
-<li><a href="/comments/20210329/1515223.md" target="_blank">新疆棉风暴持续延烧！抵制H&#038;M 放过LV 中国网友逻辑令人咋舌</a></li>
-<li><a href="/comments/20210329/1515222.md" target="_blank">美大使首访台 不再忌讳官方接触？拜登即将签署禁枪令了；亚马逊被员工集体诉讼；德州解封二周病例降低 经济复苏加速；五角大楼：苏伊士运河停航或影响军舰活动 8AM【希望之声TV】</a></li>
-<li><a href="/comments/20210329/1515207.md" target="_blank">时事大家谈：西方联手制裁，新疆问题成北京“软肋”？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
