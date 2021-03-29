@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210329/1514775.md">杨洁篪骂完美帝 顺道去耶鲁看女儿 妻女在美国资产被曝光</a></li>
 <li><a href="/cbnews/20210329/1514806.md">新疆棉风暴延烧 胡锡进急了连发文灭火 专家析玄机</a></li>
 <li><a href="/topimagenews/20210329/1514840.md">就听到法官席上一声大叫：“不要让他说了！带下去！”</a></li>
 <li><a href="/comments/20210329/1514873.md">李克强真敢不同调？习近平颁新规：党员首恶不与中央保持一致</a></li>
@@ -13,11 +12,9 @@
 <li><a href="/comments/20210329/1514938.md">李燕铭：又一名中办主任落马！令计划案另类版本 习近平拿下上海帮副国级高官大管家 为撤换国务院副总理铺路</a></li>
 <li><a href="/topimagenews/20210329/1515118.md">超美大梦一场？看中共国各方面世界排第几！中共党史活字典曝江泽民家丑闻</a></li>
 <li><a href="/comments/20210329/1515127.md">克鲁兹手机拍摄视频流出，场面触目惊心。克鲁兹考察遭阻扰。克鲁兹揭盖：边境政策竟与HR1法案有关！拖延战术成风暴中心，民主党议员倒戈，拜登抛出胡萝卜。</a></li>
-<li><a href="/funmedia/20210329/1514778.md">女子被麻醉6小时，把身体完全交给路人摆布，只为证明人性残忍</a></li>
 <li><a href="/cbnews/20210329/1514921.md">又一个翟东升！1分钟踢爆中共如何“杀”外企</a></li>
-<li><a href="/cnnews/hknews/20210329/1514779.md">台湾女主播怒斥胡锡进：先管好你的下半身</a></li>
-<li><a href="/cbnews/20210329/1515122.md">习近平出席中共“扫黑”表彰会 郭声琨大力拍马屁</a></li>
 <li><a href="/baitai/20210329/1514787.md">中共统治下的中国现状</a></li>
+<li><a href="/cbnews/20210329/1515122.md">习近平出席中共“扫黑”表彰会 郭声琨大力拍马屁</a></li>
 <li><a href="/lifebaike/20210329/1514991.md">人有贵气的10个特征，看看你占几个？</a></li>
 <li><a href="/cbnews/20210329/1515251.md">殡仪馆内准备遗体告别，接下来的一幕吓坏所有人</a></li>
 <li><a href="/yule/20210329/1514817.md">福原爱身陷不伦丑闻，不但工作没了，被挖更惨下场家务事内幕曝光</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/cnnews/20210329/1515086.md">华尔街上周突现罕见巨额交易 各方追查是谁</a></li>
 <li><a href="/cnnews/20210329/1514941.md">警车赌场“护院” 大连贪官被抄出2714栋房子 家族24人全涉案</a></li>
 <li><a href="/bannedvideo/20210329/1514916.md">胡锡进替党抓坏人；华春莹“卧底”身份泄露？李克强挺耐克？粉红替党冲锋陷阵，习总带他们进多深的坑？</a></li>
+<li><a href="/yule/20210329/1514876.md">不喜欢就是不喜欢 张曼玉：“片酬再高 我也不会和章子怡合作”</a></li>
+<li><a href="/bannedvideo/20210329/1514966.md">文睿：韩国人怒了，中共面临全球围殴，习近平深陷“千古一帝”梦幻中</a></li>
+<li><a href="/lifebaike/20210329/1514795.md">他只活了27岁，写下一首诗，短短4句，却火了千年</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210330/1515517.md" target="_blank">表最高的忠，跑最快的路</a></li>
+<li><a href="/comments/20210330/1515511.md" target="_blank">日本政界吁首相加入西方国家制裁中共侵犯人权行为</a></li>
+<li><a href="/comments/20210330/1515509.md" target="_blank">沙尘暴袭来北京再现蓝太阳！ 13省市同遭殃 2.4亿人受影响</a></li>
 <li><a href="/comments/20210330/1515508.md" target="_blank">短信;苏伊士运河“长赐号”顺利恢覆行驶 ;捷克首富坠机死 曾跟叶简明密切往来;名主持:奥巴马在幕后操控拜登 ;林伍德竞选南卡罗来纳州共和党领袖;因非法冻结边境墙资金 拜登遭调查【希望之声TV】</a></li>
 <li><a href="/comments/20210330/1515507.md" target="_blank">美国低头了？  嘉宾：林晓旭 博士    主持：高洁【希望之声TV】(2021/03/29)</a></li>
 <li><a href="/comments/20210330/1515491.md" target="_blank">【管他冬夏与春秋】余杰 — 作为抵抗时间的思想家</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210330/1515395.md" target="_blank">【狱中书简】有灯，就有人</a></li>
 <li><a href="/comments/20210330/1515394.md" target="_blank">埃及总统宣布危机解除 长赐轮船身转正80% 苏伊士运河通航还需三天半</a></li>
 <li><a href="/comments/20210330/1515393.md" target="_blank">惊！香港打国产疫苗又一人亡 累计共12人丧生</a></li>
-<li><a href="/comments/20210330/1515375.md" target="_blank">美媒：中共统战组织瞄准美国黑人团体</a></li>
-<li><a href="/comments/20210330/1515374.md" target="_blank">清明祭祖气喘易发作！ 4招防护不可少</a></li>
-<li><a href="/comments/20210330/1515373.md" target="_blank">气泡水对人有好处还是坏处？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
 <li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
 
 </ul>
 </div>
