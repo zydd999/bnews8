@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/health/20210328/1514428.md">科学家终于公布咖啡与癌症的关系，后悔没早点知道</a></li>
 <li><a href="/comments/20210328/1514517.md">信息量巨大！美国前CDC主任惊世断言，新冠病毒是从武汉P4病毒研究所“逃逸”的。更可怕的病毒变异已出现，预言告诉你，如何在2021年可能的大灾难中自救。</a></li>
 <li><a href="/cnnews/20210328/1514590.md">习近平福建视察武警部队 官方报道泄实情</a></li>
 <li><a href="/bannedvideo/20210328/1514550.md">3月27日，上海南汇体育中心排队打疫苗。网友：“我服了，上海要求每人打疫苗，不打15天一次核酸，那人家不打，非得强制给这些人当小白鼠了。 ”“当完韭菜还不够，还要给你们当小白鼠 ”​</a></li>
 <li><a href="/topimagenews/20210329/1514764.md">出大事！中共为何装聋作哑？伊朗人还激烈反共 针对中共!美建造海狼级核潜艇</a></li>
 <li><a href="/comments/20210329/1514775.md">杨洁篪骂完美帝 顺道去耶鲁看女儿 妻女在美国资产被曝光</a></li>
-<li><a href="/lifebaike/20210328/1514434.md">越来越多人卧室不买床了，今后都流行这样设计，真的太聪明了</a></li>
 <li><a href="/baitai/20210329/1514662.md">杨洁篪消费习近平  怼美国中共后悔了</a></li>
-<li><a href="/cnnews/20210328/1514436.md">著名红顶商人三次申请退党</a></li>
 <li><a href="/comments/20210328/1514568.md">抵制耐克难？中国体坛集体沉默；中共官媒吹捧习近平曾任六年大学校长；中共制裁加拿大议员 特鲁多：不可接受；光天化日下 纽约法拉盛华商珠宝店被一非裔破窗抢劫！8am【希望之声TV】【希望之声TV】</a></li>
 <li><a href="/comments/20210329/1514741.md">习近平授意杨洁篪“撒泼”？余茂春透露内幕</a></li>
-<li><a href="/bannedvideo/20210328/1514547.md">陈破空：李克强突然出场，力挺洋货！舆论大哗：他俩谁爱国。习近平拉武警防变</a></li>
 <li><a href="/cbnews/20210329/1514806.md">新疆棉风暴延烧 胡锡进急了连发文灭火 专家析玄机</a></li>
+<li><a href="/bannedvideo/20210328/1514547.md">陈破空：李克强突然出场，力挺洋货！舆论大哗：他俩谁爱国。习近平拉武警防变</a></li>
 <li><a href="/ssgc/20210328/1514574.md">钱拿在手上就是贬值，太焦虑了</a></li>
 <li><a href="/headline/20210329/1514763.md">一片抵制声中考察NIKE 李克强企图分裂党中央？</a></li>
 <li><a href="/topimagenews/20210329/1514747.md">抵制好难，体育明星无人表态，中共体总沉默；曝球迷粉丝为何要撕碎李宁；雨果博斯惊人逆转</a></li>
 <li><a href="/topimagenews/20210328/1514651.md">变穷七大招中共都学会 中共软了！采购澳州小麦数量暴增 房地产如倒 中共难保</a></li>
 <li><a href="/health/20210328/1514442.md">肾不好写在脸上，出现4个迹象，需好好养肾，3件事不能再做了</a></li>
-<li><a href="/cnnews/20210328/1514557.md">变得可真快：哈里斯副总统周三还是管美国边境的  周五她就……【阿波罗网编译】</a></li>
 <li><a href="/cnnews/hknews/20210329/1514779.md">台湾女主播怒斥胡锡进：先管好你的下半身</a></li>
+<li><a href="/cnnews/20210328/1514557.md">变得可真快：哈里斯副总统周三还是管美国边境的  周五她就……【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20210329/1514778.md">女子被麻醉6小时，把身体完全交给路人摆布，只为证明人性残忍</a></li>
+<li><a href="/topimagenews/20210329/1514840.md">就听到法官席上一声大叫：“不要让他说了！带下去！”</a></li>
 <li><a href="/yule/20210329/1514735.md">陈奕迅为中共站台解约阿迪达斯，抑郁到车内场景实吓人 也被骂惨了</a></li>
 <li><a href="/funmedia/20210329/1514715.md">为何西藏湖里那么多鱼，却从没有人前去捕捞？当地人说出答案</a></li>
+<li><a href="/baitai/20210328/1514541.md">辽宁正厅级干部徐长元竟是“黑老大”，全家敛财上百亿</a></li>
+<li><a href="/ssgc/20210329/1514695.md">〖兲朝浮世绘〗愤怒的中国人用狂购耐克鞋来表达爱国热情</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210329/1514954.md" target="_blank">大连金州中共官员全家巨贪 2700套房产</a></li>
 <li><a href="/cbnews/20210329/1514922.md" target="_blank">中共恐惧？大陆22部门联合打击民间组织</a></li>
 <li><a href="/cbnews/20210329/1514921.md" target="_blank">又一个翟东升！1分钟踢爆中共如何“杀”外企</a></li>
 <li><a href="/comments/20210329/1514898.md" target="_blank">拜登将发展“疫苗护照”；朝鲜：拜登如再有“不加思索言论”恐面临“不好事情”；基辛格：美中两国需达成谅解；新疆棉风暴延烧 胡锡进急了；台湾女主播怒斥胡锡进【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210328/1514239.md" target="_blank">人类的精神本质和物质形式（东方哲人解析当代人类困惑  第九讲）【袁红冰杏坛】 03282021</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 <li><a href="/comments/20210328/1514182.md" target="_blank">川普回归？频现身发声触及多方；美上空出现“流星雨” 疑是火箭碎片；川普政府《问责法案》通过 陆四大网络损失600亿；中共抵制潮 创台湾商机；泄露苏莱曼尼斩首机密 美专家或判无期【希望之声TV】</a></li>
-<li><a href="/cbnews/20210328/1514174.md" target="_blank">仅“LV”躲过新疆棉风暴！陆网护航原因曝 网叹：民族性</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20191231/1250654.md" target="_blank">SS VPN &#8211; 兼容Shadowsocks(SS、影梭)的免费VPN</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
 <li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
