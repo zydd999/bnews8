@@ -5,12 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210330/1515466.md">公安部要出大事？赵克志带头作检查</a></li>
 <li><a href="/topimagenews/20210330/1515618.md">中共重要掮客捷克首富坠机 习近平下狠手公安部出大事？重大抉择让他保命报国</a></li>
-<li><a href="/comments/20210330/1515467.md">中共副省级淫官被立案审查 曝有“乱伦性癖好” 染指亲侄女</a></li>
 <li><a href="/topimagenews/20210330/1515943.md">出大事！中国要年少千万劳动力；李克强比习近平厉害太多；中国众多名牌曝丑</a></li>
 <li><a href="/topimagenews/20210330/1515617.md">包钢职工跳入钢水中自杀 场面令人痛心</a></li>
-<li><a href="/finance/20210330/1515475.md">传某老板被抓 淘宝拼多多纷纷下架海外版游戏</a></li>
 <li><a href="/comments/20210330/1515712.md">不寻常！江泽民心腹梁光烈忽现身 习近平有麻烦？</a></li>
 <li><a href="/cnnews/20210330/1515709.md">包钢集团职工跳进高炉钢水自杀 原因曝光</a></li>
 <li><a href="/cnnews/20210330/1515631.md">大陆疫苗接种 “看这架势，就知道工作开展得不是很顺利”</a></li>
@@ -26,8 +23,11 @@
 <li><a href="/cbnews/20210330/1515578.md">中共战狼再发飙 公开辱骂加拿大总理</a></li>
 <li><a href="/cnnews/20210330/1515866.md">川普发出新声明：福西博士和伯克斯医生是"实锤的骗子"【阿波罗网编译】</a></li>
 <li><a href="/comments/20210330/1515916.md">福奇暗中资助武汉P4实验室，被叫停过程曝光。福奇和伯克斯，在左媒诬陷川普，被揭发两人是骗子。川普闯入新人婚礼，新娘推视频分享惊喜！川普网站公布，想45就联系他！</a></li>
-<li><a href="/cbnews/20210330/1515473.md">华裔毒王如何毒害全世界？</a></li>
 <li><a href="/comments/20210330/1515962.md">老二老三都撤了，支付宝还能挺多久？</a></li>
+<li><a href="/comments/20210330/1515693.md">疫情恶化？美CDC主任：末日即将来临</a></li>
+<li><a href="/comments/20210330/1515854.md">习近平的扩张意志和当代人类末日劫难（中共命运的轨迹和人类前途  第二讲）【袁红冰纵论天下】 03302021</a></li>
+<li><a href="/cbnews/20210330/1515732.md">江峰：抵制新疆棉 李克强为什么坐不住了？官媒迅速降温的内幕竟然是爱国愤青给“敌人”递刀</a></li>
+<li><a href="/comments/20210331/1516102.md">华春莹是西方的卧底？ 旧照被翻出傻眼了 女儿还在美国读书</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210331/1516248.md" target="_blank">川普卸任前的另一政策，拜登还要继续</a></li>
+<li><a href="/cbnews/20210331/1516247.md" target="_blank">一场运河之乱 让世界看见美中“新冷战”剧码</a></li>
 <li><a href="/cbnews/20210331/1516225.md" target="_blank">“逼人上绝路” 中共频扣高龄老人养老金</a></li>
 <li><a href="/cbnews/20210331/1516211.md" target="_blank">世卫中共合著病毒源头报告 美专家质疑 政要谴责</a></li>
 <li><a href="/cbnews/20210331/1516210.md" target="_blank">大骂吴京不用华为 一众小粉红被揭也用iPhone</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210330/1515804.md" target="_blank">世卫与中共联合疫情溯源报告 美议员质疑</a></li>
 <li><a href="/cbnews/20210330/1515803.md" target="_blank">一个孩子谈什么是爱国 铿锵话语令成年人汗颜</a></li>
 <li><a href="/cbnews/20210330/1515742.md" target="_blank">中共官员颠倒黑白 警告H&#038;M等品牌别玩政治</a></li>
-<li><a href="/cbnews/20210330/1515732.md" target="_blank">江峰：抵制新疆棉 李克强为什么坐不住了？官媒迅速降温的内幕竟然是爱国愤青给“敌人”递刀</a></li>
-<li><a href="/comments/20210330/1515698.md" target="_blank">川普被爆料！八月将回归？加国总理被骂是美国“走狗”！中共外交官推特当霸王！佩洛西逼拜登放弃疫苗知识产权！便宜谁了？台美要复交？美大使首访台 中共气炸-12AM【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210331/1516242.md" target="_blank">中共修改香港选制 英外相：再次违反《联合声明》</a></li>
+<li><a href="/comments/20210331/1516241.md" target="_blank">冷月：自由颂</a></li>
+<li><a href="/comments/20210331/1516240.md" target="_blank">曾节明：为什么会有种族歧视？华人在美国如何减少被歧视？</a></li>
+<li><a href="/comments/20210331/1516239.md" target="_blank">汉心：专制现代化的困境</a></li>
 <li><a href="/comments/20210331/1516206.md" target="_blank">新疆棉遭拒威胁中国纺织业 中国或增加棉花进口</a></li>
 <li><a href="/comments/20210331/1516186.md" target="_blank">中共延迟退休计划令工薪阶层压力大增</a></li>
 <li><a href="/comments/20210331/1516181.md" target="_blank">中国大陆电商急下架海外游戏 传某大老板被抓 大陆知名议政论坛“猫眼看人”遭关闭 “猫眼看人”敏感帖文揭中共不敢告人的秘密 暗示中共已走向穷途末路即将解体 中南海谣言预言_450</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210330/1516096.md" target="_blank">佛州州长反对疫苗护照 誓言采取行动抵制</a></li>
 <li><a href="/comments/20210330/1516095.md" target="_blank">第九位女性揭露库默性骚扰 有照片</a></li>
 <li><a href="/comments/20210330/1516094.md" target="_blank">在野党联合明年大选 瑞典或出现政治新格局</a></li>
-<li><a href="/comments/20210330/1516064.md" target="_blank">核弹密码？美战略司令部神秘推文 10个英文字母+3符号</a></li>
-<li><a href="/comments/20210330/1516063.md" target="_blank">比2016年多出1倍！中国官方认了红火蚁扩散至12省</a></li>
-<li><a href="/comments/20210330/1516062.md" target="_blank">杜特蒂对女佣伸咸猪手 网友痛批太恶心</a></li>
-<li><a href="/comments/20210330/1516041.md" target="_blank">美众议员：拜登移民政策令墨西哥人贩子获利</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
 <li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 
 </ul>
 </div>
