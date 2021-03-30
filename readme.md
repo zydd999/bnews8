@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210330/1515466.md">公安部要出大事？赵克志带头作检查</a></li>
 <li><a href="/topimagenews/20210330/1515618.md">中共重要掮客捷克首富坠机 习近平下狠手公安部出大事？重大抉择让他保命报国</a></li>
-<li><a href="/cbnews/20210329/1515251.md">殡仪馆内准备遗体告别，接下来的一幕吓坏所有人</a></li>
 <li><a href="/bannedvideo/20210330/1515456.md">专家连曝病毒猛料，武毒所员工亲属暴亡；布林肯暗示不追责，拜登软肋在哪里？世卫调查报告出台，中共反咬美国</a></li>
 <li><a href="/comments/20210330/1515467.md">中共副省级淫官被立案审查 曝有“乱伦性癖好” 染指亲侄女</a></li>
 <li><a href="/topimagenews/20210330/1515617.md">包钢职工跳入钢水中自杀 场面令人痛心</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/comments/20210330/1515712.md">不寻常！江泽民心腹梁光烈忽现身 习近平有麻烦？</a></li>
 <li><a href="/comments/20210330/1515418.md">金融时报：习近平准备冒更大风险攻台</a></li>
 <li><a href="/finance/20210330/1515475.md">传某老板被抓 淘宝拼多多纷纷下架海外版游戏</a></li>
-<li><a href="/cnnews/20210330/1515631.md">大陆疫苗接种 “看这架势，就知道工作开展得不是很顺利”</a></li>
 <li><a href="/cnnews/20210329/1515279.md">陕西前纪委书记自杀未遂 病房中宣布被查</a></li>
-<li><a href="/cbnews/20210329/1515253.md">大陆母亲4个月花掉91万余元，家人惊呆了</a></li>
+<li><a href="/cnnews/20210330/1515631.md">大陆疫苗接种 “看这架势，就知道工作开展得不是很顺利”</a></li>
 <li><a href="/topimagenews/20210330/1515759.md">美军威慑中共大动作！所有前沿潜艇同时进行一大行动【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210330/1515350.md">“土皇帝”黄鸿发30年狂敛20个亿死刑 109把保护伞背后撑腰</a></li>
-<li><a href="/cnnews/20210330/1515423.md">中国人真的要吃草了？李克强：嚼得草根 做得大事</a></li>
 <li><a href="/cnnews/20210329/1515301.md">突发！美国拟放弃新冠疫苗知识产权，这国最受益</a></li>
 <li><a href="/cbnews/20210330/1515534.md">文昭：一个失算中美脱钩加速，一步脱到鸦片战争前！电商平台变加速师</a></li>
-<li><a href="/cbnews/20210330/1515578.md">中共战狼再发飙 公开辱骂加拿大总理</a></li>
-<li><a href="/comments/20210330/1515559.md">习近平犯台 有福建造反的顾忌</a></li>
+<li><a href="/cnnews/20210330/1515423.md">中国人真的要吃草了？李克强：嚼得草根 做得大事</a></li>
 <li><a href="/funmedia/20210330/1515552.md">不管夫妻还是情人，越爱做这3个“动作”越容易出轨</a></li>
+<li><a href="/comments/20210330/1515559.md">习近平犯台 有福建造反的顾忌</a></li>
+<li><a href="/cbnews/20210330/1515578.md">中共战狼再发飙 公开辱骂加拿大总理</a></li>
 <li><a href="/cbnews/20210330/1515473.md">华裔毒王如何毒害全世界？</a></li>
+<li><a href="/cbnews/20210330/1515803.md">一个孩子谈什么是爱国 铿锵话语令成年人汗颜</a></li>
 <li><a href="/ssgc/20210330/1515458.md">〖兲朝浮世绘〗义和团喊打喊杀过头，李中堂赶紧灭火</a></li>
+<li><a href="/bannedvideo/20210330/1515486.md">42年来首次，美国踩了中共‘红线’，中共干瞪眼？！美台成立一个特别联合小组，遏制中共意图明显</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210330/1516011.md" target="_blank">历史上七起神秘失踪悬案 离奇消失的人群去哪了？</a></li>
+<li><a href="/comments/20210330/1516006.md" target="_blank">【林忌评论】由禁播奥斯卡到新冷战</a></li>
 <li><a href="/comments/20210330/1515979.md" target="_blank">美议员科顿：中共释放病毒肆虐全球 应为此买单</a></li>
 <li><a href="/comments/20210330/1515978.md" target="_blank">【独家】民间养生专家：补脑很重要！补脑很简单</a></li>
 <li><a href="/comments/20210330/1515976.md" target="_blank">《希望的声音2》影评：希望之声在何方？（含微电影：《希望的声音2》）</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210330/1515860.md" target="_blank">这是我们的一场修炼</a></li>
 <li><a href="/comments/20210330/1515857.md" target="_blank">没压力不一定好喔！ 研究：适度有助认知</a></li>
 <li><a href="/comments/20210330/1515856.md" target="_blank">十大爆肝行业医护排第二！医师推护肝4招保健康</a></li>
-<li><a href="/comments/20210330/1515855.md" target="_blank">清明祭祖 供品这样保存不会坏</a></li>
-<li><a href="/comments/20210330/1515854.md" target="_blank">习近平的扩张意志和当代人类末日劫难（中共命运的轨迹和人类前途  第二讲）【袁红冰纵论天下】 03302021</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
