@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210330/1515943.md">出大事！中国要年少千万劳动力；李克强比习近平厉害太多；中国众多名牌曝丑</a></li>
 <li><a href="/topimagenews/20210331/1516189.md">“战狼本人”露馅，中国网民崩溃 习近平遇到真正对手 捍卫亚裔示威惊现保卫中国标语</a></li>
 <li><a href="/comments/20210331/1516102.md">华春莹是西方的卧底？ 旧照被翻出傻眼了 女儿还在美国读书</a></li>
 <li><a href="/topimagenews/20210331/1516288.md">难了！习近平下次咋办？巴铁倒血霉，总理总统打中国疫苗后中招</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/finance/20210331/1516250.md">教科书般洗劫存款，新一轮财产安全隐患来了</a></li>
 <li><a href="/lifebaike/20210331/1516251.md">100年前的中国男子，居然帅到这程度…</a></li>
 <li><a href="/headline/20210331/1516286.md">世卫组织总干事谭德塞突变？</a></li>
-<li><a href="/cbnews/20210331/1516439.md">华春莹“身体很诚实” 打网球疑全套洋货</a></li>
 <li><a href="/cbnews/20210331/1516496.md">传王小洪副手将掌粤公安 现任厅长卷入涉习近平女儿案件</a></li>
+<li><a href="/cbnews/20210331/1516439.md">华春莹“身体很诚实” 打网球疑全套洋货</a></li>
 <li><a href="/ssgc/20210331/1516187.md">〖兲朝浮世绘〗首个公开以脏话辱骂外国首相的驻外大使 充分代表中共执政者的当前水平</a></li>
+<li><a href="/comments/20210331/1516495.md">孙小果被执行死刑前现场画面首次曝光：眼眶通红 两眼含泪！孙小果从死刑强奸犯变成夜店老总 惊动中南海 孙小果“死刑不死”一次又一次脱身法外 黑幕曝光 中南海不可告人的秘密_350</a></li>
 <li><a href="/bannedvideo/20210331/1516272.md">14国联合谴责世卫报告！谭德塞首次承认病毒可能从实验室泄漏，可能再回中国调查【#秦鹏观察 3/30】</a></li>
 <li><a href="/topimagenews/20210331/1516165.md">川普惊喜现身婚礼 吐槽完拜登施政后问：想我了吗？</a></li>
+<li><a href="/cbnews/20210331/1516489.md">谭德塞“甩锅”习近平？罕见披露世卫赴中国调查遇阻</a></li>
+<li><a href="/cbnews/20210331/1516575.md">中国疫情瞒不住了？党媒突释不寻常信号</a></li>
 <li><a href="/comments/20210330/1515963.md">战狼李洋大骂特鲁多后对网友发飙；中共大骂西方却意外暴露种族灭绝；停止仇恨亚裔活动背后是中共；又现假奶粉 幼童受害；第九人揭库莫性丑闻 有照片！川普第45任总统网站添互动；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210331/1516247.md">一场运河之乱 让世界看见美中“新冷战”剧码</a></li>
 <li><a href="/cnnews/20210331/1516232.md">科学家警告 2045年人类可能面临绝后</a></li>
-<li><a href="/cnnews/20210331/1516403.md">习近平故技重施？华春莹又泼脏水</a></li>
-<li><a href="/comments/20210331/1516495.md">孙小果被执行死刑前现场画面首次曝光：眼眶通红 两眼含泪！孙小果从死刑强奸犯变成夜店老总 惊动中南海 孙小果“死刑不死”一次又一次脱身法外 黑幕曝光 中南海不可告人的秘密_350</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210331/1516706.md" target="_blank">中共气短如美澳断供束手无策 中国民间舆论不双标炮轰足协点名外交部</a></li>
 <li><a href="/topimagenews/20210331/1516477.md" target="_blank">照片泄露台湾大秘密！悄悄给中共隐形战机设下陷阱【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210331/1516325.md" target="_blank">”反共是未来15年世界局势“ 中共胆敢宣战会如何？这个辛丑年，中共为何不敢提？</a></li>
 <li><a href="/topimagenews/20210331/1516288.md" target="_blank">难了！习近平下次咋办？巴铁倒血霉，总理总统打中国疫苗后中招</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210328/1514651.md" target="_blank">变穷七大招中共都学会 中共软了！采购澳州小麦数量暴增 房地产如倒 中共难保</a></li>
 <li><a href="/topimagenews/20210328/1514448.md" target="_blank">川普抨击福西是&#8221;自吹自擂&#8221;&#8221;媒体炒作&#8221;【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210328/1514412.md" target="_blank">美海军陆战队有了新目标：击沉中国舰艇【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210328/1514231.md" target="_blank">安倍晋三：日本已经是中美对立最前线</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
 <li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
