@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210330/1515943.md">出大事！中国要年少千万劳动力；李克强比习近平厉害太多；中国众多名牌曝丑</a></li>
-<li><a href="/cbnews/20210330/1515803.md">一个孩子谈什么是爱国 铿锵话语令成年人汗颜</a></li>
 <li><a href="/topimagenews/20210331/1516189.md">“战狼本人”露馅，中国网民崩溃 习近平遇到真正对手 捍卫亚裔示威惊现保卫中国标语</a></li>
 <li><a href="/comments/20210331/1516102.md">华春莹是西方的卧底？ 旧照被翻出傻眼了 女儿还在美国读书</a></li>
 <li><a href="/topimagenews/20210331/1516288.md">难了！习近平下次咋办？巴铁倒血霉，总理总统打中国疫苗后中招</a></li>
@@ -15,12 +14,12 @@
 <li><a href="/cbnews/20210330/1516085.md">美媒：习近平两事突破欧美底线 拉开中西对抗铁幕</a></li>
 <li><a href="/weiquan/20210330/1515965.md">陈秋实已经回到青岛父母家中</a></li>
 <li><a href="/topimagenews/20210331/1516325.md">”反共是未来15年世界局势“ 中共胆敢宣战会如何？这个辛丑年，中共为何不敢提？</a></li>
+<li><a href="/comments/20210331/1516380.md">司徒剑：谈谈美媒列出首份下届中共七常委名单</a></li>
 <li><a href="/comments/20210330/1515962.md">老二老三都撤了，支付宝还能挺多久？</a></li>
 <li><a href="/comments/20210330/1515916.md">福奇暗中资助武汉P4实验室，被叫停过程曝光。福奇和伯克斯，在左媒诬陷川普，被揭发两人是骗子。川普闯入新人婚礼，新娘推视频分享惊喜！川普网站公布，想45就联系他！</a></li>
-<li><a href="/comments/20210331/1516380.md">司徒剑：谈谈美媒列出首份下届中共七常委名单</a></li>
 <li><a href="/lifebaike/20210331/1516251.md">100年前的中国男子，居然帅到这程度…</a></li>
-<li><a href="/cnnews/20210330/1515866.md">川普发出新声明：福西博士和伯克斯医生是"实锤的骗子"【阿波罗网编译】</a></li>
 <li><a href="/finance/20210331/1516250.md">教科书般洗劫存款，新一轮财产安全隐患来了</a></li>
+<li><a href="/cnnews/20210330/1515866.md">川普发出新声明：福西博士和伯克斯医生是"实锤的骗子"【阿波罗网编译】</a></li>
 <li><a href="/headline/20210331/1516286.md">世卫组织总干事谭德塞突变？</a></li>
 <li><a href="/comments/20210330/1515854.md">习近平的扩张意志和当代人类末日劫难（中共命运的轨迹和人类前途  第二讲）【袁红冰纵论天下】 03302021</a></li>
 <li><a href="/cbnews/20210330/1515902.md">中国H&M门店 至少六家遭业主强制关闭</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20210331/1516187.md">〖兲朝浮世绘〗首个公开以脏话辱骂外国首相的驻外大使 充分代表中共执政者的当前水平</a></li>
 <li><a href="/bannedvideo/20210331/1516272.md">14国联合谴责世卫报告！谭德塞首次承认病毒可能从实验室泄漏，可能再回中国调查【#秦鹏观察 3/30】</a></li>
 <li><a href="/topimagenews/20210331/1516165.md">川普惊喜现身婚礼 吐槽完拜登施政后问：想我了吗？</a></li>
+<li><a href="/comments/20210330/1515963.md">战狼李洋大骂特鲁多后对网友发飙；中共大骂西方却意外暴露种族灭绝；停止仇恨亚裔活动背后是中共；又现假奶粉 幼童受害；第九人揭库莫性丑闻 有照片！川普第45任总统网站添互动；8am【希望之声TV】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210331/1516550.md" target="_blank">反对北京冬奥呼声高涨 国台办游说台湾“不抵制”</a></li>
+<li><a href="/comments/20210331/1516548.md" target="_blank">【阉割选举】选委会增分区灭罪防火委员会议席 成员全由民政委任 大量落选建制派有份</a></li>
 <li><a href="/comments/20210331/1516533.md" target="_blank">美韩日官员将讨论朝鲜核武问题</a></li>
 <li><a href="/comments/20210331/1516531.md" target="_blank">日本果农安置猫头鹰原来是为了对付它</a></li>
 <li><a href="/comments/20210331/1516504.md" target="_blank">杨洁篪阿拉斯加大骂美国后 去耶鲁大学探望女儿</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210331/1516392.md" target="_blank">李燕铭：杨洁篪大骂美国后去耶鲁探女？习近平女儿习明泽已返回美国哈佛？真假消息揭秘 中南海潜规则：太子女习明泽当务之急是为习家培养隔代权力与利益继承人</a></li>
 <li><a href="/comments/20210331/1516391.md" target="_blank">李怡告别《苹果》“世道人生”专栏 叹国安法是“实实在在的压力”</a></li>
 <li><a href="/comments/20210331/1516390.md" target="_blank">拜登曾说它是贴心狗狗…“少校”才受训完回白宫又咬人</a></li>
-<li><a href="/comments/20210331/1516381.md" target="_blank">忧中共渗透 康奈尔大学中资项目遭师生抵制</a></li>
-<li><a href="/comments/20210331/1516380.md" target="_blank">司徒剑：谈谈美媒列出首份下届中共七常委名单</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 
 </ul>
 </div>
