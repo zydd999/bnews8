@@ -10,17 +10,17 @@
 <li><a href="/cbnews/20210401/1517427.md">中共外交部华春莹又当众撒大谎遭网友狂喷</a></li>
 <li><a href="/headline/20210401/1517426.md">特种部队捉拿蜥蜴人！中南海灭顶之灾！美军5大军种联合出动</a></li>
 <li><a href="/bannedvideo/20210401/1517462.md">陈破空：习家军夺权，要动公安部长！栗战书力保百亿家财，跟港人拼了！李克强访南大话中有话</a></li>
-<li><a href="/cbnews/20210401/1517366.md">拍到情人的情人不雅视频：江苏一干部被勒索500万</a></li>
 <li><a href="/ssgc/20210402/1517726.md">〖兲朝浮世绘〗恭喜中共，又人为的创造了一个敌人</a></li>
+<li><a href="/cbnews/20210401/1517366.md">拍到情人的情人不雅视频：江苏一干部被勒索500万</a></li>
 <li><a href="/cnnews/20210401/1517550.md">苏伊士运河340亿天价赔偿来了！这钱谁掏？</a></li>
 <li><a href="/cbnews/20210402/1517731.md">甘肃官场变动微妙 王歧山势力凋零？</a></li>
 <li><a href="/yule/20210401/1517519.md">“初恋脸”女老师美貌神到了！学生挤爆课堂</a></li>
 <li><a href="/topimagenews/20210402/1517863.md">美媒揭中共煽动抵制H&M来龙去脉 曾备2套方案</a></li>
+<li><a href="/topimagenews/20210402/1517957.md">中美撞机王伟诡异失踪幕后；2%富人掌握社会80%财富 20大中共七常委名单出来了？</a></li>
 <li><a href="/ssgc/20210401/1517388.md">上海率先 “新疆化”？ 外省人入沪逾24小时须登记</a></li>
 <li><a href="/bannedvideo/20210402/1517797.md">上海要独立了？停留超过24小时需登记，网民愤怒：全景监狱！黎智英、李柱铭等7人遭定罪，恣意控诉罪名令人发指</a></li>
-<li><a href="/topimagenews/20210402/1517957.md">中美撞机王伟诡异失踪幕后；2%富人掌握社会80%财富 20大中共七常委名单出来了？</a></li>
-<li><a href="/cnnews/20210402/1517661.md">新冠肺炎出现突破病例？华盛顿州102人接种疫苗后病毒检测呈阳性</a></li>
 <li><a href="/cbnews/20210402/1517718.md">上海警方数据库外泄 揭示中共如何监控外国人</a></li>
+<li><a href="/cnnews/20210402/1517661.md">新冠肺炎出现突破病例？华盛顿州102人接种疫苗后病毒检测呈阳性</a></li>
 <li><a href="/cbnews/20210401/1517566.md">中共强打疫苗文件曝光：以习思想指导定指标</a></li>
 <li><a href="/cbnews/20210401/1517405.md">出丑！中共官媒假冒法国记者发文被抓包</a></li>
 <li><a href="/comments/20210401/1517490.md">布林肯：香港不再享有自治待遇；20家H&M中国门店关闭 CEO发声；英大学立“环保少女”铜像 被批浪费又虚荣；纽约州娱乐大麻合法化 征13%销售税；美牧师状告佩洛西、哈里斯；8am【希望之声TV】</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210402/1518078.md" target="_blank">习自曝中共官员热衷八卦轶闻 对境外读物津津乐道</a></li>
 <li><a href="/cbnews/20210402/1518062.md" target="_blank">北京加强进京人员管控 网民质疑：又紧张起来了⋯</a></li>
 <li><a href="/cbnews/20210402/1518001.md" target="_blank">大纪元：文件泄苏州当局瞒报多起事件</a></li>
 <li><a href="/cbnews/20210402/1517987.md" target="_blank">江峰：国产疫苗从自愿注射到开启运动模式，宣传机器马力十足，安全与副作用却语焉不详，中共关注生命健康还是另有它图？</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210402/1517730.md" target="_blank">网友是这样过愚人节的</a></li>
 <li><a href="/cbnews/20210402/1517729.md" target="_blank">中国学者披露中共治下佛教一大隐秘任务</a></li>
 <li><a href="/cbnews/20210402/1517728.md" target="_blank">4名进入武汉的公民记者 仅剩方斌下落不明</a></li>
-<li><a href="/cbnews/20210402/1517718.md" target="_blank">上海警方数据库外泄 揭示中共如何监控外国人</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210402/1518072.md" target="_blank">中大“朔夜”五成员另组临时行政会 校方续封杀 禁用学生会室</a></li>
+<li><a href="/comments/20210402/1518071.md" target="_blank">19 岁国安法被告 钟翰林还押 5 月首发狱中信：望有天与同道友好在自由土地聚首</a></li>
 <li><a href="/comments/20210402/1518069.md" target="_blank">王毅连访中东6国挑战美国影响力 专家：难以撼动</a></li>
 <li><a href="/comments/20210402/1518026.md" target="_blank">深化美台关系 美国务院：考虑高阶官员互访机会</a></li>
 <li><a href="/comments/20210402/1518009.md" target="_blank">小米新商标成网络笑柄 大陆网民：人傻钱多</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210402/1517903.md" target="_blank">曝拜登与北京真实关系？川普揭万亿基建计划最大受益者</a></li>
 <li><a href="/comments/20210402/1517889.md" target="_blank">党官热衷了解中共高层丑闻 习近平自曝党史庸俗化</a></li>
 <li><a href="/comments/20210402/1517888.md" target="_blank">奉无神论的中共 党魁党棍却“迷信”至深</a></li>
-<li><a href="/comments/20210402/1517887.md" target="_blank">日学者：四方联盟将扩建成亚洲版北约 抗衡北京</a></li>
-<li><a href="/comments/20210402/1517886.md" target="_blank">疫情报告被全球批评 世卫后续调查面临推迟</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
