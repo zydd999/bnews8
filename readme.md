@@ -6,16 +6,15 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210402/1517957.md">中美撞机王伟诡异失踪幕后；2%富人掌握社会80%财富 20大中共七常委名单出来了？</a></li>
-<li><a href="/bannedvideo/20210402/1517797.md">上海要独立了？停留超过24小时需登记，网民愤怒：全景监狱！黎智英、李柱铭等7人遭定罪，恣意控诉罪名令人发指</a></li>
 <li><a href="/cbnews/20210402/1517979.md">习近平备战打仗？共军三大无解死结曝光</a></li>
 <li><a href="/topimagenews/20210402/1517863.md">美媒揭中共煽动抵制H&M来龙去脉 曾备2套方案</a></li>
 <li><a href="/cnnews/20210402/1518269.md">伊万卡穿衬衫配牛仔裤 太完美了</a></li>
 <li><a href="/cbnews/20210402/1518062.md">北京加强进京人员管控 网民质疑：又紧张起来了⋯</a></li>
 <li><a href="/cbnews/20210402/1518268.md">华春莹一身“洋货” 网友嘲讽：说一套做一套</a></li>
+<li><a href="/cbnews/20210402/1518355.md">网红弃60万高薪从军 被爆拍色情片 党媒急删稿</a></li>
 <li><a href="/cbnews/20210402/1517987.md">江峰：国产疫苗从自愿注射到开启运动模式，宣传机器马力十足，安全与副作用却语焉不详，中共关注生命健康还是另有它图？</a></li>
 <li><a href="/yule/20210402/1518300.md">华为千金姚安娜首晒晚宴照 深V快开到肚脐 坐角落无人理</a></li>
 <li><a href="/cbnews/20210402/1518109.md">大陆打疫苗下指标 接种现场有人倒地</a></li>
-<li><a href="/cbnews/20210402/1518355.md">网红弃60万高薪从军 被爆拍色情片 党媒急删稿</a></li>
 <li><a href="/cbnews/20210402/1518078.md">习自曝中共官员热衷八卦轶闻 对境外读物津津乐道</a></li>
 <li><a href="/headline/20210402/1518170.md">华春莹说波孟确有其人 人在中国？细节不便透露</a></li>
 <li><a href="/comments/20210402/1257608.md">V2ray VPN - 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/lifebaike/20210402/1518299.md">那个轮流凌辱女孩的李天一 入狱8年后</a></li>
 <li><a href="/cnnews/20210402/1517948.md">两天内中共7省高层人事变动 10人上位</a></li>
 <li><a href="/cnnews/20210402/1518271.md">震撼！三星堆遗址到底有哪些重量级"国宝"</a></li>
+<li><a href="/bannedvideo/20210402/1518212.md">陈破空：忽然热炒江泽民，习近平也想干那事？派出大量民兵船碰瓷！高调纪念南海撞机</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210403/1518544.md" target="_blank">川普画像将在总统画廊展出；突发！国会警察遇袭；22州抵制禁枪 法院裁定驳回禁令；零号病人找到了？来自武汉病毒所？华裔市长候选人住院 ；愚人节搞笑：新华社人民日报被查！【希望之声TV】</a></li>
 <li><a href="/cbnews/20210403/1518507.md" target="_blank">有座城花了30年把一条河熬成火锅汤底</a></li>
 <li><a href="/cbnews/20210403/1518494.md" target="_blank">专栏 | 夜话中南海：明年二十大上 晋级政治局常委的可能人选</a></li>
 <li><a href="/comments/20210403/1518488.md" target="_blank">《战情解析》第十八期，美中台海作战态势预测</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210402/1518198.md" target="_blank">G7联合抗共抵制中共破坏；上海率先新疆化全国推广？华裔科学家运病毒至武汉，加国会行动</a></li>
 <li><a href="/cbnews/20210402/1518147.md" target="_blank">中国大陆抵制H＆M内幕曝光 原来是官方“剧本”</a></li>
 <li><a href="/comments/20210402/1518146.md" target="_blank">如同神话般的轮回记忆，月亮是史前文明的杰作？</a></li>
-<li><a href="/cbnews/20210402/1518110.md" target="_blank">加拿大国会议员：中共制裁 意在报复</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210403/1518544.md" target="_blank">川普画像将在总统画廊展出；突发！国会警察遇袭；22州抵制禁枪 法院裁定驳回禁令；零号病人找到了？来自武汉病毒所？华裔市长候选人住院 ；愚人节搞笑：新华社人民日报被查！【希望之声TV】</a></li>
 <li><a href="/comments/20210403/1518531.md" target="_blank">小民之心：习近平为何不敢去厦门此事或许关乎称帝大业</a></li>
 <li><a href="/comments/20210403/1518530.md" target="_blank">中大半山腰 一个中国研究圣地的死亡</a></li>
 <li><a href="/comments/20210403/1518504.md" target="_blank">说真话就面临极大危险！BBC记者吁不要忘记勇敢中国人</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210403/1518397.md" target="_blank">美议员格林提法案：解雇福西 废“疫苗护照”</a></li>
 <li><a href="/comments/20210403/1518396.md" target="_blank">世界自闭症日 关心“来自星星的孩子”</a></li>
 <li><a href="/comments/20210403/1518395.md" target="_blank">学会10个术语，下次喝茶别只会说“好喝”了</a></li>
-<li><a href="/comments/20210403/1518388.md" target="_blank">&#8220;解雇福西&#8221;废“疫苗护照” 格林议员再提法案 ；台铁列车隧道出轨51亡；五角大楼启用军事基地做收容所？；获长赐号黑盒子 埃及拟无钱不放行；华为公开合法监听专利12:00pm【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 <li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
