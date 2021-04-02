@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20210402/1517987.md">江峰：国产疫苗从自愿注射到开启运动模式，宣传机器马力十足，安全与副作用却语焉不详，中共关注生命健康还是另有它图？</a></li>
 <li><a href="/comments/20210402/1257608.md">V2ray VPN - 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/cbnews/20210402/1517714.md">洛阳女想分手 竟遭被男友泼油全身火“一扶肉就掉…”</a></li>
-<li><a href="/cnnews/20210402/1517759.md">大陆再爆劣质黄金丑闻 涉中共国企</a></li>
+<li><a href="/cbnews/20210402/1518078.md">习自曝中共官员热衷八卦轶闻 对境外读物津津乐道</a></li>
 <li><a href="/comments/20210402/1517977.md">央视翻车！精心打造的网红“英雄” 谁知被揭偷卖色情片</a></li>
+<li><a href="/cnnews/20210402/1517759.md">大陆再爆劣质黄金丑闻 涉中共国企</a></li>
 <li><a href="/topimagenews/20210402/1517873.md">林伍德竞选川普不支持；中共在以色列偷尖端军机技术遇阻；美战略司令部发神秘推</a></li>
 <li><a href="/finance/20210402/1517904.md">“业界第一杀猪盘”崩了，上市3年杀4次猪，投资者怒了</a></li>
-<li><a href="/cbnews/20210402/1518078.md">习自曝中共官员热衷八卦轶闻 对境外读物津津乐道</a></li>
-<li><a href="/cnnews/20210402/1517722.md">民调：加拿大人最不信任的就是这款疫苗</a></li>
+<li><a href="/health/20210402/1518065.md">寿命短的人，走路会有五个特征，若你五个都没有，恭喜你身体硬朗</a></li>
 <li><a href="/topimagenews/20210402/1517841.md">物价飞涨！大陆生活用纸业者宣布4月全面涨价</a></li>
+<li><a href="/cnnews/20210402/1517722.md">民调：加拿大人最不信任的就是这款疫苗</a></li>
 <li><a href="/cnnews/20210402/1517757.md">“结构电池”研发取得新突破 性能提升十倍</a></li>
 <li><a href="/cnnews/20210402/1517948.md">两天内中共7省高层人事变动 10人上位</a></li>
-<li><a href="/health/20210402/1518065.md">寿命短的人，走路会有五个特征，若你五个都没有，恭喜你身体硬朗</a></li>
-<li><a href="/health/20210402/1517774.md">这些身体特征，是寿命较短的征兆，尤其第1个，很多人改不掉</a></li>
+<li><a href="/cnnews/20210402/1518269.md">伊万卡穿衬衫配牛仔裤 太完美了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210402/1518334.md" target="_blank">拜登和菅义伟将会晤拟达成芯片供应链协议</a></li>
 <li><a href="/cbnews/20210402/1518296.md" target="_blank">上海实行人口管控后 北京加强进京人员管控</a></li>
 <li><a href="/cbnews/20210402/1518268.md" target="_blank">华春莹一身“洋货” 网友嘲讽：说一套做一套</a></li>
 <li><a href="/comments/20210402/1518236.md" target="_blank">美发布贸易评估报告 肯定川普对中协议；蓬佩奥会晤萧美琴；中共官媒吹捧网红弃高薪从军 遭爆涉拍黄片急撤稿；昂山素季面临最严厉指控；劳拉：脸书删川普言论和共产国家做法一样；8am【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/cbnews/20210402/1517896.md" target="_blank">美国国务院报告 提到中国的这些人士 提到中共的这些罪行</a></li>
 <li><a href="/cbnews/20210402/1517890.md" target="_blank">翟东升再曝中共野心：收割美元霸权</a></li>
-<li><a href="/comments/20210402/1517875.md" target="_blank">前美海军陆战队成员：罢免加州州长体现民众心声；我们需要像1776年那样捍卫自由</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210402/1518344.md" target="_blank">全美最年轻博士出炉 17岁的她怎么做到的？</a></li>
+<li><a href="/comments/20210402/1518326.md" target="_blank">白色恐怖笼罩香江！ 21%香港人计划永久离开 海外流亡人士誓言助港人获救生艇</a></li>
+<li><a href="/comments/20210402/1518325.md" target="_blank">萧美琴带凤梨酥会蓬佩奥 当面感谢他大力挺台</a></li>
 <li><a href="/comments/20210402/1518302.md" target="_blank">福克斯名主持：左翼政府正大举推翻美立国原则</a></li>
 <li><a href="/comments/20210402/1518293.md" target="_blank">阻孔院渗透 美议员推法案加强大学透明度</a></li>
 <li><a href="/comments/20210402/1518289.md" target="_blank">外交部驻港公署“正告”美驻港官员 “认清时势”停止干预香港</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210402/1518125.md" target="_blank">【8.18 维园案】欧盟港澳辧事处派员听裁决 “高度关注”本港持续检控政治人物</a></li>
 <li><a href="/comments/20210402/1518122.md" target="_blank">关于清明节与寒食节的传说</a></li>
 <li><a href="/comments/20210402/1518121.md" target="_blank">崔颢的《黄鹤楼》为何能流传千古？</a></li>
-<li><a href="/comments/20210402/1518115.md" target="_blank">保护世界文化遗产 意拟禁止轮船驶入威尼斯老城</a></li>
-<li><a href="/comments/20210402/1518094.md" target="_blank">香港七民主人士被定罪 罗冠聪：法制无存 需追责中共</a></li>
-<li><a href="/comments/20210402/1518093.md" target="_blank">护眼疯补叶黄素 营养师点出剂量关键</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 
 </ul>
 </div>
