@@ -5,16 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210401/1517373.md">魏晋：习近平勃然大怒 底下官员都妄议他什么？</a></li>
 <li><a href="/topimagenews/20210401/1517464.md">欧盟专家：“不要低估习近平的狂热” 中共突缺席35国气候大会 蓬佩奥猛轰谭德塞与习勾结</a></li>
 <li><a href="/cbnews/20210401/1517427.md">中共外交部华春莹又当众撒大谎遭网友狂喷</a></li>
 <li><a href="/headline/20210401/1517426.md">特种部队捉拿蜥蜴人！中南海灭顶之灾！美军5大军种联合出动</a></li>
 <li><a href="/bannedvideo/20210401/1517462.md">陈破空：习家军夺权，要动公安部长！栗战书力保百亿家财，跟港人拼了！李克强访南大话中有话</a></li>
 <li><a href="/ssgc/20210402/1517726.md">〖兲朝浮世绘〗恭喜中共，又人为的创造了一个敌人</a></li>
-<li><a href="/cbnews/20210401/1517366.md">拍到情人的情人不雅视频：江苏一干部被勒索500万</a></li>
 <li><a href="/cnnews/20210401/1517550.md">苏伊士运河340亿天价赔偿来了！这钱谁掏？</a></li>
-<li><a href="/cbnews/20210402/1517731.md">甘肃官场变动微妙 王歧山势力凋零？</a></li>
 <li><a href="/topimagenews/20210402/1517957.md">中美撞机王伟诡异失踪幕后；2%富人掌握社会80%财富 20大中共七常委名单出来了？</a></li>
+<li><a href="/cbnews/20210402/1517731.md">甘肃官场变动微妙 王歧山势力凋零？</a></li>
 <li><a href="/yule/20210401/1517519.md">“初恋脸”女老师美貌神到了！学生挤爆课堂</a></li>
 <li><a href="/topimagenews/20210402/1517863.md">美媒揭中共煽动抵制H&M来龙去脉 曾备2套方案</a></li>
 <li><a href="/bannedvideo/20210402/1517797.md">上海要独立了？停留超过24小时需登记，网民愤怒：全景监狱！黎智英、李柱铭等7人遭定罪，恣意控诉罪名令人发指</a></li>
@@ -22,11 +20,13 @@
 <li><a href="/cbnews/20210402/1517718.md">上海警方数据库外泄 揭示中共如何监控外国人</a></li>
 <li><a href="/cnnews/20210402/1517661.md">新冠肺炎出现突破病例？华盛顿州102人接种疫苗后病毒检测呈阳性</a></li>
 <li><a href="/cbnews/20210401/1517566.md">中共强打疫苗文件曝光：以习思想指导定指标</a></li>
-<li><a href="/cbnews/20210401/1517405.md">出丑！中共官媒假冒法国记者发文被抓包</a></li>
 <li><a href="/comments/20210402/1257608.md">V2ray VPN - 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20210401/1517405.md">出丑！中共官媒假冒法国记者发文被抓包</a></li>
 <li><a href="/comments/20210401/1517490.md">布林肯：香港不再享有自治待遇；20家H&M中国门店关闭 CEO发声；英大学立“环保少女”铜像 被批浪费又虚荣；纽约州娱乐大麻合法化 征13%销售税；美牧师状告佩洛西、哈里斯；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210402/1517714.md">洛阳女想分手 竟遭被男友泼油全身火“一扶肉就掉…”</a></li>
 <li><a href="/cnnews/20210402/1517759.md">大陆再爆劣质黄金丑闻 涉中共国企</a></li>
+<li><a href="/cbnews/20210402/1517979.md">习近平备战打仗？共军三大无解死结曝光</a></li>
+<li><a href="/yule/20210401/1517489.md">还记得宁坐宝马车里哭的马诺吗？她活成了"名媛"</a></li>
 <li><a href="/cnnews/20210402/1517722.md">民调：加拿大人最不信任的就是这款疫苗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
