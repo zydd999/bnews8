@@ -21,8 +21,8 @@
 <li><a href="/funmedia/20210403/1518674.md">丈母娘怀孕，妻子非要他去照顾，看见床上的化验单，他才恍然大悟</a></li>
 <li><a href="/cbnews/20210403/1518719.md">遵义“点马灯学党史”穿帮 大白天拉上窗帘摆拍</a></li>
 <li><a href="/comments/20210403/1518675.md">中共暴政为何至今还没有步前苏联崩溃的后尘（中共命运的轨迹和人类前途  第三讲）【袁红冰纵论天下】 04032021</a></li>
-<li><a href="/comments/20210403/1518531.md">小民之心：习近平为何不敢去厦门此事或许关乎称帝大业</a></li>
 <li><a href="/topimagenews/20210403/1518528.md">非裔单曲煽动抢劫华人油管拒下架 习近平猪队友帮大忙 爆笑，中共战狼烧糊涂了</a></li>
+<li><a href="/comments/20210403/1518531.md">小民之心：习近平为何不敢去厦门此事或许关乎称帝大业</a></li>
 <li><a href="/cbnews/20210403/1518608.md">文昭：「新疆模式」进上海，中共要防大乱？再有「国师」踢爆内幕，不把习偬领进坑不算完</a></li>
 <li><a href="/cbnews/20210403/1518718.md">党媒不建议打完疫苗检测抗体 网评:怕穿帮</a></li>
 <li><a href="/bannedvideo/20210403/1518911.md">4月1日，辽宁沉阳一女子骑共享电动车临时锁车去买东西，没有终止交易，却遇到城管将车没收。网友：临时锁车，属于还在正常使用中，属于短暂停车状态，是未完全结束停车，一般还在计费，时常收费</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210404/1519170.md" target="_blank">川普向大企业开火！发起抵制所有干扰公平选举的企业；美国左派要将监狱人口减半； 美国停发F1签证  2021中国人留学难；曾接种俄疫苗 阿根廷总统确诊；沪京进入“新疆化” 出了什么事？【希望之声TV】</a></li>
 <li><a href="/cbnews/20210404/1519126.md" target="_blank">福建一家五口驾车扫墓途中坠河 酿3死2伤</a></li>
 <li><a href="/cbnews/20210404/1519125.md" target="_blank">地震后再受灾 新疆拜城遭60年不遇暴雪袭击</a></li>
 <li><a href="/cbnews/20210403/1519075.md" target="_blank">撞死警察当场被击毙嫌犯为非裔“伊斯兰民族运动”追随者</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210403/1518696.md" target="_blank">战狼辱骂特鲁多 赵立坚拒评托辞: 个人推特</a></li>
 <li><a href="/cbnews/20210403/1518695.md" target="_blank">反常？中国南方多地阳春时节遇冰雹袭击</a></li>
 <li><a href="/comments/20210403/1518683.md" target="_blank">达美航空和可口可乐对选举诚信宣战；美媒独家！大型科技员工向民主党人捐赠比共和党人多12倍；佛州长行动禁止疫苗护照； 新疆教培学员被穿帮；中共控制拜登国安、选举组织和智库干预大选【希望之声TV】10pm</a></li>
-<li><a href="/comments/20210403/1518675.md" target="_blank">中共暴政为何至今还没有步前苏联崩溃的后尘（中共命运的轨迹和人类前途  第三讲）【袁红冰纵论天下】 04032021</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210404/1519170.md" target="_blank">川普向大企业开火！发起抵制所有干扰公平选举的企业；美国左派要将监狱人口减半； 美国停发F1签证  2021中国人留学难；曾接种俄疫苗 阿根廷总统确诊；沪京进入“新疆化” 出了什么事？【希望之声TV】</a></li>
+<li><a href="/comments/20210404/1519163.md" target="_blank">王赫：反制中共的军事联盟正在形成</a></li>
+<li><a href="/comments/20210404/1519162.md" target="_blank">美学签申请积压数十万 中国留学生今秋返美难</a></li>
+<li><a href="/comments/20210404/1519161.md" target="_blank">现场画面曝光：4歹徒手持尖刀突袭香港法轮功街站 市民出声吓跑他们</a></li>
 <li><a href="/comments/20210404/1519158.md" target="_blank">李燕铭：赵乐际“钱袋子”被移送司法 官方通报点名涉青海版秦岭别墅案 赵乐际与薄熙来勾连内幕浮现 近千亿资产青海省投资集团违约破产重整 隐现江泽民集团惊人贪腐黑幕 青海版秦岭别墅案发酵 赵乐际凶多吉少</a></li>
 <li><a href="/comments/20210404/1519151.md" target="_blank">【图片+视频】揭秘鲜为人知的遥视实验：超能力者运用遥视功能看到遥远星球的景象</a></li>
 <li><a href="/comments/20210404/1519150.md" target="_blank">中共买脸书广告大外宣“新疆生活繁荣” 人权团体深表担忧</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210403/1519083.md" target="_blank">水怪现身？尼斯湖线上即时画面 水面黑影缓缓移动</a></li>
 <li><a href="/comments/20210403/1519074.md" target="_blank">美国会袭警嫌犯身份确认：伊斯兰组织追随者</a></li>
 <li><a href="/comments/20210403/1519073.md" target="_blank">时事大家谈：美国返校 如何从网上完美过渡到课堂？</a></li>
-<li><a href="/comments/20210403/1519072.md" target="_blank">时事大家谈：下个疫情可能已经开始了 我们准备好了吗？</a></li>
-<li><a href="/comments/20210403/1519056.md" target="_blank">中国疫苗爆无效！多国确诊激增 副作用强烈 巴基斯坦总统换来习近平“慰问”</a></li>
-<li><a href="/comments/20210403/1519055.md" target="_blank">语出惊人！前政协委员2分钟讲话爆红：中国正在快速滑向灾难</a></li>
-<li><a href="/comments/20210403/1519044.md" target="_blank">MLB反乔州选举改革宣布全星赛换址 川普吁抵制</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
 <li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
