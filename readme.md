@@ -18,11 +18,11 @@
 <li><a href="/cbnews/20210403/1518494.md">专栏 | 夜话中南海：明年二十大上 晋级政治局常委的可能人选</a></li>
 <li><a href="/bannedvideo/20210403/1518782.md">文睿：习近平的智商水准再次被曝光，地方官员：不忽悠你忽悠谁</a></li>
 <li><a href="/cnnews/20210403/1518839.md">美国停发F1签证 2021年中国人难圆留学梦</a></li>
-<li><a href="/cnnews/20210403/1518935.md">只生儿子不生女儿的后果：一个小县城的蝴蝶效应</a></li>
 <li><a href="/topimagenews/20210403/1518960.md">习近平警告反引火烧身 奥巴马旧人到北京吹风 危机？中共还要地方增粮储</a></li>
+<li><a href="/cnnews/20210403/1518935.md">只生儿子不生女儿的后果：一个小县城的蝴蝶效应</a></li>
 <li><a href="/baitai/20210403/1518458.md">【图说天朝】“疯狂的年代，清醒的极少数人如何渡过”</a></li>
-<li><a href="/cnnews/20210403/1518680.md">好消息！辉瑞官宣100%防变种病毒</a></li>
 <li><a href="/cnnews/20210403/1518821.md">习近平植树再演戏 网友：和小学生对话可不看稿</a></li>
+<li><a href="/cnnews/20210403/1518680.md">好消息！辉瑞官宣100%防变种病毒</a></li>
 <li><a href="/funmedia/20210403/1518674.md">丈母娘怀孕，妻子非要他去照顾，看见床上的化验单，他才恍然大悟</a></li>
 <li><a href="/cbnews/20210403/1518719.md">遵义“点马灯学党史”穿帮 大白天拉上窗帘摆拍</a></li>
 <li><a href="/comments/20210403/1518675.md">中共暴政为何至今还没有步前苏联崩溃的后尘（中共命运的轨迹和人类前途  第三讲）【袁红冰纵论天下】 04032021</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210404/1519131.md" target="_blank">中共自曝已掌控拜登国安团队和西方媒体智库</a></li>
+<li><a href="/comments/20210404/1519129.md" target="_blank">磕头乞讨，新时代的长征</a></li>
+<li><a href="/comments/20210404/1519128.md" target="_blank">【台铁出轨】全岛降半旗3天致哀 蔡英文鞠躬致歉 习近平不忘统战</a></li>
+<li><a href="/comments/20210404/1519127.md" target="_blank">令人忧！人体内发现42种不知来源的“神秘化学物质”</a></li>
 <li><a href="/comments/20210404/1519118.md" target="_blank">美媒：高科技人士给民主党的捐款是共和党的12倍</a></li>
 <li><a href="/comments/20210404/1519115.md" target="_blank">美22州抵制加州枪支限制令 法院同意重审</a></li>
 <li><a href="/comments/20210404/1519114.md" target="_blank">美日法履约5月份举行联合军演 目标明确</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210403/1519023.md" target="_blank">陈光诚谈获奖：摆脱中共控制先要从信息上获得解放</a></li>
 <li><a href="/comments/20210403/1519019.md" target="_blank">新疆棉事件降温 明星们你准备好了吗？路在何方？</a></li>
 <li><a href="/comments/20210403/1519004.md" target="_blank">横河观点：各州选举立法亡羊补牢 较量刚开始？</a></li>
-<li><a href="/comments/20210403/1518998.md" target="_blank">陈清竹：是执法还是赤匪在抢劫？</a></li>
-<li><a href="/comments/20210403/1518994.md" target="_blank">推特被罚款890万卢布；“沙磊事件”发酵华春莹装傻；台铁事故死伤惨重 名人纷纷捐款；油管删250万“踩”白宫视频数；英72名议员反对疫苗护照；国会袭警嫌犯身份：伊斯兰组织追随者；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210403/1518992.md" target="_blank">川普总统在白宫的第二份工作，听了让人心酸。乔州推新选举改革，被大公司要挟。川普发声明，呼吁保守派人士强硬杯葛大公司，抵制极左派的打压。</a></li>
-<li><a href="/comments/20210403/1518987.md" target="_blank">接受新华社专访 林郑点名教育、传媒、公务员制度“有待完善” 为一国两制供更好条件</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
