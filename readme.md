@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20210402/1518269.md">伊万卡穿衬衫配牛仔裤 太完美了</a></li>
 <li><a href="/yule/20210402/1518300.md">华为千金姚安娜首晒晚宴照 深V快开到肚脐 坐角落无人理</a></li>
 <li><a href="/cbnews/20210402/1518355.md">网红弃60万高薪从军 被爆拍色情片 党媒急删稿</a></li>
-<li><a href="/cbnews/20210402/1518268.md">华春莹一身“洋货” 网友嘲讽：说一套做一套</a></li>
 <li><a href="/cbnews/20210403/1518475.md">江苏瞒报“包子”等多起事件 内部文件曝光</a></li>
 <li><a href="/comments/20210403/1518472.md">清明已到，请别忘一句俗语：女婿不耕丈人田，清明不上娘家坟</a></li>
-<li><a href="/cnnews/20210403/1518764.md">晚期癌症根本不用治？医生终于说了大实话</a></li>
 <li><a href="/ssgc/20210403/1518485.md">〖兲朝浮世绘〗中国人几十年前的噩梦回来了</a></li>
-<li><a href="/cnnews/20210403/1518750.md">中美南海撞机20周年 中共从来不提的内幕</a></li>
+<li><a href="/cnnews/20210403/1518764.md">晚期癌症根本不用治？医生终于说了大实话</a></li>
 <li><a href="/lifebaike/20210402/1518299.md">那个轮流凌辱女孩的李天一 入狱8年后</a></li>
+<li><a href="/cnnews/20210403/1518750.md">中美南海撞机20周年 中共从来不提的内幕</a></li>
 <li><a href="/cnnews/20210403/1518781.md">上海、北京同天进入“新疆化” 出了什么事？</a></li>
 <li><a href="/comments/20210403/1518716.md">惊！外星人劫持电视台信号向英国千家万户演讲6分钟，说了啥？外星人是存在的，证据确凿没有第二种可能</a></li>
-<li><a href="/cbnews/20210403/1518494.md">专栏 | 夜话中南海：明年二十大上 晋级政治局常委的可能人选</a></li>
 <li><a href="/bannedvideo/20210403/1518782.md">文睿：习近平的智商水准再次被曝光，地方官员：不忽悠你忽悠谁</a></li>
+<li><a href="/cbnews/20210403/1518815.md">习近平警告全党几件事 不料引火烧身</a></li>
+<li><a href="/cbnews/20210403/1518494.md">专栏 | 夜话中南海：明年二十大上 晋级政治局常委的可能人选</a></li>
 <li><a href="/baitai/20210403/1518458.md">【图说天朝】“疯狂的年代，清醒的极少数人如何渡过”</a></li>
 <li><a href="/comments/20210403/1518663.md">【独家重磅】江泽民曾庆红发达电力政变 习近平密集抓捕能源系统高官 中共国家能源前董事长乔保平坠楼身亡 自杀还是被人灭口？官媒报道异常 内幕不一般</a></li>
-<li><a href="/cbnews/20210403/1518815.md">习近平警告全党几件事 不料引火烧身</a></li>
 <li><a href="/cnnews/20210403/1518680.md">好消息！辉瑞官宣100%防变种病毒</a></li>
-<li><a href="/cnnews/20210402/1518271.md">震撼！三星堆遗址到底有哪些重量级"国宝"</a></li>
 <li><a href="/funmedia/20210403/1518674.md">丈母娘怀孕，妻子非要他去照顾，看见床上的化验单，他才恍然大悟</a></li>
-<li><a href="/topimagenews/20210402/1518285.md">台铁出轨事故原因初判 竟是这个老司机常犯错误</a></li>
+<li><a href="/cnnews/20210402/1518271.md">震撼！三星堆遗址到底有哪些重量级"国宝"</a></li>
 <li><a href="/cbnews/20210403/1518608.md">文昭：「新疆模式」进上海，中共要防大乱？再有「国师」踢爆内幕，不把习偬领进坑不算完</a></li>
+<li><a href="/topimagenews/20210402/1518285.md">台铁出轨事故原因初判 竟是这个老司机常犯错误</a></li>
 <li><a href="/comments/20210403/1518531.md">小民之心：习近平为何不敢去厦门此事或许关乎称帝大业</a></li>
+<li><a href="/cnnews/20210403/1518596.md">“这不是巧合” 中共秘密军事布局 盯上了这个国家</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210403/1519004.md" target="_blank">横河观点：各州选举立法亡羊补牢 较量刚开始？</a></li>
 <li><a href="/comments/20210403/1518998.md" target="_blank">陈清竹：是执法还是赤匪在抢劫？</a></li>
 <li><a href="/comments/20210403/1518994.md" target="_blank">推特被罚款890万卢布；“沙磊事件”发酵华春莹装傻；台铁事故死伤惨重 名人纷纷捐款；油管删250万“踩”白宫视频数；英72名议员反对疫苗护照；国会袭警嫌犯身份：伊斯兰组织追随者；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210403/1518992.md" target="_blank">川普总统在白宫的第二份工作，听了让人心酸。乔州推新选举改革，被大公司要挟。川普发声明，呼吁保守派人士强硬杯葛大公司，抵制极左派的打压。</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210403/1518783.md" target="_blank">日美首脑16日会谈 聚焦中朝及半导体供应链等议题</a></li>
 <li><a href="/comments/20210403/1518773.md" target="_blank">李燕铭：政治局委员陈全国仕途不妙？副部级前大管家被调任闲职 湖北省委副书记王瑞连任职五个月后即被免职 仕途深涉三大政治高危省份 中共二十大前政治诡异暗潮汹涌</a></li>
 <li><a href="/comments/20210403/1518772.md" target="_blank">亨特拜登首次承认丑闻电脑“可能”是他的</a></li>
-<li><a href="/comments/20210403/1518770.md" target="_blank">愚人节翌日笑谈新香港市“被完善”的选举制度</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
