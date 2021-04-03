@@ -21,13 +21,13 @@
 <li><a href="/cbnews/20210402/1518147.md">中国大陆抵制H＆M内幕曝光 原来是官方“剧本”</a></li>
 <li><a href="/cbnews/20210403/1518494.md">专栏 | 夜话中南海：明年二十大上 晋级政治局常委的可能人选</a></li>
 <li><a href="/cnnews/20210402/1518271.md">震撼！三星堆遗址到底有哪些重量级"国宝"</a></li>
+<li><a href="/baitai/20210403/1518458.md">【图说天朝】“疯狂的年代，清醒的极少数人如何渡过”</a></li>
 <li><a href="/bannedvideo/20210402/1518212.md">陈破空：忽然热炒江泽民，习近平也想干那事？派出大量民兵船碰瓷！高调纪念南海撞机</a></li>
 <li><a href="/topimagenews/20210402/1518285.md">台铁出轨事故原因初判 竟是这个老司机常犯错误</a></li>
-<li><a href="/baitai/20210403/1518458.md">【图说天朝】“疯狂的年代，清醒的极少数人如何渡过”</a></li>
-<li><a href="/cbnews/20210402/1518198.md">G7联合抗共抵制中共破坏；上海率先新疆化全国推广？华裔科学家运病毒至武汉，加国会行动</a></li>
 <li><a href="/cbnews/20210402/1518296.md">上海实行人口管控后 北京加强进京人员管控</a></li>
 <li><a href="/topimagenews/20210403/1518528.md">非裔单曲煽动抢劫华人油管拒下架 习近平猪队友帮大忙 爆笑，中共战狼烧糊涂了</a></li>
-<li><a href="/comments/20210402/1518009.md">小米新商标成网络笑柄 大陆网民：人傻钱多</a></li>
+<li><a href="/cbnews/20210402/1518198.md">G7联合抗共抵制中共破坏；上海率先新疆化全国推广？华裔科学家运病毒至武汉，加国会行动</a></li>
+<li><a href="/comments/20210403/1518531.md">小民之心：习近平为何不敢去厦门此事或许关乎称帝大业</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210403/1518776.md" target="_blank">视频:比利时卫生部长率先“注射”新冠疫苗，针头哪里去了？</a></li>
 <li><a href="/cbnews/20210403/1518746.md" target="_blank">江峰：为何川普批拜登2万亿基建计划给中共送大礼；白宫这个人够狠，中美贸易协议比川普还强势；阿拉斯加高层会谈玩虚，基辛格北京报喜才是真买卖</a></li>
 <li><a href="/comments/20210403/1518738.md" target="_blank">德州立法通过！反击大社媒；拜登儿子承认了？首谈丑闻电脑“可能”是他的！抵制外企是中共精心策划的行动？美媒爆有两套方案；新华社批云南瑞丽防疫惹众怒 民众：滚出来道歉！希望之声TV-12am</a></li>
 <li><a href="/cbnews/20210403/1518719.md" target="_blank">遵义“点马灯学党史”穿帮 大白天拉上窗帘摆拍</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210403/1518475.md" target="_blank">江苏瞒报“包子”等多起事件 内部文件曝光</a></li>
 <li><a href="/comments/20210403/1518464.md" target="_blank">【直播】  习近平掌军面临难解死结 金融爆雷预示中共末路穷途  主持：梓枫【希望之声TV】</a></li>
 <li><a href="/cbnews/20210403/1518436.md" target="_blank">名家专栏：美国须警惕中共的细菌武器研究</a></li>
-<li><a href="/cbnews/20210403/1518435.md" target="_blank">亲人病危京红十字血库蛮横拒供 澳华裔心寒</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210403/1518773.md" target="_blank">李燕铭：政治局委员陈全国仕途不妙？副部级前大管家被调任闲职 湖北省委副书记王瑞连任职五个月后即被免职 仕途深涉三大政治高危省份 中共二十大前政治诡异暗潮汹涌</a></li>
+<li><a href="/comments/20210403/1518772.md" target="_blank">亨特拜登首次承认丑闻电脑“可能”是他的</a></li>
+<li><a href="/comments/20210403/1518770.md" target="_blank">愚人节翌日笑谈新香港市“被完善”的选举制度</a></li>
+<li><a href="/comments/20210403/1518769.md" target="_blank">【终生剥夺权利？】朔夜成员任“临政”遭禁入会室 主席：只协助过渡、校方执意封杀</a></li>
 <li><a href="/comments/20210403/1518748.md" target="_blank">推特CEO承认其“完全错误” 误导欺骗就没事了吗</a></li>
 <li><a href="/comments/20210403/1518738.md" target="_blank">德州立法通过！反击大社媒；拜登儿子承认了？首谈丑闻电脑“可能”是他的！抵制外企是中共精心策划的行动？美媒爆有两套方案；新华社批云南瑞丽防疫惹众怒 民众：滚出来道歉！希望之声TV-12am</a></li>
 <li><a href="/comments/20210403/1518735.md" target="_blank">短片《意外》</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210403/1518683.md" target="_blank">达美航空和可口可乐对选举诚信宣战；美媒独家！大型科技员工向民主党人捐赠比共和党人多12倍；佛州长行动禁止疫苗护照； 新疆教培学员被穿帮；中共控制拜登国安、选举组织和智库干预大选【希望之声TV】10pm</a></li>
 <li><a href="/comments/20210403/1518678.md" target="_blank">华仔: 这世界 穷人是如何被剥削和宰割的</a></li>
 <li><a href="/comments/20210403/1518677.md" target="_blank">09年中共国输血 救了摇摇欲坠的俄罗斯</a></li>
-<li><a href="/comments/20210403/1518676.md" target="_blank">学习淄博好榜样：当它的水污染被曝光后</a></li>
-<li><a href="/comments/20210403/1518675.md" target="_blank">中共暴政为何至今还没有步前苏联崩溃的后尘（中共命运的轨迹和人类前途  第三讲）【袁红冰纵论天下】 04032021</a></li>
-<li><a href="/comments/20210403/1518663.md" target="_blank">【独家重磅】江泽民曾庆红发达电力政变 习近平密集抓捕能源系统高官 中共国家能源前董事长乔保平坠楼身亡 自杀还是被人灭口？官媒报道异常 内幕不一般</a></li>
-<li><a href="/comments/20210403/1518658.md" target="_blank">再有人质疑“英烈”被拘 前军官：中共军队与民对立</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
 
 </ul>
 </div>
