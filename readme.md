@@ -26,7 +26,7 @@
 <li><a href="/cbnews/20210403/1518718.md">党媒不建议打完疫苗检测抗体 网评:怕穿帮</a></li>
 <li><a href="/cnnews/20210403/1519066.md">台铁事故 80国政要慰问 习近平头衔惹疑</a></li>
 <li><a href="/cnnews/20210403/1518596.md">“这不是巧合” 中共秘密军事布局 盯上了这个国家</a></li>
-<li><a href="/bannedvideo/20210403/1518640.md">🔥🔥习近平释中共末日特大信号❗❓</a></li>
+<li><a href="/comments/20210403/1519056.md">中国疫苗爆无效！多国确诊激增 副作用强烈 巴基斯坦总统换来习近平“慰问”</a></li>
 <li><a href="/bannedvideo/20210403/1518983.md">4月2日，江苏南京禄口国际机场，T1航站楼候机大厅124登机口附近吸菸室浓烟弥漫，疑似发生火情。据称一乘客将未熄灭的烟头丢进烟灰桶内，导致冒烟。未造成人员伤亡。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210404/1519182.md" target="_blank">狐狸露出了尾巴！习近平哀悼是假 派共机继续扰台</a></li>
+<li><a href="/comments/20210404/1519181.md" target="_blank">新世纪影视：短片《意外》回家路上突发意外，万万没想到……</a></li>
+<li><a href="/comments/20210404/1519180.md" target="_blank">挺中共新疆政策的笔杆子找到 为央视前法语主播</a></li>
 <li><a href="/comments/20210404/1519172.md" target="_blank">再改川普政策 拜登悄无声息恢复对巴国援助</a></li>
 <li><a href="/comments/20210404/1519170.md" target="_blank">川普向大企业开火！发起抵制所有干扰公平选举的企业；美国左派要将监狱人口减半； 美国停发F1签证  2021中国人留学难；曾接种俄疫苗 阿根廷总统确诊；沪京进入“新疆化” 出了什么事？【希望之声TV】</a></li>
 <li><a href="/comments/20210404/1519163.md" target="_blank">王赫：反制中共的军事联盟正在形成</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210404/1519090.md" target="_blank">【人类在探索】绕着月球走一圈需要多长时间？</a></li>
 <li><a href="/comments/20210403/1519086.md" target="_blank">分析：共产主义邪说“批判种族论”充斥美校园</a></li>
 <li><a href="/comments/20210403/1519085.md" target="_blank">从“眉毛”竟可看出有没有“免疫性疾病”</a></li>
-<li><a href="/comments/20210403/1519084.md" target="_blank">都是中风，为什么症状不一样？四大类型中风的影响</a></li>
-<li><a href="/comments/20210403/1519083.md" target="_blank">水怪现身？尼斯湖线上即时画面 水面黑影缓缓移动</a></li>
-<li><a href="/comments/20210403/1519074.md" target="_blank">美国会袭警嫌犯身份确认：伊斯兰组织追随者</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
 <li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
