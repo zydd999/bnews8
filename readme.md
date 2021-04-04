@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20210403/1518750.md">中美南海撞机20周年 中共从来不提的内幕</a></li>
 <li><a href="/bannedvideo/20210403/1518782.md">文睿：习近平的智商水准再次被曝光，地方官员：不忽悠你忽悠谁</a></li>
 <li><a href="/comments/20210403/1518663.md">【独家重磅】江泽民曾庆红发达电力政变 习近平密集抓捕能源系统高官 中共国家能源前董事长乔保平坠楼身亡 自杀还是被人灭口？官媒报道异常 内幕不一般</a></li>
-<li><a href="/cnnews/20210403/1518839.md">美国停发F1签证 2021年中国人难圆留学梦</a></li>
 <li><a href="/topimagenews/20210403/1518960.md">习近平警告反引火烧身 奥巴马旧人到北京吹风 危机？中共还要地方增粮储</a></li>
+<li><a href="/cnnews/20210403/1518839.md">美国停发F1签证 2021年中国人难圆留学梦</a></li>
 <li><a href="/cnnews/20210403/1518935.md">只生儿子不生女儿的后果：一个小县城的蝴蝶效应</a></li>
 <li><a href="/cnnews/20210403/1518821.md">习近平植树再演戏 网友：和小学生对话可不看稿</a></li>
 <li><a href="/cnnews/20210403/1518680.md">好消息！辉瑞官宣100%防变种病毒</a></li>
 <li><a href="/funmedia/20210403/1518674.md">丈母娘怀孕，妻子非要他去照顾，看见床上的化验单，他才恍然大悟</a></li>
 <li><a href="/cbnews/20210403/1518719.md">遵义“点马灯学党史”穿帮 大白天拉上窗帘摆拍</a></li>
 <li><a href="/cnnews/20210403/1519066.md">台铁事故 80国政要慰问 习近平头衔惹疑</a></li>
+<li><a href="/cnnews/20210404/1519160.md">挺新疆“虚构”法国记者找到了 为央视法语台前主播</a></li>
 <li><a href="/comments/20210403/1518675.md">中共暴政为何至今还没有步前苏联崩溃的后尘（中共命运的轨迹和人类前途  第三讲）【袁红冰纵论天下】 04032021</a></li>
 <li><a href="/bannedvideo/20210403/1518911.md">4月1日，辽宁沉阳一女子骑共享电动车临时锁车去买东西，没有终止交易，却遇到城管将车没收。网友：临时锁车，属于还在正常使用中，属于短暂停车状态，是未完全结束停车，一般还在计费，时常收费</a></li>
-<li><a href="/cnnews/20210404/1519160.md">挺新疆“虚构”法国记者找到了 为央视法语台前主播</a></li>
 <li><a href="/comments/20210403/1519056.md">中国疫苗爆无效！多国确诊激增 副作用强烈 巴基斯坦总统换来习近平“慰问”</a></li>
+<li><a href="/cnnews/20210404/1519136.md">金融海啸：已经启程…</a></li>
 <li><a href="/cbnews/20210403/1518718.md">党媒不建议打完疫苗检测抗体 网评:怕穿帮</a></li>
 <li><a href="/bannedvideo/20210403/1518983.md">4月2日，江苏南京禄口国际机场，T1航站楼候机大厅124登机口附近吸菸室浓烟弥漫，疑似发生火情。据称一乘客将未熄灭的烟头丢进烟灰桶内，导致冒烟。未造成人员伤亡。</a></li>
-<li><a href="/cnnews/20210404/1519136.md">金融海啸：已经启程…</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210404/1519285.md" target="_blank">美国车市低迷？现代Genesis豪华SUV，2021首季销量翻倍</a></li>
+<li><a href="/comments/20210404/1519275.md" target="_blank">“拼爹”赤裸裸 令人痛心的1976年高考</a></li>
+<li><a href="/comments/20210404/1519273.md" target="_blank">你对孩子的要求 就是你内心的恐惧</a></li>
+<li><a href="/comments/20210404/1519272.md" target="_blank">一代人的精神长相</a></li>
+<li><a href="/comments/20210404/1519271.md" target="_blank">陶杰：沧海疫苗猪有泪 谭德塞超级废话</a></li>
 <li><a href="/comments/20210404/1519260.md" target="_blank">李燕铭：赵乐际又一名钱袋子主动投案 三名搭档先行落马 习近平针对赵乐际清洗行动正在一步步升级</a></li>
 <li><a href="/comments/20210404/1519249.md" target="_blank">名家：FBI政治化变奏在兴起对自由社会的憎恶</a></li>
 <li><a href="/comments/20210404/1519248.md" target="_blank">William：关于新疆的种种疑问——回应一些主要的质疑</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210404/1519162.md" target="_blank">美学签申请积压数十万 中国留学生今秋返美难</a></li>
 <li><a href="/comments/20210404/1519161.md" target="_blank">现场画面曝光：4歹徒手持尖刀突袭香港法轮功街站 市民出声吓跑他们</a></li>
 <li><a href="/comments/20210404/1519158.md" target="_blank">李燕铭：赵乐际“钱袋子”被移送司法 官方通报点名涉青海版秦岭别墅案 赵乐际与薄熙来勾连内幕浮现 近千亿资产青海省投资集团违约破产重整 隐现江泽民集团惊人贪腐黑幕 青海版秦岭别墅案发酵 赵乐际凶多吉少</a></li>
-<li><a href="/comments/20210404/1519151.md" target="_blank">【图片+视频】揭秘鲜为人知的遥视实验：超能力者运用遥视功能看到遥远星球的景象</a></li>
-<li><a href="/comments/20210404/1519150.md" target="_blank">中共买脸书广告大外宣“新疆生活繁荣” 人权团体深表担忧</a></li>
-<li><a href="/comments/20210404/1519143.md" target="_blank">【台铁出轨】第3与第6车厢疑还有遗体 死伤惨重“隧道”是主因</a></li>
-<li><a href="/comments/20210404/1519142.md" target="_blank">金融时报：港商务人士为方便入境中国 选择接种科兴疫苗</a></li>
-<li><a href="/comments/20210404/1519141.md" target="_blank">【台铁出轨】香港学者捐百万 港人热烈响应：撑台湾</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
 
 </ul>
 </div>
