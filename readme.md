@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20210403/1519066.md">台铁事故 80国政要慰问 习近平头衔惹疑</a></li>
 <li><a href="/cnnews/20210404/1519202.md">三星堆改写历史 进化论将被推翻？</a></li>
 <li><a href="/cnnews/20210404/1519153.md">史前17大惊人秘密 科学至今无解 22图</a></li>
-<li><a href="/cbnews/20210403/1519018.md">前政协委员直批中共 网络爆红</a></li>
-<li><a href="/cnnews/20210404/1519392.md">华尔街被骗 中共重竖金融壁垒震撼全球 习近平对台软硬两手被轰</a></li>
 <li><a href="/topimagenews/20210404/1519440.md">打不着的间谍飞机！4000发导弹没伤毫毛 30多年从未被击落的“黑鸟”【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210403/1519022.md">万物涨价 就有一样没涨？</a></li>
+<li><a href="/cnnews/20210404/1519392.md">华尔街被骗 中共重竖金融壁垒震撼全球 习近平对台软硬两手被轰</a></li>
 <li><a href="/cbnews/20210404/1519322.md">闫丽梦揭穿世卫造假 误导国际</a></li>
 <li><a href="/cnnews/20210404/1519399.md">突发！2000亿独角兽终止IPO</a></li>
+<li><a href="/topimagenews/20210404/1519402.md">榨到一分不剩！“巨浪基金”炒股骗局揭秘</a></li>
 <li><a href="/cbnews/20210404/1519207.md">上海人口管理新规惹争议 官方回应民不买账</a></li>
 <li><a href="/topimagenews/20210404/1519149.md">美联4国军事对抗中共 美共向中共效忠充满奴性 拜登新法案最大受益中共？</a></li>
-<li><a href="/topimagenews/20210404/1519402.md">榨到一分不剩！“巨浪基金”炒股骗局揭秘</a></li>
+<li><a href="/health/20210404/1519243.md">别害羞：提肛运动真的很养生！每天做3分钟，男女都有收获</a></li>
 <li><a href="/cnnews/20210403/1519039.md">为何富豪都把钱放瑞士银行？原因曝光</a></li>
 <li><a href="/baitai/20210404/1519189.md">余杰：习近平为何认为「东升西降」的时代已经来临？</a></li>
 <li><a href="/cnnews/20210404/1519251.md">又升级了：不打疫苗，开除</a></li>
-<li><a href="/health/20210404/1519243.md">别害羞：提肛运动真的很养生！每天做3分钟，男女都有收获</a></li>
 <li><a href="/comments/20210404/1519365.md">把大汉奸邓小平吹捧成中国民族利益的维护者，是我见过的最脑残的蠢货渣论！ — 曾节明</a></li>
-<li><a href="/cnnews/20210404/1519309.md">广东工人赤脚搅拌八宝粥 民众形容脚底黑色非常恶心</a></li>
 <li><a href="/cbnews/20210404/1519208.md">中韩就习近平访韩达成共识</a></li>
+<li><a href="/cnnews/20210404/1519309.md">广东工人赤脚搅拌八宝粥 民众形容脚底黑色非常恶心</a></li>
 <li><a href="/cbnews/20210404/1519233.md">马来西亚外长称王毅是“大哥”挨批</a></li>
+<li><a href="/comments/20210403/1519055.md">语出惊人！前政协委员2分钟讲话爆红：中国正在快速滑向灾难</a></li>
+<li><a href="/bannedvideo/20210404/1519274.md">亨特认了:电脑是我的！拜登涕泪横流，求儿别去XD！媒体变战场，习总有大战役；外媒记者揭遭遇，中国人最危险；接种补贴百元，巴总统打后感染【李沐阳 新闻看点04.04】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210404/1519590.md" target="_blank">天津男子将女记者同事殴打致死 才判15年</a></li>
+<li><a href="/cbnews/20210404/1519589.md" target="_blank">江苏内部文件泄迫害法轮功内幕</a></li>
 <li><a href="/cbnews/20210404/1519583.md" target="_blank">大马外长称王毅&#8221;大哥&#8221;遭国人围剿 急发推澄清</a></li>
 <li><a href="/cbnews/20210404/1519575.md" target="_blank">四国集团打造稀土供应链战略 摆脱中共垄断</a></li>
 <li><a href="/cbnews/20210404/1519574.md" target="_blank">新疆棉被力挺时的另一种声音：可以支持新疆人吗？</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210404/1519207.md" target="_blank">上海人口管理新规惹争议 官方回应民不买账</a></li>
 <li><a href="/comments/20210404/1519170.md" target="_blank">川普向大企业开火！发起抵制所有干扰公平选举的企业；美国左派要将监狱人口减半； 美国停发F1签证  2021中国人留学难；曾接种俄疫苗 阿根廷总统确诊；沪京进入“新疆化” 出了什么事？【希望之声TV】</a></li>
 <li><a href="/cbnews/20210404/1519126.md" target="_blank">福建一家五口驾车扫墓途中坠河 酿3死2伤</a></li>
-<li><a href="/cbnews/20210404/1519125.md" target="_blank">地震后再受灾 新疆拜城遭60年不遇暴雪袭击</a></li>
-<li><a href="/cbnews/20210403/1519075.md" target="_blank">撞死警察当场被击毙嫌犯为非裔“伊斯兰民族运动”追随者</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210404/1519593.md" target="_blank">刘锐绍：中共从未想给香港民主普选</a></li>
 <li><a href="/comments/20210404/1519577.md" target="_blank">要方便不要随便！必知的超商即食食品秘密</a></li>
 <li><a href="/comments/20210404/1519569.md" target="_blank">对选举改革法的反对 乔治亚州长：不退缩；生前当房奴死后变坟奴；再改川普政策 拜登悄无声息恢复对巴国援助；周六全美三起枪击案 6死9伤；纽约治安恶化 州共和党领袖：政策失败；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210404/1519561.md" target="_blank">【阉割选举】郑若骅：市民不应投白票 要研究规管是否足够</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210404/1519379.md" target="_blank">海外华人若不割共将永远被鄙视！华人被单挑出垫背不远</a></li>
 <li><a href="/comments/20210404/1519378.md" target="_blank">没了川普话题 美国三大电视网新闻收视率大幅下跌；拜登交通部长被拍假环保作秀 遭舆论嘲讽；俄外交官作证：外国驻朝鲜人员纷纷“逃离”；怕穿帮？党媒称不建议打完疫苗检测抗体【希望之声TV】12am</a></li>
 <li><a href="/comments/20210404/1519377.md" target="_blank">川普总统的子女，个个出类拔萃，让竞争对手都不得不竖起大拇指。川普接受采访，分享育儿经。感人故事，让人深思。</a></li>
-<li><a href="/comments/20210404/1519376.md" target="_blank">一举多得！习近平借新疆棉风波掀内斗 政法系将有大动荡？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
