@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20210404/1519207.md">上海人口管理新规惹争议 官方回应民不买账</a></li>
 <li><a href="/cnnews/20210404/1519392.md">华尔街被骗 中共重竖金融壁垒震撼全球 习近平对台软硬两手被轰</a></li>
 <li><a href="/cbnews/20210404/1519322.md">闫丽梦揭穿世卫造假 误导国际</a></li>
+<li><a href="/cnnews/hknews/20210404/1519542.md">香港机场又有移民潮</a></li>
 <li><a href="/health/20210404/1519243.md">别害羞：提肛运动真的很养生！每天做3分钟，男女都有收获</a></li>
 <li><a href="/cnnews/20210404/1519399.md">突发！2000亿独角兽终止IPO</a></li>
-<li><a href="/cnnews/hknews/20210404/1519542.md">香港机场又有移民潮</a></li>
 <li><a href="/topimagenews/20210404/1519402.md">榨到一分不剩！“巨浪基金”炒股骗局揭秘</a></li>
 <li><a href="/topimagenews/20210404/1519149.md">美联4国军事对抗中共 美共向中共效忠充满奴性 拜登新法案最大受益中共？</a></li>
 <li><a href="/comments/20210404/1519365.md">把大汉奸邓小平吹捧成中国民族利益的维护者，是我见过的最脑残的蠢货渣论！ — 曾节明</a></li>
 <li><a href="/cnnews/20210404/1519251.md">又升级了：不打疫苗，开除</a></li>
 <li><a href="/health/20210404/1519415.md">心梗发出的第一个信号，通常在腹部，很多人当成小毛病，太无知</a></li>
+<li><a href="/bannedvideo/20210404/1519557.md">打疫苗死了，却没有报道</a></li>
 <li><a href="/headline/20210404/1519475.md">美国军舰驶抵长江口？</a></li>
 <li><a href="/cnnews/20210404/1519309.md">广东工人赤脚搅拌八宝粥 民众形容脚底黑色非常恶心</a></li>
 <li><a href="/baitai/20210404/1519189.md">余杰：习近平为何认为「东升西降」的时代已经来临？</a></li>
 <li><a href="/bannedvideo/20210404/1519485.md">4月1日，哈尔滨，网曝一老人坐担架车到房产交易大厅办过户</a></li>
 <li><a href="/headline/20210404/1519497.md">清明节赵紫阳家属拜祭遭监视 北京富强胡同6号要搬清</a></li>
-<li><a href="/comments/20210404/1519509.md">你肯定也吃错！专家惊曝4大伤身早餐</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210405/1519684.md" target="_blank">再也回不去了! 美中会谈火药味浓前国安顾问 :“两国进入新冷战时期”</a></li>
 <li><a href="/cbnews/20210405/1519660.md" target="_blank">舟山外海中国渔船沉没 增至12人遇难、4人失联</a></li>
 <li><a href="/cbnews/20210405/1519658.md" target="_blank">惊人3.2马赫！美军最强间谍机“黑鸟”躲过4千发飞弹毫发未伤</a></li>
 <li><a href="/cbnews/20210404/1519627.md" target="_blank">美日会谈料及台湾局势 菅义伟“台情况对日重要”惟不答会否牵动“集体自卫权”</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210404/1519265.md" target="_blank">大陆小长假：5公里开50分钟 公路估迎1.5亿车次</a></li>
 <li><a href="/cbnews/20210404/1519234.md" target="_blank">俄外长：中俄不需要像北约的军事联盟</a></li>
 <li><a href="/cbnews/20210404/1519233.md" target="_blank">马来西亚外长称王毅是“大哥”挨批</a></li>
-<li><a href="/cbnews/20210404/1519231.md" target="_blank">家长述女儿喝假奶粉致残经历 问题奶粉还在售卖</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210405/1519680.md" target="_blank">脸书逾5亿账号资料外泄 含大量英美香港用户</a></li>
+<li><a href="/comments/20210405/1519679.md" target="_blank">疫情重创德国经济 对外投资呈10年来最低</a></li>
+<li><a href="/comments/20210405/1519676.md" target="_blank">取代巫堃泰上港台《给香港的信》 “梁粉”陈建强力撑国安法、人大改选制</a></li>
 <li><a href="/comments/20210405/1519661.md" target="_blank">（独家）【传统故事】：为什么因一句话，就把这幺小的猪给杀了？</a></li>
 <li><a href="/comments/20210405/1519646.md" target="_blank">华春莹故作神秘 法媒踢爆：挺新疆虚构记者原是央视主播</a></li>
 <li><a href="/comments/20210405/1519645.md" target="_blank">世界大战1个月内爆发？传俄军兵临乌克兰 专家曝开战时间</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210404/1519593.md" target="_blank">刘锐绍：中共从未想给香港民主普选</a></li>
 <li><a href="/comments/20210404/1519577.md" target="_blank">要方便不要随便！必知的超商即食食品秘密</a></li>
 <li><a href="/comments/20210404/1519569.md" target="_blank">对选举改革法的反对 乔治亚州长：不退缩；生前当房奴死后变坟奴；再改川普政策 拜登悄无声息恢复对巴国援助；周六全美三起枪击案 6死9伤；纽约治安恶化 州共和党领袖：政策失败；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210404/1519561.md" target="_blank">【阉割选举】郑若骅：市民不应投白票 要研究规管是否足够</a></li>
-<li><a href="/comments/20210404/1519544.md" target="_blank">中共病毒救济法案阻各州减税 美13州起诉拜登政府</a></li>
-<li><a href="/comments/20210404/1519510.md" target="_blank">清明时节水火温柔相会 教你拥有好心情</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
