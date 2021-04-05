@@ -16,9 +16,9 @@
 <li><a href="/lifebaike/20210405/1519734.md">手机卡顿别光清理垃圾，关闭这几个开关，立马像新的一样流畅</a></li>
 <li><a href="/topimagenews/20210405/1519948.md">神秘到连名字都不知道！美超尖端无人机 身怀惊人绝技</a></li>
 <li><a href="/ssgc/20210405/1519696.md">〖兲朝浮世绘〗人性一旦泯灭，那就离地狱不远了</a></li>
+<li><a href="/cbnews/20210405/1519848.md">习近平亲自批示内蒙反腐 意在胡春华？</a></li>
 <li><a href="/lifebaike/20210405/1519810.md">日本公布长寿的6个好习惯？跑步是第6，第1很多人或许忽视了</a></li>
 <li><a href="/topimagenews/20210405/1519899.md">诡异！他为何2017年就预言川普将面对疫情大爆发？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210405/1519848.md">习近平亲自批示内蒙反腐 意在胡春华？</a></li>
 <li><a href="/cnnews/20210405/1519708.md">惊爆 新疆维族人口少了上百万 中共政坛陷魔咒？云南新疫情，中共引火烧身？甩锅？</a></li>
 <li><a href="/cbnews/20210404/1519583.md">大马外长称王毅"大哥"遭国人围剿 急发推澄清</a></li>
 <li><a href="/cbnews/20210405/1519684.md">再也回不去了! 美中会谈火药味浓前国安顾问 :“两国进入新冷战时期”</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20210405/1519662.md">中国沈海高速发生重大交通事故 已11人死亡</a></li>
 <li><a href="/cbnews/20210405/1519658.md">惊人3.2马赫！美军最强间谍机“黑鸟”躲过4千发飞弹毫发未伤</a></li>
 <li><a href="/cnnews/20210405/1519758.md">南加州华裔妇女大街遛狗 被游民刺死</a></li>
-<li><a href="/headline/20210405/1519653.md">美国军舰现身长江口 中国智库认为针对性强</a></li>
 <li><a href="/cnnews/20210405/1519906.md">性能卓越的B2轰炸机，为何只有美国才能研发？今天涨知识了</a></li>
+<li><a href="/headline/20210405/1519653.md">美国军舰现身长江口 中国智库认为针对性强</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210405/1520142.md" target="_blank">疫情下复活节 纽约五大道满是春天气息；加州下周四起推疫苗护照 公共场所或须出示；梅根投资企业大买新疆产品 人权组织谴责；中共地方官员以各种借口躲避接种疫苗 8AM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210405/1520119.md" target="_blank">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
 <li><a href="/cbnews/20210405/1520045.md" target="_blank">外甥实名举报舅舅 巨额财产来源不明</a></li>
 <li><a href="/cbnews/20210405/1520044.md" target="_blank">中国“清明节”不太平 渔船沉没 4车连撞至少23死</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210405/1519703.md" target="_blank">巨变 反制中共军事联盟正形成 美国日本政界商界大动作 美名校压倒性推翻中资项目</a></li>
 <li><a href="/cbnews/20210405/1519684.md" target="_blank">再也回不去了! 美中会谈火药味浓前国安顾问 :“两国进入新冷战时期”</a></li>
 <li><a href="/cbnews/20210405/1519660.md" target="_blank">舟山外海中国渔船沉没 增至12人遇难、4人失联</a></li>
-<li><a href="/cbnews/20210405/1519658.md" target="_blank">惊人3.2马赫！美军最强间谍机“黑鸟”躲过4千发飞弹毫发未伤</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210405/1520142.md" target="_blank">疫情下复活节 纽约五大道满是春天气息；加州下周四起推疫苗护照 公共场所或须出示；梅根投资企业大买新疆产品 人权组织谴责；中共地方官员以各种借口躲避接种疫苗 8AM【希望之声TV】</a></li>
+<li><a href="/comments/20210405/1520132.md" target="_blank">【沙中线丑闻．下】报告揭钢筋用多一倍 港铁被指把关不力 土木工程师：如私人项目 业主“肯定告你”</a></li>
+<li><a href="/comments/20210405/1520131.md" target="_blank">货品印黄伞被指宣扬黑暴 遭东莞海关没收 周小龙：睇你点演绎、国内营商古灵精怪</a></li>
 <li><a href="/comments/20210405/1520127.md" target="_blank">抵制选举改革之际 美棒球联盟与腾讯等中企签约</a></li>
 <li><a href="/comments/20210405/1520125.md" target="_blank">【杜耀明评论】香港选举制度结束 大陆模式开张</a></li>
 <li><a href="/comments/20210405/1520113.md" target="_blank">抗衡中共海上霸权 日德2+2会谈本月登场</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210405/1519883.md" target="_blank">《五美吟》・林黛玉・曹雪芹</a></li>
 <li><a href="/comments/20210405/1519882.md" target="_blank">中共院士李京文去世 曾挺江泽民拍板巨大争议工程</a></li>
 <li><a href="/comments/20210405/1519881.md" target="_blank">美加强印太合作之际 中共航母通过冲绳加大东海行动</a></li>
-<li><a href="/comments/20210405/1519839.md" target="_blank">美军艾森豪威尔号航母战斗群紧急通过刚刚恢复航运的苏伊士运河 维持对伊朗威慑</a></li>
-<li><a href="/comments/20210405/1519835.md" target="_blank">拜登与川普祝贺公众复活节快乐</a></li>
-<li><a href="/comments/20210405/1519828.md" target="_blank">【微博精粹】苏联共产党解体宣言面世 赵家屏蔽25年</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
