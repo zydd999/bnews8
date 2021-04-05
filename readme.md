@@ -11,9 +11,9 @@
 <li><a href="/cnnews/hknews/20210405/1520057.md">慰问完军机照飞！习近平被批“可以更恶心一点”</a></li>
 <li><a href="/yule/20210405/1519895.md">洪晃与陈凯歌离婚前看心理医生，讲的旧事让医生发毛</a></li>
 <li><a href="/lifebaike/20210405/1519734.md">手机卡顿别光清理垃圾，关闭这几个开关，立马像新的一样流畅</a></li>
-<li><a href="/cbnews/20210405/1519742.md">长寿婆婆高龄134岁 独爱这项蔬果…众人却难下咽？</a></li>
 <li><a href="/topimagenews/20210405/1519948.md">神秘到连名字都不知道！美超尖端无人机 身怀惊人绝技</a></li>
 <li><a href="/lifebaike/20210405/1520000.md">活了30年，才知道罐头上有个小小机关，轻轻一碰就开，根本不用费力气开罐头</a></li>
+<li><a href="/cbnews/20210405/1519742.md">长寿婆婆高龄134岁 独爱这项蔬果…众人却难下咽？</a></li>
 <li><a href="/headline/20210405/1520140.md">4周内爆发世界大战？俄军大动作引担忧</a></li>
 <li><a href="/ssgc/20210405/1520053.md">中共中央下令赵紫阳家属搬离故居</a></li>
 <li><a href="/finance/20210405/1520037.md">马云出事敏感时刻 雷军神秘聚会曝光</a></li>
@@ -23,9 +23,9 @@
 <li><a href="/cnnews/20210405/1520010.md">孙大午被抓4个月有余 两弟媳不再沉默</a></li>
 <li><a href="/topimagenews/20210405/1519899.md">诡异！他为何2017年就预言川普将面对疫情大爆发？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20210405/1520059.md">吉林教师夫妇赴四川探子 一家三口被亲家捅死</a></li>
+<li><a href="/cbnews/20210405/1520240.md">日本外相致电王毅90分钟 罕见强烈批评</a></li>
 <li><a href="/health/20210405/1519998.md">为什么中国人胃癌多？医生忠告：想远离胃癌，4件事要克制</a></li>
 <li><a href="/comments/20210405/1519907.md">假拜登要“金蝉脱壳”了，哈里斯上位指日可待</a></li>
-<li><a href="/cbnews/20210405/1520240.md">日本外相致电王毅90分钟 罕见强烈批评</a></li>
 <li><a href="/cnnews/20210405/1519951.md">打中共病毒疫苗免疫多久？ 专家告诉你</a></li>
 <li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520394.md" target="_blank">索罗斯提供2000万美元推动拜登计划；多州反对疫苗护照；清明节江青墓开放 赵紫阳墓被封？中共10军机扰台 运8闯台东南空域；中国拒服兵役案例再现；关塔那摩秘密监狱囚犯被转移6:00pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210406/1520381.md" target="_blank">专栏 | 夜话中南海：政治局常委恢复邓时代的偶数制也不是没有可能</a></li>
 <li><a href="/cbnews/20210406/1520363.md" target="_blank">美没有司法管辖权？加检方驳斥孟晚舟律师新说法</a></li>
 <li><a href="/cbnews/20210406/1520353.md" target="_blank">王毅称“不认可高人一等的国家” 评论区翻车</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210405/1520044.md" target="_blank">中国“清明节”不太平 渔船沉没 4车连撞至少23死</a></li>
 <li><a href="/cbnews/20210405/1520036.md" target="_blank">BBC记者逃往台湾 专家：讲真话的中国人最危险</a></li>
 <li><a href="/cbnews/20210405/1520014.md" target="_blank">拒绝在新疆军区服役 安徽大学生遭重罚</a></li>
-<li><a href="/cbnews/20210405/1519914.md" target="_blank">他来到五楼的旧房子门前，敲打着那个一碰就震落灰尘的老木门…</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520394.md" target="_blank">索罗斯提供2000万美元推动拜登计划；多州反对疫苗护照；清明节江青墓开放 赵紫阳墓被封？中共10军机扰台 运8闯台东南空域；中国拒服兵役案例再现；关塔那摩秘密监狱囚犯被转移6:00pm【希望之声TV】</a></li>
+<li><a href="/comments/20210406/1520386.md" target="_blank">“外甥”实名举报当官舅舅：上千万巨额财产来源不明 火爆网络</a></li>
 <li><a href="/comments/20210406/1520384.md" target="_blank">权力拜物教主谢几何：中华大腐败的人类史意义（一）</a></li>
 <li><a href="/comments/20210406/1520383.md" target="_blank">方影竹：“十二道菜”不单是给高智晟的</a></li>
 <li><a href="/comments/20210406/1520382.md" target="_blank">曾节明：中国自由文化运动之歌（首发稿）【中国自由文化运动之歌”候选歌词之二十一】</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210406/1520300.md" target="_blank">【47人案】朱凯廸验出眼球退化 正学习越南语与囚友沟通交流</a></li>
 <li><a href="/comments/20210406/1520299.md" target="_blank">恐吓意味浓！辽宁舰与五艘护卫舰南下 中共10军机再扰台</a></li>
 <li><a href="/comments/20210406/1520298.md" target="_blank">赵紫阳家人期限前必须搬离 港媒爆：中央下了口头收房令</a></li>
-<li><a href="/comments/20210406/1520289.md" target="_blank">腾讯等中国科技巨头正将业务重心移往新加坡</a></li>
-<li><a href="/comments/20210406/1520276.md" target="_blank">放射性污水池面临坍塌风险 佛州警告恐酿洪灾</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
