@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210404/1519440.md">打不着的间谍飞机！4000发导弹没伤毫毛 30多年从未被击落的“黑鸟”【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210404/1519392.md">华尔街被骗 中共重竖金融壁垒震撼全球 习近平对台软硬两手被轰</a></li>
-<li><a href="/cbnews/20210404/1519503.md">美军为可能与中共发生全球地面冲突做准备</a></li>
-<li><a href="/cbnews/20210404/1519322.md">闫丽梦揭穿世卫造假 误导国际</a></li>
 <li><a href="/baitai/20210405/1519702.md">世卫顾问：压倒性证据表明 病毒来自实验室</a></li>
+<li><a href="/cbnews/20210404/1519503.md">美军为可能与中共发生全球地面冲突做准备</a></li>
 <li><a href="/cnnews/20210404/1519399.md">突发！2000亿独角兽终止IPO</a></li>
 <li><a href="/cnnews/hknews/20210404/1519542.md">香港机场又有移民潮</a></li>
 <li><a href="/topimagenews/20210404/1519402.md">榨到一分不剩！“巨浪基金”炒股骗局揭秘</a></li>
 <li><a href="/bannedvideo/20210404/1519557.md">打疫苗死了，却没有报道</a></li>
 <li><a href="/comments/20210404/1519365.md">把大汉奸邓小平吹捧成中国民族利益的维护者，是我见过的最脑残的蠢货渣论！ — 曾节明</a></li>
 <li><a href="/ssgc/20210404/1519623.md">北京冬奥会面临的十大尴尬</a></li>
+<li><a href="/funmedia/20210405/1519732.md">面善心狠的人，往往有这3个特征，不可深交</a></li>
 <li><a href="/health/20210404/1519415.md">心梗发出的第一个信号，通常在腹部，很多人当成小毛病，太无知</a></li>
 <li><a href="/comments/20210404/1519634.md">张杰：安慰剂泛滥的中国大陆正走向灾难</a></li>
-<li><a href="/headline/20210404/1519497.md">清明节赵紫阳家属拜祭遭监视 北京富强胡同6号要搬清</a></li>
 <li><a href="/cbnews/20210404/1519583.md">大马外长称王毅"大哥"遭国人围剿 急发推澄清</a></li>
-<li><a href="/funmedia/20210405/1519732.md">面善心狠的人，往往有这3个特征，不可深交</a></li>
+<li><a href="/headline/20210404/1519497.md">清明节赵紫阳家属拜祭遭监视 北京富强胡同6号要搬清</a></li>
 <li><a href="/headline/20210404/1519475.md">美国军舰驶抵长江口？</a></li>
 <li><a href="/topimagenews/20210404/1519391.md">川普：终于到了保守派反击的时候了！最重要的是…【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210404/1519485.md">4月1日，哈尔滨，网曝一老人坐担架车到房产交易大厅办过户</a></li>
-<li><a href="/cbnews/20210404/1519320.md">淘宝罩头蚊帐热卖 网民嘲似“瞻仰遗容”</a></li>
 <li><a href="/comments/20210404/1519509.md">你肯定也吃错！专家惊曝4大伤身早餐</a></li>
-<li><a href="/cbnews/20210405/1519684.md">再也回不去了! 美中会谈火药味浓前国安顾问 :“两国进入新冷战时期”</a></li>
 <li><a href="/ssgc/20210405/1519696.md">〖兲朝浮世绘〗人性一旦泯灭，那就离地狱不远了</a></li>
+<li><a href="/cbnews/20210405/1519684.md">再也回不去了! 美中会谈火药味浓前国安顾问 :“两国进入新冷战时期”</a></li>
+<li><a href="/topimagenews/20210405/1519671.md">北卡州亚裔便利店遭砸大肆破坏 歹徒相片曝光</a></li>
+<li><a href="/cnnews/20210405/1519662.md">中国沈海高速发生重大交通事故 已11人死亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210405/1519871.md" target="_blank">学者：中共与缅各方势力均有勾连 使局势错综复杂</a></li>
+<li><a href="/cbnews/20210405/1519870.md" target="_blank">清明节不太平 中国曝船难加车祸至少23死</a></li>
 <li><a href="/cbnews/20210405/1519848.md" target="_blank">习近平亲自批示内蒙反腐 意在胡春华？</a></li>
 <li><a href="/cbnews/20210405/1519819.md" target="_blank">中共辽宁舰等六舰通过冲绳 日本监控动向</a></li>
 <li><a href="/cbnews/20210405/1519772.md" target="_blank">中共地方官员不愿接种疫苗 以各种借口躲避</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210404/1519574.md" target="_blank">新疆棉被力挺时的另一种声音：可以支持新疆人吗？</a></li>
 <li><a href="/comments/20210404/1519569.md" target="_blank">对选举改革法的反对 乔治亚州长：不退缩；生前当房奴死后变坟奴；再改川普政策 拜登悄无声息恢复对巴国援助；周六全美三起枪击案 6死9伤；纽约治安恶化 州共和党领袖：政策失败；8am【希望之声TV】</a></li>
 <li><a href="/cbnews/20210404/1519503.md" target="_blank">美军为可能与中共发生全球地面冲突做准备</a></li>
-<li><a href="/cbnews/20210404/1519398.md" target="_blank">美议员问拜登：你会因种族灭绝抵制北京奥运吗？</a></li>
-<li><a href="/cbnews/20210404/1519383.md" target="_blank">中共秘密布局盯上此国 党媒为何不建议打完疫苗测抗体 5国外长访福建警告台湾？大逆转</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200516/1329276.md" target="_blank">美国国会大厦特别升旗 向法轮大法创始人李洪志先生致敬</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
