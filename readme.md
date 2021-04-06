@@ -8,7 +8,6 @@
 <li><a href="/cnnews/hknews/20210405/1520057.md">慰问完军机照飞！习近平被批“可以更恶心一点”</a></li>
 <li><a href="/headline/20210405/1520140.md">4周内爆发世界大战？俄军大动作引担忧</a></li>
 <li><a href="/ssgc/20210405/1520053.md">中共中央下令赵紫阳家属搬离故居</a></li>
-<li><a href="/finance/20210405/1520037.md">马云出事敏感时刻 雷军神秘聚会曝光</a></li>
 <li><a href="/cbnews/20210405/1520178.md">马云拍集体照溜边视频热传 网友：想起了习一尊</a></li>
 <li><a href="/cbnews/20210406/1520353.md">王毅称“不认可高人一等的国家” 评论区翻车</a></li>
 <li><a href="/topimagenews/20210406/1520399.md">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cbnews/20210406/1520524.md">天亮时分：一条两亿人观看的贴文，暗示了中国未来的走向（政论天下第394集 20210405）</a></li>
 <li><a href="/comments/20210406/1520322.md">文字狱越演越烈！中国网红“国骂哥”被判刑14个月</a></li>
 <li><a href="/cbnews/20210406/1520585.md">习近平对政法委的大清洗已经开始?公检法“特别害怕”！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
 <li><a href="/baitai/20210406/1520314.md">武汉大暴雨，32万人挤满陵园：人群散去，他们哭了</a></li>
-<li><a href="/ssgc/20210406/1520352.md">〖兲朝浮世绘〗半个世纪以来 文革从未远离我们</a></li>
+<li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
 <li><a href="/cnnews/20210406/1520555.md">冯小刚已放弃治疗白癜风 面部苍白近照曝光</a></li>
+<li><a href="/ssgc/20210406/1520352.md">〖兲朝浮世绘〗半个世纪以来 文革从未远离我们</a></li>
 <li><a href="/cbnews/20210406/1520381.md">专栏 | 夜话中南海：政治局常委恢复邓时代的偶数制也不是没有可能</a></li>
 <li><a href="/cbnews/20210406/1520316.md">一晚1200元坐地起价？ 泰山山顶酒店游客挤厕所过夜</a></li>
+<li><a href="/cnnews/20210405/1520157.md">沈舟：中共挑衅升级 美中航母或首次对峙</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210406/1520711.md" target="_blank">中共借司法整顿打压人权律师群体</a></li>
 <li><a href="/cbnews/20210406/1520691.md" target="_blank">韩正上海市委书记时“大管家” 河南省长尹弘“明为升迁实为腾位”</a></li>
 <li><a href="/cbnews/20210406/1520679.md" target="_blank">清明节记录武汉人的眼泪 网文被全网删除</a></li>
 <li><a href="/cbnews/20210406/1520646.md" target="_blank">中共航母编队穿过宫古海峡 日本罕见强烈回应</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210406/1520381.md" target="_blank">专栏 | 夜话中南海：政治局常委恢复邓时代的偶数制也不是没有可能</a></li>
 <li><a href="/cbnews/20210406/1520363.md" target="_blank">美没有司法管辖权？加检方驳斥孟晚舟律师新说法</a></li>
 <li><a href="/cbnews/20210406/1520353.md" target="_blank">王毅称“不认可高人一等的国家” 评论区翻车</a></li>
-<li><a href="/cbnews/20210406/1520339.md" target="_blank">出价破亿村民拒卖 陆“千年楠木王”曝光 揭开神秘传说</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520710.md" target="_blank">阿根廷总统接种俄产疫苗后确诊 普京致电慰问</a></li>
 <li><a href="/comments/20210406/1520686.md" target="_blank">【阉割选举】聂德权：改选举制度与国安法为“组合拳” 中央诚心希望一国两制成功</a></li>
 <li><a href="/comments/20210406/1520665.md" target="_blank">越南现任总理阮春福出任国家主席 越南史上首次</a></li>
 <li><a href="/comments/20210406/1520626.md" target="_blank">不满中共阻联合国制裁 缅甸民众戴“噤声面具”抗议</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210406/1520477.md" target="_blank">琼瑶御用童星红极一时 40岁自嘲过气很久</a></li>
 <li><a href="/comments/20210406/1520472.md" target="_blank">陶杰：KOL和民族基因问题</a></li>
 <li><a href="/comments/20210406/1520466.md" target="_blank">德日将举行首次2+2对话，联手遏制中共</a></li>
-<li><a href="/comments/20210406/1520458.md" target="_blank">洋葱皮也可当天然染料</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 
 </ul>
 </div>
