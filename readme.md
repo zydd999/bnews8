@@ -10,24 +10,24 @@
 <li><a href="/yule/20210405/1519895.md">洪晃与陈凯歌离婚前看心理医生，讲的旧事让医生发毛</a></li>
 <li><a href="/lifebaike/20210405/1520000.md">活了30年，才知道罐头上有个小小机关，轻轻一碰就开，根本不用费力气开罐头</a></li>
 <li><a href="/topimagenews/20210405/1519948.md">神秘到连名字都不知道！美超尖端无人机 身怀惊人绝技</a></li>
-<li><a href="/cbnews/20210405/1519742.md">长寿婆婆高龄134岁 独爱这项蔬果…众人却难下咽？</a></li>
 <li><a href="/headline/20210405/1520140.md">4周内爆发世界大战？俄军大动作引担忧</a></li>
 <li><a href="/ssgc/20210405/1520053.md">中共中央下令赵紫阳家属搬离故居</a></li>
 <li><a href="/finance/20210405/1520037.md">马云出事敏感时刻 雷军神秘聚会曝光</a></li>
 <li><a href="/cbnews/20210405/1520178.md">马云拍集体照溜边视频热传 网友：想起了习一尊</a></li>
 <li><a href="/cbnews/20210405/1519848.md">习近平亲自批示内蒙反腐 意在胡春华？</a></li>
-<li><a href="/lifebaike/20210405/1519810.md">日本公布长寿的6个好习惯？跑步是第6，第1很多人或许忽视了</a></li>
 <li><a href="/cbnews/20210405/1520240.md">日本外相致电王毅90分钟 罕见强烈批评</a></li>
+<li><a href="/lifebaike/20210405/1519810.md">日本公布长寿的6个好习惯？跑步是第6，第1很多人或许忽视了</a></li>
 <li><a href="/cnnews/20210405/1520010.md">孙大午被抓4个月有余 两弟媳不再沉默</a></li>
 <li><a href="/topimagenews/20210405/1519899.md">诡异！他为何2017年就预言川普将面对疫情大爆发？【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20210405/1520059.md">吉林教师夫妇赴四川探子 一家三口被亲家捅死</a></li>
 <li><a href="/health/20210405/1519998.md">为什么中国人胃癌多？医生忠告：想远离胃癌，4件事要克制</a></li>
 <li><a href="/comments/20210405/1519907.md">假拜登要“金蝉脱壳”了，哈里斯上位指日可待</a></li>
+<li><a href="/cbnews/20210406/1520353.md">王毅称“不认可高人一等的国家” 评论区翻车</a></li>
 <li><a href="/cnnews/20210405/1519951.md">打中共病毒疫苗免疫多久？ 专家告诉你</a></li>
 <li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
 <li><a href="/bannedvideo/20210405/1520141.md">1贪官在港拥2700套房？4周内爆发世界大战？“辽宁号”动作诡异；大陆强制备孕妇女接种；新毒株恐令疫苗失效！东京、巴西变种病毒扩散</a></li>
+<li><a href="/cbnews/20210405/1520177.md">中国大陆再现拒服兵役的真实原因 分析指若爆发战争恐遇更大反抗</a></li>
 <li><a href="/ssgc/20210405/1519857.md">〖微博谈〗让人以为国药疫苗已获得欧盟批准</a></li>
-<li><a href="/cbnews/20210405/1520014.md">拒绝在新疆军区服役 安徽大学生遭重罚</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520434.md" target="_blank">南海台海全面提升军事施压，习近平意欲何为？全美职棒抵制乔州立法却与腾讯签约，体现什么价值观？</a></li>
+<li><a href="/cbnews/20210406/1520431.md" target="_blank">文昭：美日50年未有的合围，美军舰抵近长江口！中国在一关键领域弯道超车？起步就弄错了</a></li>
+<li><a href="/comments/20210406/1520430.md" target="_blank">《战情解析》第十九期，习近平强势对抗，全面出击，首战极有可能会在南海</a></li>
+<li><a href="/comments/20210406/1520423.md" target="_blank">中东现新危局 东海南海紧张 主持：高洁  嘉宾：林晓旭【希望之声TV】(2021/04/05)</a></li>
 <li><a href="/cbnews/20210406/1520414.md" target="_blank">河南民警网上留遗言 称举报上级遭异地追杀</a></li>
 <li><a href="/comments/20210406/1520394.md" target="_blank">索罗斯提供2000万美元推动拜登计划；多州反对疫苗护照；清明节江青墓开放 赵紫阳墓被封？中共10军机扰台 运8闯台东南空域；中国拒服兵役案例再现；关塔那摩秘密监狱囚犯被转移6:00pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210406/1520381.md" target="_blank">专栏 | 夜话中南海：政治局常委恢复邓时代的偶数制也不是没有可能</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20210405/1520152.md" target="_blank">美国思想领袖：美国华裔：亚裔优秀成就被侵袭！如果某些少数族群享有特权的话，会出现什麽情况？左派媒体刻意营造的恐惧文化！| 大纪元</a></li>
 <li><a href="/cbnews/20210405/1520145.md" target="_blank">遏止中共野心 日德高层将举行2+2会谈</a></li>
 <li><a href="/comments/20210405/1520142.md" target="_blank">疫情下复活节 纽约五大道满是春天气息；加州下周四起推疫苗护照 公共场所或须出示；梅根投资企业大买新疆产品 人权组织谴责；中共地方官员以各种借口躲避接种疫苗 8AM【希望之声TV】</a></li>
-<li><a href="/cbnews/20210405/1520119.md" target="_blank">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
-<li><a href="/cbnews/20210405/1520045.md" target="_blank">外甥实名举报舅舅 巨额财产来源不明</a></li>
-<li><a href="/cbnews/20210405/1520044.md" target="_blank">中国“清明节”不太平 渔船沉没 4车连撞至少23死</a></li>
-<li><a href="/cbnews/20210405/1520036.md" target="_blank">BBC记者逃往台湾 专家：讲真话的中国人最危险</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520434.md" target="_blank">南海台海全面提升军事施压，习近平意欲何为？全美职棒抵制乔州立法却与腾讯签约，体现什么价值观？</a></li>
+<li><a href="/comments/20210406/1520430.md" target="_blank">《战情解析》第十九期，习近平强势对抗，全面出击，首战极有可能会在南海</a></li>
+<li><a href="/comments/20210406/1520428.md" target="_blank">毛泽东妻江青墓清明节开放 赵紫阳墓被封 体现习近平的政治方向？中办口头下令赵紫阳家人搬家 清明节开始打包 中南海谣言预言_451</a></li>
+<li><a href="/comments/20210406/1520425.md" target="_blank">地球人向假想外星生命发送的神秘信号 您知晓吗?</a></li>
+<li><a href="/comments/20210406/1520423.md" target="_blank">中东现新危局 东海南海紧张 主持：高洁  嘉宾：林晓旭【希望之声TV】(2021/04/05)</a></li>
 <li><a href="/comments/20210406/1520406.md" target="_blank">【北美生活】大蒜种植5个技巧你不容错过</a></li>
 <li><a href="/comments/20210406/1520394.md" target="_blank">索罗斯提供2000万美元推动拜登计划；多州反对疫苗护照；清明节江青墓开放 赵紫阳墓被封？中共10军机扰台 运8闯台东南空域；中国拒服兵役案例再现；关塔那摩秘密监狱囚犯被转移6:00pm【希望之声TV】</a></li>
 <li><a href="/comments/20210406/1520386.md" target="_blank">“外甥”实名举报当官舅舅：上千万巨额财产来源不明 火爆网络</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210406/1520321.md" target="_blank">怒批中共作梗阻联合国介入 缅甸民众戴“噤声面具”游行</a></li>
 <li><a href="/comments/20210406/1520320.md" target="_blank">吓死！他挑战英国最高海岸 跳伞没打开竟奇迹生还</a></li>
 <li><a href="/comments/20210406/1520318.md" target="_blank">【直播】 今天主题：中共渗透台湾 无孔不入 主持：梓枫【希望之声TV】</a></li>
-<li><a href="/comments/20210406/1520313.md" target="_blank">王毅再为中美关系“造新词” 外媒评中共外交窘境</a></li>
-<li><a href="/comments/20210406/1520312.md" target="_blank">一条贴文两周阅读量超2亿 中共延迟退休引关注</a></li>
-<li><a href="/comments/20210406/1520301.md" target="_blank">中国顶级富豪神秘聚会现场照片曝光 马云缺席 泰山会解散后陆媒再点名又一顶级富豪神秘圈 阿里巴巴北京总部成立党委 马云大势已去陷入“人为刀俎我为鱼肉”境地</a></li>
-<li><a href="/comments/20210406/1520300.md" target="_blank">【47人案】朱凯廸验出眼球退化 正学习越南语与囚友沟通交流</a></li>
-<li><a href="/comments/20210406/1520299.md" target="_blank">恐吓意味浓！辽宁舰与五艘护卫舰南下 中共10军机再扰台</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
