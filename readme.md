@@ -12,22 +12,22 @@
 <li><a href="/headline/20210405/1520140.md">4周内爆发世界大战？俄军大动作引担忧</a></li>
 <li><a href="/ssgc/20210405/1520053.md">中共中央下令赵紫阳家属搬离故居</a></li>
 <li><a href="/finance/20210405/1520037.md">马云出事敏感时刻 雷军神秘聚会曝光</a></li>
-<li><a href="/cbnews/20210405/1520178.md">马云拍集体照溜边视频热传 网友：想起了习一尊</a></li>
 <li><a href="/cbnews/20210406/1520353.md">王毅称“不认可高人一等的国家” 评论区翻车</a></li>
+<li><a href="/cbnews/20210405/1520178.md">马云拍集体照溜边视频热传 网友：想起了习一尊</a></li>
 <li><a href="/cbnews/20210405/1520240.md">日本外相致电王毅90分钟 罕见强烈批评</a></li>
 <li><a href="/topimagenews/20210405/1519899.md">诡异！他为何2017年就预言川普将面对疫情大爆发？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20210405/1520010.md">孙大午被抓4个月有余 两弟媳不再沉默</a></li>
 <li><a href="/lifebaike/20210405/1520059.md">吉林教师夫妇赴四川探子 一家三口被亲家捅死</a></li>
 <li><a href="/health/20210405/1519998.md">为什么中国人胃癌多？医生忠告：想远离胃癌，4件事要克制</a></li>
 <li><a href="/comments/20210405/1519907.md">假拜登要“金蝉脱壳”了，哈里斯上位指日可待</a></li>
+<li><a href="/topimagenews/20210406/1520399.md">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
 <li><a href="/cbnews/20210405/1520177.md">中国大陆再现拒服兵役的真实原因 分析指若爆发战争恐遇更大反抗</a></li>
 <li><a href="/bannedvideo/20210405/1520141.md">1贪官在港拥2700套房？4周内爆发世界大战？“辽宁号”动作诡异；大陆强制备孕妇女接种；新毒株恐令疫苗失效！东京、巴西变种病毒扩散</a></li>
 <li><a href="/cnnews/20210405/1519951.md">打中共病毒疫苗免疫多久？ 专家告诉你</a></li>
-<li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
+<li><a href="/cnnews/20210406/1520358.md">美国空军为第三次世界大战做准备</a></li>
 <li><a href="/comments/20210406/1520322.md">文字狱越演越烈！中国网红“国骂哥”被判刑14个月</a></li>
+<li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
 <li><a href="/cnnews/20210405/1520157.md">沈舟：中共挑衅升级 美中航母或首次对峙</a></li>
-<li><a href="/ssgc/20210405/1519857.md">〖微博谈〗让人以为国药疫苗已获得欧盟批准</a></li>
-<li><a href="/topimagenews/20210406/1520399.md">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520556.md" target="_blank">川普拉黑批评者！高院撤川普有罪案；选举必改革  全美47州提361个限制性投票法案；日本外相致电王毅90分钟 罕见对中共放狠话；美法日联合军演 美备战中共全球地面冲突【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210406/1520528.md" target="_blank">中共频繁挑衅美盟友 专家：旨在测试拜登</a></li>
 <li><a href="/cbnews/20210406/1520527.md" target="_blank">武汉清明祭扫 数十万人挤满陵园 当局噤声</a></li>
 <li><a href="/cbnews/20210406/1520526.md" target="_blank">躲过这次躲不过下次？强打疫苗 社区恐吓居民认清形势</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210405/1520177.md" target="_blank">中国大陆再现拒服兵役的真实原因 分析指若爆发战争恐遇更大反抗</a></li>
 <li><a href="/cbnews/20210405/1520176.md" target="_blank">传云南瑞丽建方舱隔离医院 3高风险区 6中风险区</a></li>
 <li><a href="/comments/20210405/1520166.md" target="_blank">耶稣受难日，牧师痛骂警察视频流出，引出当前最有争议性话题。现代细胞生物学与中国古代中医，对病毒的认识，竟然不谋而合。</a></li>
-<li><a href="/cbnews/20210405/1520154.md" target="_blank">“三座祖坟不见了” 广西男祭祖傻眼：全变甘蔗园</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520556.md" target="_blank">川普拉黑批评者！高院撤川普有罪案；选举必改革  全美47州提361个限制性投票法案；日本外相致电王毅90分钟 罕见对中共放狠话；美法日联合军演 美备战中共全球地面冲突【希望之声TV】10pm</a></li>
 <li><a href="/comments/20210406/1520547.md" target="_blank">反对抵制选举改革 德州州长拒绝出席MLB仪式</a></li>
 <li><a href="/comments/20210406/1520536.md" target="_blank">孙立平：原敌意识：没来由地对他人抱有敌意</a></li>
 <li><a href="/comments/20210406/1520520.md" target="_blank">习为“爱将”预定二十大高位？敏感时刻 新疆书记陈全国罕见露面</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210406/1520384.md" target="_blank">权力拜物教主谢几何：中华大腐败的人类史意义（一）</a></li>
 <li><a href="/comments/20210406/1520383.md" target="_blank">方影竹：“十二道菜”不单是给高智晟的</a></li>
 <li><a href="/comments/20210406/1520382.md" target="_blank">曾节明：中国自由文化运动之歌（首发稿）【中国自由文化运动之歌”候选歌词之二十一】</a></li>
-<li><a href="/comments/20210406/1520377.md" target="_blank">太空大战开打？美中俄卫星三周内相继解体 七大原因猜测 美俄卫星曾发生太空大碰撞 俄罗斯卫星解体当天英国太空司令部正式启动</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
 <li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 <li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
