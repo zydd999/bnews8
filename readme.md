@@ -20,10 +20,10 @@
 <li><a href="/cnnews/20210406/1520358.md">美国空军为第三次世界大战做准备</a></li>
 <li><a href="/bannedvideo/20210405/1520141.md">1贪官在港拥2700套房？4周内爆发世界大战？“辽宁号”动作诡异；大陆强制备孕妇女接种；新毒株恐令疫苗失效！东京、巴西变种病毒扩散</a></li>
 <li><a href="/cbnews/20210405/1520177.md">中国大陆再现拒服兵役的真实原因 分析指若爆发战争恐遇更大反抗</a></li>
+<li><a href="/funmedia/20210406/1520451.md">看一个女人随不随便，只需要看这4点表现，马上就知道</a></li>
 <li><a href="/comments/20210406/1520322.md">文字狱越演越烈！中国网红“国骂哥”被判刑14个月</a></li>
 <li><a href="/baitai/20210406/1520314.md">武汉大暴雨，32万人挤满陵园：人群散去，他们哭了</a></li>
 <li><a href="/cbnews/20210405/1520119.md">美军现身长江口航母进南海；备战与中共全球地面冲突；中共智库：实战部署针对性强</a></li>
-<li><a href="/funmedia/20210406/1520451.md">看一个女人随不随便，只需要看这4点表现，马上就知道</a></li>
 <li><a href="/ssgc/20210406/1520352.md">〖兲朝浮世绘〗半个世纪以来 文革从未远离我们</a></li>
 <li><a href="/cnnews/20210405/1520157.md">沈舟：中共挑衅升级 美中航母或首次对峙</a></li>
 <li><a href="/cbnews/20210406/1520316.md">一晚1200元坐地起价？ 泰山山顶酒店游客挤厕所过夜</a></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210406/1520626.md" target="_blank">不满中共阻联合国制裁 缅甸民众戴“噤声面具”抗议</a></li>
+<li><a href="/comments/20210406/1520625.md" target="_blank">中共加剧挑衅台日菲 专家：测试拜登会否付诸行动</a></li>
+<li><a href="/comments/20210406/1520624.md" target="_blank">营养师：草莓营养价值高，但三种人食用要小心</a></li>
+<li><a href="/comments/20210406/1520622.md" target="_blank">【阉割选举】刘慧卿：民主派应考虑不参选 议会外仍可“和理非”争取民主</a></li>
 <li><a href="/comments/20210406/1520574.md" target="_blank">中共垮台后前瞻：未来中国的五大危机 — 曾节明</a></li>
 <li><a href="/comments/20210406/1520587.md" target="_blank">一触即发？拜登杠上普京！害怕复活节？推特再禁议员发声！法国假记者挺新疆假和谐 真实身份曝光；“只要接手 房子白送” 环北京楼市现暴跌；【希望之声TV】</a></li>
 <li><a href="/comments/20210406/1520577.md" target="_blank">毛新宇一家四口现身湖南 中共中宣部长黄坤明祭奠毛泽东 毕福剑调侃毛泽东事件五周年 知情者曝拍摄内幕 中南海不可告人的秘密_353</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210406/1520458.md" target="_blank">洋葱皮也可当天然染料</a></li>
 <li><a href="/comments/20210406/1520453.md" target="_blank">对不起，您拜访的墓地已欠费 更不敢死了</a></li>
 <li><a href="/comments/20210406/1520445.md" target="_blank">毛泽东时代终结的先声 中国政治反对派正式登上历史舞台 四五运动45周年 习近平为何沉默？陈云在东北小组讨论会上“爆炸性发言” 四五运动获得平反内幕 中南海不可告人的秘密_352</a></li>
-<li><a href="/comments/20210406/1520434.md" target="_blank">南海台海全面提升军事施压，习近平意欲何为？全美职棒抵制乔州立法却与腾讯签约，体现什么价值观？</a></li>
-<li><a href="/comments/20210406/1520430.md" target="_blank">《战情解析》第十九期，习近平强势对抗，全面出击，首战极有可能会在南海</a></li>
-<li><a href="/comments/20210406/1520428.md" target="_blank">毛泽东妻江青墓清明节开放 赵紫阳墓被封 体现习近平的政治方向？中办口头下令赵紫阳家人搬家 清明节开始打包 中南海谣言预言_451</a></li>
-<li><a href="/comments/20210406/1520425.md" target="_blank">地球人向假想外星生命发送的神秘信号 您知晓吗?</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 
 </ul>
 </div>
