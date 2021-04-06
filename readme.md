@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/topimagenews/20210406/1520399.md">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
 <li><a href="/funmedia/20210406/1520451.md">看一个女人随不随便，只需要看这4点表现，马上就知道</a></li>
 <li><a href="/comments/20210406/1520836.md">北京某领导的惊人发言，讲完全场鸦雀无声</a></li>
 <li><a href="/cbnews/20210406/1520691.md">韩正上海市委书记时“大管家” 河南省长尹弘“明为升迁实为腾位”</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20210406/1520584.md">中共大使辱骂加总理后 又瞄准日本首相 网友嘲讽</a></li>
 <li><a href="/cnnews/20210406/1520573.md">安徽女教师穿嫁衣改试卷 惹热议</a></li>
 <li><a href="/bannedvideo/20210406/1520613.md">炮轰开始！俄乌大战在即 美军誓保乌克兰；港元美元脱钩机会极低？；红火蚁入侵中国12省；前政协委员：中国在快速滑向灾难；全面脱贫？美记者揭中国农民真实处境</a></li>
+<li><a href="/bannedvideo/20210406/1520623.md">广东，交警团团围住骑电动车的姑娘。视频中交警：你配不配合我们的工作，姑娘：不配合。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210407/1521119.md" target="_blank">一女子独闯高校教室 指着一名男教师的鼻子称其：“下药强奸”</a></li>
 <li><a href="/comments/20210407/1521118.md" target="_blank">苏伊士运河又堵！疫苗护照风波再劲！ 美多州欲禁止；共和党人吁脸书禁维族的广告；格陵兰岛大选聚焦中共国企公司；双重标准？大公司反扑？抨击选民身份认证； BBC记者遭遇的中国式民主【希望之声TV】</a></li>
 <li><a href="/cbnews/20210407/1521080.md" target="_blank">网曝大陆居民打疫苗亡</a></li>
 <li><a href="/cbnews/20210407/1521042.md" target="_blank">保安以为来送餐…外送员回家被挡 大哭：我是业主</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210406/1520250.md" target="_blank">德国小伙修炼法轮功摆脱电玩 走入真实人生</a></li>
 <li><a href="/comments/20210406/1520587.md" target="_blank">一触即发？拜登杠上普京！害怕复活节？推特再禁议员发声！法国假记者挺新疆假和谐 真实身份曝光；“只要接手 房子白送” 环北京楼市现暴跌；【希望之声TV】</a></li>
 <li><a href="/cbnews/20210406/1520585.md" target="_blank">习近平对政法委的大清洗已经开始?公检法“特别害怕”！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210406/1520584.md" target="_blank">中共大使辱骂加总理后 又瞄准日本首相 网友嘲讽</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210407/1521129.md" target="_blank">无惧中共制裁 美宗教自由副主席：信仰追求不会被扼杀</a></li>
 <li><a href="/comments/20210407/1521118.md" target="_blank">苏伊士运河又堵！疫苗护照风波再劲！ 美多州欲禁止；共和党人吁脸书禁维族的广告；格陵兰岛大选聚焦中共国企公司；双重标准？大公司反扑？抨击选民身份认证； BBC记者遭遇的中国式民主【希望之声TV】</a></li>
 <li><a href="/comments/20210407/1521111.md" target="_blank">美马里兰州爆枪击 军医射伤两男后闯陆军基地</a></li>
 <li><a href="/comments/20210407/1521096.md" target="_blank">罗斯福号航母战斗群重返南中国海 英德也宣布将派遣军舰前往</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210407/1520972.md" target="_blank">美专栏作家：川普或进军众议院 在2022年任议长</a></li>
 <li><a href="/comments/20210407/1520971.md" target="_blank">两大军种抗中！美军事网站︰海岸防卫队联手陆战队对付海上​​民兵</a></li>
 <li><a href="/comments/20210407/1520963.md" target="_blank">李燕铭：习王旧部深度清洗江泽民云南帮 八官员密集落马 昆明副市长王冰被查</a></li>
-<li><a href="/comments/20210407/1520960.md" target="_blank">民调显宗教人数跌破50% 名主播：美国人已被奴役</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200203/1269785.md" target="_blank">《大明劫》中的大瘟疫之劫</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 
 </ul>
 </div>
