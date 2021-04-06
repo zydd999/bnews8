@@ -9,10 +9,10 @@
 <li><a href="/topimagenews/20210406/1520399.md">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
 <li><a href="/funmedia/20210406/1520451.md">看一个女人随不随便，只需要看这4点表现，马上就知道</a></li>
 <li><a href="/cnnews/20210406/1520358.md">美国空军为第三次世界大战做准备</a></li>
-<li><a href="/cbnews/20210406/1520691.md">韩正上海市委书记时“大管家” 河南省长尹弘“明为升迁实为腾位”</a></li>
+<li><a href="/comments/20210406/1520836.md">北京某领导的惊人发言，讲完全场鸦雀无声</a></li>
 <li><a href="/cbnews/20210406/1520524.md">天亮时分：一条两亿人观看的贴文，暗示了中国未来的走向（政论天下第394集 20210405）</a></li>
 <li><a href="/cbnews/20210406/1520527.md">武汉清明祭扫 数十万人挤满陵园 当局噤声</a></li>
-<li><a href="/comments/20210406/1520836.md">北京某领导的惊人发言，讲完全场鸦雀无声</a></li>
+<li><a href="/cbnews/20210406/1520691.md">韩正上海市委书记时“大管家” 河南省长尹弘“明为升迁实为腾位”</a></li>
 <li><a href="/cbnews/20210406/1520585.md">习近平对政法委的大清洗已经开始?公检法“特别害怕”！【阿波罗网报道】</a></li>
 <li><a href="/comments/20210406/1520725.md">魏晋：习近平曾做错一件事 福建省委书记大为恼火</a></li>
 <li><a href="/bannedvideo/20210406/1520701.md">中南海荒唐往事，这种货色也成政治局常委--天钧政经</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/cbnews/20210406/1520381.md">专栏 | 夜话中南海：政治局常委恢复邓时代的偶数制也不是没有可能</a></li>
 <li><a href="/yule/20210406/1520779.md">八年前她是杨幂助理 八年后和杨幂平起平坐</a></li>
 <li><a href="/cbnews/20210406/1520526.md">躲过这次躲不过下次？强打疫苗 社区恐吓居民认清形势</a></li>
-<li><a href="/yule/20210406/1520332.md">Papi酱背后的男人，养她到27岁供她考研</a></li>
 <li><a href="/bannedvideo/20210406/1520715.md">3月24日，网友在广西巴马旅游时，看到有一个老人独自背着竹篓上山卖水果。女网友上前问了老奶奶的年龄，她说今年102岁了。</a></li>
 <li><a href="/comments/20210406/1520574.md">中共垮台后前瞻：未来中国的五大危机 — 曾节明</a></li>
+<li><a href="/cbnews/20210406/1520584.md">中共大使辱骂加总理后 又瞄准日本首相 网友嘲讽</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210407/1521028.md" target="_blank">网传中共军队开抵缅甸缪斯镇 街上停满军车</a></li>
 <li><a href="/cbnews/20210407/1520989.md" target="_blank">中共南海侵略行径频传 美两大军种宣布联手抗中</a></li>
 <li><a href="/cbnews/20210407/1520965.md" target="_blank">养子婚礼看新娘胎记 家姑重遇失散女儿</a></li>
 <li><a href="/comments/20210407/1520959.md" target="_blank">川普2022任众议长？台铁惨剧人为？影像还原真相；托马斯：大科技公司即将面临清算；左媒歪曲 民主党人挺身维护佛州州长；辱骂加总理后 战狼又瞄准日相；什么信号？美各军种账号统一变蓝！【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210406/1520556.md" target="_blank">川普拉黑批评者！高院撤川普有罪案；选举必改革  全美47州提361个限制性投票法案；日本外相致电王毅90分钟 罕见对中共放狠话；美法日联合军演 美备战中共全球地面冲突【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210406/1520528.md" target="_blank">中共频繁挑衅美盟友 专家：旨在测试拜登</a></li>
 <li><a href="/cbnews/20210406/1520527.md" target="_blank">武汉清明祭扫 数十万人挤满陵园 当局噤声</a></li>
-<li><a href="/cbnews/20210406/1520526.md" target="_blank">躲过这次躲不过下次？强打疫苗 社区恐吓居民认清形势</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210407/1521025.md" target="_blank">担忧泡沫风险 传中共央行将限制银行贷款增长</a></li>
 <li><a href="/comments/20210407/1521019.md" target="_blank">逆转川普政策尝苦果 拜登或不得不续修边界墙</a></li>
 <li><a href="/comments/20210407/1521018.md" target="_blank">分析：加税或使美企盈利减少9% 全球竞争力下降</a></li>
 <li><a href="/comments/20210407/1521015.md" target="_blank">毛泽东嫡孙毛新宇率家人亮相湖南 网友大惊：儿女和他超不像</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210406/1520892.md" target="_blank">数据：取消口罩令后 德州染疫数创历史新低</a></li>
 <li><a href="/comments/20210406/1520891.md" target="_blank">消息：中共盯上美国法轮功学员 追踪个人信息</a></li>
 <li><a href="/comments/20210406/1520857.md" target="_blank">美康奈尔等大学要求学生今秋入学前接种疫苗</a></li>
-<li><a href="/comments/20210406/1520856.md" target="_blank">空姐为口罩挑战乘客 导致整航班乘客下机</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200823/1384378.md" target="_blank">俄罗斯科学家发现：病毒载有精神道德信息</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
