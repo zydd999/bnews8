@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210406/1520353.md">王毅称“不认可高人一等的国家” 评论区翻车</a></li>
 <li><a href="/topimagenews/20210406/1520399.md">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
 <li><a href="/funmedia/20210406/1520451.md">看一个女人随不随便，只需要看这4点表现，马上就知道</a></li>
-<li><a href="/cnnews/20210406/1520358.md">美国空军为第三次世界大战做准备</a></li>
 <li><a href="/comments/20210406/1520836.md">北京某领导的惊人发言，讲完全场鸦雀无声</a></li>
 <li><a href="/cbnews/20210406/1520691.md">韩正上海市委书记时“大管家” 河南省长尹弘“明为升迁实为腾位”</a></li>
 <li><a href="/cbnews/20210406/1520524.md">天亮时分：一条两亿人观看的贴文，暗示了中国未来的走向（政论天下第394集 20210405）</a></li>
@@ -17,17 +15,19 @@
 <li><a href="/comments/20210406/1520725.md">魏晋：习近平曾做错一件事 福建省委书记大为恼火</a></li>
 <li><a href="/bannedvideo/20210406/1520701.md">中南海荒唐往事，这种货色也成政治局常委--天钧政经</a></li>
 <li><a href="/cbnews/20210406/1520679.md">清明节记录武汉人的眼泪 网文被全网删除</a></li>
-<li><a href="/cbnews/20210406/1520611.md">云南瑞丽疫情蔓延 张文宏一席话曝忧虑</a></li>
 <li><a href="/cnnews/20210406/1520694.md">美国第一夫人穿短裙秀黑网袜 引爆网上大战</a></li>
+<li><a href="/cbnews/20210406/1520611.md">云南瑞丽疫情蔓延 张文宏一席话曝忧虑</a></li>
 <li><a href="/cnnews/20210406/1520555.md">冯小刚已放弃治疗白癜风 面部苍白近照曝光</a></li>
 <li><a href="/cnnews/20210406/1520799.md">死后30年身份才曝光的中共王牌特工</a></li>
-<li><a href="/ssgc/20210406/1520352.md">〖兲朝浮世绘〗半个世纪以来 文革从未远离我们</a></li>
 <li><a href="/cbnews/20210406/1520381.md">专栏 | 夜话中南海：政治局常委恢复邓时代的偶数制也不是没有可能</a></li>
 <li><a href="/yule/20210406/1520779.md">八年前她是杨幂助理 八年后和杨幂平起平坐</a></li>
 <li><a href="/cbnews/20210406/1520526.md">躲过这次躲不过下次？强打疫苗 社区恐吓居民认清形势</a></li>
 <li><a href="/bannedvideo/20210406/1520715.md">3月24日，网友在广西巴马旅游时，看到有一个老人独自背着竹篓上山卖水果。女网友上前问了老奶奶的年龄，她说今年102岁了。</a></li>
 <li><a href="/comments/20210406/1520574.md">中共垮台后前瞻：未来中国的五大危机 — 曾节明</a></li>
 <li><a href="/ssgc/20210406/1520444.md">〖微博谈〗武汉的正确记忆就是没有人哭</a></li>
+<li><a href="/cbnews/20210406/1520584.md">中共大使辱骂加总理后 又瞄准日本首相 网友嘲讽</a></li>
+<li><a href="/cnnews/20210406/1520573.md">安徽女教师穿嫁衣改试卷 惹热议</a></li>
+<li><a href="/bannedvideo/20210406/1520613.md">炮轰开始！俄乌大战在即 美军誓保乌克兰；港元美元脱钩机会极低？；红火蚁入侵中国12省；前政协委员：中国在快速滑向灾难；全面脱贫？美记者揭中国农民真实处境</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210407/1521053.md" target="_blank">美绝密隐形无人机RQ-180 传已部署关岛针对中共 美日韩在中国周边部署F35有近上千架之多 美国空军为第三次世界大战做准备 日本拟在宫崎县基地部署F-35B战机强化离岛防卫 日本五代机数量明年超中共</a></li>
 <li><a href="/comments/20210407/1521040.md" target="_blank">人口红利消失 中国出现招工难、用工荒问题</a></li>
 <li><a href="/comments/20210407/1521039.md" target="_blank">马云出事敏感时刻 雷军神秘聚会曝光 仅一桌身家就超2000亿</a></li>
 <li><a href="/comments/20210407/1521025.md" target="_blank">担忧泡沫风险 传中共央行将限制银行贷款增长</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210406/1520932.md" target="_blank">掉发不用怕！多吃它让你与秀发“长相守”</a></li>
 <li><a href="/comments/20210406/1520913.md" target="_blank">【文字的力量】励志名言，寻找灵感，引起共鸣，启迪人生：激励性的短语是克服障碍的好选择</a></li>
 <li><a href="/comments/20210406/1520911.md" target="_blank">安徽铜锣湾广场惊爆大火 烈焰吞噬商业大楼 浓密黑烟直冲天际</a></li>
-<li><a href="/comments/20210406/1520892.md" target="_blank">数据：取消口罩令后 德州染疫数创历史新低</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
