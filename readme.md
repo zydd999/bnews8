@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20210407/1521071.md">北京两大高官墓地 清明节现怪像</a></li>
 <li><a href="/yule/20210407/1520980.md">范冰冰浓妆艳抹罕见现身书店，这打扮哪里像买书，是收购书店吧？</a></li>
 <li><a href="/cbnews/20210407/1521119.md">一女子独闯高校教室 指着一名男教师的鼻子称其：“下药强奸”</a></li>
-<li><a href="/cnnews/20210407/1521047.md">炸锅，上海“学区房”政策突变令家长措手不及</a></li>
 <li><a href="/cbnews/20210407/1521217.md">习近平为“爱将”预定二十大高位？</a></li>
+<li><a href="/cnnews/20210407/1521047.md">炸锅，上海“学区房”政策突变令家长措手不及</a></li>
 <li><a href="/cbnews/20210407/1521028.md">网传中共军队开抵缅甸缪斯镇 街上停满军车</a></li>
-<li><a href="/cnnews/20210407/1521307.md">赵紫阳墓碑后惊现… 民间怒批：史无前例</a></li>
-<li><a href="/topimagenews/20210407/1521136.md">习近平为何同时挑战美3盟国 立陶宛退出17+1决裂中共</a></li>
 <li><a href="/cbnews/20210407/1521373.md">分析：中共二十大政治局人事现端倪</a></li>
+<li><a href="/topimagenews/20210407/1521136.md">习近平为何同时挑战美3盟国 立陶宛退出17+1决裂中共</a></li>
+<li><a href="/cnnews/20210407/1521307.md">赵紫阳墓碑后惊现… 民间怒批：史无前例</a></li>
 <li><a href="/cnnews/20210407/1521375.md">习明泽案“主犯”被虐到休克 律师痛斥：这帮畜生</a></li>
+<li><a href="/topimagenews/20210407/1521468.md">南海开打？美派出海军陆战队 中国周边F35战机要近千彻底碾压中共</a></li>
 <li><a href="/cbnews/20210407/1521250.md">中共战狼四处出击？专家:全是为了“转移”….</a></li>
 <li><a href="/cbnews/20210407/1521080.md">网曝大陆居民打疫苗亡</a></li>
 <li><a href="/bannedvideo/20210407/1521266.md">耐克牛了！陈奕迅面临破产？中共外长王毅公开抗日，赵立坚跟风；抗日U型锁怎麽样了？</a></li>
-<li><a href="/topimagenews/20210407/1521468.md">南海开打？美派出海军陆战队 中国周边F35战机要近千彻底碾压中共</a></li>
 <li><a href="/topimagenews/20210407/1521268.md">7万股民懵了：机构大举出逃 600亿大白马美年健康闪崩跌停</a></li>
 <li><a href="/yule/20210407/1521243.md">林青霞：唯独我知道邓丽君还在人间</a></li>
 <li><a href="/ssgc/20210407/1521052.md">〖兲朝浮世绘〗中共自曝家丑也是不易</a></li>
 <li><a href="/cbnews/20210407/1521284.md">习明泽信息泄漏案 家长被威胁后再发声</a></li>
-<li><a href="/cnnews/20210407/1521005.md">华裔夫妻购物中心遭非裔男暴打 牙断眼充血 4岁幼女吓坏狂哭</a></li>
-<li><a href="/lifebaike/20210407/1521171.md">贾元春已怀龙种，为何会遭圈禁、被绞杀？一件汗巾透露了虎兕之争</a></li>
 <li><a href="/cnnews/20210407/1521398.md">警察肖万跪死黑人案爆出大料 执法视频显示跪的是肩膀不是脖子【阿波罗网编译】</a></li>
-<li><a href="/health/20210407/1521104.md">藏在头发里硬硬的“小疙瘩”是什么？早了解早受益</a></li>
+<li><a href="/lifebaike/20210407/1521171.md">贾元春已怀龙种，为何会遭圈禁、被绞杀？一件汗巾透露了虎兕之争</a></li>
+<li><a href="/cnnews/20210407/1521005.md">华裔夫妻购物中心遭非裔男暴打 牙断眼充血 4岁幼女吓坏狂哭</a></li>
+<li><a href="/headline/20210407/1521403.md">中国判处维族前新疆高级官员死刑 罪名是分裂国家</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210408/1521663.md" target="_blank">拜登首谈中共病毒起源：没和习近平讨论过</a></li>
+<li><a href="/comments/20210408/1521656.md" target="_blank">加强独裁统治与监控百姓 中共政府首创自己的数字货币</a></li>
 <li><a href="/comments/20210407/1521655.md" target="_blank">弗洛伊德案案 执法警没跪脖子上？；中共海军动作频频 美两大军种联手遏制；美军无人机大突破 中共忌怕；川普：中共绝不敢像对待拜登那样对我；《魔戒》撤档为红片让路 陆影迷气炸12:00pm【希望之声TV】</a></li>
 <li><a href="/comments/20210407/1521638.md" target="_blank">研究：武汉肺炎患者确诊半年内 1/3罹大脑或精神疾病</a></li>
 <li><a href="/comments/20210407/1521637.md" target="_blank">哪餐开始断食就能启动长寿基因？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210407/1521474.md" target="_blank">【华府看天下】难保美国不会对港使用制裁核弹 个人与公司应做好准备</a></li>
 <li><a href="/comments/20210407/1521466.md" target="_blank">川普的反击进入新阶段。围绕乔州新选举法，奥巴马终于露头，一场席卷全美的大戏拉开。拜登是否违宪，正接受GAO调查。川普新总统办公室亮相，室内装饰寓意深刻。</a></li>
 <li><a href="/comments/20210407/1521463.md" target="_blank">菅义伟4月底出访印菲 加强合作应对中共威胁</a></li>
-<li><a href="/comments/20210407/1521462.md" target="_blank">北伐名将叶琪英年早逝 与这件事不无关系</a></li>
-<li><a href="/comments/20210407/1521460.md" target="_blank">【梁京评论】美中「斗而不破」，可能吗？（下）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 <li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
