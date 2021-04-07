@@ -11,12 +11,12 @@
 <li><a href="/cbnews/20210407/1521119.md">一女子独闯高校教室 指着一名男教师的鼻子称其：“下药强奸”</a></li>
 <li><a href="/cnnews/20210407/1521047.md">炸锅，上海“学区房”政策突变令家长措手不及</a></li>
 <li><a href="/cbnews/20210407/1521217.md">习近平为“爱将”预定二十大高位？</a></li>
+<li><a href="/cbnews/20210407/1521028.md">网传中共军队开抵缅甸缪斯镇 街上停满军车</a></li>
 <li><a href="/cnnews/20210407/1521307.md">赵紫阳墓碑后惊现… 民间怒批：史无前例</a></li>
 <li><a href="/topimagenews/20210407/1521136.md">习近平为何同时挑战美3盟国 立陶宛退出17+1决裂中共</a></li>
-<li><a href="/cbnews/20210407/1521028.md">网传中共军队开抵缅甸缪斯镇 街上停满军车</a></li>
 <li><a href="/cbnews/20210407/1521373.md">分析：中共二十大政治局人事现端倪</a></li>
-<li><a href="/cbnews/20210407/1521250.md">中共战狼四处出击？专家:全是为了“转移”….</a></li>
 <li><a href="/cnnews/20210407/1521375.md">习明泽案“主犯”被虐到休克 律师痛斥：这帮畜生</a></li>
+<li><a href="/cbnews/20210407/1521250.md">中共战狼四处出击？专家:全是为了“转移”….</a></li>
 <li><a href="/cbnews/20210407/1521080.md">网曝大陆居民打疫苗亡</a></li>
 <li><a href="/bannedvideo/20210407/1521266.md">耐克牛了！陈奕迅面临破产？中共外长王毅公开抗日，赵立坚跟风；抗日U型锁怎麽样了？</a></li>
 <li><a href="/topimagenews/20210407/1521468.md">南海开打？美派出海军陆战队 中国周边F35战机要近千彻底碾压中共</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210407/1521655.md" target="_blank">弗洛伊德案案 执法警没跪脖子上？；中共海军动作频频 美两大军种联手遏制；美军无人机大突破 中共忌怕；川普：中共绝不敢像对待拜登那样对我；《魔戒》撤档为红片让路 陆影迷气炸12:00pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210407/1521628.md" target="_blank">为判刑 中共将80岁老太太年龄改小5岁</a></li>
 <li><a href="/cbnews/20210407/1521605.md" target="_blank">刚骂过加总理 战狼又发疯</a></li>
 <li><a href="/cbnews/20210407/1521561.md" target="_blank">“中共病毒”一词来龙去脉 华人学术会讲座回顾</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210407/1521284.md" target="_blank">习明泽信息泄漏案 家长被威胁后再发声</a></li>
 <li><a href="/cbnews/20210407/1521250.md" target="_blank">中共战狼四处出击？专家:全是为了“转移”….</a></li>
 <li><a href="/comments/20210407/1521245.md" target="_blank">竞选没戏！反川共和党参议员民调大跌；报告披露！佩洛西从拜登2亿基建法案中受益；跟随拜登征收富人税！纽约富人一半收入将交税；陈全国公开谈新疆棉风暴 甩锅“西方势力”背后真相【希望之声TV】10pm</a></li>
-<li><a href="/cbnews/20210407/1521217.md" target="_blank">习近平为“爱将”预定二十大高位？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210407/1521655.md" target="_blank">弗洛伊德案案 执法警没跪脖子上？；中共海军动作频频 美两大军种联手遏制；美军无人机大突破 中共忌怕；川普：中共绝不敢像对待拜登那样对我；《魔戒》撤档为红片让路 陆影迷气炸12:00pm【希望之声TV】</a></li>
+<li><a href="/comments/20210407/1521638.md" target="_blank">研究：武汉肺炎患者确诊半年内 1/3罹大脑或精神疾病</a></li>
+<li><a href="/comments/20210407/1521637.md" target="_blank">哪餐开始断食就能启动长寿基因？</a></li>
+<li><a href="/comments/20210407/1521636.md" target="_blank">４情况别按摩！医：严重恐半身不遂。</a></li>
+<li><a href="/comments/20210407/1521633.md" target="_blank">评论 | 胡平：中国疫苗为何还不公布三期试验数据？（下）</a></li>
 <li><a href="/comments/20210407/1521621.md" target="_blank">弗洛伊德案爆大料：执法警官没跪在他脖子上</a></li>
 <li><a href="/comments/20210407/1521620.md" target="_blank">德州总检察长办公室：选举投诉案创历史新高</a></li>
 <li><a href="/comments/20210407/1521613.md" target="_blank">北京当局最想抹杀的领袖？赵紫阳墓碑后惊现摄像头！民间怒批：史无前例</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210407/1521463.md" target="_blank">菅义伟4月底出访印菲 加强合作应对中共威胁</a></li>
 <li><a href="/comments/20210407/1521462.md" target="_blank">北伐名将叶琪英年早逝 与这件事不无关系</a></li>
 <li><a href="/comments/20210407/1521460.md" target="_blank">【梁京评论】美中「斗而不破」，可能吗？（下）</a></li>
-<li><a href="/comments/20210407/1521443.md" target="_blank">【珍言真语】陈小仪：国安法引爆港人移民潮</a></li>
-<li><a href="/comments/20210407/1521442.md" target="_blank">石山：中共攻台时间？两年内或永无机会</a></li>
-<li><a href="/comments/20210407/1521429.md" target="_blank">原来宝宝的记忆，超乎人类想像！人体器官科学研究，至今无法证实的功能， “ #胎内记忆  ”其实你已经具备。</a></li>
-<li><a href="/comments/20210407/1521424.md" target="_blank">俄大军压乌边境 美国防部：在监控并促俄释因</a></li>
-<li><a href="/comments/20210407/1521380.md" target="_blank">惊人代价：生气1小时=熬夜6小时</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20210215/1487759.md" target="_blank">惊人！男子记得16次转世 曾经是外星人</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
