@@ -13,8 +13,8 @@
 <li><a href="/cnnews/20210408/1522136.md">陈敏尔仕途有变？重庆市委秘书长异动引猜测</a></li>
 <li><a href="/cbnews/20210408/1521875.md">文昭：再添一把火！习近平遭遇轮回诅咒，重蹈80年前覆辙？失衡是怎麽发生的</a></li>
 <li><a href="/cnnews/20210408/1521844.md">王毅战狼言论在中国竟大翻车；港警警戒超习近平，为什么？什么让中国网友崩溃？</a></li>
-<li><a href="/comments/20210408/1522024.md">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/topimagenews/20210408/1522204.md">对峙？ 美中台军机同现台湾空域 中共再推进房地产税立法 港60公司停牌，近百发不出财报</a></li>
+<li><a href="/comments/20210408/1522024.md">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/cbnews/20210408/1522125.md">巴西华人协会会长张伟遭枪击身亡</a></li>
 <li><a href="/cbnews/20210408/1521980.md">"模特"揭黑幕：台下坐满大佬 坐台陪酒到凌晨</a></li>
 <li><a href="/bannedvideo/20210408/1521874.md">陈破空：惊！习近平给江青平反，王沪宁喊妈妈！赵紫阳墓地遭严封。清明节泄露武汉秘密</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210409/1522462.md" target="_blank">日经：习近平的头号关注—台湾、台湾、台湾</a></li>
+<li><a href="/comments/20210409/1522461.md" target="_blank">周五首登台！ 《大众新闻》宣布签下前国务卿蓬佩奥加入团队</a></li>
+<li><a href="/comments/20210409/1522460.md" target="_blank">好尴尬！BBC记者一段采访视频 戳破了华春莹谎言</a></li>
 <li><a href="/comments/20210409/1522442.md" target="_blank">钟原：中共吹云南防疫通报疫情再穿帮</a></li>
 <li><a href="/comments/20210409/1522435.md" target="_blank">【组图+视频】民国老课本有多好？难得一见：从日常简单生活中启悟孩子人生道理</a></li>
 <li><a href="/comments/20210409/1522434.md" target="_blank">卫星照曝光！美军“马金岛号”两栖战备舰队进入南海</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210408/1522247.md" target="_blank">【杜耀明评论】时事节目思想改造 港台功力烟消云散</a></li>
 <li><a href="/comments/20210408/1522243.md" target="_blank">帕劳总统拒接中共电话 不会改变立场；拜登颁布加税方案；五家大科技公司受到调查；亚利桑那州长签法案拒联邦新枪支管制法；中国新一线城市年收入曝光 网民心碎；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210408/1522214.md" target="_blank">独家爆料指杨洁篪妻女美国房屋信息查实 或涉偷税</a></li>
-<li><a href="/comments/20210408/1522213.md" target="_blank">云南瑞丽屡爆疫 速找替罪羊？市委书记被撤职</a></li>
-<li><a href="/comments/20210408/1522207.md" target="_blank">【未普评论】习近平正在犯战略性错误</a></li>
-<li><a href="/comments/20210408/1522205.md" target="_blank">爱国者有靠山了！川普团队反击左派议程，开辟一个新领域。成立美国优先法律团队，以其人之道还治其人之身。川普不理格雷厄姆，为布鲁克斯背书。民主党市长投奔川普。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/headline/20210128/1476325.md" target="_blank">死牢里的对话 让共产党和马克思颤抖</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
