@@ -22,10 +22,10 @@
 <li><a href="/bannedvideo/20210408/1521874.md">陈破空：惊！习近平给江青平反，王沪宁喊妈妈！赵紫阳墓地遭严封。清明节泄露武汉秘密</a></li>
 <li><a href="/bannedvideo/20210408/1521894.md">川普没能连任，最失落的不是川普的支持者，最失落的是 ……</a></li>
 <li><a href="/topimagenews/20210408/1521961.md">套现1000亿，腾讯大股东宣布重磅减持，股价闪崩近10%</a></li>
+<li><a href="/comments/20210408/1522024.md">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/cbnews/20210408/1521981.md">华春莹谎言穿帮 网友：报警？跟踪、威胁的都是中共的便衣警察</a></li>
 <li><a href="/lifebaike/20210408/1521822.md">如果孩子有这些表现，恭喜你，孩子的智商很高</a></li>
 <li><a href="/comments/20210408/1521956.md">再联手？彭斯发声明 回归川普；两大政治家族对撞！朱利安尼之子瞄准库默；救冬奥！习近平紧急致电默克尔；何时还钱？班克斯曝拜登利用S公司避税  偷医保受益人50多万【希望之声TV】10pm</a></li>
-<li><a href="/comments/20210408/1522024.md">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/ssgc/20210408/1521734.md">〖兲朝浮世绘〗雷雷对泰森？</a></li>
 <li><a href="/cnnews/20210407/1521565.md">文字狱不断 15岁少年涉“侮辱元帅”被抓</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210408/1522243.md" target="_blank">帕劳总统拒接中共电话 不会改变立场；拜登颁布加税方案；五家大科技公司受到调查；亚利桑那州长签法案拒联邦新枪支管制法；中国新一线城市年收入曝光 网民心碎；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210408/1522205.md" target="_blank">爱国者有靠山了！川普团队反击左派议程，开辟一个新领域。成立美国优先法律团队，以其人之道还治其人之身。川普不理格雷厄姆，为布鲁克斯背书。民主党市长投奔川普。</a></li>
 <li><a href="/comments/20210408/1522176.md" target="_blank">当代人类物性化的哲学原因（东方哲人解析当代人类困惑  第十二讲）【袁红冰杏坛】 04082021</a></li>
 <li><a href="/cbnews/20210408/1522170.md" target="_blank">专家：中共正做侵台准备 对台战争料三年内爆发</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210408/1521900.md" target="_blank">美中俄卫星相继解体 英太空司令部启动</a></li>
 <li><a href="/comments/20210408/1521879.md" target="_blank">国际呼吁抵制北京冬奥，美国及盟友是进是退？拜登大基建是否美版“大跃进”？</a></li>
 <li><a href="/cbnews/20210408/1521875.md" target="_blank">文昭：再添一把火！习近平遭遇轮回诅咒，重蹈80年前覆辙？失衡是怎麽发生的</a></li>
-<li><a href="/comments/20210408/1521861.md" target="_blank">“战狼”惹毛土耳其  疫情死亡破300万 主持：高洁  嘉宾：林晓旭  秦鹏【希望之声TV】(2021/04/07)</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210408/1522243.md" target="_blank">帕劳总统拒接中共电话 不会改变立场；拜登颁布加税方案；五家大科技公司受到调查；亚利桑那州长签法案拒联邦新枪支管制法；中国新一线城市年收入曝光 网民心碎；8am【希望之声TV】</a></li>
+<li><a href="/comments/20210408/1522214.md" target="_blank">独家爆料指杨洁篪妻女美国房屋信息查实 或涉偷税</a></li>
+<li><a href="/comments/20210408/1522213.md" target="_blank">云南瑞丽屡爆疫 速找替罪羊？市委书记被撤职</a></li>
+<li><a href="/comments/20210408/1522207.md" target="_blank">【未普评论】习近平正在犯战略性错误</a></li>
 <li><a href="/comments/20210408/1522205.md" target="_blank">爱国者有靠山了！川普团队反击左派议程，开辟一个新领域。成立美国优先法律团队，以其人之道还治其人之身。川普不理格雷厄姆，为布鲁克斯背书。民主党市长投奔川普。</a></li>
 <li><a href="/comments/20210408/1522189.md" target="_blank">涉王立强共谍案 向心夫妇因洗钱罪在台被起诉</a></li>
 <li><a href="/comments/20210408/1522188.md" target="_blank">它是万病之源，伤牙伤骨伤血管，危害竟被隐瞒50年</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210408/1521985.md" target="_blank">反驳教会周长老的谎言谬论 华人圈基督徒要清醒</a></li>
 <li><a href="/comments/20210408/1521984.md" target="_blank">如何摧毁公立学校系统？最好的实施方案已在进行</a></li>
 <li><a href="/comments/20210408/1521983.md" target="_blank">老父申述：漂亮女儿被恶意打死 男犯因何获轻判</a></li>
-<li><a href="/comments/20210408/1521975.md" target="_blank">对人民这样 习近平却对默克尔抱怨受到“干扰”</a></li>
-<li><a href="/comments/20210408/1521974.md" target="_blank">美军驱逐舰通过台湾海峡 国务院：有能力抵抗任何武力</a></li>
-<li><a href="/comments/20210408/1521972.md" target="_blank">人权律师：抵制北京冬奥有实际意义 打开国际司法调查大门</a></li>
-<li><a href="/comments/20210408/1521965.md" target="_blank">【要闻精粹】这些禽兽太猖狂 后面有原因</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
