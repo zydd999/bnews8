@@ -8,15 +8,15 @@
 <li><a href="/topimagenews/20210407/1521468.md">南海开打？美派出海军陆战队 中国周边F35战机要近千彻底碾压中共</a></li>
 <li><a href="/cbnews/20210407/1521373.md">分析：中共二十大政治局人事现端倪</a></li>
 <li><a href="/cnnews/20210407/1521375.md">习明泽案“主犯”被虐到休克 律师痛斥：这帮畜生</a></li>
-<li><a href="/yule/20210408/1521771.md">和大自己39岁好莱坞女星同居13年, 继承70亿财产, 最后他却说后悔了</a></li>
 <li><a href="/yule/20210407/1521496.md">著名导演公开警告张小斐：不要靠暴露吸睛</a></li>
+<li><a href="/yule/20210408/1521771.md">和大自己39岁好莱坞女星同居13年, 继承70亿财产, 最后他却说后悔了</a></li>
 <li><a href="/cnnews/20210407/1521398.md">警察肖万跪死黑人案爆出大料 执法视频显示跪的是肩膀不是脖子【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210408/1521901.md">中共狂拨16电话施压 帕劳总统：再不接了</a></li>
 <li><a href="/cnnews/20210407/1521610.md">6.1寸iPhone13 Pro模型机曝光</a></li>
 <li><a href="/headline/20210407/1521403.md">中国判处维族前新疆高级官员死刑 罪名是分裂国家</a></li>
 <li><a href="/bannedvideo/20210407/1521629.md">4月7日，山东省日照13岁女孩遭人强迫发生性关系，事后被对方威胁恐吓不准讲出去。报警后，遭到二次伤害，警察态度恶劣，至今无果。女孩坚持不私了，遭到父母殴打，自己拍视频上网求助。</a></li>
-<li><a href="/renquan/minyun/20210408/1521709.md">徐沛：习近平与毛泽东的区别</a></li>
 <li><a href="/cbnews/20210408/1521761.md">陆金融圈再爆丑闻 中金高管疑出轨女下属</a></li>
+<li><a href="/renquan/minyun/20210408/1521709.md">徐沛：习近平与毛泽东的区别</a></li>
 <li><a href="/cbnews/20210407/1521469.md">中共恶察重摔一女子 惹民众网络怒吼：畜生</a></li>
 <li><a href="/cbnews/20210408/1521875.md">文昭：再添一把火！习近平遭遇轮回诅咒，重蹈80年前覆辙？失衡是怎麽发生的</a></li>
 <li><a href="/cnnews/20210408/1521769.md">《柳叶刀》：34%的中共病毒治愈者 出现这个问题</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cbnews/20210407/1521413.md">忽悠民众？中国接种率远低于欧美 钟南山喊话</a></li>
 <li><a href="/bannedvideo/20210407/1521397.md">曾庆红是中国历史上 前无古人后无来者的奸臣（启明笑谈20210407）</a></li>
 <li><a href="/bannedvideo/20210408/1521874.md">陈破空：惊！习近平给江青平反，王沪宁喊妈妈！赵紫阳墓地遭严封。清明节泄露武汉秘密</a></li>
-<li><a href="/comments/20210407/1521429.md">原来宝宝的记忆，超乎人类想像！人体器官科学研究，至今无法证实的功能， “ #胎内记忆  ”其实你已经具备。</a></li>
+<li><a href="/bannedvideo/20210408/1521894.md">川普没能连任，最失落的不是川普的支持者，最失落的是 ……</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210408/1522036.md" target="_blank">研究：三分之一染疫幸存者患上脑疾</a></li>
 <li><a href="/cbnews/20210408/1522016.md" target="_blank">涉王立强共谍案收大陆巨资 向心夫妇洗钱罪被起诉</a></li>
 <li><a href="/cbnews/20210408/1522015.md" target="_blank">习近平重设党史禁区 专家：野史、秘史将更多</a></li>
 <li><a href="/cbnews/20210408/1522008.md" target="_blank">中共频频侵扰台湾和菲律宾 美国务院回应</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210408/1521738.md" target="_blank">“吃播”没落“喝播”兴起 专家批“拿命换钱”</a></li>
 <li><a href="/cbnews/20210408/1521726.md" target="_blank">哈尔滨老人怒砸法院牌子</a></li>
 <li><a href="/comments/20210408/1521725.md" target="_blank">【希望之声TV】煽动民愤却又危害民生 中共惹火上身</a></li>
-<li><a href="/cbnews/20210408/1521671.md" target="_blank">《魔戒》撤档为红色电影洗脑让路 陆影迷气炸 多部红色电影首日票房为零</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210408/1522037.md" target="_blank">人体能量场的奥秘</a></li>
 <li><a href="/comments/20210408/1522030.md" target="_blank">中共“疫苗”施压台盟友断交 印度出手助台援邦国</a></li>
 <li><a href="/comments/20210408/1522024.md" target="_blank">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/comments/20210408/1522005.md" target="_blank">川普要以牙还牙？新建律师团法律战反击拜登！俄勒冈州长发誓铲除川普势力！吉尔吉斯斯坦外交官突身亡 家人称曾注射中国疫苗 ；中共“大跃进”计划：今年3000万脱贫人口完成就业目标【希望之声TV】-12AM</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210408/1521933.md" target="_blank">夏林：加国政府温水煮青蛙 把蓝鸟棒球队逼去佛州</a></li>
 <li><a href="/comments/20210408/1521912.md" target="_blank">华仔: 拜登无耻新高度 连遮羞布都不要了</a></li>
 <li><a href="/comments/20210408/1521911.md" target="_blank">萨尔兹曼：加拿大大学如何从包容变排斥</a></li>
-<li><a href="/comments/20210408/1521910.md" target="_blank">包小姐: 黑暗中的老虎</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
