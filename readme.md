@@ -7,18 +7,18 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/yule/20210408/1521771.md">和大自己39岁好莱坞女星同居13年, 继承70亿财产, 最后他却说后悔了</a></li>
 <li><a href="/topimagenews/20210408/1521979.md">30分钟，废了一个中国首富</a></li>
-<li><a href="/cnnews/20210407/1521610.md">6.1寸iPhone13 Pro模型机曝光</a></li>
 <li><a href="/cbnews/20210408/1521901.md">中共狂拨16电话施压 帕劳总统：再不接了</a></li>
+<li><a href="/cnnews/20210407/1521610.md">6.1寸iPhone13 Pro模型机曝光</a></li>
 <li><a href="/renquan/minyun/20210408/1521709.md">徐沛：习近平与毛泽东的区别</a></li>
 <li><a href="/bannedvideo/20210407/1521629.md">4月7日，山东省日照13岁女孩遭人强迫发生性关系，事后被对方威胁恐吓不准讲出去。报警后，遭到二次伤害，警察态度恶劣，至今无果。女孩坚持不私了，遭到父母殴打，自己拍视频上网求助。</a></li>
 <li><a href="/cbnews/20210408/1521761.md">陆金融圈再爆丑闻 中金高管疑出轨女下属</a></li>
 <li><a href="/lifebaike/20210408/1521950.md">真相掩埋十几年 中共大使馆被炸案终于解密</a></li>
+<li><a href="/yule/20210408/1522108.md">潘长江事件再度恶化？本人发文直言快疯了</a></li>
 <li><a href="/cbnews/20210408/1521875.md">文昭：再添一把火！习近平遭遇轮回诅咒，重蹈80年前覆辙？失衡是怎麽发生的</a></li>
 <li><a href="/cnnews/20210408/1521844.md">王毅战狼言论在中国竟大翻车；港警警戒超习近平，为什么？什么让中国网友崩溃？</a></li>
-<li><a href="/yule/20210408/1522108.md">潘长江事件再度恶化？本人发文直言快疯了</a></li>
-<li><a href="/cnnews/20210408/1521729.md">全球最大产铜国突然关闭边境 铜价暴涨破9,000美元大关</a></li>
 <li><a href="/comments/20210408/1522024.md">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/cbnews/20210408/1521980.md">"模特"揭黑幕：台下坐满大佬 坐台陪酒到凌晨</a></li>
+<li><a href="/cnnews/20210408/1521729.md">全球最大产铜国突然关闭边境 铜价暴涨破9,000美元大关</a></li>
 <li><a href="/cnnews/20210408/1521769.md">《柳叶刀》：34%的中共病毒治愈者 出现这个问题</a></li>
 <li><a href="/bannedvideo/20210408/1521874.md">陈破空：惊！习近平给江青平反，王沪宁喊妈妈！赵紫阳墓地遭严封。清明节泄露武汉秘密</a></li>
 <li><a href="/bannedvideo/20210408/1521894.md">川普没能连任，最失落的不是川普的支持者，最失落的是 ……</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/comments/20210408/1521956.md">再联手？彭斯发声明 回归川普；两大政治家族对撞！朱利安尼之子瞄准库默；救冬奥！习近平紧急致电默克尔；何时还钱？班克斯曝拜登利用S公司避税  偷医保受益人50多万【希望之声TV】10pm</a></li>
 <li><a href="/lifebaike/20210408/1521822.md">如果孩子有这些表现，恭喜你，孩子的智商很高</a></li>
 <li><a href="/ssgc/20210408/1521734.md">〖兲朝浮世绘〗雷雷对泰森？</a></li>
-<li><a href="/ssgc/20210408/1521920.md">〖微博谈〗恐惧已是中国立国之本</a></li>
+<li><a href="/cbnews/20210408/1522125.md">巴西华人协会会长张伟遭枪击身亡</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210408/1522289.md" target="_blank">因压制保守派言论 美五大科技巨头面临审查</a></li>
+<li><a href="/comments/20210408/1522287.md" target="_blank">政治家族史诗级对撞？朱利安尼之子或参选纽约州长</a></li>
 <li><a href="/comments/20210408/1522251.md" target="_blank">3千年一开的优昙婆罗花，近日在纽约上州一户信佛人家开放</a></li>
 <li><a href="/comments/20210408/1522247.md" target="_blank">【杜耀明评论】时事节目思想改造 港台功力烟消云散</a></li>
 <li><a href="/comments/20210408/1522243.md" target="_blank">帕劳总统拒接中共电话 不会改变立场；拜登颁布加税方案；五家大科技公司受到调查；亚利桑那州长签法案拒联邦新枪支管制法；中国新一线城市年收入曝光 网民心碎；8am【希望之声TV】</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210408/1522005.md" target="_blank">川普要以牙还牙？新建律师团法律战反击拜登！俄勒冈州长发誓铲除川普势力！吉尔吉斯斯坦外交官突身亡 家人称曾注射中国疫苗 ；中共“大跃进”计划：今年3000万脱贫人口完成就业目标【希望之声TV】-12AM</a></li>
 <li><a href="/comments/20210408/1522002.md" target="_blank">李燕铭：习江生死大战习近平启动杀手锏 吉林省政法委书记侯淅珉大秘落马 中央督导组进驻吉林 正部级高官特别调研监狱系统 吉林省监狱系统惊人黑幕触目惊心惨不忍睹 吉林监狱密设裸体监区 吉林好警察遭迫害妻子被监狱长奸污 吉林女子监狱“五马分尸”酷刑曝光 亲历者谈吉林女子监狱医院的黑幕……</a></li>
 <li><a href="/comments/20210408/1521997.md" target="_blank">一语道破：左派基督徒和牧师如何成了魔鬼帮凶</a></li>
-<li><a href="/comments/20210408/1521996.md" target="_blank">美媒：为什么基督徒选民想要川普这样的从政者？</a></li>
-<li><a href="/comments/20210408/1521985.md" target="_blank">反驳教会周长老的谎言谬论 华人圈基督徒要清醒</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20201005/1408304.md" target="_blank">最毒风水局：五星红旗背后令人惊骇的秘密</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
