@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210409/1522535.md">杨洁篪美国资产被爆光    北斗掉线逼死货车司机  主持：高洁  嘉宾：曾铮  谢田【希望之声TV】(2021/04/08)</a></li>
 <li><a href="/bannedvideo/20210409/1522507.md">【爆料】震撼：杨洁篪妻女在美信息被查实, 恐涉偷税；习近平正犯3个战略性错误；习近平抱怨受“干扰”,默克尔回答和新华社版本不同；华春莹说谎 被视频戳破；此中概股被纽交所摘牌 CT</a></li>
-<li><a href="/cbnews/20210409/1522679.md">云南瑞丽新官上任 第一把火烧得百姓直哭</a></li>
 <li><a href="/topimagenews/20210409/1522616.md">被现场录像！中共警察：“里面的人开门，快开门，不开门，我就撬门了！”</a></li>
+<li><a href="/cbnews/20210409/1522679.md">云南瑞丽新官上任 第一把火烧得百姓直哭</a></li>
 <li><a href="/cbnews/20210409/1522696.md">胡锦涛、温家宝曾批示孙大午案 习近平转风向？</a></li>
 <li><a href="/yule/20210409/1522855.md">曝Baby公开发文“我离婚了” 真相令人目瞪口呆</a></li>
 <li><a href="/cbnews/20210409/1522439.md">视频为证 华春莹谎言穿帮</a></li>
@@ -20,8 +20,8 @@
 <li><a href="/lifebaike/20210409/1522484.md">LV最新款“飞机包”定价3万9千美元 创意外型曝光…网笑翻</a></li>
 <li><a href="/comments/20210409/1522667.md">内部人士曝中共高层疫苗接种消息？推友：可能是真的</a></li>
 <li><a href="/topimagenews/20210409/1522516.md">彭斯回归川普？有目的？川普疑拜登无权祝他健康；名主持：非移真实数字是3到4千万</a></li>
-<li><a href="/ssgc/20210409/1522450.md">〖兲朝浮世绘〗亲共有风险 疫苗不可靠</a></li>
 <li><a href="/bannedvideo/20210409/1522645.md">英国通灵预言家大胆预言 白宫易主 女总统不是她 | 预言警示 | 探索与洞见 |</a></li>
+<li><a href="/ssgc/20210409/1522450.md">〖兲朝浮世绘〗亲共有风险 疫苗不可靠</a></li>
 <li><a href="/yule/20210409/1522544.md">拜登儿子自爆出轨嫂子细节曝光：开淫乱趴 偷情脱衣舞女</a></li>
 <li><a href="/comments/20210409/1522690.md">李燕铭：陈敏尔大秘转岗 孙春兰大秘卸职 副总理或很快换人 习近平深度布局 暗藏重磅清洗行动 江泽民大事不妙</a></li>
 <li><a href="/comments/20210409/1522832.md">20亿年前的核反应堆！运转超过50万年，超自然“间歇泉”化学反应，比地球的年纪还要大？史前文明存在吗？</a></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210410/1523131.md" target="_blank">江泽民老家又出事了 江苏内部人士爆料：泰兴公安接连自杀 地方当局掩盖 三名警察召妓妓死 三警察赔偿妓女一百多万元 中南海不可告人的秘密_354</a></li>
 <li><a href="/comments/20210410/1523130.md" target="_blank">【中国时局】黑白颠倒大小通吃 民何以堪？主持人：高洁、梓枫</a></li>
 <li><a href="/comments/20210410/1523103.md" target="_blank">低端中国：一个中国 两个世界</a></li>
 <li><a href="/comments/20210410/1523095.md" target="_blank">白金汉宫：英国菲利普亲王安详辞世 享耆寿99岁</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210409/1522622.md" target="_blank">【微博精粹】最高司令官平均每天工作30小时以上</a></li>
 <li><a href="/comments/20210409/1522582.md" target="_blank">专访新书作者：亚裔的成功颠覆左派种族论调；哈佛歧视亚裔案凸显美国优才教育受侵蚀</a></li>
 <li><a href="/comments/20210409/1522580.md" target="_blank">一剑飘尘：到底谁仇恨亚裔？马丁路德金政治不正确了</a></li>
-<li><a href="/comments/20210409/1522579.md" target="_blank">硬哥：我们的高科技都用在了歪门邪道上</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
