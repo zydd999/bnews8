@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/yule/20210408/1522283.md">养眼！她是印度公认的绝色第一美女</a></li>
 <li><a href="/comments/20210409/1522407.md">杨洁篪妻女美房屋曝光；美联航称其飞行员要50％黑人；美媒：佩洛西出租办公室给犯罪组织？怂恿MLB脱离乔州 幕后涉及奥巴马？【希望之声TV】</a></li>
 <li><a href="/cbnews/20210409/1522414.md">传青岛黑帮头目受政府雇佣强拆遭撞死</a></li>
 <li><a href="/comments/20210409/1522535.md">杨洁篪美国资产被爆光    北斗掉线逼死货车司机  主持：高洁  嘉宾：曾铮  谢田【希望之声TV】(2021/04/08)</a></li>
-<li><a href="/cbnews/20210409/1522679.md">云南瑞丽新官上任 第一把火烧得百姓直哭</a></li>
 <li><a href="/bannedvideo/20210409/1522507.md">【爆料】震撼：杨洁篪妻女在美信息被查实, 恐涉偷税；习近平正犯3个战略性错误；习近平抱怨受“干扰”,默克尔回答和新华社版本不同；华春莹说谎 被视频戳破；此中概股被纽交所摘牌 CT</a></li>
+<li><a href="/cbnews/20210409/1522679.md">云南瑞丽新官上任 第一把火烧得百姓直哭</a></li>
 <li><a href="/cbnews/20210409/1522413.md">卡车司机服毒自尽后 卡友爆更多北斗系统黑幕</a></li>
 <li><a href="/topimagenews/20210409/1522616.md">被现场录像！中共警察：“里面的人开门，快开门，不开门，我就撬门了！”</a></li>
 <li><a href="/cbnews/20210409/1522696.md">胡锦涛、温家宝曾批示孙大午案 习近平转风向？</a></li>
@@ -23,8 +22,9 @@
 <li><a href="/topimagenews/20210409/1522516.md">彭斯回归川普？有目的？川普疑拜登无权祝他健康；名主持：非移真实数字是3到4千万</a></li>
 <li><a href="/yule/20210409/1522544.md">拜登儿子自爆出轨嫂子细节曝光：开淫乱趴 偷情脱衣舞女</a></li>
 <li><a href="/health/20210409/1522483.md">身体三个部位疼痛，警示体内胆固醇严重超标</a></li>
-<li><a href="/topimagenews/20210409/1522664.md">山东强奸幼女案 传公安抓受害人未果 探望者遭围攻</a></li>
 <li><a href="/comments/20210409/1522667.md">内部人士曝中共高层疫苗接种消息？推友：可能是真的</a></li>
+<li><a href="/topimagenews/20210409/1522664.md">山东强奸幼女案 传公安抓受害人未果 探望者遭围攻</a></li>
+<li><a href="/cnnews/20210409/1522783.md">林徽因的皮草大衣 真是贫穷限制了我的想象</a></li>
 <li><a href="/cbnews/20210409/1522652.md">“被电视认罪！”中共央视现世报 全球被调查</a></li>
 <li><a href="/comments/20210409/1522690.md">李燕铭：陈敏尔大秘转岗 孙春兰大秘卸职 副总理或很快换人 习近平深度布局 暗藏重磅清洗行动 江泽民大事不妙</a></li>
 <li><a href="/bannedvideo/20210409/1522645.md">英国通灵预言家大胆预言 白宫易主 女总统不是她 | 预言警示 | 探索与洞见 |</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
