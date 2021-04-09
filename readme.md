@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20210408/1522136.md">陈敏尔仕途有变？重庆市委秘书长异动引猜测</a></li>
 <li><a href="/comments/20210408/1522024.md">二十大前 重庆市委突传重要人事变动 目标指向陈敏尔？</a></li>
 <li><a href="/topimagenews/20210408/1522204.md">对峙？ 美中台军机同现台湾空域 中共再推进房地产税立法 港60公司停牌，近百发不出财报</a></li>
-<li><a href="/cbnews/20210408/1522125.md">巴西华人协会会长张伟遭枪击身亡</a></li>
-<li><a href="/cbnews/20210409/1522414.md">传青岛黑帮头目受政府雇佣强拆遭撞死</a></li>
 <li><a href="/yule/20210408/1522283.md">养眼！她是印度公认的绝色第一美女</a></li>
-<li><a href="/comments/20210409/1522407.md">杨洁篪妻女美房屋曝光；美联航称其飞行员要50％黑人；美媒：佩洛西出租办公室给犯罪组织？怂恿MLB脱离乔州 幕后涉及奥巴马？【希望之声TV】</a></li>
+<li><a href="/cbnews/20210409/1522414.md">传青岛黑帮头目受政府雇佣强拆遭撞死</a></li>
+<li><a href="/cbnews/20210408/1522125.md">巴西华人协会会长张伟遭枪击身亡</a></li>
 <li><a href="/comments/20210409/1522535.md">杨洁篪美国资产被爆光    北斗掉线逼死货车司机  主持：高洁  嘉宾：曾铮  谢田【希望之声TV】(2021/04/08)</a></li>
+<li><a href="/comments/20210409/1522407.md">杨洁篪妻女美房屋曝光；美联航称其飞行员要50％黑人；美媒：佩洛西出租办公室给犯罪组织？怂恿MLB脱离乔州 幕后涉及奥巴马？【希望之声TV】</a></li>
 <li><a href="/cnnews/20210408/1522179.md">三高过敏等10种人能打新冠疫苗吗？有两类人千万不能打</a></li>
-<li><a href="/cbnews/20210409/1522413.md">卡车司机服毒自尽后 卡友爆更多北斗系统黑幕</a></li>
 <li><a href="/bannedvideo/20210409/1522507.md">【爆料】震撼：杨洁篪妻女在美信息被查实, 恐涉偷税；习近平正犯3个战略性错误；习近平抱怨受“干扰”,默克尔回答和新华社版本不同；华春莹说谎 被视频戳破；此中概股被纽交所摘牌 CT</a></li>
+<li><a href="/cbnews/20210409/1522413.md">卡车司机服毒自尽后 卡友爆更多北斗系统黑幕</a></li>
 <li><a href="/cbnews/20210409/1522439.md">视频为证 华春莹谎言穿帮</a></li>
 <li><a href="/headline/20210409/1522389.md">土耳其中使馆无理咆哮后庭前被挖大坑 当地民众击掌称快</a></li>
-<li><a href="/lifebaike/20210409/1522484.md">LV最新款“飞机包”定价3万9千美元 创意外型曝光…网笑翻</a></li>
-<li><a href="/cnnews/20210408/1522095.md">智利大学研究：中国科兴疫苗第一剂保护力只有3%</a></li>
 <li><a href="/headline/20210409/1522511.md">被电视认罪5年后，他让央视在全球丢执照、被调查</a></li>
+<li><a href="/cnnews/20210408/1522095.md">智利大学研究：中国科兴疫苗第一剂保护力只有3%</a></li>
+<li><a href="/lifebaike/20210409/1522484.md">LV最新款“飞机包”定价3万9千美元 创意外型曝光…网笑翻</a></li>
 <li><a href="/cnnews/20210408/1522155.md">接固定电话来电 小心挂断骗局</a></li>
 <li><a href="/cbnews/20210408/1522169.md">恐怖！大陆智障男遭封棺杀害 顶替富人火葬</a></li>
 <li><a href="/ssgc/20210409/1522450.md">〖兲朝浮世绘〗亲共有风险 疫苗不可靠</a></li>
 <li><a href="/cbnews/20210408/1522170.md">专家：中共正做侵台准备 对台战争料三年内爆发</a></li>
-<li><a href="/health/20210409/1522483.md">身体三个部位疼痛，警示体内胆固醇严重超标</a></li>
+<li><a href="/topimagenews/20210409/1522516.md">彭斯回归川普？有目的？川普疑拜登无权祝他健康；名主持：非移真实数字是3到4千万</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210409/1522696.md" target="_blank">胡锦涛、温家宝曾批示孙大午案 习近平转风向？</a></li>
 <li><a href="/cbnews/20210409/1522688.md" target="_blank">美中角力 传美马金岛号两栖戒备群入南海</a></li>
 <li><a href="/cbnews/20210409/1522687.md" target="_blank">江峰：布林肯电巴拉圭总统：别怕，去跟台湾结交！美中止模糊战略，开启强硬挺台时代；美参议院连续酝酿抗共法案</a></li>
 <li><a href="/cbnews/20210409/1522679.md" target="_blank">云南瑞丽新官上任 第一把火烧得百姓直哭</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210409/1522413.md" target="_blank">卡车司机服毒自尽后 卡友爆更多北斗系统黑幕</a></li>
 <li><a href="/comments/20210409/1522407.md" target="_blank">杨洁篪妻女美房屋曝光；美联航称其飞行员要50％黑人；美媒：佩洛西出租办公室给犯罪组织？怂恿MLB脱离乔州 幕后涉及奥巴马？【希望之声TV】</a></li>
 <li><a href="/cbnews/20210408/1522339.md" target="_blank">中共：与台断交就给疫苗 台湾联手多国反将一军</a></li>
-<li><a href="/cbnews/20210408/1522322.md" target="_blank">抵制北京冬奥一波三折 美官员出尔反尔惹人争议</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210409/1522690.md" target="_blank">李燕铭：陈敏尔大秘转岗 孙春兰大秘卸职 副总理或很快换人 习近平深度布局 暗藏重磅清洗行动 江泽民大事不妙</a></li>
 <li><a href="/comments/20210409/1522682.md" target="_blank">【录音】“我们同一个老婆”！当事两男罕见对话 中金高层出轨再刷爆金融圈</a></li>
 <li><a href="/comments/20210409/1522674.md" target="_blank">彭斯出书要爆料？反川出版商获版权！科技大佬开炮：比特币是中共反美的金融武器！以色利要与拜登翻脸！奇葩新规？中共教育部禁止教职员与小学生谈恋爱【希望之声TV】-12Am</a></li>
 <li><a href="/comments/20210409/1522667.md" target="_blank">内部人士曝中共高层疫苗接种消息？推友：可能是真的</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210409/1522461.md" target="_blank">周五首登台！ 《大众新闻》宣布签下前国务卿蓬佩奥加入团队</a></li>
 <li><a href="/comments/20210409/1522460.md" target="_blank">好尴尬！BBC记者一段采访视频 戳破了华春莹谎言</a></li>
 <li><a href="/comments/20210409/1522442.md" target="_blank">钟原：中共吹云南防疫通报疫情再穿帮</a></li>
-<li><a href="/comments/20210409/1522435.md" target="_blank">【组图+视频】民国老课本有多好？难得一见：从日常简单生活中启悟孩子人生道理</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
