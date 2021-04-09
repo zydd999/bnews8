@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20210408/1522204.md">对峙？ 美中台军机同现台湾空域 中共再推进房地产税立法 港60公司停牌，近百发不出财报</a></li>
 <li><a href="/cbnews/20210408/1521980.md">"模特"揭黑幕：台下坐满大佬 坐台陪酒到凌晨</a></li>
 <li><a href="/cbnews/20210408/1522125.md">巴西华人协会会长张伟遭枪击身亡</a></li>
+<li><a href="/cbnews/20210409/1522414.md">传青岛黑帮头目受政府雇佣强拆遭撞死</a></li>
 <li><a href="/yule/20210408/1522283.md">养眼！她是印度公认的绝色第一美女</a></li>
 <li><a href="/topimagenews/20210408/1521961.md">套现1000亿，腾讯大股东宣布重磅减持，股价闪崩近10%</a></li>
-<li><a href="/cbnews/20210409/1522414.md">传青岛黑帮头目受政府雇佣强拆遭撞死</a></li>
-<li><a href="/cnnews/20210408/1522179.md">三高过敏等10种人能打新冠疫苗吗？有两类人千万不能打</a></li>
 <li><a href="/comments/20210409/1522407.md">杨洁篪妻女美房屋曝光；美联航称其飞行员要50％黑人；美媒：佩洛西出租办公室给犯罪组织？怂恿MLB脱离乔州 幕后涉及奥巴马？【希望之声TV】</a></li>
+<li><a href="/cnnews/20210408/1522179.md">三高过敏等10种人能打新冠疫苗吗？有两类人千万不能打</a></li>
 <li><a href="/comments/20210408/1521956.md">再联手？彭斯发声明 回归川普；两大政治家族对撞！朱利安尼之子瞄准库默；救冬奥！习近平紧急致电默克尔；何时还钱？班克斯曝拜登利用S公司避税  偷医保受益人50多万【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210408/1521981.md">华春莹谎言穿帮 网友：报警？跟踪、威胁的都是中共的便衣警察</a></li>
-<li><a href="/cnnews/20210408/1522095.md">智利大学研究：中国科兴疫苗第一剂保护力只有3%</a></li>
-<li><a href="/headline/20210409/1522389.md">土耳其中使馆无理咆哮后庭前被挖大坑 当地民众击掌称快</a></li>
 <li><a href="/cbnews/20210409/1522413.md">卡车司机服毒自尽后 卡友爆更多北斗系统黑幕</a></li>
+<li><a href="/headline/20210409/1522389.md">土耳其中使馆无理咆哮后庭前被挖大坑 当地民众击掌称快</a></li>
+<li><a href="/cnnews/20210408/1522095.md">智利大学研究：中国科兴疫苗第一剂保护力只有3%</a></li>
 <li><a href="/funmedia/20210408/1521982.md">资深空姐爆疫情下搭机禁忌：不要靠窗 别喝咖啡</a></li>
 <li><a href="/cbnews/20210408/1522169.md">恐怖！大陆智障男遭封棺杀害 顶替富人火葬</a></li>
+<li><a href="/cbnews/20210409/1522439.md">视频为证 华春莹谎言穿帮</a></li>
 <li><a href="/cnnews/20210408/1522155.md">接固定电话来电 小心挂断骗局</a></li>
-<li><a href="/cbnews/20210408/1522170.md">专家：中共正做侵台准备 对台战争料三年内爆发</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210409/1522599.md" target="_blank">天亮时分：黑历史：助纣为虐的高科技；谷歌、脸书和苹果遭谴责；小心美联航；（政论天下第397集 20210408）</a></li>
 <li><a href="/comments/20210409/1522582.md" target="_blank">专访新书作者：亚裔的成功颠覆左派种族论调；哈佛歧视亚裔案凸显美国优才教育受侵蚀</a></li>
 <li><a href="/comments/20210409/1522535.md" target="_blank">杨洁篪美国资产被爆光    北斗掉线逼死货车司机  主持：高洁  嘉宾：曾铮  谢田【希望之声TV】(2021/04/08)</a></li>
 <li><a href="/comments/20210409/1522512.md" target="_blank">民主党议员反对激进派废传统投票制;拜登控枪令将使数百万拥枪者变重犯;阻大科技干涉？;亚利桑那州通过新法;美将7个中共计算机实体列入黑名单;卡车司机服毒自尽 卡友爆更多黑幕6:00PM【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210408/1522170.md" target="_blank">专家：中共正做侵台准备 对台战争料三年内爆发</a></li>
 <li><a href="/cbnews/20210408/1522169.md" target="_blank">恐怖！大陆智障男遭封棺杀害 顶替富人火葬</a></li>
 <li><a href="/cbnews/20210408/1522133.md" target="_blank">刘强东出轨两年后“奶茶”夫妇要办公司了</a></li>
-<li><a href="/cbnews/20210408/1522125.md" target="_blank">巴西华人协会会长张伟遭枪击身亡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 
 </ul>
 </div>
