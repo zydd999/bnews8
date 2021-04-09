@@ -6,12 +6,10 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210409/1522535.md">杨洁篪美国资产被爆光    北斗掉线逼死货车司机  主持：高洁  嘉宾：曾铮  谢田【希望之声TV】(2021/04/08)</a></li>
-<li><a href="/bannedvideo/20210409/1522507.md">【爆料】震撼：杨洁篪妻女在美信息被查实, 恐涉偷税；习近平正犯3个战略性错误；习近平抱怨受“干扰”,默克尔回答和新华社版本不同；华春莹说谎 被视频戳破；此中概股被纽交所摘牌 CT</a></li>
 <li><a href="/cbnews/20210409/1522679.md">云南瑞丽新官上任 第一把火烧得百姓直哭</a></li>
 <li><a href="/topimagenews/20210409/1522616.md">被现场录像！中共警察：“里面的人开门，快开门，不开门，我就撬门了！”</a></li>
 <li><a href="/cbnews/20210409/1522696.md">胡锦涛、温家宝曾批示孙大午案 习近平转风向？</a></li>
 <li><a href="/yule/20210409/1522855.md">曝Baby公开发文“我离婚了” 真相令人目瞪口呆</a></li>
-<li><a href="/headline/20210409/1522511.md">被电视认罪5年后，他让央视在全球丢执照、被调查</a></li>
 <li><a href="/bannedvideo/20210409/1522874.md">陈破空：接班人即将入京！王沪宁失势？各常委去向莫测。高层权力难摆平</a></li>
 <li><a href="/cnnews/20210409/1522783.md">林徽因的皮草大衣 真是贫穷限制了我的想象</a></li>
 <li><a href="/topimagenews/20210409/1522863.md">北斗耗资百亿美元 实战可能会闹自相残杀 白宫出手制裁7中企助共军建超级电脑</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20210409/1522786.md">黑龙江鹤岗副市长李旭办公室身亡</a></li>
 <li><a href="/cbnews/20210409/1522652.md">“被电视认罪！”中共央视现世报 全球被调查</a></li>
 <li><a href="/cbnews/20210409/1522847.md">面包内藏活老鼠 上海孕妇全家崩溃：差点吓到早产</a></li>
+<li><a href="/comments/20210409/1522622.md">【微博精粹】最高司令官平均每天工作30小时以上</a></li>
+<li><a href="/cbnews/20210409/1523032.md">传当局叫停湖畔大学招生 知情人爆阻马云搞“东林党”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210410/1523204.md" target="_blank">禁疫苗护照法案将在美国国会提出；被中共逼认罪 他让央视在全球丢执照；《纽时》员工承认为中共工作；中共怕马云造反？阻其湖畔大学招生；13岁女孩安琰案情节曲折 嫌犯被抓6:00pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210410/1523186.md" target="_blank">专栏 | 夜话中南海：被全人类声讨的治疆之恶 是陈全国晋升政治局常委的最大政治本钱</a></li>
 <li><a href="/cbnews/20210410/1523171.md" target="_blank">山东13岁女孩遭强暴案情节曲折 嫌犯被抓</a></li>
 <li><a href="/cbnews/20210410/1523170.md" target="_blank">江苏内部人士爆料：泰兴公安接连自杀 当局掩盖</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210409/1522814.md" target="_blank">长春市政法委下达命令：对这14人不按法律办</a></li>
 <li><a href="/cbnews/20210409/1522797.md" target="_blank">24艘潜艇！印度战略性大行动！专家：部署马六甲 扼住中共的咽喉【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210409/1522776.md" target="_blank">列美黑名单 天津飞腾等中企和军方有何联系</a></li>
-<li><a href="/cbnews/20210409/1522743.md" target="_blank">土耳其中使馆咆哮后 门前被挖大坑 民众称快</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210410/1523204.md" target="_blank">禁疫苗护照法案将在美国国会提出；被中共逼认罪 他让央视在全球丢执照；《纽时》员工承认为中共工作；中共怕马云造反？阻其湖畔大学招生；13岁女孩安琰案情节曲折 嫌犯被抓6:00pm【希望之声TV】</a></li>
+<li><a href="/comments/20210410/1523199.md" target="_blank">宋金波:金德强的生命之火这样熄灭 总要有人问个为什么</a></li>
+<li><a href="/comments/20210410/1523198.md" target="_blank">何清涟:印太战略 美国为何“川规拜随”？</a></li>
 <li><a href="/comments/20210410/1523195.md" target="_blank">中共的噩梦！蓬佩奥已经和福克斯签约在福克斯新闻节目中提供分析  本周五蓬佩奥将首次登台与观众见面</a></li>
 <li><a href="/comments/20210410/1523168.md" target="_blank">【独家】诗歌 四首：《雨过是天晴》《解心忧》《凡尘醒》《回溯本源》</a></li>
 <li><a href="/comments/20210410/1523166.md" target="_blank">【独家】天路诗歌 ：《公园晨炼》</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210409/1522876.md" target="_blank">诗歌 四首：《雨过是天晴》《解心忧》《凡尘醒》《回溯本源》</a></li>
 <li><a href="/comments/20210409/1522875.md" target="_blank">彭斯工于心计，成立“推进美国自由”，暗示自己是川普继承人，一举多得，目标2024。蓬佩奥加入福克斯新闻，为2024争取话语权，坦言随时准备战斗。</a></li>
 <li><a href="/comments/20210409/1522832.md" target="_blank">20亿年前的核反应堆！运转超过50万年，超自然“间歇泉”化学反应，比地球的年纪还要大？史前文明存在吗？</a></li>
-<li><a href="/comments/20210409/1522690.md" target="_blank">李燕铭：陈敏尔大秘转岗 孙春兰大秘卸职 副总理或很快换人 习近平深度布局 暗藏重磅清洗行动 江泽民大事不妙</a></li>
-<li><a href="/comments/20210409/1522682.md" target="_blank">【录音】“我们同一个老婆”！当事两男罕见对话 中金高层出轨再刷爆金融圈</a></li>
-<li><a href="/comments/20210409/1522674.md" target="_blank">彭斯出书要爆料？反川出版商获版权！科技大佬开炮：比特币是中共反美的金融武器！以色利要与拜登翻脸！奇葩新规？中共教育部禁止教职员与小学生谈恋爱【希望之声TV】-12Am</a></li>
 
 </ul>
 </div>
@@ -130,30 +130,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
