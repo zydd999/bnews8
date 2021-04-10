@@ -16,8 +16,8 @@
 <li><a href="/comments/20210410/1523195.md">中共的噩梦！蓬佩奥已经和福克斯签约在福克斯新闻节目中提供分析  本周五蓬佩奥将首次登台与观众见面</a></li>
 <li><a href="/cbnews/20210410/1523531.md">习近平叫停马云；一带一路参与国接连对中共说不；刘鹤一句话 中国股市全线收跌</a></li>
 <li><a href="/cnnews/20210410/1523377.md">中国疫苗多可怕！医护：医院补贴300元都不打</a></li>
-<li><a href="/topimagenews/20210410/1523449.md">仅有手指大小！美军纳米无人机 回传实时视频信号 配三个摄像头【阿波罗网编译】</a></li>
 <li><a href="/bannedvideo/20210410/1523379.md">一老人在微信群里愤慨感言：成天给我们讲爱国爱党爱人民，给我们讲满嘴的仁义道德，他们干著连强盗的都不如的事。手段太低劣了，太下三滥了，国家被他们搞成啥样子了。</a></li>
+<li><a href="/topimagenews/20210410/1523449.md">仅有手指大小！美军纳米无人机 回传实时视频信号 配三个摄像头【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210410/1523492.md">战狼大使惨踢铁板！瑞典要轰他出境</a></li>
 <li><a href="/cbnews/20210410/1523171.md">山东13岁女孩遭强暴案情节曲折 嫌犯被抓</a></li>
 <li><a href="/funmedia/20210410/1523550.md">耗时107年！世界最神秘的书终于破解了</a></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210411/1523733.md" target="_blank">卡友怒骂中共交通监管罚款敛财：罚得你怀疑人生</a></li>
+<li><a href="/cbnews/20210411/1523732.md" target="_blank">夏业良：习近平吹牛 中共这样做将带来粮食危机</a></li>
 <li><a href="/cbnews/20210411/1523725.md" target="_blank">上海快递员烧了自己车上700余万元包裹 为何一点都不伤心？</a></li>
 <li><a href="/cbnews/20210411/1523705.md" target="_blank">武汉协和医院一天四台心脏移植 供体引关注</a></li>
 <li><a href="/cbnews/20210411/1523698.md" target="_blank">揭密中共高超音速导弹钻美漏洞 获关键芯片</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210410/1523353.md" target="_blank">中共研制北斗系统“掉线”导致卡车司机自杀 官方甩锅</a></li>
 <li><a href="/cbnews/20210410/1523349.md" target="_blank">美参院委员会将推迟审议抗衡中共法案</a></li>
 <li><a href="/cbnews/20210410/1523348.md" target="_blank">不接种疫苗则寸步难行 中共强打疫苗规定曝光 网友调侃</a></li>
-<li><a href="/cbnews/20210410/1523328.md" target="_blank">菲律宾总统卫队126人染疫 中共官媒急删消息</a></li>
-<li><a href="/comments/20210410/1523320.md" target="_blank">乔州州务卿干扰选举被削权是报应；拜登动最高法院！大法官取消终身制；哈里王子加州豪宅数月警报9次警察跑断腿！中国民间吁请习近平伸胳膊带头打国产疫苗；马斯克新突破猴子用思维打游戏【希望之声TV】10pm</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210411/1523731.md" target="_blank">法国开第一枪！ 4跨国企业涉强迫维族劳动 被告上法庭</a></li>
+<li><a href="/comments/20210411/1523730.md" target="_blank">霸气回应！温哥华市长：暂停与中共官员所有会面</a></li>
+<li><a href="/comments/20210411/1523729.md" target="_blank">怕啥？菲律宾总统卫队126人染疫 中共官媒急删消息</a></li>
+<li><a href="/comments/20210411/1523728.md" target="_blank">山东13岁女孩遭强暴案惊现大逆转 嫌犯被抓</a></li>
 <li><a href="/comments/20210411/1523715.md" target="_blank">悼念菲利普亲王！英军施放41响“矧炮” 西敏寺敲钟99次</a></li>
 <li><a href="/comments/20210411/1523714.md" target="_blank">印尼爪哇外海规模6.0强震 已知至少8死25伤</a></li>
 <li><a href="/comments/20210411/1523713.md" target="_blank">缅甸军方仰光附近围剿反政变群众 杀害逾80人</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210410/1523465.md" target="_blank">【常识】 杏林与杏坛，是什么？</a></li>
 <li><a href="/comments/20210410/1523386.md" target="_blank">【体味生活美好】 多伦多春天第一花：水仙花</a></li>
 <li><a href="/comments/20210410/1523372.md" target="_blank">【中国观察】阿里巴巴集团祸事连连  4月10日中共反垄断监管机构又对阿里巴巴开出破纪录的罚单高达182.28亿元人民币 中共党委已全面深入阿里巴巴内部</a></li>
-<li><a href="/comments/20210410/1523369.md" target="_blank">马云两天遭遇三连击 阿里巴巴被天价罚款182亿元 湖畔大学停止招生 阿里“闲鱼”平台被约谈</a></li>
-<li><a href="/comments/20210410/1523364.md" target="_blank">2024总统热门人选亮相川普家！美航母舰队南海实力曝光！卢比奥获川普背书 大赞他是“为人民辩护的人”；北京全球亿万富翁最多 财富更快向少数人集中【希望之声TV】-12am</a></li>
-<li><a href="/comments/20210410/1523362.md" target="_blank">红卫兵罪恶 “反动权威”胡传奎夫妇惨死经过</a></li>
-<li><a href="/comments/20210410/1523351.md" target="_blank">台海局势升温之际 中国大量军事自媒体被封 新浪 腾讯未能幸免</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 
 </ul>
 </div>
