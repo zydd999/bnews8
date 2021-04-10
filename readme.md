@@ -17,15 +17,15 @@
 <li><a href="/bannedvideo/20210409/1522645.md">英国通灵预言家大胆预言 白宫易主 女总统不是她 | 预言警示 | 探索与洞见 |</a></li>
 <li><a href="/comments/20210409/1522832.md">20亿年前的核反应堆！运转超过50万年，超自然“间歇泉”化学反应，比地球的年纪还要大？史前文明存在吗？</a></li>
 <li><a href="/comments/20210409/1522690.md">李燕铭：陈敏尔大秘转岗 孙春兰大秘卸职 副总理或很快换人 习近平深度布局 暗藏重磅清洗行动 江泽民大事不妙</a></li>
+<li><a href="/cbnews/20210409/1523032.md">传当局叫停湖畔大学招生 知情人爆阻马云搞“东林党”</a></li>
+<li><a href="/cbnews/20210410/1523170.md">江苏内部人士爆料：泰兴公安接连自杀 当局掩盖</a></li>
 <li><a href="/cbnews/20210409/1522665.md">习近平等不及 中共对台战争三年内爆发？</a></li>
 <li><a href="/topimagenews/20210409/1522664.md">山东强奸幼女案 传公安抓受害人未果 探望者遭围攻</a></li>
-<li><a href="/cbnews/20210409/1523032.md">传当局叫停湖畔大学招生 知情人爆阻马云搞“东林党”</a></li>
 <li><a href="/cbnews/20210409/1522743.md">土耳其中使馆咆哮后 门前被挖大坑 民众称快</a></li>
 <li><a href="/cnnews/20210409/1522786.md">黑龙江鹤岗副市长李旭办公室身亡</a></li>
 <li><a href="/cbnews/20210409/1522652.md">“被电视认罪！”中共央视现世报 全球被调查</a></li>
 <li><a href="/cbnews/20210409/1522847.md">面包内藏活老鼠 上海孕妇全家崩溃：差点吓到早产</a></li>
 <li><a href="/comments/20210409/1522622.md">【微博精粹】最高司令官平均每天工作30小时以上</a></li>
-<li><a href="/cbnews/20210410/1523170.md">江苏内部人士爆料：泰兴公安接连自杀 当局掩盖</a></li>
 <li><a href="/cbnews/20210409/1522877.md">英女王丈夫菲利普王子逝世 享年99岁</a></li>
 <li><a href="/worldnews/usa/20210409/1522730.md">川普步步为营，各个击破，回归的日子不远了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210410/1523265.md" target="_blank">闲谈美国独立史(2)：华盛顿横渡德拉瓦河 &#8211; 扭转乾坤的战役</a></li>
+<li><a href="/cbnews/20210410/1523263.md" target="_blank">战狼外交官威胁记者 瑞典在野党要求驱逐中共大使出境</a></li>
 <li><a href="/cbnews/20210410/1523241.md" target="_blank">文昭：女王丈夫菲利普亲王去世，为何21世纪王室将「自我了断」？抗共出力，拜登被冤枉了？</a></li>
 <li><a href="/comments/20210410/1523229.md" target="_blank">99岁飞利浦亲王去世   填充最高法院登上日程  主持：高洁  嘉宾： 谢田【希望之声TV】(2021/04/09)</a></li>
 <li><a href="/comments/20210410/1523208.md" target="_blank">《战情解析》第二十一期，回答网友们提出的问题</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210409/1522875.md" target="_blank">彭斯工于心计，成立“推进美国自由”，暗示自己是川普继承人，一举多得，目标2024。蓬佩奥加入福克斯新闻，为2024争取话语权，坦言随时准备战斗。</a></li>
 <li><a href="/cbnews/20210409/1522864.md" target="_blank">官场乱相 正局长打骂副局长致其心脏病发作</a></li>
 <li><a href="/cbnews/20210409/1522847.md" target="_blank">面包内藏活老鼠 上海孕妇全家崩溃：差点吓到早产</a></li>
-<li><a href="/comments/20210409/1522832.md" target="_blank">20亿年前的核反应堆！运转超过50万年，超自然“间歇泉”化学反应，比地球的年纪还要大？史前文明存在吗？</a></li>
-<li><a href="/cbnews/20210409/1522815.md" target="_blank">传播真善忍 原四川广播电台记者再遭枉判3年</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210410/1523265.md" target="_blank">闲谈美国独立史(2)：华盛顿横渡德拉瓦河 &#8211; 扭转乾坤的战役</a></li>
+<li><a href="/comments/20210410/1523253.md" target="_blank">赵小天等:3000万卡车司机的“黑匣子”困局</a></li>
+<li><a href="/comments/20210410/1523252.md" target="_blank">维舟:卡车司机之死</a></li>
+<li><a href="/comments/20210410/1523251.md" target="_blank">中共罪行录之三：党中央残忍让“西路军”覆灭 女兵惨烈</a></li>
 <li><a href="/comments/20210410/1523247.md" target="_blank">亚裔的可悲，不是被黑人暴打，而是找错了敌人</a></li>
 <li><a href="/comments/20210410/1523242.md" target="_blank">中共助军政府镇压证据？缅甸使用中制无人机监控抗议活动</a></li>
 <li><a href="/comments/20210410/1523229.md" target="_blank">99岁飞利浦亲王去世   填充最高法院登上日程  主持：高洁  嘉宾： 谢田【希望之声TV】(2021/04/09)</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210410/1523094.md" target="_blank">【组图+视频】旧货市场35美元的15世纪中国碗卖出了70多万美元</a></li>
 <li><a href="/comments/20210410/1523091.md" target="_blank">英国菲利普亲王去世；科技大佬杠上五大科技；拜登下控枪令  西弗州总检长威胁起诉；偷打中国疫苗 菲总统卫队126人确诊；小粉红上演 抵制&#038;抢光；泪崩 父母离婚小女孩生日谁送蛋糕【希望之声TV】</a></li>
 <li><a href="/comments/20210410/1523078.md" target="_blank">美学者：拜登有权就用尽 民主党千秋万代 共和党无险可守</a></li>
-<li><a href="/comments/20210410/1523065.md" target="_blank">【组图+视频】法国出土的欧洲最古老的地图：一块石板</a></li>
-<li><a href="/comments/20210410/1523057.md" target="_blank">唯色RFA博客：在冈仁波齐遇到的行脚僧，及圣山南面的藏人与流亡的精神领袖（七）</a></li>
-<li><a href="/comments/20210410/1523050.md" target="_blank">为中共军队秘密服务 美黑名单新增七家中国超级计算机实体</a></li>
-<li><a href="/comments/20210410/1523049.md" target="_blank">再现省部级老虎落马！秒杀山西副省长刘新云 政法系统再震荡</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
