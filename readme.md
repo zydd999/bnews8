@@ -11,8 +11,8 @@
 <li><a href="/cbnews/20210411/1523741.md">“我们同一个老婆”？中金高层出轨刷爆金融圈</a></li>
 <li><a href="/comments/20210411/1523887.md">杨洁篪骂完美帝后 摊上大事了！社安号被曝属一名美国去世人士</a></li>
 <li><a href="/cnnews/20210411/1523857.md">苹果发布会取消，新品直接开卖</a></li>
-<li><a href="/comments/20210411/1523925.md">【微博精粹】无声的屠杀开始了 大裤衩放风</a></li>
 <li><a href="/cnnews/20210411/1523828.md">美实验室引爆物理大地震！新发现超人类理解范围</a></li>
+<li><a href="/comments/20210411/1523925.md">【微博精粹】无声的屠杀开始了 大裤衩放风</a></li>
 <li><a href="/comments/20210411/1523779.md">崔永元：文化人不要向权贵低头</a></li>
 <li><a href="/cbnews/20210411/1523732.md">夏业良：习近平吹牛 中共这样做将带来粮食危机</a></li>
 <li><a href="/topimagenews/20210411/1523973.md">宛如科幻大片！美军砸220亿生产的黑科技！将彻底改变战场游戏规则【阿波罗网编译】</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/health/20210411/1523776.md">所有人注意！这4个“医学常识”是假的，别再被骗</a></li>
 <li><a href="/comments/20210411/1523743.md">【习近平女儿泄密案】持续发酵？ 习近平的铁杆亲信王小洪副手空降广东</a></li>
 <li><a href="/comments/20210411/1523971.md">【中国观察】人格分裂的马云：中国是世界上最好的国家 政治稳定 社会安全 没有一个国家可以和中国比..然后，马云就被失踪了.. 在疫情冲击下 全球经济遭受重创而富豪人数激增  中国贫富两极化更令人担忧</a></li>
-<li><a href="/cnnews/20210411/1523937.md">被鲁迅骂为“走狗”的梁实秋对鲁迅的评价相当客观准确</a></li>
 <li><a href="/funmedia/20210411/1523921.md">KTV包厢设立独立卫生间，除了可以上厕所，还有这些重要的用途</a></li>
+<li><a href="/cnnews/20210411/1523937.md">被鲁迅骂为“走狗”的梁实秋对鲁迅的评价相当客观准确</a></li>
+<li><a href="/topimagenews/20210411/1523985.md">应对中共 美军AI有三大优势 中共强推 全民遭监视监听 上海成全球生活成本最高城市</a></li>
 <li><a href="/comments/20210411/1523916.md">【独家重磅】习近平下令倒查二十年 重演胡锦涛反击江泽民上海帮大动作 内蒙古窝案牵出上海帮 上海电气原副总裁吕亚臣被查 背后隐现江泽民家族 15年前上海社保案曾掀翻多名上海电气高管 中纪委人员在上海副市长面前将上海电气副总裁带走……</a></li>
 <li><a href="/cnnews/20210411/1523831.md">NASA发布火星罕见照片！网友：这就是地球的海滩</a></li>
-<li><a href="/topimagenews/20210411/1523985.md">应对中共 美军AI有三大优势 中共强推 全民遭监视监听 上海成全球生活成本最高城市</a></li>
 <li><a href="/worldnews/20210411/1523709.md">广东干旱水库见底惊现大型古墓</a></li>
-<li><a href="/yule/20210411/1523864.md">TVB毁容女星宣布破产：连菜都买不起，一日三餐全靠朋友接济</a></li>
+<li><a href="/baitai/20210411/1524007.md">震惊！当年京剧《智取威虎山》赴美演出剧组集体叛逃</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210411/1524192.md" target="_blank">又一战狼触礁！ 瑞典在野党要求驱逐中国大使桂从友</a></li>
 <li><a href="/comments/20210411/1524178.md" target="_blank">横河：拜登禁枪及填最高法两步推进左派议程</a></li>
 <li><a href="/comments/20210411/1524177.md" target="_blank">横河：美国制裁才知中国超级电脑有假</a></li>
 <li><a href="/comments/20210411/1524176.md" target="_blank">横河：司机自杀引出北斗导航问题</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210411/1523925.md" target="_blank">【微博精粹】无声的屠杀开始了 大裤衩放风</a></li>
 <li><a href="/comments/20210411/1523916.md" target="_blank">【独家重磅】习近平下令倒查二十年 重演胡锦涛反击江泽民上海帮大动作 内蒙古窝案牵出上海帮 上海电气原副总裁吕亚臣被查 背后隐现江泽民家族 15年前上海社保案曾掀翻多名上海电气高管 中纪委人员在上海副市长面前将上海电气副总裁带走……</a></li>
 <li><a href="/comments/20210411/1523915.md" target="_blank">【独家重磅】习近平反击江曾电力政变 上海电气原副总裁吕亚臣被查 背后隐现江泽民家族 江泽民上海帮电力能源独立王国成为政变反习重要基地 习近平连环重磅清洗行动拆解不定时炸弹</a></li>
-<li><a href="/comments/20210411/1523912.md" target="_blank">美国对此罪袖手太长时间 世界已沉默太久</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
