@@ -18,16 +18,16 @@
 <li><a href="/comments/20210410/1523573.md">钟原：美国再击要害 中共战狼怂了</a></li>
 <li><a href="/lifebaike/20210411/1523884.md">京剧《智取威虎山》赴美演出剧组集体投奔自由</a></li>
 <li><a href="/health/20210411/1523776.md">所有人注意！这4个“医学常识”是假的，别再被骗</a></li>
-<li><a href="/comments/20210411/1523743.md">【习近平女儿泄密案】持续发酵？ 习近平的铁杆亲信王小洪副手空降广东</a></li>
 <li><a href="/funmedia/20210411/1523909.md">在泰国住酒店，出门前在床头放20泰铢，晚上客房小妹给你“惊喜”</a></li>
+<li><a href="/comments/20210411/1523743.md">【习近平女儿泄密案】持续发酵？ 习近平的铁杆亲信王小洪副手空降广东</a></li>
 <li><a href="/lifebaike/20210410/1523642.md">那些飞到美国生下的中国娃 如今怎样了？</a></li>
 <li><a href="/cnnews/20210411/1523937.md">被鲁迅骂为“走狗”的梁实秋对鲁迅的评价相当客观准确</a></li>
 <li><a href="/cnnews/20210411/1523831.md">NASA发布火星罕见照片！网友：这就是地球的海滩</a></li>
-<li><a href="/finance/20210410/1523560.md">中国大陆产品出厂价飙升 释放信号危险</a></li>
 <li><a href="/funmedia/20210411/1523921.md">KTV包厢设立独立卫生间，除了可以上厕所，还有这些重要的用途</a></li>
 <li><a href="/comments/20210411/1523916.md">【独家重磅】习近平下令倒查二十年 重演胡锦涛反击江泽民上海帮大动作 内蒙古窝案牵出上海帮 上海电气原副总裁吕亚臣被查 背后隐现江泽民家族 15年前上海社保案曾掀翻多名上海电气高管 中纪委人员在上海副市长面前将上海电气副总裁带走……</a></li>
 <li><a href="/worldnews/20210411/1523709.md">广东干旱水库见底惊现大型古墓</a></li>
 <li><a href="/cnnews/20210410/1523575.md">全球最昂贵城市花落上海</a></li>
+<li><a href="/topimagenews/20210411/1523973.md">宛如科幻大片！美军砸220亿生产的黑科技！将彻底改变战场游戏规则【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210411/1524111.md" target="_blank">大陆维权人士郭宏伟狱中突发脑溢血死亡</a></li>
+<li><a href="/cbnews/20210411/1524107.md" target="_blank">美特种作战部队将对中共发动信息战</a></li>
+<li><a href="/cbnews/20210411/1524106.md" target="_blank">那些可贵的人们啊 都在翻墙逃生</a></li>
+<li><a href="/cbnews/20210411/1524105.md" target="_blank">北京至齐齐哈尔列车 突被铁路两旁大火逼停</a></li>
 <li><a href="/comments/20210411/1524103.md" target="_blank">美研发超音速总统专机？谷歌地图实现室内实景导航；中共公安部强推手机App 全民遭监视监听；美专家：社交平台沦为中共第五纵队同谋；山西医生自爆收回扣 院方：他性格偏激；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210411/1524100.md" target="_blank">美国颁布新版对台交往准则，时间与地点，均意味深长。中共对台动武究竟是真是假？台湾最懂中共，抗共决心将决定台湾未来。萧美琴在双橡园请蓬佩奥吃凤梨酥。</a></li>
 <li><a href="/cbnews/20210411/1524069.md" target="_blank">云南镇雄县五德发生山体滑坡 致2死1伤</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20210411/1523733.md" target="_blank">卡友怒骂中共交通监管罚款敛财：罚得你怀疑人生</a></li>
 <li><a href="/cbnews/20210411/1523732.md" target="_blank">夏业良：习近平吹牛 中共这样做将带来粮食危机</a></li>
 <li><a href="/cbnews/20210411/1523725.md" target="_blank">上海快递员烧了自己车上700余万元包裹 为何一点都不伤心？</a></li>
-<li><a href="/cbnews/20210411/1523705.md" target="_blank">武汉协和医院一天四台心脏移植 供体引关注</a></li>
-<li><a href="/cbnews/20210411/1523698.md" target="_blank">揭密中共高超音速导弹钻美漏洞 获关键芯片</a></li>
-<li><a href="/cbnews/20210411/1523697.md" target="_blank">河南中学男厕被爆装监控 网民：现象普遍</a></li>
-<li><a href="/cbnews/20210410/1523572.md" target="_blank">武汉协和医院一天4台心脏移植 供体引关注</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
