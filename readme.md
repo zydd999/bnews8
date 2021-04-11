@@ -14,17 +14,17 @@
 <li><a href="/cbnews/20210411/1523741.md">“我们同一个老婆”？中金高层出轨刷爆金融圈</a></li>
 <li><a href="/comments/20210411/1523797.md">阿里被立案调查 后面的老虎 触目惊心</a></li>
 <li><a href="/comments/20210410/1523486.md">中共社会大溃烂的末日危机（中共命运的轨迹和人类前途  第五讲）【袁红冰纵论天下】 04102021</a></li>
+<li><a href="/comments/20210411/1523887.md">杨洁篪骂完美帝后 摊上大事了！社安号被曝属一名美国去世人士</a></li>
 <li><a href="/cnnews/20210410/1523472.md">潘多拉盒子开了：初创公司采集儿童血液抗衰老 科技公司投资数十亿【阿波罗网编译】</a></li>
 <li><a href="/comments/20210411/1523779.md">崔永元：文化人不要向权贵低头</a></li>
-<li><a href="/comments/20210411/1523887.md">杨洁篪骂完美帝后 摊上大事了！社安号被曝属一名美国去世人士</a></li>
 <li><a href="/cnnews/20210410/1523500.md">被重罚182亿元人民币 阿里巴巴回应</a></li>
 <li><a href="/comments/20210410/1523556.md">瑞典要驱逐战狼大使；原材料价暴涨 大陆很多工厂停工；刘鹤保护投资者利益 股市收跌；阿里被罚182亿马云破财能挡灾？黑命贵创始人白人社区买豪宅；异象？贵阳一小镇上空上万只黑鸟盘旋；8am【希望之声TV】</a></li>
+<li><a href="/cnnews/20210411/1523828.md">美实验室引爆物理大地震！新发现超人类理解范围</a></li>
 <li><a href="/comments/20210410/1523573.md">钟原：美国再击要害 中共战狼怂了</a></li>
+<li><a href="/cnnews/20210411/1523857.md">苹果发布会取消，新品直接开卖</a></li>
 <li><a href="/comments/20210411/1523743.md">【习近平女儿泄密案】持续发酵？ 习近平的铁杆亲信王小洪副手空降广东</a></li>
 <li><a href="/health/20210411/1523776.md">所有人注意！这4个“医学常识”是假的，别再被骗</a></li>
-<li><a href="/cnnews/20210411/1523828.md">美实验室引爆物理大地震！新发现超人类理解范围</a></li>
 <li><a href="/cbnews/20210411/1523732.md">夏业良：习近平吹牛 中共这样做将带来粮食危机</a></li>
-<li><a href="/cnnews/20210411/1523857.md">苹果发布会取消，新品直接开卖</a></li>
 <li><a href="/cbnews/20210410/1523466.md">大陆日照女孩遭强暴事件 施暴者是黑社会 恐吓家属私了 与公安有私交</a></li>
 <li><a href="/lifebaike/20210410/1523642.md">那些飞到美国生下的中国娃 如今怎样了？</a></li>
 <li><a href="/finance/20210410/1523560.md">中国大陆产品出厂价飙升 释放信号危险</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210411/1523985.md" target="_blank">应对中共 美军AI有三大优势 中共强推 全民遭监视监听 上海成全球生活成本最高城市</a></li>
 <li><a href="/topimagenews/20210411/1523973.md" target="_blank">宛如科幻大片！美军砸220亿生产的黑科技！将彻底改变战场游戏规则【阿波罗网编译】</a></li>
 <li><a href="/topimagenews/20210411/1523871.md" target="_blank">彻底打起来了！58同城姚劲波“举报”贝壳反垄断 高呼“罚它40亿！”</a></li>
 <li><a href="/topimagenews/20210411/1523675.md" target="_blank">中共审查殃及动画片 动漫迷群起翻墙“移民台湾”</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210406/1520399.md" target="_blank">罕见！日外相致电王毅90分钟罕见强烈批评 中国土壤污染重粮食自给率逐年跌</a></li>
 <li><a href="/topimagenews/20210405/1519948.md" target="_blank">神秘到连名字都不知道！美超尖端无人机 身怀惊人绝技</a></li>
 <li><a href="/topimagenews/20210405/1519899.md" target="_blank">诡异！他为何2017年就预言川普将面对疫情大爆发？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20210405/1519818.md" target="_blank">川普呼吁抵制大公司施压乔州 共和党主席发声</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
