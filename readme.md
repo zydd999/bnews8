@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20210412/1524357.md">美海军翘脚笑看“辽宁号” 中国网友崩溃…</a></li>
 <li><a href="/worldnews/20210412/1524228.md">美海军翘脚笑看“辽宁号” 中国网友看到照片崩溃了</a></li>
 <li><a href="/cnnews/20210412/1524211.md">三星堆再现奇特文物 与上古神话惊人吻合</a></li>
-<li><a href="/comments/20210412/1524539.md">马云反了!</a></li>
 <li><a href="/cnnews/20210412/1524234.md">习近平为何惩罚阿里巴巴 外媒分析两原因</a></li>
-<li><a href="/funmedia/20210412/1524333.md">人品越差的女人，越喜欢用这些图片做微信头像，请小心提防</a></li>
 <li><a href="/cbnews/20210412/1524655.md">消息：上海前市长杨雄猝死 与江泽民长子关系密切</a></li>
+<li><a href="/comments/20210412/1524539.md">马云反了!</a></li>
+<li><a href="/funmedia/20210412/1524333.md">人品越差的女人，越喜欢用这些图片做微信头像，请小心提防</a></li>
 <li><a href="/comments/20210412/1524395.md">【微博精粹】高福主任说真话 杀人疫苗已经在亿万人民身上检测失败</a></li>
 <li><a href="/topimagenews/20210412/1524286.md">川普誓言赢选举 否决彭斯和他 极左要左派大法官辞职 拜登不反对</a></li>
 <li><a href="/health/20210412/1524297.md">长期不吃晚饭的人，变成啥样了？看完吓一跳</a></li>
-<li><a href="/cnnews/20210412/1524210.md">iPhone 13 预计9月推出 顶配版售价逾2300元成史上最贵</a></li>
 <li><a href="/comments/20210412/1524620.md">必死之相：人口问题上中共已方寸大乱，彻底丧失了修错能力 — 曾节明</a></li>
+<li><a href="/cnnews/20210412/1524210.md">iPhone 13 预计9月推出 顶配版售价逾2300元成史上最贵</a></li>
 <li><a href="/topimagenews/20210412/1524221.md">制造商持续撤离中国 运往美国货柜东盟占逾2成 中国占比衰退</a></li>
 <li><a href="/ssgc/20210412/1524269.md">〖兲朝浮世绘〗一国两命：罚两千的喝药死了，罚182亿的谢主隆恩了</a></li>
 <li><a href="/health/20210412/1524296.md">天然“雄激素”被找到了！男人平时放开吃4物，或助肾脏更有活力</a></li>
 <li><a href="/lifebaike/20210412/1524311.md">买车到底是选择SUV还是轿车？听老司一分析，一清二楚</a></li>
 <li><a href="/lifebaike/20210412/1524330.md">变味同学会：发现身旁服务员是老同学后，众人联手做了件事</a></li>
-<li><a href="/headline/20210411/1524173.md">高福罕见承认中国疫苗效力低</a></li>
-<li><a href="/cbnews/20210412/1524231.md">公安部打着反诈旗号强推手机App 全民遭监控</a></li>
-<li><a href="/comments/20210412/1524570.md">川普王者归来的前奏！密西根州审计获得二大重磅发现，亚利桑那、乔治亚仍在奋力抗争，新罕布什尔州新加入审计。川普总统4月10日晚海湖庄园的闭门演讲要点流出。</a></li>
-<li><a href="/cnnews/20210412/1524456.md">承认中国制疫苗效力低 中国疾控中心主任急改口</a></li>
 <li><a href="/cbnews/20210412/1524649.md">曾庆红心腹旧部史文清被逮捕 被称为戏精 女朋友赣南遍地都是</a></li>
-<li><a href="/cbnews/20210411/1524174.md">“如同牲畜” 中国大陆劳教所里的700个日夜</a></li>
+<li><a href="/comments/20210412/1524570.md">川普王者归来的前奏！密西根州审计获得二大重磅发现，亚利桑那、乔治亚仍在奋力抗争，新罕布什尔州新加入审计。川普总统4月10日晚海湖庄园的闭门演讲要点流出。</a></li>
+<li><a href="/cbnews/20210412/1524231.md">公安部打着反诈旗号强推手机App 全民遭监控</a></li>
+<li><a href="/topimagenews/20210412/1524731.md">大事！习近平和普京较劲 中国房价会降？卖地创纪录 高福罕见承认中国疫苗重大缺点</a></li>
+<li><a href="/cnnews/20210412/1524456.md">承认中国制疫苗效力低 中国疾控中心主任急改口</a></li>
+<li><a href="/cnnews/20210412/1524650.md">习近平“双循环”遇麻烦 制造业纷纷撤离中国</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210412/1524818.md" target="_blank">司徒剑：杨雄猝死或有内情 韩正求自保 江家有难？</a></li>
+<li><a href="/comments/20210412/1524813.md" target="_blank">泰国疫情再创新高 “泼水节”禁止泼水庆祝 夜店关闭</a></li>
+<li><a href="/comments/20210412/1524812.md" target="_blank">【文韬政论】中国疫苗外交与受创国的脆弱性</a></li>
+<li><a href="/comments/20210412/1524811.md" target="_blank">川普长子掷近3亿购佛州海滨豪宅 家族定居态势愈趋明朗</a></li>
 <li><a href="/comments/20210412/1524786.md" target="_blank">中共“三高”外交 作茧自缚</a></li>
 <li><a href="/comments/20210412/1524782.md" target="_blank">为色情推文按赞 前驻英大使“战狼”刘晓明任朝鲜半岛事务特别代表</a></li>
 <li><a href="/comments/20210412/1524752.md" target="_blank">陈清竹：少女遭强奸却投诉无门 这是什么社会？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210412/1524570.md" target="_blank">川普王者归来的前奏！密西根州审计获得二大重磅发现，亚利桑那、乔治亚仍在奋力抗争，新罕布什尔州新加入审计。川普总统4月10日晚海湖庄园的闭门演讲要点流出。</a></li>
 <li><a href="/comments/20210412/1524569.md" target="_blank">春天注意！医示警：温差大比低温致命</a></li>
 <li><a href="/comments/20210412/1524568.md" target="_blank">咖啡越喝越疲累？ 营养师曝过量摄取8大警讯</a></li>
-<li><a href="/comments/20210412/1524567.md" target="_blank">国人3大常见肠胃问题，你也有吗？</a></li>
-<li><a href="/comments/20210412/1524550.md" target="_blank">王友群：习近平的父亲留下的四大遗产</a></li>
-<li><a href="/comments/20210412/1524541.md" target="_blank">缅甸政局动荡暴力事件频增 军方首度提大选时间</a></li>
-<li><a href="/comments/20210412/1524540.md" target="_blank">104岁人瑞两度击败病毒 给人们带来希望</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
