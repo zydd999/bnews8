@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/comments/20210411/1523797.md">阿里被立案调查 后面的老虎 触目惊心</a></li>
 <li><a href="/comments/20210411/1523887.md">杨洁篪骂完美帝后 摊上大事了！社安号被曝属一名美国去世人士</a></li>
 <li><a href="/cnnews/20210411/1523828.md">美实验室引爆物理大地震！新发现超人类理解范围</a></li>
 <li><a href="/cnnews/20210411/1523857.md">苹果发布会取消，新品直接开卖</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20210411/1523973.md">宛如科幻大片！美军砸220亿生产的黑科技！将彻底改变战场游戏规则【阿波罗网编译】</a></li>
 <li><a href="/funmedia/20210411/1523909.md">在泰国住酒店，出门前在床头放20泰铢，晚上客房小妹给你“惊喜”</a></li>
 <li><a href="/comments/20210411/1523971.md">【中国观察】人格分裂的马云：中国是世界上最好的国家 政治稳定 社会安全 没有一个国家可以和中国比..然后，马云就被失踪了.. 在疫情冲击下 全球经济遭受重创而富豪人数激增  中国贫富两极化更令人担忧</a></li>
+<li><a href="/worldnews/20210412/1524228.md">美海军翘脚笑看“辽宁号” 中国网友看到照片崩溃了</a></li>
 <li><a href="/bannedvideo/20210411/1524096.md">陈破空：原来如此！习近平怀疑马云是反对党领袖，组建东林党！阿里巴巴遭重罚</a></li>
 <li><a href="/lifebaike/20210411/1523884.md">京剧《智取威虎山》赴美演出剧组集体投奔自由</a></li>
 <li><a href="/funmedia/20210411/1523921.md">KTV包厢设立独立卫生间，除了可以上厕所，还有这些重要的用途</a></li>
-<li><a href="/baitai/20210411/1524085.md">佛山一摄像头创造罚金1.2亿 网民讽刺应该上市</a></li>
 <li><a href="/cnnews/20210412/1524211.md">三星堆再现奇特文物 与上古神话惊人吻合</a></li>
+<li><a href="/baitai/20210411/1524085.md">佛山一摄像头创造罚金1.2亿 网民讽刺应该上市</a></li>
 <li><a href="/cnnews/20210411/1523937.md">被鲁迅骂为“走狗”的梁实秋对鲁迅的评价相当客观准确</a></li>
-<li><a href="/comments/20210411/1523916.md">【独家重磅】习近平下令倒查二十年 重演胡锦涛反击江泽民上海帮大动作 内蒙古窝案牵出上海帮 上海电气原副总裁吕亚臣被查 背后隐现江泽民家族 15年前上海社保案曾掀翻多名上海电气高管 中纪委人员在上海副市长面前将上海电气副总裁带走……</a></li>
 <li><a href="/topimagenews/20210411/1523985.md">应对中共 美军AI有三大优势 中共强推 全民遭监视监听 上海成全球生活成本最高城市</a></li>
-<li><a href="/worldnews/20210412/1524228.md">美海军翘脚笑看“辽宁号” 中国网友看到照片崩溃了</a></li>
+<li><a href="/comments/20210411/1523916.md">【独家重磅】习近平下令倒查二十年 重演胡锦涛反击江泽民上海帮大动作 内蒙古窝案牵出上海帮 上海电气原副总裁吕亚臣被查 背后隐现江泽民家族 15年前上海社保案曾掀翻多名上海电气高管 中纪委人员在上海副市长面前将上海电气副总裁带走……</a></li>
 <li><a href="/cnnews/20210411/1524097.md">美军地面部队南海震撼 西方反弹不吃中共这一套 中欧投资协定没戏了？</a></li>
 <li><a href="/baitai/20210411/1524007.md">震惊！当年京剧《智取威虎山》赴美演出剧组集体叛逃</a></li>
 <li><a href="/cnnews/20210411/1523831.md">NASA发布火星罕见照片！网友：这就是地球的海滩</a></li>
 <li><a href="/cnnews/20210412/1524210.md">iPhone 13 预计9月推出 顶配版售价逾2300元成史上最贵</a></li>
 <li><a href="/renquan/xgmyd/20210411/1524118.md">毛夫人江青的天堂生活 令人瞠目结舌</a></li>
 <li><a href="/cnnews/20210411/1524073.md">山西公安厅长刘新云落马 与孙立军交集多年</a></li>
+<li><a href="/cnnews/20210412/1524234.md">习近平为何惩罚阿里巴巴 外媒分析两原因</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210412/1524348.md" target="_blank">解释天衣无缝 完美错过所有责任 有人“翻译”了官方通报意思</a></li>
+<li><a href="/comments/20210412/1524335.md" target="_blank">全美学自联谴责中共迫害学自联理事古懿的声明</a></li>
 <li><a href="/comments/20210412/1524315.md" target="_blank">韩杰生：中国自由文化运动之歌（增补版）【中国自由文化运动之歌”候选歌词之二十二】</a></li>
 <li><a href="/comments/20210412/1524314.md" target="_blank">狄马：陕北说书：民间叙事文学的活化石（上）</a></li>
 <li><a href="/comments/20210412/1524313.md" target="_blank">汪湖：流亡——致袁红冰先生</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210411/1524063.md" target="_blank">正统文化教材 动画《三字经》第六单元 ：舜的故事</a></li>
 <li><a href="/comments/20210411/1524062.md" target="_blank">漫谈成语：天伦之乐</a></li>
 <li><a href="/comments/20210411/1524057.md" target="_blank">寒石：历史是主动发生的（四）</a></li>
-<li><a href="/comments/20210411/1524056.md" target="_blank">冷月：游吟诗人</a></li>
-<li><a href="/comments/20210411/1523951.md" target="_blank">蒋介石论人口和生育 — 曾节明</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
 
 </ul>
 </div>
