@@ -16,14 +16,14 @@
 <li><a href="/renquan/xgmyd/20210411/1524118.md">毛夫人江青的天堂生活 令人瞠目结舌</a></li>
 <li><a href="/comments/20210412/1524395.md">【微博精粹】高福主任说真话 杀人疫苗已经在亿万人民身上检测失败</a></li>
 <li><a href="/topimagenews/20210412/1524286.md">川普誓言赢选举 否决彭斯和他 极左要左派大法官辞职 拜登不反对</a></li>
+<li><a href="/comments/20210412/1524539.md">马云反了!</a></li>
 <li><a href="/cnnews/20210412/1524210.md">iPhone 13 预计9月推出 顶配版售价逾2300元成史上最贵</a></li>
 <li><a href="/health/20210412/1524297.md">长期不吃晚饭的人，变成啥样了？看完吓一跳</a></li>
 <li><a href="/topimagenews/20210412/1524221.md">制造商持续撤离中国 运往美国货柜东盟占逾2成 中国占比衰退</a></li>
 <li><a href="/ssgc/20210412/1524269.md">〖兲朝浮世绘〗一国两命：罚两千的喝药死了，罚182亿的谢主隆恩了</a></li>
-<li><a href="/comments/20210412/1524539.md">马云反了!</a></li>
 <li><a href="/cnnews/20210411/1524073.md">山西公安厅长刘新云落马 与孙立军交集多年</a></li>
-<li><a href="/headline/20210411/1524173.md">高福罕见承认中国疫苗效力低</a></li>
 <li><a href="/lifebaike/20210412/1524311.md">买车到底是选择SUV还是轿车？听老司一分析，一清二楚</a></li>
+<li><a href="/headline/20210411/1524173.md">高福罕见承认中国疫苗效力低</a></li>
 <li><a href="/lifebaike/20210412/1524330.md">变味同学会：发现身旁服务员是老同学后，众人联手做了件事</a></li>
 <li><a href="/health/20210412/1524296.md">天然“雄激素”被找到了！男人平时放开吃4物，或助肾脏更有活力</a></li>
 <li><a href="/cbnews/20210411/1524106.md">那些可贵的人们啊 都在翻墙逃生</a></li>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210412/1524673.md" target="_blank">广东干旱用水告急 部分地区一周停水3天</a></li>
+<li><a href="/cbnews/20210412/1524672.md" target="_blank">邯郸一景区传扣留700多名学生 网民议论纷纷</a></li>
+<li><a href="/comments/20210412/1524664.md" target="_blank">哈佛教授被从天堂送回人间，脑科学专家，另外空间惊见她！</a></li>
+<li><a href="/cbnews/20210412/1524655.md" target="_blank">消息：上海前市长杨雄猝死 与江泽民长子关系密切</a></li>
 <li><a href="/cbnews/20210412/1524649.md" target="_blank">曾庆红心腹旧部史文清被逮捕 被称为戏精 女朋友赣南遍地都是</a></li>
 <li><a href="/comments/20210412/1524620.md" target="_blank">必死之相：人口问题上中共已方寸大乱，彻底丧失了修错能力 — 曾节明</a></li>
 <li><a href="/cbnews/20210412/1524581.md" target="_blank">婚礼上 新娘脖子上挂满了黄金手镯</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20210412/1524231.md" target="_blank">公安部打着反诈旗号强推手机App 全民遭监控</a></li>
 <li><a href="/cbnews/20210411/1524174.md" target="_blank">“如同牲畜” 中国大陆劳教所里的700个日夜</a></li>
 <li><a href="/cbnews/20210411/1524124.md" target="_blank">阿里巴巴下一步 传北京希望出售《南华早报》</a></li>
-<li><a href="/cbnews/20210411/1524123.md" target="_blank">河北司机自杀调查结果“完美甩锅” 家属被噤声</a></li>
-<li><a href="/cbnews/20210411/1524122.md" target="_blank">新疆法轮功学员遭关押到集中营等地残酷迫害</a></li>
-<li><a href="/cbnews/20210411/1524115.md" target="_blank">陕西律师常玮平被捕 妻控告宝鸡警方</a></li>
-<li><a href="/cbnews/20210411/1524111.md" target="_blank">大陆维权人士郭宏伟狱中突发脑溢血死亡</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210412/1524664.md" target="_blank">哈佛教授被从天堂送回人间，脑科学专家，另外空间惊见她！</a></li>
+<li><a href="/comments/20210412/1524663.md" target="_blank">“蓄意扭曲事实” 13位被迫电视“认罪”者促欧洲禁播CGTN</a></li>
 <li><a href="/comments/20210412/1524620.md" target="_blank">必死之相：人口问题上中共已方寸大乱，彻底丧失了修错能力 — 曾节明</a></li>
 <li><a href="/comments/20210412/1524622.md" target="_blank">美国国防部长首访以色列 加强美以合作确保区域安全</a></li>
 <li><a href="/comments/20210412/1524621.md" target="_blank">南极圈里的神秘圈</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210412/1524514.md" target="_blank">布林肯揭中共疫情信息不透明 呼吁彻查病毒来源</a></li>
 <li><a href="/comments/20210412/1524512.md" target="_blank">布林肯：美国长期承诺确保台湾有能力自卫</a></li>
 <li><a href="/comments/20210412/1524511.md" target="_blank">美特种作战司令部：将启动对中共的信息战</a></li>
-<li><a href="/comments/20210412/1524510.md" target="_blank">五角大楼2025年军事部署曝光！谁接班梅克尔？答案将揭晓！重罚阿里 马化腾正坐等出事？美菲防长通话联手抗共！台海爆发战事最怕啥？白宫官员透实情-【希望之声TV】12am</a></li>
-<li><a href="/comments/20210412/1524509.md" target="_blank">北京强改选制 近七成港人认为“民主普选越走越远”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
