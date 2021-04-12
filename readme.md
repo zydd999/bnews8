@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210413/1524983.md" target="_blank">【中国时局】中共雇凶作案 强制收紧个人信息管控 1）中共雇凶 暴力袭击香港大纪元 2）中共CDC主任承认 国产疫苗效力低 3）强制安装手机App 收紧个人信息管控</a></li>
 <li><a href="/comments/20210413/1524923.md" target="_blank">蓬佩奥啖台湾凤梨干“将了一军”；东京奥运火炬接力 47县传至第9站；黑命贵创始人多套豪宅曝光；加州惊现“时代革命”港人抗争画面壁画 ；麦当劳将在沃尔玛内销声匿迹？中共雇凶再袭香港大元【希望之声TV】</a></li>
 <li><a href="/cbnews/20210412/1524897.md" target="_blank">原建行工程监理赵锋慧遭绑架 警察欲抓其妻</a></li>
 <li><a href="/cbnews/20210412/1524896.md" target="_blank">安徽外卖员被撞倒后再遭120碾压 惹怒网民</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210412/1524649.md" target="_blank">曾庆红心腹旧部史文清被逮捕 被称为戏精 女朋友赣南遍地都是</a></li>
 <li><a href="/comments/20210412/1524620.md" target="_blank">必死之相：人口问题上中共已方寸大乱，彻底丧失了修错能力 — 曾节明</a></li>
 <li><a href="/cbnews/20210412/1524581.md" target="_blank">婚礼上 新娘脖子上挂满了黄金手镯</a></li>
-<li><a href="/comments/20210412/1524570.md" target="_blank">川普王者归来的前奏！密西根州审计获得二大重磅发现，亚利桑那、乔治亚仍在奋力抗争，新罕布什尔州新加入审计。川普总统4月10日晚海湖庄园的闭门演讲要点流出。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210413/1524983.md" target="_blank">【中国时局】中共雇凶作案 强制收紧个人信息管控 1）中共雇凶 暴力袭击香港大纪元 2）中共CDC主任承认 国产疫苗效力低 3）强制安装手机App 收紧个人信息管控</a></li>
+<li><a href="/comments/20210413/1524981.md" target="_blank">【小品】左派绿色环保人士斗劫匪</a></li>
+<li><a href="/comments/20210413/1524978.md" target="_blank">蓬佩奥：边境问题本已解决 拜登枉费前政府成果</a></li>
+<li><a href="/comments/20210413/1524971.md" target="_blank">中共封杀后 好运连连！ 华裔女导演赵婷又获四项大奖</a></li>
+<li><a href="/comments/20210413/1524970.md" target="_blank">13名强迫认罪受害者联署 吁欧卫封杀CGTN</a></li>
 <li><a href="/comments/20210413/1524969.md" target="_blank">边境危机持续恶化 德州州长吁恢复川普移民政策</a></li>
 <li><a href="/comments/20210413/1524966.md" target="_blank">美宗教领袖：被中共制裁 我们受宠若惊</a></li>
 <li><a href="/comments/20210413/1524965.md" target="_blank">马云“未服“？蚂蚁集团再遭中共四部门约谈</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210413/1524906.md" target="_blank">因追问世卫顾问“台湾会籍”遭批斗 美女记者疑不堪压力辞职</a></li>
 <li><a href="/comments/20210413/1524905.md" target="_blank">昂山素季视讯出庭 又被加控了新罪名</a></li>
 <li><a href="/comments/20210412/1524904.md" target="_blank">前驻英大使刘晓明任新职 点赞色情视频丑事挥之不去</a></li>
-<li><a href="/comments/20210412/1524867.md" target="_blank">张骞出使西域 去时一百多人 为何只回来两人？</a></li>
-<li><a href="/comments/20210412/1524858.md" target="_blank">玛莎·罗森伯格：“害苦”自由派媒体的新闻事件</a></li>
-<li><a href="/comments/20210412/1524851.md" target="_blank">与江泽民长子关系密切 上海前市长杨雄猝死</a></li>
-<li><a href="/comments/20210412/1524818.md" target="_blank">司徒剑：杨雄猝死或有内情 韩正求自保 江家有难？</a></li>
-<li><a href="/comments/20210412/1524813.md" target="_blank">泰国疫情再创新高 “泼水节”禁止泼水庆祝 夜店关闭</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
 
 </ul>
 </div>
