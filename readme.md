@@ -14,8 +14,8 @@
 <li><a href="/cnnews/20210412/1524660.md">蓬佩奥晒出一张照片 “同款”已经售空 将军中共</a></li>
 <li><a href="/comments/20210412/1524570.md">川普王者归来的前奏！密西根州审计获得二大重磅发现，亚利桑那、乔治亚仍在奋力抗争，新罕布什尔州新加入审计。川普总统4月10日晚海湖庄园的闭门演讲要点流出。</a></li>
 <li><a href="/bannedvideo/20210412/1524631.md">文睿：后脊梁骨发凉，习近平这次麻烦大了，美国明确要开始追责了</a></li>
-<li><a href="/comments/20210412/1524701.md">李燕铭：江泽民家族噩耗！上海前市长杨雄猝死 预示江泽民父子末日将至 一张照片泄露江绵恒公开对抗习近平 杨雄在江绵恒独立王国任要职 座次竟超过两副国级高官</a></li>
 <li><a href="/ssgc/20210413/1524979.md">〖兲朝浮世绘〗高福威胁世界赶快共享疫苗 中共为国产疫苗无效铺路</a></li>
+<li><a href="/comments/20210412/1524701.md">李燕铭：江泽民家族噩耗！上海前市长杨雄猝死 预示江泽民父子末日将至 一张照片泄露江绵恒公开对抗习近平 杨雄在江绵恒独立王国任要职 座次竟超过两副国级高官</a></li>
 <li><a href="/cbnews/20210412/1524849.md">深圳市原教育局副局长夫妇 探亲回国后遭枉判</a></li>
 <li><a href="/headline/20210412/1524629.md">中共党史新版本出来了 习近平地位崇高 文革毛没错</a></li>
 <li><a href="/topimagenews/20210413/1524952.md">K形复苏步向极端！中产正消失 通胀埋下社会动荡伏线</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/cbnews/20210413/1525011.md">专栏 | 夜话中南海：重用和提拔陈全国是习近平的“事业需要”</a></li>
 <li><a href="/lifebaike/20210413/1525039.md">将世界名画放大10倍看的细节 令人惊叹</a></li>
 <li><a href="/comments/20210412/1524818.md">司徒剑：杨雄猝死或有内情 韩正求自保 江家有难？</a></li>
+<li><a href="/worldnews/usa/20210413/1525016.md">罕见！拜登发文斥贺锦丽，边境已大乱，恐怖分子、黑帮成员纷纷涌入</a></li>
 <li><a href="/headline/20210413/1524918.md">中央巡视要角董宏今正式落马 称王岐山密友</a></li>
 <li><a href="/funmedia/20210412/1524705.md">猪真的飞起来了！网友评论全部跑偏</a></li>
 <li><a href="/lifebaike/20210412/1524692.md">花近4万让孩子练“最强大脑” 1年后妈妈崩溃了</a></li>
-<li><a href="/worldnews/usa/20210413/1525016.md">罕见！拜登发文斥贺锦丽，边境已大乱，恐怖分子、黑帮成员纷纷涌入</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210413/1525251.md" target="_blank">自制杀虫水简单又有效 用着也放心</a></li>
 <li><a href="/comments/20210413/1525242.md" target="_blank">25架中共军机扰台 美表关切 专家：看出破绽</a></li>
 <li><a href="/comments/20210413/1525232.md" target="_blank">中纪委“大佬”董宏正式落马 “朋友圈”非止王岐山</a></li>
 <li><a href="/comments/20210413/1525219.md" target="_blank">4月12号 川普总统荣获美国共和党参议院委员会NRSC颁发的 &#8220;自由冠军奖&#8221; 川普在4月11号活动中抨击参议院少数党领袖米奇麦康奈尔是 &#8220;蠢货&#8221;</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210413/1525114.md" target="_blank">李燕铭：王岐山大管家董宏落马原因曝光 官方通报暗示与某私人会所有关 董宏家人也已出事 王岐山大管家董宏落马深度内幕之九</a></li>
 <li><a href="/comments/20210413/1525106.md" target="_blank">川普总统与BIKERS FOR TRUMP在川普国家高尔夫俱乐部   川普看上去很棒</a></li>
 <li><a href="/comments/20210413/1525103.md" target="_blank">卢比奥：拜登推绿色能源 是给中共送大礼</a></li>
-<li><a href="/comments/20210413/1525096.md" target="_blank">寰宇大观察：民主党大水两次冲了龙王庙 共和党明年有望夺参议院</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 
 </ul>
 </div>
