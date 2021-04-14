@@ -24,8 +24,8 @@
 <li><a href="/topimagenews/20210414/1525699.md">中国电信湖南网络全面瘫痪 网传电信一度答复“境外黑客DDOS洪水攻击” 官方否认</a></li>
 <li><a href="/funmedia/20210414/1525836.md">超9亿人从朋友圈消失：为什么现在的人，都不发朋友圈了？</a></li>
 <li><a href="/cnnews/20210413/1525516.md">世卫：疫苗无法终结大流行 全球疫情处于错误轨道</a></li>
-<li><a href="/comments/20210413/1525475.md">王岐山旧部董宏落马内幕 妻被揭搞神秘“艺术团”</a></li>
 <li><a href="/cnnews/20210414/1525923.md">拜登秘密：中美重要会议，为何美媒不报？内部文件揭真党史；挖央视不敢公开的秘密</a></li>
+<li><a href="/comments/20210413/1525475.md">王岐山旧部董宏落马内幕 妻被揭搞神秘“艺术团”</a></li>
 <li><a href="/worldnews/20210413/1525469.md">5周内两度发现巨型乌贼浮尸 日网民忧大灾将至</a></li>
 <li><a href="/cbnews/20210414/1525786.md">广西河池特大车祸致6死3伤 交警打电话笑容满面</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210414/1526176.md" target="_blank">川普全面出击！川总盟友成立美国第一政策研究所，凝聚人心不分党派。川普抨击拜登填塞最高法院，揭底FDA搞政治。黑莉谈2024年总统竞选，智商不够，误判明显。</a></li>
 <li><a href="/comments/20210414/1526119.md" target="_blank">#外星人 为什么多次绑架人类？头发、指甲也不放过？#催眠治疗 ，受害者回溯登陆UFO恐怖经历！｜#未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20210414/1526092.md" target="_blank">拜登派老友访台飞抵台北 吴钊燮接机 蔡英文明晚官邸设宴款待</a></li>
 <li><a href="/cbnews/20210414/1526091.md" target="_blank">爸妈从未忘了你 魏则西去世5年父发视频悼念</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210414/1525752.md" target="_blank">把握机遇，建国立业</a></li>
 <li><a href="/comments/20210414/1525751.md" target="_blank">把握机遇，建功立业</a></li>
 <li><a href="/comments/20210414/1525749.md" target="_blank">美国将在911前从阿富汗全面撤军；拜登再次警告普京  美国将捍卫乌克兰 ；中共在美情报部门威胁评估中列榜首；美国FDA和CDC联合声明暂停这种疫苗；百度腾讯等34家中科企被要求整改【希望之声TV】</a></li>
-<li><a href="/cbnews/20210414/1525718.md" target="_blank">云南“最窄”县城，网友：送套房也不敢住</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210414/1526176.md" target="_blank">川普全面出击！川总盟友成立美国第一政策研究所，凝聚人心不分党派。川普抨击拜登填塞最高法院，揭底FDA搞政治。黑莉谈2024年总统竞选，智商不够，误判明显。</a></li>
 <li><a href="/comments/20210414/1526143.md" target="_blank">缅甸恐变叙利亚 联合国人权首长吁国际制止军方大屠杀</a></li>
 <li><a href="/comments/20210414/1526119.md" target="_blank">#外星人 为什么多次绑架人类？头发、指甲也不放过？#催眠治疗 ，受害者回溯登陆UFO恐怖经历！｜#未解之谜 扶摇</a></li>
 <li><a href="/comments/20210414/1526109.md" target="_blank">东奥倒数100天 疫情下筹备工作困难多变数大</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210414/1525900.md" target="_blank">两大重要时间节点前 习近平与一“干将”一起消失逾十日</a></li>
 <li><a href="/comments/20210414/1525899.md" target="_blank">拜登政府首位高官访中国！美气候特使凯瑞将赴上海</a></li>
 <li><a href="/comments/20210414/1525898.md" target="_blank">加拿大荣登2021年全球最佳国家榜首</a></li>
-<li><a href="/comments/20210414/1525897.md" target="_blank">FB内部文件被曝光！纵容掌权者透过平台操控政局、打击政敌</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
