@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20210413/1525256.md">无性无爱40年，暗恋一生，情书曝光，看哭无数人</a></li>
 <li><a href="/comments/20210413/1525476.md">马云惊人“预言”被翻出 蔡霞揭黑幕</a></li>
 <li><a href="/cnnews/20210414/1525664.md">网曝中共军委红旗轿车开上高铁月台 网友怒斥特权</a></li>
-<li><a href="/comments/20210413/1525391.md">太子党挽救中共社会大溃烂的危机（中共命运的轨迹和人类前途  第六讲）【袁红冰纵论天下】 04132021</a></li>
 <li><a href="/cbnews/20210413/1525559.md">马云早知道自己没有好下场 蔡霞揭黑幕</a></li>
-<li><a href="/topimagenews/20210413/1525235.md">央视批小猪佩奇等动漫暴力危险 B站网友怒了</a></li>
+<li><a href="/comments/20210413/1525391.md">太子党挽救中共社会大溃烂的危机（中共命运的轨迹和人类前途  第六讲）【袁红冰纵论天下】 04132021</a></li>
 <li><a href="/cbnews/20210413/1525373.md">太恶心了！又是红黄蓝！肆无忌惮伤害小朋友</a></li>
 <li><a href="/cnnews/20210413/1525453.md">新希望！“抗体药”注入立即免疫 更能根除病毒</a></li>
 <li><a href="/cnnews/20210413/1525324.md">你可知道中领馆是中共在海外…？她突然大叫：你不要说了 然后突然跑掉了…</a></li>
+<li><a href="/topimagenews/20210414/1525717.md">法国英国疫情两重天 背后有玄机？报告一个好消息</a></li>
 <li><a href="/cbnews/20210413/1525266.md">阿拉斯加闭门会谈内幕 中共事先对美透露底线</a></li>
 <li><a href="/cnnews/20210413/1525325.md">福西博士带风向："很可能在6-18个月后需要 "冠状病毒增强剂疫苗【阿波罗网编译】</a></li>
 <li><a href="/headline/20210414/1525600.md">中国计划序贯接种 一亿进口辉瑞疫苗何去何从？</a></li>
-<li><a href="/topimagenews/20210414/1525717.md">法国英国疫情两重天 背后有玄机？报告一个好消息</a></li>
-<li><a href="/cnnews/20210413/1525303.md">武汉大学副教授遭控骚扰多名女学生</a></li>
 <li><a href="/cbnews/20210414/1525700.md">美情报新报告：未来20年世界可能出现五种情况</a></li>
 <li><a href="/cbnews/20210414/1525718.md">云南“最窄”县城，网友：送套房也不敢住</a></li>
-<li><a href="/cnnews/20210413/1525516.md">世卫：疫苗无法终结大流行 全球疫情处于错误轨道</a></li>
 <li><a href="/topimagenews/20210414/1525699.md">中国电信湖南网络全面瘫痪 网传电信一度答复“境外黑客DDOS洪水攻击” 官方否认</a></li>
+<li><a href="/cnnews/20210413/1525303.md">武汉大学副教授遭控骚扰多名女学生</a></li>
 <li><a href="/comments/20210414/1525719.md">4月13号  川普总统发表声明：令人震惊的是，他们不允许被听证。信不信由你，美国总统不被允许听证是基于 "没有资格"，而不是基于事实。</a></li>
+<li><a href="/cnnews/20210413/1525516.md">世卫：疫苗无法终结大流行 全球疫情处于错误轨道</a></li>
 <li><a href="/comments/20210413/1525475.md">王岐山旧部董宏落马内幕 妻被揭搞神秘“艺术团”</a></li>
+<li><a href="/worldnews/20210413/1525469.md">5周内两度发现巨型乌贼浮尸 日网民忧大灾将至</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210414/1525922.md" target="_blank">彭博记者探新疆秘密工厂 警察持机关枪“接机” 特工一路尾随</a></li>
 <li><a href="/comments/20210414/1525919.md" target="_blank">【中国观察原创音乐第一期】 川普总统带来福音和希望  一小时放松音乐</a></li>
 <li><a href="/comments/20210414/1525900.md" target="_blank">两大重要时间节点前 习近平与一“干将”一起消失逾十日</a></li>
 <li><a href="/comments/20210414/1525899.md" target="_blank">拜登政府首位高官访中国！美气候特使凯瑞将赴上海</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210414/1525779.md" target="_blank">重罚、举报、监控：全面左转的信号？    奥运会该不该开？  主持：高洁  嘉宾：方伟  蓝述【希望之声TV】(2021/04/13)</a></li>
 <li><a href="/comments/20210414/1525765.md" target="_blank">拜登致电普京 吁举行美俄高峰会</a></li>
 <li><a href="/comments/20210414/1525752.md" target="_blank">把握机遇，建国立业</a></li>
-<li><a href="/comments/20210414/1525751.md" target="_blank">把握机遇，建功立业</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
