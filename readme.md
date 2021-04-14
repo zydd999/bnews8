@@ -12,22 +12,22 @@
 <li><a href="/comments/20210413/1525391.md">太子党挽救中共社会大溃烂的危机（中共命运的轨迹和人类前途  第六讲）【袁红冰纵论天下】 04132021</a></li>
 <li><a href="/cnnews/20210414/1525664.md">网曝中共军委红旗轿车开上高铁月台 网友怒斥特权</a></li>
 <li><a href="/cbnews/20210413/1525373.md">太恶心了！又是红黄蓝！肆无忌惮伤害小朋友</a></li>
-<li><a href="/topimagenews/20210414/1525717.md">法国英国疫情两重天 背后有玄机？报告一个好消息</a></li>
 <li><a href="/cnnews/20210413/1525453.md">新希望！“抗体药”注入立即免疫 更能根除病毒</a></li>
-<li><a href="/cnnews/20210413/1525324.md">你可知道中领馆是中共在海外…？她突然大叫：你不要说了 然后突然跑掉了…</a></li>
+<li><a href="/topimagenews/20210414/1525717.md">法国英国疫情两重天 背后有玄机？报告一个好消息</a></li>
 <li><a href="/cbnews/20210414/1525888.md">习明泽信息泄露案轰动国际 多国外交官介入调查</a></li>
+<li><a href="/cnnews/20210413/1525324.md">你可知道中领馆是中共在海外…？她突然大叫：你不要说了 然后突然跑掉了…</a></li>
 <li><a href="/headline/20210414/1525600.md">中国计划序贯接种 一亿进口辉瑞疫苗何去何从？</a></li>
+<li><a href="/cnnews/20210414/1525896.md">胡锦涛之子向习近平表忠心 网友调侃</a></li>
 <li><a href="/cnnews/20210413/1525325.md">福西博士带风向："很可能在6-18个月后需要 "冠状病毒增强剂疫苗【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210414/1525700.md">美情报新报告：未来20年世界可能出现五种情况</a></li>
-<li><a href="/cnnews/20210414/1525896.md">胡锦涛之子向习近平表忠心 网友调侃</a></li>
 <li><a href="/bannedvideo/20210414/1525741.md">【中美】辽宁号航母出事？军事专家：护卫舰不见了；央视竟批动漫危险，网友怒了。多国接种中国疫苗确诊人数攀升，网晒数据对比图表惊呼：播毒；中国学生“集体砸手机”视频热传 CT</a></li>
 <li><a href="/cbnews/20210414/1525718.md">云南“最窄”县城，网友：送套房也不敢住</a></li>
 <li><a href="/comments/20210414/1525719.md">4月13号  川普总统发表声明：令人震惊的是，他们不允许被听证。信不信由你，美国总统不被允许听证是基于 "没有资格"，而不是基于事实。</a></li>
 <li><a href="/health/20210414/1525744.md">千万别微波加热这4类食物，不是危险就是不健康</a></li>
 <li><a href="/topimagenews/20210414/1525699.md">中国电信湖南网络全面瘫痪 网传电信一度答复“境外黑客DDOS洪水攻击” 官方否认</a></li>
 <li><a href="/cnnews/20210413/1525303.md">武汉大学副教授遭控骚扰多名女学生</a></li>
+<li><a href="/cnnews/20210414/1525847.md">iPhone13细节曝光：苹果终要解决最大短板</a></li>
 <li><a href="/comments/20210413/1525475.md">王岐山旧部董宏落马内幕 妻被揭搞神秘“艺术团”</a></li>
-<li><a href="/cnnews/20210413/1525516.md">世卫：疫苗无法终结大流行 全球疫情处于错误轨道</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210414/1526014.md" target="_blank">心脏科医师：怎么知道心血管有没有硬化？</a></li>
+<li><a href="/comments/20210414/1526013.md" target="_blank">疼痛原因千百种 真正原因恐怕你想都想不到</a></li>
+<li><a href="/comments/20210414/1526012.md" target="_blank">超过一半长寿国家的人们都有这个习惯，而有的人却当成浪费时间</a></li>
+<li><a href="/comments/20210414/1526011.md" target="_blank">这种蔬菜是唯一含有“前列腺素”的植物，被誉为“蔬菜皇后“</a></li>
 <li><a href="/comments/20210414/1526005.md" target="_blank">女学生利用折纸原理设计 塑胶杯盖不再有？</a></li>
 <li><a href="/comments/20210414/1525991.md" target="_blank">李燕铭：习近平女习明泽信息泄露案闹大 八国联军逼宫中南海 多国外交官会见维权家长介入调查 广东省公安厅长随即换人</a></li>
 <li><a href="/comments/20210414/1525985.md" target="_blank">拒签效忠声明 香港129名公务员将被强制“退休”</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210414/1525872.md" target="_blank">【强文】张维迎：黄土地上望星空：窑洞文化撞击企业家精神</a></li>
 <li><a href="/comments/20210414/1525660.md" target="_blank">再驳新大陆人所谓没有邓计生中国人口会爆炸的无耻谰言 — 曾节明</a></li>
 <li><a href="/comments/20210414/1525801.md" target="_blank">离婚、丁克、不婚、不育是此刻人间的常态，在女性获得空前独立和自由的时代，家庭却越来越难以为继，人类步入了“断子绝孙”的末劫。老子曰：活而无乐则生死不惧，此乃大危至也。</a></li>
-<li><a href="/comments/20210414/1525851.md" target="_blank">【组图+视频】西吉利亚空中岩石堡垒：5世纪宫殿建筑群天堂般居所</a></li>
-<li><a href="/comments/20210414/1525850.md" target="_blank">两大重要时间节点前 习近平与一”干将“一起消失逾十日</a></li>
-<li><a href="/comments/20210414/1525842.md" target="_blank">【欺世大观 经典回味】01 刘胡兰不是女英雄</a></li>
-<li><a href="/comments/20210414/1525832.md" target="_blank">中共收紧校园课外读物 学者问习近平为何让女儿留美？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
 <li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
