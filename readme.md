@@ -6,21 +6,21 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210414/1525664.md">网曝中共军委红旗轿车开上高铁月台 网友怒斥特权</a></li>
-<li><a href="/cbnews/20210413/1525559.md">马云早知道自己没有好下场 蔡霞揭黑幕</a></li>
 <li><a href="/cbnews/20210414/1525888.md">习明泽信息泄露案轰动国际 多国外交官介入调查</a></li>
 <li><a href="/cnnews/20210414/1525896.md">胡锦涛之子向习近平表忠心 网友调侃</a></li>
 <li><a href="/headline/20210414/1525600.md">中国计划序贯接种 一亿进口辉瑞疫苗何去何从？</a></li>
 <li><a href="/topimagenews/20210414/1525717.md">法国英国疫情两重天 背后有玄机？报告一个好消息</a></li>
 <li><a href="/cnnews/20210414/1525934.md">团委书记当众强奸海归女企业家 网友：共青团是党的接班人</a></li>
-<li><a href="/topimagenews/20210414/1525949.md">辽宁号航母出事？军事专家：护卫舰不见了；央视竟批动漫危险，网友怒了</a></li>
 <li><a href="/cbnews/20210414/1525700.md">美情报新报告：未来20年世界可能出现五种情况</a></li>
+<li><a href="/topimagenews/20210414/1525949.md">辽宁号航母出事？军事专家：护卫舰不见了；央视竟批动漫危险，网友怒了</a></li>
 <li><a href="/bannedvideo/20210414/1525741.md">【中美】辽宁号航母出事？军事专家：护卫舰不见了；央视竟批动漫危险，网友怒了。多国接种中国疫苗确诊人数攀升，网晒数据对比图表惊呼：播毒；中国学生“集体砸手机”视频热传 CT</a></li>
+<li><a href="/cnnews/20210414/1526106.md">揭密毛泽东夫人江青的生活细节 令人瞠目结舌</a></li>
 <li><a href="/funmedia/20210414/1525836.md">超9亿人从朋友圈消失：为什么现在的人，都不发朋友圈了？</a></li>
 <li><a href="/cnnews/20210414/1525847.md">iPhone13细节曝光：苹果终要解决最大短板</a></li>
-<li><a href="/cnnews/20210414/1526106.md">揭密毛泽东夫人江青的生活细节 令人瞠目结舌</a></li>
-<li><a href="/topimagenews/20210414/1525699.md">中国电信湖南网络全面瘫痪 网传电信一度答复“境外黑客DDOS洪水攻击” 官方否认</a></li>
 <li><a href="/comments/20210414/1526090.md">习近平和两常委同消失超10天 中南海密谋两件大事？</a></li>
+<li><a href="/topimagenews/20210414/1525699.md">中国电信湖南网络全面瘫痪 网传电信一度答复“境外黑客DDOS洪水攻击” 官方否认</a></li>
 <li><a href="/cbnews/20210414/1525995.md">罕见！两大重要时间节点前 习近平与"干将"消失逾十日</a></li>
+<li><a href="/cnnews/20210414/1526211.md">上海电气原副总裁落马 多名高管被最美情妇迷倒</a></li>
 <li><a href="/cbnews/20210414/1525718.md">云南“最窄”县城，网友：送套房也不敢住</a></li>
 <li><a href="/cbnews/20210414/1526006.md">“山东舰又赢了”？国产航母日供7餐 网民嘲讽</a></li>
 <li><a href="/health/20210414/1525744.md">千万别微波加热这4类食物，不是危险就是不健康</a></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210414/1526296.md" target="_blank">共和党参议员：拜登真的掌权了吗?</a></li>
+<li><a href="/comments/20210414/1526290.md" target="_blank">英国史上最低调 菲利普亲王丧礼将没有合唱团、诗歌献唱</a></li>
+<li><a href="/comments/20210414/1526289.md" target="_blank">全球第一枪！丹麦将全面停用AZ疫苗</a></li>
 <li><a href="/comments/20210414/1526271.md" target="_blank">“真相工程”曝光CNN的“反川普”实锤录像证据</a></li>
 <li><a href="/comments/20210414/1526270.md" target="_blank">民主党议员再提“取消警察” 拜登佩洛西反对</a></li>
 <li><a href="/comments/20210414/1526269.md" target="_blank">曾国藩学看人有绝招 40个字看你懂天下人</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210414/1526037.md" target="_blank">共匪连女人身上戴的金银首饰都洗劫一空</a></li>
 <li><a href="/comments/20210414/1526025.md" target="_blank">又是血栓 全美下令：停打强生</a></li>
 <li><a href="/comments/20210414/1526014.md" target="_blank">心脏科医师：怎么知道心血管有没有硬化？</a></li>
-<li><a href="/comments/20210414/1526013.md" target="_blank">疼痛原因千百种 真正原因恐怕你想都想不到</a></li>
-<li><a href="/comments/20210414/1526012.md" target="_blank">超过一半长寿国家的人们都有这个习惯，而有的人却当成浪费时间</a></li>
-<li><a href="/comments/20210414/1526011.md" target="_blank">这种蔬菜是唯一含有“前列腺素”的植物，被誉为“蔬菜皇后“</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 
 </ul>
 </div>
