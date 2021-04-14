@@ -20,13 +20,13 @@
 <li><a href="/cbnews/20210413/1525266.md">阿拉斯加闭门会谈内幕 中共事先对美透露底线</a></li>
 <li><a href="/cnnews/20210413/1525325.md">福西博士带风向："很可能在6-18个月后需要 "冠状病毒增强剂疫苗【阿波罗网编译】</a></li>
 <li><a href="/headline/20210414/1525600.md">中国计划序贯接种 一亿进口辉瑞疫苗何去何从？</a></li>
-<li><a href="/cnnews/20210413/1525303.md">武汉大学副教授遭控骚扰多名女学生</a></li>
 <li><a href="/topimagenews/20210414/1525717.md">法国英国疫情两重天 背后有玄机？报告一个好消息</a></li>
+<li><a href="/cnnews/20210413/1525303.md">武汉大学副教授遭控骚扰多名女学生</a></li>
 <li><a href="/cnnews/20210413/1525516.md">世卫：疫苗无法终结大流行 全球疫情处于错误轨道</a></li>
+<li><a href="/cbnews/20210414/1525718.md">云南“最窄”县城，网友：送套房也不敢住</a></li>
 <li><a href="/comments/20210413/1525475.md">王岐山旧部董宏落马内幕 妻被揭搞神秘“艺术团”</a></li>
 <li><a href="/worldnews/20210413/1525469.md">5周内两度发现巨型乌贼浮尸 日网民忧大灾将至</a></li>
-<li><a href="/comments/20210413/1525416.md">若要人不知，除非己莫为！美国防部新时间线曝光，彭斯、佩洛西和舒默，在国会山事件中的角色令人生疑。</a></li>
-<li><a href="/bannedvideo/20210413/1525271.md">文睿：习近平坐到火山口上了，处境加速恶化，一尊或将铤而走险</a></li>
+<li><a href="/cbnews/20210414/1525700.md">美情报新报告：未来20年世界可能出现五种情况</a></li>
 <li><a href="/topimagenews/20210414/1525699.md">中国电信湖南网络全面瘫痪 网传电信一度答复“境外黑客DDOS洪水攻击” 官方否认</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210414/1525908.md" target="_blank">男童深圳街头踩破“奇石”：索赔80万</a></li>
 <li><a href="/cbnews/20210414/1525890.md" target="_blank">航母缺“太空优势”辽宁号沦“海上标靶”</a></li>
 <li><a href="/cbnews/20210414/1525888.md" target="_blank">习明泽信息泄露案轰动国际 多国外交官介入调查</a></li>
 <li><a href="/comments/20210414/1525880.md" target="_blank">川普！这个法律对我不适用；好莱坞反选民诚信法 ；日本准福岛核废水稀释后排入海中；江泽民心腹猝死有内情；印度单日增16万病例 ；乐视网被罚4.8亿 贾跃亭避美国追偿难？【希望之声TV】10pm</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210413/1525385.md" target="_blank">前美国防部官员揭中共攻台一大图谋</a></li>
 <li><a href="/cbnews/20210413/1525384.md" target="_blank">美军心理战奏效 这照片刺激了胡锡进和央视</a></li>
 <li><a href="/cbnews/20210413/1525383.md" target="_blank">辽宁沈阳现野禽H5N6亚型高致病性禽流感</a></li>
-<li><a href="/cbnews/20210413/1525382.md" target="_blank">云南持续新增本土确诊病例</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210414/1525900.md" target="_blank">两大重要时间节点前 习近平与一“干将”一起消失逾十日</a></li>
+<li><a href="/comments/20210414/1525899.md" target="_blank">拜登政府首位高官访中国！美气候特使凯瑞将赴上海</a></li>
+<li><a href="/comments/20210414/1525898.md" target="_blank">加拿大荣登2021年全球最佳国家榜首</a></li>
+<li><a href="/comments/20210414/1525897.md" target="_blank">FB内部文件被曝光！纵容掌权者透过平台操控政局、打击政敌</a></li>
 <li><a href="/comments/20210414/1525894.md" target="_blank">【微博精粹】这张照片今天火了</a></li>
 <li><a href="/comments/20210414/1525885.md" target="_blank">湖南省全省网络一度全面瘫痪 中国电信答复“境外黑客DDOS洪水攻击” 官方随后辟谣 更添疑云 中南海谣言预言_453</a></li>
 <li><a href="/comments/20210414/1525884.md" target="_blank">不满中国船只集结南海 菲律宾罕见召见中共大使</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210414/1525752.md" target="_blank">把握机遇，建国立业</a></li>
 <li><a href="/comments/20210414/1525751.md" target="_blank">把握机遇，建功立业</a></li>
 <li><a href="/comments/20210414/1525749.md" target="_blank">美国将在911前从阿富汗全面撤军；拜登再次警告普京  美国将捍卫乌克兰 ；中共在美情报部门威胁评估中列榜首；美国FDA和CDC联合声明暂停这种疫苗；百度腾讯等34家中科企被要求整改【希望之声TV】</a></li>
-<li><a href="/comments/20210414/1525736.md" target="_blank">中共军委红旗轿车开上月台 停靠在和谐号高铁旁 网民评论亮眼：这是彻头彻尾的侵略军！ 中南海不可告人的秘密_355</a></li>
-<li><a href="/comments/20210414/1525734.md" target="_blank">汉心：大国之下民间何以无“政治”</a></li>
-<li><a href="/comments/20210414/1525733.md" target="_blank">赵映寿：红酒——通往奴役的片断 之四</a></li>
-<li><a href="/comments/20210414/1525719.md" target="_blank">4月13号  川普总统发表声明：令人震惊的是，他们不允许被听证。信不信由你，美国总统不被允许听证是基于 &#8220;没有资格&#8221;，而不是基于事实。</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
