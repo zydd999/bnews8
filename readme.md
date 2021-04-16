@@ -12,21 +12,21 @@
 <li><a href="/topimagenews/20210416/1527251.md">川普买拜登交接，什么信号？中共大发雷霆暴露致命死穴 法媒：习近平正把欧洲人推向美国</a></li>
 <li><a href="/topimagenews/20210415/1526952.md">李克强挺不住了？又唱白脸？拜登派友访台 中共跳脚宣布实弹军演</a></li>
 <li><a href="/cbnews/20210415/1526878.md">美特使克里访华全程不外出 上海东郊宾馆戒备森严</a></li>
-<li><a href="/cbnews/20210416/1527159.md">医学界有良心教授一番话语惊四座</a></li>
 <li><a href="/cbnews/20210415/1527059.md">习近平隐身多日终露面 李克强为一事苦劝美国</a></li>
+<li><a href="/cbnews/20210416/1527159.md">医学界有良心教授一番话语惊四座</a></li>
 <li><a href="/cbnews/20210415/1526847.md">沙尘暴再袭北京 网友：北京变北宋</a></li>
 <li><a href="/ssgc/20210416/1527155.md">〖兲朝浮世绘〗强国舆论收紧的速度前所未见</a></li>
 <li><a href="/lifebaike/20210415/1526991.md">那个断骨增高7.2厘米的小伙 如今成这样了</a></li>
 <li><a href="/cnnews/20210416/1527270.md">看看日本的阳台设计，我们的阳台设计如此没用 动图</a></li>
-<li><a href="/finance/20210415/1527060.md">中共芯片企业奇葩通知曝光：库存已完、弹药殆尽</a></li>
 <li><a href="/topimagenews/20210415/1526807.md">美媒：F-35上航母 足以让中共和俄罗斯非常紧张【阿波罗网编译】</a></li>
+<li><a href="/finance/20210415/1527060.md">中共芯片企业奇葩通知曝光：库存已完、弹药殆尽</a></li>
 <li><a href="/cnnews/20210415/1527027.md">下周二苹果发布会 新机只卖1299?</a></li>
 <li><a href="/comments/20210416/1527162.md">爹成了牺牲品！女警豁出去了！视频实名举报市公安局局长</a></li>
-<li><a href="/cbnews/20210416/1527180.md">美海军揭秘：中共正在上海建造003航母</a></li>
 <li><a href="/health/20210416/1527221.md">肝癌每年夺走30多万中国人性命！医生：不想得肝癌，养肝牢记这4点</a></li>
+<li><a href="/cbnews/20210416/1527180.md">美海军揭秘：中共正在上海建造003航母</a></li>
+<li><a href="/ssgc/20210416/1527279.md">〖微博谈〗萨达姆垮台前，与他的想法一样</a></li>
 <li><a href="/cbnews/20210415/1526898.md">忧政权崩溃？中共国安日重申习近平“政治安全”</a></li>
 <li><a href="/cbnews/20210415/1526543.md">中国出现高致病禽流感 禽传人致死率近7成</a></li>
-<li><a href="/ssgc/20210416/1527279.md">〖微博谈〗萨达姆垮台前，与他的想法一样</a></li>
 <li><a href="/cnnews/20210415/1526854.md">贺锦丽又犯傻了 宣布前往墨危两国处理拜登边境危机不禁傻笑了【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210416/1527475.md" target="_blank">4月14~15日，真相工程CEO连续发布猛料。CNN帮助BLM攻击亚裔！奥基夫与CNN技术总监切斯特，餐厅短兵相接，后者落荒而逃！CNN总裁不想拿下数字的秘密。</a></li>
 <li><a href="/cbnews/20210416/1527466.md" target="_blank">进京维权被截返 重庆访民控告警察掐脖殴打</a></li>
 <li><a href="/cbnews/20210416/1527454.md" target="_blank">为习近平做了一件“大事” 此人传将跳级入局掌中宣部</a></li>
 <li><a href="/cbnews/20210416/1527453.md" target="_blank">江峰：陶德访台为虚，克里访华为实；鼓噪日本海洋排核废水话题内幕：撼动东北亚政治格局，深化韩日美矛盾，弱化美日同盟，逼克里对中共让步换取拜登党内极左派系支持</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210415/1527059.md" target="_blank">习近平隐身多日终露面 李克强为一事苦劝美国</a></li>
 <li><a href="/cbnews/20210415/1527058.md" target="_blank">马云现身普京主持的会议 全程只喝茶不发言</a></li>
 <li><a href="/comments/20210415/1526978.md" target="_blank">双标？2起警察枪击案 结果大不同！FBI:现有2000项调查跟中共有关；参议员提法案，优先给维吾尔人难民身份；五角大楼：海军曾拍到球状和金字塔状UFO；大陆货车司机睡觉时也防贼；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210415/1526930.md" target="_blank">震惊！真相工程再爆猛料，CNN技术总监向一名卧底记着吹嘘，在2020年美国总统大选中，CNN是如何编造川普假新闻，阻止川普连任的。</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210416/1527475.md" target="_blank">4月14~15日，真相工程CEO连续发布猛料。CNN帮助BLM攻击亚裔！奥基夫与CNN技术总监切斯特，餐厅短兵相接，后者落荒而逃！CNN总裁不想拿下数字的秘密。</a></li>
 <li><a href="/comments/20210416/1527471.md" target="_blank">李燕铭：汪洋内蒙古视察呼吁理解习近平 重提习近平要求 汪洋站队习近平切割李克强胡春华 卡位二十大常委 太子女布小林再度失踪 习近平放话“继续抓下去” 内蒙古官场巨大政治风暴仍在酝酿之中 牵动二十大高层人事布局</a></li>
 <li><a href="/comments/20210416/1527469.md" target="_blank">加码惩罚中共 欧盟或考虑暂停成员国与中国引渡协议</a></li>
 <li><a href="/comments/20210416/1527465.md" target="_blank">普京介入习江斗 染指二十大？余茂春听证会上谈马云</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210416/1527314.md" target="_blank">商家营销策略高 买苹果获手机</a></li>
 <li><a href="/comments/20210416/1527303.md" target="_blank">汪汪淘气打破饰品心虚，躲浴帘后的内疚</a></li>
 <li><a href="/comments/20210416/1527301.md" target="_blank">冷勇：第二个“金德强”！震撼场景再次上演</a></li>
-<li><a href="/comments/20210416/1527295.md" target="_blank">餐厅遭窃 老板这样“以德报怨”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
