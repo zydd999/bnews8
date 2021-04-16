@@ -11,16 +11,16 @@
 <li><a href="/cnnews/20210416/1527270.md">看看日本的阳台设计，我们的阳台设计如此没用 动图</a></li>
 <li><a href="/topimagenews/20210416/1527579.md">习近平不自信湖南网络瘫痪 义乌公安致信全国同行求情 辉瑞疫苗抵中国被封消息</a></li>
 <li><a href="/worldnews/usa/20210416/1527136.md">拜登恐已确诊 灯塔早已熄灭</a></li>
-<li><a href="/cnnews/20210416/1527595.md">马云大胆言论曝光：应先由西方“解放”中国</a></li>
 <li><a href="/ssgc/20210416/1527279.md">〖微博谈〗萨达姆垮台前，与他的想法一样</a></li>
+<li><a href="/cnnews/20210416/1527595.md">马云大胆言论曝光：应先由西方“解放”中国</a></li>
 <li><a href="/baitai/20210416/1527440.md">加拿大国会议员一丝不挂 春光外泄糗大了</a></li>
 <li><a href="/cbnews/20210416/1527581.md">美军10万吨航母战力曝光 陆媒叹：不服行吗？</a></li>
-<li><a href="/cnnews/20210416/1527541.md">猝死的前上海市长杨雄 其不可推脱的罪责</a></li>
 <li><a href="/bannedvideo/20210416/1527559.md">4月14号凌晨2点50左右，黑龙江抚远、鹤岗以及黑河等地居民看到疑巨大陨石坠落，视频者在富锦市装粮的场地看到这一幕，一颗燃烧的五光十色的火球在空中慢慢划过，照亮了天空，20多秒后消失</a></li>
+<li><a href="/cnnews/20210416/1527541.md">猝死的前上海市长杨雄 其不可推脱的罪责</a></li>
 <li><a href="/comments/20210416/1527755.md">“蠢货”李宁！你终于把自己玩毁了</a></li>
 <li><a href="/comments/20210416/1527465.md">普京介入习江斗 染指二十大？余茂春听证会上谈马云</a></li>
-<li><a href="/health/20210416/1527221.md">肝癌每年夺走30多万中国人性命！医生：不想得肝癌，养肝牢记这4点</a></li>
 <li><a href="/cnnews/20210416/1527467.md">警惕！打疫苗后出现两症状 恐是血栓</a></li>
+<li><a href="/health/20210416/1527221.md">肝癌每年夺走30多万中国人性命！医生：不想得肝癌，养肝牢记这4点</a></li>
 <li><a href="/health/20210416/1527370.md">便秘上厕所拉不出？这里拍三下，立即通</a></li>
 <li><a href="/topimagenews/20210416/1527386.md">英媒：中国疫苗不具针对性 未能真正对抗新冠病毒</a></li>
 <li><a href="/cbnews/20210416/1527554.md">辉瑞疫苗抵达中国消息被秒删 民众：自费也打</a></li>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210417/1527954.md" target="_blank">加拿大国会议员：认定中共群体灭绝罪，望他国效仿</a></li>
+<li><a href="/cbnews/20210417/1527953.md" target="_blank">长春插播者孙长军冤狱十七年又遭绑架</a></li>
+<li><a href="/cbnews/20210417/1527952.md" target="_blank">中共官宣刚称不强制打疫苗 又要求军队全员接种</a></li>
+<li><a href="/cbnews/20210417/1527951.md" target="_blank">海外自媒体网红“周周侃”回国后失联</a></li>
 <li><a href="/cbnews/20210417/1527931.md" target="_blank">美国指：华为律师违反禁令帮助孟晚舟</a></li>
 <li><a href="/cbnews/20210417/1527916.md" target="_blank">河北滦州发生4.3级地震 距唐山仅50公里</a></li>
 <li><a href="/cbnews/20210417/1527910.md" target="_blank">黑龙江佳木斯现一串不明飞行物 网友：五光十色</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/comments/20210416/1527475.md" target="_blank">4月14~15日，真相工程CEO连续发布猛料。CNN帮助BLM攻击亚裔！奥基夫与CNN技术总监切斯特，餐厅短兵相接，后者落荒而逃！CNN总裁不想拿下数字的秘密。</a></li>
 <li><a href="/cbnews/20210416/1527466.md" target="_blank">进京维权被截返 重庆访民控告警察掐脖殴打</a></li>
 <li><a href="/cbnews/20210416/1527454.md" target="_blank">为习近平做了一件“大事” 此人传将跳级入局掌中宣部</a></li>
-<li><a href="/cbnews/20210416/1527453.md" target="_blank">江峰：陶德访台为虚，克里访华为实；鼓噪日本海洋排核废水话题内幕：撼动东北亚政治格局，深化韩日美矛盾，弱化美日同盟，逼克里对中共让步换取拜登党内极左派系支持</a></li>
-<li><a href="/comments/20210416/1527449.md" target="_blank">川普火力全开她俩要没戏！爱国者抵制名单出炉谁上榜？卢比奥预测2024是川普年！疫情恶化东京奥运恐取消；【希望之声TV】</a></li>
-<li><a href="/cbnews/20210416/1527434.md" target="_blank">赵立坚贬蔡英文为地方官 网友：没有看到中组部的任命文件？</a></li>
-<li><a href="/cbnews/20210416/1527418.md" target="_blank">震惊！湖南中学小卖部招标 卖出320万天价</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210417/1527955.md" target="_blank">费学礼:很简单 要是我们不武装台湾 就得和中共国拼个你死我活</a></li>
+<li><a href="/comments/20210417/1527948.md" target="_blank">惊传打国产疫苗当天死亡！广东民众更爆：小学生被强制接种</a></li>
+<li><a href="/comments/20210417/1527946.md" target="_blank">726人丧生！缅甸联邦议会代表委员会宣布成立民族团结政府 望恢复民主</a></li>
 <li><a href="/comments/20210417/1527945.md" target="_blank">章天亮: 透析美左派内部矛盾 两法案或将无疾而终</a></li>
 <li><a href="/comments/20210417/1527944.md" target="_blank">中共连续4个月增持美债 规模达1.1兆美元</a></li>
 <li><a href="/comments/20210417/1527929.md" target="_blank">川普发声明 支持怀俄明州共和党主席连任</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210416/1527828.md" target="_blank">中国芯片荒美议员促更彻底打击;港纪律部队排字惊现“天灭中共”;曝光CNN推特永久封真;美查大批中国仿N95口罩;阻高智晟露面妻要返国陪坐牢;美联邦快递8人被枪杀;12:00PM【希望之声TV】</a></li>
 <li><a href="/comments/20210416/1527811.md" target="_blank">CNN记者：拜登上任后 世界变得更危险</a></li>
 <li><a href="/comments/20210416/1527810.md" target="_blank">搁置“填塞高院”提案 佩洛西：此事由拜登决定</a></li>
-<li><a href="/comments/20210416/1527809.md" target="_blank">日陆上自卫队拟今秋举行军演 规模为冷战以来最大</a></li>
-<li><a href="/comments/20210416/1527808.md" target="_blank">研究：辉瑞、Moderna、AZ疫苗都现“罕见血栓”副作用</a></li>
-<li><a href="/comments/20210416/1527807.md" target="_blank">10个超有趣的食物冷知识</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
