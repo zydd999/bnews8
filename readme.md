@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20210415/1526880.md">赵立坚尴尬了：大亚湾核电站排放上限超日本福岛10倍</a></li>
 <li><a href="/bannedvideo/20210415/1526953.md">陈破空：惊掉下巴！习近平要传位给女儿？果真要搞君主制！多国外交官罕见探望一位母亲</a></li>
 <li><a href="/cbnews/20210415/1527058.md">马云现身普京主持的会议 全程只喝茶不发言</a></li>
-<li><a href="/bannedvideo/20210415/1526840.md">习近平王沪宁消失几种可能 生病健康问题密谋攻打台湾（启明笑谈20210415）</a></li>
 <li><a href="/topimagenews/20210416/1527251.md">川普买拜登交接，什么信号？中共大发雷霆暴露致命死穴 法媒：习近平正把欧洲人推向美国</a></li>
 <li><a href="/topimagenews/20210415/1526952.md">李克强挺不住了？又唱白脸？拜登派友访台 中共跳脚宣布实弹军演</a></li>
 <li><a href="/cbnews/20210415/1526878.md">美特使克里访华全程不外出 上海东郊宾馆戒备森严</a></li>
@@ -22,10 +21,11 @@
 <li><a href="/cnnews/20210415/1527027.md">下周二苹果发布会 新机只卖1299?</a></li>
 <li><a href="/ssgc/20210416/1527279.md">〖微博谈〗萨达姆垮台前，与他的想法一样</a></li>
 <li><a href="/comments/20210416/1527162.md">爹成了牺牲品！女警豁出去了！视频实名举报市公安局局长</a></li>
-<li><a href="/cbnews/20210416/1527180.md">美海军揭秘：中共正在上海建造003航母</a></li>
 <li><a href="/health/20210416/1527221.md">肝癌每年夺走30多万中国人性命！医生：不想得肝癌，养肝牢记这4点</a></li>
-<li><a href="/cbnews/20210415/1526898.md">忧政权崩溃？中共国安日重申习近平“政治安全”</a></li>
+<li><a href="/cbnews/20210416/1527180.md">美海军揭秘：中共正在上海建造003航母</a></li>
+<li><a href="/cbnews/20210416/1527454.md">为习近平做了一件“大事” 此人传将跳级入局掌中宣部</a></li>
 <li><a href="/cbnews/20210415/1526543.md">中国出现高致病禽流感 禽传人致死率近7成</a></li>
+<li><a href="/cbnews/20210415/1526898.md">忧政权崩溃？中共国安日重申习近平“政治安全”</a></li>
 <li><a href="/lifebaike/20210416/1527240.md">春天吃鱼好处多，遇上这4种鱼别错过，人工无法养殖，放心吃</a></li>
 <li><a href="/cnnews/20210415/1526854.md">贺锦丽又犯傻了 宣布前往墨危两国处理拜登边境危机不禁傻笑了【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210416/1527554.md" target="_blank">辉瑞疫苗抵达中国消息被秒删 民众：自费也打</a></li>
+<li><a href="/cbnews/20210416/1527553.md" target="_blank">手段很见不得人？“自愿捐献”器官有很多私下勾当</a></li>
 <li><a href="/comments/20210416/1527475.md" target="_blank">4月14~15日，真相工程CEO连续发布猛料。CNN帮助BLM攻击亚裔！奥基夫与CNN技术总监切斯特，餐厅短兵相接，后者落荒而逃！CNN总裁不想拿下数字的秘密。</a></li>
 <li><a href="/cbnews/20210416/1527466.md" target="_blank">进京维权被截返 重庆访民控告警察掐脖殴打</a></li>
 <li><a href="/cbnews/20210416/1527454.md" target="_blank">为习近平做了一件“大事” 此人传将跳级入局掌中宣部</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210416/1527134.md" target="_blank">撤军阿富汗／华尔街日报：集中力量对抗中俄</a></li>
 <li><a href="/comments/20210416/1527096.md" target="_blank">拜登撤军阿富汗 彭培奥有话说；BLM攻击CNN记者 民众拍手；民主党用4人填塞最高院；李克强唱白脸？喊美国别脱钩；九蛙叠像是祸根？日月潭龙脉恐被毁 ；北京起沙尘暴12:00pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210415/1527059.md" target="_blank">习近平隐身多日终露面 李克强为一事苦劝美国</a></li>
-<li><a href="/cbnews/20210415/1527058.md" target="_blank">马云现身普京主持的会议 全程只喝茶不发言</a></li>
-<li><a href="/comments/20210415/1526978.md" target="_blank">双标？2起警察枪击案 结果大不同！FBI:现有2000项调查跟中共有关；参议员提法案，优先给维吾尔人难民身份；五角大楼：海军曾拍到球状和金字塔状UFO；大陆货车司机睡觉时也防贼；8am【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210416/1527546.md" target="_blank">“奶酪星球”火星上的那些坑</a></li>
 <li><a href="/comments/20210416/1527505.md" target="_blank">美情报官员国会作证：中共对美构成空前威胁</a></li>
 <li><a href="/comments/20210416/1527504.md" target="_blank">阿里被罚后 30多家中国科技巨头公开表态</a></li>
 <li><a href="/comments/20210416/1527503.md" target="_blank">营商环境政治化 中国经济正开启“自毁模式”</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210416/1527380.md" target="_blank">商业环境政治化 北京可能在砸自己的锅</a></li>
 <li><a href="/comments/20210416/1527378.md" target="_blank">蔡英文总统官邸宴请拜登挚友陶德一行 国防部长作陪 合照中四只狗抢眼 陶德会蔡英文：拜登支持台湾自卫 蔡英文：愿与美共同守护印太 阻中共冒进挑衅</a></li>
 <li><a href="/comments/20210416/1527366.md" target="_blank">佩洛西踢皮球给拜登！推翻高院立法？美遭构陷！中共指华府资助新疆搞颠覆； 欧盟考虑终止与中共的引渡条约，拜登宣布国家紧急状态 ；菅义伟出发访美 日本成抗共先锋；中共再轰BCI 【希望之声TV】10pm</a></li>
-<li><a href="/comments/20210416/1527362.md" target="_blank">习近平要参加气候视频峰会 北京沙尘暴象下泥</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
