@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20210416/1527270.md">看看日本的阳台设计，我们的阳台设计如此没用 动图</a></li>
 <li><a href="/lifebaike/20210415/1526991.md">那个断骨增高7.2厘米的小伙 如今成这样了</a></li>
 <li><a href="/finance/20210415/1527060.md">中共芯片企业奇葩通知曝光：库存已完、弹药殆尽</a></li>
-<li><a href="/cnnews/20210415/1527027.md">下周二苹果发布会 新机只卖1299?</a></li>
 <li><a href="/cbnews/20210416/1527454.md">为习近平做了一件“大事” 此人传将跳级入局掌中宣部</a></li>
+<li><a href="/cnnews/20210415/1527027.md">下周二苹果发布会 新机只卖1299?</a></li>
 <li><a href="/ssgc/20210416/1527279.md">〖微博谈〗萨达姆垮台前，与他的想法一样</a></li>
 <li><a href="/comments/20210416/1527162.md">爹成了牺牲品！女警豁出去了！视频实名举报市公安局局长</a></li>
 <li><a href="/health/20210416/1527221.md">肝癌每年夺走30多万中国人性命！医生：不想得肝癌，养肝牢记这4点</a></li>
 <li><a href="/cbnews/20210416/1527180.md">美海军揭秘：中共正在上海建造003航母</a></li>
+<li><a href="/worldnews/usa/20210416/1527136.md">拜登恐已确诊 灯塔早已熄灭</a></li>
 <li><a href="/cbnews/20210415/1526898.md">忧政权崩溃？中共国安日重申习近平“政治安全”</a></li>
 <li><a href="/lifebaike/20210416/1527240.md">春天吃鱼好处多，遇上这4种鱼别错过，人工无法养殖，放心吃</a></li>
-<li><a href="/worldnews/usa/20210416/1527136.md">拜登恐已确诊 灯塔早已熄灭</a></li>
-<li><a href="/cnnews/20210416/1527329.md">薄熙来案证人 咋又成反送中金主央视认罪 疑点重重</a></li>
 <li><a href="/topimagenews/20210416/1527386.md">英媒：中国疫苗不具针对性 未能真正对抗新冠病毒</a></li>
+<li><a href="/cnnews/20210416/1527329.md">薄熙来案证人 咋又成反送中金主央视认罪 疑点重重</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210416/1527590.md" target="_blank">红三代煽颠案内情曝光 两内地生涉反送中被抓</a></li>
 <li><a href="/comments/20210416/1527546.md" target="_blank">“奶酪星球”火星上的那些坑</a></li>
 <li><a href="/comments/20210416/1527505.md" target="_blank">美情报官员国会作证：中共对美构成空前威胁</a></li>
 <li><a href="/comments/20210416/1527504.md" target="_blank">阿里被罚后 30多家中国科技巨头公开表态</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210416/1527381.md" target="_blank">美日峰会在即 台海情势料成主轴</a></li>
 <li><a href="/comments/20210416/1527380.md" target="_blank">商业环境政治化 北京可能在砸自己的锅</a></li>
 <li><a href="/comments/20210416/1527378.md" target="_blank">蔡英文总统官邸宴请拜登挚友陶德一行 国防部长作陪 合照中四只狗抢眼 陶德会蔡英文：拜登支持台湾自卫 蔡英文：愿与美共同守护印太 阻中共冒进挑衅</a></li>
-<li><a href="/comments/20210416/1527366.md" target="_blank">佩洛西踢皮球给拜登！推翻高院立法？美遭构陷！中共指华府资助新疆搞颠覆； 欧盟考虑终止与中共的引渡条约，拜登宣布国家紧急状态 ；菅义伟出发访美 日本成抗共先锋；中共再轰BCI 【希望之声TV】10pm</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
 <li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
