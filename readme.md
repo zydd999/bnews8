@@ -10,24 +10,24 @@
 <li><a href="/yule/20210417/1527857.md">成龙回安徽认祖 在同父异母穷大哥家逗留10分钟</a></li>
 <li><a href="/comments/20210417/1527860.md">王友群：习近平的重大误判与其背后原因</a></li>
 <li><a href="/cbnews/20210417/1528149.md">共军战力有多强？罗援少将一段话吐内幕</a></li>
+<li><a href="/bannedvideo/20210417/1528023.md">陈破空：轰动！辽宁号瘫痪在海上！遭美军电子战点穴？众说纷纭。溴大了</a></li>
 <li><a href="/cbnews/20210417/1528216.md">江绵恒亲信 前上海市长杨雄葬礼 孟建柱再度现身</a></li>
 <li><a href="/cbnews/20210417/1528175.md">江峰：题目：马云夺习近平风头！招待各国政商领袖的晚餐埋下祸根；美国的教训：资本+科技+舆论=改变制度的力量—-阿里巴巴天价罚单和网络平台末路的内幕</a></li>
-<li><a href="/bannedvideo/20210417/1528023.md">陈破空：轰动！辽宁号瘫痪在海上！遭美军电子战点穴？众说纷纭。溴大了</a></li>
 <li><a href="/cbnews/20210417/1528201.md">击沉一艘航母要多久？一个连北京都不敢的实验 美军曝光…</a></li>
 <li><a href="/cbnews/20210417/1527951.md">海外自媒体网红“周周侃”回国后失联</a></li>
 <li><a href="/cnnews/20210417/1527965.md">中央党校专家解答周恩来之谜</a></li>
-<li><a href="/topimagenews/20210417/1528095.md">拜登一举定位美俄中共关系 “中国疫苗不能对抗病毒” 习近平搞砸了？被脱责</a></li>
 <li><a href="/lifebaike/20210417/1528153.md">林彪政变暗杀毛泽东？中共不敢公开的惊人内幕</a></li>
+<li><a href="/topimagenews/20210417/1528095.md">拜登一举定位美俄中共关系 “中国疫苗不能对抗病毒” 习近平搞砸了？被脱责</a></li>
 <li><a href="/cbnews/20210417/1528176.md">辽宁号突发故障？盛传海上定点停留一天引热议</a></li>
-<li><a href="/cbnews/20210417/1527983.md">专栏 | 夜话中南海：为习皇父亲修陵有功的景俊海 被看好接掌中宣部</a></li>
 <li><a href="/cnnews/20210417/1528181.md">外媒：中国逾500家金融机构恐将破产</a></li>
+<li><a href="/cbnews/20210417/1528373.md">重磅！传美国5月推新规 将影响数百万家中国大陆企业</a></li>
+<li><a href="/cbnews/20210417/1527983.md">专栏 | 夜话中南海：为习皇父亲修陵有功的景俊海 被看好接掌中宣部</a></li>
 <li><a href="/comments/20210417/1528204.md">人类崩溃？人猴杂交问世！ CNN批拜登啥信号？杨安泽参加黑命贵游行被黑人轰走；普京开会议马云突现身 ；缺芯涨价中国企业停工；拜登与日本首相召开新闻发布会【希望之声TV】12am</a></li>
 <li><a href="/ssgc/20210417/1527907.md">〖兲朝浮世绘〗场面上的安排不影响场面下的利益勾兑</a></li>
 <li><a href="/comments/20210417/1528006.md">辽宁号故障？盛传海上定点停留1天引热议</a></li>
 <li><a href="/cnnews/20210417/1527964.md">专家：中国疫苗不能真正对抗病毒 还可能催生变种</a></li>
-<li><a href="/cnnews/20210417/1528219.md">郭美美再被正式批捕 官方通报罪名</a></li>
+<li><a href="/cbnews/20210417/1528329.md">陕西11岁女向习近平哭诉：您说“法治”国家 可我们告8年了</a></li>
 <li><a href="/funmedia/20210417/1528151.md">女子享受鱼疗太舒服，没忍住做了点事，结果商家索赔5万</a></li>
-<li><a href="/cbnews/20210417/1528373.md">重磅！传美国5月推新规 将影响数百万家中国大陆企业</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210417/1528437.md" target="_blank">时事大家谈：疑云又起 强生疫苗和血栓到底有没有关系？</a></li>
+<li><a href="/comments/20210417/1528431.md" target="_blank">洪博学：马云谢主隆恩 小粉红落井下石</a></li>
+<li><a href="/comments/20210417/1528430.md" target="_blank">子龙：食堂主管3年吃千万回扣 贪腐之风为何遍布神州</a></li>
 <li><a href="/comments/20210417/1528422.md" target="_blank">蓬佩奥：若美国不表明决心 台湾就危险</a></li>
 <li><a href="/comments/20210417/1528421.md" target="_blank">时事大家谈：中国疫苗会不会让接种领先国破功？疑云又起 强生疫苗和血栓到底有没有关系？</a></li>
 <li><a href="/comments/20210417/1528411.md" target="_blank">疫情下的“第一个拥抱”夺得年度世界新闻摄影奖</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210417/1528251.md" target="_blank">中国的魔咒和习近平的宿命（中共命运的轨迹和人类前途  第七讲）【袁红冰纵论天下】 04172021</a></li>
 <li><a href="/comments/20210417/1528233.md" target="_blank">4•16香港大纪元恢复出报 港人更珍惜正义敢言媒体</a></li>
 <li><a href="/comments/20210417/1528221.md" target="_blank">【教育是永恒大计】陶冶儿童性情、启蒙教育的诗中极品：《千家诗》《千字文》</a></li>
-<li><a href="/comments/20210417/1528204.md" target="_blank">人类崩溃？人猴杂交问世！ CNN批拜登啥信号？杨安泽参加黑命贵游行被黑人轰走；普京开会议马云突现身 ；缺芯涨价中国企业停工；拜登与日本首相召开新闻发布会【希望之声TV】12am</a></li>
-<li><a href="/comments/20210417/1528202.md" target="_blank">谁在大力炒作台海战争风险？</a></li>
-<li><a href="/comments/20210417/1528182.md" target="_blank">52年来首提台湾！白宫公布美日联合声明 关注台海情势</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
