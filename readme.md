@@ -12,22 +12,22 @@
 <li><a href="/baitai/20210416/1527440.md">加拿大国会议员一丝不挂 春光外泄糗大了</a></li>
 <li><a href="/cnnews/20210416/1527595.md">马云大胆言论曝光：应先由西方“解放”中国</a></li>
 <li><a href="/cbnews/20210416/1527581.md">美军10万吨航母战力曝光 陆媒叹：不服行吗？</a></li>
-<li><a href="/comments/20210416/1527755.md">“蠢货”李宁！你终于把自己玩毁了</a></li>
 <li><a href="/bannedvideo/20210416/1527559.md">4月14号凌晨2点50左右，黑龙江抚远、鹤岗以及黑河等地居民看到疑巨大陨石坠落，视频者在富锦市装粮的场地看到这一幕，一颗燃烧的五光十色的火球在空中慢慢划过，照亮了天空，20多秒后消失</a></li>
+<li><a href="/comments/20210416/1527755.md">“蠢货”李宁！你终于把自己玩毁了</a></li>
 <li><a href="/cnnews/20210416/1527541.md">猝死的前上海市长杨雄 其不可推脱的罪责</a></li>
 <li><a href="/comments/20210416/1527465.md">普京介入习江斗 染指二十大？余茂春听证会上谈马云</a></li>
 <li><a href="/health/20210416/1527370.md">便秘上厕所拉不出？这里拍三下，立即通</a></li>
 <li><a href="/cnnews/20210416/1527467.md">警惕！打疫苗后出现两症状 恐是血栓</a></li>
 <li><a href="/topimagenews/20210416/1527386.md">英媒：中国疫苗不具针对性 未能真正对抗新冠病毒</a></li>
 <li><a href="/yule/20210417/1527857.md">成龙回安徽认祖 在同父异母穷大哥家逗留10分钟</a></li>
-<li><a href="/cbnews/20210416/1527554.md">辉瑞疫苗抵达中国消息被秒删 民众：自费也打</a></li>
 <li><a href="/comments/20210417/1527860.md">王友群：习近平的重大误判与其背后原因</a></li>
+<li><a href="/cbnews/20210416/1527554.md">辉瑞疫苗抵达中国消息被秒删 民众：自费也打</a></li>
 <li><a href="/yule/20210416/1527719.md">杨幂拍打底裤宣传照被批动作不雅</a></li>
 <li><a href="/lifebaike/20210416/1527534.md">长期放屁的人，身体多半存在4个毛病，莫忽视</a></li>
 <li><a href="/cnnews/20210416/1527329.md">薄熙来案证人 咋又成反送中金主央视认罪 疑点重重</a></li>
+<li><a href="/cbnews/20210417/1527909.md">中国边检警察打国药疫苗后去世 家属遭维稳</a></li>
 <li><a href="/topimagenews/20210416/1527443.md">任泽平：中国人口老龄化加速到来 速度远超欧美日</a></li>
 <li><a href="/headline/20210416/1527558.md">中国第一季度经济增速爆表背后的急剧减速</a></li>
-<li><a href="/ssgc/20210416/1527703.md">中共内斗激烈 党媒为习近平开脱责任？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210417/1528053.md" target="_blank">冯学荣: 日本核废水的八个真相</a></li>
+<li><a href="/comments/20210417/1528052.md" target="_blank">导航的毛病说到底就是穷病</a></li>
 <li><a href="/comments/20210417/1528049.md" target="_blank">闲谈美国独立史 (3) : 美国建国先父们的故事 (上)</a></li>
 <li><a href="/comments/20210417/1528042.md" target="_blank">唱歌，喝茶，品美食！网红鲨鱼的生活美极了</a></li>
 <li><a href="/comments/20210417/1528038.md" target="_blank">汉森：美国精英阶层“种族觉醒”者的邪教性</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210417/1527948.md" target="_blank">惊传打国产疫苗当天死亡！广东民众更爆：小学生被强制接种</a></li>
 <li><a href="/comments/20210417/1527946.md" target="_blank">726人丧生！缅甸联邦议会代表委员会宣布成立民族团结政府 望恢复民主</a></li>
 <li><a href="/comments/20210417/1527945.md" target="_blank">章天亮: 透析美左派内部矛盾 两法案或将无疾而终</a></li>
-<li><a href="/comments/20210417/1527944.md" target="_blank">中共连续4个月增持美债 规模达1.1兆美元</a></li>
-<li><a href="/comments/20210417/1527929.md" target="_blank">川普发声明 支持怀俄明州共和党主席连任</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
