@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20210418/1528546.md">美日峰会激起7国异动 拜登菅义伟破半世纪记录 习欧美齐下手 普京报复</a></li>
 <li><a href="/headline/20210418/1528545.md">太平洋到底是谁家的下水道 赵立坚遭麻生太郎猛呛</a></li>
 <li><a href="/comments/20210418/1528519.md">打疫苗后若出现这2种症状 专家：要急速就医</a></li>
-<li><a href="/cbnews/20210418/1528750.md">陶德访台 传辽宁号护卫舰迫美核潜艇上浮逃窜 惊人逆转</a></li>
 <li><a href="/cbnews/20210418/1528600.md">余茂春重磅讲话 支招如何有效抗共</a></li>
+<li><a href="/cbnews/20210418/1528750.md">陶德访台 传辽宁号护卫舰迫美核潜艇上浮逃窜 惊人逆转</a></li>
 <li><a href="/cbnews/20210418/1528598.md">桂林旅游大巴被限高杆削顶 乘客遭爆头</a></li>
 <li><a href="/topimagenews/20210418/1528834.md">蚂蚁要让马云放弃控制权 韩正向拜登气候特使要钱 温宝谈中南海工作“如履薄冰”</a></li>
 <li><a href="/topimagenews/20210418/1528640.md">重磅 传美推新规影响数百万中企 中国逾500家金融机构恐破产 美军情专家感动华人引热传</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/comments/20210418/1528776.md">太丢人！“辽宁号”成美军打卡点 高清大图泄秘 飞机起落全程被录下</a></li>
 <li><a href="/lifebaike/20210418/1528659.md">杀灭幽门螺杆菌的冠军，不是鸡蛋，每天吃，胃病或能“绕路走”</a></li>
 <li><a href="/funmedia/20210418/1528549.md">心理学：穷人并非不努力、没机会、基因不好，而是不明白一个道理</a></li>
+<li><a href="/worldnews/20210418/1528822.md">中资发电厂工人要求加薪 警开枪镇压5死</a></li>
 <li><a href="/bannedvideo/20210418/1528784.md">文睿：连温家宝都不能自由说话了，中共风声鹤唳，大限不远了</a></li>
 <li><a href="/cnnews/20210418/1528473.md">习前脚刚走 福建反了？一批网站攻击中共遭查封</a></li>
 <li><a href="/funmedia/20210418/1528548.md">被人欺负时，最有力的回击，不是翻脸，而是这种方式</a></li>
+<li><a href="/baitai/20210418/1528810.md">苏晓康：中国的危机都在一个人身上</a></li>
 <li><a href="/headline/20210418/1528547.md">温家宝深情忆母 谈中南海做官如临深渊</a></li>
-<li><a href="/worldnews/20210418/1528822.md">中资发电厂工人要求加薪 警开枪镇压5死</a></li>
 <li><a href="/comments/20210418/1528715.md">【微博精粹】习总启动“月经警察”也来不及了</a></li>
 <li><a href="/lifebaike/20210418/1528799.md">越是虚伪的人，越喜欢把这三句话挂嘴边，最好别深交</a></li>
 <li><a href="/funmedia/20210418/1528551.md">有的女人，之所以特别受到异性喜欢，是因为在运用“杜根定律”</a></li>
-<li><a href="/health/20210418/1528793.md">寿命长短，喝水便知！医生：多喝水后出现这5个异常，尽快去检查</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210418/1528994.md" target="_blank">尸毗王与猎鹰震动天地的故事</a></li>
+<li><a href="/comments/20210418/1528987.md" target="_blank">西方出版界：政治正确正在如何绑架文艺创作？</a></li>
+<li><a href="/comments/20210418/1528986.md" target="_blank">中国特色 揭秘中共如何将法律武器化 达政治目的</a></li>
+<li><a href="/comments/20210418/1528985.md" target="_blank">血洗币圈！比特币、以太币腥风血雨 上千亿灰飞烟灭</a></li>
 <li><a href="/comments/20210418/1528977.md" target="_blank">隐秘的中共官员名贵特产腐败：从收受贿到产业链</a></li>
 <li><a href="/comments/20210418/1528959.md" target="_blank">【图+视频】夜猫子可以变成早起的鸟儿吗？</a></li>
 <li><a href="/comments/20210418/1528958.md" target="_blank">日本自民党高层大赞美日联合声明强调台海和平稳定</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210418/1528802.md" target="_blank">生活让你怒？职场让你怒？专家说：生气的不是你，而是“脑”</a></li>
 <li><a href="/comments/20210418/1528796.md" target="_blank">批评中共律师遭北京报复制裁 冰岛外交部强硬怼回</a></li>
 <li><a href="/comments/20210418/1528795.md" target="_blank">心灵是现象世界的创造者（东方哲人解析当代人类困惑  第十五讲）【袁红冰杏坛】 04182021</a></li>
-<li><a href="/comments/20210418/1528782.md" target="_blank">【中国观察】中共媒体逼老农一起做假新闻 老农就是不上当</a></li>
-<li><a href="/comments/20210418/1528776.md" target="_blank">太丢人！“辽宁号”成美军打卡点 高清大图泄秘 飞机起落全程被录下</a></li>
-<li><a href="/comments/20210418/1528766.md" target="_blank">白宫突然改口声明未与边境国家达成正式协议；国际黄金大涨 谁是背后推手？SpaceX全球上网计划 月费$99网速快；耐克再爆风波 ；11岁女孩哭诉：您说“法治”国家 可我们告8年【希望之声TV】12am</a></li>
-<li><a href="/comments/20210418/1528755.md" target="_blank">李燕铭：温家宝忆母长文 形同退党公开信 自曝在中南海“如临深渊” 文章遭王沪宁封杀 温家宝撰文忆母事件三大异常 文章触及中南海习近平四大敏感点 堂堂一国总理忆母文章竟无法公开发表 二十大前高层内斗局势波诡云谲</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
 
 </ul>
 </div>
