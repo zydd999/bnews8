@@ -19,15 +19,15 @@
 <li><a href="/comments/20210417/1528378.md">习前脚刚走 福建反了？大批网站攻击中共遭查封</a></li>
 <li><a href="/cbnews/20210418/1528600.md">余茂春重磅讲话 支招如何有效抗共</a></li>
 <li><a href="/cnnews/20210417/1528375.md">83岁退休老人相亲 一则征婚广告火了</a></li>
-<li><a href="/topimagenews/20210417/1528236.md">以色列：我们将不惜一切代价，绝对要阻止伊朗获得核武器！【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20210418/1528598.md">桂林旅游大巴被限高杆削顶 乘客遭爆头</a></li>
 <li><a href="/funmedia/20210418/1528549.md">心理学：穷人并非不努力、没机会、基因不好，而是不明白一个道理</a></li>
 <li><a href="/comments/20210417/1528285.md">李燕铭：习近平全面出击决战江曾 王岐山旧部清洗曾庆红老家 江西帮多名大佬高危 江西省公安厅常务副厅长叶国兵落马 江西福建西藏三省区政法高官同日被查</a></li>
 <li><a href="/cnnews/20210418/1528473.md">习前脚刚走 福建反了？一批网站攻击中共遭查封</a></li>
-<li><a href="/cbnews/20210418/1528598.md">桂林旅游大巴被限高杆削顶 乘客遭爆头</a></li>
-<li><a href="/funmedia/20210418/1528548.md">被人欺负时，最有力的回击，不是翻脸，而是这种方式</a></li>
 <li><a href="/topimagenews/20210418/1528510.md">川普出手巨头服软 彭斯心脏出问题 民主党推投票法可致合法移民遭驱逐出境</a></li>
-<li><a href="/headline/20210418/1528547.md">温家宝深情忆母 谈中南海做官如临深渊</a></li>
+<li><a href="/funmedia/20210418/1528548.md">被人欺负时，最有力的回击，不是翻脸，而是这种方式</a></li>
 <li><a href="/comments/20210417/1528377.md">孟建柱现身上海前市长杨雄葬礼 江家没表示</a></li>
+<li><a href="/headline/20210418/1528547.md">温家宝深情忆母 谈中南海做官如临深渊</a></li>
+<li><a href="/comments/20210418/1528523.md">北京步步紧逼！路透：蚂蚁正考虑让马云出售持股、交出控制权</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210418/1528795.md" target="_blank">心灵是现象世界的创造者（东方哲人解析当代人类困惑  第十五讲）【袁红冰杏坛】 04182021</a></li>
 <li><a href="/comments/20210418/1528766.md" target="_blank">白宫突然改口声明未与边境国家达成正式协议；国际黄金大涨 谁是背后推手？SpaceX全球上网计划 月费$99网速快；耐克再爆风波 ；11岁女孩哭诉：您说“法治”国家 可我们告8年【希望之声TV】12am</a></li>
 <li><a href="/cbnews/20210418/1528753.md" target="_blank">谈美日峰会 蓬佩奥：震慑中共 美需展示决心</a></li>
 <li><a href="/cbnews/20210418/1528750.md" target="_blank">陶德访台 传辽宁号护卫舰迫美核潜艇上浮逃窜 惊人逆转</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210417/1528295.md" target="_blank">俄罗斯踢走拜登外交官 制裁美国司法部长和FBI雷局长【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210417/1528289.md" target="_blank">习近平给拜登难堪？北京抢先与法德谈气候</a></li>
 <li><a href="/comments/20210417/1528251.md" target="_blank">中国的魔咒和习近平的宿命（中共命运的轨迹和人类前途  第七讲）【袁红冰纵论天下】 04172021</a></li>
-<li><a href="/cbnews/20210417/1528217.md" target="_blank">这国战机对中共冲击比F-35更强？富比世：只因便宜 买得到</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210418/1528796.md" target="_blank">批评中共律师遭北京报复制裁 冰岛外交部强硬怼回</a></li>
+<li><a href="/comments/20210418/1528795.md" target="_blank">心灵是现象世界的创造者（东方哲人解析当代人类困惑  第十五讲）【袁红冰杏坛】 04182021</a></li>
 <li><a href="/comments/20210418/1528782.md" target="_blank">【中国观察】中共媒体逼老农一起做假新闻 老农就是不上当</a></li>
 <li><a href="/comments/20210418/1528776.md" target="_blank">太丢人！“辽宁号”成美军打卡点 高清大图泄秘 飞机起落全程被录下</a></li>
 <li><a href="/comments/20210418/1528766.md" target="_blank">白宫突然改口声明未与边境国家达成正式协议；国际黄金大涨 谁是背后推手？SpaceX全球上网计划 月费$99网速快；耐克再爆风波 ；11岁女孩哭诉：您说“法治”国家 可我们告8年【希望之声TV】12am</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210418/1528651.md" target="_blank">陶海粟: 奥威尔《1984》出版70周年</a></li>
 <li><a href="/comments/20210418/1528634.md" target="_blank">小人物出大名 “4.25”被朱镕基带进中南海</a></li>
 <li><a href="/comments/20210418/1528627.md" target="_blank">“爱国”不是爱统治这个国家的政权</a></li>
-<li><a href="/comments/20210418/1528626.md" target="_blank">川规拜随？小心当前的战略假象与误判</a></li>
-<li><a href="/comments/20210418/1528625.md" target="_blank">福岛核排污 比辐射更凶险的 是国际格局突变</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
