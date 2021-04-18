@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20210418/1528546.md">美日峰会激起7国异动 拜登菅义伟破半世纪记录 习欧美齐下手 普京报复</a></li>
 <li><a href="/headline/20210418/1528545.md">太平洋到底是谁家的下水道 赵立坚遭麻生太郎猛呛</a></li>
 <li><a href="/comments/20210418/1528519.md">打疫苗后若出现这2种症状 专家：要急速就医</a></li>
-<li><a href="/cbnews/20210418/1528600.md">余茂春重磅讲话 支招如何有效抗共</a></li>
 <li><a href="/cbnews/20210418/1528750.md">陶德访台 传辽宁号护卫舰迫美核潜艇上浮逃窜 惊人逆转</a></li>
+<li><a href="/cbnews/20210418/1528600.md">余茂春重磅讲话 支招如何有效抗共</a></li>
 <li><a href="/topimagenews/20210418/1528834.md">蚂蚁要让马云放弃控制权 韩正向拜登气候特使要钱 温宝谈中南海工作“如履薄冰”</a></li>
 <li><a href="/cbnews/20210418/1528598.md">桂林旅游大巴被限高杆削顶 乘客遭爆头</a></li>
 <li><a href="/topimagenews/20210418/1528640.md">重磅 传美推新规影响数百万中企 中国逾500家金融机构恐破产 美军情专家感动华人引热传</a></li>
@@ -19,9 +19,9 @@
 <li><a href="/worldnews/20210418/1528822.md">中资发电厂工人要求加薪 警开枪镇压5死</a></li>
 <li><a href="/comments/20210418/1528776.md">太丢人！“辽宁号”成美军打卡点 高清大图泄秘 飞机起落全程被录下</a></li>
 <li><a href="/funmedia/20210418/1528549.md">心理学：穷人并非不努力、没机会、基因不好，而是不明白一个道理</a></li>
+<li><a href="/worldnews/20210418/1528886.md">伊朗要换购36架歼-10C 北京好烦恼</a></li>
 <li><a href="/lifebaike/20210418/1528659.md">杀灭幽门螺杆菌的冠军，不是鸡蛋，每天吃，胃病或能“绕路走”</a></li>
 <li><a href="/bannedvideo/20210418/1528784.md">文睿：连温家宝都不能自由说话了，中共风声鹤唳，大限不远了</a></li>
-<li><a href="/worldnews/20210418/1528886.md">伊朗要换购36架歼-10C 北京好烦恼</a></li>
 <li><a href="/lifebaike/20210418/1528799.md">越是虚伪的人，越喜欢把这三句话挂嘴边，最好别深交</a></li>
 <li><a href="/baitai/20210418/1528810.md">苏晓康：中国的危机都在一个人身上</a></li>
 <li><a href="/funmedia/20210418/1528548.md">被人欺负时，最有力的回击，不是翻脸，而是这种方式</a></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
