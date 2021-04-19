@@ -8,8 +8,8 @@
 <li><a href="/health/20210419/1529061.md">从炎症到癌症，大约需要10年时间，哪些炎症不能一拖再拖？</a></li>
 <li><a href="/cbnews/20210419/1529207.md">交警抢摩托车遭爆头 清远民众叫好</a></li>
 <li><a href="/ccpdope/20210419/1529251.md">按习仲勋的标准 这图片证明习近平已病入膏肓</a></li>
-<li><a href="/cbnews/20210419/1529129.md">天亮时分：重磅证词：北京主动要跟世界脱钩；500多家金融机构恐破产；余茂春对美中关系的重要建议；古巴共产家族统治结束；（政论天下第404集 20210416）</a></li>
 <li><a href="/cnnews/20210419/1529173.md">权斗再起 中共体制内批“战狼外交”等习政策</a></li>
+<li><a href="/cbnews/20210419/1529129.md">天亮时分：重磅证词：北京主动要跟世界脱钩；500多家金融机构恐破产；余茂春对美中关系的重要建议；古巴共产家族统治结束；（政论天下第404集 20210416）</a></li>
 <li><a href="/cnnews/20210419/1529227.md">不褒不贬讲讲习近平的仕途历史</a></li>
 <li><a href="/cbnews/20210419/1529231.md">糗大了！全球最差航母 辽宁舰南海“裸奔”</a></li>
 <li><a href="/bannedvideo/20210419/1529412.md">陈破空：震动！温家宝奉劝习近平退休！明说中国需要公平正义。习家军急忙删文，全面封杀</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20210419/1529411.md">震慑中共，美军核王牌重返太平洋重地；习近平对江系大动作刚开始；赵立坚遭日本副相回呛</a></li>
 <li><a href="/cnnews/20210419/1529262.md">破解北斗卫星 美女高杏欣成微博热搜</a></li>
 <li><a href="/topimagenews/20210419/1529130.md">1辆车顶1个炮兵连！台媒：美国将售台湾大杀器 台国防部长这样回复</a></li>
-<li><a href="/comments/20210419/1529218.md">危险信号？温家宝发文遭封杀！福西要被曝光？美媒要查武汉病毒所！胡锡泄露特权机密？美众院批准反垄断报告 打击科技巨头；英反腐开铡 在世前首相都将被审查【希望之声TV】-12AM</a></li>
 <li><a href="/headline/20210419/1529084.md">温家宝忆母文章微信禁止分享</a></li>
+<li><a href="/comments/20210419/1529218.md">危险信号？温家宝发文遭封杀！福西要被曝光？美媒要查武汉病毒所！胡锡泄露特权机密？美众院批准反垄断报告 打击科技巨头；英反腐开铡 在世前首相都将被审查【希望之声TV】-12AM</a></li>
 <li><a href="/cnnews/20210419/1529332.md">台海恐爆发战争？澳洲已经做最坏准备</a></li>
 <li><a href="/bannedvideo/20210419/1529074.md">🔥🔥外星人不让川普做这件事❗❗</a></li>
 <li><a href="/funmedia/20210419/1529100.md">拉丁美洲最大的国家：美女遍地，拥有绝美海滩还对华免签</a></li>
 <li><a href="/health/20210419/1529325.md">这4个信号是肝脏在报警 拖成肝癌就晚了</a></li>
 <li><a href="/cnnews/20210419/1529241.md">灭活疫苗存在2个风险？中国疫苗3大问题解析</a></li>
-<li><a href="/bannedvideo/20210419/1529294.md">4月19日上午，特斯拉上海车展，一女车主身穿“特斯拉刹车失灵”的T恤爬到车顶维权。不少网友质疑是事先安排的，如果是国产车展，那个女士早被警察和保安拿下了，怎么可能爬到车顶上去。</a></li>
 <li><a href="/ssgc/20210419/1529109.md">〖微博谈〗不是不抓，而是放养</a></li>
+<li><a href="/bannedvideo/20210419/1529294.md">4月19日上午，特斯拉上海车展，一女车主身穿“特斯拉刹车失灵”的T恤爬到车顶维权。不少网友质疑是事先安排的，如果是国产车展，那个女士早被警察和保安拿下了，怎么可能爬到车顶上去。</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210420/1529627.md" target="_blank">针对中俄间谍威胁 英拟强制替外国政府工作者登记</a></li>
+<li><a href="/cbnews/20210420/1529626.md" target="_blank">上海车展特斯拉遭女子大闹展台 大叫“刹车失灵”</a></li>
 <li><a href="/comments/20210420/1529619.md" target="_blank">【中国时局】 防民之口 人人自危 主持人：梓枫</a></li>
 <li><a href="/cbnews/20210420/1529617.md" target="_blank">美中对峙 罗斯福号与辽宁舰近距400公里</a></li>
 <li><a href="/cbnews/20210420/1529609.md" target="_blank">7旬山西退休警举报领导 遭控诽谤等罪判囚12年</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210419/1529253.md" target="_blank">澳洲智库：美国阿富汗撤军 战略格局大变 四大原因彰显台湾非常重要！【阿波罗网编译】</a></li>
 <li><a href="/cbnews/20210419/1529239.md" target="_blank">大纪元：文件爆西藏部队缺疫苗向河北求援</a></li>
 <li><a href="/cbnews/20210419/1529231.md" target="_blank">糗大了！全球最差航母 辽宁舰南海“裸奔”</a></li>
-<li><a href="/comments/20210419/1529218.md" target="_blank">危险信号？温家宝发文遭封杀！福西要被曝光？美媒要查武汉病毒所！胡锡泄露特权机密？美众院批准反垄断报告 打击科技巨头；英反腐开铡 在世前首相都将被审查【希望之声TV】-12AM</a></li>
-<li><a href="/cbnews/20210419/1529208.md" target="_blank">中共二十大前 “湖北F4”接任者料借疫升迁</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210420/1529624.md" target="_blank">中国每年数十亿条个人信息泄露 被标价出售</a></li>
+<li><a href="/comments/20210420/1529623.md" target="_blank">美韩研究：异常天灾预示人祸即将爆发</a></li>
 <li><a href="/comments/20210420/1529619.md" target="_blank">【中国时局】 防民之口 人人自危 主持人：梓枫</a></li>
 <li><a href="/comments/20210420/1529605.md" target="_blank">江西省公安厅常务副厅长叶国兵落马 抄家搜到逾两亿元现金、黄金6公斤及AK47冲锋枪 中南海不可告人的秘密_357</a></li>
 <li><a href="/comments/20210420/1529604.md" target="_blank">蓬佩奥：美驻UN大使反美 是不合格的外交官</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210419/1529508.md" target="_blank">读懂这些图，你就读懂了东西方文化~</a></li>
 <li><a href="/comments/20210419/1529505.md" target="_blank">人类史上首次！NASA”创新号”在火星成功动力飞行</a></li>
 <li><a href="/comments/20210419/1529500.md" target="_blank">【杜耀明评论】特区政府为民间抗争穿针引线</a></li>
-<li><a href="/comments/20210419/1529481.md" target="_blank">八十岁的宰相扳倒武则天 他靠的是什么？</a></li>
-<li><a href="/comments/20210419/1529477.md" target="_blank">忧印度疫情严峻 英相约翰逊取消访问行程</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 
 </ul>
 </div>
