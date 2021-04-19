@@ -12,22 +12,22 @@
 <li><a href="/cbnews/20210419/1529207.md">交警抢摩托车遭爆头 清远民众叫好</a></li>
 <li><a href="/cbnews/20210418/1528982.md">北京市检察院政治部主任马立娜坠亡，生前曾参与迫害法轮功学员</a></li>
 <li><a href="/health/20210419/1529061.md">从炎症到癌症，大约需要10年时间，哪些炎症不能一拖再拖？</a></li>
-<li><a href="/cbnews/20210419/1529129.md">天亮时分：重磅证词：北京主动要跟世界脱钩；500多家金融机构恐破产；余茂春对美中关系的重要建议；古巴共产家族统治结束；（政论天下第404集 20210416）</a></li>
-<li><a href="/cnnews/20210419/1529173.md">权斗再起 中共体制内批“战狼外交”等习政策</a></li>
-<li><a href="/cnnews/20210419/1529227.md">不褒不贬讲讲习近平的仕途历史</a></li>
 <li><a href="/ccpdope/20210419/1529251.md">按习仲勋的标准 这图片证明习近平已病入膏肓</a></li>
+<li><a href="/cbnews/20210419/1529129.md">天亮时分：重磅证词：北京主动要跟世界脱钩；500多家金融机构恐破产；余茂春对美中关系的重要建议；古巴共产家族统治结束；（政论天下第404集 20210416）</a></li>
+<li><a href="/cnnews/20210419/1529227.md">不褒不贬讲讲习近平的仕途历史</a></li>
+<li><a href="/cnnews/20210419/1529173.md">权斗再起 中共体制内批“战狼外交”等习政策</a></li>
 <li><a href="/cbnews/20210419/1529231.md">糗大了！全球最差航母 辽宁舰南海“裸奔”</a></li>
-<li><a href="/cnnews/20210418/1528952.md">疑接种后死亡遭封杀 相反胡编泄密中国确有“特供疫苗”？</a></li>
 <li><a href="/bannedvideo/20210419/1529043.md">【编译】传辽宁号护卫舰迫美核潜艇上浮后逃窜，惊人大逆转；要钱还是要命？中共强推中国疫苗护照，医界人士：可催生变种病毒 成全球防疫破口；美国淫魔收集小女孩，司法部不作为 CS</a></li>
+<li><a href="/cnnews/20210418/1528952.md">疑接种后死亡遭封杀 相反胡编泄密中国确有“特供疫苗”？</a></li>
 <li><a href="/cnnews/20210419/1529213.md">暴击！购买比特币就是犯罪？！这个国家突然出手，全球最牛资产要凉？</a></li>
 <li><a href="/headline/20210419/1529024.md">中国前总理温家宝忆母亲文章被删禁转载 只因提到“公平正义”</a></li>
 <li><a href="/headline/20210419/1529084.md">温家宝忆母文章微信禁止分享</a></li>
 <li><a href="/bannedvideo/20210419/1529074.md">🔥🔥外星人不让川普做这件事❗❗</a></li>
-<li><a href="/funmedia/20210419/1529100.md">拉丁美洲最大的国家：美女遍地，拥有绝美海滩还对华免签</a></li>
 <li><a href="/topimagenews/20210419/1529130.md">1辆车顶1个炮兵连！台媒：美国将售台湾大杀器 台国防部长这样回复</a></li>
-<li><a href="/bannedvideo/20210418/1528939.md">你想怎么死？净身出户，还是人财两空，马云二选一，谁笑到最后？杀富不济贫，习德勒的名单才刚刚开始（坐澳观天第317期）</a></li>
-<li><a href="/health/20210419/1529062.md">喜欢挖鼻孔的人，最后怎么样了？</a></li>
+<li><a href="/funmedia/20210419/1529100.md">拉丁美洲最大的国家：美女遍地，拥有绝美海滩还对华免签</a></li>
 <li><a href="/comments/20210419/1529218.md">危险信号？温家宝发文遭封杀！福西要被曝光？美媒要查武汉病毒所！胡锡泄露特权机密？美众院批准反垄断报告 打击科技巨头；英反腐开铡 在世前首相都将被审查【希望之声TV】-12AM</a></li>
+<li><a href="/health/20210419/1529062.md">喜欢挖鼻孔的人，最后怎么样了？</a></li>
+<li><a href="/ssgc/20210419/1529017.md">〖兲朝浮世绘〗厉害国连温家宝也没有言论自由</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 
 </ul>
 </div>
