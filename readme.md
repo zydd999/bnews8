@@ -13,21 +13,21 @@
 <li><a href="/bannedvideo/20210420/1529704.md">温家宝文章被封杀习近平要拿他开刀?还是温家宝为家人开脱?（启明笑谈20210419）</a></li>
 <li><a href="/topimagenews/20210420/1529557.md">房市泡沫？现买家已忧心忡忡：加码抢房又退出的人不少</a></li>
 <li><a href="/cbnews/20210420/1529862.md">习近平访清华心花怒放 学生被安排齐喊“学长好” 网友调侃</a></li>
+<li><a href="/cnnews/20210420/1530096.md">中南海内斗习近平挨批；习近平视察，清华英名毁了；曝马云遭劫内幕，相关企业被查</a></li>
 <li><a href="/cbnews/20210420/1529911.md">习近平访清华：学生被分三六九等 仍用2个茶杯</a></li>
 <li><a href="/topimagenews/20210420/1529920.md">大白话！证监会副主席：外资如果造成股市大幅波动，可以暂停它交易！图</a></li>
 <li><a href="/yule/20210420/1529723.md">姚安娜八亿元高调出道，成为一场全民笑话</a></li>
 <li><a href="/headline/20210420/1529659.md">温家宝撰文呼吁正义 他是在作秀吗？</a></li>
 <li><a href="/topimagenews/20210420/1529710.md">蓬佩奥违纪调查出炉引哗然 美备战空对空飞弹破纪​​录 鲁迅伙食令专家震惊</a></li>
-<li><a href="/cnnews/20210420/1529674.md">日本最狠毒妇：容貌丑陋却情人众多 连杀3人</a></li>
 <li><a href="/comments/20210420/1529605.md">江西省公安厅常务副厅长叶国兵落马 抄家搜到逾两亿元现金、黄金6公斤及AK47冲锋枪 中南海不可告人的秘密_357</a></li>
+<li><a href="/cnnews/20210420/1529674.md">日本最狠毒妇：容貌丑陋却情人众多 连杀3人</a></li>
 <li><a href="/yule/20210420/1529780.md">周润发为何终身不和成龙合作 刘德华曝背后真相</a></li>
 <li><a href="/cbnews/20210420/1529943.md">王岐山现身博鳌论坛 自称为习近平报幕</a></li>
-<li><a href="/cnnews/20210420/1530096.md">中南海内斗习近平挨批；习近平视察，清华英名毁了；曝马云遭劫内幕，相关企业被查</a></li>
+<li><a href="/topimagenews/20210420/1529958.md">甩中共几条街？实时追踪敌人目标 洛克希德公司推出新型军事卫星</a></li>
 <li><a href="/cbnews/20210420/1529810.md">天亮时分：182.28亿一顿饭，马云和温家宝被封杀的理由一样；温家宝或许后悔对习近平的支持（政论天下第405集 20210419）</a></li>
 <li><a href="/ssgc/20210420/1529565.md">〖兲朝浮世绘〗马云被净身出户？</a></li>
-<li><a href="/topimagenews/20210420/1529958.md">甩中共几条街？实时追踪敌人目标 洛克希德公司推出新型军事卫星</a></li>
+<li><a href="/bannedvideo/20210420/1530086.md">文睿：王岐山这是要造反吗？这是摆明了要让习近平下不了台啊</a></li>
 <li><a href="/lifebaike/20210420/1529685.md">贪吃正在害死你！一个震惊世界的医学新发现</a></li>
-<li><a href="/cnnews/20210420/1529881.md">网传河北一市委书记“维稳”退伍兵内部通知</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210420/1530245.md" target="_blank">“八岁反华” ：中共制造侵犯人权的鲜活案例</a></li>
+<li><a href="/cbnews/20210420/1530237.md" target="_blank">民政部突整顿低俗婚闹 刘锐绍：小乱就变成大乱了</a></li>
 <li><a href="/cbnews/20210420/1530225.md" target="_blank">大陆首季“亮丽”GDP背后的债务炸弹</a></li>
 <li><a href="/cbnews/20210420/1530210.md" target="_blank">中共苍白无力喊抵洋货 民众仍排长队购买 你喊你的，我买我的</a></li>
 <li><a href="/comments/20210420/1530205.md" target="_blank">拜登首认边境移民潮是“危机”；川普儿媳决定：参选北卡州联邦参议员；美媒：拜登政府正面对三盏闪烁的红灯；欧盟推印太合作战略印媒：欧美联手对抗中共；中国每年数十亿条个人信息泄露被标价出售【希望之声TV】</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210420/1529812.md" target="_blank">西方国家携手 中共气得跳脚</a></li>
 <li><a href="/cbnews/20210420/1529811.md" target="_blank">让拜登难堪？习近平还在研究是否出席峰会</a></li>
 <li><a href="/cbnews/20210420/1529810.md" target="_blank">天亮时分：182.28亿一顿饭，马云和温家宝被封杀的理由一样；温家宝或许后悔对习近平的支持（政论天下第405集 20210419）</a></li>
-<li><a href="/comments/20210420/1529759.md" target="_blank">第一块多米诺骨牌倒下的地方？亚利桑那州体育馆，现在已经戒备森严。激动人心的亚利桑那州法医式审计，将于4月22日~5月14日在州体育馆举行。</a></li>
-<li><a href="/cbnews/20210420/1529749.md" target="_blank">文昭：「链式反应」易失控，温家宝也被封口！辽宁舰又被扒底围观，其实是中美信息战开打</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210420/1530244.md" target="_blank">拜登政府下令：停止使用“非法移民”一词</a></li>
+<li><a href="/comments/20210420/1530243.md" target="_blank">加国教授：极左思想占领文科教育 孩子何去何从</a></li>
+<li><a href="/comments/20210420/1530232.md" target="_blank">查德总统战死前线！掌权30年刚胜选6连任</a></li>
+<li><a href="/comments/20210420/1530231.md" target="_blank">卸任后首度受访 川普：满足“这一条件”就考虑拼2024</a></li>
+<li><a href="/comments/20210420/1530230.md" target="_blank">【组图】欣赏台北何南辉摄影： 让你不再错过完美大景 （1）</a></li>
 <li><a href="/comments/20210420/1530222.md" target="_blank">川普：我“非常认真地”在考虑2024再选总统</a></li>
 <li><a href="/comments/20210420/1530212.md" target="_blank">“样板戏风格”油画走红 被讽文革回潮</a></li>
 <li><a href="/comments/20210420/1530205.md" target="_blank">拜登首认边境移民潮是“危机”；川普儿媳决定：参选北卡州联邦参议员；美媒：拜登政府正面对三盏闪烁的红灯；欧盟推印太合作战略印媒：欧美联手对抗中共；中国每年数十亿条个人信息泄露被标价出售【希望之声TV】</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210420/1530060.md" target="_blank">这就像漂浮在森林中的“天空之城”，关闭的学校被吞没在树丛中，美丽而悲伤</a></li>
 <li><a href="/comments/20210420/1530058.md" target="_blank">【看图说话】遇到了一个像外星人曾经居住过的村庄场景</a></li>
 <li><a href="/comments/20210420/1530020.md" target="_blank">康加娜-拉娜特身穿白色纱裙，令人着迷，看这位女演员穿上白色纱裙后的靓丽身姿</a></li>
-<li><a href="/comments/20210420/1530019.md" target="_blank">日本宇航机构等200多家企业遭骇 中共党员涉案</a></li>
-<li><a href="/comments/20210420/1530012.md" target="_blank">王岐山上次说念完稿就算 这回自称替习近平报幕</a></li>
-<li><a href="/comments/20210420/1530011.md" target="_blank">各国盼疫苗接种抑制疫情 全球单周染疫人数却创新高</a></li>
-<li><a href="/comments/20210420/1529987.md" target="_blank">李燕铭：王岐山现身博鳌论坛“报幕” 为习近平二十大连任造势 泄露王岐山真实权力地位及与习近平真实关系</a></li>
-<li><a href="/comments/20210420/1529970.md" target="_blank">【组图+视频】22年的坚持：曼哈顿烛光令人感动落泪</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
