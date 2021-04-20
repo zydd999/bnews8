@@ -8,26 +8,26 @@
 <li><a href="/ccpdope/20210419/1529251.md">按习仲勋的标准 这图片证明习近平已病入膏肓</a></li>
 <li><a href="/cnnews/20210420/1529611.md">加拿大海底捞被踢爆：每桌配2监视器 影像回传中国</a></li>
 <li><a href="/cbnews/20210419/1529207.md">交警抢摩托车遭爆头 清远民众叫好</a></li>
-<li><a href="/cnnews/20210419/1529173.md">权斗再起 中共体制内批“战狼外交”等习政策</a></li>
 <li><a href="/cnnews/20210419/1529227.md">不褒不贬讲讲习近平的仕途历史</a></li>
 <li><a href="/cbnews/20210419/1529231.md">糗大了！全球最差航母 辽宁舰南海“裸奔”</a></li>
 <li><a href="/bannedvideo/20210419/1529412.md">陈破空：震动！温家宝奉劝习近平退休！明说中国需要公平正义。习家军急忙删文，全面封杀</a></li>
 <li><a href="/bannedvideo/20210419/1529329.md">两个庆亲王升官速度惊人，习近平擅长内斗有高招儿--天钧政经</a></li>
 <li><a href="/cnnews/20210419/1529213.md">暴击！购买比特币就是犯罪？！这个国家突然出手，全球最牛资产要凉？</a></li>
-<li><a href="/cnnews/20210419/1529344.md">日月潭干到见底 惊现古墓碑</a></li>
 <li><a href="/cbnews/20210419/1529411.md">震慑中共，美军核王牌重返太平洋重地；习近平对江系大动作刚开始；赵立坚遭日本副相回呛</a></li>
+<li><a href="/cnnews/20210419/1529344.md">日月潭干到见底 惊现古墓碑</a></li>
 <li><a href="/cnnews/20210419/1529262.md">破解北斗卫星 美女高杏欣成微博热搜</a></li>
 <li><a href="/comments/20210419/1529218.md">危险信号？温家宝发文遭封杀！福西要被曝光？美媒要查武汉病毒所！胡锡泄露特权机密？美众院批准反垄断报告 打击科技巨头；英反腐开铡 在世前首相都将被审查【希望之声TV】-12AM</a></li>
 <li><a href="/cnnews/20210419/1529332.md">台海恐爆发战争？澳洲已经做最坏准备</a></li>
 <li><a href="/yule/20210419/1529529.md">江南第一美女守寡10年不婚 53岁比19岁女儿还美</a></li>
 <li><a href="/cnnews/20210419/1529488.md">俄罗斯16岁花滑少女完成惊人旋转跳 观众：被仙女美哭</a></li>
 <li><a href="/cnnews/20210419/1529241.md">灭活疫苗存在2个风险？中国疫苗3大问题解析</a></li>
-<li><a href="/health/20210419/1529325.md">这4个信号是肝脏在报警 拖成肝癌就晚了</a></li>
+<li><a href="/finance/20210420/1529635.md">马云遭劫内幕：豪华饭局惹妒 风头盖刘鹤</a></li>
 <li><a href="/comments/20210420/1529582.md">上海前市长杨雄猝死与“死亡机器”马云有关 杨雄被中纪委送进医院后死亡 上海帮又一次政变失败 江绵恒要出大事 中南海谣言预言_454</a></li>
+<li><a href="/health/20210419/1529325.md">这4个信号是肝脏在报警 拖成肝癌就晚了</a></li>
 <li><a href="/bannedvideo/20210419/1529294.md">4月19日上午，特斯拉上海车展，一女车主身穿“特斯拉刹车失灵”的T恤爬到车顶维权。不少网友质疑是事先安排的，如果是国产车展，那个女士早被警察和保安拿下了，怎么可能爬到车顶上去。</a></li>
 <li><a href="/cbnews/20210419/1529208.md">中共二十大前 “湖北F4”接任者料借疫升迁</a></li>
 <li><a href="/topimagenews/20210420/1529557.md">房市泡沫？现买家已忧心忡忡：加码抢房又退出的人不少</a></li>
-<li><a href="/cbnews/20210419/1529340.md">美国气候特使访中 遭遇冷待遇：搭面包车</a></li>
+<li><a href="/comments/20210420/1529605.md">江西省公安厅常务副厅长叶国兵落马 抄家搜到逾两亿元现金、黄金6公斤及AK47冲锋枪 中南海不可告人的秘密_357</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210420/1529829.md" target="_blank">对抗中共施压 台湾向美购远程巡航导弹</a></li>
 <li><a href="/comments/20210420/1529828.md" target="_blank">川普儿媳参选无人敌？60万韩国人抵制中国城；NASA壮举！火星直升机首飞成功；纽森赞拜登让无家可归者住酒店；是“卖国贼”? 破解北斗卫星美女成热搜；欧盟通过新战略！增在印太合作【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210420/1529812.md" target="_blank">西方国家携手 中共气得跳脚</a></li>
 <li><a href="/cbnews/20210420/1529811.md" target="_blank">让拜登难堪？习近平还在研究是否出席峰会</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210419/1529437.md" target="_blank">美全美蓝领职位需求暴增 找不到人手 ；上千法轮功学员纽约游行引关注；国产疫苗无法对抗病毒 中国拟对德国疫苗开绿灯；哈里返英参加葬礼受冷遇8AM【希望之声TV】</a></li>
 <li><a href="/comments/20210419/1529413.md" target="_blank">亚利桑那州法医式审计即将开始，有些人将睡不着觉了！弗林将军提醒有人要搞破坏。亚利桑那州参议院主席宣布，人工计票时间确定。鲍威尔律师呼吁大家捐款。</a></li>
 <li><a href="/cbnews/20210419/1529411.md" target="_blank">震慑中共，美军核王牌重返太平洋重地；习近平对江系大动作刚开始；赵立坚遭日本副相回呛</a></li>
-<li><a href="/cbnews/20210419/1529392.md" target="_blank">除美军舰队 传日本护卫舰也“护航”辽宁号</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210420/1529850.md" target="_blank">4月17日 川普总统在南白宫马拉阿哥庄园举办了一场“林肯日鸡尾酒筹款晚宴” 当川普现身 全场大约500位来宾起立鼓掌、尖叫 包括佛州州长德桑蒂斯、国务卿蓬佩奥、川普商务部长罗斯等共和党重量级人物</a></li>
+<li><a href="/comments/20210420/1529849.md" target="_blank">美政府对全球80％国家颁“禁止旅行”指南</a></li>
+<li><a href="/comments/20210420/1529848.md" target="_blank">日美声明列入台湾 安倍：对印太和平稳定意义重大</a></li>
+<li><a href="/comments/20210420/1529847.md" target="_blank">如果不演戏 宋慧乔透露想做这件事情</a></li>
+<li><a href="/comments/20210420/1529844.md" target="_blank">枕头哥新社媒开放第一天，195国3000万用户同上线。苹果谷歌想封杀也没招！│#熊猫侠</a></li>
+<li><a href="/comments/20210420/1529834.md" target="_blank">李民富：两岸和平不能以中共的意志为基础</a></li>
+<li><a href="/comments/20210420/1529833.md" target="_blank">【微博精粹】都知道不靠谱 哪知道这么不靠谱</a></li>
 <li><a href="/comments/20210420/1529828.md" target="_blank">川普儿媳参选无人敌？60万韩国人抵制中国城；NASA壮举！火星直升机首飞成功；纽森赞拜登让无家可归者住酒店；是“卖国贼”? 破解北斗卫星美女成热搜；欧盟通过新战略！增在印太合作【希望之声TV】10pm</a></li>
 <li><a href="/comments/20210420/1529820.md" target="_blank">洪博学：国共两党不演了</a></li>
 <li><a href="/comments/20210420/1529786.md" target="_blank">乾隆游园题三个字 一状元讨去一个字后流传至今</a></li>
@@ -116,13 +123,6 @@
 <li><a href="/comments/20210420/1529696.md" target="_blank">纽约集会: 更多人心觉醒 就是暴政终结之时</a></li>
 <li><a href="/comments/20210420/1529695.md" target="_blank">轮回的那道门，你为自己选择了那一道？</a></li>
 <li><a href="/comments/20210420/1529676.md" target="_blank">欧盟宣布制裁缅甸军企 称俄在俄乌边境增兵至15万</a></li>
-<li><a href="/comments/20210420/1529651.md" target="_blank">携程赴香港联交所二次上市</a></li>
-<li><a href="/comments/20210420/1529650.md" target="_blank">欧盟推印太合作战略 印媒：欧美联手对抗中共</a></li>
-<li><a href="/comments/20210420/1529632.md" target="_blank">港人接种科兴疫苗又1死已15死！无长期病史5旬男昏迷不治</a></li>
-<li><a href="/comments/20210420/1529624.md" target="_blank">中国每年数十亿条个人信息泄露 被标价出售</a></li>
-<li><a href="/comments/20210420/1529623.md" target="_blank">美韩研究：异常天灾预示人祸即将爆发</a></li>
-<li><a href="/comments/20210420/1529619.md" target="_blank">【中国时局】 防民之口 人人自危 主持人：梓枫</a></li>
-<li><a href="/comments/20210420/1529605.md" target="_blank">江西省公安厅常务副厅长叶国兵落马 抄家搜到逾两亿元现金、黄金6公斤及AK47冲锋枪 中南海不可告人的秘密_357</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
