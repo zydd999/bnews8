@@ -11,7 +11,6 @@
 <li><a href="/health/20210420/1529679.md">糖尿病的元凶找到了，碳酸饮料排在第二位，排在首位的你每天在吃</a></li>
 <li><a href="/cbnews/20210419/1529411.md">震慑中共，美军核王牌重返太平洋重地；习近平对江系大动作刚开始；赵立坚遭日本副相回呛</a></li>
 <li><a href="/finance/20210420/1529635.md">马云遭劫内幕：豪华饭局惹妒 风头盖刘鹤</a></li>
-<li><a href="/cnnews/20210419/1529344.md">日月潭干到见底 惊现古墓碑</a></li>
 <li><a href="/comments/20210420/1529582.md">上海前市长杨雄猝死与“死亡机器”马云有关 杨雄被中纪委送进医院后死亡 上海帮又一次政变失败 江绵恒要出大事 中南海谣言预言_454</a></li>
 <li><a href="/cbnews/20210420/1529862.md">习近平访清华心花怒放 学生被安排齐喊“学长好” 网友调侃</a></li>
 <li><a href="/bannedvideo/20210420/1529704.md">温家宝文章被封杀习近平要拿他开刀?还是温家宝为家人开脱?（启明笑谈20210419）</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/headline/20210420/1529659.md">温家宝撰文呼吁正义 他是在作秀吗？</a></li>
 <li><a href="/comments/20210420/1529605.md">江西省公安厅常务副厅长叶国兵落马 抄家搜到逾两亿元现金、黄金6公斤及AK47冲锋枪 中南海不可告人的秘密_357</a></li>
 <li><a href="/headline/20210419/1529495.md">习近平视察清华大学 学生高呼：“主席好，学长好”</a></li>
-<li><a href="/cbnews/20210419/1529340.md">美国气候特使访中 遭遇冷待遇：搭面包车</a></li>
 <li><a href="/ssgc/20210420/1529565.md">〖兲朝浮世绘〗马云被净身出户？</a></li>
-<li><a href="/cnnews/20210419/1529453.md">“自己父母自己养 不推政府不推党” 党和政府是干啥的</a></li>
 <li><a href="/yule/20210420/1529780.md">周润发为何终身不和成龙合作 刘德华曝背后真相</a></li>
+<li><a href="/cnnews/20210419/1529453.md">“自己父母自己养 不推政府不推党” 党和政府是干啥的</a></li>
 <li><a href="/lifebaike/20210420/1529685.md">贪吃正在害死你！一个震惊世界的医学新发现</a></li>
+<li><a href="/cbnews/20210420/1529810.md">天亮时分：182.28亿一顿饭，马云和温家宝被封杀的理由一样；温家宝或许后悔对习近平的支持（政论天下第405集 20210419）</a></li>
+<li><a href="/cbnews/20210419/1529496.md">公司CEO曝光网红女友65页“出轨”记录 反被拘留</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210420/1530000.md" target="_blank">美众院谴责中共侵害香港民主 吁释放被捕人士</a></li>
+<li><a href="/cbnews/20210420/1529999.md" target="_blank">美前情报总监谈中共为何是最大威胁</a></li>
 <li><a href="/cbnews/20210420/1529944.md" target="_blank">日本宇宙机构遭网攻 警曝中共61419部队阴谋</a></li>
 <li><a href="/cbnews/20210420/1529943.md" target="_blank">王岐山现身博鳌论坛 自称为习近平报幕</a></li>
 <li><a href="/cbnews/20210420/1529929.md" target="_blank">世界围中？法国战斗群南海会师澳军 下月赴日</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210420/1529626.md" target="_blank">上海车展特斯拉遭女子大闹展台 大叫“刹车失灵”</a></li>
 <li><a href="/comments/20210420/1529619.md" target="_blank">【中国时局】 防民之口 人人自危 主持人：梓枫</a></li>
 <li><a href="/cbnews/20210420/1529617.md" target="_blank">美中对峙 罗斯福号与辽宁舰近距400公里</a></li>
-<li><a href="/cbnews/20210420/1529609.md" target="_blank">7旬山西退休警举报领导 遭控诽谤等罪判囚12年</a></li>
-<li><a href="/cbnews/20210420/1529608.md" target="_blank">央视记者被翻出说“台湾是一个岛国”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210420/1530012.md" target="_blank">王岐山上次说念完稿就算 这回自称替习近平报幕</a></li>
+<li><a href="/comments/20210420/1530011.md" target="_blank">各国盼疫苗接种抑制疫情 全球单周染疫人数却创新高</a></li>
 <li><a href="/comments/20210420/1529987.md" target="_blank">李燕铭：王岐山现身博鳌论坛“报幕” 为习近平二十大连任造势 泄露王岐山真实权力地位及与习近平真实关系</a></li>
 <li><a href="/comments/20210420/1529970.md" target="_blank">【组图+视频】22年的坚持：曼哈顿烛光令人感动落泪</a></li>
 <li><a href="/comments/20210420/1529946.md" target="_blank">中国年轻群体为何重现“毛选热”？并非全由中共官方推动 — 曾节明</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210420/1529858.md" target="_blank">一月四起！埃及火车又出轨 11人死亡近百人受伤</a></li>
 <li><a href="/comments/20210420/1529856.md" target="_blank">美国著名西点军校爆最大舞弊案 开除8人51人留级</a></li>
 <li><a href="/comments/20210420/1529850.md" target="_blank">4月17日 川普总统在南白宫马拉阿哥庄园举办了一场“林肯日鸡尾酒筹款晚宴” 当川普现身 全场大约500位来宾起立鼓掌、尖叫 包括佛州州长德桑蒂斯、国务卿蓬佩奥、川普商务部长罗斯等共和党重量级人物</a></li>
-<li><a href="/comments/20210420/1529849.md" target="_blank">美政府对全球80％国家颁“禁止旅行”指南</a></li>
-<li><a href="/comments/20210420/1529848.md" target="_blank">日美声明列入台湾 安倍：对印太和平稳定意义重大</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
