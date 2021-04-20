@@ -8,13 +8,11 @@
 <li><a href="/cnnews/20210420/1530096.md">中南海内斗习近平挨批；习近平视察，清华英名毁了；曝马云遭劫内幕，相关企业被查</a></li>
 <li><a href="/cbnews/20210420/1529862.md">习近平访清华心花怒放 学生被安排齐喊“学长好” 网友调侃</a></li>
 <li><a href="/bannedvideo/20210420/1530086.md">文睿：王岐山这是要造反吗？这是摆明了要让习近平下不了台啊</a></li>
-<li><a href="/yule/20210420/1529723.md">姚安娜八亿元高调出道，成为一场全民笑话</a></li>
 <li><a href="/cbnews/20210420/1529911.md">习近平访清华：学生被分三六九等 仍用2个茶杯</a></li>
 <li><a href="/topimagenews/20210420/1529920.md">大白话！证监会副主席：外资如果造成股市大幅波动，可以暂停它交易！图</a></li>
-<li><a href="/topimagenews/20210420/1529710.md">蓬佩奥违纪调查出炉引哗然 美备战空对空飞弹破纪​​录 鲁迅伙食令专家震惊</a></li>
 <li><a href="/topimagenews/20210420/1529958.md">甩中共几条街？实时追踪敌人目标 洛克希德公司推出新型军事卫星</a></li>
-<li><a href="/bannedvideo/20210420/1530098.md">看马云死得好惨，马化腾狂砸500亿想求条活路，这一切都是因为三个字。腾讯“可持续社会价值创新”的背后，是穿龙袍的李自成，和二世而亡的大秦帝国（坐澳观天第319期 20210420）</a></li>
 <li><a href="/cbnews/20210420/1529943.md">王岐山现身博鳌论坛 自称为习近平报幕</a></li>
+<li><a href="/bannedvideo/20210420/1530098.md">看马云死得好惨，马化腾狂砸500亿想求条活路，这一切都是因为三个字。腾讯“可持续社会价值创新”的背后，是穿龙袍的李自成，和二世而亡的大秦帝国（坐澳观天第319期 20210420）</a></li>
 <li><a href="/cbnews/20210420/1530066.md">中国人：我们过不了富人生活 连看下都不行吗？组图/视频</a></li>
 <li><a href="/yule/20210420/1529780.md">周润发为何终身不和成龙合作 刘德华曝背后真相</a></li>
 <li><a href="/cbnews/20210420/1529810.md">天亮时分：182.28亿一顿饭，马云和温家宝被封杀的理由一样；温家宝或许后悔对习近平的支持（政论天下第405集 20210419）</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/worldnews/usa/20210420/1529764.md">15岁身高两米，川普小儿子长成他的翻版，通身豪门贵公子范儿</a></li>
 <li><a href="/cnnews/20210420/1530215.md">中共不断限制教学 英办国际学校宣布撤离</a></li>
 <li><a href="/headline/20210420/1530250.md">温家宝祭母文章遭和谐 只因提到4个字</a></li>
+<li><a href="/ssgc/20210421/1530277.md">〖兲朝浮世绘〗我们如今已经没有笑话金三胖的资格了</a></li>
 <li><a href="/funmedia/20210420/1529891.md">男子被蛇“追杀”5年，被咬死后蛇群在他坟上安家</a></li>
 <li><a href="/ssgc/20210420/1529771.md">〖微博谈〗你还嫌弃我们求救的声音太大</a></li>
 <li><a href="/health/20210420/1530016.md">睡前拉伸10分钟，等于跑步1小时！经络疏通了，人也瘦了</a></li>
+<li><a href="/lifebaike/20210420/1530017.md">美国CIA预测世界各国生育率 倒数第一竟不是日本</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210421/1530433.md" target="_blank">争议中的定罪  主持：高洁  嘉宾：林晓旭、厐钟【希望之声TV】(2021/04/20)</a></li>
 <li><a href="/comments/20210421/1530412.md" target="_blank">川普：认真考虑2024年总统竞选,FDA停止强生为辉瑞输送利益&#8217;12万大军压境！乌俄大战一触即发;美吁全球八成国家不宜前往;反送中纪录片入围奥斯卡;李克强在中欧中心放软话6:00PM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210421/1530310.md" target="_blank">中国22岁女生接种国产疫苗后病危 消息被全网封杀</a></li>
 <li><a href="/cbnews/20210421/1530309.md" target="_blank">都怪绿化太多…西湖豪宅火灾 消防车竟然进不来</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210420/1529896.md" target="_blank">小扎没实权？脸书“纪检委”将最终裁决川普账号；辽宁舰“裸奔”高清泄密图曝光；美国将军售台湾大杀器；加国修法CCTV恐停播；央行高官放话监管风暴将至；北京清除洋书学生只读习思想【希望之声TV】-12am</a></li>
 <li><a href="/cbnews/20210420/1529889.md" target="_blank">努内斯批拜登外交政策软弱 警中共瞄准美元贬值</a></li>
 <li><a href="/cbnews/20210420/1529862.md" target="_blank">习近平访清华心花怒放 学生被安排齐喊“学长好” 网友调侃</a></li>
-<li><a href="/cbnews/20210420/1529829.md" target="_blank">对抗中共施压 台湾向美购远程巡航导弹</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210421/1530433.md" target="_blank">争议中的定罪  主持：高洁  嘉宾：林晓旭、厐钟【希望之声TV】(2021/04/20)</a></li>
 <li><a href="/comments/20210421/1530412.md" target="_blank">川普：认真考虑2024年总统竞选,FDA停止强生为辉瑞输送利益&#8217;12万大军压境！乌俄大战一触即发;美吁全球八成国家不宜前往;反送中纪录片入围奥斯卡;李克强在中欧中心放软话6:00PM【希望之声TV】</a></li>
 <li><a href="/comments/20210421/1530407.md" target="_blank">关于“中国革命党缅北武装反抗中共暴政政治基地”的公告（二零二一第三号）</a></li>
 <li><a href="/comments/20210421/1530396.md" target="_blank">报告：美国债高达123万亿 每人需负担80万美元</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210421/1530291.md" target="_blank">事闹大了！ 女子大闹上海车展 跳特斯拉车顶高喊“刹车失灵” 党媒 、胡锡进也参战</a></li>
 <li><a href="/comments/20210421/1530290.md" target="_blank">恐秋后算账 港父子赴美寻庇护 忆理大保卫战出逃过程</a></li>
 <li><a href="/comments/20210421/1530288.md" target="_blank">美研究：口罩不阻病毒 反致健康恶化和早亡</a></li>
-<li><a href="/comments/20210421/1530276.md" target="_blank">川普提醒拜登：专注对付中共 别把普京逼到对立面</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
