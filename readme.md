@@ -10,24 +10,24 @@
 <li><a href="/bannedvideo/20210420/1530098.md">看马云死得好惨，马化腾狂砸500亿想求条活路，这一切都是因为三个字。腾讯“可持续社会价值创新”的背后，是穿龙袍的李自成，和二世而亡的大秦帝国（坐澳观天第319期 20210420）</a></li>
 <li><a href="/cbnews/20210421/1530310.md">中国22岁女生接种国产疫苗后病危 消息被全网封杀</a></li>
 <li><a href="/ssgc/20210421/1530277.md">〖兲朝浮世绘〗我们如今已经没有笑话金三胖的资格了</a></li>
-<li><a href="/cbnews/20210420/1530066.md">中国人：我们过不了富人生活 连看下都不行吗？组图/视频</a></li>
 <li><a href="/cnnews/20210421/1530334.md">加拿大或将启动战时状态，特鲁多发表紧急讲话</a></li>
 <li><a href="/cnnews/20210421/1530405.md">毛泽东延安欲封三宫六院 让丁玲开名单</a></li>
-<li><a href="/bannedvideo/20210421/1530425.md">【热点】习近平搞砸了，酿中共“最大悲剧”；中共党员攻击日航还被抓到；台海开战，日自卫队分3个层级行动；中英新冷战，呼之欲出；美社会主义化，失业比上班赚得多，没人想工作引热议 CT</a></li>
 <li><a href="/cbnews/20210421/1530629.md">上海富豪周正毅出狱大办寿宴 6官媒主持出席闹大</a></li>
+<li><a href="/bannedvideo/20210421/1530425.md">【热点】习近平搞砸了，酿中共“最大悲剧”；中共党员攻击日航还被抓到；台海开战，日自卫队分3个层级行动；中英新冷战，呼之欲出；美社会主义化，失业比上班赚得多，没人想工作引热议 CT</a></li>
 <li><a href="/cnnews/20210420/1530095.md">斯坦福大学：口罩不能有效阻止中共病毒 反能导致健康恶化和早亡【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210421/1530451.md">周润发不与成龙合作 刘德华5字道真相</a></li>
 <li><a href="/lifebaike/20210421/1530475.md">高中女孩被集体性侵，一车人围观：背后真相，更毛骨悚然</a></li>
 <li><a href="/lifebaike/20210421/1530497.md">哈佛报：50岁后想长寿，重点不是运动也非睡觉，而是坚持“此事”</a></li>
 <li><a href="/headline/20210420/1530250.md">温家宝祭母文章遭和谐 只因提到4个字</a></li>
-<li><a href="/funmedia/20210421/1530380.md">人到四十要懂得：身边发生这二件“怪事”，要谨慎了</a></li>
-<li><a href="/topimagenews/20210421/1530308.md">危机四伏！大陆经济增长走旧路 忧美收水招“溢出效应”</a></li>
-<li><a href="/cnnews/20210420/1530215.md">中共不断限制教学 英办国际学校宣布撤离</a></li>
 <li><a href="/funmedia/20210421/1530449.md">喜欢把“谢谢”挂嘴边的，往往就3种人，不信来看看</a></li>
-<li><a href="/comments/20210421/1530304.md">自3月底以来 美国三角洲特种部队一直在保护川普总统和他的马拉戈指挥中心   3月10日川普得知被指派保护他的特勤局特工与拜登政府成员勾结 泄露了他和他的忠实议员们计划使2020年选举无效的细节 但是.</a></li>
+<li><a href="/topimagenews/20210421/1530308.md">危机四伏！大陆经济增长走旧路 忧美收水招“溢出效应”</a></li>
 <li><a href="/topimagenews/20210421/1530628.md">习近平罕见谈两大担忧 竟全篇都在打脸自己 证监会副主席一句话网哗然</a></li>
+<li><a href="/funmedia/20210421/1530380.md">人到四十要懂得：身边发生这二件“怪事”，要谨慎了</a></li>
+<li><a href="/cnnews/20210420/1530215.md">中共不断限制教学 英办国际学校宣布撤离</a></li>
+<li><a href="/comments/20210421/1530304.md">自3月底以来 美国三角洲特种部队一直在保护川普总统和他的马拉戈指挥中心   3月10日川普得知被指派保护他的特勤局特工与拜登政府成员勾结 泄露了他和他的忠实议员们计划使2020年选举无效的细节 但是.</a></li>
 <li><a href="/bannedvideo/20210421/1530397.md">博鳌论坛，王岐山战战兢兢给习“报幕”，被嘲林副统帅；习近平坟头蹦迪，高调“共襄全球治理盛举”，向美国等索要“协商”权【秦鹏观察 4/20】</a></li>
 <li><a href="/lifebaike/20210421/1530402.md">他为何“扇了毛泽东三个耳光”？</a></li>
+<li><a href="/bannedvideo/20210421/1530410.md">《石涛聚焦》“爆炸！新确诊者中60%接踵了疫苗”耶鲁博士医生里施揭露福奇-WHO 左派政府：某种政治或金钱阴谋：故意隐藏群体免疫的自然法则（20/04）</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210421/1530667.md" target="_blank">短视频：民谣歌星的金色国度</a></li>
 <li><a href="/comments/20210421/1530772.md" target="_blank">植物认识人！开心、恐惧、读心术、思维活动超越人类？美国CIA测谎专家，细胞实验惊动全球</a></li>
 <li><a href="/comments/20210421/1530728.md" target="_blank">山东威海港大型豪华邮轮发生爆炸</a></li>
 <li><a href="/comments/20210421/1530697.md" target="_blank">不惧威胁 立陶宛将推议案认定中共在新疆实施种族灭绝</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210421/1530533.md" target="_blank">推特遇克星 ！《真相工程》开打法律战；乔州第二？又一红州州通过选举诚信法；川普发声明！促拜登恢复旅行禁令；谁之过？网络炫富视频恐激民怨；小战狼视频引热议 “杀气腾腾”为哪般？【希望之声TV】10pm</a></li>
 <li><a href="/comments/20210421/1530532.md" target="_blank">司徒剑：习飙敏感词羞辱温家宝 李克强又唱白脸</a></li>
 <li><a href="/comments/20210421/1530474.md" target="_blank">【欺世大观 经典回味】3 董存瑞炸碉堡另有故事</a></li>
-<li><a href="/comments/20210421/1530462.md" target="_blank">陶杰：由后藤新平到后新冠世代 借鉴了马戏团</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
