@@ -11,14 +11,14 @@
 <li><a href="/cbnews/20210420/1529943.md">王岐山现身博鳌论坛 自称为习近平报幕</a></li>
 <li><a href="/topimagenews/20210420/1529958.md">甩中共几条街？实时追踪敌人目标 洛克希德公司推出新型军事卫星</a></li>
 <li><a href="/cbnews/20210421/1530310.md">中国22岁女生接种国产疫苗后病危 消息被全网封杀</a></li>
-<li><a href="/cbnews/20210420/1530066.md">中国人：我们过不了富人生活 连看下都不行吗？组图/视频</a></li>
 <li><a href="/cnnews/20210421/1530405.md">毛泽东延安欲封三宫六院 让丁玲开名单</a></li>
+<li><a href="/cbnews/20210420/1530066.md">中国人：我们过不了富人生活 连看下都不行吗？组图/视频</a></li>
 <li><a href="/ssgc/20210421/1530277.md">〖兲朝浮世绘〗我们如今已经没有笑话金三胖的资格了</a></li>
 <li><a href="/cnnews/20210421/1530334.md">加拿大或将启动战时状态，特鲁多发表紧急讲话</a></li>
 <li><a href="/bannedvideo/20210421/1530425.md">【热点】习近平搞砸了，酿中共“最大悲剧”；中共党员攻击日航还被抓到；台海开战，日自卫队分3个层级行动；中英新冷战，呼之欲出；美社会主义化，失业比上班赚得多，没人想工作引热议 CT</a></li>
 <li><a href="/comments/20210420/1530012.md">王岐山上次说念完稿就算 这回自称替习近平报幕</a></li>
-<li><a href="/headline/20210420/1530250.md">温家宝祭母文章遭和谐 只因提到4个字</a></li>
 <li><a href="/cnnews/20210420/1530095.md">斯坦福大学：口罩不能有效阻止中共病毒 反能导致健康恶化和早亡【阿波罗网编译】</a></li>
+<li><a href="/headline/20210420/1530250.md">温家宝祭母文章遭和谐 只因提到4个字</a></li>
 <li><a href="/cnnews/20210421/1530451.md">周润发不与成龙合作 刘德华5字道真相</a></li>
 <li><a href="/lifebaike/20210420/1530002.md">“夕阳无限好，只是近黄昏”改一个什么字？让意境与原句截然不同？</a></li>
 <li><a href="/topimagenews/20210421/1530308.md">危机四伏！大陆经济增长走旧路 忧美收水招“溢出效应”</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/funmedia/20210421/1530380.md">人到四十要懂得：身边发生这二件“怪事”，要谨慎了</a></li>
 <li><a href="/health/20210420/1530016.md">睡前拉伸10分钟，等于跑步1小时！经络疏通了，人也瘦了</a></li>
 <li><a href="/comments/20210421/1530304.md">自3月底以来 美国三角洲特种部队一直在保护川普总统和他的马拉戈指挥中心   3月10日川普得知被指派保护他的特勤局特工与拜登政府成员勾结 泄露了他和他的忠实议员们计划使2020年选举无效的细节 但是.</a></li>
+<li><a href="/funmedia/20210421/1530449.md">喜欢把“谢谢”挂嘴边的，往往就3种人，不信来看看</a></li>
 <li><a href="/bannedvideo/20210421/1530397.md">博鳌论坛，王岐山战战兢兢给习“报幕”，被嘲林副统帅；习近平坟头蹦迪，高调“共襄全球治理盛举”，向美国等索要“协商”权【秦鹏观察 4/20】</a></li>
-<li><a href="/comments/20210420/1529955.md">李燕铭：太子党陈元大管家被查 多名旧部落马 习近平八年后再度重磅出手 为二十大连任清障 陈元“捧江祭薄”被踢出国开行 王岐山中纪委巡视组下令拆除国开行门前最高权力象征“九龙牌坊” 陈元老巢国开行被习近平重点清洗</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210421/1530413.md" target="_blank">Performance Highlights with Angelia Wang</a></li>
+<li><a href="/comments/20210421/1530641.md" target="_blank">除了拿铁 这几款特色咖啡你喝过吗？</a></li>
+<li><a href="/comments/20210421/1530640.md" target="_blank">喝茶真的能防癌吗？</a></li>
+<li><a href="/comments/20210421/1530639.md" target="_blank">打呼就是睡眠呼吸中止症吗？</a></li>
+<li><a href="/comments/20210421/1530638.md" target="_blank">一天刷牙 3 次可降低 12% 心脏病风险</a></li>
 <li><a href="/comments/20210421/1530621.md" target="_blank">涉上海帮帮主 周正毅出狱后大摆寿宴 知名女主播道贺惊动官方</a></li>
 <li><a href="/comments/20210421/1530612.md" target="_blank">Parler自我阉割！新老板涉沼泽大鳄？CNN主播咒白人孩子被杀引争议！习倒查政法系20年！死磕江泽民？新西兰被批 “背信弃义”！因为他？民调：绝大多数选民不满国会【希望之声TV】-12am</a></li>
 <li><a href="/comments/20210421/1530600.md" target="_blank">俄近12万大军压境 乌外长呼吁欧盟实施新制裁</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210421/1530460.md" target="_blank">王安娜：马云们的各种结局</a></li>
 <li><a href="/comments/20210421/1530455.md" target="_blank">窃美医院商业机密 华裔研究员被判刑33个月</a></li>
 <li><a href="/comments/20210421/1530454.md" target="_blank">“男版默克尔”出线 带领保守派联盟进军9月大选</a></li>
-<li><a href="/comments/20210421/1530450.md" target="_blank">王昊轩：别怪知识分子不发声</a></li>
-<li><a href="/comments/20210421/1530438.md" target="_blank">俄罗斯最新军演规模空前 加剧外界担忧</a></li>
-<li><a href="/comments/20210421/1530433.md" target="_blank">争议中的定罪  主持：高洁  嘉宾：林晓旭、厐钟【希望之声TV】(2021/04/20)</a></li>
-<li><a href="/comments/20210421/1530412.md" target="_blank">川普：认真考虑2024年总统竞选,FDA停止强生为辉瑞输送利益&#8217;12万大军压境！乌俄大战一触即发;美吁全球八成国家不宜前往;反送中纪录片入围奥斯卡;李克强在中欧中心放软话6:00PM【希望之声TV】</a></li>
-<li><a href="/comments/20210421/1530407.md" target="_blank">关于“中国革命党缅北武装反抗中共暴政政治基地”的公告（二零二一第三号）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
