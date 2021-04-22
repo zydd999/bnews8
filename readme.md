@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210422/1531040.md">习近平搞砸了 酿中共“最大悲剧” 中英新冷战，呼之欲出 中共攻击日本宇航被抓到</a></li>
-<li><a href="/topimagenews/20210422/1531149.md">习近平找到美国新祭品 上海帮视频和封杀令热传 前上海市长猝死牵江绵恒新大本营</a></li>
 <li><a href="/headline/20210422/1531570.md">东航卷入性贿赂丑闻 高管涉指派党员空姐诱惑高官</a></li>
+<li><a href="/topimagenews/20210422/1531149.md">习近平找到美国新祭品 上海帮视频和封杀令热传 前上海市长猝死牵江绵恒新大本营</a></li>
 <li><a href="/finance/20210422/1531085.md">李克强在成都考察中欧中心放软话 网友：真的怕了</a></li>
 <li><a href="/cnnews/20210422/1531289.md">人大常委月底开会 某副国级或提前下台 是她？</a></li>
 <li><a href="/cbnews/20210422/1531317.md">王岐山“报幕”疑陷险境 专家：与习私下沟通断了</a></li>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210423/1531789.md" target="_blank">习近平狮子大张口高估美衰败？美日联手抗中共日民意支持 中共超限战，美欧政府国防被骇</a></li>
 <li><a href="/topimagenews/20210423/1531772.md" target="_blank">美国邮政署执法部门 被揭秘密监控社交网</a></li>
 <li><a href="/topimagenews/20210422/1531590.md" target="_blank">沈阳、无锡等八城市人口负增长 澳作废一带一路协议，回购中企采矿权</a></li>
 <li><a href="/topimagenews/20210422/1531480.md" target="_blank">直指中共海军软肋！专家：和苏联一样 没有这个&#8230;【阿波罗网编译】</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210418/1528546.md" target="_blank">美日峰会激起7国异动 拜登菅义伟破半世纪记录 习欧美齐下手 普京报复</a></li>
 <li><a href="/topimagenews/20210418/1528510.md" target="_blank">川普出手巨头服软 彭斯心脏出问题 民主党推投票法可致合法移民遭驱逐出境</a></li>
 <li><a href="/topimagenews/20210417/1528236.md" target="_blank">以色列：我们将不惜一切代价，绝对要阻止伊朗获得核武器！【阿波罗网编译】</a></li>
-<li><a href="/topimagenews/20210417/1528095.md" target="_blank">拜登一举定位美俄中共关系 “中国疫苗不能对抗病毒” 习近平搞砸了？被脱责</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210423/1531783.md" target="_blank">每天睡足7小时大脑才能清除废物</a></li>
+<li><a href="/comments/20210423/1531782.md" target="_blank">菠菜护眼、抗氧化、改善贫血 这几种人应多吃</a></li>
 <li><a href="/comments/20210423/1531771.md" target="_blank">法留尼旺火山喷发 2学生朝圣命丧火山口</a></li>
 <li><a href="/comments/20210423/1531760.md" target="_blank">参院硬气禁美国官方团赴北京冬奥；马云前鉴？马化腾花500亿买活路；印尼53人潜舰失联；BLM怨拜登:川普时期更好;俄罗斯限期美使馆10职员离境英国被鲨鱼入侵 原因是新冠?12PM【希望之声TV】</a></li>
 <li><a href="/comments/20210423/1531751.md" target="_blank">美军秀全球首款超音速隐形战机新技能 共媒回应</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210422/1531635.md" target="_blank">马云的退路在哪 庞大帝国吓坏中共</a></li>
 <li><a href="/comments/20210422/1531597.md" target="_blank">巴基斯坦中共大使下榻酒店爆炸4死12伤；拜登习近平不会在气候峰会双边会谈；美两党提千亿法案投资前沿技术；美讽中共山寨武器！华尔街投资人:比特币恐大跌50%；罕见！南极金色企鹅；8am【希望之声TV】</a></li>
 <li><a href="/comments/20210422/1531598.md" target="_blank">【独家】千让日记（2）：何以安居</a></li>
-<li><a href="/comments/20210422/1531592.md" target="_blank">达勒姆通俄门反调查取得了重大进展。调查方向改变，关键证人档案被调取，左派智库付出水面。通俄门背后的案情，胜过谍战片，令人神共愤。真相能否大白于天下？</a></li>
-<li><a href="/comments/20210422/1531585.md" target="_blank">冷月：诗魂</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 <li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
 
 </ul>
 </div>
