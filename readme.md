@@ -24,10 +24,10 @@
 <li><a href="/cnnews/20210421/1530770.md">美国又一万亿经济刺激出炉 通胀和美元危机将至</a></li>
 <li><a href="/cnnews/20210422/1531047.md">CNN主播库默发表惊人言论：当白人的孩子开始被杀的时候...</a></li>
 <li><a href="/finance/20210421/1530912.md">中国破产潮的恶性循环已开始</a></li>
-<li><a href="/comments/20210421/1530532.md">司徒剑：习飙敏感词羞辱温家宝 李克强又唱白脸</a></li>
+<li><a href="/finance/20210422/1531085.md">李克强在成都考察中欧中心放软话 网友：真的怕了</a></li>
 <li><a href="/cbnews/20210421/1530580.md">中国人口普查结果无限期推迟发布 专家忧人口减少</a></li>
+<li><a href="/ssgc/20210422/1531081.md">〖兲朝浮世绘〗中国的燕子都飞到比利时了</a></li>
 <li><a href="/headline/20210421/1530689.md">上海周正毅出狱办寿宴 要查入席者</a></li>
-<li><a href="/cnnews/20210421/1530546.md">通宵充电 会影响手机电池寿命吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210422/1531276.md" target="_blank">短距起降！美军首秀F-35B隐形战机新技能 陆媒惊呼：巨大威胁</a></li>
+<li><a href="/cbnews/20210422/1531275.md" target="_blank">毛突喊“我的庄爷爷” 北京翻炒乒乓外交 小球再难推转大球</a></li>
 <li><a href="/cbnews/20210422/1531234.md" target="_blank">天亮时分：中国新出生人口骤降15%，这几个大城市人口已经开始负增长；习近平的新党史，独裁者其实不好当（政论天下第407集 20210421）</a></li>
 <li><a href="/comments/20210422/1531204.md" target="_blank">闲谈美国独立史 (4) : 美国建国先父们的故事 (下)</a></li>
 <li><a href="/cbnews/20210422/1531196.md" target="_blank">美国际宗教自由报告：中共继续迫害法轮功</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210421/1530905.md" target="_blank">加国参院人权委员会通过打击器官贩运议案</a></li>
 <li><a href="/cbnews/20210421/1530888.md" target="_blank">广西骇人灭门案 村支书5名亲属全被害</a></li>
 <li><a href="/comments/20210421/1530852.md" target="_blank">特斯拉被闹场后 再遭官媒集体炮轰；金融时报：中共驱逐外国记者台湾受益；传习近平信赖近臣将任驻美大使；习近平博鳌讲话有野心无底气？内部职工揭黑幕：“太平保险是大骗子”；8am【希望之声TV】</a></li>
-<li><a href="/comments/20210421/1530817.md" target="_blank">川普总统一句难懂的话，透露对参加2024大选真实看法。川普民调再飙升，美国优先势不可挡。拜登与普金交恶，川普指拜登搞错了方向。</a></li>
-<li><a href="/cbnews/20210421/1530788.md" target="_blank">大陆部分大城市进入自然人口“负增长时代”</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210422/1531302.md" target="_blank">美亚裔保守组织加州集会 拒“将种族政治化”</a></li>
+<li><a href="/comments/20210422/1531286.md" target="_blank">石山：中共极左派眼中的“内奸”温家宝</a></li>
+<li><a href="/comments/20210422/1531285.md" target="_blank">陶杰：我爱Comfort Zone</a></li>
+<li><a href="/comments/20210422/1531272.md" target="_blank">美智库：二十大后 中共权力过渡4大可能</a></li>
 <li><a href="/comments/20210422/1531251.md" target="_blank">高度关注中台 美海军上将接任印太区司令职务</a></li>
 <li><a href="/comments/20210422/1531243.md" target="_blank">英国海域被曝面临鲨鱼大规模入侵 竟因新冠</a></li>
 <li><a href="/comments/20210422/1531242.md" target="_blank">打疫苗也没用 看这国&#8221;超级变种&#8221;病毒有多危险</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210422/1531117.md" target="_blank">中美航母对峙细节曝光 美军F-16罕见挂弹警示中共</a></li>
 <li><a href="/comments/20210422/1531111.md" target="_blank">澳洲新法开铡 外长废除维州“一带一路”协议</a></li>
 <li><a href="/comments/20210422/1531099.md" target="_blank">马云胖了！ 脸肿一圈 身后站着多名黑衣壮汉</a></li>
-<li><a href="/comments/20210422/1531098.md" target="_blank">花钱买活路？马化腾斥资500亿“创造社会价值”</a></li>
-<li><a href="/comments/20210422/1531097.md" target="_blank">古代囤积物显示：铁器时代的战士们将他们被打败的敌人的剑折弯</a></li>
-<li><a href="/comments/20210422/1531079.md" target="_blank">中国居民债务年增幅22% 远超美日德</a></li>
-<li><a href="/comments/20210422/1531065.md" target="_blank">“太平保险是大骗子！” 职工怒揭央企保险公司黑幕</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 
 </ul>
 </div>
