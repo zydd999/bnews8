@@ -8,25 +8,25 @@
 <li><a href="/cbnews/20210421/1530767.md">马云现身画面曝光 脸肿一圈 身后多名黑衣壮汉</a></li>
 <li><a href="/cbnews/20210421/1530629.md">上海富豪周正毅出狱大办寿宴 6官媒主持出席闹大</a></li>
 <li><a href="/topimagenews/20210421/1530628.md">习近平罕见谈两大担忧 竟全篇都在打脸自己 证监会副主席一句话网哗然</a></li>
-<li><a href="/topimagenews/20210421/1530786.md">新冷战开打 习近平再强推一带一路 中国个人银行卡债务超美 美国原来这么穷？</a></li>
 <li><a href="/finance/20210421/1530791.md">1.6万亿央企巨头爆雷：财政部甩锅不兜底</a></li>
+<li><a href="/topimagenews/20210421/1530786.md">新冷战开打 习近平再强推一带一路 中国个人银行卡债务超美 美国原来这么穷？</a></li>
 <li><a href="/topimagenews/20210421/1530649.md">区团委书记强奸海归企业家案二审落幕 网友嘲讽：好干部苗子嘛</a></li>
 <li><a href="/ssgc/20210421/1530870.md">由温家宝祭母长文引出的一个重要问题</a></li>
 <li><a href="/finance/20210421/1530717.md">华为“牛了”？新电动车开价38.89万人民币！网民吐嘈：谁给你的自信</a></li>
 <li><a href="/topimagenews/20210422/1531040.md">习近平搞砸了 酿中共“最大悲剧” 中英新冷战，呼之欲出 中共攻击日本宇航被抓到</a></li>
-<li><a href="/finance/20210422/1531085.md">李克强在成都考察中欧中心放软话 网友：真的怕了</a></li>
 <li><a href="/topimagenews/20210422/1531149.md">习近平找到美国新祭品 上海帮视频和封杀令热传 前上海市长猝死牵江绵恒新大本营</a></li>
+<li><a href="/finance/20210422/1531085.md">李克强在成都考察中欧中心放软话 网友：真的怕了</a></li>
 <li><a href="/bannedvideo/20210421/1530712.md">文睿：一身冷汗，美国又一记重锤来袭，中国经济要凉凉</a></li>
+<li><a href="/topimagenews/20210422/1531203.md">快讯！中共大使差点被炸死！巴基斯坦顶级饭店爆炸 至少4死 12伤</a></li>
 <li><a href="/health/20210421/1530840.md">癌症根本不用治 治好的都是误诊了？真相来了…</a></li>
 <li><a href="/cnnews/20210421/1530692.md">戴口罩7大严重副作用，研究成果去年就发布在 疾控中心的博客页面【阿波罗网编译】</a></li>
 <li><a href="/yule/20210421/1530917.md">84岁爷孙恋男主去世 上演现实版的人走茶凉</a></li>
 <li><a href="/ssgc/20210422/1531081.md">〖兲朝浮世绘〗中国的燕子都飞到比利时了</a></li>
-<li><a href="/topimagenews/20210422/1531203.md">快讯！中共大使差点被炸死！巴基斯坦顶级饭店爆炸 至少4死 12伤</a></li>
 <li><a href="/cnnews/20210421/1530877.md">特斯拉批上海车展闹场女背后有人 新华社威胁车企</a></li>
-<li><a href="/cnnews/20210421/1530770.md">美国又一万亿经济刺激出炉 通胀和美元危机将至</a></li>
-<li><a href="/cnnews/20210422/1531047.md">CNN主播库默发表惊人言论：当白人的孩子开始被杀的时候...</a></li>
-<li><a href="/finance/20210421/1530912.md">中国破产潮的恶性循环已开始</a></li>
 <li><a href="/lifebaike/20210422/1531152.md">人贩子道出真相：我们拐娃也要看人，这3种孩子，我们是不会下手的</a></li>
+<li><a href="/cnnews/20210422/1531047.md">CNN主播库默发表惊人言论：当白人的孩子开始被杀的时候...</a></li>
+<li><a href="/cnnews/20210421/1530770.md">美国又一万亿经济刺激出炉 通胀和美元危机将至</a></li>
+<li><a href="/finance/20210421/1530912.md">中国破产潮的恶性循环已开始</a></li>
 <li><a href="/headline/20210421/1530689.md">上海周正毅出狱办寿宴 要查入席者</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210422/1531386.md" target="_blank">【要闻精粹】一掌自曝了家门</a></li>
 <li><a href="/comments/20210422/1531383.md" target="_blank">王岐山报幕显不妙 蔡霞谈习王关系 温家宝被封杀与江泽民有关？</a></li>
 <li><a href="/comments/20210422/1531378.md" target="_blank">李燕铭：中共驻美大使崔天凯罕见以书信方式悼念猝死的上海前市长杨雄 亲笔信曝光 习近平紧急撤换驻美大使 派亲信秦刚接替崔天凯 崔天凯公开言论意外泄露江泽民上海帮操控中共外交与中美关系黑幕</a></li>
 <li><a href="/comments/20210422/1531376.md" target="_blank">川普家族秘密角色曝光！华裔大使夫人韩国撒泼惹众怒！中共大外宣碰壁！这国最大报纸道歉了；中共军方指示？中共党员入境日本参与网攻；美国众议院批准大麻银行法案 华人恐离美【希望之声TV】-12am</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210422/1531191.md" target="_blank">中共好战史上的三种侵略模式 美军警告背后的情势</a></li>
 <li><a href="/comments/20210422/1531190.md" target="_blank">穷人的世界很混沌 除非有篇博士论文</a></li>
 <li><a href="/comments/20210422/1531174.md" target="_blank">英对中国援助将削减95% 获跨党派议员支持</a></li>
-<li><a href="/comments/20210422/1531167.md" target="_blank">英国探险家前往缅甸的丛林，惊讶地看到漂浮在空中的僧人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
 
 </ul>
 </div>
