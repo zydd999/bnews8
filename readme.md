@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20210422/1531500.md">推背图与推碑图预言 中共亡于今年或明年 未来当权者在这里?（启明笑谈20210422）</a></li>
 <li><a href="/cbnews/20210423/1531817.md">东航爆性贿赂丑闻 党员空姐接指令诱惑高层</a></li>
 <li><a href="/topimagenews/20210422/1531590.md">沈阳、无锡等八城市人口负增长 澳作废一带一路协议，回购中企采矿权</a></li>
-<li><a href="/cnnews/20210422/1531646.md">立即停用！加拿大卫生部和Costco发出召回通知</a></li>
 <li><a href="/comments/20210422/1531383.md">王岐山报幕显不妙 蔡霞谈习王关系 温家宝被封杀与江泽民有关？</a></li>
+<li><a href="/cnnews/20210422/1531646.md">立即停用！加拿大卫生部和Costco发出召回通知</a></li>
 <li><a href="/cbnews/20210422/1531536.md">国开行三任总管被抓分析：习警告红二代</a></li>
 <li><a href="/bannedvideo/20210422/1531528.md">网友：4月21日，浙江温州铁路西站，军车浩浩荡荡、招摇过市，这是“军演 ”？</a></li>
 <li><a href="/topimagenews/20210422/1531480.md">直指中共海军软肋！专家：和苏联一样 没有这个...【阿波罗网编译】</a></li>
+<li><a href="/baitai/20210423/1531831.md">程凯：习近平要把邓小平从中共百年党史中抹去</a></li>
 <li><a href="/cbnews/20210422/1531633.md">中国货轮遭斯里兰卡驱逐 吓人❗船上装着这个</a></li>
-<li><a href="/cnnews/20210422/1531246.md">打完新冠疫苗还会被感染吗? 最新研究来了</a></li>
 <li><a href="/cbnews/20210422/1531315.md">习近平要搞垮中共 经济学家：一带一路被评通往阴间大道</a></li>
 <li><a href="/cnnews/20210422/1531406.md">好险！导弹距以色列核反应堆仅30公里 巨大爆炸声 全以色列几乎都能听见【阿波罗网编译】</a></li>
-<li><a href="/baitai/20210423/1531831.md">程凯：习近平要把邓小平从中共百年党史中抹去</a></li>
 <li><a href="/cbnews/20210422/1531504.md">美国会通过重大法案 七大领域对抗中共</a></li>
 <li><a href="/cnnews/20210422/1531694.md">美媒独家：共军在2019年11月就完全知晓了中共病毒【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210422/1531636.md">苹果新品追踪器小巧又方便：别小瞧！100亿美元市场</a></li>
 <li><a href="/topimagenews/20210423/1531789.md">习近平狮子大张口高估美衰败？美日联手抗中共日民意支持 中共超限战，美欧政府国防被骇</a></li>
+<li><a href="/cnnews/20210422/1531636.md">苹果新品追踪器小巧又方便：别小瞧！100亿美元市场</a></li>
 <li><a href="/bannedvideo/20210422/1531455.md">比特币的未来，数字人民币图谋惊人；习近平不惜代价控制香港，预判港币美元脱钩时间点--天钧政经&珍言真语</a></li>
 <li><a href="/cnnews/20210422/1531522.md">中国疾控中心坦承：中国疫苗效力约半年 有可能要每年补打</a></li>
+<li><a href="/health/20210422/1531342.md">枸杞和它是天生一对，坚持泡水喝，帮助排毒，给肝脏“洗个澡”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210423/1532047.md" target="_blank">【欺世大观​】64: 淫窟延安 八路性乱</a></li>
 <li><a href="/comments/20210423/1532014.md" target="_blank">陶杰：天下的筵席 苹果日报的结局</a></li>
 <li><a href="/comments/20210423/1532013.md" target="_blank">方圆：轻举重放：美日舞剑意在中共</a></li>
 <li><a href="/comments/20210423/1532012.md" target="_blank">生死五道梁 那对永远留在青藏路上的卡车司机夫妇 惨</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210423/1531880.md" target="_blank">日本维护台海安全稳定态度清晰化将彻底打破中共武统台湾的企图</a></li>
 <li><a href="/comments/20210423/1531870.md" target="_blank">亚利桑那州众议院4月20号通过了一项立法对该州邮寄投票程序进行修改 包括阻止选民自动接收选票  总统川普试图推翻该州2020年选举结果的几个月后该法案在众议院获得通过 州长签署后法案将成为法律</a></li>
 <li><a href="/comments/20210423/1531865.md" target="_blank">巴基斯坦豪华酒店爆炸 4死12伤 中共大使逃过一劫</a></li>
-<li><a href="/comments/20210423/1531852.md" target="_blank">这只雄鸡每天都罕见的和人一样高歌一曲直到气竭晕倒   据说很多动物是人转世  难道这是帕瓦罗蒂转世吗？ CCP统治下的鸡国气数已尽了吗？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200712/1359488.md" target="_blank">北游：美国会变成大号底特律吗？</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200713/1359796.md" target="_blank">曹长青：五月花号400年与独特美国</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
 
 </ul>
 </div>
