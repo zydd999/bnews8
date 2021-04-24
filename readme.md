@@ -15,19 +15,19 @@
 <li><a href="/health/20210423/1532346.md">“冻龄奶奶”74岁像30岁，与孙子合照惹误会</a></li>
 <li><a href="/comments/20210423/1532422.md">杨威：习近平在气候峰会上的尴尬</a></li>
 <li><a href="/cnnews/20210423/1532234.md">赵丽颖冯绍峰官宣离婚 瞬间冲微博热搜第一</a></li>
+<li><a href="/cbnews/20210424/1532630.md">文革回潮：大陆中小学开跳“忠字舞”</a></li>
 <li><a href="/cbnews/20210424/1532450.md">大陆企业家孙大午被正式逮捕 八项罪名料将遭重判</a></li>
 <li><a href="/yule/20210424/1532448.md">冯绍峰的“猎艳往事”，和他背后的8个女明星</a></li>
-<li><a href="/cbnews/20210424/1532630.md">文革回潮：大陆中小学开跳“忠字舞”</a></li>
 <li><a href="/cbnews/20210424/1532534.md">上海8人遇难厂房着火 疑为遭美国调查公司</a></li>
 <li><a href="/topimagenews/20210423/1532370.md">惊悚：纽约非裔女当街枪杀同性恋前非裔女友</a></li>
 <li><a href="/cnnews/20210424/1532526.md">特斯拉车辆事故30分踩刹车40次 网友：碰瓷</a></li>
 <li><a href="/yule/20210424/1532546.md">赵丽颖嫁冯绍峰有多不快乐？一张对比照秒懂</a></li>
 <li><a href="/comments/20210424/1532454.md">习近平遇凶险?陜西老家急保“龙脉”；拜习气候峰会首同台；SpaceX载宇航员往国际空间站；华裔化学家窃可口可乐机密;高智晟家族又一人被迫害离世12:00PM【希望之声TV】</a></li>
+<li><a href="/comments/20210424/1532649.md">特斯拉在中国被围攻：动了谁的奶酪？美国社会正发生一场以种族为名义的阶级斗争</a></li>
 <li><a href="/cbnews/20210423/1532256.md">湖南财政厅一女职员举报遭上司性侵</a></li>
 <li><a href="/ssgc/20210423/1532353.md">余茂春和博明两人 让中共真正胆寒</a></li>
-<li><a href="/cnnews/20210423/1532348.md">苹果发布会很精彩 市值却一夜蒸发1888亿元 这场发布会都展啥了</a></li>
-<li><a href="/lifebaike/20210423/1532216.md">不管衣服有多脏，洗衣服倒一碗，洗完跟新的一样干净，方法太棒了</a></li>
 <li><a href="/ssgc/20210424/1532533.md">〖兲朝浮世绘〗为人类操碎了心 可惜西方人不懂习总的“爱”</a></li>
+<li><a href="/lifebaike/20210423/1532216.md">不管衣服有多脏，洗衣服倒一碗，洗完跟新的一样干净，方法太棒了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210424/1532807.md" target="_blank">香港换届又怕变天？韩正南下见林郑</a></li>
 <li><a href="/cbnews/20210424/1532804.md" target="_blank">传中南海新华门黑衣人武功深不可测 网友：吓唬人</a></li>
 <li><a href="/cbnews/20210424/1532799.md" target="_blank">美军上将忆述两次会见房峰辉</a></li>
 <li><a href="/cbnews/20210424/1532798.md" target="_blank">中共外交部对美国抗共法案跳脚 红二代回击</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210424/1532450.md" target="_blank">大陆企业家孙大午被正式逮捕 八项罪名料将遭重判</a></li>
 <li><a href="/cbnews/20210423/1532419.md" target="_blank">记者暗访大陆外卖厨房：徒手抓熟食 蟑螂地上爬行</a></li>
 <li><a href="/comments/20210423/1532418.md" target="_blank">美两党共同行动推两法案斥中共种族灭绝；英议会宣布中共在新疆犯下种族灭绝罪；拜登拟将资本利得税率提至39.6%美股大跌；蓬佩奥再批中共：它不会履行气候峰会承诺；【希望之声TV】</a></li>
-<li><a href="/cbnews/20210423/1532344.md" target="_blank">家长自费百万在校门口架天桥</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
 
 </ul>
 </div>
