@@ -9,7 +9,6 @@
 <li><a href="/cnnews/20210423/1532391.md">震惊新研究：辉瑞疫苗被证实会导致渐冻症和阿尔兹海默【阿波罗网编译】</a></li>
 <li><a href="/yule/20210424/1532528.md">赵丽颖宣布离婚前5小时，疑被业内人士曝分手内幕令人不敢信</a></li>
 <li><a href="/comments/20210423/1532322.md">习近平铁杆发文再拒宪政 观察人士点出核心忧虑</a></li>
-<li><a href="/cbnews/20210423/1532107.md">中南海日子难过 习近平自曝三大担忧七大罩门</a></li>
 <li><a href="/cbnews/20210423/1532244.md">空姐传被安排色诱领导 东航威胁举报人删帖</a></li>
 <li><a href="/cbnews/20210424/1532549.md">专栏 | 夜话中南海：温家宝如何违反了习近平的政治纪律和政治规矩？</a></li>
 <li><a href="/comments/20210424/1532589.md">震惊！辉瑞被证实会导致渐冻症和其他神经系统退化；世卫将审查中国国药、科兴疫苗；微软绕过川普制裁令与中共公司合作；纽约市租金下跌 达到了历史最低；赵丽颖冯绍峰离婚 14亿热搜“被消失【希望之声TV】</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cnnews/20210423/1532234.md">赵丽颖冯绍峰官宣离婚 瞬间冲微博热搜第一</a></li>
 <li><a href="/cbnews/20210424/1532450.md">大陆企业家孙大午被正式逮捕 八项罪名料将遭重判</a></li>
 <li><a href="/yule/20210424/1532448.md">冯绍峰的“猎艳往事”，和他背后的8个女明星</a></li>
-<li><a href="/topimagenews/20210423/1532106.md">詹皇喊话击毙15岁黑人女孩的警察：你是下一个！被骂惨了</a></li>
 <li><a href="/cbnews/20210424/1532534.md">上海8人遇难厂房着火 疑为遭美国调查公司</a></li>
 <li><a href="/cnnews/20210424/1532526.md">特斯拉车辆事故30分踩刹车40次 网友：碰瓷</a></li>
 <li><a href="/topimagenews/20210423/1532370.md">惊悚：纽约非裔女当街枪杀同性恋前非裔女友</a></li>
 <li><a href="/comments/20210424/1532454.md">习近平遇凶险?陜西老家急保“龙脉”；拜习气候峰会首同台；SpaceX载宇航员往国际空间站；华裔化学家窃可口可乐机密;高智晟家族又一人被迫害离世12:00PM【希望之声TV】</a></li>
-<li><a href="/ccpdope/20210423/1532100.md">博鳌论坛 王岐山让习近平当孤家寡人</a></li>
 <li><a href="/yule/20210424/1532546.md">赵丽颖嫁冯绍峰有多不快乐？一张对比照秒懂</a></li>
 <li><a href="/cbnews/20210423/1532256.md">湖南财政厅一女职员举报遭上司性侵</a></li>
 <li><a href="/cnnews/20210423/1532348.md">苹果发布会很精彩 市值却一夜蒸发1888亿元 这场发布会都展啥了</a></li>
 <li><a href="/ssgc/20210423/1532353.md">余茂春和博明两人 让中共真正胆寒</a></li>
+<li><a href="/cbnews/20210423/1532229.md">视北京为战略对手 “六眼联盟”问世或为时不远</a></li>
+<li><a href="/cbnews/20210424/1532630.md">文革回潮：大陆中小学开跳“忠字舞”</a></li>
+<li><a href="/ssgc/20210424/1532533.md">〖兲朝浮世绘〗为人类操碎了心 可惜西方人不懂习总的“爱”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210424/1532778.md" target="_blank">美宣布2030年碳排放减半 习近平确认中国增排10年</a></li>
 <li><a href="/comments/20210424/1532739.md" target="_blank">NBA詹皇惹怒川普和辛普森！黑命贵闯俄克拉荷马州议会；中共围剿特斯拉意在“星链计划”！菲律宾学中共南海造岛；顶级顾问兄弟替中共游说 收入翻5倍！；英情报局：中共恐控制全球操作系【希望之声TV】10pm</a></li>
 <li><a href="/cbnews/20210424/1532729.md" target="_blank">天亮时分：亚利桑那审计210万张选票，川普发声。民主党竭力阻止，但审计继续推进（政论天下第408集 20210423）</a></li>
 <li><a href="/cbnews/20210424/1532698.md" target="_blank">美军改良电战装备 强化打击印太区海上目标的能力</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210423/1532257.md" target="_blank">高智晟家族又一人被中共迫害离世</a></li>
 <li><a href="/cbnews/20210423/1532256.md" target="_blank">湖南财政厅一女职员举报遭上司性侵</a></li>
 <li><a href="/cbnews/20210423/1532255.md" target="_blank">合肥一规模较大幼儿园食材霉变 家长愤怒</a></li>
-<li><a href="/cbnews/20210423/1532254.md" target="_blank">上海一厂房着火8人亡 疑立讯精密旗下公司</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210424/1532780.md" target="_blank">“保守派”人士也跪了！支持陪审团裁定肖文警官罪名</a></li>
+<li><a href="/comments/20210424/1532779.md" target="_blank">美国人不可能相信陪审团的肖文裁决</a></li>
 <li><a href="/comments/20210424/1532771.md" target="_blank">【要闻精粹】这个中国时代的下流黑暗太辣眼</a></li>
 <li><a href="/comments/20210424/1532739.md" target="_blank">NBA詹皇惹怒川普和辛普森！黑命贵闯俄克拉荷马州议会；中共围剿特斯拉意在“星链计划”！菲律宾学中共南海造岛；顶级顾问兄弟替中共游说 收入翻5倍！；英情报局：中共恐控制全球操作系【希望之声TV】10pm</a></li>
 <li><a href="/comments/20210424/1532737.md" target="_blank">香港法轮功真相点被袭 警方：至少8人被捕 最高可判10年</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210424/1532615.md" target="_blank">赵丽颖冯绍峰离婚 14亿热搜不到3小时“被消失” H&amp;M广告魔咒？赵丽颖周迅范冰冰和刘雯四对情侣全分手</a></li>
 <li><a href="/comments/20210424/1532614.md" target="_blank">英情报主管：中共技术垄断将危及西方的民主和自由</a></li>
 <li><a href="/comments/20210424/1532598.md" target="_blank">曾慧燕忆22年前：我在世贸大楼专访李洪志先生</a></li>
-<li><a href="/comments/20210424/1532597.md" target="_blank">美裁定华裔女科学家窃密等5罪成立 即将判刑</a></li>
-<li><a href="/comments/20210424/1532596.md" target="_blank">美教授：家长在觉醒 开始反对学校中的批判种族论</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
