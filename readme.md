@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210423/1532391.md">震惊新研究：辉瑞疫苗被证实会导致渐冻症和阿尔兹海默【阿波罗网编译】</a></li>
-<li><a href="/yule/20210424/1532528.md">赵丽颖宣布离婚前5小时，疑被业内人士曝分手内幕令人不敢信</a></li>
 <li><a href="/comments/20210423/1532322.md">习近平铁杆发文再拒宪政 观察人士点出核心忧虑</a></li>
+<li><a href="/yule/20210424/1532528.md">赵丽颖宣布离婚前5小时，疑被业内人士曝分手内幕令人不敢信</a></li>
 <li><a href="/health/20210423/1532346.md">“冻龄奶奶”74岁像30岁，与孙子合照惹误会</a></li>
 <li><a href="/comments/20210423/1532422.md">杨威：习近平在气候峰会上的尴尬</a></li>
 <li><a href="/comments/20210424/1532589.md">震惊！辉瑞被证实会导致渐冻症和其他神经系统退化；世卫将审查中国国药、科兴疫苗；微软绕过川普制裁令与中共公司合作；纽约市租金下跌 达到了历史最低；赵丽颖冯绍峰离婚 14亿热搜“被消失【希望之声TV】</a></li>
@@ -16,16 +16,16 @@
 <li><a href="/cbnews/20210424/1532630.md">文革回潮：大陆中小学开跳“忠字舞”</a></li>
 <li><a href="/cbnews/20210424/1532450.md">大陆企业家孙大午被正式逮捕 八项罪名料将遭重判</a></li>
 <li><a href="/comments/20210424/1532649.md">特斯拉在中国被围攻：动了谁的奶酪？美国社会正发生一场以种族为名义的阶级斗争</a></li>
-<li><a href="/yule/20210424/1532448.md">冯绍峰的“猎艳往事”，和他背后的8个女明星</a></li>
 <li><a href="/cbnews/20210424/1532799.md">美军上将忆述两次会见房峰辉</a></li>
+<li><a href="/yule/20210424/1532448.md">冯绍峰的“猎艳往事”，和他背后的8个女明星</a></li>
 <li><a href="/cnnews/20210424/1532732.md">中共“首席翻译”履新 一语道出中共翻译"特殊要求"</a></li>
 <li><a href="/topimagenews/20210423/1532370.md">惊悚：纽约非裔女当街枪杀同性恋前非裔女友</a></li>
 <li><a href="/cbnews/20210424/1532534.md">上海8人遇难厂房着火 疑为遭美国调查公司</a></li>
-<li><a href="/cnnews/20210424/1532526.md">特斯拉车辆事故30分踩刹车40次 网友：碰瓷</a></li>
+<li><a href="/cbnews/20210424/1532804.md">传中南海新华门黑衣人武功深不可测 网友：吓唬人</a></li>
 <li><a href="/yule/20210424/1532546.md">赵丽颖嫁冯绍峰有多不快乐？一张对比照秒懂</a></li>
 <li><a href="/comments/20210424/1532454.md">习近平遇凶险?陜西老家急保“龙脉”；拜习气候峰会首同台；SpaceX载宇航员往国际空间站；华裔化学家窃可口可乐机密;高智晟家族又一人被迫害离世12:00PM【希望之声TV】</a></li>
+<li><a href="/cnnews/20210424/1532526.md">特斯拉车辆事故30分踩刹车40次 网友：碰瓷</a></li>
 <li><a href="/cbnews/20210424/1532627.md">文昭：砸下千亿！美国终於祭出「举国体制」抗中，中南海无眠；中美「举国」玩法大不同</a></li>
-<li><a href="/cbnews/20210424/1532804.md">传中南海新华门黑衣人武功深不可测 网友：吓唬人</a></li>
 <li><a href="/ssgc/20210424/1532533.md">〖兲朝浮世绘〗为人类操碎了心 可惜西方人不懂习总的“爱”</a></li>
 <li><a href="/cnnews/20210424/1532583.md">历史上忽必烈和成吉思汗是什么关系 很多人都搞错了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210424/1532941.md" target="_blank">王岐山露面对美喊话求合作 努力唱白脸？</a></li>
 <li><a href="/comments/20210424/1532903.md" target="_blank">【独家】养生专家：谁拿睡眠不当回事 死神就拿谁当回事</a></li>
 <li><a href="/comments/20210424/1532902.md" target="_blank">实践“真正奢华的生活”</a></li>
 <li><a href="/comments/20210424/1532881.md" target="_blank">默奇森广域阵列发现首颗脉冲星</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210424/1532714.md" target="_blank">从狗狗币“奔月”看赌民化社会</a></li>
 <li><a href="/comments/20210424/1532713.md" target="_blank">李平：自由，从日用品变奢侈品</a></li>
 <li><a href="/comments/20210424/1532712.md" target="_blank">宁静思：用教育摧毁美国 “白左”的百年大计</a></li>
-<li><a href="/comments/20210424/1532682.md" target="_blank">诗朗诵《永恒的希望》｜纪念“四二五”和平上访二十二周年（2021）</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
