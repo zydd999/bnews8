@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20210426/1534079.md">付国豪为啥伤别北京网炸锅;美国防部悄转让海量IP成谜;清华校庆舞被狂酸火爆网络</a></li>
 <li><a href="/cbnews/20210426/1533967.md">旧部董宏被批捕 王岐山频露面捧习被放过？</a></li>
 <li><a href="/lifebaike/20210426/1533842.md">男性“耗阳”的行为公布，烟酒未上榜，看完榜首，别再不以为然了</a></li>
-<li><a href="/comments/20210426/1533978.md">为什么习近平不可能否定邓小平？ — 曾节明</a></li>
-<li><a href="/cnnews/20210426/1533703.md">澳洲拒中共一带一路侵入 德媒：习近平丢脸丢大了</a></li>
-<li><a href="/lifebaike/20210426/1533742.md">17岁女孩被绑到天台蹂躏，她的经历，给所有人提了一个醒</a></li>
 <li><a href="/yule/20210426/1534190.md">周正毅生日宴掀翻舆论场 妻子朋友圈曝光：太惊人</a></li>
-<li><a href="/cbnews/20210426/1533884.md">王毅称中共式民主不是可乐 网民怒轰</a></li>
+<li><a href="/comments/20210426/1533978.md">为什么习近平不可能否定邓小平？ — 曾节明</a></li>
+<li><a href="/lifebaike/20210426/1533742.md">17岁女孩被绑到天台蹂躏，她的经历，给所有人提了一个醒</a></li>
 <li><a href="/headline/20210426/1533739.md">清华大学女生校庆舞惹议</a></li>
+<li><a href="/cbnews/20210426/1533884.md">王毅称中共式民主不是可乐 网民怒轰</a></li>
 <li><a href="/cbnews/20210426/1533743.md">印度爆变种病毒如炼狱 街边设临时火葬场仍不够用</a></li>
 <li><a href="/cbnews/20210426/1533849.md">中共推“工龄归零” 重庆受害者叹“活不下去”</a></li>
 <li><a href="/cbnews/20210426/1533915.md">涉生物战？英媒揭中共军方秘密参与武汉病毒研究计划</a></li>
 <li><a href="/headline/20210426/1533907.md">创造历史 赵婷获得奥斯卡最佳导演奖 中国官媒沉默</a></li>
+<li><a href="/cbnews/20210426/1533823.md">评温家宝纪念母亲短文 他是影帝吗？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210427/1534356.md" target="_blank">专栏 | 夜话中南海：是时候还温家宝先生一个公道一点的评价了</a></li>
+<li><a href="/cbnews/20210427/1534345.md" target="_blank">病毒起源质疑加剧之际 中共缺席生物武器会</a></li>
+<li><a href="/cbnews/20210427/1534344.md" target="_blank">“我身家过亿”B站面试官炫富 疑歧视北邮学生</a></li>
+<li><a href="/cbnews/20210427/1534343.md" target="_blank">职校“熟蛋返生孵小鸡”论文疯传 专家回应来了</a></li>
 <li><a href="/cbnews/20210427/1534332.md" target="_blank">惊心一刻 男子闯上海地铁2号线跳轨死亡</a></li>
 <li><a href="/comments/20210427/1534329.md" target="_blank">【希望之声TV】脱贫掺假”罗生门 谁在说谎？</a></li>
 <li><a href="/comments/20210427/1534269.md" target="_blank">民主党挠审计亚利桑那参院发动议;蓬佩奥怼拜登言行要一致;王岐山危?“大管家”被捕；赵婷获奥斯卡官媒沉默胡锡进接盘；长城汽车抄甲壳虫大众启调查;印度疫情失控 中东危了？12:00PM【希望之声TV】</a></li>
@@ -57,10 +61,6 @@
 <li><a href="/cbnews/20210426/1533883.md" target="_blank">习巡广西游漓江 夫人彭丽媛未随行</a></li>
 <li><a href="/cbnews/20210426/1533882.md" target="_blank">蓬佩奥警拜登：对中共威慑取决于有行动支持的声明</a></li>
 <li><a href="/cbnews/20210426/1533849.md" target="_blank">中共推“工龄归零” 重庆受害者叹“活不下去”</a></li>
-<li><a href="/cbnews/20210426/1533835.md" target="_blank">&#8220;北京经历过六四，所以我就想会不会有警察来镇压，甚至开枪什么的…&#8221;</a></li>
-<li><a href="/cbnews/20210426/1533834.md" target="_blank">美中角力 美参议员：中共若犯台 将输战争</a></li>
-<li><a href="/cbnews/20210426/1533832.md" target="_blank">天亮时分：2026登陆火星，马斯克的黑色警告；五角大楼吹哨人，6月份美国将解密大量关于UFO文件；人类是否面临第三类接触？（政论天下第410集 20210425）</a></li>
-<li><a href="/cbnews/20210426/1533823.md" target="_blank">评温家宝纪念母亲短文 他是影帝吗？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210427/1534342.md" target="_blank">宾州议员提法案：禁变性人参加女子体育赛</a></li>
+<li><a href="/comments/20210427/1534341.md" target="_blank">美非裔女作家：有关弗洛伊德的宣传是个谎言</a></li>
+<li><a href="/comments/20210427/1534340.md" target="_blank">标普：中资银行年底前或仍有3万亿“影子”资产</a></li>
 <li><a href="/comments/20210427/1534339.md" target="_blank">【组图+视频】美国国家航空航天局（NASA）的智能火星直升机在第三次飞行中飞得更快、更远</a></li>
 <li><a href="/comments/20210427/1534334.md" target="_blank">章天亮: 出生率骤降 大城市负增长 中国人口问题有多严峻？</a></li>
 <li><a href="/comments/20210427/1534330.md" target="_blank">继马云之后 美团遭反垄断调查</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210427/1534254.md" target="_blank">纽约中共病毒感染率降至1.79% 5个月来最低</a></li>
 <li><a href="/comments/20210427/1534253.md" target="_blank">欧盟醒了？内部报告批北京转向独裁、经济毁诺</a></li>
 <li><a href="/comments/20210426/1534239.md" target="_blank">2020年全球军费增长近2万亿 中共持续26年增</a></li>
-<li><a href="/comments/20210426/1534235.md" target="_blank">【文韬政论】武肺疫情下的全球贫穷与不平等</a></li>
-<li><a href="/comments/20210426/1534216.md" target="_blank">习近平大吹“脱贫”遭打脸！ 陕西村民无水可用 要到河南省拉水</a></li>
-<li><a href="/comments/20210426/1534215.md" target="_blank">校友力挺赵婷！上海酒吧直播奥斯卡典礼 VPN被切断</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
