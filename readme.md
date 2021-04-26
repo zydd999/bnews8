@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20210426/1533770.md">又被消声！李克强一句话，很多人震惊了；打脸习，央视不姓党? 罕见曝假脱贫</a></li>
 <li><a href="/comments/20210426/1533737.md">上海震荡！ 一夜间 东方卫视六大主持被集体“封杀”！“周正毅有毒”？</a></li>
 <li><a href="/topimagenews/20210426/1533900.md">普京结结实实坑了习近平 一位曾坑蒙拐骗的“能人” 为何站到中南海前？</a></li>
-<li><a href="/cbnews/20210426/1533684.md">黑龙江望奎县现大量复阳病例 网曝紧急通知</a></li>
 <li><a href="/funmedia/20210426/1533741.md">不管夫妻还是情人，越爱做这 4 个“动作”越容易出轨，八九不离十</a></li>
 <li><a href="/cnnews/20210426/1533696.md">深圳“一府一委两院”同日大换血</a></li>
 <li><a href="/cnnews/20210426/1533816.md">宁死不红！1分18秒！美国选手KO中国冠军</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/ssgc/20210426/1533690.md">〖兲朝浮世绘〗马斯克的火星梦还没实现 却要先尝中共的中国梦滋味了</a></li>
 <li><a href="/cbnews/20210426/1533967.md">旧部董宏被批捕 王岐山频露面捧习被放过？</a></li>
 <li><a href="/lifebaike/20210426/1533842.md">男性“耗阳”的行为公布，烟酒未上榜，看完榜首，别再不以为然了</a></li>
+<li><a href="/comments/20210426/1533978.md">为什么习近平不可能否定邓小平？ — 曾节明</a></li>
 <li><a href="/cnnews/20210426/1533703.md">澳洲拒中共一带一路侵入 德媒：习近平丢脸丢大了</a></li>
 <li><a href="/lifebaike/20210426/1533742.md">17岁女孩被绑到天台蹂躏，她的经历，给所有人提了一个醒</a></li>
-<li><a href="/comments/20210426/1533978.md">为什么习近平不可能否定邓小平？ — 曾节明</a></li>
 <li><a href="/cbnews/20210426/1533884.md">王毅称中共式民主不是可乐 网民怒轰</a></li>
 <li><a href="/headline/20210426/1533739.md">清华大学女生校庆舞惹议</a></li>
 <li><a href="/cbnews/20210426/1533743.md">印度爆变种病毒如炼狱 街边设临时火葬场仍不够用</a></li>
+<li><a href="/cbnews/20210426/1533849.md">中共推“工龄归零” 重庆受害者叹“活不下去”</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210427/1534315.md" target="_blank">专家：中国住房市值321万亿 印证“史诗级泡沫”</a></li>
 <li><a href="/comments/20210427/1534303.md" target="_blank">川普捐1万美元 助慈善机构寻8失踪船员</a></li>
 <li><a href="/comments/20210427/1534297.md" target="_blank">评论 | 陈光诚：谁叫你特斯拉不加价？</a></li>
 <li><a href="/comments/20210427/1534280.md" target="_blank">【独家】千让日记（3）：我亲爱的</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210426/1534184.md" target="_blank">英媒发现COVLD-19起源新线索！武汉实验室如何秘协军方研究动物病毒</a></li>
 <li><a href="/comments/20210426/1534183.md" target="_blank">【小宇宙传说】死亡是生命结束？天上有摄像机</a></li>
 <li><a href="/comments/20210426/1534182.md" target="_blank">习近平大吹“脱贫”陕西贫困户却无安置点 村民无水可用 要到河南省拉水</a></li>
-<li><a href="/comments/20210426/1534181.md" target="_blank">缅甸抗争扩大 除罢工外，今发起罢课、拒付电费与农业贷款</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
