@@ -14,20 +14,20 @@
 <li><a href="/comments/20210426/1533920.md">官媒异动！反扑一尊？习近平广西行暗示中共面临“最困难时刻”</a></li>
 <li><a href="/yule/20210426/1533678.md">赵丽颖冯绍峰离婚不意外，让人惊讶的是赵丽颖的资产</a></li>
 <li><a href="/cnnews/20210426/1533816.md">宁死不红！1分18秒！美国选手KO中国冠军</a></li>
-<li><a href="/topimagenews/20210426/1533897.md">习近平权力交接的4种可能 详细翻译美国智库报告【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210425/1533618.md">疫情失控！印度有钱人抢贵10倍机票走难 中东惨了？</a></li>
+<li><a href="/topimagenews/20210426/1533897.md">习近平权力交接的4种可能 详细翻译美国智库报告【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210426/1533971.md">惊！中国电视被曝可扫描所有网络设备</a></li>
+<li><a href="/comments/20210426/1534000.md">李燕铭：朱镕基继温家宝之后另类露面 遭遇另类封杀 二十大前中共高层生死搏杀 中国变局进程正在冲击中共政权最后的堡垒</a></li>
 <li><a href="/cnnews/20210426/1533632.md">通胀完美风暴犹如1970年代？全球只余这两个乐土？</a></li>
 <li><a href="/ssgc/20210426/1533698.md">深圳高层大换血 可能与“深房理”事件有关</a></li>
 <li><a href="/ssgc/20210426/1533690.md">〖兲朝浮世绘〗马斯克的火星梦还没实现 却要先尝中共的中国梦滋味了</a></li>
-<li><a href="/cnnews/20210426/1533703.md">澳洲拒中共一带一路侵入 德媒：习近平丢脸丢大了</a></li>
 <li><a href="/lifebaike/20210426/1533842.md">男性“耗阳”的行为公布，烟酒未上榜，看完榜首，别再不以为然了</a></li>
+<li><a href="/cnnews/20210426/1533703.md">澳洲拒中共一带一路侵入 德媒：习近平丢脸丢大了</a></li>
 <li><a href="/headline/20210426/1533663.md">特斯拉维权女车主获释 舆论开始转向</a></li>
-<li><a href="/lifebaike/20210426/1533742.md">17岁女孩被绑到天台蹂躏，她的经历，给所有人提了一个醒</a></li>
-<li><a href="/comments/20210426/1534000.md">李燕铭：朱镕基继温家宝之后另类露面 遭遇另类封杀 二十大前中共高层生死搏杀 中国变局进程正在冲击中共政权最后的堡垒</a></li>
 <li><a href="/cbnews/20210426/1533967.md">旧部董宏被批捕 王岐山频露面捧习被放过？</a></li>
-<li><a href="/topimagenews/20210426/1533645.md">疫情失控 印度政府要求推特删除批评防疫推文 推特发言人证实已移除</a></li>
+<li><a href="/lifebaike/20210426/1533742.md">17岁女孩被绑到天台蹂躏，她的经历，给所有人提了一个醒</a></li>
 <li><a href="/headline/20210426/1533739.md">清华大学女生校庆舞惹议</a></li>
+<li><a href="/topimagenews/20210426/1533645.md">疫情失控 印度政府要求推特删除批评防疫推文 推特发言人证实已移除</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210426/1534232.md" target="_blank">习近平头发花白 大谈红军逃亡湘江血战</a></li>
 <li><a href="/cbnews/20210426/1534185.md" target="_blank">恐怖：中国沙尘暴又来 正“吞噬”城市</a></li>
 <li><a href="/cbnews/20210426/1534154.md" target="_blank">美国思想领袖：民权运动老将鲍勃·伍德森：左派以种族之名毁美国！民权运动被歪曲，以种族正义来掩盖、攻击资本主义及民主体制，种族歧视本身就是邪恶的！1776联盟讲座如何帮助社区？｜ 大纪元</a></li>
 <li><a href="/comments/20210426/1534128.md" target="_blank">美国防部悄悄转让1.75亿IP地址 接收方成谜；东盟与缅军事首脑达五项共识；去年11月来首次纽约州阳性率降至2%以下；奥斯卡颁奖日 星光大道上演香港反送中8AM【希望之声TV】</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210426/1533594.md" target="_blank">法轮功四·二五集体上访真相掠影——从1996到1999</a></li>
 <li><a href="/comments/20210426/1533783.md" target="_blank">这个中国传说中穿红肚兜的可爱小孩，是来自波斯的凶猛夜叉？｜#大雄画里话外 #哪吒 #传说</a></li>
 <li><a href="/comments/20210426/1533779.md" target="_blank">专访程晓农 (7) : 中共军事扩张步步紧逼，美军加强海上威慑，贴近监视辽宁舰；中共对菲律宾军事威胁升级</a></li>
-<li><a href="/cbnews/20210426/1533767.md" target="_blank">蓬佩奥：中共间谍就在美国</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210426/1534239.md" target="_blank">2020年全球军费增长近2万亿 中共持续26年增</a></li>
+<li><a href="/comments/20210426/1534235.md" target="_blank">【文韬政论】武肺疫情下的全球贫穷与不平等</a></li>
+<li><a href="/comments/20210426/1534216.md" target="_blank">习近平大吹“脱贫”遭打脸！ 陕西村民无水可用 要到河南省拉水</a></li>
+<li><a href="/comments/20210426/1534215.md" target="_blank">校友力挺赵婷！上海酒吧直播奥斯卡典礼 VPN被切断</a></li>
 <li><a href="/comments/20210426/1534206.md" target="_blank">准备对付中共 美军陆战队开始调整战术</a></li>
 <li><a href="/comments/20210426/1534193.md" target="_blank">美媒：种族主义谎言煽动的暴力远多于川普时代</a></li>
 <li><a href="/comments/20210426/1534186.md" target="_blank">【浮生纪实】走千里路寻找梦中城堡 村人都说她疯了？</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210426/1534061.md" target="_blank">赵婷创造历史！ 成为首位奥斯卡最佳导演亚裔女导演 中共官媒却“噤声”</a></li>
 <li><a href="/comments/20210426/1534058.md" target="_blank">中共与华尔街剪不断的关系</a></li>
 <li><a href="/comments/20210426/1534047.md" target="_blank">#中国古人 #濒死体验 ？招魂官也会出差错？惊动武则天！朝廷重臣奇幻旅程</a></li>
-<li><a href="/comments/20210426/1534039.md" target="_blank">赵丽颖冯绍峰离婚中共央视有意见 惹网友热议</a></li>
-<li><a href="/comments/20210426/1534027.md" target="_blank">德国未来新总理？ 绿党候选人吁对中共强硬</a></li>
-<li><a href="/comments/20210426/1534000.md" target="_blank">李燕铭：朱镕基继温家宝之后另类露面 遭遇另类封杀 二十大前中共高层生死搏杀 中国变局进程正在冲击中共政权最后的堡垒</a></li>
-<li><a href="/comments/20210426/1533999.md" target="_blank">【封杀公司查册】前公司注册处长钟悟思撰文反对：将削弱商业问责透明 企业舞弊机率增</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
 <li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210329/1515018.md" target="_blank">寻找高维时空的钥匙④：开启高维人体之门</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
