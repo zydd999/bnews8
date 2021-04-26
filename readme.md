@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20210426/1533897.md">习近平权力交接的4种可能 详细翻译美国智库报告【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210426/1533971.md">惊！中国电视被曝可扫描所有网络设备</a></li>
 <li><a href="/comments/20210426/1534000.md">李燕铭：朱镕基继温家宝之后另类露面 遭遇另类封杀 二十大前中共高层生死搏杀 中国变局进程正在冲击中共政权最后的堡垒</a></li>
-<li><a href="/ssgc/20210426/1533698.md">深圳高层大换血 可能与“深房理”事件有关</a></li>
 <li><a href="/topimagenews/20210426/1534079.md">付国豪为啥伤别北京网炸锅;美国防部悄转让海量IP成谜;清华校庆舞被狂酸火爆网络</a></li>
 <li><a href="/cbnews/20210426/1533967.md">旧部董宏被批捕 王岐山频露面捧习被放过？</a></li>
 <li><a href="/lifebaike/20210426/1533842.md">男性“耗阳”的行为公布，烟酒未上榜，看完榜首，别再不以为然了</a></li>
 <li><a href="/comments/20210426/1533978.md">为什么习近平不可能否定邓小平？ — 曾节明</a></li>
 <li><a href="/cnnews/20210426/1533703.md">澳洲拒中共一带一路侵入 德媒：习近平丢脸丢大了</a></li>
 <li><a href="/lifebaike/20210426/1533742.md">17岁女孩被绑到天台蹂躏，她的经历，给所有人提了一个醒</a></li>
+<li><a href="/yule/20210426/1534190.md">周正毅生日宴掀翻舆论场 妻子朋友圈曝光：太惊人</a></li>
 <li><a href="/cbnews/20210426/1533884.md">王毅称中共式民主不是可乐 网民怒轰</a></li>
 <li><a href="/headline/20210426/1533739.md">清华大学女生校庆舞惹议</a></li>
-<li><a href="/yule/20210426/1534190.md">周正毅生日宴掀翻舆论场 妻子朋友圈曝光：太惊人</a></li>
 <li><a href="/cbnews/20210426/1533743.md">印度爆变种病毒如炼狱 街边设临时火葬场仍不够用</a></li>
 <li><a href="/cbnews/20210426/1533849.md">中共推“工龄归零” 重庆受害者叹“活不下去”</a></li>
 <li><a href="/cbnews/20210426/1533915.md">涉生物战？英媒揭中共军方秘密参与武汉病毒研究计划</a></li>
+<li><a href="/headline/20210426/1533907.md">创造历史 赵婷获得奥斯卡最佳导演奖 中国官媒沉默</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210427/1534332.md" target="_blank">惊心一刻 男子闯上海地铁2号线跳轨死亡</a></li>
 <li><a href="/comments/20210427/1534329.md" target="_blank">【希望之声TV】脱贫掺假”罗生门 谁在说谎？</a></li>
 <li><a href="/comments/20210427/1534269.md" target="_blank">民主党挠审计亚利桑那参院发动议;蓬佩奥怼拜登言行要一致;王岐山危?“大管家”被捕；赵婷获奥斯卡官媒沉默胡锡进接盘；长城汽车抄甲壳虫大众启调查;印度疫情失控 中东危了？12:00PM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210426/1534232.md" target="_blank">习近平头发花白 大谈红军逃亡湘江血战</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210426/1533834.md" target="_blank">美中角力 美参议员：中共若犯台 将输战争</a></li>
 <li><a href="/cbnews/20210426/1533832.md" target="_blank">天亮时分：2026登陆火星，马斯克的黑色警告；五角大楼吹哨人，6月份美国将解密大量关于UFO文件；人类是否面临第三类接触？（政论天下第410集 20210425）</a></li>
 <li><a href="/cbnews/20210426/1533823.md" target="_blank">评温家宝纪念母亲短文 他是影帝吗？</a></li>
-<li><a href="/cbnews/20210426/1533594.md" target="_blank">法轮功四·二五集体上访真相掠影——从1996到1999</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210427/1534339.md" target="_blank">【组图+视频】美国国家航空航天局（NASA）的智能火星直升机在第三次飞行中飞得更快、更远</a></li>
+<li><a href="/comments/20210427/1534334.md" target="_blank">章天亮: 出生率骤降 大城市负增长 中国人口问题有多严峻？</a></li>
+<li><a href="/comments/20210427/1534330.md" target="_blank">继马云之后 美团遭反垄断调查</a></li>
 <li><a href="/comments/20210427/1534329.md" target="_blank">【希望之声TV】脱贫掺假”罗生门 谁在说谎？</a></li>
 <li><a href="/comments/20210427/1534323.md" target="_blank">降落在博茨瓦纳的陨石被追踪到它在小行星带的出生地</a></li>
 <li><a href="/comments/20210427/1534321.md" target="_blank">【收紧查册】透明国际：香港开倒车 独立股评人David Webb：吸引犯罪份子</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210426/1534235.md" target="_blank">【文韬政论】武肺疫情下的全球贫穷与不平等</a></li>
 <li><a href="/comments/20210426/1534216.md" target="_blank">习近平大吹“脱贫”遭打脸！ 陕西村民无水可用 要到河南省拉水</a></li>
 <li><a href="/comments/20210426/1534215.md" target="_blank">校友力挺赵婷！上海酒吧直播奥斯卡典礼 VPN被切断</a></li>
-<li><a href="/comments/20210426/1534206.md" target="_blank">准备对付中共 美军陆战队开始调整战术</a></li>
-<li><a href="/comments/20210426/1534193.md" target="_blank">美媒：种族主义谎言煽动的暴力远多于川普时代</a></li>
-<li><a href="/comments/20210426/1534186.md" target="_blank">【浮生纪实】走千里路寻找梦中城堡 村人都说她疯了？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
 <li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
