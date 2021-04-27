@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20210427/1534332.md">惊心一刻 男子闯上海地铁2号线跳轨死亡</a></li>
 <li><a href="/headline/20210427/1534437.md">正常交班时刻逼近 习近平广西视察表情凝重</a></li>
 <li><a href="/cnnews/20210427/1534618.md">突发！1000亿半导体巨头闪崩，芯片概念也集体下跌</a></li>
-<li><a href="/ssgc/20210427/1534378.md">〖兲朝浮世绘〗清华舞姿俗，北大邪恶多</a></li>
 <li><a href="/topimagenews/20210427/1534591.md">曝光：巡特警大队长用枪顶住派出所长脑袋！2014年犯案为何现在才查办</a></li>
+<li><a href="/ssgc/20210427/1534378.md">〖兲朝浮世绘〗清华舞姿俗，北大邪恶多</a></li>
 <li><a href="/cbnews/20210427/1534734.md">中共全网封杀 网友巧避敏感词谈赵婷</a></li>
 <li><a href="/lifebaike/20210427/1534467.md">家中有一物，越多越破财，赶紧扔掉</a></li>
 <li><a href="/cbnews/20210427/1534604.md">江泽民家族的马前卒：周正毅生日宴风波延烧</a></li>
 <li><a href="/cbnews/20210427/1534595.md">习近平广西视察表情凝重 官媒照片引热议</a></li>
 <li><a href="/yule/20210427/1534403.md">她才是“不老女神”！因拒绝潜规则被封杀</a></li>
+<li><a href="/comments/20210427/1534823.md">中共太子党和习近平大分裂的宿命（中共命运的轨迹和人类前途  第十讲）【袁红冰纵论天下】 04272021</a></li>
 <li><a href="/funmedia/20210427/1534412.md">一个人见没见过世面，就看这三点</a></li>
 <li><a href="/cbnews/20210427/1534343.md">职校“熟蛋返生孵小鸡”论文疯传 专家回应来了</a></li>
-<li><a href="/comments/20210427/1534392.md">中共军委委员参谋长房峰辉落马内幕不一般 与美国参谋长联席会议主席进行“富有成效的会谈”后第四天失踪 第十天被免职 五个月后被移送军事法庭 中南海不可告人的秘密_359</a></li>
-<li><a href="/comments/20210427/1534823.md">中共太子党和习近平大分裂的宿命（中共命运的轨迹和人类前途  第十讲）【袁红冰纵论天下】 04272021</a></li>
 <li><a href="/baitai/20210427/1534720.md">玖奌杂货铺｜开除清华大学跳舞的那几名女生，你脑子进水了吧？</a></li>
+<li><a href="/comments/20210427/1534392.md">中共军委委员参谋长房峰辉落马内幕不一般 与美国参谋长联席会议主席进行“富有成效的会谈”后第四天失踪 第十天被免职 五个月后被移送军事法庭 中南海不可告人的秘密_359</a></li>
 <li><a href="/cbnews/20210427/1534524.md">天亮时分：朱镕基也遭封杀，习近平在想什么；亚利桑那审计最新动态；美国人口普查出路，民主党代价惨重；（政论天下第411集 20210426）</a></li>
+<li><a href="/comments/20210427/1534864.md">习近平现场训话 桂林书记这表现火了</a></li>
 <li><a href="/cnnews/20210427/1534350.md">人口普查结果出炉 史上首次：加州减少一个国会席次</a></li>
-<li><a href="/health/20210427/1534417.md">脂肪肝有一张调理清单：落实4件事，肝脏会“瘦下来”</a></li>
 <li><a href="/comments/20210427/1534615.md">王岐山提“乒乓外交”迅即被警告 外媒突曝“红二代”不满习近平内幕</a></li>
-<li><a href="/cbnews/20210427/1534666.md">发布钓鱼岛地貌调查报告 中共不敢提这段历史</a></li>
+<li><a href="/cnnews/20210427/1534783.md">山东男童网购“小鱼” 来货吓傻全家</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 
 </ul>
 </div>
