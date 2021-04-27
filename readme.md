@@ -13,15 +13,15 @@
 <li><a href="/cnnews/20210426/1533971.md">惊！中国电视被曝可扫描所有网络设备</a></li>
 <li><a href="/cnnews/20210426/1534082.md">苹果这个“隐私”新功能 恐引发轩然大波</a></li>
 <li><a href="/topimagenews/20210426/1534079.md">付国豪为啥伤别北京网炸锅;美国防部悄转让海量IP成谜;清华校庆舞被狂酸火爆网络</a></li>
-<li><a href="/comments/20210426/1534000.md">李燕铭：朱镕基继温家宝之后另类露面 遭遇另类封杀 二十大前中共高层生死搏杀 中国变局进程正在冲击中共政权最后的堡垒</a></li>
 <li><a href="/yule/20210426/1534190.md">周正毅生日宴掀翻舆论场 妻子朋友圈曝光：太惊人</a></li>
+<li><a href="/comments/20210426/1534000.md">李燕铭：朱镕基继温家宝之后另类露面 遭遇另类封杀 二十大前中共高层生死搏杀 中国变局进程正在冲击中共政权最后的堡垒</a></li>
 <li><a href="/lifebaike/20210426/1533842.md">男性“耗阳”的行为公布，烟酒未上榜，看完榜首，别再不以为然了</a></li>
 <li><a href="/cnnews/20210426/1534203.md">只因这句话？赵婷奥斯卡领奖 遭中共封杀</a></li>
 <li><a href="/cbnews/20210426/1533967.md">旧部董宏被批捕 王岐山频露面捧习被放过？</a></li>
 <li><a href="/comments/20210426/1533978.md">为什么习近平不可能否定邓小平？ — 曾节明</a></li>
 <li><a href="/cbnews/20210426/1534232.md">习近平头发花白 大谈红军逃亡湘江血战</a></li>
-<li><a href="/cbnews/20210426/1533884.md">王毅称中共式民主不是可乐 网民怒轰</a></li>
 <li><a href="/bannedvideo/20210427/1534277.md">周正毅寿宴事件，让他有升官良机晋升中共二十大政治局常委不是梦--天钧政经</a></li>
+<li><a href="/cbnews/20210426/1533884.md">王毅称中共式民主不是可乐 网民怒轰</a></li>
 <li><a href="/cbnews/20210426/1533849.md">中共推“工龄归零” 重庆受害者叹“活不下去”</a></li>
 <li><a href="/cbnews/20210426/1533915.md">涉生物战？英媒揭中共军方秘密参与武汉病毒研究计划</a></li>
 <li><a href="/cbnews/20210426/1533823.md">评温家宝纪念母亲短文 他是影帝吗？</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210427/1534473.md" target="_blank">文昭：马斯克中国「翻车」，为华为电动车让路、为6G？得罪谁都不要得罪马老师！「下山摘桃」是个高难度的活儿</a></li>
 <li><a href="/comments/20210427/1534455.md" target="_blank">法官被换  AZ选票审计风云再启  奥斯卡颁奖  主持：高洁  嘉宾：林晓旭 【希望之声TV】(2021/04/26)</a></li>
 <li><a href="/comments/20210427/1534421.md" target="_blank">最高法院同意受理重大第二修正案;民调:拜登跌至二战后总统最低点;伊朗外长录音泄漏抱怨苏莱曼尼干预外交？老牌共党!英顾问吁&#8221;最大限度&#8221;封锁；数字币5月应用 支付宝们受威胁6:00PM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210427/1534356.md" target="_blank">专栏 | 夜话中南海：是时候还温家宝先生一个公道一点的评价了</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210426/1533912.md" target="_blank">不满对朝策略评价 川普反批文在寅不会谈判；准备对付中国！美军陆战队开始调整战术；中国国学院大学伪造公文遭查封；大陆电视自动“扫描”网络设备 数据被监视；董明珠退出格力子公司法人代表【希望之声TV】</a></li>
 <li><a href="/cbnews/20210426/1533901.md" target="_blank">美海军陆战队调整战术：靠近中国 吓阻中共</a></li>
 <li><a href="/cbnews/20210426/1533884.md" target="_blank">王毅称中共式民主不是可乐 网民怒轰</a></li>
-<li><a href="/cbnews/20210426/1533883.md" target="_blank">习巡广西游漓江 夫人彭丽媛未随行</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210427/1534483.md" target="_blank">花了16年无法证明“我儿是我儿”“我是我” 这个坑爹的户口本</a></li>
+<li><a href="/comments/20210427/1534482.md" target="_blank">麦杰逊 ：关于特斯拉，说点你不知道的</a></li>
 <li><a href="/comments/20210427/1534468.md" target="_blank">王岐山的“大管家”董宏正式被捕</a></li>
 <li><a href="/comments/20210427/1534460.md" target="_blank">俄宣布驱逐意、乌使馆人员 罗马尼亚驱逐俄武官</a></li>
 <li><a href="/comments/20210427/1534459.md" target="_blank">“谴责中共极权和无信” 欧盟内部报告严词抨击中共</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210427/1534321.md" target="_blank">【收紧查册】透明国际：香港开倒车 独立股评人David Webb：吸引犯罪份子</a></li>
 <li><a href="/comments/20210427/1534315.md" target="_blank">专家：中国住房市值321万亿 印证“史诗级泡沫”</a></li>
 <li><a href="/comments/20210427/1534303.md" target="_blank">川普捐1万美元 助慈善机构寻8失踪船员</a></li>
-<li><a href="/comments/20210427/1534297.md" target="_blank">评论 | 陈光诚：谁叫你特斯拉不加价？</a></li>
-<li><a href="/comments/20210427/1534280.md" target="_blank">【独家】千让日记（3）：我亲爱的</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
 
 </ul>
 </div>
