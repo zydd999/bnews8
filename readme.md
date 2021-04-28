@@ -18,15 +18,15 @@
 <li><a href="/cbnews/20210427/1534595.md">习近平广西视察表情凝重 官媒照片引热议</a></li>
 <li><a href="/cnnews/20210427/1534783.md">山东男童网购“小鱼” 来货吓傻全家</a></li>
 <li><a href="/baitai/20210427/1534720.md">玖奌杂货铺｜开除清华大学跳舞的那几名女生，你脑子进水了吧？</a></li>
+<li><a href="/cbnews/20210428/1535097.md">2021年办理护照真的太难了</a></li>
 <li><a href="/cbnews/20210427/1534524.md">天亮时分：朱镕基也遭封杀，习近平在想什么；亚利桑那审计最新动态；美国人口普查出路，民主党代价惨重；（政论天下第411集 20210426）</a></li>
 <li><a href="/comments/20210427/1534615.md">王岐山提“乒乓外交”迅即被警告 外媒突曝“红二代”不满习近平内幕</a></li>
 <li><a href="/lifebaike/20210427/1534742.md">500度以下近视眼能痊愈？2招改善视力</a></li>
 <li><a href="/bannedvideo/20210427/1534647.md">董宏被逮捕下一个王岐山? 中南海有大事发生巨变来临?（启明笑谈20210427）</a></li>
-<li><a href="/cbnews/20210428/1535097.md">2021年办理护照真的太难了</a></li>
 <li><a href="/cnnews/20210427/1534921.md">马斯克：特斯拉经历有史以来最严峻供应链挑战 原因是…</a></li>
 <li><a href="/headline/20210427/1534925.md">特斯拉维权女身分呼之欲出 为垂死挣扎对手“碰瓷”特斯拉？</a></li>
+<li><a href="/cnnews/20210428/1535051.md">太空战缺子弹 马斯克让中共人财两空？</a></li>
 <li><a href="/cbnews/20210427/1534666.md">发布钓鱼岛地貌调查报告 中共不敢提这段历史</a></li>
-<li><a href="/cbnews/20210427/1534602.md">江峰：央视揭扶贫造假打脸习近平，谁在后面运作？前封温家宝，后禁朱镕基，从毛周往事看总理们跟党魁们的仇怨根源；清华舞女，俗，但她们不坏【江峰漫谈20210426第314期】</a></li>
 <li><a href="/cbnews/20210428/1535057.md">天津大学为了追求国际排名，脊梁骨都断了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210428/1535193.md" target="_blank">辣评！美军“插队”紧贴辽宁号 中共只敢拼命逃</a></li>
+<li><a href="/cbnews/20210428/1535190.md" target="_blank">天亮时分：中国人口普查结果难产，人口跌至14亿以下，将被印度反超；亚利桑那审计大战，角力激烈，川普再发声；（政论天下第412集 20210427）</a></li>
 <li><a href="/comments/20210428/1535132.md" target="_blank">第二波疫情卷土重来？国会席位改变谁喜谁忧？  主持:高洁  嘉宾:林晓旭 【希望之声TV】(2021/04/27)</a></li>
 <li><a href="/comments/20210428/1535123.md" target="_blank">佛州最全面选举诚信法案通过；留学生可返美；联邦工人涨工资；CDC宣布新规；罢免纽森选举将举行；奥斯卡内定男主遭逆转；24议员吁调查亨特枪支重罪；中国实施“反谍新规“【希望之声TV】</a></li>
 <li><a href="/cbnews/20210428/1535112.md" target="_blank">“赴美禁令”解除 中国留学生8月起可直飞美国</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210427/1534731.md" target="_blank">特斯拉遭中共围剿 多地不让车上高速</a></li>
 <li><a href="/cbnews/20210427/1534703.md" target="_blank">巧合？习近平讲“湘江战役”红军被围剿逃窜 李自成入北京明朝覆灭 崇祯自尽</a></li>
 <li><a href="/cbnews/20210427/1534702.md" target="_blank">牛上脾气了？ 男孩惨了…</a></li>
-<li><a href="/cbnews/20210427/1534666.md" target="_blank">发布钓鱼岛地貌调查报告 中共不敢提这段历史</a></li>
-<li><a href="/cbnews/20210427/1534637.md" target="_blank">中共称“海南号”服役 美促盟友速前往南海</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210428/1535195.md" target="_blank">王岐山”小心翼翼”的把焦点对准习近平</a></li>
+<li><a href="/comments/20210428/1535194.md" target="_blank">赵婷赢了 中共大外宣一败涂地</a></li>
+<li><a href="/comments/20210428/1535187.md" target="_blank">李燕铭：习近平九天赶场三地五大活动 离京五天其中一天行程成谜 官媒秘而不宣 内幕揭秘</a></li>
 <li><a href="/comments/20210428/1535178.md" target="_blank">中共如何运用权势一步步改造澳门社会</a></li>
 <li><a href="/comments/20210428/1535177.md" target="_blank">梁之：中国人又将听到美帝“一天天烂下去”</a></li>
 <li><a href="/comments/20210428/1535165.md" target="_blank">连任民建联主席 李慧琼：培养“爱国者治港”人才 冀争更多立会议席</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210428/1535053.md" target="_blank">阿里巴巴“吃”天价罚单后 中国外卖平台龙头美团也躺枪</a></li>
 <li><a href="/comments/20210428/1535052.md" target="_blank">【中英文同声翻译】拜登就应对疫情发表讲话</a></li>
 <li><a href="/comments/20210428/1535041.md" target="_blank">美“总统之乡”通过抵制中共强摘器官决议案</a></li>
-<li><a href="/comments/20210428/1535040.md" target="_blank">彭博：中共收紧监管 蚂蚁估值最糟暴跌9成</a></li>
-<li><a href="/comments/20210428/1535039.md" target="_blank">世界遗产日，谷歌帮您线上游风采</a></li>
-<li><a href="/comments/20210428/1535028.md" target="_blank">全美中共病毒感染数骤降 死亡数半年来最低</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
