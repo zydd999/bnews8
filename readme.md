@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/comments/20210427/1534864.md">习近平现场训话 桂林书记这表现火了</a></li>
 <li><a href="/lifebaike/20210427/1534920.md">“全裸”上生物课 女老师课堂全挤爆</a></li>
-<li><a href="/cbnews/20210427/1534734.md">中共全网封杀 网友巧避敏感词谈赵婷</a></li>
 <li><a href="/bannedvideo/20210428/1535139.md">4月26号晚希拉里被执行绞刑细节：五名士兵同时按下红色按钮 没人知道哪个按钮有效  川普总统 彭佩奥 朱利安尼现场观看 希拉里没有任何遗言 只说：我是希拉里克林顿 你不能这样对我  然后......</a></li>
 <li><a href="/comments/20210427/1534823.md">中共太子党和习近平大分裂的宿命（中共命运的轨迹和人类前途  第十讲）【袁红冰纵论天下】 04272021</a></li>
 <li><a href="/cbnews/20210427/1534904.md">习近平现场训话 桂林书记这表现太…</a></li>
@@ -20,12 +19,13 @@
 <li><a href="/cbnews/20210428/1535245.md">法媒：王岐山与温家宝很不一样 意味深长</a></li>
 <li><a href="/lifebaike/20210428/1535140.md">天然“青霉素”找到了，平时常吃，消炎杀菌，炎症慢慢消失</a></li>
 <li><a href="/cbnews/20210428/1535301.md">习一脸愁容疯传 5大事态预示不祥？</a></li>
+<li><a href="/cbnews/20210428/1535244.md">太恐怖了！亲眼目睹！“切取的时候人弹跳、抽搐”</a></li>
 <li><a href="/funmedia/20210428/1535131.md">为何年轻情侣都喜欢酒店的“水床”？这有啥用？老员工说出实情</a></li>
 <li><a href="/lifebaike/20210427/1534742.md">500度以下近视眼能痊愈？2招改善视力</a></li>
-<li><a href="/cbnews/20210428/1535244.md">太恐怖了！亲眼目睹！“切取的时候人弹跳、抽搐”</a></li>
 <li><a href="/headline/20210427/1534925.md">特斯拉维权女身分呼之欲出 为垂死挣扎对手“碰瓷”特斯拉？</a></li>
 <li><a href="/cnnews/20210427/1534921.md">马斯克：特斯拉经历有史以来最严峻供应链挑战 原因是…</a></li>
 <li><a href="/cbnews/20210428/1535112.md">“赴美禁令”解除 中国留学生8月起可直飞美国</a></li>
+<li><a href="/bannedvideo/20210428/1535330.md">希拉里被处决是深层政府DS失败的标志</a></li>
 <li><a href="/lifebaike/20210428/1535222.md">张玉凤为何从不失宠？ 毛泽东和他的女人们</a></li>
 <li><a href="/ssgc/20210428/1534983.md">〖兲朝浮世绘〗别看现在是奴才 转过身那就是爷啊</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210428/1535459.md" target="_blank">谁让习近平丢丑？习老家脱贫造假背景不一般</a></li>
+<li><a href="/cbnews/20210428/1535458.md" target="_blank">特斯拉首次曝光上海车展张女士“维权”细节</a></li>
 <li><a href="/cbnews/20210428/1535359.md" target="_blank">江峰：特斯拉车闹个人维权还是国家碰瓷？持证进车展，后面究竟是谁有举国动员能力？事件暴露中共的恐惧：网络科技平台抗命与防火墙的崩塌【江峰漫谈20210427第315期】</a></li>
 <li><a href="/cbnews/20210428/1535349.md" target="_blank">印度疫情肆虐 中共表现异常 学者：伺机报复</a></li>
 <li><a href="/cbnews/20210428/1535348.md" target="_blank">跟习近平唱反调？深圳高层大换血 市长等18人丢官</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210428/1535047.md" target="_blank">澳洲称“战鼓敲响” 议员：必须将中共制服</a></li>
 <li><a href="/cbnews/20210428/1535046.md" target="_blank">美国总统之乡通过决议案 抵制中共强摘器官</a></li>
 <li><a href="/cbnews/20210428/1535033.md" target="_blank">中共突取消生物武器会议 实验室泄毒说疑云再起</a></li>
-<li><a href="/comments/20210428/1534964.md" target="_blank">辽宁舰遭美海空贴身监控 如影随形;亚利桑那审计更新 川普两发声明;香港大纪元记者梁珍遭跟踪和上门滋扰;美人口新普查政治力量分布改变;5月26日“超级血月”来袭 ；12：00PM【希望之声TV】</a></li>
-<li><a href="/cbnews/20210427/1534904.md" target="_blank">习近平现场训话 桂林书记这表现太…</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210428/1535418.md" target="_blank">曾节明评：司法腐败烂透，是意识形态破产类极权的必然结果 — 曾节明</a></li>
 <li><a href="/comments/20210428/1535453.md" target="_blank">李燕铭：韩正南下传达习近平指令 深圳官场地震 市长等8人丢官10人履新 释放四重政治信号 深度内幕揭秘 习亲信陈希门生覃伟中临危受命出任深圳市长 深圳市委书记王伟中危急关头肉麻吹捧习“恩重如山”</a></li>
 <li><a href="/comments/20210428/1535452.md" target="_blank">王军涛：习近平到咽气也不会交班 他有三个办法</a></li>
 <li><a href="/comments/20210428/1535436.md" target="_blank">女星红毯争奇斗艳挽不回奥斯卡收视</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210428/1535306.md" target="_blank">日公布跟监辽宁号高清照 专家：中共刻意降低威胁感</a></li>
 <li><a href="/comments/20210428/1535293.md" target="_blank">大陆患病快递哥无钱医治 出院后去世 生前公益献血 签名捐骨髓</a></li>
 <li><a href="/comments/20210428/1535285.md" target="_blank">真正的发达国家：会不计成本地做这三种付出</a></li>
-<li><a href="/comments/20210428/1535284.md" target="_blank">【微博精粹】习核心最终战胜了马主义</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200607/1341003.md" target="_blank">章天亮: 中共还能撑多久? 我的“六四”反思</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210322/1510016.md" target="_blank">寻找高维时空的钥匙①②：中华文化密码与时空密码</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
