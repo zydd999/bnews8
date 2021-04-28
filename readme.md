@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20210428/1535051.md">太空战缺子弹 马斯克让中共人财两空？</a></li>
 <li><a href="/ssgc/20210428/1535066.md">深圳高层大换血 原来和这有关</a></li>
 <li><a href="/cbnews/20210428/1535301.md">习一脸愁容疯传 5大事态预示不祥？</a></li>
-<li><a href="/cnnews/20210427/1534783.md">山东男童网购“小鱼” 来货吓傻全家</a></li>
 <li><a href="/cbnews/20210428/1535245.md">法媒：王岐山与温家宝很不一样 意味深长</a></li>
+<li><a href="/bannedvideo/20210428/1535330.md">希拉里被处决是深层政府DS失败的标志</a></li>
 <li><a href="/cbnews/20210428/1535057.md">天津大学为了追求国际排名，脊梁骨都断了</a></li>
 <li><a href="/lifebaike/20210428/1535140.md">天然“青霉素”找到了，平时常吃，消炎杀菌，炎症慢慢消失</a></li>
-<li><a href="/bannedvideo/20210428/1535330.md">希拉里被处决是深层政府DS失败的标志</a></li>
 <li><a href="/cbnews/20210428/1535244.md">太恐怖了！亲眼目睹！“切取的时候人弹跳、抽搐”</a></li>
-<li><a href="/funmedia/20210428/1535131.md">为何年轻情侣都喜欢酒店的“水床”？这有啥用？老员工说出实情</a></li>
 <li><a href="/cbnews/20210428/1535348.md">跟习近平唱反调？深圳高层大换血 市长等18人丢官</a></li>
+<li><a href="/funmedia/20210428/1535131.md">为何年轻情侣都喜欢酒店的“水床”？这有啥用？老员工说出实情</a></li>
+<li><a href="/cnnews/20210428/1535342.md">“零死亡”？中国逾2亿接种疫苗 知情者揭内幕</a></li>
 <li><a href="/headline/20210427/1534925.md">特斯拉维权女身分呼之欲出 为垂死挣扎对手“碰瓷”特斯拉？</a></li>
 <li><a href="/cnnews/20210427/1534921.md">马斯克：特斯拉经历有史以来最严峻供应链挑战 原因是…</a></li>
+<li><a href="/bannedvideo/20210428/1535419.md">希拉里被处决消息迅速传开 美国人民展开热烈讨论（英译中）</a></li>
 <li><a href="/cbnews/20210428/1535112.md">“赴美禁令”解除 中国留学生8月起可直飞美国</a></li>
 <li><a href="/comments/20210428/1535249.md">前国务卿通敌？机密震动美国政坛！拜登首次国会演讲！佩洛西阻议员出席；9名四星将军签署备忘录 ；主子奴才习近平训话桂林书记火了；中共查“谁”批准了蚂蚁上市？怪！马云身家不降反增？【希望之声TV】10pm</a></li>
-<li><a href="/cnnews/20210428/1535342.md">“零死亡”？中国逾2亿接种疫苗 知情者揭内幕</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210428/1535516.md" target="_blank">西双版纳房价跌回四年前 空置率达80%</a></li>
 <li><a href="/comments/20210428/1535483.md" target="_blank">#两亿年人类脚印 ，挑战 #进化论 ？史前卢浮宫和西斯廷教堂，都画了些什么？ 神秘遗蹟</a></li>
 <li><a href="/cbnews/20210428/1535479.md" target="_blank">特斯拉维权女碰瓷？评：着眼点在中共</a></li>
 <li><a href="/cbnews/20210428/1535471.md" target="_blank">恶搞浮世绘名画 “战狼”赵立坚遭日本强烈抗议</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210428/1535112.md" target="_blank">“赴美禁令”解除 中国留学生8月起可直飞美国</a></li>
 <li><a href="/cbnews/20210428/1535098.md" target="_blank">内地“熊孩子”新高度：10岁童火烧4车</a></li>
 <li><a href="/cbnews/20210428/1535097.md" target="_blank">2021年办理护照真的太难了</a></li>
-<li><a href="/cbnews/20210428/1535058.md" target="_blank">美国情报机构将成立外国恶意活动应对中心</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210428/1535513.md" target="_blank">五言唐风：叹悬空寺</a></li>
 <li><a href="/comments/20210428/1535511.md" target="_blank">广西北流幼儿园发生持刀杀人事件 16幼童受伤</a></li>
 <li><a href="/comments/20210428/1535510.md" target="_blank">关于“中国自由军信息发布平台”性质的公告（二零二一第四号）</a></li>
 <li><a href="/comments/20210428/1535502.md" target="_blank">谁信？习再提永不称霸 战狼外交能一笔勾销？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210428/1535367.md" target="_blank">中共发布报告夺钓鱼岛 60多年前已承认主权归属日本</a></li>
 <li><a href="/comments/20210428/1535357.md" target="_blank">习近平步步追杀 马云危机再升级 两周内八大不利消息密集传出（下） 习近平调查蚂蚁集团IPO审批程序 波及众多国家机关高官与金融大佬 调查结束之前马云不会被允许离开中国 蚂蚁集团交出自主研发分布式数据库 中共央行图谋掌控蚂蚁集团贷款数据 蚂蚁集团的估值恐暴跌逾9成</a></li>
 <li><a href="/comments/20210428/1535356.md" target="_blank">习近平步步追杀 马云危机再升级 两周内八大不利消息密集传出（上）习近平要求马云脱手蚂蚁集团股份并放弃控制权 阿里巴巴旗下媒体产业成清洗目标 马云风头盖刘鹤 豪华饭局激怒北京 马云请前高官当“和事佬”于事无补</a></li>
-<li><a href="/comments/20210428/1535350.md" target="_blank">审计叫停怎么办？亚利桑那州审计案换上民主党法官，反川立场超明显。可是希望并未熄灭，另一个战场的爱国勇士们正在行动！│#熊猫侠</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210402/1517945.md" target="_blank">寻找高维时空的钥匙⑤：生命能量密码</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210329/1515011.md" target="_blank">寻找高维时空的钥匙③：地球是一个生命体</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 
 </ul>
 </div>
