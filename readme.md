@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/bannedvideo/20210430/1536540.md">【重磅】前FBI局长科米被安排观看了希拉里被处决 但他不信 直到被带到医疗大楼检查了冰冷的希拉里躯体后彻底崩溃开始爆料奥马巴  奥巴马被带到军事法庭 拜登傀儡总统任期结束 川普重新就职只是时间问题</a></li>
 <li><a href="/topimagenews/20210430/1536738.md">李嘉诚罕见大动作晒给习？北京闹市建病毒实验室犯众怒 两中共军机相撞火光冲天被删</a></li>
 <li><a href="/lifebaike/20210430/1536596.md">为什么大学旁边宾馆才40元一晚，不怕亏本吗？女大学生透露猫腻</a></li>
 <li><a href="/topimagenews/20210430/1536975.md">习近平一句话引爆网炸锅；专家揭秘中共数据造假3大骗术；电动车大跃进烂尾在望</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cnnews/20210430/1536786.md">酷刑致死 中共王储王洪文凄惨的下场</a></li>
 <li><a href="/comments/20210430/1536943.md">马斯克被逼急或给中共致命一击</a></li>
 <li><a href="/funmedia/20210430/1536602.md">中年以后，别在朋友圈“显摆”这些，看似有面子，实则很掉价</a></li>
-<li><a href="/comments/20210430/1537050.md">习近平受挫？副总理没动 只换神秘部长</a></li>
 <li><a href="/cbnews/20210430/1537128.md">习近平下令与美争霸 内部文件曝光</a></li>
+<li><a href="/comments/20210430/1537050.md">习近平受挫？副总理没动 只换神秘部长</a></li>
 <li><a href="/health/20210430/1536846.md">肝癌是“拖”出来的，身体出现“两痒两痛”，最好抓紧去查查</a></li>
+<li><a href="/cbnews/20210430/1536936.md">女子匆匆宾馆开房 老板娘拒绝 真相后网友炸了</a></li>
 <li><a href="/comments/20210430/1536896.md">贺龙之子前海军副司令员贺鹏飞秘书出事 中共海军副参谋长少将宋学突被罢免全国人大代表 贺鹏飞宋学与中共航母隐秘关系曝光 军队暗潮汹涌 习近平签发敏感主席令 中南海不可告人的秘密_360</a></li>
 <li><a href="/health/20210430/1536564.md">这“1种”坚果或在偷偷“堵塞”你的血管，提醒家人，平时尽量少吃</a></li>
-<li><a href="/cbnews/20210430/1536936.md">女子匆匆宾馆开房 老板娘拒绝 真相后网友炸了</a></li>
 <li><a href="/cnnews/20210430/1536946.md">中国开始试行用数字人民币支付工资</a></li>
-<li><a href="/cnnews/20210430/1536548.md">印度疫情传入中国 浙江香港籍货轮10名船员确诊</a></li>
 <li><a href="/health/20210430/1536681.md">血糖新标准已公布，不是3.9-6.1，而是这个范围，看看自己高吗？</a></li>
-<li><a href="/comments/20210430/1536729.md">学者：习近平执政带来两大效应 未来有三种可能</a></li>
 <li><a href="/cnnews/20210430/1537130.md">中国大陆多地惊现印度变异毒株网友：病毒回家了</a></li>
+<li><a href="/comments/20210430/1536729.md">学者：习近平执政带来两大效应 未来有三种可能</a></li>
 <li><a href="/cnnews/20210430/1536703.md">中国大学地质主任出差上洗手间 竟有意外发现 网民：太豪华了？</a></li>
 <li><a href="/bannedvideo/20210430/1536976.md">陈破空：会开完了，习近平受挫！无力撤换副总理。与多数高层起冲突。他前脚刚走，广西就出事</a></li>
+<li><a href="/cnnews/20210430/1536977.md">研究人员正在调查：近6万女性报告 接种中共病毒疫苗后月经周期改变【阿波罗网编译】</a></li>
+<li><a href="/yule/20210430/1536948.md">50岁李嘉欣穿性感内衣秀蛮腰 与老公成鲜明反差</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210501/1537289.md" target="_blank">10万块买来的深圳豪宅，让我倾家荡产</a></li>
 <li><a href="/cbnews/20210501/1537266.md" target="_blank">北京到处查身份证 重庆访民连日被警方带走</a></li>
 <li><a href="/cbnews/20210501/1537265.md" target="_blank">广西再发砍人事件 传两名孩童被割喉</a></li>
 <li><a href="/cbnews/20210501/1537235.md" target="_blank">昆明国保大队非法抄家抢劫 侯文勤被绑架后失踪</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210430/1536753.md" target="_blank">川普实锤2024选总统？副总统人选已出现！中共军机诡异相撞坠毁！菲律宾国防部怒呛中共无权指指点点；为跳广场舞 中国大妈竟在停车场集体推车挪空间；中共出动00后偶像推红色电影【希望之声TV】12am</a></li>
 <li><a href="/cbnews/20210430/1536752.md" target="_blank">大纪元：习下令与美争霸 夺网络话语权</a></li>
 <li><a href="/cbnews/20210430/1536751.md" target="_blank">央视前主播成蕾蒙眼戴手铐现身 狱中生活曝光</a></li>
-<li><a href="/cbnews/20210430/1536735.md" target="_blank">印度瘟疫大爆发是去年预言的准确出现，但预言还说此次真正遭难的却是中国。这场被推迟的爆发给了可贵的中国同胞半年的宝贵时间去思考。希望这个从新剪辑的视频能让国内的家人都平安度劫</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210501/1537282.md" target="_blank">异象频发！北京五一前飞雪入夏变入冬 内蒙古阿拉善现沙尘暴巨墙 云南文山遭冰雹暴雨袭击市区变冰河</a></li>
+<li><a href="/comments/20210501/1537279.md" target="_blank">利润增长乏力 部分中资银行股价下跌</a></li>
+<li><a href="/comments/20210501/1537278.md" target="_blank">法国从5月3日起开始实施四步解封计划</a></li>
+<li><a href="/comments/20210501/1537277.md" target="_blank">中共加速推动数字人民币 美联储：在美行不通</a></li>
 <li><a href="/comments/20210501/1537263.md" target="_blank">欧洲建筑中那些“假窗户”是怎么回事儿？</a></li>
 <li><a href="/comments/20210501/1537262.md" target="_blank">英国通过新法律 学生校服价格或将下降100英镑</a></li>
 <li><a href="/comments/20210501/1537261.md" target="_blank">荷兰郁金香不为人知的这许多故事</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210501/1537167.md" target="_blank">研究：上班会“偷懒”微休息的，有助提升工作效率</a></li>
 <li><a href="/comments/20210501/1537166.md" target="_blank">糖尿病为何淀粉也要控制！“醣类”“糖类”怎么分？</a></li>
 <li><a href="/comments/20210501/1537153.md" target="_blank">国安处拘捕一男一女 28 岁男被指涉嫌“煽动分裂国家” 据悉与上水母子出售胡椒球弹枪案有关</a></li>
-<li><a href="/comments/20210501/1537152.md" target="_blank">美情报首长指台湾更倾向独立 中共外交部又跳脚了</a></li>
-<li><a href="/comments/20210501/1537151.md" target="_blank">全面脱贫？中国公布农工平均月收入 广大网民怒了</a></li>
-<li><a href="/comments/20210501/1537150.md" target="_blank">【中国传统服装】唐朝服装简史</a></li>
-<li><a href="/comments/20210501/1537149.md" target="_blank">巴西染疫死亡人数破40万 经济部长一句真话惹毛了中共</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
