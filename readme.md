@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210430/1536975.md">习近平一句话引爆网炸锅；专家揭秘中共数据造假3大骗术；电动车大跃进烂尾在望</a></li>
-<li><a href="/comments/20210430/1536943.md">马斯克被逼急或给中共致命一击</a></li>
 <li><a href="/cbnews/20210430/1537128.md">习近平下令与美争霸 内部文件曝光</a></li>
 <li><a href="/comments/20210430/1537050.md">习近平受挫？副总理没动 只换神秘部长</a></li>
-<li><a href="/topimagenews/20210501/1537439.md">习近平翻案文革试水？毛左亢奋；天人感应? 北京现惊人一幕</a></li>
 <li><a href="/yule/20210501/1537305.md">她是体操游泳双料冠军 卷走44亿跑路，躲在美国</a></li>
-<li><a href="/cbnews/20210430/1536936.md">女子匆匆宾馆开房 老板娘拒绝 真相后网友炸了</a></li>
+<li><a href="/topimagenews/20210501/1537439.md">习近平翻案文革试水？毛左亢奋；天人感应? 北京现惊人一幕</a></li>
 <li><a href="/cbnews/20210501/1537527.md">又被中纪委点名！范冰冰这次没忍</a></li>
-<li><a href="/cnnews/20210430/1536946.md">中国开始试行用数字人民币支付工资</a></li>
 <li><a href="/cbnews/20210501/1537289.md">10万块买来的深圳豪宅，让我倾家荡产</a></li>
 <li><a href="/cnnews/20210430/1537130.md">中国大陆多地惊现印度变异毒株网友：病毒回家了</a></li>
 <li><a href="/ssgc/20210501/1537280.md">〖兲朝浮世绘〗这个女人再次证明厉害国逆淘汰的洪荒之力有多厉害</a></li>
 <li><a href="/cbnews/20210501/1537441.md">不满与恐惧 红二代与习近平裂痕加深</a></li>
+<li><a href="/cnnews/20210501/1537454.md">2000亿资金和大量人口逃离：深圳楼市悬了…</a></li>
 <li><a href="/bannedvideo/20210430/1536976.md">陈破空：会开完了，习近平受挫！无力撤换副总理。与多数高层起冲突。他前脚刚走，广西就出事</a></li>
 <li><a href="/cnnews/20210501/1537228.md">场面骇人 三亚亚龙湾迎宾馆突发砍人事件1死4伤</a></li>
-<li><a href="/cnnews/20210501/1537454.md">2000亿资金和大量人口逃离：深圳楼市悬了…</a></li>
 <li><a href="/cnnews/20210501/1537315.md">中国一流大学校长的“洋相”： 可出一本笑话集</a></li>
 <li><a href="/cbnews/20210501/1537461.md">余茂春：中共打压特斯拉有更深远意图</a></li>
 <li><a href="/cnnews/20210501/1537229.md">习近平主持政治局会议 承认经济基础不稳</a></li>
 <li><a href="/cnnews/20210430/1536977.md">研究人员正在调查：近6万女性报告 接种中共病毒疫苗后月经周期改变【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210501/1537417.md">江苏短裙少女被风筝带上天 惊险画面曝光</a></li>
-<li><a href="/yule/20210430/1536948.md">50岁李嘉欣穿性感内衣秀蛮腰 与老公成鲜明反差</a></li>
 <li><a href="/cnnews/20210430/1537108.md">炸雷！三大航盈利1亿突变巨亏30亿又曝巨亏140亿</a></li>
+<li><a href="/cbnews/20210501/1537214.md">登上热搜！副局长、下属在工作群喊“宝贝” 同事尴尬退群</a></li>
+<li><a href="/cbnews/20210501/1537369.md">中国多地惊现印度变异毒株 网友：病毒回娘家了</a></li>
+<li><a href="/cbnews/20210501/1537505.md">封杀温家宝 日媒解析习近平整治阿里背后太子党</a></li>
+<li><a href="/cnnews/20210430/1537031.md">敛财4.6亿破纪录！71岁"老虎"落马后亮相</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
 
 </ul>
 </div>
