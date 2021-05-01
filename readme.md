@@ -15,8 +15,8 @@
 <li><a href="/comments/20210501/1537553.md">习近平权斗遇挫？一驻华外交官预测中共命运：王岐山李克强谋政权更迭</a></li>
 <li><a href="/cbnews/20210501/1537441.md">不满与恐惧 红二代与习近平裂痕加深</a></li>
 <li><a href="/cnnews/20210501/1537228.md">场面骇人 三亚亚龙湾迎宾馆突发砍人事件1死4伤</a></li>
-<li><a href="/cnnews/20210501/1537454.md">2000亿资金和大量人口逃离：深圳楼市悬了…</a></li>
 <li><a href="/cnnews/20210501/1537315.md">中国一流大学校长的“洋相”： 可出一本笑话集</a></li>
+<li><a href="/cnnews/20210501/1537454.md">2000亿资金和大量人口逃离：深圳楼市悬了…</a></li>
 <li><a href="/cbnews/20210501/1537461.md">余茂春：中共打压特斯拉有更深远意图</a></li>
 <li><a href="/cnnews/20210501/1537229.md">习近平主持政治局会议 承认经济基础不稳</a></li>
 <li><a href="/cnnews/20210501/1537417.md">江苏短裙少女被风筝带上天 惊险画面曝光</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20210501/1537562.md">加州近20%电动车主为何想重开汽油车</a></li>
 <li><a href="/cbnews/20210501/1537369.md">中国多地惊现印度变异毒株 网友：病毒回娘家了</a></li>
 <li><a href="/yule/20210501/1537250.md">冯绍峰妈妈回应儿子离婚原因</a></li>
-<li><a href="/topimagenews/20210501/1537438.md">将三个贵州同胞跪地公审即刻处决：佤邦实录</a></li>
 <li><a href="/worldnews/20210501/1537317.md">一个靠洗钱发家的国家,如今是华人的秘密花园</a></li>
+<li><a href="/topimagenews/20210501/1537438.md">将三个贵州同胞跪地公审即刻处决：佤邦实录</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210501/1537751.md" target="_blank">巴西高官称中共发明了肺炎病毒 战狼又疯狂</a></li>
 <li><a href="/cbnews/20210501/1537713.md" target="_blank">篡改历史者，最终必遭历史清算</a></li>
 <li><a href="/comments/20210501/1537689.md" target="_blank">【#两岸新闻5/1】效仿赵立坚 中共驻日使馆发图讥美反被揭丑；打中国疫苗匈牙利巴西死亡率仍高；恒大汽车现车展 底盘空禁拍摄；广西幼儿园再发生砍人惨案；美301报告再列北京入重点名单【#希望之声TV】</a></li>
 <li><a href="/comments/20210501/1537675.md" target="_blank">亚利桑那州审计，现场进入粉色T恤者！民主党气急败坏，左翼团体要求司法部终止审计。审计公司的安保计划被泄漏，提到安提法。州共和党主席担心，审计或遭攻击。</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210501/1537352.md" target="_blank">手机卖场衰亡的秘密，藏在这座西南小城里</a></li>
 <li><a href="/comments/20210501/1537336.md" target="_blank">【#新闻焦点解读4/30】是谁？白宫遭神秘能量攻击  习下令与美争霸抢夺网络话语权  主持:高洁  嘉宾:方伟 蓝述【#希望之声TV】</a></li>
 <li><a href="/cbnews/20210501/1537327.md" target="_blank">文昭：中国人口跌破14亿，承认了连锁反应有多严重？为什麽生育从来不用计划？</a></li>
-<li><a href="/comments/20210501/1537316.md" target="_blank">【#全球新闻4/30】盘点美各州立法 反制拜登政策 ；破防火墙？星链卫星已达1,500颗；欧盟议员誓言阻止欧中投资协定落实；参加“六四”晚会与“占中”运动 黄之锋等被定罪6:00pm【#希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210501/1537721.md" target="_blank">蓬佩奥促拜登：以中共之道还治中共之身</a></li>
+<li><a href="/comments/20210501/1537719.md" target="_blank">不奢望重聚，只望你们心安平安</a></li>
+<li><a href="/comments/20210501/1537718.md" target="_blank">教育局：教师播“政治歌”或被谴责警告 发布或转发社运“不恰当”社交贴文 同属专业失德</a></li>
 <li><a href="/comments/20210501/1537698.md" target="_blank">摆脱对中国的依赖 欧盟防并购 澳日印重整供应链</a></li>
 <li><a href="/comments/20210501/1537697.md" target="_blank">拜登执政百天：中国对美国的威胁究竟有多大？</a></li>
 <li><a href="/comments/20210501/1537689.md" target="_blank">【#两岸新闻5/1】效仿赵立坚 中共驻日使馆发图讥美反被揭丑；打中国疫苗匈牙利巴西死亡率仍高；恒大汽车现车展 底盘空禁拍摄；广西幼儿园再发生砍人惨案；美301报告再列北京入重点名单【#希望之声TV】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210501/1537565.md" target="_blank">《欧洲心脏协会》根据血压水平建议不同运动</a></li>
 <li><a href="/comments/20210501/1537564.md" target="_blank">20岁妹半身麻痹口吐白沫！一查脑袋“长虫”了</a></li>
 <li><a href="/comments/20210501/1537561.md" target="_blank">分析：拜登上任一百天 美国大幅左转</a></li>
-<li><a href="/comments/20210501/1537557.md" target="_blank">赵映寿： 红酒——通往奴役的片断 之六</a></li>
-<li><a href="/comments/20210501/1537554.md" target="_blank">组织揭“一带一路”中国劳工被中国公司剥削 365 日无休工作 护照被扣无法返国</a></li>
-<li><a href="/comments/20210501/1537553.md" target="_blank">习近平权斗遇挫？一驻华外交官预测中共命运：王岐山李克强谋政权更迭</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
 
 </ul>
 </div>
