@@ -14,10 +14,10 @@
 <li><a href="/comments/20210430/1537050.md">习近平受挫？副总理没动 只换神秘部长</a></li>
 <li><a href="/cbnews/20210430/1536936.md">女子匆匆宾馆开房 老板娘拒绝 真相后网友炸了</a></li>
 <li><a href="/comments/20210430/1536896.md">贺龙之子前海军副司令员贺鹏飞秘书出事 中共海军副参谋长少将宋学突被罢免全国人大代表 贺鹏飞宋学与中共航母隐秘关系曝光 军队暗潮汹涌 习近平签发敏感主席令 中南海不可告人的秘密_360</a></li>
-<li><a href="/cnnews/20210430/1536946.md">中国开始试行用数字人民币支付工资</a></li>
-<li><a href="/cbnews/20210501/1537289.md">10万块买来的深圳豪宅，让我倾家荡产</a></li>
-<li><a href="/cnnews/20210430/1537130.md">中国大陆多地惊现印度变异毒株网友：病毒回家了</a></li>
 <li><a href="/topimagenews/20210501/1537439.md">习近平翻案文革试水？毛左亢奋；天人感应? 北京现惊人一幕</a></li>
+<li><a href="/cbnews/20210501/1537289.md">10万块买来的深圳豪宅，让我倾家荡产</a></li>
+<li><a href="/cnnews/20210430/1536946.md">中国开始试行用数字人民币支付工资</a></li>
+<li><a href="/cnnews/20210430/1537130.md">中国大陆多地惊现印度变异毒株网友：病毒回家了</a></li>
 <li><a href="/ssgc/20210501/1537280.md">〖兲朝浮世绘〗这个女人再次证明厉害国逆淘汰的洪荒之力有多厉害</a></li>
 <li><a href="/bannedvideo/20210430/1536976.md">陈破空：会开完了，习近平受挫！无力撤换副总理。与多数高层起冲突。他前脚刚走，广西就出事</a></li>
 <li><a href="/cnnews/20210501/1537228.md">场面骇人 三亚亚龙湾迎宾馆突发砍人事件1死4伤</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/yule/20210430/1536948.md">50岁李嘉欣穿性感内衣秀蛮腰 与老公成鲜明反差</a></li>
 <li><a href="/cnnews/20210430/1537108.md">炸雷！三大航盈利1亿突变巨亏30亿又曝巨亏140亿</a></li>
 <li><a href="/cnnews/20210501/1537315.md">中国一流大学校长的“洋相”： 可出一本笑话集</a></li>
+<li><a href="/cbnews/20210501/1537527.md">又被中纪委点名！范冰冰这次没忍</a></li>
 <li><a href="/worldnews/usa/20210430/1536843.md">川普总统发出动员令 大反攻开始</a></li>
-<li><a href="/cbnews/20210501/1537214.md">登上热搜！副局长、下属在工作群喊“宝贝” 同事尴尬退群</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210501/1537576.md" target="_blank">台外长：面对中共威胁 唯民主国家携手方能获胜</a></li>
 <li><a href="/comments/20210501/1537568.md" target="_blank">习近平为文革“翻案” 毛左亢奋</a></li>
 <li><a href="/comments/20210501/1537567.md" target="_blank">真的伤心！研究：这种创伤导致心血管疾病</a></li>
 <li><a href="/comments/20210501/1537566.md" target="_blank">研究发现，每天吃它，降低45%患癌风险</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210501/1537473.md" target="_blank">卖自己旧书被一罚荡产倾家，现代“孔乙己”不了更惨</a></li>
 <li><a href="/comments/20210501/1537472.md" target="_blank">张杰：潜伏在中共内部庞大的间谍军团</a></li>
 <li><a href="/comments/20210501/1537471.md" target="_blank">【要闻精粹】这颗“心脏”的危险太令美国揪心</a></li>
-<li><a href="/comments/20210501/1537470.md" target="_blank">病态的中共国民族主义</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 
 </ul>
 </div>
