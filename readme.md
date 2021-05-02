@@ -10,8 +10,8 @@
 <li><a href="/comments/20210501/1537553.md">习近平权斗遇挫？一驻华外交官预测中共命运：王岐山李克强谋政权更迭</a></li>
 <li><a href="/cbnews/20210501/1537441.md">不满与恐惧 红二代与习近平裂痕加深</a></li>
 <li><a href="/cnnews/20210501/1537454.md">2000亿资金和大量人口逃离：深圳楼市悬了…</a></li>
-<li><a href="/topimagenews/20210501/1537673.md">中共打压特斯拉有更深远意图；华为哭了；腾讯挨罚！谁也没想到会罚这个数字…</a></li>
 <li><a href="/cnnews/20210501/1537629.md">变种病毒袭中国 逾10万人涌天安门</a></li>
+<li><a href="/topimagenews/20210501/1537673.md">中共打压特斯拉有更深远意图；华为哭了；腾讯挨罚！谁也没想到会罚这个数字…</a></li>
 <li><a href="/cbnews/20210501/1537616.md">习近平“卡位”遇挫？周永康余毒顶替死亡部长</a></li>
 <li><a href="/bannedvideo/20210501/1537631.md">文睿：新华网：习近平上的是梁家河大学，这是要出大事儿的节奏啊</a></li>
 <li><a href="/cbnews/20210501/1537461.md">余茂春：中共打压特斯拉有更深远意图</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/lifebaike/20210501/1537661.md">40岁的女人最需要的是什么 你根本想象不到</a></li>
 <li><a href="/cnnews/20210501/1537562.md">加州近20%电动车主为何想重开汽油车</a></li>
 <li><a href="/bannedvideo/20210501/1537601.md">习近平召开政治局会议谈楼市首次提学区房，五个建议一定要看--天钧政经</a></li>
-<li><a href="/cbnews/20210501/1537369.md">中国多地惊现印度变异毒株 网友：病毒回娘家了</a></li>
 <li><a href="/bannedvideo/20210501/1537672.md">陈破空：实锤了！共军终于承认：辽宁号惨遭美军修理！恳求拜登”约束一线部队”</a></li>
+<li><a href="/cbnews/20210501/1537369.md">中国多地惊现印度变异毒株 网友：病毒回娘家了</a></li>
 <li><a href="/bannedvideo/20210501/1537809.md">被捕深国特工 前FBI局长科米验尸希拉里后崩溃 开始爆料奥巴马 美国民众大量评论和留言</a></li>
 <li><a href="/comments/20210501/1537568.md">习近平为文革“翻案” 毛左亢奋</a></li>
 <li><a href="/topimagenews/20210501/1537438.md">将三个贵州同胞跪地公审即刻处决：佤邦实录</a></li>
 <li><a href="/comments/20210501/1537678.md">吐槽金正恩！惨遭90枪处决 合唱团指挥家死无完尸</a></li>
-<li><a href="/cbnews/20210501/1537327.md">文昭：中国人口跌破14亿，承认了连锁反应有多严重？为什麽生育从来不用计划？</a></li>
 <li><a href="/cbnews/20210501/1537506.md">传王忠林将任湖北省长 曾要求武汉民众感恩习近平</a></li>
+<li><a href="/bannedvideo/20210501/1537499.md">中国新闻短信：习近平当众训话桂林书记 网友看傻眼 ｜＃新唐人电视台</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210502/1537956.md" target="_blank">美国防部前主管：飞碟真实存在 技术远比人类先进</a></li>
+<li><a href="/comments/20210502/1537950.md" target="_blank">曹长青∶左派三支柱 右派三把刀</a></li>
+<li><a href="/comments/20210502/1537949.md" target="_blank">“恶霸地主刘文彩”是一个兴学助人的大好人</a></li>
+<li><a href="/comments/20210502/1537948.md" target="_blank">颜纯钩: 篡改历史者 最终必遭历史清算</a></li>
 <li><a href="/comments/20210502/1537947.md" target="_blank">欧洲最著名的情妇：用美貌统治国王，用战争统治法国，用艺术统治欧洲！毕生宿敌差点成夫妻，相爱相杀天意谁能敌！三条裙子不好惹，普鲁士差点灭国！【大话西油 姜光宇】(2021.05.01）</a></li>
 <li><a href="/comments/20210502/1537944.md" target="_blank">朱利安尼的搜查令来自何方？4月30日，朱利安尼披露更多细节。FBI钓鱼执法，矛头指向川普总统，想构陷第二次通乌门？朱利安尼早知会有这一天，为何不销毁证据？</a></li>
 <li><a href="/comments/20210502/1537938.md" target="_blank">围堵红色帝国扩张</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210502/1537875.md" target="_blank">大脑“喜欢”的食物排行！核桃居然未上榜</a></li>
 <li><a href="/comments/20210502/1537873.md" target="_blank">台湾5200人排字贺李洪志师尊华诞 天上七彩日晕辉映</a></li>
 <li><a href="/comments/20210502/1537860.md" target="_blank">朝鲜看韩剧重罚！ 只能是“同志”不能叫“欧巴”万名学生自首求减刑</a></li>
-<li><a href="/comments/20210502/1537859.md" target="_blank">诡异天气赛过西游记影片！北京河北突降大雪 江苏超级暴风 逾百人死伤</a></li>
-<li><a href="/comments/20210502/1537858.md" target="_blank">【查册有罪】传媒查车牌疑团未解 《立场》列 5 情况问申请是否合法 运输署拒解释</a></li>
-<li><a href="/comments/20210502/1537857.md" target="_blank">杨子俊：港大称颂孙中山，却与关心政治的学生割席</a></li>
-<li><a href="/comments/20210502/1537856.md" target="_blank">港大侮辱百年历史学生会</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 
 </ul>
 </div>
