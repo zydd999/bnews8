@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210502/1537937.md">五一刚开始，砖家就不说人话了？</a></li>
-<li><a href="/cnnews/20210502/1537907.md">红二代陈小鲁生前秘辛：对习近平恐惧和不满</a></li>
 <li><a href="/comments/20210502/1537927.md">很敏感！天津公安高官跳楼身亡 官方噤声媒体不敢报</a></li>
 <li><a href="/cnnews/20210502/1538051.md">哈佛大学：关于新冠的绝望未来</a></li>
 <li><a href="/cnnews/20210502/1538100.md">“印度神童”抛震撼弹！爆9月有毁灭性灾难 第三波疫情要来了</a></li>
@@ -15,9 +14,9 @@
 <li><a href="/bannedvideo/20210502/1538227.md">陈破空：内幕惊人！海军高层叛变，导致辽宁号遭美军制服！习近平怒令大清洗</a></li>
 <li><a href="/cnnews/20210502/1537975.md">Costco吃透了人性…</a></li>
 <li><a href="/comments/20210502/1538148.md">震到习近平？前驻华外交官直言中国政权更替势在必行</a></li>
+<li><a href="/ssgc/20210502/1538292.md">中共的疫苗陷阱已挖好 看谁往里跳？</a></li>
 <li><a href="/comments/20210502/1538146.md">“富贵之人，早有祥兆”，这3个特质，预示着时来运转</a></li>
 <li><a href="/comments/20210502/1538033.md">李燕铭：湖北省政府一把手诡异“悄悄”换人 曾庆红江西帮马仔王晓东即将卸任湖北省长 武汉市委书记王忠林升任湖北省委副书记与省政府党组书记接班王晓东 王晓东大秘落马 曾隐身逾四十天 一头黑发突然变白发 王晓东旧主刘方仁18年前被胡锦涛法办</a></li>
-<li><a href="/ssgc/20210502/1538292.md">中共的疫苗陷阱已挖好 看谁往里跳？</a></li>
 <li><a href="/cbnews/20210502/1538080.md">白宫放话：警告北京趁早别打这个主意</a></li>
 <li><a href="/yule/20210502/1537952.md">11岁女孩长太漂亮 爸竟“辞职当保镳”</a></li>
 <li><a href="/cbnews/20210502/1538003.md">网曝五一出行 多辆车追尾 特斯拉刹住了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20210502/1537947.md">欧洲最著名的情妇：用美貌统治国王，用战争统治法国，用艺术统治欧洲！毕生宿敌差点成夫妻，相爱相杀天意谁能敌！三条裙子不好惹，普鲁士差点灭国！【大话西油 姜光宇】(2021.05.01）</a></li>
 <li><a href="/cbnews/20210502/1537916.md">恒大汽车现车展 底盘无刹车无悬吊 禁拍摄</a></li>
 <li><a href="/yule/20210502/1538056.md">福原爱偷吃不是最大问题？人妻揭“在日本不可原谅”罪行</a></li>
+<li><a href="/worldnews/20210502/1537985.md">指挥家因1句话遭金正恩开90枪 沦为肉酱被装麻袋</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 <li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
