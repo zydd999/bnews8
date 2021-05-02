@@ -7,10 +7,9 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/topimagenews/20210501/1537673.md">中共打压特斯拉有更深远意图；华为哭了；腾讯挨罚！谁也没想到会罚这个数字…</a></li>
 <li><a href="/cbnews/20210502/1537937.md">五一刚开始，砖家就不说人话了？</a></li>
-<li><a href="/bannedvideo/20210501/1537631.md">文睿：新华网：习近平上的是梁家河大学，这是要出大事儿的节奏啊</a></li>
 <li><a href="/cnnews/20210502/1537907.md">红二代陈小鲁生前秘辛：对习近平恐惧和不满</a></li>
-<li><a href="/lifebaike/20210501/1537661.md">40岁的女人最需要的是什么 你根本想象不到</a></li>
 <li><a href="/bannedvideo/20210501/1537809.md">被捕深国特工 前FBI局长科米验尸希拉里后崩溃 开始爆料奥巴马 美国民众大量评论和留言</a></li>
+<li><a href="/lifebaike/20210501/1537661.md">40岁的女人最需要的是什么 你根本想象不到</a></li>
 <li><a href="/bannedvideo/20210501/1537672.md">陈破空：实锤了！共军终于承认：辽宁号惨遭美军修理！恳求拜登”约束一线部队”</a></li>
 <li><a href="/comments/20210502/1537927.md">很敏感！天津公安高官跳楼身亡 官方噤声媒体不敢报</a></li>
 <li><a href="/cnnews/20210502/1538051.md">哈佛大学：关于新冠的绝望未来</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20210502/1538033.md">李燕铭：湖北省政府一把手诡异“悄悄”换人 曾庆红江西帮马仔王晓东即将卸任湖北省长 武汉市委书记王忠林升任湖北省委副书记与省政府党组书记接班王晓东 王晓东大秘落马 曾隐身逾四十天 一头黑发突然变白发 王晓东旧主刘方仁18年前被胡锦涛法办</a></li>
 <li><a href="/cbnews/20210501/1537808.md">中共为何迟迟不公布2020年人口普查数据</a></li>
 <li><a href="/topimagenews/20210502/1538037.md">您见过冰雹 但您应该没见过这么大的冰雹</a></li>
+<li><a href="/cbnews/20210502/1537916.md">恒大汽车现车展 底盘无刹车无悬吊 禁拍摄</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210502/1538202.md" target="_blank">我不想再开电视了：揭秘大陆用户数据如何被收集</a></li>
 <li><a href="/cbnews/20210502/1538132.md" target="_blank">德州参议院通过议案谴责中共活摘器官</a></li>
 <li><a href="/cbnews/20210502/1538137.md" target="_blank">”身在此山中” 破笛而出</a></li>
 <li><a href="/cbnews/20210502/1538133.md" target="_blank">美印太司令交接 台海军司令刘志斌受邀出席</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210502/1537916.md" target="_blank">恒大汽车现车展 底盘无刹车无悬吊 禁拍摄</a></li>
 <li><a href="/cbnews/20210502/1537915.md" target="_blank">山东幼师领孩子进厕所暴打体罚 网民怒斥：畜生</a></li>
 <li><a href="/cbnews/20210502/1537914.md" target="_blank">狂风雷暴袭江苏酿11死 渔船沉没飞机原地转圈</a></li>
-<li><a href="/cbnews/20210502/1537895.md" target="_blank">热水烫、掐脖子、脚踩脸…安徽恐怖教师暴虐逾20小学生</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210502/1538199.md" target="_blank">G7外长会议下周登场 美日外长将先行举行会谈</a></li>
+<li><a href="/comments/20210502/1538198.md" target="_blank">何谓围堵</a></li>
 <li><a href="/comments/20210502/1538179.md" target="_blank">英自动驾驶汽车年底上高速 加紧立法为世界领先地位护航</a></li>
 <li><a href="/comments/20210502/1538163.md" target="_blank">回首都有真在</a></li>
 <li><a href="/comments/20210502/1538160.md" target="_blank">【编辑室手记】一小步战胜恐惧</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210502/1538072.md" target="_blank">美中必有一战？台积电成关键爆点…</a></li>
 <li><a href="/comments/20210502/1538071.md" target="_blank">张杰：中共国才是真正的“无依之地”</a></li>
 <li><a href="/comments/20210502/1538069.md" target="_blank">信仰的原罪之二——信仰与政治权力的恋情（东方哲人解析当代人类困惑  第十九讲）【袁红冰杏坛】 05022021</a></li>
-<li><a href="/comments/20210502/1538059.md" target="_blank">日本人最气福原爱并非“不伦” 而是这一点</a></li>
-<li><a href="/comments/20210502/1538058.md" target="_blank">港大封杀学生会 候选内阁“薪燧”表明继续参选：有灯就有人</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
