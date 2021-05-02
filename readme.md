@@ -25,9 +25,9 @@
 <li><a href="/topimagenews/20210502/1538037.md">您见过冰雹 但您应该没见过这么大的冰雹</a></li>
 <li><a href="/cnnews/20210502/1537932.md">中共官媒无下限讽印度疫情 引爆中外网民众怒</a></li>
 <li><a href="/comments/20210502/1537947.md">欧洲最著名的情妇：用美貌统治国王，用战争统治法国，用艺术统治欧洲！毕生宿敌差点成夫妻，相爱相杀天意谁能敌！三条裙子不好惹，普鲁士差点灭国！【大话西油 姜光宇】(2021.05.01）</a></li>
-<li><a href="/cbnews/20210502/1537916.md">恒大汽车现车展 底盘无刹车无悬吊 禁拍摄</a></li>
-<li><a href="/yule/20210502/1538056.md">福原爱偷吃不是最大问题？人妻揭“在日本不可原谅”罪行</a></li>
+<li><a href="/cnnews/20210502/1538224.md">共和党反川铁杆罗姆尼参议员 在犹他州共和党大会上被热烈嘘嘲 【阿波罗网编译】</a></li>
 <li><a href="/worldnews/20210502/1537985.md">指挥家因1句话遭金正恩开90枪 沦为肉酱被装麻袋</a></li>
+<li><a href="/yule/20210502/1538056.md">福原爱偷吃不是最大问题？人妻揭“在日本不可原谅”罪行</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210503/1538410.md" target="_blank">塔利班袭击美军及阿富汗政府基地 至少17人遇害</a></li>
+<li><a href="/comments/20210503/1538409.md" target="_blank">寒石：中国历史的感悟（二、从源头看华夏大民族）</a></li>
+<li><a href="/comments/20210503/1538408.md" target="_blank">袁红冰：论中国苦难文学（下）</a></li>
+<li><a href="/comments/20210503/1538407.md" target="_blank">关于建立习近平及其以下《中共狗官罪行档案》的公告（二零二一第五号）</a></li>
 <li><a href="/comments/20210503/1538383.md" target="_blank">温家宝忆母文章被被封杀内幕 习近平整治马云商业帝国背后太子党陈元与江泽民家族 中南海不可告人的秘密_361</a></li>
 <li><a href="/comments/20210503/1538382.md" target="_blank">普京参加东正教复活节仪式 向教徒和国人表祝贺</a></li>
 <li><a href="/comments/20210503/1538368.md" target="_blank">基辛格：美国应与中对话 但需要守住价值观</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210502/1538297.md" target="_blank">人间炼狱… 印度火葬场爆满 法官遗体遭野狗啃食</a></li>
 <li><a href="/comments/20210502/1538241.md" target="_blank">【#两岸新闻5/2】五一出行多辆车追尾 特斯拉刹住了！“18元一日游”重庆老人竟被带去墓地；美下周恢复中国学生签证处理 部分专业受限；美专家：中共若攻台湾 或跟芯片短缺有关【#希望之声TV】8am</a></li>
 <li><a href="/comments/20210502/1538234.md" target="_blank">校园是社会的缩影，抹杀学生会也是</a></li>
-<li><a href="/comments/20210502/1538232.md" target="_blank">职工盟 5.1 街站 战友手持入狱工会领袖照片 李卓人太太：唔好忘记佢</a></li>
-<li><a href="/comments/20210502/1538231.md" target="_blank">【阉割选举】政府委任新一届防火委员会名单 29 名民主派区议员全被剔走</a></li>
-<li><a href="/comments/20210502/1538228.md" target="_blank">川普真情融冰，故事超级感人。左媒攻击川普总统骂女人，背后却是一段感人的故事。川普神奇修建纽约沃尔曼溜冰场，却被左媒污名化，川普的古道热肠，谁能懂？</a></li>
-<li><a href="/comments/20210502/1538199.md" target="_blank">G7外长会议下周登场 美日外长将先行举行会谈</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
