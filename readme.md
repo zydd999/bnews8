@@ -13,7 +13,6 @@
 <li><a href="/comments/20210502/1538146.md">“富贵之人，早有祥兆”，这3个特质，预示着时来运转</a></li>
 <li><a href="/ssgc/20210502/1538292.md">中共的疫苗陷阱已挖好 看谁往里跳？</a></li>
 <li><a href="/comments/20210503/1538356.md">从中共海军副参谋长宋学被调查看航母的腐败</a></li>
-<li><a href="/cbnews/20210502/1538080.md">白宫放话：警告北京趁早别打这个主意</a></li>
 <li><a href="/cbnews/20210503/1538342.md">习近平不妙？英国前驻华外交官直言“中国政权更替势在必行”</a></li>
 <li><a href="/ssgc/20210503/1538369.md">〖兲朝浮世绘〗周正毅和马云要倒大霉了</a></li>
 <li><a href="/cbnews/20210502/1538202.md">我不想再开电视了：揭秘大陆用户数据如何被收集</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/bannedvideo/20210502/1538289.md">温家宝被摆上枱反习近平｜“透视中国”时事解读【0070】SinoInsider 20210502</a></li>
 <li><a href="/cbnews/20210503/1538423.md">京广高铁断电3小时 老农民背锅 网友怒斥官方无理</a></li>
 <li><a href="/cnnews/20210502/1538224.md">共和党反川铁杆罗姆尼参议员 在犹他州共和党大会上被热烈嘘嘲 【阿波罗网编译】</a></li>
-<li><a href="/cnnews/20210502/1538123.md">美国防部前飞碟项目主管惊爆：天啊，这是真的…</a></li>
 <li><a href="/cbnews/20210503/1538395.md">习近平权利难保？英前外交官：政权更迭势在必行</a></li>
+<li><a href="/cnnews/20210502/1538123.md">美国防部前飞碟项目主管惊爆：天啊，这是真的…</a></li>
 <li><a href="/topimagenews/20210502/1538287.md">川普支持者潜入加州安提法 挖出恐怖目标名单专门针对警察和共和党人的【阿波罗网编译】</a></li>
+<li><a href="/yule/20210503/1538419.md">王宝强：活到39岁，感觉人生真苦…</a></li>
 <li><a href="/bannedvideo/20210502/1538143.md">文睿：幸灾乐祸的喧嚣过后，等待中国的是更痛苦的一切，醒醒吧</a></li>
-<li><a href="/comments/20210502/1538297.md">人间炼狱… 印度火葬场爆满 法官遗体遭野狗啃食</a></li>
 <li><a href="/cbnews/20210503/1538375.md">西安的哥车内猝死被贴罚单 网友怒斥交警</a></li>
+<li><a href="/comments/20210502/1538297.md">人间炼狱… 印度火葬场爆满 法官遗体遭野狗啃食</a></li>
 <li><a href="/bannedvideo/20210502/1538185.md">刘伯温《推碑图》预言当今大事正发生(上) ，中华大一统的具体时间和要件；弥勒下世传“三字真经”，这个人是谁？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210503/1538537.md" target="_blank">范畴：给中南海的最后告诫</a></li>
 <li><a href="/comments/20210503/1538519.md" target="_blank">范畴：一封写给中共解放军的公开信</a></li>
 <li><a href="/comments/20210503/1538518.md" target="_blank">【微博精粹】巴西部长竟敢这么说 某党当然气疯</a></li>
 <li><a href="/comments/20210503/1538482.md" target="_blank">世上仅存的人类被围在高墙之内，外面是嗜血成性的巨大怪物，大雄和他的朋友漫谈《进击的巨人》｜大雄画里话外</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210503/1538360.md" target="_blank">【六四 32 周年】国殇之柱屹立港大23年 蔡耀昌：丹麦雕塑家高志活盼警醒港人毋忘血腥镇压</a></li>
 <li><a href="/comments/20210503/1538359.md" target="_blank">【六四 32 周年】支联会洗刷国殇之柱 要求港大收回与学生会割席决定 高呼“结束一党专政”</a></li>
 <li><a href="/comments/20210503/1538358.md" target="_blank">港大学生会被割席 记港大十年变化</a></li>
-<li><a href="/comments/20210503/1538356.md" target="_blank">从中共海军副参谋长宋学被调查看航母的腐败</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
 
 </ul>
 </div>
