@@ -19,9 +19,9 @@
 <li><a href="/worldnews/20210504/1538945.md">中国使馆急删讽美漫画原因曝光！误踩“大地雷”惹怒以色列</a></li>
 <li><a href="/cnnews/20210503/1538585.md">林彪当面一套 背后一套 对毛认识清楚的第一人</a></li>
 <li><a href="/bannedvideo/20210503/1538787.md">中共幸灾乐祸印度疫情高人预测瘟神会回到中国 2021年5月3日</a></li>
+<li><a href="/cbnews/20210504/1539037.md">“带亲戚旅游第一天，我累到人没了”</a></li>
 <li><a href="/health/20210503/1538668.md">一种早餐吃了20多年，年近80岁，耳不聋眼不花身体特别棒</a></li>
 <li><a href="/bannedvideo/20210503/1538758.md">陈破空：外媒断言：习近平将被换下！亲习官媒急忙发声：若无意外他将继续留任。印度疫情深重，土共使坏？</a></li>
-<li><a href="/cbnews/20210504/1539037.md">“带亲戚旅游第一天，我累到人没了”</a></li>
 <li><a href="/cbnews/20210504/1539009.md">专栏 | 夜话中南海：温家宝的谢幕哀歌与习近平的文革复辟</a></li>
 <li><a href="/worldnews/20210504/1538971.md">21吨重中国长征火箭不受控坠落 恐砸居住区</a></li>
 <li><a href="/lifebaike/20210503/1538907.md">崩溃！妻子整理丈夫遗物竟发现惊人秘密…</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210504/1539299.md" target="_blank">朱利安尼案，华邮和纽时被迫自打嘴巴！熊猫侠也曾被媒体污蔑。亚利桑那州好戏加速，最精彩的留到最后！│#熊猫侠</a></li>
+<li><a href="/comments/20210504/1539298.md" target="_blank">2021豪华混动、电动车，这六款最值得推荐</a></li>
 <li><a href="/comments/20210504/1539284.md" target="_blank">LINE只是冰山一角 至少还有7间日企个资被中企查看</a></li>
 <li><a href="/comments/20210504/1539283.md" target="_blank">疫情期间护士申请加拿大移民更容易</a></li>
 <li><a href="/comments/20210504/1538529.md" target="_blank">西方国家和日本为什么在维吾尔族和法轮功人权问题上双重标准？ — 曾节明</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210504/1539092.md" target="_blank">【世界新闻自由日】无惧威胁！香港记者到《大公报》总部抗议被追踪</a></li>
 <li><a href="/comments/20210504/1539090.md" target="_blank">微软创办人比尔盖兹与梅琳达宣布离婚</a></li>
 <li><a href="/comments/20210504/1539087.md" target="_blank">吃生肉会带来意想不到的后果</a></li>
-<li><a href="/comments/20210504/1539083.md" target="_blank">塔利班突袭美军和阿富汗军事基地；新西兰总理：与中共分歧难调和；英航母访印太 脱欧后展全球影响力 ；美军最先进新型夜视仪清楚辨目标；菲外长爆粗口 要中国滚出争议海域6PM【希望之声TV】</a></li>
-<li><a href="/comments/20210504/1539075.md" target="_blank">中共拉拢，民主党受宠若惊？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
 
 </ul>
 </div>
