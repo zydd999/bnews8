@@ -12,8 +12,8 @@
 <li><a href="/topimagenews/20210504/1539199.md">蚂蚁集团与习近平秘斗：背后有人</a></li>
 <li><a href="/cbnews/20210504/1539084.md">台湾近期开战风险？习近平泄密</a></li>
 <li><a href="/cnnews/20210504/1539235.md">准备撤离？特斯拉提前清偿上海工厂6亿美元贷款</a></li>
-<li><a href="/cnnews/20210504/1539051.md">比尔盖兹与妻子梅琳达离婚 结束27年婚姻</a></li>
 <li><a href="/topimagenews/20210504/1539504.md">特斯拉中国大动作 马斯克铁了心? 中国中小企业停产翻3倍 土匪在公安！有数据</a></li>
+<li><a href="/cnnews/20210504/1539051.md">比尔盖兹与妻子梅琳达离婚 结束27年婚姻</a></li>
 <li><a href="/cbnews/20210504/1539037.md">“带亲戚旅游第一天，我累到人没了”</a></li>
 <li><a href="/cbnews/20210504/1539329.md">江家帮的替罪羊 周正毅生日宴掀风波 六主持人下场曝光</a></li>
 <li><a href="/cnnews/20210504/1539278.md">中国长征5号传出失控危机 21吨火箭恐砸住宅区</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/cnnews/20210504/1539116.md">车主曝光：中国红旗汽车H9是“工业垃圾”</a></li>
 <li><a href="/yule/20210504/1539181.md">他看不惯成龙！故意拍部电影来讽刺 没想到大卖</a></li>
 <li><a href="/cnnews/20210504/1539077.md">耶鲁教授：新增COVID-19患者中 60%打过疫苗</a></li>
-<li><a href="/lifebaike/20210503/1538907.md">崩溃！妻子整理丈夫遗物竟发现惊人秘密…</a></li>
+<li><a href="/topimagenews/20210504/1539599.md">中共要出大事了？中共党媒释放罕见信号</a></li>
 <li><a href="/worldnews/20210504/1538971.md">21吨重中国长征火箭不受控坠落 恐砸居住区</a></li>
 <li><a href="/ssgc/20210504/1538946.md">〖兲朝浮世绘〗以后醒悟过来的国家会越来越多</a></li>
 <li><a href="/comments/20210504/1539261.md">【微博精粹】习近平4年前密令曝光 原来如此</a></li>
 <li><a href="/comments/20210504/1539340.md">李燕铭：习近平政敌死亡恐吓习 放风二十大常委名单 企图“三国鼎立” 如意算盘难如意 高层清洗大戏随时可能上演</a></li>
-<li><a href="/topimagenews/20210504/1539599.md">中共要出大事了？中共党媒释放罕见信号</a></li>
+<li><a href="/cbnews/20210504/1539436.md">习近平秘斗江泽民 蚂蚁估值狂跌1500亿美元</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210504/1539661.md" target="_blank">知道没“民主” 所以昆明市宣扬只能写“自由明主”？</a></li>
 <li><a href="/cbnews/20210504/1539631.md" target="_blank">广西初中生失联后吊在树上身亡 警称自杀 家属质疑</a></li>
 <li><a href="/comments/20210504/1539600.md" target="_blank">【#每日焦点5/4】脸书监委会将公布川普帐号最终去留;布林肯:中共违诺美将捍卫国际秩序;美议员提案：阻止世银为中共贷款;美改变对朝战略;传特斯拉正加强与北京决策层“幕后互动”【希望之声TV】</a></li>
 <li><a href="/cbnews/20210504/1539559.md" target="_blank">武汉又传大学生失踪 活摘器官疑云再起</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210504/1539156.md" target="_blank">2.8亿农民工更老了 平均41.4岁</a></li>
 <li><a href="/cbnews/20210504/1539154.md" target="_blank">天亮时分：比尔盖茨离婚；说说几个名人的婚姻和一段两千年前的往事（政论天下第416集 20210503）</a></li>
 <li><a href="/comments/20210504/1539129.md" target="_blank">中共嘲讽“印度点火”， 还要印度感谢？印度疫情大爆发如何影响国际？台湾是全球最危险地区?</a></li>
-<li><a href="/cbnews/20210504/1539125.md" target="_blank">文昭：进撃の叫兽！复旦大学沈逸对印度疫情发出雷人「天问」、小粉红的「认知隧道」是如何炼成的？</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210504/1539668.md" target="_blank">加州州长将释放7.6万囚犯 含2万终身监禁犯</a></li>
+<li><a href="/comments/20210504/1539663.md" target="_blank">谢田：虚假的平均收入是对农民工的双重羞辱</a></li>
 <li><a href="/comments/20210504/1539651.md" target="_blank">参加“支持生命峰会” 川普抨击拜登政策</a></li>
 <li><a href="/comments/20210504/1539650.md" target="_blank">美重要教育机构被揭与中共有长期合作关系</a></li>
 <li><a href="/comments/20210504/1539649.md" target="_blank">美媒：反川铁杆罗姆尼遭1900名共和党人唾弃</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210504/1539502.md" target="_blank">安倍肯定日相政绩 全力支持菅义伟9月连任</a></li>
 <li><a href="/comments/20210504/1539498.md" target="_blank">曾节明：对历史的不公，本身就是对正义的蔑视</a></li>
 <li><a href="/comments/20210504/1539493.md" target="_blank">川普一句话回应审计，透露回归信号！间谍飞机警察鸟盘绕审计上空，是喜还是忧？亚利桑那州审计现场颜色区分，竟来自普利策编码系统。小切尼叫板川普，本月职位或不保。</a></li>
-<li><a href="/comments/20210504/1539491.md" target="_blank">墨西哥高架桥坍塌列车坠地 至少20死70伤</a></li>
-<li><a href="/comments/20210504/1539490.md" target="_blank">量子力学“逼”的你灵魂出窍</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 
 </ul>
 </div>
