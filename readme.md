@@ -13,19 +13,19 @@
 <li><a href="/comments/20210504/1539045.md">人口普查结果惊呆中南海最高层 习近平急开政治局会议 报告对外发布时间一延再延 中南海谣言预言_455</a></li>
 <li><a href="/comments/20210503/1538683.md">习近平不妙？英外交官：中共精英阶层强烈反习</a></li>
 <li><a href="/ssgc/20210503/1538681.md">辽宁号秀肌肉变出洋相 退休将领被追究责任</a></li>
-<li><a href="/finance/20210503/1538535.md">华为高管曝公司现状：逼到绝境 无法发货</a></li>
 <li><a href="/topimagenews/20210503/1538755.md">习近平“国师”翟东昇打脸中共；世界看清习近平3C原则；欧盟拟抗衡中共一带一路</a></li>
+<li><a href="/comments/20210504/1539047.md">爆“女播音员死在市长床上” 记者遭王忠林迫害</a></li>
+<li><a href="/cnnews/20210504/1539051.md">比尔盖兹与妻子梅琳达离婚 结束27年婚姻</a></li>
 <li><a href="/cnnews/20210503/1538585.md">林彪当面一套 背后一套 对毛认识清楚的第一人</a></li>
 <li><a href="/worldnews/20210504/1538945.md">中国使馆急删讽美漫画原因曝光！误踩“大地雷”惹怒以色列</a></li>
-<li><a href="/cnnews/20210504/1539051.md">比尔盖兹与妻子梅琳达离婚 结束27年婚姻</a></li>
-<li><a href="/comments/20210504/1539047.md">爆“女播音员死在市长床上” 记者遭王忠林迫害</a></li>
 <li><a href="/bannedvideo/20210503/1538787.md">中共幸灾乐祸印度疫情高人预测瘟神会回到中国 2021年5月3日</a></li>
-<li><a href="/bannedvideo/20210503/1538758.md">陈破空：外媒断言：习近平将被换下！亲习官媒急忙发声：若无意外他将继续留任。印度疫情深重，土共使坏？</a></li>
 <li><a href="/health/20210503/1538668.md">一种早餐吃了20多年，年近80岁，耳不聋眼不花身体特别棒</a></li>
-<li><a href="/comments/20210503/1538738.md">亚利桑那州审计主管发表15秒视频，却透露惊人信息！民主党州务卿花钱雇人捣乱，或面临起诉。州共和党主席，手工审计或被延期。</a></li>
-<li><a href="/lifebaike/20210503/1538907.md">崩溃！妻子整理丈夫遗物竟发现惊人秘密…</a></li>
+<li><a href="/bannedvideo/20210503/1538758.md">陈破空：外媒断言：习近平将被换下！亲习官媒急忙发声：若无意外他将继续留任。印度疫情深重，土共使坏？</a></li>
 <li><a href="/worldnews/20210504/1538971.md">21吨重中国长征火箭不受控坠落 恐砸居住区</a></li>
+<li><a href="/lifebaike/20210503/1538907.md">崩溃！妻子整理丈夫遗物竟发现惊人秘密…</a></li>
 <li><a href="/cbnews/20210504/1539009.md">专栏 | 夜话中南海：温家宝的谢幕哀歌与习近平的文革复辟</a></li>
+<li><a href="/comments/20210503/1538738.md">亚利桑那州审计主管发表15秒视频，却透露惊人信息！民主党州务卿花钱雇人捣乱，或面临起诉。州共和党主席，手工审计或被延期。</a></li>
+<li><a href="/cbnews/20210504/1539037.md">“带亲戚旅游第一天，我累到人没了”</a></li>
 <li><a href="/cnnews/20210503/1538875.md">美军到底有多强！看看他们都有什么就明白了</a></li>
 <li><a href="/bannedvideo/20210503/1538819.md">印度疫情大爆发早被预言, 3个月后超级双变种毒株将回到中国!? 阿南德最新预言: 新一波全球疫情高峰即将来临! 真观点｜真飞【20210503】【第118期】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210504/1539258.md" target="_blank">党媒宣扬教师出资给留守儿童改善伙食 挨轰</a></li>
 <li><a href="/comments/20210504/1539239.md" target="_blank">【#北美新闻 5/03】亚利桑那重大胜利！川普声明露玄机；反川罗姆尼遭近千共和党人唾弃；纽时华邮撤对朱利安尼谣言；比尔盖茨宣布离婚；加州放7.6万囚犯 含2万重犯；中共驻美记者混进特务【希望之声TV】</a></li>
 <li><a href="/cbnews/20210504/1539223.md" target="_blank">对抗中俄高超音速武器 美落实分层击败战略</a></li>
 <li><a href="/cbnews/20210504/1539201.md" target="_blank">劳动节当天，很多人的五一假期，结束在北京西站</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210504/1539003.md" target="_blank">重庆暴雨半城被淹 车辆仅露车顶 逾百亩树林被毁</a></li>
 <li><a href="/comments/20210504/1539002.md" target="_blank">【#中国时局5/3】内外交困 四面楚歌</a></li>
 <li><a href="/cbnews/20210504/1538964.md" target="_blank">洛阳90岁老人过寿 79子孙举牌进场磕头</a></li>
-<li><a href="/comments/20210504/1538936.md" target="_blank">习近平麻烦?中南海接美国传票；SpaceX载人太空船成功返回地球;亚利桑那生波折不明人员被偷带入审计；中共!澳洲要废港口与中共99年协议;扎克伯格夏威夷买地百万人联署反对;12PM 【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210504/1539261.md" target="_blank">【微博精粹】习近平4年前密令曝光 原来如此</a></li>
 <li><a href="/comments/20210504/1539239.md" target="_blank">【#北美新闻 5/03】亚利桑那重大胜利！川普声明露玄机；反川罗姆尼遭近千共和党人唾弃；纽时华邮撤对朱利安尼谣言；比尔盖茨宣布离婚；加州放7.6万囚犯 含2万重犯；中共驻美记者混进特务【希望之声TV】</a></li>
 <li><a href="/comments/20210504/1539238.md" target="_blank">胆小弱女变有胆识女记者 堂正吓跑中共特务</a></li>
 <li><a href="/comments/20210504/1539206.md" target="_blank">古风：数字人民币背后的政治图谋</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210504/1539062.md" target="_blank">快讯：比尔.盖茨夫妇宣布离婚 结束27年婚姻</a></li>
 <li><a href="/comments/20210504/1539061.md" target="_blank">曾甩海底捞“几条街”的百亿餐饮巨头破产</a></li>
 <li><a href="/comments/20210504/1539060.md" target="_blank">特斯拉被“碰瓷”？坊间视频为其做免费刹车广告</a></li>
-<li><a href="/comments/20210504/1539047.md" target="_blank">爆“女播音员死在市长床上” 记者遭王忠林迫害</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 
 </ul>
 </div>
