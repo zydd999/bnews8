@@ -19,13 +19,13 @@
 <li><a href="/cbnews/20210504/1539559.md">武汉又传大学生失踪 活摘器官疑云再起</a></li>
 <li><a href="/cbnews/20210505/1539770.md">你们这么辛苦旅游，真让人同情</a></li>
 <li><a href="/yule/20210505/1539927.md">他曾是香港第一美男子！迷倒刘嘉玲林青霞 晚年却妻离子散</a></li>
+<li><a href="/comments/20210505/1539967.md">成龙处境岌岌可危 三大腕与成龙割席 周润发拒绝与成龙合作演戏 刘德华五字道出真相 关锦鹏曝成龙险毁经典 黄志强看不惯成龙 故意拍部电影来讽刺 没想到大卖</a></li>
 <li><a href="/cnnews/20210505/1539734.md">习近平学毛自称“舵手” 美情报部门关注</a></li>
 <li><a href="/yule/20210505/1539797.md">西游记剧组当年在清西陵拍戏遇到的怪事，尘封30年无法解释</a></li>
-<li><a href="/comments/20210505/1539967.md">成龙处境岌岌可危 三大腕与成龙割席 周润发拒绝与成龙合作演戏 刘德华五字道出真相 关锦鹏曝成龙险毁经典 黄志强看不惯成龙 故意拍部电影来讽刺 没想到大卖</a></li>
 <li><a href="/comments/20210504/1539467.md">川普主义点燃中共太子党和习近平大分裂的导火索（下集）（中共命运的轨迹和人类前途  第十二讲）【袁红冰纵论天下】 05042021</a></li>
+<li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
 <li><a href="/cbnews/20210505/1539860.md">中共政法委嘲印度疫情 4点不寻常</a></li>
 <li><a href="/bannedvideo/20210504/1539481.md">5月1日晚上，地点折多山，川藏线爆堵，不知道多少游客睡在车里。鸡蛋20元一个不讲价，方便面50元一桶，开水另算。折多山位于四川省甘孜州境内，海拔4298米，是康巴第一关。</a></li>
-<li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
 <li><a href="/comments/20210504/1539624.md">中国长征火箭失控坠落！南北半球预估落点曝光</a></li>
 <li><a href="/health/20210505/1539845.md">臀部出现这2个“东西”,可能是“癌细胞”在靠近,最好别忽视</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1540186.md" target="_blank">佛国圣地 #五台山 的秘密之一，#东海龙宫的神石 ，如何造化太行山一带？这是避暑胜地，也是菩萨道场。</a></li>
 <li><a href="/cbnews/20210505/1540129.md" target="_blank">对文革看法引发中共红二代争执 陶斯亮删文</a></li>
 <li><a href="/cbnews/20210505/1540128.md" target="_blank">落入杀猪盘 杭州一女子网恋被骗82万</a></li>
 <li><a href="/cbnews/20210505/1540115.md" target="_blank">教师21年守善念 磨砺中开辟一片天</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210505/1539679.md" target="_blank">习秘斗江蚂蚁狂跌1500亿美元；盖兹离婚分财产比贝佐斯更棘手;墨西哥地铁天桥坠地；专家:新增患者60%打过疫苗;俄勒冈州前众议长贩运人口被捕;卡尔森;麦卡锡住谷歌说客公寓;12PM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210504/1539661.md" target="_blank">知道没“民主” 所以昆明市宣扬只能写“自由明主”？</a></li>
 <li><a href="/cbnews/20210504/1539631.md" target="_blank">广西初中生失联后吊在树上身亡 警称自杀 家属质疑</a></li>
-<li><a href="/comments/20210504/1539600.md" target="_blank">【#每日焦点5/4】脸书监委会将公布川普帐号最终去留;布林肯:中共违诺美将捍卫国际秩序;美议员提案：阻止世银为中共贷款;美改变对朝战略;传特斯拉正加强与北京决策层“幕后互动”【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1540186.md" target="_blank">佛国圣地 #五台山 的秘密之一，#东海龙宫的神石 ，如何造化太行山一带？这是避暑胜地，也是菩萨道场。</a></li>
+<li><a href="/comments/20210505/1540181.md" target="_blank">观塘男警遗失警察手机 未知有否安装“行咇易” 9 日内第 3 宗警遗失政府财物案</a></li>
+<li><a href="/comments/20210505/1540179.md" target="_blank">【善有善报的故事】他到底做了什么躲过命里大难并连生十一子？</a></li>
 <li><a href="/comments/20210505/1540172.md" target="_blank">G7外长会谈联合声明 拟纳入支持台湾参与国际</a></li>
 <li><a href="/comments/20210505/1540152.md" target="_blank">浙江男子发帖“让习大大做中国梦”被拘</a></li>
 <li><a href="/comments/20210505/1540144.md" target="_blank">悉尼蓝山枫叶🍁 正红时 俺们高雅一把 “停车坐爱枫林晚”</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210505/1540053.md" target="_blank">欧委会宣布中止欧中投资协议 分析：欧盟渐靠拢美国</a></li>
 <li><a href="/comments/20210505/1540041.md" target="_blank">【#午夜新闻 5/4】CIA总部被攻击 嫌犯携武器闯大门遭射伤;美军内部文官夺权参谋长服软;川普现身“支持生命峰会” ；李克强将被换岗？外界给中共高层“算命”；世卫发布中国疫苗评估报告【希望之声TV】</a></li>
 <li><a href="/comments/20210505/1540030.md" target="_blank">黄秋生杜汶泽遭中共封杀获台湾就业金卡 黄秋生回应是否入籍台湾 向华强父子申请移居台湾 被以国安理由拒绝 香港艺人展望建立“黄色演艺圈” 台湾演艺作品放眼国际</a></li>
-<li><a href="/comments/20210505/1540029.md" target="_blank">港府拟订“假新闻法” 变相更严厉打压新闻自由</a></li>
-<li><a href="/comments/20210505/1540010.md" target="_blank">价值消亡，唯有以记忆承传</a></li>
-<li><a href="/comments/20210505/1540009.md" target="_blank">【清算学生会】 张昆阳、周永康等港大校友联署 促台湾中研院撤张翔院士资格</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
 
 </ul>
 </div>
