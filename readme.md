@@ -16,18 +16,18 @@
 <li><a href="/cnnews/20210504/1539116.md">车主曝光：中国红旗汽车H9是“工业垃圾”</a></li>
 <li><a href="/yule/20210504/1539181.md">他看不惯成龙！故意拍部电影来讽刺 没想到大卖</a></li>
 <li><a href="/cbnews/20210504/1539436.md">习近平秘斗江泽民 蚂蚁估值狂跌1500亿美元</a></li>
-<li><a href="/comments/20210504/1539340.md">李燕铭：习近平政敌死亡恐吓习 放风二十大常委名单 企图“三国鼎立” 如意算盘难如意 高层清洗大戏随时可能上演</a></li>
-<li><a href="/comments/20210504/1539261.md">【微博精粹】习近平4年前密令曝光 原来如此</a></li>
 <li><a href="/bannedvideo/20210505/1539678.md">【编译】出大事！中共现罕见信号；爆炸新闻！共和党领袖和左派是室友；中国危机：民工平均年龄一下老了；美顶级教育研究院和中共合作洗脑美国人；极左绿色新政策划者：改变权力关系JO</a></li>
+<li><a href="/comments/20210504/1539340.md">李燕铭：习近平政敌死亡恐吓习 放风二十大常委名单 企图“三国鼎立” 如意算盘难如意 高层清洗大戏随时可能上演</a></li>
 <li><a href="/bannedvideo/20210504/1539363.md">川普为何没有选蓬佩奥做下一次搭档？罗姆尼的尴尬；谁在推动猪党议程</a></li>
+<li><a href="/comments/20210504/1539261.md">【微博精粹】习近平4年前密令曝光 原来如此</a></li>
 <li><a href="/health/20210504/1539408.md">33岁男子，腰痛不已，肾里长满结石，一个行为是“祸根”</a></li>
+<li><a href="/cnnews/20210505/1539792.md">比尔盖茨的风流情史：婚内出轨损失80亿…</a></li>
 <li><a href="/cnnews/20210504/1539315.md">盖兹夫妇早已分居？梅琳达称“出现无法挽回的破裂”</a></li>
-<li><a href="/lifebaike/20210504/1539302.md">【老照片】别笑清华女生舞姿低俗 比起北大她们真是小儿科</a></li>
 <li><a href="/bannedvideo/20210504/1539481.md">5月1日晚上，地点折多山，川藏线爆堵，不知道多少游客睡在车里。鸡蛋20元一个不讲价，方便面50元一桶，开水另算。折多山位于四川省甘孜州境内，海拔4298米，是康巴第一关。</a></li>
+<li><a href="/lifebaike/20210504/1539302.md">【老照片】别笑清华女生舞姿低俗 比起北大她们真是小儿科</a></li>
 <li><a href="/health/20210504/1539228.md">不论男女，手上有个“通便穴”，按一按，排出臭宿便，赶走老便秘</a></li>
 <li><a href="/bannedvideo/20210504/1539290.md">菲律宾外长大骂中共！赵立坚瞅习近平，回还是不回？辽宁号出丑殃及海军副参谋长宋学？</a></li>
-<li><a href="/ssgc/20210504/1539191.md">〖微博谈〗特斯拉这个模本效应太震撼</a></li>
-<li><a href="/cnnews/20210504/1539356.md">荷兰首个 3D 打印房屋被租出 像块巨石与自然融合</a></li>
+<li><a href="/comments/20210505/1539728.md">习近平与温家宝真实关系揭秘 早在习十八大上台前两人就结下梁子 习内部讲话中不点名地批判温家宝“故做开明姿态” 中南海不可告人的秘密_362</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210505/1539860.md" target="_blank">中共政法委嘲印度疫情 4点不寻常</a></li>
+<li><a href="/comments/20210505/1539858.md" target="_blank">【#新闻焦点解读05/04】施压失败 蔡英文获“领袖奖” ；中欧投资协议碰壁  主持:高洁  嘉宾:方伟 蓝述【#希望之声TV】</a></li>
 <li><a href="/cbnews/20210505/1539835.md" target="_blank">掌控联合国机构 中共官员名单被美公布</a></li>
 <li><a href="/comments/20210505/1539827.md" target="_blank">美媒：谍机在亚利桑那审计上空盘旋；欧盟已暂停批准中欧全面投资协定；澳洲密报：中共已发动“政治作战”行动；匈牙利首都拒绝覆旦分校;日本停用中国无人机；土耳其逮捕IS军事首领 6PMPM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210505/1539805.md" target="_blank">谁是习近平的潜在接班人</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210504/1539320.md" target="_blank">【#午夜新闻 5/3】世卫秘书长明年改选谭德塞欲求连任；21吨重中国长征火箭不受控坠落恐砸居民区；中共密令删除网上军民融合信息证据曝光；中国公布农工月均收入震碎国人心；G7外长会议 拜登对朝鲜有新方针</a></li>
 <li><a href="/cbnews/20210504/1539292.md" target="_blank">世界新闻自由日 大陆四位公民记者受关注</a></li>
 <li><a href="/cbnews/20210504/1539273.md" target="_blank">广东阳江市海陵岛体验水龙卷风上岸：飞沙走石</a></li>
-<li><a href="/comments/20210504/1539221.md" target="_blank">神韵节目 精彩瞬间（第一集）</a></li>
-<li><a href="/cbnews/20210504/1539258.md" target="_blank">党媒宣扬教师出资给留守儿童改善伙食 挨轰</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1539879.md" target="_blank">美前政府官员：若中共出兵台湾 美应承认台湾独立</a></li>
+<li><a href="/comments/20210505/1539878.md" target="_blank">G7外长首场正式会议 聚焦联合应对北京独裁挑战</a></li>
+<li><a href="/comments/20210505/1539858.md" target="_blank">【#新闻焦点解读05/04】施压失败 蔡英文获“领袖奖” ；中欧投资协议碰壁  主持:高洁  嘉宾:方伟 蓝述【#希望之声TV】</a></li>
 <li><a href="/comments/20210505/1539853.md" target="_blank">美国知名魔术师布莱恩表演的二个小片段</a></li>
 <li><a href="/comments/20210505/1539852.md" target="_blank">自己动手酿制樱桃酒感觉就是不一样</a></li>
 <li><a href="/comments/20210505/1539834.md" target="_blank">中国长征火箭失控坠落！专家警告：可能坠落人口密集地区</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210505/1539747.md" target="_blank">香港首富换人 李嘉诚屈居第二</a></li>
 <li><a href="/comments/20210505/1539738.md" target="_blank">台湾第一位被认证为转世活佛的汉人~黄英杰</a></li>
 <li><a href="/comments/20210505/1539731.md" target="_blank">震惊！ 南非3岁女孩说出自己“前10世的人生”</a></li>
-<li><a href="/comments/20210505/1539730.md" target="_blank">又一起！日本惊见巨大“火球”从天而降！ 专家有话说</a></li>
-<li><a href="/comments/20210505/1539728.md" target="_blank">习近平与温家宝真实关系揭秘 早在习十八大上台前两人就结下梁子 习内部讲话中不点名地批判温家宝“故做开明姿态” 中南海不可告人的秘密_362</a></li>
-<li><a href="/comments/20210505/1539724.md" target="_blank">人行与蚂蚁合作推数字人民币 蚂蚁将收归国有？</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
 <li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 
 </ul>
 </div>
