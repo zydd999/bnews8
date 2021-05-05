@@ -12,22 +12,22 @@
 <li><a href="/cbnews/20210505/1539805.md">谁是习近平的潜在接班人</a></li>
 <li><a href="/bannedvideo/20210505/1539678.md">【编译】出大事！中共现罕见信号；爆炸新闻！共和党领袖和左派是室友；中国危机：民工平均年龄一下老了；美顶级教育研究院和中共合作洗脑美国人；极左绿色新政策划者：改变权力关系JO</a></li>
 <li><a href="/ssgc/20210505/1539741.md">〖兲朝浮世绘〗开倒车的习维尼领导的裆中央终于为文革定调子了</a></li>
-<li><a href="/cbnews/20210504/1539436.md">习近平秘斗江泽民 蚂蚁估值狂跌1500亿美元</a></li>
 <li><a href="/comments/20210505/1539922.md">盖茨离婚的真相，肯定跟你想的不一样</a></li>
-<li><a href="/cnnews/20210505/1539791.md">比尔盖茨离婚有隐情 梅琳达申请财务限制令</a></li>
 <li><a href="/cbnews/20210505/1539991.md">美媒：习近平未上台就和温家宝结下梁子</a></li>
+<li><a href="/cnnews/20210505/1539791.md">比尔盖茨离婚有隐情 梅琳达申请财务限制令</a></li>
 <li><a href="/cnnews/20210505/1539703.md">房住不炒！ 中国下一波严打“学区房”</a></li>
-<li><a href="/cbnews/20210505/1539770.md">你们这么辛苦旅游，真让人同情</a></li>
 <li><a href="/cbnews/20210504/1539559.md">武汉又传大学生失踪 活摘器官疑云再起</a></li>
+<li><a href="/cbnews/20210505/1539770.md">你们这么辛苦旅游，真让人同情</a></li>
 <li><a href="/yule/20210505/1539927.md">他曾是香港第一美男子！迷倒刘嘉玲林青霞 晚年却妻离子散</a></li>
 <li><a href="/cnnews/20210505/1539734.md">习近平学毛自称“舵手” 美情报部门关注</a></li>
 <li><a href="/yule/20210505/1539797.md">西游记剧组当年在清西陵拍戏遇到的怪事，尘封30年无法解释</a></li>
-<li><a href="/comments/20210504/1539467.md">川普主义点燃中共太子党和习近平大分裂的导火索（下集）（中共命运的轨迹和人类前途  第十二讲）【袁红冰纵论天下】 05042021</a></li>
-<li><a href="/bannedvideo/20210504/1539481.md">5月1日晚上，地点折多山，川藏线爆堵，不知道多少游客睡在车里。鸡蛋20元一个不讲价，方便面50元一桶，开水另算。折多山位于四川省甘孜州境内，海拔4298米，是康巴第一关。</a></li>
-<li><a href="/cbnews/20210505/1539860.md">中共政法委嘲印度疫情 4点不寻常</a></li>
-<li><a href="/comments/20210504/1539624.md">中国长征火箭失控坠落！南北半球预估落点曝光</a></li>
-<li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
 <li><a href="/comments/20210505/1539967.md">成龙处境岌岌可危 三大腕与成龙割席 周润发拒绝与成龙合作演戏 刘德华五字道出真相 关锦鹏曝成龙险毁经典 黄志强看不惯成龙 故意拍部电影来讽刺 没想到大卖</a></li>
+<li><a href="/comments/20210504/1539467.md">川普主义点燃中共太子党和习近平大分裂的导火索（下集）（中共命运的轨迹和人类前途  第十二讲）【袁红冰纵论天下】 05042021</a></li>
+<li><a href="/cbnews/20210505/1539860.md">中共政法委嘲印度疫情 4点不寻常</a></li>
+<li><a href="/bannedvideo/20210504/1539481.md">5月1日晚上，地点折多山，川藏线爆堵，不知道多少游客睡在车里。鸡蛋20元一个不讲价，方便面50元一桶，开水另算。折多山位于四川省甘孜州境内，海拔4298米，是康巴第一关。</a></li>
+<li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
+<li><a href="/comments/20210504/1539624.md">中国长征火箭失控坠落！南北半球预估落点曝光</a></li>
+<li><a href="/health/20210505/1539845.md">臀部出现这2个“东西”,可能是“癌细胞”在靠近,最好别忽视</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1540172.md" target="_blank">G7外长会谈联合声明 拟纳入支持台湾参与国际</a></li>
 <li><a href="/comments/20210505/1540152.md" target="_blank">浙江男子发帖“让习大大做中国梦”被拘</a></li>
 <li><a href="/comments/20210505/1540144.md" target="_blank">悉尼蓝山枫叶🍁 正红时 俺们高雅一把 “停车坐爱枫林晚”</a></li>
 <li><a href="/comments/20210505/1540143.md" target="_blank">TikTok任命中国军方公司董事为首席执行官</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210505/1540029.md" target="_blank">港府拟订“假新闻法” 变相更严厉打压新闻自由</a></li>
 <li><a href="/comments/20210505/1540010.md" target="_blank">价值消亡，唯有以记忆承传</a></li>
 <li><a href="/comments/20210505/1540009.md" target="_blank">【清算学生会】 张昆阳、周永康等港大校友联署 促台湾中研院撤张翔院士资格</a></li>
-<li><a href="/comments/20210505/1540001.md" target="_blank">欧洲药品管理局：启动对中国科兴疫苗的审查</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
