@@ -10,24 +10,24 @@
 <li><a href="/comments/20210505/1539728.md">习近平与温家宝真实关系揭秘 早在习十八大上台前两人就结下梁子 习内部讲话中不点名地批判温家宝“故做开明姿态” 中南海不可告人的秘密_362</a></li>
 <li><a href="/cnnews/20210505/1539792.md">比尔盖茨的风流情史：婚内出轨损失80亿…</a></li>
 <li><a href="/cbnews/20210505/1539805.md">谁是习近平的潜在接班人</a></li>
-<li><a href="/bannedvideo/20210505/1539678.md">【编译】出大事！中共现罕见信号；爆炸新闻！共和党领袖和左派是室友；中国危机：民工平均年龄一下老了；美顶级教育研究院和中共合作洗脑美国人；极左绿色新政策划者：改变权力关系JO</a></li>
 <li><a href="/ssgc/20210505/1539741.md">〖兲朝浮世绘〗开倒车的习维尼领导的裆中央终于为文革定调子了</a></li>
+<li><a href="/bannedvideo/20210505/1539678.md">【编译】出大事！中共现罕见信号；爆炸新闻！共和党领袖和左派是室友；中国危机：民工平均年龄一下老了；美顶级教育研究院和中共合作洗脑美国人；极左绿色新政策划者：改变权力关系JO</a></li>
 <li><a href="/cbnews/20210505/1539991.md">美媒：习近平未上台就和温家宝结下梁子</a></li>
 <li><a href="/comments/20210505/1539922.md">盖茨离婚的真相，肯定跟你想的不一样</a></li>
 <li><a href="/cnnews/20210505/1539791.md">比尔盖茨离婚有隐情 梅琳达申请财务限制令</a></li>
-<li><a href="/cnnews/20210505/1539703.md">房住不炒！ 中国下一波严打“学区房”</a></li>
-<li><a href="/cbnews/20210504/1539559.md">武汉又传大学生失踪 活摘器官疑云再起</a></li>
-<li><a href="/yule/20210505/1539927.md">他曾是香港第一美男子！迷倒刘嘉玲林青霞 晚年却妻离子散</a></li>
 <li><a href="/comments/20210505/1539967.md">成龙处境岌岌可危 三大腕与成龙割席 周润发拒绝与成龙合作演戏 刘德华五字道出真相 关锦鹏曝成龙险毁经典 黄志强看不惯成龙 故意拍部电影来讽刺 没想到大卖</a></li>
+<li><a href="/cnnews/20210505/1539703.md">房住不炒！ 中国下一波严打“学区房”</a></li>
+<li><a href="/yule/20210505/1539927.md">他曾是香港第一美男子！迷倒刘嘉玲林青霞 晚年却妻离子散</a></li>
+<li><a href="/cbnews/20210504/1539559.md">武汉又传大学生失踪 活摘器官疑云再起</a></li>
 <li><a href="/cbnews/20210505/1539770.md">你们这么辛苦旅游，真让人同情</a></li>
 <li><a href="/cnnews/20210505/1539734.md">习近平学毛自称“舵手” 美情报部门关注</a></li>
 <li><a href="/yule/20210505/1539797.md">西游记剧组当年在清西陵拍戏遇到的怪事，尘封30年无法解释</a></li>
 <li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
 <li><a href="/cbnews/20210505/1539860.md">中共政法委嘲印度疫情 4点不寻常</a></li>
 <li><a href="/comments/20210504/1539624.md">中国长征火箭失控坠落！南北半球预估落点曝光</a></li>
+<li><a href="/cnnews/20210505/1540007.md">中国男子偷渡台湾疑点多 专家：绝非巧合</a></li>
 <li><a href="/health/20210505/1539845.md">臀部出现这2个“东西”,可能是“癌细胞”在靠近,最好别忽视</a></li>
 <li><a href="/cnnews/20210505/1539828.md">人妻嫌手洗麻烦 5公斤小龙虾全丢洗衣机</a></li>
-<li><a href="/cnnews/20210505/1540007.md">中国男子偷渡台湾疑点多 专家：绝非巧合</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1540208.md" target="_blank">亚利桑那州务卿信口雌黄，两自由党人公开打脸民主党州务卿。川普启动自己的社交平台，公布川普式“独立宣言”。脱口秀节目主持人要当川普副手？</a></li>
 <li><a href="/comments/20210505/1540186.md" target="_blank">佛国圣地 #五台山 的秘密之一，#东海龙宫的神石 ，如何造化太行山一带？这是避暑胜地，也是菩萨道场。</a></li>
 <li><a href="/cbnews/20210505/1540129.md" target="_blank">对文革看法引发中共红二代争执 陶斯亮删文</a></li>
 <li><a href="/cbnews/20210505/1540128.md" target="_blank">落入杀猪盘 杭州一女子网恋被骗82万</a></li>
@@ -60,13 +61,13 @@
 <li><a href="/cbnews/20210505/1539757.md" target="_blank">中国长征五号B遥二传失控 碎片恐坠落民居</a></li>
 <li><a href="/comments/20210505/1539679.md" target="_blank">习秘斗江蚂蚁狂跌1500亿美元；盖兹离婚分财产比贝佐斯更棘手;墨西哥地铁天桥坠地；专家:新增患者60%打过疫苗;俄勒冈州前众议长贩运人口被捕;卡尔森;麦卡锡住谷歌说客公寓;12PM【希望之声TV】</a></li>
 <li><a href="/cbnews/20210504/1539661.md" target="_blank">知道没“民主” 所以昆明市宣扬只能写“自由明主”？</a></li>
-<li><a href="/cbnews/20210504/1539631.md" target="_blank">广西初中生失联后吊在树上身亡 警称自杀 家属质疑</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210505/1540198.md" target="_blank">总加速师习近平再加速 蚂蚁国有？推数字人民币 中共掌控联合国，商务副部任世贸副秘</a></li>
 <li><a href="/topimagenews/20210505/1540127.md" target="_blank">投资中共宣传大片 400亿帝国说塌就塌！10年恰如一枕黄粱</a></li>
 <li><a href="/topimagenews/20210505/1539990.md" target="_blank">还有脸？！谭德塞被爆还想连任 母国埃塞俄比亚拒挺</a></li>
 <li><a href="/topimagenews/20210505/1539887.md" target="_blank">快于预期 川普推出社媒式平台 即时发评论</a></li>
@@ -91,13 +92,14 @@
 <li><a href="/topimagenews/20210501/1537603.md" target="_blank">中共警察“闷声发大财” 设局黑了他23根金条 当事人20多年追讨无果 提请国家赔偿</a></li>
 <li><a href="/topimagenews/20210501/1537439.md" target="_blank">习近平翻案文革试水？毛左亢奋；天人感应? 北京现惊人一幕</a></li>
 <li><a href="/topimagenews/20210501/1537438.md" target="_blank">将三个贵州同胞跪地公审即刻处决：佤邦实录</a></li>
-<li><a href="/topimagenews/20210430/1536975.md" target="_blank">习近平一句话引爆网炸锅；专家揭秘中共数据造假3大骗术；电动车大跃进烂尾在望</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1540208.md" target="_blank">亚利桑那州务卿信口雌黄，两自由党人公开打脸民主党州务卿。川普启动自己的社交平台，公布川普式“独立宣言”。脱口秀节目主持人要当川普副手？</a></li>
+<li><a href="/comments/20210505/1540196.md" target="_blank">【视图】SpaceX的 “乘龙 ”号飞船自阿波罗时代以来首次在夜间与美国宇航员一起降落</a></li>
 <li><a href="/comments/20210505/1540186.md" target="_blank">佛国圣地 #五台山 的秘密之一，#东海龙宫的神石 ，如何造化太行山一带？这是避暑胜地，也是菩萨道场。</a></li>
 <li><a href="/comments/20210505/1540181.md" target="_blank">观塘男警遗失警察手机 未知有否安装“行咇易” 9 日内第 3 宗警遗失政府财物案</a></li>
 <li><a href="/comments/20210505/1540179.md" target="_blank">【善有善报的故事】他到底做了什么躲过命里大难并连生十一子？</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210505/1540061.md" target="_blank">昨日大逃港，今日大逃台！大陆男投奔自由，一人一艇横渡台湾海峡，神不知鬼不觉成功上岸！冒死逃亡的人们，是独裁者最大的尴尬。│#熊猫侠</a></li>
 <li><a href="/comments/20210505/1540054.md" target="_blank">香港“光复红土”发起人被迫离港 “香港是唯一的家”</a></li>
 <li><a href="/comments/20210505/1540053.md" target="_blank">欧委会宣布中止欧中投资协议 分析：欧盟渐靠拢美国</a></li>
-<li><a href="/comments/20210505/1540041.md" target="_blank">【#午夜新闻 5/4】CIA总部被攻击 嫌犯携武器闯大门遭射伤;美军内部文官夺权参谋长服软;川普现身“支持生命峰会” ；李克强将被换岗？外界给中共高层“算命”；世卫发布中国疫苗评估报告【希望之声TV】</a></li>
-<li><a href="/comments/20210505/1540030.md" target="_blank">黄秋生杜汶泽遭中共封杀获台湾就业金卡 黄秋生回应是否入籍台湾 向华强父子申请移居台湾 被以国安理由拒绝 香港艺人展望建立“黄色演艺圈” 台湾演艺作品放眼国际</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 
 </ul>
 </div>
