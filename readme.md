@@ -25,9 +25,9 @@
 <li><a href="/yule/20210505/1539797.md">西游记剧组当年在清西陵拍戏遇到的怪事，尘封30年无法解释</a></li>
 <li><a href="/bannedvideo/20210505/1540089.md">中南海将有大事发生大外宣放风中共二十大常委人选 2021年5月5日</a></li>
 <li><a href="/cbnews/20210505/1539770.md">你们这么辛苦旅游，真让人同情</a></li>
+<li><a href="/cnnews/20210505/1540301.md">比尔盖茨离婚原因，几种可怕猜测</a></li>
 <li><a href="/cbnews/20210505/1539860.md">中共政法委嘲印度疫情 4点不寻常</a></li>
 <li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
-<li><a href="/cnnews/20210505/1540301.md">比尔盖茨离婚原因，几种可怕猜测</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210506/1540495.md" target="_blank">学者：中共百年之际 内外高压政权岌岌可危</a></li>
+<li><a href="/cbnews/20210506/1540494.md" target="_blank">成都近八旬法轮功学员遭冤判两年 劫入监狱</a></li>
 <li><a href="/comments/20210506/1540479.md" target="_blank">【#中国时局5/5】血泪铺就的一带一路</a></li>
 <li><a href="/cbnews/20210506/1540469.md" target="_blank">中国消费者：5G是骗局 华为是唯一获益方</a></li>
 <li><a href="/cbnews/20210506/1540468.md" target="_blank">习近平大谈备战 网友恐惧：中共战争是百姓尸骨铺垫</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210505/1540002.md" target="_blank">关系恶化 欧盟执委会中止推动批准欧中投资协定</a></li>
 <li><a href="/cbnews/20210505/1539991.md" target="_blank">美媒：习近平未上台就和温家宝结下梁子</a></li>
 <li><a href="/cbnews/20210505/1539969.md" target="_blank">她们在哪里？被沈阳市皇姑区新乐派出所警察入室绑架后失踪…</a></li>
-<li><a href="/comments/20210505/1539965.md" target="_blank">【#北美新闻 5/04】亚利桑那最新警告！黑命贵行动；真相工程又出奇招 ；川普：敬请期待好消息 ；纽约州开放限制；巴菲特揭秘接班人；美防长将出席香格里拉会议；美顶资培训机构与中共合作 【希望之声TV】</a></li>
-<li><a href="/cbnews/20210505/1539946.md" target="_blank">分析：杨洁篪避谈民主与专制 却道出中共谎言</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210506/1540501.md" target="_blank">拜登称其基建计划获两党支持 霍利反驳</a></li>
+<li><a href="/comments/20210506/1540500.md" target="_blank">狼真的来了？习近平政治局会议首次点名学区房</a></li>
+<li><a href="/comments/20210506/1540493.md" target="_blank">G7外长会议伦敦登场 将中共挑战列为首要议题</a></li>
+<li><a href="/comments/20210506/1540492.md" target="_blank">七绝 ： 白莲花</a></li>
+<li><a href="/comments/20210506/1540491.md" target="_blank">七律·夕阳</a></li>
+<li><a href="/comments/20210506/1540490.md" target="_blank">诗一首：休闲</a></li>
 <li><a href="/comments/20210506/1540489.md" target="_blank">比尔·盖茨离婚的真相 肯定跟你想的不一样 盖茨在婚礼宴席之后向美琳达提出无理的要求 美琳达居然同意了……各个阶层之间不仅悲喜并不相通 连爱情婚姻甚至世界观也不相同 这是我们所生活的时代最为骇人听闻的真相</a></li>
 <li><a href="/comments/20210506/1540479.md" target="_blank">【#中国时局5/5】血泪铺就的一带一路</a></li>
 <li><a href="/comments/20210506/1540466.md" target="_blank">比尔·盖茨离婚因华人女翻译？照片曝光 当事人回应 世界排名前五富豪四个已离婚 扎克伯格能否逃脱“首富魔咒”？</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210506/1540430.md" target="_blank">医师：这种肾病，50%机率会遗传给子女</a></li>
 <li><a href="/comments/20210506/1540429.md" target="_blank">立夏，春日尽，记得吃“1麦2豆3果”，一家人安全度夏</a></li>
 <li><a href="/comments/20210506/1540427.md" target="_blank">美议员提新法案 反击中共盗用美知识产权</a></li>
-<li><a href="/comments/20210506/1540416.md" target="_blank">新冠疫苗又出事 美华女丈夫接种第二剂后死亡</a></li>
-<li><a href="/comments/20210506/1540415.md" target="_blank">蔡英文获奖 激怒中共要求取消 陆委会回应</a></li>
-<li><a href="/comments/20210506/1540414.md" target="_blank">【综合新闻5/5】密友：川普或秋前回白宫；蔡英文获奖 北京恼怒；华裔力挺“骄傲男孩”  募捐可观；麦卡锡公寓背后最大股东是毛泽东外孙女婿？30公分外星人吓坏目击者12PM【希望之声TV】</a></li>
-<li><a href="/comments/20210506/1540413.md" target="_blank">神韵节目 精彩瞬间第一集 （英语+中文字幕）</a></li>
-<li><a href="/comments/20210506/1540401.md" target="_blank">【专访】画政治漫画被裁定“专业失德” vawongsir：我相信我无做错 望为下一代改变社会</a></li>
-<li><a href="/comments/20210506/1540400.md" target="_blank">自由党邵家辉倡政府利诱市民打针 接种疫苗获发额外 3000 元电子消费券</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 <li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
