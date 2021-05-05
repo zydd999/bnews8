@@ -12,21 +12,21 @@
 <li><a href="/bannedvideo/20210505/1539678.md">【编译】出大事！中共现罕见信号；爆炸新闻！共和党领袖和左派是室友；中国危机：民工平均年龄一下老了；美顶级教育研究院和中共合作洗脑美国人；极左绿色新政策划者：改变权力关系JO</a></li>
 <li><a href="/comments/20210505/1539922.md">盖茨离婚的真相，肯定跟你想的不一样</a></li>
 <li><a href="/cbnews/20210505/1539991.md">美媒：习近平未上台就和温家宝结下梁子</a></li>
-<li><a href="/cnnews/20210505/1539791.md">比尔盖茨离婚有隐情 梅琳达申请财务限制令</a></li>
 <li><a href="/cnnews/20210505/1540137.md">比尔盖兹离婚…女翻译“王喆”登上热搜</a></li>
+<li><a href="/cnnews/20210505/1539791.md">比尔盖茨离婚有隐情 梅琳达申请财务限制令</a></li>
+<li><a href="/cbnews/20210505/1540129.md">对文革看法引发中共红二代争执 陶斯亮删文</a></li>
 <li><a href="/comments/20210505/1540106.md">习近平的“备胎”二十大亮相？大外宣提3人名单</a></li>
 <li><a href="/comments/20210505/1539967.md">成龙处境岌岌可危 三大腕与成龙割席 周润发拒绝与成龙合作演戏 刘德华五字道出真相 关锦鹏曝成龙险毁经典 黄志强看不惯成龙 故意拍部电影来讽刺 没想到大卖</a></li>
-<li><a href="/cbnews/20210505/1540129.md">对文革看法引发中共红二代争执 陶斯亮删文</a></li>
 <li><a href="/topimagenews/20210505/1540127.md">投资中共宣传大片 400亿帝国说塌就塌！10年恰如一枕黄粱</a></li>
+<li><a href="/worldnews/20210505/1540147.md">毒杀金正男！越南女自曝内幕</a></li>
 <li><a href="/cnnews/20210505/1539703.md">房住不炒！ 中国下一波严打“学区房”</a></li>
 <li><a href="/cnnews/20210505/1540122.md">苹果iPhone13亮相 调整刘海</a></li>
-<li><a href="/worldnews/20210505/1540147.md">毒杀金正男！越南女自曝内幕</a></li>
+<li><a href="/comments/20210505/1540152.md">浙江男子发帖“让习大大做中国梦”被拘</a></li>
 <li><a href="/yule/20210505/1539927.md">他曾是香港第一美男子！迷倒刘嘉玲林青霞 晚年却妻离子散</a></li>
 <li><a href="/cnnews/20210505/1540037.md">身家超李嘉诚 香港新首富受习扶持 发迹内幕曝光</a></li>
 <li><a href="/yule/20210505/1539797.md">西游记剧组当年在清西陵拍戏遇到的怪事，尘封30年无法解释</a></li>
 <li><a href="/cbnews/20210505/1539770.md">你们这么辛苦旅游，真让人同情</a></li>
 <li><a href="/cnnews/20210505/1539734.md">习近平学毛自称“舵手” 美情报部门关注</a></li>
-<li><a href="/topimagenews/20210505/1539887.md">快于预期 川普推出社媒式平台 即时发评论</a></li>
 <li><a href="/cbnews/20210505/1539860.md">中共政法委嘲印度疫情 4点不寻常</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210505/1540388.md" target="_blank">美国三专家：新冠疫苗有风险 儿童不宜接种</a></li>
+<li><a href="/comments/20210505/1540387.md" target="_blank">再谈2024竞选 川普：我的支持者将很开心</a></li>
 <li><a href="/comments/20210505/1540377.md" target="_blank">91岁的“股神”巴菲特终于指定了接班人</a></li>
 <li><a href="/comments/20210505/1540372.md" target="_blank">美国家实验室绝密报告：武汉实验室可能是疫源</a></li>
 <li><a href="/comments/20210505/1540371.md" target="_blank">美国德州参议院决议案谴责中共强摘器官</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210505/1540295.md" target="_blank">希姆巴人，为保护自己的文化而奋斗的非洲部落</a></li>
 <li><a href="/comments/20210505/1540293.md" target="_blank">美传染病专家“完全接种”疫苗后仍在印度染疫去世</a></li>
 <li><a href="/comments/20210505/1540290.md" target="_blank">各国心惊惊！长征五号火箭失控残骸恐坠地球中国官媒静悄悄</a></li>
-<li><a href="/comments/20210505/1540289.md" target="_blank">缅甸恐陷内战？翁山苏姬支持者所组影子政府宣布建军</a></li>
-<li><a href="/comments/20210505/1540253.md" target="_blank">杨威：战狼外交让北京史无前例的孤立</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
