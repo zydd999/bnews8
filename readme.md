@@ -9,8 +9,8 @@
 <li><a href="/cbnews/20210506/1540593.md">文昭：路线斗争！习近平竟这样批温家宝；中共「向内坍缩」的下一步：是黑洞、或中子星？</a></li>
 <li><a href="/topimagenews/20210506/1540939.md">狼真的来了？习近平首次点名 重磅！加拿大9万快速移民开放申请 刘长乐女婿被刑拘</a></li>
 <li><a href="/topimagenews/20210506/1540729.md">给习近平带来“个人尴尬”！德媒：中共制裁欧盟代表“严重失算”</a></li>
-<li><a href="/topimagenews/20210506/1540871.md">网络炸锅！华为缺芯惨况显 五毛被网友群怼:脑瘫滚吧</a></li>
 <li><a href="/cbnews/20210506/1540469.md">中国消费者：5G是骗局 华为是唯一获益方</a></li>
+<li><a href="/topimagenews/20210506/1540871.md">网络炸锅！华为缺芯惨况显 五毛被网友群怼:脑瘫滚吧</a></li>
 <li><a href="/comments/20210506/1540466.md">比尔·盖茨离婚因华人女翻译？照片曝光 当事人回应 世界排名前五富豪四个已离婚 扎克伯格能否逃脱“首富魔咒”？</a></li>
 <li><a href="/cbnews/20210506/1540889.md">浙江男子发帖 “让习大大做中国梦”被拘</a></li>
 <li><a href="/cnnews/20210506/1540555.md">继马云996后 腾讯公关总监一言激起千万骂</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/bannedvideo/20210506/1540893.md">炒房者欲哭无泪，环京房价跌幅超40%。有房产大V在微博发文称，曾经以2.5万元/平方米出售的香河富力新城，五一推出特价房单价仅8000元/平方米，且买房就送车位。</a></li>
 <li><a href="/lifebaike/20210506/1540712.md">中共特供丑闻史——香烟揭密</a></li>
 <li><a href="/bannedvideo/20210506/1540776.md">文睿：刘鹤、温家宝文章打脸习近平，复辟文革风起，党内风暴山雨欲来</a></li>
+<li><a href="/ssgc/20210506/1540979.md">习近平凭什么给赵婷打电话</a></li>
 <li><a href="/cnnews/20210506/1540558.md">盖茨被扒婚后与情人定期同居 被情妇举报损517亿</a></li>
 <li><a href="/bannedvideo/20210506/1540751.md">比尔·盖茨包养日本艺ji；盖茨基金会的女翻译何许人也？</a></li>
-<li><a href="/ssgc/20210506/1540979.md">习近平凭什么给赵婷打电话</a></li>
 <li><a href="/cnnews/20210506/1540576.md">虎妈蔡美儿被耶鲁停职 华人鸡娃教母人设崩塌</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210507/1541136.md" target="_blank">脸书监委会续停川普账号 拜登表态支持</a></li>
+<li><a href="/comments/20210507/1541127.md" target="_blank">香港人权新闻奖揭晓 打压中的蔡玉玲、利君雅获奖</a></li>
+<li><a href="/comments/20210507/1541126.md" target="_blank">诗一首：抒</a></li>
 <li><a href="/comments/20210507/1541124.md" target="_blank">美议员提法案 要求政府制定战略对抗“一带一路”</a></li>
 <li><a href="/comments/20210506/1541109.md" target="_blank">指检察机关不公 弗洛伊德案被告警官要求重审</a></li>
 <li><a href="/comments/20210506/1541108.md" target="_blank">浑水创始人：应将许多在美上市中企摘牌</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210506/1540927.md" target="_blank">信仰的教训之一——信仰的国教化和国学化（东方哲人解析当代人类困惑  第二十讲）【袁红冰杏坛】 05062021</a></li>
 <li><a href="/comments/20210506/1540911.md" target="_blank">“体演文出”选委 60 变 30 汪明荃：有好多人不满 林郑：希望谅解</a></li>
 <li><a href="/comments/20210506/1540901.md" target="_blank">新西兰议会通过决议 宣布中共在新疆“严重践踏人权”</a></li>
-<li><a href="/comments/20210506/1540868.md" target="_blank">天目所见：创世主乘龙而来</a></li>
-<li><a href="/comments/20210506/1540865.md" target="_blank">印度疫情严峻 日本将捐赠最高55亿日圆援助医疗系统</a></li>
-<li><a href="/comments/20210506/1540864.md" target="_blank">中共严控香港言论 未经许可参与纪念六四 黄之锋被判刑</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 
 </ul>
 </div>
