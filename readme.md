@@ -11,22 +11,22 @@
 <li><a href="/cnnews/20210505/1540301.md">比尔盖茨离婚原因，几种可怕猜测</a></li>
 <li><a href="/topimagenews/20210506/1540729.md">给习近平带来“个人尴尬”！德媒：中共制裁欧盟代表“严重失算”</a></li>
 <li><a href="/cbnews/20210506/1540469.md">中国消费者：5G是骗局 华为是唯一获益方</a></li>
-<li><a href="/cnnews/20210506/1540555.md">继马云996后 腾讯公关总监一言激起千万骂</a></li>
 <li><a href="/bannedvideo/20210506/1540562.md">【热点】难怪习近平心神不宁，北京可能有大举动；美军全部两栖攻击群舰队驻守东亚；日本和国军军舰罕见并行监视中共军舰；对文革看法引红二代内讧；习近平学毛自称“舵手”美情报部门关注 CO</a></li>
+<li><a href="/cnnews/20210506/1540555.md">继马云996后 腾讯公关总监一言激起千万骂</a></li>
 <li><a href="/ssgc/20210506/1540403.md">〖兲朝浮世绘〗习近平大谈备战 网友恐惧当炮灰</a></li>
 <li><a href="/comments/20210506/1540466.md">比尔·盖茨离婚因华人女翻译？照片曝光 当事人回应 世界排名前五富豪四个已离婚 扎克伯格能否逃脱“首富魔咒”？</a></li>
 <li><a href="/cnnews/20210506/1540689.md">四大疫苗同时开打 专家终于给出建议哪种更好</a></li>
 <li><a href="/cnnews/20210506/1540558.md">盖茨被扒婚后与情人定期同居 被情妇举报损517亿</a></li>
-<li><a href="/lifebaike/20210506/1540712.md">中共特供丑闻史——香烟揭密</a></li>
-<li><a href="/cnnews/20210506/1540504.md">重磅！加拿大9万快速移民开放申请 今发布流程</a></li>
 <li><a href="/cnnews/20210506/1540756.md">中共不敢给老年人打疫苗 世卫评估道出原因</a></li>
+<li><a href="/cnnews/20210506/1540504.md">重磅！加拿大9万快速移民开放申请 今发布流程</a></li>
+<li><a href="/lifebaike/20210506/1540712.md">中共特供丑闻史——香烟揭密</a></li>
 <li><a href="/bannedvideo/20210505/1540364.md">比尔盖茨与妻子和前女友不可描述的生活！某国总统摄像头没关结果……共和党领袖麦卡锡跟中共有关系吗？</a></li>
 <li><a href="/cnnews/20210506/1540576.md">虎妈蔡美儿被耶鲁停职 华人鸡娃教母人设崩塌</a></li>
-<li><a href="/headline/20210505/1540319.md">时事大家谈：重新定调文革，习近平释放危险信号？</a></li>
 <li><a href="/bannedvideo/20210505/1540221.md">陈破空：大新闻！习近平公开认了：我上的是梁家河的高中、梁家河的大学！舆论哗然</a></li>
+<li><a href="/headline/20210505/1540319.md">时事大家谈：重新定调文革，习近平释放危险信号？</a></li>
+<li><a href="/bannedvideo/20210506/1540751.md">比尔·盖茨包养日本艺ji；盖茨基金会的女翻译何许人也？</a></li>
 <li><a href="/bannedvideo/20210506/1540470.md">5月4号周二上午 美国军方在关塔那摩湾对希拉里同谋约翰-波德斯塔(John Podesta)进行开庭审理，他被指控犯有叛国罪、谋杀从犯和无数儿童性犯罪。</a></li>
 <li><a href="/comments/20210505/1540372.md">美国家实验室绝密报告：武汉实验室可能是疫源</a></li>
-<li><a href="/cnnews/20210506/1540713.md">可从中国直飞美国已不限于学生 还有以下人士</a></li>
 <li><a href="/renquan/20210506/1540585.md">四川仪陇落选副乡长的公开信</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 
 </ul>
 </div>
