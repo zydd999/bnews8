@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210506/1540662.md" target="_blank">前方高能剧透，可以看到未来的艾伦，如何选择命运的安排？｜#大雄画里话外 #进击的巨人</a></li>
+<li><a href="/cbnews/20210506/1540661.md" target="_blank">天亮时分：脸书封禁川普，与川普的新媒体平台；脸书监委会人员构成的秘密——95%的人“反川普”；亚利桑那审计灾难（政论天下第417集 20210505）</a></li>
 <li><a href="/comments/20210506/1540651.md" target="_blank">中共改党史，二次文革将卷土重来？脸书推特持续关闭川普账号：从封杀言论到人身迫害还有多远？</a></li>
 <li><a href="/cbnews/20210506/1540594.md" target="_blank">“小粉红”是如何被培育起来的</a></li>
 <li><a href="/cbnews/20210506/1540593.md" target="_blank">文昭：路线斗争！习近平竟这样批温家宝；中共「向内坍缩」的下一步：是黑洞、或中子星？</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/comments/20210505/1540186.md" target="_blank">佛国圣地 #五台山 的秘密之一，#东海龙宫的神石 ，如何造化太行山一带？这是避暑胜地，也是菩萨道场。</a></li>
 <li><a href="/cbnews/20210505/1540129.md" target="_blank">对文革看法引发中共红二代争执 陶斯亮删文</a></li>
 <li><a href="/cbnews/20210505/1540128.md" target="_blank">落入杀猪盘 杭州一女子网恋被骗82万</a></li>
-<li><a href="/cbnews/20210505/1540115.md" target="_blank">教师21年守善念 磨砺中开辟一片天</a></li>
-<li><a href="/cbnews/20210505/1540050.md" target="_blank">吓人？四川绵阳地震 微博再闹乌龙</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210506/1540673.md" target="_blank">叶书:“共产党说话算数”与147斤黄金培养出的飞行员之死</a></li>
+<li><a href="/comments/20210506/1540668.md" target="_blank">天津大学为了追求国际排名 脊梁骨都断了</a></li>
+<li><a href="/comments/20210506/1540665.md" target="_blank">西奈山峰: 还记得死人票吗？</a></li>
+<li><a href="/comments/20210506/1540664.md" target="_blank">漫天霾:“知识分子”的反市场心态</a></li>
+<li><a href="/comments/20210506/1540662.md" target="_blank">前方高能剧透，可以看到未来的艾伦，如何选择命运的安排？｜#大雄画里话外 #进击的巨人</a></li>
 <li><a href="/comments/20210506/1540651.md" target="_blank">中共改党史，二次文革将卷土重来？脸书推特持续关闭川普账号：从封杀言论到人身迫害还有多远？</a></li>
 <li><a href="/comments/20210506/1540639.md" target="_blank">古原: 搞清美国的左与右 你才知道你自己是左还是右</a></li>
 <li><a href="/comments/20210506/1540638.md" target="_blank">十次危机九次房 美国这次是例外？</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210506/1540519.md" target="_blank">【云门集】古风•咏木兰从军</a></li>
 <li><a href="/comments/20210506/1540518.md" target="_blank">华女造假获签证来美 绿卡被拒 险被遣返</a></li>
 <li><a href="/comments/20210506/1540517.md" target="_blank">北京拟整修太平洋岛国桥梁和机场 打造海上航母？</a></li>
-<li><a href="/comments/20210506/1540501.md" target="_blank">拜登称其基建计划获两党支持 霍利反驳</a></li>
-<li><a href="/comments/20210506/1540500.md" target="_blank">狼真的来了？习近平政治局会议首次点名学区房</a></li>
-<li><a href="/comments/20210506/1540493.md" target="_blank">G7外长会议伦敦登场 将中共挑战列为首要议题</a></li>
-<li><a href="/comments/20210506/1540492.md" target="_blank">七绝 ： 白莲花</a></li>
-<li><a href="/comments/20210506/1540491.md" target="_blank">七律·夕阳</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/tculture/20170718/793528.md" target="_blank">乐舞仙踪之九：神舞九穹 韵留人间</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 
 </ul>
 </div>
