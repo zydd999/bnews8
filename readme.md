@@ -9,8 +9,8 @@
 <li><a href="/cbnews/20210506/1540967.md">美军公开长征火箭失控路线 中共羞恼跳脚</a></li>
 <li><a href="/topimagenews/20210506/1540871.md">网络炸锅！华为缺芯惨况显 五毛被网友群怼:脑瘫滚吧</a></li>
 <li><a href="/cbnews/20210506/1540890.md">美方预测到“长征五号残骸”坠落地点</a></li>
-<li><a href="/cbnews/20210506/1540889.md">浙江男子发帖 “让习大大做中国梦”被拘</a></li>
 <li><a href="/ssgc/20210506/1540979.md">习近平凭什么给赵婷打电话</a></li>
+<li><a href="/cbnews/20210506/1540889.md">浙江男子发帖 “让习大大做中国梦”被拘</a></li>
 <li><a href="/cbnews/20210506/1540877.md">五一长假中共高层集体隐身 人事变动将公布？</a></li>
 <li><a href="/cnnews/20210506/1541053.md">男子参加"中纪委军委领导高端饭局" 结果太…</a></li>
 <li><a href="/comments/20210507/1541235.md">中共副国级高官贴身随从在北京可随便调用几十辆警车 自曝被监听 “一定把我的党退了！”“周永康被抓之前，我们就知道要抓他了。” 中南海不可告人的秘密_363</a></li>
@@ -20,12 +20,12 @@
 <li><a href="/lifebaike/20210507/1541250.md">易中天：他最大的错误不是文革</a></li>
 <li><a href="/bannedvideo/20210506/1540893.md">炒房者欲哭无泪，环京房价跌幅超40%。有房产大V在微博发文称，曾经以2.5万元/平方米出售的香河富力新城，五一推出特价房单价仅8000元/平方米，且买房就送车位。</a></li>
 <li><a href="/cbnews/20210507/1541401.md">网曝习家大院一望无际 占地逾千亩 但门可罗雀</a></li>
-<li><a href="/bannedvideo/20210506/1540918.md">包子作死？七国集团外长同声谴责，距离“八国联军”不远了⋯⋯六四前夕重判黄之锋！</a></li>
 <li><a href="/comments/20210507/1541278.md">基于事实的大胆推演，盖茨夫妇突然离婚的根本原因。比尔·盖茨通过盖茨基金会，从购买土地，开发转基因食品，到基因编辑，其所做的事实大曝光。</a></li>
+<li><a href="/bannedvideo/20210506/1540918.md">包子作死？七国集团外长同声谴责，距离“八国联军”不远了⋯⋯六四前夕重判黄之锋！</a></li>
 <li><a href="/bannedvideo/20210507/1541296.md">前朝宰相都如临深渊，与习对决？劝习近平交权退休被禁？｜“庆丰茶馆”里品一杯茶，轻松幽默中笑谈风云 ☕️ (第十四集)</a></li>
 <li><a href="/ssgc/20210507/1541125.md">〖兲朝浮世绘〗习维尼这回可是凭真本事拿了第一的</a></li>
-<li><a href="/cnnews/20210506/1541034.md">政法督导组进驻河北 优厚待遇曝光</a></li>
 <li><a href="/worldnews/20210506/1540968.md">“别学我 很危险”菲总统退回中共国药疫苗</a></li>
+<li><a href="/cnnews/20210506/1541034.md">政法督导组进驻河北 优厚待遇曝光</a></li>
 <li><a href="/cnnews/20210506/1540880.md">突发：应民主党要求 邮寄选票与选民签名的匹配立即停止【阿波罗网编译】</a></li>
 <li><a href="/cnnews/20210507/1541254.md">击毙山本五十六功臣 文革遭遇凄惨</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210507/1541517.md" target="_blank">浙江化工厂爆炸 火焰冲天 200米外玻璃被震碎</a></li>
 <li><a href="/comments/20210507/1541478.md" target="_blank">世卫警告：疫情加速多国将进入至黑暗时期；宁波化工厂剧烈爆炸；内蒙古突发沙尘暴数万人被困；中共密令印度华人遭弃；美国警察正以创记录速度离职；访民大妈边哭边唱道出真实中国现状；【希望之声TV】</a></li>
 <li><a href="/cbnews/20210507/1541454.md" target="_blank">布林肯：中共若对台进攻 将犯严重错误</a></li>
 <li><a href="/cbnews/20210507/1541453.md" target="_blank">大纪元：复阳频发 国务院和地方各说各话</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210507/1541137.md" target="_blank">若美开战 军共致命咽喉暴露；亚利桑那审计 拜登司法部插手了；长征火箭太空打滚  美掌失控路线；蓬佩奥抨击中情局；刘长乐刚交权 女婿被刑拘；广西过“割韭菜” 节？12pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210506/1541066.md" target="_blank">大陆选秀节目被停播 粉丝为啥买奶又倒掉</a></li>
 <li><a href="/cbnews/20210506/1541029.md" target="_blank">美国思想领袖：摩根·泽格斯：美青年陷社会主义骗局！取消文化的兴起，美国的年轻人从根本上误解了社会主义？其背後的意识形态是什麽？| 大纪元</a></li>
-<li><a href="/comments/20210506/1540986.md" target="_blank">【#两岸新闻5/6】手机业务遭重挫 华为又卖化妆品；狼真的来了？习近平首次点名学区房；经济衰退香港房租大跌；中共拟恢复美军在太平洋岛国废弃跑道；中共火箭碎片将砸地球哪里？白宫关注【#希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210507/1541506.md" target="_blank">【双语诗歌 Bilingual Poetry】品尝甜蜜Tasting Sweetness</a></li>
 <li><a href="/comments/20210507/1541494.md" target="_blank">&quot;直面不容修改的历史“ 法纪念拿破仑逝世200周年</a></li>
 <li><a href="/comments/20210507/1541493.md" target="_blank">手机真伤眼 医师：多摄取5种“护眼营养素”</a></li>
 <li><a href="/comments/20210507/1541492.md" target="_blank">耳鸣是绝症吗？会痊愈吗？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210507/1541362.md" target="_blank">【欺世大观】64 淫窟延安 八路性乱</a></li>
 <li><a href="/comments/20210507/1541340.md" target="_blank">一剑飘尘：习近平凭什么给赵婷打电话</a></li>
 <li><a href="/comments/20210507/1541339.md" target="_blank">陶杰：亚裔女性优越主义 比尔盖茨启示录</a></li>
-<li><a href="/comments/20210507/1541338.md" target="_blank">张春：规定每天哭一个小时的女人是我妈</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
 
 </ul>
 </div>
