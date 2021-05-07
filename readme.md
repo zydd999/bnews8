@@ -23,11 +23,11 @@
 <li><a href="/cbnews/20210507/1541402.md">习近平为文革翻案信号？北京公园宋代石狮“改口”</a></li>
 <li><a href="/funmedia/20210507/1541603.md">鬼谷子：老实人无法成功，记住这5句话，教你变成强者</a></li>
 <li><a href="/funmedia/20210507/1541631.md">越南一年吃掉400万只猫，中国吃货为何不吃？李时珍早已写下原因</a></li>
-<li><a href="/cnnews/20210507/1541254.md">击毙山本五十六功臣 文革遭遇凄惨</a></li>
-<li><a href="/bannedvideo/20210507/1541561.md">习近平给全国人大扩权，中国财政部长半年三提房地产税，房价大杀器何时出？</a></li>
 <li><a href="/worldnews/20210507/1541769.md">这次，俄罗斯和中共不穿一条裤子了</a></li>
+<li><a href="/bannedvideo/20210507/1541561.md">习近平给全国人大扩权，中国财政部长半年三提房地产税，房价大杀器何时出？</a></li>
 <li><a href="/comments/20210507/1541224.md">印度等多个曾经敬佛国家的瘟疫相继爆发，准确对应高人去年说出的原因。一直告诉大家，宇宙充满善意，善良的人不必心生恐惧。肉身的死亡绝对不是生命的结束。正确的抉择能改变一切。</a></li>
 <li><a href="/funmedia/20210507/1541626.md">“最美婆婆”走红，婚礼上风头碾压儿媳</a></li>
+<li><a href="/cnnews/20210507/1541526.md">突发：马县拒绝交出电子设备 称"重大安全风险"不解释【阿波罗网编译】</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210508/1541974.md" target="_blank">宜家（Ikea）回收旧家具 最高可返其价值50%的代金券</a></li>
+<li><a href="/comments/20210508/1541971.md" target="_blank">共机频扰台 法美齐发声 专家戳破中共阴谋</a></li>
 <li><a href="/comments/20210508/1541962.md" target="_blank">【404文库】笑话百科: 这些“阴阳怪气”的话 是哪位“公知”说的？</a></li>
 <li><a href="/comments/20210508/1541961.md" target="_blank">制定《反食品浪费法》的人 才是在浪费食品</a></li>
 <li><a href="/comments/20210508/1541960.md" target="_blank">漫天霾: 关于货币的几个真相</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210508/1541846.md" target="_blank">抗共新震慑  美舰配高超音速飞弹；克鲁兹会川普 商讨大计？美司令：中共在非洲下注；华尔街失望  拜登或延川普禁令；陆男偷渡携血旗  台方防范；大妈红舞慰英烈  归途招厄运12PM【希望之声TV】</a></li>
 <li><a href="/comments/20210508/1541841.md" target="_blank">创作川普肖像油画 美88岁老奶奶：我是爱国者</a></li>
 <li><a href="/comments/20210508/1541834.md" target="_blank">中国沙尘暴多严重？郑明典PO图“一整片数值999破表…”</a></li>
-<li><a href="/comments/20210508/1541833.md" target="_blank">研究发现先进的爱琴海文明之间存在密切的遗传联系</a></li>
-<li><a href="/comments/20210507/1541815.md" target="_blank">王忠林获任湖北代理省长 升官传靠三潜规则</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/20170710/789533.md" target="_blank">乐舞仙踪 之一：乐舞仙踪</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/cbnews/20180316/915423.md" target="_blank">治国大道(十)：中庸之道</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200605/783244.md" target="_blank">世界上最神秘的人-美国先知-沉睡的预言家：凯西</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
+<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 
 </ul>
 </div>
