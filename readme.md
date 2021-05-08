@@ -13,20 +13,20 @@
 <li><a href="/cnnews/20210508/1541969.md">腾讯程序员吐槽：1kw房产+1kw股票+300w现金…</a></li>
 <li><a href="/comments/20210508/1542150.md">习近平面临生死大搏斗 最大的反习势力是他</a></li>
 <li><a href="/cbnews/20210508/1542140.md">传广东韶关公安局长驾特斯拉追尾货车当场死亡</a></li>
+<li><a href="/comments/20210508/1542192.md">传中南海最新人事布局 习家军或有变动</a></li>
 <li><a href="/bannedvideo/20210508/1541972.md">巴西总统语出惊人：中共制造病毒且发动生物战！中共最大疫苗合作国为何一夜反转？布林肯王毅再驳火，一个关键词隐藏重要信息。</a></li>
 <li><a href="/yule/20210508/1541880.md">美媒称比尔盖茨不是和平分手，梅琳达花13.2万美元租下小岛躲避媒体</a></li>
-<li><a href="/comments/20210508/1542192.md">传中南海最新人事布局 习家军或有变动</a></li>
 <li><a href="/health/20210508/1542032.md">38岁货运司机发热一周，医院确诊艾滋病，痛哭：老婆还一无所知</a></li>
-<li><a href="/cbnews/20210508/1541887.md">“购买20个高颜值白人卵子” 四川教育大亨被爆赴美代孕产10女</a></li>
 <li><a href="/cnnews/20210508/1542208.md">不甩霍金警告！大陆宣布“天眼”新发现</a></li>
+<li><a href="/cbnews/20210508/1541887.md">“购买20个高颜值白人卵子” 四川教育大亨被爆赴美代孕产10女</a></li>
+<li><a href="/bannedvideo/20210508/1542221.md">【重磅】五角大楼发生军事政变! 参谋长联席会议被推翻!五角大楼护卫部队十几名武装成员进入会议室给米利和霍坎森将军戴上了手铐 后被运往关塔那摩湾  消息人士：现在发生的事情是川普在独立日重新就职的前奏</a></li>
 <li><a href="/cnnews/20210508/1541944.md">广东男篮运动员：被非洲父亲抛弃的中非混血</a></li>
 <li><a href="/cbnews/20210508/1541919.md">专栏 | 夜话中南海：温家宝与习近平之间的路线斗争由来已久</a></li>
 <li><a href="/cnnews/20210508/1541978.md">美军重大行动：中美信息战升级</a></li>
 <li><a href="/bannedvideo/20210508/1541851.md">袁腾飞说：墙外自媒体大部分是辣鸡！老黑运营两年油管，必须得说一些得罪人的话了！</a></li>
 <li><a href="/cbnews/20210508/1541956.md">中国男子偷渡时间诡异 另一种战争模式已开启</a></li>
 <li><a href="/cnnews/20210507/1541801.md">山东男子捡破沙发回家 劈开竟掉出金块和现金</a></li>
-<li><a href="/bannedvideo/20210508/1542221.md">【重磅】五角大楼发生军事政变! 参谋长联席会议被推翻!五角大楼护卫部队十几名武装成员进入会议室给米利和霍坎森将军戴上了手铐 后被运往关塔那摩湾  消息人士：现在发生的事情是川普在独立日重新就职的前奏</a></li>
-<li><a href="/cnnews/20210507/1541800.md">新疆集中营幸存者美国会作证：性侵、强迫绝育，许多女孩疯了</a></li>
+<li><a href="/cbnews/20210508/1542268.md">分析：温家宝在多个事件上表达不满</a></li>
 <li><a href="/cbnews/20210508/1542042.md">文昭：习近平与刘鹤也有路线分歧？会掰吗？「推力」不及「拉力」，中国经济六台引擎五台熄火</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -98,6 +98,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210508/1542355.md" target="_blank">李卓人狱中信：历史将判“忠诚废物”有罪 冀香港重光之时一起说“一切都是值得的”</a></li>
+<li><a href="/comments/20210508/1542354.md" target="_blank">【摄影】艺术雕塑</a></li>
+<li><a href="/comments/20210508/1542353.md" target="_blank">制裁取消了？曝林郑次子获美国名校录取</a></li>
+<li><a href="/comments/20210508/1542352.md" target="_blank">【二十大卡位战】中南海最新人事动向 传习家军有人让位</a></li>
 <li><a href="/comments/20210508/1542350.md" target="_blank">张艺谋选“谋女郎”首要标准 女星要切记</a></li>
 <li><a href="/comments/20210508/1542341.md" target="_blank">亚利桑那州参议院警告，马里科帕县再抵赖，法庭见！州参议院主席范恩说，选举审计会发现“违规行为”，对抗司法部。小切尼下周或提前下台。左媒不得不承认川普影响力。</a></li>
 <li><a href="/comments/20210508/1542335.md" target="_blank">【摄影】 漫漫人生路</a></li>
@@ -119,10 +123,6 @@
 <li><a href="/comments/20210508/1542203.md" target="_blank">拒绝新编历史 保住自由记忆</a></li>
 <li><a href="/comments/20210508/1542202.md" target="_blank">胡志伟短暂保释奔父丧 仅能逗留灵堂半小时</a></li>
 <li><a href="/comments/20210508/1542201.md" target="_blank">台湾国安高官叛逃大陆 疑携带机密名单与“奉天专案”“当阳专案”“明德专案”机密文件 中南海不可告人的秘密_364</a></li>
-<li><a href="/comments/20210508/1542193.md" target="_blank">【#午夜新闻 5/7】全美最强选举诚信法通过反遭白宫谴责；拜登新闻秘书计划辞职另有隐情？美贸易代表戴琪或将近期与刘鹤会谈；中共制造疫情打“细菌战”？巴西总统暗示；马尔代夫前总统遭炸弹攻击；</a></li>
-<li><a href="/comments/20210508/1542192.md" target="_blank">传中南海最新人事布局 习家军或有变动</a></li>
-<li><a href="/comments/20210508/1542177.md" target="_blank">这些政客为疫苗歇斯底里的背后是什么？</a></li>
-<li><a href="/comments/20210508/1542173.md" target="_blank">研究发现，先进的爱琴海文明之间存在密切的遗传联系</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200605/783249.md" target="_blank">中华智慧：二、武术中的顺势智慧</a></li>
-<li><a href="/cbnews/20200611/1343037.md" target="_blank">广东夫妻生3胎被罚32万 黑人生4胎妇联领导慰问</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
