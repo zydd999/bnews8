@@ -7,24 +7,24 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210509/1542695.md">内地最惨网红，到死还在直播</a></li>
 <li><a href="/finance/20210509/1542574.md">关键指标显示 中国又将面临一个大麻烦</a></li>
-<li><a href="/comments/20210509/1542506.md">巴西染疫死亡人数飙升！总统语出惊人：我们是不是在打一场新的战争？</a></li>
 <li><a href="/comments/20210509/1542639.md">哪个国家最讨厌中国？第二名让人超意外</a></li>
+<li><a href="/comments/20210509/1542506.md">巴西染疫死亡人数飙升！总统语出惊人：我们是不是在打一场新的战争？</a></li>
 <li><a href="/cbnews/20210509/1542537.md">“战斗英雄”徐良祭奠战友被抓 老兵呼吁涉案者自首</a></li>
 <li><a href="/comments/20210509/1542880.md">内幕：温家宝首次带妻见客 红媒收指示不要大做</a></li>
 <li><a href="/topimagenews/20210509/1542876.md">偷袭习近平！大外宣撕掉伪装 江泽民曾以记者做祭品 秘密设毒“局”【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20210509/1542624.md">红衣女25楼阳台跳舞坠亡 网吓：在回魂夜找人报仇</a></li>
 <li><a href="/cbnews/20210509/1542726.md">社会内卷的真正原因：华为内部的这篇雄文火了</a></li>
 <li><a href="/cnnews/20210509/1542694.md">李克强又说实话了被屏蔽；此常委替习近平解套？高级黑？弄巧成拙</a></li>
+<li><a href="/cbnews/20210509/1542624.md">红衣女25楼阳台跳舞坠亡 网吓：在回魂夜找人报仇</a></li>
 <li><a href="/bannedvideo/20210509/1542758.md">在美国养老的中国大妈回国看病，大赞中国比美国好：看看这天坛医院，不知道还以为是观光旅游。</a></li>
 <li><a href="/bannedvideo/20210509/1542654.md">美国最知名的女预言家：21世纪“末日大决战”已到来！人类获胜的出路在哪儿？【文昭思绪飞扬第49期】</a></li>
 <li><a href="/lifebaike/20210509/1542829.md">癌症不是突然到来，患上癌症的人，睡觉前常常有六个共同点</a></li>
 <li><a href="/bannedvideo/20210509/1542565.md">《石涛聚焦》“爆炸新闻！中共病毒-习氏督造共军研制 原始文件被泄漏！”源自美国务院 2015年论文 18名顶级病毒专家 第四军医大督导“徐德忠教授-习近平在线传记主编：灵魂人物”（08/05）</a></li>
 <li><a href="/cbnews/20210509/1542788.md">共军自曝基因生物武器的恐怖</a></li>
-<li><a href="/comments/20210509/1542737.md">一个流传已久的谎言 99%的人信</a></li>
-<li><a href="/headline/20210509/1542825.md">中国长征五B遥二运载火箭末级残骸降落印度洋 美国宇航局批缺透明</a></li>
-<li><a href="/yule/20210509/1542745.md">40岁的宋佳为何嫁不出去？一般人确实不敢娶</a></li>
-<li><a href="/comments/20210509/1542798.md">白头发会越长越多？或是身体缺少这三种营养</a></li>
 <li><a href="/bannedvideo/20210509/1542912.md">陈破空：上海出事了！有人痛打维尼熊。微博全面禁言。新文革骤起！胡锡进被打成汉奸卖国贼</a></li>
+<li><a href="/comments/20210509/1542737.md">一个流传已久的谎言 99%的人信</a></li>
+<li><a href="/yule/20210509/1542745.md">40岁的宋佳为何嫁不出去？一般人确实不敢娶</a></li>
+<li><a href="/headline/20210509/1542825.md">中国长征五B遥二运载火箭末级残骸降落印度洋 美国宇航局批缺透明</a></li>
+<li><a href="/comments/20210509/1542798.md">白头发会越长越多？或是身体缺少这三种营养</a></li>
 <li><a href="/health/20210509/1542866.md">肾衰竭发出的首个信号，常是这种“征兆”！一旦发现，及时去检查</a></li>
 <li><a href="/cbnews/20210509/1542535.md">上海男子持刀杀人后又劫持人质 被警察击毙</a></li>
 <li><a href="/comments/20210509/1542739.md">张杰：习近平为什么撞了南墙也不回头？</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210510/1543037.md" target="_blank">牛腾宇母亲调查：儿子代号mm20 纪委审案秘密地点遭酷刑</a></li>
 <li><a href="/comments/20210509/1542942.md" target="_blank">中共军方文件揭示，病毒是中共军方生物武器。习近平部署？巴西总统：病毒来自实验室，中共利用新冠病毒打一场生物战。美国军方秘密报告，病毒来自实验室。</a></li>
 <li><a href="/comments/20210509/1542931.md" target="_blank">【#两岸新闻5/9】美军证实长征火箭残骸已坠落印度洋；对抗中共 欧盟和印度同意重启贸易谈判；海底捞港股56天市值暴跌2000亿；遭抵制后 阿迪达斯一季度在华销售涨156%【#希望之声TV】</a></li>
 <li><a href="/cbnews/20210509/1542901.md" target="_blank">许艳首次探监余文生 一家三口首重聚 对无法陪伴儿子成长表歉意</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/comments/20210509/1542588.md" target="_blank">川普支持者卧底安提法，有惊人发现并录音。安提法到底是一个什么样的组织？又是谁在幕后为他们开脱，让他们为所欲为？安提法是一个理念还是一门生意？</a></li>
 <li><a href="/comments/20210509/1542575.md" target="_blank">佛州长警告安提法 若暴乱将惩治；美军伊拉克基地遭袭击；陆企业家聚餐 被当局带走；长征火箭坠落在即；中共宣布“天眼”新发现；美设首席制造官制衡中共5pm【希望之声TV】</a></li>
 <li><a href="/cbnews/20210509/1542537.md" target="_blank">“战斗英雄”徐良祭奠战友被抓 老兵呼吁涉案者自首</a></li>
-<li><a href="/cbnews/20210509/1542536.md" target="_blank">江西航空客机挡风玻璃高空破裂起火 改降兰州机场</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
