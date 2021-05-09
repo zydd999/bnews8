@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20210509/1542726.md">社会内卷的真正原因：华为内部的这篇雄文火了</a></li>
 <li><a href="/cbnews/20210509/1542624.md">红衣女25楼阳台跳舞坠亡 网吓：在回魂夜找人报仇</a></li>
 <li><a href="/comments/20210508/1542352.md">【二十大卡位战】中南海最新人事动向 传习家军有人让位</a></li>
+<li><a href="/lifebaike/20210508/1542451.md">女人最喜欢哪种长相的男人？心理学家答案是这样的…</a></li>
 <li><a href="/cnnews/20210509/1542694.md">李克强又说实话了被屏蔽；此常委替习近平解套？高级黑？弄巧成拙</a></li>
 <li><a href="/bannedvideo/20210509/1542654.md">美国最知名的女预言家：21世纪“末日大决战”已到来！人类获胜的出路在哪儿？【文昭思绪飞扬第49期】</a></li>
-<li><a href="/lifebaike/20210508/1542451.md">女人最喜欢哪种长相的男人？心理学家答案是这样的…</a></li>
 <li><a href="/bannedvideo/20210509/1542758.md">在美国养老的中国大妈回国看病，大赞中国比美国好：看看这天坛医院，不知道还以为是观光旅游。</a></li>
 <li><a href="/comments/20210508/1542443.md">中国火箭残骸失控坠落 最新预测地点出炉</a></li>
 <li><a href="/bannedvideo/20210509/1542565.md">《石涛聚焦》“爆炸新闻！中共病毒-习氏督造共军研制 原始文件被泄漏！”源自美国务院 2015年论文 18名顶级病毒专家 第四军医大督导“徐德忠教授-习近平在线传记主编：灵魂人物”（08/05）</a></li>
-<li><a href="/worldnews/usa/20210508/1542318.md">中国移动、中国联通与中国电信推翻纽约股市摘牌决定失败 将自美下市</a></li>
 <li><a href="/ssgc/20210508/1542385.md">为文革招魂，习近平末日狂奔</a></li>
 <li><a href="/comments/20210509/1542737.md">一个流传已久的谎言 99%的人信</a></li>
 <li><a href="/cbnews/20210509/1542535.md">上海男子持刀杀人后又劫持人质 被警察击毙</a></li>
-<li><a href="/comments/20210508/1542314.md">目击UFO升降，外星人长相影片曝！30公分“小矮人”逛大街</a></li>
-<li><a href="/lifebaike/20210508/1542452.md">哈佛对700男性进行长达76年研究：成功的秘诀是这个</a></li>
 <li><a href="/yule/20210509/1542592.md">42岁李晨演17岁高中生 齐刘海锅盖头满脸褶子太违和</a></li>
+<li><a href="/lifebaike/20210508/1542452.md">哈佛对700男性进行长达76年研究：成功的秘诀是这个</a></li>
+<li><a href="/yule/20210509/1542745.md">40岁的宋佳为何嫁不出去？一般人确实不敢娶</a></li>
+<li><a href="/health/20210508/1542449.md">身上突然出现一个症状 千万别不当回事</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210509/1542890.md" target="_blank">【狱中家书】无形墙壁</a></li>
+<li><a href="/comments/20210509/1542888.md" target="_blank">《铿锵集》是一个传说</a></li>
 <li><a href="/comments/20210509/1542880.md" target="_blank">内幕：温家宝首次带妻见客 红媒收指示不要大做</a></li>
 <li><a href="/comments/20210509/1542873.md" target="_blank">英媒：中共六年前就准备用于三战的生化武器</a></li>
 <li><a href="/comments/20210509/1542811.md" target="_blank">母亲节送给母亲什么礼物好</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210509/1542738.md" target="_blank">年轻人开始反环保 究竟是在反对什么？</a></li>
 <li><a href="/comments/20210509/1542737.md" target="_blank">一个流传已久的谎言 99%的人信</a></li>
 <li><a href="/comments/20210509/1542736.md" target="_blank">爷爷消失了7年 这家人却从未找过他 真正的死亡 叫遗忘</a></li>
-<li><a href="/comments/20210509/1542735.md" target="_blank">专制就是最有效的制毒机</a></li>
-<li><a href="/comments/20210509/1542729.md" target="_blank">【杰森视角】砸向地球的火箭残骸，预示无尽头的防疫状态！美国4月份就业数据非常荒谬！美国股市已经成了瘾君子！人类社会处在一个特殊的过度期！</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
