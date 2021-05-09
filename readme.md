@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/fqnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
-<li><a href="/cbnews/20210508/1542447.md">北京富豪人数超过纽约 富豪们的真实身份…</a></li>
 <li><a href="/cnnews/20210509/1542695.md">内地最惨网红，到死还在直播</a></li>
 <li><a href="/finance/20210509/1542574.md">关键指标显示 中国又将面临一个大麻烦</a></li>
 <li><a href="/comments/20210509/1542506.md">巴西染疫死亡人数飙升！总统语出惊人：我们是不是在打一场新的战争？</a></li>
 <li><a href="/comments/20210509/1542639.md">哪个国家最讨厌中国？第二名让人超意外</a></li>
 <li><a href="/cbnews/20210509/1542537.md">“战斗英雄”徐良祭奠战友被抓 老兵呼吁涉案者自首</a></li>
 <li><a href="/topimagenews/20210509/1542876.md">偷袭习近平！大外宣撕掉伪装 江泽民曾以记者做祭品 秘密设毒“局”【阿波罗网报道】</a></li>
-<li><a href="/lifebaike/20210508/1542451.md">女人最喜欢哪种长相的男人？心理学家答案是这样的…</a></li>
 <li><a href="/cbnews/20210509/1542624.md">红衣女25楼阳台跳舞坠亡 网吓：在回魂夜找人报仇</a></li>
-<li><a href="/cbnews/20210509/1542726.md">社会内卷的真正原因：华为内部的这篇雄文火了</a></li>
 <li><a href="/comments/20210509/1542880.md">内幕：温家宝首次带妻见客 红媒收指示不要大做</a></li>
+<li><a href="/cbnews/20210509/1542726.md">社会内卷的真正原因：华为内部的这篇雄文火了</a></li>
 <li><a href="/cnnews/20210509/1542694.md">李克强又说实话了被屏蔽；此常委替习近平解套？高级黑？弄巧成拙</a></li>
-<li><a href="/comments/20210508/1542443.md">中国火箭残骸失控坠落 最新预测地点出炉</a></li>
 <li><a href="/bannedvideo/20210509/1542758.md">在美国养老的中国大妈回国看病，大赞中国比美国好：看看这天坛医院，不知道还以为是观光旅游。</a></li>
 <li><a href="/bannedvideo/20210509/1542654.md">美国最知名的女预言家：21世纪“末日大决战”已到来！人类获胜的出路在哪儿？【文昭思绪飞扬第49期】</a></li>
-<li><a href="/bannedvideo/20210509/1542565.md">《石涛聚焦》“爆炸新闻！中共病毒-习氏督造共军研制 原始文件被泄漏！”源自美国务院 2015年论文 18名顶级病毒专家 第四军医大督导“徐德忠教授-习近平在线传记主编：灵魂人物”（08/05）</a></li>
 <li><a href="/lifebaike/20210509/1542829.md">癌症不是突然到来，患上癌症的人，睡觉前常常有六个共同点</a></li>
+<li><a href="/bannedvideo/20210509/1542565.md">《石涛聚焦》“爆炸新闻！中共病毒-习氏督造共军研制 原始文件被泄漏！”源自美国务院 2015年论文 18名顶级病毒专家 第四军医大督导“徐德忠教授-习近平在线传记主编：灵魂人物”（08/05）</a></li>
 <li><a href="/cbnews/20210509/1542788.md">共军自曝基因生物武器的恐怖</a></li>
 <li><a href="/comments/20210509/1542737.md">一个流传已久的谎言 99%的人信</a></li>
 <li><a href="/headline/20210509/1542825.md">中国长征五B遥二运载火箭末级残骸降落印度洋 美国宇航局批缺透明</a></li>
 <li><a href="/yule/20210509/1542745.md">40岁的宋佳为何嫁不出去？一般人确实不敢娶</a></li>
 <li><a href="/comments/20210509/1542798.md">白头发会越长越多？或是身体缺少这三种营养</a></li>
-<li><a href="/lifebaike/20210508/1542452.md">哈佛对700男性进行长达76年研究：成功的秘诀是这个</a></li>
+<li><a href="/cbnews/20210509/1542535.md">上海男子持刀杀人后又劫持人质 被警察击毙</a></li>
+<li><a href="/health/20210509/1542866.md">肾衰竭发出的首个信号，常是这种“征兆”！一旦发现，及时去检查</a></li>
+<li><a href="/yule/20210509/1542592.md">42岁李晨演17岁高中生 齐刘海锅盖头满脸褶子太违和</a></li>
+<li><a href="/comments/20210509/1542739.md">张杰：习近平为什么撞了南墙也不回头？</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210509/1543009.md" target="_blank">拜登次子“硬槃门​”再爆猛料！中共“间谍头子”指派神秘美女服侍亨特</a></li>
 <li><a href="/comments/20210509/1543007.md" target="_blank">“深房理”引官场地震 刘锐绍指凸显中共管理文化病</a></li>
 <li><a href="/comments/20210509/1543006.md" target="_blank">公厕马桶垫上铺卫生纸，愈垫愈脏&#8230;&#8230;</a></li>
 <li><a href="/comments/20210509/1543005.md" target="_blank">如何自我预防鼻炎？做好这五点</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210509/1542805.md" target="_blank">阿富汗首都高中遭汽车炸弹攻击 至少55死 155伤</a></li>
 <li><a href="/comments/20210509/1542799.md" target="_blank">每天空腹16小时太困难？营养师：3步骤渐进断食</a></li>
 <li><a href="/comments/20210509/1542798.md" target="_blank">白头发会越长越多？或是身体缺少这三种营养</a></li>
-<li><a href="/comments/20210509/1542797.md" target="_blank">对抗疫情！“6大饮食关键”增强身体免疫力</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20200605/783248.md" target="_blank">中华智慧：三、兵法中的顺势智慧</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200605/783246.md" target="_blank">科学史上的大骗局：进化论</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20170626/780479.md" target="_blank">法轮功学员运用神通协助警察破案的故事</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
 <li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200327/1301424.md" target="_blank">与时疫使君（瘟神）的对话</a></li>
 
 </ul>
 </div>
