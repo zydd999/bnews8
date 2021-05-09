@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cnnews/20210509/1542695.md">内地最惨网红，到死还在直播</a></li>
-<li><a href="/topimagenews/20210508/1542346.md">发中共传票 美或冻结共资 共和党:拜登决策圈是中共 补贴它，中共为美中脱钩做准备</a></li>
 <li><a href="/cbnews/20210508/1542447.md">北京富豪人数超过纽约 富豪们的真实身份…</a></li>
+<li><a href="/topimagenews/20210508/1542346.md">发中共传票 美或冻结共资 共和党:拜登决策圈是中共 补贴它，中共为美中脱钩做准备</a></li>
 <li><a href="/comments/20210509/1542506.md">巴西染疫死亡人数飙升！总统语出惊人：我们是不是在打一场新的战争？</a></li>
-<li><a href="/comments/20210509/1542639.md">哪个国家最讨厌中国？第二名让人超意外</a></li>
 <li><a href="/cbnews/20210509/1542537.md">“战斗英雄”徐良祭奠战友被抓 老兵呼吁涉案者自首</a></li>
-<li><a href="/finance/20210509/1542574.md">关键指标显示 中国又将面临一个大麻烦</a></li>
+<li><a href="/comments/20210509/1542639.md">哪个国家最讨厌中国？第二名让人超意外</a></li>
 <li><a href="/cbnews/20210509/1542624.md">红衣女25楼阳台跳舞坠亡 网吓：在回魂夜找人报仇</a></li>
-<li><a href="/bannedvideo/20210509/1542654.md">美国最知名的女预言家：21世纪“末日大决战”已到来！人类获胜的出路在哪儿？【文昭思绪飞扬第49期】</a></li>
-<li><a href="/comments/20210508/1542352.md">【二十大卡位战】中南海最新人事动向 传习家军有人让位</a></li>
-<li><a href="/cnnews/20210509/1542694.md">李克强又说实话了被屏蔽；此常委替习近平解套？高级黑？弄巧成拙</a></li>
-<li><a href="/lifebaike/20210508/1542451.md">女人最喜欢哪种长相的男人？心理学家答案是这样的…</a></li>
-<li><a href="/comments/20210508/1542443.md">中国火箭残骸失控坠落 最新预测地点出炉</a></li>
+<li><a href="/finance/20210509/1542574.md">关键指标显示 中国又将面临一个大麻烦</a></li>
 <li><a href="/cbnews/20210509/1542726.md">社会内卷的真正原因：华为内部的这篇雄文火了</a></li>
+<li><a href="/comments/20210508/1542352.md">【二十大卡位战】中南海最新人事动向 传习家军有人让位</a></li>
+<li><a href="/bannedvideo/20210509/1542654.md">美国最知名的女预言家：21世纪“末日大决战”已到来！人类获胜的出路在哪儿？【文昭思绪飞扬第49期】</a></li>
+<li><a href="/lifebaike/20210508/1542451.md">女人最喜欢哪种长相的男人？心理学家答案是这样的…</a></li>
+<li><a href="/cnnews/20210509/1542694.md">李克强又说实话了被屏蔽；此常委替习近平解套？高级黑？弄巧成拙</a></li>
+<li><a href="/comments/20210508/1542443.md">中国火箭残骸失控坠落 最新预测地点出炉</a></li>
 <li><a href="/bannedvideo/20210509/1542565.md">《石涛聚焦》“爆炸新闻！中共病毒-习氏督造共军研制 原始文件被泄漏！”源自美国务院 2015年论文 18名顶级病毒专家 第四军医大督导“徐德忠教授-习近平在线传记主编：灵魂人物”（08/05）</a></li>
-<li><a href="/worldnews/usa/20210508/1542318.md">中国移动、中国联通与中国电信推翻纽约股市摘牌决定失败 将自美下市</a></li>
 <li><a href="/bannedvideo/20210509/1542758.md">在美国养老的中国大妈回国看病，大赞中国比美国好：看看这天坛医院，不知道还以为是观光旅游。</a></li>
+<li><a href="/worldnews/usa/20210508/1542318.md">中国移动、中国联通与中国电信推翻纽约股市摘牌决定失败 将自美下市</a></li>
 <li><a href="/ssgc/20210508/1542385.md">为文革招魂，习近平末日狂奔</a></li>
 <li><a href="/cbnews/20210509/1542535.md">上海男子持刀杀人后又劫持人质 被警察击毙</a></li>
+<li><a href="/comments/20210509/1542737.md">一个流传已久的谎言 99%的人信</a></li>
 <li><a href="/comments/20210508/1542314.md">目击UFO升降，外星人长相影片曝！30公分“小矮人”逛大街</a></li>
 <li><a href="/yule/20210509/1542592.md">42岁李晨演17岁高中生 齐刘海锅盖头满脸褶子太违和</a></li>
 <li><a href="/health/20210508/1542449.md">身上突然出现一个症状 千万别不当回事</a></li>
-<li><a href="/lifebaike/20210508/1542452.md">哈佛对700男性进行长达76年研究：成功的秘诀是这个</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210509/1542880.md" target="_blank">内幕：温家宝首次带妻见客 红媒收指示不要大做</a></li>
 <li><a href="/comments/20210509/1542873.md" target="_blank">英媒：中共六年前就准备用于三战的生化武器</a></li>
 <li><a href="/comments/20210509/1542811.md" target="_blank">母亲节送给母亲什么礼物好</a></li>
 <li><a href="/comments/20210509/1542810.md" target="_blank">你知道慕尼黑啤酒节起源于浪漫的王室婚礼吗？</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210509/1542736.md" target="_blank">爷爷消失了7年 这家人却从未找过他 真正的死亡 叫遗忘</a></li>
 <li><a href="/comments/20210509/1542735.md" target="_blank">专制就是最有效的制毒机</a></li>
 <li><a href="/comments/20210509/1542729.md" target="_blank">【杰森视角】砸向地球的火箭残骸，预示无尽头的防疫状态！美国4月份就业数据非常荒谬！美国股市已经成了瘾君子！人类社会处在一个特殊的过度期！</a></li>
-<li><a href="/comments/20210509/1542705.md" target="_blank">伊拉克美军基地遭无人机袭击 本月第二次</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/cbnews/20200916/1397196.md" target="_blank">天亮时分：回答网友关于教育和同性恋的问题</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 <li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20180317/915893.md" target="_blank">治国大道(十一)：阴阳反背</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
