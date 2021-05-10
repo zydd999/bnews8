@@ -10,10 +10,9 @@
 <li><a href="/comments/20210510/1543111.md">温家宝中南海首次带妻见客 罕见四人合照公开 中共大外宣收到指示不要大做 习近平下令？中南海不可告人的秘密_365</a></li>
 <li><a href="/ssgc/20210510/1543087.md">〖兲朝浮世绘〗俄爹亲自辱华，孝子沉默不语</a></li>
 <li><a href="/bannedvideo/20210510/1543365.md">一件事情表明 习近平二十大连任没戏 江派又使离间计（启明笑谈20210510）</a></li>
-<li><a href="/cnnews/20210510/1543040.md">时速150公里没煞车 特斯拉像炮弹追撞货车</a></li>
 <li><a href="/cbnews/20210510/1543165.md">上海迪士尼“小熊维尼”遭痛殴 陆媒的操作傻眼了</a></li>
-<li><a href="/cbnews/20210510/1543376.md">习近平将是“最后的王者”班农揭中共续命黑幕</a></li>
 <li><a href="/cnnews/20210510/1543482.md">人口普查结果还未公布 大陆网友已经猜到结果了</a></li>
+<li><a href="/cbnews/20210510/1543376.md">习近平将是“最后的王者”班农揭中共续命黑幕</a></li>
 <li><a href="/cnnews/20210510/1543279.md">学马云演讲？美团CEO王兴发“反诗”</a></li>
 <li><a href="/comments/20210510/1543089.md">川普王者归来，共和党参众两院集体倒戈反川要员</a></li>
 <li><a href="/cbnews/20210510/1543043.md">中国11日发布最新人口普查数据 时程拖晚了一个月</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/comments/20210510/1543167.md">被熟人强奸女子：报警后痛苦程度超过被强奸</a></li>
 <li><a href="/cbnews/20210510/1543195.md">研判中澳财经对抗大背景 习近平惨了，被内部泄密没牌了</a></li>
 <li><a href="/comments/20210510/1543285.md">中国惊现368亿元“豆腐渣”工程 未完工就坍塌了</a></li>
-<li><a href="/comments/20210510/1543038.md">北京武攻台湾有多难？专家给习近平泼冷水</a></li>
 <li><a href="/baitai/20210510/1543119.md">桑雨：文革的轮回势不可挡？</a></li>
 <li><a href="/baitai/20210510/1543162.md">林立果的照片和林豆豆的对象</a></li>
+<li><a href="/cnnews/20210510/1543505.md">美军拦截查获中式武器 中共要害在这！进口暴增 领土?惊爆中共正在不丹建村</a></li>
 <li><a href="/cbnews/20210510/1543052.md">上海蝴蝶结阳台太火 80岁老奶奶吓坏 被家人接走</a></li>
 <li><a href="/cbnews/20210510/1543066.md">月伙食费20元、家中空无一物 90后白领力行“不消费主义”</a></li>
-<li><a href="/cnnews/20210510/1543505.md">美军拦截查获中式武器 中共要害在这！进口暴增 领土?惊爆中共正在不丹建村</a></li>
+<li><a href="/comments/20210510/1543293.md">(午夜新闻5/9）美最大燃油管道遭攻击；美军查获大批中俄走私武器；中共火箭坠落 胡锡进放话还要密集发射；中使馆办画赛被打脸中国医生曝肿瘤治疗黑幕【希望之声TV】</a></li>
+<li><a href="/cnnews/20210510/1543383.md">特斯拉车主丈夫又说啥了？ 网友讽：别怂 ，坚决讹到底</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210511/1543715.md" target="_blank">索回疫情经济损失 佛州州长将CDC告上法庭</a></li>
+<li><a href="/comments/20210511/1543714.md" target="_blank">老蛮：中国经济面临最大麻烦</a></li>
+<li><a href="/comments/20210511/1543710.md" target="_blank">控制话语权！ 京官入主“紫荆香港” 操控文化社团教育界</a></li>
+<li><a href="/comments/20210511/1543708.md" target="_blank">【摄影】噢！ 好美的树帘</a></li>
+<li><a href="/comments/20210511/1543707.md" target="_blank">【摄影】青青绿绿山水景 心旷神怡心舒畅</a></li>
 <li><a href="/comments/20210511/1543705.md" target="_blank">马斯克征服火星计划 68年前早有预言</a></li>
 <li><a href="/comments/20210511/1543704.md" target="_blank">支持放弃疫苗知识产权 拜登政府再遭质疑</a></li>
 <li><a href="/comments/20210511/1543703.md" target="_blank">CDC：新冠病毒透过空气传染 距离6尺以上仍危险</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210510/1543600.md" target="_blank">【阉割选举】刘慧卿撰文指参加这样的选举是屈辱 若民主党逆民意参选等于自杀</a></li>
 <li><a href="/comments/20210510/1543598.md" target="_blank">7.21 晦涩的结案陈词</a></li>
 <li><a href="/comments/20210510/1543597.md" target="_blank">我也是母亲！ 4岁童遭枪击 女警飞奔抢救画面曝光被赞“英雄”</a></li>
-<li><a href="/comments/20210510/1543596.md" target="_blank">悚！云南救灾直升机失事坠入洱海 机尾冒火画面曝光</a></li>
-<li><a href="/comments/20210510/1543546.md" target="_blank">美国最大输油管遭骇客袭击停摆 油价恐飙涨“黑暗面”网络犯罪集团要求支付赎金</a></li>
-<li><a href="/comments/20210510/1543545.md" target="_blank">武汉突降暴雨 火车站候车大厅也下大雨 铁路设备故障致多次列车延误</a></li>
-<li><a href="/comments/20210510/1543544.md" target="_blank">控制香港话语权 北京官员入主紫荆香港 操控文化社团教育界</a></li>
-<li><a href="/comments/20210510/1543543.md" target="_blank">川普团队北迁 将在新泽西度夏 附川普家“母亲节”照片</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20190424/914482.md" target="_blank">治国大道(八)：儒家治国</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
 <li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
