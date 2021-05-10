@@ -10,24 +10,24 @@
 <li><a href="/ssgc/20210510/1543087.md">〖兲朝浮世绘〗俄爹亲自辱华，孝子沉默不语</a></li>
 <li><a href="/comments/20210510/1543111.md">温家宝中南海首次带妻见客 罕见四人合照公开 中共大外宣收到指示不要大做 习近平下令？中南海不可告人的秘密_365</a></li>
 <li><a href="/cnnews/20210510/1543040.md">时速150公里没煞车 特斯拉像炮弹追撞货车</a></li>
-<li><a href="/ssgc/20210509/1542997.md">中共为何放过马化腾？</a></li>
-<li><a href="/cbnews/20210510/1543165.md">上海迪士尼“小熊维尼”遭痛殴 陆媒的操作傻眼了</a></li>
 <li><a href="/bannedvideo/20210510/1543365.md">一件事情表明 习近平二十大连任没戏 江派又使离间计（启明笑谈20210510）</a></li>
+<li><a href="/cbnews/20210510/1543165.md">上海迪士尼“小熊维尼”遭痛殴 陆媒的操作傻眼了</a></li>
 <li><a href="/cnnews/20210510/1543279.md">学马云演讲？美团CEO王兴发“反诗”</a></li>
+<li><a href="/cbnews/20210510/1543376.md">习近平将是“最后的王者”班农揭中共续命黑幕</a></li>
 <li><a href="/comments/20210510/1543089.md">川普王者归来，共和党参众两院集体倒戈反川要员</a></li>
 <li><a href="/cbnews/20210510/1543043.md">中国11日发布最新人口普查数据 时程拖晚了一个月</a></li>
-<li><a href="/cbnews/20210510/1543376.md">习近平将是“最后的王者”班农揭中共续命黑幕</a></li>
 <li><a href="/lifebaike/20210510/1543206.md">丈夫偷情，妻子给丈夫偷偷喂1级致癌物，潜伏期只有2周</a></li>
 <li><a href="/comments/20210510/1543167.md">被熟人强奸女子：报警后痛苦程度超过被强奸</a></li>
-<li><a href="/comments/20210509/1542987.md">中国长征火箭坠落画面曝光！史上第4大失控重入大气层人造物体</a></li>
 <li><a href="/cbnews/20210510/1543195.md">研判中澳财经对抗大背景 习近平惨了，被内部泄密没牌了</a></li>
 <li><a href="/comments/20210510/1543285.md">中国惊现368亿元“豆腐渣”工程 未完工就坍塌了</a></li>
-<li><a href="/baitai/20210510/1543119.md">桑雨：文革的轮回势不可挡？</a></li>
 <li><a href="/comments/20210510/1543038.md">北京武攻台湾有多难？专家给习近平泼冷水</a></li>
+<li><a href="/baitai/20210510/1543119.md">桑雨：文革的轮回势不可挡？</a></li>
 <li><a href="/baitai/20210510/1543162.md">林立果的照片和林豆豆的对象</a></li>
 <li><a href="/cbnews/20210510/1543052.md">上海蝴蝶结阳台太火 80岁老奶奶吓坏 被家人接走</a></li>
 <li><a href="/comments/20210509/1543009.md">拜登次子“硬槃门​”再爆猛料！中共“间谍头子”指派神秘美女服侍亨特</a></li>
 <li><a href="/cbnews/20210510/1543066.md">月伙食费20元、家中空无一物 90后白领力行“不消费主义”</a></li>
+<li><a href="/cbnews/20210510/1543403.md">太可怕了？武汉午后白昼如夜 暴雨倾盆</a></li>
+<li><a href="/cnnews/20210510/1543482.md">人口普查结果还未公布 大陆网友已经猜到结果了</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210510/1543605.md" target="_blank">【文韬政论】特斯拉及三菱汽车的中国梦两样情</a></li>
+<li><a href="/comments/20210510/1543603.md" target="_blank">控制香港话语权 北京官员入主“紫荆香港” 操控文化社团教育界</a></li>
+<li><a href="/comments/20210510/1543600.md" target="_blank">【阉割选举】刘慧卿撰文指参加这样的选举是屈辱 若民主党逆民意参选等于自杀</a></li>
+<li><a href="/comments/20210510/1543598.md" target="_blank">7.21 晦涩的结案陈词</a></li>
+<li><a href="/comments/20210510/1543597.md" target="_blank">我也是母亲！ 4岁童遭枪击 女警飞奔抢救画面曝光被赞“英雄”</a></li>
+<li><a href="/comments/20210510/1543596.md" target="_blank">悚！云南救灾直升机失事坠入洱海 机尾冒火画面曝光</a></li>
 <li><a href="/comments/20210510/1543546.md" target="_blank">美国最大输油管遭骇客袭击停摆 油价恐飙涨“黑暗面”网络犯罪集团要求支付赎金</a></li>
 <li><a href="/comments/20210510/1543545.md" target="_blank">武汉突降暴雨 火车站候车大厅也下大雨 铁路设备故障致多次列车延误</a></li>
 <li><a href="/comments/20210510/1543544.md" target="_blank">控制香港话语权 北京官员入主紫荆香港 操控文化社团教育界</a></li>
@@ -117,12 +123,6 @@
 <li><a href="/comments/20210510/1543350.md" target="_blank">前言：写在“六四屠夫”跪像前的一席话</a></li>
 <li><a href="/comments/20210510/1543336.md" target="_blank">【独家】诗 一首：劫后月更圆</a></li>
 <li><a href="/comments/20210510/1543327.md" target="_blank">加州逾九成地区陷干旱，种植者面临至少25%的削减</a></li>
-<li><a href="/comments/20210510/1543326.md" target="_blank">山上一种野花，清热又解毒，感冒、咳嗽皆有效</a></li>
-<li><a href="/comments/20210510/1543325.md" target="_blank">五月，这3种应季水果要多吃</a></li>
-<li><a href="/comments/20210510/1543314.md" target="_blank">一种“现代极权主义”的危险：用政治正确的语言包装歧视</a></li>
-<li><a href="/comments/20210510/1543313.md" target="_blank">诗朗诵 ：苍穹的春天</a></li>
-<li><a href="/comments/20210510/1543312.md" target="_blank">李燕铭：孟建柱又一副部级旧部落马 处境高危！江西省政协副主席肖毅落马 孟建柱提拔肖毅出任江西帮要职近十年 中共二十大前习近平与江曾全面决战 曾庆红江西帮与中央部委及中南海高层勾兑的核心人物出事 江西帮多名大佬惶惶不可终日</a></li>
-<li><a href="/comments/20210510/1543297.md" target="_blank">牛腾宇数次被送急救 母秘访发现主治医生疑“失踪”</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/ssgc/20200715/1360940.md" target="_blank">为什么中国人缺少原创力？| 十万个为什么</a></li>
-<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200917/1029129.md" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></li>
-<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20210331/1516754.md" target="_blank">被传销团伙围杀时 丈夫说了这句话脱险</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
+<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 
 </ul>
 </div>
