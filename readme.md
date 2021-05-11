@@ -7,27 +7,27 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210511/1543910.md">8个人7个阳性，唯一没感染的居然是没注射疫苗的人</a></li>
 <li><a href="/cnnews/20210510/1543604.md">曾参加89游行的王石 上海豪宅曝光：面积1000平 5小时才能逛完</a></li>
-<li><a href="/cbnews/20210511/1544039.md">第七次全国人口普查结果公布 大陆网友：不信</a></li>
 <li><a href="/cbnews/20210511/1544061.md">民航机在印度新德里上空喷洒液体新变种病毒</a></li>
+<li><a href="/cbnews/20210511/1544039.md">第七次全国人口普查结果公布 大陆网友：不信</a></li>
 <li><a href="/comments/20210511/1543680.md">现身活动现身 马云变样了！身消瘦皱纹白发多</a></li>
-<li><a href="/topimagenews/20210511/1543978.md">以色列：“我们动手了，再说一次，我们动手了，攻击了加萨的军事目标”</a></li>
-<li><a href="/cnnews/20210511/1543774.md">大灾难？贵阳夜空惊现“红色幽灵”</a></li>
 <li><a href="/comments/20210511/1543714.md">老蛮：中国经济面临最大麻烦</a></li>
+<li><a href="/cnnews/20210511/1543774.md">大灾难？贵阳夜空惊现“红色幽灵”</a></li>
+<li><a href="/topimagenews/20210511/1543978.md">以色列：“我们动手了，再说一次，我们动手了，攻击了加萨的军事目标”</a></li>
 <li><a href="/topimagenews/20210511/1543692.md">“万物狂涨”有排癫 通胀大时代中国成关键</a></li>
 <li><a href="/topimagenews/20210511/1544116.md">李克强说漏? 戳穿中共谎言，先兆信号到了？人口普查迟迟不公布，网已知道结果</a></li>
 <li><a href="/cbnews/20210511/1543843.md">“杭州杀妻案”后续：事发小区大量租户搬离</a></li>
 <li><a href="/worldnews/20210511/1543862.md">网红竟把翘臀练炸了！现场惨不忍睹</a></li>
 <li><a href="/bannedvideo/20210511/1543718.md">消息人士：川普总统定于7月4日在拉什莫尔山回归 海军是川普的强力后盾 80%军方高层投票支持川普 米利将军和国民警卫队将军被捕  鲍威尔是一名军事律师 她被调离川普身边内幕：从军事的角度从事法庭工作</a></li>
-<li><a href="/cnnews/20210510/1543623.md">正部级官员点破：在官场怎样让一件事干不成？相反…</a></li>
 <li><a href="/ssgc/20210511/1543780.md">〖兲朝浮世绘〗2015年研发出来的病毒2019年才放出来 让世人多活了四年</a></li>
+<li><a href="/cnnews/20210510/1543623.md">正部级官员点破：在官场怎样让一件事干不成？相反…</a></li>
 <li><a href="/finance/20210511/1543694.md">华为手机坠落神坛 经销商嫌弃：甚么都不重要了</a></li>
+<li><a href="/cnnews/20210511/1544078.md">深夜大风暴！拼多多暴跌1300亿！“水滴筹”又崩了，最惨的是...</a></li>
+<li><a href="/topimagenews/20210511/1544161.md">150多枚火箭弹射向以色列！以色列立刻还击 干掉11名恐怖组织分子</a></li>
 <li><a href="/cbnews/20210511/1543829.md">美团创办人发诗《焚书坑》喻今？股价暴跌</a></li>
 <li><a href="/comments/20210511/1543986.md">富豪的代价：一家四口华山跳崖前最后一夜</a></li>
-<li><a href="/cnnews/20210511/1544078.md">深夜大风暴！拼多多暴跌1300亿！“水滴筹”又崩了，最惨的是...</a></li>
 <li><a href="/health/20210511/1543959.md">晚餐决定寿命吗？日本人的晚餐习惯，值得我们学习一下</a></li>
 <li><a href="/headline/20210511/1543690.md">外媒称中国美团王兴抄诗“刘项原来不读书”遭指暗喻国家主席不读书？股价大跌还有约谈</a></li>
 <li><a href="/bannedvideo/20210511/1543903.md">李克强讲话泄密，党媒释新疫情信号；中共萨斯武器化，美促解密病毒来源；印度双重变种病毒传播更强，可躲疫苗抗体；美情报：中共让世界乱序；影片揭美边境再现移民潮【 #晚间新闻 】｜#新唐人电视台</a></li>
-<li><a href="/cbnews/20210511/1543770.md">什么是人类艺术高峰？大五毛孔庆东出言网民骂爆</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210511/1544334.md" target="_blank">【每周一对】上联选唐·元稹 七言律诗: 白日当空天气暖 求下联</a></li>
+<li><a href="/comments/20210511/1544333.md" target="_blank">地狱不收看过天书的人——一位孕妇车祸后的神奇经历</a></li>
 <li><a href="/comments/20210511/1544324.md" target="_blank">【林忌评论】隔离营食物中毒 反映特区管治水准</a></li>
 <li><a href="/comments/20210511/1544322.md" target="_blank">【#两岸要闻5/11】“习思想”入侵教会 网络空间被压缩；马云现身苍老消瘦 传被限制出境；数字人民币试验效果差；“效忠草案”通过前 至少20区议员辞职；武汉狂风暴雨两名高空作业工人亡【#希望之声TV】</a></li>
 <li><a href="/comments/20210511/1544313.md" target="_blank">端点星备份疫情文章案疑走过场 两义工“认罪”</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210511/1544106.md" target="_blank">最天然的降压处方！每天吃一次，血压降下来</a></li>
 <li><a href="/comments/20210511/1544105.md" target="_blank">为什么失智症患者爱生气、爱骂人？</a></li>
 <li><a href="/comments/20210511/1544104.md" target="_blank">4种水果是地雷 多吃当心脂肪肝</a></li>
-<li><a href="/comments/20210511/1544103.md" target="_blank">每天走路逾7千步，远离疾病风险</a></li>
-<li><a href="/comments/20210511/1544081.md" target="_blank">林郑：隔离营饭盒“有啲问题” 离营有“混乱” 向隔离市民表示歉意</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210328/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
+<li><a href="/lifebaike/20210222/1491794.md" target="_blank">一本美国禁书 揭开科学界黑幕</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20180307/911097.md" target="_blank">治国大道(一)：皇道无为</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20200828/1386804.md" target="_blank">揭秘美国军方和CIA在70年代对超能力的研究，洞悉鲜为人知的“遥视实验”！（探索与洞见第24集 2020年8月27日）</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
