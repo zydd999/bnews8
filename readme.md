@@ -7,8 +7,8 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210511/1543910.md">8个人7个阳性，唯一没感染的居然是没注射疫苗的人</a></li>
 <li><a href="/topimagenews/20210511/1544116.md">李克强说漏? 戳穿中共谎言，先兆信号到了？人口普查迟迟不公布，网已知道结果</a></li>
-<li><a href="/cbnews/20210511/1544039.md">第七次全国人口普查结果公布 大陆网友：不信</a></li>
 <li><a href="/cbnews/20210511/1544061.md">民航机在印度新德里上空喷洒液体新变种病毒</a></li>
+<li><a href="/cbnews/20210511/1544039.md">第七次全国人口普查结果公布 大陆网友：不信</a></li>
 <li><a href="/worldnews/20210511/1543862.md">网红竟把翘臀练炸了！现场惨不忍睹</a></li>
 <li><a href="/topimagenews/20210511/1543978.md">以色列：“我们动手了，再说一次，我们动手了，攻击了加萨的军事目标”</a></li>
 <li><a href="/cnnews/20210511/1543774.md">大灾难？贵阳夜空惊现“红色幽灵”</a></li>
@@ -16,8 +16,8 @@
 <li><a href="/cbnews/20210511/1543843.md">“杭州杀妻案”后续：事发小区大量租户搬离</a></li>
 <li><a href="/topimagenews/20210511/1544302.md">美5G网速竟比中国快7倍；华为残了，经销商嫌弃；数字人民币试验，百姓不买账</a></li>
 <li><a href="/topimagenews/20210511/1544161.md">150多枚火箭弹射向以色列！以色列立刻还击 干掉11名恐怖组织分子</a></li>
-<li><a href="/bannedvideo/20210511/1544265.md">李克强又说实话曝光大陆疫情真相卸任前怼习近平一把 2021年5月11日</a></li>
 <li><a href="/cbnews/20210511/1544362.md">大陆成都49中学生坠楼内幕惊人 被推下楼之前遭泼硫酸</a></li>
+<li><a href="/bannedvideo/20210511/1544265.md">李克强又说实话曝光大陆疫情真相卸任前怼习近平一把 2021年5月11日</a></li>
 <li><a href="/bannedvideo/20210511/1544153.md">网友：5月10日，北京机场，一架滑行准备起飞的飞机上，一名经济舱的女子坐到公务舱中，并躺在公务舱的座椅上。自称是北京大学法律系的，最后女子被中共公安架走</a></li>
 <li><a href="/comments/20210511/1544207.md">司徒剑：习近平挫败“湖北帮” 曝三个潜规则</a></li>
 <li><a href="/cnnews/20210511/1544078.md">深夜大风暴！拼多多暴跌1300亿！“水滴筹”又崩了，最惨的是...</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/bannedvideo/20210511/1544185.md">独家！中国第七次全国人口普查数据的致命漏洞--天钧政经</a></li>
 <li><a href="/comments/20210511/1543986.md">富豪的代价：一家四口华山跳崖前最后一夜</a></li>
 <li><a href="/lifebaike/20210511/1544167.md">最没用的家电TOP3，劝你有钱也别买</a></li>
-<li><a href="/cbnews/20210511/1544163.md">分析：央视发表夸习母文章 用党性压人性</a></li>
+<li><a href="/bannedvideo/20210511/1544301.md">陈破空：斗争升级！习近平隔空回应温家宝：我就是不退！凭特权高捧习母。文中泄露隐秘</a></li>
 <li><a href="/bannedvideo/20210511/1543903.md">李克强讲话泄密，党媒释新疫情信号；中共萨斯武器化，美促解密病毒来源；印度双重变种病毒传播更强，可躲疫苗抗体；美情报：中共让世界乱序；影片揭美边境再现移民潮【 #晚间新闻 】｜#新唐人电视台</a></li>
-<li><a href="/health/20210511/1543959.md">晚餐决定寿命吗？日本人的晚餐习惯，值得我们学习一下</a></li>
+<li><a href="/yule/20210511/1544321.md">毛宁隐藏多年的老婆 竟是我们熟悉的她</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210512/1544493.md" target="_blank">以哈冲突升级 传以色列动员5千士兵增援</a></li>
 <li><a href="/comments/20210512/1544483.md" target="_blank">不点名再批《苹果》报道“生安白造” 再提“假新闻” 邓炳强：呢个机构是否煽动仇恨？</a></li>
 <li><a href="/comments/20210512/1544482.md" target="_blank">被问会否取缔支联会、民阵、《苹果》 林郑：依法办事 看搜集到什么证据</a></li>
 <li><a href="/comments/20210512/1544481.md" target="_blank">邓炳强：叫“结束一党专政”是否违法 视乎多个因素 包括内心动机</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210511/1544401.md" target="_blank">讨论中共对台施压 美日防长下月同赴新加坡安全会议</a></li>
 <li><a href="/comments/20210511/1544400.md" target="_blank">【摄影】带您去旅游 （1）</a></li>
 <li><a href="/comments/20210511/1544361.md" target="_blank">时事大家谈：美国支持豁免新冠疫苗专利保护，北京为何作壁上观？</a></li>
-<li><a href="/comments/20210511/1544354.md" target="_blank">【区议员宣誓】新同盟北区区议员林淑菁辞职 向选民致歉</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20180311/913065.md" target="_blank">治国大道(五)：何为中国</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20180318/916241.md" target="_blank">治国大道(十二)：道德真鉴</a></li>
-<li><a href="/comments/20200426/1319648.md" target="_blank">第三只眼睛带你看世界（上部）神话密码解译：（一）女娲造人</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
-<li><a href="/comments/20200623/1273653.md" target="_blank">视频：水浒英雄是神将转世，今天抗击中共的人多是天上来客</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210403/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
