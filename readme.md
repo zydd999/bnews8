@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20210510/1543173.md">江苏的计划生育模范县 县城基本彻底荒废</a></li>
 <li><a href="/bannedvideo/20210510/1543365.md">一件事情表明 习近平二十大连任没戏 江派又使离间计（启明笑谈20210510）</a></li>
 <li><a href="/cnnews/20210510/1543482.md">人口普查结果还未公布 大陆网友已经猜到结果了</a></li>
-<li><a href="/cbnews/20210510/1543165.md">上海迪士尼“小熊维尼”遭痛殴 陆媒的操作傻眼了</a></li>
 <li><a href="/cbnews/20210510/1543376.md">习近平将是“最后的王者”班农揭中共续命黑幕</a></li>
 <li><a href="/cnnews/20210510/1543279.md">学马云演讲？美团CEO王兴发“反诗”</a></li>
 <li><a href="/comments/20210510/1543089.md">川普王者归来，共和党参众两院集体倒戈反川要员</a></li>
 <li><a href="/lifebaike/20210510/1543206.md">丈夫偷情，妻子给丈夫偷偷喂1级致癌物，潜伏期只有2周</a></li>
 <li><a href="/cbnews/20210510/1543195.md">研判中澳财经对抗大背景 习近平惨了，被内部泄密没牌了</a></li>
-<li><a href="/comments/20210510/1543167.md">被熟人强奸女子：报警后痛苦程度超过被强奸</a></li>
 <li><a href="/comments/20210510/1543285.md">中国惊现368亿元“豆腐渣”工程 未完工就坍塌了</a></li>
 <li><a href="/cbnews/20210510/1543403.md">太可怕了？武汉午后白昼如夜 暴雨倾盆</a></li>
 <li><a href="/cnnews/20210510/1543604.md">曾参加89游行的王石 上海豪宅曝光：面积1000平 5小时才能逛完</a></li>
-<li><a href="/baitai/20210510/1543162.md">林立果的照片和林豆豆的对象</a></li>
 <li><a href="/cnnews/20210510/1543505.md">美军拦截查获中式武器 中共要害在这！进口暴增 领土?惊爆中共正在不丹建村</a></li>
 <li><a href="/cnnews/20210510/1543492.md">新冠治愈出院回家 倒地死在家门前50米</a></li>
-<li><a href="/cnnews/20210510/1543383.md">特斯拉车主丈夫又说啥了？ 网友讽：别怂 ，坚决讹到底</a></li>
-<li><a href="/comments/20210510/1543293.md">(午夜新闻5/9）美最大燃油管道遭攻击；美军查获大批中俄走私武器；中共火箭坠落 胡锡进放话还要密集发射；中使馆办画赛被打脸中国医生曝肿瘤治疗黑幕【希望之声TV】</a></li>
 <li><a href="/comments/20210511/1543680.md">现身活动现身 马云变样了！身消瘦皱纹白发多</a></li>
+<li><a href="/cnnews/20210510/1543383.md">特斯拉车主丈夫又说啥了？ 网友讽：别怂 ，坚决讹到底</a></li>
 <li><a href="/topimagenews/20210511/1543692.md">“万物狂涨”有排癫 通胀大时代中国成关键</a></li>
-<li><a href="/bannedvideo/20210510/1543532.md">证据：第三次大战正在发生⋯⋯他们早在计画中！要凉！</a></li>
+<li><a href="/comments/20210510/1543293.md">(午夜新闻5/9）美最大燃油管道遭攻击；美军查获大批中俄走私武器；中共火箭坠落 胡锡进放话还要密集发射；中使馆办画赛被打脸中国医生曝肿瘤治疗黑幕【希望之声TV】</a></li>
 <li><a href="/finance/20210511/1543694.md">华为手机坠落神坛 经销商嫌弃：甚么都不重要了</a></li>
+<li><a href="/bannedvideo/20210511/1543718.md">消息人士：川普总统定于7月4日在拉什莫尔山回归 海军是川普的强力后盾 80%军方高层投票支持川普 米利将军和国民警卫队将军被捕  鲍威尔是一名军事律师 她被调离川普身边内幕：从军事的角度从事法庭工作</a></li>
+<li><a href="/bannedvideo/20210510/1543532.md">证据：第三次大战正在发生⋯⋯他们早在计画中！要凉！</a></li>
+<li><a href="/cnnews/20210510/1543623.md">正部级官员点破：在官场怎样让一件事干不成？相反…</a></li>
 <li><a href="/health/20210510/1543377.md">“长寿菜”控血压、护血管，钙含量比牛奶还高！现在正应季</a></li>
+<li><a href="/comments/20210511/1543714.md">老蛮：中国经济面临最大麻烦</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210511/1543891.md" target="_blank">绝！你在哪天出生，就是哪首诗</a></li>
 <li><a href="/comments/20210511/1543879.md" target="_blank">打击假货 亚马逊删除100亿条假货信息</a></li>
 <li><a href="/comments/20210511/1543878.md" target="_blank">全球仅三个 乾隆时期皇室茶壶在英拍卖39万英镑</a></li>
 <li><a href="/comments/20210511/1543877.md" target="_blank">美国母亲节假期 航空旅行人数暴增达疫期峰值</a></li>
@@ -122,7 +123,6 @@
 <li><a href="/comments/20210511/1543763.md" target="_blank">【#中国时局5/10】招魂文革 揭幕中共内斗巅峰对决？</a></li>
 <li><a href="/comments/20210511/1543754.md" target="_blank">分析师：美输油管遭网攻 恐引油价飙升</a></li>
 <li><a href="/comments/20210511/1543753.md" target="_blank">白宫幕僚长：拜登不会低估川普2024参选的实力</a></li>
-<li><a href="/comments/20210511/1543752.md" target="_blank">中芯国际去年获25亿政府补贴 占净利近六成</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200702/1354076.md" target="_blank">起底中共病毒的纪录片：世纪之掩盖</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 <li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200901/1451956.md" target="_blank">Brain Chip Implant with NanoTech Enslaves Humanity on 5G AI中共和埃隆∙马斯克用量子科技植入脑芯片, 将借由5G AI奴役人类</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/topimagenews/20200513/1327828.md" target="_blank">天才预言家珍妮 预言2020年大决战</a></li>
+<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210331/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210207/1482940.md" target="_blank">马斯克派犀利评论：法轮功媒体都是坏人？嘿嘿，你良心不痛么？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
