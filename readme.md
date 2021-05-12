@@ -7,7 +7,6 @@
 <li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/jnews</b></li>
 <li><a href="/cbnews/20210511/1544362.md">大陆成都49中学生坠楼内幕惊人 被推下楼之前遭泼硫酸</a></li>
 <li><a href="/cbnews/20210512/1544563.md">成都大批民众聚集49中校门口要真相</a></li>
-<li><a href="/topimagenews/20210511/1544302.md">美5G网速竟比中国快7倍；华为残了，经销商嫌弃；数字人民币试验，百姓不买账</a></li>
 <li><a href="/comments/20210512/1544761.md">重磅爆料：习近平女婿新鲜出炉？照片曝光</a></li>
 <li><a href="/cnnews/20210512/1544551.md">“习近平”题下配皇帝图 《新京报》前社长罪成</a></li>
 <li><a href="/cnnews/20210512/1544549.md">能画成都49中的事情吗？乌合麒麟这样回答</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/bannedvideo/20210512/1544595.md">成都49中学生离奇死亡，中共高层介入？警方下定论称家属“无异议”，网民不服，冲击学校要“真相”，遭警方弹压【#秦鹏观察 5/11】</a></li>
 <li><a href="/yule/20210511/1544321.md">毛宁隐藏多年的老婆 竟是我们熟悉的她</a></li>
 <li><a href="/cbnews/20210512/1544581.md">马云现身阿里巴巴 网友：落魄憔悴 还搓泥</a></li>
-<li><a href="/bannedvideo/20210511/1544301.md">陈破空：斗争升级！习近平隔空回应温家宝：我就是不退！凭特权高捧习母。文中泄露隐秘</a></li>
 <li><a href="/yule/20210512/1544571.md">骗了娱乐圈21年！张曼玉不嫁原因曝光</a></li>
 <li><a href="/bannedvideo/20210511/1544326.md">成都49中的真相！墙内网络铺天盖地的洗地！母亲节失去儿子！索多玛民风淳朴！</a></li>
 <li><a href="/comments/20210512/1544800.md">华春莹送女儿去美国留学 美国买房给女儿住 母女合照曝光 中南海谣言预言_458</a></li>
+<li><a href="/cbnews/20210512/1544789.md">戴自更被查内幕？新京报头版疑影射习近平想做皇帝</a></li>
 <li><a href="/cbnews/20210512/1544688.md">天亮时分：中共承认新冠死亡500万？川普说偷走的东西必须归还！大纪元记者梁珍香港遇袭（政论天下第422集 20210511）</a></li>
 <li><a href="/ssgc/20210512/1544522.md">〖兲朝浮世绘〗在兲朝上学变成了催命符</a></li>
-<li><a href="/cbnews/20210512/1544789.md">戴自更被查内幕？新京报头版疑影射习近平想做皇帝</a></li>
+<li><a href="/cbnews/20210512/1544818.md">江峰：郭德纲被围剿，中共文艺整肃运动开始；姜昆是个人恩怨还是党宣与艺术之争？【江峰漫谈20210511第322期】</a></li>
 <li><a href="/cnnews/20210512/1544548.md">大陆吃播主25岁买豪车 为钱催吐嘴角全烂牙发黑</a></li>
 <li><a href="/comments/20210512/1544432.md">郭德纲麻烦来了？大陆演艺界再释整肃信号</a></li>
 <li><a href="/lifebaike/20210512/1544547.md">深度揭露：那些在美国“假装”留学的人</a></li>
 <li><a href="/cnnews/20210512/1544569.md">火星照片现新物种 生命证据实锤 ？</a></li>
+<li><a href="/lifebaike/20210512/1544586.md">上甘岭战役真相</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -67,6 +67,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20210512/1544992.md" target="_blank">特斯拉暂停扩建上海厂；中国半导体落后两到三代；茅台5连跌蒸发万亿</a></li>
 <li><a href="/topimagenews/20210512/1544931.md" target="_blank">2020年死亡1427万人！甚至最令人无法理解的是&#8230;</a></li>
 <li><a href="/topimagenews/20210512/1544826.md" target="_blank">新巨舰直切南海？美军上将：对抗中共威胁</a></li>
 <li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
@@ -91,7 +92,6 @@
 <li><a href="/topimagenews/20210507/1541541.md" target="_blank">美女翻译被传插足盖茨婚姻 被爆背景不单纯</a></li>
 <li><a href="/topimagenews/20210507/1541452.md" target="_blank">全傻眼！特斯拉女车主起诉了 竟然是起诉的这个…网友直呼：醉了</a></li>
 <li><a href="/topimagenews/20210507/1541400.md" target="_blank">腾讯高管奇葩“青年睡觉论”遭2万人出征</a></li>
-<li><a href="/topimagenews/20210507/1541328.md" target="_blank">川普炮轰国耻 蓬佩奥抨击CIA不顾国安 白宫吊销大纪元国会采访证 17名议员要求恢复</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20180312/913459.md" target="_blank">治国大道(六)：治国三宝</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200819/1382346.md" target="_blank">全球退党中心推在线办理“退党证书”服务</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20210119/1470579.md" target="_blank">人类的终极对决❗中共 外星人齐上阵❓❗</a></li>
-<li><a href="/tculture/20190101/792146.md" target="_blank">乐舞仙踪之六：有乐几变 感天降神</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20210512/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/ccpdope/20200412/1311165.md" target="_blank">中共病毒溯源 独家纪录片揭真相</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/comments/20200609/1342224.md" target="_blank">神话密码解译：一、女娲造人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
 
 </ul>
 </div>
