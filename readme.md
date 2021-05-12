@@ -36,6 +36,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20210512/1544617.md" target="_blank">澳洲专家：《环球时报》发出导弹袭击威胁 澳应“关闭中国大使馆”</a></li>
+<li><a href="/comments/20210512/1544616.md" target="_blank">【#新闻焦点解读05/11】CIA报告：失控的世界 中共主导的乱序。主持:高洁  嘉宾:林晓旭 蓝述【#希望之声TV】</a></li>
 <li><a href="/comments/20210512/1544603.md" target="_blank">【#每日头条5/11】数百法军人警告：内战一触即发；科技巨头联盟 吁提供国产芯片补助；英要选民出示ID确保选举诚信；假推特帐号将中共讯息推向世界；NASA在太空成功种植新鲜蔬菜7PM【希望之声TV】</a></li>
 <li><a href="/comments/20210512/1544596.md" target="_blank">【#新闻焦点解读05/11】失控的世界 中共主导的乱序  主持:高洁  嘉宾:林晓旭  蓝述【#希望之声TV】</a></li>
 <li><a href="/cbnews/20210512/1544582.md" target="_blank">蔡英文哥本哈根峰会讲演：普世价值将引领人类走向更美好未来</a></li>
@@ -59,8 +61,6 @@
 <li><a href="/cbnews/20210511/1544198.md" target="_blank">法轮功小弟子恭贺世界法轮大法日暨李洪志大师华诞</a></li>
 <li><a href="/cbnews/20210511/1544163.md" target="_blank">分析：央视发表夸习母文章 用党性压人性</a></li>
 <li><a href="/cbnews/20210511/1544088.md" target="_blank">中纪委原派驻烟草专卖局纪检组长潘家华被查</a></li>
-<li><a href="/cbnews/20210511/1544072.md" target="_blank">江峰：状告中南海！美地方政府疫情追责，关键时刻中共军方反帮一把：病毒乃生物武器；中国人民98%信任政府，你信么？</a></li>
-<li><a href="/cbnews/20210511/1544061.md" target="_blank">民航机在印度新德里上空喷洒液体新变种病毒</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210512/1544622.md" target="_blank">佛罗里达现巴西变种新突变</a></li>
+<li><a href="/comments/20210512/1544620.md" target="_blank">想解决人口问题，请先尊重人的问题</a></li>
+<li><a href="/comments/20210512/1544616.md" target="_blank">【#新闻焦点解读05/11】CIA报告：失控的世界 中共主导的乱序。主持:高洁  嘉宾:林晓旭 蓝述【#希望之声TV】</a></li>
 <li><a href="/comments/20210512/1544610.md" target="_blank">美国商会颁白皮书 谴责中共对外企不公对待</a></li>
 <li><a href="/comments/20210512/1544609.md" target="_blank">专家解析：为什么我们会梦到被人追？</a></li>
 <li><a href="/comments/20210512/1544603.md" target="_blank">【#每日头条5/11】数百法军人警告：内战一触即发；科技巨头联盟 吁提供国产芯片补助；英要选民出示ID确保选举诚信；假推特帐号将中共讯息推向世界；NASA在太空成功种植新鲜蔬菜7PM【希望之声TV】</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210512/1544500.md" target="_blank">南宋灭亡前出现了哪些异象~</a></li>
 <li><a href="/comments/20210512/1544499.md" target="_blank">哈马斯发数十枚火箭弹袭击 以色列启动军事行动</a></li>
 <li><a href="/comments/20210512/1544493.md" target="_blank">以哈冲突升级 传以色列动员5千士兵增援</a></li>
-<li><a href="/comments/20210512/1544483.md" target="_blank">不点名再批《苹果》报道“生安白造” 再提“假新闻” 邓炳强：呢个机构是否煽动仇恨？</a></li>
-<li><a href="/comments/20210512/1544482.md" target="_blank">被问会否取缔支联会、民阵、《苹果》 林郑：依法办事 看搜集到什么证据</a></li>
-<li><a href="/comments/20210512/1544481.md" target="_blank">邓炳强：叫“结束一党专政”是否违法 视乎多个因素 包括内心动机</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210223/1492497.md" target="_blank">中国古代黑科技人工智能玄术奇器 令人叹为观止今人不及</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20180320/916962.md" target="_blank">治国大道(十四)：法家之术</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/tculture/20190101/1056889.md" target="_blank">乐舞仙踪之三：落尘化物　神隐仙伏</a></li>
-<li><a href="/comments/20200908/1392745.md" target="_blank">川普生死之战：详解贸易战谜局 左右派惨斗</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20180309/912114.md" target="_blank">治国大道(三)：无为而治</a></li>
+<li><a href="/tculture/20190101/791144.md" target="_blank">乐舞仙踪之四：人神之际 中西和弦</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
