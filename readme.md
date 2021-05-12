@@ -9,10 +9,10 @@
 <li><a href="/topimagenews/20210511/1544116.md">李克强说漏? 戳穿中共谎言，先兆信号到了？人口普查迟迟不公布，网已知道结果</a></li>
 <li><a href="/cbnews/20210511/1544362.md">大陆成都49中学生坠楼内幕惊人 被推下楼之前遭泼硫酸</a></li>
 <li><a href="/ssgc/20210511/1544222.md">中国公布人口逾14亿 数据错漏百出引广泛质疑</a></li>
-<li><a href="/topimagenews/20210511/1544302.md">美5G网速竟比中国快7倍；华为残了，经销商嫌弃；数字人民币试验，百姓不买账</a></li>
 <li><a href="/cbnews/20210512/1544563.md">成都大批民众聚集49中校门口要真相</a></li>
-<li><a href="/topimagenews/20210511/1544161.md">150多枚火箭弹射向以色列！以色列立刻还击 干掉11名恐怖组织分子</a></li>
+<li><a href="/topimagenews/20210511/1544302.md">美5G网速竟比中国快7倍；华为残了，经销商嫌弃；数字人民币试验，百姓不买账</a></li>
 <li><a href="/bannedvideo/20210511/1544265.md">李克强又说实话曝光大陆疫情真相卸任前怼习近平一把 2021年5月11日</a></li>
+<li><a href="/topimagenews/20210511/1544161.md">150多枚火箭弹射向以色列！以色列立刻还击 干掉11名恐怖组织分子</a></li>
 <li><a href="/comments/20210511/1544207.md">司徒剑：习近平挫败“湖北帮” 曝三个潜规则</a></li>
 <li><a href="/bannedvideo/20210511/1544153.md">网友：5月10日，北京机场，一架滑行准备起飞的飞机上，一名经济舱的女子坐到公务舱中，并躺在公务舱的座椅上。自称是北京大学法律系的，最后女子被中共公安架走</a></li>
 <li><a href="/cbnews/20210511/1544419.md">警方通报成都49中学生坠亡：家属无异议 网民不干了</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/bannedvideo/20210511/1544185.md">独家！中国第七次全国人口普查数据的致命漏洞--天钧政经</a></li>
 <li><a href="/bannedvideo/20210511/1544301.md">陈破空：斗争升级！习近平隔空回应温家宝：我就是不退！凭特权高捧习母。文中泄露隐秘</a></li>
 <li><a href="/lifebaike/20210511/1544167.md">最没用的家电TOP3，劝你有钱也别买</a></li>
-<li><a href="/bannedvideo/20210511/1544326.md">成都49中的真相！墙内网络铺天盖地的洗地！母亲节失去儿子！索多玛民风淳朴！</a></li>
 <li><a href="/cbnews/20210512/1544581.md">马云现身阿里巴巴 网友：落魄憔悴 还搓泥</a></li>
+<li><a href="/bannedvideo/20210511/1544326.md">成都49中的真相！墙内网络铺天盖地的洗地！母亲节失去儿子！索多玛民风淳朴！</a></li>
 <li><a href="/cbnews/20210511/1544163.md">分析：央视发表夸习母文章 用党性压人性</a></li>
 <li><a href="/topimagenews/20210511/1544059.md">小熊维尼被中共媒体封锁！官媒全改称噗噗熊</a></li>
 <li><a href="/yule/20210512/1544571.md">骗了娱乐圈21年！张曼玉不嫁原因曝光</a></li>
@@ -36,6 +36,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210512/1544793.md" target="_blank">【#午夜新闻 5/11】纽时曝中共计划取代BBC及CNN；共军密件曝要用“人造虫子”散播病毒；英首相涉违规 遭国会调查恐被停职 ；美联社调查中共网军帮外交官“制造”支持度；【希望之声TV】</a></li>
 <li><a href="/cbnews/20210512/1544789.md" target="_blank">戴自更被查内幕？新京报头版疑影射习近平想做皇帝</a></li>
 <li><a href="/cbnews/20210512/1544788.md" target="_blank">漂浮的基地 美巨舰将赴西太平洋 剑指中共</a></li>
 <li><a href="/cbnews/20210512/1544745.md" target="_blank">中共战狼外交孟加拉又踢“铁板” 遭强硬回呛</a></li>
@@ -60,7 +61,6 @@
 <li><a href="/cbnews/20210512/1544506.md" target="_blank">青岛豪门恩怨 子称被父夺走公司、逼走2任妻？</a></li>
 <li><a href="/comments/20210512/1544448.md" target="_blank">【#环球看点5/11】蛮来！美舰驱射伊朗13艘快艇；美疫苗瞄向12至15岁青少年；金里奇警告大通胀将至；金球奖再受冲击前景未卜；以空袭   哈玛斯指挥官身亡；大纪元记者遭袭击12pm【#希望之声】</a></li>
 <li><a href="/cbnews/20210511/1544419.md" target="_blank">警方通报成都49中学生坠亡：家属无异议 网民不干了</a></li>
-<li><a href="/cbnews/20210511/1544397.md" target="_blank">澳洲前防长：中共对台威胁严重 战争一触即发</a></li>
 
 </ul>
 </div>
@@ -98,6 +98,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210512/1544800.md" target="_blank">华春莹送女儿去美国留学 美国买房给女儿住 母女合照曝光 中南海谣言预言_458</a></li>
+<li><a href="/comments/20210512/1544793.md" target="_blank">【#午夜新闻 5/11】纽时曝中共计划取代BBC及CNN；共军密件曝要用“人造虫子”散播病毒；英首相涉违规 遭国会调查恐被停职 ；美联社调查中共网军帮外交官“制造”支持度；【希望之声TV】</a></li>
+<li><a href="/comments/20210512/1544792.md" target="_blank">真定假？消息人士曝猛料：习公主找到驸马了</a></li>
 <li><a href="/comments/20210512/1544791.md" target="_blank">邓小平为何把毛泽东像当作“夜壶”来用？</a></li>
 <li><a href="/comments/20210512/1544784.md" target="_blank">习近平女儿习明泽丈夫竟然是再婚？身份与照片曝光 前妻也是一名红三代 中南海谣言预言_457</a></li>
 <li><a href="/comments/20210512/1544761.md" target="_blank">重磅爆料：习近平女婿新鲜出炉？照片曝光</a></li>
@@ -120,9 +123,6 @@
 <li><a href="/comments/20210512/1544622.md" target="_blank">佛罗里达现巴西变种新突变</a></li>
 <li><a href="/comments/20210512/1544620.md" target="_blank">想解决人口问题，请先尊重人的问题</a></li>
 <li><a href="/comments/20210512/1544616.md" target="_blank">【#新闻焦点解读05/11】CIA报告：失控的世界 中共主导的乱序。主持:高洁  嘉宾:林晓旭 蓝述【#希望之声TV】</a></li>
-<li><a href="/comments/20210512/1544610.md" target="_blank">美国商会颁白皮书 谴责中共对外企不公对待</a></li>
-<li><a href="/comments/20210512/1544609.md" target="_blank">专家解析：为什么我们会梦到被人追？</a></li>
-<li><a href="/comments/20210512/1544603.md" target="_blank">【#每日头条5/11】数百法军人警告：内战一触即发；科技巨头联盟 吁提供国产芯片补助；英要选民出示ID确保选举诚信；假推特帐号将中共讯息推向世界；NASA在太空成功种植新鲜蔬菜7PM【希望之声TV】</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180322/917868.md" target="_blank">治国大道(十五)：道德之源</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200308/1290182.md" target="_blank">《功夫熊猫》启示：正邪决战正在激烈展开，每个人都需选择</a></li>
-<li><a href="/comments/20210329/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cnnews/20201226/1455352.md" target="_blank">人类要有大麻烦了！世卫沦为政治工具 背后黑手有啥大阴谋？【阿波罗网编译】</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20180315/914943.md" target="_blank">治国大道(九)：礼治模型</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20050116/727099.md" target="_blank">曹长青：和“去世”三年的关贵敏谈三小时</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/topimagenews/20180327/919935.md" target="_blank">一路圣缘：摩天国与金字塔（十九）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
+<li><a href="/cbnews/20180310/912637.md" target="_blank">治国大道(四)：王霸之道</a></li>
+<li><a href="/comments/20210312/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200427/1319933.md" target="_blank">在美国 为什么多数犹太人「左倾」？数据很吓人</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
