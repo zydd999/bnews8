@@ -22,9 +22,9 @@
 <li><a href="/cbnews/20210513/1545657.md">安徽六安患者检测呈阳性 医院已完全封闭 医生都出不去</a></li>
 <li><a href="/comments/20210513/1545403.md">李燕铭：胡春华国务院大秘调职 胡春华罕见代替刘鹤陪同习近平考察河南 卸任副总理前兆？北京内部信息：习近平考虑让胡春华取代刘鹤担任跟美国谈判的经济特使 一天传出三大消息 胡春华成二十大高层人事博弈焦点之一</a></li>
 <li><a href="/cnnews/20210513/1545632.md">闪现崩盘！比特币突发跳水：28万人爆仓、1小时爆仓超128亿</a></li>
-<li><a href="/ssgc/20210513/1545327.md">为刺激生育 中国或将整顿辅导班市场</a></li>
 <li><a href="/health/20210513/1545467.md">诺贝尔重大发现：决定人寿命长短的不是吃和运动，而是…</a></li>
 <li><a href="/comments/20210513/1545450.md">颜纯钩：坐稳系好安全带！中国准备过凶险的日子</a></li>
+<li><a href="/ssgc/20210513/1545327.md">为刺激生育 中国或将整顿辅导班市场</a></li>
 <li><a href="/cnnews/20210513/1545454.md">习近平刘鹤有分歧？胡春华被爆或任习特使</a></li>
 <li><a href="/cnnews/20210513/1545640.md">吉林医院院长被举报 把女纪委书记发展成情人</a></li>
 <li><a href="/cbnews/20210513/1545775.md">习近平“足球梦”破灭 不满刘鹤？胡春华被爆或任习特使 房产税上路？四部门联合商讨</a></li>
@@ -98,6 +98,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210514/1545982.md" target="_blank">9岁小暖男寄信慰问 英国女王亲自回复</a></li>
+<li><a href="/comments/20210514/1545981.md" target="_blank">才结婚数小时！新娘染疫身亡 丈夫忍痛送最后一程</a></li>
 <li><a href="/comments/20210514/1545980.md" target="_blank">金里奇：脸书卖国 封杀美前总统却纵容中共</a></li>
 <li><a href="/comments/20210514/1545979.md" target="_blank">中国东北人口流失超千万 12省人口深度老龄化</a></li>
 <li><a href="/comments/20210514/1545973.md" target="_blank">“贺师尊华诞暨法轮大法洪传29周年” 5200台湾法轮功学员排字</a></li>
@@ -121,8 +123,6 @@
 <li><a href="/comments/20210513/1545886.md" target="_blank">横河：美国为什么制裁这位中共610官员</a></li>
 <li><a href="/comments/20210513/1545874.md" target="_blank">习近平刘鹤有分歧？胡春华被爆或任中方特使【希望之声TV】</a></li>
 <li><a href="/comments/20210513/1545873.md" target="_blank">摄影师镜头下的波兰：诗情画意的美景 让人陶醉</a></li>
-<li><a href="/comments/20210513/1545862.md" target="_blank">美谴责中共迫害宗教自由 新增制裁中共官员</a></li>
-<li><a href="/comments/20210513/1545861.md" target="_blank">上年度 1800 公务员辞职创 14 年新高 梁筹庭：宣誓带来不明朗因素 公务员事务局：比率仍低</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180319/916654.md" target="_blank">治国大道(十三)：法家治国</a></li>
-<li><a href="/comments/20200605/783247.md" target="_blank">中华智慧：四、中医的顺势智慧</a></li>
-<li><a href="/comments/20200624/1349702.md" target="_blank">美国太惨了 几乎被反动势力完全控制了</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全！（探索与洞见第12集 2020年6月3日）</a></li>
-<li><a href="/cbnews/20180308/911611.md" target="_blank">治国大道(二)：帝道立德</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/headline/20200908/1392940.md" target="_blank">新冠ADE初现　疫苗将成炸弹（下）</a></li>
-<li><a href="/comments/20200318/1295755.md" target="_blank">王友群：“中国病毒”实为“中共病毒”</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20170715/791820.md" target="_blank">乐舞仙踪之五：歌舞未竟 三军解甲</a></li>
 <li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200605/1340202.md" target="_blank">中华智慧：一、治国中的顺势智慧</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200620/1347687.md" target="_blank">仲明-武汉肺炎-引人深思的几个比较图表</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bannedvideo/20210227/1495046.md" target="_blank">美国最伟大的预言家 美国衰败 人类的未来在中国正在应验中（启明笑谈20200720）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200621/1348236.md" target="_blank">民主党反智 川普用常识治国</a></li>
+<li><a href="/comments/20210216/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/tculture/20170711/790081.md" target="_blank">乐舞仙踪之二： 忆初临凡 万神来格</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
