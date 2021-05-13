@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20210513/1545571.md">华春莹想害死海外留学生？竟然当众说：太低估了！【阿波罗网报道】</a></li>
 <li><a href="/yule/20210513/1545323.md">关晓彤“真人”长啥样？关掉十级美颜滤镜</a></li>
 <li><a href="/bannedvideo/20210513/1545694.md">曝光习近平女婿身份中共内斗疯狂政局有变?  2021年5月13日</a></li>
-<li><a href="/comments/20210513/1545540.md">传刘鹤要职将被撤 由“他”接手 王岐山被习近平边缘化</a></li>
 <li><a href="/comments/20210513/1545513.md">习近平接班人选有三人，下场注定凄惨。一尊权威是假，继任危机│#熊猫侠</a></li>
+<li><a href="/comments/20210513/1545540.md">传刘鹤要职将被撤 由“他”接手 王岐山被习近平边缘化</a></li>
 <li><a href="/cbnews/20210513/1545822.md">成都49中学生坠亡 官媒终于发现场视频了…但</a></li>
 <li><a href="/lifebaike/20210513/1545473.md">不能没有你 毛泽东“通房大丫头”成高干秘辛</a></li>
 <li><a href="/cbnews/20210513/1545626.md">疫情爆发后 习高层停止外访的背后</a></li>
 <li><a href="/cnnews/20210513/1545396.md">传记作家揭盖茨"狂野生活":风流成性 曾雇舞者</a></li>
 <li><a href="/yule/20210513/1545324.md">从头吃瓜：“港圈大姐大”的包养传闻</a></li>
 <li><a href="/comments/20210513/1545403.md">李燕铭：胡春华国务院大秘调职 胡春华罕见代替刘鹤陪同习近平考察河南 卸任副总理前兆？北京内部信息：习近平考虑让胡春华取代刘鹤担任跟美国谈判的经济特使 一天传出三大消息 胡春华成二十大高层人事博弈焦点之一</a></li>
+<li><a href="/cbnews/20210513/1545657.md">安徽六安患者检测呈阳性 医院已完全封闭 医生都出不去</a></li>
 <li><a href="/cnnews/20210513/1545632.md">闪现崩盘！比特币突发跳水：28万人爆仓、1小时爆仓超128亿</a></li>
 <li><a href="/bannedvideo/20210513/1545763.md">陈破空：劲爆：习公主嫁了！习女婿信息走漏：留美海归再婚。习近平要培养他当接班人？</a></li>
-<li><a href="/cbnews/20210513/1545657.md">安徽六安患者检测呈阳性 医院已完全封闭 医生都出不去</a></li>
 <li><a href="/ssgc/20210513/1545327.md">为刺激生育 中国或将整顿辅导班市场</a></li>
 <li><a href="/health/20210513/1545467.md">诺贝尔重大发现：决定人寿命长短的不是吃和运动，而是…</a></li>
 <li><a href="/comments/20210513/1545450.md">颜纯钩：坐稳系好安全带！中国准备过凶险的日子</a></li>
 <li><a href="/cnnews/20210513/1545454.md">习近平刘鹤有分歧？胡春华被爆或任习特使</a></li>
-<li><a href="/yule/20210513/1545197.md">43岁左小青秀蜘蛛腿，掰腿240度好厉害，拍戏曾被陈道明当众骂哭</a></li>
 <li><a href="/cnnews/20210513/1545640.md">吉林医院院长被举报 把女纪委书记发展成情人</a></li>
+<li><a href="/cnnews/20210513/1545273.md">北京国家信访局门口一男子汽油浇身自焚</a></li>
 <li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -98,6 +98,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20210514/1545961.md" target="_blank">美参院委员会通过科研法案 抗衡中共科技竞争</a></li>
+<li><a href="/comments/20210514/1545960.md" target="_blank">美政府为推疫苗使出浑身解数 议员：不能强为</a></li>
+<li><a href="/comments/20210514/1545959.md" target="_blank">庆祝法轮大法弘传29周年 澳洲政要纷纷致贺词</a></li>
+<li><a href="/comments/20210514/1545958.md" target="_blank">中国大陆周边国家地区庆贺世界法轮大法日</a></li>
+<li><a href="/comments/20210514/1545957.md" target="_blank">天价罚款令阿里一季度净亏损76.63亿元</a></li>
 <li><a href="/comments/20210514/1545939.md" target="_blank">果糖又不含嘌呤 为什么痛风也不能吃</a></li>
 <li><a href="/comments/20210514/1545938.md" target="_blank">9个健康生活好习惯 你占几个？</a></li>
 <li><a href="/comments/20210514/1545931.md" target="_blank">太古广场外的最后两个小时</a></li>
@@ -118,11 +123,6 @@
 <li><a href="/comments/20210513/1545803.md" target="_blank">💥美国务卿布林肯宣布制裁一名迫害法轮功的中共官员！成都49中事件升级 中共启动维稳模式！【希望之声TV-两岸新闻-2021/05/13】</a></li>
 <li><a href="/comments/20210513/1545802.md" target="_blank">房间隔断屏风：时尚地分隔你的空间–不需要建筑师</a></li>
 <li><a href="/comments/20210513/1545801.md" target="_blank">美谴责中国迫害宗教自由新增制裁中国官员</a></li>
-<li><a href="/comments/20210513/1545779.md" target="_blank">【华府看天下】地位越高越像地痞 乱丢太空垃圾无赖行为怎样炼成？</a></li>
-<li><a href="/comments/20210513/1545769.md" target="_blank">【蔡展鹏受查】立法会保安事务委员会不跟进 主席陈克勤︰只会讨论政策，议员可在大会提质询</a></li>
-<li><a href="/comments/20210513/1545768.md" target="_blank">大学学生会太过“政治化”？</a></li>
-<li><a href="/comments/20210513/1545766.md" target="_blank">无牌按摩店事件 — 大手术令我们远离政治还是更接近？</a></li>
-<li><a href="/comments/20210513/1545760.md" target="_blank">赵映寿：红酒——通往奴役的片断 之八</a></li>
 
 </ul>
 </div>
@@ -130,31 +130,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210202/1479954.md" target="_blank">高速翻墙:高清视频秒开 超低延迟 全平台支持</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20201110/1428663.md" target="_blank">治国大道(十六)：西方大道</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200605/783205.md" target="_blank">科学实验：植物有灵魂，有特异功能</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20190424/913985.md" target="_blank">治国大道(七)：道家治国</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201215/1447764.md" target="_blank">美国辉瑞的新冠疫苗竟如此吓人？看到副作用照片…很多美国人吓坏了！彼岸瓜众却都觉得真的好喜感…</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20160806/568214.md" target="_blank">一路圣缘：摩天国与金字塔（一）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20170717/792953.md" target="_blank">乐舞仙踪之八：审乐知政 祸福前知</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20201110/1428674.md" target="_blank">治国大道(十七)：思维错位</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20190101/792550.md" target="_blank">乐舞仙踪之七：巫风时兴 神迹渐没</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
